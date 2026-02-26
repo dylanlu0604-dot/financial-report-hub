@@ -124,6 +124,11 @@ def main():
     all_reports = []
     for _, module_name, _ in pkgutil.iter_modules(scrapers.__path__):
         if module_name == "utils": continue
+
+        # 🌟 加上這行：如果不是 cathay 就直接跳過不跑
+        if module_name != "cathay": 
+            continue
+        
         try:
             module = importlib.import_module(f"scrapers.{module_name}")
             if hasattr(module, "scrape"):
