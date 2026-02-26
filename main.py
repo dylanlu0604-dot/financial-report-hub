@@ -76,19 +76,16 @@ def main():
 
     print(f"\n📊 總共找到 {len(unique_reports)} 筆符合條件的報告。")
     
-    # 📥 核心：使用 Playwright 模擬真實瀏覽器下載 (解決中信下載問題)
-    print(f"\n{'='*60}\n📥 開始 Playwright 真實下載與分析...\n")
+    # ==========================================
+    # 📥 核心修正：使用 Playwright 獨立視窗下載 (徹底解決檔案重複問題)
+    # ==========================================
+    print(f"\n{'='*60}\n📥 開始 Playwright 獨立視窗下載...\n")
     pdf_folder = "all report pdf"
     os.makedirs(pdf_folder, exist_ok=True)
     
     with sync_playwright() as p:
+        # 啟動瀏覽器
         browser = p.chromium.launch(headless=True)
-        context = browser.new_context(
-            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
-            accept_downloads=True 
-        )
-        page = context.new_page()
-        Stealth().apply_stealth_sync(page)
 
         for i, report in enumerate(unique_reports, 1):
             original_url = report.get('Link', '')
@@ -97,32 +94,49 @@ def main():
             local_filepath = os.path.join(pdf_folder, local_filename)
             encoded_filename = urllib.parse.quote(local_filename)
             
-            # 設定 GitHub 專屬連結
             report['OriginalLink'] = original_url
             report['Link'] = f"{GITHUB_RAW_BASE}/{encoded_filename}"
             report['LocalPath'] = f"{pdf_folder}/{encoded_filename}"
             report['PageCount'] = "未知"
 
-            # 🌟 檢查檔案是否已存在 (避免重複下載)
             if os.path.exists(local_filepath):
                 print(f"[{i}/{len(unique_reports)}] ✅ 檔案已存在: {report['Name'][:15]}...")
             else:
                 try:
-                    print(f"[{i}/{len(unique_reports)}] 📥 下載中: {report['Name'][:15]}...")
+                    print(f"[{i}/{len(unique_reports)}] 📥 獨立視窗抓取: {report['Name'][:15]}...")
+                    
+                    # 🌟 關鍵修正：針對每一份報告開啟「全新的 Context」，防止內容重複
+                    temp_context = browser.new_context(
+                        user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+                        accept_downloads=True 
+                    )
+                    temp_page = temp_context.new_page()
+                    Stealth().apply_stealth_sync(temp_page)
+
                     try:
-                        with page.expect_download(timeout=20000) as download_info:
-                            page.goto(original_url, wait_until="domcontentloaded", timeout=40000)
+                        with temp_page.expect_download(timeout=25000) as download_info:
+                            # 針對中信這類 API 連結，直接 goto 觸發
+                            temp_page.goto(original_url, wait_until="domcontentloaded", timeout=40000)
+                        
                         download = download_info.value
                         download.save_as(local_filepath)
-                    except:
-                        # 備案：頁面直接轉存 PDF 內容
-                        res = context.request.get(page.url)
+                        print(f"    ✅ 下載成功：{local_filename[:20]}...")
+                    except Exception as e:
+                        # 備案：如果沒有觸發下載動作，嘗試抓取內容
+                        res = temp_context.request.get(temp_page.url)
                         if b'%PDF' in res.body()[:10]:
-                            with open(local_filepath, "wb") as f: f.write(res.body())
+                            with open(local_filepath, "wb") as f:
+                                f.write(res.body())
+                            print("    ✅ 轉存成功！")
+                    
+                    # 🌟 執行完立刻關閉當前的視窗與 Context，徹底清空緩存
+                    temp_page.close()
+                    temp_context.close()
+                    
                 except Exception as e:
-                    print(f"    ❌ 下載失敗: {str(e)[:30]}")
+                    print(f"    ❌ 失敗: {str(e)[:30]}")
 
-            # 讀取本地 PDF 頁數
+            # 讀取本地 PDF 頁數 (維持原樣)
             if os.path.exists(local_filepath):
                 try:
                     with pdfplumber.open(local_filepath) as pdf:
