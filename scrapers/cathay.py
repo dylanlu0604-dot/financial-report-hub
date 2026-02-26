@@ -1,3 +1,41 @@
+from bs4 import BeautifulSoup
+import re
+from urllib.parse import urljoin, unquote
+from datetime import datetime
+from playwright.sync_api import sync_playwright
+from playwright_stealth import Stealth
+
+# ==========================================
+# 🛠️ 輔助工具函式
+# ==========================================
+def clean_title(title):
+    return title.replace('\n', ' ').strip()
+
+def extract_date_from_text(text):
+    """嘗試從字串中萃取多種格式的日期"""
+    # 1. 處理 YYYY年MM月DD日 (容許單數月/日)
+    match = re.search(r'([0-9]{4})\s*年\s*([0-9]{1,2})\s*月\s*([0-9]{1,2})\s*日', text)
+    if match:
+        return f"{match.group(1)}-{int(match.group(2)):02d}-{int(match.group(3)):02d}"
+
+    # 2. 處理 民國年 (例如 115年2月5日 -> 2026-02-05)
+    match = re.search(r'(11[0-9])\s*年\s*([0-9]{1,2})\s*月\s*([0-9]{1,2})\s*日', text)
+    if match:
+        year = int(match.group(1)) + 1911
+        return f"{year}-{int(match.group(2)):02d}-{int(match.group(3)):02d}"
+
+    # 3. 處理 YYYY/MM/DD 或 YYYY.MM.DD 或 YYYY-MM-DD (容許單數月/日)
+    match = re.search(r'([0-9]{4})[/.-]([0-9]{1,2})[/.-]([0-9]{1,2})', text)
+    if match:
+        return f"{match.group(1)}-{int(match.group(2)):02d}-{int(match.group(3)):02d}"
+    
+    # 4. 處理 YYYYMMDD (連續8個數字)
+    match = re.search(r'(20[1-3][0-9])([0-1][0-9])([0-3][0-9])', text)
+    if match:
+        return f"{match.group(1)}-{match.group(2)}-{match.group(3)}"
+        
+    return "未知日期"
+
 # ==========================================
 # 🕷️ 主爬蟲程式
 # ==========================================
@@ -78,3 +116,10 @@ def scrape():
 
     print(f"  ✅ Cathay 最終成功收錄 {len(reports)} 筆『投資研究週報』")
     return reports
+
+# 方便您之後單獨測試此檔案的區塊
+if __name__ == "__main__":
+    import pprint
+    result = scrape()
+    print("\n📊 測試爬取結果：")
+    pprint.pprint(result)
