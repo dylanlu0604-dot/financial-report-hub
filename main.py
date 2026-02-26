@@ -188,5 +188,76 @@ def main():
         
     print(f"\n✅ 任務完成！資料已儲存至 data/ 資料夾。")
 
+
+    # ... 前面是原本寫入 reports_for_notebooklm.md 的程式碼 ...
+    with open('data/reports_for_notebooklm.md', 'w', encoding='utf-8') as f:
+        f.write(md_content)
+        
+    # ==========================================
+    # 📡 新增功能：為每個機構生成獨立的 RSS 訂閱源
+    # ==========================================
+    print(f"\n{'='*60}\n📡 開始生成個別機構的 RSS 訂閱源...\n")
+    
+    # 1. 將報告依據 Source 分組
+    reports_by_source = {}
+    for report in unique_reports:
+        source = report.get('Source', 'Unknown')
+        if source not in reports_by_source:
+            reports_by_source[source] = []
+        reports_by_source[source].append(report)
+        
+    # 2. 替每個機構建立獨立的 RSS XML
+    for source, reports in reports_by_source.items():
+        # 將機構名稱轉小寫並替換空白，做為安全的檔名 (例如: rss_cathay.xml)
+        safe_source_name = source.lower().replace(" ", "_")
+        rss_filename = f"data/rss_{safe_source_name}.xml"
+        
+        # 組裝 RSS 標頭
+        rss_content = f"""<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>{source} 財經研究報告</title>
+  <link>https://github.com/您的帳號/您的專案名稱</link>
+  <description>{source} 最新經濟與金融分析報告自動訂閱源</description>
+"""
+        # 寫入每一筆報告
+        for r in reports:
+            # RSS 標準要求日期格式為 RFC 822 (例如: Thu, 26 Feb 2026 00:00:00 +0000)
+            pub_date_str = r.get('Date', '')
+            try:
+                dt = datetime.strptime(pub_date_str, "%Y-%m-%d")
+                pub_date = dt.strftime("%a, %d %b %Y 00:00:00 +0000")
+            except:
+                pub_date = pub_date_str # 若格式不符則原樣輸出
+
+            # 處理 XML 特殊字元跳脫
+            title = str(r.get('Name', '')).replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+            link = str(r.get('Link', '')).replace("&", "&amp;")
+            
+            # 摘要內容可能包含 Markdown 或換行，使用 CDATA 包覆最安全
+            summary = r.get('Summary', '無摘要')
+            
+            rss_content += f"""  <item>
+    <title>{title}</title>
+    <link>{link}</link>
+    <description><![CDATA[{summary}]]></description>
+    <pubDate>{pub_date}</pubDate>
+  </item>
+"""
+        
+        # 關閉 RSS 標籤
+        rss_content += """</channel>\n</rss>"""
+        
+        # 寫入檔案
+        with open(rss_filename, 'w', encoding='utf-8') as f:
+            f.write(rss_content)
+        
+        print(f"  ✔️ 已生成 {rss_filename} (共 {len(reports)} 筆)")
+
+    print(f"\n✅ 任務完成！所有資料（含 RSS）已儲存至 data/ 資料夾。")
+
+if __name__ == "__main__":
+    main()
+
 if __name__ == "__main__":
     main()
