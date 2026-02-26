@@ -39,8 +39,7 @@ def scrape():
     reports = []
     captured_api_json = []
 
-    target_url = "https://www.ctbcbank.com/twrbo/zh_tw/wm_index/wm_investreport/market-comment.html"
-
+    target_url = "https://www.ctbcbank.com/twrbc/twrbc-general/ot010/020"
     try:
         with sync_playwright() as p:
             browser = p.chromium.launch(headless=True)
