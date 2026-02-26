@@ -47,7 +47,7 @@ def scrape():
         with sync_playwright() as p:
             # 💡 提醒：如果在 GitHub Actions 上跑會報錯，記得把 headless 暫時改成 True
             browser = p.chromium.launch(
-                headless=False, # 可以看著它跑，穩定後改 True
+                headless=True, # 可以看著它跑，穩定後改 True
                 args=["--disable-blink-features=AutomationControlled", "--disable-infobars"]
             )
             context = browser.new_context(
