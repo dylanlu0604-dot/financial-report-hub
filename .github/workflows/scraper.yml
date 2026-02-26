@@ -1,4 +1,4 @@
-name: Daily Report Scraper
+name: Daily Financial Report Scraper
 
 on:
   schedule:
