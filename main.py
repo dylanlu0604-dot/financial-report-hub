@@ -17,7 +17,7 @@ load_dotenv()
 # ==========================================
 # ⚙️ 全域設定
 # ==========================================
-ENABLE_AI_SUMMARY = True  
+ENABLE_AI_SUMMARY = False  
 
 API_KEYS = [
     os.getenv("OPENROUTER_API_KEY"),
