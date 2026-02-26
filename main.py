@@ -205,12 +205,18 @@ def main():
     with open('data/reports.json', 'w', encoding='utf-8') as f:
         json.dump(unique_reports, f, ensure_ascii=False, indent=2)
         
+# 📝 組合 Markdown 內容
     md_content = "# 📊 最新財經報告總覽\n\n"
     for report in unique_reports:
+        page_str = report.get('PageCount', '未知')
         md_content += f"### {report['Name']}\n"
-        md_content += f"- **來源**: {report['Source']} | **日期**: {report['Date']}\n"
-        md_content += f"- **AI 摘要**: {report.get('Summary', '無摘要')}\n"
-        md_content += f"- [查看原始報告]({report['Link']})\n\n---\n"
+        # 🌟 在這裡加上頁數
+        md_content += f"來源: {report['Source']} | 日期: {report['Date']} | 頁數: {page_str} 頁\n"
+        md_content += f"AI 摘要: {report.get('Summary', '未執行 AI 摘要')}\n"
+        md_content += f"[查看原始報告]({report['Link']})\n\n"
+        
+    # 🌐 如果您的程式碼中有產生 index.html 的邏輯，也請在對應的地方加上：
+    # 例如： html_content += f"<p>來源: {report['Source']} | 日期: {report['Date']} | 頁數: {page_str} 頁</p>"
         
     with open('data/reports_for_notebooklm.md', 'w', encoding='utf-8') as f:
         f.write(md_content)
@@ -263,13 +269,24 @@ def main():
             title = str(r.get('Name', '')).replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
             link = str(r.get('Link', '')).replace("&", "&amp;")
             
-            # 摘要內容可能包含 Markdown 或換行，使用 CDATA 包覆最安全
-            summary = r.get('Summary', '無摘要')
+            # 🌟 處理摘要：如果是未執行 AI，則留白，不要印出礙眼的文字
+            summary = r.get('Summary', '')
+            if "未執行 AI 摘要" in summary:
+                summary = "" 
+                
+            # 🌟 取得頁數
+            page_count = r.get('PageCount', '未知')
+            
+            # 🌟 組合 RSS 的 Description (使用 HTML 換行排版)
+            if summary:
+                description_html = f"📄 <b>報告頁數：</b>{page_count} 頁<br><br><b>🤖 AI 摘要：</b><br>{summary}"
+            else:
+                description_html = f"📄 <b>報告頁數：</b>{page_count} 頁"
             
             rss_content += f"""  <item>
     <title>{title}</title>
     <link>{link}</link>
-    <description><![CDATA[{summary}]]></description>
+    <description><![CDATA[{description_html}]]></description>
     <pubDate>{pub_date}</pubDate>
   </item>
 """
