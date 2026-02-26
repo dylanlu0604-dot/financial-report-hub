@@ -37,11 +37,13 @@ jobs:
         run: python main.py
 
       - name: Commit and push changes
-        # 將爬取後產生的新資料 (例如 data 資料夾內的 JSON/CSV 或 index.html) 推播回 GitHub
+        # 將爬取後產生的新資料 推播回 GitHub
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add data/ index.html # 這裡列出你需要自動更新的檔案或資料夾，也可以直接用 `git add .`
-          # 如果沒有檔案變動則不報錯
-          git commit -m "Auto-update reports data" || echo "No changes to commit"
+          
+          # 🌟 在這裡加上 "all report pdf/" 資料夾
+          git add data/ index.html "all report pdf/" 
+          
+          git commit -m "Auto-update reports and download new PDFs" || echo "No changes to commit"
           git push
