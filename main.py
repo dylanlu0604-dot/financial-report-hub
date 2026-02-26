@@ -105,31 +105,48 @@ def main():
         except Exception as e:
             print(f"  ❌ 載入 {module_name} 失敗: {e}")
 
+
     # ==========================================
-    # 🧹 資料清理：過濾重複與舊資料
+    # 🧹 資料清理：標準化日期、過濾重複與舊資料
     # ==========================================
     unique_reports = []
     seen_links = set()
     
     for report in all_reports:
-        if report['Link'] in seen_links: continue
+        if report['Link'] in seen_links: 
+            continue
         
+        # 🌟 1. 萬用日期格式標準化 (把 年月日、/、. 換成標準的 YYYY-MM-DD)
+        raw_date = str(report.get('Date', '')).replace('年', '-').replace('月', '-').replace('日', '').replace('/', '-').replace('.', '-').replace(' ', '').strip()
+        raw_date = raw_date.rstrip('-') # 去除可能殘留的尾部橫線
+        
+        dt_obj = None
         try:
-            raw_date = report.get('Date', '')
-            if not raw_date or raw_date == "未知日期":
-                unique_reports.append(report)
-                seen_links.add(report['Link'])
-                continue
-                
-            dt = datetime.strptime(raw_date, "%Y-%m-%d")
-            if (datetime.now() - dt).days <= 30:
-                unique_reports.append(report)
-                seen_links.add(report['Link'])
+            if '-' in raw_date:
+                # 確保單數月份也能完美解析 (例如 2026-1-2 -> 2026-01-02)
+                parts = raw_date.split('-')
+                if len(parts) >= 3:
+                    raw_date = f"{parts[0]}-{int(parts[1]):02d}-{int(parts[2]):02d}"
+                dt_obj = datetime.strptime(raw_date, "%Y-%m-%d")
+                report['Date'] = dt_obj.strftime("%Y-%m-%d")
+            elif len(raw_date) == 8 and raw_date.isdigit():
+                dt_obj = datetime.strptime(raw_date, "%Y%m%d")
+                report['Date'] = dt_obj.strftime("%Y-%m-%d")
         except:
+            pass # 如果真的解析失敗，就保留原本的字串
+            
+        # 🌟 2. 判斷是否在 30 天內
+        if report.get('Date') == "未知日期" or not report.get('Date'):
             unique_reports.append(report)
             seen_links.add(report['Link'])
-
-    print(f"\n📊 總共找到 {len(unique_reports)} 筆不重複報告。")
+        elif dt_obj:
+            if (datetime.now() - dt_obj).days <= 30:
+                unique_reports.append(report)
+                seen_links.add(report['Link'])
+        else:
+            # 防呆機制：如果是其他無法解析的奇怪字串，還是先保留避免漏接
+            unique_reports.append(report)
+            seen_links.add(report['Link'])
     
     # ==========================================
     # 📄 擷取 PDF 頁數 (含反阻擋機制)
