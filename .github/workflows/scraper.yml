@@ -1,0 +1,47 @@
+name: Daily Report Scraper
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 每天早上 8 點自動跑
+  workflow_dispatch:    # 允許手動點擊執行
+
+# 設定權限，允許機器人把爬到的資料存回 GitHub
+permissions:
+  contents: write
+
+jobs:
+  scrape-and-update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10' # 可依據你的開發環境調整版本
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          # 確保你的 requirements.txt 裡面有包含 playwright 和 bs4 等套件
+          pip install -r requirements.txt
+
+      - name: Install Playwright Browsers
+        # 這是處理動態網頁的關鍵步驟，只安裝 chromium 即可節省執行時間
+        run: playwright install chromium
+
+      - name: Run Scraper
+        # 執行你的主程式
+        run: python main.py
+
+      - name: Commit and push changes
+        # 將爬取後產生的新資料 (例如 data 資料夾內的 JSON/CSV 或 index.html) 推播回 GitHub
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/ index.html # 這裡列出你需要自動更新的檔案或資料夾，也可以直接用 `git add .`
+          # 如果沒有檔案變動則不報錯
+          git commit -m "Auto-update reports data" || echo "No changes to commit"
+          git push
