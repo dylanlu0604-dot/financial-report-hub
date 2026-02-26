@@ -125,9 +125,17 @@ def main():
     for _, module_name, _ in pkgutil.iter_modules(scrapers.__path__):
         if module_name == "utils": continue
 
-        # 🌟 加上這行：如果不是 cathay 就直接跳過不跑
-        if module_name != "cathay": 
+
+#############################
+        
+        # 🌟 加上這行：指定您想測試的爬蟲模組名稱清單
+        target_scrapers = ["cathay", "ctbc", "ing"] 
+        
+        # 如果目前載入的模組不在上面的清單中，就直接跳過不跑
+        if module_name not in target_scrapers: 
             continue
+#############################
+
         
         try:
             module = importlib.import_module(f"scrapers.{module_name}")
