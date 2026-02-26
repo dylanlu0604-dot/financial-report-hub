@@ -140,14 +140,19 @@ def main():
     with open('data/reports.json', 'w', encoding='utf-8') as f:
         json.dump(unique_reports, f, ensure_ascii=False, indent=2)
 
-    # 1. Markdown
+    # ==========================================
+    # 📝 輸出 1：Markdown 生成 (統一使用 GitHub Raw 連結)
+    # ==========================================
     md_content = "# 📊 最新財經報告總覽\n\n"
     for report in unique_reports:
         md_content += f"### {report['Name']}\n來源: {report['Source']} | 日期: {report['Date']} | 頁數: {report['PageCount']} 頁\n"
+        # 🌟 修正：確保使用 Link (https://raw.githubusercontent.com/...)
         md_content += f"[📥 查看報告]({report['Link']})\n\n"
     with open('data/reports_for_notebooklm.md', 'w', encoding='utf-8') as f: f.write(md_content)
 
-    # 2. HTML (含表格排序)
+    # ==========================================
+    # 🌐 輸出 2：HTML 生成 (將點擊網址改為 Raw 連結)
+    # ==========================================
     html_content = """<!DOCTYPE html>
 <html lang="zh-TW"><head><meta charset="UTF-8"><title>最新財經報告總覽</title>
     <style>
@@ -165,7 +170,8 @@ def main():
     
     for r in unique_reports:
         html_content += f"<tr><td><b>{r['Source']}</b></td><td>{r['Date']}</td><td><span class='page-badge'>{r['PageCount']}</span></td>"
-        html_content += f"<td><a href='{r['LocalPath']}' target='_blank'>{r['Name']}</a></td><td>{r['Summary']}</td></tr>\n"
+        # 🌟 修正：將 href 從 LocalPath 改成 r['Link']，解決網址變成 .github.io 的問題
+        html_content += f"<td><a href='{r['Link']}' target='_blank'>{r['Name']}</a></td><td>{r['Summary']}</td></tr>\n"
 
     html_content += """</tbody></table><script>
     function sortTable(n){
@@ -185,19 +191,27 @@ def main():
     </script></body></html>"""
     with open('index.html', 'w', encoding='utf-8') as f: f.write(html_content)
 
-    # 3. RSS 生成
-    sources = set(r['Source'] for r in unique_reports)
-    for src in sources:
-        src_reports = [r for r in unique_reports if r['Source'] == src]
-        rss_filename = f"data/rss_{src.lower().replace(' ','_')}.xml"
+    # ==========================================
+    # 📡 輸出 3：RSS 生成 (統一使用 GitHub Raw 連結)
+    # ==========================================
+    reports_by_source = {}
+    for report in unique_reports:
+        source = report.get('Source', 'Unknown')
+        if source not in reports_by_source: reports_by_source[source] = []
+        reports_by_source[source].append(report)
+        
+    for source, reports in reports_by_source.items():
+        safe_source_name = source.lower().replace(" ", "_")
+        rss_filename = f"data/rss_{safe_source_name}.xml"
         rss_content = f"""<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0"><channel><title>{src} 財經報告</title><link>https://github.com/{GITHUB_USER}/{GITHUB_REPO}</link>
-<description>{src} 自動更新源</description>\n"""
-        for r in src_reports:
+<rss version="2.0"><channel><title>{source} 財經報告</title><link>https://github.com/{GITHUB_USER}/{GITHUB_REPO}</link>
+<description>{source} 自動更新源</description>\n"""
+        for r in reports:
+            # 🌟 修正：這裡的 r['Link'] 確保是 https://raw.githubusercontent.com/...
             rss_content += f"<item><title>{r['Name']}</title><link>{r['Link']}</link><description><![CDATA[📄 頁數：{r['PageCount']}]]></description><pubDate>{r['Date']}</pubDate></item>\n"
         rss_content += "</channel></rss>"
         with open(rss_filename, 'w', encoding='utf-8') as f: f.write(rss_content)
-
+            
     print(f"\n✅ 任務完成！")
 
 if __name__ == "__main__": main()
