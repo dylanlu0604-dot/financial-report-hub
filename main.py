@@ -10,16 +10,23 @@ import random
 import time
 from datetime import datetime
 from dotenv import load_dotenv
-from bs4 import BeautifulSoup
 
 load_dotenv()
 
 # ==========================================
 # ⚙️ 全域設定
 # ==========================================
+# 🌟 測試期間先關閉 AI，省時省 API 額度
 ENABLE_AI_SUMMARY = False  
 
-API_KEYS = ['aaa','bbb']
+API_KEYS = [
+    os.getenv("OPENROUTER_API_KEY"),
+    os.getenv("OPENROUTER_API_KEY2"),
+    os.getenv("OPENROUTER_API_KEY3"),
+    os.getenv("OPENROUTER_API_KEY4"),
+    os.getenv("OPENROUTER_API_KEY5"),
+    os.getenv("OPENROUTER_API_KEY6")
+]
 
 VALID_KEYS = [k for k in API_KEYS if k]
 BASE_URL = "https://openrouter.ai/api/v1"
@@ -34,166 +41,134 @@ def get_live_free_models():
     try:
         res = requests.get(f"{BASE_URL}/models", headers=headers, timeout=10)
         if res.status_code == 200:
-            return [m['id'] for m in res.json()['data'] if m['id'].endswith(':free')]
+            models = res.json().get('data', [])
+            free_models = [m['id'] for m in models if m.get('pricing', {}).get('prompt') == "0" and m.get('pricing', {}).get('completion') == "0"]
+            return free_models if free_models else ["google/gemini-2.0-flash-lite-preview-02-05:free"]
     except:
         pass
-    return ["google/gemini-2.0-flash-lite-preview-02-05:free", "google/gemma-3-27b-it:free", "meta-llama/llama-3.3-70b-instruct:free"]
+    return ["google/gemini-2.0-flash-lite-preview-02-05:free"]
 
-def summarize_report_with_openrouter(report_url, model_pool):
-    """提取內容並生成摘要 (含多金鑰與多模型輪詢)"""
-    extracted_text = ""
-    try:
-        print(f"   📥 讀取報告中...")
-        web_headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
-        response = requests.get(report_url, headers=web_headers, timeout=30)
-        response.raise_for_status()
-        
-        content_type = response.headers.get('Content-Type', '').lower()
-        if '.pdf' in report_url.lower() or 'application/pdf' in content_type:
-            with pdfplumber.open(io.BytesIO(response.content)) as pdf:
-                pages_content = [page.extract_text() for page in pdf.pages[:3] if page.extract_text()]
-                extracted_text = "\n".join(pages_content)
-        else:
-            soup = BeautifulSoup(response.content, 'html.parser')
-            for script_or_style in soup(["script", "style", "header", "footer", "nav"]):
-                script_or_style.decompose()
-            extracted_text = soup.get_text(separator=' ', strip=True)
-
-        if len(extracted_text.strip()) < 50:
-            return "⚠️ 內容提取不足（無法解析文字）。"
-    except Exception as e:
-        return f"❌ 內容解析失敗: {str(e)[:30]}"
-
+def summarize_report_with_openrouter(url, free_model_pool):
+    """呼叫 OpenRouter AI 進行摘要"""
     if not VALID_KEYS:
-        return "❌ 錯誤：未設定金鑰。"
+        return "⚠️ 未設定 API Key，跳過摘要。"
+        
+    prompt = f"請繁體中文總結這份財經報告的核心觀點（3-5個重點），報告連結：{url}"
+    
+    for attempt in range(3):
+        model = random.choice(free_model_pool)
+        api_key = random.choice(VALID_KEYS)
+        
+        headers = {
+            "Authorization": f"Bearer {api_key}",
+            "Content-Type": "application/json"
+        }
+        data = {
+            "model": model,
+            "messages": [{"role": "user", "content": prompt}],
+            "max_tokens": 500
+        }
+        
+        try:
+            response = requests.post(f"{BASE_URL}/chat/completions", headers=headers, json=data, timeout=30)
+            if response.status_code == 200:
+                return response.json()['choices'][0]['message']['content'].strip()
+        except:
+            time.sleep(2)
+            
+    return "⚠️ AI 摘要生成失敗。"
 
-    working_keys = VALID_KEYS.copy()
-    # 限制嘗試的模型數量，避免過度觸發 429
-    random.shuffle(model_pool)
-    target_models = model_pool[:5] 
-
-    for model_id in target_models:
-        random.shuffle(working_keys)
-        for current_key in working_keys:
-            # 🌟 修正點：在每次嘗試前初始化 content 變數
-            content = ""
-            headers = {
-                "Authorization": f"Bearer {current_key}",
-                "Content-Type": "application/json",
-                "HTTP-Referer": "http://localhost:3000",
-                "X-Title": "Financial Report Bot"
-            }
-            payload = {
-                "model": model_id,
-                "messages": [
-                    {"role": "system", "content": "你是一個專業的財經分析師。請用繁體中文摘要以下報告內容。"},
-                    {"role": "user", "content": f"請提供 150 字內的精確摘要，用繁體中文：\n\n{extracted_text[:500]}"}
-                ],
-                "temperature": 0.3
-            }
-
-            print(f"   🤖 模型: {model_id[:20]}... (金鑰尾碼: ...{current_key[-4:]})", end=" ", flush=True)
-            try:
-                res = requests.post(f"{BASE_URL}/chat/completions", headers=headers, json=payload, timeout=40)
-                
-                if res.status_code == 200:
-                    data = res.json()
-                    if 'choices' in data and len(data['choices']) > 0:
-                        content = data['choices'][0]['message']['content'].strip()
-                        if content:
-                            print("✅ 成功！")
-                            return content
-                    print("❓ 回傳格式異常", end=" ")
-                elif res.status_code == 429:
-                    print(f"⏳ 429 塞車，換下一把金鑰...")
-                    break # 換金鑰
-                elif res.status_code == 402:
-                    print(f"💸 欠費或額度用盡，換下一把...")
-                    break
-                else:
-                    print(f"❌ 錯誤 {res.status_code}", end=" ")
-            except Exception as e:
-                print(f"💥 異常: {str(e)[:15]}", end=" ")
-        time.sleep(1) # 組合切換間隔
-
-    return "❌ 最終失敗：所有組合均嘗試過。"
-
+# ==========================================
+# 🚀 主程式執行區塊
+# ==========================================
 def main():
     print(f"\n{'='*60}\n🚀 開始執行自動化爬蟲程序...\n{'='*60}\n")
     
     all_reports = []
+    
+    # 🌟 在這裡設定您想單獨測試的爬蟲模組名稱
+    target_scrapers = ["cathay","jri"] 
+    
     for _, module_name, _ in pkgutil.iter_modules(scrapers.__path__):
         if module_name == "utils": continue
-
-
-#############################
         
-        # 🌟 加上這行：指定您想測試的爬蟲模組名稱清單
-        target_scrapers = ["cathay", "dlri"] 
-        
-        # 如果目前載入的模組不在上面的清單中，就直接跳過不跑
+        # 🌟 過濾測試名單
         if module_name not in target_scrapers: 
-            continue
-#############################
+            continue 
 
-        
         try:
             module = importlib.import_module(f"scrapers.{module_name}")
             if hasattr(module, "scrape"):
-                results = module.scrape()
-                if results: all_reports.extend(results)
+                reports = module.scrape()
+                if reports:
+                    all_reports.extend(reports)
         except Exception as e:
-            print(f"❌ 載入 {module_name} 失敗: {e}")
+            print(f"  ❌ 載入 {module_name} 失敗: {e}")
 
-    if not all_reports:
-        print("\n❌ 未抓到任何資料"); return
-
+    # ==========================================
+    # 🧹 資料清理：過濾重複與舊資料
+    # ==========================================
+    unique_reports = []
     seen_links = set()
-    unique_reports = [r for r in all_reports if not (r["Link"] in seen_links or seen_links.add(r["Link"]))]
     
-    for r in unique_reports:
-        raw_date = str(r.get('Date', '')).replace('年', '-').replace('月', '-').replace('日', '').replace('/', '-').replace('.', '-').replace(' ', '').strip()
+    for report in all_reports:
+        if report['Link'] in seen_links: continue
+        
         try:
-            if '-' in raw_date:
-                r['Date'] = datetime.strptime(raw_date, "%Y-%m-%d").strftime("%Y-%m-%d")
-            elif len(raw_date) == 8 and raw_date.isdigit():
-                r['Date'] = datetime.strptime(raw_date, "%Y%m%d").strftime("%Y-%m-%d")
+            raw_date = report.get('Date', '')
+            if not raw_date or raw_date == "未知日期":
+                unique_reports.append(report)
+                seen_links.add(report['Link'])
+                continue
+                
+            dt = datetime.strptime(raw_date, "%Y-%m-%d")
+            if (datetime.now() - dt).days <= 30:
+                unique_reports.append(report)
+                seen_links.add(report['Link'])
         except:
-            pass
+            unique_reports.append(report)
+            seen_links.add(report['Link'])
 
     print(f"\n📊 總共找到 {len(unique_reports)} 筆不重複報告。")
     
     # ==========================================
-    # 📄 新增功能：擷取 PDF 頁數
+    # 📄 擷取 PDF 頁數 (含反阻擋機制)
     # ==========================================
     print(f"\n{'='*60}\n📄 開始擷取 PDF 頁數...\n")
+    request_headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        'Accept': 'application/pdf,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+        'Accept-Language': 'zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+        'Referer': 'https://www.google.com/'
+    }
+
     for i, report in enumerate(unique_reports, 1):
         link = report.get('Link', '')
         page_count = "未知"
         
-        if '.pdf' in link.lower() or 'ctbcbank' in link.lower(): # 涵蓋一般 PDF 與 CTBC 隱藏連結
+        if '.pdf' in link.lower() or 'ctbcbank' in link.lower():
             try:
                 print(f"[{i}/{len(unique_reports)}] 正在讀取頁數: {report['Name'][:20]}...")
-                res = requests.get(link, timeout=15)
+                res = requests.get(link, headers=request_headers, allow_redirects=True, timeout=20)
                 if res.status_code == 200:
                     with pdfplumber.open(io.BytesIO(res.content)) as pdf:
                         page_count = len(pdf.pages)
+                else:
+                    print(f"  ⚠️ HTTP 失敗: 狀態碼 {res.status_code}")
             except Exception as e:
                 print(f"  ⚠️ 無法讀取頁數: {e}")
                 
         report['PageCount'] = page_count
 
-    
+    # ==========================================
+    # 🤖 執行 AI 摘要
+    # ==========================================
     if ENABLE_AI_SUMMARY:
         print(f"\n{'='*60}\n🤖 啟動動態模型摘要...\n")
         free_model_pool = get_live_free_models()
-        
         for i, report in enumerate(unique_reports, 1):
-            print(f"[{i}/{len(unique_reports)}] 正在處理: {report['Name']}")
-            summary = summarize_report_with_openrouter(report['Link'], free_model_pool)
-            report['Summary'] = summary
-            
-            # 🌟 建議：冷卻時間拉長到 30 秒，避免 IP 被封鎖
+            print(f"[{i}/{len(unique_reports)}] 正在處理摘要: {report['Name']}")
+            report['Summary'] = summarize_report_with_openrouter(report['Link'], free_model_pool)
             sleep_sec = 30
             print(f"💤 冷卻中，等待 {sleep_sec} 秒...")
             time.sleep(sleep_sec)
@@ -201,39 +176,86 @@ def main():
         for report in unique_reports:
             report['Summary'] = "未執行 AI 摘要"
     
+    # 建立 data 資料夾
     os.makedirs('data', exist_ok=True)
+    
+    # 寫入 JSON
     with open('data/reports.json', 'w', encoding='utf-8') as f:
         json.dump(unique_reports, f, ensure_ascii=False, indent=2)
-        
-# 📝 組合 Markdown 內容
+
+    # ==========================================
+    # 📝 輸出 1：Markdown 生成
+    # ==========================================
     md_content = "# 📊 最新財經報告總覽\n\n"
     for report in unique_reports:
         page_str = report.get('PageCount', '未知')
+        summary = report.get('Summary', '')
+        
         md_content += f"### {report['Name']}\n"
-        # 🌟 在這裡加上頁數
         md_content += f"來源: {report['Source']} | 日期: {report['Date']} | 頁數: {page_str} 頁\n"
-        md_content += f"AI 摘要: {report.get('Summary', '未執行 AI 摘要')}\n"
+        
+        # 🌟 Markdown 中如果不顯示「未執行 AI 摘要」，版面會更乾淨
+        if summary and summary != "未執行 AI 摘要":
+            md_content += f"**AI 摘要:** {summary}\n"
+            
         md_content += f"[查看原始報告]({report['Link']})\n\n"
         
-    # 🌐 如果您的程式碼中有產生 index.html 的邏輯，也請在對應的地方加上：
-    # 例如： html_content += f"<p>來源: {report['Source']} | 日期: {report['Date']} | 頁數: {page_str} 頁</p>"
-        
     with open('data/reports_for_notebooklm.md', 'w', encoding='utf-8') as f:
         f.write(md_content)
-        
-    print(f"\n✅ 任務完成！資料已儲存至 data/ 資料夾。")
 
-
-    # ... 前面是原本寫入 reports_for_notebooklm.md 的程式碼 ...
-    with open('data/reports_for_notebooklm.md', 'w', encoding='utf-8') as f:
-        f.write(md_content)
-        
     # ==========================================
-    # 📡 新增功能：為每個機構生成獨立的 RSS 訂閱源
+    # 🌐 輸出 2：HTML 生成
+    # ==========================================
+    html_content = """<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>最新財經報告總覽</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 900px; margin: 0 auto; padding: 20px; background-color: #f5f7fa; }
+        h1 { color: #2c3e50; text-align: center; margin-bottom: 30px; }
+        .report-card { background: white; border-radius: 8px; padding: 20px; margin-bottom: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); }
+        .report-card h3 { margin-top: 0; }
+        .report-card h3 a { color: #2980b9; text-decoration: none; }
+        .report-card h3 a:hover { text-decoration: underline; }
+        .meta-info { color: #7f8c8d; font-size: 0.9em; margin-bottom: 15px; }
+        .meta-tag { display: inline-block; background: #ecf0f1; padding: 3px 8px; border-radius: 4px; margin-right: 10px; }
+        .summary-box { background: #f8f9fa; border-left: 4px solid #3498db; padding: 12px; font-size: 0.95em; color: #34495e; line-height: 1.6; }
+    </style>
+</head>
+<body>
+    <h1>📊 最新財經報告總覽</h1>
+"""
+    for report in unique_reports:
+        page_str = report.get('PageCount', '未知')
+        summary = report.get('Summary', '')
+        
+        html_content += '    <div class="report-card">\n'
+        html_content += f'        <h3><a href="{report["Link"]}" target="_blank">{report["Name"]}</a></h3>\n'
+        html_content += f'        <div class="meta-info">\n'
+        html_content += f'            <span class="meta-tag">🏛️ {report["Source"]}</span>\n'
+        html_content += f'            <span class="meta-tag">📅 {report["Date"]}</span>\n'
+        html_content += f'            <span class="meta-tag">📄 {page_str} 頁</span>\n'
+        html_content += f'        </div>\n'
+        
+        # 🌟 HTML 過濾掉無意義的 AI 摘要文字
+        if summary and summary != "未執行 AI 摘要":
+            html_content += f'        <div class="summary-box"><b>🤖 AI 摘要：</b><br>{summary.replace(chr(10), "<br>")}</div>\n'
+            
+        html_content += '    </div>\n'
+        
+    html_content += "</body>\n</html>"
+    
+    # 寫入根目錄供 GitHub Pages 讀取
+    with open('index.html', 'w', encoding='utf-8') as f:
+        f.write(html_content)
+
+    # ==========================================
+    # 📡 輸出 3：個別機構 RSS (XML) 生成
     # ==========================================
     print(f"\n{'='*60}\n📡 開始生成個別機構的 RSS 訂閱源...\n")
     
-    # 1. 將報告依據 Source 分組
     reports_by_source = {}
     for report in unique_reports:
         source = report.get('Source', 'Unknown')
@@ -241,47 +263,36 @@ def main():
             reports_by_source[source] = []
         reports_by_source[source].append(report)
         
-    # 2. 替每個機構建立獨立的 RSS XML
     for source, reports in reports_by_source.items():
-        # 將機構名稱轉小寫並替換空白，做為安全的檔名 (例如: rss_cathay.xml)
         safe_source_name = source.lower().replace(" ", "_")
         rss_filename = f"data/rss_{safe_source_name}.xml"
         
-        # 組裝 RSS 標頭
         rss_content = f"""<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
   <title>{source} 財經研究報告</title>
-  <link>https://github.com/您的帳號/您的專案名稱</link>
+  <link>https://github.com/</link>
   <description>{source} 最新經濟與金融分析報告自動訂閱源</description>
 """
-        # 寫入每一筆報告
         for r in reports:
-            # RSS 標準要求日期格式為 RFC 822 (例如: Thu, 26 Feb 2026 00:00:00 +0000)
             pub_date_str = r.get('Date', '')
             try:
                 dt = datetime.strptime(pub_date_str, "%Y-%m-%d")
                 pub_date = dt.strftime("%a, %d %b %Y 00:00:00 +0000")
             except:
-                pub_date = pub_date_str # 若格式不符則原樣輸出
+                pub_date = pub_date_str
 
-            # 處理 XML 特殊字元跳脫
             title = str(r.get('Name', '')).replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
             link = str(r.get('Link', '')).replace("&", "&amp;")
             
-            # 🌟 處理摘要：如果是未執行 AI，則留白，不要印出礙眼的文字
             summary = r.get('Summary', '')
-            if "未執行 AI 摘要" in summary:
-                summary = "" 
-                
-            # 🌟 取得頁數
             page_count = r.get('PageCount', '未知')
             
-            # 🌟 組合 RSS 的 Description (使用 HTML 換行排版)
-            if summary:
-                description_html = f"📄 <b>報告頁數：</b>{page_count} 頁<br><br><b>🤖 AI 摘要：</b><br>{summary}"
-            else:
+            # 🌟 XML 徹底隱藏「未執行 AI 摘要」
+            if summary == "未執行 AI 摘要" or not summary:
                 description_html = f"📄 <b>報告頁數：</b>{page_count} 頁"
+            else:
+                description_html = f"📄 <b>報告頁數：</b>{page_count} 頁<br><br><b>🤖 AI 摘要：</b><br>{summary}"
             
             rss_content += f"""  <item>
     <title>{title}</title>
@@ -290,20 +301,14 @@ def main():
     <pubDate>{pub_date}</pubDate>
   </item>
 """
-        
-        # 關閉 RSS 標籤
         rss_content += """</channel>\n</rss>"""
         
-        # 寫入檔案
         with open(rss_filename, 'w', encoding='utf-8') as f:
             f.write(rss_content)
         
         print(f"  ✔️ 已生成 {rss_filename} (共 {len(reports)} 筆)")
 
-    print(f"\n✅ 任務完成！所有資料（含 RSS）已儲存至 data/ 資料夾。")
-
-if __name__ == "__main__":
-    main()
+    print(f"\n✅ 任務完成！所有資料（含 MD, HTML, RSS）已更新完畢。")
 
 if __name__ == "__main__":
     main()
