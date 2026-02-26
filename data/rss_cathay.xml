@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
-<channel>
-  <title>Cathay 財經研究報告</title>
-  <link>https://github.com/</link>
-  <description>Cathay 最新經濟與金融分析報告自動訂閱源</description>
-  <item>
-    <title>投資研究週報.pdf</title>
-    <link>https://www.cathaybk.com.tw/cathaybk/-/media/ee856ad558774e5eb6db5620c6ed6426.pdf?sc_lang=en</link>
-    <description><![CDATA[📄 <b>報告頁數：</b>18 頁]]></description>
-    <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
-  </item>
+<rss version="2.0"><channel><title>Cathay 財經研究報告</title><link>https://github.com/dylanlu0604-dot/financial-report-hub</link><description>Cathay 最新分析報告自動訂閱源</description>
+  <item><title>投資研究週報.pdf</title><link>https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%8A%95%E8%B3%87%E7%A0%94%E7%A9%B6%E9%80%B1%E5%A0%B1.pdf.pdf</link><description><![CDATA[📄 <b>報告頁數：</b>18 頁]]></description><pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate></item>
 </channel>
 </rss>
