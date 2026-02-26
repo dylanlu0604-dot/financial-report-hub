@@ -3,248 +3,92 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>財經報告情報中心 (Financial Report Hub)</title>
+    <title>最新財經報告總覽</title>
     <style>
-        /* 全域重置與字體設定 */
-        * { box-sizing: border-box; margin: 0; padding: 0; }
-        body { 
-            font-family: 'Segoe UI', 'Microsoft JhengHei', Arial, sans-serif; 
-            background-color: #f4f6f9; 
-            color: #333; 
-            line-height: 1.6;
-        }
-
-        /* 頂部導覽列 (專業深藍色調) */
-        .navbar {
-            background: linear-gradient(90deg, #0f2027, #203a43, #2c5364);
-            color: white;
-            padding: 20px 30px;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
-        .navbar h1 { font-size: 1.5rem; letter-spacing: 1px; font-weight: 600; }
-        .navbar .status { font-size: 0.9rem; opacity: 0.9; background: rgba(255,255,255,0.2); padding: 5px 12px; border-radius: 20px;}
-
-        /* 主體內容區 */
-        .container { max-width: 1200px; margin: 30px auto; padding: 0 20px; }
-
-        /* 篩選工具區塊 (卡片風格) */
-        .filter-card {
-            background-color: #fff;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-            margin-bottom: 20px;
-            display: flex;
-            align-items: center;
-            gap: 15px;
-            border-left: 5px solid #203a43;
-        }
-        .filter-card label { font-weight: 600; color: #555; font-size: 0.95rem; }
-        .filter-card input[type="date"] {
-            padding: 8px 12px;
-            border: 1px solid #ccc;
-            border-radius: 4px;
-            font-family: inherit;
-            outline: none;
-        }
-        .filter-card input[type="date"]:focus { border-color: #2c5364; }
-        .btn {
-            padding: 9px 18px;
-            border: none;
-            border-radius: 4px;
-            cursor: pointer;
-            font-weight: 600;
-            transition: all 0.2s;
-        }
-        .btn-primary { background-color: #2c5364; color: white; }
-        .btn-primary:hover { background-color: #1a333e; }
-        .btn-outline { background-color: transparent; border: 1px solid #ccc; color: #555; }
-        .btn-outline:hover { background-color: #f1f1f1; }
-
-        /* 表格容器 (卡片風格) */
-        .table-container {
-            background-color: #fff;
-            border-radius: 8px;
-            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
-            overflow-x: auto;
-        }
-        table { width: 100%; border-collapse: collapse; }
-        th, td { padding: 15px 20px; text-align: left; border-bottom: 1px solid #eee; }
-        th { 
-            background-color: #f8f9fa; 
-            color: #444; 
-            font-weight: 600; 
-            font-size: 0.9rem;
-            text-transform: uppercase;
-            letter-spacing: 0.5px;
-            position: sticky;
-            top: 0;
-            border-bottom: 2px solid #ddd;
-        }
-        tr:hover { background-color: #fdfdfd; }
-        tr:last-child td { border-bottom: none; }
-
-        /* 來源標籤 (Badge) */
-        .badge {
-            display: inline-block;
-            padding: 4px 10px;
-            border-radius: 4px;
-            font-size: 0.8rem;
-            font-weight: bold;
-            background-color: #e9ecef;
-            color: #495057;
-        }
-        .badge.ctbc { background-color: #e3f2fd; color: #0d47a1; } /* 中信藍 */
-        .badge.dir, .badge.mizuho { background-color: #ffebee; color: #b71c1c; } /* 日系紅 */
-        .badge.dlri, .badge.murc { background-color: #e8f5e9; color: #1b5e20; } /* 綠色系 */
-
-        /* 欄位微調 */
-        .date-col { font-family: monospace; font-size: 0.95rem; color: #555; white-space: nowrap; }
-        .name-col { font-weight: 600; color: #111; max-width: 350px; }
-        
-        /* 下載按鈕 */
-        .download-link {
-            display: inline-block;
-            padding: 6px 12px;
-            background-color: #f0f4f8;
-            color: #0056b3;
-            text-decoration: none;
-            border-radius: 4px;
-            font-size: 0.85rem;
-            font-weight: bold;
-            transition: background 0.2s;
-            white-space: nowrap;
-        }
-        .download-link:hover { background-color: #d9e2ec; }
-        
-        /* AI 摘要 */
-        .summary { 
-            font-size: 0.85em; 
-            color: #666; 
-            line-height: 1.5; 
-            max-width: 350px;
-            background: #fafafa;
-            padding: 10px;
-            border-radius: 6px;
-            border: 1px solid #f0f0f0;
-        }
-        .no-summary { color: #aaa; font-style: italic; }
-        
-        /* 空資料提示 */
-        .empty-state { text-align: center; padding: 40px; color: #777; }
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 900px; margin: 0 auto; padding: 20px; background-color: #f5f7fa; }
+        h1 { color: #2c3e50; text-align: center; margin-bottom: 30px; }
+        .report-card { background: white; border-radius: 8px; padding: 20px; margin-bottom: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); }
+        .report-card h3 { margin-top: 0; }
+        .report-card h3 a { color: #2980b9; text-decoration: none; }
+        .report-card h3 a:hover { text-decoration: underline; }
+        .meta-info { color: #7f8c8d; font-size: 0.9em; margin-bottom: 15px; }
+        .meta-tag { display: inline-block; background: #ecf0f1; padding: 3px 8px; border-radius: 4px; margin-right: 10px; }
+        .summary-box { background: #f8f9fa; border-left: 4px solid #3498db; padding: 12px; font-size: 0.95em; color: #34495e; line-height: 1.6; }
     </style>
 </head>
 <body>
-
-    <div class="navbar">
-        <h1>📊 財經報告情報中心</h1>
-        <div class="status" id="status">正在載入資料...</div>
-    </div>
-
-    <div class="container">
-        <div class="filter-card">
-            <label for="start-date">📅 報告區間：</label>
-            <input type="date" id="start-date">
-            <span style="color:#aaa;">至</span>
-            <input type="date" id="end-date">
-            <button class="btn btn-primary" onclick="applyFilter()">篩選</button>
-            <button class="btn btn-outline" onclick="resetFilter()">重設</button>
-        </div>
-
-        <div class="table-container">
-            <table>
-                <thead>
-                    <tr>
-                        <th width="10%">來源</th>
-                        <th width="12%">發布日期</th>
-                        <th width="33%">報告名稱</th>
-                        <th width="15%">檔案連結</th>
-                        <th width="30%">AI 核心摘要</th>
-                    </tr>
-                </thead>
-                <tbody id="report-table-body">
-                    </tbody>
-            </table>
+    <h1>📊 最新財經報告總覽</h1>
+    <div class="report-card">
+        <h3><a href="https://www.cathaybk.com.tw/cathaybk/-/media/ee856ad558774e5eb6db5620c6ed6426.pdf?sc_lang=en" target="_blank">投資研究週報.pdf</a></h3>
+        <div class="meta-info">
+            <span class="meta-tag">🏛️ Cathay</span>
+            <span class="meta-tag">📅 2026-02-26</span>
+            <span class="meta-tag">📄 18 頁</span>
         </div>
     </div>
-
-    <script>
-        // 儲存所有從 JSON 抓回來的原始資料
-        let allReports = [];
-
-        // 頁面載入時抓取資料
-        fetch('data/reports.json')
-            .then(response => {
-                if (!response.ok) throw new Error("尚未產生資料，請等待系統執行完畢。");
-                return response.json();
-            })
-            .then(data => {
-                allReports = data; // 存入全域變數
-                renderTable(allReports); // 初次渲染全部資料
-            })
-            .catch(error => {
-                document.getElementById('status').innerText = error.message;
-                document.getElementById('report-table-body').innerHTML = `<tr><td colspan="5" class="empty-state">⚠️ 無法載入資料：${error.message}</td></tr>`;
-            });
-
-        // 負責將資料渲染到表格的函數
-        function renderTable(data) {
-            document.getElementById('status').innerText = `共顯示 ${data.length} 筆報告`;
-            const tbody = document.getElementById('report-table-body');
-            tbody.innerHTML = ''; // 清空現有表格
-            
-            if (data.length === 0) {
-                tbody.innerHTML = '<tr><td colspan="5" class="empty-state">🔍 找不到符合條件的報告。</td></tr>';
-                return;
-            }
-
-            data.forEach(report => {
-                const row = document.createElement('tr');
-                
-                // 處理 AI 摘要 (如果為空則顯示預設文字)
-                const summaryHtml = report.Summary 
-                    ? `<div class="summary">${report.Summary}</div>` 
-                    : `<span class="no-summary">尚未產生摘要</span>`;
-
-                // 處理來源標籤顏色 (統一轉小寫以對應 CSS class)
-                const sourceClass = report.Source ? report.Source.toLowerCase().replace(/[^a-z0-9]/g, '') : '';
-
-                row.innerHTML = `
-                    <td><span class="badge ${sourceClass}">${report.Source}</span></td>
-                    <td class="date-col">${report.Date}</td>
-                    <td class="name-col">${report.Name}</td>
-                    <td><a href="${report.Link}" target="_blank" class="download-link">📥 下載 PDF</a></td>
-                    <td>${summaryHtml}</td>
-                `;
-                tbody.appendChild(row);
-            });
-        }
-
-        // 套用日期篩選
-        function applyFilter() {
-            const startDate = document.getElementById('start-date').value;
-            const endDate = document.getElementById('end-date').value;
-
-            const filteredData = allReports.filter(report => {
-                let isValid = true;
-                // 字串比對 "2026-02-25" >= "2026-02-01" 在 JS 中是有效的
-                if (startDate && report.Date < startDate) isValid = false;
-                if (endDate && report.Date > endDate) isValid = false;
-                return isValid;
-            });
-
-            renderTable(filteredData);
-        }
-
-        // 重設篩選器
-        function resetFilter() {
-            document.getElementById('start-date').value = '';
-            document.getElementById('end-date').value = '';
-            renderTable(allReports);
-        }
-    </script>
+    <div class="report-card">
+        <h3><a href="https://www.jri.co.jp/file/report/usa/pdf/16471.pdf" target="_blank">米国経済展望2026年２月号：トピック：「雇用なき成長」の裏にＡＩの影（PDF：994KB）</a></h3>
+        <div class="meta-info">
+            <span class="meta-tag">🏛️ JRI</span>
+            <span class="meta-tag">📅 2026年02月20日</span>
+            <span class="meta-tag">📄 8 頁</span>
+        </div>
+    </div>
+    <div class="report-card">
+        <h3><a href="https://www.jri.co.jp/file/report/kansai/pdf/16467.pdf" target="_blank">「関西の景気動向」２月号　中国人旅行者減少による関西経済への影響（PDF：773KB）</a></h3>
+        <div class="meta-info">
+            <span class="meta-tag">🏛️ JRI</span>
+            <span class="meta-tag">📅 2026年02月18日</span>
+            <span class="meta-tag">📄 9 頁</span>
+        </div>
+    </div>
+    <div class="report-card">
+        <h3><a href="https://www.jri.co.jp/file/report/japan/pdf/16462.pdf" target="_blank">日本経済展望2026年２月号：【設備更新サイクルの短期化が設備投資の追い風に】【消費減税は家計支援の最適解か】（PDF：1234KB）</a></h3>
+        <div class="meta-info">
+            <span class="meta-tag">🏛️ JRI</span>
+            <span class="meta-tag">📅 2026年02月16日</span>
+            <span class="meta-tag">📄 11 頁</span>
+        </div>
+    </div>
+    <div class="report-card">
+        <h3><a href="https://www.jri.co.jp/file/report/euro/pdf/16454.pdf" target="_blank">欧州経済展望2026年２月号：欧州防衛費拡大、供給は追いつかず（PDF：984KB）</a></h3>
+        <div class="meta-info">
+            <span class="meta-tag">🏛️ JRI</span>
+            <span class="meta-tag">📅 2026年02月09日</span>
+            <span class="meta-tag">📄 8 頁</span>
+        </div>
+    </div>
+    <div class="report-card">
+        <h3><a href="https://www.jri.co.jp/file/report/oil/pdf/16452.pdf" target="_blank">原油市場展望2026年2月号　～トピック：影響力増す西半球の生産動向（PDF：824KB）</a></h3>
+        <div class="meta-info">
+            <span class="meta-tag">🏛️ JRI</span>
+            <span class="meta-tag">📅 2026年02月06日</span>
+            <span class="meta-tag">📄 5 頁</span>
+        </div>
+    </div>
+    <div class="report-card">
+        <h3><a href="https://www.jri.co.jp/file/report/exchange/pdf/16447.pdf" target="_blank">為替相場展望2026年２月号：◆ドル円：先行き横ばい圏で推移◆ユーロ：対ドルは緩やかなユーロ高へ（PDF：889KB）</a></h3>
+        <div class="meta-info">
+            <span class="meta-tag">🏛️ JRI</span>
+            <span class="meta-tag">📅 2026年02月03日</span>
+            <span class="meta-tag">📄 6 頁</span>
+        </div>
+    </div>
+    <div class="report-card">
+        <h3><a href="https://www.jri.co.jp/file/report/china/pdf/16437.pdf" target="_blank">中国経済展望2026年2月号：2025年は成長目標達成も、足元の景気は停滞（PDF：915KB）</a></h3>
+        <div class="meta-info">
+            <span class="meta-tag">🏛️ JRI</span>
+            <span class="meta-tag">📅 2026年01月29日</span>
+            <span class="meta-tag">📄 8 頁</span>
+        </div>
+    </div>
+    <div class="report-card">
+        <h3><a href="https://www.jri.co.jp/file/report/asia/pdf/16434.pdf" target="_blank">アジア・マンスリー2026年2月号 （PDF：1527KB）</a></h3>
+        <div class="meta-info">
+            <span class="meta-tag">🏛️ JRI</span>
+            <span class="meta-tag">📅 2026年01月28日</span>
+            <span class="meta-tag">📄 15 頁</span>
+        </div>
+    </div>
 </body>
 </html>
