@@ -80,32 +80,43 @@ def scrape():
         # 🧠 核心修正：精準 ID 與標題配對邏輯
         # ==========================================
         print(f"  [偵探回報] 成功攔截到 {len(captured_api_json)} 個 JSON 封包，開始精準配對...")
-        
+
+
+        # 將攔截到的 API 回應存成檔案，看看中信到底傳了什麼過來
+        with open("ctbc_debug.json", "w", encoding="utf-8") as f:
+            json.dump(captured_api_json, f, ensure_ascii=False, indent=2)
         id_to_title_map = {}
         
         def extract_reports_from_json(data):
             if isinstance(data, dict):
-                # 🌟 修正點：在同一個物件 (dict) 中同時尋找標題與 ID 欄位
-                # 中信 API 欄位通常為 title, reportTitle 或 reportId, fileId
-                title = data.get('title') or data.get('reportTitle')
-                r_id = data.get('reportId') or data.get('fileId') or data.get('id')
+                # 1. 放寬標題與 ID 的鍵值搜尋範圍
+                title = data.get('title') or data.get('reportTitle') or data.get('name') or data.get('docName')
+                r_id = data.get('reportId') or data.get('fileId') or data.get('id') or data.get('docId')
                 
+                # 如果我們同時找到了 ID 和標題，就進行處理
                 if title and r_id and isinstance(r_id, str):
-                    # 驗證 ID 是否符合中信報告格式 (例如: 20260226-A-01-0)
-                    match = re.search(r'(\d{8}-[A-Za-z]-\d{1,3}-\d{1,2})', r_id)
+                    # 2. 放寬正規表達式：只尋找 8 位數字日期開頭，後面接任意英數字或底線的格式
+                    # 這樣可以匹配 "20260226-A"、"20260226-A-01-0" 或單純的 "20260226"
+                    match = re.search(r'(\d{8}[-A-Za-z0-9_]*)', r_id) 
+                    
                     if match:
                         found_id = match.group(1)
-                        # 過濾標題：必須包含中文且字數足夠，避開系統雜訊
-                        if re.search(r'[\u4e00-\u9fa5]', str(title)) and len(str(title)) > 4:
-                            # 🌟 強制綁定：這一組 ID 只會對應這一個 Title
+                        # 確保標題包含中文字，避開系統雜訊
+                        if re.search(r'[\u4e00-\u9fa5]', str(title)): 
                             id_to_title_map[found_id] = str(title).strip()
+                    else:
+                        # 💡 除錯用：把這行取消註解，看看是哪些 ID 沒通過正規表達式
+                        # print(f"  [Debug] 找到標題 '{title}' 但 ID '{r_id}' 不符合格式。")
                 
                 # 遞迴挖掘巢狀結構
                 for v in data.values():
-                    extract_reports_from_json(v)
+                    if isinstance(v, (dict, list)):
+                        extract_reports_from_json(v)
+                        
             elif isinstance(data, list):
                 for item in data:
-                    extract_reports_from_json(item)
+                    if isinstance(item, (dict, list)):
+                        extract_reports_from_json(item)
 
         # 啟動智能解析
         for packet in captured_api_json:
