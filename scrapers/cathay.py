@@ -1,41 +1,3 @@
-from bs4 import BeautifulSoup
-import re
-from urllib.parse import urljoin, unquote
-from datetime import datetime
-from playwright.sync_api import sync_playwright
-from playwright_stealth import Stealth
-
-# ==========================================
-# 🛠️ 輔助工具函式
-# ==========================================
-def clean_title(title):
-    return title.replace('\n', ' ').strip()
-
-def extract_date_from_text(text):
-    """嘗試從字串中萃取多種格式的日期"""
-    # 1. 處理 YYYY年MM月DD日 (容許單數月/日)
-    match = re.search(r'([0-9]{4})\s*年\s*([0-9]{1,2})\s*月\s*([0-9]{1,2})\s*日', text)
-    if match:
-        return f"{match.group(1)}-{int(match.group(2)):02d}-{int(match.group(3)):02d}"
-
-    # 2. 處理 民國年 (例如 115年2月5日 -> 2026-02-05)
-    match = re.search(r'(11[0-9])\s*年\s*([0-9]{1,2})\s*月\s*([0-9]{1,2})\s*日', text)
-    if match:
-        year = int(match.group(1)) + 1911
-        return f"{year}-{int(match.group(2)):02d}-{int(match.group(3)):02d}"
-
-    # 3. 處理 YYYY/MM/DD 或 YYYY.MM.DD 或 YYYY-MM-DD (容許單數月/日)
-    match = re.search(r'([0-9]{4})[/.-]([0-9]{1,2})[/.-]([0-9]{1,2})', text)
-    if match:
-        return f"{match.group(1)}-{int(match.group(2)):02d}-{int(match.group(3)):02d}"
-    
-    # 4. 處理 YYYYMMDD (連續8個數字)
-    match = re.search(r'(20[1-3][0-9])([0-1][0-9])([0-3][0-9])', text)
-    if match:
-        return f"{match.group(1)}-{match.group(2)}-{match.group(3)}"
-        
-    return "未知日期"
-
 # ==========================================
 # 🕷️ 主爬蟲程式
 # ==========================================
@@ -67,6 +29,12 @@ def scrape():
             html_content = page.content()
             soup = BeautifulSoup(html_content, 'html.parser')
             
+            # 🌟 核心修正：先在整個頁面中尋找共用的備註日期
+            global_date_str = "未知日期"
+            remark_div = soup.find('div', class_='cubinvest-l-remark__item', string=re.compile("資料日期"))
+            if remark_div:
+                global_date_str = extract_date_from_text(remark_div.get_text(strip=True))
+
             for a in soup.find_all('a', href=True):
                 href = a['href']
                 
@@ -85,27 +53,18 @@ def scrape():
                     if full_url in seen_pdfs:
                         continue
                         
-                    # 🌟 核心修正：利用 DOM 樹往上尋找日期區塊
-                    date_str = extract_date_from_text(title) # 先試著從標題抓
+                    # 依序套用日期尋找策略
+                    date_str = extract_date_from_text(title)
                     
-                    if date_str == "未知日期":
-                        node = a
-                        # 往上找最多 5 層父節點，尋找包含日期的 div
-                        for _ in range(5):  
-                            if node.parent:
-                                node = node.parent
-                                remark_div = node.find('div', class_='cubinvest-l-remark__item')
-                                if remark_div:
-                                    # 成功找到 "資料日期 : 2026/02/13" 結構
-                                    date_str = extract_date_from_text(remark_div.get_text(strip=True))
-                                    if date_str != "未知日期":
-                                        break
-                                        
-                    # 備用方案：如果還是沒有，退回舊的檢查方式
                     if date_str == "未知日期" and a.parent:
                         date_str = extract_date_from_text(a.parent.get_text(strip=True))
+                    
                     if date_str == "未知日期":
                         date_str = extract_date_from_text(unquote(href))
+                        
+                    # 🌟 如果上面都找不到，套用剛剛找到的全域備註日期
+                    if date_str == "未知日期":
+                        date_str = global_date_str
                         
                     reports.append({
                         "Source": "Cathay",
