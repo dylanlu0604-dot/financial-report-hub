@@ -163,6 +163,27 @@ def main():
 
     print(f"\n📊 總共找到 {len(unique_reports)} 筆不重複報告。")
     
+    # ==========================================
+    # 📄 新增功能：擷取 PDF 頁數
+    # ==========================================
+    print(f"\n{'='*60}\n📄 開始擷取 PDF 頁數...\n")
+    for i, report in enumerate(unique_reports, 1):
+        link = report.get('Link', '')
+        page_count = "未知"
+        
+        if '.pdf' in link.lower() or 'ctbcbank' in link.lower(): # 涵蓋一般 PDF 與 CTBC 隱藏連結
+            try:
+                print(f"[{i}/{len(unique_reports)}] 正在讀取頁數: {report['Name'][:20]}...")
+                res = requests.get(link, timeout=15)
+                if res.status_code == 200:
+                    with pdfplumber.open(io.BytesIO(res.content)) as pdf:
+                        page_count = len(pdf.pages)
+            except Exception as e:
+                print(f"  ⚠️ 無法讀取頁數: {e}")
+                
+        report['PageCount'] = page_count
+
+    
     if ENABLE_AI_SUMMARY:
         print(f"\n{'='*60}\n🤖 啟動動態模型摘要...\n")
         free_model_pool = get_live_free_models()
