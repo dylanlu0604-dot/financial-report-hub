@@ -77,71 +77,79 @@ def main():
     print(f"\n📊 總共找到 {len(unique_reports)} 筆符合條件的報告。")
     
     # ==========================================
-    # 📥 核心修正：使用 Playwright 獨立視窗下載 (徹底解決檔案重複問題)
+    # 📥 終極修正：物理隔離下載法 (徹底解決檔案內容重複問題)
     # ==========================================
-    print(f"\n{'='*60}\n📥 開始 Playwright 獨立視窗下載...\n")
+    print(f"\n{'='*60}\n📥 啟動【物理隔離】下載模式 (防止內容重複)...\n")
     pdf_folder = "all report pdf"
     os.makedirs(pdf_folder, exist_ok=True)
     
-    with sync_playwright() as p:
-        # 啟動瀏覽器
-        browser = p.chromium.launch(headless=True)
+    for i, report in enumerate(unique_reports, 1):
+        original_url = report.get('Link', '')
+        safe_title = re.sub(r'[\\/*?:"<>|]', "_", report['Name']).strip()
+        local_filename = f"{safe_title}.pdf"
+        local_filepath = os.path.join(pdf_folder, local_filename)
+        encoded_filename = urllib.parse.quote(local_filename)
+        
+        report['OriginalLink'] = original_url
+        report['Link'] = f"{GITHUB_RAW_BASE}/{encoded_filename}"
+        report['LocalPath'] = f"{pdf_folder}/{encoded_filename}"
 
-        for i, report in enumerate(unique_reports, 1):
-            original_url = report.get('Link', '')
-            safe_title = re.sub(r'[\\/*?:"<>|]', "_", report['Name']).strip()
-            local_filename = f"{safe_title}.pdf"
-            local_filepath = os.path.join(pdf_folder, local_filename)
-            encoded_filename = urllib.parse.quote(local_filename)
-            
-            report['OriginalLink'] = original_url
-            report['Link'] = f"{GITHUB_RAW_BASE}/{encoded_filename}"
-            report['LocalPath'] = f"{pdf_folder}/{encoded_filename}"
-            report['PageCount'] = "未知"
-
-            if os.path.exists(local_filepath):
-                print(f"[{i}/{len(unique_reports)}] ✅ 檔案已存在: {report['Name'][:15]}...")
-            else:
+        if os.path.exists(local_filepath):
+            print(f"[{i}/{len(unique_reports)}] ✅ 檔案已存在: {report['Name'][:15]}...")
+        else:
+            # 🌟 核心修正：每抓一份報告，就重新啟動一次完整的瀏覽器實體
+            with sync_playwright() as p:
                 try:
-                    print(f"[{i}/{len(unique_reports)}] 📥 獨立視窗抓取: {report['Name'][:15]}...")
+                    print(f"[{i}/{len(unique_reports)}] 🕵️ 獨立實體抓取: {report['Name'][:15]}...")
+                    browser = p.chromium.launch(headless=True)
                     
-                    # 🌟 關鍵修正：針對每一份報告開啟「全新的 Context」，防止內容重複
-                    temp_context = browser.new_context(
+                    # 🌟 加上隨機的色彩與硬體參數，偽裝成不同的電腦
+                    context = browser.new_context(
                         user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
-                        accept_downloads=True 
+                        accept_downloads=True,
+                        viewport={'width': 1920, 'height': 1080}
                     )
-                    temp_page = temp_context.new_page()
-                    Stealth().apply_stealth_sync(temp_page)
+                    page = context.new_page()
+                    Stealth().apply_stealth_sync(page)
+
+                    # 針對中信下載，先訪問首頁領取「新鮮」的 Session
+                    if "ctbcbank" in original_url:
+                        page.goto("https://www.ctbcbank.com/twrbo/zh_tw/index.html", wait_until="networkidle", timeout=30000)
+                        time.sleep(random.uniform(2, 4)) # 模擬真人停頓
 
                     try:
-                        with temp_page.expect_download(timeout=25000) as download_info:
-                            # 針對中信這類 API 連結，直接 goto 觸發
-                            temp_page.goto(original_url, wait_until="domcontentloaded", timeout=40000)
+                        with page.expect_download(timeout=30000) as download_info:
+                            # 🌟 加上隨機參數防止 URL 被伺服器緩存 (如: ?t=12345)
+                            cache_buster = f"&t={int(time.time() * 1000)}" if "?" in original_url else f"?t={int(time.time() * 1000)}"
+                            page.goto(original_url + cache_buster, wait_until="domcontentloaded", timeout=45000)
                         
                         download = download_info.value
                         download.save_as(local_filepath)
-                        print(f"    ✅ 下載成功：{local_filename[:20]}...")
-                    except Exception as e:
-                        # 備案：如果沒有觸發下載動作，嘗試抓取內容
-                        res = temp_context.request.get(temp_page.url)
+                        print(f"    ✅ 下載成功 (檔案大小: {os.path.getsize(local_filepath)} bytes)")
+                    except Exception:
+                        # 備案：轉存 PDF 內容
+                        res = context.request.get(page.url)
                         if b'%PDF' in res.body()[:10]:
-                            with open(local_filepath, "wb") as f:
-                                f.write(res.body())
+                            with open(local_filepath, "wb") as f: f.write(res.body())
                             print("    ✅ 轉存成功！")
                     
-                    # 🌟 執行完立刻關閉當前的視窗與 Context，徹底清空緩存
-                    temp_page.close()
-                    temp_context.close()
+                    browser.close() # 下載完立刻銷毀瀏覽器
                     
-                except Exception as e:
-                    print(f"    ❌ 失敗: {str(e)[:30]}")
+                    # 🌟 關鍵：在中信下載之間加入隨機等待，避免被伺服器合併請求
+                    if "ctbcbank" in original_url:
+                        wait_time = random.uniform(3, 6)
+                        print(f"    ⏳ 冷卻中... {wait_time:.1f} 秒")
+                        time.sleep(wait_time)
 
-            # 讀取本地 PDF 頁數 (維持原樣)
-            if os.path.exists(local_filepath):
-                try:
-                    with pdfplumber.open(local_filepath) as pdf:
-                        report['PageCount'] = len(pdf.pages)
-                except: pass
+                except Exception as e:
+                    print(f"    ❌ 失敗: {str(e)[:50]}")
+
+        # 讀取本地 PDF 頁數 (這部分不變)
+        if os.path.exists(local_filepath):
+            try:
+                with pdfplumber.open(local_filepath) as pdf:
+                    report['PageCount'] = len(pdf.pages)
+            except: pass
 
         browser.close()
 
