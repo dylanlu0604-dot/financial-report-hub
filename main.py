@@ -34,7 +34,7 @@ def main():
     all_reports = []
     
     # 🌟 重新加回：測試名單設定 (想跑全部時，請把下面 if 那行註解掉)
-    target_scrapers = ["cathay", "ctbc", "jri"] 
+    target_scrapers = ["cathay", "ctbc"] 
     
     for _, module_name, _ in pkgutil.iter_modules(scrapers.__path__):
         if module_name == "utils": continue
