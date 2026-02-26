@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>Cathay 財經研究報告</title>
+  <link>https://github.com/您的帳號/您的專案名稱</link>
+  <description>Cathay 最新經濟與金融分析報告自動訂閱源</description>
+  <item>
+    <title>投資研究週報.pdf</title>
+    <link>https://www.cathaybk.com.tw/cathaybk/-/media/ee856ad558774e5eb6db5620c6ed6426.pdf?sc_lang=en</link>
+    <description><![CDATA[未執行 AI 摘要]]></description>
+    <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+  </item>
+</channel>
+</rss>
