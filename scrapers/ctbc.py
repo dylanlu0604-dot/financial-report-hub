@@ -37,10 +37,9 @@ def clean_title(title):
 def scrape():
     print("🔍 正在爬取 CTBC (中國信託銀行) - 🕵️‍♂️ 封包攔截與精準標題配對模式...")
     reports = []
-    seen_urls = set()
-    
-    target_url = "https://www.ctbcbank.com/twrbo/zh_tw/wm_index/wm_investreport/market-comment.html"
     captured_api_json = []
+
+    target_url = "https://www.ctbcbank.com/twrbo/zh_tw/wm_index/wm_investreport/market-comment.html"
 
     try:
         with sync_playwright() as p:
@@ -80,39 +79,35 @@ def scrape():
         # 🧠 核心修正：精準 ID 與標題配對邏輯
         # ==========================================
         print(f"  [偵探回報] 成功攔截到 {len(captured_api_json)} 個 JSON 封包，開始精準配對...")
-
-
-        # 將攔截到的 API 回應存成檔案，看看中信到底傳了什麼過來
+        
+        # 💡 將攔截到的 API 回應存成檔案，方便未來除錯查看中信到底傳了什麼資料
         with open("ctbc_debug.json", "w", encoding="utf-8") as f:
             json.dump(captured_api_json, f, ensure_ascii=False, indent=2)
+            print("  [提示] 已將攔截到的原始 JSON 儲存為 ctbc_debug.json")
+
         id_to_title_map = {}
         
         def extract_reports_from_json(data):
             if isinstance(data, dict):
-                # 1. 放寬標題與 ID 的鍵值搜尋範圍
+                # 放寬標題與 ID 的鍵值搜尋範圍
                 title = data.get('title') or data.get('reportTitle') or data.get('name') or data.get('docName')
                 r_id = data.get('reportId') or data.get('fileId') or data.get('id') or data.get('docId')
                 
-                # 如果我們同時找到了 ID 和標題，就進行處理
                 if title and r_id and isinstance(r_id, str):
-                    # 2. 放寬正規表達式：只尋找 8 位數字日期開頭，後面接任意英數字或底線的格式
-                    # 這樣可以匹配 "20260226-A"、"20260226-A-01-0" 或單純的 "20260226"
+                    # 放寬正規表達式：只尋找 8 位數字日期開頭
                     match = re.search(r'(\d{8}[-A-Za-z0-9_]*)', r_id) 
                     
                     if match:
                         found_id = match.group(1)
-                        # 確保標題包含中文字，避開系統雜訊
-                        if re.search(r'[\u4e00-\u9fa5]', str(title)): 
+                        if re.search(r'[\u4e00-\u9fa5]', str(title)):
                             id_to_title_map[found_id] = str(title).strip()
                     else:
-                        # 💡 除錯用：把這行取消註解，看看是哪些 ID 沒通過正規表達式
+                        pass # 👈 這裡加上 pass 來避免 IndentationError，或者你可以把下面這行取消註解
                         # print(f"  [Debug] 找到標題 '{title}' 但 ID '{r_id}' 不符合格式。")
                 
-                # 遞迴挖掘巢狀結構
                 for v in data.values():
                     if isinstance(v, (dict, list)):
                         extract_reports_from_json(v)
-                        
             elif isinstance(data, list):
                 for item in data:
                     if isinstance(item, (dict, list)):
