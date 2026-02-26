@@ -203,9 +203,12 @@ def main():
     with open('data/reports_for_notebooklm.md', 'w', encoding='utf-8') as f:
         f.write(md_content)
 
+# ==========================================
+    # 🌐 輸出 2：HTML 生成 (支援動態排序的表格)
     # ==========================================
-    # 🌐 輸出 2：HTML 生成
-    # ==========================================
+    # 預設先在 Python 端依照「日期」由大到小排序一次
+    unique_reports.sort(key=lambda x: x.get('Date', ''), reverse=True)
+
     html_content = """<!DOCTYPE html>
 <html lang="zh-TW">
 <head>
@@ -213,39 +216,106 @@ def main():
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>最新財經報告總覽</title>
     <style>
-        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 900px; margin: 0 auto; padding: 20px; background-color: #f5f7fa; }
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 1200px; margin: 0 auto; padding: 20px; background-color: #f5f7fa; }
         h1 { color: #2c3e50; text-align: center; margin-bottom: 30px; }
-        .report-card { background: white; border-radius: 8px; padding: 20px; margin-bottom: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); }
-        .report-card h3 { margin-top: 0; }
-        .report-card h3 a { color: #2980b9; text-decoration: none; }
-        .report-card h3 a:hover { text-decoration: underline; }
-        .meta-info { color: #7f8c8d; font-size: 0.9em; margin-bottom: 15px; }
-        .meta-tag { display: inline-block; background: #ecf0f1; padding: 3px 8px; border-radius: 4px; margin-right: 10px; }
-        .summary-box { background: #f8f9fa; border-left: 4px solid #3498db; padding: 12px; font-size: 0.95em; color: #34495e; line-height: 1.6; }
+        table { width: 100%; border-collapse: collapse; background: white; box-shadow: 0 4px 6px rgba(0,0,0,0.05); border-radius: 8px; overflow: hidden; }
+        th, td { padding: 15px; text-align: left; border-bottom: 1px solid #ecf0f1; vertical-align: top; }
+        th { background-color: #2c3e50; color: white; cursor: pointer; user-select: none; transition: background 0.2s; }
+        th:hover { background-color: #34495e; }
+        tr:hover { background-color: #f8f9fa; }
+        a { color: #2980b9; text-decoration: none; font-weight: bold; }
+        a:hover { text-decoration: underline; }
+        .summary-text { font-size: 0.9em; color: #555; line-height: 1.6; }
+        .page-badge { display: inline-block; background: #e8f4fd; color: #2980b9; padding: 2px 8px; border-radius: 12px; font-weight: bold; font-size: 0.85em; }
     </style>
 </head>
 <body>
     <h1>📊 最新財經報告總覽</h1>
+    <table id="reportTable">
+        <thead>
+            <tr>
+                <th onclick="sortTable(0)" style="width: 12%;" title="點擊排序">機構名稱 ↕</th>
+                <th onclick="sortTable(1)" style="width: 12%;" title="點擊排序">日期 ↕</th>
+                <th onclick="sortTable(2)" style="width: 8%;" title="點擊排序">頁數 ↕</th>
+                <th style="width: 30%;">報告名稱</th>
+                <th style="width: 38%;">AI 摘要</th>
+            </tr>
+        </thead>
+        <tbody>
 """
     for report in unique_reports:
         page_str = report.get('PageCount', '未知')
         summary = report.get('Summary', '')
+        if summary == "未執行 AI 摘要": summary = ""
         
-        html_content += '    <div class="report-card">\n'
-        html_content += f'        <h3><a href="{report["Link"]}" target="_blank">{report["Name"]}</a></h3>\n'
-        html_content += f'        <div class="meta-info">\n'
-        html_content += f'            <span class="meta-tag">🏛️ {report["Source"]}</span>\n'
-        html_content += f'            <span class="meta-tag">📅 {report["Date"]}</span>\n'
-        html_content += f'            <span class="meta-tag">📄 {page_str} 頁</span>\n'
-        html_content += f'        </div>\n'
-        
-        # 🌟 HTML 過濾掉無意義的 AI 摘要文字
-        if summary and summary != "未執行 AI 摘要":
-            html_content += f'        <div class="summary-box"><b>🤖 AI 摘要：</b><br>{summary.replace(chr(10), "<br>")}</div>\n'
+        # 為了讓 JS 好排序，我們在頁數欄位只放數字或未知
+        html_content += "            <tr>\n"
+        html_content += f"                <td><b>{report.get('Source', '')}</b></td>\n"
+        html_content += f"                <td>{report.get('Date', '')}</td>\n"
+        html_content += f"                <td><span class=\"page-badge\">{page_str}</span></td>\n"
+        html_content += f"                <td><a href=\"{report.get('Link', '')}\" target=\"_blank\">{report.get('Name', '')}</a></td>\n"
+        html_content += f"                <td class=\"summary-text\">{summary.replace(chr(10), '<br>')}</td>\n"
+        html_content += "            </tr>\n"
+
+    html_content += """        </tbody>
+    </table>
+
+    <script>
+        function sortTable(n) {
+            var table, rows, switching, i, x, y, shouldSwitch, dir, switchcount = 0;
+            table = document.getElementById("reportTable");
+            switching = true;
+            // 預設點擊時「由大到小 (降序)」排列
+            dir = "desc"; 
             
-        html_content += '    </div>\n'
-        
-    html_content += "</body>\n</html>"
+            while (switching) {
+                switching = false;
+                rows = table.rows;
+                
+                for (i = 1; i < (rows.length - 1); i++) {
+                    shouldSwitch = false;
+                    x = rows[i].getElementsByTagName("TD")[n];
+                    y = rows[i + 1].getElementsByTagName("TD")[n];
+                    
+                    // 取得欄位內的純文字
+                    var valX = x.innerText.toLowerCase();
+                    var valY = y.innerText.toLowerCase();
+                    
+                    // 如果是第3欄 (頁數，索引為2)，需要轉換成數字來比大小
+                    if (n === 2) { 
+                        var numX = isNaN(parseInt(valX)) ? -1 : parseInt(valX);
+                        var numY = isNaN(parseInt(valY)) ? -1 : parseInt(valY);
+                        if (dir === "desc") {
+                            if (numX < numY) { shouldSwitch = true; break; }
+                        } else {
+                            if (numX > numY) { shouldSwitch = true; break; }
+                        }
+                    } else {
+                        // 文字排序 (適用於機構名稱、日期)
+                        if (dir === "desc") {
+                            if (valX < valY) { shouldSwitch = true; break; }
+                        } else {
+                            if (valX > valY) { shouldSwitch = true; break; }
+                        }
+                    }
+                }
+                if (shouldSwitch) {
+                    // 交換位置
+                    rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+                    switching = true;
+                    switchcount++;
+                } else {
+                    // 如果沒有任何交換發生，且本來是降序，就反轉成升序再跑一次
+                    if (switchcount === 0 && dir === "desc") {
+                        dir = "asc";
+                        switching = true;
+                    }
+                }
+            }
+        }
+    </script>
+</body>
+</html>"""
     
     # 寫入根目錄供 GitHub Pages 讀取
     with open('index.html', 'w', encoding='utf-8') as f:
