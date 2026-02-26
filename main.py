@@ -96,6 +96,9 @@ def main():
     
     for i, report in enumerate(unique_reports, 1):
         original_url = report.get('Link', '')
+        # 🌟 初始化 PageCount，防止 KeyError 導致程式崩潰
+        report['PageCount'] = "未知" 
+        
         safe_title = re.sub(r'[\\/*?:"<>|]', "_", report['Name']).strip()
         local_filename = f"{safe_title}.pdf"
         local_filepath = os.path.join(pdf_folder, local_filename)
@@ -108,59 +111,52 @@ def main():
         if os.path.exists(local_filepath):
             print(f"[{i}/{len(unique_reports)}] ✅ 檔案已存在: {report['Name'][:15]}...")
         else:
-            # 🌟 核心修正：每抓一份報告，就重新啟動一次完整的瀏覽器實體
             with sync_playwright() as p:
                 try:
                     print(f"[{i}/{len(unique_reports)}] 🕵️ 獨立實體抓取: {report['Name'][:15]}...")
                     browser = p.chromium.launch(headless=True)
-                    
-                    # 🌟 加上隨機的色彩與硬體參數，偽裝成不同的電腦
                     context = browser.new_context(
                         user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
-                        accept_downloads=True,
-                        viewport={'width': 1920, 'height': 1080}
+                        accept_downloads=True
                     )
                     page = context.new_page()
                     Stealth().apply_stealth_sync(page)
 
-                    # 針對中信下載，先訪問首頁領取「新鮮」的 Session
                     if "ctbcbank" in original_url:
                         page.goto("https://www.ctbcbank.com/twrbo/zh_tw/index.html", wait_until="networkidle", timeout=30000)
-                        time.sleep(random.uniform(2, 4)) # 模擬真人停頓
+                        time.sleep(random.uniform(2, 4))
 
                     try:
                         with page.expect_download(timeout=30000) as download_info:
-                            # 🌟 加上隨機參數防止 URL 被伺服器緩存 (如: ?t=12345)
                             cache_buster = f"&t={int(time.time() * 1000)}" if "?" in original_url else f"?t={int(time.time() * 1000)}"
                             page.goto(original_url + cache_buster, wait_until="domcontentloaded", timeout=45000)
                         
                         download = download_info.value
                         download.save_as(local_filepath)
-                        print(f"    ✅ 下載成功 (檔案大小: {os.path.getsize(local_filepath)} bytes)")
+                        print(f"    ✅ 下載成功")
                     except Exception:
-                        # 備案：轉存 PDF 內容
-                        res = context.request.get(page.url)
-                        if b'%PDF' in res.body()[:10]:
-                            with open(local_filepath, "wb") as f: f.write(res.body())
-                            print("    ✅ 轉存成功！")
+                        # 🌟 修正點：確保 get 的是 original_url 而不是空白頁面 about:blank
+                        if original_url.startswith("http"):
+                            res = context.request.get(original_url)
+                            if b'%PDF' in res.body()[:10]:
+                                with open(local_filepath, "wb") as f: f.write(res.body())
+                                print("    ✅ 備案轉存成功！")
                     
-                    browser.close() # 下載完立刻銷毀瀏覽器
-                    
-                    # 🌟 關鍵：在中信下載之間加入隨機等待，避免被伺服器合併請求
+                    browser.close()
+
                     if "ctbcbank" in original_url:
-                        wait_time = random.uniform(3, 6)
-                        print(f"    ⏳ 冷卻中... {wait_time:.1f} 秒")
-                        time.sleep(wait_time)
+                        time.sleep(random.uniform(3, 6))
 
                 except Exception as e:
-                    print(f"    ❌ 失敗: {str(e)[:50]}")
+                    print(f"    ❌ 下載失敗: {str(e)[:50]}")
 
-        # 讀取本地 PDF 頁數 (這部分不變)
+        # 讀取本地 PDF 頁數
         if os.path.exists(local_filepath):
             try:
                 with pdfplumber.open(local_filepath) as pdf:
                     report['PageCount'] = len(pdf.pages)
-            except: pass
+            except:
+                report['PageCount'] = "讀取失敗"
 
         # 🌟 修正點：刪除這裡原本的 browser.close()，因為上面已經 closed 了
 
