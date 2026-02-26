@@ -45,14 +45,15 @@ def main():
     # ... 後面的程式碼維持不變 ...
     
     # 🌟 重新加回：測試名單設定 (想跑全部時，請把下面 if 那行註解掉)
-    target_scrapers = ["cathay", "ctbc"] 
     
     for _, module_name, _ in pkgutil.iter_modules(scrapers.__path__):
         if module_name == "utils": continue
         
-        # 🌟 重新加回：過濾邏輯
-        if module_name not in target_scrapers: 
-            continue 
+        # 🌟 重新加回：選取部分爬蟲測試
+        #target_scrapers = ["cathay", "ctbc"] 
+
+        #if module_name not in target_scrapers: 
+            #continue 
             
         try:
             module = importlib.import_module(f"scrapers.{module_name}")
