@@ -4,3 +4,4 @@ playwright
 openrouter
 pdfplumber
 python-dotenv
+playwright-stealth
