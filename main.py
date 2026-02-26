@@ -151,7 +151,7 @@ def main():
                     report['PageCount'] = len(pdf.pages)
             except: pass
 
-        browser.close()
+        # 🌟 修正點：刪除這裡原本的 browser.close()，因為上面已經 closed 了
 
     # 🤖 摘要邏輯
     for report in unique_reports: report['Summary'] = "未執行 AI 摘要"
