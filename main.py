@@ -31,7 +31,18 @@ GITHUB_RAW_BASE = f"https://raw.githubusercontent.com/{GITHUB_USER}/{GITHUB_REPO
 def main():
     print(f"\n{'='*60}\n🚀 開始執行自動化爬蟲程序...\n{'='*60}\n")
     
+    # 🌟 暴力清空法：強迫機器人刪除舊資料夾，解決網站不讓刪的問題
+    import shutil
+    bad_folders = ["all report pdf", "data"]
+    for folder in bad_folders:
+        if os.path.exists(folder):
+            shutil.rmtree(folder)
+            print(f"🧹 已強行刪除損壞的資料夾: {folder}")
+    os.makedirs("all report pdf", exist_ok=True)
+    os.makedirs("data", exist_ok=True)
+    
     all_reports = []
+    # ... 後面的程式碼維持不變 ...
     
     # 🌟 重新加回：測試名單設定 (想跑全部時，請把下面 if 那行註解掉)
     target_scrapers = ["cathay", "ctbc"] 
