@@ -46,7 +46,7 @@ def scrape():
     try:
         with sync_playwright() as p:
             browser = p.chromium.launch(
-                headless=False, # 可以看著它跑，穩定後改 True
+                headless=True, 
                 args=["--disable-blink-features=AutomationControlled", "--disable-infobars"]
             )
             context = browser.new_context(
