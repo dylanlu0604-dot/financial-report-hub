@@ -19,14 +19,7 @@ load_dotenv()
 # ==========================================
 ENABLE_AI_SUMMARY = False  
 
-API_KEYS = [
-    os.getenv("OPENROUTER_API_KEY"),
-    os.getenv("OPENROUTER_API_KEY2"),
-    os.getenv("OPENROUTER_API_KEY3"),
-    os.getenv("OPENROUTER_API_KEY4"),
-    os.getenv("OPENROUTER_API_KEY5"),
-    os.getenv("OPENROUTER_API_KEY6")
-]
+API_KEYS = ['aaa','bbb']
 
 VALID_KEYS = [k for k in API_KEYS if k]
 BASE_URL = "https://openrouter.ai/api/v1"
