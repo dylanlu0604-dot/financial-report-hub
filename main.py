@@ -129,7 +129,7 @@ def main():
 #############################
         
         # 🌟 加上這行：指定您想測試的爬蟲模組名稱清單
-        target_scrapers = ["cathay", "ctbc", "ing"] 
+        target_scrapers = ["cathay", "ctbc", "dlri"] 
         
         # 如果目前載入的模組不在上面的清單中，就直接跳過不跑
         if module_name not in target_scrapers: 
