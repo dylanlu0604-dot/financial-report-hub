@@ -80,10 +80,16 @@ def scrape():
         # ==========================================
         print(f"  [偵探回報] 成功攔截到 {len(captured_api_json)} 個 JSON 封包，開始精準配對...")
         
-        # 💡 將攔截到的 API 回應存成檔案，方便未來除錯查看中信到底傳了什麼資料
-        with open("ctbc_debug.json", "w", encoding="utf-8") as f:
+        # 💡 雙管齊下除錯法
+        import os
+        os.makedirs("data", exist_ok=True)
+        # 1. 嘗試存進 data 資料夾，跟著 reports.json 一起推回 GitHub
+        with open("data/ctbc_debug.json", "w", encoding="utf-8") as f:
             json.dump(captured_api_json, f, ensure_ascii=False, indent=2)
-            print("  [提示] 已將攔截到的原始 JSON 儲存為 ctbc_debug.json")
+            print("  [提示] 已將原始 JSON 儲存為 data/ctbc_debug.json")
+        
+        # 2. 🚨 最保險的做法：直接把前 2500 個字元印在 GitHub 的記錄檔 (Log) 裡！
+        print(f"\n{'='*40}\n🕵️ [緊急除錯] 中信 API JSON 內容片段：\n{json.dumps(captured_api_json, ensure_ascii=False)[:2500]}\n{'='*40}\n")
 
         id_to_title_map = {}
         
