@@ -60,7 +60,7 @@ def main():
     print(f"\n{'='*60}\n🚀 開始執行自動化爬蟲程序...\n{'='*60}\n")
     
     all_reports = []
-    target_scrapers = ["cathay", "ctbc", "ing"] 
+    target_scrapers = ["cathay", "ctbc", "jri"] 
     
     for _, module_name, _ in pkgutil.iter_modules(scrapers.__path__):
         if module_name == "utils" or module_name not in target_scrapers: continue
