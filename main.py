@@ -93,8 +93,8 @@ def main():
         if module_name == "utils": continue
         
         # 🌟 過濾測試名單
-        if module_name not in target_scrapers: 
-            continue 
+        #if module_name not in target_scrapers: 
+            #continue 
 
         try:
             module = importlib.import_module(f"scrapers.{module_name}")
