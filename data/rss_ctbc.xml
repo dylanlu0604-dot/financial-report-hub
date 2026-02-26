@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>CTBC 財經研究報告</title>
+  <link>https://github.com/您的帳號/您的專案名稱</link>
+  <description>CTBC 最新經濟與金融分析報告自動訂閱源</description>
+  <item>
+    <title>【淘金週報】短期金價受地緣情勢變化震盪，後受結構需求推升</title>
+    <link>https://www.ctbcbank.com/IB/api/adapters/IB_Adapter/resource/report/20260226-C-00-0</link>
+    <description><![CDATA[未執行 AI 摘要]]></description>
+    <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>【泛太攻略】高市勝選激勵日股，澳洲政策拉鋸</title>
+    <link>https://www.ctbcbank.com/IB/api/adapters/IB_Adapter/resource/report/20260226-C-26-0</link>
+    <description><![CDATA[未執行 AI 摘要]]></description>
+    <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>【公用事業產業投資攻略】上調資料中心電力需求展望</title>
+    <link>https://www.ctbcbank.com/IB/api/adapters/IB_Adapter/resource/report/20260226-C-40-0</link>
+    <description><![CDATA[未執行 AI 摘要]]></description>
+    <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>【工業產業攻略】商用航空製造風險未除</title>
+    <link>https://www.ctbcbank.com/IB/api/adapters/IB_Adapter/resource/report/20260225-C-33-0</link>
+    <description><![CDATA[未執行 AI 摘要]]></description>
+    <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>【新興債市】新興債在市場紛擾中展現穩健特性</title>
+    <link>https://www.ctbcbank.com/IB/api/adapters/IB_Adapter/resource/report/20260225-C-42-0</link>
+    <description><![CDATA[未執行 AI 摘要]]></description>
+    <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>【新興亞洲攻略】ＩＥＥＰＡ關稅遭控違法，對新亞是福是禍？</title>
+    <link>https://www.ctbcbank.com/IB/api/adapters/IB_Adapter/resource/report/20260224-C-23-0</link>
+    <description><![CDATA[未執行 AI 摘要]]></description>
+    <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>【產業聚焦】軟體股短期留意潛在機會，長期關注跨平台代理</title>
+    <link>https://www.ctbcbank.com/IB/api/adapters/IB_Adapter/resource/report/20260224-C-30-0</link>
+    <description><![CDATA[未執行 AI 摘要]]></description>
+    <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>【核心消費產業投資攻略】消費Ｋ型化擴及中收入家庭、企業獲利成長承壓</title>
+    <link>https://www.ctbcbank.com/IB/api/adapters/IB_Adapter/resource/report/20260224-C-37-0</link>
+    <description><![CDATA[未執行 AI 摘要]]></description>
+    <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>【科技產業攻略】科技財報１Ｑ２６展望維持樂觀</title>
+    <link>https://www.ctbcbank.com/IB/api/adapters/IB_Adapter/resource/report/20260223-C-31-0</link>
+    <description><![CDATA[未執行 AI 摘要]]></description>
+    <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>【特別報告】春節期間金融市場表現持穩，川普關稅存變數</title>
+    <link>https://www.ctbcbank.com/IB/api/adapters/IB_Adapter/resource/report/20260223-C-90-0</link>
+    <description><![CDATA[未執行 AI 摘要]]></description>
+    <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>【通訊服務產業攻略】通訊服務龍頭財報表現優異</title>
+    <link>https://www.ctbcbank.com/IB/api/adapters/IB_Adapter/resource/report/20260213-C-38-0</link>
+    <description><![CDATA[未執行 AI 摘要]]></description>
+    <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>【歐洲攻略】經濟及獲利預估持穩支撐歐股行情</title>
+    <link>https://www.ctbcbank.com/IB/api/adapters/IB_Adapter/resource/report/20260212-C-22-0</link>
+    <description><![CDATA[未執行 AI 摘要]]></description>
+    <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>【地產產業攻略】地產估值相對折價有機會回升</title>
+    <link>https://www.ctbcbank.com/IB/api/adapters/IB_Adapter/resource/report/20260211-C-39-0</link>
+    <description><![CDATA[未執行 AI 摘要]]></description>
+    <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>【非核心消費產業投資攻略】業績與財測喜憂參半</title>
+    <link>https://www.ctbcbank.com/IB/api/adapters/IB_Adapter/resource/report/20260210-C-32-0</link>
+    <description><![CDATA[未執行 AI 摘要]]></description>
+    <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>【健護產業攻略】藥業降價壓力，但預期利潤率略擴張</title>
+    <link>https://www.ctbcbank.com/IB/api/adapters/IB_Adapter/resource/report/20260209-C-35-0</link>
+    <description><![CDATA[未執行 AI 摘要]]></description>
+    <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>【主要貨幣攻略】Ｆｅｄ新任主席浮上檯面，美元反彈</title>
+    <link>https://www.ctbcbank.com/IB/api/adapters/IB_Adapter/resource/report/20260205-C-51-0</link>
+    <description><![CDATA[未執行 AI 摘要]]></description>
+    <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>【新興與商品貨幣攻略】商品貨幣反彈，澳幣表現亮眼</title>
+    <link>https://www.ctbcbank.com/IB/api/adapters/IB_Adapter/resource/report/20260204-C-52-0</link>
+    <description><![CDATA[未執行 AI 摘要]]></description>
+    <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>【天然資源產業攻略】關鍵礦產仍受資源爭奪支撐</title>
+    <link>https://www.ctbcbank.com/IB/api/adapters/IB_Adapter/resource/report/20260203-C-34-0</link>
+    <description><![CDATA[未執行 AI 摘要]]></description>
+    <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>【金融產業攻略】美銀行業瑕不掩瑜</title>
+    <link>https://www.ctbcbank.com/IB/api/adapters/IB_Adapter/resource/report/20260203-C-36-0</link>
+    <description><![CDATA[未執行 AI 摘要]]></description>
+    <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>【成熟市場債市攻略】解析一月份風險事件對美歐債市影響</title>
+    <link>https://www.ctbcbank.com/IB/api/adapters/IB_Adapter/resource/report/20260202-C-41-0</link>
+    <description><![CDATA[未執行 AI 摘要]]></description>
+    <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>【美國攻略】景氣展望佳，展望資金輪動契機</title>
+    <link>https://www.ctbcbank.com/IB/api/adapters/IB_Adapter/resource/report/20260130-C-21-0</link>
+    <description><![CDATA[未執行 AI 摘要]]></description>
+    <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>【東協投資攻略】東協再創高前關注政策轉向訊號</title>
+    <link>https://www.ctbcbank.com/IB/api/adapters/IB_Adapter/resource/report/20260127-C-25-0</link>
+    <description><![CDATA[未執行 AI 摘要]]></description>
+    <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
+  </item>
+</channel>
+</rss>
