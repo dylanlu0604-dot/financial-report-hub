@@ -1,6 +1,5 @@
 import re
 from urllib.parse import urljoin
-from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright
 from playwright_stealth import Stealth
 
@@ -11,14 +10,17 @@ def extract_date(text):
     return "未知日期"
 
 def scrape():
-    print("🔍 正在爬取 Mega Bank (兆豐銀行) - 🎯 真人點擊與 API 監聽模式...")
+    print("🔍 正在爬取 Mega Bank (兆豐銀行) - 🎯 啟動【API 直連模式】繞過前端按鈕...")
     reports = []
     seen_links = set()
     base_url = "https://www.megabank.com.tw"
-    target_url = "https://www.megabank.com.tw/personal/wealth/financial-service/bulletin/weekly-journal"
     
-    # 這是畫面上實際顯示的按鈕文字
-    categories = ["匯率利率資訊", "投資研究週報", "國際經濟金融週報"]
+    # 兆豐銀行後台真實的分類 ID
+    categories = {
+        "匯率利率資訊": "9eb52bb02dbf422c9d99fb9afa67136d",
+        "投資研究週報": "444b35d4cbe64f1fa586fcf1b8211ac6",
+        "國際經濟金融週報": "95afc2755857498aacd3ba2aadcc793b"
+    }
 
     try:
         with sync_playwright() as p:
@@ -26,62 +28,71 @@ def scrape():
             page = browser.new_page()
             Stealth().apply_stealth_sync(page)
             
-            # 1. 進入頁面
-            page.goto(target_url, wait_until="networkidle", timeout=60000)
-
-            for cat_name in categories:
-                print(f"  👉 正在執行：點擊『{cat_name}』並等待資料庫回應...")
+            # 1. 進入首頁取得合法的 Cookie 與連線權限
+            page.goto(base_url, wait_until="domcontentloaded", timeout=60000)
+            
+            # 2. 針對三個分類，直接用 JavaScript 呼叫兆豐的 API
+            for cat_name, cat_value in categories.items():
+                print(f"  👉 正在直接向兆豐資料庫請求：『{cat_name}』...")
+                
+                # 建構發送給兆豐 API 的請求 (這與他們網頁背後運作的方式一模一樣)
+                fetch_js = f"""
+                async () => {{
+                    const res = await fetch("/api/client/FinancialWeeklyReport/QueryReports?sc_lang=zh-TW&sc_site=bank-zh-tw&dic_lang=zh-TW", {{
+                        method: "POST",
+                        headers: {{
+                            "Content-Type": "application/json; charset=utf-8"
+                        }},
+                        body: JSON.stringify({{
+                            "categoryId": "{cat_value}",
+                            "yearId": "ALL_OPTIONS_VALUE-6cb0b16f9562457a8b64e358d1b3cbc4",
+                            "monthId": "ALL_OPTIONS_VALUE-6cb0b16f9562457a8b64e358d1b3cbc4",
+                            "page": 1
+                        }})
+                    }});
+                    return await res.json();
+                }}
+                """
                 
                 try:
-                    if cat_name != "匯率利率資訊":
-                        # 🌟 核心修正：同時執行「點擊真實文字」與「等待兆豐的 API 回傳新資料」
-                        # 兆豐的資料 API 網址包含 QueryReports
-                        with page.expect_response(lambda r: "QueryReports" in r.url and r.status == 200, timeout=15000):
-                            # 像真人一樣點擊畫面上的文字標籤
-                            page.get_by_text(cat_name, exact=True).click()
+                    # 執行請求並取得乾淨的 JSON 結果
+                    response_data = page.evaluate(fetch_js)
+                    
+                    if response_data and response_data.get("result"):
+                        items = response_data.get("data", [])
+                        print(f"    ✅ 伺服器成功回傳 {len(items)} 筆【{cat_name}】的資料！")
                         
-                        # API 回傳後，給網頁 2 秒鐘把新的 PDF 連結畫到畫面上
-                        page.wait_for_timeout(2000)
+                        for item in items:
+                            title = item.get("title", "").strip()
+                            href = item.get("link", "")
+                            date_str = item.get("formattedDateStr", "")
+                            
+                            if not href or not title: continue
+                            
+                            full_url = urljoin(base_url, href)
+                            
+                            # 收錄條件
+                            if ".pdf" in href.lower() or "download" in href.lower():
+                                if full_url not in seen_links:
+                                    reports.append({
+                                        "Source": f"Mega Bank ({cat_name})", 
+                                        "Date": extract_date(date_str) if date_str else extract_date(title),
+                                        "Name": title,
+                                        "Link": full_url
+                                    })
+                                    seen_links.add(full_url)
                     else:
-                        # 第一個選項預設已載入
-                        page.wait_for_timeout(2000)
-                except Exception as e:
-                    print(f"    ⚠️ 切換『{cat_name}』時未收到新資料，可能網站架構有變。")
-
-                # 2. 抓取真正更新後的內容
-                html_content = page.content()
-                soup = BeautifulSoup(html_content, 'html.parser')
-                items = soup.select('ul[data-wrapper-weekly-list] li.c-dataList__item')
-                
-                for item in items:
-                    a_tag = item.select_one('a.c-dataItem')
-                    title_el = item.select_one('.c-dataItem__title')
-                    date_el = item.select_one('.c-dataItem__date')
-                    
-                    if not a_tag or not title_el: continue
-                    
-                    href = a_tag.get('href', '')
-                    title = title_el.get_text(strip=True)
-                    date_raw = date_el.get_text(strip=True) if date_el else title
-                    
-                    full_url = urljoin(base_url, href)
-                    
-                    if ".pdf" in href.lower() and full_url not in seen_links:
-                        reports.append({
-                            "Source": f"Mega Bank ({cat_name})", 
-                            "Date": extract_date(date_raw),
-                            "Name": title,
-                            "Link": full_url
-                        })
-                        seen_links.add(full_url)
-                        print(f"      ✅ 成功收錄: [{cat_name}] {title[:20]}...")
+                        print(f"    ⚠️ API 回傳失敗或無資料")
+                except Exception as api_err:
+                    print(f"    ❌ API 請求發生錯誤: {api_err}")
 
             browser.close()
     except Exception as e:
-        print(f"  ❌ Mega Bank 執行異常: {e}")
+        print(f"  ❌ Mega Bank 爬取發生嚴重錯誤: {e}")
 
-    print(f"  ✅ Mega Bank 任務結束！共取得 {len(reports)} 筆獨立報告")
+    print(f"  ✅ Mega Bank 最終完美收錄 {len(reports)} 筆報告！")
     return reports
 
 if __name__ == "__main__":
-    scrape()
+    import pprint
+    pprint.pprint(scrape())
