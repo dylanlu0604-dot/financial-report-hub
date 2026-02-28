@@ -50,7 +50,7 @@ def main():
         if module_name == "utils": continue
         
         # 🌟 重新加回：選取部分爬蟲測試
-        target_scrapers = ["wallstreetcn"] 
+        target_scrapers = ["sk_pdfs"] 
 
         if module_name not in target_scrapers: 
             continue 
