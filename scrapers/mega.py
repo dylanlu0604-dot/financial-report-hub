@@ -52,22 +52,34 @@ def scrape():
             page.goto(target_url, wait_until="networkidle", timeout=60000)
             
             # 2. 依次切換分類抓取
+            # 在 mega.py 的分類迴圈中更新這段邏輯
             for cat_name, cat_value in categories.items():
-                print(f"  👉 切換至分類：『{cat_name}』...")
+                print(f"  👉 切換分類至：『{cat_name}』...")
                 
-                # 點擊對應的 Radio Button (使用 JS 點擊避開透明遮罩問題)
                 selector = f'input[value="{cat_value}"]'
                 if page.locator(selector).count() > 0:
+                    # 🌟 修正點 1：先抓目前的標題內容當作「舊標籤」
+                    old_item_text = ""
+                    first_item = page.locator('ul[data-wrapper-weekly-list] li .c-dataItem__title').first
+                    if first_item.count() > 0:
+                        old_item_text = first_item.inner_text()
+            
+                    # 點擊分類
                     page.locator(selector).evaluate("node => node.click()")
                     
-                    # ⚠️ 重要：等待 API 回傳並渲染清單，兆豐的列表標籤是 ul[data-wrapper-weekly-list]
-                    # 等待該分類的第一筆資料出現（以此判定載入完成）
+                    # 🌟 修正點 2：精確等待內容更新
+                    # 必須等到第一個項目的文字與剛才不同，或是等到特定的關鍵字出現
                     try:
-                        page.wait_for_selector('ul[data-wrapper-weekly-list] li', timeout=15000)
-                        page.wait_for_timeout(1000) # 額外給 1 秒保險
+                        page.wait_for_function(
+                            f"""() => {{
+                                const el = document.querySelector('ul[data-wrapper-weekly-list] li .c-dataItem__title');
+                                return el && el.innerText !== `{old_item_text}`;
+                            }}""",
+                            timeout=15000
+                        )
+                        page.wait_for_timeout(1000) # 給予額外緩衝
                     except:
-                        print(f"    ⚠️ 分類『{cat_name}』似乎沒有內容或載入過久，跳過...")
-                        continue
+                        print(f"    ⚠️ 分類『{cat_name}』可能本來就長這樣，或載入較慢...")
 
                     # 3. 解析當前分類的 HTML
                     soup = BeautifulSoup(page.content(), 'html.parser')
