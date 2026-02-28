@@ -3,6 +3,7 @@ from urllib.parse import urljoin
 from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright
 from playwright_stealth import Stealth
+from datetime import datetime
 
 def clean_text(text):
     return re.sub(r'\s+', ' ', text).strip() if text else ""
@@ -36,9 +37,11 @@ def scrape():
             html_content = page.content()
             soup = BeautifulSoup(html_content, 'html.parser')
             
-            # 華爾街見聞的文章列表通常包在 class 包含 list-item 或 article 的區塊中
-            # 我們直接尋找所有指向 /articles/ 的連結
-            article_links = soup.find_all('a', href=re.compile(r'^/articles/\d+'))
+            # 🌟 修正 1：放寬網址匹配條件 (只要網址包含 /articles/ 數字就通通抓)
+            article_links = soup.find_all('a', href=re.compile(r'/articles/\d+'))
+            
+            # 🌟 修正 2：強制設定日期為今天 (YYYY-MM-DD)，這樣 main.py 就不會把它當垃圾刪掉
+            today_str = datetime.now().strftime("%Y-%m-%d")
             
             for a in article_links:
                 href = a.get('href')
@@ -53,22 +56,12 @@ def scrape():
                 if not title or len(title) < 5:  # 過濾掉只有圖片沒有文字的標籤
                     continue
                 
-                # 抓取日期 (華爾街見聞通常在標題附近會有 span class="time" 或類似的標籤)
-                # 為了確保系統穩定，若抓不到具體日期，預設標記為今日或提取網頁中的時間字串
-                date_str = "最新文章"
-                parent = a.find_parent('div')
-                if parent:
-                    time_el = parent.find(string=re.compile(r'\d{4}-\d{2}-\d{2}|\d{2}-\d{2} \d{2}:\d{2}'))
-                    if time_el:
-                        match = re.search(r'(\d{4}-\d{2}-\d{2})', time_el)
-                        if match:
-                            date_str = match.group(1)
-                
                 reports.append({
-                    "Source": "華爾街見聞 (Global)",
-                    "Date": date_str,
+                    "Source": "華爾街見聞",
+                    "Date": today_str,    # 👈 直接標記為今天日期
                     "Name": title,
-                    "Link": full_url  # 🌟 這裡是一般的網頁 HTML 連結，不是 PDF
+                    "Link": full_url,
+                    "Type": "Web"         # 👈 告訴 main.py 這是網頁，請啟動網頁轉 PDF 功能
                 })
                 seen_links.add(full_url)
                 
