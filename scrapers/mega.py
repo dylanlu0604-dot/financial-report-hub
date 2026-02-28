@@ -10,13 +10,14 @@ def extract_date(text):
     return "未知日期"
 
 def scrape():
-    # 🌟 只要看到這行字，就代表您成功更新到最新版了！
-    print("🔍 正在爬取 Mega Bank (兆豐銀行) - 🎯 啟用【後台 API 直連模式】(絕對不抓錯版)...")
+    # 🌟🌟🌟 注意這裡！如果您執行時沒看到這行字，代表您沒存檔或改錯檔案了！
+    print("🔍 正在爬取 Mega Bank (兆豐銀行) - 🎯 啟動【API 直連模式】繞過前端按鈕...")
+    
     reports = []
     seen_links = set()
     base_url = "https://www.megabank.com.tw"
     
-    # 兆豐後台真實的分類 ID
+    # 兆豐後台真實的分類 ID (絕對不會抓錯)
     categories = {
         "匯率利率資訊": "9eb52bb02dbf422c9d99fb9afa67136d",
         "投資研究週報": "444b35d4cbe64f1fa586fcf1b8211ac6",
@@ -37,7 +38,7 @@ def scrape():
             
             # 2. 針對三個分類，直接用 JavaScript 呼叫兆豐的底層 API
             for cat_name, cat_value in categories.items():
-                print(f"  👉 正在直接向兆豐後台請求：『{cat_name}』...")
+                print(f"  👉 正在直接向兆豐資料庫請求：『{cat_name}』...")
                 
                 # 直接發送封包拿資料，徹底繞過前端爛網頁
                 fetch_js = f"""
@@ -82,7 +83,7 @@ def scrape():
                                         "Link": full_url
                                     })
                                     seen_links.add(full_url)
-                                    print(f"    ✅ 成功提取: [{cat_name}] {title[:20]}...")
+                                    print(f"    ✅ 成功提取: [{cat_name}] {title[:25]}...")
                     else:
                         print(f"    ⚠️ API 回傳失敗或無資料")
                 except Exception as api_err:
