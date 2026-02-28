@@ -50,10 +50,10 @@ def main():
         if module_name == "utils": continue
         
         # 🌟 重新加回：選取部分爬蟲測試
-        #target_scrapers = ["refinitiv"] 
+        target_scrapers = ["ubot"] 
 
-        #if module_name not in target_scrapers: 
-            #continue 
+        if module_name not in target_scrapers: 
+            continue 
             
         try:
             module = importlib.import_module(f"scrapers.{module_name}")
@@ -188,11 +188,17 @@ def main():
                                 print(f"    ✅ 下載成功")
                             except Exception:
                                 if original_url.startswith("http"):
-                                    res = context.request.get(original_url, headers={"Referer": original_url})
-                                    if b'%PDF' in res.body()[:10]:
-                                        with open(local_filepath, "wb") as f: f.write(res.body())
-                                        print("    ✅ 備案轉存成功！")
-
+                                    # 🌟 修正：幫網址進行安全編碼，避免標頭包含中文字元導致崩潰
+                                    import urllib.parse
+                                    safe_referer = urllib.parse.quote(original_url, safe=':/=?&')
+                                    
+                                    try:
+                                        res = context.request.get(original_url, headers={"Referer": safe_referer})
+                                        if b'%PDF' in res.body()[:10]:
+                                            with open(local_filepath, "wb") as f: f.write(res.body())
+                                            print("    ✅ 備案轉存成功！")
+                                    except Exception as backup_e:
+                                        print(f"    ❌ 備案轉存也失敗: {str(backup_e)[:30]}")
                     browser.close()
 
                 except Exception as e:
