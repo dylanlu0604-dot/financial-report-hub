@@ -66,7 +66,7 @@ def main():
     if not all_reports:
         print("\n❌ 未抓到任何資料"); return
 
-    # 🧹 資料清理：Regex 日期標準化與 30 天內過濾
+    # 🧹 資料清理：Regex 日期標準化與動態天數過濾
     unique_reports = []
     seen_links = set()
     for report in all_reports:
@@ -82,7 +82,14 @@ def main():
                 report['Date'] = dt_obj.strftime("%Y-%m-%d")
             except: pass
             
-        if report.get('Date') == "未知日期" or not report.get('Date') or (dt_obj and (datetime.now() - dt_obj).days <= 30):
+        # 🌟 關鍵修改：針對不同報告設定專屬的天數限制
+        if "Top of Mind" in report.get('Name', ''):
+            days_limit = 90  # 高盛 Top of Mind 放寬到近 90 天
+        else:
+            days_limit = 30  # 其他所有銀行的報告維持近 30 天
+            
+        # 根據上面設定的 days_limit 來過濾日期
+        if report.get('Date') == "未知日期" or not report.get('Date') or (dt_obj and (datetime.now() - dt_obj).days <= days_limit):
             unique_reports.append(report)
             seen_links.add(report['Link'])
 
