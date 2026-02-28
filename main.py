@@ -89,7 +89,7 @@ def main():
     print(f"\n📊 總共找到 {len(unique_reports)} 筆符合條件的報告。")
     
     # ==========================================
-    # 📥 終極修正：物理隔離下載法 (徹底解決檔案內容重複問題)
+    # 📥 終極修正：物理隔離下載法 (支援 PDF 與 網頁文章)
     # ==========================================
     print(f"\n{'='*60}\n📥 啟動【物理隔離】下載模式 (防止內容重複)...\n")
     pdf_folder = "all report pdf"
@@ -97,9 +97,20 @@ def main():
     
     for i, report in enumerate(unique_reports, 1):
         original_url = report.get('Link', '')
-        # 🌟 初始化 PageCount，防止 KeyError 導致程式崩潰
         report['PageCount'] = "未知" 
         
+        # 🌟 判斷是否為網頁文章 (例如華爾街見聞)
+        is_web_article = report.get('Type') == 'Web' or not ('.pdf' in original_url.lower() or 'download' in original_url.lower())
+
+        if is_web_article:
+            # 如果是網頁文章，我們不下載檔案，直接保留原網址供點擊
+            print(f"[{i}/{len(unique_reports)}] 🌐 網頁文章跳過下載: {report['Name'][:15]}...")
+            report['OriginalLink'] = original_url
+            report['Link'] = original_url # 保持原始網址，不要換成 GitHub Raw
+            report['PageCount'] = "網頁文章"
+            continue # 直接跳到下一個報告，不執行後面的 Playwright 下載與 pdfplumber
+        
+        # --- 以下是原本的 PDF 下載與處理邏輯 ---
         safe_title = re.sub(r'[\\/*?:"<>|]', "_", report['Name']).strip()
         local_filename = f"{safe_title}.pdf"
         local_filepath = os.path.join(pdf_folder, local_filename)
@@ -136,7 +147,6 @@ def main():
                         download.save_as(local_filepath)
                         print(f"    ✅ 下載成功")
                     except Exception:
-                        # 🌟 修正點：確保 get 的是 original_url 而不是空白頁面 about:blank
                         if original_url.startswith("http"):
                             res = context.request.get(original_url)
                             if b'%PDF' in res.body()[:10]:
