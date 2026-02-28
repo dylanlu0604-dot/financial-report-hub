@@ -1,5 +1,6 @@
 import json
 import re
+import urllib.parse
 from datetime import datetime, timedelta
 from playwright.sync_api import sync_playwright
 from playwright_stealth import Stealth
@@ -14,7 +15,7 @@ def scrape():
     # 目標列表頁
     target_url = "https://data.eastmoney.com/report/macresearch.jshtml"
     
-    # 取得 30 天前的日期，用來過濾舊報告，節省進入詳情頁抓 PDF 連結的時間
+    # 取得 30 天前的日期，用來過濾舊報告
     thirty_days_ago = datetime.now() - timedelta(days=30)
     
     try:
@@ -32,7 +33,7 @@ def scrape():
             page.goto(target_url, wait_until="domcontentloaded", timeout=60000)
             html_content = page.content()
             
-            # 2. 利用 Regex 提取內嵌的 JSON 資料 (var initdata = {...})
+            # 2. 利用 Regex 提取內嵌的 JSON 資料
             match = re.search(r'var\s+initdata\s*=\s*(\{.*?\});', html_content, re.DOTALL)
             if not match:
                 print("  ❌ 找不到 initdata，可能網頁結構已改變")
@@ -47,14 +48,14 @@ def scrape():
             # 3. 遍歷每一篇報告
             for idx, item in enumerate(items, 1):
                 title = item.get("title", "").strip()
-                date_str = item.get("publishDate", "")[:10] # 截取 "YYYY-MM-DD"
+                date_str = item.get("publishDate", "")[:10] 
                 org_name = item.get("orgSName", "未知機構")
-                report_id = item.get("id", "")
+                encode_url = item.get("encodeUrl", "")
                 
-                if not report_id or not date_str:
+                if not encode_url or not date_str:
                     continue
                     
-                # 時間過濾：超過 30 天的直接跳過，不花時間去抓詳情頁
+                # 時間過濾
                 try:
                     publish_date = datetime.strptime(date_str, "%Y-%m-%d")
                     if publish_date < thirty_days_ago:
@@ -62,25 +63,25 @@ def scrape():
                 except ValueError:
                     pass
                 
-                # 組合詳情頁網址
-                detail_url = f"https://data.eastmoney.com/report/info/{report_id}.html"
+                # 🌟 修正點：使用正確的詳情頁網址結構，並將 encode_url 進行 URL 編碼
+                safe_encode_url = urllib.parse.quote(encode_url)
+                detail_url = f"https://data.eastmoney.com/report/zw_macresearch.jshtml?encodeUrl={safe_encode_url}"
                 pdf_url = ""
                 
                 # 4. 進入詳情頁抓取真實的 PDF 下載連結
                 try:
                     page.goto(detail_url, wait_until="domcontentloaded", timeout=15000)
                     
-                    # 尋找包含 pdf.dfcfw.com 的真實載點
-                    pdf_element = page.locator('a[href*="pdf.dfcfw.com"]').first
-                    if pdf_element.count() > 0:
-                        pdf_url = pdf_element.get_attribute("href")
+                    # 🌟 修正點：直接尋找包含「查看PDF原文」的連結，並加上等待機制確保元素載入
+                    page.wait_for_selector('a:has-text("查看PDF原文")', timeout=10000)
+                    pdf_element = page.locator('a:has-text("查看PDF原文")').first
+                    pdf_url = pdf_element.get_attribute("href")
                         
                 except Exception as e:
-                    print(f"  ⚠️ 獲取 PDF 連結失敗 ({title}): {str(e)[:30]}")
+                    print(f"  ⚠️ 獲取 PDF 連結失敗 ({title}): 找不到按鈕或載入超時")
                 
                 if pdf_url:
                     reports.append({
-                        # 標示出具報告的券商，並加上東方財富的來源標籤
                         "Source": f"{org_name} (東方財富)", 
                         "Date": date_str,
                         "Name": title,
@@ -96,7 +97,6 @@ def scrape():
     print(f"  ✅ Eastmoney 最終成功收錄 {len(reports)} 筆近期宏觀研報")
     return reports
 
-# 單獨測試區塊
 if __name__ == "__main__":
     import pprint
     result = scrape()
