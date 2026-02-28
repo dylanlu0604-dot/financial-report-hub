@@ -48,9 +48,9 @@ def main():
         if module_name == "utils": continue
         
         # 測試指定的爬蟲
-        target_scrapers = ["ctbc","wallstreetcn"] 
-        if module_name not in target_scrapers: 
-            continue 
+        #target_scrapers = ["ctbc","wallstreetcn"] 
+        #if module_name not in target_scrapers: 
+            #continue 
             
         try:
             module = importlib.import_module(f"scrapers.{module_name}")
