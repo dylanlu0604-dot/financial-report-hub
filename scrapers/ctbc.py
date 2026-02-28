@@ -153,7 +153,8 @@ def scrape():
         # 🔨 組裝並過濾最終報告名單
         # ==========================================
         for r_id, real_title in id_to_title_map.items():
-            hidden_url = f"https://www.ctbcbank.com/IB/api/adapters/IB_Adapter/resource/report/{r_id}"
+            # 🌟 關鍵修正：在網址結尾掛上 #.pdf，讓 main.py 辨識為實體檔案，且不影響原始 API 請求
+            hidden_url = f"https://www.ctbcbank.com/IB/api/adapters/IB_Adapter/resource/report/{r_id}#.pdf"
             
             # 從 ID 或是剛剛寫好的工具萃取日期
             _, date_text = extract_info_from_url(hidden_url)
@@ -164,8 +165,9 @@ def scrape():
             reports.append({
                 "Source": "CTBC",
                 "Date": date_text,
-                "Name": clean_title(real_title),  # 🌟 這裡終於用上真實標題了！
-                "Link": hidden_url
+                "Name": clean_title(real_title),  
+                "Link": hidden_url,
+                "Type": "PDF" # 明確標示為實體 PDF
             })
 
     except Exception as e:
@@ -175,3 +177,6 @@ def scrape():
 
     print(f"  ✅ CTBC 最終成功收錄 {len(reports)} 筆報告")
     return reports
+
+if __name__ == "__main__":
+    scrape()
