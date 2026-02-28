@@ -9,7 +9,7 @@ def clean_text(text):
     return re.sub(r'\s+', ' ', text).strip() if text else ""
 
 def scrape():
-    print("🔍 正在爬取 華爾街見聞 (WallstreetCN) - 🎯 全球宏觀新聞 (前三頁)...")
+    print("🔍 正在爬取 華爾街見聞 (WallstreetCN) - 🎯 全球宏觀新聞 (限量前 10 篇)...")
     reports = []
     seen_links = set()
     base_url = "https://wallstreetcn.com"
@@ -27,23 +27,24 @@ def scrape():
             # 1. 進入目標頁面
             page.goto(target_url, wait_until="networkidle", timeout=60000)
             
-            # 2. 模擬向下滾動 (翻三頁)
-            print("  👉 正在向下滾動加載文章...")
-            for i in range(3):
-                page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
-                page.wait_for_timeout(2000)  # 等待新文章透過 API 載入
+            # 2. 模擬向下滾動 (只翻 1 次就好，因為 1 次通常就有十幾篇了)
+            print("  👉 正在載入最新文章...")
+            page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
+            page.wait_for_timeout(2000)
 
-            # 3. 解析加載後的 HTML
+            # 3. 解析 HTML
             html_content = page.content()
             soup = BeautifulSoup(html_content, 'html.parser')
             
-            # 🌟 修正 1：放寬網址匹配條件 (只要網址包含 /articles/ 數字就通通抓)
+            # 抓取所有文章連結
             article_links = soup.find_all('a', href=re.compile(r'/articles/\d+'))
-            
-            # 🌟 修正 2：強制設定日期為今天 (YYYY-MM-DD)，這樣 main.py 就不會把它當垃圾刪掉
             today_str = datetime.now().strftime("%Y-%m-%d")
             
             for a in article_links:
+                # 🌟 加入數量限制煞車：如果已經抓滿 10 篇，就提早結束迴圈！
+                if len(reports) >= 10:
+                    break
+
                 href = a.get('href')
                 full_url = urljoin(base_url, href)
                 
@@ -53,15 +54,15 @@ def scrape():
                 
                 # 抓取標題
                 title = clean_text(a.get_text())
-                if not title or len(title) < 5:  # 過濾掉只有圖片沒有文字的標籤
+                if not title or len(title) < 5:  
                     continue
                 
                 reports.append({
                     "Source": "華爾街見聞",
-                    "Date": today_str,    # 👈 直接標記為今天日期
+                    "Date": today_str,
                     "Name": title,
                     "Link": full_url,
-                    "Type": "Web"         # 👈 告訴 main.py 這是網頁，請啟動網頁轉 PDF 功能
+                    "Type": "Web"  # 標記為網頁，供 main.py 轉 PDF
                 })
                 seen_links.add(full_url)
                 
