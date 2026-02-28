@@ -48,7 +48,7 @@ def main():
         if module_name == "utils": continue
         
         # 測試指定的爬蟲
-        target_scrapers = ["ctbc"] 
+        target_scrapers = ["ctbc","wallstreetcn"] 
         if module_name not in target_scrapers: 
             continue 
             
