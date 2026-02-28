@@ -49,8 +49,8 @@ def main():
     for _, module_name, _ in pkgutil.iter_modules(scrapers.__path__):
         if module_name == "utils": continue
         
-        # 🌟 重新加回：選取部分爬蟲測試
-        target_scrapers = ["cathay", "yuanta"] 
+        # 🌟 重新加回：選取部分爬蟲測試 🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯
+        target_scrapers = ["cathay", "mega"] 
 
         if module_name not in target_scrapers: 
             continue 
