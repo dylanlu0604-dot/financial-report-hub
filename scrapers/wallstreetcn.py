@@ -41,8 +41,8 @@ def scrape():
             today_str = datetime.now().strftime("%Y-%m-%d")
             
             for a in article_links:
-                # 🌟 加入數量限制煞車：如果已經抓滿 10 篇，就提早結束迴圈！
-                if len(reports) >= 10:
+                # 🌟 加入數量限制煞車：如果已經抓滿 30 篇，就提早結束迴圈！
+                if len(reports) >= 30:
                     break
 
                 href = a.get('href')
