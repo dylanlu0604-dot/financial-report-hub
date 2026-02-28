@@ -9,8 +9,8 @@ def clean_text(text):
     return re.sub(r'\s+', ' ', text).strip() if text else ""
 
 def scrape():
-    # 🌟 認明這行字！等一下看日誌，一定要出現這行才代表更新成功！
-    print("🔍 正在爬取 Goldman Sachs (高盛) - 🎯 深度尋找真實 PDF 按鈕模式 (修正超時與導覽列)...")
+    # 🌟 請認明這行字：修復 0 篇問題版
+    print("🔍 正在爬取 Goldman Sachs (高盛) - 🎯 深度尋找真實 PDF 按鈕模式 (修復 0 篇問題)...")
     reports = []
     seen_links = set()
     base_url = "https://www.goldmansachs.com"
@@ -25,37 +25,45 @@ def scrape():
             page = context.new_page()
             Stealth().apply_stealth_sync(page)
             
-            # 1. 進入 Top of Mind 列表主頁 (🌟 改用 domcontentloaded 避免超時卡死)
+            # 1. 進入 Top of Mind 列表主頁
             try:
                 page.goto(target_url, wait_until="domcontentloaded", timeout=45000)
-                page.wait_for_timeout(3000) # 給網頁 3 秒鐘渲染文章清單
+                page.wait_for_timeout(3000) 
             except Exception as e:
                 print(f"  ⚠️ 主頁載入超時，嘗試強制解析已載入的部分...")
             
             soup = BeautifulSoup(page.content(), 'html.parser')
             
-            # 尋找所有文章連結 (通常放在 /insights/ 之下)
-            article_links = soup.find_all('a', href=re.compile(r'/insights/.*'))
+            # 尋找所有文章連結
+            article_links = soup.find_all('a', href=True)
             valid_articles = []
             
-            # 🌟 排除名單：過濾掉網頁上方的「導覽列選單」，只抓真正的文章
-            exclude_keywords = ['exchanges', 'the markets', 'talks at gs', 'macroeconomics', 'explore insights', 'more +']
+            # 排除無關的導覽列或頁尾按鈕
+            exclude_keywords = ['exchanges', 'the markets', 'talks at gs', 'macroeconomics', 'explore insights', 'more +', 'subscribe', 'careers', 'privacy', 'terms']
             
             for a in article_links:
-                href = a.get('href')
+                href = a.get('href', '')
                 title = clean_text(a.get_text())
                 
-                # 過濾掉無效連結、標題，或是導覽列按鈕
-                if not title or len(title) < 5 or 'top-of-mind' in href:
+                # 過濾無效標題
+                if not title or len(title) < 5:
                     continue
                     
+                # 🌟 關鍵修正：只排除「完全等於主頁」的網址，不誤殺子文章
+                clean_href = href.split('?')[0].rstrip('/')
+                if clean_href in ['/insights/top-of-mind', '/insights', '/']:
+                    continue
+                    
+                # 排除黑名單字眼
                 if any(kw in title.lower() for kw in exclude_keywords):
                     continue
                     
-                full_url = urljoin(base_url, href)
-                if full_url not in seen_links:
-                    valid_articles.append((title, full_url))
-                    seen_links.add(full_url)
+                # 確保是 insights 網域底下的文章
+                if '/insights/' in href:
+                    full_url = urljoin(base_url, href)
+                    if full_url not in seen_links:
+                        valid_articles.append((title, full_url))
+                        seen_links.add(full_url)
 
             # 設定處理上限為前 10 篇
             valid_articles = valid_articles[:10]
@@ -67,7 +75,6 @@ def scrape():
             for title, article_url in valid_articles:
                 print(f"    🕵️ 正在進入文章: {title[:20]}...")
                 try:
-                    # 🌟 同樣改為 domcontentloaded 避免內頁卡死，並加上 try...except 防護
                     page.goto(article_url, wait_until="domcontentloaded", timeout=20000)
                     page.wait_for_timeout(2000)
                     
@@ -94,7 +101,7 @@ def scrape():
                         })
                         print(f"      ✅ 成功挖出實體 PDF 載點！")
                     else:
-                        print(f"      ⚠️ 這篇文章未提供官方 PDF 按鈕，直接跳過。")
+                        print(f"      ⚠️ 未提供官方 PDF 按鈕，跳過。")
                         
                 except Exception as e:
                     print(f"      ❌ 進入文章失敗: {str(e)[:30]}")
