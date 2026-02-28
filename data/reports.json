@@ -1,32 +1,22 @@
 [
   {
-    "Source": "YesFund",
-    "Date": "2026-02-23",
-    "Name": "聯邦銀行卓越金融洞察(週)_20260223",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E8%81%AF%E9%82%A6%E9%8A%80%E8%A1%8C%E5%8D%93%E8%B6%8A%E9%87%91%E8%9E%8D%E6%B4%9E%E5%AF%9F%28%E9%80%B1%29_20260223.pdf",
-    "PageCount": 22,
-    "OriginalLink": "https://www.yesfund.com.tw/SaveFile/聯邦銀行卓越金融洞察_20260223.pdf",
-    "LocalPath": "all report pdf/%E8%81%AF%E9%82%A6%E9%8A%80%E8%A1%8C%E5%8D%93%E8%B6%8A%E9%87%91%E8%9E%8D%E6%B4%9E%E5%AF%9F%28%E9%80%B1%29_20260223.pdf",
+    "Source": "KGI (凱基證券)",
+    "Date": "2026-02-22",
+    "Name": "KGI Weekly Kickstart (2026-02-22)",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/KGI%20Weekly%20Kickstart%20%282026-02-22%29.pdf",
+    "PageCount": 11,
+    "OriginalLink": "https://www.kgi.com.tw/zh-tw/-/media/files/kgis/strategy/ips/weekly_kickstart/2026/February/0222.pdf",
+    "LocalPath": "all report pdf/KGI%20Weekly%20Kickstart%20%282026-02-22%29.pdf",
     "Summary": "未執行 AI 摘要"
   },
   {
-    "Source": "YesFund",
-    "Date": "2026-02-09",
-    "Name": "聯邦銀行卓越金融洞察(週)_20260209",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E8%81%AF%E9%82%A6%E9%8A%80%E8%A1%8C%E5%8D%93%E8%B6%8A%E9%87%91%E8%9E%8D%E6%B4%9E%E5%AF%9F%28%E9%80%B1%29_20260209.pdf",
-    "PageCount": 27,
-    "OriginalLink": "https://www.yesfund.com.tw/SaveFile/聯邦銀行卓越金融洞察_20260209.pdf",
-    "LocalPath": "all report pdf/%E8%81%AF%E9%82%A6%E9%8A%80%E8%A1%8C%E5%8D%93%E8%B6%8A%E9%87%91%E8%9E%8D%E6%B4%9E%E5%AF%9F%28%E9%80%B1%29_20260209.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "YesFund",
-    "Date": "2026-02-02",
-    "Name": "聯邦銀行卓越金融洞察(月)_20260202",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E8%81%AF%E9%82%A6%E9%8A%80%E8%A1%8C%E5%8D%93%E8%B6%8A%E9%87%91%E8%9E%8D%E6%B4%9E%E5%AF%9F%28%E6%9C%88%29_20260202.pdf",
-    "PageCount": 32,
-    "OriginalLink": "https://www.yesfund.com.tw/SaveFile/聯邦銀行卓越金融洞察_20260202.pdf",
-    "LocalPath": "all report pdf/%E8%81%AF%E9%82%A6%E9%8A%80%E8%A1%8C%E5%8D%93%E8%B6%8A%E9%87%91%E8%9E%8D%E6%B4%9E%E5%AF%9F%28%E6%9C%88%29_20260202.pdf",
+    "Source": "KGI (凱基證券)",
+    "Date": "2026-02-06",
+    "Name": "KGI Weekly Kickstart (2026-02-06)",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/KGI%20Weekly%20Kickstart%20%282026-02-06%29.pdf",
+    "PageCount": 17,
+    "OriginalLink": "https://www.kgi.com.tw/zh-tw/-/media/files/kgis/strategy/ips/weekly_kickstart/2026/February/0206.pdf",
+    "LocalPath": "all report pdf/KGI%20Weekly%20Kickstart%20%282026-02-06%29.pdf",
     "Summary": "未執行 AI 摘要"
   }
 ]
