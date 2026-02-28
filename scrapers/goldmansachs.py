@@ -9,8 +9,8 @@ def clean_text(text):
     return re.sub(r'\s+', ' ', text).strip() if text else ""
 
 def scrape():
-    # 🌟 請認明這行字：修復 0 篇問題版
-    print("🔍 正在爬取 Goldman Sachs (高盛) - 🎯 深度尋找真實 PDF 按鈕模式 (修復 0 篇問題)...")
+    # 🌟 請認明這行字：日期標題完美解析版
+    print("🔍 正在爬取 Goldman Sachs (高盛) - 🎯 深度挖掘與日期標題完美解析模式...")
     reports = []
     seen_links = set()
     base_url = "https://www.goldmansachs.com"
@@ -25,62 +25,75 @@ def scrape():
             page = context.new_page()
             Stealth().apply_stealth_sync(page)
             
-            # 1. 進入 Top of Mind 列表主頁
             try:
                 page.goto(target_url, wait_until="domcontentloaded", timeout=45000)
                 page.wait_for_timeout(3000) 
             except Exception as e:
-                print(f"  ⚠️ 主頁載入超時，嘗試強制解析已載入的部分...")
+                print(f"  ⚠️ 主頁載入超時，嘗試強制解析...")
             
             soup = BeautifulSoup(page.content(), 'html.parser')
-            
-            # 尋找所有文章連結
             article_links = soup.find_all('a', href=True)
             valid_articles = []
             
-            # 排除無關的導覽列或頁尾按鈕
             exclude_keywords = ['exchanges', 'the markets', 'talks at gs', 'macroeconomics', 'explore insights', 'more +', 'subscribe', 'careers', 'privacy', 'terms']
             
             for a in article_links:
                 href = a.get('href', '')
-                title = clean_text(a.get_text())
                 
-                # 過濾無效標題
-                if not title or len(title) < 5:
-                    continue
-                    
-                # 🌟 關鍵修正：只排除「完全等於主頁」的網址，不誤殺子文章
+                # 🌟 修正 1：加上 separator=' '，確保不同標籤文字不會黏在一起
+                raw_text = clean_text(a.get_text(separator=' '))
+                
                 clean_href = href.split('?')[0].rstrip('/')
                 if clean_href in ['/insights/top-of-mind', '/insights', '/']:
                     continue
                     
-                # 排除黑名單字眼
-                if any(kw in title.lower() for kw in exclude_keywords):
-                    continue
-                    
-                # 確保是 insights 網域底下的文章
                 if '/insights/' in href:
+                    # 🌟 修正 2：用正則表達式萃取日期 (例如 Feb 3, 2026)
+                    date_match = re.search(r'(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\s+(\d{1,2}),\s+(\d{4})', raw_text, re.IGNORECASE)
+                    
+                    report_date = datetime.now().strftime("%Y-%m-%d") # 預設今天
+                    clean_title = raw_text
+
+                    # 將英文日期轉為標準的 YYYY-MM-DD
+                    if date_match:
+                        try:
+                            month_str = date_match.group(1)[:3].title()
+                            day_str = date_match.group(2)
+                            year_str = date_match.group(3)
+                            date_obj = datetime.strptime(f"{month_str} {day_str}, {year_str}", "%b %d, %Y")
+                            report_date = date_obj.strftime("%Y-%m-%d")
+                            
+                            # 把標題後面的日期文字切掉
+                            clean_title = raw_text[:date_match.start()].strip()
+                        except:
+                            pass
+                    
+                    # 🌟 修正 3：切除標題前面重複的 "Top of Mind"
+                    clean_title = re.sub(r'^(Top of Mind\s*-?\s*)+', '', clean_title, flags=re.IGNORECASE).strip()
+
+                    # 過濾空標題或黑名單
+                    if not clean_title or len(clean_title) < 5:
+                        continue
+                    if any(kw in clean_title.lower() for kw in exclude_keywords):
+                        continue
+                        
                     full_url = urljoin(base_url, href)
                     if full_url not in seen_links:
-                        valid_articles.append((title, full_url))
+                        valid_articles.append((clean_title, report_date, full_url))
                         seen_links.add(full_url)
 
-            # 設定處理上限為前 10 篇
             valid_articles = valid_articles[:10]
-            print(f"  👉 找到 {len(valid_articles)} 篇真實文章，準備進入內頁挖掘官方 PDF...")
+            print(f"  👉 找到 {len(valid_articles)} 篇真實文章，準備挖掘 PDF...")
             
-            today_str = datetime.now().strftime("%Y-%m-%d")
-            
-            # 2. 點進每一篇文章，開始尋找真實的 PDF 按鈕
-            for title, article_url in valid_articles:
-                print(f"    🕵️ 正在進入文章: {title[:20]}...")
+            # 2. 點進文章挖掘 PDF
+            for title, article_date, article_url in valid_articles:
+                print(f"    🕵️ 正在進入文章: {title[:20]}... ({article_date})")
                 try:
                     page.goto(article_url, wait_until="domcontentloaded", timeout=20000)
                     page.wait_for_timeout(2000)
                     
                     article_soup = BeautifulSoup(page.content(), 'html.parser')
                     
-                    # 暴力掃描所有超連結，尋找「下載 PDF」的蛛絲馬跡
                     pdf_href = None
                     for a_tag in article_soup.find_all('a', href=True):
                         href_val = a_tag.get('href', '')
@@ -94,12 +107,12 @@ def scrape():
                         full_pdf_url = urljoin(base_url, pdf_href)
                         reports.append({
                             "Source": "Goldman Sachs",
-                            "Date": today_str,
+                            "Date": article_date, # 🌟 填入正確解析出來的日期
                             "Name": f"Top of Mind - {title}",
                             "Link": full_pdf_url,
                             "Type": "PDF" 
                         })
-                        print(f"      ✅ 成功挖出實體 PDF 載點！")
+                        print(f"      ✅ 挖出實體 PDF 載點！")
                     else:
                         print(f"      ⚠️ 未提供官方 PDF 按鈕，跳過。")
                         
