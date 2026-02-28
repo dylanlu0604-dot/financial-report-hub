@@ -50,7 +50,7 @@ def main():
         if module_name == "utils": continue
         
         # 🌟 重新加回：選取部分爬蟲測試
-        target_scrapers = ["mega"] 
+        target_scrapers = ["ubot"] 
 
         if module_name not in target_scrapers: 
             continue 
