@@ -9,7 +9,7 @@ def clean_text(text):
     return re.sub(r'\s+', ' ', text).strip() if text else ""
 
 def scrape():
-    print("🔍 正在爬取 Goldman Sachs (高盛) - 🎯 深度尋找真實 PDF 按鈕模式...")
+    print("🔍 正在爬取 Goldman Sachs (高盛) - 🎯 深度尋找真實 PDF 按鈕模式 (修正超時與導覽列)...")
     reports = []
     seen_links = set()
     base_url = "https://www.goldmansachs.com"
@@ -24,8 +24,12 @@ def scrape():
             page = context.new_page()
             Stealth().apply_stealth_sync(page)
             
-            # 1. 進入 Top of Mind 列表主頁
-            page.goto(target_url, wait_until="networkidle", timeout=60000)
+            # 1. 進入 Top of Mind 列表主頁 (🌟 改用 domcontentloaded 避免超時卡死)
+            try:
+                page.goto(target_url, wait_until="domcontentloaded", timeout=45000)
+                page.wait_for_timeout(3000) # 給網頁 3 秒鐘渲染文章清單
+            except Exception as e:
+                print(f"  ⚠️ 主頁載入超時，嘗試強制解析已載入的部分...")
             
             soup = BeautifulSoup(page.content(), 'html.parser')
             
@@ -33,12 +37,18 @@ def scrape():
             article_links = soup.find_all('a', href=re.compile(r'/insights/.*'))
             valid_articles = []
             
+            # 🌟 排除名單：過濾掉網頁上方的「導覽列選單」，只抓真正的文章
+            exclude_keywords = ['exchanges', 'the markets', 'talks at gs', 'macroeconomics', 'explore insights', 'more +']
+            
             for a in article_links:
                 href = a.get('href')
                 title = clean_text(a.get_text())
                 
-                # 過濾掉無效連結與標題
+                # 過濾掉無效連結、標題，或是導覽列按鈕
                 if not title or len(title) < 5 or 'top-of-mind' in href:
+                    continue
+                    
+                if any(kw in title.lower() for kw in exclude_keywords):
                     continue
                     
                 full_url = urljoin(base_url, href)
@@ -48,7 +58,7 @@ def scrape():
 
             # 設定處理上限為前 10 篇
             valid_articles = valid_articles[:10]
-            print(f"  👉 找到 {len(valid_articles)} 篇潛在文章，準備進入內頁挖掘官方 PDF...")
+            print(f"  👉 找到 {len(valid_articles)} 篇真實文章，準備進入內頁挖掘官方 PDF...")
             
             today_str = datetime.now().strftime("%Y-%m-%d")
             
@@ -56,21 +66,21 @@ def scrape():
             for title, article_url in valid_articles:
                 print(f"    🕵️ 正在進入文章: {title[:20]}...")
                 try:
+                    # 🌟 同樣改為 domcontentloaded 避免內頁卡死，並加上 try...except 防護
                     page.goto(article_url, wait_until="domcontentloaded", timeout=20000)
-                    page.wait_for_timeout(2000) # 給按鈕載入的時間
+                    page.wait_for_timeout(2000)
                     
                     article_soup = BeautifulSoup(page.content(), 'html.parser')
                     
-                    # 🌟 核心修正：暴力掃描所有超連結，尋找「下載 PDF」的蛛絲馬跡
+                    # 暴力掃描所有超連結，尋找「下載 PDF」的蛛絲馬跡
                     pdf_href = None
                     for a_tag in article_soup.find_all('a', href=True):
                         href_val = a_tag.get('href', '')
                         text_val = clean_text(a_tag.get_text()).lower()
                         
-                        # 如果網址有 .pdf，或者按鈕文字寫著 download pdf / download report / ⬇️ 等字眼
                         if '.pdf' in href_val.lower() or 'download pdf' in text_val or 'download report' in text_val:
                             pdf_href = href_val
-                            break # 找到就停止掃描這頁
+                            break
                     
                     if pdf_href:
                         full_pdf_url = urljoin(base_url, pdf_href)
@@ -79,7 +89,7 @@ def scrape():
                             "Date": today_str,
                             "Name": f"Top of Mind - {title}",
                             "Link": full_pdf_url,
-                            "Type": "PDF" # 強制標記為實體 PDF
+                            "Type": "PDF" 
                         })
                         print(f"      ✅ 成功挖出實體 PDF 載點！")
                     else:
