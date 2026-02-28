@@ -128,14 +128,23 @@ def main():
                     # 🌐 路線 A：網頁文章 -> 直接列印成 PDF
                     if is_web_article:
                         print(f"[{i}/{len(unique_reports)}] 🖨️ 網頁轉PDF中: {report['Name'][:15]}...")
-                        # 進入網頁並等待網路穩定
-                        page.goto(original_url, wait_until="networkidle", timeout=45000)
                         
-                        # 🌟 魔法指令：把網頁上的廣告、頂部導覽列隱藏，讓 PDF 看起來像乾淨的報告
-                        page.evaluate("""
-                            const junk = document.querySelectorAll('header, footer, nav, aside, .ad, .sidebar, iframe');
-                            junk.forEach(el => el.style.display = 'none');
-                        """)
+                        # 🌟 關鍵修正：不要等 networkidle！改為 domcontentloaded，把超時限制縮短到 15 秒
+                        try:
+                            page.goto(original_url, wait_until="domcontentloaded", timeout=15000)
+                            page.wait_for_timeout(3000) # 給它額外 3 秒鐘讓重要圖片長出來就好
+                        except Exception:
+                            # 就算超時也沒關係，新聞文字通常 2 秒就載入了，直接硬上轉 PDF
+                            pass
+                        
+                        # 🌟 魔法指令：把網頁上的廣告、頂部導覽列隱藏
+                        try:
+                            page.evaluate("""
+                                const junk = document.querySelectorAll('header, footer, nav, aside, .ad, .sidebar, iframe');
+                                junk.forEach(el => el.style.display = 'none');
+                            """)
+                        except:
+                            pass
                         
                         # 自動將畫面儲存為 A4 大小的 PDF
                         page.pdf(
