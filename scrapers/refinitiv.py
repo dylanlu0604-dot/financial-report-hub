@@ -9,8 +9,7 @@ def clean_text(text):
     return re.sub(r'\s+', ' ', text).strip() if text else ""
 
 def scrape():
-    # 🌟 請認明這行：穿透點擊與全量釋放版
-    print("🔍 正在爬取 Refinitiv Lipper Alpha - 🎯 TJ Dhillon 企業財報 (穿透點擊與全量釋放版)...")
+    print("🔍 正在爬取 Refinitiv Lipper Alpha - 🎯 TJ Dhillon 企業財報 (智能日期防呆版)...")
     reports = []
     seen_links = set()
     base_url = "https://lipperalpha.refinitiv.com"
@@ -26,7 +25,7 @@ def scrape():
             Stealth().apply_stealth_sync(page)
             
             # ==========================================
-            # 第一層：進入主頁，關閉干擾並強制點擊 Load More
+            # 第一層：進入主頁，並點擊 Load More 載入更多
             # ==========================================
             try:
                 page.goto(target_url, wait_until="domcontentloaded", timeout=45000)
@@ -34,37 +33,16 @@ def scrape():
             except Exception:
                 pass
             
-            print("  👉 正在展開更多報告清單 (穿透點擊 Load More)...")
-            
-            # 🌟 關鍵修正 1：先嘗試把礙事的 Cookie 橫幅點掉
-            try:
-                page.evaluate("""
-                    const cookieBtn = Array.from(document.querySelectorAll('a, button')).find(el => el.innerText.includes('Okay to continue') || el.innerText.includes('Accept'));
-                    if (cookieBtn) cookieBtn.click();
-                """)
-                page.wait_for_timeout(1000)
-            except: pass
-
-            # 🌟 關鍵修正 2：使用 JS 強制點擊 (繞過任何遮擋)，連續按 8 次以確保載入超過一個月的份量
-            for _ in range(8): 
+            print("  👉 正在展開更多報告清單 (自動向下捲動與點擊 Load More)...")
+            # 增加捲動與點擊次數，確保能涵蓋超過 30 天的報告量
+            for _ in range(5): 
                 page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
                 page.wait_for_timeout(1500)
                 try:
-                    # 利用 JS 暴力尋找包含 Load More 的按鈕並直接觸發點擊
-                    clicked = page.evaluate("""
-                        () => {
-                            const btns = Array.from(document.querySelectorAll('button, a, span, div')).filter(el => 
-                                el.innerText && el.innerText.toLowerCase().includes('load more')
-                            );
-                            if (btns.length > 0) {
-                                btns[0].click();
-                                return true;
-                            }
-                            return false;
-                        }
-                    """)
-                    if clicked:
-                        page.wait_for_timeout(3500) # 給網頁時間載入新文章
+                    load_more = page.locator("button:has-text('Load More'), a:has-text('Load More'), text='Load More', text='LOAD MORE', text='Load more', .load-more").first
+                    if load_more.is_visible():
+                        load_more.click()
+                        page.wait_for_timeout(3500)
                 except Exception:
                     pass
             
@@ -79,8 +57,7 @@ def scrape():
                 href = a.get('href', '')
                 full_url = urljoin(base_url, href)
                 
-                # 過濾掉雜訊連結
-                if '/contributor/' in href or href == '#' or 'javascript' in href.lower() or 'mailto' in href.lower():
+                if '/contributor/' in href or href == '#' or 'javascript' in href.lower():
                     continue
                 
                 raw_title = clean_text(a.get_text(separator=' '))
@@ -91,10 +68,9 @@ def scrape():
                         if headings:
                             raw_title = clean_text(headings[0].get_text())
 
-                # 🌟 關鍵修正 3：完美支援 Feb. 27 或是 February. 27 這種帶有句點與縮寫的格式
+                # 🌟 關鍵修正 1：完美支援 Feb. 27 或是 February. 27 這種帶有句點的格式
                 date_match = re.search(r'(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\.?\s+(\d{1,2})(?:,?\s+(\d{4}))?', raw_title, re.IGNORECASE)
                 
-                # 如果沒有日期，絕對不收錄！
                 if not date_match:
                     continue
                     
@@ -104,7 +80,7 @@ def scrape():
                         day_str = date_match.group(2)
                         year_str = date_match.group(3)
                         
-                        # 智能推算年份 (解決 2026-05-03 未來日期的 Bug)
+                        # 🌟 關鍵修正 2：智能推算年份。如果標題沒寫年份，且月份大於現在的月份(例如現在是2月，文章寫5月)，那它一定是去年的文章！
                         if not year_str:
                             month_num = datetime.strptime(month_str, "%b").month
                             if month_num > current_month:
@@ -115,7 +91,6 @@ def scrape():
                         date_obj = datetime.strptime(f"{month_str} {day_str}, {year_str}", "%b %d, %Y")
                         report_date = date_obj.strftime("%Y-%m-%d")
                         
-                        # 切除標題後面的日期，保持乾淨
                         clean_title = raw_title[:date_match.start()].strip()
                         clean_title = re.sub(r'^[|\- ]+|[|\- ]+$', '', clean_title).strip()
                         if not clean_title: 
@@ -126,7 +101,7 @@ def scrape():
                     except Exception:
                         pass
 
-            # 抓取前 30 篇有效報告，確保不漏網
+            # 🌟 關鍵修正 3：解除 10 篇的緊箍咒，擴大到 30 篇，確保近期的報告一篇都不漏
             valid_articles = valid_articles[:30]
             print(f"  👉 找到 {len(valid_articles)} 篇附有日期的正確報告，準備抽取 PDF...")
             
