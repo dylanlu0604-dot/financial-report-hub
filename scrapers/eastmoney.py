@@ -82,7 +82,7 @@ def scrape():
                 
                 if pdf_url:
                     reports.append({
-                        "Source": f"{org_name} (東方財富)", 
+                        "Source": f"{org_name}", 
                         "Date": date_str,
                         "Name": title,
                         "Link": pdf_url
