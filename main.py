@@ -50,10 +50,10 @@ def main():
         if module_name == "utils": continue
         
         # 🌟 重新加回：選取部分爬蟲測試
-        #target_scrapers = ["cathay", "ctbc"] 
+        target_scrapers = ["cathay", "eastmoney"] 
 
-        #if module_name not in target_scrapers: 
-            #continue 
+        if module_name not in target_scrapers: 
+            continue 
             
         try:
             module = importlib.import_module(f"scrapers.{module_name}")
