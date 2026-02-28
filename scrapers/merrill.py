@@ -9,7 +9,7 @@ def clean_text(text):
     return re.sub(r'\s+', ' ', text).strip() if text else ""
 
 def scrape():
-    print("🔍 正在爬取 Merrill Lynch (美林) - 🎯 兩層式深入點擊 (修復日期精準解析版)...")
+    print("🔍 正在爬取 Merrill Lynch (美林) - 🎯 PDF 網址精準日期萃取模式...")
     reports = []
     seen_links = set()
     base_url = "https://www.ml.com"
@@ -25,7 +25,7 @@ def scrape():
             Stealth().apply_stealth_sync(page)
             
             # ==========================================
-            # 第一層：進入主頁，收集「文章網址」
+            # 第一層：進入主頁，收集「文章網址」與「標題」
             # ==========================================
             try:
                 page.goto(target_url, wait_until="domcontentloaded", timeout=45000)
@@ -40,7 +40,6 @@ def scrape():
                 pass
             
             soup = BeautifulSoup(page.content(), 'html.parser')
-            
             article_links = soup.find_all('a', href=re.compile(r'capital-market-outlook|insights|article', re.IGNORECASE))
             valid_articles = []
             
@@ -52,74 +51,39 @@ def scrape():
                 if clean_href in ['/capital-market-outlook.html', '/capital-market-outlook', '/']:
                     continue
                 
-                # 🌟 修正 1：擴大日期搜尋範圍，往外找 4 層容器
-                container = a
-                parent_text = ""
-                for _ in range(4):
-                    if container.parent and container.parent.name != 'body':
-                        container = container.parent
-                        parent_text = clean_text(container.get_text(separator=' '))
-                        # 同時支援 Feb 和 February 兩種格式
-                        if re.search(r'(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\s+(\d{1,2}),\s+(\d{4})', parent_text, re.IGNORECASE):
-                            break
-                
-                date_match = re.search(r'(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\s+(\d{1,2}),\s+(\d{4})', parent_text, re.IGNORECASE)
-                
-                if full_url not in seen_links:
-                    report_date = datetime.now().strftime("%Y-%m-%d") # 預設今天
-                    
-                    if date_match:
-                        try:
-                            month_str = date_match.group(1)[:3].title()
-                            date_obj = datetime.strptime(f"{month_str} {date_match.group(2)}, {date_match.group(3)}", "%b %d, %Y")
-                            report_date = date_obj.strftime("%Y-%m-%d")
-                        except Exception:
-                            pass
-                    
-                    raw_title = clean_text(a.get_text(separator=' '))
-                    if len(raw_title) < 5 and container:
-                        headings = container.find_all(['h2', 'h3', 'h4', 'strong', 'p'])
+                # 簡單抓取標題，不理會首頁的日期了
+                raw_title = clean_text(a.get_text(separator=' '))
+                if len(raw_title) < 5:
+                    parent_container = a.find_parent('div', class_=re.compile(r'content|text', re.I)) or a.find_parent('li') or a.parent
+                    if parent_container:
+                        headings = parent_container.find_all(['h2', 'h3', 'h4', 'strong', 'p'])
                         for h in headings:
                             t = clean_text(h.get_text())
                             if len(t) > 10: 
                                 raw_title = t
                                 break
-                    
-                    if date_match:
-                        raw_title = re.sub(date_match.group(0), "", raw_title).strip()
-                    
-                    # 清除可能殘留的 Read more 文字
-                    raw_title = re.sub(r'Read more|Download.*', '', raw_title, flags=re.IGNORECASE).strip()
-                    
-                    if raw_title:
-                        valid_articles.append((raw_title, report_date, full_url))
-                        seen_links.add(full_url)
+                
+                # 清除可能殘留的日期文字 (以防萬一) 與多餘字眼
+                raw_title = re.sub(r'(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\s+(\d{1,2}),\s+(\d{4})', '', raw_title, flags=re.IGNORECASE)
+                raw_title = re.sub(r'Read more|Download.*', '', raw_title, flags=re.IGNORECASE).strip()
+                
+                if raw_title and full_url not in seen_links:
+                    valid_articles.append((raw_title, full_url))
+                    seen_links.add(full_url)
 
             valid_articles = valid_articles[:10]
-            print(f"  👉 找到 {len(valid_articles)} 篇報告文章，準備逐一點擊進入尋找 PDF 與精準日期...")
+            print(f"  👉 找到 {len(valid_articles)} 篇報告文章，準備進入內頁抽取 PDF...")
             
             # ==========================================
-            # 第二層：點進每一篇文章，開始挖掘 PDF 按鈕與最終日期
+            # 第二層：進入內頁，尋找 PDF 並直接從網址萃取日期
             # ==========================================
-            for title, article_date, article_url in valid_articles:
-                print(f"    🕵️ 正在進入文章: {title[:20]}... (初判: {article_date})")
+            for title, article_url in valid_articles:
+                print(f"    🕵️ 正在進入文章: {title[:20]}...")
                 try:
                     page.goto(article_url, wait_until="domcontentloaded", timeout=20000)
                     page.wait_for_timeout(2000)
                     
                     article_soup = BeautifulSoup(page.content(), 'html.parser')
-                    
-                    # 🌟 修正 2：雙重確認機制，直接從文章內頁前 5000 字抓出發布日期覆蓋
-                    inner_text = clean_text(article_soup.get_text(separator=' '))
-                    inner_date_match = re.search(r'(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\s+(\d{1,2}),\s+(\d{4})', inner_text[:5000], re.IGNORECASE)
-                    
-                    if inner_date_match:
-                        try:
-                            month_str = inner_date_match.group(1)[:3].title()
-                            date_obj = datetime.strptime(f"{month_str} {inner_date_match.group(2)}, {inner_date_match.group(3)}", "%b %d, %Y")
-                            article_date = date_obj.strftime("%Y-%m-%d") # 覆蓋為最精準的內頁日期
-                        except Exception:
-                            pass
                     
                     pdf_href = None
                     for a_tag in article_soup.find_all('a', href=True):
@@ -132,23 +96,25 @@ def scrape():
                     
                     if pdf_href:
                         full_pdf_url = urljoin(base_url, pdf_href)
+                        report_date = datetime.now().strftime("%Y-%m-%d") # 預設今天
+                        
+                        # 🌟 終極殺手鐧：直接從 PDF 網址抓出日期 (例如 02-23-2026)
+                        # 網址範例: /content/dam/ML/ecomm/pdf/CMO_Merrill_02-23-2026_ada.pdf
+                        url_date_match = re.search(r'(\d{2})-(\d{2})-(\d{4})', full_pdf_url)
+                        if url_date_match:
+                            month, day, year = url_date_match.groups()
+                            report_date = f"{year}-{month}-{day}" # 轉換為 YYYY-MM-DD
+                        
                         reports.append({
                             "Source": "Merrill Lynch (CMO)",
-                            "Date": article_date,
+                            "Date": report_date,
                             "Name": f"CMO - {title[:60]}",
                             "Link": full_pdf_url,
                             "Type": "PDF"
                         })
-                        print(f"      ✅ 成功挖出實體 PDF！ (最終日期: {article_date})")
+                        print(f"      ✅ 成功挖出 PDF！ (精準日期: {report_date})")
                     else:
-                        print(f"      ⚠️ 內頁未提供官方 PDF，已標記為【網頁轉印模式】")
-                        reports.append({
-                            "Source": "Merrill Lynch (CMO)",
-                            "Date": article_date,
-                            "Name": f"CMO - {title[:60]}",
-                            "Link": article_url,
-                            "Type": "Web"
-                        })
+                        print(f"      ⚠️ 內頁未提供官方 PDF，跳過。")
                         
                 except Exception as e:
                     print(f"      ❌ 進入文章失敗: {str(e)[:30]}")
