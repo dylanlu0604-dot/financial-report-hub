@@ -89,7 +89,7 @@ def main():
     print(f"\n📊 總共找到 {len(unique_reports)} 筆符合條件的報告。")
     
     # ==========================================
-    # 📥 終極修正：支援實體下載與「網頁自動轉 PDF」雙軌模式
+    # 📥 終極修正：物理隔離下載與轉檔模式 (支援韓股秒抓)
     # ==========================================
     print(f"\n{'='*60}\n📥 啟動【物理隔離】下載與轉檔模式...\n")
     pdf_folder = "all report pdf"
@@ -99,10 +99,9 @@ def main():
         original_url = report.get('Link', '')
         report['PageCount'] = "未知" 
         
-        # 🌟 判斷是否為網頁文章 (如果副檔名不是 pdf 且沒有 download 字眼)
-        is_web_article = report.get('Type') == 'Web' or not ('.pdf' in original_url.lower() or 'download' in original_url.lower())
+        # 🌟 修正 1：把 'downpdf' 加入判斷，讓系統知道這是實體 PDF，不要把它當網頁印！
+        is_web_article = report.get('Type') == 'Web' or not ('.pdf' in original_url.lower() or 'download' in original_url.lower() or 'downpdf' in original_url.lower())
 
-        # 統一把名稱清理乾淨，準備存成 PDF 檔名
         safe_title = re.sub(r'[\\/*?:"<>|]', "_", report['Name']).strip()
         local_filename = f"{safe_title}.pdf"
         local_filepath = os.path.join(pdf_folder, local_filename)
@@ -128,25 +127,18 @@ def main():
                     # 🌐 路線 A：網頁文章 -> 直接列印成 PDF
                     if is_web_article:
                         print(f"[{i}/{len(unique_reports)}] 🖨️ 網頁轉PDF中: {report['Name'][:15]}...")
-                        
-                        # 🌟 關鍵修正：不要等 networkidle！改為 domcontentloaded，把超時限制縮短到 15 秒
                         try:
                             page.goto(original_url, wait_until="domcontentloaded", timeout=15000)
-                            page.wait_for_timeout(3000) # 給它額外 3 秒鐘讓重要圖片長出來就好
-                        except Exception:
-                            # 就算超時也沒關係，新聞文字通常 2 秒就載入了，直接硬上轉 PDF
-                            pass
+                            page.wait_for_timeout(3000)
+                        except: pass
                         
-                        # 🌟 魔法指令：把網頁上的廣告、頂部導覽列隱藏
                         try:
                             page.evaluate("""
                                 const junk = document.querySelectorAll('header, footer, nav, aside, .ad, .sidebar, iframe');
                                 junk.forEach(el => el.style.display = 'none');
                             """)
-                        except:
-                            pass
+                        except: pass
                         
-                        # 自動將畫面儲存為 A4 大小的 PDF
                         page.pdf(
                             path=local_filepath, 
                             format="A4", 
@@ -158,31 +150,48 @@ def main():
                     # 📥 路線 B：傳統 PDF -> 直接下載
                     else:
                         print(f"[{i}/{len(unique_reports)}] 🕵️ 實體 PDF 下載: {report['Name'][:15]}...")
-                        if "ctbcbank" in original_url:
-                            page.goto("https://www.ctbcbank.com/twrbo/zh_tw/index.html", wait_until="networkidle", timeout=30000)
-                            time.sleep(random.uniform(2, 4))
-
-                        try:
-                            with page.expect_download(timeout=30000) as download_info:
-                                cache_buster = f"&t={int(time.time() * 1000)}" if "?" in original_url else f"?t={int(time.time() * 1000)}"
-                                page.goto(original_url + cache_buster, wait_until="domcontentloaded", timeout=45000)
+                        
+                        # 🌟 修正 2：Hankyung 專屬秒抓通道 (繞過防盜鏈，不需等待 30 秒)
+                        if "hankyung.com" in original_url:
+                            # 1. 先進入首頁取得通行證 (Cookies)
+                            page.goto("https://consensus.hankyung.com", wait_until="domcontentloaded", timeout=15000)
+                            # 2. 直接發送帶有防盜鏈 (Referer) 的請求抓檔案
+                            res = page.request.get(original_url, headers={"Referer": "https://consensus.hankyung.com/analysis/list"})
                             
-                            download = download_info.value
-                            download.save_as(local_filepath)
-                            print(f"    ✅ 下載成功")
-                        except Exception:
-                            if original_url.startswith("http"):
-                                res = context.request.get(original_url)
-                                if b'%PDF' in res.body()[:10]:
-                                    with open(local_filepath, "wb") as f: f.write(res.body())
-                                    print("    ✅ 備案轉存成功！")
+                            # 確認抓下來的內容真的是 PDF 格式
+                            if b'%PDF' in res.body()[:10]:
+                                with open(local_filepath, "wb") as f: f.write(res.body())
+                                print("    ✅ 韓國券商 PDF 秒抓成功！")
+                            else:
+                                print("    ❌ 抓取失敗 (內容非 PDF，可能被阻擋)")
+                        
+                        # 其他銀行的正常下載邏輯
+                        else:
+                            if "ctbcbank" in original_url:
+                                page.goto("https://www.ctbcbank.com/twrbo/zh_tw/index.html", wait_until="networkidle", timeout=30000)
+                                time.sleep(random.uniform(2, 4))
+
+                            try:
+                                with page.expect_download(timeout=30000) as download_info:
+                                    cache_buster = f"&t={int(time.time() * 1000)}" if "?" in original_url else f"?t={int(time.time() * 1000)}"
+                                    page.goto(original_url + cache_buster, wait_until="domcontentloaded", timeout=45000)
+                                
+                                download = download_info.value
+                                download.save_as(local_filepath)
+                                print(f"    ✅ 下載成功")
+                            except Exception:
+                                if original_url.startswith("http"):
+                                    res = context.request.get(original_url, headers={"Referer": original_url})
+                                    if b'%PDF' in res.body()[:10]:
+                                        with open(local_filepath, "wb") as f: f.write(res.body())
+                                        print("    ✅ 備案轉存成功！")
 
                     browser.close()
 
                 except Exception as e:
                     print(f"    ❌ 下載或轉檔失敗: {str(e)[:50]}")
 
-        # 讀取本地 PDF 頁數 (因為現在網頁也變成實體 PDF 了，所以原本的 pdfplumber 可以完美運作！)
+        # 讀取本地 PDF 頁數
         if os.path.exists(local_filepath):
             try:
                 with pdfplumber.open(local_filepath) as pdf:
