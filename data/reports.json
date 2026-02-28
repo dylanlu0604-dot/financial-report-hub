@@ -1,28 +1,6 @@
 [
   {
     "Source": "Refinitiv Lipper",
-    "Date": "2026-05-05",
-    "Name": "Lipper - S&P 500 Earnings Dashboard 22Q1",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Lipper%20-%20S%26P%20500%20Earnings%20Dashboard%2022Q1.pdf",
-    "Type": "PDF",
-    "PageCount": 11,
-    "OriginalLink": "https://lipperalpha.refinitiv.com/wp-content/uploads/2022/05/TRPR_82201_20220505.pdf",
-    "LocalPath": "all report pdf/Lipper%20-%20S%26P%20500%20Earnings%20Dashboard%2022Q1.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "Refinitiv Lipper",
-    "Date": "2026-05-03",
-    "Name": "Lipper - STOXX 600 Earnings Outlook",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Lipper%20-%20STOXX%20600%20Earnings%20Outlook.pdf",
-    "Type": "PDF",
-    "PageCount": 17,
-    "OriginalLink": "https://lipperalpha.refinitiv.com/wp-content/uploads/2022/04/TRPR_83201_444.pdf",
-    "LocalPath": "all report pdf/Lipper%20-%20STOXX%20600%20Earnings%20Outlook.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "Refinitiv Lipper",
     "Date": "2026-02-27",
     "Name": "Lipper - Russell 2000 Earnings Dashboard 25Q4",
     "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Lipper%20-%20Russell%202000%20Earnings%20Dashboard%2025Q4.pdf",
