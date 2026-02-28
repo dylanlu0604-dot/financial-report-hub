@@ -89,9 +89,9 @@ def main():
     print(f"\n📊 總共找到 {len(unique_reports)} 筆符合條件的報告。")
     
     # ==========================================
-    # 📥 終極修正：物理隔離下載法 (支援 PDF 與 網頁文章)
+    # 📥 終極修正：支援實體下載與「網頁自動轉 PDF」雙軌模式
     # ==========================================
-    print(f"\n{'='*60}\n📥 啟動【物理隔離】下載模式 (防止內容重複)...\n")
+    print(f"\n{'='*60}\n📥 啟動【物理隔離】下載與轉檔模式...\n")
     pdf_folder = "all report pdf"
     os.makedirs(pdf_folder, exist_ok=True)
     
@@ -99,18 +99,10 @@ def main():
         original_url = report.get('Link', '')
         report['PageCount'] = "未知" 
         
-        # 🌟 判斷是否為網頁文章 (例如華爾街見聞)
+        # 🌟 判斷是否為網頁文章 (如果副檔名不是 pdf 且沒有 download 字眼)
         is_web_article = report.get('Type') == 'Web' or not ('.pdf' in original_url.lower() or 'download' in original_url.lower())
 
-        if is_web_article:
-            # 如果是網頁文章，我們不下載檔案，直接保留原網址供點擊
-            print(f"[{i}/{len(unique_reports)}] 🌐 網頁文章跳過下載: {report['Name'][:15]}...")
-            report['OriginalLink'] = original_url
-            report['Link'] = original_url # 保持原始網址，不要換成 GitHub Raw
-            report['PageCount'] = "網頁文章"
-            continue # 直接跳到下一個報告，不執行後面的 Playwright 下載與 pdfplumber
-        
-        # --- 以下是原本的 PDF 下載與處理邏輯 ---
+        # 統一把名稱清理乾淨，準備存成 PDF 檔名
         safe_title = re.sub(r'[\\/*?:"<>|]', "_", report['Name']).strip()
         local_filename = f"{safe_title}.pdf"
         local_filepath = os.path.join(pdf_folder, local_filename)
@@ -125,7 +117,6 @@ def main():
         else:
             with sync_playwright() as p:
                 try:
-                    print(f"[{i}/{len(unique_reports)}] 🕵️ 獨立實體抓取: {report['Name'][:15]}...")
                     browser = p.chromium.launch(headless=True)
                     context = browser.new_context(
                         user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
@@ -134,34 +125,55 @@ def main():
                     page = context.new_page()
                     Stealth().apply_stealth_sync(page)
 
-                    if "ctbcbank" in original_url:
-                        page.goto("https://www.ctbcbank.com/twrbo/zh_tw/index.html", wait_until="networkidle", timeout=30000)
-                        time.sleep(random.uniform(2, 4))
-
-                    try:
-                        with page.expect_download(timeout=30000) as download_info:
-                            cache_buster = f"&t={int(time.time() * 1000)}" if "?" in original_url else f"?t={int(time.time() * 1000)}"
-                            page.goto(original_url + cache_buster, wait_until="domcontentloaded", timeout=45000)
+                    # 🌐 路線 A：網頁文章 -> 直接列印成 PDF
+                    if is_web_article:
+                        print(f"[{i}/{len(unique_reports)}] 🖨️ 網頁轉PDF中: {report['Name'][:15]}...")
+                        # 進入網頁並等待網路穩定
+                        page.goto(original_url, wait_until="networkidle", timeout=45000)
                         
-                        download = download_info.value
-                        download.save_as(local_filepath)
-                        print(f"    ✅ 下載成功")
-                    except Exception:
-                        if original_url.startswith("http"):
-                            res = context.request.get(original_url)
-                            if b'%PDF' in res.body()[:10]:
-                                with open(local_filepath, "wb") as f: f.write(res.body())
-                                print("    ✅ 備案轉存成功！")
-                    
+                        # 🌟 魔法指令：把網頁上的廣告、頂部導覽列隱藏，讓 PDF 看起來像乾淨的報告
+                        page.evaluate("""
+                            const junk = document.querySelectorAll('header, footer, nav, aside, .ad, .sidebar, iframe');
+                            junk.forEach(el => el.style.display = 'none');
+                        """)
+                        
+                        # 自動將畫面儲存為 A4 大小的 PDF
+                        page.pdf(
+                            path=local_filepath, 
+                            format="A4", 
+                            print_background=True, 
+                            margin={"top": "20px", "bottom": "20px", "left": "20px", "right": "20px"}
+                        )
+                        print("    ✅ 網頁自動轉 PDF 成功！")
+
+                    # 📥 路線 B：傳統 PDF -> 直接下載
+                    else:
+                        print(f"[{i}/{len(unique_reports)}] 🕵️ 實體 PDF 下載: {report['Name'][:15]}...")
+                        if "ctbcbank" in original_url:
+                            page.goto("https://www.ctbcbank.com/twrbo/zh_tw/index.html", wait_until="networkidle", timeout=30000)
+                            time.sleep(random.uniform(2, 4))
+
+                        try:
+                            with page.expect_download(timeout=30000) as download_info:
+                                cache_buster = f"&t={int(time.time() * 1000)}" if "?" in original_url else f"?t={int(time.time() * 1000)}"
+                                page.goto(original_url + cache_buster, wait_until="domcontentloaded", timeout=45000)
+                            
+                            download = download_info.value
+                            download.save_as(local_filepath)
+                            print(f"    ✅ 下載成功")
+                        except Exception:
+                            if original_url.startswith("http"):
+                                res = context.request.get(original_url)
+                                if b'%PDF' in res.body()[:10]:
+                                    with open(local_filepath, "wb") as f: f.write(res.body())
+                                    print("    ✅ 備案轉存成功！")
+
                     browser.close()
 
-                    if "ctbcbank" in original_url:
-                        time.sleep(random.uniform(3, 6))
-
                 except Exception as e:
-                    print(f"    ❌ 下載失敗: {str(e)[:50]}")
+                    print(f"    ❌ 下載或轉檔失敗: {str(e)[:50]}")
 
-        # 讀取本地 PDF 頁數
+        # 讀取本地 PDF 頁數 (因為現在網頁也變成實體 PDF 了，所以原本的 pdfplumber 可以完美運作！)
         if os.path.exists(local_filepath):
             try:
                 with pdfplumber.open(local_filepath) as pdf:
