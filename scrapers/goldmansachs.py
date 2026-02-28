@@ -9,6 +9,7 @@ def clean_text(text):
     return re.sub(r'\s+', ' ', text).strip() if text else ""
 
 def scrape():
+    # 🌟 認明這行字！等一下看日誌，一定要出現這行才代表更新成功！
     print("🔍 正在爬取 Goldman Sachs (高盛) - 🎯 深度尋找真實 PDF 按鈕模式 (修正超時與導覽列)...")
     reports = []
     seen_links = set()
