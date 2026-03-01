@@ -54,8 +54,7 @@ def main():
         if module_name == "utils": continue
         
         # 💡 如果您想測試特定爬蟲，可以把下面兩行解除註解並填入名稱
-        # target_scrapers = ["ubot"] 
-        # if module_name not in target_scrapers: continue 
+        if module_name not in ["jri"]: continue 
             
         try:
             module = importlib.import_module(f"scrapers.{module_name}")
