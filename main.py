@@ -15,15 +15,21 @@ from dotenv import load_dotenv
 from playwright.sync_api import sync_playwright
 from playwright_stealth import Stealth
 
+# 🌟 新增 OpenAI 套件 (請確認 requirements.txt 裡面有 openai)
+from openai import OpenAI
+
 load_dotenv()
 
 # ==========================================
 # ⚙️ 全域設定 (請確認您的 GitHub 資訊)
 # ==========================================
-ENABLE_AI_SUMMARY = False  
+ENABLE_AI_SUMMARY = True  # 🌟 已經幫您開啟 OpenAI 摘要功能
 GITHUB_USER = "dylanlu0604-dot"
 GITHUB_REPO = "financial-report-hub"
 GITHUB_RAW_BASE = f"https://raw.githubusercontent.com/{GITHUB_USER}/{GITHUB_REPO}/main/all%20report%20pdf"
+
+# 🔑 這裡輸入您的 OpenAI API Key (請將引號內換成您的 sk-... 密碼)
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "請在這裡貼上您的_API_KEY") 
 
 # ==========================================
 # 🚀 主程式執行區塊
@@ -43,14 +49,13 @@ def main():
     
     all_reports = []
     
-    # 🌟 測試名單設定 (想跑全部時，請把 target_scrapers 相關行註解掉)
+    # 🌟 執行所有爬蟲
     for _, module_name, _ in pkgutil.iter_modules(scrapers.__path__):
         if module_name == "utils": continue
         
-        #測試指定的爬蟲
-        target_scrapers = ["ctbc","jri"] 
-        if module_name not in target_scrapers: 
-            continue 
+        # 💡 如果您想測試特定爬蟲，可以把下面兩行解除註解並填入名稱
+        # target_scrapers = ["ubot"] 
+        # if module_name not in target_scrapers: continue 
             
         try:
             module = importlib.import_module(f"scrapers.{module_name}")
@@ -95,7 +100,6 @@ def main():
     # ==========================================
     print(f"\n{'='*60}\n📥 啟動【物理隔離】下載與轉檔模式...\n")
     pdf_folder = "all report pdf"
-    os.makedirs(pdf_folder, exist_ok=True)
     
     try:
         for i, report in enumerate(unique_reports, 1):
@@ -202,11 +206,65 @@ def main():
     except Exception as major_e:
         print(f"🔥 下載迴圈發生重大崩潰: {major_e}")
 
-    # 🤖 摘要邏輯
-    for report in unique_reports: report['Summary'] = "未執行 AI 摘要"
+    # ==========================================
+    # 🤖 AI 摘要邏輯 (OpenAI gpt-4o-mini 版本)
+    # ==========================================
+    if ENABLE_AI_SUMMARY and OPENAI_API_KEY and OPENAI_API_KEY != "請在這裡貼上您的_API_KEY":
+        print(f"\n{'='*60}\n🧠 啟動 AI 摘要生成程序 (OpenAI)...\n")
+        client = OpenAI(api_key=OPENAI_API_KEY)
+        
+        for i, report in enumerate(unique_reports, 1):
+            local_filepath = report.get('LocalPath')
+            
+            if not local_filepath or not os.path.exists(local_filepath):
+                report['Summary'] = "無實體檔案可供摘要"
+                continue
+                
+            print(f"[{i}/{len(unique_reports)}] 🤖 正在閱讀並摘要: {report.get('Name', '')[:20]}...")
+            
+            try:
+                text_content = ""
+                with pdfplumber.open(local_filepath) as pdf:
+                    for page in pdf.pages[:5]: 
+                        extracted = page.extract_text()
+                        if extracted: text_content += extracted + "\n"
+                        
+                if len(text_content.strip()) < 50:
+                    report['Summary'] = "PDF 內容過少或為純圖片，無法摘要"
+                    continue
+                
+                response = client.chat.completions.create(
+                    model="gpt-4o-mini",
+                    messages=[
+                        {
+                            "role": "system", 
+                            "content": "你是一位專業的財經分析師。請根據提供的財經報告內容，用「繁體中文」寫出 3 到 4 點最重要的核心摘要（請使用條列式，並控制在 150 字以內）。"
+                        },
+                        {
+                            "role": "user", 
+                            "content": f"報告內容：\n{text_content[:15000]}"
+                        }
+                    ],
+                    temperature=0.3
+                )
+                
+                summary_text = response.choices[0].message.content.strip()
+                report['Summary'] = summary_text.replace('\n', '<br>')
+                print("    ✅ 摘要成功！")
+                
+                time.sleep(1) 
+                
+            except Exception as e:
+                print(f"    ❌ 摘要失敗: {str(e)[:50]}")
+                report['Summary'] = "AI 摘要過程發生錯誤"
+    else:
+        print("\n⚠️ AI 摘要未執行：開關未開啟 (ENABLE_AI_SUMMARY=False) 或未設定 API Key。")
+        for report in unique_reports: 
+            report['Summary'] = "未執行 AI 摘要"
     
+    # ==========================================
     # 📝 輸出生成
-    os.makedirs('data', exist_ok=True)
+    # ==========================================
     unique_reports.sort(key=lambda x: x.get('Date', ''), reverse=True)
     with open('data/reports.json', 'w', encoding='utf-8') as f:
         json.dump(unique_reports, f, ensure_ascii=False, indent=2)
@@ -241,22 +299,19 @@ def main():
         html_content += f"<td><a href='{r['Link']}' target='_blank'>{r['Name']}</a></td><td>{r['Summary']}</td></tr>\n"
 
     html_content += """</tbody></table><script>
-    let sortDir = {}; // 記錄各欄位的排序方向
+    let sortDir = {}; 
     function sortTable(n){
         const table = document.getElementById("reportTable");
         const tbody = table.querySelector("tbody");
         const rows = Array.from(tbody.querySelectorAll("tr"));
         
-        // 切換升降冪方向
         sortDir[n] = sortDir[n] === "asc" ? "desc" : "asc";
         const dir = sortDir[n];
         
-        // 🌟 核心修正：使用高效能的陣列排序法 (O(N log N))
         rows.sort((rowA, rowB) => {
             let valA = rowA.cells[n].innerText.trim().toLowerCase();
             let valB = rowB.cells[n].innerText.trim().toLowerCase();
             
-            // 頁數需要當作數字來排序
             if(n === 2){ 
                 valA = parseInt(valA) || 0; 
                 valB = parseInt(valB) || 0; 
@@ -267,7 +322,6 @@ def main():
             return 0;
         });
         
-        // 🌟 將排序好的資料一次性貼回表格中 (不會觸發災難性的畫面重繪)
         rows.forEach(row => tbody.appendChild(row));
     }
     </script></body></html>"""
