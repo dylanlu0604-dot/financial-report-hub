@@ -78,7 +78,7 @@ def scrape():
             if not title_tag: continue
             title = title_tag.get_text(strip=True).split('|')[0].strip()
             
-            if len(title) < 5 or any(kw in title for kw in ["一覧", "List", "執筆者", "【1分解説】"]): continue
+            if len(title) < 5 or any(kw in title for kw in ["一覧", "List", "執筆者", "【1分解説】","時事雑感"]): continue
             
             # 🌟 修復 2: 放棄危險的 resp.text，改從網頁「可見內文」或「時間標籤」精準尋找日期
             date_text = None
