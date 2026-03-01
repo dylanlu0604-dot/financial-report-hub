@@ -83,7 +83,7 @@ def scrape():
             title = title_tag.get_text(strip=True).split('|')[0].strip()
             
             # 排除非報告的網頁
-            if len(title) < 5 or any(kw in title for kw in ["一覧", "List", "執筆者"]): continue
+            if len(title) < 5 or any(kw in title for kw in ["一覧", "List", "執筆者","【1分解説】"]): continue
             
             # 2. 抓日期 (暴力在原始碼內尋找日期格式，容許空白)
             date_text = None
