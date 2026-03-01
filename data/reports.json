@@ -1,5 +1,105 @@
 [
   {
+    "Source": "中银证券",
+    "Date": "2026-03-01",
+    "Name": "中东局势简评",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E4%B8%AD%E4%B8%9C%E5%B1%80%E5%8A%BF%E7%AE%80%E8%AF%84.pdf",
+    "PageCount": 5,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202603011820158725_1.pdf?1772381824000.pdf",
+    "LocalPath": "all report pdf/中东局势简评.pdf",
+    "Summary": "1) 標題：中東局勢惡化推升大宗商品展望2026年機遇與風險<br><br>2) 核心摘要：<br>- 中東局勢惡化推動原油與貴金屬短期漲勢明顯。  <br>- 霍爾木兹海峽封鎖或使油價突破80美元/桶。  <br>- 全球需求受財政與貨幣寬鬆政策支撐，大宗商品展望樂觀。  <br>- 美元弱勢持續，利多以美元計價的大宗商品價格。  <br>- 地緣政治與全球供應鏈風險仍是主要不確定因素。"
+  },
+  {
+    "Source": "开源证券",
+    "Date": "2026-03-01",
+    "Name": "地缘政治追踪系列之一：对伊朗经济、石油、贸易与资产价格波动的4个观察",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%9C%B0%E7%BC%98%E6%94%BF%E6%B2%BB%E8%BF%BD%E8%B8%AA%E7%B3%BB%E5%88%97%E4%B9%8B%E4%B8%80%EF%BC%9A%E5%AF%B9%E4%BC%8A%E6%9C%97%E7%BB%8F%E6%B5%8E%E3%80%81%E7%9F%B3%E6%B2%B9%E3%80%81%E8%B4%B8%E6%98%93%E4%B8%8E%E8%B5%84%E4%BA%A7%E4%BB%B7%E6%A0%BC%E6%B3%A2%E5%8A%A8%E7%9A%844%E4%B8%AA%E8%A7%82%E5%AF%9F.pdf",
+    "PageCount": 16,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202603011820157987_1.pdf?1772378895000.pdf",
+    "LocalPath": "all report pdf/地缘政治追踪系列之一：对伊朗经济、石油、贸易与资产价格波动的4个观察.pdf",
+    "Summary": "1) 伊朗經濟韌性仍存，但高通脹與貨幣貶值成最大挑戰<br><br>2) 伊朗2024年GDP增長3.66%，人均GDP增長2.58%，服務業占比近50%<br><br>3) 高通脹持續，2019年起超過30%，貨幣快速貶值引發社會動盪<br><br>4) 伊朗原油產量較低，但霍爾木兹海峽具有重要戰略影響力<br><br>5) 中伊貿易依存度高，與中國貿易結構以機電和能源產品為主"
+  },
+  {
+    "Source": "安永(中国)企业咨询",
+    "Date": "2026-03-01",
+    "Name": "中国经济破局谋新，乘势而上",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%A0%B4%E5%B1%80%E8%B0%8B%E6%96%B0%EF%BC%8C%E4%B9%98%E5%8A%BF%E8%80%8C%E4%B8%8A.pdf",
+    "PageCount": 10,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202603011820156288_1.pdf?1772378482000.pdf",
+    "LocalPath": "all report pdf/中国经济破局谋新，乘势而上.pdf",
+    "Summary": "1) 結論標題：2026年中國經濟轉型升級，內需與創新雙引擎驅動新局<br><br>2) 核心摘要：<br>- 2025年GDP突破140萬億元，增長5.0%，消費貢獻顯著提升。<br>- 消費市場多元化，三線城市成為快消品增長主力，情緒消費崛起。<br>- 固定資產投資下降，但高技術產業逆勢增長，成為支撐點。<br>- 2026年GDP預計增速4.5%-5%，內需與科技創新為核心動力。<br>- “雙碳”政策激活綠色產能，推動低碳經濟成為新增長引擎。"
+  },
+  {
+    "Source": "国信证券",
+    "Date": "2026-03-01",
+    "Name": "宏观经济周报：如何理解“灵活高效”",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%91%A8%E6%8A%A5%EF%BC%9A%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E2%80%9C%E7%81%B5%E6%B4%BB%E9%AB%98%E6%95%88%E2%80%9D.pdf",
+    "PageCount": 13,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202603011820156228_1.pdf?1772375301000.pdf",
+    "LocalPath": "all report pdf/宏观经济周报：如何理解“灵活高效”.pdf",
+    "Summary": "1) 2026年貨幣政策展望：靈活高效，適度寬鬆為主  <br>2) “靈活”指依據經濟變化動態調整政策工具，避免集中釋放  <br>3) “高效”強調與財政協同，分步操作應對經濟與市場需求  <br>4) 2026年預計降準一次（50BP）、降息一次（10BP），時間或分階段實施  <br>5) 外部環境不確定，貨幣政策將以流動性充裕與結構性工具為核心"
+  },
+  {
+    "Source": "国信证券",
+    "Date": "2026-03-01",
+    "Name": "多资产周报：“暴走”的汇率",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%A4%9A%E8%B5%84%E4%BA%A7%E5%91%A8%E6%8A%A5%EF%BC%9A%E2%80%9C%E6%9A%B4%E8%B5%B0%E2%80%9D%E7%9A%84%E6%B1%87%E7%8E%87.pdf",
+    "PageCount": 11,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202603011820156226_1.pdf?1772375208000.pdf",
+    "LocalPath": "all report pdf/多资产周报：“暴走”的汇率.pdf",
+    "Summary": "1) 結論標題：2026年初匯率波動與多資產市場展望<br><br>2) 核心摘要：<br>- 春節後人民幣匯率快速升值，突破多個心理關卡。<br>- 主要因結匯需求集中及海外創匯資金避險引發。<br>- 監管措施壓制過度投機，外匯風險準備金率調降至0。<br>- 多資產市場呈現漲勢，金銀比價下降，商品價格上升。<br>- 中期基本面改善提供匯率內生動力，需警惕超買風險。"
+  },
+  {
+    "Source": "中银证券",
+    "Date": "2026-02-28",
+    "Name": "宏观和大类资产配置周报：春节后首周人民币资产股涨债跌",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%AE%8F%E8%A7%82%E5%92%8C%E5%A4%A7%E7%B1%BB%E8%B5%84%E4%BA%A7%E9%85%8D%E7%BD%AE%E5%91%A8%E6%8A%A5%EF%BC%9A%E6%98%A5%E8%8A%82%E5%90%8E%E9%A6%96%E5%91%A8%E4%BA%BA%E6%B0%91%E5%B8%81%E8%B5%84%E4%BA%A7%E8%82%A1%E6%B6%A8%E5%80%BA%E8%B7%8C.pdf",
+    "PageCount": 17,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202602281820140311_1.pdf?1772298186000.pdf",
+    "LocalPath": "all report pdf/宏观和大类资产配置周报：春节后首周人民币资产股涨债跌.pdf",
+    "Summary": "1) 標題：2026年首周宏觀經濟與資產配置展望：風險偏好升溫，結構調整進行中<br><br>2) 核心摘要：<br>- 春節期間國內出遊與跨區流動顯著增加，經濟活動逐步回暖<br>- 股市表現強勁，A股主要指數普遍收漲，投資者偏好風險資產<br>- 大宗商品普遍上漲，能源與有色金屬表現亮眼<br>- 債市收益率偏低，短期內債市或受“股債跷跷板”影響<br>- 專家建議股票超配，債券與貨幣低配，關注政策落實與經濟復甦進展"
+  },
+  {
+    "Source": "信达证券",
+    "Date": "2026-02-28",
+    "Name": "开年以来的两个变化",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%BC%80%E5%B9%B4%E4%BB%A5%E6%9D%A5%E7%9A%84%E4%B8%A4%E4%B8%AA%E5%8F%98%E5%8C%96.pdf",
+    "PageCount": 10,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202602281820127010_1.pdf?1772264719000.pdf",
+    "LocalPath": "all report pdf/开年以来的两个变化.pdf",
+    "Summary": "1) 標題：關稅政策與內需復甦的雙重挑戰與機遇<br><br>2) 核心摘要：<br>- 美國最高法院判定IEEPA關稅無效，但特朗普仍有多種工具施壓。<br>- 中國假期消費創新高，房地產成交持續低迷，經濟分化明顯。<br>- 海外關稅失效帶來短期利好，但長期政策仍存不確定性。<br>- A股短期或震盪，結構性機會或成主要投資方向。<br>- 風險包括國內需求復甦不及預期與全球經濟乏力。"
+  },
+  {
+    "Source": "东兴证券",
+    "Date": "2026-02-27",
+    "Name": "美国1月CPI数据点评：商品通胀减缓，年内仍存降息空间",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%BE%8E%E5%9B%BD1%E6%9C%88CPI%E6%95%B0%E6%8D%AE%E7%82%B9%E8%AF%84%EF%BC%9A%E5%95%86%E5%93%81%E9%80%9A%E8%83%80%E5%87%8F%E7%BC%93%EF%BC%8C%E5%B9%B4%E5%86%85%E4%BB%8D%E5%AD%98%E9%99%8D%E6%81%AF%E7%A9%BA%E9%97%B4.pdf",
+    "PageCount": 9,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202602271820104814_1.pdf?1772216972000.pdf",
+    "LocalPath": "all report pdf/美国1月CPI数据点评：商品通胀减缓，年内仍存降息空间.pdf",
+    "Summary": "1) 標題：商品通脹放緩為降息提供空間，2026年或迎政策調整<br><br>2) 核心通脹持續回落，商品通脹減緩但仍存降息可能性<br>3) 能源價格受天然氣推升，能源服務成通脹主要推動力<br>4) 关税影响明显，部分商品价格因关税上涨而高企<br>5) 2025年四季度前通脹壓力有限，政策調整窗口仍存在"
+  },
+  {
+    "Source": "东兴证券",
+    "Date": "2026-02-27",
+    "Name": "1月美国非农数据点评：非农略有好转，可延后但不足以阻止降息",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/1%E6%9C%88%E7%BE%8E%E5%9B%BD%E9%9D%9E%E5%86%9C%E6%95%B0%E6%8D%AE%E7%82%B9%E8%AF%84%EF%BC%9A%E9%9D%9E%E5%86%9C%E7%95%A5%E6%9C%89%E5%A5%BD%E8%BD%AC%EF%BC%8C%E5%8F%AF%E5%BB%B6%E5%90%8E%E4%BD%86%E4%B8%8D%E8%B6%B3%E4%BB%A5%E9%98%BB%E6%AD%A2%E9%99%8D%E6%81%AF.pdf",
+    "PageCount": 8,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202602271820104809_1.pdf?1772216864000.pdf",
+    "LocalPath": "all report pdf/1月美国非农数据点评：非农略有好转，可延后但不足以阻止降息.pdf",
+    "Summary": "1) 美國非農數據略有改善，但降息仍具空間<br><br>2) 私營部門就業表現尚可，順周期行業表現積極<br><br>3) 勞動市場供需平衡，流動性尚未顯著改善<br><br>4) 失業率下降主要由低學歷及年輕人推動<br><br>5) 雖有好轉，但就業數據不足以阻止美聯儲降息預期"
+  },
+  {
+    "Source": "银河期货",
+    "Date": "2026-02-27",
+    "Name": "2026年03月宏观经济与资产月报兼谈“两会”前瞻：美国确定性下降，跟随国内预期节奏",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/2026%E5%B9%B403%E6%9C%88%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E4%B8%8E%E8%B5%84%E4%BA%A7%E6%9C%88%E6%8A%A5%E5%85%BC%E8%B0%88%E2%80%9C%E4%B8%A4%E4%BC%9A%E2%80%9D%E5%89%8D%E7%9E%BB%EF%BC%9A%E7%BE%8E%E5%9B%BD%E7%A1%AE%E5%AE%9A%E6%80%A7%E4%B8%8B%E9%99%8D%EF%BC%8C%E8%B7%9F%E9%9A%8F%E5%9B%BD%E5%86%85%E9%A2%84%E6%9C%9F%E8%8A%82%E5%A5%8F.pdf",
+    "PageCount": 10,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202602271820100099_1.pdf?1772212022000.pdf",
+    "LocalPath": "all report pdf/2026年03月宏观经济与资产月报兼谈“两会”前瞻：美国确定性下降，跟随国内预期节奏.pdf",
+    "Summary": "1) 2026年全球經濟展望：美中局勢與政策走向影響深遠<br><br>2) 美國經濟短期仍具韌性，但不確定性顯著增加，貨幣政策轉折或更為曲折<br>3) 美聯儲新主席沃什偏鷹派，貨幣緊縮與降息時程或延後，市場預期變化大<br>4) 美國關稅政策不確定性升高，可能引發長期政治與經濟風險<br>5) 中國經濟展現超預期回升，內需與政策支持為未來穩定的重要因素"
+  },
+  {
     "Source": "JRI",
     "Date": "2026-02-27",
     "Name": "アジア・マンスリー2026年3月号 （PDF：1747KB）",
@@ -7,7 +107,7 @@
     "PageCount": 15,
     "OriginalLink": "https://www.jri.co.jp/file/report/asia/pdf/16480.pdf",
     "LocalPath": "all report pdf/アジア・マンスリー2026年3月号 （PDF：1747KB）.pdf",
-    "Summary": "- 2026年，亞洲生產轉移持續加速，尤其電子產品領域。  <br>- 美國對中國的關稅政策導致供應鏈重組，轉向越南、印度等國。  <br>- 中國2025年GDP成長主要由消費支出推動，內需復甦跡象有限。  <br>- 中國消費擴大受政府支援和金融措施影響，實體經濟仍較疲弱。  <br>- 政府支出推動消費，但自主消費復甦仍面臨挑戰，需關注未來支援政策。"
+    "Summary": "1) 中國經濟與產業轉型：消費擴大與生產移轉同步推進  <br>2) 2025年中國GDP由消費支出主導，政府支援影響顯著  <br>3) 美國對華關稅升高，促使中國生產轉移至越南、印度等地  <br>4) 中國對亞產業依賴降低，電子產品生產轉移速度加快  <br>5) 政府支援成消費增長關鍵，未來需關注大規模刺激措施"
   },
   {
     "Source": "Cathay",
@@ -17,7 +117,47 @@
     "PageCount": 18,
     "OriginalLink": "https://www.cathaybk.com.tw/cathaybk/-/media/ee856ad558774e5eb6db5620c6ed6426.pdf?sc_lang=en",
     "LocalPath": "all report pdf/投資研究週報.pdf.pdf",
-    "Summary": "- 台股市值升至全球第7大，AI帶動企業獲利與評價空間。  <br>- 美股軟體股承壓，AI硬體與雲端產業成長支撐市場。  <br>- 輝達財報亮眼，營收與毛利率皆優於預期。  <br>- 美債利率回落，但短期降息空間有限，市場觀望聯準會動向。  <br>- 軟體產業面臨估值調整，但長期產值擴大趨勢仍在。"
+    "Summary": "1) 台股市值躍升全球第7大，AI熱潮推動企業獲利與估值上升<br><br>2) 核心摘要：<br>- 美股AI硬體領域資金流入，雲端與軟體股承壓<br>- 輝達財報亮眼，營收與毛利率皆超預期<br>- 台股受AI需求拉動，市值快速成長，評價面仍具上升空間<br>- 軟體產業面臨估值調整，但長期產值擴大趨勢未變<br>- 市場短期波動增加，建議逢回布局相關科技股"
+  },
+  {
+    "Source": "国新证券股份",
+    "Date": "2026-02-26",
+    "Name": "1月金融数据解读：1月新增社融创新高",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/1%E6%9C%88%E9%87%91%E8%9E%8D%E6%95%B0%E6%8D%AE%E8%A7%A3%E8%AF%BB%EF%BC%9A1%E6%9C%88%E6%96%B0%E5%A2%9E%E7%A4%BE%E8%9E%8D%E5%88%9B%E6%96%B0%E9%AB%98.pdf",
+    "PageCount": 3,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202602261820070131_1.pdf?1772139160000.pdf",
+    "LocalPath": "all report pdf/1月金融数据解读：1月新增社融创新高.pdf",
+    "Summary": "1) 2026年1月中国金融数据显著增长，社融创历史新高<br><br>2) 核心摘要：<br>- 1月人民币贷款4.71万亿，创2018年以来新高<br>- 社会融资规模达7.22万亿，历史同期最高<br>- 存款大幅增加，居民存款少增，资本市场“搬家”明显<br>- 贷款余额同比增长6.1%，略有回落<br>- 2月信贷或季节性大幅减少，预计新增约1万亿"
+  },
+  {
+    "Source": "国金证券",
+    "Date": "2026-02-26",
+    "Name": "宏观经济点评：2028“AI末日论”的历史反驳",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E7%82%B9%E8%AF%84%EF%BC%9A2028%E2%80%9CAI%E6%9C%AB%E6%97%A5%E8%AE%BA%E2%80%9D%E7%9A%84%E5%8E%86%E5%8F%B2%E5%8F%8D%E9%A9%B3.pdf",
+    "PageCount": 4,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202602261820057244_1.pdf?1772116436000.pdf",
+    "LocalPath": "all report pdf/宏观经济点评：2028“AI末日论”的历史反驳.pdf",
+    "Summary": "1) AI時代的韌性與轉型：預言與現實的較量<br><br>2) 歷史證明人類具備強大韌性，低估自我適應能力。  <br>3) 2026年是理解AI對宏觀經濟影響的關鍵轉折點。  <br>4) 技術進步不等於社會結構崩潰，制度調整能緩沖衝擊。  <br>5) 大量“無意義工作”可能被AI取代，促進效率回歸與公平重建。"
+  },
+  {
+    "Source": "中邮证券",
+    "Date": "2026-02-26",
+    "Name": "宏观研究：春节假期宏观大事分析",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%AE%8F%E8%A7%82%E7%A0%94%E7%A9%B6%EF%BC%9A%E6%98%A5%E8%8A%82%E5%81%87%E6%9C%9F%E5%AE%8F%E8%A7%82%E5%A4%A7%E4%BA%8B%E5%88%86%E6%9E%90.pdf",
+    "PageCount": 16,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202602261820054122_1.pdf?1772103534000.pdf",
+    "LocalPath": "all report pdf/宏观研究：春节假期宏观大事分析.pdf",
+    "Summary": "1) 2026年春节假期延长带动旅游消费回暖，出行活跃度创新高  <br><br>2) 居民出行和旅游市场表现强劲，跨区域迁徙规模创历史新高  <br><br>3) 美国关税政策调整带来短期出口利好，但不确定性仍存  <br><br>4) 1月金融数据反映居民存款迁移和加杠杆意愿上升，货币增速回暖  <br><br>5) 经济复苏与政策呵护下，消费升级和文旅景气度持续改善"
+  },
+  {
+    "Source": "国金证券",
+    "Date": "2026-02-26",
+    "Name": "金融数据点评：信贷开门红成色不足",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E9%87%91%E8%9E%8D%E6%95%B0%E6%8D%AE%E7%82%B9%E8%AF%84%EF%BC%9A%E4%BF%A1%E8%B4%B7%E5%BC%80%E9%97%A8%E7%BA%A2%E6%88%90%E8%89%B2%E4%B8%8D%E8%B6%B3.pdf",
+    "PageCount": 6,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202602261820048649_1.pdf?1772094309000.pdf",
+    "LocalPath": "all report pdf/金融数据点评：信贷开门红成色不足.pdf",
+    "Summary": "1) 2026年1月社融增长主要由政府债支撑，信贷投放乏力影响显著<br><br>2) 社融新增7.22万亿创新高，主要靠政府债和企业债券<br><br>3) 人民币信贷首次在1月出现同比少增，企业短贷冲量延续<br><br>4) M0增速下降，M1、M2增速回升，春节时间影响显著<br><br>5) 政府债发行提前，后续需关注票据和信贷增速拐点"
   },
   {
     "Source": "Fubon",
@@ -27,7 +167,7 @@
     "PageCount": 5,
     "OriginalLink": "https://www.fubon.com/banking/document/Corporate/Financial_Market/TW/匯率市場總評：澳幣將躍馬揚鞭_20260226_1.pdf",
     "LocalPath": "all report pdf/匯率市場總評：澳幣將躍馬揚鞭.pdf",
-    "Summary": "- 中國基建動能提升，有望反轉銅金比，支撐澳幣走強。  <br>- 澳洲長期吸引外資，投資收益增長有助維持澳幣穩定。  <br>- 澳洲央行升息至3.85%，利差擴大推動澳幣升值預期。  <br>- 全球經濟放緩與避險情緒升溫，金價走升壓制澳幣。  <br>- 投機性買盤強化，年底前澳幣預計升至0.75附近。"
+    "Summary": "結論性標題：澳幣展望樂觀，基建與利差優勢推動年底升值<br><br>核心摘要：<br>- 中國基建動能回升，有望反轉銅金比，支撐澳幣。<br>- 澳洲金融帳持續淨流入，私部門投資大幅增長。<br>- 澳洲央行升息至3.85%，利差擴大支撐澳幣走強。<br>- 投機性買盤激增，期貨多單創高，年底前朝0.75目標邁進。<br>- 全球政經震盪與資金流向非美資產，澳幣長線偏強。"
   },
   {
     "Source": "Fubon",
@@ -37,7 +177,7 @@
     "PageCount": 5,
     "OriginalLink": "https://www.fubon.com/banking/document/Corporate/Financial_Market/TW/談股論金271期.pdf",
     "LocalPath": "all report pdf/談股論金：相關動能挹注，美國消費動能升溫.pdf",
-    "Summary": "- 美國消費佔GDP近七成，是經濟成長的重要動能。  <br>- 冬奧、節日及退稅旺季將促使消費回升。  <br>- 2026年美國標普消費企業盈餘預計成長約10%。  <br>- 退稅潮將提升消費支出，尤其低收入家庭受益較多。  <br>- 內需消費展現韌性，對經濟擴張具有正面影響。"
+    "Summary": "1) 美國消費動能回升，預示經濟持續擴張<br><br>2) 消費佔美國GDP近七成，服務與商品比例約65:35<br><br>3) 冬奧、節日與退稅潮支撐短期消費熱潮<br><br>4) 標普消費企業盈餘預計全年成長約10%<br><br>5) 退稅高峰將促使低收入家庭支出顯著增加"
   },
   {
     "Source": "Fubon",
@@ -47,7 +187,277 @@
     "PageCount": 5,
     "OriginalLink": "https://www.fubon.com/banking/document/Corporate/Financial_Market/TW/動見觀瞻262期.pdf",
     "LocalPath": "all report pdf/動見觀瞻： 標普500表現落後，產業輪動頻繁.pdf",
-    "Summary": "- 標普500指數持續落後其他已發展股市，表現較弱。  <br>- 產業輪動頻繁，景氣循環產業如能源、工業表現較佳。  <br>- 泛科技股分化嚴重，AI需求帶動半導體，但軟體股遭市場拋售。  <br>- 全球原物料與基建需求旺盛，推動能源與原料股走強。  <br>- 投資策略建議：逢低布局績優產業，專業經理人管理資金。"
+    "Summary": "標題：美股產業輪動明顯，投資策略需調整<br><br>核心摘要：<br>- 標普500指數持續落後全球其他已發展股市，表現偏弱。<br>- 產業輪動頻繁，能源、原物料、工業等景氣循環產業領先。<br>- 泛科技股分化嚴重，AI與半導體需求持續，但軟體股遭大幅修正。<br>- 政治與地緣風險影響市場，能源股因油價反彈表現亮眼。<br>- 投資建議：逢低布局績優產業與軟體標的，專業經理人管理策略較佳。"
+  },
+  {
+    "Source": "中诚信国际",
+    "Date": "2026-02-25",
+    "Name": "国际宏观资讯双周报2026年第4期",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%9B%BD%E9%99%85%E5%AE%8F%E8%A7%82%E8%B5%84%E8%AE%AF%E5%8F%8C%E5%91%A8%E6%8A%A52026%E5%B9%B4%E7%AC%AC4%E6%9C%9F.pdf",
+    "PageCount": 15,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202602251820031305_1.pdf?1772041223000.pdf",
+    "LocalPath": "all report pdf/国际宏观资讯双周报2026年第4期.pdf",
+    "Summary": "【結論性標題】  <br>全球經濟面臨多重挑戰，貿易政策變動與地緣政治影響持續攪動市場<br><br>【核心摘要】  <br>• 2025年美國四季度GDP增速放緩至1.4%，全年2.2%。  <br>• 美日歐建立關鍵礦產合作，抗衡中國供應鏈壟斷。  <br>• 韓美關稅政策調整，韓國在美市場競爭力下滑。  <br>• 英國2025年第四季失業率升至五年新高，經濟增長放緩。  <br>• 澳洲加息25個基點，進入新一輪貨幣緊縮周期。"
+  },
+  {
+    "Source": "东方金诚",
+    "Date": "2026-02-25",
+    "Name": "海外宏观周报：全球主要央行立场分化，美国就业数据引发市场波动",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%B5%B7%E5%A4%96%E5%AE%8F%E8%A7%82%E5%91%A8%E6%8A%A5%EF%BC%9A%E5%85%A8%E7%90%83%E4%B8%BB%E8%A6%81%E5%A4%AE%E8%A1%8C%E7%AB%8B%E5%9C%BA%E5%88%86%E5%8C%96%EF%BC%8C%E7%BE%8E%E5%9B%BD%E5%B0%B1%E4%B8%9A%E6%95%B0%E6%8D%AE%E5%BC%95%E5%8F%91%E5%B8%82%E5%9C%BA%E6%B3%A2%E5%8A%A8.pdf",
+    "PageCount": 11,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202602251820026300_1.pdf?1772032692000.pdf",
+    "LocalPath": "all report pdf/海外宏观周报：全球主要央行立场分化，美国就业数据引发市场波动.pdf",
+    "Summary": "1) 全球央行政策分歧引发市场波动，美就业数据影响市场预期  <br><br>2) 核心摘要：  <br>- 欧央行连续第五次维持利率不变，强调通胀难以预测。  <br>- 英国央行维持利率，鸽派信号增强，市场预期或有降息空间。  <br>- 澳洲联储加息25基点，应对国内通胀压力。  <br>- 日本央行继续释放鹰派信号，担忧政策滞后。  <br>- 美国就业数据放缓，市场对降息预期上升，债市收益率下降。"
+  },
+  {
+    "Source": "东吴证券",
+    "Date": "2026-02-25",
+    "Name": "宏观深度报告：从利率曲线“久期分割”看2026年货币政策空间",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%AE%8F%E8%A7%82%E6%B7%B1%E5%BA%A6%E6%8A%A5%E5%91%8A%EF%BC%9A%E4%BB%8E%E5%88%A9%E7%8E%87%E6%9B%B2%E7%BA%BF%E2%80%9C%E4%B9%85%E6%9C%9F%E5%88%86%E5%89%B2%E2%80%9D%E7%9C%8B2026%E5%B9%B4%E8%B4%A7%E5%B8%81%E6%94%BF%E7%AD%96%E7%A9%BA%E9%97%B4.pdf",
+    "PageCount": 11,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202602251820022618_1.pdf?1772024174000.pdf",
+    "LocalPath": "all report pdf/宏观深度报告：从利率曲线“久期分割”看2026年货币政策空间.pdf",
+    "Summary": "1) 標題：2026年貨幣政策展望：利率曲線分割與流動性寬鬆持續<br><br>2) 核心摘要：<br>- 利率曲線呈現“久期分割”，短端受貨幣政策管控，中端受通脹預期影響，長端由財政融資主導。<br>- 2026年流動性投放偏向“長錢”，政策工具保持充裕，推動長短期利率波動。<br>- 2026年預期有一次降息或降准，但企業融資成本未明顯下降。<br>- 利率互換市場預期資金面持續寬鬆，遠期利率穩定在較低水平。<br>- 風險包括通脹超預期、經濟表現不及預期及中長期貿易摩擦風險。"
+  },
+  {
+    "Source": "中邮证券",
+    "Date": "2026-02-24",
+    "Name": "海外宏观周报：贸易政策扰动再起",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%B5%B7%E5%A4%96%E5%AE%8F%E8%A7%82%E5%91%A8%E6%8A%A5%EF%BC%9A%E8%B4%B8%E6%98%93%E6%94%BF%E7%AD%96%E6%89%B0%E5%8A%A8%E5%86%8D%E8%B5%B7.pdf",
+    "PageCount": 12,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202602241819996101_1.pdf?1771953652000.pdf",
+    "LocalPath": "all report pdf/海外宏观周报：贸易政策扰动再起.pdf",
+    "Summary": "1) 美國貿易政策與經濟動態持續變數，市場風險升高<br><br>2) 美國最高法院裁定特朗普政府對進口商品徵收關稅缺乏法律授權，政策仍在博弈中<br><br>3) 近期AI擔憂升溫，科技股承壓，投資者應關注盈利質變而非估值泡沫<br><br>4) 美國經濟數據顯示增長放緩，但就業市場仍具韌性，通脹反覆需警惕<br><br>5) 順周期與低估值行業仍有成長空間，宏觀經濟轉弱風險需謹慎應對"
+  },
+  {
+    "Source": "华源证券",
+    "Date": "2026-02-24",
+    "Name": "新质生产力专题报告三：全球GWh级量产或在即，从设备端来看固态电池产业链变化和未来演进",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%96%B0%E8%B4%A8%E7%94%9F%E4%BA%A7%E5%8A%9B%E4%B8%93%E9%A2%98%E6%8A%A5%E5%91%8A%E4%B8%89%EF%BC%9A%E5%85%A8%E7%90%83GWh%E7%BA%A7%E9%87%8F%E4%BA%A7%E6%88%96%E5%9C%A8%E5%8D%B3%EF%BC%8C%E4%BB%8E%E8%AE%BE%E5%A4%87%E7%AB%AF%E6%9D%A5%E7%9C%8B%E5%9B%BA%E6%80%81%E7%94%B5%E6%B1%A0%E4%BA%A7%E4%B8%9A%E9%93%BE%E5%8F%98%E5%8C%96%E5%92%8C%E6%9C%AA%E6%9D%A5%E6%BC%94%E8%BF%9B.pdf",
+    "PageCount": 26,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202602241819994519_1.pdf?1771950755000.pdf",
+    "LocalPath": "all report pdf/新质生产力专题报告三：全球GWh级量产或在即，从设备端来看固态电池产业链变化和未来演进.pdf",
+    "Summary": "1) 全球固態電池產業迎來2027年量產關鍵時刻，展望未來商業化與應用擴展<br><br>2) 2027年前，固態電池有望達到GWh級量產，產業鏈協同推進技術成熟<br><br>3) 上游材料持續創新，正極高鎳三元、富錳材料，負極向鋰金屬演進<br><br>4) 设备需求激增，2026年全球固態電池設備規模預計達120億元<br><br>5) 產業鏈企業積極布局，技術突破與設備升級促進商業化進程"
+  },
+  {
+    "Source": "东证期货",
+    "Date": "2026-02-24",
+    "Name": "全球宏观及大类资产配置周报",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%85%A8%E7%90%83%E5%AE%8F%E8%A7%82%E5%8F%8A%E5%A4%A7%E7%B1%BB%E8%B5%84%E4%BA%A7%E9%85%8D%E7%BD%AE%E5%91%A8%E6%8A%A5.pdf",
+    "PageCount": 34,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202602241819993464_1.pdf?1771949674000.pdf",
+    "LocalPath": "all report pdf/全球宏观及大类资产配置周报.pdf",
+    "Summary": "1) 全球宏觀經濟與資產配置展望：地緣政治風險升高，市場波動加劇<br><br>2) 核心摘要：<br>- 美伊局勢惡化，地緣政治風險推升能源和貴金屬價格<br>- 美國經濟呈滯胀，GDP增速降至1.4%，美聯儲偏向觀望<br>- 关税政策不確定性增加，市場避險情緒升溫<br>- 中國股市疲弱，海外政策與盈利擔憂影響市場表現<br>- AI成為股市資金焦點，债市走勢尚不明朗"
+  },
+  {
+    "Source": "中邮证券",
+    "Date": "2026-02-24",
+    "Name": "流动性周报：节后债券交易逻辑有变化吗？",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%B5%81%E5%8A%A8%E6%80%A7%E5%91%A8%E6%8A%A5%EF%BC%9A%E8%8A%82%E5%90%8E%E5%80%BA%E5%88%B8%E4%BA%A4%E6%98%93%E9%80%BB%E8%BE%91%E6%9C%89%E5%8F%98%E5%8C%96%E5%90%97%EF%BC%9F.pdf",
+    "PageCount": 11,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202602241819993007_1.pdf?1771948032000.pdf",
+    "LocalPath": "all report pdf/流动性周报：节后债券交易逻辑有变化吗？.pdf",
+    "Summary": "1) 固定收益市場持穩，交易邏輯沿節前預設節奏進行<br><br>2) 節後風險偏好或繼續上行，但對債市影響有限<br><br>3) 流動性保持寬鬆，降息預期尚未明朗，交易情緒或降溫<br><br>4) 大型銀行負債較為寬鬆，階段性配置主線或在三月調整<br><br>5) 超長期政府債供需平衡，地方債發行或帶來壓力"
+  },
+  {
+    "Source": "东方金诚",
+    "Date": "2026-02-24",
+    "Name": "2026年黄金市场展望：金价中长期上涨逻辑未变，但波动加剧",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/2026%E5%B9%B4%E9%BB%84%E9%87%91%E5%B8%82%E5%9C%BA%E5%B1%95%E6%9C%9B%EF%BC%9A%E9%87%91%E4%BB%B7%E4%B8%AD%E9%95%BF%E6%9C%9F%E4%B8%8A%E6%B6%A8%E9%80%BB%E8%BE%91%E6%9C%AA%E5%8F%98%EF%BC%8C%E4%BD%86%E6%B3%A2%E5%8A%A8%E5%8A%A0%E5%89%A7.pdf",
+    "PageCount": 15,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202602241819991868_1.pdf?1771945117000.pdf",
+    "LocalPath": "all report pdf/2026年黄金市场展望：金价中长期上涨逻辑未变，但波动加剧.pdf",
+    "Summary": "1) 結論性標題  <br>2026年黃金展望：中長期仍看漲但波動加劇  <br><br>2) 核心摘要  <br>- 2026年金價有望升至6000美元/盎司，長期仍看漲。  <br>- 美聯儲降息將持續，提供金價上行動力，但幅度不大。  <br>- 美元指數預計走弱，美元資產安全性降低，利好黃金。  <br>- 地緣政治風險長期存在，央行持續增持黃金支撐底部。  <br>- 市場情緒敏感，消息面變動可能引發金價劇烈波動。"
+  },
+  {
+    "Source": "东方金诚",
+    "Date": "2026-02-24",
+    "Name": "2026年1月物价数据点评：春节错期带动1月CPI涨幅回落，PPI降幅继续收窄",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/2026%E5%B9%B41%E6%9C%88%E7%89%A9%E4%BB%B7%E6%95%B0%E6%8D%AE%E7%82%B9%E8%AF%84%EF%BC%9A%E6%98%A5%E8%8A%82%E9%94%99%E6%9C%9F%E5%B8%A6%E5%8A%A81%E6%9C%88CPI%E6%B6%A8%E5%B9%85%E5%9B%9E%E8%90%BD%EF%BC%8CPPI%E9%99%8D%E5%B9%85%E7%BB%A7%E7%BB%AD%E6%94%B6%E7%AA%84.pdf",
+    "PageCount": 3,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202602241819991803_1.pdf?1771944007000.pdf",
+    "LocalPath": "all report pdf/2026年1月物价数据点评：春节错期带动1月CPI涨幅回落，PPI降幅继续收窄.pdf",
+    "Summary": "1) 2026年物價展望：低通胀格局延續，政策空間充裕<br><br>2) 核心摘要：<br>- 1月CPI同比僅漲0.2%，受基數和季節性因素影響明顯<br>- 食品價格由漲轉跌，蔬菜供應增加是主要原因<br>- 1月PPI環比持續上升，反內卷政策推動供需改善<br>- 國際金價上漲和有色金屬價格走強支撐物價<br>- 2026年全年CPI預計僅0.5%，低通胀格局持續"
+  },
+  {
+    "Source": "东方金诚",
+    "Date": "2026-02-24",
+    "Name": "2026年2月LPR报价保持不变，二季度有望下调",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/2026%E5%B9%B42%E6%9C%88LPR%E6%8A%A5%E4%BB%B7%E4%BF%9D%E6%8C%81%E4%B8%8D%E5%8F%98%EF%BC%8C%E4%BA%8C%E5%AD%A3%E5%BA%A6%E6%9C%89%E6%9C%9B%E4%B8%8B%E8%B0%83.pdf",
+    "PageCount": 2,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202602241819991763_1.pdf?1771943307000.pdf",
+    "LocalPath": "all report pdf/2026年2月LPR报价保持不变，二季度有望下调.pdf",
+    "Summary": "1) 2026年中国货币政策展望：稳中有调，关注外部风险与房地产调控<br><br>2) 2月LPR保持不变，预计二季度有望下调，政策空间充足  <br>3) 经济基本面强劲，出口偏强，物价温和回升，货币政策保持宽松  <br>4) 美国关税不确定性增加，可能引发二季度宏观经济下行压力  <br>5) 关注房地产市场稳定，或通过调降房贷利率激发市场需求"
+  },
+  {
+    "Source": "东方金诚",
+    "Date": "2026-02-24",
+    "Name": "2026年美国宏观经济与美债收益率展望：货币财政政策双宽、AI投资驱动下增长动能增强，10年期美债收益率仍有上行压力",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/2026%E5%B9%B4%E7%BE%8E%E5%9B%BD%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E4%B8%8E%E7%BE%8E%E5%80%BA%E6%94%B6%E7%9B%8A%E7%8E%87%E5%B1%95%E6%9C%9B%EF%BC%9A%E8%B4%A7%E5%B8%81%E8%B4%A2%E6%94%BF%E6%94%BF%E7%AD%96%E5%8F%8C%E5%AE%BD%E3%80%81AI%E6%8A%95%E8%B5%84%E9%A9%B1%E5%8A%A8%E4%B8%8B%E5%A2%9E%E9%95%BF%E5%8A%A8%E8%83%BD%E5%A2%9E%E5%BC%BA%EF%BC%8C10%E5%B9%B4%E6%9C%9F%E7%BE%8E%E5%80%BA%E6%94%B6%E7%9B%8A%E7%8E%87%E4%BB%8D%E6%9C%89%E4%B8%8A%E8%A1%8C%E5%8E%8B%E5%8A%9B.pdf",
+    "PageCount": 29,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202602241819991753_1.pdf?1771943165000.pdf",
+    "LocalPath": "all report pdf/2026年美国宏观经济与美债收益率展望：货币财政政策双宽、AI投资驱动下增长动能增强，10年期美债收益率仍有上行压力.pdf",
+    "Summary": "1) 標題：2026年美國經濟展望：政策寬鬆推動增長，債市仍有上行壓力<br><br>2) 核心摘要：<br>- 2026年GDP預計由2.0%升至2.3%，增長動能強化。  <br>- 通脹預計在2.7%-3.0%，受關稅與能源價格影響。  <br>- 美聯儲降息次數有限，預計年內僅兩次左右。  <br>- 10年期美債收益率仍有上行壓力，或達4.3%。  <br>- 利率曲線預期走陡，2年期下行空間較大，長端波動收斂。"
+  },
+  {
+    "Source": "东方金诚",
+    "Date": "2026-02-24",
+    "Name": "2026年1月金融数据点评：开年信贷季节性大规模投放，金融数据走势较为平稳",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/2026%E5%B9%B41%E6%9C%88%E9%87%91%E8%9E%8D%E6%95%B0%E6%8D%AE%E7%82%B9%E8%AF%84%EF%BC%9A%E5%BC%80%E5%B9%B4%E4%BF%A1%E8%B4%B7%E5%AD%A3%E8%8A%82%E6%80%A7%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8A%95%E6%94%BE%EF%BC%8C%E9%87%91%E8%9E%8D%E6%95%B0%E6%8D%AE%E8%B5%B0%E5%8A%BF%E8%BE%83%E4%B8%BA%E5%B9%B3%E7%A8%B3.pdf",
+    "PageCount": 4,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202602241819991711_1.pdf?1771943053000.pdf",
+    "LocalPath": "all report pdf/2026年1月金融数据点评：开年信贷季节性大规模投放，金融数据走势较为平稳.pdf",
+    "Summary": "1) 2026年一月金融数据平稳，货币政策或将逐步宽松<br><br>2) 一月新增人民币贷款虽达峰但同比少增，反映需求乏力<br><br>3) 社会融资规模主要由政府债券推动，显示政策提前发力<br><br>4) M2增速持续上升，受非银存款大幅增长影响，短期扰动后或回落<br><br>5) 经济结构调整和需求不足，预计二季度降息降准窗口或将开启"
+  },
+  {
+    "Source": "中诚信国际",
+    "Date": "2026-02-24",
+    "Name": "1月利率运行分析与展望：结构性降息落地，10年期国债阶段性高点或在1.9%左右",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/1%E6%9C%88%E5%88%A9%E7%8E%87%E8%BF%90%E8%A1%8C%E5%88%86%E6%9E%90%E4%B8%8E%E5%B1%95%E6%9C%9B%EF%BC%9A%E7%BB%93%E6%9E%84%E6%80%A7%E9%99%8D%E6%81%AF%E8%90%BD%E5%9C%B0%EF%BC%8C10%E5%B9%B4%E6%9C%9F%E5%9B%BD%E5%80%BA%E9%98%B6%E6%AE%B5%E6%80%A7%E9%AB%98%E7%82%B9%E6%88%96%E5%9C%A81.9%25%E5%B7%A6%E5%8F%B3.pdf",
+    "PageCount": 9,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202602241819991678_1.pdf?1771943053000.pdf",
+    "LocalPath": "all report pdf/1月利率运行分析与展望：结构性降息落地，10年期国债阶段性高点或在1.9%左右.pdf",
+    "Summary": "1) 低利率環境下債市展望：收益率或在1.9%高點徘徊<br><br>2) 央行推出結構性貨幣政策，促進信貸投放與經濟轉型<br><br>3) 1月國債收益率先升後降，月末收在1.81%，波動加大<br><br>4) 流動性偏松，資金面穩定，短期內收益率上行空間有限<br><br>5) 2025年收益率中枢難大幅上行，階段性高點約在1.9%"
+  },
+  {
+    "Source": "东吴证券",
+    "Date": "2026-02-24",
+    "Name": "金融产品周报：海外市场流动性有企稳迹象，情绪或会好转【勘误版】",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E9%87%91%E8%9E%8D%E4%BA%A7%E5%93%81%E5%91%A8%E6%8A%A5%EF%BC%9A%E6%B5%B7%E5%A4%96%E5%B8%82%E5%9C%BA%E6%B5%81%E5%8A%A8%E6%80%A7%E6%9C%89%E4%BC%81%E7%A8%B3%E8%BF%B9%E8%B1%A1%EF%BC%8C%E6%83%85%E7%BB%AA%E6%88%96%E4%BC%9A%E5%A5%BD%E8%BD%AC%E3%80%90%E5%8B%98%E8%AF%AF%E7%89%88%E3%80%91.pdf",
+    "PageCount": 20,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202602241819990933_1.pdf?1771940765000.pdf",
+    "LocalPath": "all report pdf/金融产品周报：海外市场流动性有企稳迹象，情绪或会好转【勘误版】.pdf",
+    "Summary": "1) 海外流動性企穩，A股市場或迎來轉機  <br><br>2) 2月市場短期震蕩，基金配置建議保持均衡  <br><br>3) 近期化工、電網ETF資金持續流入，相關板塊或具備投資機會  <br><br>4) 有色金屬、黃金股ETF資金大幅縮減，需保持謹慎  <br><br>5) 美股、貴金屬、幣圈反彈，海外流動性企穩或帶動A股走勢"
+  },
+  {
+    "Source": "东吴证券",
+    "Date": "2026-02-24",
+    "Name": "金融产品周报：市场短期进入结构混沌期，但大盘指数仍然稳健【勘误版】",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E9%87%91%E8%9E%8D%E4%BA%A7%E5%93%81%E5%91%A8%E6%8A%A5%EF%BC%9A%E5%B8%82%E5%9C%BA%E7%9F%AD%E6%9C%9F%E8%BF%9B%E5%85%A5%E7%BB%93%E6%9E%84%E6%B7%B7%E6%B2%8C%E6%9C%9F%EF%BC%8C%E4%BD%86%E5%A4%A7%E7%9B%98%E6%8C%87%E6%95%B0%E4%BB%8D%E7%84%B6%E7%A8%B3%E5%81%A5%E3%80%90%E5%8B%98%E8%AF%AF%E7%89%88%E3%80%91.pdf",
+    "PageCount": 20,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202602241819990736_1.pdf?1771932613000.pdf",
+    "LocalPath": "all report pdf/金融产品周报：市场短期进入结构混沌期，但大盘指数仍然稳健【勘误版】.pdf",
+    "Summary": "1) 市场短期震荡，结构混沌但大盘仍具稳健性<br><br>2) 2月A股整体乐观，但春节前或有部分获利回吐压力<br><br>3) 资金流向显示通信、芯片、化工等行业持续获资金青睐<br><br>4) 权益类ETF规模变化显著，主题和行业指数表现强劲<br><br>5) 建议投资者聚焦基本面良好的行业，采取均衡配置策略"
+  },
+  {
+    "Source": "民银证券",
+    "Date": "2026-02-24",
+    "Name": "海外宏观周报（2026年第8期）：春节期间海外市场宏观大事一览",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%B5%B7%E5%A4%96%E5%AE%8F%E8%A7%82%E5%91%A8%E6%8A%A5%EF%BC%882026%E5%B9%B4%E7%AC%AC8%E6%9C%9F%EF%BC%89%EF%BC%9A%E6%98%A5%E8%8A%82%E6%9C%9F%E9%97%B4%E6%B5%B7%E5%A4%96%E5%B8%82%E5%9C%BA%E5%AE%8F%E8%A7%82%E5%A4%A7%E4%BA%8B%E4%B8%80%E8%A7%88.pdf",
+    "PageCount": 19,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202602241819989944_1.pdf?1771928732000.pdf",
+    "LocalPath": "all report pdf/海外宏观周报（2026年第8期）：春节期间海外市场宏观大事一览.pdf",
+    "Summary": "1) 標題：2026年海外宏觀經濟與市場展望：不確定性與政策調整並存<br><br>2) 核心摘要：<br>- 美國最高法院裁定部分關稅違憲，特朗普推新“122關稅”應對。<br>- 美國四季度GDP低於預期，經濟結構性矛盾仍存。<br>- 全球市場交易模式呈現不確定性，繁榮與衰退交替出現。<br>- 日本新首相高市早苗推動積極財政政策，加快經濟復甦。<br>- 地緣政治緊張持續，伊朗局勢升溫，金價與油價上揚。"
+  },
+  {
+    "Source": "民银证券",
+    "Date": "2026-02-24",
+    "Name": "海外宏观周报（2026年第7期）：美国失业与通胀同降，市场选择交易衰退",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%B5%B7%E5%A4%96%E5%AE%8F%E8%A7%82%E5%91%A8%E6%8A%A5%EF%BC%882026%E5%B9%B4%E7%AC%AC7%E6%9C%9F%EF%BC%89%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%A4%B1%E4%B8%9A%E4%B8%8E%E9%80%9A%E8%83%80%E5%90%8C%E9%99%8D%EF%BC%8C%E5%B8%82%E5%9C%BA%E9%80%89%E6%8B%A9%E4%BA%A4%E6%98%93%E8%A1%B0%E9%80%80.pdf",
+    "PageCount": 19,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202602241819989942_1.pdf?1771928846000.pdf",
+    "LocalPath": "all report pdf/海外宏观周报（2026年第7期）：美国失业与通胀同降，市场选择交易衰退.pdf",
+    "Summary": "1) 標題：美國失業與通脹同步下降，市場偏向衰退交易<br><br>2) 核心摘要：<br>- 1月美國非農就業意外回升，但數據經修正偏向下修。<br>- 失業率與通脹同時下降，打破菲利普斯曲線傳統關係。<br>- 能源價格大跌，核心通脹小幅下行，非房服務壓力仍存。<br>- 市場反應偏向衰退交易，股市下跌債市上升。<br>- 2026年經濟或進入放緩，降息預期提前至6月。"
+  },
+  {
+    "Source": "中泰期货",
+    "Date": "2026-02-24",
+    "Name": "国内宏观解读与展望：春节假期国内出行火热但消费有待观察，美国援引IEEPA单边加征关税被判违宪——债市核心在于政策节奏与赔率，权益核心在于风偏修复持续性",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%9B%BD%E5%86%85%E5%AE%8F%E8%A7%82%E8%A7%A3%E8%AF%BB%E4%B8%8E%E5%B1%95%E6%9C%9B%EF%BC%9A%E6%98%A5%E8%8A%82%E5%81%87%E6%9C%9F%E5%9B%BD%E5%86%85%E5%87%BA%E8%A1%8C%E7%81%AB%E7%83%AD%E4%BD%86%E6%B6%88%E8%B4%B9%E6%9C%89%E5%BE%85%E8%A7%82%E5%AF%9F%EF%BC%8C%E7%BE%8E%E5%9B%BD%E6%8F%B4%E5%BC%95IEEPA%E5%8D%95%E8%BE%B9%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E%E8%A2%AB%E5%88%A4%E8%BF%9D%E5%AE%AA%E2%80%94%E2%80%94%E5%80%BA%E5%B8%82%E6%A0%B8%E5%BF%83%E5%9C%A8%E4%BA%8E%E6%94%BF%E7%AD%96%E8%8A%82%E5%A5%8F%E4%B8%8E%E8%B5%94%E7%8E%87%EF%BC%8C%E6%9D%83%E7%9B%8A%E6%A0%B8%E5%BF%83%E5%9C%A8%E4%BA%8E%E9%A3%8E%E5%81%8F%E4%BF%AE%E5%A4%8D%E6%8C%81%E7%BB%AD%E6%80%A7.pdf",
+    "PageCount": 64,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202602241819988824_1.pdf?1771930356000.pdf",
+    "LocalPath": "all report pdf/国内宏观解读与展望：春节假期国内出行火热但消费有待观察，美国援引IEEPA单边加征关税被判违宪——债市核心在于政策节奏与赔率，权益核心在于风偏修复持续性.pdf",
+    "Summary": "結論性標題：2026年宏觀經濟與資產市場展望：政策調整與地緣風險並存<br><br>核心摘要：<br>- 春節出行活躍，消費復甦仍待觀察。<br>- 美國裁定IEEPA關稅違憲，短期提振風險偏好。<br>- 債市受政策與利率預期影響，震盪格局或持續。<br>- 股市風偏修復，短線偏向波段操作。<br>- 地緣政治與關稅風險仍是市場主要變數。"
+  },
+  {
+    "Source": "诚通证券",
+    "Date": "2026-02-24",
+    "Name": "宏观与大类资产周报：中国社融“开门红”，美国关税再起波澜",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%AE%8F%E8%A7%82%E4%B8%8E%E5%A4%A7%E7%B1%BB%E8%B5%84%E4%BA%A7%E5%91%A8%E6%8A%A5%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%A4%BE%E8%9E%8D%E2%80%9C%E5%BC%80%E9%97%A8%E7%BA%A2%E2%80%9D%EF%BC%8C%E7%BE%8E%E5%9B%BD%E5%85%B3%E7%A8%8E%E5%86%8D%E8%B5%B7%E6%B3%A2%E6%BE%9C.pdf",
+    "PageCount": 17,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202602231819983907_1.pdf?1771926325000.pdf",
+    "LocalPath": "all report pdf/宏观与大类资产周报：中国社融“开门红”，美国关税再起波澜.pdf",
+    "Summary": "1) 2026年中国宏观经济展望：稳中有升，海外波动带来压力<br><br>2) 核心摘要：<br>- A股节前震荡上涨，创业板表现最佳，成交略有缩减<br>- 海外科技股受高支出影响，未来波动或持续拖累A股<br>- 1月社融“开门红”，但信贷增速仍显放缓，支持力度减弱<br>- 美股主要指数回调，原油、黄金等商品价格显著上涨<br>- 资金面保持宽松，股市资金流入增加，债市收益率微降"
+  },
+  {
+    "Source": "东吴证券",
+    "Date": "2026-02-23",
+    "Name": "宏观点评：春节对全年消费有何指示意义？",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%AE%8F%E8%A7%82%E7%82%B9%E8%AF%84%EF%BC%9A%E6%98%A5%E8%8A%82%E5%AF%B9%E5%85%A8%E5%B9%B4%E6%B6%88%E8%B4%B9%E6%9C%89%E4%BD%95%E6%8C%87%E7%A4%BA%E6%84%8F%E4%B9%89%EF%BC%9F.pdf",
+    "PageCount": 13,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202602231819982797_1.pdf?1771869228000.pdf",
+    "LocalPath": "all report pdf/宏观点评：春节对全年消费有何指示意义？.pdf",
+    "Summary": "1) 2026年春节消费展现强劲开局，预示全年温和复苏<br><br>2) 春节假期前4天零售餐饮销售同比增长8.6%，高于去年<br><br>3) 旅游出行强劲，春运人次创新高，出境游热度回落<br><br>4) 电影票房受供给影响低于往年，但户外旅游热度提升<br><br>5) 以旧换新减弱，服务消费成为消费结构的主要支撑"
+  },
+  {
+    "Source": "东海证券",
+    "Date": "2026-02-23",
+    "Name": "海外观察：美国2025年四季度GDP数据点评：剔除政府关停影响后，美国经济依然保持相对稳健",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%B5%B7%E5%A4%96%E8%A7%82%E5%AF%9F%EF%BC%9A%E7%BE%8E%E5%9B%BD2025%E5%B9%B4%E5%9B%9B%E5%AD%A3%E5%BA%A6GDP%E6%95%B0%E6%8D%AE%E7%82%B9%E8%AF%84%EF%BC%9A%E5%89%94%E9%99%A4%E6%94%BF%E5%BA%9C%E5%85%B3%E5%81%9C%E5%BD%B1%E5%93%8D%E5%90%8E%EF%BC%8C%E7%BE%8E%E5%9B%BD%E7%BB%8F%E6%B5%8E%E4%BE%9D%E7%84%B6%E4%BF%9D%E6%8C%81%E7%9B%B8%E5%AF%B9%E7%A8%B3%E5%81%A5.pdf",
+    "PageCount": 6,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202602231819982566_1.pdf?1771867002000.pdf",
+    "LocalPath": "all report pdf/海外观察：美国2025年四季度GDP数据点评：剔除政府关停影响后，美国经济依然保持相对稳健.pdf",
+    "Summary": "1) 美國經濟在關停影響下仍展現相對穩健的韌性<br><br>2) 四季度GDP增速1.4%，低於預期，政府關停是主要拖累因素<br><br>3) 個人消費由商品拖累，但服務消費保持強勁，支撐經濟<br><br>4) 私人投資反彈，科技投資持續擴張，K型分化加深<br><br>5) 2025年全年GDP增速預計由2.8%下滑至2.2%，風險仍存"
+  },
+  {
+    "Source": "国金证券",
+    "Date": "2026-02-23",
+    "Name": "贸易专题分析报告：IEEPA被判越权会产生什么影响？",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E8%B4%B8%E6%98%93%E4%B8%93%E9%A2%98%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A%EF%BC%9AIEEPA%E8%A2%AB%E5%88%A4%E8%B6%8A%E6%9D%83%E4%BC%9A%E4%BA%A7%E7%94%9F%E4%BB%80%E4%B9%88%E5%BD%B1%E5%93%8D%EF%BC%9F.pdf",
+    "PageCount": 9,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202602231819982170_1.pdf?1771864749000.pdf",
+    "LocalPath": "all report pdf/贸易专题分析报告：IEEPA被判越权会产生什么影响？.pdf",
+    "Summary": "1) IEEPA被判無效對特朗普政府的政治、經濟與外交影響分析<br><br>2) 核心摘要：<br>- IEEPA裁定越權削弱特朗普的關稅政策與談判籌碼。  <br>- 2026年前關稅收入約1700億美元，退稅與赤字風險升高。  <br>- 法院判決使貿易框架可信度下降，伙伴國或放緩合作進度。  <br>- 政府將用122條款等工具短期維持貿易壓力，中期重建合法關稅體系。  <br>- 市場反應初期偏樂觀，隨後政策不確定性升高，美元與美債承壓。"
+  },
+  {
+    "Source": "西南证券",
+    "Date": "2026-02-23",
+    "Name": "2026年1月社融数据点评：社融“开门红”的成色如何？",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/2026%E5%B9%B41%E6%9C%88%E7%A4%BE%E8%9E%8D%E6%95%B0%E6%8D%AE%E7%82%B9%E8%AF%84%EF%BC%9A%E7%A4%BE%E8%9E%8D%E2%80%9C%E5%BC%80%E9%97%A8%E7%BA%A2%E2%80%9D%E7%9A%84%E6%88%90%E8%89%B2%E5%A6%82%E4%BD%95%EF%BC%9F.pdf",
+    "PageCount": 7,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202602231819979404_1.pdf?1771845702000.pdf",
+    "LocalPath": "all report pdf/2026年1月社融数据点评：社融“开门红”的成色如何？.pdf",
+    "Summary": "結論性標題：2026年1月社融數據顯示經濟復甦仍謹慎，信貸意願偏弱<br><br>核心摘要：<br>- 社融存量同比增速略降至8.2%，增速較去年略放緩。<br>- 社融增量主要由政府債券推動，企業貸款增幅減弱。<br>- 人民幣存款大幅增加，M2增速持續高位，但M1回升有限。<br>- 企業短期貸款增加，居民中長期貸款仍偏弱，房市交易偏淡。<br>- 通脹壓力緩解，PPI持續下降，經濟復甦仍需觀察信貸意願。"
+  },
+  {
+    "Source": "东吴证券",
+    "Date": "2026-02-23",
+    "Name": "海外周报：春节海外市场回顾：IEEPA违法后特朗普的Plan B",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%B5%B7%E5%A4%96%E5%91%A8%E6%8A%A5%EF%BC%9A%E6%98%A5%E8%8A%82%E6%B5%B7%E5%A4%96%E5%B8%82%E5%9C%BA%E5%9B%9E%E9%A1%BE%EF%BC%9AIEEPA%E8%BF%9D%E6%B3%95%E5%90%8E%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84Plan%20B.pdf",
+    "PageCount": 9,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202602221819978504_1.pdf?1771844223000.pdf",
+    "LocalPath": "all report pdf/海外周报：春节海外市场回顾：IEEPA违法后特朗普的Plan B.pdf",
+    "Summary": "1) 標題：2026年海外經濟與資產市場展望：風險與機遇並存<br><br>2) 核心摘要：<br>- 春節期間，美元與黃金同步走高，避險情緒升溫。<br>- 美國經濟數據穩健，預計Q1反彈，AI投資持續亮眼。<br>- 伊朗局勢升級與特朗普關稅裁決影響市場波動。<br>- 美股AI軟件估值過高，私募信貸風險升溫引擔憂。<br>- 政府停擺影響GDP，預期Q1將迎來V型反彈。"
+  },
+  {
+    "Source": "粤开证券",
+    "Date": "2026-02-23",
+    "Name": "【粤开宏观】特朗普关税政策违法：背景、后续及影响",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%80%90%E7%B2%A4%E5%BC%80%E5%AE%8F%E8%A7%82%E3%80%91%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E6%94%BF%E7%AD%96%E8%BF%9D%E6%B3%95%EF%BC%9A%E8%83%8C%E6%99%AF%E3%80%81%E5%90%8E%E7%BB%AD%E5%8F%8A%E5%BD%B1%E5%93%8D.pdf",
+    "PageCount": 9,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202602221819978336_1.pdf?1771842824000.pdf",
+    "LocalPath": "all report pdf/【粤开宏观】特朗普关税政策违法：背景、后续及影响.pdf",
+    "Summary": "1) 結論標題：最高法院裁定特朗普關稅政策違法，關稅格局或迎調整<br><br>2) 核心摘要：<br>- 最高法院判定特朗普援引IEEPA徵收關稅違法，核心政策失效。<br>- 目前，232和301關稅仍在有效，特朗普或採用新工具應對。<br>- 美國有效關稅或短期內小幅下降，退稅不確定性高。<br>- 對中國關稅可能暫時下調5%，長期貿易博弈仍持續。<br>- 政府或推動國會立法擴大關稅調整權，政治與法律風險並存。"
+  },
+  {
+    "Source": "华金证券",
+    "Date": "2026-02-23",
+    "Name": "节后春季行情可能延续，科技和周期占优",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E8%8A%82%E5%90%8E%E6%98%A5%E5%AD%A3%E8%A1%8C%E6%83%85%E5%8F%AF%E8%83%BD%E5%BB%B6%E7%BB%AD%EF%BC%8C%E7%A7%91%E6%8A%80%E5%92%8C%E5%91%A8%E6%9C%9F%E5%8D%A0%E4%BC%98.pdf",
+    "PageCount": 25,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202602221819978162_1.pdf?1771842513000.pdf",
+    "LocalPath": "all report pdf/节后春季行情可能延续，科技和周期占优.pdf",
+    "Summary": "1) 2026年春季行情有望延续，科技与周期行业表现突出<br><br>2) 節前風險因素未明顯發生，經濟數據偏好，市場信心穩定<br><br>3) 美國通脹降溫，流動性寬鬆預期持續，美元指數低位震蕩<br><br>4) 歷史經驗顯示，節後A股大概率走強，政策和外部事件是關鍵<br><br>5) 建議逢低布局科技成長與周期行業，關注政策催化和基本面改善"
+  },
+  {
+    "Source": "中银证券",
+    "Date": "2026-02-23",
+    "Name": "美国最高法院IEEPA关税裁决点评",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%BE%8E%E5%9B%BD%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2IEEPA%E5%85%B3%E7%A8%8E%E8%A3%81%E5%86%B3%E7%82%B9%E8%AF%84.pdf",
+    "PageCount": 5,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202602221819978097_1.pdf?1771842218000.pdf",
+    "LocalPath": "all report pdf/美国最高法院IEEPA关税裁决点评.pdf",
+    "Summary": "1) 標題：美最高法院裁決推翻IEEPA關稅，關稅政策仍存不確定性<br><br>2) 核心摘要：<br>- 美國最高法院裁定特朗普依IEEPA實施的關稅超出法定權限，部分措施被推翻。<br>- 特朗普仍可依其他法律（如232、301條款）徵收關稅，政策不會完全取消。<br>- 近期特朗普已簽署新命令，對全球商品徵收10%額外關稅，期限150天。<br>- 關稅不確定性升高，短期利好風險資產，但長期影響仍待觀察。<br>- 中國出口韌性強，關稅影響有限，內需提振仍是經濟重點。"
   },
   {
     "Source": "Fubon",
@@ -57,7 +467,77 @@
     "PageCount": 26,
     "OriginalLink": "https://www.fubon.com/banking/document/Corporate/Financial_Market/TW/2026-3月 投資月報(1).pdf",
     "LocalPath": "all report pdf/投資策略月報：股債共鳴迎新春.pdf",
-    "Summary": "- 美聯儲再度啟動貨幣寬鬆，利率有望持續下降。  <br>- 科技股逢低布局，長期仍具成長潛力。  <br>- 債市信用利差收斂，收益率吸引力增加。  <br>- 日本執政黨大勝，政策重塑與國防工業受惠。  <br>- 美國關稅敗訴，通膨預期略升，經濟呈現「K型」分化。"
+    "Summary": "1) 2026年投資策略展望：科技股回調逢低布局，債市收益吸引，美元震盪中尋機<br><br>2) 核心摘要：<br>- 美聯儲將持續貨幣寬鬆，利率有望下行。<br>- 科技股經歷波動後，逢低買入策略仍適用。<br>- 債券市場信用利差收斂，收益率具吸引力。<br>- 日本大選勝利，政策重塑帶動國防與工業股。<br>- 美國關稅裁決影響逐漸消退，通膨預期略升。"
+  },
+  {
+    "Source": "国金证券",
+    "Date": "2026-02-22",
+    "Name": "宏观专题研究报告：叙事回归理性的序幕已拉开",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%AE%8F%E8%A7%82%E4%B8%93%E9%A2%98%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A%EF%BC%9A%E5%8F%99%E4%BA%8B%E5%9B%9E%E5%BD%92%E7%90%86%E6%80%A7%E7%9A%84%E5%BA%8F%E5%B9%95%E5%B7%B2%E6%8B%89%E5%BC%80.pdf",
+    "PageCount": 10,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202602221819977858_1.pdf?1771769669000.pdf",
+    "LocalPath": "all report pdf/宏观专题研究报告：叙事回归理性的序幕已拉开.pdf",
+    "Summary": "1) 全球资本市场由叙事溢价向真实价值修正，波动加剧  <br>2) AI产业虽持续进步，但投资泡沫风险显著，需理性看待产业与投资的差异  <br>3) 美股科技巨头资本开支激增，但收入增速远不及支出，市场担忧回报难兑现  <br>4) 流动性受通胀粘性影响有限，长端利率高企，降息空间受限，风险偏好下降  <br>5) 金银等资产剧烈波动，跨市场连锁反应彰显资产逻辑异化与系统性调整风险"
+  },
+  {
+    "Source": "国新证券股份",
+    "Date": "2026-02-22",
+    "Name": "宏观周报",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%AE%8F%E8%A7%82%E5%91%A8%E6%8A%A5.pdf",
+    "PageCount": 17,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202602211819975826_1.pdf?1771756353000.pdf",
+    "LocalPath": "all report pdf/宏观周报.pdf",
+    "Summary": "1) 2026年宏觀經濟展望：穩中有進，政策支持多元推動經濟復甦<br><br>2) 核心摘要：<br>- 上游鋼鐵、焦化、建材行業景氣平穩，產能利用率略有波動。<br>- 1月農產品批發價格小幅下跌，反映通脹壓力略有緩解。<br>- 短期資金利率保持平穩，市場流動性較為穩定。<br>- 政府推出多項政策促進服務消費與產業升級，支持經濟持續發展。<br>- 風險包括地緣政治緊張與全球經濟衰退超預期的潛在影響。"
+  },
+  {
+    "Source": "国新证券股份",
+    "Date": "2026-02-22",
+    "Name": "2025年财政收支数据解读：2025年财政收入小幅下降",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/2025%E5%B9%B4%E8%B4%A2%E6%94%BF%E6%94%B6%E6%94%AF%E6%95%B0%E6%8D%AE%E8%A7%A3%E8%AF%BB%EF%BC%9A2025%E5%B9%B4%E8%B4%A2%E6%94%BF%E6%94%B6%E5%85%A5%E5%B0%8F%E5%B9%85%E4%B8%8B%E9%99%8D.pdf",
+    "PageCount": 5,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202602211819975820_1.pdf?1771756353000.pdf",
+    "LocalPath": "all report pdf/2025年财政收支数据解读：2025年财政收入小幅下降.pdf",
+    "Summary": "1) 2025年中國財政收入微幅下降，展望2026年或將小幅回升  <br><br>2) 核心摘要：<br>- 2025年財政收入同比下降1.7%，為2020年以來少見的下降年份。  <br>- 個人所得稅和國內消費稅創歷史新高，證券交易印花稅大幅增長。  <br>- 非稅收入和政府基金收入大幅下滑，特別是土地出讓收入連續4年下降。  <br>- 2025年財政支出持續創新高，但部分支出如農林水和交通略有下降。  <br>- 財政收支差額創歷史新高，占GDP比重達5.09%，反映財政壓力增加。"
+  },
+  {
+    "Source": "招商银行",
+    "Date": "2026-02-22",
+    "Name": "《2025年四季度货币政策执行报告》解读：总量空间收敛，强化政策协同",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%80%8A2025%E5%B9%B4%E5%9B%9B%E5%AD%A3%E5%BA%A6%E8%B4%A7%E5%B8%81%E6%94%BF%E7%AD%96%E6%89%A7%E8%A1%8C%E6%8A%A5%E5%91%8A%E3%80%8B%E8%A7%A3%E8%AF%BB%EF%BC%9A%E6%80%BB%E9%87%8F%E7%A9%BA%E9%97%B4%E6%94%B6%E6%95%9B%EF%BC%8C%E5%BC%BA%E5%8C%96%E6%94%BF%E7%AD%96%E5%8D%8F%E5%90%8C.pdf",
+    "PageCount": 6,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202602211819975802_1.pdf?1771756353000.pdf",
+    "LocalPath": "all report pdf/《2025年四季度货币政策执行报告》解读：总量空间收敛，强化政策协同.pdf",
+    "Summary": "1) 2026年貨幣政策展望：適度寬鬆與政策協同推動經濟穩健成長<br><br>2) 經濟持續穩中向好，制造業與外貿韌性強，新動能逐步壯大<br><br>3) 通脹預期改善，CPI升至2023年3月以來最高，結構調整利於後續升幅<br><br>4) 貨幣政策延續“適度寬鬆”，總量操作靈活，結構聚焦內需與科技創新<br><br>5) 匯率政策注重穩定，防止過快升值，支持出口競爭力與經濟持續增長"
+  },
+  {
+    "Source": "招商银行",
+    "Date": "2026-02-22",
+    "Name": "回归“小央行”：美联储“沃什时代”前瞻",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%9B%9E%E5%BD%92%E2%80%9C%E5%B0%8F%E5%A4%AE%E8%A1%8C%E2%80%9D%EF%BC%9A%E7%BE%8E%E8%81%94%E5%82%A8%E2%80%9C%E6%B2%83%E4%BB%80%E6%97%B6%E4%BB%A3%E2%80%9D%E5%89%8D%E7%9E%BB.pdf",
+    "PageCount": 16,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202602211819975801_1.pdf?1771756241000.pdf",
+    "LocalPath": "all report pdf/回归“小央行”：美联储“沃什时代”前瞻.pdf",
+    "Summary": "1) 美聯儲新任主席沃什：貨幣主義與去監管並行的長遠策略<br><br>2) 核心摘要：<br>- 沃什堅持抗通脹為美聯儲首要使命，主張縮表與正常化貨幣政策<br>- 預計年內將有2-3次降息，政策利率或降至2.75-3.0%<br>- 長期目標為復興貨幣主義，推動“去監管+縮表”改革<br>- 改革路徑存在樂觀、中性與悲觀三種可能走向<br>- 全球市場波動或加劇，美股震盪、美元先抑後揚、黃金長期牛市未變"
+  },
+  {
+    "Source": "",
+    "Date": "2026-02-22",
+    "Name": "春节效应叠加政府债发力，物价、信贷均有上涨",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%98%A5%E8%8A%82%E6%95%88%E5%BA%94%E5%8F%A0%E5%8A%A0%E6%94%BF%E5%BA%9C%E5%80%BA%E5%8F%91%E5%8A%9B%EF%BC%8C%E7%89%A9%E4%BB%B7%E3%80%81%E4%BF%A1%E8%B4%B7%E5%9D%87%E6%9C%89%E4%B8%8A%E6%B6%A8.pdf",
+    "PageCount": 16,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202602211819975792_1.pdf?1771755948000.pdf",
+    "LocalPath": "all report pdf/春节效应叠加政府债发力，物价、信贷均有上涨.pdf",
+    "Summary": "1) 2026年經濟展望：物價溫和上升，金融支持穩健推進  <br>2) 春節效應與供給充足導致CPI小幅下降，通脹底部穩定  <br>3) 社會融資超預期，政府債券與直接融資成長亮眼  <br>4) 貸款略有收縮，但居民消費回暖，貨幣供應保持平穩  <br>5) 2026年物價或有上行壓力，貨幣金融政策將持續穩健調整"
+  },
+  {
+    "Source": "国新证券股份",
+    "Date": "2026-02-22",
+    "Name": "宏观周报",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%AE%8F%E8%A7%82%E5%91%A8%E6%8A%A5.pdf",
+    "PageCount": 17,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202602211819975785_1.pdf?1771755727000.pdf",
+    "LocalPath": "all report pdf/宏观周报.pdf",
+    "Summary": "1) 2026年宏觀經濟展望：平穩中見韌性，政策支持持續推動經濟復甦<br><br>2) 核心摘要：<br>- 上游鋼鐵、焦化、建材行業景氣平穩，產能利用率略有波動<br>- 鋼廠高爐開工率升至79.02%，但鐵水產量略有下降<br>- 1月農產品批發價格小幅下跌，通脹壓力有所緩解<br>- 短期資金利率保持平穩，反映市場流動性穩定<br>- 政策層面推動服務消費與產業升級，經濟韌性仍具潛力"
   },
   {
     "Source": "JRI",
@@ -67,7 +547,7 @@
     "PageCount": 8,
     "OriginalLink": "https://www.jri.co.jp/file/report/usa/pdf/16471.pdf",
     "LocalPath": "all report pdf/米国経済展望2026年２月号：トピック：「雇用なき成長」の裏にＡＩの影（PDF：994KB）.pdf",
-    "Summary": "- 個人消費は底堅いが、拡大ペースは鈍化傾向。<br>- 雇用・所得環境の悪化と家計の財務余力縮小影響。<br>- 企業の設備投資は底堅く推移、利益改善と資金調達コスト低下が追い風。<br>- AI導入進展により労働需要が鈍化、ホワイトカラー労働者の削減が顕著。<br>- 企業業績と労働需要の乖離が進行、AIが労働市場に大きな影響。"
+    "Summary": "1) 美國經濟展望：消費放緩與AI影響下的「雇用無增長」局面<br><br>2) 核心摘要：<br>- 2026年美國個人消費仍維持底堅，但增長速度將放緩。<br>- 雇用與所得環境惡化，賃金增長趨緩，求人倍率下降。<br>- 企業設備投資持續底堅，受益於企業利潤改善與低資金成本。<br>- AI技術推動企業盈利，但導致白領就業人數減少，出現「雇用無增長」。<br>- 企業盈利與就業需求出現背離，AI導入加速影響勞動市場。"
   },
   {
     "Source": "JRI",
@@ -77,7 +557,7 @@
     "PageCount": 9,
     "OriginalLink": "https://www.jri.co.jp/file/report/kansai/pdf/16467.pdf",
     "LocalPath": "all report pdf/「関西の景気動向」２月号　中国人旅行者減少による関西経済への影響（PDF：773KB）.pdf",
-    "Summary": "- 関西景気は緩やかに回復中、輸出は円安で底堅い。<br>- 製造業の利益上方修正と設備投資は堅調に推移。<br>- 雇用は改善傾向、失業率は低水準だが実質賃金は伸び悩む。<br>- 消費は横ばい、百貨店の免税品売上は減少、消費者マインドは改善。<br>- 先行きは中国経済減速や米中摩擦で不透明、倒産件数は高水準維持。"
+    "Summary": "1) 關西經濟展望：緩步復甦但面臨不確定風險  <br>2) 景氣持續緩慢回升，出口受匯率支撐但增長乏力  <br>3) 企業盈利改善，設備投資維持底部堅挺，軟體投資增長  <br>4) 雇用情勢改善，薪資上升但實質購買力受物價高漲影響  <br>5) 消費動能略有回暖，住宅與公共投資逐步恢復，倒產數仍偏高"
   },
   {
     "Source": "JRI",
@@ -87,7 +567,27 @@
     "PageCount": 11,
     "OriginalLink": "https://www.jri.co.jp/file/report/japan/pdf/16462.pdf",
     "LocalPath": "all report pdf/日本経済展望2026年２月号：【設備更新サイクルの短期化が設備投資の追い風に】【消費減税は家計支援の最適解か】（PDF：1234KB）.pdf",
-    "Summary": "- 日本經濟2026年持續緩慢復甦，內需主導成長。  <br>- 2025年Q4實質GDP增0.2%，個人消費持續回升。  <br>- 製造業生產波動，但預計2026年1月大幅反彈。  <br>- 輸出底部企穩，資訊科技需求推動整體出口。  <br>- 中日關係惡化影響短期內降低中國遊客數量。"
+    "Summary": "1) 日本經濟展望：緩慢復甦與外需底部支撐<br><br>2) 核心摘要：<br>- 2026年初日本GDP預計年率增0.2%，由內需推動。<br>- 製造業生產波動，預計2026年1月大幅反彈7.2%。<br>- 新設住宅持續下滑，2025年連續三年低於去年。<br>- 輸入物價持續低迷，能源價格波動影響有限。<br>- 外需逐步回暖，對美歐亞出口形成支撐。<br>- 中日關係惡化影響短期內降低中國遊客數量，但整體訪日需求仍具韌性。"
+  },
+  {
+    "Source": "东吴证券",
+    "Date": "2026-02-15",
+    "Name": "2026年1月美国CPI数据点评：美国1月CPI：没那么“弱”",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/2026%E5%B9%B41%E6%9C%88%E7%BE%8E%E5%9B%BDCPI%E6%95%B0%E6%8D%AE%E7%82%B9%E8%AF%84%EF%BC%9A%E7%BE%8E%E5%9B%BD1%E6%9C%88CPI%EF%BC%9A%E6%B2%A1%E9%82%A3%E4%B9%88%E2%80%9C%E5%BC%B1%E2%80%9D.pdf",
+    "PageCount": 6,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202602141819936400_1.pdf?1771149930000.pdf",
+    "LocalPath": "all report pdf/2026年1月美国CPI数据点评：美国1月CPI：没那么“弱”.pdf",
+    "Summary": "1) 標題：2026年1月美國通脹數據顯示結構黏性強，升息預期仍存風險<br><br>2) 核心CPI環比反彈至+0.3%，但總體CPI低於預期，能源拖累明顯<br>3) 超級核心服務通脹創一年新高，顯示通脹黏性仍然存在<br>4) 居住通脹逐步降溫，房價與租金增速接近2020年水平<br>5) 預計一季度需求持續擴張，2-3月通脹上行風險仍存，美聯儲或於6月首次降息"
+  },
+  {
+    "Source": "中泰期货",
+    "Date": "2026-02-15",
+    "Name": "央行MLF明显扩量操作后债市走强：美国ISM制造业回升服务业回落，ADP就业不及预期",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%A4%AE%E8%A1%8CMLF%E6%98%8E%E6%98%BE%E6%89%A9%E9%87%8F%E6%93%8D%E4%BD%9C%E5%90%8E%E5%80%BA%E5%B8%82%E8%B5%B0%E5%BC%BA%EF%BC%9A%E7%BE%8E%E5%9B%BDISM%E5%88%B6%E9%80%A0%E4%B8%9A%E5%9B%9E%E5%8D%87%E6%9C%8D%E5%8A%A1%E4%B8%9A%E5%9B%9E%E8%90%BD%EF%BC%8CADP%E5%B0%B1%E4%B8%9A%E4%B8%8D%E5%8F%8A%E9%A2%84%E6%9C%9F.pdf",
+    "PageCount": 62,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202602141819936196_1.pdf?1771149572000.pdf",
+    "LocalPath": "all report pdf/央行MLF明显扩量操作后债市走强：美国ISM制造业回升服务业回落，ADP就业不及预期.pdf",
+    "Summary": "1) 美國經濟數據波動與貨幣政策展望：債市震盪或持續，關注資金利率變化<br><br>2) 核心摘要：<br>- 美國ISM製造業回升，服務業略有回落，反映經濟分化<br>- ADP就業數據不及預期，勞動市場仍偏弱<br>- 央行MLF明顯擴量，債市走強，流動性略有增加<br>- 中國出口韌性強，韓國出口創新高，外需支撐經濟<br>- 美聯儲維持利率不變，強調數據決策，通脹仍高企"
   },
   {
     "Source": "Fubon",
@@ -97,7 +597,7 @@
     "PageCount": 6,
     "OriginalLink": "https://www.fubon.com/banking/document/Corporate/Financial_Market/TW/債券市場總評：新興債亮點漸增_20260213.pdf",
     "LocalPath": "all report pdf/債券市場總評：新興債亮點漸增.pdf",
-    "Summary": "- 新興債券殖利率較高，風險補貼明顯，具吸引力。  <br>- 美債殖利率回落，風險偏好提升，非投資等級表現較佳。  <br>- 美國就業數據強勁，通膨黏性高，預計7月才降息。  <br>- 新興市場經濟韌性佳，政策偏寬鬆，資金持續流入。  <br>- 投資新興債須審慎控管信用與經濟風險，選擇體質較穩健區域。"
+    "Summary": "1) 新興債券市場展現亮點，投資價值逐步提升<br><br>2) 美債殖利率回落，風險偏好提升，資金流入新興市場<br><br>3) 新興市場債務整體低於已開發國家，信用評等持續改善<br><br>4) 高殖利率新興債具穩定收益，區域選擇需謹慎控管風險<br><br>5) 全球寬鬆環境延續，新興市場成長動能強勁，配置潛力待挖掘"
   },
   {
     "Source": "Fubon",
@@ -107,7 +607,7 @@
     "PageCount": 5,
     "OriginalLink": "https://www.fubon.com/banking/document/Corporate/Financial_Market/TW/股票市場總評：歐股乘勢策馬行_20260213.pdf",
     "LocalPath": "all report pdf/股票市場總評：歐股乘勢策馬行.pdf",
-    "Summary": "- 歐股受益於德國國防與基建支出擴大，景氣回溫。  <br>- 歐洲銀行股去年大漲，預計獲利成長將推動估值回落。  <br>- 資料中心與電網升級支撐歐洲公用事業與工業需求。  <br>- 歐股估值偏低，企業獲利預測穩健，轉向實質成長驗證。  <br>- 美元弱勢有利歐洲非美資產表現，促進全球投資多元化。"
+    "Summary": "結論性標題：歐洲經濟復甦推動股市展望樂觀，銀行與工業類股具投資潛力<br><br>核心摘要：<br>- 歐股受益於德國國防與基建支出擴大，經濟回暖跡象明顯。<br>- 歐洲銀行股去年漲幅超過六成，基本面穩健，估值偏高但成長可期。<br>- 資料中心與電網升級推動公用事業與工業類股中期需求。<br>- 歐股估值較美股低，企業獲利預期持續改善，支撐股價上漲。<br>- 政策與結構性需求將促使歐股進入獲利驗證與估值修復階段"
   },
   {
     "Source": "Fubon",
@@ -117,7 +617,7 @@
     "PageCount": 5,
     "OriginalLink": "https://www.fubon.com/banking/document/Corporate/Financial_Market/TW/談股論金270期.pdf",
     "LocalPath": "all report pdf/談股論金：資金輪動下，小型股機會顯現.pdf",
-    "Summary": "- 2026年資金輪動明顯，小型股表現較抗跌。  <br>- 聯準會縮表預計2027年才會實施，短期流動性未變。  <br>- 降息末期，小型科技股在低利環境下表現亮眼。  <br>- AI時代，小型企業在半導體等領域具獨家優勢。  <br>- 小型科技股波動較大，投資需留意風險。"
+    "Summary": "1) 結論性標題：2026年資金輪動驅動小型科技股表現優於大型股<br><br>2) 核心摘要：<br>- 市場資金逐步從大型科技股轉向小型股，輪動趨勢明顯。<br>- 聯準會縮表預期延至2027年，短期流動性未大幅變化。<br>- 降息末期，小型科技股在低利環境中表現較佳。<br>- AI時代推動小型企業在技術領域獨占優勢，具成長潛力。<br>- 小型科技股波動較大，投資需留意風險管理。"
   },
   {
     "Source": "Fubon",
@@ -127,7 +627,7 @@
     "PageCount": 5,
     "OriginalLink": "https://www.fubon.com/banking/document/Corporate/Financial_Market/TW/動見觀瞻261期.pdf",
     "LocalPath": "all report pdf/動見觀瞻：乖離率達歷史高點，預期台股修正後再出發.pdf",
-    "Summary": "- 台股乖離率達歷史高點，短期修正風險增加。  <br>- 2026年台股仍看好電子與半導體產業，持續受惠AI需求。  <br>- 若出現10%修正，建議逢低布局中長期投資。  <br>- 台灣經濟基本面穩健，出口與GDP增長亮眼。  <br>- 全球科技股賣壓或持續，投資人需保持謹慎。"
+    "Summary": "結論：台股短期修正後仍具中長期成長潛力，逢低布局可把握未來機會<br><br>核心摘要：<br>- 台股乖離率達歷史高點，短期修正風險升高。<br>- 2026年台灣經濟基本面依舊堅實，出口與產業表現亮眼。<br>- AI帶動硬體需求，電子與半導體產業展望樂觀。<br>- 若股市修正10%，建議逢低進場，鎖定長期獲利。<br>- 全球科技股賣壓影響短期情緒，但中長期仍看好台灣產業。"
   },
   {
     "Source": "Fubon",
@@ -137,7 +637,7 @@
     "PageCount": 5,
     "OriginalLink": "https://www.fubon.com/banking/document/Corporate/Financial_Market/TW/主要產業總評：AI軟體大趨勢_20260211.pdf",
     "LocalPath": "all report pdf/主要產業總評：AI軟體大趨勢.pdf",
-    "Summary": "- AI 軟體將重塑產業格局，軟體仍是效率與確定性的核心載體。  <br>- 軟體公司將轉向平台與核心功能，逐步被AI取代較低價值的操作界面。  <br>- Palantir以AI營運系統突破傳統，營收與獲利雙高，展現未來軟體發展方向。  <br>- 傳統 SaaS 巨頭面臨成長放緩與盈利壓力，產業分化趨勢明顯。  <br>- 2026年股市預計短期震盪，AI資本支出放緩可能影響高估值企業表現。"
+    "Summary": "1) AI 軟體產業轉型：效率與確定性為核心，市場分化加劇  <br>2) 軟體本質是提升效率與確定性，AI代理成為重要操作層  <br>3) 企業仍偏好成熟軟體，避免全依賴AI自動化帶來的風險  <br>4) Palantir以創新銷售模式實現高速成長，展現AI軟體潛力  <br>5) 產業分化明顯，核心功能公司估值上升，工具型軟體面臨挑戰"
   },
   {
     "Source": "Fubon",
@@ -147,7 +647,7 @@
     "PageCount": 22,
     "OriginalLink": "https://www.fubon.com/banking/document/Corporate/Financial_Market/TW/投資策略週報_115.2.9.pdf",
     "LocalPath": "all report pdf/投資策略週報：波動中逢回佈局價值股或藍籌股.pdf",
-    "Summary": "- 市場建議逢回調布局價值股、藍籌股與新興市場債券。  <br>- 債市利差仍偏低，適合穩健投資者配置投等債券。  <br>- 科技股雖波動大，仍具長線成長潛力，逢回調布局為佳。  <br>- 美元短期有反彈空間，受能源與工業題材支撐。  <br>- AMD財報超預期，長期AI市場前景仍看好，待股價落底布局。"
+    "Summary": "1) 結論性標題：波動中布局價值股與藍籌股，展望經濟復甦與科技長線成長<br><br>2) 核心摘要：<br>- 分散投資於基本面良好的價值股與藍籌股，降低風險。<br>- 債市隨利率回彈，建議配置投等及非投等債券。<br>- 科技股逢回調布局，盈餘優於預期，具長線成長潛力。<br>- 美股財報表現良好，股市有望受益於企業營運展望。<br>- 全球經濟逐步復甦，能源與原物料等題材具政策支持。"
   },
   {
     "Source": "JRI",
@@ -157,7 +657,7 @@
     "PageCount": 8,
     "OriginalLink": "https://www.jri.co.jp/file/report/euro/pdf/16454.pdf",
     "LocalPath": "all report pdf/欧州経済展望2026年２月号：欧州防衛費拡大、供給は追いつかず（PDF：984KB）.pdf",
-    "Summary": "- ユーロ圏經濟持續復甦，2025年實質GDP成長加速。  <br>- 個人消費堅挺，雖受能源價格影響但仍維持增長。  <br>- 英國經濟放緩，內外需皆呈現疲軟，設備投資減少。  <br>- 歐洲國家加大防衛支出，地緣政治風險升高。  <br>- 供應鏈受限，歐洲防衛產業面臨勞動力與生產能力挑戰。"
+    "Summary": "1) 歐洲經濟展望：持續復甦與地緣政治風險並存<br><br>2) 核心摘要：<br>- 2025年歐元區GDP成長加速，主要由觀光與政府支出推動。  <br>- 個人消費持續堅挺，特別是西班牙與法國需求增加。  <br>- 英國經濟放緩，內外需雙雙疲軟，投資與消費皆受影響。  <br>- 歐洲防衛支出大幅提升，地緣政治風險升高，供應鏈面臨挑戰。  <br>- 供給能力受限，武器產業缺乏熟練勞動力，威脅產業持續發展。"
   },
   {
     "Source": "Fubon",
@@ -167,7 +667,7 @@
     "PageCount": 5,
     "OriginalLink": "https://www.fubon.com/banking/document/Corporate/Financial_Market/TW/談股論金269期.pdf",
     "LocalPath": "all report pdf/談股論金：川普劍指格陵蘭，能源議題重返檯面.pdf",
-    "Summary": "- 冬季取暖需求推升天然氣價格，庫存下滑。  <br>- AI與商業用電需求成為天然氣主要需求來源。  <br>- 美國持續釋放天然氣產出，營收與利潤預期改善。  <br>- 格陵蘭豐富資源引發國際競爭，成為戰略焦點。  <br>- 需求與政策支撐下，天然氣產業展望樂觀。"
+    "Summary": "結論：能源議題再度升溫，格陵蘭成戰略焦點，天然氣需求持續攀升<br><br>核心摘要：<br>- 冬季取暖促使天然氣需求與價格上升，庫存下滑。<br>- AI與商業用電推動天然氣消費，預計2026年需求大增。<br>- 美國釋放天然氣產出，營收與利潤持續改善。<br>- 格陵蘭豐富資源引發國際競爭，成能源戰略重點。<br>- 供需面支撐下，天然氣產業前景看好，相關股價表現亮眼。"
   },
   {
     "Source": "Fubon",
@@ -177,7 +677,7 @@
     "PageCount": 6,
     "OriginalLink": "https://www.fubon.com/banking/document/Corporate/Financial_Market/TW/固本收利209期.pdf",
     "LocalPath": "all report pdf/固本收利：AI伺服器帶動科技REITs債.pdf",
-    "Summary": "- 美債殖利率持續高於4%，受貨幣政策不明與經濟強勁影響。  <br>- REITs債券受資料中心需求推動，敏感度較低，展現抗跌能力。  <br>- AI資料中心建設激增，帶動相關REITs財務改善與成長動能。  <br>- 政策利多房貸利率下降，提升REITs債券的抗風險能力。  <br>- 投資策略建議關注資料中心相關、財務穩健的REITs企業。"
+    "Summary": "1) 美國科技資料中心REITs展現結構性成長動能，債市具韌性  <br><br>2) 美債殖利率持續高位整理，短期內難以顯著下滑  <br>3) 資料中心REITs受AI需求推動，財務體質逐步改善  <br>4) 政策低房貸利率，有助提升REITs債券的抗跌能力  <br>5) 投資策略建議：關注資料中心相關且財務穩健的REITs企業"
   },
   {
     "Source": "JRI",
@@ -187,7 +687,7 @@
     "PageCount": 5,
     "OriginalLink": "https://www.jri.co.jp/file/report/oil/pdf/16452.pdf",
     "LocalPath": "all report pdf/原油市場展望2026年2月号　～トピック：影響力増す西半球の生産動向（PDF：824KB）.pdf",
-    "Summary": "- 2026年原油價格預計將由60美元下跌至50美元左右。  <br>- 地緣政治風險（如中東、南美）持續推升短期油價。  <br>- 西半球產油國（美國、巴西、加拿大）影響力逐步擴大。  <br>- 美國軍事介入可能導致石油供應短期波動。  <br>- 供需面：中國需求低迷與產油國增產共同壓低油價。"
+    "Summary": "1) 原油價格展望：2026年將下行至50美元左右<br><br>2) 核心摘要：<br>- 1月WTI原油價格升至60美元，受地緣政治風險推動<br>- 2月後原油價格預計將回落至50美元，因供需變化<br>- 美國、巴西、加拿大等產油國將增加產量，壓低油價<br>- 西半球產油國影響力逐步擴大，地緣政治風險升高<br>- 美國軍事介入可能干擾供應，影響市場穩定性"
   },
   {
     "Source": "Goldman Sachs",
@@ -198,7 +698,7 @@
     "PageCount": 28,
     "OriginalLink": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-research/americas-first/report.pdf",
     "LocalPath": "all report pdf/Top of Mind - Americas First.pdf",
-    "Summary": "- 拜登政府推動“Donroe Doctrine”，加強美國在西半球的影響力。<br>- 美國對委內瑞拉油氣產業的振興預計帶來產量小幅提升，油價短期或受壓。<br>- 地緣政治風險升高，可能影響全球經濟與資產配置，需保持警覺。<br>- 美歐關係或進入動盪期，但不會完全破裂，仍有合作空間。<br>- 新興市場資產展現韌性，成為投資組合的潛在價值選擇。"
+    "Summary": "1) 標題：2026年美國「美洲優先」政策轉向引發地緣政治風險升高<br><br>2) 核心摘要：<br>- 美國新政府推行更強硬的「Donroe Doctrine」政策，擴展在西半球影響力。<br>- 對委內瑞拉油市的振興計畫預計短期油價小幅波動，長期則因產量增加而影響油價。<br>- 地緣政治風險顯著上升，可能影響全球經濟與資產配置。<br>- 美歐關係進入動盪期，但不會完全破裂，仍存合作空間。<br>- 新興市場資產展現韌性，成為投資組合多元化的價值選擇。"
   },
   {
     "Source": "JRI",
@@ -208,7 +708,7 @@
     "PageCount": 6,
     "OriginalLink": "https://www.jri.co.jp/file/report/exchange/pdf/16447.pdf",
     "LocalPath": "all report pdf/為替相場展望2026年２月号：◆ドル円：先行き横ばい圏で推移◆ユーロ：対ドルは緩やかなユーロ高へ（PDF：889KB）.pdf",
-    "Summary": "- 2026年のドル円相場は横ばい圏で推移予測。<br>- 米金利差縮小と日本の財政懸念が円売り圧力を継続。<br>- ユーロドルは緩やかにユーロ高へ向かう見込み。<br>- 海外投資家の為替ヘッジ行動が円売りを促進。<br>- 株価上昇と円安は相関し、ヘッジ追加で円売り圧力増大。"
+    "Summary": "1) 結論性標題：2026年為替展望：美元與歐元將在震盪中緩步走高，日圓維持橫盤<br><br>2) 核心摘要：<br>- 2026年ドル日圓將在154至162間震盪，維持橫盤格局。<br>- 美聯儲與日本央行利率差縮小，支撐日圓穩定。<br>- 歐元對美元將緩步走高，受歐洲財政刺激與美長期利率影響。<br>- 日本股市上升推動海外投資者加碼，帶動日圓賣壓。<br>- 海外投資者為避匯險持續進行日圓對沖，促使日圓偏弱。"
   },
   {
     "Source": "Fubon",
@@ -218,7 +718,7 @@
     "PageCount": 22,
     "OriginalLink": "https://www.fubon.com/banking/document/Corporate/Financial_Market/TW/投資策略週報_115.2.2.pdf",
     "LocalPath": "all report pdf/投資策略週報：日本政局牽動市場，科技股財報二度襲來.pdf",
-    "Summary": "- 日本眾議院改選將影響日股走勢，選情關鍵。  <br>- Warsh接任Fed主席，預示緊縮貨幣政策可能提前。  <br>- 美聯儲維持利率，通膨仍未達標，偏鷹派立場。  <br>- 科技股為核心，AI及半導體產業展現強勁成長。  <br>- 債市展望謹慎，長短期利率波動仍存不確定性。"
+    "Summary": "1) 日本政局變動與經濟政策將影響市場走勢<br><br>2) 債券市場：新債表現亮眼，降息預期支撐長短期利率<br><br>3) 股市焦點：科技股為核心，AI與半導體產業持續受益<br><br>4) 外匯與金價：美元疲軟支撐金價，美元指數區間96.1~98.2<br><br>5) 政治不確定性：日本眾議院改選關鍵，影響日股短期表現"
   },
   {
     "Source": "Fubon",
@@ -228,7 +728,7 @@
     "PageCount": 5,
     "OriginalLink": "https://www.fubon.com/banking/document/Corporate/Financial_Market/TW/債券市場總評：非投等高息抗震_20260130.pdf",
     "LocalPath": "all report pdf/債券市場總評：非投等高息抗震.pdf",
-    "Summary": "- 債券市場偏好非投等高息債，抗震能力較佳。  <br>- 美聯儲暫緩降息，10年期美債殖利率回升至4.26%。  <br>- 美國非投等債營收與獲利持續成長，展現韌性。  <br>- 高利率環境下，非投等債殖利率相對具吸引力，風險較可控。  <br>- 美國經濟穩健，通膨仍高，Fed政策偏審慎，債市整體表現穩定。"
+    "Summary": "1) 非投等高息債券展現抗震韌性，投資價值仍具吸引力<br><br>2) 美國經濟穩健，通膨高企，Fed暫緩降息，債市震盪持續<br><br>3) 非投等債營收與獲利持續成長，企業基本面穩健<br><br>4) 高息非投等債因殖利率吸引，資金流入趨勢良好<br><br>5) 產業分化明顯，能源、金屬等產業表現較佳，償債能力維持穩定"
   },
   {
     "Source": "Fubon",
@@ -238,7 +738,7 @@
     "PageCount": 5,
     "OriginalLink": "https://www.fubon.com/banking/document/Corporate/Financial_Market/TW/談股論金268期.pdf",
     "LocalPath": "all report pdf/談股論金：多架馬車併進，航空國防股價翱翔.pdf",
-    "Summary": "- 航空航天與國防股年初漲勢強勁，受益於產業多頭因素。  <br>- 波音交付量提升，預計全年商用飛機交付量將增17%。  <br>- 全球客運持續成長，推動航空供應鏈積極去化訂單。  <br>- 全球局勢動盪與軍備支出增加，帶動國防產業長線成長。  <br>- 美國國防預算持續擴大，預計2027年達1.5兆美元，支撐軍工股。"
+    "Summary": "結論性標題：航空國防股受多重利多推動，展望長線成長動能<br><br>核心摘要：<br>- 波音交付量提升，預計全年交付量增17%。  <br>- 全球客運持續增長，帶動航空產業復甦。  <br>- 供應鏈改善，飛機交付動能逐步回升。  <br>- 全球局勢動盪，軍備支出持續上升。  <br>- 美國國防預算大幅增加，國防產業長線受益。"
   },
   {
     "Source": "Fubon",
@@ -248,7 +748,7 @@
     "PageCount": 5,
     "OriginalLink": "https://www.fubon.com/banking/document/Corporate/Financial_Market/TW/動見觀瞻260期.pdf",
     "LocalPath": "all report pdf/動見觀瞻：記憶體價格突破天際，韓股延續強勁漲勢.pdf",
-    "Summary": "- 全球記憶體價格大幅飆升，推動科技股表現強勁。  <br>- 2025年韓股報酬率達75.5%，2026年漲勢仍持續。  <br>- 台灣與美國達成關稅協議，獲得半導體免稅優惠。  <br>- 韓國政府加大投資，與美爭取同等待遇，產業前景樂觀。  <br>- 韓股估值仍低於2019年平均，長線仍看好上漲趨勢。"
+    "Summary": "結論性標題：記憶體價格飆升推動韓股持續強勢，產業估值仍具吸引力<br><br>核心摘要：<br>- 2025年韓股報酬率達75.5%，2026年漲勢未見停歇。<br>- 記憶體需求推動價格飆升，帶動韓國電子股上漲。<br>- 台美關稅協議使台灣半導體獲得優渥待遇，韓國競爭壓力升高。<br>- 韓股估值仍低於2019年平均，具長期投資價值。<br>- 地緣政治與財報變數需留意，逢修正進場或採取定期定額策略。"
   },
   {
     "Source": "Goldman Sachs",
@@ -259,7 +759,7 @@
     "PageCount": 49,
     "OriginalLink": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-research/2025-4-themes-in-charts/2025-summary.pdf",
     "LocalPath": "all report pdf/Top of Mind - 2025_ 4 Themes In Charts.pdf",
-    "Summary": "- 2025年全球經濟受貿易戰與政策變動影響，市場波動加劇。  <br>- AI與區塊鏈成為投資焦點，引發泡沫與監管擔憂。  <br>- 政府與央行面臨信譽危機，財政可持續性與數據可靠性受質疑。  <br>- 地緣政治變化持續，特朗普重塑安全格局，美中科技競賽激烈。  <br>- 高收益債券與貨幣政策成為市場關注的核心，通膨與利率走勢不確定。"
+    "Summary": "1) 2025年全球宏觀經濟與地緣政治四大主題回顧：挑戰與展望<br><br>2) 核心摘要：<br>- 2025年初，美國重啟貿易戰，引發經濟衰退擔憂。<br>- AI與區塊鏈成為投資焦點，市場泡沫風險升高。<br>- 政府與央行信譽受質疑，長期收益率持續上升。<br>- 地緣政治變動激烈，美俄歐安全格局重塑，美中科技競賽升溫。<br>- 全球經濟政策與科技自主性成為未來關鍵議題，影響深遠。"
   },
   {
     "Source": "Goldman Sachs",
@@ -270,6 +770,6 @@
     "PageCount": 31,
     "OriginalLink": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-research/the-us-china-tech-race/report.pdf",
     "LocalPath": "all report pdf/Top of Mind - The US-China Tech Race.pdf",
-    "Summary": "- 美中科技競賽激烈，雙方皆追求自主技術體系。  <br>- 美國在AI、半導體等領域領先，但中國正快速追趕。  <br>- 中國在稀土和實用應用技術方面展現強大實力。  <br>- 供應鏈關鍵點如半導體硬體和稀土資源成戰略焦點。  <br>- 投資機會集中在稀土和亞洲科技產業，前景值得關注。"
+    "Summary": "1) 結論性標題：美中科技競賽持續激烈，雙方布局各有優勢與挑戰<br><br>2) 核心摘要：<br>- 美國在AI、半導體等領域保持領先，但中國正快速追趕。<br>- 中國在實用應用、基礎設施和自給自足方面展現強大競爭力。<br>- 兩國政策各有側重，美國強化國內半導體產能，中國追求技術自主。<br>- 供應鏈關鍵點如稀土與半導體硬體仍是勝負關鍵。<br>- 投資機會集中在稀土資源與亞洲科技產業，前景值得關注。"
   }
 ]
