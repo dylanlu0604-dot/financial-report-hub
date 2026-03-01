@@ -40,6 +40,10 @@ jobs:
       - name: Run Scraper
         # 執行你的主程式
         run: python main.py
+        env:
+          OPENAI_API_KEY: ${{ secrets.AITEST }}
+
+      - name: Commit and push changes
 
       - name: Commit and push changes
         # 將爬取後產生的新資料 推播回 GitHub
