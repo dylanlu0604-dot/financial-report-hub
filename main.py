@@ -54,7 +54,7 @@ def main():
         if module_name == "utils": continue
         
         # 💡 如果您想測試特定爬蟲，可以把下面兩行解除註解並填入名稱。target。篩選。
-        if module_name not in ["jri","goldmansachs","fubon","cathay","eastmoney"]: continue 
+        #if module_name not in ["jri","goldmansachs","fubon","cathay","eastmoney"]: continue 
             
         try:
             module = importlib.import_module(f"scrapers.{module_name}")
@@ -224,7 +224,7 @@ def main():
             try:
                 text_content = ""
                 with pdfplumber.open(local_filepath) as pdf:
-                    for page in pdf.pages[:5]: 
+                    for page in pdf.pages[:4]: 
                         extracted = page.extract_text()
                         if extracted: text_content += extracted + "\n"
                         
@@ -237,7 +237,7 @@ def main():
                     messages=[
                         {
                             "role": "system", 
-                            "content": "用「繁體中文」。你是一位專業的財經分析師。請根據提供的財經報告內容，用「繁體中文」寫出 1) 結論性標題 2) 5 點最重要的核心摘要（請使用條列式，每句話控制在 30 字以內）。用「繁體中文」。"
+                            "content": "用「繁體中文」。你是一位專業的財經分析師。請根據提供的財經報告內容，用「繁體中文」寫出 一、繁體中文結論性標題 二、 5 點最重要的核心繁體中文摘要（請使用條列式1. 2. 3. 4. 5.，每句話控制在 30 字以內）。用「繁體中文」。"
                         },
                         {
                             "role": "user", 
