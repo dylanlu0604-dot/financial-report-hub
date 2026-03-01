@@ -47,7 +47,7 @@ def main():
     for _, module_name, _ in pkgutil.iter_modules(scrapers.__path__):
         if module_name == "utils": continue
         
-        測試指定的爬蟲
+        #測試指定的爬蟲
         target_scrapers = ["ctbc","jri"] 
         if module_name not in target_scrapers: 
             continue 
