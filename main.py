@@ -23,7 +23,8 @@ load_dotenv()
 # ==========================================
 # ⚙️ 全域設定 (請確認您的 GitHub 資訊)
 # ==========================================
-ENABLE_AI_SUMMARY = True  # 🌟 已經幫您開啟 OpenAI 摘要功能
+ENABLE_AI_SUMMARY = False
+
 GITHUB_USER = "dylanlu0604-dot"
 GITHUB_REPO = "financial-report-hub"
 GITHUB_RAW_BASE = f"https://raw.githubusercontent.com/{GITHUB_USER}/{GITHUB_REPO}/main/all%20report%20pdf"
