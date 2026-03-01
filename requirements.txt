@@ -5,3 +5,4 @@ openrouter
 pdfplumber
 python-dotenv
 playwright-stealth
+openai
