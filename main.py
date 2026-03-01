@@ -233,11 +233,11 @@ def main():
                     continue
                 
                 response = client.chat.completions.create(
-                    model="gpt-4o-mini",
+                    model="gpt-5-nano",
                     messages=[
                         {
                             "role": "system", 
-                            "content": "你是一位專業的財經分析師。請根據提供的財經報告內容，用「繁體中文」寫出 3 到 4 點最重要的核心摘要（請使用條列式，並控制在 150 字以內）。"
+                            "content": "你是一位專業的財經分析師。請根據提供的財經報告內容，用「繁體中文」寫出 5 點最重要的核心摘要（請使用條列式，每句話控制在 30 字以內）。"
                         },
                         {
                             "role": "user", 
