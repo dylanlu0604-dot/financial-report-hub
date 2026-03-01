@@ -115,7 +115,7 @@ def main():
             report['OriginalLink'] = original_url
             base_url = GITHUB_RAW_BASE if 'GITHUB_RAW_BASE' in globals() else ""
             report['Link'] = f"{base_url}/{encoded_filename}"
-            report['LocalPath'] = f"{pdf_folder}/{encoded_filename}"
+            report['LocalPath'] = local_filepath  # 🌟 修正：告訴 AI 正確的本地端中文檔名路徑
 
             if os.path.exists(local_filepath):
                 print(f"[{i}/{len(unique_reports)}] ✅ 檔案已存在: {report.get('Name', '')[:15]}...")
