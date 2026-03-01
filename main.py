@@ -47,10 +47,10 @@ def main():
     for _, module_name, _ in pkgutil.iter_modules(scrapers.__path__):
         if module_name == "utils": continue
         
-        # 測試指定的爬蟲
-        #target_scrapers = ["ctbc","wallstreetcn"] 
-        #if module_name not in target_scrapers: 
-            #continue 
+        測試指定的爬蟲
+        target_scrapers = ["ctbc","jri"] 
+        if module_name not in target_scrapers: 
+            continue 
             
         try:
             module = importlib.import_module(f"scrapers.{module_name}")
@@ -223,13 +223,17 @@ def main():
         body { font-family: 'Segoe UI', sans-serif; max-width: 1200px; margin: 0 auto; padding: 20px; background-color: #f5f7fa; }
         table { width: 100%; border-collapse: collapse; background: white; box-shadow: 0 4px 6px rgba(0,0,0,0.05); }
         th, td { padding: 15px; text-align: left; border-bottom: 1px solid #ecf0f1; }
-        th { background-color: #2c3e50; color: white; cursor: pointer; }
+        th { background-color: #2c3e50; color: white; cursor: pointer; transition: background 0.3s; }
+        th:hover { background-color: #34495e; }
         .page-badge { background: #e8f4fd; color: #2980b9; padding: 2px 8px; border-radius: 12px; font-weight: bold; }
     </style></head><body>
     <h1>📊 最新財經報告總覽 (GitHub 存檔)</h1>
     <table id="reportTable"><thead><tr>
-        <th onclick="sortTable(0)">機構 ↕</th><th onclick="sortTable(1)">日期 ↕</th>
-        <th onclick="sortTable(2)">頁數 ↕</th><th>報告名稱</th><th>AI 摘要</th>
+        <th onclick="sortTable(0)">機構 ↕</th>
+        <th onclick="sortTable(1)">日期 ↕</th>
+        <th onclick="sortTable(2)">頁數 ↕</th>
+        <th onclick="sortTable(3)">報告名稱 ↕</th>
+        <th>AI 摘要</th>
     </tr></thead><tbody>\n"""
     
     for r in unique_reports:
@@ -237,19 +241,34 @@ def main():
         html_content += f"<td><a href='{r['Link']}' target='_blank'>{r['Name']}</a></td><td>{r['Summary']}</td></tr>\n"
 
     html_content += """</tbody></table><script>
+    let sortDir = {}; // 記錄各欄位的排序方向
     function sortTable(n){
-        var table=document.getElementById("reportTable"), rows=table.rows, switching=true, dir="desc";
-        while(switching){
-            switching=false; 
-            for(var i=1; i<(rows.length-1); i++){
-                var x=rows[i].getElementsByTagName("TD")[n], y=rows[i+1].getElementsByTagName("TD")[n], should=false;
-                var vX=x.innerText.toLowerCase(), vY=y.innerText.toLowerCase();
-                if(n===2){ vX=parseInt(vX)||0; vY=parseInt(vY)||0; }
-                if(dir==="desc"){ if(vX<vY){ should=true; break; } } else { if(vX>vY){ should=true; break; } }
+        const table = document.getElementById("reportTable");
+        const tbody = table.querySelector("tbody");
+        const rows = Array.from(tbody.querySelectorAll("tr"));
+        
+        // 切換升降冪方向
+        sortDir[n] = sortDir[n] === "asc" ? "desc" : "asc";
+        const dir = sortDir[n];
+        
+        // 🌟 核心修正：使用高效能的陣列排序法 (O(N log N))
+        rows.sort((rowA, rowB) => {
+            let valA = rowA.cells[n].innerText.trim().toLowerCase();
+            let valB = rowB.cells[n].innerText.trim().toLowerCase();
+            
+            // 頁數需要當作數字來排序
+            if(n === 2){ 
+                valA = parseInt(valA) || 0; 
+                valB = parseInt(valB) || 0; 
             }
-            if(should){ rows[i].parentNode.insertBefore(rows[i+1], rows[i]); switching=true; }
-            else if(dir==="desc"){ dir="asc"; switching=true; }
-        }
+            
+            if(valA < valB) return dir === "asc" ? -1 : 1;
+            if(valA > valB) return dir === "asc" ? 1 : -1;
+            return 0;
+        });
+        
+        // 🌟 將排序好的資料一次性貼回表格中 (不會觸發災難性的畫面重繪)
+        rows.forEach(row => tbody.appendChild(row));
     }
     </script></body></html>"""
     with open('index.html', 'w', encoding='utf-8') as f: f.write(html_content)
