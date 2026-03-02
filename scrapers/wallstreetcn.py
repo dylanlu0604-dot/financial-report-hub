@@ -90,7 +90,7 @@ def scrape():
                 p_tags = art_soup.find_all('p')
                 article_length = sum(len(p.get_text(strip=True)) for p in p_tags)
                 
-                if article_length < 200:
+                if article_length < 30:
                     print(f"    ⚠️ 剔除快訊: 字數僅 {article_length} 字 ({title[:15]}...)")
                     continue # 字數不足 200 字，直接跳過不收錄！
             else:
