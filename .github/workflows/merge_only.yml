@@ -1,0 +1,33 @@
+name: 單獨合併 PDF (不執行爬蟲)
+
+on:
+  workflow_dispatch: # 👈 這個魔法設定讓您可以在網頁上手動點擊執行
+
+jobs:
+  merge-pdfs:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: 📥 取得最新報告與資料庫
+        uses: actions/checkout@v4
+
+      - name: 🐍 設定 Python 環境
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: 📦 安裝 PDF 合併套件
+        run: pip install pypdf
+
+      - name: 🗂️ 執行合併程式
+        run: python merge_pdfs.py
+
+      - name: 💾 將合併好的檔案推播回倉庫
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add merged_pdfs/
+          git commit -m "Manual trigger: Auto-merge PDFs" || exit 0
+          git push
