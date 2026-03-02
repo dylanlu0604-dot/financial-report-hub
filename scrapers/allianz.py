@@ -1,3 +1,4 @@
+import os
 from bs4 import BeautifulSoup
 import re
 from urllib.parse import urljoin, unquote
@@ -11,16 +12,24 @@ from playwright_stealth import Stealth
 def clean_title(title):
     return title.replace('\n', ' ').strip()
 
+def sanitize_filename(filename):
+    """清除會導致存檔失敗的特殊字元"""
+    return re.sub(r'[\\/*?:"<>|]', "", filename)
+
 # ==========================================
 # 🕷️ 主爬蟲程式
 # ==========================================
 def scrape():
-    print("🔍 正在爬取 Allianz Trade (安聯貿易) - 🕵️‍♂️ 內頁深度挖掘模式...")
+    print("🔍 正在爬取 Allianz Trade (安聯貿易) - 🛡️ 啟動 CloudFront 隱形穿透下載模式...")
     reports = []
     seen_pdfs = set()
     
     base_url = "https://www.allianz-trade.com"
     list_url = "https://www.allianz-trade.com/en_global/news-insights/economic-insights.html"
+    
+    # 確保儲存檔案的資料夾存在
+    output_dir = "all report pdf"
+    os.makedirs(output_dir, exist_ok=True)
     
     try:
         with sync_playwright() as p:
@@ -28,6 +37,7 @@ def scrape():
                 headless=True,
                 args=["--disable-blink-features=AutomationControlled"]
             )
+            # 建立帶有擬人化特徵的瀏覽器環境
             context = browser.new_context(
                 user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
                 viewport={'width': 1920, 'height': 1080}
@@ -73,21 +83,15 @@ def scrape():
                     title_tag = inner_soup.find('h1')
                     title = title_tag.get_text(strip=True) if title_tag else unquote(pdf_link.split('/')[-1].replace('.pdf', ''))
                     
-                    # === 🌟 全新的多層次日期抓取邏輯 ===
+                    # === 多層次日期抓取邏輯 ===
                     date_text = "未知日期"
-                    
-                    # 方法 1: 尋找 Meta 標籤 (最精準)
                     meta_date = inner_soup.find('meta', {'property': 'article:published_time'})
                     if meta_date and meta_date.get('content'):
                         date_text = meta_date['content'].split('T')[0]
-                    
-                    # 方法 2: 尋找 time 標籤
                     if date_text == "未知日期":
                         time_tag = inner_soup.find('time')
                         if time_tag and time_tag.get('datetime'):
                             date_text = time_tag['datetime'].split('T')[0]
-                            
-                    # 方法 3: 更寬鬆的正則表達式 (涵蓋 20 Feb 2026 或 February 20, 2026)
                     if date_text == "未知日期":
                         date_match = re.search(r'([A-Z][a-z]{2,8}\s+\d{1,2},?\s+\d{4}|\d{1,2}\s+[A-Z][a-z]{2,8}\s+\d{4})', inner_html)
                         if date_match:
@@ -101,15 +105,39 @@ def scrape():
                                 except ValueError:
                                     continue
                     
-                    reports.append({
-                        "Source": "Allianz Trade",
-                        "Date": date_text,
-                        "Name": clean_title(title),
-                        "Link": pdf_link,
-                        "Type": "PDF"   # 🌟 補上這行：明確告訴主程式這是一個可以直接下載的 PDF！
-                    })
                     seen_pdfs.add(pdf_link)
-                    print(f"    ✔️ 成功捕獲: {clean_title(title)[:30]}...")
+                    clean_t = clean_title(title)
+                    
+                    # 🌟🌟🌟 全新核心：物理隔離下載 (Pre-download) 🌟🌟🌟
+                    print(f"    📥 正在繞過防火牆下載實體 PDF...")
+                    # 使用 Playwright 的 APIContext 請求，完美繼承隱形斗篷與 Cookie
+                    pdf_response = context.request.get(pdf_link, timeout=20000)
+                    
+                    if pdf_response.status == 200:
+                        pdf_bytes = pdf_response.body()
+                        
+                        # 嚴格驗證檔案標頭是否為真實 PDF (%PDF)
+                        if pdf_bytes.startswith(b'%PDF'):
+                            safe_name = sanitize_filename(f"Allianz Trade_{date_text}_{clean_t}")
+                            local_path = os.path.join(output_dir, f"{safe_name}.pdf")
+                            
+                            # 直接寫入硬碟
+                            with open(local_path, "wb") as f:
+                                f.write(pdf_bytes)
+                            
+                            reports.append({
+                                "Source": "Allianz Trade",
+                                "Date": date_text,
+                                "Name": clean_t,
+                                "Link": pdf_link,
+                                "Type": "Pre-Downloaded", # 🌟 告訴主程式：我已經載好了，請跳過
+                                "LocalPath": local_path   # 🌟 直接把真實路徑交給系統
+                            })
+                            print(f"    ✔️ 成功捕獲並保存實體 PDF: {clean_t[:20]}...")
+                        else:
+                            print(f"    ❌ 下載失敗: 拿到的不是 PDF (可能仍被防火牆攔截)")
+                    else:
+                        print(f"    ❌ 伺服器拒絕下載，狀態碼: {pdf_response.status}")
                     
                 except Exception as inner_e:
                     print(f"    ⚠️ 進入內頁解析失敗 ({article_url}): {inner_e}")
