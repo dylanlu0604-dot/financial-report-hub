@@ -20,14 +20,13 @@ def sanitize_filename(filename):
 # 🕷️ 主爬蟲程式
 # ==========================================
 def scrape():
-    print("🔍 正在爬取 Allianz Trade (安聯貿易) - 🛡️ 啟動 CloudFront 隱形穿透下載模式...")
+    print("🔍 正在爬取 Allianz Trade (安聯貿易) - 🛡️ 原生瀏覽器強制下載模式 (終極版)...")
     reports = []
     seen_pdfs = set()
     
     base_url = "https://www.allianz-trade.com"
     list_url = "https://www.allianz-trade.com/en_global/news-insights/economic-insights.html"
     
-    # 確保儲存檔案的資料夾存在
     output_dir = "all report pdf"
     os.makedirs(output_dir, exist_ok=True)
     
@@ -37,10 +36,10 @@ def scrape():
                 headless=True,
                 args=["--disable-blink-features=AutomationControlled"]
             )
-            # 建立帶有擬人化特徵的瀏覽器環境
             context = browser.new_context(
                 user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
-                viewport={'width': 1920, 'height': 1080}
+                viewport={'width': 1920, 'height': 1080},
+                accept_downloads=True # 🌟 確保瀏覽器允許下載行為
             )
             
             page = context.new_page()
@@ -83,7 +82,6 @@ def scrape():
                     title_tag = inner_soup.find('h1')
                     title = title_tag.get_text(strip=True) if title_tag else unquote(pdf_link.split('/')[-1].replace('.pdf', ''))
                     
-                    # === 多層次日期抓取邏輯 ===
                     date_text = "未知日期"
                     meta_date = inner_soup.find('meta', {'property': 'article:published_time'})
                     if meta_date and meta_date.get('content'):
@@ -108,36 +106,52 @@ def scrape():
                     seen_pdfs.add(pdf_link)
                     clean_t = clean_title(title)
                     
-                    # 🌟🌟🌟 全新核心：物理隔離下載 (Pre-download) 🌟🌟🌟
-                    print(f"    📥 正在繞過防火牆下載實體 PDF...")
-                    # 使用 Playwright 的 APIContext 請求，完美繼承隱形斗篷與 Cookie
-                    pdf_response = context.request.get(pdf_link, timeout=20000)
-                    
-                    if pdf_response.status == 200:
-                        pdf_bytes = pdf_response.body()
+                    # 🌟🌟🌟 全新大絕招：原生 JS 強制下載 🌟🌟🌟
+                    print(f"    📥 正在驅動瀏覽器原生下載機制...")
+                    try:
+                        # 告訴 Playwright 準備攔截接下來發生的下載事件
+                        with page.expect_download(timeout=30000) as download_info:
+                            # 注入 JS 創造一個按鈕並立刻點擊
+                            page.evaluate(f"""
+                                () => {{
+                                    const a = document.createElement('a');
+                                    a.href = '{pdf_link}';
+                                    a.download = 'report.pdf';
+                                    document.body.appendChild(a);
+                                    a.click();
+                                }}
+                            """)
                         
-                        # 嚴格驗證檔案標頭是否為真實 PDF (%PDF)
-                        if pdf_bytes.startswith(b'%PDF'):
-                            safe_name = sanitize_filename(f"Allianz Trade_{date_text}_{clean_t}")
-                            local_path = os.path.join(output_dir, f"{safe_name}.pdf")
-                            
-                            # 直接寫入硬碟
-                            with open(local_path, "wb") as f:
-                                f.write(pdf_bytes)
-                            
+                        # 取得下載好的檔案物件
+                        download = download_info.value
+                        safe_name = sanitize_filename(f"Allianz Trade_{date_text}_{clean_t}")
+                        local_path = os.path.join(output_dir, f"{safe_name}.pdf")
+                        
+                        # 將瀏覽器暫存的檔案正式存入我們的資料夾
+                        download.save_as(local_path)
+                        
+                        # 最後一道防線：打開檔案前 4 個 Bytes 檢查是不是真的 PDF
+                        is_valid_pdf = False
+                        with open(local_path, "rb") as f:
+                            if f.read(4) == b'%PDF':
+                                is_valid_pdf = True
+                                
+                        if is_valid_pdf:
                             reports.append({
                                 "Source": "Allianz Trade",
                                 "Date": date_text,
                                 "Name": clean_t,
                                 "Link": pdf_link,
-                                "Type": "Pre-Downloaded", # 🌟 告訴主程式：我已經載好了，請跳過
-                                "LocalPath": local_path   # 🌟 直接把真實路徑交給系統
+                                "Type": "Pre-Downloaded",
+                                "LocalPath": local_path
                             })
                             print(f"    ✔️ 成功捕獲並保存實體 PDF: {clean_t[:20]}...")
                         else:
-                            print(f"    ❌ 下載失敗: 拿到的不是 PDF (可能仍被防火牆攔截)")
-                    else:
-                        print(f"    ❌ 伺服器拒絕下載，狀態碼: {pdf_response.status}")
+                            print(f"    ❌ 下載失敗: 伺服器回傳的不是 PDF")
+                            os.remove(local_path) # 把假檔刪掉
+                            
+                    except Exception as dl_e:
+                        print(f"    ❌ 瀏覽器下載程序失敗: {dl_e}")
                     
                 except Exception as inner_e:
                     print(f"    ⚠️ 進入內頁解析失敗 ({article_url}): {inner_e}")
