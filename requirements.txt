@@ -6,3 +6,4 @@ pdfplumber
 python-dotenv
 playwright-stealth
 openai
+pypdf
