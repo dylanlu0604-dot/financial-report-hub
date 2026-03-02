@@ -105,7 +105,8 @@ def scrape():
                         "Source": "Allianz Trade",
                         "Date": date_text,
                         "Name": clean_title(title),
-                        "Link": pdf_link
+                        "Link": pdf_link,
+                        "Type": "PDF"   # 🌟 補上這行：明確告訴主程式這是一個可以直接下載的 PDF！
                     })
                     seen_pdfs.add(pdf_link)
                     print(f"    ✔️ 成功捕獲: {clean_title(title)[:30]}...")
