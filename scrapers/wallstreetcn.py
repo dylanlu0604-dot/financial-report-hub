@@ -31,7 +31,7 @@ def scrape():
             # 1. 抓取清單頁：一樣用滾動的方式獲取大量連結
             page.goto("https://wallstreetcn.com/news/global", wait_until="networkidle", timeout=30000)
             print("  [動作] 網頁載入完成，開始執行深度向下滾動 (預計耗時 35 秒)...")
-            for i in range(2):
+            for i in range(3):
                 page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
                 page.wait_for_timeout(2000)
             html_content = page.content()
