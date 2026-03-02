@@ -1,8 +1,10 @@
 import requests
 from datetime import datetime, timedelta
 
-# ==========================================\n# 🕷️ 主爬蟲程式：Merrill Lynch (美林 CMO)
-# ==========================================\ndef scrape():
+# ==========================================
+# 🕷️ 主爬蟲程式：Merrill Lynch (美林 CMO)
+# ==========================================
+def scrape():
     print("🔍 正在爬取 Merrill Lynch (美林) - 🎯 啟動 URL 規律盲測探測模式 (過去 30 天)...")
     reports = []
     
