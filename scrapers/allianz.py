@@ -22,7 +22,7 @@ def start_local_server():
         try:
             class QuietHandler(SimpleHTTPRequestHandler):
                 def log_message(self, format, *args):
-                    pass # 隱藏伺服器存取紀錄，保持畫面乾淨
+                    pass # 隱藏伺服器存取紀錄
             httpd = TCPServer(("127.0.0.1", _PORT), QuietHandler)
             threading.Thread(target=httpd.serve_forever, daemon=True).start()
             _SERVER_STARTED = True
@@ -42,14 +42,13 @@ def sanitize_filename(filename):
 # 🕷️ 主爬蟲程式
 # ==========================================
 def scrape():
-    print("🔍 正在爬取 Allianz Trade - 🎯 完美組合：精準鎖定 + 本機伺服器下載模式...")
+    print("🔍 正在爬取 Allianz Trade - 🎯 完美組合：精準鎖定 + 本機伺服器 + 終極標題保險...")
     reports = []
     seen_pdfs = set()
     
     base_url = "https://www.allianz-trade.com"
     list_url = "https://www.allianz-trade.com/en_global/news-insights/economic-insights.html"
     
-    # 建立一個專屬的暫存資料夾給本機伺服器讀取
     temp_dir = "allianz_temp_pdf"
     os.makedirs(temp_dir, exist_ok=True)
     start_local_server()
@@ -63,7 +62,7 @@ def scrape():
             context = browser.new_context(
                 user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
                 viewport={'width': 1920, 'height': 1080},
-                accept_downloads=True # 允許無頭瀏覽器下載檔案
+                accept_downloads=True 
             )
             
             page = context.new_page()
@@ -96,7 +95,7 @@ def scrape():
                     
                     pdf_link = None
                     
-                    # 🎯 策略 1：精準打擊 "Read the full report" 隱藏按鈕
+                    # 🎯 鎖定隱藏按鈕
                     target_btn = inner_soup.find('a', {'aria-label': re.compile('Read the full report', re.I)})
                     if not target_btn:
                         target_btn = inner_soup.find('a', {'data-component-name': re.compile('Read the full report', re.I)})
@@ -104,7 +103,6 @@ def scrape():
                     if target_btn and target_btn.get('href') and '.pdf' in target_btn.get('href').lower():
                         pdf_link = urljoin(base_url, target_btn['href'])
                         
-                    # 🎯 策略 2：常規掃描 (備用)
                     if not pdf_link:
                         for a in inner_soup.find_all('a', href=True):
                             if '.pdf' in a['href'].lower() and 'publication' in a['href'].lower():
@@ -114,22 +112,6 @@ def scrape():
                     if not pdf_link or pdf_link in seen_pdfs:
                         continue
                         
-                    # 🌟 增強版標題捕獲邏輯
-                    title = ""
-                    title_tag = inner_soup.find('h1')
-                    if title_tag:
-                        title = title_tag.get_text(strip=True)
-                        
-                    # 如果 h1 是空的 (例如裡面只有圖片)，改抓網頁頂部的 <title> 標籤
-                    if not title or len(title) < 3:
-                        title_tag = inner_soup.find('title')
-                        if title_tag:
-                            title = title_tag.get_text(strip=True).split('|')[0].strip()
-                            
-                    # 如果還是空的，最後用 PDF 的檔名來當標題兜底
-                    if not title or len(title) < 3:
-                        title = unquote(pdf_link.split('/')[-1].replace('.pdf', ''))
-                    
                     # === 提取日期 ===
                     date_text = "未知日期"
                     meta_date = inner_soup.find('meta', {'property': 'article:published_time'})
@@ -151,14 +133,29 @@ def scrape():
                                     break
                                 except ValueError:
                                     continue
+                                    
+                    # === 提取標題 ===
+                    title = ""
+                    title_tag = inner_soup.find('h1')
+                    if title_tag:
+                        title = title_tag.get_text(strip=True)
+                    if not title or len(title) < 3:
+                        title_tag = inner_soup.find('title')
+                        if title_tag:
+                            title = title_tag.get_text(strip=True).split('|')[0].strip()
+                    if not title or len(title) < 3:
+                        title = unquote(pdf_link.split('/')[-1].replace('.pdf', ''))
+                        
+                    # 🌟 終極保險
+                    if not title or len(clean_title(title)) < 3:
+                        title = f"Allianz Trade Report {date_str}"
                     
                     seen_pdfs.add(pdf_link)
                     clean_t = clean_title(title)
                     
-                    # 🌟🌟🌟 新增：瀏覽器原生下載並丟進特洛伊木馬伺服器 🌟🌟🌟
+                    # 🌟 觸發原生下載
                     print(f"    📥 成功鎖定按鈕，正在用瀏覽器原生下載 PDF...")
                     try:
-                        # 觸發原生下載
                         with page.expect_download(timeout=30000) as download_info:
                             page.evaluate(f"""
                                 () => {{
@@ -174,17 +171,15 @@ def scrape():
                         safe_name = sanitize_filename(f"Allianz_{date_text}_{clean_t}")
                         local_path = os.path.join(temp_dir, f"{safe_name}.pdf")
                         
-                        # 存入本機暫存資料夾
                         download.save_as(local_path)
                         
-                        # 驗證下載的檔案前 4 個 Bytes 是不是真的 PDF (%PDF)
                         is_valid_pdf = False
                         with open(local_path, "rb") as f:
                             if f.read(4) == b'%PDF':
                                 is_valid_pdf = True
                                 
                         if is_valid_pdf:
-                            # 🌟 將網址改為本機伺服器位址，主程式就會跟這台伺服器要檔案 🌟
+                            # 欺騙主程式去連 localhost
                             url_path = urllib.parse.quote(f"{temp_dir}/{safe_name}.pdf")
                             fake_local_url = f"http://127.0.0.1:{_PORT}/{url_path}"
                             
@@ -192,7 +187,7 @@ def scrape():
                                 "Source": "Allianz Trade",
                                 "Date": date_text,
                                 "Name": clean_t,
-                                "Link": fake_local_url,  # 欺騙主程式去連 localhost
+                                "Link": fake_local_url,
                                 "Type": "PDF"
                             })
                             print(f"    ✔️ 已載入本機伺服器備妥: {clean_t[:20]}...")
