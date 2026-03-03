@@ -114,8 +114,21 @@ def scrape():
                     if not pdf_link or pdf_link in seen_pdfs:
                         continue
                         
+                    # 🌟 增強版標題捕獲邏輯
+                    title = ""
                     title_tag = inner_soup.find('h1')
-                    title = title_tag.get_text(strip=True) if title_tag else unquote(pdf_link.split('/')[-1].replace('.pdf', ''))
+                    if title_tag:
+                        title = title_tag.get_text(strip=True)
+                        
+                    # 如果 h1 是空的 (例如裡面只有圖片)，改抓網頁頂部的 <title> 標籤
+                    if not title or len(title) < 3:
+                        title_tag = inner_soup.find('title')
+                        if title_tag:
+                            title = title_tag.get_text(strip=True).split('|')[0].strip()
+                            
+                    # 如果還是空的，最後用 PDF 的檔名來當標題兜底
+                    if not title or len(title) < 3:
+                        title = unquote(pdf_link.split('/')[-1].replace('.pdf', ''))
                     
                     # === 提取日期 ===
                     date_text = "未知日期"
