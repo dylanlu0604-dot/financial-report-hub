@@ -24,9 +24,9 @@
 來源: Allianz Trade | 日期: 2026-02-16 | 頁數: 179 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Country%20Atlas%202026%20_%20Under%20the%20surface.pdf)
 
-### 
+### Japan Monthly
 來源: JRI (EN) | 日期: 2026-02-12 | 頁數: 11 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/.pdf)
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Japan%20Monthly.pdf)
 
 ### Europe’s households after the rate shock  A windfall for some, a squeeze for others
 來源: Allianz Trade | 日期: 2026-02-10 | 頁數: 6 頁
