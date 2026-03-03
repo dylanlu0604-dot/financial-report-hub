@@ -1,45 +1,34 @@
 import os
-from bs4 import BeautifulSoup
 import re
+import threading
+import urllib.parse
+from http.server import SimpleHTTPRequestHandler
+from socketserver import TCPServer
+from bs4 import BeautifulSoup
 from urllib.parse import urljoin, unquote
 from datetime import datetime
 from playwright.sync_api import sync_playwright
 from playwright_stealth import Stealth
-import requests
 
 # ==========================================
-# 🌟 魔法攔截器：防止主程式 (main.py) 破壞檔案
+# 🌟 特洛伊木馬：啟動本機微型伺服器
 # ==========================================
-_ALLIANZ_CACHE = {}
-_original_request = requests.Session.request
+_SERVER_STARTED = False
+_PORT = 18033
 
-class MockResponse:
-    """偽造的網路回應，用來欺騙主程式"""
-    def __init__(self, content):
-        self.content = content
-        self.status_code = 200
-        self.headers = {'Content-Type': 'application/pdf', 'content-type': 'application/pdf'}
-        self.text = ""
-    def iter_content(self, chunk_size=1024):
-        yield self.content
-    def raise_for_status(self):
-        pass
-    def close(self):
-        pass
-
-def _patched_request(self, method, url, *args, **kwargs):
-    """攔截主程式的下載請求，直接把硬碟裡的檔案交給它"""
-    if method.lower() == 'get' and url in _ALLIANZ_CACHE:
-        local_path = _ALLIANZ_CACHE[url]
-        if os.path.exists(local_path):
-            with open(local_path, "rb") as f:
-                return MockResponse(f.read())
-    # 如果是別家銀行的報告，就放行給原本的網路模組處理
-    return _original_request(self, method, url, *args, **kwargs)
-
-# 偷天換日：強制替換 Python 底層的連線模組
-requests.Session.request = _patched_request
-requests.get = lambda url, **kwargs: requests.Session().request('get', url, **kwargs)
+def start_local_server():
+    global _SERVER_STARTED
+    if not _SERVER_STARTED:
+        try:
+            # 建立一個安靜的伺服器，不印出多餘的日誌干擾畫面
+            class QuietHandler(SimpleHTTPRequestHandler):
+                def log_message(self, format, *args):
+                    pass 
+            httpd = TCPServer(("127.0.0.1", _PORT), QuietHandler)
+            threading.Thread(target=httpd.serve_forever, daemon=True).start()
+            _SERVER_STARTED = True
+        except Exception as e:
+            pass
 
 # ==========================================
 # 🛠️ 輔助工具函式
@@ -54,7 +43,7 @@ def sanitize_filename(filename):
 # 🕷️ 主爬蟲程式
 # ==========================================
 def scrape():
-    print("🔍 正在爬取 Allianz Trade (安聯貿易) - 🛡️ 啟動原生下載與魔法攔截模式...")
+    print("🔍 正在爬取 Allianz Trade (安聯貿易) - 🛡️ 啟動「特洛伊木馬」本機伺服器策略...")
     reports = []
     seen_pdfs = set()
     
@@ -64,6 +53,9 @@ def scrape():
     output_dir = "all report pdf"
     os.makedirs(output_dir, exist_ok=True)
     
+    # 啟動本機伺服器來欺騙主程式
+    start_local_server()
+    
     try:
         with sync_playwright() as p:
             browser = p.chromium.launch(
@@ -72,8 +64,7 @@ def scrape():
             )
             context = browser.new_context(
                 user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
-                viewport={'width': 1920, 'height': 1080},
-                accept_downloads=True
+                viewport={'width': 1920, 'height': 1080}
             )
             
             page = context.new_page()
@@ -140,49 +131,49 @@ def scrape():
                     seen_pdfs.add(pdf_link)
                     clean_t = clean_title(title)
                     
-                    print(f"    📥 正在驅動瀏覽器原生下載機制...")
-                    try:
-                        with page.expect_download(timeout=30000) as download_info:
-                            page.evaluate(f"""
-                                () => {{
-                                    const a = document.createElement('a');
-                                    a.href = '{pdf_link}';
-                                    a.download = 'report.pdf';
-                                    document.body.appendChild(a);
-                                    a.click();
-                                }}
-                            """)
+                    print(f"    📥 正在繞過防火牆讀取 PDF...")
+                    
+                    # 🌟 第 1 步：使用帶有真實來源特徵的 API 取檔
+                    headers = {
+                        "Referer": article_url,
+                        "Accept": "application/pdf,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+                    }
+                    pdf_res = context.request.get(pdf_link, headers=headers, timeout=20000)
+                    pdf_bytes = b""
+                    
+                    if pdf_res.status == 200:
+                        pdf_bytes = pdf_res.body()
                         
-                        download = download_info.value
+                    # 🌟 備案防護：如果 API 依然被擋，啟動瀏覽器真實導航
+                    if not pdf_bytes.startswith(b'%PDF'):
+                        print("    ⚠️ API 請求遭攔截，啟動原生導航備案...")
+                        pdf_page_res = page.goto(pdf_link, referer=article_url, timeout=30000)
+                        if pdf_page_res and pdf_page_res.status == 200:
+                            pdf_bytes = pdf_page_res.body()
+                            
+                    # 🌟 第 2 步：檔案驗證與啟動木馬
+                    if pdf_bytes.startswith(b'%PDF'):
                         safe_name = sanitize_filename(f"Allianz Trade_{date_text}_{clean_t}")
                         local_path = os.path.join(output_dir, f"{safe_name}.pdf")
                         
-                        download.save_as(local_path)
+                        # 把檔案寫入硬碟
+                        with open(local_path, "wb") as f:
+                            f.write(pdf_bytes)
+                            
+                        # 將實體路徑轉為「本機伺服器網址」(主程式會去找這個網址下載)
+                        url_path = urllib.parse.quote(f"{output_dir}/{safe_name}.pdf")
+                        fake_local_url = f"http://127.0.0.1:{_PORT}/{url_path}"
                         
-                        # 驗證 PDF 真偽
-                        is_valid_pdf = False
-                        with open(local_path, "rb") as f:
-                            if f.read(4) == b'%PDF':
-                                is_valid_pdf = True
-                                
-                        if is_valid_pdf:
-                            # 🌟🌟🌟 關鍵：將網址與本機路徑綁定，讓攔截器發揮作用 🌟🌟🌟
-                            _ALLIANZ_CACHE[pdf_link] = local_path
-                            
-                            reports.append({
-                                "Source": "Allianz Trade",
-                                "Date": date_text,
-                                "Name": clean_t,
-                                "Link": pdf_link,
-                                "Type": "PDF"
-                            })
-                            print(f"    ✔️ 成功保存實體 PDF，已裝載魔法攔截盾: {clean_t[:20]}...")
-                        else:
-                            print(f"    ❌ 下載失敗: 伺服器回傳的不是 PDF")
-                            os.remove(local_path)
-                            
-                    except Exception as dl_e:
-                        print(f"    ❌ 瀏覽器下載程序失敗: {dl_e}")
+                        reports.append({
+                            "Source": "Allianz Trade",
+                            "Date": date_text,
+                            "Name": clean_t,
+                            "Link": fake_local_url, # 🤫 騙主程式連到這裡
+                            "Type": "PDF"
+                        })
+                        print(f"    ✔️ 成功捕獲並啟動本機木馬連線: {clean_t[:20]}...")
+                    else:
+                        print(f"    ❌ 讀取失敗: 防火牆依然阻擋了實體檔案的讀取")
                     
                 except Exception as inner_e:
                     print(f"    ⚠️ 進入內頁解析失敗 ({article_url}): {inner_e}")
