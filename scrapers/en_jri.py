@@ -102,7 +102,14 @@ def scrape():
                             continue
                             
                         title = a.get_text(strip=True)
-                        if not title or len(title) < 5:
+                        
+                        # 🌟 如果 a 標籤裡面只有圖片沒有文字，試著抓圖片的 alt 屬性
+                        if not title or len(title) < 3:
+                            img = a.find('img')
+                            if img and img.get('alt'):
+                                title = img.get('alt').strip()
+                                
+                        if not title or len(title) < 3:
                             title = unquote(href.split('/')[-1].replace('.pdf', ''))
                             
                         # 尋找鄰近的日期：擴大搜索範圍到包含它的 <li> 或 <div>，容錯率更高
