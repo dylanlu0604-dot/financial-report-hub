@@ -14,6 +14,13 @@ def scrape():
     seen_links = set()
     base_url = "https://www.sc.com"
     target_url = "https://www.sc.com/en/wealth-retail-banking/private-banking/latest-market-views/"
+    
+    # 🚫 定義黑名單關鍵字 (只要標題包含這些字眼，就會被直接略過)
+    blacklist_keywords = [
+        "Refocusing on growth and earnings",
+        "Modern slavery statement",
+        "Our Code of Conduct and Ethics"
+    ]
 
     try:
         with sync_playwright() as p:
@@ -51,6 +58,18 @@ def scrape():
                         raw_title = clean_text(a.parent.get_text(separator=' '))
                 
                 clean_title = raw_title.replace("(Opens in a new window)", "").replace("pdf", "").replace("|", "").strip()
+                
+                # 🌟🌟🌟 新增黑名單過濾機制 🌟🌟🌟
+                # 檢查清理後的標題是否包含任何黑名單關鍵字 (忽略大小寫以確保精準攔截)
+                is_blacklisted = False
+                for keyword in blacklist_keywords:
+                    if keyword.lower() in clean_title.lower():
+                        is_blacklisted = True
+                        break
+                        
+                if is_blacklisted:
+                    print(f"    🚫 觸發黑名單，跳過非報告文件: {clean_title[:40]}...")
+                    continue # 直接跳過這個迴圈，不收錄此檔案
                 
                 # 3. 抓取日期：往父節點尋找 (例如 February 27, 2026)
                 report_date = datetime.now().strftime("%Y-%m-%d") # 預設今天
