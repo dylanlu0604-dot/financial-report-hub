@@ -25,12 +25,12 @@
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Country%20Atlas%202026%20_%20Under%20the%20surface.pdf)
 
 ### 
-來源: JRI (EN) | 日期: 2026-02-12 | 頁數: 6 頁
+來源: JRI (EN) | 日期: 2026-02-12 | 頁數: 11 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/.pdf)
 
-### 
+### Europe’s households after the rate shock  A windfall for some, a squeeze for others
 來源: Allianz Trade | 日期: 2026-02-10 | 頁數: 6 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/.pdf)
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Europe%E2%80%99s%20households%20after%20the%20rate%20shock%20%20A%20windfall%20for%20some%2C%20a%20squeeze%20for%20others.pdf)
 
 ### Asia Monthly Report February 2026 / China's economic roadmap for 2026 / Bangladesh’s general election to affect the situation in South Asia (PDF:434KB)
 來源: JRI (EN) | 日期: 2026-02-01 | 頁數: 7 頁
