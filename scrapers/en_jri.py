@@ -14,7 +14,7 @@ def clean_title(title):
 def parse_english_date(date_text):
     """將英文日期轉換為 YYYY-MM-DD"""
     date_text = re.sub(r'\s+', ' ', date_text).strip()
-    date_text = date_text.replace(',', '').replace('.', '') # 移除逗點與縮寫點
+    date_text = date_text.replace(',', '').replace('.', '')
     
     formats_to_try = [
         "%B %d %Y", "%b %d %Y", 
@@ -30,22 +30,15 @@ def parse_english_date(date_text):
 
 def extract_date_from_text(text):
     """從一段純文字中，精準提取出日期格式"""
-    # 找 YYYY/MM/DD 格式
     date_match = re.search(r'([0-9]{4}[/.-][0-9]{2}[/.-][0-9]{2})', text)
     if date_match:
         return date_match.group(1).replace('/', '-').replace('.', '-')
         
-    # 定義英文月份的正則群組 (包含全寫與縮寫)
     MONTHS = r'(?:Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:tember)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)'
-    
-    # 模式 1: Month DD, YYYY 或 Month. DD, YYYY
     pattern1 = rf'({MONTHS}\.?\s+\d{{1,2}},?\s+\d{{4}})'
-    # 模式 2: DD Month YYYY
     pattern2 = rf'(\d{{1,2}}\s+{MONTHS}\.?\s+\d{{4}})'
-    # 模式 3: Month YYYY (只有年月，預設為1號)
     pattern3 = rf'({MONTHS}\.?\s+\d{{4}})'
     
-    # 依序測試，先抓有具體日期的，再抓只有年月的
     for pat in [pattern1, pattern2, pattern3]:
         match = re.search(pat, text, re.IGNORECASE)
         if match:
@@ -57,7 +50,7 @@ def extract_date_from_text(text):
 # 🕷️ 主爬蟲程式
 # ==========================================
 def scrape():
-    print("🔍 正在爬取 JRI (日本綜合研究所 英文版) - 📅 啟用全新精準日期萃取核心...")
+    print("🔍 正在爬取 JRI (日本綜合研究所 英文版) - 📅 啟用增強標題與日期萃取引擎...")
     reports = []
     seen_pdfs = set()
     
@@ -91,7 +84,6 @@ def scrape():
                 
                 article_links = []
                 
-                # 掃描當前頁面所有的 a 連結
                 for a in soup.find_all('a', href=True):
                     href = a['href']
                     full_url = urljoin(base_url, href)
@@ -101,39 +93,38 @@ def scrape():
                         if full_url in seen_pdfs:
                             continue
                             
-                        title = a.get_text(strip=True)
+                        # 找日期
+                        container = a.find_parent(['li', 'tr', 'div', 'dd', 'p'])
+                        parent_text = container.get_text(separator=' ', strip=True) if container else a.get_text(separator=' ', strip=True)
+                        date_str = extract_date_from_text(parent_text)
                         
-                        # 🌟 如果 a 標籤裡面只有圖片沒有文字，試著抓圖片的 alt 屬性
+                        # 找標題
+                        title = a.get_text(strip=True)
                         if not title or len(title) < 3:
                             img = a.find('img')
                             if img and img.get('alt'):
                                 title = img.get('alt').strip()
-                                
                         if not title or len(title) < 3:
                             title = unquote(href.split('/')[-1].replace('.pdf', ''))
+                        
+                        # 🌟 終極保險
+                        if not title or len(clean_title(title)) < 3:
+                            title = f"JRI (EN) Report {date_str}"
                             
-                        # 尋找鄰近的日期：擴大搜索範圍到包含它的 <li> 或 <div>，容錯率更高
-                        container = a.find_parent(['li', 'tr', 'div', 'dd', 'p'])
-                        parent_text = container.get_text(separator=' ', strip=True) if container else a.get_text(separator=' ', strip=True)
-                        
-                        date_str = extract_date_from_text(parent_text)
-                        
                         reports.append({
                             "Source": "JRI (EN)",
                             "Date": date_str,
                             "Name": clean_title(title),
                             "Link": full_url,
-                            "Type": "PDF" # 加入 PDF 標籤供主程式辨識
+                            "Type": "PDF"
                         })
                         seen_pdfs.add(full_url)
                         
                     # 🎯 情況 B: 連結是指向其他報告的「內頁」
                     elif ('/en/reports/' in href or '/en/media/' in href) and not href.endswith('.pdf') and not href.startswith('#'):
-                        # 排除掉自己(列表頁)跟首頁
                         if full_url not in target_urls and full_url not in article_links:
                             article_links.append(full_url)
                 
-                # 若發現有內頁，啟動深度挖掘
                 if article_links:
                     print(f"  🎯 發現 {len(article_links)} 個潛在內頁，準備深度挖掘...")
                     for article_url in article_links[:10]:
@@ -150,24 +141,28 @@ def scrape():
                                     pdf_full_url = urljoin(base_url, inner_href)
                                     
                                     if pdf_full_url not in seen_pdfs:
-                                        # 抓大標題
-                                        title_tag = inner_soup.find('h1')
-                                        title = title_tag.get_text(strip=True) if title_tag else unquote(inner_href.split('/')[-1])
-                                        
-                                        # 🌟 核心修正：抓取內頁日期時，絕不能直接搜尋 inner_html！
-                                        # 移除 HTML 標頭、腳本與樣式，只保留真實的「可見文字」
+                                        # 找日期
                                         for script in inner_soup(["script", "style", "noscript", "meta", "header", "footer", "nav"]):
                                             script.extract()
-                                        
-                                        # 優先找 <time> 或 class 帶有 date 的元素
                                         time_elem = inner_soup.find('time') or inner_soup.find(class_=re.compile(r'date|time', re.I))
-                                        
-                                        if time_elem:
-                                            visible_text = time_elem.get_text(separator=' ', strip=True)
-                                        else:
-                                            visible_text = inner_soup.get_text(separator=' ', strip=True)
-                                            
+                                        visible_text = time_elem.get_text(separator=' ', strip=True) if time_elem else inner_soup.get_text(separator=' ', strip=True)
                                         date_str = extract_date_from_text(visible_text)
+
+                                        # 找標題
+                                        title = ""
+                                        title_tag = inner_soup.find('h1')
+                                        if title_tag:
+                                            title = title_tag.get_text(strip=True)
+                                        if not title or len(title) < 3:
+                                            title_tag = inner_soup.find('title')
+                                            if title_tag:
+                                                title = title_tag.get_text(strip=True).split('|')[0].strip()
+                                        if not title or len(title) < 3:
+                                            title = unquote(inner_href.split('/')[-1].replace('.pdf', ''))
+                                            
+                                        # 🌟 終極保險
+                                        if not title or len(clean_title(title)) < 3:
+                                            title = f"JRI (EN) Report {date_str}"
 
                                         reports.append({
                                             "Source": "JRI (EN)",
@@ -178,10 +173,9 @@ def scrape():
                                         })
                                         seen_pdfs.add(pdf_full_url)
                                         print(f"    ✔️ 成功捕獲 (內頁): {clean_title(title)[:30]}... ({date_str})")
-                                    break # 通常一個內頁只對應一個主要 PDF
-                                    
+                                    break 
                         except Exception as e:
-                            pass # 忽略內頁的超時或壞軌
+                            pass 
                             
             browser.close()
 
