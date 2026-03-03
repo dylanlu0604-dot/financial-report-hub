@@ -33,17 +33,6 @@
     "Summary": "未執行 AI 摘要"
   },
   {
-    "Source": "Merrill Lynch (CMO)",
-    "Date": "2026-02-23",
-    "Name": "Capital Market Outlook (2026-02-23)",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Capital%20Market%20Outlook%20%282026-02-23%29.pdf",
-    "Type": "PDF",
-    "PageCount": 8,
-    "OriginalLink": "https://mlaem.fs.ml.com/content/dam/ML/ecomm/pdf/CMO_Merrill_02-23-2026_ada.pdf",
-    "LocalPath": "all report pdf/Capital Market Outlook (2026-02-23).pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
     "Source": "Allianz Trade",
     "Date": "2026-02-20",
     "Name": "Private equity in transition: from distribution drought to selective recovery",
@@ -66,17 +55,6 @@
     "Summary": "未執行 AI 摘要"
   },
   {
-    "Source": "Merrill Lynch (CMO)",
-    "Date": "2026-02-17",
-    "Name": "Capital Market Outlook (2026-02-17)",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Capital%20Market%20Outlook%20%282026-02-17%29.pdf",
-    "Type": "PDF",
-    "PageCount": 8,
-    "OriginalLink": "https://mlaem.fs.ml.com/content/dam/ML/ecomm/pdf/CMO_Merrill_02-17-2026_ada.pdf",
-    "LocalPath": "all report pdf/Capital Market Outlook (2026-02-17).pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
     "Source": "Allianz Trade",
     "Date": "2026-02-16",
     "Name": "Country Atlas 2026 : Under the surface",
@@ -85,6 +63,17 @@
     "PageCount": 179,
     "OriginalLink": "http://127.0.0.1:18033/allianz_temp_pdf/Allianz_2026-02-16_Country%20Atlas%202026%20%20Under%20the%20surface.pdf",
     "LocalPath": "all report pdf/Country Atlas 2026 _ Under the surface.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "JRI (EN)",
+    "Date": "2026-02-12",
+    "Name": "",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/.pdf",
+    "Type": "PDF",
+    "PageCount": 6,
+    "OriginalLink": "https://www.jri.co.jp/en/MediaLibrary/file/english/periodical/report/2026/02.pdf",
+    "LocalPath": "all report pdf/.pdf",
     "Summary": "未執行 AI 摘要"
   },
   {
@@ -99,25 +88,14 @@
     "Summary": "未執行 AI 摘要"
   },
   {
-    "Source": "Merrill Lynch (CMO)",
-    "Date": "2026-02-09",
-    "Name": "Capital Market Outlook (2026-02-09)",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Capital%20Market%20Outlook%20%282026-02-09%29.pdf",
+    "Source": "JRI (EN)",
+    "Date": "2026-02-01",
+    "Name": "Asia Monthly Report February 2026 / China's economic roadmap for 2026 / Bangladesh’s general election to affect the situation in South Asia (PDF:434KB)",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Asia%20Monthly%20Report%20February%202026%20_%20China%27s%20economic%20roadmap%20for%202026%20_%20Bangladesh%E2%80%99s%20general%20election%20to%20affect%20the%20situation%20in%20South%20Asia%20%28PDF_434KB%29.pdf",
     "Type": "PDF",
-    "PageCount": 8,
-    "OriginalLink": "https://mlaem.fs.ml.com/content/dam/ML/ecomm/pdf/CMO_Merrill_02-09-2026_ada.pdf",
-    "LocalPath": "all report pdf/Capital Market Outlook (2026-02-09).pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "Merrill Lynch (CMO)",
-    "Date": "2026-02-02",
-    "Name": "Capital Market Outlook (2026-02-02)",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Capital%20Market%20Outlook%20%282026-02-02%29.pdf",
-    "Type": "PDF",
-    "PageCount": 8,
-    "OriginalLink": "https://mlaem.fs.ml.com/content/dam/ML/ecomm/pdf/CMO_Merrill_02-02-2026_ada.pdf",
-    "LocalPath": "all report pdf/Capital Market Outlook (2026-02-02).pdf",
+    "PageCount": 7,
+    "OriginalLink": "https://www.jri.co.jp/en/MediaLibrary/file/english/periodical/asia/2026/02/contents.pdf",
+    "LocalPath": "all report pdf/Asia Monthly Report February 2026 _ China's economic roadmap for 2026 _ Bangladesh’s general election to affect the situation in South Asia (PDF_434KB).pdf",
     "Summary": "未執行 AI 摘要"
   }
 ]
