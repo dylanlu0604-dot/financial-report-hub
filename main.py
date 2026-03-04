@@ -55,13 +55,18 @@ def main():
         if module_name == "utils": continue
         
         # 💡 如果您想測試特定爬蟲，可以把下面兩行解除註解並填入名稱。target。篩選。
-        if module_name not in ["yuanta"]: continue 
+        if module_name not in ["westpac","wellsfargo"]: continue 
             
         try:
             module = importlib.import_module(f"scrapers.{module_name}")
             if hasattr(module, "scrape"):
                 results = module.scrape()
-                if results: all_reports.extend(results)
+                if results:
+                    bad = [r for r in results if "Link" not in r]
+                    if bad:
+                        print(f"⚠️ [scraper: {module_name}] 有 {len(bad)} 筆資料缺少 Link 欄位:")
+                        for b in bad: print(f"   → {b}")
+                    all_reports.extend(results)
         except Exception as e:
             print(f"❌ 載入 {module_name} 失敗: {e}")
 
@@ -72,6 +77,9 @@ def main():
     unique_reports = []
     seen_links = set()
     for report in all_reports:
+        if 'Link' not in report:
+            print(f"⚠️ [資料異常] 缺少 'Link' 欄位，已跳過: {report}")
+            continue
         if report['Link'] in seen_links: continue
         raw_date = str(report.get('Date', '')).strip()
         dt_obj = None
@@ -86,8 +94,6 @@ def main():
             
         if "Top of Mind" in report.get('Name', ''):
             days_limit = 90  # 高盛 Top of Mind 放寬到近 90 天
-        elif report.get('Source', '').startswith('中央銀行'):
-            days_limit = 365  # 央行一季開一次會，放寬到一年
         else:
             days_limit = 30  # 其他所有銀行的報告維持近 30 天
             
