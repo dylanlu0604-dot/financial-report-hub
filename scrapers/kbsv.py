@@ -4,6 +4,12 @@ import urllib.parse
 from playwright.sync_api import sync_playwright
 from playwright_stealth import Stealth
 from datetime import datetime
+from datetime import datetime
+
+# ⚙️ 與 main.py 保持一致
+GITHUB_USER = "dylanlu0604-dot"
+GITHUB_REPO = "financial-report-hub"
+GITHUB_RAW_BASE = f"https://raw.githubusercontent.com/{GITHUB_USER}/{GITHUB_REPO}/main/all%20report%20pdf"
 
 # ==========================================
 # 🛠️ 輔助工具：越南日期轉西元
@@ -117,11 +123,15 @@ def scrape():
                             with open(save_path, "wb") as f:
                                 f.write(response.body())
                             
+                            encoded_filename = urllib.parse.quote(f"{safe_title}.pdf")
+                            github_link = f"{GITHUB_RAW_BASE}/{encoded_filename}"
                             reports.append({
                                 "Source": f"KBSV ({cat['name']})",
                                 "Date": final_date,
                                 "Name": f"{raw_title} ({final_date})",
-                                "Type": "PDF"
+                                "Link": github_link,
+                                "Type": "PDF",
+                                "LocalPath": save_path
                             })
                             print(f"      ✅ [下載成功]")
                         else:
