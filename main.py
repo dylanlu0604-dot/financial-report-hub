@@ -14,6 +14,7 @@ from datetime import datetime
 from dotenv import load_dotenv
 from playwright.sync_api import sync_playwright
 from playwright_stealth import Stealth
+from xml.sax.saxutils import escape  # 🌟 新增這一行來處理 XML 特殊字元
 
 # 🌟 新增 OpenAI 套件 (請確認 requirements.txt 裡面有 openai)
 from openai import OpenAI
@@ -337,6 +338,11 @@ def main():
     </script></body></html>"""
     with open('index.html', 'w', encoding='utf-8') as f: f.write(html_content)
 
+    # ==========================================
+    # 📝 輸出生成
+    # ==========================================
+    # ... (前面的 JSON、Markdown、HTML 生成程式碼保持不變) ...
+
     reports_by_source = {}
     for report in unique_reports:
         source = report.get('Source', 'Unknown')
@@ -346,11 +352,21 @@ def main():
     for source, reports in reports_by_source.items():
         safe_source_name = source.lower().replace(" ", "_")
         rss_filename = f"data/rss_{safe_source_name}.xml"
+        
+        # 🌟 將來源名稱也進行安全跳脫 (以防有 S&P 這種機構名)
+        safe_source_title = escape(source)
+        
         rss_content = f"""<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0"><channel><title>{source} 財經報告</title><link>https://github.com/{GITHUB_USER}/{GITHUB_REPO}</link>
-<description>{source} 自動更新源</description>\n"""
+<rss version="2.0"><channel><title>{safe_source_title} 財經報告</title><link>https://github.com/{GITHUB_USER}/{GITHUB_REPO}</link>
+<description>{safe_source_title} 自動更新源</description>\n"""
+        
         for r in reports:
-            rss_content += f"<item><title>{r['Name']}</title><link>{r['Link']}</link><description><![CDATA[📄 頁數：{r['PageCount']}]]></description><pubDate>{r['Date']}</pubDate></item>\n"
+            # 🌟 關鍵修正：將標題與網址中的 &、<、> 等字元轉換為 &amp;, &lt;, &gt;
+            safe_title = escape(r['Name'])
+            safe_link = escape(r['Link'])
+            
+            rss_content += f"<item><title>{safe_title}</title><link>{safe_link}</link><description><![CDATA[📄 頁數：{r['PageCount']}]]></description><pubDate>{r['Date']}</pubDate></item>\n"
+            
         rss_content += "</channel></rss>"
         with open(rss_filename, 'w', encoding='utf-8') as f: f.write(rss_content)
             
