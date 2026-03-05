@@ -56,7 +56,7 @@ def main():
         if module_name == "utils": continue
         
         # 💡 如果您想測試特定爬蟲，可以把下面兩行解除註解並填入名稱。target。篩選。
-        #if module_name not in ["kbsv"]: continue 
+        if module_name not in ["refinitiv","wellsfargo"]: continue 
             
         try:
             module = importlib.import_module(f"scrapers.{module_name}")
