@@ -286,6 +286,8 @@ def main():
         md_content += f"[📥 查看報告]({report['Link']})\n\n"
     with open('data/reports_for_notebooklm.md', 'w', encoding='utf-8') as f: f.write(md_content)
 
+    update_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+
     # 修改 HTML 生成區塊
     html_content = f"""<!DOCTYPE html>
 <html lang="zh-TW"><head><meta charset="UTF-8"><title>最新財經報告總覽</title>
