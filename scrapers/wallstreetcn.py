@@ -31,7 +31,7 @@ def scrape():
             # 1. 抓取清單頁：一樣用滾動的方式獲取大量連結
             page.goto("https://wallstreetcn.com/news/global", wait_until="networkidle", timeout=30000)
             print("  [動作] 網頁載入完成，開始執行深度向下滾動 (預計耗時 35 秒)...")
-            for i in range(3):
+            for i in range(2):
                 page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
                 page.wait_for_timeout(2000)
             html_content = page.content()
@@ -51,7 +51,7 @@ def scrape():
     print(f"  [掃描] 成功掃描到 {len(links)} 個潛在文章連結，啟動 JSON 深度解析...")
     
     for a in links:
-        if len(reports) >= 150: 
+        if len(reports) >= 100: 
             break
             
         url = urljoin("https://wallstreetcn.com", a['href'])
