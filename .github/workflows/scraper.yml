@@ -5,6 +5,11 @@ on:
     - cron: '0 4,8,15,23 * * *'
   workflow_dispatch:
 
+# 避免多個 Pages 部署同時排隊，新的會自動取消舊的
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
 # 設定權限，允許機器人把爬到的資料存回 GitHub
 permissions:
   contents: write
