@@ -3,7 +3,7 @@ name: Daily Financial Report Scraper
 on:
   schedule:
     - cron: '0 4,8,15,23 * * *'
-  workflow_dispatch:    # 允許手動點擊執行
+  workflow_dispatch:
 
 # 設定權限，允許機器人把爬到的資料存回 GitHub
 permissions:
