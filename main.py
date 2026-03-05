@@ -56,7 +56,7 @@ def main():
         if module_name == "utils": continue
         
         # 💡 如果您想測試特定爬蟲，可以把下面兩行解除註解並填入名稱。target。篩選。
-        #if module_name not in ["refinitiv","wellsfargo"]: continue 
+        if module_name not in ["cathay"]: continue 
             
         try:
             module = importlib.import_module(f"scrapers.{module_name}")
@@ -286,17 +286,20 @@ def main():
         md_content += f"[📥 查看報告]({report['Link']})\n\n"
     with open('data/reports_for_notebooklm.md', 'w', encoding='utf-8') as f: f.write(md_content)
 
-    html_content = """<!DOCTYPE html>
+    # 修改 HTML 生成區塊
+    html_content = f"""<!DOCTYPE html>
 <html lang="zh-TW"><head><meta charset="UTF-8"><title>最新財經報告總覽</title>
     <style>
-        body { font-family: 'Segoe UI', sans-serif; max-width: 1200px; margin: 0 auto; padding: 20px; background-color: #f5f7fa; }
-        table { width: 100%; border-collapse: collapse; background: white; box-shadow: 0 4px 6px rgba(0,0,0,0.05); }
-        th, td { padding: 15px; text-align: left; border-bottom: 1px solid #ecf0f1; }
-        th { background-color: #2c3e50; color: white; cursor: pointer; transition: background 0.3s; }
-        th:hover { background-color: #34495e; }
-        .page-badge { background: #e8f4fd; color: #2980b9; padding: 2px 8px; border-radius: 12px; font-weight: bold; }
+        body {{ font-family: 'Segoe UI', sans-serif; max-width: 1200px; margin: 0 auto; padding: 20px; background-color: #f5f7fa; }}
+        table {{ width: 100%; border-collapse: collapse; background: white; box-shadow: 0 4px 6px rgba(0,0,0,0.05); }}
+        th, td {{ padding: 15px; text-align: left; border-bottom: 1px solid #ecf0f1; }}
+        th {{ background-color: #2c3e50; color: white; cursor: pointer; transition: background 0.3s; }}
+        th:hover {{ background-color: #34495e; }}
+        .page-badge {{ background: #e8f4fd; color: #2980b9; padding: 2px 8px; border-radius: 12px; font-weight: bold; }}
+        .update-info {{ color: #7f8c8d; margin-bottom: 20px; font-size: 0.9em; }}
     </style></head><body>
     <h1>📊 最新財經報告總覽 (GitHub 存檔)</h1>
+    <p class="update-info">🕒 最後更新時間：{update_time}</p> 
     <table id="reportTable"><thead><tr>
         <th onclick="sortTable(0)">機構 ↕</th>
         <th onclick="sortTable(1)">日期 ↕</th>
