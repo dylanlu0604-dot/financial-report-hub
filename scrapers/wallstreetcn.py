@@ -51,7 +51,7 @@ def scrape():
     print(f"  [掃描] 成功掃描到 {len(links)} 個潛在文章連結，啟動 JSON 深度解析...")
     
     for a in links:
-        if len(reports) >= 100: 
+        if len(reports) >= 70: 
             break
             
         url = urljoin("https://wallstreetcn.com", a['href'])
