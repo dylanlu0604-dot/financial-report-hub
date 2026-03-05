@@ -15,6 +15,7 @@ from dotenv import load_dotenv
 from playwright.sync_api import sync_playwright
 from playwright_stealth import Stealth
 from xml.sax.saxutils import escape  # 🌟 新增這一行來處理 XML 特殊字元
+import pytz
 
 # 🌟 新增 OpenAI 套件 (請確認 requirements.txt 裡面有 openai)
 from openai import OpenAI
@@ -286,7 +287,8 @@ def main():
         md_content += f"[📥 查看報告]({report['Link']})\n\n"
     with open('data/reports_for_notebooklm.md', 'w', encoding='utf-8') as f: f.write(md_content)
 
-    update_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    tw_tz = pytz.timezone('Asia/Taipei')
+    update_time = datetime.now(tw_tz).strftime("%Y-%m-%d %H:%M:%S")
 
     # 修改 HTML 生成區塊
     html_content = f"""<!DOCTYPE html>
