@@ -2,7 +2,7 @@ name: Daily Financial Report Scraper
 
 on:
   schedule:
-    - cron: '0 4,8,15,23 * * *'
+    - cron: '0 4,8,14,23 * * *'
   workflow_dispatch:
 
 # 避免多個 Pages 部署同時排隊，新的會自動取消舊的
