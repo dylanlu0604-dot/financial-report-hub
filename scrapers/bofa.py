@@ -47,7 +47,7 @@ def scrape():
                     category_count = 0
                     
                     for a in soup.find_all('a', href=True):
-                        if category_count >= 2:
+                        if category_count >= 7:
                             break
                             
                         href = a.get('href', '')
