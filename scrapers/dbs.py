@@ -48,43 +48,33 @@ def scrape():
                 
             data = json.loads(raw_json)
             
-            try:
-                # 根據你提供的 HTML 結構，精準定位最新文章列表
-                hits = data['props']['pageProps']['fetchedInitialArticles']['hits']
-            except KeyError:
+            # 🌟 無敵遞迴搜尋器：不管星展把資料藏在 JSON 的第幾層，全部挖出來！
+            def find_hits(obj):
+                if isinstance(obj, dict):
+                    # 只要發現目標特徵，立刻攔截並回傳
+                    if 'fetchedInitialArticles' in obj and 'hits' in obj['fetchedInitialArticles']:
+                        return obj['fetchedInitialArticles']['hits']
+                    # 否則繼續往下挖
+                    for k, v in obj.items():
+                        res = find_hits(v)
+                        if res is not None:
+                            return res
+                elif isinstance(obj, list):
+                    # 如果遇到陣列，就逐個檢查裡面的物件
+                    for item in obj:
+                        res = find_hits(item)
+                        if res is not None:
+                            return res
+                return None
+                
+            hits = find_hits(data)
+            
+            if not hits:
                 print("  ❌ JSON 結構解析失敗，無法找到文章列表。")
                 browser.close()
                 return reports
             
             valid_articles = []
-            
-            # 遍歷資料庫裡的所有最新報告
-            for hit in hits:
-                source = hit.get('_source', {})
-                res_data = source.get('results_data', {})
-                date_sort = source.get('date_sort', {})
-                
-                title = res_data.get('Title', 'Unknown Title')
-                fmt = res_data.get('Format', 'article')
-                dcr_path = res_data.get('RelativeDCRPath', '')
-                raw_date = date_sort.get('PublishedDate', '')
-                
-                # 🌟 秒殺 YouTube：只要 API 說它是影片 (video)，立刻踢掉，絕不浪費時間！
-                if fmt == 'video':
-                    print(f"    ⏭️ [API 過濾] 成功跳過影片: {title[:30]}...")
-                    continue
-                    
-                # 擷取精準日期 (例如 "2026-03-11 11:19:00" -> "2026-03-11")
-                pub_date = raw_date.split(' ')[0] if raw_date else datetime.now().strftime("%Y-%m-%d")
-                
-                # 構建真實的內頁網址
-                actual_url = f"https://www.dbs.com.tw/personal/aics/article.page?dcrPath={dcr_path}"
-                
-                if actual_url not in seen_links:
-                    valid_articles.append((title, actual_url, pub_date))
-                    seen_links.add(actual_url)
-            
-            print(f"    🎯 API 萃取完畢！發現 {len(valid_articles)} 篇【非影片】的最新報告，準備下載...")
             
             # ==========================================
             # 開始進入內頁進行物理下載
