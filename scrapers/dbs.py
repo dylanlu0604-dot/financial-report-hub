@@ -1,20 +1,20 @@
 import os
 import re
+import json
 from playwright.sync_api import sync_playwright
 from playwright_stealth import Stealth
 from datetime import datetime
 
 # ==========================================
-# 🕷️ 主爬蟲程式：Archive 彙整模式
+# 🕷️ 主爬蟲程式：終極 JSON API 直連解析模式
 # ==========================================
 def scrape():
-    print("🔍 正在爬取 DBS (星展銀行) - 📂 Archive 彙整模式 (自動跳過 YouTube影片)...")
+    print("🔍 正在爬取 DBS (星展銀行) - ⚡️ 終極 JSON API 直連解析模式...")
     reports = []
     seen_links = set()
     download_path = os.path.abspath("all report pdf")
     os.makedirs(download_path, exist_ok=True)
     
-    # 🎯 直接鎖定你提供的 Archive 頁面
     target_url = "https://www.dbs.com.tw/personal/aics/archive/index.page"
     
     try:
@@ -31,35 +31,66 @@ def scrape():
             
             try:
                 page.goto(target_url, wait_until="domcontentloaded", timeout=45000)
-                page.wait_for_timeout(5000)
+                page.wait_for_timeout(3000) # 給網頁一點時間載入腳本
             except Exception as e:
                 print(f"    ⚠️ 目錄載入超時: {str(e)[:30]}")
                 return reports
             
-            # 滾動加載更多歷史報告 (調高次數以確保抓到足夠的 Archive 資料)
-            for _ in range(5):
-                page.evaluate("window.scrollBy(0, 1000)")
-                page.wait_for_timeout(1000)
-
-            # 提取內頁連結，並過濾掉明確的外部 YouTube 連結
-            links = page.evaluate("""
-                () => Array.from(document.querySelectorAll('a'))
-                    .filter(a => {
-                        let h = a.href.toLowerCase();
-                        let isAics = h.includes('/aics/');
-                        let isNotMenu = !h.includes('index.page');
-                        let isNotYoutube = !h.includes('youtube.com') && !h.includes('youtu.be');
-                        return isAics && isNotMenu && isNotYoutube;
-                    })
-                    .map(a => a.href)
-            """)
+            # ==========================================
+            # 🌟 核心殺手鐧：直接抽取出底層的 JSON 資料庫
+            # ==========================================
+            raw_json = page.evaluate("() => document.getElementById('__NEXT_DATA__') ? document.getElementById('__NEXT_DATA__').innerText : ''")
             
-            valid_links = list(set(links))
-            print(f"    🎯 發現 {len(valid_links)} 篇潛在連結，準備進入內頁檢查與下載...")
+            if not raw_json:
+                print("  ❌ 找不到底層資料庫 (__NEXT_DATA__)，網頁結構可能已改變。")
+                browser.close()
+                return reports
+                
+            data = json.loads(raw_json)
             
-            for article_url in valid_links[:30]:  # 根據需求可調整最大抓取數量
-                if article_url in seen_links: continue
-                seen_links.add(article_url)
+            try:
+                # 根據你提供的 HTML 結構，精準定位最新文章列表
+                hits = data['props']['pageProps']['fetchedInitialArticles']['hits']
+            except KeyError:
+                print("  ❌ JSON 結構解析失敗，無法找到文章列表。")
+                browser.close()
+                return reports
+            
+            valid_articles = []
+            
+            # 遍歷資料庫裡的所有最新報告
+            for hit in hits:
+                source = hit.get('_source', {})
+                res_data = source.get('results_data', {})
+                date_sort = source.get('date_sort', {})
+                
+                title = res_data.get('Title', 'Unknown Title')
+                fmt = res_data.get('Format', 'article')
+                dcr_path = res_data.get('RelativeDCRPath', '')
+                raw_date = date_sort.get('PublishedDate', '')
+                
+                # 🌟 秒殺 YouTube：只要 API 說它是影片 (video)，立刻踢掉，絕不浪費時間！
+                if fmt == 'video':
+                    print(f"    ⏭️ [API 過濾] 成功跳過影片: {title[:30]}...")
+                    continue
+                    
+                # 擷取精準日期 (例如 "2026-03-11 11:19:00" -> "2026-03-11")
+                pub_date = raw_date.split(' ')[0] if raw_date else datetime.now().strftime("%Y-%m-%d")
+                
+                # 構建真實的內頁網址
+                actual_url = f"https://www.dbs.com.tw/personal/aics/article.page?dcrPath={dcr_path}"
+                
+                if actual_url not in seen_links:
+                    valid_articles.append((title, actual_url, pub_date))
+                    seen_links.add(actual_url)
+            
+            print(f"    🎯 API 萃取完畢！發現 {len(valid_articles)} 篇【非影片】的最新報告，準備下載...")
+            
+            # ==========================================
+            # 開始進入內頁進行物理下載
+            # ==========================================
+            for title, article_url, pub_date in valid_articles:
+                print(f"    🔎 尋找 Download PDF: {title[:25]}... ({pub_date})")
                 
                 success = False
                 for attempt in range(2):
@@ -67,29 +98,8 @@ def scrape():
                         page.goto(article_url, wait_until="domcontentloaded", timeout=25000)
                         page.wait_for_timeout(3000)
                         
-                        # 🌟 核心防禦：偵測內頁是否嵌有 YouTube 影片，有的話直接跳過！
-                        has_youtube_iframe = page.evaluate("""
-                            () => document.querySelectorAll('iframe[src*="youtube"]').length > 0
-                        """)
-                        if has_youtube_iframe:
-                            print("    ⏭️ 偵測到 YouTube 影片內容，自動跳過本篇。")
-                            success = True  # 標記為成功處理 (跳過)，不須重試
-                            break
-                        
-                        # 1. 抓取 Next.js 裡的精準日期
-                        raw_data = page.evaluate("() => document.getElementById('__NEXT_DATA__') ? document.getElementById('__NEXT_DATA__').innerText : ''")
-                        final_date = datetime.now().strftime("%Y-%m-%d")
-                        if raw_data:
-                            date_match = re.search(r'"PublishedDate":"(\d{4}-\d{2}-\d{2})', raw_data)
-                            if date_match: final_date = date_match.group(1)
+                        safe_title = re.sub(r'[\\/*?:"<>|]', "_", f"{title} ({pub_date})").strip()
 
-                        # 2. 抓取標題
-                        raw_title = page.title().split('|')[0].strip()
-                        safe_title = re.sub(r'[\\/*?:"<>|]', "_", f"{raw_title} ({final_date})").strip()
-                        
-                        print(f"    🔎 尋找 Download PDF: {raw_title[:25]}...")
-
-                        # 3. JS 暴力點擊：直接對著 data-testid 下手
                         try:
                             with page.expect_download(timeout=10000) as download_info:
                                 clicked = page.evaluate("""
@@ -114,12 +124,12 @@ def scrape():
                             
                             reports.append({
                                 "Source": "DBS",
-                                "Date": final_date,
-                                "Name": f"{raw_title} ({final_date})",
+                                "Date": pub_date,
+                                "Name": f"{title} ({pub_date})",
                                 "Link": article_url,
                                 "Type": "PDF"
                             })
-                            print(f"      ✅ [下載成功] {final_date}")
+                            print(f"      ✅ [下載成功] {pub_date}")
                             success = True
                             break 
                             
