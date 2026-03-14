@@ -1,6 +1,7 @@
 import os
 import re
 import json
+import requests
 from playwright.sync_api import sync_playwright
 from playwright_stealth import Stealth
 from datetime import datetime
@@ -102,7 +103,8 @@ def scrape():
                     if not rel_path or not title:
                         continue
 
-                    article_url = f"{base_url}/personal/aics/{rel_path}"
+                    # ✅ 修正：正確的 URL 要包含 /archive/
+                    article_url = f"{base_url}/personal/aics/archive/{rel_path}"
 
                     if article_url in seen_links:
                         continue
@@ -114,7 +116,11 @@ def scrape():
                 except Exception as e:
                     print(f"    ⚠️ 解析單篇文章失敗: {e}")
 
-            print(f"\n  📋 共 {len(valid_articles)} 篇，開始點擊 Download PDF...\n")
+            print(f"\n  📋 共 {len(valid_articles)} 篇，開始進入內頁抓取 PDF 連結...\n")
+
+            session_headers = {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+            }
 
             for title, article_url, pub_date in valid_articles:
                 print(f"    🔎 [{pub_date}] {title[:45]}...")
@@ -125,56 +131,66 @@ def scrape():
                         page.goto(article_url, wait_until="domcontentloaded", timeout=25000)
                         page.wait_for_timeout(3000)
 
+                        # ✅ 從頁面 HTML 中找出真實的 PDF 下載連結
+                        # 文章頁面的 PDF 連結格式：
+                        #   https://www.dbs.com.sg/wrapperapi/generic/download-pdf?pdf_path=content/article/pdf/...
+                        pdf_url = page.evaluate("""
+                            () => {
+                                // 找所有 <a> 連結
+                                let links = [...document.querySelectorAll('a[href]')];
+
+                                // 優先：找 dbs.com.sg/wrapperapi 的 PDF 連結
+                                let wrapper = links.find(a =>
+                                    a.href.includes('wrapperapi') && a.href.includes('download-pdf')
+                                );
+                                if (wrapper) return wrapper.href;
+
+                                // 備援：找任何 href 直接是 .pdf 的連結
+                                let direct = links.find(a =>
+                                    a.href.toLowerCase().endsWith('.pdf')
+                                );
+                                if (direct) return direct.href;
+
+                                return null;
+                            }
+                        """)
+
+                        if not pdf_url:
+                            print(f"      ⚠️  頁面找不到 PDF 連結，略過")
+                            success = True
+                            break
+
+                        print(f"      🔗 PDF 連結: {pdf_url[:80]}")
+
+                        # ✅ 用 requests 直接下載 PDF（不靠瀏覽器點擊）
                         safe_title = re.sub(r'[\\/*?:"<>|]', "_", f"{title} ({pub_date})").strip()
+                        save_path = os.path.join(download_path, f"{safe_title}.pdf")
 
-                        # ✅ 點擊頁面上的 Download PDF 按鈕，由瀏覽器觸發下載
-                        try:
-                            with page.expect_download(timeout=15000) as download_info:
-                                clicked = page.evaluate("""
-                                    () => {
-                                        // 優先找 data-testid="download"
-                                        let btn = document.querySelector('[data-testid="download"]');
-                                        if (btn) { btn.click(); return true; }
+                        cookies = {c['name']: c['value'] for c in context.cookies()}
+                        resp = requests.get(pdf_url, headers=session_headers, cookies=cookies, timeout=30, stream=True)
 
-                                        // 備援：找文字含 download 的按鈕或連結
-                                        let all = [...document.querySelectorAll('a, button')];
-                                        let found = all.find(el =>
-                                            el.innerText.toLowerCase().includes('download pdf') ||
-                                            el.innerText.toLowerCase().includes('download')
-                                        );
-                                        if (found) { found.click(); return true; }
-
-                                        return false;
-                                    }
-                                """)
-
-                            if not clicked:
-                                print(f"      ⚠️  找不到 Download PDF 按鈕，略過")
-                                success = True
-                                break
-
-                            download = download_info.value
-                            save_path = os.path.join(download_path, f"{safe_title}.pdf")
-                            download.save_as(save_path)
+                        if resp.status_code == 200 and 'pdf' in resp.headers.get('Content-Type', '').lower():
+                            with open(save_path, 'wb') as f:
+                                for chunk in resp.iter_content(chunk_size=8192):
+                                    f.write(chunk)
 
                             reports.append({
                                 "Source": "DBS",
                                 "Date": pub_date,
                                 "Name": title,
                                 "Link": article_url,
+                                "PDF_URL": pdf_url,
                                 "Type": "PDF"
                             })
                             print(f"      ✅ 下載成功 → {safe_title}.pdf")
-                            success = True
-                            break
+                        else:
+                            print(f"      ❌ PDF 下載失敗 (HTTP {resp.status_code}, Content-Type: {resp.headers.get('Content-Type', '?')})")
 
-                        except Exception as de:
-                            print(f"      ❌ 下載失敗: {str(de)[:60]}")
-                            success = True
-                            break
+                        success = True
+                        break
 
                     except Exception as e:
-                        print(f"    ⚠️ 內頁載入失敗 (第 {attempt+1} 次): {str(e)[:50]}")
+                        print(f"    ⚠️ 內頁載入失敗 (第 {attempt+1} 次): {str(e)[:60]}")
                         page.wait_for_timeout(1500)
 
                 if not success:
