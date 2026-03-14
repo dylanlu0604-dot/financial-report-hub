@@ -36,7 +36,7 @@ def scrape():
                 
                 try:
                     page.goto(target_url, wait_until="domcontentloaded", timeout=45000)
-                    page.wait_for_timeout(3000)
+                    page.wait_for_timeout(5000)
                 except Exception as e:
                     print(f"    ⚠️ 目錄載入超時: {str(e)[:30]}")
                     continue
@@ -66,7 +66,7 @@ def scrape():
                         try:
                             # 🌟 改為 domcontentloaded，避免被追蹤腳本卡死
                             page.goto(article_url, wait_until="domcontentloaded", timeout=25000)
-                            page.wait_for_timeout(2000) # 給 React 渲染時間
+                            page.wait_for_timeout(3000) # 給 React 渲染時間
                             
                             # 1. 抓取 Next.js 裡的精準日期
                             raw_data = page.evaluate("() => document.getElementById('__NEXT_DATA__') ? document.getElementById('__NEXT_DATA__').innerText : ''")
