@@ -3,6 +3,7 @@ import re
 import json
 import time
 import requests
+import urllib.parse as urlparse
 from playwright.sync_api import sync_playwright
 from playwright_stealth import Stealth
 from datetime import datetime
@@ -21,9 +22,11 @@ def parse_hits(hits, base_url, seen_links):
             rel_path = results.get("RelativeDCRPath", "").strip()
             fmt      = results.get("Format", "").lower()
 
+            # 排除 YouTube
             video_url = search.get("VideoDetails", {}).get("VideoURL", "")
             if "youtube" in video_url.lower():
                 continue
+            # 排除 video 格式
             if fmt == "video":
                 continue
             if not rel_path or not title:
@@ -35,7 +38,9 @@ def parse_hits(hits, base_url, seen_links):
             except Exception:
                 pub_date = raw_date[:10] if raw_date else "unknown"
 
+            # ✅ 正確 URL：/personal/aics/archive/{RelativeDCRPath}
             article_url = f"{base_url}/personal/aics/archive/{rel_path}"
+
             if article_url in seen_links:
                 continue
             seen_links.add(article_url)
@@ -47,7 +52,7 @@ def parse_hits(hits, base_url, seen_links):
 
 def scrape():
     print("🔍 正在爬取 DBS (星展銀行) - API 攔截全量模式...")
-    reports   = []
+    reports    = []
     seen_links = set()
     download_path = os.path.abspath("all report pdf")
     os.makedirs(download_path, exist_ok=True)
@@ -66,13 +71,12 @@ def scrape():
             Stealth().apply_stealth_sync(page)
 
             # ==========================================
-            # STEP 1: 載入首頁，同時攔截 API 請求
+            # STEP 1: 載入首頁，攔截分頁 API
             # ==========================================
             captured_api = {"url": None, "headers": {}}
 
             def on_request(request):
                 url = request.url
-                # 攔截分頁 API（article service）
                 if "twarticlesvc" in url and captured_api["url"] is None:
                     captured_api["url"] = url
                     captured_api["headers"] = dict(request.headers)
@@ -87,7 +91,6 @@ def scrape():
             except Exception as e:
                 print(f"    ⚠️ 首頁載入: {str(e)[:50]}")
 
-            # 取 __NEXT_DATA__
             raw_json = page.evaluate(
                 "() => document.getElementById('__NEXT_DATA__') ? "
                 "document.getElementById('__NEXT_DATA__').innerText : ''"
@@ -118,19 +121,15 @@ def scrape():
                 print(f"    📄 [{d}] {t[:60]}")
 
             # ==========================================
-            # STEP 2: 用攔截到的 API URL 直接循環取所有分頁
+            # STEP 2: 循環打 API 取得全部分頁
             # ==========================================
             api_base_url = captured_api["url"]
             api_headers  = captured_api["headers"]
 
             if api_base_url and article_api:
-                # 從攔截 URL 解析出 base，去掉 page= 參數
-                # 格式通常是: https://ialb.../archive?segment=personal&page=0&size=10&...
-                import urllib.parse as urlparse
-
-                parsed   = urlparse.urlparse(api_base_url)
-                params   = dict(urlparse.parse_qsl(parsed.query))
-                size     = int(params.get("size", 10))
+                parsed     = urlparse.urlparse(api_base_url)
+                params     = dict(urlparse.parse_qsl(parsed.query))
+                size       = int(params.get("size", 10))
                 total_pages = (total + size - 1) // size
 
                 print(f"\n  🔄 共 {total_pages} 頁，每頁 {size} 筆，開始逐頁抓取...")
@@ -141,7 +140,6 @@ def scrape():
                     "Referer":    "https://www.dbs.com.tw/",
                     "Origin":     "https://www.dbs.com.tw",
                 })
-                # 把攔截的 headers 也帶上（含 cookie 等）
                 for k, v in api_headers.items():
                     if k.lower() in ("authorization", "x-requested-with", "accept", "cookie"):
                         session.headers[k] = v
@@ -154,13 +152,12 @@ def scrape():
                     try:
                         resp = session.get(api_url, timeout=20)
                         if resp.status_code != 200:
-                            print(f"    ⚠️ 第 {page_num} 頁 API 失敗: HTTP {resp.status_code}")
+                            print(f"    ⚠️ 第 {page_num} 頁失敗: HTTP {resp.status_code}")
                             continue
 
                         body = resp.json()
-                        hits = body.get("hits", body.get("data", {}).get("hits", []))
+                        hits = body.get("hits", [])
                         if not hits:
-                            # 嘗試更深層
                             hits = find_key(body, "hits") or []
 
                         new = parse_hits(hits, base_url, seen_links)
@@ -172,7 +169,6 @@ def scrape():
 
                     except Exception as e:
                         print(f"    ❌ 第 {page_num} 頁失敗: {e}")
-
             else:
                 print("  ⚠️ 未攔截到分頁 API，只能用首批 10 筆")
 
@@ -187,14 +183,29 @@ def scrape():
             }
 
             for title, article_url, pub_date in all_articles:
+                safe_title    = re.sub(r'[\\/*?:"<>|]', "_", f"{title} ({pub_date})").strip()
+                local_filename = f"{safe_title}.pdf"
+                local_filepath = os.path.join(download_path, local_filename)
+
                 print(f"    🔎 [{pub_date}] {title[:50]}...")
+
+                # ✅ 已存在就直接記錄，完全不碰網頁轉 PDF
+                if os.path.exists(local_filepath):
+                    print(f"      ✅ 已存在，跳過下載")
+                    reports.append({
+                        "Source":    "DBS",
+                        "Date":      pub_date,
+                        "Name":      f"{title} ({pub_date})",
+                        "Link":      article_url,
+                        "Type":      "PDF",          # ✅ 告訴 main.py 這是 PDF，不要網頁轉檔
+                        "LocalPath": local_filepath, # ✅ 告訴 main.py 檔案在哪，直接跳過下載
+                    })
+                    continue
 
                 for attempt in range(2):
                     try:
                         page.goto(article_url, wait_until="domcontentloaded", timeout=25000)
                         page.wait_for_timeout(3000)
-
-                        safe_title = re.sub(r'[\\/*?:"<>|]', "_", f"{title} ({pub_date})").strip()
 
                         pdf_url = page.evaluate("""
                             () => {
@@ -207,7 +218,7 @@ def scrape():
                                 );
                                 if (w) return w.href;
 
-                                // 備援：直接 .pdf 連結（排除 footer 無關 PDF）
+                                // 備援：文章專屬 PDF（排除 footer 無關連結）
                                 let d = links.find(a =>
                                     a.href.toLowerCase().endsWith('.pdf') &&
                                     (a.href.includes('/pdf/AIO/') || a.href.includes('/article/pdf/'))
@@ -233,8 +244,6 @@ def scrape():
                             stream=True
                         )
 
-                        content_type = resp.headers.get("Content-Type", "")
-                        # ✅ 修正：octet-stream 也接受，只要內容是 PDF（%PDF 開頭）
                         if resp.status_code == 200:
                             first_bytes = b""
                             chunks = []
@@ -244,26 +253,27 @@ def scrape():
                                 chunks.append(chunk)
 
                             is_pdf = (
-                                "pdf" in content_type.lower() or
+                                "pdf" in resp.headers.get("Content-Type", "").lower() or
                                 first_bytes.startswith(b"%PDF")
                             )
 
                             if is_pdf:
-                                save_path = os.path.join(download_path, f"{safe_title}.pdf")
-                                with open(save_path, "wb") as f:
+                                with open(local_filepath, "wb") as f:
                                     for chunk in chunks:
                                         f.write(chunk)
+
+                                # ✅ Type="PDF" + LocalPath → main.py 會直接跳過，不會網頁轉 PDF
                                 reports.append({
-                                    "Source":   "DBS",
-                                    "Date":     pub_date,
-                                    "Name":     title,
-                                    "Link":     article_url,
-                                    "PDF_URL":  pdf_url,
-                                    "Type":     "PDF"
+                                    "Source":    "DBS",
+                                    "Date":      pub_date,
+                                    "Name":      f"{title} ({pub_date})",
+                                    "Link":      article_url,
+                                    "Type":      "PDF",
+                                    "LocalPath": local_filepath,
                                 })
-                                print(f"      ✅ 下載成功 → {safe_title}.pdf")
+                                print(f"      ✅ 下載成功 → {local_filename}")
                             else:
-                                print(f"      ❌ 不是 PDF (Content-Type: {content_type}, 開頭: {first_bytes})")
+                                print(f"      ❌ 非 PDF (開頭: {first_bytes})")
                         else:
                             print(f"      ❌ HTTP {resp.status_code}")
                         break
