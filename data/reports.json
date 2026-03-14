@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "Source": "DBS",
+    "Date": "2026-03-05",
+    "Name": "Taiwan: Navigating oil price shocks (2026-03-05)",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Taiwan_%20Navigating%20oil%20price%20shocks%20%282026-03-05%29.pdf",
+    "Type": "PDF",
+    "PageCount": 5,
+    "OriginalLink": "https://www.dbs.com.tw/personal/aics/archive/templatedata/article/generic/data/en/GR/032026/260305_insights_taiwan.xml",
+    "LocalPath": "all report pdf/Taiwan_ Navigating oil price shocks (2026-03-05).pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "DBS",
+    "Date": "2026-02-19",
+    "Name": "Thailand chartbook: Firmer 4Q25 growth, Cautious outlook (2026-02-19)",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Thailand%20chartbook_%20Firmer%204Q25%20growth%2C%20Cautious%20outlook%20%282026-02-19%29.pdf",
+    "Type": "PDF",
+    "PageCount": 8,
+    "OriginalLink": "https://www.dbs.com.tw/personal/aics/archive/templatedata/article/generic/data/en/GR/022026/260219_insights_chartbook_thailand.xml",
+    "LocalPath": "all report pdf/Thailand chartbook_ Firmer 4Q25 growth, Cautious outlook (2026-02-19).pdf",
+    "Summary": "未執行 AI 摘要"
+  }
+]
