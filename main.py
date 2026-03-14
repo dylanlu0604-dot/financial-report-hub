@@ -97,9 +97,9 @@ def main():
         if "Top of Mind" in report.get('Name', ''):
             days_limit = 90  # 高盛 Top of Mind 放寬到近 90 天
         elif report.get('Source', '').startswith('中央銀行'):
-            days_limit = 200  # 央行一季開一次會，放寬到一年
+            days_limit = 180  # 央行一季開一次會，放寬到一年
         else:
-            days_limit = 30  # 其他所有銀行的報告維持近 30 天
+            days_limit = 25  # 其他所有銀行的報告維持近 30 天
             
         if report.get('Date') == "未知日期" or not report.get('Date') or (dt_obj and (datetime.now() - dt_obj).days <= days_limit):
             unique_reports.append(report)
