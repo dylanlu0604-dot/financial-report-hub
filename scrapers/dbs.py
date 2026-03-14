@@ -47,7 +47,7 @@ def parse_hits(hits, base_url, seen_links):
 
 
 def scrape():
-    print("🔍 正在爬取 DBS (星展銀行) - Response 攔截全量模式...")
+    print("🔍 正在爬取 DBS (星展銀行)...")
     reports    = []
     seen_links = set()
     download_path = os.path.abspath("all report pdf")
@@ -55,30 +55,6 @@ def scrape():
 
     target_url = "https://www.dbs.com.tw/personal/aics/archive/index.page"
     base_url   = "https://www.dbs.com.tw"
-
-    # ==========================================
-    # 先掃描已存在的 DBS PDF，保底不讓舊報告消失
-    # ==========================================
-    existing_reports = {}
-    dbs_pattern = re.compile(r"^(.+) \((\d{4}-\d{2}-\d{2})\)\.pdf$")
-    for fname in os.listdir(download_path):
-        if not fname.endswith(".pdf"):
-            continue
-        fpath = os.path.join(download_path, fname)
-        m = dbs_pattern.match(fname)
-        if m:
-            title_part = m.group(1)
-            date_part  = m.group(2)
-            existing_reports[fname] = {
-                "Source":    "DBS",
-                "Date":      date_part,
-                "Name":      f"{title_part} ({date_part})",
-                "Link":      f"{base_url}/personal/aics/archive/",
-                "Type":      "PDF",
-                "LocalPath": fpath,
-            }
-    print(f"  📂 已存在 {len(existing_reports)} 個 DBS PDF（保底加入）")
-    reports.extend(existing_reports.values())
 
     try:
         with sync_playwright() as p:
@@ -91,55 +67,57 @@ def scrape():
             Stealth().apply_stealth_sync(page)
 
             # ==========================================
-            # STEP 1: 攔截 response（不是 request）
-            # 這樣可以直接拿到 API 回傳的 JSON 資料
+            # 用 route 攔截：讓請求繼續發出，同時記錄 URL
             # ==========================================
-            api_template   = {"url": None, "headers": {}}
-            all_hits_found = []   # 從 response 直接收集到的 hits
+            captured = {"url": None, "headers": {}, "body_hits": []}
 
-            def on_response(response):
+            def handle_route(route):
+                url = route.request.url
+                if "twarticlesvc" in url:
+                    if captured["url"] is None:
+                        captured["url"]     = url
+                        captured["headers"] = dict(route.request.headers)
+                        print(f"  🎯 攔截到 API URL: {url}")
+                    # 繼續讓請求正常發出
+                    route.continue_()
+                else:
+                    route.continue_()
+
+            # 同時也攔截 response 拿 body
+            def handle_response(response):
                 url = response.url
                 if "twarticlesvc" not in url:
                     return
                 try:
                     body = response.json()
-                    # 找 hits
                     hits = body.get("hits", [])
                     if not hits:
-                        # 嘗試更深層
-                        def find_hits_in(obj):
+                        def find_hits_deep(obj):
                             if isinstance(obj, dict):
-                                if "hits" in obj and isinstance(obj["hits"], list):
+                                if "hits" in obj and isinstance(obj["hits"], list) and obj["hits"]:
                                     return obj["hits"]
                                 for v in obj.values():
-                                    r = find_hits_in(v)
+                                    r = find_hits_deep(v)
                                     if r: return r
                             elif isinstance(obj, list):
                                 for i in obj:
-                                    r = find_hits_in(i)
+                                    r = find_hits_deep(i)
                                     if r: return r
                             return []
-                        hits = find_hits_in(body)
+                        hits = find_hits_deep(body)
 
                     if hits:
-                        all_hits_found.extend(hits)
-                        print(f"  🎯 攔截 response: {url[:80]}")
-                        print(f"     → 拿到 {len(hits)} 筆 hits，累計 {len(all_hits_found)} 筆")
-
-                    # 記錄 URL 範本供後續分頁用
-                    if api_template["url"] is None:
-                        api_template["url"]     = url
-                        api_template["headers"] = dict(response.request.headers)
-
+                        captured["body_hits"].extend(hits)
+                        print(f"  📥 response 拿到 {len(hits)} 筆，累計 {len(captured['body_hits'])} 筆")
                 except Exception:
                     pass
 
-            # ✅ 在 goto 之前掛上 response 攔截
-            page.on("response", on_response)
+            page.route("**/*", handle_route)
+            page.on("response", handle_response)
 
             print("  🌐 載入 Archive 首頁...")
             try:
-                page.goto(target_url, wait_until="networkidle", timeout=45000)
+                page.goto(target_url, wait_until="networkidle", timeout=60000)
                 page.wait_for_timeout(3000)
             except Exception as e:
                 print(f"    ⚠️ 首頁載入: {str(e)[:50]}")
@@ -168,67 +146,33 @@ def scrape():
             initial = find_key(next_data, "fetchedInitialArticles") or {}
             total   = initial.get("total", {}).get("value", 0)
             print(f"  📊 總文章數: {total}")
+            print(f"  📡 API Base: {article_api}")
+            print(f"  🔗 攔截到的 API URL: {captured['url']}")
+            print(f"  📦 已從 response 收集: {len(captured['body_hits'])} 筆")
 
             # ==========================================
-            # STEP 2: 捲動讓瀏覽器自動打後續分頁 API
-            # 每次捲到底，等待 response 攔截器收到新資料
+            # 用攔截到的真實 URL 直接用 requests 打全部分頁
             # ==========================================
-            print(f"  🔄 開始捲動觸發分頁載入...")
-            prev_count   = len(all_hits_found)
-            no_new_count = 0
+            all_hits = list(captured["body_hits"])
 
-            while len(all_hits_found) < total:
-                page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
-                page.wait_for_timeout(2500)
-
-                # 嘗試點擊 Load More
-                try:
-                    btn = page.query_selector(
-                        "button:has-text('Load More'), button:has-text('Show More'), "
-                        "[data-testid='load-more'], .load-more, .loadmore"
-                    )
-                    if btn and btn.is_visible():
-                        btn.click()
-                        page.wait_for_timeout(2500)
-                        print(f"    🖱️  點擊 Load More")
-                except Exception:
-                    pass
-
-                curr_count = len(all_hits_found)
-                if curr_count > prev_count:
-                    print(f"    📥 累計 {curr_count}/{total} 筆")
-                    prev_count   = curr_count
-                    no_new_count = 0
-                else:
-                    no_new_count += 1
-                    if no_new_count >= 4:
-                        print(f"    ⏹️  連續 4 次無新資料，停止捲動")
-                        break
-
-            print(f"\n  📡 捲動結束，從 response 共收集到 {len(all_hits_found)} 筆 hits")
-
-            # ==========================================
-            # STEP 3: 若捲動仍不足，用 requests 直接打 API 補齊
-            # ==========================================
-            if len(all_hits_found) < total and api_template["url"]:
-                print(f"  🔧 捲動只拿到 {len(all_hits_found)}/{total}，改用 requests 補齊...")
-
-                parsed      = urlparse.urlparse(api_template["url"])
+            if captured["url"]:
+                parsed      = urlparse.urlparse(captured["url"])
                 params      = dict(urlparse.parse_qsl(parsed.query))
                 size        = int(params.get("size", 10))
                 total_pages = (total + size - 1) // size
+                got_pages   = len(all_hits) // size if size else 0
 
-                # 計算已拿到幾頁
-                got_pages   = len(all_hits_found) // size
+                print(f"\n  🔄 用 requests 補齊剩餘分頁（已有約 {got_pages} 頁，共 {total_pages} 頁）...")
 
                 session = requests.Session()
                 session.headers.update({
-                    "User-Agent": api_template["headers"].get("user-agent", "Mozilla/5.0"),
+                    "User-Agent": captured["headers"].get("user-agent", "Mozilla/5.0"),
                     "Referer":    "https://www.dbs.com.tw/",
                     "Origin":     "https://www.dbs.com.tw",
+                    "Accept":     "application/json",
                 })
-                for k, v in api_template["headers"].items():
-                    if k.lower() in ("authorization", "x-requested-with", "accept", "cookie"):
+                for k, v in captured["headers"].items():
+                    if k.lower() in ("cookie", "authorization", "x-requested-with"):
                         session.headers[k] = v
 
                 for page_num in range(got_pages, total_pages + 1):
@@ -239,48 +183,101 @@ def scrape():
                     try:
                         resp = session.get(api_url, timeout=20)
                         if resp.status_code != 200:
-                            print(f"    ⚠️ 第 {page_num} 頁失敗: HTTP {resp.status_code}")
+                            print(f"    ⚠️ 第 {page_num} 頁 HTTP {resp.status_code}")
                             continue
                         body = resp.json()
                         hits = body.get("hits", [])
                         if not hits:
                             hits = find_key(body, "hits") or []
-                        all_hits_found.extend(hits)
-                        print(f"    📥 補齊第 {page_num}/{total_pages} 頁，+{len(hits)} 筆，累計 {len(all_hits_found)}")
-                        time.sleep(0.5)
+                        all_hits.extend(hits)
+                        print(f"    📥 第 {page_num}/{total_pages} 頁 +{len(hits)} 筆，累計 {len(all_hits)}")
+                        time.sleep(0.3)
                     except Exception as e:
                         print(f"    ❌ 第 {page_num} 頁失敗: {e}")
 
+            elif article_api:
+                # 完全沒攔到：用 __NEXT_DATA__ 裡的 SSR hits 作為起點
+                # 並嘗試各種 endpoint 格式
+                print(f"\n  ⚠️ 完全沒攔到 API URL，嘗試自行組裝...")
+                first_hits = initial.get("hits", [])
+                all_hits.extend(first_hits)
+
+                size        = 10
+                total_pages = (total + size - 1) // size
+
+                candidate_endpoints = [
+                    f"{article_api}/archive",
+                    f"{article_api}/articles",
+                    f"{article_api}",
+                ]
+                candidate_params = [
+                    {"segment": "personal", "page": "0", "size": str(size)},
+                    {"segment": "personal", "page": "0", "size": str(size),
+                     "geography": "", "assetType": "", "sector": "",
+                     "publication": "", "contentType": "", "searchKeyword": ""},
+                ]
+
+                working = None
+                for ep in candidate_endpoints:
+                    for pm in candidate_params:
+                        test = f"{ep}?{urlparse.urlencode(pm)}"
+                        try:
+                            r = requests.get(test, headers={
+                                "User-Agent": "Mozilla/5.0",
+                                "Referer": "https://www.dbs.com.tw/",
+                                "Accept": "application/json",
+                            }, timeout=10)
+                            if r.status_code == 200:
+                                body = r.json()
+                                hits = find_key(body, "hits") or []
+                                if hits:
+                                    print(f"  ✅ 找到可用 endpoint: {test[:80]}")
+                                    working = (ep, pm.copy())
+                                    break
+                        except Exception:
+                            pass
+                    if working:
+                        break
+
+                if working:
+                    ep, pm = working
+                    for page_num in range(1, total_pages + 1):
+                        pm["page"] = str(page_num)
+                        api_url = f"{ep}?{urlparse.urlencode(pm)}"
+                        try:
+                            resp = requests.get(api_url, headers={
+                                "User-Agent": "Mozilla/5.0",
+                                "Referer": "https://www.dbs.com.tw/",
+                            }, timeout=20)
+                            body = resp.json()
+                            hits = find_key(body, "hits") or []
+                            all_hits.extend(hits)
+                            print(f"    📥 第 {page_num}/{total_pages} 頁 +{len(hits)} 筆，累計 {len(all_hits)}")
+                            time.sleep(0.3)
+                        except Exception as e:
+                            print(f"    ❌ 第 {page_num} 頁: {e}")
+                else:
+                    print("  ❌ 自行組裝失敗，只能用 SSR 首批資料")
+
             # ==========================================
-            # STEP 4: 解析所有 hits
+            # 解析所有 hits
             # ==========================================
-            all_articles = parse_hits(all_hits_found, base_url, seen_links)
+            all_articles = parse_hits(all_hits, base_url, seen_links)
             print(f"\n  📋 共解析出 {len(all_articles)} 篇有效文章，開始下載 PDF...\n")
 
             # ==========================================
-            # STEP 5: 進入每篇文章內頁，找 PDF 連結下載
+            # 進入每篇文章內頁，找 PDF 連結下載
             # ==========================================
             session_headers = {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
                 "Referer":    "https://www.dbs.com.tw/",
             }
 
-            # 已在保底 reports 裡的檔名
-            existing_fnames = set(existing_reports.keys())
-
             for title, article_url, pub_date in all_articles:
                 safe_title     = re.sub(r'[\\/*?:"<>|]', "_", f"{title} ({pub_date})").strip()
                 local_filename = f"{safe_title}.pdf"
                 local_filepath = os.path.join(download_path, local_filename)
 
-                # 已在保底清單裡，更新 Link 為真實 URL 後跳過
-                if local_filename in existing_fnames:
-                    for r in reports:
-                        if r.get("LocalPath") == local_filepath:
-                            r["Link"] = article_url
-                    continue
-
-                # 已下載但不在保底清單（本次新爬到的舊檔）
                 if os.path.exists(local_filepath):
                     print(f"    ✅ [{pub_date}] 已存在: {title[:50]}")
                     reports.append({
@@ -372,16 +369,6 @@ def scrape():
 
     except Exception as e:
         print(f"  ❌ 爬取總體異常: {e}")
-
-    # 去重（同 LocalPath 只保留一筆）
-    seen_paths = set()
-    deduped    = []
-    for r in reports:
-        key = r.get("LocalPath", r.get("Link", ""))
-        if key not in seen_paths:
-            seen_paths.add(key)
-            deduped.append(r)
-    reports = deduped
 
     print(f"\n✅ 爬取完畢，共回傳 {len(reports)} 份報告。")
     return reports
