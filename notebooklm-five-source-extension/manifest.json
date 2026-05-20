@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "NotebookLM 5-Source Report Importer",
+  "version": "1.0.0",
+  "description": "一鍵建立 NotebookLM 筆記本並匯入固定 5 個報告 HTML 來源。",
+  "permissions": ["tabs", "scripting", "storage"],
+  "host_permissions": [
+    "https://notebooklm.google.com/*",
+    "https://raw.githubusercontent.com/*"
+  ],
+  "action": {
+    "default_title": "建立近30天報告集"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://notebooklm.google.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
