@@ -109,6 +109,69 @@ if (!window.__fiveSourceNotebookLmImporterLoaded) {
     return null;
   }
 
+  function scopedClickableElements(root) {
+    return Array.from(root.querySelectorAll([
+      "button",
+      "a",
+      "[role='button']",
+      "[role='link']",
+      "[role='menuitem']",
+      "[tabindex]:not([tabindex='-1'])"
+    ].join(","))).filter(isVisible);
+  }
+
+  function findClickableIn(root, texts, options = {}) {
+    const elements = scopedClickableElements(root).filter((el) => !options.exclude?.(el));
+    for (const text of texts) {
+      const exact = elements.find((el) => labelOf(el) === text);
+      if (exact) return exact;
+    }
+    for (const text of texts) {
+      const lower = text.toLowerCase();
+      const partial = elements.find((el) => labelOf(el).toLowerCase().includes(lower));
+      if (partial) return partial;
+    }
+    return null;
+  }
+
+  function listLabelsIn(root, limit = 60) {
+    const seen = new Set();
+    const labels = [];
+    for (const el of scopedClickableElements(root)) {
+      const label = labelOf(el);
+      if (!label || seen.has(label)) continue;
+      seen.add(label);
+      labels.push(label);
+      if (labels.length >= limit) break;
+    }
+    return labels;
+  }
+
+  function activeSourceDialog() {
+    const roots = Array.from(document.querySelectorAll([
+      "[role='dialog']",
+      "mat-dialog-container",
+      ".cdk-overlay-pane",
+      "[class*='dialog']",
+      "[class*='Dialog']",
+      "[class*='modal']",
+      "[class*='Modal']"
+    ].join(",")))
+      .filter((el) => isVisible(el) && el.id !== "five-source-nlm-status")
+      .filter((el) => /來源|source|網站|website|url|網址|YouTube|Drive|貼上|paste/i.test(norm(el.innerText || el.textContent || "")));
+    return roots.at(-1) || null;
+  }
+
+  function dialogOrDocument() {
+    return activeSourceDialog() || document;
+  }
+
+  function sourceRootForField(field) {
+    return activeSourceDialog() ||
+      field.closest?.("[role='dialog'], mat-dialog-container, .cdk-overlay-pane, [class*='dialog'], [class*='Dialog'], [class*='modal'], [class*='Modal']") ||
+      document;
+  }
+
   async function clickText(texts, description, timeoutMs = 20000) {
     const button = await waitFor(() => findClickable(texts), timeoutMs);
     if (!button) {
@@ -150,9 +213,8 @@ if (!window.__fiveSourceNotebookLmImporterLoaded) {
   }
 
   async function openAddSourceDialog() {
-    if (findUrlTextbox()) return;
-    const sourceChoiceVisible = findClickable(["網站", "Website", "網址", "YouTube", "貼上文字", "Paste text", "Copied text"]);
-    if (sourceChoiceVisible && /Google Drive|YouTube|Paste text|Copied text|貼上文字|網站|Website|網址/.test(visibleText())) return;
+    const currentRoot = activeSourceDialog();
+    if (currentRoot && (findUrlTextbox(currentRoot) || findClickableIn(currentRoot, ["網站", "Website", "網址", "YouTube", "貼上文字", "Paste text", "Copied text"]))) return;
     await clickText([
       "新增來源",
       "新增來源 +",
@@ -164,10 +226,11 @@ if (!window.__fiveSourceNotebookLmImporterLoaded) {
   }
 
   async function selectWebsiteSource() {
-    const existingTextbox = findUrlTextbox();
+    let root = dialogOrDocument();
+    const existingTextbox = findUrlTextbox(root);
     if (existingTextbox) return existingTextbox;
 
-    const website = findClickable([
+    const website = findClickableIn(root, [
       "網站",
       "網站連結",
       "網址",
@@ -183,16 +246,19 @@ if (!window.__fiveSourceNotebookLmImporterLoaded) {
       await sleep(800);
     }
 
-    const textbox = await waitFor(findUrlTextbox, 15000);
+    const textbox = await waitFor(() => {
+      root = dialogOrDocument();
+      return findUrlTextbox(root);
+    }, 15000);
     if (!textbox) {
-      progress(`找不到 URL 輸入欄。頁面可點文字：${listClickableLabels().join(" | ")}`, "warn");
+      progress(`找不到 URL 輸入欄。對話框可點文字：${listLabelsIn(root).join(" | ")}`, "warn");
       throw new Error("找不到 URL 輸入欄");
     }
     return textbox;
   }
 
-  function findUrlTextbox() {
-    const fields = Array.from(document.querySelectorAll("input, textarea, [contenteditable='true'], [role='textbox']"))
+  function findUrlTextbox(root = document) {
+    const fields = Array.from(root.querySelectorAll("input, textarea, [contenteditable='true'], [role='textbox']"))
       .filter(isVisible);
 
     const urlLike = fields.find((field) => {
@@ -233,21 +299,33 @@ if (!window.__fiveSourceNotebookLmImporterLoaded) {
   async function submitSourceUrl(url) {
     await openAddSourceDialog();
     const textbox = await selectWebsiteSource();
+    const dialog = activeSourceDialog();
     progress(`填入 URL：${url}`);
     setFieldValue(textbox, url);
-    await sleep(500);
+    await sleep(900);
 
-    const submit = await waitFor(() => findClickable([
-      "插入",
-      "新增",
-      "新增來源",
-      "匯入",
-      "Import",
-      "Insert",
-      "Add",
-      "Submit",
-      "Add source"
-    ]), 15000);
+    const root = dialog || sourceRootForField(textbox);
+    const submit = await waitFor(() => {
+      const currentRoot = activeSourceDialog() || sourceRootForField(textbox);
+      return findClickableIn(currentRoot, [
+        "插入",
+        "Insert",
+        "匯入",
+        "Import",
+        "新增來源",
+        "Add source",
+        "新增",
+        "Add",
+        "Submit"
+      ], {
+        exclude: (el) => {
+          const label = labelOf(el).toLowerCase();
+          return el.disabled ||
+            el.getAttribute("aria-disabled") === "true" ||
+            (currentRoot === document && (label.includes("新增來源") || label.includes("add source")));
+        }
+      });
+    }, 15000);
 
     if (submit) {
       progress(`送出來源：${labelOf(submit)}`);
@@ -257,7 +335,25 @@ if (!window.__fiveSourceNotebookLmImporterLoaded) {
       textbox.dispatchEvent(new KeyboardEvent("keydown", { key: "Enter", code: "Enter", keyCode: 13, bubbles: true }));
     }
 
-    await sleep(2500);
+    const submitted = await waitFor(() => {
+      const stillSameDialog = dialog && isVisible(dialog);
+      const bodyText = visibleText();
+      if (/無法|失敗|錯誤|invalid|failed|error|too long|字數|來源過長/i.test(bodyText)) return "error";
+      if (!stillSameDialog) return "closed";
+      const currentValue = "value" in textbox ? textbox.value : textbox.textContent;
+      if (!norm(currentValue).includes(url.slice(0, 40))) return "cleared";
+      return null;
+    }, 20000, 500);
+
+    if (submitted === "error") {
+      throw new Error("NotebookLM 顯示來源匯入錯誤，請看頁面上的錯誤訊息");
+    }
+    if (!submitted) {
+      progress("送出後對話框沒有關閉，可能沒有真正匯入。", "warn");
+      throw new Error("URL 送出未完成");
+    }
+
+    await sleep(1500);
   }
 
   async function importUrls(urls) {
