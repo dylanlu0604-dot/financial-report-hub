@@ -1,11 +1,11 @@
 const NOTEBOOKLM_URL = "https://notebooklm.google.com/";
 
 const SOURCE_URLS = [
-  "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/refs/heads/main/merged_plain_text_html/source1.txt",
-  "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/refs/heads/main/merged_plain_text_html/source2.txt",
-  "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/refs/heads/main/merged_plain_text_html/source3.txt",
-  "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/refs/heads/main/merged_plain_text_html/source4.txt",
-  "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/refs/heads/main/merged_plain_text_html/source5.txt"
+  "https://cdn.jsdelivr.net/gh/dylanlu0604-dot/financial-report-hub@main/merged_plain_text_html/source1.txt",
+  "https://cdn.jsdelivr.net/gh/dylanlu0604-dot/financial-report-hub@main/merged_plain_text_html/source2.txt",
+  "https://cdn.jsdelivr.net/gh/dylanlu0604-dot/financial-report-hub@main/merged_plain_text_html/source3.txt",
+  "https://cdn.jsdelivr.net/gh/dylanlu0604-dot/financial-report-hub@main/merged_plain_text_html/source4.txt",
+  "https://cdn.jsdelivr.net/gh/dylanlu0604-dot/financial-report-hub@main/merged_plain_text_html/source5.txt"
 ];
 
 const FIRST_QUESTION = `步驟 1（只產生 85 個主題）

@@ -14,8 +14,8 @@ OUT_DIR = Path("merged_plain_text_html")
 SOURCE_COUNT = 5
 BOILERPLATE_THRESHOLD = 0.30
 RAW_URL_BASE = (
-    "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/"
-    "refs/heads/main/merged_plain_text_html"
+    "https://cdn.jsdelivr.net/gh/dylanlu0604-dot/financial-report-hub"
+    "@main/merged_plain_text_html"
 )
 
 
