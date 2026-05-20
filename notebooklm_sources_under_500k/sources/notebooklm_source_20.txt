@@ -1,0 +1,2497 @@
+# 027_Merrill_Lynch_(CMO)_Merged
+
+===== Page 1 =====
+
+CHIEF INVESTMENT OFFICE
+Capital Market Outlook
+
+
+===== Page 2 =====
+
+2 of 8 May 18, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+MACRO STRATEGY
+Expansion likely to continue despite inflation flareup
+Chief Investment Office, Macro Strategy Team
+Incoming economic data have supported our expectations for resilient U.S. growth in the
+face of various headwinds. Liquidity conditions have improved meaningfully over the past
+year as a result of Fed interest rate cuts, the end of quantitative tightening, and easier
+bank lending standards (Exhibit 1A), helping stabilize economic activity and boosting risk
+
+appetite. Fiscal support has also played a role in stabilizing demand, and surging AI-
+related investment has lifted industrial-sector confidence, activity, and earnings.
+As a result, layoffs have remained low, job openings have stabilized (Exhibit 1B),
+and hiring has rebounded enough to keep unemployment stable near 4.3% in April.
+Encouragingly, low layoffs, strong profits, declining business credit default rates,
+improving business sentiment and tight credit spreads point to continued expansion.
+
+Though largely driven by a 60%-plus surge in oil prices as a result of Iran war-related
+supply disruptions, inflation has also flared up, however, raising concerns about growth
+and the direction of interest rates. Measured by the consumer price index (CPI), inflation
+rose at an 8% annualized monthly pace in April. Although less eye-catching, “core”
+inflation—excluding food and energy—has also accelerated significantly, posting a 4.6%
+annualized gain in April from 2.4% in March. Both measures remain above the Fed’s
+
+2% target, with year-over-year (YoY) headline inflation at a three-year high of 3.8% and
+“core” inflation at 2.7%.
+The inflation reacceleration, combined with signs of rebounding economic growth, has
+led markets to quickly price out Fed rate cuts this year. While a prolonged policy pause
+is anticipated before possible rate cuts later in 2027, chatter of Fed tightening has also
+intensified, especially following a sharper-than-expected producer price index increase in
+
+April that suggests growing wholesale inflation pressures.
+The pickup in consumer price inflation also reflects ongoing sharp increases in electricity
+prices (mainly related to surging AI-driven power demand); spillovers from the Iran
+war into broader goods and services prices; as well as upside import price pressures
+following a year of dollar depreciation. Still, inflation is generally expected to end the
+year at 2.7% to 3%, not far above its 2025 pace. Indeed, absent a further escalation
+
+of Hormuz-related supply disruptions, there are reasons to expect inflation to remain
+contained, allowing for an extended expansion.
+In a nutshell, energy shocks tend to generate broader and sustained inflation pressures
+if they are accommodated by loose monetary or fiscal policy. However, current
+conditions—soft hiring and moderate labor-income growth, easing shelter inflation
+underpinnings, and relatively anchored longer-term inflation expectations—suggest the
+
+risk of a wage-price spiral remains limited. The expansion still lacks the ingredients for
+sustained inflation: excessive credit creation, strong wage growth and broad excess
+demand. Moreover, strong productivity continues to mitigate inflation forces. Here are
+few details underpinning our view:
+• The recent inflation flareup reflects residual tariff pass-through and temporary
+demand support from large One Big Beautiful Bill Act (OBBBA)-related tax refunds.
+
+• The spike in shelter inflation was caused by one-off data distortions. With slow
+employment growth, multi-year-high rental vacancies, and cooling market rents (which
+typically led the shelter inflation index by several months), underlying shelter inflation
+is likely to remain on a downtrend in coming quarters.
+• Much of the recent inflation impulse remains supply- and cost-driven rather than
+excess-demand-driven. If wage growth and inflation expectations remain anchored, as
+
+currently observed, higher energy prices mainly act as a tax on consumers, reducing real
+purchasing power, constraining demand, and limiting second-round inflation effects.
+Investment Implications
+A prolonged moderate-growth, profit-
+rich expansion suggests continued
+narrow credit spreads and support for
+Equities, particularly sectors leveraged
+to AI investment, productivity gains and
+pricing power. Manufacturing upcycles
+also tend to be accompanied by
+
+Emerging Market outperformance and
+dollar depreciation.
+
+
+===== Page 3 =====
+
+3 of 8 May 18, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+• Jobs have mainly been created in lower-paying services sectors, keeping consumer
+spending highly uneven across the income distribution.
+• According to Fed data, bank lending standards have improved over the past year but
+remain cautious, inconsistent with excess credit growth and overheating demand
+(Exhibit 1A).
+• The Employment Cost Index, which historically has correlated well with inflation trends,
+
+points to limited wage-driven inflation pressures. Accelerating AI adoption and strong
+productivity growth further restrain unit labor costs, consistent with moderate inflation
+(Exhibit 1B).
+• Equity-market strength has been an important transmission channel of strong capital
+income into discretionary spending, particularly for higher-income retired baby
+boomers, who account for a disproportionate share of wealth and consumption.
+• While tariff reimbursements—estimated at about $160 billion this year—are providing
+
+a new liquidity impulse, the OBBBA tax cuts/refunds are largely offsetting higher
+gasoline and utility costs rather than generating substantial incremental demand.
+• Most importantly, anchored inflation expectations continue to broadly restrain
+speculative overinvestment in labor and capital. Businesses still appear to primarily
+invest in operational efficiency gains in support of profit margins, suggesting
+sustained downside pressures on labor-income growth.
+
+• With much of the AI investment also offset by related equipment imports, incoming
+indicators remain consistent with only moderate real GDP growth of about 2.2% this
+year. Given productivity growth of around 2% to 2.5% and scant labor-force growth, this
+implies growth near or somewhat below potential, which tends to keep inflation in check.
+All in all, growth, and especially corporate profits, have surprised to the upside this year.
+At the same time, surging AI-related capital expenditures, passthrough of higher energy
+
+costs into broader prices, and lingering tariff effects are also keeping inflation higher
+than anticipated this year. The resulting erosion of real incomes is likely to weigh on
+consumption, while the sharp rise in producer prices points to margin pressure for firms
+with limited pricing power, effectively acting as a drag on broader growth.
+As the Iran supply shock fades, the macroeconomic backdrop suggests an elongated
+moderate inflation, moderate growth expansion—driven by business investment, strong
+
+productivity, durable profits, and support from sustained government deficit spending.
+Absent a de-anchoring of inflation expectations or a sustained rise in real interest rates
+relative to growth, in our view the outlook remains supportive for risk assets.
+Exhibit 1: Incoming Data Consistent with Moderate Growth and Contained Underlying Inflation Pressures.
+A) Bank lending standards in moderate-growth territory. B) Strong productivity and moderate wage growth suggest benign inflation underpinnings.
+
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+2001 - Q4 2007 - Q4 2013 - Q4 2019 - Q4 2025 - Q4
+z-score Net % of banks tightening Commercial & Industrial lending standards for large and medium
+companies (z-score)
+Private Sector Jobs Opening Rate (year-to-year change, z-score*)
+easing lending
+standards
+stabilizing
+job
+openings
+z-score
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+1989 - Q2 1998 - Q2 2007 - Q2 2016 - Q2 2025 - Q2
+Unit Labor Costs (YoY % change, z-score)
+"Core" CPI Inﬂation (YoY %, lagging 3 quarters, z-score)
+
+*z-score = number of standard deviations from the average of a data set. Gray bars represent recessionary periods. Exhibit 1A) Sources: Bureau of Labor Statistics, Federal Reserve Board/
+Haver Analytics. Data as of May 13, 2026. Exhibit 1B) Source: Bureau of Labor Statistics/Haver Analytics. Data as of May 13, 2026.
+
+
+===== Page 4 =====
+
+4 of 8 May 18, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+MARKET VIEW
+Has Europe’s Equity Performance Peaked?
+Ehiwario Efeyini, Director and Senior Investment Strategist
+International Equity markets outpaced U.S. Equities by over 15 percentage points in 2025,
+their widest margin since the 2008 financial crisis. Europe led the major non-U.S. benchmarks
+last year as fiscal policy was loosened both at the EU level and under the incoming coalition
+
+government in Germany, and as value sectors outperformed. And Europe’s strength relative to
+the S&P 500 extended into the early part of 2026. But European markets have since given up
+their return advantage, particularly since the late-February onset of the conflict in the Middle
+East (Exhibit 2).
+Exhibit 2: European Equity Return Advantage Has Reversed in 2026.
+A) Europe led International Equity gains in 2025. B) But European markets have lagged in 2026.
+
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+Europe Emerging Markets Japan U.S.
+MSCI equity index returns*
+Total return (USD)
+2025
+90
+95
+100
+105
+110
+115
+120
+125
+Jan-26 Feb-26 Mar-26 Apr-26 May-26
+MSCI equity index returns*
+Total return (USD), January 1, 2026 = 100
+Europe U.S. Japan Emerging Markets
+Exhibit 2A and B) Source: Bloomberg. Data as of May 13, 2026. *U.S. market is S&P 500. Data would differ if a different time period was displayed. Short-term performance shown to illustrate
+
+more recent trends. Past performance is no guarantee of future results. Please refer to index definitions at the end of this report. It is not possible to invest directly in an index.
+Alongside the Asia-Pacific, household and industrial energy users in Europe are among the
+most globally exposed to the energy shock. And though Europe is less reliant than Asia on
+energy imports sourced directly from Persian Gulf, oil and gas account for a higher proportion
+
+of its total energy supply. As a share of primary energy consumption, Europe’s combined
+57% in oil (33%) and natural gas (24%) far exceeds the levels of 26% in China and 34% for
+the wider Asia-Pacific region in aggregate (which depends more heavily on coal). This leaves
+it highly vulnerable to an extended period of high prices. And the estimated €4 trillion spent
+on energy subsidies by European governments in response to the 2022 Russia-Ukraine
+conflict-driven price spike has left limited capacity for additional support, according to the
+
+International Energy Agency.
+Relative weakness in European equity markets has been compounded by the surge in
+technology stocks over recent weeks. Since the start of Q2, the rebound in global equity
+markets has been led by enablers of the data center investment boom, particularly
+semiconductors, foundry and semi-cap equipment as the cloud hyperscalers have sustained
+their capital spending plans. But across the major global benchmarks, Europe remains among
+
+the least exposed to these industry groups. As at the end of the first quarter just 12% of its
+market capitalization was in the Technology sector as a whole, compared to 33% in U.S. and
+40% in emerging Asia, according to MSCI.
+At the same time Europe’s exposure to China in two major segments of its Consumer
+Discretionary sector—autos and luxury goods—poses an additional constraint for its
+corporate earnings outlook, both in terms of competition and export demand. Germany
+
+remains the single largest global passenger car exporter by value. But intensifying
+competition from China’s automakers on price and specification has seen China overtake
+Germany in volume terms over recent years, becoming the leading unit exporter of passenger
+vehicles in 2024. Meanwhile China’s ongoing slump in property prices, alongside its lackluster
+labor market and weak consumer confidence remains a headwind for Europe’s personal
+luxury goods categories which have traditionally relied on Chinese demand as a key source of
+
+growth. And the emergence of competing domestic luxury brands within China itself has only
+added to these pressures.
+Investment Implications
+We remain tactically cautious on European
+Equities given their vulnerability to the energy
+shock, relative lack of exposure to growth
+in AI data center investment, competitive
+and demand pressures from China in key
+consumer sectors and a comparatively
+hawkish central bank monetary policy stance.
+We nonetheless see individual areas of
+
+potential strength along country, sector and
+industry lines within Europe and continue to
+favor a strategic allocation to the region.
+
+
+===== Page 5 =====
+
+5 of 8 May 18, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+The Middle East conflict has pushed inflation rates higher on a global basis. And just as in
+the U.S. where inflation continues to exceed the Fed target, headline inflation in the eurozone
+stands well above the European Central Bank’s (ECB) “below but close to 2%” target range
+at 3.0% for April. But there has been a marked divergence in approach to the energy shock
+between the major monetary authorities, and the policy stance of the ECB represents
+
+another hurdle for the local equity market. While the Fed maintains an easing bias, the ECB
+has adopted a more hawkish tone and is expected to hike rates in the near term, potentially
+at its next meeting in June. This would come as a further relative headwind for the earnings
+outlook in European markets. Slower trend growth in Europe has already led the EU share of
+global GDP to fall from 25.4% in 2008 to 17.6% in 2025 (Exhibit 3), while being surpassed by
+
+China in 2021. And these challenges could cause Europe’s nominal output (the fundamental
+basis for corporate earnings) to lose further ground to the U.S. and China over the period
+ahead.
+Exhibit 3: Europe’s Trend Growth Weakness Reflected in Shrinking Share of Global GDP.
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+00 02 04 06 08 10 12 14 16 18 20 22 24 26
+Share of global nominal GDP
+Global share by market
+European Union U.S. China
+Source: International Monetary Fund. Data as of 2025.
+
+Though we remain tactically cautious on European markets, we nonetheless see pockets
+of potential opportunity within the region. The shift in fiscal approach away from balanced
+budgets and toward a much less restrictive stance should be an ongoing source of support
+for the Industrials sector. The defense industry is likely to remain the biggest beneficiary
+as proceeds from the €800 billion ReArm Europe program are deployed, particularly given
+concerns over the diversion of U.S. military support toward the conflict in the Middle
+
+East. And the wider sector should also gain from additional funds pledged by the German
+government for spending on clean energy, transportation and digital infrastructure.
+On a country basis, the Netherlands is most exposed to the AI investment boom, with a
+leading manufacturer of advanced semi-cap equipment accounting for close to 50% of the
+local market. And as data centers pursue more flexible power generation to supplement
+energy supply from the grid, demand for German providers of on-site gas turbines should
+
+also increase.
+The ongoing disruptions to global energy supply and persistently high prices in oil and gas
+markets should remain a tailwind for the Norwegian market, which has been Europe’s top
+performer in 2026. But at the same time, we would expect to see more countries moving
+to strengthen their domestic energy security in the wake of the conflict. As global leaders
+in renewable energy equipment manufacturing, this should leave Danish wind power system
+
+developers well positioned. And in southern Europe, Greece is also likely to benefit from its
+growing role in European energy security. Through its shipping infrastructure for liquefied
+natural gas (LNG) transportation and regasification, Greece has become a key geographical
+entry point for LNG imports into the region. And index provider MSCI recently announced
+plans to upgrade the Greek market to developed status in 2027, largely on the basis of its
+
+progress on public sector debt repayments and bank re-privatizations since the 2010 euro
+crisis. Alongside our tactical caution on Europe, we therefore see individual areas of potential
+strength on country, sector and industry lines. And we continue to favor a strategic allocation
+to the region for its geographical diversification, greater exposure to value sectors, higher
+aggregate dividend yields and lower valuations.
+
+
+===== Page 6 =====
+
+6 of 8 May 18, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+THOUGHT OF THE WEEK
+Rethinking Summer Seasonality
+Kirsten Cabacungan, Vice President and Investment Strategist
+U.S. Equities appear better positioned heading into the summer than the traditional “Sell
+in May and go away” narrative would suggest. While seasonal patterns have historically
+pointed to softer returns between May and October, the data present a more nuanced
+picture. Since 1928, the S&P 500 has averaged a modest 2.5% return during this six-
+
+month period, compared to 5.2% from November through April (Exhibit 4A). However, the
+index was still higher roughly two-thirds of the time.
+More importantly, recent trends suggest that seasonality may be evolving. Over the past
+decade, May through July have delivered some of the strongest and most consistent
+returns of the year, with the S&P 500 finishing those months higher, roughly 91%, 82%,
+and 100% of the time, respectively (Exhibit 4B). The broader May–October period has
+
+also averaged a solid 6.3% return over the past 10 years. Notably, in the most recent
+12-month period, the traditional pattern reversed entirely, with the S&P 500 rising 22.8%
+from May through October compared to 5.4% in the subsequent November–April period.
+This shifting seasonal backdrop is reinforced by strong underlying momentum. The S&P
+500 gained 10.4% in April, marking the fourth-strongest April since 1928, behind 1933,
+1938 and 2020, and placing the month in the 98th percentile of all monthly returns.
+
+In each of the prior instances with stronger April performance, the S&P 500 rallied
+meaningfully through the remainder of the year, up 30.2% on average. More broadly, April
+gains above 5% have historically been associated with stronger than average summer
+returns, with the S&P 500 advancing 11.6% from May through October and finishing
+positively nearly 80% of the time.
+While the midterm election cycle may introduce volatility—historically associated with
+
+drawdowns averaging around 18%—forward returns have been resilient. The S&P 500
+has delivered positive returns in the 12 months following every midterm election since
+1938, with an average gain of 14.8% over that period.
+Taken together, evolving seasonality trends and strong early-year momentum support a
+constructive outlook for stocks. While episodic volatility, particularly in midterm election
+years, is possible, such pullbacks have historically presented opportunities rather than
+
+signaling a shift in trend. Against a backdrop of resilient earnings growth and ongoing
+structural AI tailwinds, we maintain a favorable view on U.S. Equities into the second half
+of the year.
+Exhibit 4: Equity Market Seasonality: Historical Pattern vs. Recent Trends.
+A) Summer seasonality has historically been softer. B) Recent trends challenge the ‘Sell in May’ narrative.
+Average 6-month Returns for the S&P 500 (1928 – Apr 2026)
+Sorted Strongest to Weakest
+
+6-month Period Average Return % of Time Positive
+Nov-Apr 5.2% 70.4%
+Mar-Aug 5.0% 70.4%
+Oct-Mar 4.6% 62.2%
+Dec-May 4.3% 66.0%
+Jul-Dec 4.2% 68.4%
+Feb-Jul 4.0% 68.4%
+Jan-Jun 3.8% 65.3%
+Aug-Jan 3.7% 66.3%
+Jun-Nov 3.6% 66.3%
+Apr-Sep 3.5% 66.3%
+Sep-Feb 3.1% 64.3%
+May-Oct 2.5% 66.3%
+1.0%
+- 0.1% - 0.4%
+1.9% 1.4% 1.5%
+3.2%
+0.3%
+- 1.5%
+1.4%
+3.8%
+- 0.1%
+58.3%
+41.7%
+50.0%
+75.0%
+90.9%
+81.8%
+100.0%
+54.5%
+45.5%
+54.5%
+90.9%
+54.5%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+
+90%
+100%
+-2%
+-1%
+0%
+1%
+2%
+3%
+4%
+5%
+6%
+7%
+8%
+Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
+Avg Returns (2015- Apr 2026) % Positive
+Average S&P 500 Price Returns % of Time Positive
+Exhibit 5A) Green represents strongest; red represents weakness. Source: Bloomberg. Average returns from 1928 through April 30, 2026. Data as of April 30, 2026. Exhibit 5B) Source:
+Bloomberg. Average returns from 2015 through April 30, 2026. Data as of April 30, 2026. Past performance is no guarantee of future results. Please refer to index definitions at the end
+
+of this report. It is not possible to invest directly in an index.
+Portfolio Positioning
+While volatility may persist in the near
+term, we remain constructive on the
+outlook and therefore maintain our U.S.
+Equity overweight. Robust earnings
+growth, improving breadth across
+sectors, and strong capital investment
+supporting the AI infrastructure build
+out help to reinforce our view. We would
+view any near-term market weakness as
+a potential buying opportunity.
+
+
+===== Page 7 =====
+
+7 of 8 May 18, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+MARKETS IN REVIEW
+Equities
+Total Return in USD (%)
+Current WTD MTD YTD
+DJIA  49,526.17 -0.1 -0.2 3.6
+NASDAQ  26,225.14 -0.1 5.4 13.1
+S&P 500  7,408.50 0.2 2.8 8.7
+S&P 400 Mid Cap  3,609.80 -2.4 -0.8 9.7
+Russell 2000  2,793.30 -2.3 -0.2 13.0
+MSCI World  4,741.61 -0.3 1.8 7.6
+MSCI EAFE  3,024.90 -1.6 -0.2 5.9
+MSCI Emerging Markets  1,668.17 -2.5 4.4 19.5
+Fixed Income†
+Total Return in USD (%)
+Current WTD MTD YTD
+Corporate & Government 4.71 -1.08 -0.73 -0.81
+Agencies 4.43 -0.66 -0.50 -0.12
+Municipals 3.77 -0.58 -0.37 0.59
+U.S. Investment-Grade Credit 4.81 -1.14 -0.78 -0.71
+International 5.27 -1.04 -0.52 -0.60
+High Yield 7.17 -0.49 -0.30 0.88
+90 Day Yield 3.66 3.68 3.66 3.63
+2 Year Yield 4.07 3.88 3.87 3.47
+10 Year Yield 4.59 4.35 4.37 4.17
+30 Year Yield 5.12 4.93 4.97 4.84
+Commodities & Currencies
+Commodities
+Total Return in USD (%)
+Current WTD MTD YTD
+Bloomberg Commodity 359.71 1.9 0.4 30.2
+WTI Crude $/Barrel†† 105.42 10.5 0.3 83.6
+Gold Spot $/Ounce†† 4540.08 -3.7 -1.7 5.1
+Currencies
+Total Return in USD (%)
+Current
+Prior 
+Week End
+Prior 
+Month End
+2025 
+Year End
+EUR/USD 1.16 1.18 1.17 1.17
+USD/JPY 158.74 156.68 156.59 156.71
+USD/CNH 6.81 6.80 6.83 6.98
+S&P Sector Returns
+-3.0%
+-2.5%
+-2.2%
+-1.9%
+-1.1%
+-0.8%
+-0.3%
+1.1%
+1.2%
+1.3%
+7.0%
+-4.0% -2.0% 0.0% 2.0% 4.0% 6.0% 8.0%
+Consumer Discretionary
+Real Estate
+Materials
+Utilities
+Industrials
+Communication Services
+Financials
+Healthcare
+Information Technology
+Consumer Staples
+Energy
+Sources: Bloomberg, Factset. Total Returns from the period of 
+05/04/2026 to 05/08/2026. †Bloomberg Barclays Indices. ††Spot 
+price returns. All data as of the 05/15/2026 close. Data would differ 
+if a different time period was displayed. Short-term performance 
+shown to illustrate more recent trend. Past performance is no 
+guarantee of future results. 
+Economic Forecasts (as of 5/15/2026)
+Q1 2026A Q2 2026E Q3 2026E Q4 2026E 2026E 2027E
+Real global GDP (% y/y annualized) - - - - 3.1 3.4
+Real U.S. GDP (% q/q annualized) 2.0 2.5 1.9 1.9 2.2 2.2
+CPI inflation (% y/y) 2.7 4.2 4.1 3.9 3.7 2.3
+Core CPI inflation (% y/y**) 2.5 2.8 2.7 2.9 2.7 2.6
+Unemployment rate (%) 4.3 4.5 4.5 4.4 4.4 4.3
+Fed funds rate, end period (%) 3.63 3.63 3.63 3.63 3.63 3.13
+The forecasts in the table above are the baseline view from BofA Global Research. The Global Wealth & Investment 
+Management (GWIM) Investment Strategy Committee (ISC) may make adjustments to this view over the course of 
+the year and can express upside/downside to these forecasts. Historical data is sourced from Bloomberg, FactSet, 
+and Haver Analytics. Past performance is no guarantee of future results. There can be no assurance that the 
+forecasts will be achieved. Economic or financial forecasts are inherently limited and should not be relied on as 
+indicators of future investment performance. 
+A = Actual. E/* = Estimate. Data as of May 15, 2026.
+Sources: BofA Global Research; GWIM ISC as of May 15, 2026. 
+Asset Class Weightings (as of 5/5/2026)
+Asset Class
+CIO View  
+Underweight Neutral Overweight
+Equities
+U.S. Large-cap
+U.S. Mid-cap
+U.S. Small-cap
+International Developed
+Emerging Markets
+Fixed Income
+U.S. Investment- 
+grade Taxable
+International
+Global High Yield Taxable
+U.S. Investment-grade  
+Tax Exempt
+U.S. High Yield Tax 
+Exempt
+Alternative Investments
+Hedge Strategies 
+Private Equity  
+Private Credit  
+Private Real Estate  
+Tangible Assets 
+Cash
+
+* Many products that pursue Alternative Investment strategies, specifically Private Equity and Hedge Funds, 
+are available only to qualified investors. CIO asset class views are relative to the CIO Strategic Asset Allocation 
+(SAA) of a multi-asset portfolio. Source: Chief Investment Office as of May 5, 2026. All sector and asset allocation 
+recommendations must be considered in the context of an individual investor’s goals, time horizon, liquidity needs and 
+risk tolerance. Not all recommendations will be in the best interest of all investors.
+CIO Equity Sector Views
+Sector
+CIO View  
+Underweight Neutral Overweight
+Industrials
+Consumer 
+Discretionary
+Financials
+Information 
+Technology
+Energy
+Materials
+Utilities
+Healthcare
+Communication 
+Services
+Real Estate
+Consumer 
+Staples
+
+
+===== Page 8 =====
+
+8 of 8 May 18, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+Index Definitions
+Securities indexes assume reinvestment of all distributions and interest payments. Indexes are unmanaged and do not take into account fees or expenses. It is not possible to
+invest directly in an index. Indexes are all based in U.S. dollars.
+U.S./S&P 500 Index is a stock market index tracking the stock performance of 500 leading companies listed on stock exchanges in the United States.
+
+Consumer Price Index is a statistical metric that measures the average change over time in the prices paid by urban consumers for a representative "market basket" of consumer goods
+and services.
+Shelter Inflation Index encompasses both rent and utility payments for renters and the estimated rental cost of similar houses for homeowners.
+Employment Cost Index is a quarterly economic metric published by the U.S. Bureau of Labor Statistics that tracks changes in the total cost of labor, including wages, salaries, and employer-
+
+provided benefits, free from the influence of employment shifts among occupations and industries.
+MSCI Europe Index captures large and mid cap representation across Developed Markets (DM) countries in Europe.
+MSCI Emerging Markets Index is a financial benchmark designed to measure the performance of large and mid-cap companies across 24 developing nations.
+MSCI Japan Index is designed to measure the performance of the large and mid cap segments of the Japanese market.
+
+Investing involves risk, including the possible loss of principal. Past performance is no guarantee of future results.
+Bank of America, Merrill, their affiliates and advisors do not provide legal, tax or accounting advice. Clients should consult their legal and/or tax advisors before making any financial decisions.
+This material does not take into account a client’s particular investment objectives, financial situations, or needs and is not intended as a recommendation, offer, or solicitation for the purchase
+
+or sale of any security or investment strategy. Merrill offers a broad range of brokerage, investment advisory and other services. There are important differences between brokerage and
+investment advisory services, including the type of advice and assistance provided, the fees charged, and the rights and obligations of the parties. It is important to understand the differences,
+particularly when determining which service or services to select. For more information about these services and their differences, speak with your Merrill financial advisor.
+
+of America, Merrill or any affiliate to sell or provide, or a specific invitation for a consumer to apply for, any particular retail financial product or service that may be available.
+The Chief Investment Office (“CIO”) provides thought leadership on wealth management, investment strategy and global markets; portfolio management solutions; due diligence; and solutions
+oversight and data analytics. CIO viewpoints are developed for Bank of America Private Bank, a division of Bank of America, N.A., (“Bank of America”) and Merrill Lynch, Pierce, Fenner & Smith
+
+The Global Wealth & Investment Management Investment Strategy Committee (“GWIM ISC”) is responsible for developing and coordinating recommendations for short-term and long-term
+investment strategy and market views encompassing markets, economic indicators, asset classes and other market-related projections affecting GWIM.
+BofA Global Research is research produced by BofA Securities, Inc. (“BofAS”) and/or one or more of its affiliates. BofAS is a registered broker-dealer, Member SIPC and wholly owned subsidiary
+
+of Bank of America Corporation.
+All recommendations must be considered in the context of an individual investor’s goals, time horizon, liquidity needs and risk tolerance. Not all recommendations will be in the best interest
+of all investors.
+Asset allocation, diversification and rebalancing do not ensure a profit or protect against loss in declining markets.
+Investments have varying degrees of risk. Some of the risks involved with equity securities include the possibility that the value of the stocks may fluctuate in response to events specific to
+
+the companies or markets, as well as economic, political or social events in the U.S. or abroad. Small cap and mid cap companies pose special risks, including possible illiquidity and greater price
+volatility than funds consisting of larger, more established companies. Investing in fixed-income securities may involve certain risks, including the credit quality of individual issuers, possible
+prepayments, market or economic developments and yields and share price fluctuations due to changes in interest rates. When interest rates go up, bond prices typically drop, and vice versa.
+
+Investments in high-yield bonds (sometimes referred to as “junk bonds”) offer the potential for high current income and attractive total return, but involves certain risks. Changes in economic
+conditions or other circumstances may adversely affect a junk bond issuer’s ability to make principal and interest payments. Income from investing in municipal bonds is generally exempt
+from Federal and state taxes for residents of the issuing state. While the interest income is tax-exempt, any capital gains distributed are taxable to the investor. Income for some investors
+
+may be subject to the Federal Alternative Minimum Tax (AMT). Treasury bills are less volatile than longer-term fixed income securities and are guaranteed as to timely payment of principal and
+interest by the U.S. government. Bonds are subject to interest rate, inflation and credit risks. Investments in foreign securities (including ADRs) involve special risks, including foreign currency
+risk and the possibility of substantial volatility due to adverse political, economic or other developments. These risks are magnified for investments made in emerging markets. Investments in
+
+a certain industry or sector may pose additional risk due to lack of diversification and sector concentration. There are special risks associated with an investment in commodities, such as gold,
+including market price fluctuations, regulatory changes, interest rate changes, credit risk, economic changes and the impact of adverse political or financial factors.
+Alternative investments are speculative and involve a high degree of risk.
+Alternative investments are intended for qualified investors only. Alternative Investments such as derivatives, hedge funds, private credit, private equity funds, and funds of funds can result
+
+in higher return potential but also higher loss potential. Changes in economic conditions or other circumstances may adversely affect your investments. Before you invest in alternative
+investments, you should consider your overall financial situation, how much money you have to invest, your need for liquidity, and your tolerance for risk.
+Nonfinancial assets, such as closely held businesses, real estate, fine art, oil, gas and mineral properties, and timber, farm and ranch land, are complex in nature and involve risks including total
+
+
+===== Page 9 =====
+
+CHIEF INVESTMENT OFFICE
+Capital Market Outlook
+
+
+===== Page 10 =====
+
+2 of 8 May 11, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+MACRO STRATEGY
+Competitive Interdependence: Taking Stock of U.S.-Sino
+Relations on the Eve of the Summit
+Joseph P. Quinlan, Managing Director and Head of Market Strategy
+The Great Power Rivalry between the U.S. and China is unique because rarely has a
+strategic rivalry persisted alongside economic and financial entanglements that would
+be very costly to unwind. Today, the U.S.–China relationship is best understood as partial
+
+decoupling on the surface, with deep interdependence underneath.
+Hence, on the eve of the U.S.-China summit, we outline some key metrics that not only
+bind the U.S. and China together but also underscore what’s at stake as the two parties
+prepare to meet.
+One, while China’s share of U.S. goods imports has declined from 21.6% in 2017 to
+9.0% in 2025, and to just 7.5% in Q1 2026, the U.S. remains over-reliant on China
+for a host of strategic minerals and metals that keep the U.S. economy humming. For
+
+instance, of the 60 minerals considered “critical” by the U.S. government, China is the
+leading producing country for one-third of them. As evident from Exhibit 1A, China’s
+share of U.S. rare earth imports is now at a near all-time high (nearly 70% of the total in
+Q1), while China’s overall U.S. import share is at a decade-low.
+Two, despite all the chatter about U.S. “de-coupling” and “de-risking,” China remains
+one of the largest export markets in the world for U.S. goods. Indeed, only Mexico and
+
+Canada consumed more U.S. goods exports than China last year. Yes, annual U.S. exports
+to China have declined over the past few years, but the U.S. still exports more to China
+each year than what it sends to the United Kingdom, Japan and Germany.
+Conversely, the U.S. remains a critical market for China’s merchandise exports—even
+though China’s exports to the U.S. dropped by roughly 20% last year, the U.S. remained
+the mainland’s top export destination in 2025 ($420 billion), ahead of Hong Kong ($337
+
+billion) and Vietnam ($199 billion), according to China's General Administration of
+Customs. The key takeaway: even with tariffs and geopolitical tensions, U.S.-China bi-
+lateral total trade flows ($582 billion in 2025 per the Census Bureau) remain among the
+largest in the world. Including service trade, the total figures are even higher.
+Three, U.S. exports to China don’t even begin to capture how much business U.S. firms
+do each year in China. A more accurate metric emerges when you consider the presence
+
+of U.S. affiliates operating in China. The data is lagged, but, in 2023, the last year of
+available data from the Commerce Department, some 1,950 U.S. affiliates were operating
+in China, the fourth-highest total after the U.K., Canada and the Netherlands (Exhibit 1B).
+Exhibit 1: From Minerals to Business Abroad, the U.S. Depends on Beijing.
+A) U.S. Still Dependent on China for Rare Earth Imports. B) Beyond Exports: 1,950 U.S. Affiliates Do Business in China.
+
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+40%
+50%
+60%
+70%
+80%
+2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 Q1
+2026
+Share of Imports
+China's share of Total U.S. Goods Imports (RHS)
+China's share of U.S. Rare Earths Imports (LHS)
+0
+500
+1,000
+1,500
+2,000
+2,500
+3,000
+3,500
+4,000
+4,500
+United
+Kingdom
+Canada Netherlands China Germany France Mexico Hong Kong
+Number of Majority-Owned Foreign Afﬁliates* by Country
+Exhibit 1A) Source: U.S. Census Bureau. Data through March 2026, as of May 5, 2026. Exhibit 1B) *Includes number of affiliates with assets, sales or net income greater than $25 million.
+
+Source: Bureau of Economic Analysis. Data refers to 2023, as of March 2026.
+Investment Implications
+U.S.–China economic and financial ties
+are deeper than headlines suggest.
+Competition in areas like AI is mounting
+and will likely be a focus for the months
+to come. Investors could benefit via
+diversified exposure to technology
+leaders in both the U.S. and China and
+other Asian markets.
+
+
+===== Page 11 =====
+
+3 of 8 May 11, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+According to the Bureau of Economic Analysis, the in-country assets of these U.S.
+affiliates totaled $500 billion, producing some $85 billion in economic output, while
+employing nearly 1.2 million Chinese workers. More importantly, U.S. foreign affiliate
+sales totaled $475 billion in 2023—a figure some 4.5 times the size of U.S. exports to
+China and greater than affiliate sales in France, Italy and Spain combined. Suffice to
+
+say that whatever the metric—U.S. exports or U.S. affiliate sales—China remains an
+important market for Corporate America.
+It's also a profitable market as well, a fourth point to remember. U.S. affiliates earned
+$8.3 billion in China in 2025; add in Hong Kong, and the total soars to $20.5 billion,
+making Greater China one of the most profitable markets in the world for U.S. products
+(Exhibit 2A). As a footnote, the S&P 500 derives more than 40% of its revenues
+
+internationally, including 7% from China. The Technology sector stands the most exposed
+(13%) to China while Consumer Discretionary, Energy and Materials each derive 6% to
+7% of sales from the region, according to FactSet.
+Fifth, and finally, U.S.-China financial links remain quite strong. Although Beijing has
+been busy diversifying its excess reserves over the past decade, China’s financial
+stakes in the U.S. remain significant. As depicted in Exhibit 2B, China and Hong Kong’s
+
+combined holdings of U.S. Treasuries totaled nearly $1 trillion in February 2026, down
+from a peak of nearly 1.5 trillion in 2015. In addition, as of February, China owned $150+
+billion of U.S. Agency bonds and $369 billion stake of U.S. Equities. The key takeaway:
+China remains a significant creditor to debtor America.
+Exhibit 2: China Still Significant Source of Profits and U.S. Asset Demand.
+A) Greater China is One of America's Most Profitable Markets. B) China and Hong Kong's Combined Holdings of U.S. Treasurys.
+
+$0
+$5
+$10
+$15
+$20
+$25
+$30
+Canada China +
+Hong Kong
+Switzerland Mexico Japan   Germany
+U.S. Afﬁliate Income Earned Abroad by Country, USD Billions.
+0
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+1995 1997 1999 2001 2003 2005 2007 2009 2011 2013 2015 2017 2019 2021 2023 2025
+USD Billions
+Exhibit 2A) Source: Bureau of Economic Analysis. Data refers to 2025, as of March 2026. Exhibit 2B) Source: U.S. Treasury. Data as of April 15, 2026.
+Meanwhile, U.S. ownership of Equities in China hit a record high of $338 billion in
+
+February of this year, reflecting the rising appetite among U.S. investors (institutional
+and retail) to own some of China’s most attractive publicly traded companies.
+The Summit: What to Watch For. All the above is another way of saying that there’s
+a great deal riding on this week’s summit since bilateral trade, investment and capital
+flows between the U.S. and China remain thick and sticky—and mutually beneficial to
+both parties.
+That said, the markets will be keenly focused on such topics as tariffs, semiconductor
+
+restrictions, access to rare earth minerals and Taiwan. In that the summit is less about
+fostering a breakthrough on any given topic and more about the maintenance of the
+world’s most important bi-lateral relationship, the fact that the two leaders are even
+meeting in person is a positive backdrop for the global capital markets, the U.S. included.
+
+
+===== Page 12 =====
+
+4 of 8 May 11, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+MARKET VIEW
+Don’t Mistake Market Narrowness for Weakness
+Ariana Chiu, Assistant Vice President and Investment Strategist
+U.S. Equities have staged quite the recovery since their March 30 low. A narrow recovery,
+that is. Indeed, recent performance has been reminiscent of the AI-supercharged rally of
+the last couple of years, with just five companies driving half of the S&P 500’s 17% total
+
+return since the end of March. After a banger start to the year, the S&P 500’s equal-
+weighted counterpart has erased its entire year-to-date (YTD) lead over the market-cap
+weighted index. Hence renewed concerns about breadth in the market, or the lack thereof.
+But the recent resumption of technology leadership doesn’t mean underlying
+fundamentals elsewhere are weak. Yes, narrow performance has reflected narrowness
+in earnings, with Technology’s 2026 earnings estimates revised higher by more than
+
+15% since the start of the year. The sector is now expected to contribute 43% of the
+S&P 500 earnings growth in Q1. The main driver? Semiconductors and semiconductors
+equipment, now projected to grow earnings by nearly 75% YoY in 2026. Meanwhile, a
+handful of big technology companies have reported blowout profits in part driven by one-
+off investment gains (e.g., Amazon’s stake in Anthropic).
+And still, contrary to concerns, the average stock isn’t flailing. Quite the opposite: The
+
+median stock in the S&P 500 is logging 12% YoY earnings growth in Q1, the best growth
+we’ve seen in five years. Growth beyond technology is hardly anemic and reflective of a
+broader economy expanding at a healthy pace. In fact, for all the talk about semiconductors
+being the sole driver of profit growth, S&P 500 earnings are set to expand by an
+impressive 14% YoY in 2026 excluding both the Magnificent 7
+1 and the semiconductor
+industry. (For context, the same measure was closer to 5% in 2024 and 9% in 2025.)2
+
+Moreover, sectors including Materials and Utilities have also seen atypical upward
+revisions this year. That jives with the Institute for Supply Management manufacturing
+activity gauge in expansionary territory for the fourth straight month in April. Add too
+the impact of higher oil prices on Energy companies, and the result has been positive
+earnings estimate revisions for the broader S&P 500 YTD. That’s extremely rare per
+Exhibit 3A, which contrasts this year’s path of revisions (up) with the typical path (down).
+
+We’d call that good news for U.S. investors.
+It’s not just the S&P 500. Down the capitalization spectrum, Small- and Mid-cap Equities
+have quietly followed suit with forward earnings-per-share (EPS) of the S&P 600 and
+S&P 400 both inflecting higher in recent months (Exhibit 3B).
+Exhibit 3: Earnings On the Up and Up for the S&P 500 and Beyond.
+A) This Isn't Normal: 2026 Earnings Revisions vs. the Last 10 Years. B) Earnings Inflecting Higher Across Cap Spectrum.
+
+96
+98
+100
+102
+104
+106
+108
+110
+January February March April May
+S&P 500 Annual Earnings-per-Share (EPS) Revisions, Indexed to Jan. 1 = 100
+2026
+10-year Historical Average (2016 -2025)
+0
+75
+150
+225
+300
+375
+2000 2002 2004 2006 2008 2010 2012 2014 2016 2018 2020 2022 2024 2026
+12-month Forward Earnings-per-Share (EPS)
+S&P 600 (Small-Cap)
+S&P 400 (Mid-Cap) S&P 500 (Large-Cap)
+Exhibit 3A) Source: Bloomberg. Data as of May 4, 2026. Exhibit 3B) Source: Bloomberg. Data as of May 6, 2026. Past performance is no guarantee of future results. Please refer to index
+
+definitions at the end of this report. It is not possible to invest directly in an index.
+1 Alphabet, Amazon, Apple, Meta, Microsoft, NVIDIA, Tesla.
+2 BofA Global Research as of May 11, 2026.
+Portfolio Positioning
+Earnings strength is the backbone
+behind our conviction that U.S.
+Equities can remain resilient this year.
+Against record capital investment by
+hyperscalers, we are neutral Technology,
+underweight Communication Services
+and prefer capital expenditures
+
+(capex) beneficiaries like Industrials.
+Diversification in portfolios can help
+defend against volatility and any
+potential shift in the AI narrative.
+
+
+===== Page 13 =====
+
+5 of 8 May 11, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+Zooming out, latest figures from the Bureau of Economic Analysis’ National Income and
+Product Accounts (NIPA) suggest that economywide U.S. corporate profits expanded to a
+record $4.4 trillion by the end of 2025. That’s nearly 14% of GDP or the highest share in
+history, as shown in Exhibit 4A. In other words, data spanning firms big and small, public
+and private, and across both Wall Street and Main Street are pointing to what continues
+
+to be central to our bullishness on U.S. Equities: Corporate profits have been expanding
+and have been far from signaling a weaker economic backdrop.
+Of course, profits are in part benefiting from what’s shaping up to be a capital
+expenditure (capex) cycle of the ages. Five hyperscalers are now set to spend over
+$700 billion in capex this year alone, more than 70% higher YoY versus $416 billion
+in 2025 (See Exhibit 4B to put this year’s estimate in perspective). This extraordinary
+
+spending on AI data centers, graphics processing units (GPU) and networking has sent
+semiconductors’ revenues climbing, not to mention the physical power, cooling and
+electrical infrastructure companies required to support data centers. In the near-term,
+think cash flow pressure on the big spenders while AI suppliers enjoy higher revenues
+and margins. Hence our overweight to Industrials, for example, while we remain neutral
+on Information Technology and underweight Communication Services.
+
+Exhibit 4: Corporate Profits at Record Amid Historic Capital Investment.
+C) No Recession in Sight with U.S. Corporate Profits at Record Highs. D) Holy Spend: Putting Hyperscalers' $700 Billion-Plus Investment in Perspective.
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+1947 1953 1959 1965 1971 1977 1983 1989 1995 2001 2007 2013 2019 2025
+Corporate Proﬁts as a Share of Nominal GDP
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+Europe's
+Total Defense
+Spending
+Hyperscaler
+Capex
+
+in 2026
+Annual U.S.
+Medicaid
+Spending
+China's U.S.
+Treasury
+Holdings
+Singapore's
+GDP
+Brazil's
+Market
+Cap
+Global
+Power Grid
+Investment
+USD Billions
+Exhibit 4A) Gray bars represent recessionary periods. Source: Bureau of Economic Analysis. Data as of April 9, 2026. Exhibit 4B) Sources: Stockholm International Peace Research Institute
+(SIPRI), Bloomberg, company filings, U.S. Treasury, International Monetary Fund, FactSet, BloombergNEF . Europe's total defense spending, Singapore's GDP , and global power grid investment
+
+refer to 2025. U.S. Medicaid spending refers to the 12 months ending in March. China's U.S. Treasury holdings refers to February 2026 data. Brazil's market cap as of May 6, 2026. Latest
+data available.
+Looking ahead, the path for U.S. Equities is not without risk. In the near term, we
+wouldn’t be surprised to see some chop and churn should geopolitical conflict reescalate.
+Weaker returns and higher volatility even in the face of strong growth wouldn’t be out
+
+of the ordinary in a mid-term election year. Shifting sentiment toward AI also bears
+watching, particularly given recent parabolic movement in heavyweight semiconductors.
+The Philadelphia Stock Exchange Semiconductor Index (“SOX”) is now some 60% above
+the index’s 200-day moving average, with a handful of names in South Korea and Taiwan
+soaring in lockstep. Per the latter, this year alone, Taiwan has surpassed France, China
+and Canada to become the fourth-largest country weight in the MSCI All-Country World
+
+Index (behind just the U.S., Japan and the United Kingdom).
+But the bottom line is it’s hard to go against U.S. Equities with corporate profits and
+earnings momentum in such good shape. Technology may be dominating performance
+as of late, amplified in part by its weight in the index, but growth under the surface
+is broadening to the rest of the economy, in our view. Stay diversified, particularly as
+headlines shift on a dime, and, remember: Over long periods, Equity returns are primarily
+
+driven by corporate earnings growth. It’s this fundamental engine that fuels our ongoing
+bias to the U.S. in portfolios.
+
+
+===== Page 14 =====
+
+6 of 8 May 11, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+THOUGHT OF THE WEEK
+Along the Same Distorted Lines…
+Lauren Sanfilippo, Director and Senior Investment Strategist
+Given its disproportionate impact on market performance, earnings and GDP , AI spans
+and shapes both the equity market and the economy. From its impact on labor markets
+and the rerouted trade flows in AI-related goods, to record hyperscaler debt issuance and
+its growing contribution to earnings and equity performance, AI-driven distortions are
+
+becoming increasingly visible. In Equities, this manifests as the reasserted technology/
+AI-adjacent narrow leadership. On display there has been the semiconductor sector
+parabolic move of 44% off the recent March low. Performance-wise, the S&P 500’s
+YTD return of 6% would be a more meager 2.2% gain absent the semiconductor stocks
+contribution, driven by demand and supply dynamics.
+3
+To further gauge AI’s contribution see Exhibit 5A that shows the YoY growth in U.S.
+
+goods imports for AI and non-AI categories. After moving in tandem for 30 years,
+imports of semiconductors and related hardware decoupled from all other goods in
+2024, with AI-linked demand surging as non-AI imports declined. Since, the divergence
+has only widened. Take Q1 GDP for another example, that at last check expanded
+at roughly a 2.0% annualized rate. Business investment in information technology
+equipment and software contributed approximately 1.5% to overall growth, an
+
+extraordinary share that reflects the scale and apparent urgency of AI-related capital
+deployment across America.
+See Exhibit 5B that shows the outperformance of semi and semicap equipment
+relative to the broader S&P 500 Index over the three-and-a-half years since ChatGPT’s
+launch. Accordingly, semiconductor stocks represent 17% of the S&P 500’s market
+capitalization, ballooning from 5% since ChatGPT’s advent. Not abating are semi’s
+earnings estimates, which are on pace for a stunning near-80% EPS growth for this year.
+
+In other words, as semiconductors have become a marginal driver of Equity returns,
+AI-oriented investment has become a marginal driver of economic growth. And so, the
+narrowness of the AI-trade festers as AI-driven investment continues to be a central
+pillar of economic growth. Nonetheless, from a portfolio risk management perspective,
+we’d incorporate a more varied mix of variables—spanning size, style and sector—to
+best capture the fits and starts of narrowness and broadening seen this year.
+
+Exhibit 5: The Divergence in AI/non-AI goods imports and Semis Lift-Off.
+A) U.S. Imported Goods Disaggregated. B) Semis and Everything Else.
+-60
+-40
+-20
+0
+20
+40
+60
+80
+2003 2005 2007 2009 2011 2013 2015 2017 2019 2021 2023 2025
+YoY Change in Goods Imports (%)
+AI-Related Products*
+Total Ex-AI-Related Products
+50
+150
+250
+350
+450
+550
+650
+11/30/2022 1/31/2023 3/31/2023 5/31/2023 7/31/2023 9/30/2023 11/30/2023 1/31/2024 3/31/2024 5/31/2024 7/31/2024 9/30/2024 11/30/2024 1/31/2025 3/31/2025 5/31/2025 7/31/2025 9/30/2025 11/30/2025 1/31/2026 3/31/2026
+
+Indexed to 100 = 11/30/2022, ChatGPT launch
+Semiconductor & Semicap Equipment S&P 500
+Exhibit 5A) *Includes computer equipment, communications equipment, and semiconductors and other electronic components. Source: Census Bureau, Haver Analytics. Data as of May 5,
+2026. Exhibit 5B) Source: Source: Bloomberg. Data as of May 6, 2026. Past performance is no guarantee of future results. Please refer to index definitions at the end of this report. It is
+
+not possible to invest directly in an index.
+3 Data as of May 5, 2026. Source: Bloomberg.
+Investment Implications
+The Equity narrowness and GDP
+contribution of AI seen over the first
+four months of the year could persist
+given the basic equation of insatiable
+demand and structural constraints
+that are pushing prices and profits for
+related companies higher.
+
+
+===== Page 15 =====
+
+7 of 8 May 11, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+MARKETS IN REVIEW
+Equities
+Total Return in USD (%)
+Current WTD MTD YTD
+DJIA  49,609.16 0.2 -0.1 3.7
+NASDAQ  26,247.08 4.5 5.5 13.1
+S&P 500  7,398.93 2.4 2.7 8.5
+S&P 400 Mid Cap  3,699.83 1.7 1.7 12.4
+Russell 2000  2,861.21 1.7 2.2 15.7
+MSCI World  4,757.30 1.8 2.1 7.9
+MSCI EAFE  3,076.29 1.1 1.4 7.6
+MSCI Emerging Markets  1,711.25 6.9 7.0 22.5
+Fixed Income†
+Total Return in USD (%)
+Current WTD MTD YTD
+Corporate & Government 4.51 0.25 0.35 0.27
+Agencies 4.25 0.13 0.15 0.53
+Municipals 3.66 0.20 0.21 1.18
+U.S. Investment-Grade Credit 4.59 0.26 0.37 0.44
+International 5.10 0.38 0.52 0.44
+High Yield 6.94 0.05 0.18 1.37
+90 Day Yield 3.68 3.65 3.66 3.63
+2 Year Yield 3.88 3.88 3.87 3.47
+10 Year Yield 4.35 4.37 4.37 4.17
+30 Year Yield 4.93 4.96 4.97 4.84
+Commodities & Currencies
+Commodities
+Total Return in USD (%)
+Current WTD MTD YTD
+Bloomberg Commodity 353.05 -1.2 -1.4 27.8
+WTI Crude $/Barrel†† 95.42 -6.4 -9.2 66.2
+Gold Spot $/Ounce†† 4715.25 2.2 2.1 9.2
+Currencies
+Total Return in USD (%)
+Current
+Prior 
+Week End
+Prior 
+Month End
+2025 
+Year End
+EUR/USD 1.18 1.17 1.17 1.17
+USD/JPY 156.68 157.01 156.59 156.71
+USD/CNH 6.80 6.83 6.83 6.98
+S&P Sector Returns
+-6.0% -4.0% -2.0% 0.0% 2.0% 4.0% 6.0% 8.0%
+Energy
+Utilities
+Financials
+Healthcare
+Consumer Staples
+Real Estate
+Industrials
+Materials
+Consumer Discretionary
+Communication Services
+Information Technology
+-5.3%
+-3.9%
+-1.3%
+-1.1%
+-0.2%
+0.1%
+0.2%
+0.6%
+1.8%
+1.9%
+7.0%
+Sources: Bloomberg, Factset. Total Returns from the period of 
+05/04/2026 to 05/08/2026. †Bloomberg Barclays Indices. ††Spot 
+price returns. All data as of the 05/08/2026 close. Data would differ 
+if a different time period was displayed. Short-term performance 
+shown to illustrate more recent trend. Past performance is no 
+guarantee of future results. 
+Economic Forecasts (as of 5/8/2026)
+Q1 2026A Q2 2026E Q3 2026E Q4 2026E 2026E 2027E
+Real global GDP (% y/y annualized) - - - - 3.1 3.4
+Real U.S. GDP (% q/q annualized) 2.0 2.5 1.9 1.9 2.2 2.2
+CPI inflation (% y/y) 2.7 4.2 4.1 3.8 3.7 2.3
+Core CPI inflation (% y/y**) 2.5 2.7 2.6 2.8 2.7 2.5
+Unemployment rate (%) 4.3 4.5 4.5 4.4 4.4 4.3
+Fed funds rate, end period (%) 3.63 3.63 3.63 3.63 3.63 3.13
+The forecasts in the table above are the base line view from BofA Global Research. The Global Wealth & Investment 
+Management (GWIM) Investment Strategy Committee (ISC) may make adjustments to this view over the course of 
+the year and can express upside/downside to these forecasts. Historical data is sourced from Bloomberg, FactSet, and 
+Haver Analytics. There can be no assurance that the forecasts will be achieved. Economic or financial forecasts 
+are inherently limited and should not be relied on as indicators of future investment performance. 
+A = Actual. E/* = Estimate. Data as of May 8, 2026.
+Sources: BofA Global Research; GWIM ISC as of May 8, 2026. 
+Asset Class Weightings (as of 5/5/2026)
+Asset Class
+CIO View  
+Underweight Neutral Overweight
+Global Equities
+U.S. Large-cap Growth
+U.S. Large-cap Value
+U.S. Small-cap Growth
+U.S. Small-cap Growth
+International Developed
+Emerging Markets
+Global Fixed Income
+U.S. Governments
+U.S. Mortgages
+U.S. Corporates
+International Fixed 
+Income
+High Yield
+U.S. Investment-grade  
+Tax Exempt
+U.S. High Yield Tax 
+Exempt
+Alternative Investments
+Hedge Strategies 
+Private Equity  
+Private Credit  
+Real Assets 
+Cash
+
+* Many products that pursue Alternative Investment strategies, specifically Private Equity and Hedge Funds, 
+are available only to qualified investors. CIO asset class views are relative to the CIO Strategic Asset Allocation 
+(SAA) of a multi-asset portfolio. Source: Chief Investment Office as of May 5, 2026. All sector and asset allocation 
+recommendations must be considered in the context of an individual investor’s goals, time horizon, liquidity needs and 
+risk tolerance. Not all recommendations will be in the best interest of all investors.
+CIO Equity Sector Views
+Sector
+CIO View  
+Underweight Neutral Overweight
+Industrials
+Consumer 
+Discretionary
+Financials
+Information 
+Technology
+Energy
+Materials
+Utilities
+Healthcare
+Communication 
+Services
+Real Estate
+Consumer 
+Staples
+
+
+===== Page 16 =====
+
+8 of 8 May 11, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+Index Definitions
+Securities indexes assume reinvestment of all distributions and interest payments. Indexes are unmanaged and do not take into account fees or expenses. It is not possible to
+invest directly in an index. Indexes are all based in U.S. dollars.
+S&P 500 Index is a stock market index tracking the stock performance of 500 leading companies listed on stock exchanges in the United States.
+
+S&P 500 Market-cap Weighted Index is a stock market index where companies are weighted based on their total market capitalization (shares outstanding price), meaning larger companies
+like Nvidia, Apple, and Microsoft have a greater influence on performance.
+S&P 600 Index is a market-capitalization-weighted stock index maintained by S&P Dow Jones Indices that tracks 600 small-sized U.S. companies.
+S&P 400 Index is a stock market index from S&P Dow Jones Indices that measures the performance of 400 medium-sized U.S. companies.
+
+Investing involves risk, including the possible loss of principal. Past performance is no guarantee of future results.
+Bank of America, Merrill, their affiliates and advisors do not provide legal, tax or accounting advice. Clients should consult their legal and/or tax advisors before making any financial decisions.
+This material does not take into account a client’s particular investment objectives, financial situations, or needs and is not intended as a recommendation, offer, or solicitation for the purchase
+
+or sale of any security or investment strategy. Merrill offers a broad range of brokerage, investment advisory and other services. There are important differences between brokerage and
+investment advisory services, including the type of advice and assistance provided, the fees charged, and the rights and obligations of the parties. It is important to understand the differences,
+particularly when determining which service or services to select. For more information about these services and their differences, speak with your Merrill financial advisor.
+
+of America, Merrill or any affiliate to sell or provide, or a specific invitation for a consumer to apply for, any particular retail financial product or service that may be available.
+The Chief Investment Office (“CIO”) provides thought leadership on wealth management, investment strategy and global markets; portfolio management solutions; due diligence; and solutions
+oversight and data analytics. CIO viewpoints are developed for Bank of America Private Bank, a division of Bank of America, N.A., (“Bank of America”) and Merrill Lynch, Pierce, Fenner & Smith
+
+The Global Wealth & Investment Management Investment Strategy Committee (“GWIM ISC”) is responsible for developing and coordinating recommendations for short-term and long-term
+investment strategy and market views encompassing markets, economic indicators, asset classes and other market-related projections affecting GWIM.
+BofA Global Research is research produced by BofA Securities, Inc. (“BofAS”) and/or one or more of its affiliates. BofAS is a registered broker-dealer, Member SIPC and wholly owned subsidiary
+
+of Bank of America Corporation.
+All recommendations must be considered in the context of an individual investor’s goals, time horizon, liquidity needs and risk tolerance. Not all recommendations will be in the best interest
+of all investors.
+Asset allocation, diversification and rebalancing do not ensure a profit or protect against loss in declining markets.
+Investments have varying degrees of risk. Some of the risks involved with equity securities include the possibility that the value of the stocks may fluctuate in response to events specific to
+
+the companies or markets, as well as economic, political or social events in the U.S. or abroad. Small cap and mid cap companies pose special risks, including possible illiquidity and greater price
+volatility than funds consisting of larger, more established companies. Investing in fixed-income securities may involve certain risks, including the credit quality of individual issuers, possible
+prepayments, market or economic developments and yields and share price fluctuations due to changes in interest rates. When interest rates go up, bond prices typically drop, and vice versa.
+
+Investments in high-yield bonds (sometimes referred to as “junk bonds”) offer the potential for high current income and attractive total return, but involves certain risks. Changes in economic
+conditions or other circumstances may adversely affect a junk bond issuer’s ability to make principal and interest payments. Income from investing in municipal bonds is generally exempt
+from Federal and state taxes for residents of the issuing state. While the interest income is tax-exempt, any capital gains distributed are taxable to the investor. Income for some investors
+
+may be subject to the Federal Alternative Minimum Tax (AMT). Treasury bills are less volatile than longer-term fixed income securities and are guaranteed as to timely payment of principal and
+interest by the U.S. government. Bonds are subject to interest rate, inflation and credit risks. Investments in foreign securities (including ADRs) involve special risks, including foreign currency
+risk and the possibility of substantial volatility due to adverse political, economic or other developments. These risks are magnified for investments made in emerging markets. Investments in
+
+a certain industry or sector may pose additional risk due to lack of diversification and sector concentration. There are special risks associated with an investment in commodities, such as gold,
+including market price fluctuations, regulatory changes, interest rate changes, credit risk, economic changes and the impact of adverse political or financial factors.
+Alternative investments are speculative and involve a high degree of risk.
+Alternative investments are intended for qualified investors only. Alternative Investments such as derivatives, hedge funds, private credit, private equity funds, and funds of funds can result
+
+in higher return potential but also higher loss potential. Changes in economic conditions or other circumstances may adversely affect your investments. Before you invest in alternative
+investments, you should consider your overall financial situation, how much money you have to invest, your need for liquidity, and your tolerance for risk.
+Nonfinancial assets, such as closely held businesses, real estate, fine art, oil, gas and mineral properties, and timber, farm and ranch land, are complex in nature and involve risks including total
+
+
+===== Page 17 =====
+
+CHIEF INVESTMENT OFFICE
+Capital Market Outlook
+
+
+===== Page 18 =====
+
+2 of 8 May 4, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+MACRO STRATEGY
+No Two Oil Shocks Are Created Equal
+Chief Investment Office, Macro Strategy Team
+The Strait of Hormuz crisis has resulted in the largest oil trade disruption in history,
+affecting about 20 mbd—roughly 20% of global crude and refined product supply. Export
+flows effectively stopped by mid-April, particularly affecting Asia and Europe for two
+reasons. First, 82% of Hormuz exports typically go to Asia, covering roughly 60% of the
+
+region’s imports and 45% of its demand. Second, refinery closures, low spare refining
+capacity, Russian import restrictions and thin jet fuel inventories left Europe exposed to
+jet fuel shortages. Jet fuel imports cover 30% of European demand, 75% of which are via
+Hormuz (about 0.375 mbd).
+Several mitigating factors have narrowed the effective supply shortage to about half
+the headline disruption, howev er, helping limit its global impact. These include: (1) about
+
+3 mbd oversupplied initial conditions;
+1 (2) pipeline and port rerouting of about 5 mbd;
+(3) global inventories at a five year high, 2 with immediate drawdowns of commercial
+inventories and floating storage; (4) brief Iran and Russia sanction waiv ers; (5) rising
+refinery capacity utilization across Organisation for Economic Co-operation and
+Development (OECD) Americas to multidecade seasonal highs and rising U.S. refined
+product exports; and (6) fuel substitution. T ogether, these factors imply a net global
+
+supply loss closer to 10 mbd than the 20 mbd headline disruption, helping stretch
+inventory cover and limit global macroeconomic effects.
+Difficulty in replacing Middle Eastern heavy sour crude combined with the high
+concentration of refining capacity in Asia and little spare capacity elsewhere has led
+to acute localized shortages of refining feedstock and refined products. Faced with a
+roughly 8 mbd shortage, thin inventories in many countries,
+3 limited immediate relief
+
+and fuel affordability pressures, Asia has borne the brunt of oil demand destruction and
+economic stress. Consumption cuts—via work from home, less business travel, increased
+rail transport, higher prices, and suppression of lower-value oil use—quickly absorbed
+a significant part of the shock. According to IEA estimates, global consumption likely
+dropped by about 2.3 mbd in April year over year, mainly in Southeast Asia and the
+Middle East. With about eight months of Hormuz oil imports in inventories and ample
+
+refining capacity, China has been less impacted so far, and easing export restrictions
+starting in May will help alleviate regional supply tightness.
+A 400 mb IEA-coordinated Strategic Petroleum Reserve (SPR) release—including 172
+mb from the U.S. and representing about 22% of total strategic reserves held by the 32
+OECD countries that are also IEA members and about 40 days of the net Hormuz-related
+global supply shortfall—can only help ease the global supply shortage to a limited extent.
+
+As it turns out, not all crude oil is created equal. Asian refineries are largely configured
+for medium/heavy sour Middle Eastern crude, which produces more jet fuel and diesel
+than gasoline, and are generally incompatible with light sweet crude such as U.S. oil.
+Even where partial substitution is possible, jet fuel and diesel yields are materially lower.
+Logistical constraints also add friction, with up to an estimated two month lag from a
+U.S. SPR release to Asian refined output, for example. All in all, reflecting the refining
+
+bottleneck, global jet fuel and diesel supply constraints have pushed up prices by much
+more than oil prices have increased, more consistent with $150 to $175 per barrel
+Brent oil.
+While Europe’s crude oil exposure to Hormuz trade is more modest—around 5% of total
+oil consumption—its jet fuel and diesel import dependence is high, as noted above.
+Around 63% of Europe’s SPR release therefore consists of refined products. Still, its jet
+fuel inventories are relatively thin, not least due to relatively more expensive specialized
+
+1 IEA January 2026 Oil Market Report (OMR).
+2 IEA March 2026 OMR.
+3 Per IEA April 2026 OMR, non-OECD Asia refineries (excluding China) typically hold just 22 days of crude oil.
+Portfolio Considerations
+With resilient U.S. growth but risks
+of bigger oil disruptions should the
+Iran conflict persist, portfolios should
+stay pro quality and U.S.-centric.
+U.S. Equities also remain structurally
+advantaged by energy self-sufficiency,
+stronger productivity growth and a
+
+stronger AI-driven capital expenditures
+cycle.
+
+
+===== Page 19 =====
+
+3 of 8 May 4, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+storage and monitoring requirements, heightening aviation industry stress and forcing
+precautionary consumption cuts.
+Robust U.S. economic underpinnings and energy self-sufficiency have been central to
+global economic stability in the face of the Hormuz oil shock. The U.S. became a net
+crude oil exporter in April, and its net exports of refined oil products surged to 6 mbd
+in April, up 20% year-over-year (YoY). This, combined with declining energy intensity, a
+
+smaller gasoline share of consumer spending and One Big Beautiful Bill Act (OBBBA)
+tax support, has helped limit the Hormuz disruption impact both on the U.S. and
+global economy.
+Incoming data show that domestic growth has remained supported by the AI-driven
+capex/industrial sector revival, better-than-expected productivity growth, sustained
+consumer spending and strong profits. Q1 real GDP has increased 2.0% annualized,
+near potential and as expected, led by surging business equipment investment (up
+
+17% annualized). Strong gains in capital goods orders in March suggest investment
+growth has momentum into Q2. Most business surveys are in expansionary territory,
+and commercial and industrial bank lending increased strongly in March by the most in
+three years.
+The mix of resilient growth with solid efficiency and productivity gains has kept
+corporate earnings and investor risk appetite on the upswing. Forward earnings
+expectations for 2026 and 2027 have continued to rise, and earnings growth breadth
+
+across Large-, Mid- and Small-cap Indexes has increased to levels typical of bull markets.
+Manufacturing upcycles also tend to benefit Emerging Markets and overseas Equities, in
+general, with non-U.S. markets contributing meaningfully to the current earnings upcycle.
+Indeed, in light of a strong 3.9% global growth pace in Q4 2025 and positive global
+effects from reduced U.S. tariff rates, AI-related global spillover, OBBBA stimulus and
+growing defense spending around the world, the International Monetary Fund was
+
+preparing to raise its 2026 global growth forecast before the Iran conflict escalated.
+Instead, its base-case scenario (assuming an imminent resolution of the conflict)
+was modestly lowered to 3.1% mainly due to slower emerging-market growth linked
+to energy stress. This compares to 3.4% in 2024 to 2025 and 3.7% average growth
+between 2000–2019. Under an “adverse” energy scenario (oil near $100/barrel in 2026
+and $75/barrel in 2027), global growth is seen slowing to 2.5% in 2026 and rebounding
+
+to a below-average 3% in 2027. A “severe” scenario ($110 oil in 2026 and $125 in 2027)
+would see growth getting close to 2% in 2026 and 2027 (near recessionary levels).
+In sum, the Hormuz crisis is a severe but regionally concentrated energy shock.
+Preexisting global oversupply, inventory buffers, supply rerouting, demand adjustment,
+and U.S. economic and energy resilience have helped prevent a major global economic
+impact to date. The IEA estimates that roughly 80% of stranded capacity could be
+
+restored within two months after the reopening of Hormuz navigation. Moreover,
+according to the IEA, about 171 mb were stored in tankers in the Gulf and another 262
+mb in onshore storage as of mid April
+4 (about 40 days of current global shortfall), an
+important bridge to eventual export normalization. Roughly 5 mbd of spare capacity
+going into the Iran war, largely in Saudi Arabia, is also expected to support export
+recovery once the conflict resolves. Clearly, the longer the disruption persists, the greater
+
+the risk of derailment. For now, however, financial markets continue to price in a timely
+oil-flow normalization and continued economic expansion.
+4 IEA April 14, OMR.
+
+
+===== Page 20 =====
+
+4 of 8 May 4, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+MARKET VIEW
+The Next Frontier: China’s Rise as a Pharma Superpower
+Joseph Quinlan, Managing Director and Head of Market Strategy
+“China’s rise as a major center of drug development represents one of the most
+consequential shifts in the global life sciences landscape in a generation.”
+Food and Drug Administration Regulator Richard Pazdur 5
+And now medicine.
+After scaling and seizing control of one sector after another over the past few decades,
+
+China is rapidly emerging as a significant power in medicine. Indeed, China is already
+the world’s largest developer of new medicines after the U.S. That’s little recognized by
+investors, as is the fact that China is rapidly moving up the drug value chain using the
+same playbook it used to become a manufacturing powerhouse: Enter at the low end,
+provide oodles of government subsidies, scale relentlessly, build out capacity, prioritize
+the development of human capital, and leverage Western technology and innovation.
+
+The upshot: China’s stunning shift from bicycles to biotech—and the making of a drug
+superpower. Yes, China still suffers from a decades-long reputation that the quality and
+safety of their drugs are lower than America’s. But times are changing.
+Consider the following:
+• China accounted for 40% of global early-stage drug testing in Q3 2025, versus 35%
+in the U.S. according to The Journal of the American Medical Association. That’s up from
+just an 8% share a decade ago.
+
+• Roughly one-in-four generic drugs taken by Americans rely on ingredients from China.
+6
+• China supplies roughly one-third of the world’s active pharmaceutical ingredients. 7
+• Of the roughly 160 new obesity drugs in development around the world, one-third of
+them are from China, according to Bloomberg Intelligence.
+• Overseas partners signed a record 157 Chinese agreements ($136B) in 2025.
+8
+• Chinese drug leaders are now responsible for about 70% of the world’s antibody-drug
+
+conjugates (ADC), according to Goldman Sachs.
+• Chinese firms now account for roughly 24% of all first-in-class drug candidates in
+global development.
+9
+Summarizing the above: The world of “Big Pharma” no longer rests on the shoulders
+of U.S. and European firms. That’s the past. The present and future are evident in
+Exhibit 1A. In just the past decade, China’s role (and share) in global early-stage drug
+development has soared across various drug modalities and therapeutic areas, whether
+
+biologics, oncology or metabolic diseases. As the Journal of American Medical Association
+recently noted, “Global early-stage drug development has nearly doubled over the past
+decade, shifting from a system dominated by the U.S. toward a 2-hub structure centered
+on the U.S. and China.”
+10
+China’s rise as a life science giant has been underpinned by a number of factors,
+including regulatory reforms, state subsidies, a massive patient pool, generous spending
+
+on R&D, a centralized healthcare system and a deep bench of biological talent. Per the
+latter, China graduates five times the number of medical and biomedical students as
+5 “China’s Rise Threatens the Drug World’s Status Quo.” Axios, March 27, 2026.
+6 “China’s Grip on American Medicine Cabinets Grows More Entrenched,” Bloomberg November 18, 2025.
+7 “As China biotech firms shift gears, can AI floor the Accelerator?,” South China Morning Post, April 18, 2026.
+
+8 Ibid.
+9 Ibid.
+10 “Geographic Shifts in Early-stage Biopharmaceutical Innovation, JAMA. March 2026.
+Investment Implications
+Global life sciences offer attractive
+potential for investors, including China
+biotech leaders.
+
+
+===== Page 21 =====
+
+5 of 8 May 4, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+the U.S. year; in addition, given tighter U.S. immigration policies, some of China’s best
+and brightest medical talent in the U.S. is heading home—or back to China.
+China biotech excels at speed, scale and low cost. To wit, clinical trials are two to three
+times faster in China than the U.S. and less expensive. As noted by The Economist,
+“China’s firms can take a drug from discovery to the start of human trials in about half
+
+the global industry’s average time. A vast patient pool makes enrollment easier, and a
+large network of trial centers also speed things along.”
+11
+Against this backdrop, it is hardly surprising that new China-made medicines are
+attracting the capital and attention of U.S. pharmaceutical and biotech firms. As Exhibit
+1B shows, out-licensing deals have soared over the past decade, totaling a record 157
+last year, up from 94 deals in 2024 and just five a decade ago. (As a footnote: Out-
+
+licensing agreements typically involve a company in China granting another firm (e.g., a
+large U.S. pharmaceutical firm) the exclusive rights to further develop, manufacture and
+commercialize a drug once it has entered human trials).
+Reflecting the depth of U.S.-Sino drug ties, according to a recent survey by the
+Biotechnology Innovation Organization, a U.S. industry trade group, some 79% of 124
+bio-pharmaceutical U.S. companies have China-based development and manufacturing
+
+partners. Historically, these ties reflected China’s role as the world’s top supplier of
+low-cost generics and active pharmaceutical ingredients (APIs) used in everything from
+antibiotics to cancer drugs. This model was commodity-like—high volume, low margins,
+imitation rather than innovation, and little differentiation.
+But it’s different today. Boosted by various indigenous factors and expanding western
+ties, China is moving up the drug value chain. Investors need to sharpen their lens when
+
+it comes to China biotech. They need to recognize the patterns of the past, whereby
+China enters a sector at the low end but then hyper-accelerates towards the more
+competitive and profitable high-end value creation. Think steel, shipbuilding, renewable
+energy, electric vehicles—and now, biotech. We’ve seen this movie before.
+But how it all plays out remains to be seen. Many questions remain: Will low-cost
+Chinese drugs undercut the margins of U.S. pharmaceutical leaders? Will expanding
+
+biotech ties between the U.S. and China fall victim to rising geopolitical tensions? Can
+China continue to close the biotech innovation gap with the U.S.?
+Time will tell. Suffice it to say that a new global pharmaceutical order is in the making.
+We are positive on the China biotech sector and will continue to explore investment
+solutions for investors.
+Exhibit 1: China’s Rise in Global Drug Development and Out-Licensing Transactions.
+A) Share of Global Drug Development Programs. B) Number of China Innovative drug out-licensing transactions.
+
+2015 2024
+U.S. China U.S. China
+Biologics 45.7% 8.7% 35.7% 35.1%
+Small Molecules 49.9% 7.5% 39.4% 29.1%
+Cancer 48.7% 10.2% 36.5% 37.4%
+Infectious diseases 51.2% 9.0% 37.1% 25.8%
+Neurology/psychiatric conditions 51.8% 5.1% 42.0% 18.8%
+Other* 47.0% 6.4% 38.2% 26.7%
+5 6 11 17 22
+62
+50
+61
+89 94
+157
+0
+20
+40
+60
+80
+100
+120
+140
+160
+180
+2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+Exhibit 1A) *Other includes immune, endocrine/metabolic, gastrointestinal, cardiovascular, dermatologic, hematologic, ocular, and other miscellaneous disease areas. Source: The Journal of
+
+the American Medical Association. Data as of March 26, 2026. Exhibit 1B) Source: Pharmacube, CLSA. Data as of April 28, 2026.
+11 “Chinese Pharma’s Glow-Up”, The Economist, November 29, 2025.
+
+
+===== Page 22 =====
+
+6 of 8 May 4, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+THOUGHT OF THE WEEK
+Deal Activity Remains on Track in 2026
+Jordy Fuentes, Wealth Management Analyst
+Global deal activity entered 2026 with strong momentum following a robust 2025.
+Businesses pursuing exposure to the AI infrastructure buildout capitalized on fiscal
+tailwinds, easing borrowing costs and a solid macro backdrop. This positive foundation
+underpins our outlook for continued strength, with M&A and IPO activity well-positioned
+
+to advance further in 2026.
+In Q1 2026, global M&A deals surged to $1.2T, the strongest start to a year since
+2021 and the third consecutive quarter surpassing $1T (Exhibit 2). Similarly, global
+IPO proceeds reached $30.9B to a four-year high.
+12 The resurgence in activity
+reflects accelerating AI adoption and resilient economic fundamentals, with ongoing
+capital investment and healthy consumer spending supporting corporate confidence.
+Domestically, the U.S. remained a stronghold for dealmaking as it accounted for 52%
+
+of global M&A volumes and 27% of global IPO issuance in Q1, underscoring the depth
+and resilience of U.S. capital markets. Notably, M&A deals valued at over $10B increased
+47% YoY, marking the strongest quarter in LSEG’s data, compared to a 3% rise for
+deals valued below $500 million.
+13 While this divergence suggests deal activity remains
+top-heavy, it also signals balance sheet strength and flexibility among the largest
+corporations to execute deals in turbulent environments.
+
+Geopolitical instability to start 2026 has shifted the landscape, with some larger deals
+executed earlier than planned and others delayed amid concerns over a prolonged
+conflict in the Middle East. Stagflation worries have resurfaced as a result, which could
+temper deal activity. In our view, however, market indicators currently offer limited
+evidence that stagflation poses a sustained, long-term risk ahead.
+Reminiscent of April 2, 2025 Liberation Day, we expect deal activity to hold steady and
+
+pick up in the back half of the year, where conditions should stabilize and potential
+interest rate cuts could materialize. That said, near-term challenges could emerge if
+deal concentration begins to squeeze liquidity, geopolitical uncertainty persists, rate
+expectations shift, and equity market volatility picks up.
+For now, M&A activity remains robust, and the IPO forward calendar looks healthy. Deals
+are expected across Consumer, Energy, Industrials and Information Technology sectors.
+
+14
+Corporations may take a more cautious approach in today’s climate, but estimates
+point to continued strength throughout 2026 as they work to scale and enhance
+business models.
+Exhibit 2: Strongest Opening for Global M&A Deals since 2021.
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+$0
+$1,000
+$2,000
+$3,000
+$4,000
+$5,000
+$6,000
+$7,000
+2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 Q1
+Global M&A Deal Value, in millions
+First Quarter (LHS) Rest of Year (LHS) U.S. % of Global (RHS)
+
+Source: LSEG Data & Analytics. Data through March 31, 2026. As of April 27, 2026.
+12 LSEG Data & Analytics, Data as of April 27, 2026.
+13 Source: LSEG Data & Analytics. Data through March 31, 2026. As of April 27, 2026.
+14 PitchBook. Data as of April 14, 2026.
+Investment Implications
+The recent strength in deal activity is
+driven by corporations with disciplined
+balance sheets and a resilient economy.
+U.S. based businesses with stronger
+fundamentals and diversified business
+
+models should continue to support
+activity levels, one of the reasons why
+we favor the U.S. relative to the rest of
+the world.
+
+
+===== Page 23 =====
+
+7 of 8 May 4, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+MARKETS IN REVIEW
+Equities
+Total Return in USD (%)
+Current WTD MTD YTD
+DJIA  49,499.27 0.5 -0.3 3.5
+NASDAQ  25,114.44 1.1 0.9 8.2
+S&P 500  7,230.12 0.9 0.3 6.0
+S&P 400 Mid Cap  3,639.84 0.0 0.0 10.6
+Russell 2000  2,812.82 0.9 0.5 13.7
+MSCI World  4,674.25 0.9 0.3 6.0
+MSCI EAFE  3,048.80 1.0 0.3 6.5
+MSCI Emerging Markets  1,601.42 -0.5 0.1 14.6
+Fixed Income†
+Total Return in USD (%)
+Current WTD MTD YTD
+Corporate & Government 4.53 -0.40 0.10 0.02
+Agencies 4.25 -0.23 0.02 0.40
+Municipals 3.68 -0.33 0.01 0.98
+U.S. Investment-Grade Credit 4.61 -0.39 0.11 0.18
+International 5.13 -0.45 0.15 0.06
+High Yield 6.94 0.05 0.14 1.33
+90 Day Yield 3.65 3.67 3.66 3.63
+2 Year Yield 3.88 3.78 3.87 3.47
+10 Year Yield 4.37 4.30 4.37 4.17
+30 Year Yield 4.96 4.91 4.97 4.84
+Commodities & Currencies
+Commodities
+Total Return in USD (%)
+Current WTD MTD YTD
+Bloomberg Commodity 357.46 3.1 -0.2 29.4
+WTI Crude $/Barrel†† 101.94 8.0 -3.0 77.5
+Gold Spot $/Ounce†† 4614.21 -2.0 -0.1 6.8
+Currencies
+Total Return in USD (%)
+Current
+Prior 
+Week End
+Prior 
+Month End
+2025 
+Year End
+EUR/USD 357.46 3.1 -0.2 29.4
+USD/JPY 101.94 8.0 -3.0 77.5
+USD/CNH 4614.21 -2.0 -0.1 6.8
+S&P Sector Returns
+-3.0% -2.0% -1.0% 0.0% 1.0% 2.0% 3.0% 4.0% 5.0%
+Materials
+Information Technology
+Industrials
+Consumer Discretionary
+Healthcare
+Utilities
+Financials
+Real Estate
+Consumer Staples
+Energy
+Communication Services
+-2.0%
+0.1%
+0.3%
+0.4%
+0.7%
+0.8%
+0.9%
+1.0%
+1.2%
+3.3%
+4.5%
+Sources: Bloomberg, Factset. Total Returns from the period of 
+04/24/2026 to 05/01/2026. †Bloomberg Barclays Indices. ††Spot 
+price returns. All data as of the 05/01/2026 close. Data would differ 
+if a different time period was displayed. Short-term performance 
+shown to illustrate more recent trend. Past performance is no 
+guarantee of future results. 
+Economic Forecasts (as of 4/24/2026)
+Q1 2026A Q2 2026E Q3 2026E Q4 2026E 2026E 2027E
+Real global GDP (% y/y annualized) - - - - 3.1 3.4
+Real U.S. GDP (% q/q annualized) 2.0 2.5 1.9 1.9 2.2 2.2
+CPI inflation (% y/y) 2.7 4.4 4.0 3.8 3.7 2.3
+Core CPI inflation (% y/y**) 2.5 2.8 2.7 2.9 2.7 2.6
+Unemployment rate (%) 4.3 4.5 4.5 4.4 4.4 4.3
+Fed funds rate, end period (%) 3.63 3.63 3.38 3.13 3.13 3.13
+The forecasts in the table above are the base line view from BofA Global Research. The Global Wealth & Investment 
+Management (GWIM) Investment Strategy Committee (ISC) may make adjustments to this view over the course of 
+the year and can express upside/downside to these forecasts. Historical data is sourced from Bloomberg, FactSet, and 
+Haver Analytics. There can be no assurance that the forecasts will be achieved. Economic or financial forecasts 
+are inherently limited and should not be relied on as indicators of future investment performance. 
+A = Actual. E/* = Estimate. Data as of May 1, 2026.
+Sources: BofA Global Research; GWIM ISC as of May 1, 2026. 
+Asset Class Weightings (as of 4/7/2026)
+Asset Class
+CIO View  
+Underweight Neutral Overweight
+Global Equities
+U.S. Large-cap Growth
+U.S. Large-cap Value
+U.S. Small-cap Growth
+U.S. Small-cap Growth
+International Developed
+Emerging Markets
+Global Fixed Income
+U.S. Governments
+U.S. Mortgages
+U.S. Corporates
+International Fixed 
+Income
+High Yield
+U.S. Investment-grade  
+Tax Exempt
+U.S. High Yield Tax 
+Exempt
+Alternative Investments
+Hedge Strategies 
+Private Equity  
+Private Credit  
+Real Assets 
+Cash
+
+* Many products that pursue Alternative Investment strategies, specifically Private Equity and Hedge Funds, are 
+available only to qualified investors. CIO asset class views are relative to the CIO Strategic Asset Allocation (SAA) 
+of a multi-asset portfolio. Source: Chief Investment Office as of April 7, 2026. All sector and asset allocation 
+recommendations must be considered in the context of an individual investor’s goals, time horizon, liquidity needs and 
+risk tolerance. Not all recommendations will be in the best interest of all investors.
+CIO Equity Sector Views
+Sector
+CIO View  
+Underweight Neutral Overweight
+Financials
+Consumer 
+Discretionary
+Industrials
+Utilities
+Energy
+Information 
+Technology
+Healthcare
+Materials
+Real Estate
+Consumer 
+Staples
+Communication 
+Services
+
+
+===== Page 24 =====
+
+8 of 8 May 4, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+Index Definitions
+Securities indexes assume reinvestment of all distributions and interest payments. Indexes are unmanaged and do not take into account fees or expenses. It is not possible to
+invest directly in an index. Indexes are all based in U.S. dollars.
+S&P 500/S&P 500 Price Return Index is a stock market index tracking the stock performance of 500 leading companies listed on stock exchanges in the United States.
+
+U.S. Economic Policy Uncertainty Index is an index constructed based on newspaper articles regarding policy uncertainty from leading newspapers.
+Caldara-Iacoviello Geopolitical Risk Index measures adverse geopolitical events and associated risks based on a tally of newspaper articles covering geopolitical tensions, and examine its
+evolution and economic effects since 1900.
+NASDAQ Composite Index is a stock market index that tracks over 3,000 companies listed on the Nasdaq stock exchange. It is heavily weighted toward technology, biotechnology, and
+
+Investing involves risk, including the possible loss of principal. Past performance is no guarantee of future results.
+Bank of America, Merrill, their affiliates and advisors do not provide legal, tax or accounting advice. Clients should consult their legal and/or tax advisors before making any financial decisions.
+This material does not take into account a client’s particular investment objectives, financial situations, or needs and is not intended as a recommendation, offer, or solicitation for the purchase
+
+or sale of any security or investment strategy. Merrill offers a broad range of brokerage, investment advisory and other services. There are important differences between brokerage and
+investment advisory services, including the type of advice and assistance provided, the fees charged, and the rights and obligations of the parties. It is important to understand the differences,
+particularly when determining which service or services to select. For more information about these services and their differences, speak with your Merrill financial advisor.
+
+of America, Merrill or any affiliate to sell or provide, or a specific invitation for a consumer to apply for, any particular retail financial product or service that may be available.
+The Chief Investment Office (“CIO”) provides thought leadership on wealth management, investment strategy and global markets; portfolio management solutions; due diligence; and solutions
+oversight and data analytics. CIO viewpoints are developed for Bank of America Private Bank, a division of Bank of America, N.A., (“Bank of America”) and Merrill Lynch, Pierce, Fenner & Smith
+
+The Global Wealth & Investment Management Investment Strategy Committee (“GWIM ISC”) is responsible for developing and coordinating recommendations for short-term and long-term
+investment strategy and market views encompassing markets, economic indicators, asset classes and other market-related projections affecting GWIM.
+BofA Global Research is research produced by BofA Securities, Inc. (“BofAS”) and/or one or more of its affiliates. BofAS is a registered broker-dealer, Member SIPC and wholly owned subsidiary
+
+of Bank of America Corporation.
+Any materials indicated as prepared by Bank of America Institute are solely those of Bank of America Institute, and are not the product of the BofA Global Research department, Merrill or
+anyother department of Bank of America Corporation or its affiliates and/or subsidiaries (collectively Bank of America).
+All recommendations must be considered in the context of an individual investor’s goals, time horizon, liquidity needs and risk tolerance. Not all recommendations will be in the best interest
+
+of all investors.
+Asset allocation, diversification and rebalancing do not ensure a profit or protect against loss in declining markets.
+Investments have varying degrees of risk. Some of the risks involved with equity securities include the possibility that the value of the stocks may fluctuate in response to events specific to
+the companies or markets, as well as economic, political or social events in the U.S. or abroad. Small cap and mid cap companies pose special risks, including possible illiquidity and greater price
+
+volatility than funds consisting of larger, more established companies. Investing in fixed-income securities may involve certain risks, including the credit quality of individual issuers, possible
+prepayments, market or economic developments and yields and share price fluctuations due to changes in interest rates. When interest rates go up, bond prices typically drop, and vice versa.
+Investments in high-yield bonds (sometimes referred to as “junk bonds”) offer the potential for high current income and attractive total return, but involves certain risks. Changes in economic
+
+conditions or other circumstances may adversely affect a junk bond issuer’s ability to make principal and interest payments. Income from investing in municipal bonds is generally exempt
+from Federal and state taxes for residents of the issuing state. While the interest income is tax-exempt, any capital gains distributed are taxable to the investor. Income for some investors
+may be subject to the Federal Alternative Minimum Tax (AMT). Treasury bills are less volatile than longer-term fixed income securities and are guaranteed as to timely payment of principal and
+
+interest by the U.S. government. Bonds are subject to interest rate, inflation and credit risks. Investments in foreign securities (including ADRs) involve special risks, including foreign currency
+risk and the possibility of substantial volatility due to adverse political, economic or other developments. These risks are magnified for investments made in emerging markets. Investments in
+a certain industry or sector may pose additional risk due to lack of diversification and sector concentration. There are special risks associated with an investment in commodities, such as gold,
+
+in higher return potential but also higher loss potential. Changes in economic conditions or other circumstances may adversely affect your investments. Before you invest in alternative
+investments, you should consider your overall financial situation, how much money you have to invest, your need for liquidity and your tolerance for risk.
+Nonfinancial assets, such as closely-held businesses, real estate, fine art, oil, gas and mineral properties, and timber, farm and ranch land, are complex in nature and involve risks including total
+
+
+===== Page 25 =====
+
+CHIEF INVESTMENT OFFICE
+Capital Market Outlook
+
+
+===== Page 26 =====
+
+2 of 8 April 27, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+MACRO STRATEGY
+Four Factors that Make the U.S. Economy the Heavyweight of
+the World
+Joseph Quinlan, Managing Director and Head of Market Strategy
+It absorbs punches. It deflects jabs. It bends but rarely buckles. It takes blows that would
+deck others. And when it takes a swing, it’s usually a knock-out punch.
+We are talking about the U.S. economy—a heavyweight fighter in a world that keeps
+
+throwing punches, jabs and roundhouses. Consider this decade alone: Through a global
+pandemic, wars in Europe and the Middle East, inflation shocks, political uncertainty,
+trade conflicts, supply chain disruptions, one economy has repeatedly demonstrated an
+unusual ability to take the hits and keep standing, the United States.
+The U.S. has added $9.2 trillion to its nominal GDP since the start of 2020, well ahead of
+China ($5 trillion), EU ($5.4 trillion) and other nations like Germany ($1.1 trillion), Japan
+
+(-$0.8 trillion) and India ($1.1 trillion). Nominal U.S. output totaled nearly $31 trillion in
+2025, a figure that equates to a global share of total output of 26%, up from 24.3% in
+2019. In other words, amid the tumult of this decade, America’s weight in the global
+economy has gone up, not down. Correspondingly, the S&P 500 has produced total
+returns of 140% since the start of this decade, or 14.9% on a compound annual basis.
+1
+The first factor: The Making of a Heavyweight: productivity, diversification, wealth,
+
+and entrepreneurial DNA. America’s ability to roll with the punches reflects its unique
+underlying strengths, one of which is the simple fact that American workers, in general,
+are more productive than their global peers. According to figures from the Organisation
+for Economic Co-operation and Development (OECD), the average American worker
+generates roughly $170,000 in economic output per annum, compared with $120,000 in
+the euro area, $118,000 in the UK and $96,000 in Japan.
+
+American workers (and companies) are more productive because they have more tools
+at their disposal—think more capital, more cutting-edge technology, more research &
+development funding, more labor market flexibility, and more abundant and cheaper
+energy. By leveraging all of these factors, the U.S. economy, with just 4.7% of the world’s
+labor force, produces more than one-quarter of global GDP . It is remarkable how much
+more productive the U.S. economy is relative to China and India (Exhibit 1A). With a
+
+combined labor force of 1.4 billion workers, or nearly 40% of the total, India’s and China’s
+aggregated GDP ($23.5 trillion) in 2025 was nearly one-quarter less than America’s total
+output ($30.8 trillion).2 The bottom line: The U.S. economy remains among the most
+productive in the world.
+A second factor of strength: The U.S. economy is among the most diversified
+economies in the world—a competitive advantage that allows the economy to absorb
+and adapt to various shocks. Widely underappreciated by investors, the U.S. economy
+
+does many things very well. The U.S. is not just a superpower in such critical sectors
+as technology, finance and energy, but also a global juggernaut in aerospace and
+defense, capital goods, agriculture, entertainment and transportation. Whether goods or
+services—it doesn’t matter—the U.S. typically leads.
+And then there is the U.S. healthcare industry, which on a stand-alone basis, ranks as
+the third-largest economy in the world (Exhibit 1B). The key takeaway is that the U.S.
+
+economy is the furthest thing from being a one-trick pony. Multiple engines fire the
+economy, providing more ballast and support in a shock-prone world.
+A third factor of U.S. economic strength lies with the fact that the U.S. remains
+extraordinarily wealthy (Exhibit 1C). Based on the latest figures from the International
+Monetary Fund (IMF), the U.S.’ per capita income ($90.000) is roughly 50% higher
+than Germany’s and light years ahead of China ($14,000) and India ($2,700). Yes, the
+
+latter have massive populations, but their labor force remains generally unproductive
+and therefore poor, unable to generate the consumer demand on the scale of the U.S.
+1 Figures in this paragraph from the IMF .
+2 Ibid.
+Investment Implications
+No economy has absorbed shocks
+better than the U.S., making U.S.
+securities among the most attractive in
+the world.
+
+
+===== Page 27 =====
+
+3 of 8 April 27, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+And speaking of scale, the U.S. consumer generates over 30% of global consumption
+according to the IMF.
+In the end, America’s wealth acts as a shock absorber to unexpected downturns or one-
+off events; it gives the economy the wherewithal to adjust and reset during difficult
+times versus the immediate constraints to growth in poorer nations.
+And the fourth factor: America’s unique entrepreneurial ecosystem that encourages and
+
+enables the incessant churn of creative destruction between startups and incumbents.
+America’s economic metabolism is different from the rest of the world. Risk-taking
+pulsates throughout our economy. No country creates and destroys as manically as
+America. Our strength lies in starting businesses and letting them fail. Our social and
+political tolerance for letting companies go under is one of America’s greatest assets. It’s
+okay to fail in America.
+
+To this point, just since 2000, more than half (52%) of the companies on the Fortune
+500 list have gone bankrupt, been acquired or ceased to exist. Take note of Exhibit 1D,
+which contrasts the top 10 largest U.S. publicly traded companies at the start of this
+century with today. Of the top firms by market cap, only two companies—Microsoft and
+Walmart—remain on the list today; the fate of the others has ebbed and flowed with the
+ever-shifting competitive landscape of the economy.
+
+America’s entrepreneurial DNA empowers startups, enables innovation, fosters
+competition, creates opportunities and challenges incumbents. It’s our secret sauce
+that encourages more productivity, a more diversified economy, and more wealth-
+creation. The bottom line: In a world rife with tumult and uncertainty, it is imperative that
+investors understand that no economy takes the blows and punches better than the U.S.,
+creating, in our opinion, favorable long-term investment opportunities.
+
+Exhibit 1: The U.S. Economy’s Four Pillars of Strength.
+A) America is the Most Productive Economy in the World. B) Sector Heavyweight: U.S. Healthcare Industry is the Third Largest Economy.
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+United States European Union China India
+Share of Global Nominal GDP
+Share of Global Labor Force
+Share of Global
+0
+5
+10
+15
+20
+25
+30
+35
+United States
+China
+U.S. Healthcare
+Germany
+Japan
+United Kingdom
+India
+France
+Russia
+Italy
+Nominal GDP or U.S. Healthcare Expenditures in USD Trillions
+
+C) America is Extraordinarily Wealthy. D) Here Today, Gone Tomorrow.
+$89,991
+$60,439
+$47,088
+$35,973
+$13,968
+$2,675
+0
+20
+40
+60
+80
+100
+United States Germany European
+Union
+Japan China India
+GDP per capita in USD Thousands, Current Prices Top 10 U.S. Companies by Market Cap
+2000 2026
+Company Market Cap ($B) Company Market Cap ($B)
+1 Microsoft 601 NVIDIA 4,901
+2 General Electric 507 Alphabet 4,120
+3 Cisco Systems 355 Apple 3,967
+4 Walmart 308 Microsoft 3,139
+
+5 Intel 275 Amazon 2,694
+6 Pfizer 205 Broadcom 1,925
+7 Exxon Mobil 196 Meta 1,748
+8 IBM 192 Tesla 1,503
+9 Citigroup 187 Bershire Hathaway 1,023
+10 Time Warner 168 Walmart 1,016
+Exhibit 1A) Sources: International Labor Organization; World Bank; IMF . Data refers to 2025, as of April 14, 2026. Exhibit 1B) Sources: IMF; Centers for Medicare & Medicaid Services. U.S.
+healthcare estimate refers to 2024; GDP numbers refer to 2025. Data as of April 14, 2026. Exhibit 1C) Source: IMF . Data refers to 2025, as of April 14, 2026. Exhibit 1D) Source: Bloomberg.
+
+2000 data as of January 1, 2000. 2026 data as of April 17, 2026.
+
+
+===== Page 28 =====
+
+4 of 8 April 27, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+MARKET VIEW
+Equities Unfazed by Uncertainty
+Emily Avioli, Vice President and Investment Strategist
+Uncertainty is a defining feature of today’s investment landscape: Geopolitical risk looms
+large, oil prices remain volatile, midterm elections are quickly approaching, the outlook
+for Federal Reserve (Fed) policy is increasingly murky, and questions about the disruptive
+power of artificial intelligence (AI) continue to evolve.
+
+By some measures, today’s backdrop ranks among the most uncertain in modern history.
+So far in 2026, the U.S. Economic Policy Uncertainty Index has been above 300—2.5
+times its historical average—approximately 66% of the time.3  For perspective, the
+index has breached this threshold only about 4% of the time since 1985 (Exhibit 2).
+The Caldara-Iacoviello Geopolitical Risk Index, a measure of adverse geopolitical events,
+surged well above its historic average in Q1.4  Additionally, the Council on Foreign
+
+Relations reports that the number of global armed conflicts is currently the highest since
+the end of World War II.5
+Exhibit 2: U.S. Economic Policy Uncertainty Is Elevated....
+0
+2000
+4000
+6000
+8000
+0
+200
+400
+600
+800
+1985
+1987
+1989
+1991
+1993
+1995
+1997
+1999
+2001
+2003
+2005
+2007
+2009
+2011
+2013
+2015
+2017
+2019
+2021
+2023
+2025
+U.S. Economic Policy Uncertainty Index - 7 day moving average (LHS)
+U.S. Economic Policy Uncertainty Index - average since 1985 (LHS)
+
+S&P 500 Index (RHS)
+Sources: Bloomberg: Baker, S. R., Bloom, N., & Davis, S. J. Economic Policy Uncertainty Research. Data as of March 31, 2026.
+Past performance is no guarantee of future results. Please refer to index definitions at the end of this report. It is not
+possible to invest directly in an index.
+And yet, against this backdrop, Equities have shown remarkable resilience. The S&P 500
+recently rebounded from the brink of correction territory in just 11 days, erasing a 9%
+
+drawdown and reaching a new all-time high above the elusive 7,000 level. Over the same
+period, the technology-heavy NASDAQ Composite Index rose by a staggering 15.5%.
+It was the best 11-day stretch for both indexes since March 2022. Meanwhile, the
+Chicago Board Options Exchange's (CBOE) Volatility Index (VIX)—often referred to as the
+market’s “fear gauge”—swiftly retreated from a late-March peak of 31.1 to below the
+20.0 level, near where it stood prior to the escalation in Iran.6
+
+With geopolitical tensions unresolved and headline risks simmering, it’s reasonable to
+ask why Equity markets have resumed their grind higher. The answer is nuanced. First,
+it’s important to note that this pattern is not without precedent—periods of elevated
+uncertainty have tended to coincide with strong forward equity returns throughout
+history. Since 1985, when the seven-day moving average of the U.S. Economic Policy
+Uncertainty Index exceeded 300, the S&P 500 has delivered average price returns
+
+of roughly 15% over the subsequent six months and 29% over the subsequent 12
+months—well above returns observed following periods of lower uncertainty (Exhibit 3).
+There are a few factors that help to explain this counterintuitive dynamic. Elevated
+levels of uncertainty often coincide with more cautious investor positioning, higher cash
+3 Bloomberg, Baker, S. R., Bloom, N., and Davis, S. J., U.S. Economic Policy Uncertainty Index. Refers to average since 1985.
+
+Data as of March 31, 2026.
+4 Bloomberg, Caldara, D. and Iacoviello, M., Geopolitical Risk Index. Monthly data as of March 31, 2026.
+5 Council on Foreign Relations. December 18, 2025. Latest data available.
+6 Bloomberg. Data as of April 22, 2026. Price returns referenced.
+Investment Implications
+The fog of uncertainty is likely to
+continue to cloud the investment
+outlook moving forward. Long-term
+investors should continue to focus on
+fundamentals and maintain the highest
+
+level of diversification in portfolios.
+
+
+===== Page 29 =====
+
+5 of 8 April 27, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+balances, and lower levels of sentiment, all of which can leave stocks underowned and
+more responsive to incremental positive news. Some of those contrarian indicators
+became more prevalent in the weeks before the recent equity rally, aiding in the
+clawback.
+Exhibit 3: ...Which Historically, Has Not Been Bad For Equities.
+2%
+5%
+10%
+8%
+15%
+29%
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+(+) 3mo (+) 6mo (+) 12mo
+
+S&P 500 Price Return
+Period of lower uncertainty* Period of higher uncertainty**
+*Seven-day moving average of the U.S. Economic Policy Uncertainty Index <=300. **7-day moving average of the U.S.
+Economic Policy Uncertainty Index >300.Sources: Bloomberg: Baker, S. R., Bloom, N., & Davis, S. J. Economic Policy
+Uncertainty Research. Data as of March 31, 2026. Past performance is no guarantee of future results. Please refer to
+index definitions at the end of this report. It is not possible to invest directly in an index.
+
+As of early April, the BofA Global Research Fund Manager Survey showed that fund
+manager cash levels were at the highest level since May 2025, and sentiment was at
+the most bearish level since June 2025. The rally also came on the heels of a meaningful
+valuation compression, with the S&P 500 forward price-to-earnings ratio briefly dipping
+below 20.0x in late March,7 potentially representing an attractive entry point for those
+looking to deploy excess dry powder.
+
+At the same time, today’s equity market resilience reflects the strength of underlying
+fundamentals. Even amid unrelenting uncertainty and persistent headline risk, the “hard”
+earnings and economic data remain broadly positive. The start of earnings season has
+been encouraging, with the S&P 500 on track for a sixth consecutive quarter of double-
+digit year-over-year (YoY) earnings-per-share (EPS) growth and approximately 18.5% YoY
+EPS expansion for the full year 2026.8  Margins remain healthy, and earnings strength is
+
+expected to broaden across sectors. Importantly, forward guidance has been relatively
+unscathed by the recent conflict thus far. Earnings estimates for the S&P 500 have
+actually been revised higher since March 31, according to FactSet.
+The macroeconomic backdrop remains supportive as well. Weekly initial jobless claims
+continue to hover around 200,000, near multiyear lows. The U.S. economy added an
+above-estimated 178,000 jobs in March, while the unemployment rate ticked down
+
+to 4.3%. Consumer spending remains bifurcated but is resilient overall, with Bank of
+America Institute data showing that total debit and credit card spending excluding
+gasoline saw healthy growth of 3.6% YoY in March.9  U.S. retail sales tell a similar
+story—the overall value of purchases rose by 1.7% month-over-month (MoM) in March—
+the biggest monthly increase in a year—underscoring that consumers still have the
+wherewithal to spend. U.S. GDP estimates have been modestly reduced since the Middle
+
+East conflict began in late March, but the Atlanta Fed GDPNow tracker is still calling for
+growth of 1.2% in Q1.
+Risks have notably increased in recent weeks, and the outlook will likely be clouded by
+unknowns for some time. Even so, recent market activity suggests that that uncertainty
+alone is not sufficient to derail the secular bull market. In a world where uncertainty has
+become the new normal, staying anchored to fundamentals may be a sound strategy for
+
+long-term investors.
+7 Bloomberg. Data as of April 22, 2026.
+8 FactSet. Data as of April 22, 2026.
+9 Bank of America Institute. April 10, 2026.
+
+
+===== Page 30 =====
+
+6 of 8 April 27, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+THOUGHT OF THE WEEK
+Small but Mighty: Why Small-Caps are Leading the Charge
+Theadora Lamprecht, Assistant Vice President and Investment Strategist
+Small-cap Equities have emerged as one of the market’s standout performers this year.
+The Russell 2000 has gained 12% this year, materially outperforming the S&P 500, which
+has risen just 5%.
+10 This renewed strength is notable given that sustained higher rates and
+
+macro uncertainty would typically be expected to favor larger, more defensive companies.
+After briefly breaching correction territory (down roughly 11%) on March 30, the Russell
+2000 has staged an impressive rebound since then, rallying approximately 15%, 11
+climbing to a new all-time high last week, and is on pace for its strongest monthly
+advance (12%
+12 month-to-date) since December 2023, where it gained 12%. On a short-
+term basis, the index closed higher in 12 of 13 sessions in April marking its strongest
+
+streak since 2020.13
+13 Beneath the surface, breadth has also strengthened meaningfully.
+59% of Russell 2000 constituents recently reached new 20-day highs, compared to 47%
+of S&P 500 members (Exhibit 4). This marks the best reading above 50% since mid-
+2024. Several catalysts help explain their improving backdrop.
+Small-caps are benefiting from easing inflation pressures and renewed expectations
+for Fed rate cuts following the ceasefire-driven pullback in oil prices, as they are more
+
+sensitive to borrowing costs and domestically oriented growth. Valuations also remain
+attractive, with small-caps trading below historical averages and at a steep discount
+to large-caps. Together with recent outperformance, this suggests a broader market
+rotation away from mega-cap technology toward more cyclical segments of the market.
+In light of the evolving situation in Iran, a rise in oil prices wouldn’t necessarily be a
+headwind for small-caps. According to BofA Global Research, small-caps have roughly
+
+2X greater exposure to industries that benefit from higher oil prices, such as Energy and
+Capital Goods, than those hurt by rising oil costs. Moreover, since the start of the war,
+2026 consensus EPS estimates for small-caps have been revised higher by 2%, with
+earnings growth for small- and mid-caps now expected to be 20% versus approximately
+17% for large-caps.
+Taken together, improving breadth, supportive macro tailwinds, positive earnings trends
+
+and still-attractive valuations suggest the recent leadership from small-caps may be
+more than a short-term bounce and could have further room to grow.
+Exhibit 4: Strength Building in Small-Cap.
+0
+10
+20
+30
+40
+50
+60
+70
+80
+4/2023 10/2023 4/2024 10/2024 4/2025 10/2025 4/2026
+%
+Percentage of Russell 2000 Constituents Reaching a 20 - Day High
+Sources: Bloomberg; Strategas Research Partners. Data as of April 17, 2026. Past performance is no guarantee of future
+
+results. Please refer to index definitions at the end of this report. It is not possible to invest directly in an index.
+10 Bloomberg. Data as of April 24, 2026.
+11 Ibid.
+12 Ibid.
+13 Bloomberg. Data as of April 17, 2026.
+Investment Implications
+We remain overweight Small-caps as
+they are an attractive way to participate
+in a broadening equity market beyond
+the mega-cap names that have
+dominated in recent years. Small-caps
+can provide diversification benefits
+
+and are well positioned if leadership
+continues to rotate toward more cyclical
+and domestically- oriented areas of
+the market. They have the potential
+opportunity for investors seeking both
+value and upside participation as we
+move through the year.
+
+
+===== Page 31 =====
+
+7 of 8 April 27, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+MARKETS IN REVIEW
+Equities
+Total Return in USD (%)
+Current WTD MTD YTD
+DJIA  49,230.71 -0.4 6.3 2.9
+NASDAQ  24,836.60 1.5 15.1 7.0
+S&P 500  7,165.08 0.6 9.8 5.1
+S&P 400 Mid Cap  3,641.32 -0.1 7.9 10.6
+Russell 2000  2,787.00 0.4 11.7 12.7
+MSCI World  4,632.83 -0.3 8.9 5.0
+MSCI EAFE  3,021.80 -2.7 6.8 5.4
+MSCI Emerging Markets  1,610.00 0.8 15.4 15.2
+Fixed Income†
+Total Return in USD (%)
+Current WTD MTD YTD
+Corporate & Government 4.43 -0.24 0.62 0.42
+Agencies 4.17 -0.11 0.41 0.63
+Municipals 3.60 0.03 1.50 1.32
+U.S. Investment-Grade Credit 4.51 -0.26 0.62 0.57
+International 5.03 -0.27 1.05 0.51
+High Yield 6.90 -0.19 1.78 1.28
+90 Day Yield 3.67 3.68 3.67 3.63
+2 Year Yield 3.78 3.71 3.79 3.47
+10 Year Yield 4.30 4.25 4.32 4.17
+30 Year Yield 4.91 4.88 4.91 4.84
+Commodities & Currencies
+Commodities
+Total Return in USD (%)
+Current WTD MTD YTD
+Bloomberg Commodity 346.75 3.6 0.9 25.5
+WTI Crude $/Barrel†† 94.40 12.6 -6.9 64.4
+Gold Spot $/Ounce†† 4709.5 -2.5 0.9 9.0
+Currencies
+Total Return in USD (%)
+Current
+Prior 
+Week End
+Prior 
+Month End
+2025 
+Year End
+EUR/USD 1.17 1.18 1.16 1.17
+USD/JPY 159.38 158.64 158.72 156.71
+USD/CNH 6.83 6.82 6.89 6.98
+S&P Sector Returns
+- 3.1%
+- 1.9%
+- 1.5%
+- 0.8%
+- 0.6%
+- 0.3%
+0.1%
+0.1%
+1.3%
+3.1%
+3.2%
+-4% -3% -2% -1% 0% 1% 2% 3% 4%
+Healthcare
+Financials
+Real Estate
+Communication Services
+Industrials
+Consumer Discretionary
+Materials
+Utilities
+Consumer Staples
+Information Technology
+Energy
+Sources: Bloomberg, Factset. Total Returns from the period of 
+04/20/2026 to 04/24/2026. †Bloomberg Barclays Indices. ††Spot 
+price returns. All data as of the 4/24/2026 close. Data would differ 
+if a different time period was displayed. Short-term performance 
+shown to illustrate more recent trend. Past performance is no 
+guarantee of future results. 
+Economic Forecasts (as of 4/24/2026)
+Q1 2026A Q2 2026E Q3 2026E Q4 2026E 2026E 2027E
+Real global GDP (% y/y annualized) - - - - 3.1 3.4
+Real U.S. GDP (% q/q annualized) 2.5* 2.5 1.9 1.9 2.3 2.2
+CPI inflation (% y/y) 2.7 4.1 3.8 3.6 3.6 2.3
+Core CPI inflation (% y/y**) 2.5 2.8 2.7 2.9 2.7 2.6
+Unemployment rate (%) 4.3 4.5 4.5 4.4 4.4 4.3
+Fed funds rate, end period (%) 3.63 3.63 3.38 3.13 3.13 3.13
+The forecasts in the table above are the base line view from BofA Global Research. The Global Wealth & Investment 
+Management (GWIM) Investment Strategy Committee (ISC) may make adjustments to this view over the course of 
+the year and can express upside/downside to these forecasts. Historical data is sourced from Bloomberg, FactSet, and 
+Haver Analytics. There can be no assurance that the forecasts will be achieved. Economic or financial forecasts 
+are inherently limited and should not be relied on as indicators of future investment performance. 
+A = Actual. E/* = Estimate. Data as of April 24, 2026.
+Sources: BofA Global Research; GWIM ISC as of April 24, 2026.  
+Asset Class Weightings (as of 4/7/2026)
+Asset Class
+CIO View  
+Underweight Neutral Overweight
+Global Equities
+U.S. Large-cap Growth
+U.S. Large-cap Value
+U.S. Small-cap Growth
+U.S. Small-cap Growth
+International Developed
+Emerging Markets
+Global Fixed Income
+U.S. Governments
+U.S. Mortgages
+U.S. Corporates
+International Fixed 
+Income
+High Yield
+U.S. Investment-grade  
+Tax Exempt
+U.S. High Yield Tax 
+Exempt
+Alternative Investments
+Hedge Strategies 
+Private Equity  
+Private Credit  
+Real Assets 
+Cash
+
+* Many products that pursue Alternative Investment strategies, specifically Private Equity and Hedge Funds, are 
+available only to qualified investors. CIO asset class views are relative to the CIO Strategic Asset Allocation (SAA) 
+of a multi-asset portfolio. Source: Chief Investment Office as of April 7, 2026. All sector and asset allocation 
+recommendations must be considered in the context of an individual investor’s goals, time horizon, liquidity needs and 
+risk tolerance. Not all recommendations will be in the best interest of all investors.
+CIO Equity Sector Views
+Sector
+CIO View  
+Underweight Neutral Overweight
+Financials
+Consumer 
+Discretionary
+Industrials
+Utilities
+Energy
+Information 
+Technology
+Healthcare
+Materials
+Real Estate
+Consumer 
+Staples
+Communication 
+Services
+
+
+===== Page 32 =====
+
+8 of 8 April 27, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+Index Definitions
+Securities indexes assume reinvestment of all distributions and interest payments. Indexes are unmanaged and do not take into account fees or expenses. It is not possible to
+invest directly in an index. Indexes are all based in U.S. dollars.
+S&P 500/S&P 500 Price Return Index is a stock market index tracking the stock performance of 500 leading companies listed on stock exchanges in the United States.
+
+U.S. Economic Policy Uncertainty Index is an index constructed based on newspaper articles regarding policy uncertainty from leading newspapers.
+Caldara-Iacoviello Geopolitical Risk Index measures adverse geopolitical events and associated risks based on a tally of newspaper articles covering geopolitical tensions, and examine its
+evolution and economic effects since 1900.
+NASDAQ Composite Index is a stock market index that tracks over 3,000 companies listed on the Nasdaq stock exchange. It is heavily weighted toward technology, biotechnology, and
+
+Investing involves risk, including the possible loss of principal. Past performance is no guarantee of future results.
+Bank of America, Merrill, their affiliates and advisors do not provide legal, tax or accounting advice. Clients should consult their legal and/or tax advisors before making any financial decisions.
+This material does not take into account a client’s particular investment objectives, financial situations, or needs and is not intended as a recommendation, offer, or solicitation for the purchase
+
+or sale of any security or investment strategy. Merrill offers a broad range of brokerage, investment advisory and other services. There are important differences between brokerage and
+investment advisory services, including the type of advice and assistance provided, the fees charged, and the rights and obligations of the parties. It is important to understand the differences,
+particularly when determining which service or services to select. For more information about these services and their differences, speak with your Merrill financial advisor.
+
+of America, Merrill or any affiliate to sell or provide, or a specific invitation for a consumer to apply for, any particular retail financial product or service that may be available.
+The Chief Investment Office (“CIO”) provides thought leadership on wealth management, investment strategy and global markets; portfolio management solutions; due diligence; and solutions
+oversight and data analytics. CIO viewpoints are developed for Bank of America Private Bank, a division of Bank of America, N.A., (“Bank of America”) and Merrill Lynch, Pierce, Fenner & Smith
+
+The Global Wealth & Investment Management Investment Strategy Committee (“GWIM ISC”) is responsible for developing and coordinating recommendations for short-term and long-term
+investment strategy and market views encompassing markets, economic indicators, asset classes and other market-related projections affecting GWIM.
+BofA Global Research is research produced by BofA Securities, Inc. (“BofAS”) and/or one or more of its affiliates. BofAS is a registered broker-dealer, Member SIPC and wholly owned subsidiary
+
+of Bank of America Corporation.
+Any materials indicated as prepared by Bank of America Institute are solely those of Bank of America Institute, and are not the product of the BofA Global Research department, Merrill or
+anyother department of Bank of America Corporation or its affiliates and/or subsidiaries (collectively Bank of America).
+All recommendations must be considered in the context of an individual investor’s goals, time horizon, liquidity needs and risk tolerance. Not all recommendations will be in the best interest
+
+of all investors.
+Asset allocation, diversification and rebalancing do not ensure a profit or protect against loss in declining markets.
+Investments have varying degrees of risk. Some of the risks involved with equity securities include the possibility that the value of the stocks may fluctuate in response to events specific to
+the companies or markets, as well as economic, political or social events in the U.S. or abroad. Small cap and mid cap companies pose special risks, including possible illiquidity and greater price
+
+volatility than funds consisting of larger, more established companies. Investing in fixed-income securities may involve certain risks, including the credit quality of individual issuers, possible
+prepayments, market or economic developments and yields and share price fluctuations due to changes in interest rates. When interest rates go up, bond prices typically drop, and vice versa.
+Investments in high-yield bonds (sometimes referred to as “junk bonds”) offer the potential for high current income and attractive total return, but involves certain risks. Changes in economic
+
+conditions or other circumstances may adversely affect a junk bond issuer’s ability to make principal and interest payments. Income from investing in municipal bonds is generally exempt
+from Federal and state taxes for residents of the issuing state. While the interest income is tax-exempt, any capital gains distributed are taxable to the investor. Income for some investors
+may be subject to the Federal Alternative Minimum Tax (AMT). Treasury bills are less volatile than longer-term fixed income securities and are guaranteed as to timely payment of principal and
+
+interest by the U.S. government. Bonds are subject to interest rate, inflation and credit risks. Investments in foreign securities (including ADRs) involve special risks, including foreign currency
+risk and the possibility of substantial volatility due to adverse political, economic or other developments. These risks are magnified for investments made in emerging markets. Investments in
+a certain industry or sector may pose additional risk due to lack of diversification and sector concentration. There are special risks associated with an investment in commodities, such as gold,
+
+in higher return potential but also higher loss potential. Changes in economic conditions or other circumstances may adversely affect your investments. Before you invest in alternative
+investments, you should consider your overall financial situation, how much money you have to invest, your need for liquidity and your tolerance for risk.
+Nonfinancial assets, such as closely-held businesses, real estate, fine art, oil, gas and mineral properties, and timber, farm and ranch land, are complex in nature and involve risks including total

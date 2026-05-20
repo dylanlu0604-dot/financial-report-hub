@@ -1,0 +1,466 @@
+[
+  {
+    "file": "sources/notebooklm_source_01.txt",
+    "characters": 12930,
+    "sections": 1,
+    "titles": [
+      "001__Merged"
+    ]
+  },
+  {
+    "file": "sources/notebooklm_source_02.txt",
+    "characters": 177864,
+    "sections": 1,
+    "titles": [
+      "002_Allianz_Trade_Merged part 1"
+    ]
+  },
+  {
+    "file": "sources/notebooklm_source_03.txt",
+    "characters": 166583,
+    "sections": 2,
+    "titles": [
+      "002_Allianz_Trade_Merged part 2",
+      "003_Bank_of_America_Merged"
+    ]
+  },
+  {
+    "file": "sources/notebooklm_source_04.txt",
+    "characters": 176850,
+    "sections": 1,
+    "titles": [
+      "004_BNP_Paribas_Merged part 1"
+    ]
+  },
+  {
+    "file": "sources/notebooklm_source_05.txt",
+    "characters": 107786,
+    "sections": 3,
+    "titles": [
+      "004_BNP_Paribas_Merged part 2",
+      "005_Cathay_Merged",
+      "006_CTBC_Merged"
+    ]
+  },
+  {
+    "file": "sources/notebooklm_source_06.txt",
+    "characters": 151491,
+    "sections": 1,
+    "titles": [
+      "007_DB_Research_Merged"
+    ]
+  },
+  {
+    "file": "sources/notebooklm_source_07.txt",
+    "characters": 117295,
+    "sections": 2,
+    "titles": [
+      "008_DBS_(Economics)_Merged",
+      "009_DBS_Merged"
+    ]
+  },
+  {
+    "file": "sources/notebooklm_source_08.txt",
+    "characters": 92982,
+    "sections": 1,
+    "titles": [
+      "010_DIR_Merged"
+    ]
+  },
+  {
+    "file": "sources/notebooklm_source_09.txt",
+    "characters": 177790,
+    "sections": 1,
+    "titles": [
+      "011_DLRI_Merged part 1"
+    ]
+  },
+  {
+    "file": "sources/notebooklm_source_10.txt",
+    "characters": 105928,
+    "sections": 1,
+    "titles": [
+      "011_DLRI_Merged part 2"
+    ]
+  },
+  {
+    "file": "sources/notebooklm_source_11.txt",
+    "characters": 98158,
+    "sections": 1,
+    "titles": [
+      "012_Fubon_Merged"
+    ]
+  },
+  {
+    "file": "sources/notebooklm_source_12.txt",
+    "characters": 173316,
+    "sections": 1,
+    "titles": [
+      "013_Goldman_Sachs_Merged part 1"
+    ]
+  },
+  {
+    "file": "sources/notebooklm_source_13.txt",
+    "characters": 174186,
+    "sections": 1,
+    "titles": [
+      "013_Goldman_Sachs_Merged part 2"
+    ]
+  },
+  {
+    "file": "sources/notebooklm_source_14.txt",
+    "characters": 109109,
+    "sections": 2,
+    "titles": [
+      "013_Goldman_Sachs_Merged part 3",
+      "014_Goldman_Sachs_Publishing_Merged"
+    ]
+  },
+  {
+    "file": "sources/notebooklm_source_15.txt",
+    "characters": 176502,
+    "sections": 1,
+    "titles": [
+      "015_Hankyung_Merged part 1"
+    ]
+  },
+  {
+    "file": "sources/notebooklm_source_16.txt",
+    "characters": 119829,
+    "sections": 3,
+    "titles": [
+      "015_Hankyung_Merged part 2",
+      "016_ING_Think_Merged",
+      "017_JRI_(EN)_Merged"
+    ]
+  },
+  {
+    "file": "sources/notebooklm_source_17.txt",
+    "characters": 166803,
+    "sections": 3,
+    "titles": [
+      "018_JRI_Merged",
+      "019_KBSV_(Company)_Merged",
+      "020_KBSV_(Macro)_Merged"
+    ]
+  },
+  {
+    "file": "sources/notebooklm_source_18.txt",
+    "characters": 159388,
+    "sections": 3,
+    "titles": [
+      "021_KBSV_(Strategy)_Merged",
+      "022_KBSV_(Thematic)_Merged",
+      "023_KGI_(凱基證券)_Merged"
+    ]
+  },
+  {
+    "file": "sources/notebooklm_source_19.txt",
+    "characters": 105108,
+    "sections": 3,
+    "titles": [
+      "024_Mega_Bank_(匯率利率資訊)_Merged",
+      "025_Mega_Bank_(國際經濟金融週報)_Merged",
+      "026_Mega_Bank_(投資研究週報)_Merged"
+    ]
+  },
+  {
+    "file": "sources/notebooklm_source_20.txt",
+    "characters": 123318,
+    "sections": 1,
+    "titles": [
+      "027_Merrill_Lynch_(CMO)_Merged"
+    ]
+  },
+  {
+    "file": "sources/notebooklm_source_21.txt",
+    "characters": 170349,
+    "sections": 1,
+    "titles": [
+      "028_Mizuho_Merged"
+    ]
+  },
+  {
+    "file": "sources/notebooklm_source_22.txt",
+    "characters": 126144,
+    "sections": 3,
+    "titles": [
+      "029_MOF_Merged",
+      "030_MURC_Merged",
+      "031_NLI_Merged"
+    ]
+  },
+  {
+    "file": "sources/notebooklm_source_23.txt",
+    "characters": 162667,
+    "sections": 2,
+    "titles": [
+      "032_Refinitiv_Lipper_Merged",
+      "033_Sony_FG_Merged"
+    ]
+  },
+  {
+    "file": "sources/notebooklm_source_24.txt",
+    "characters": 171569,
+    "sections": 5,
+    "titles": [
+      "034_WallstreetCN_(Global)_Merged",
+      "035_Wells_Fargo_(Indicators)_Merged",
+      "036_Wells_Fargo_(International_Outlook)_Merged",
+      "037_Wells_Fargo_(International_Reports)_Merged",
+      "038_Wells_Fargo_(Special_Reports)_Merged"
+    ]
+  },
+  {
+    "file": "sources/notebooklm_source_25.txt",
+    "characters": 48037,
+    "sections": 2,
+    "titles": [
+      "039_Wells_Fargo_(Us_Outlook)_Merged",
+      "040_Wells_Fargo_(Weekly_Commentary)_Merged"
+    ]
+  },
+  {
+    "file": "sources/notebooklm_source_26.txt",
+    "characters": 177657,
+    "sections": 1,
+    "titles": [
+      "041_Westpac_IQ_Merged part 1"
+    ]
+  },
+  {
+    "file": "sources/notebooklm_source_27.txt",
+    "characters": 172953,
+    "sections": 1,
+    "titles": [
+      "041_Westpac_IQ_Merged part 2"
+    ]
+  },
+  {
+    "file": "sources/notebooklm_source_28.txt",
+    "characters": 176105,
+    "sections": 1,
+    "titles": [
+      "041_Westpac_IQ_Merged part 3"
+    ]
+  },
+  {
+    "file": "sources/notebooklm_source_29.txt",
+    "characters": 175054,
+    "sections": 1,
+    "titles": [
+      "041_Westpac_IQ_Merged part 4"
+    ]
+  },
+  {
+    "file": "sources/notebooklm_source_30.txt",
+    "characters": 176616,
+    "sections": 1,
+    "titles": [
+      "041_Westpac_IQ_Merged part 5"
+    ]
+  },
+  {
+    "file": "sources/notebooklm_source_31.txt",
+    "characters": 176246,
+    "sections": 7,
+    "titles": [
+      "041_Westpac_IQ_Merged part 6",
+      "042_YesFund_Merged",
+      "043_Yuanta_(市場評論)_Merged",
+      "044_Yuanta_(投資月報)_Merged",
+      "045_Yuanta_(投資週報)_Merged",
+      "046_万联证券_Merged",
+      "047_上海证券_Merged"
+    ]
+  },
+  {
+    "file": "sources/notebooklm_source_32.txt",
+    "characters": 91327,
+    "sections": 3,
+    "titles": [
+      "048_世界银行_Merged",
+      "049_世纪证券_Merged",
+      "050_东兴证券_Merged"
+    ]
+  },
+  {
+    "file": "sources/notebooklm_source_33.txt",
+    "characters": 177055,
+    "sections": 9,
+    "titles": [
+      "051_东吴证券_Merged",
+      "052_东方金诚_Merged",
+      "053_东海期货_Merged",
+      "054_东海证券_Merged",
+      "055_东莞证券_Merged",
+      "056_东证期货_Merged",
+      "057_丝路海洋(北京)科技_Merged",
+      "058_中信期货_Merged",
+      "059_中国电子信息产业发展研究院_Merged"
+    ]
+  },
+  {
+    "file": "sources/notebooklm_source_34.txt",
+    "characters": 178016,
+    "sections": 1,
+    "titles": [
+      "060_中央銀行_(CBC)_Merged part 1"
+    ]
+  },
+  {
+    "file": "sources/notebooklm_source_35.txt",
+    "characters": 172376,
+    "sections": 8,
+    "titles": [
+      "060_中央銀行_(CBC)_Merged part 2",
+      "061_中泰期货_Merged",
+      "062_中航证券_Merged",
+      "063_中证鹏元国际_Merged",
+      "064_中诚信国际_Merged",
+      "065_中辉期货_Merged",
+      "066_中邮证券_Merged",
+      "067_中银证券_Merged"
+    ]
+  },
+  {
+    "file": "sources/notebooklm_source_36.txt",
+    "characters": 125610,
+    "sections": 10,
+    "titles": [
+      "068_五矿证券_Merged",
+      "069_交银国际证券_Merged",
+      "070_佛山金控期货_Merged",
+      "071_信达证券_Merged",
+      "072_光大期货_Merged",
+      "073_冠通期货_Merged",
+      "074_北京湛庐文化传播_Merged",
+      "075_北大国民经济研究中心_Merged",
+      "076_华泰期货_Merged",
+      "077_华源证券_Merged"
+    ]
+  },
+  {
+    "file": "sources/notebooklm_source_37.txt",
+    "characters": 173470,
+    "sections": 11,
+    "titles": [
+      "078_华联期货_Merged",
+      "079_华金证券_Merged",
+      "080_华鑫期货_Merged",
+      "081_华鑫证券_Merged",
+      "082_国信期货_Merged",
+      "083_国信证券_Merged",
+      "084_国元国际控股_Merged",
+      "085_国元证券_Merged",
+      "086_国投期货_Merged",
+      "087_国新证券股份_Merged",
+      "088_国泰君安期货_Merged"
+    ]
+  },
+  {
+    "file": "sources/notebooklm_source_38.txt",
+    "characters": 174099,
+    "sections": 17,
+    "titles": [
+      "089_国联期货_Merged",
+      "090_国贸期货_Merged",
+      "091_国金证券_Merged",
+      "092_大公国际资信评估_Merged",
+      "093_大同证券_Merged",
+      "094_天富期货_Merged",
+      "095_太平洋_Merged",
+      "096_头豹研究院_Merged",
+      "097_安永(中国)企业咨询_Merged",
+      "098_宏源期货_Merged",
+      "099_宝城期货_Merged",
+      "100_山西证券_Merged",
+      "101_山金期货_Merged",
+      "102_工银亚洲_Merged",
+      "103_广发期货_Merged",
+      "104_建信期货_Merged",
+      "105_建银国际证券_Merged"
+    ]
+  },
+  {
+    "file": "sources/notebooklm_source_39.txt",
+    "characters": 128458,
+    "sections": 12,
+    "titles": [
+      "106_开源证券_Merged",
+      "107_惠誉博华信用评级_Merged",
+      "108_招银国际_Merged",
+      "109_方正中期期货_Merged",
+      "110_格林期货_Merged",
+      "111_民银证券_Merged",
+      "112_浙商国际金融控股_Merged",
+      "113_浙商期货_Merged",
+      "114_浦银国际证券_Merged",
+      "115_海通国际_Merged",
+      "116_深圳来觅数据信息科技_Merged",
+      "117_深圳汉鼎智库咨询服务_Merged"
+    ]
+  },
+  {
+    "file": "sources/notebooklm_source_40.txt",
+    "characters": 175416,
+    "sections": 1,
+    "titles": [
+      "118_渣打銀行_(Global_Market_Outlook)_Merged part 1"
+    ]
+  },
+  {
+    "file": "sources/notebooklm_source_41.txt",
+    "characters": 152640,
+    "sections": 3,
+    "titles": [
+      "118_渣打銀行_(Global_Market_Outlook)_Merged part 2",
+      "119_渣打銀行_(Market_Views)_Merged",
+      "120_渣打銀行_(Market_Watch)_Merged"
+    ]
+  },
+  {
+    "file": "sources/notebooklm_source_42.txt",
+    "characters": 175498,
+    "sections": 2,
+    "titles": [
+      "121_渣打銀行_(Thematic_Reports)_Merged",
+      "122_渣打銀行_(Weekly_Market_Views)_Merged"
+    ]
+  },
+  {
+    "file": "sources/notebooklm_source_43.txt",
+    "characters": 179388,
+    "sections": 16,
+    "titles": [
+      "123_源达信息_Merged",
+      "124_瑞达期货_Merged",
+      "125_科尔尼_Merged",
+      "126_第一创业_Merged",
+      "127_粤开证券_Merged",
+      "128_紫金天风_Merged",
+      "129_联储证券_Merged",
+      "130_联合资信评估_Merged",
+      "131_艾瑞股份_Merged",
+      "132_英图博略品牌咨询(上海)_Merged",
+      "133_英大证券_Merged",
+      "134_西南期货_Merged",
+      "135_西南证券_Merged",
+      "136_诚通证券_Merged",
+      "137_迈科期货_Merged",
+      "138_远东资信_Merged"
+    ]
+  },
+  {
+    "file": "sources/notebooklm_source_44.txt",
+    "characters": 55975,
+    "sections": 5,
+    "titles": [
+      "139_金融街证券_Merged",
+      "140_铜冠金源期货_Merged",
+      "141_银河期货_Merged",
+      "142_银泰证券_Merged",
+      "143_香港科技大学利丰供应链研究院_Merged"
+    ]
+  }
+]
