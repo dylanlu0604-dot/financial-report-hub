@@ -484,35 +484,52 @@ if (!window.__fiveSourceNotebookLmImporterLoaded) {
   }
 
   async function saveFirstAnswerToNote() {
-    progress("等待步驟 1 回答完成，準備儲存至記事...");
+    progress("等待步驟 1 回答完成：先固定等待 60 秒...");
+    await sleep(60000);
 
-    const ready = await waitFor(() => {
-      const saveButton = findSaveToNoteButton();
-      if (saveButton && visibleText().includes("你想先展開哪個地區")) return saveButton;
-      if (saveButton && /85 個主題|85個主題|美國 10|美國10|你想先展開哪個地區/.test(visibleText())) return saveButton;
-      return null;
-    }, 300000, 1500);
+    for (let attempt = 1; attempt <= 3; attempt += 1) {
+      progress(`第 ${attempt}/3 次嘗試儲存至記事...`);
 
-    if (!ready) {
-      progress(`找不到「儲存至記事」按鈕。目前可點文字：${listClickableLabels().join(" | ")}`, "warn");
-      throw new Error("找不到儲存至記事按鈕");
+      const ready = await waitFor(() => {
+        const saveButton = findSaveToNoteButton();
+        if (saveButton && visibleText().includes("你想先展開哪個地區")) return saveButton;
+        if (saveButton && /85 個主題|85個主題|美國 10|美國10|你想先展開哪個地區/.test(visibleText())) return saveButton;
+        return null;
+      }, 90000, 1500);
+
+      if (!ready) {
+        progress(`第 ${attempt}/3 次找不到「儲存至記事」按鈕。`, "warn");
+        if (attempt < 3) {
+          progress("再等待 30 秒後重試...");
+          await sleep(30000);
+          continue;
+        }
+        progress(`目前可點文字：${listClickableLabels().join(" | ")}`, "warn");
+        throw new Error("找不到儲存至記事按鈕");
+      }
+
+      await clickElement(ready, "點擊儲存至記事");
+
+      const saved = await waitFor(() => {
+        const text = visibleText();
+        if (/已儲存|儲存成功|已加入記事|記事已儲存|已新增至記事|saved|note saved/i.test(text)) return "confirmed";
+        const stillHasButton = findSaveToNoteButton();
+        return stillHasButton ? null : "button-gone";
+      }, 15000, 500);
+
+      if (saved) {
+        progress("步驟 1 回答已儲存至記事", "ok");
+        return;
+      }
+
+      progress(`第 ${attempt}/3 次已點擊，但尚未確認儲存完成。`, "warn");
+      if (attempt < 3) {
+        progress("再等待 30 秒後重試...");
+        await sleep(30000);
+      }
     }
 
-    await clickElement(ready, "點擊儲存至記事");
-
-    const saved = await waitFor(() => {
-      const text = visibleText();
-      if (/已儲存|儲存成功|已加入記事|記事已儲存|已新增至記事|saved|note saved/i.test(text)) return "confirmed";
-      const stillHasButton = findSaveToNoteButton();
-      return stillHasButton ? null : "button-gone";
-    }, 12000, 500);
-
-    if (!saved) {
-      progress("已送出儲存至記事動作；NotebookLM 沒有顯示確認提示，流程繼續。", "ok");
-      return;
-    }
-
-    progress("步驟 1 回答已儲存至記事", "ok");
+    progress("已完成 3 次儲存嘗試；NotebookLM 沒有顯示確認提示，流程繼續。", "warn");
   }
 
   async function submitSourceUrl(url) {
