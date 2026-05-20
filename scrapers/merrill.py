@@ -1,5 +1,79 @@
+import io
+import re
 import requests
 from datetime import datetime, timedelta
+
+MONTH_MAP = {
+    "january": 1, "february": 2, "march": 3, "april": 4,
+    "may": 5, "june": 6, "july": 7, "august": 8,
+    "september": 9, "october": 10, "november": 11, "december": 12,
+}
+
+# ==========================================
+# 🗓️ 從 PDF 內文擷取寶誥日期
+# 內文範例："All data, projections and opinions are as of April 7, 2026 and subject to change."
+# ==========================================
+def extract_as_of_date(pdf_bytes):
+    try:
+        import pdfplumber
+        with pdfplumber.open(io.BytesIO(pdf_bytes)) as pdf:
+            text = ""
+            for page in pdf.pages:
+                text += (page.extract_text() or "") + "\n"
+    except Exception:
+        return None
+
+    m = re.search(
+        r"as of\s+([A-Za-z]+)\s+(\d{1,2}),?\s+(\d{4})",
+        text,
+        flags=re.IGNORECASE,
+    )
+    if not m:
+        return None
+    month = MONTH_MAP.get(m.group(1).lower())
+    if not month:
+        return None
+    return f"{int(m.group(3))}-{month:02d}-{int(m.group(2)):02d}"
+
+# ==========================================
+# 🕷️ ML Viewpoint (每月一篇) 探測：網址月份格式如 Apr2026 / May2026
+# ==========================================
+def scrape_viewpoint(headers):
+    print("🔍 正在爬取 Merrill Lynch (美林) - ML Viewpoint (過去 6 個月)...")
+    reports = []
+    today = datetime.now()
+
+    seen_months = set()
+    for i in range(7):
+        # 往前回推 i 個月 (用每月 1 號避免跨月誤差)
+        target = (today.replace(day=1) - timedelta(days=i * 30)).replace(day=1)
+        month_tag = target.strftime("%b%Y")  # 例如 Apr2026
+        if month_tag in seen_months:
+            continue
+        seen_months.add(month_tag)
+
+        url = f"https://mlaem.fs.ml.com/content/dam/ML/ecomm/pdf/ML_Viewpoint_{month_tag}_eComm.pdf"
+
+        try:
+            res = requests.get(url, headers=headers, timeout=15)
+            if res.status_code == 200 and (
+                'application/pdf' in res.headers.get('Content-Type', '').lower()
+                or res.content[:4] == b'%PDF'
+            ):
+                date_str = extract_as_of_date(res.content) or target.strftime("%Y-%m-%d")
+                reports.append({
+                    "Source": "Merrill Lynch (Viewpoint)",
+                    "Date": date_str,
+                    "Name": f"Viewpoint ({month_tag})",
+                    "Link": url,
+                    "Type": "PDF"
+                })
+                print(f"    ✅ 命中目標: 發現 {month_tag} 的 Viewpoint 報告！(寶誥日期 {date_str})")
+        except requests.exceptions.RequestException:
+            pass
+
+    print(f"  ✅ ML Viewpoint 最終成功收錄 {len(reports)} 篇【真實 PDF 報告】")
+    return reports
 
 # ==========================================
 # 🕷️ 主爬蟲程式：Merrill Lynch (美林 CMO)
@@ -58,6 +132,10 @@ def scrape():
             pass
 
     print(f"  ✅ Merrill Lynch 最終成功收錄 {len(reports)} 篇【真實 PDF 報告】")
+
+    # 🌟 一併探測每月的 ML Viewpoint 報告
+    reports.extend(scrape_viewpoint(headers))
+
     return reports
 
 if __name__ == "__main__":
