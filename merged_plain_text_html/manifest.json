@@ -2,40 +2,40 @@
   {
     "file": "source1.html",
     "documents": 11,
-    "characters": 1290390,
-    "bytes": 1997765,
+    "characters": 1286321,
+    "bytes": 1996905,
     "first_title": "001__Merged",
     "last_title": "011_DLRI_Merged"
   },
   {
     "file": "source2.html",
     "documents": 15,
-    "characters": 1286013,
-    "bytes": 1807134,
+    "characters": 1281103,
+    "bytes": 1806388,
     "first_title": "012_Fubon_Merged",
     "last_title": "026_Mega_Bank_(投資研究週報)_Merged"
   },
   {
     "file": "source3.html",
     "documents": 15,
-    "characters": 1700297,
-    "bytes": 2348436,
+    "characters": 1693503,
+    "bytes": 2347351,
     "first_title": "027_Merrill_Lynch_(CMO)_Merged",
     "last_title": "041_Westpac_IQ_Merged"
   },
   {
     "file": "source4.html",
     "documents": 68,
-    "characters": 1323689,
-    "bytes": 2752332,
+    "characters": 1317046,
+    "bytes": 2750932,
     "first_title": "042_YesFund_Merged",
     "last_title": "109_方正中期期货_Merged"
   },
   {
     "file": "source5.html",
     "documents": 34,
-    "characters": 803268,
-    "bytes": 1136064,
+    "characters": 799230,
+    "bytes": 1135494,
     "first_title": "110_格林期货_Merged",
     "last_title": "143_香港科技大学利丰供应链研究院_Merged"
   }

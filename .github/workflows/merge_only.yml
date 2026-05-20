@@ -1,7 +1,7 @@
-name: 單獨合併 PDF (不執行爬蟲)
+name: 單獨合併 PDF 與 NotebookLM HTML
 
 on:
-  workflow_dispatch: # 👈 這個魔法設定讓您可以在網頁上手動點擊執行
+  workflow_dispatch:
 
 jobs:
   merge-pdfs:
@@ -10,24 +10,30 @@ jobs:
       contents: write
 
     steps:
-      - name: 📥 取得最新報告與資料庫
+      - name: 取得最新報告與資料庫
         uses: actions/checkout@v4
 
-      - name: 🐍 設定 Python 環境
+      - name: 設定 Python 環境
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
-      - name: 📦 安裝 PDF 合併套件
-        run: pip install pypdf
+      - name: 安裝 PDF 套件
+        run: |
+          python -m pip install --upgrade pip
+          pip install pypdf
 
-      - name: 🗂️ 執行合併程式
+      - name: 執行合併程式
         run: python merge_pdfs.py
 
-      - name: 💾 將合併好的檔案推播回倉庫
+      - name: 產生 NotebookLM HTML sources
+        run: python build_merged_plain_text_html.py
+
+      - name: 將合併與 HTML 檔案推回倉庫
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add merged_pdfs/
-          git commit -m "Manual trigger: Auto-merge PDFs" || exit 0
+          git add merged_pdfs/ merged_plain_text_html/
+          git add build_merged_plain_text_html.py boilerplate_filter.py
+          git commit -m "Manual trigger: Auto-merge PDFs and NotebookLM HTML" || exit 0
           git push

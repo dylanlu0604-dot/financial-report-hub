@@ -5,12 +5,10 @@ on:
     - cron: '0 4,8,14,23 * * *'
   workflow_dispatch:
 
-# 避免多個 Pages 部署同時排隊，新的會自動取消舊的
 concurrency:
   group: pages
   cancel-in-progress: true
 
-# 設定權限，允許機器人把爬到的資料存回 GitHub
 permissions:
   contents: write
 
@@ -25,9 +23,8 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.10' # 可依據你的開發環境調整版本
+          python-version: '3.10'
 
-     # 🌟🌟🌟 新增這一段：幫 Ubuntu 伺服器安裝 Google Noto 中文字型 🌟🌟🌟
       - name: Install Chinese Fonts
         run: |
           sudo apt-get update
@@ -36,12 +33,10 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install pypdf  # 👈 確保合併套件有被安裝
-          # 確保你的 requirements.txt 裡面有包含 playwright 和 bs4 等套件
+          pip install pypdf
           pip install -r requirements.txt
 
       - name: Install Playwright Browsers
-        # 這是處理動態網頁的關鍵步驟，只安裝 chromium 即可節省執行時間
         run: playwright install chromium
 
       - name: Run Scraper
@@ -49,18 +44,19 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.AITEST }}
 
-      # 👇👇👇 新增這一段：在主程式抓完後，自動執行合併 PDF 👇👇👇
       - name: Merge PDFs by Source
         run: python merge_pdfs.py
 
+      - name: Build NotebookLM HTML sources
+        run: python build_merged_plain_text_html.py
+
       - name: Commit and push changes
-        # 將爬取後產生的新資料 推播回 GitHub
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          
-          # 🌟 在這裡加上 "merged_pdfs/" 資料夾，讓 GitHub 把合併好的檔案也存起來
-          git add data/ index.html "all report pdf/" merged_pdfs/
-          
-          git commit -m "Auto-update reports and download new PDFs" || echo "No changes to commit"
+
+          git add data/ index.html "all report pdf/" merged_pdfs/ merged_plain_text_html/
+          git add build_merged_plain_text_html.py boilerplate_filter.py
+
+          git commit -m "Auto-update reports and NotebookLM HTML sources" || echo "No changes to commit"
           git push
