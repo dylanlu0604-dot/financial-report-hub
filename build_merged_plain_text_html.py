@@ -132,10 +132,18 @@ def render_source_html(index: int, documents: list[dict]) -> str:
 """
 
 
+def render_source_text(index: int, documents: list[dict]) -> str:
+    sections = [f"# Financial Report Source {index}"]
+    for doc in documents:
+        sections.append(f"## {doc['title']}\n\n{doc['text'].strip()}")
+    return "\n\n".join(sections).strip() + "\n"
+
+
 def render_index(manifest: list[dict], generated_at: str) -> str:
     rows = "\n".join(
         f"""<tr>
-  <td><a href="{html.escape(item["file"], quote=True)}">{html.escape(item["file"])}</a></td>
+  <td><a href="{html.escape(item["html_file"], quote=True)}">{html.escape(item["html_file"])}</a></td>
+  <td><a href="{html.escape(item["text_file"], quote=True)}">{html.escape(item["text_file"])}</a></td>
   <td>{item["documents"]}</td>
   <td>{item["characters"]:,}</td>
   <td>{html.escape(item["first_title"])}</td>
@@ -158,10 +166,10 @@ def render_index(manifest: list[dict], generated_at: str) -> str:
 </head>
 <body>
   <h1>Merged Plain Text HTML Sources</h1>
-  <p>Generated at {html.escape(generated_at)} from <code>merged_pdfs/</code>. Fixed output: 5 HTML sources.</p>
+  <p>Generated at {html.escape(generated_at)} from <code>merged_pdfs/</code>. Fixed output: 5 HTML sources plus 5 plain text sources for NotebookLM URL import.</p>
   <table>
     <thead>
-      <tr><th>File</th><th>Documents</th><th>Characters</th><th>First</th><th>Last</th></tr>
+      <tr><th>HTML</th><th>NotebookLM TXT</th><th>Documents</th><th>Characters</th><th>First</th><th>Last</th></tr>
     </thead>
     <tbody>
 {rows}
@@ -254,32 +262,40 @@ def main() -> None:
     raw_urls = []
 
     for index, bucket in enumerate(buckets, 1):
-        file_name = f"source{index}.html"
+        html_file_name = f"source{index}.html"
+        text_file_name = f"source{index}.txt"
         html_content = render_source_html(index, bucket)
-        out_path = OUT_DIR / file_name
-        out_path.write_text(html_content, encoding="utf-8")
+        text_content = render_source_text(index, bucket)
+        html_path = OUT_DIR / html_file_name
+        text_path = OUT_DIR / text_file_name
+        html_path.write_text(html_content, encoding="utf-8")
+        text_path.write_text(text_content, encoding="utf-8")
         first_title = bucket[0]["title"] if bucket else ""
         last_title = bucket[-1]["title"] if bucket else ""
         manifest.append(
             {
-                "file": file_name,
+                "html_file": html_file_name,
+                "text_file": text_file_name,
                 "documents": len(bucket),
                 "characters": sum(doc["characters"] for doc in bucket),
-                "bytes": out_path.stat().st_size,
+                "html_bytes": html_path.stat().st_size,
+                "text_bytes": text_path.stat().st_size,
                 "first_title": first_title,
                 "last_title": last_title,
             }
         )
-        raw_urls.append(f"{RAW_URL_BASE}/{file_name}")
+        raw_urls.append(f"{RAW_URL_BASE}/{text_file_name}")
 
     (OUT_DIR / "index.html").write_text(render_index(manifest, generated_at), encoding="utf-8")
     (OUT_DIR / "manifest.json").write_text(json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8")
     (OUT_DIR / "raw_urls.txt").write_text("\n".join(raw_urls) + "\n", encoding="utf-8")
 
     print(f"Built {SOURCE_COUNT} HTML sources in {OUT_DIR}")
+    print(f"Built {SOURCE_COUNT} plain text sources in {OUT_DIR}")
     print(f"Total documents: {len(documents)}")
     print(f"Total characters: {sum(item['characters'] for item in manifest):,}")
-    print(f"Largest HTML file: {max(item['bytes'] for item in manifest):,} bytes")
+    print(f"Largest HTML file: {max(item['html_bytes'] for item in manifest):,} bytes")
+    print(f"Largest text file: {max(item['text_bytes'] for item in manifest):,} bytes")
 
 
 if __name__ == "__main__":

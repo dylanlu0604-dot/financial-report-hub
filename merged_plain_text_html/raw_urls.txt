@@ -1,5 +1,5 @@
-https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/refs/heads/main/merged_plain_text_html/source1.html
-https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/refs/heads/main/merged_plain_text_html/source2.html
-https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/refs/heads/main/merged_plain_text_html/source3.html
-https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/refs/heads/main/merged_plain_text_html/source4.html
-https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/refs/heads/main/merged_plain_text_html/source5.html
+https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/refs/heads/main/merged_plain_text_html/source1.txt
+https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/refs/heads/main/merged_plain_text_html/source2.txt
+https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/refs/heads/main/merged_plain_text_html/source3.txt
+https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/refs/heads/main/merged_plain_text_html/source4.txt
+https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/refs/heads/main/merged_plain_text_html/source5.txt
