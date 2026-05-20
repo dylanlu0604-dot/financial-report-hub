@@ -279,6 +279,11 @@ if (!window.__fiveSourceNotebookLmImporterLoaded) {
     }) || null;
   }
 
+  function textFieldValue(field) {
+    if (!field) return "";
+    return "value" in field ? field.value : field.textContent || "";
+  }
+
   function setFieldValue(field, value) {
     field.focus();
     field.click();
@@ -294,6 +299,132 @@ if (!window.__fiveSourceNotebookLmImporterLoaded) {
     setter ? setter.call(field, value) : (field.value = value);
     field.dispatchEvent(new Event("input", { bubbles: true }));
     field.dispatchEvent(new Event("change", { bubbles: true }));
+  }
+
+  function chatInputCandidates() {
+    return Array.from(document.querySelectorAll("textarea, [contenteditable='true'], [role='textbox'], input"))
+      .filter(isVisible)
+      .filter((field) => {
+        const tag = field.tagName;
+        const type = (field.getAttribute("type") || "text").toLowerCase();
+        if (tag === "INPUT" && !["text", "search"].includes(type)) return false;
+
+        const label = [
+          field.getAttribute("aria-label"),
+          field.getAttribute("placeholder"),
+          field.getAttribute("title"),
+          field.getAttribute("name"),
+          field.getAttribute("data-placeholder"),
+          field.textContent
+        ].map(norm).join(" ").toLowerCase();
+
+        if (/url|網址|連結|link|website|source|來源|title|標題|notebook|筆記本/.test(label)) return false;
+        return true;
+      });
+  }
+
+  function findChatTextbox() {
+    const fields = chatInputCandidates();
+    const preferred = fields.find((field) => {
+      const label = [
+        field.getAttribute("aria-label"),
+        field.getAttribute("placeholder"),
+        field.getAttribute("title"),
+        field.getAttribute("data-placeholder"),
+        field.textContent
+      ].map(norm).join(" ").toLowerCase();
+      return /ask|question|chat|message|prompt|提問|問題|詢問|訊息|輸入|傳送/.test(label);
+    });
+    if (preferred) return preferred;
+
+    return fields.find((field) => {
+      const rect = field.getBoundingClientRect();
+      return rect.width >= 240 && rect.bottom > window.innerHeight * 0.45;
+    }) || fields.at(-1) || null;
+  }
+
+  function nearestChatRoot(field) {
+    let current = field;
+    for (let i = 0; current && i < 6; i += 1) {
+      if (current.querySelectorAll?.("button, [role='button']").length) return current;
+      current = current.parentElement;
+    }
+    return document;
+  }
+
+  function findSubmitQuestionButton(field) {
+    const root = nearestChatRoot(field);
+    const labels = [
+      "送出",
+      "傳送",
+      "提交",
+      "Send",
+      "Submit",
+      "Ask",
+      "arrow_upward",
+      "arrow_upward_alt",
+      "send"
+    ];
+
+    const exclude = (el) => {
+      const label = labelOf(el).toLowerCase();
+      return el.disabled ||
+        el.getAttribute("aria-disabled") === "true" ||
+        /新增來源|add source|建立|create|分享|share|設定|settings|mic|麥克風|來源|source/.test(label);
+    };
+
+    const labeled = findClickableIn(root, labels, { exclude });
+    if (labeled) return labeled;
+
+    const rootButtons = scopedClickableElements(root).filter((el) => !exclude(el));
+    const fieldRect = field.getBoundingClientRect();
+    return rootButtons
+      .map((el) => ({ el, rect: el.getBoundingClientRect() }))
+      .filter(({ rect }) => rect.left >= fieldRect.left && rect.top >= fieldRect.top - 40)
+      .sort((a, b) => (a.rect.top - b.rect.top) || (b.rect.left - a.rect.left))[0]?.el || null;
+  }
+
+  async function submitFirstQuestion(firstQuestion) {
+    if (!firstQuestion) return;
+
+    progress("等待 30 秒，讓 NotebookLM 處理來源...");
+    await sleep(30000);
+    progress("準備輸入第一個問題...");
+
+    const textbox = await waitFor(() => findChatTextbox(), 30000, 500);
+    if (!textbox) {
+      progress(`找不到 NotebookLM 提問欄。目前可點文字：${listClickableLabels().join(" | ")}`, "warn");
+      throw new Error("找不到 NotebookLM 提問欄");
+    }
+
+    textbox.scrollIntoView({ block: "center", inline: "center" });
+    await sleep(300);
+    setFieldValue(textbox, firstQuestion);
+    await sleep(900);
+
+    const submit = await waitFor(() => findSubmitQuestionButton(textbox), 10000, 300);
+    if (submit) {
+      progress(`送出第一個問題：${labelOf(submit) || "送出按鈕"}`);
+      submit.click();
+    } else {
+      progress("找不到送出問題按鈕，改用 Ctrl+Enter 嘗試送出", "warn");
+      textbox.dispatchEvent(new KeyboardEvent("keydown", { key: "Enter", code: "Enter", keyCode: 13, ctrlKey: true, bubbles: true }));
+      textbox.dispatchEvent(new KeyboardEvent("keyup", { key: "Enter", code: "Enter", keyCode: 13, ctrlKey: true, bubbles: true }));
+    }
+
+    const sent = await waitFor(() => {
+      const value = norm(textFieldValue(textbox));
+      if (!value || !value.includes("步驟 1")) return true;
+      if (visibleText().includes("你想先展開哪個地區")) return true;
+      return null;
+    }, 15000, 500);
+
+    if (!sent) {
+      progress("第一個問題可能尚未送出，請確認提問欄是否仍保留文字。", "warn");
+      throw new Error("第一個問題送出未完成");
+    }
+
+    progress("第一個問題已送出", "ok");
   }
 
   async function submitSourceUrl(url) {
@@ -340,7 +471,7 @@ if (!window.__fiveSourceNotebookLmImporterLoaded) {
       const bodyText = visibleText();
       if (/無法|失敗|錯誤|invalid|failed|error|too long|字數|來源過長/i.test(bodyText)) return "error";
       if (!stillSameDialog) return "closed";
-      const currentValue = "value" in textbox ? textbox.value : textbox.textContent;
+      const currentValue = textFieldValue(textbox);
       if (!norm(currentValue).includes(url.slice(0, 40))) return "cleared";
       return null;
     }, 20000, 500);
@@ -416,13 +547,14 @@ if (!window.__fiveSourceNotebookLmImporterLoaded) {
     }
   }
 
-  async function run({ title, urls }) {
+  async function run({ title, urls, firstQuestion }) {
     ensureStatusPanel().textContent = "";
     progress("開始建立 NotebookLM 報告集...");
     progress(`目標名稱：${title}`);
     await createNotebook();
     await importUrls(urls);
     await renameNotebook(title);
+    await submitFirstQuestion(firstQuestion);
     progress("流程完成。若 NotebookLM 還在處理來源，請等待它完成解析。", "ok");
   }
 
