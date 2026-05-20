@@ -359,6 +359,26 @@ if (!window.__fiveSourceNotebookLmImporterLoaded) {
     field.dispatchEvent(new KeyboardEvent("keyup", eventOptions));
   }
 
+  async function clickElement(el, description) {
+    el.scrollIntoView({ block: "center", inline: "center" });
+    await sleep(300);
+    progress(`${description}：${labelOf(el) || "目標按鈕"}`);
+    const rect = el.getBoundingClientRect();
+    const options = {
+      bubbles: true,
+      cancelable: true,
+      view: window,
+      clientX: rect.left + rect.width / 2,
+      clientY: rect.top + rect.height / 2
+    };
+    el.dispatchEvent(new MouseEvent("mouseover", options));
+    el.dispatchEvent(new MouseEvent("mousemove", options));
+    el.dispatchEvent(new MouseEvent("mousedown", options));
+    el.dispatchEvent(new MouseEvent("mouseup", options));
+    el.dispatchEvent(new MouseEvent("click", options));
+    await sleep(300);
+  }
+
   function chatInputCandidates() {
     return Array.from(document.querySelectorAll("textarea, [contenteditable='true'], [role='textbox'], input"))
       .filter(isVisible)
@@ -478,20 +498,17 @@ if (!window.__fiveSourceNotebookLmImporterLoaded) {
       throw new Error("找不到儲存至記事按鈕");
     }
 
-    progress(`點擊儲存至記事：${labelOf(ready) || "儲存至記事"}`);
-    ready.scrollIntoView({ block: "center", inline: "center" });
-    await sleep(300);
-    ready.click();
+    await clickElement(ready, "點擊儲存至記事");
 
     const saved = await waitFor(() => {
       const text = visibleText();
-      if (/已儲存|儲存成功|已加入記事|saved|note saved/i.test(text)) return true;
+      if (/已儲存|儲存成功|已加入記事|記事已儲存|已新增至記事|saved|note saved/i.test(text)) return "confirmed";
       const stillHasButton = findSaveToNoteButton();
-      return stillHasButton ? null : true;
-    }, 20000, 500);
+      return stillHasButton ? null : "button-gone";
+    }, 12000, 500);
 
     if (!saved) {
-      progress("已點擊儲存至記事，但沒有確認到儲存完成提示。", "warn");
+      progress("已送出儲存至記事動作；NotebookLM 沒有顯示確認提示，流程繼續。", "ok");
       return;
     }
 
