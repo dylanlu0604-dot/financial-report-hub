@@ -3,10 +3,15 @@ if (!window.__fiveSourceNotebookLmImporterLoaded) {
 
   const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
   const norm = (value) => (value || "").replace(/\s+/g, " ").trim();
+  window.__fiveSourceNlmStatusHidden = false;
 
-  function ensureStatusPanel() {
+  function ensureStatusPanel(force = false) {
+    if (force) window.__fiveSourceNlmStatusHidden = false;
+    if (window.__fiveSourceNlmStatusHidden) return null;
+
     let panel = document.getElementById("five-source-nlm-status");
-    if (panel) return panel;
+    let body = document.getElementById("five-source-nlm-status-body");
+    if (panel && body) return body;
 
     panel = document.createElement("div");
     panel.id = "five-source-nlm-status";
@@ -18,7 +23,6 @@ if (!window.__fiveSourceNotebookLmImporterLoaded) {
       "width:360px",
       "max-height:45vh",
       "overflow:auto",
-      "padding:12px",
       "border-radius:10px",
       "box-shadow:0 8px 28px rgba(0,0,0,.22)",
       "background:#fff",
@@ -26,13 +30,55 @@ if (!window.__fiveSourceNotebookLmImporterLoaded) {
       "font:12px/1.45 -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif",
       "white-space:pre-wrap"
     ].join(";");
-    panel.textContent = "NotebookLM 匯入器準備中...\n";
+    const header = document.createElement("div");
+    header.style.cssText = [
+      "display:flex",
+      "align-items:center",
+      "justify-content:space-between",
+      "gap:8px",
+      "padding:8px 10px",
+      "border-bottom:1px solid #e8eaed",
+      "font-weight:600"
+    ].join(";");
+    header.textContent = "NotebookLM 匯入器";
+
+    const close = document.createElement("button");
+    close.type = "button";
+    close.setAttribute("aria-label", "關閉匯入器狀態框");
+    close.textContent = "x";
+    close.style.cssText = [
+      "width:24px",
+      "height:24px",
+      "border:0",
+      "border-radius:12px",
+      "background:#f1f3f4",
+      "color:#3c4043",
+      "font:16px/24px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif",
+      "cursor:pointer"
+    ].join(";");
+    close.addEventListener("click", () => {
+      window.__fiveSourceNlmStatusHidden = true;
+      panel.remove();
+    });
+    header.appendChild(close);
+
+    body = document.createElement("div");
+    body.id = "five-source-nlm-status-body";
+    body.style.cssText = "padding:10px 12px;";
+    body.textContent = "NotebookLM 匯入器準備中...\n";
+
+    panel.appendChild(header);
+    panel.appendChild(body);
     document.documentElement.appendChild(panel);
-    return panel;
+    return body;
   }
 
   function progress(text, cls = "") {
     const panel = ensureStatusPanel();
+    if (!panel) {
+      console.log("[NotebookLM 5-source importer]", text);
+      return;
+    }
     const line = document.createElement("div");
     line.textContent = text;
     if (cls === "ok") line.style.color = "#188038";
@@ -427,59 +473,174 @@ if (!window.__fiveSourceNotebookLmImporterLoaded) {
     }
   }
 
-  async function renameNotebook(title) {
-    progress(`嘗試命名筆記本：${title}`);
-    await sleep(1500);
+  function isEditableField(el) {
+    return Boolean(el && (
+      ("value" in el && /INPUT|TEXTAREA/.test(el.tagName)) ||
+      el.getAttribute("contenteditable") === "true" ||
+      el.getAttribute("role") === "textbox"
+    ));
+  }
 
-    const candidates = Array.from(document.querySelectorAll([
+  function titleCandidateText(el) {
+    return norm([
+      el?.innerText,
+      el?.textContent,
+      el?.value,
+      el?.getAttribute?.("aria-label"),
+      el?.getAttribute?.("title"),
+      el?.getAttribute?.("placeholder"),
+      el?.getAttribute?.("data-testid"),
+      el?.className
+    ].filter(Boolean).join(" "));
+  }
+
+  function isBadTitleCandidate(el) {
+    if (!el || el.closest?.("#five-source-nlm-status")) return true;
+    if (el.closest?.("[role='dialog'], mat-dialog-container, .cdk-overlay-pane")) return true;
+
+    const text = titleCandidateText(el).toLowerCase();
+    return /來源|source|新增|add|url|網址|website|link|chat|message|prompt|question|問題|提問|ask|share|分享|settings|設定/.test(text);
+  }
+
+  function notebookTitleCandidates() {
+    const selectors = [
       "input",
-      "textarea",
       "[contenteditable='true']",
       "[role='textbox']",
       "h1",
-      "h2"
-    ].join(","))).filter(isVisible);
+      "h2",
+      "button",
+      "[role='button']",
+      "[aria-label]",
+      "[title]",
+      "[data-testid]"
+    ].join(",");
 
-    const titleEl = candidates.find((el) => {
-      const text = labelOf(el) || norm(el.value || "");
-      return /未命名|Untitled|Untitled notebook|source|報告|notebook|筆記本/i.test(text);
-    }) || candidates.find((el) => /h1|h2/i.test(el.tagName)) || null;
+    return Array.from(document.querySelectorAll(selectors))
+      .filter(isVisible)
+      .filter((el) => !isBadTitleCandidate(el))
+      .filter((el) => {
+        const rect = el.getBoundingClientRect();
+        if (rect.top > Math.max(260, window.innerHeight * 0.35)) return false;
+        const text = titleCandidateText(el);
+        return /未命名|Untitled|notebook|筆記本|title|標題|name|名稱|rename|重新命名|edit/i.test(text) ||
+          /H1|H2/.test(el.tagName);
+      })
+      .sort((a, b) => {
+        const score = (el) => {
+          const text = titleCandidateText(el);
+          let value = 0;
+          if (/未命名|Untitled/i.test(text)) value += 80;
+          if (/notebook|筆記本|title|標題|name|名稱/i.test(text)) value += 45;
+          if (/H1|H2/.test(el.tagName)) value += 30;
+          if (isEditableField(el)) value += 20;
+          value -= Math.max(0, el.getBoundingClientRect().top);
+          return value;
+        };
+        return score(b) - score(a);
+      });
+  }
 
-    if (!titleEl) {
-      progress(`找不到標題欄，請手動改名為：${title}`, "warn");
-      return;
+  function findActiveEditable() {
+    const active = document.activeElement;
+    if (isEditableField(active) && !isBadTitleCandidate(active)) return active;
+
+    return Array.from(document.querySelectorAll("input, textarea, [contenteditable='true'], [role='textbox']"))
+      .filter(isVisible)
+      .filter((el) => !isBadTitleCandidate(el))
+      .find((el) => {
+        const rect = el.getBoundingClientRect();
+        return rect.top <= Math.max(260, window.innerHeight * 0.35);
+      }) || null;
+  }
+
+  async function commitTitleEdit(field) {
+    await pressEnter(field, "送出筆記本名稱");
+    field.blur?.();
+    return waitFor(() => visibleText().includes(field.__targetNotebookTitle), 6000, 300);
+  }
+
+  async function trySetNotebookTitle(target, title) {
+    target.scrollIntoView({ block: "center", inline: "center" });
+    await sleep(200);
+    target.click();
+    await sleep(250);
+
+    let field = isEditableField(target) ? target : findActiveEditable();
+    if (!field) {
+      target.dispatchEvent(new MouseEvent("dblclick", { bubbles: true }));
+      await sleep(450);
+      field = findActiveEditable();
     }
 
+    if (!field) return false;
+
+    setFieldValue(field, title);
+    field.__targetNotebookTitle = title;
+    const confirmed = await commitTitleEdit(field);
+    return Boolean(confirmed);
+  }
+
+  async function clickRenameButton() {
+    const rename = findClickable([
+      "重新命名",
+      "重新命名筆記本",
+      "編輯標題",
+      "編輯名稱",
+      "Rename",
+      "Rename notebook",
+      "Edit title",
+      "Edit name"
+    ]);
+    if (!rename || isBadTitleCandidate(rename)) return false;
+
+    const rect = rename.getBoundingClientRect();
+    if (rect.top > Math.max(260, window.innerHeight * 0.35)) return false;
+    progress(`點擊重新命名入口：${labelOf(rename)}`);
+    rename.click();
+    await sleep(600);
+    return true;
+  }
+
+  async function renameNotebook(title) {
+    progress(`嘗試命名筆記本：${title}`);
+    await sleep(1200);
+
     try {
-      titleEl.scrollIntoView({ block: "center", inline: "center" });
-      titleEl.click();
-      await sleep(300);
-      if ("value" in titleEl && /INPUT|TEXTAREA/.test(titleEl.tagName)) {
-        titleEl.select?.();
-        setFieldValue(titleEl, title);
-      } else if (titleEl.getAttribute("contenteditable") === "true" || titleEl.getAttribute("role") === "textbox") {
-        setFieldValue(titleEl, title);
-      } else {
-        titleEl.dispatchEvent(new MouseEvent("dblclick", { bubbles: true }));
-        await sleep(300);
-        const active = document.activeElement;
-        if (active && active !== titleEl && ("value" in active || active.getAttribute("contenteditable") === "true")) {
-          setFieldValue(active, title);
-        } else {
-          progress(`標題看起來不可直接編輯，請手動改名為：${title}`, "warn");
+      if (visibleText().includes(title)) {
+        progress("筆記本名稱已存在", "ok");
+        return;
+      }
+
+      const candidates = notebookTitleCandidates();
+      progress(`找到 ${candidates.length} 個可能的標題欄`);
+      for (const candidate of candidates.slice(0, 6)) {
+        if (await trySetNotebookTitle(candidate, title)) {
+          progress("筆記本命名已確認", "ok");
           return;
         }
       }
-      document.activeElement?.dispatchEvent(new KeyboardEvent("keydown", { key: "Enter", code: "Enter", keyCode: 13, bubbles: true }));
-      document.activeElement?.blur?.();
-      progress("筆記本命名已送出", "ok");
+
+      if (await clickRenameButton()) {
+        const field = await waitFor(() => findActiveEditable(), 4000, 300);
+        if (field) {
+          setFieldValue(field, title);
+          field.__targetNotebookTitle = title;
+          if (await commitTitleEdit(field)) {
+            progress("筆記本命名已確認", "ok");
+            return;
+          }
+        }
+      }
+
+      progress(`自動命名未確認成功，請手動改名為：${title}`, "warn");
     } catch (error) {
       progress(`自動命名失敗，請手動改名為：${title}`, "warn");
     }
   }
 
   async function run({ title, urls, firstQuestion }) {
-    ensureStatusPanel().textContent = "";
+    ensureStatusPanel(true).textContent = "";
     progress("開始建立 NotebookLM 報告集...");
     progress(`目標名稱：${title}`);
     await createNotebook();
