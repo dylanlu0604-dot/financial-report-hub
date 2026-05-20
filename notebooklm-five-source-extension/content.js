@@ -108,12 +108,13 @@ if (!window.__fiveSourceNotebookLmImporterLoaded) {
 
   function labelOf(el) {
     return norm(
-      el?.innerText ||
-      el?.textContent ||
-      el?.getAttribute?.("aria-label") ||
-      el?.getAttribute?.("title") ||
-      el?.getAttribute?.("placeholder") ||
-      ""
+      [
+        el?.innerText,
+        el?.textContent,
+        el?.getAttribute?.("aria-label"),
+        el?.getAttribute?.("title"),
+        el?.getAttribute?.("placeholder")
+      ].filter(Boolean).join(" ")
     );
   }
 
@@ -434,6 +435,69 @@ if (!window.__fiveSourceNotebookLmImporterLoaded) {
     progress("第一個問題已送出", "ok");
   }
 
+  function findSaveToNoteButton() {
+    const labels = [
+      "儲存至記事",
+      "儲存到記事",
+      "儲存為記事",
+      "儲存至筆記",
+      "儲存到筆記",
+      "儲存為筆記",
+      "Save to note",
+      "Save to notes",
+      "Save as note",
+      "Save note"
+    ];
+
+    const matches = clickableElements().filter((el) => {
+      if (el.disabled || el.getAttribute("aria-disabled") === "true") return false;
+      if (el.closest?.("#five-source-nlm-status")) return false;
+
+      const label = labelOf(el).toLowerCase();
+      if (/已儲存|saved to note|saved/i.test(label)) return false;
+      return labels.some((text) => label.includes(text.toLowerCase()));
+    });
+
+    return matches
+      .map((el) => ({ el, rect: el.getBoundingClientRect() }))
+      .sort((a, b) => (b.rect.top - a.rect.top) || (b.rect.left - a.rect.left))[0]?.el || null;
+  }
+
+  async function saveFirstAnswerToNote() {
+    progress("等待步驟 1 回答完成，準備儲存至記事...");
+
+    const ready = await waitFor(() => {
+      const saveButton = findSaveToNoteButton();
+      if (saveButton && visibleText().includes("你想先展開哪個地區")) return saveButton;
+      if (saveButton && /85 個主題|85個主題|美國 10|美國10|你想先展開哪個地區/.test(visibleText())) return saveButton;
+      return null;
+    }, 300000, 1500);
+
+    if (!ready) {
+      progress(`找不到「儲存至記事」按鈕。目前可點文字：${listClickableLabels().join(" | ")}`, "warn");
+      throw new Error("找不到儲存至記事按鈕");
+    }
+
+    progress(`點擊儲存至記事：${labelOf(ready) || "儲存至記事"}`);
+    ready.scrollIntoView({ block: "center", inline: "center" });
+    await sleep(300);
+    ready.click();
+
+    const saved = await waitFor(() => {
+      const text = visibleText();
+      if (/已儲存|儲存成功|已加入記事|saved|note saved/i.test(text)) return true;
+      const stillHasButton = findSaveToNoteButton();
+      return stillHasButton ? null : true;
+    }, 20000, 500);
+
+    if (!saved) {
+      progress("已點擊儲存至記事，但沒有確認到儲存完成提示。", "warn");
+      return;
+    }
+
+    progress("步驟 1 回答已儲存至記事", "ok");
+  }
+
   async function submitSourceUrl(url) {
     await openAddSourceDialog();
     const textbox = await selectWebsiteSource();
@@ -647,6 +711,7 @@ if (!window.__fiveSourceNotebookLmImporterLoaded) {
     await importUrls(urls);
     await renameNotebook(title);
     await submitFirstQuestion(firstQuestion);
+    await saveFirstAnswerToNote();
     progress("流程完成。若 NotebookLM 還在處理來源，請等待它完成解析。", "ok");
   }
 
