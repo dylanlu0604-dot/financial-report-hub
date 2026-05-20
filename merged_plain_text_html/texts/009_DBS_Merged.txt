@@ -1,0 +1,1647 @@
+===== Page 1 =====
+
+CN
+JP
+IN
+SK
+ID
+TW
+SG
+TH
+VN
+MYPH
+HK
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+0 20,000 40,000 60,000 80,000 100,000 120,000
+Asia: Nominal GDP, per capita GDP, and real GDP growth (2026F)
+Sources: CEIC, IMF, DBS
+Real GDP growth, % YoY
+Per capita GDP, USD
+Bubble size:
+Nominal GDP, USD
+Ma Tieying, CFA
+Senior Economist
+Please direct distribution queries to
+Violet Lee +65 68785281 violetleeyh@dbs.com
+ECONOMICS & STRATEGY
+TAIWAN CHARTBOOK:
+THE AI TRILLION-DOLLAR LEAP
+12 May 2026
+
+https://www.dbs.com/insightsdirect/macro/home
+groupresc@dbs.com
+• Thanks to the AI supercycle, Taiwan is delivering remarkable economic and market
+performance while gaining strategic importance in global supply chains
+• Nominal GDP is set to enter the USD1tn club this year
+• Real GDP growth is on track to approach 10%, making Taiwan Asia- 12’s fastest-
+growing economy
+• Per capita GDP is projected to reach US D45k, ranking Taiwan as Asia -12’s third-
+
+richest economy
+• The TAIEX has recently emerged as the world’s sixth-largest stock market
+• For Singapore, Taiwan has overtaken China to become our largest trading partner
+• Hidden challenges include K-shaped growth and widening wealth inequality
+• Risks of stock market overheating, inflation, and monetary tightening are also drawing
+close attention
+
+
+===== Page 2 =====
+
+Taiwan Chartbook: The AI trillion-dollar leap May 12, 2026
+2
+The AI-driven export boom has sharply
+boosted Taiwan’s growth performance.
+Real GDP growth accelerated further to
+13.7% YoY in 1Q from 12.7% in 4Q25,
+marking the strongest quarterly expansion
+since 1987.
+P
+er capital GDP is projected to reach
+around USD45,000 in 2026, further
+widening the income gap with Japan and
+South Korea and reinforcing Taiwan’s
+position as Asia-12’s third-richest
+economy.
+
+Ful
+l-year 2026 GDP growth is on track to
+approach 10% (DBSF: 9.4%), allowing
+Taiwan to outperform India and Vietnam
+for a second consecutive year as Asia-
+12’s fastest-growing economy.
+No
+minal GDP is on track to surpass the
+USD1tn mark in 2026, bringing Taiwan
+into the USD1tn club alongside China,
+Japan, India, South Korea, and Indonesia.
+13.7
+-10
+-5
+0
+5
+10
+15
+1Q85 1Q90 1Q95 1Q00 1Q05 1Q10 1Q15 1Q20 1Q25
+% YoY
+Taiwan: Real GDP growth
+Sources: CEIC, DBS
+
+108
+60
+45
+37 36
+15 15
+8 5 5 4 3
+0
+20
+40
+60
+80
+100
+120
+SG HK TW SK JP MY CN TH ID VN PH IN
+USD'000
+Asia: Per capita GDP (2026F)
+Sources: CEIC, IMF, DBS
+9.4
+6.5 6.5
+5.1 4.7 4.7 4.5
+3 2.8 2.6
+1.6
+0.5
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+TW IN VN ID MY PH CN HK SG SK TH JP
+% YoY
+Asia: Real GDP growth (2026F)
+Sources: CEIC, DBS
+20.9
+4.4 4.2
+1.9 1.5 1.0 0.7 0.6 0.5 0.5 0.5 0.5
+0
+5
+10
+15
+20
+25
+CN JP IN SK ID TW SG TH VN MY PH HK
+USDtn
+Asia: Nominal GDP (2026F)
+Sources: CEIC, IMF, DBS
+
+GDP
+
+
+===== Page 3 =====
+
+Taiwan Chartbook: The AI trillion-dollar leap  May 12, 2026 
+3
+
+AI-driven export performance remains 
+strong, although momentum may be 
+starting to peak. Export growth moderated 
+to 39.0% YoY in April, while real exports 
+(excluding price effects) slowed more 
+noticeably to 21.0%.
+
+The evolving AI supply chain has shifted 
+Taiwan’s import structure toward South 
+Korea, particularly for HBM-related 
+semiconductor supply. South Korea has 
+become Taiwan’s second-largest import 
+source since 2025, accounting for 13.2% 
+of imports.
+
+AI demand is increasingly redirecting 
+Taiwan’s exports toward the US market. 
+Since 2025, the US has overtaken China 
+as Taiwan’s largest export destination, 
+accounting for 31% of total exports.
+
+The rise of AI is also elevating the 
+strategic importance of Taiwan’s supply 
+chain globally. On a single-country basis, 
+Taiwan has overtaken China to become 
+Singapore’s largest trading partner since 
+2025, driven by a sharp increase in 
+Singapore’s electronics imports from 
+Taiwan.
+
+-40
+-20
+0
+20
+40
+60
+80
+Jan-20 Jan-22 Jan-24 Jan-26
+Nominal
+Real
+Taiwan: Export growth
+% YoY
+Sources: CEIC, DBS
+0%
+20%
+40%
+60%
+80%
+100%
+2010 2015 2020 2025China (incl.HK) ASEAN-6
+JP, KR, IN, rest of Asia Europe
+Middle East North America
+Central & South America ROW
+Taiwan: Imports by source
+Sources: CEIC, DBS
+0%
+20%
+40%
+60%
+80%
+100%
+2010 2015 2020 2025China (incl. HK) ASEAN-6
+JP, KR, IN, rest of Asia Europe
+Middle East North America
+Central & South America ROW
+Taiwan: Exports by destination
+Sources: CEIC, DBS
+0
+20
+40
+60
+80
+100
+120
+140
+160
+180
+TW CN MY US HK ID SK JP TH VN
+Exports
+Imports
+USDbn
+Singapore: Top 10 trading partners 
+(2025)
+Sources: CEIC, DBS
+EXTERNAL TRADE
+
+
+===== Page 4 =====
+
+Taiwan Chartbook: The AI trillion-dollar leap  May 12, 2026 
+4
+
+Investment indicators showed signs of 
+peaking. Capital goods imports 
+decelerated as capex by leading 
+semiconductor firms moved past its peak, 
+while building permits remained in 
+negative territory amid continued 
+weakness in the property market.
+
+FDI sources remained broadly stable, with 
+Europe continuing to be Taiwan’s largest 
+source of inward investment, accounting 
+for a 56% share in 2025.
+
+FDI and ODI activity stayed buoyant. 
+Approved FDI and ODI both surged by 
+more than 100% YoY cumulatively in the 
+first three months of this year, reaching 
+USD6.1bn and USD32.8bn, respectively.
+
+ODI destinations continued to shift away 
+from China toward the America, with North 
+America and Central & South America 
+together accounting for 68% of Taiwan’s 
+outbound investment flows in 2025.
+
+-50
+-25
+0
+25
+50
+75
+100
+Jan-20 Jan-22 Jan-24 Jan-26
+Capital goods imports
+Building permits granted for
+construction
+Taiwan: Investment indicators
+% YoY, 3MMA
+Sources: CEIC, DBS
+0%
+20%
+40%
+60%
+80%
+100%
+2010 2015 2020 2025
+China (incl.HK) ASEAN-5
+JP, KR, IN, rest of Asia Europe
+North America Central & South America
+ROW
+Taiwan: Approved FDI by source
+Sources: CEIC, DBS
+0
+5
+10
+15
+20
+25
+30
+35
+40
+Jan-25 Jul-25 Jan-26
+FDI
+ODI
+USDbn, YTD
+Taiwan: Approved FDI and ODI
+Sources: CEIC, DBS
+0%
+20%
+40%
+60%
+80%
+100%
+2010 2015 2020 2025
+China (incl. HK) ASEAN-6
+JP, KR, IN, rest of Asia Europe
+North America Central & South America
+ROW
+Taiwan: Approved ODI by destination
+Sources: CEIC, DBS
+INVESTMENT
+
+
+===== Page 5 =====
+
+Taiwan Chartbook: The AI trillion-dollar leap  May 12, 2026 
+5
+
+Consumption rebounded on the back of 
+stimulus measures. Retail sales returned 
+to positive growth from 4Q25 following the 
+rollout of the cash handout programme.
+
+Wage growth softened slightly and is likely 
+to face further erosion from rising inflation 
+ahead. Average regular earnings slowed 
+to 2.6% YoY in March, slipping below the 
+3% mark, while inflation-adjusted real 
+wage growth eased to around 1%.
+
+Labor market conditions remained broadly 
+stable, although structural unemployment 
+persisted. The unemployment rate held 
+steady at 3.4% as of March, while youth 
+unemployment among those aged 15-24 
+remained elevated at 11.4%.
+
+The AI-driven manufacturing boom has 
+not generated significant employment 
+gains due to the capital- and technology-
+intensive nature of the sector. 
+Employment growth continued to be 
+driven mainly by the services sector rather 
+than manufacturing.
+
+-40
+-20
+0
+20
+40
+60
+80
+Jan-20 Jan-22 Jan-24 Jan-26
+Retail trade
+Food & beverage activity
+% YoY
+Sources: CEIC, DBS
+Taiwan: Consumption indicators
+-2
+-1
+0
+1
+2
+3
+4
+5
+Jan-20 Jan-22 Jan-24 Jan-26
+Nominal Real
+% YoY
+Taiwan: Average regular earnings
+Sources: CEIC, DBS
+0
+2
+4
+6
+8
+10
+12
+14
+Jan-20 Jan-22 Jan-24 Jan-26
+Overall Age 15-24
+Age 25-49 Age 50-64
+% 
+Taiwan: Unemployment rate 
+Sources: CEIC, DBS
+-200
+-150
+-100
+-50
+0
+50
+100
+150
+200
+Jan-20 Jan-22 Jan-24 Jan-26
+Manufacturing
+Services
+Construction
+'000 persons, YoY
+Taiwan: Employment growth
+Sources: CEIC, DBS
+CONSUMPTION / LABOR MARKET
+
+
+===== Page 6 =====
+
+Taiwan Chartbook: The AI trillion-dollar leap  May 12, 2026 
+6
+
+Export performance remained uneven 
+between high-tech and traditional sectors. 
+Exports of information and communication 
+products and electronic components 
+continued to post double-digit growth in 
+April, while chemicals and metal exports 
+remained in contraction.
+
+The AI-driven tech cycle remained in 
+expansionary territory, with the electronics 
+inventory-to-shipment ratio staying healthy 
+at around the neutral level of 1.0.
+
+AI-driven manufacturing activity stayed 
+robust. The electronics PMI rose further to 
+67.5 in April, lifting the overall CIER 
+manufacturing PMI to 60.3.
+
+LNG supply disruptions stemming from the 
+Middle East conflict have so far not 
+caused significant power shortages in 
+Taiwan. Electricity supply operating 
+reserves remained at healthy levels of 
+around 20% in early May.
+
+-50
+0
+50
+100
+150
+200
+Jan-25 Jul-25 Jan-26
+Information, communication products
+Electronic parts
+Machinery
+Chemicals
+Plastics, Rubber
+Base metals
+% YoY
+Taiwan: Exports by product
+Sources: CEIC, DBS
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+1.2
+1.4
+1.6
+1.8
+2.0
+Jan-20 Jan-22 Jan-24 Jan-26
+Sources: CEIC, DBS
+Taiwan: Inventory/shipment ratio -
+electronics
+30
+40
+50
+60
+70
+80
+Jan-20 Jan-22 Jan-24 Jan-26
+Taiwan: PMI manufacturing -
+electronics
+Sources: CIER, CEIC, DBS
+0
+5
+10
+15
+20
+25
+30
+35
+40
+Jan-25 Jul-25 Jan-26
+% 7DMA 
+Taiwan: Electricity supply 
+operating reserves
+Sources: CEIC, DBS
+MANUFACTURING
+
+
+===== Page 7 =====
+
+Taiwan Chartbook: The AI trillion-dollar leap  May 12, 2026 
+7
+
+Property market activity remained weak 
+but showed signs of stabilization. The 
+number of registered building transfers 
+paused its 1.5-year contraction trend.
+
+Transport indicators were mixed. Airport 
+freight traffic remained steady and strong, 
+while container throughput continued to 
+contract.
+
+Property prices also stabilized. Sinyi 
+residential property prices in the Taipei 
+area recorded a marginal 0.2% YoY 
+increase in March.
+
+The tourism sector continued to recover 
+despite the absence of mainland Chinese 
+visitors. Visitor arrivals reached 880k in 
+March, approaching the pre-pandemic 
+peak level of 1mn.
+
+-30
+-20
+-10
+0
+10
+20
+30
+40
+Jan-20 Jan-22 Jan-24 Jan-26
+% YoY, 3MMA
+Taiwan: Registered building transfers
+Sources: Ministry of the Interior, DBS
+-40
+-30
+-20
+-10
+0
+10
+20
+30
+40
+50
+Jan-20 Jan-22 Jan-24 Jan-26
+Airport freight carried
+Container traffic
+% YoY
+Taiwan: Transport indicators
+Sources: CEIC, DBS
+-5
+0
+5
+10
+15
+Jan-20 Jan-22 Jan-24 Jan-26
+% YoY
+Taipei: Sinyi residential property prices 
+Sources: CEIC, DBS
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+1.2
+Jan-20 Jan-22 Jan-24 Jan-26
+Taiwan: Visitor arrivals
+mn
+Sources: CEIC, DBS
+SERVICES
+
+
+===== Page 8 =====
+
+Taiwan Chartbook: The AI trillion-dollar leap  May 12, 2026 
+8
+
+The inflationary impact of the Middle East 
+conflict has started to emerge. CPI rose to 
+1.7% YoY in April, while the month-on-
+month increase was more notable at 
+0.5%.
+
+Pipeline price pressures linked to the 
+Middle East conflict remain strong.  
+PMI price subindices, which typically lead 
+CPI by around three months, surged 
+sharply in April to levels close to the 2022 
+peak seen during the Russia-Ukraine war.
+
+Government energy subsidies through 
+SOEs have helped cushion the shock, but 
+they have not fully offset the inflation 
+impact. Transportation costs led the 
+increase in April CPI.
+
+Inflation expectations are coming under 
+close scrutiny. Consumer inflation 
+expectations, which tend to move broadly 
+in line with CPI, are likely to edge higher in 
+the coming months.
+
+1.7
+1.9
+-2
+-1
+0
+1
+2
+3
+4
+Jan-20 Jan-22 Jan-24 Jan-26
+CPI
+Core CPI
+Taiwan: CPI inflation 
+% YoY
+Sources: CEIC, DBS
+45
+50
+55
+60
+65
+70
+75
+-2
+-1
+0
+1
+2
+3
+4
+Jan-20 Jan-22 Jan-24 Jan-26
+CPI
+PMI services prices (RHS)
+Taiwan: CPI vs. PMI services prices
+Sources: CIER, CEIC, DBS
+% YoY
+1.7
+-2
+-1
+0
+1
+2
+3
+4
+Jan-25 Jul-25 Jan-26
+Food
+Clothing
+Housing
+Transportation
+Health
+Education, Entertainment
+Others
+% YoY, ppt
+Taiwan: CPI inflation by component 
+Sources: CEIC, DBS
+20
+25
+30
+35
+40
+45
+50
+55
+60-2
+-1
+0
+1
+2
+3
+4
+Jan-20 Jan-22 Jan-24 Jan-26CPI
+Consumer confidence on price
+levels (inverted, RHS)
+Taiwan: CPI vs. inflation expectations
+Sources: CEIC, DBS
+% YoY
+PRICES
+
+
+===== Page 9 =====
+
+Taiwan Chartbook: The AI trillion-dollar leap  May 12, 2026 
+9
+
+Liquidity conditions remained favourable. 
+M2 growth picked up to 5.8% YoY in 
+March, staying in the upper half of the 
+central bank’s reference range of 2.5-
+6.5%. M1 growth accelerated more 
+notably to 7.8%, resulting in a positive M1-
+M2 gap.
+
+Consumer lending remained restrained by 
+the central bank’s credit control measures. 
+Housing mortgage loans rose a moderate 
+4.5% YoY in March, keeping overall 
+consumer loan growth at 4.8%.
+
+Corporate lending strengthened amid 
+robust financing demand from tech 
+companies. Loans to the electronics 
+sector surged by more than 30% YoY in 
+April, contributing to an 8.4% increase in 
+total corporate loans.
+
+Loan concentration risks improved 
+marginally. Real estate-related loans 
+accounted for 35.5% of banks’ total loan 
+portfolios in March, down from the 2024 
+peak of 37.5%.
+
+5.8
+7.8
+-5
+0
+5
+10
+15
+20
+Jan-20 Jan-22 Jan-24 Jan-26
+M1B-M2
+M2
+M1B
+% YoY
+Taiwan: Money supply
+Sources: CEIC, DBS
+-10
+-5
+0
+5
+10
+15
+Jan-20 Jan-22 Jan-24 Jan-26
+Housing
+Automobile
+Credit card
+Taiwan: Consumer loans
+% YoY
+Sources: CEIC, DBS
+-10
+-5
+0
+5
+10
+15
+20
+25
+30
+35
+40
+Jan-20 Jan-22 Jan-24 Jan-26
+Electronics
+Finance & Insurance
+Wholesale & Retail trade
+Real estate
+Taiwan: Corporate loans
+Sources: CEIC, DBS
+% YoY
+20
+25
+30
+35
+40
+Jan-10 Jan-15 Jan-20 Jan-25
+Taiwan: Real estate loans 
+% of total bank loans
+Sources: CEIC, DBS
+LOAN MARKET
+
+
+===== Page 10 =====
+
+Taiwan Chartbook: The AI trillion-dollar leap  May 12, 2026 
+10
+
+Taiwan has overtaken Canada, the UK, 
+and France this year to become the 
+world’s sixth-largest stock market by 
+market capitalization (USD4.7tn).
+
+Foreign inflows into Taiwan’s equity 
+market remain strong. Net foreign inward 
+remittance into TWSE and TPEx rose by 
+USD17.9bn in January-March, reaching a 
+record high of USD338bn.
+
+There are emerging signs of overheating. 
+The TWSE market capitalization has 
+exceeded 400% of nominal GDP, 
+significantly deviating from historical 
+trends – surpassing levels seen during the 
+late-1980s bubble period.
+
+Retail investor participation has also 
+increased. New trading accounts on the 
+TWSE rose to 102k in April, nearly 
+doubling from 58k in December 2025.
+
+77.2
+15.5
+8.6 7.5 5.0 4.7 4.6 4.5 3.9 3.5
+0
+10
+20
+30
+40
+50
+60
+70
+80
+US CN JP HK IN TW SK CA UK FR
+USDtn
+World's top 10 stock markets by 
+market capitalization (May 11, 2026)
+Sources: Bloomberg, DBS
+0
+50
+100
+150
+200
+250
+300
+350
+Jan-10 Jan-15 Jan-20 Jan-25
+USDbn
+TWSE & TPEx: Foreign net inward 
+remittance
+Sources: CEIC, DBS
+0
+50
+100
+150
+200
+250
+300
+350
+400
+450
+500
+1Q851Q901Q951Q001Q051Q101Q151Q201Q25
+% of nominal GDP
+TWSE market capitalization
+Sources: CEIC, DBS
+2Q26F
+12.5
+13.0
+13.5
+14.0
+14.5
+0
+50
+100
+150
+200
+Jan-25 Jul-25 Jan-26
+New trading account
+openings
+Cumulative trading
+account holders (RHS)
+'000
+TWSE: Investor trading accounts
+Sources: TWSE, DBS
+mn
+FINANCIAL MARKET
+
+
+===== Page 11 =====
+
+Taiwan Chartbook: The AI trillion-dollar leap  May 12, 2026 
+11
+
+GROWTH, INFLATION, POLICY RATES & FX FORECASTS  
+GDP GROWTH, % YOY
+
+CPI INFLATION, % YOY  
+2024 2025 2026f 2027f
+
+2024 2025 2026f 2027f 
+CHINA 5.0 5.0 4.5 4.0  0.2 0.0 0.5 0.8 
+HONG KONG 2.5 3.5 3.0 2.8  1.5 1.4 1.6 1.5 
+INDIA 6.7 7.8 6.5 6.4  4.9 2.2 4.5 4.2 
+INDIA (FISCAL YEAR) * 6.5 7.7 6.5 6.4  4.6 2.1 4.9 4.0 
+INDONESIA 5.0 5.1 5.1 5.1  2.3 1.9 3.2 2.2 
+MALAYSIA 5.1 5.2 4.7 4.2  1.8 1.4 2.0 2.0 
+PHILIPPINES** 5.6 4.5 4.7 5.0  3.2 1.7 6.5 4.0 
+SINGAPORE 5.3 5.0 2.8 2.3  2.4 0.9 2.2 2.0 
+SOUTH KOREA 2.0 1.0 2.6 2.0  2.3 2.1 2.6 2.1 
+TAIWAN 5.3 8.7 9.4 3.5  2.2 1.7 1.9 1.8 
+THAILAND 2.9 2.4 1.6 2.0  0.4 -0.1 2.5 1.5 
+VIETNAM 7.0 8.0 6.5 6.5  3.6 3.3 4.8 3.3 
+EUROZONE 0.7 1.5 1.4 1.2  2.3 2.2 2.0 2.0 
+JAPAN -0.2 1.2 0.5 0.5  2.7 3.2 1.8 1.8 
+UNITED STATES*** 2.8 2.0 1.5 1.7  3.0 2.7 2.5 2.5 
+* 2020 = Fiscal year Apr20-Mar21   ** new CPI series   *** eop for CPI inflation
+
+POLICY INTEREST RATES, EOP  
+1Q26 2Q26 3Q26 4Q26
+
+1Q27 2Q27 3Q27 4Q27 
+CHINA* 3.00 3.00 3.00 2.90   2.90 2.80 2.80 2.80 
+INDIA 5.25 5.25 5.25 5.25   5.25 5.25 5.25 5.25 
+INDONESIA 4.75 4.75 4.75 4.75   4.75 4.75 4.75 4.75 
+MALAYSIA 2.75 2.75 2.75 2.75   2.75 2.75 2.75 2.75 
+PHILIPPINES 4.25 4.75 5.25 5.25   5.25 5.25 5.25 5.25 
+SINGAPORE** 1.20 1.20 1.20 1.20   1.20 1.20 1.20 1.20 
+SOUTH KOREA 2.50 2.50 2.75 2.75   2.75 2.75 2.75 2.75 
+TAIWAN 2.00 2.00 2.13 2.13   2.13 2.13 2.13 2.13 
+THAILAND 1.00 1.00 1.00 1.00   1.00 1.00 1.00 1.00 
+VIETNAM*** 4.50 5.00 5.00 5.00   5.00 5.00 5.00 5.00 
+EUROZONE^ 2.00 2.00 2.00 2.00   2.00 2.00 2.00 2.00 
+JAPAN 0.75 0.75 1.00 1.00   1.00 1.00 1.00 1.00 
+UNITED STATES 3.75 3.75 3.75 3.75   3.75 3.75 3.75 3.75 
+* 1-yr Loan Prime Rate; ** 3M SORA OIS ; *** refinancing rate; ^ deposit facility rate
+
+EXCHANGE RATES, EOP  
+1Q26 2Q26 3Q26 4Q26  1Q27 2Q27 3Q27 4Q27 
+USD/CNY 6.90 6.83 6.77 6.70   6.74 6.78 6.81 6.85 
+USD/HKD 7.82 7.82 7.81 7.81   7.81 7.81 7.80 7.80 
+USD/INR 93.9 93.1 92.2 91.4   92.0 92.7 93.3 94.0 
+USD/IDR 16900 16770 16635 16500   16500 16500 16500 16500 
+USD/MYR 3.96 3.91 3.85 3.80   3.85 3.90 3.95 4.00 
+USD/PHP 60.1 59.3 58.5 57.8   58.3 58.8 59.3 59.9 
+USD/SGD 1.28 1.27 1.26 1.25   1.26 1.27 1.27 1.28 
+USD/KRW 1500 1470 1435 1400   1415 1425 1440 1450 
+USD/THB 32.7 32.1 31.6 31.0   31.4 31.8 32.1 32.5 
+USD/VND 26340 26230 26110 26000   26130 26250 26380 26500 
+AUD/USD 0.70 0.71 0.72 0.73   0.73 0.72 0.72 0.71 
+EUR/USD 1.16 1.18 1.19 1.21   1.20 1.19 1.18 1.17 
+USD/JPY 159 156 153 149   151 152 153 154 
+GBP/USD 1.34 1.36 1.39 1.41   1.40 1.39 1.38 1.37
+
+
+===== Page 12 =====
+
+Taiwan Chartbook: The AI trillion-dollar leap  May 12, 2026 
+12
+
+Group Research  
+Economics & Strategy
+
+Violet LEE  
+Associate 
+Publications 
+violetleeyh@dbs.com
+
+Taimur BAIG, Ph.D. 
+Chief Economist 
+Global 
+taimurbaig@dbs.com
+
+
+===== Page 13 =====
+
+Taiwan Chartbook: The AI trillion-dollar leap  May 12, 2026 
+13
+
+The information herein is published by DBS Bank Ltd and/or DBS Bank (Hong Kong) Limited (each and/or 
+collectively, the “Company”). It is based on information obtained from sources believed to be reliable, but the 
+Company does not make any representation or  warranty, express or implied, as to its accuracy, completeness, 
+timeliness or correctness for any particular purpose. Opinions expressed are subject to change without notice. This 
+research is prepared for general circulation.  Any recommendation contained herein does not have regard to the 
+specific investment objectives, financial situation and the particular needs of any specific addressee. The information 
+herein is published for the information of addressees only and is not to be taken in substitution for the exercise of 
+judgement by addressees, who should obtain separate legal or financial advice. The Company, or any of its related 
+companies or any individuals connected with the group accepts no liability for any direct, special, indirect, 
+consequential, incidental damages or any other loss or damages of any kind arising from any use of the information 
+herein (including any error, omission or misstatement herein, negligent or otherwise) or further communication 
+thereof, even if the Company or any other person has been advised of the possibility thereof. The information herein 
+is not to be construed as an offer or a solicitation of an offer to buy or sell any securities, futures, options or other 
+financial instruments or to provide any investment advice or services. The Company and its associates, their 
+directors, officers and/or employees may have positions or other interests in, and may effect transactions in securities 
+mentioned herein and may also perform or seek to perform broking, investment banking an d other banking or 
+financial services for these companies.  The information herein is not directed to, or intended for distribution to or 
+use by, any person or entity that is a citizen or resident of or located in any locality, state, country, or other jurisdiction 
+(including but not limited to citizens or residents of the United States of America) where such distribution, publication, 
+availability or use would be contrary to law or regulation.  The information is not an offer to sell or the solicitation of  
+an offer to buy any security in any jurisdiction (including but not limited to the United States of America) where such 
+an offer or solicitation would be contrary to law or regulation.
+
+[#for Distribution in Singapore]  This report is distributed in Singapore by DBS Bank Ltd (Company Regn. No. 
+196800306E) which is Exempt Financial Advisers as defined in the Financial Advisers Act and regulated by the 
+Monetary Authority of Singapore. DBS Bank Ltd may distribute reports pr oduced by its respective foreign entities, 
+affiliates or other foreign research houses pursuant to an arrangement under Regulation 32C of the Financial 
+Advisers Regulations. Where the report is distributed in Singapore to a person who is not an Accredited Investor, 
+Expert Investor or an Institutional Investor, DBS Bank Ltd accepts legal responsibility for the contents of the report 
+to such persons only to the extent required by law. Singapore recipients should contact DBS Ban k Ltd at 65-6878-
+8888 for matters arising from, or in connection with the report.
+
+DBS Bank Ltd., 12 Marina Boulevard, Marina Bay Financial Centre Tower 3, Singapore 018982. Tel: 65-6878-
+8888. Company Registration No. 196800306E.
+
+DBS Bank Ltd., Hong Kong Branch, a company incorporated in Singapore with limited liability.  18th Floor, The 
+Center, 99 Queen’s Road Central, Central, Hong Kong SAR.
+
+DBS Bank (Hong Kong) Limited, a company incorporated in Hong Kong with limited liability.  11th Floor, The 
+Center, 99 Queen’s Road Central, Central, Hong Kong SAR.
+
+
+===== Page 14 =====
+
+ss
+
+Radhika Rao 
+Senior Economist
+
+Please direct distribution queries to  
+Violet Lee +65 68785281 violetleeyh@dbs.com
+
+El Niño and monsoon – some but not all
+
+The NOAA (press release) highlighted a growing 
+61% chance that El Niño might emerge around 
+mid-year and persist through at least the end of 
+2026. Observers have also cited the likelihood 
+that this year’s build up might be the strongest 
+in over three decades. Typically, in the Asia 
+Pacific, th is development weakens monsoon 
+and can lead to drought in some parts, also 
+raising the risk of wildfires. Besides El Niño, the 
+Indian Ocean Dipole (IOD) will also influence 
+rain patterns, with officials expecting a positive 
+IOD condition to partly mitigate the El Niño 
+impact.
+
+The Indian Meteorological agency IMD has 
+projected a below normal monsoon for 2026 , 
+in midst of expectations of a strong El Niño  
+occurrence. Seasonal rainfall over the country is 
+seen at 8% below the Long Period Average 
+(LPA), with a 66% probability of monsoon being 
+below normal or deficient. Risk of heatwaves 
+was also highlighted as a risk for the Apr -Jun 
+quarter. Private agency Skymet projected 
+rainfall at 94% of LPA, with second half of the 
+peak period (June to September) to experience 
+shortfalls. The IMD’s next updated forecast is 
+due in the last week of May.
+
+In India, recent El Niño occurrences have 
+coincided with below normal rainfall  though 
+not necessarily drought -like conditions – see 
+chart. In 2015 -2016, IMD’s first forecast was 
+93% of LPA, which was revised to 88% later and 
+actual was closer to 86%. In the past three 
+DBS Group Research                                                             May 08, 2026 
+30 
+Economics 
+DBS Flash 
+India: El Niño’s rain check 
+Economics/India
+
+• The IMD projected below normal 
+rainfall, amidst expectations of a strong 
+El Niño occurrence. 
+• Past trends suggest that only a 
+significant shortfall in rainfall materially 
+impacts output. 
+• The increasing share of irrigated land 
+serves as a key mitigating factor. 
+• Other counterbalancing factors by way 
+of excess foodgrain stocks, reservoir 
+levels, fertilisers and administrative 
+steps will help prevent a price spiral.  
+• Passthrough to rain -sensitive crops, 
+nonetheless, pose upside risks to our 
+inflation forecast.  
+• Implications for forecasts: The RBI 
+policy committee is unlikely to act in a 
+hurry on supply-side shocks.
+
+
+===== Page 15 =====
+
+India: El Niño’s rain check   May 8, 2026
+
+Page 2
+
+years, FY24 was the weaker end of normal 
+range after experiencing a relatively strong El 
+Niño phase (link), followed by two successive 
+years of above normal rains at 108% in FY25 and 
+FY26. The crucial southwest monsoon accounts 
+for ~70% of the annual rainfall, concentrated 
+during June to September.
+
+Economic watch factors
+
+Output
+
+The extent of the economic impact will depend 
+on the severity, intensity, and length of the El 
+Niño occurrence. At the same time, not only the 
+strength of aggregate rainfall, but also its 
+distribution can impact output.
+
+The share of agriculture in India’s growth mix is 
+modest at 16-17% of GDP but has accounted for 
+a little less than half of overall employment  in 
+recent years. The correlation of the crops sub-
+component under GVA (gross value added) , 
+which makes up half of overall agriculture 
+forestry and fishing (AFF), and foodgrain 
+output is high.  
+For kharif foodgrain, we observe that in the past 
+three decades, more than 10 -11% shortfall in 
+the rainfall vs the LPA causes material impact on 
+the foodgrain output. For instance, 2014 -2016, 
+monsoon was an average 12 -13% below the 
+LPA (see chart), resulting in a fall in the summer 
+foodgrain output. This was partly responsible 
+for the -0.2% yoy fall in GVA -agri and allied 
+services in FY15 and a modest 0.6% growth in 
+FY16. Hence, assuming a stark double -digit 
+shortfall in the monsoon vs LPA pushes the 
+GVA-AFF growth rate from 3.5% to 2% in the 
+coming year, this could result in 20 -30bp 
+reduction in overall headline growth.
+
+As a mitigating factor , the share of gross 
+irrigated area as a percentage of overall gross 
+cropped area has continued to increase, 
+suggesting a reduction in directly rain -fed 
+acreage. Yet, key rain-fed summer crops, which 
+are largely grown during the Kharif season, are 
+heavily dependent on the Southwest monsoon, 
+with major production including rice, soybeans, 
+cotton, maize, and pulses , as well as few 
+horticulture plants.
+
+
+===== Page 16 =====
+
+India: El Niño’s rain check   May 8, 2026
+
+Page 3
+
+Inflation impact
+
+The temporal and geographical distribution of 
+rainfall will determine the eventual impact.
+
+We track ed movements in India’s food CPI 
+inflation against the last two El Niño periods (of 
+which 2015 -2016 was more severe) , which  
+showed that swings were moderate, even if not 
+non-trivial. A key offset for inflation during the 
+adverse El Niño spell in 2015 -2016 was lower 
+commodity prices including energy, which 
+helped to keep a lid on non-food pressures. By 
+contrast, energy commodity prices are elevated 
+at this juncture, suggesting price pressures 
+could stem from other quarters as well.
+
+Encouragingly, price pressures can be partly 
+mitigated by current foodgrain inventories and 
+potential supply countermeasures.  The 
+country has ample official foodgrain stocks. As 
+of May26, total foodgr ain stocks in the central 
+pool (managed by Food Corporation of India) 
+jumped to over 60 .mn metric tonnes (LMT), 
+which is nearly three times the required buffer 
+norms – comprising of 38.6mn LMT of rice and 
+21.8mn LMT of wheat. Shortages can be met by 
+these inventories to keep prices stable. 
+Nonetheless, certain other crop groups where 
+maintaining inventories is a challenge 
+(perishables like vegetables) and where stocks 
+are generally inadequate (oilseeds , pulses ) 
+could face price pressure. On the latter, imports 
+have been stepped up in the past instances to 
+cap the scale of price hikes.
+
+Secondly, risk of shortages will be addressed via 
+pre-emptive supply side price management 
+steps including redistribution of inter -state 
+supplies, stepping up imports or export bans to 
+boost domestic stocks, supporting better crop 
+yields, containing hoarders, amongst others.
+
+Add to this , adequate reservoir and 
+groundwater levels from the past should also 
+provide some extent of offset until the winter 
+crop but build up for the subsequent cropping 
+seasons will fall short if the shortfall in monsoon 
+is significant. Current storage levels are higher 
+than comparable period last year – see chart.
+
+
+===== Page 17 =====
+
+India: El Niño’s rain check   May 8, 2026
+
+Page 4
+
+Confluence of forces. At an aggregate level, 
+inflation faces a confluence of pressures – 
+energy prices, second derivative impact via 
+logistics and transport costs, higher input costs 
+for businesses , jump in global fertiliser prices 
+which will result in higher subsidy outlay and 
+vulnerable perishables. Factoring in a modest 
+scale of pump price hike and pipeline monsoon 
+risks, we revise our annual inflation forecast to 
+4.9% yoy (risks of further upside) for FY27, 
+before easing to 4% next year.
+
+Compared to retail inflation, the wholesale 
+index is more sensitive to commodity and 
+imported price pressures and is expected to rise 
+further due to base effects and external factors. 
+WPI inflation outpaced CPI gauge in the month 
+(see chart), signalling pipeline risks.  This is 
+reinforced by the sharp rise in PMI input price 
+gauge as well as IIMA Business Inflation 
+Expectations Survey (BIES)  for March 2026 , 
+which cumulatively point to firms facing strong 
+cost-push factors, which are still be passed on 
+down the value chain to the consumers.
+
+Policy implications.
+
+The RBI monetary policy committee (MPC) is 
+unlikely to exhibit urgency in tightening policy 
+in response to supply -side - energy and food - 
+pressures. The risk of further rate hikes will 
+increase if there are signs of a sharp rise in 
+inflation expectations and a sustained spillover 
+of elevated headline inflation into core inflation 
+readings. Our baseline view is for the MPC to 
+keep the benchmark rate to keep rates 
+unchanged during 2026.
+
+Other non -policy measures have been 
+undertaken to stabilize the rupee as discussed 
+here and here. Measures to draw in more dollar 
+flows are reportedly under consideration, 
+including a plan for state -owned banks to sell 
+foreign currency bonds,  or introduce a special 
+non-resident deposit scheme.  At this juncture, 
+any underlying swap arrangements will need to 
+factor in higher prevailing US rates vs past 
+cycles (including 2013 taper tantrum), which in 
+turn implies higher subsidy support from the 
+RBI. The quantum of issuance will also need to 
+at least partially commensurate with cu rrent 
+funding requirements.
+
+
+===== Page 18 =====
+
+India: El Niño’s rain check   May 8, 2026
+
+Page 5
+
+
+===== Page 19 =====
+
+India: El Niño’s rain check   May 8, 2026
+
+Page 6
+
+The information herein is published by DBS Bank Ltd and/or DBS Bank (Hong Kong) Limited (each and/or collectively, the 
+“Company”). It is based on information obtained from sources believed to be reliable, but the Company does not make 
+any representation or  warranty, express or implied, as to its accuracy, completeness, timeliness or correctness for any 
+particular purpose. Opinions expressed are subject to change without notice. This research is prepared for general 
+circulation.  Any recommendation contained herein does not have regard to the specific investment objectives, financial 
+situation and the particular needs of any specific addressee. The information herein is published for the information of 
+addressees only and is not to be taken in substitution fo r the exercise of judgement by addressees, who should obtain 
+separate legal or financial advice. The Company, or any of its related companies or any individuals connected with the 
+group accepts no liability for any direct, special, indirect, consequential, incidental damages or any other loss or damages 
+of any kind arising from any use of the information herein (including any error, omission or misstatement herein, 
+negligent or otherwise) or further communication thereof, even if the Company or any other person has been advised of 
+the possibility thereof. The information herein is not to be construed as an offer or a solicitation of an offer to buy or sell 
+any securities, futures, options or other financial instruments or to provide any investment advice or services. The 
+Company and its associates, their directors, officers and/or employees may have positions or other interests in, and may 
+effect transactions in securities mentioned herein and may also perform or seek to perform broking, investment banking 
+and other banking or financial services for these companies.  The information herein is not directed to, or intended for 
+distribution to or use by, any person or entity that is a citizen or resident of or located in any locality, state, country, or 
+other jur isdiction (including but not limited to citizens or residents of the United States of America) where such 
+distribution, publication, availability or use would be contrary to law or regulation.  The information is not an offer to sell 
+or the solicitation of  an offer to buy any security in any jurisdiction (including but not limited to the United States of 
+America) where such an offer or solicitation would be contrary to law or regulation.  
+[#for Distribution in Singapore] This report is distributed in Singapore by DBS Bank Ltd (Company Regn. No. 196800306E) 
+which is Exempt Financial Advisers as defined in the Financial Advisers Act and regulated by the Monetary Authority of 
+Singapore. DBS Ba nk Ltd may distribute reports produced by its respective foreign entities, affiliates or other foreign 
+research houses pursuant to an arrangement under Regulation 32C of the Financial Advisers Regulations. Where the 
+report is distributed in Singapore to a  person who is not an Accredited Investor, Expert Investor or an Institutional 
+Investor, DBS Bank Ltd accepts legal responsibility for the contents of the report to such persons only to the extent 
+required by law. Singapore recipients should contact DBS Ba nk Ltd at 65 -6878-8888 for matters arising from, or in 
+connection with the report.
+
+DBS Bank Ltd., 12 Marina Boulevard, Marina Bay Financial Centre Tower 3, Singapore 018982. Tel: 65 -6878-8888. 
+Company Registration No. 196800306E.
+
+DBS Bank Ltd., Hong Kong Branch, a company incorporated in Singapore with limited liability.  18th Floor, The Center, 99 
+Queen’s Road Central, Central, Hong Kong SAR.
+
+DBS Bank (Hong Kong) Limited, a company incorporated in Hong Kong with limited liability.  11th Floor, The Center, 99 
+Queen’s Road Central, Central, Hong Kong SAR.
+
+
+===== Page 20 =====
+
+ss
+
+Radhika Rao 
+Senior Economist
+
+Please direct distribution queries to  
+Violet Lee +65 68785281 violetleeyh@dbs.com
+
+Strong start to the year
+
+Indonesia’s economy expanded by a firm 5.6% 
+yoy in 1Q26, in line with our  forecast. This 
+marks the fastest quarterly growth since 3Q22 . 
+Economic momentum was relatively resilient at 
+the start of the year , supported by higher 
+consumption due to religious festivities, fiscal 
+stimulus measures including the traditional 
+holiday allowance, low base effects, strong 
+government spending and firmer sentiments. 
+Activity, however, softened at the tail end of 
+the quarter  around March, due to volatility in 
+the equity markets, and firms facing supply 
+distortions as well as high costs due to the onset 
+of the US-Iran tensions.
+
+Consumption rose by 7% yoy, helped by higher 
+household and government spending. 
+Investment growth also maintained a strong 
+beat at around 6% yoy in the quarter. Net 
+exports surfaced as a key drag in the period, 
+subtracting 1.2ppt off the headline.
+
+DBS Group Research                                                             May 05, 2026 
+30 
+Economics 
+DBS Flash 
+Indonesia growth: Firm start, speed bump ahead   
+Economics/Indonesia 
+• Indonesia’s economy expanded 5.6% 
+yoy in 1Q26, matching our above -
+consensus forecast.  
+• Government spending emerged as a key 
+support, while net exports weakened.  
+• 1Q26 likely marked the peak 
+• Speed bumps lie ahead by way of high 
+energy prices and pressure to 
+consolidate public finances.  
+• Authorities are likely to delay increases 
+to the fuel pump prices. 
+• This will necessitate adroit fiscal 
+management to keep within the -3% of 
+GDP.  
+• Implications for markets: Rupiah might 
+surface as a bigger bother than inflation 
+for the BI.  
+• Jump in SRBI returns has resulted in 
+stealth policy tightening.
+
+
+===== Page 21 =====
+
+Indonesia growth: Firm start, speed bump ahead   May 5, 2026
+
+Page 2
+
+Outlook: The first quarter likely marked the 
+growth peak, with the momentum set to 
+moderate as real activity could be dampened by 
+high energy prices and pressure to consolidate 
+public finances. Factoring in these risks, we 
+moderate our growth forecast slightly to 5. 1% 
+vs 5.3% currently for 2026.
+
+Bank Indonesia – hawkish pivot
+
+1Q26 CPI inflation averaged  a strong 3.9% yoy 
+vs 2.1% average in 2025. An assessment based 
+on these numbers should be viewed with 
+caution due to a low base, with headline CPI 
+inflation expected to normalise 2Q onwards. 
+True to the word, April 2026 inflation eased to 
+2.4% yoy driven by fading power subsidy -
+related base effects and demand moderated 
+post-Lebaran. Nonetheless, a gradual but 
+steady pick up in the PPI measure warrants 
+attention as firms face higher upstream input 
+costs and are yet to fully pass these to the final 
+output prices.
+
+We see two channels of price impact. Firstly, a 
+decision of changes in the retail pump prices 
+and associated second derivative impact will be 
+crucial. Our full year CPI inflation forecast at 
+3.2% assumes no change in the administered 
+fuel prices this year, which is also affirmed by 
+our onshore channel checks as the government 
+appears to treat any subsidy cut as a move of 
+last resort.  Nonetheless, with the Strait of 
+Hormuz closure, the passthrough from higher 
+oil, natural gas and fertilisers warrant attention, 
+which could translate into ~0.05 -0.1% imp act, 
+assuming static retail prices. Notably, the share 
+of energy consumption is higher amongst the 
+middle-class vs other household categories . 
+This deals additional strain on purchasing 
+power, magnified by the absence of social
+
+
+===== Page 22 =====
+
+Indonesia growth: Firm start, speed bump ahead   May 5, 2026
+
+Page 3
+
+assistance or welfare measures for this stratum 
+of the populace. Aggregate minimum wage has 
+also risen by a more modest pace than in the 
+past few years.  Secondly, other factors like 
+rupiah depreciation and El Nino -related 
+disruptions in this quarter and next.
+
+Bank Indonesia  held rates unchanged in April 
+but guidance carried hawkish undercurrents .  
+We see two pre-conditions for the BI to shift to 
+a tightening bias : firstly, sharp depreciation 
+pressures on the currency, and secondly, an 
+increase in the domestic administered 
+subsidised fuel prices,  which could generate 
+both direct and second -round price pressures, 
+taking inflation beyond the official target range. 
+While we see a lower probability of an increase 
+in the pump prices, rupiah depreciation will be 
+a concern for the central bank, with the FX 
+reserve buffer also moderating in recent 
+months – see chart.
+
+Our base case is for the BI to stay on hold this 
+quarter but see an increasing likelihood of a 
+measured hike to defend the currenc y in 2Q . 
+USDIDR rose past a new high at 17400 in May, 
+due to a bid dollar, higher oil and seasonal flows 
+(repatriation), notwithstanding persistent 
+intervention efforts.
+
+Returns on the SRBI instruments continues to 
+climb to draw in more offshore interests, 
+building a yawning gap with the benchmark rate 
+as well as short end yields. We see this increase 
+as a stealth move to increase rates to draw 
+rate sensitive flows. When the spread between 
+the BI rate vs SRBIs/ SBN yields was similarly 
+wide back in 2024, a few spillover 
+developments were; a) some extent of 
+cannibalisation of (ex -retail) inflows into the 
+short-term bonds; b) lent an upside bias to the 
+1Y-2Y yield movements, effectively flattening 
+the curve as official b ond purchases help ed to 
+contain the long end yield; c) draw in flows from 
+banks especially if global or domestic 
+environment is not conducive ; d)  absorb 
+banking system liquidity away from productive 
+purposes like boosting credit growth. Investors 
+are likely to be mindful of these developments 
+this year as well.
+
+
+===== Page 23 =====
+
+Indonesia growth: Firm start, speed bump ahead   May 5, 2026
+
+Page 4
+
+Separately, t o help better align offshore NDF 
+with onshore pricing, BI had intended to relax 
+its restriction on domestic banks’ participation 
+in the NDF  market. Selected primary dealers, 
+particularly those that play a key role in the 
+money markets and foreign exchange, will be 
+allowed to sell in offshore NDFs.
+
+Fiscal deficit to stay anchored
+
+We are mindful of the sensitives of the fiscal 
+math to changes in crude prices (Indonesia 
+Crude ICP) and rupiah movements.  For 
+instance, market estimates are that every USD 
+10bl increase in ICP compared to baseline 
+($70bl) will increase net fiscal spending by IDR  
+103trn (0.3% of GDP). Meanwhile, assumption 
+on the exchange rate is that every IDR100/ USD 
+depreciation will raise net fiscal spending by IDR 
+800bn. For instance, a scenario under which ICP 
+averages $92.5bl for the year with an exchange 
+rate at USDIDR 17000, could see the deficit 
+edge above the 3.0% of GDP deficit threshold by 
+20bp.
+
+Despite elevated pressure on the fiscal math 
+due to high energy costs and consequent need 
+for budgetary support, we expect the -3% of 
+GDP annual deficit threshold to be maintained.
+
+For a start, 1Q26 run rate  saw expenditure 
+being frontloaded, rising 30% yoy accompanied 
+by 10% increase in revenues  – see chart . This 
+led the 1Q fiscal deficit to jump to -0.93% of 
+GDP vs customary- flat-to-small surplus in most 
+years. Given this weak start to the year, we 
+expect the pace of spending to moderate in the 
+next three quarters, while also carving out 
+savings from existing schemes and flagship 
+programs (including the nutritious food 
+program). The pace of disbursements for the 
+MBG program decelerated into 2Q, which along 
+with broader pronouncements of plans to lower 
+allocation to the program might result in 0. 2-
+0.4ppt of GDP worth room.
+
+Growth in revenues was strong in 1Q26, partly 
+driven by a low base. While the quarterly pace 
+will slow o ver the next three quarters, overall 
+revenues are expected to receive a hand from: 
+a) export duties on select commodities; b) 
+better tax administration measures; c) natural 
+resource-based revenues due to higher energy
+
+
+===== Page 24 =====
+
+Indonesia growth: Firm start, speed bump ahead   May 5, 2026
+
+Page 5
+
+and base metal prices . The underlying fiscal 
+math will also be subject to other 
+considerations for instance , a) if there is any 
+formal roadmap that is tabled to seek a 
+temporary wider deficit akin to the pandemic 
+and then being brought back below -3% of GDP; 
+b)  spending in deferred or treated as below the 
+line; c)  sharp untenable rally in global crude 
+prices, necessitating a passthrough to 
+subsidised and non-subsidised prices, which will 
+help better balance the fiscal books.
+
+Financial markets
+
+Rupiah has persistently been one of the 
+underperformers this year, aggravated by the 
+outbreak of the US -Iran tensions since March.  
+April-May are seasonally weak periods for the 
+currency on USD repatriation demand. While 
+the macro data is still proving to be relatively 
+resilient, investors have adopted a cautious 
+stance ahead of the MSCI review, rating 
+agencies outlook downgrade and governance 
+issues. With these in view, we would be 
+cautious on the IDR asset performance this 
+quarter, expecting fiscal rationalisation efforts 
+to be supportive in 2H.
+
+
+===== Page 25 =====
+
+Indonesia growth: Firm start, speed bump ahead   May 5, 2026
+
+Page 6
+
+
+===== Page 26 =====
+
+Indonesia growth: Firm start, speed bump ahead   May 5, 2026
+
+Page 7
+
+
+===== Page 27 =====
+
+Indonesia growth: Firm start, speed bump ahead   May 5, 2026
+
+Page 8
+
+The information herein is published by DBS Bank Ltd and/or DBS Bank (Hong Kong) Limited (each and/or collectively, the 
+“Company”). It is based on information obtained from sources believed to be reliable, but the Company does not make 
+any representation or  warranty, express or implied, as to its accuracy, completeness, timeliness or correctness for any 
+particular purpose. Opinions expressed are subject to change without notice. This research is prepared for general 
+circulation.  Any recommendation contained herein does not have regard to the specific investment objectives, financial 
+situation and the particular needs of any specific addressee. The information herein is published for the information of 
+addressees only and is not to be taken in substitution fo r the exercise of judgement by addressees, who should obtain 
+separate legal or financial advice. The Company, or any of its related companies or any individuals connected with the 
+group accepts no liability for any direct, special, indirect, consequential, incidental damages or any other loss or damages 
+of any kind arising from any use of the information herein (including any error, omission or misstatement herein, 
+negligent or otherwise) or further communication thereof, even if the Company or any other person has been advised of 
+the possibility thereof. The information herein is not to be construed as an offer or a solicitation of an offer to buy or sell 
+any securities, futures, options or other financial instruments or to provide any investment advice or services. The 
+Company and its associates, their directors, officers and/or employees may have positions or other interests in, and may 
+effect transactions in securities mentioned herein and may also perform or seek to perform broking, investment banking 
+and other banking or financial services for these companies.  The information herein is not directed to, or intended for 
+distribution to or use by, any person or entity that is a citizen or resident of or located in any locality, state, country, or 
+other jur isdiction (including but not limited to citizens or residents of the United States of America) where such 
+distribution, publication, availability or use would be contrary to law or regulation.  The information is not an offer to sell 
+or the solicitation of  an offer to buy any security in any jurisdiction (including but not limited to the United States of 
+America) where such an offer or solicitation would be contrary to law or regulation.
+
+[#for Distribution in Singapore] This report is distributed in Singapore by DBS Bank Ltd (Company Regn. No. 196800306E) 
+which is Exempt Financial Advisers as defined in the Financial Advisers Act and regulated by the Monetary Authority of 
+Singapore. DBS Ba nk Ltd may distribute reports produced by its respective foreign entities, affiliates or other foreign 
+research houses pursuant to an arrangement under Regulation 32C of the Financial Advisers Regulations. Where the 
+report is distributed in Singapore to a person who is not an Accredited Investor, Expert Investor or an Institutional 
+Investor, DBS Bank Ltd accepts legal responsibility for the contents of the report to such persons only to the extent 
+required by law. Singapore recipients should contact DBS Ban k Ltd at 65 -6878-8888 for matters arising from, or in 
+connection with the report.
+
+DBS Bank Ltd., 12 Marina Boulevard, Marina Bay Financial Centre Tower 3, Singapore 018982. Tel: 65 -6878-8888. 
+Company Registration No. 196800306E.
+
+DBS Bank Ltd., Hong Kong Branch, a company incorporated in Singapore with limited liability.  18th Floor, The Center, 99 
+Queen’s Road Central, Central, Hong Kong SAR.
+
+DBS Bank (Hong Kong) Limited, a company incorporated in Hong Kong with limited liability.  11th Floor, The Center, 99 
+Queen’s Road Central, Central, Hong Kong SAR.
+
+Virtual currencies are highly speculative digital "virtual commodities", and are not currencies. It is not a financial product 
+approved by the Taiwan Financial Supervisory Commission, and the safeguards of the existing investor protection regime 
+does not apply.  The prices of virtual currencies may fluctuate greatly, and the investment risk is high. Before engaging in 
+such transactions, the investor should carefully assess the risks, and seek its own independent advice .

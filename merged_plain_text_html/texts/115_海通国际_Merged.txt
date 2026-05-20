@@ -1,0 +1,402 @@
+===== Page 1 =====
+
+[Table_yemei1] 观点聚焦 Investment Focus
+
+[Table_summary] (Please see APPENDIX 1 for English summary)  
+一、宏观经济点评 
+3 月 FOMC 会议 
+美联储 3 月 FOMC 会议上将联邦基金利率的目标区间维持在 3.5%~3.75%。会后声明指出，中东局势发展对美国经
+济的影响尚不确定，通胀未稳不降息。在经济预测方面，美联储小幅上调了通胀与增长预期。从点阵图来看，未
+来宽松空间将更加有限。此次 FOMC 会议在短期影响上更偏鹰派，随着中东冲突持续时间超预期，全球经济再通胀
+风险显著提升。1）乐观情景下，经济增长小幅受损，通胀适度上移但对美联储而言相对可控，那么此次油价的冲
+击之后，降息会比市场预期的更早发生； 2）悲观情形下，若中东局势导致通胀风险超预期，油价持续高位震荡，
+美联储中期或转向鹰派。
+
+2 月 PPI 数据 
+美国 2 月 PPI 环比季调上涨 0.7%，远高于预期 0.3%，同比升至 3.4%，亦高于预期 3.0%，为 2025 年 2 月以来新高。
+不考虑能源和食品，核心 PPI 同比升至 3.9%。分项上看，2 月商品环比增速 1.1%（其中食品环比增长 2.4%，能源
+环比增长 2.3%），服务业环比增长 0.5%，且中东地缘冲突的影响尚未体现在本次的数据中，能源冲击或将进一步
+推高 PPI ，其增速上行或进一步强化市场对通胀粘性的担忧，推迟美联储降息的预期时点，短期或推高美债收益率
+并压制风险资产表现。
+
+二、市场观察 
+中东局势保持中高烈度冲突，油价持续高位反复，美元短期持续上行，美元 等海外市场已经进入典型的滞涨交易
+和避险交易，中短期要警惕流动性紧缩的冲击，当前整体金融流动性仍偏紧，但短期货币市场压力相对可控。
+
+美股受 FOMC 会议偏鹰派表态、地缘冲突烈度不减及滞涨担忧下，上周全面走弱，三大指数连续四周下跌，利率敏
+感的科技成长股承压，周中 FOMC 后加速下跌，道琼斯指数周跌 2.11%，标普 500 周跌 1.90%，纳斯达克指数周跌
+2.07%。随着能源成本走高，供给冲击型的通胀风险约束了美联储降息空间，而对经济的冲击则对长端利率形成支
+撑，美债收益率上周全线走高，10 年期国债收益率上涨至 4.38%，2 年期国债收于 3.90%。短期，市场定价的通胀
+风险大于增长风险，曲线扁平化压力上升。 黄金 短期受石油美元逻辑下美元走强的影响，保持相对弱势，周跌
+10.5%，重新与实际利率负相关，随着实际利率快速抬升，黄金承压下行，创下 1983 年以来最大单周跌幅，收于
+4490 美元/盎司，14 天 RSI 显示黄金已经进入超卖区间。但受国际秩序重构的确定性溢价以及其抗通胀与避险属
+性，中长期或将继续上行。石油在地缘溢价主导下继续上行，上周收于 104 美元/桶，其作为战略资源的属性将被
+系统性提升估值。
+
+受中期选举影响，股市风险和通胀风险对特朗普的影响将大幅抬升，或促使美方最终妥协或撤军，即 Taco 2.0 。市
+场将开启 Risk-On 与流动性交易，各类资产或将出现脉冲式冲击，油价高位回落，全球股市明显反弹，美债也有望
+反弹。具体来看，美股有望再次回归成长逻辑 。对美债而言，随着 Taco2.0，美联储或将重启宽松政策，美债收益
+率曲线将逐渐陡峭化，立足中期，十年期美债收益率 4.3%左右将具备配置价值。欧洲资产受此次冲突的冲击最为
+严重，理论上冲突结束后，欧洲资产的反弹空间也最大，但卡塔尔基础设施遇袭等问题的持续，会进一 步延缓其
+复苏进程。亚洲经济体大多为石油进口国，与美国股市类似，若伊朗冲突迎来转机，新兴市场股市也将成为主要
+受益者。
+
+风险提示：地缘冲突超预期，经济增长不及预期 
+[Table_Title] 研究报告 Research Report  
+24 Mar 2026
+
+
+===== Page 2 =====
+
+24 Mar 2026 2 
+[Table_header2] 国泰海通香江策论
+
+一、 宏观经济点评
+
+1. 3 月 FOMC 会议 
+随着中东冲突持续时间超预期，全球经济再通胀风险显著提升。霍尔木兹海峡作为全球石油咽喉要道，占全球石油贸易量
+超 20%，在地缘政治风险溢价和航运瓶颈的双重推动下，短期内原油价格或在每桶 100~120 美元/桶高位震荡。油价对经济
+的传导路径清晰：油价上涨导致汽油价格抬升，进而导致可支配收入降低，影响消费并最终拖累 GDP 增长，而美国通胀前
+景也将影响美联储政策决策。1）乐观情景下，若 2026 年油价中枢维持在 100 美元/桶下方，则经济增长小幅受损，通胀适
+度上移但对美联储而言相对可控，美联储或将判定此次油价上涨为一次脉冲式 冲击而不是持续性的通胀抬升。考虑到特朗
+普重视中期选举，大概率将寻求货币宽松，那么此次油价的冲击之后，降息会比市场预期的更早发生； 2）悲观情形下，
+若中东局势导致通胀风险超预期，油价持续高位震荡，美联储中期或转向鹰派。
+
+油价与 CPI 走势高度相关，且油价的波动往往领先于 CPI
+
+Source: Bloomberg,  HTI，截止 2026 年 3 月 4 日
+
+美联储 3 月 FOMC 会议上将联邦基金利率的目标区间维持在 3.5%~3.75%。只有美联储理事斯蒂芬·米兰对委员会的决定持异
+议，他更倾向于降息 25 个基点。会后声明指出，中东局势发展对美国经济的影响尚不确定，通胀未稳不降息。
+
+在经济预测方面，美联储小幅上调了通胀与增长预期：PCE 通胀由 2.4%上调至 2.7%，核心 PCE 通胀由 2.5%升至 2.7%，实际
+GDP 增速由 2.3%上调至 2.4%，而失业率预测则维持在 4.4%不变。这表明官员们认为油价冲击主要体现在推升通胀，但对
+经济增长和就业的负面影响相对有限。
+
+美国 CPI，核心 CPI 与 PCE（同比，%） 通胀预期走高，增长动能放缓，滞涨风险抬升
+
+Source: Wind, HTI。截止 2026 年 2 月 Source: Bloomberg, HTI。截止 2025 年 Q4 
+0.0
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+8.0
+9.0
+10.0
+2019-12
+2020-04
+2020-08
+2020-12
+2021-04
+2021-08
+2021-12
+2022-04
+2022-08
+2022-12
+2023-04
+2023-08
+2023-12
+2024-04
+2024-08
+2024-12
+2025-04
+2025-08
+2025-12
+CPI 核心CPI PCE 核心PCE
+
+
+===== Page 3 =====
+
+24 Mar 2026 3 
+[Table_header2] 国泰海通香江策论
+
+从点阵图来看，对 2026 年降息次数的预测中值仍为 1 次，与去年 12 月一致。有 7 位官员预计今年无需降息，人数也未发
+生变化。不过认为降息两次或更多的官员人数从 8 人减少至 5 人，对年底政策利率最低水平的预测也从 2.0%上调至 2.5%。
+长期中性利率的预测中值从 3.0%上调至 3.1%，反映出官员们认为未来宽松空间将更加有限 。
+
+我们认为此次 FOMC 会议在短期影响上更偏鹰派，同时受到地缘政治局势烈度不减的影响（美国可能考虑采取高风险行动
+接管伊朗的哈尔克岛并可能向伊朗派遣地面部队做准备），股债金本周同步下跌，原油独立走强。大类资产定价主线由 “降
+息预期+避险”转向“高利率预期+通胀反弹+能源冲击”。
+
+2. PPI 点评 
+美国 2 月 PPI 环比季调上涨 0.7%，远高于预期 0.3%，同比升至 3.4%，亦高于预期 3.0%，为 2025 年 2 月以来新高。不考虑
+能源和食品，核心 PPI 同比升至 3.9%。分项上看，2 月商品环比增速 1.1%（其中食品环比增长 2.4%，能源环比增长 2.3%），
+服务业环比增长 0.5%，且中东地缘冲突的影响尚未体现在本次的数据中，能源冲击或将进一步推高 PPI ，其增速上行或进
+一步强化市场对通胀粘性的担忧，推迟美联储降息的预期时点，短期或推高美债收益率并压制风险资产表现。
+
+美国 2 月份 PPI 分项贡献占比
+
+Source: Fed,  HTI。截止 2026 年 2 月 
+美联储经济预测摘要 FOMC 3 月份会议点阵图
+
+Source: Wind, HTI。截止 2026 年 3 月 18 日 Source: Bloomberg, HTI。截止 2026 年 3 月 18 日
+
+
+===== Page 4 =====
+
+24 Mar 2026 4 
+[Table_header2] 国泰海通香江策论
+
+二、市场观察
+
+随着中东局势保持中高烈度冲突，油价持续高位反复，美元短期持续上行，美元等海外市场已经进入典型的滞涨交易和避
+险交易，中短期要警惕流动性紧缩的冲击，当前整体金融流动性仍处于偏紧区间，但短期货币市场压力相对可控。
+
+金融流动性指标趋势 SOFR-OIS 利差
+
+Source: Wind, HTI。截止 2026 年 3 月 18 日 Source: Bloomberg, HTI。截止 2026 年 3 月 20 日 
+大类资产年初至今表现 大类资产上周表现（03.16-03.20）
+
+Source: Wind, HTI。截止 2026 年 3 月 20 日 Source: Bloomberg, HTI。截止 2026 年 3 月 20 日
+
+
+===== Page 5 =====
+
+24 Mar 2026 5 
+[Table_header2] 国泰海通香江策论
+
+美股：受 FOMC 会议偏鹰派表态、地缘冲突烈度不减及滞涨担忧下，美股上周全面走弱，三大指数连续四周下跌，利率敏
+感的科技成长股承压，周中 FOMC 后加速下跌，道琼斯指数周跌 2.11%，标普 500 周跌 1.90%，纳斯达克指数周跌 2.07%。
+
+美债：随着能源成本走高，供给冲击型的通胀风险约束了美联储降息空间，而对经济的冲击则对长端利率形成支撑。美债
+收益率上周全线走高，10 年期国债收益率上涨至 4.38%，2 年期国债收于 3.90%。短期，市场定价的通胀风险大于增长风
+险，曲线扁平化压力上升。
+
+美股三大股指趋势 标普 500 指数风险溢价
+
+Source: Wind, HTI。截止 2026 年 3 月 20 日 Source: Bloomberg, HTI。截止 2026 年 3 月 20 日 
+美国长期国债收益率对比 美元指数与 VIX 趋势
+
+Source: Wind, HTI。截止 2026 年 3 月 18 日 Source: Bloomberg, HTI。截止 2026 年 3 月 20 日
+
+
+===== Page 6 =====
+
+24 Mar 2026 6 
+[Table_header2] 国泰海通香江策论
+
+黄金：短期受石油美元逻辑下美元走强的影响，黄金保持相对弱势，周跌 10.5%，重新与实际利率负相关，随着实际利率
+快速抬升，黄金承压下行，创下 1983 年以来最大单周跌幅，收于 4490 美元/盎司，14 天 RSI 显示黄金已经进入超卖区间。
+但受国际秩序重构的确定性溢价以及其抗通胀与避险属性，中长期或将继续上行。
+
+黄金/白银价格近期成下跌趋势 COMEX 黄金 14 天 RSI 指标显示已进入超卖区
+
+Source: Wind, HTI.截止 2026 年 3 月 20 日 Source: Wind, HTI.截止 2026 年 3 月 20 日
+
+石油：在地缘溢价主导下继续上行，其作为战略资源的属性将被系统性提升估值，上周收于 104 美元/桶。
+
+受中期选举影响，股市风险和通胀风险对特朗普的影响将大幅抬升，或促使美方最终妥协或撤军，即 Taco 2.0 。市场将开
+启 Risk-On 与流动性交易，各类资产或将出现脉冲式冲击，油价高位回落，全球股市明显反弹，美债也有望反弹。具体来
+看，美股有望再次回归成长逻辑，大盘科技成长类（如 M7）、AI 基础设施等板块或将显著反弹。对美债而言，随着
+Taco2.0，美联储或将重启宽松政策，美债收益率曲线将逐渐陡峭化，立足中期来看，十年期美债收益率 4.3%左右将具备配
+置价值。欧洲资产受此次冲突的冲击最为严重，理论上冲突结束后，欧洲资产的反弹空间也最大，但卡塔尔基础设施遇袭
+等问题的持续，会进一步延缓其复苏进程。亚洲经济体大多为石油进口国，与美国股市类似，若伊朗冲突迎来转机，新兴
+市场股市也将成为主要受益者。
+
+
+===== Page 7 =====
+
+24 Mar 2026 7 
+[Table_header2] 国泰海通香江策论
+
+APPENDIX 1 
+Summary 
+I. Macroeconomic Commentary 
+March FOMC Meeting 
+At its March FOMC meeting, the Federal Reserve maintained the target range for the federal funds rate at 3.5% –3.75%. The post -
+meeting statement noted that the impact of developments in the Middle East on the U.S. economy remains uncertain, and that 
+interest rates will not be cut until inflation is firmly under control. Regarding economic projections, the Fed slightly raised its forecasts 
+for inflation and growth. Judging by the dot plot, future room for monetary easing will be even more limited. In the short te rm, this 
+FOMC meeting leaned toward a hawkish stance. As the conflict in the Middle East persists longer than expected, the risk of gl obal 
+reflation has significantly increased. 1) In an optimistic scenario, economic growth suffers only minor damage, and while inf lation 
+rises moderately, it remains relatively manageable for the Fed. In this case, following the current oil price shock, rate cut s would 
+occur sooner than the market expects; 2) In a pessimistic scenario, if the Middle East situation leads to inflation r isks exceeding 
+expectations and oil prices continue to fluctuate at high levels, the Fed may shift to a hawkish stance in the medium term.
+
+February PPI Data 
+U.S. PPI rose 0.7% month -over-month on a seasonally adjusted basis in February, far exceeding the expected 0.3%. Year-over-year, 
+it rose to 3.4%, also higher than the expected 3.0%, marking the highest level since February 2025. Excluding energy and food , the 
+core PPI rose 3.9% year-over-year. Breaking it down by category, the month-over-month growth rate for goods in February was 1.1% 
+(with food up 2.4% and energy up 2.3%), while services rose 0.5% month -over-month. Furthermore, the impact of the Middle East 
+geopolitical conflict has not yet been reflected in this data; the energy shock may further pus h up the PPI. An acceleration in its 
+growth rate could intensify market concerns about inflation stickiness, delaying expectations for the Fed to cut rates, and in the short 
+term, potentially pushing up U.S. Treasury yields and weighing on the performance of risk assets.
+
+II. Market Strategy 
+With the conflict in the Middle East remaining at a medium-to-high intensity, oil prices continuing to fluctuate at elevated levels, and 
+the US dollar trending higher in the short term, overseas markets —including the US  dollar—have entered a typical stagflation and 
+safe-haven trading environment. In the short to medium term, we must be vigilant against the impact of liquidity tightening. While  
+overall financial liquidity remains tight, short-term pressure in the money market is relatively manageable.
+
+Under the influence of the FOMC’s hawkish stance, unabated geopolitical tensions, and stagflation concerns, U.S. stocks weake ned 
+across the board last week. The three major indices fell for the fourth consecutive week, with interest-rate-sensitive tech growth 
+stocks coming under pressure. The decline accelerated following the FOMC meeting midweek, with the Dow Jones Industrial Average 
+down 2.11% for the week, the S&P 500 down 1.90%, and the Nasdaq down 2.07%. As energy costs rise, supply-shock-driven inflation 
+risks are constraining the Fed’s room for rate cuts, while the economic impact is providing support for long-term rates. U.S. Treasury 
+yields rose across the board last week, with the 10 -year Treasury yield climbing to 4 .38% and the 2 -year Treasury yield closing at 
+3.90%. In the short term, market-priced inflation risks outweigh growth risks, and pressure for yield curve flattening is increasing. In 
+the short term, gold remained relatively weak due to the strengthening of  the U.S. dollar driven by the “petrodollar” logic, falling 
+10.5% for the week and reverting to a negative correlation with real interest rates. As real interest rates rose rapidly, gol d came 
+under downward pressure, posting its largest weekly decline sinc e 1983 and closing at $4,490 per ounce. The 14 -day RSI indicates 
+that gold has entered oversold territory. However, driven by the certainty premium associated with the restructuring of the 
+international order, as well as its anti-inflationary and safe-haven attributes, gold is likely to continue its upward trend in the medium 
+to long term. Oil continues to rise, driven by geopolitical premiums, closing at $104 per barrel last week; its status as a s trategic 
+resource will lead to a systemic increase in its valuation.
+
+Due to the midterm elections, the impact of stock market risks and inflation risks on Trump will significantly increase, pote ntially 
+prompting the U.S. to ultimately compromise or withdraw its troops —i.e., “Taco 2.0.” The market will shift toward risk -on and 
+liquidity-driven trading, with various asset classes likely experiencing sharp, short -lived spikes. Oil prices will pull back from their 
+highs, global stock markets will rebound significantly, and U.S. Treasuries are also expected to reb ound. Specifically, U.S. stocks are 
+likely to return to a growth -driven narrative. Regarding U.S. Treasuries, with the advent of “Taco 2.0,” the Federal Reserve may 
+resume accommodative monetary policy, causing the U.S. Treasury yield curve to steepen grad ually. From a medium -term 
+perspective, the 10 -year U.S. Treasury yield around 4.3% will present investment value. European assets have been hit hardest by 
+this conflict; theoretically, they would have the greatest rebound potential once the conflict ends. However, ongoing issues such as 
+the attack on Qatar’s infrastructure will further delay their recovery process. Most Asian economies are oil importers. Simil ar to the 
+U.S. stock market, if the conflict with Iran sees a turning point, emerging market equities will also be among the primary beneficiaries.
+
+Risk Warning: Geopolitical conflicts may be more severe than expected; economic growth may fall short of expectations
+
+
+===== Page 8 =====
+
+评级定义（从 2020 年 7 月 1 日开始执行） ： 
+海通国际（以下简称“HTI”）采用相对评级系统 来为投资者推荐我们覆盖的公司 ：优于大市、中性或弱于大市。投资者应仔细阅读 HTI 的评级定义。并且 HTI 发布分析师观点的完整信
+息，投资者应仔细阅读全文而非仅看评级。在任何情况下，分析师的评级和研究都不能作为投资建议。投资者的买卖股票的决策应基于各自情况（比如投资者的现有持仓）以及其他因
+素。 
+分析师股票评级  
+优于大市，未来 12-18 个月内预期相对基准指数涨幅在 10%以上，基准定义如下 
+中性，未来 12-18 个月内预期相对基准指数变化不大，基准定义如下。 根据 FINRA/NYSE 的评级分布规则，我们 会将中性评级划入持有 这一类别。 
+弱于大市，未来 12-18 个月内预期相对基准指数跌幅在 10%以上，基准定义如下 
+各地股票基准指数：日本  – TOPIX, 韩国 – KOSPI, 台湾 – TAIEX, 印度 – Nifty100, 美国 – SP500; 其他所有中国概念股 – MSCI China. 
+Ratings Definitions (from 1 Jul 2020):  
+Haitong International uses a relative rating system using Outperform , Neutral, or Underperform for recommending the stocks we cover to investors. Investors should carefully 
+read the definitions of all ratings used in Haitong International Research. In addition, since Haitong International Research  contains more complete info rmation concerning the 
+analyst's views, investors should carefully read Haitong International Research, in its entirety, and not infer the contents from the rating alone. In any case, ratings (or research) 
+should not be used or relied upon as investment ad vice. An investor's decision to buy or sell a stock should depend on individual circumstances (such as the investor's existin g 
+holdings) and other considerations.  
+Analyst Stock Ratings  
+Outperform : The stock’s total return over the next 12 -18 months is expe cted to exceed the return of its relevant broad market benchmark, as indicated below.  
+Neutral: The stock’s total return over the next 12 -18 months is expected to be in line with the return of its relevant broad market benchmark, as indicated below. For pu rposes 
+only of FINRA/NYSE ratings distribution rules, our Neutral rating falls into a hold rating category.
+
+
+===== Page 9 =====
+
+9 
+Underperform : The stock’s total return over the next 12 -18 months is expected to be below the return of its relevant broad market benchmark, as indi cated below.  
+Benchmarks for each stock’s listed region are as follows: Japan – TOPIX, Korea – KOSPI, Taiwan – TAIEX, India – Nifty100, US – SP500; for all other China -concept stocks – 
+MSCI China.
+
+Haitong International Equity Research Ratings Distribution,    Haitong International Equity Research Ratings Distribution,   
+  as of December 31, 2025   as of September 30, 2025   
+ Outperform  Neutral Underperform  Outperform  Neutral Underperform  
+  (hold)   (hold)  
+HTI Equity Research Coverage 93.9% 6.0% 0.1% 92.3% 7.5% 0.2% 
+IB clients* 3.0% 4.0% 0.0% 3.3% 3.9% 0.0% 
+*Percentage of investment banking clients in each rating category.  
+BUY, Neutral, and SELL in the above distribution correspond to our current ratings of Out perform, Neutral, and Underperform.  
+For purposes only of FINRA/NYSE ratings distribution rules, our Neutral rating falls into a hold rating category. Please note  that stocks with an NR designation are not included in the table above.  
+Previous rating system  definitions (until 30 Jun 2020):  
+BUY: The stock’s total return over the next 12 -18 months is expected to exceed the return of its relevant broad market benchmark, as indicated below.  
+NEUTRAL: The stock’s total return over the next 12 -18 months is expecte d to be in line with the return of its relevant broad market benchmark, as indicated below. For purposes 
+only of FINRA/NYSE ratings distribution rules, our Neutral rating falls into a hold rating category.  
+SELL: The stock’s total return over the next 12 -18 months is expected to be below the return of its relevant broad market benchmark, as indicated below.  
+Benchmarks for each stock’s listed region are as follows: Japan – TOPIX, Korea – KOSPI, Taiwan – TAIEX, India – Nifty100; for all other China -concept sto cks – MSCI China.
+
+海通国际非评级研究： 海通国际发布计量、筛选或短篇报告，并在报告中根据估值和其他指标对股票进行排名，或者基于可能的估值倍数提出建议价格。这种排名或建议价格并非为
+了进行股票评级、提出目标价格或进行基本面估值，而仅供参考使用。  
+Haitong International Non -Rated Research :  Haitong International publishes quantitative, screening or short reports which may rank stocks according to valuation and oth er metrics or may suggest 
+prices based on possible valuation multiples. Such rankings or suggested prices do not purport to be st ock ratings or target prices or fundamental values and are for information only.  
+海通国际 A 股覆盖：海通国际可能会就沪港通及深港通的中国 A 股进行覆盖及评级。国泰海通证券 （601211.CH），海通国际于上海的母公司，也会于中国发布中国 A 股的研究报告。
+但是，海通国际使用与国泰海通证券不同的评级系统，所以 海通国际与国泰海通证券的中国 A 股评级可能有所不同。  
+Haitong International Coverage of A -Shares:  Haitong International may cover and rate A -Shares that are subject to the Hong Kong Stock Connect scheme with Shanghai and Shenzhen. GUOTAI 
+HAITONG SECURITIES (601211 CH), the ultimate parent company of HTISG based in Shanghai, covers and publishes research on these same A-Shares for distribution in mainland China. However, the 
+rating system employed by GTHS differs from that used by HTI and as a result there may be a difference in the HTI and GTHS ra tings for the same A-share stocks. 
+海通国际优质 100 A 股（Q100）指数：海通国际 Q100 指数是一个包括 100 支由国泰海通证券覆盖的优质中国 A 股的计量产品。这些股票是通过基于质量的筛选过程，并结合对国泰
+海通证券 A 股团队自下而上的研究。海通国际每季对 Q100 指数成分作出复审。  
+Haitong International Quality 100 A -share (Q100) Index:   HTI’s Q100 Index is a quant product that consists of 100 of the highest -quality A-shares under coverage at GTHS in Shanghai. These stocks 
+are carefully selected through a quality -based screening process in combination with a review of the GTHS A -share team’s bottom -up research. The Q100 constituent companies are reviewed 
+quarterly.
+
+盟浪义利（FIN-ESG）数据通免责声明条款： 在使用盟浪义利（FIN-ESG）数据之前，请务必仔细阅读本条款并同意本声明：  
+第一条 义利（FIN-ESG）数据系由盟浪可持续数字科技有限责任公司（以下简称 “本公司”）基于合法取得的公开信息评估而成，本公司对信息的准确性及完整性不作任何保证。对公司
+述的评估结果造成的任何直接或间接损失负责。   
+第二条 盟浪并不因收到此评估数据而将收件人视为客户，收件人使用此数据时应根据自身实际情况作出自我独立判断。本数据所载内容反映的是盟浪在最初发布本数据日期当日的判
+断，盟浪有权在不发出通知的情况下更新、修订与发出其他与本数据所载内容不一致或有不同结论的数据。除非另行说明，本数据（如财务业绩数据等）仅代表过往表现，过往的业
+
+
+===== Page 10 =====
+
+IMPORTANT DISCLAIMER  
+For research reports on non-Indian securities:  The research report is issued by Haitong International Research Limited (“HTIRL”), a wholly owned subsidiary of Haitong International Securities Group 
+Limited (“HTISGL”) and a licensed corporation to carry on Type 4 regulated activit y (advising on securities) for the purpose of the Securities and Futures Ordinance (Cap. 571)  of Hong Kong, with the 
+assistance of Haitong International (Japan) K.K. (“HTIJKK”), a wholly owned subsidiary of HTISGL and which is regulated as an  Investment Adviser by the Kanto Finance Bureau of Japan.  
+For research reports on Indian securities:  The research report is issued by Haitong Securities India Private Limited (“HSIPL”), an Indian company and a Securities and Exchange Board of India (“SEBI”) 
+registered Stock Broker, Merchant Banker and Research Analyst that, inter alia, produces and distributes research reports covering listed  entities on the BSE Limited (“BSE”) and the National Stock 
+Exchange of India Limited (“NSE”) (collectively referred to as “Indian Exchanges”). HSIPL was acquired and became part of the Haitong International Securities Group of Companies (“HTISG”) on 22
+
+
+===== Page 11 =====
+
+DISTRIBUTION AND REGIONAL NOTICES  
+Except as otherwise indicated below, any Recipient wishing to discuss this research report or effect any transaction in any security discussed in HTI’s research should contact the Haitong International 
+salesperson in their own country or region.   
+Notice to Hong Kong investors: The research report is distributed by Haitong International Securities Company Limited (“HTISCL”), which is a licensed corporation to carry on Type 1 regulated activity 
+(dealing in securities) in Hong Kong. This research report does not constitute a solicitation or an offer of securities or an invitation to the public within the meaning of the SFO. This re search report 
+is only to be circulated to "Professional Investors" as defined in the SFO. This research report has not been reviewe d by the Securities and Futures Commission. You should not make investment 
+decisions solely on the basis of the information contained in this research report. Recipients of this research report are to  contact HTISCL salespersons in respect of any matters a rising from, or in 
+connection with, the research report. 
+Notice to U.S. investors : As described above, this research report was prepared by HTIRL, HSIPL or HTIJKK. Neither HTIRL, HSIPL, HTIJKK, nor any of the  non U.S. HTISG affiliates is registered in the 
+United States and, therefore, is not subject to U.S. rules regarding the preparation of research reports and the independence of research analysts.  This research report is provided for distribution to 
+“major U.S. institutional investors” and “U.S. institu tional investors” in reliance on the exemption from registration provided by Rule 15a -6 of the U.S. Securities Exchange Act of 1934, as amended. 
+When distributing research reports to “U.S. institutional investors,” HTI USA will accept the responsibilities for the content of the reports.  Any U.S. recipient of this research report wishing to effect 
+any transaction to buy or sell securities or related financial instruments based on the information provided in this research  report should do so only through Hai tong International Securities (USA)
+
+
+===== Page 12 =====
+
+in any non-U.S. securities or related financial instruments (including ADRs) discussed in this research report may present certain risks .  The securities of non-U.S. issuers may not be registered with,
+or be subject to U.S. regulations.   Information on such non -U.S. securities or related financial instruments may be limited. Foreign companies may not be subject to audit and reporting standards
+and regulatory requirements comparable to those in effect within the U.S.   The value of any investment or income from an y securities or related financial instruments discussed in this research
+
+report denominated in a currency other than U.S. dollars is subject to exchange rate fluctuations that may have a positive or  adverse effect on the value of or income from such securi ties or related
+financial instruments. All inquiries by U.S. recipients should be directed to:
+Haitong International Securities (USA) Inc.
+130 West 42nd Street, FL 18
+New York, NY 10036
+Attn:  Sales Desk at +1 212-351-6052
+中华人民共和国的通知事项： 在中华人民共和国 （下称“中国”，就本报告目的而言，不包括香港特别行政区、澳门特别行政区和台湾）只有根据适用的中国法律法规而收到该材料的
+
+他任何规定，在取得中国政府所有的批准或许可之前，任何法人或自然人均不得直接或间接地购买本材料中的任何证券或任何实益权益。接收本文件的人员须遵守上述限制性规定。
+加拿大投资者的通知事项： 在任何情况下该等材料均不得被解释为在任何加拿大的司法管辖区内出售 证券的要约或认购证券的要约邀请。本材料中所述证券在加拿大的任何要约或出
+售行为均只能在豁免向有关加拿大证券监管机构提交招股说明书的前提下由 Haitong International Securities (USA) Inc. （“HTI USA”）予以实施，该公司是一家根据 National Instrument 31 -
+103 Registration Requirements, Exemptions and Ongoing Registrant Obligations （“NI 31-103”）的规定得到「国际交易商豁免」（“International Dealer Exemption” ）的交易商，位于艾伯塔
+省、不列颠哥伦比亚省、安大略省和魁北克省。在加拿大，该等材料在任何情况下均不得被解释为任何证券的招股说明书、发行备忘录、广告或公开发行。加拿大的任何证券委员会或
+
+National Instrument 45 -106 Prospectus Exemptio ns 第 1.1 节或者 Securities Act (Ontario) 第 73.3(1)节所规定的「认可投资者」（ “Accredited Investor” ），或者在适用情况下 National
+Instrument 31-103 第 1.1 节所规定的「许可投资者」（ “Permitted Investor”）。
+新加坡投资者的通知事项： 本研究报告由 Haitong International Securities (Singapore) Pte Ltd （“HTISSPL”）于新加坡提供。 HTISSPL 是符合《财务顾问法》 2001（“FAA”）定义的豁免财务
+顾问，可（a）提供关于证券，集体投资计划的部分，交易所衍生品合约和场外衍生品合约的建议（ b）发行或公布有关证券、交易所衍生品合约和场外衍生品合约的研究分析或研究报
+告。本研究报告仅提供给符合《证券及期货法》 2001 第 4A 条项下规定的机构投资者。对于因本研究报告而产生的或与之相关的任何问题，本研究报告的收件人应通过以下信息与
+
+（1）条，第 17-11（1）条的执行及相关条款）。
+英国及欧盟投资者的通知事项： 本报告由从事投资顾问的 Haitong International Securities Company Limited 所发布，本报告只面向有投资相关经验的专业客户发布。任何投资或与本报告
+相关的投资行为只面对此类专业客户。没有投资经验或相关投资经验的客户不得依赖本报告。 Haitong International Securities Company Limited 的分支机构的净长期或短期金融权益可能
+超过本研究报告中提及的实体已发行股本总额的 0.5％。特别提醒有些英文报告有可能此前已经通过中文或其它语言完成发布。
+澳大利亚投资者的通知事项： Haitong International Securities (Singapore) Pte Ltd, Haitong International Securities Company Limited 和 Haitong International Securities (UK) Limited 分别根据澳
+
+大利亚证券和投资委员会（以下简称 “ASIC”）公司（废除及过度性）文书第 2016/396 号规章在澳大利亚分发本项研究，该等规章免除了根据 2001 年《公司法》在澳大利亚为批发客户
+提供金融服务时海通国际需持有澳大利亚金融服务许可的要求。 ASIC 的规章副本可在以下网站获取： www.legislation.gov.au。海通国际提供的金融服务受外国法律法规规定的管制，该
+等法律与在澳大利亚所适用的法律存在差异。
+印度投资者的通知事项： 本报告由从事证券交易、投资银行及证券分析及受 Securities and Exchange Board of India （“SEBI”）监管的 Haitong Securities India Private Limited （“HTSIPL”）所
+发布，包括制作及发布涵盖 BSE Limited（“BSE”）和 National Stock Exchange of India Limited（“NSE”）（统称为「印度交易所」）研究报告。
+（条款链接：https://www.htisec.com/sites/all/themes/hitong/files/india/Terms%20and%20Conditions% 20for%20Research%20Analyst.pdf）
+
+“请注意，SEBI 授予的注册和 NISM 的认证并不保证中介的表现或为投资者提供任何回报保证 ”。
+
+
+===== Page 13 =====

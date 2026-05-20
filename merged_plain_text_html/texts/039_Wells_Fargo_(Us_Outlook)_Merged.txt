@@ -1,0 +1,91 @@
+===== Page 1 =====
+
+Economics
+May 13, 2026
+U.S. Economic Outlook: May 2026Growth Holds Firm as Oil Pushed Inflation Higher, Delays Fed Cuts
+Monthly
+Key Themes
+GDP Remains on an Upward Trajectory: The 2.0% quarterly annualized pace of real GDP in Q1 showed a generally sturdy pace of expansion ahead ofthe Iran war. The quarterly rise largely reflected resilient (though moderating) consumer spending and strong AI-related investment. Despite recent volatilityand renewed geopolitical and trade uncertainty, the initial read on incoming data for Q2 suggests growth has not materially deviated off this path.
+
+AI Capex and Fiscal Shock Absorbers. Looking ahead, fiscal stimulus should help negate the impact of higher oil prices on the household sector, allowingfor a steady pace of consumer spending this year. Meantime, AI-related business investment appears to be accelerating, which should provide an offset totepid investment in interest rate sensitive sectors such as nonresidential and residential construction.
+Inflation Pressure Lies Ahead. We have slightly pushed up our forecasts for both headline and core PCE inflation. In terms of the headline, higher oilprices are exerting upward pressure on energy prices, with knock-on effects on food inflation likely in train. Meanwhile, core inflation is likely to experiencecost-push pressure related to the AI buildout. A moderating trend in shelter costs and fading tariff impacts seem likely to provide a disinflationarycounterweight. Still, we now expect core PCE inflation to peak at 3.5% in Q2 and end the year at 3.1%, modestly higher than our March forecast.
+
+Labor Market Stable Within No Hire/No Fire Context. The recent string of monthly job gains and continued low readings on initial jobless claims indicatesthat the labor market is not spiraling downward. Beneath the surface, however, conditions are far from ideal. Low hiring rates and moderating wage growthcontinue to signal sluggish demand for new workers. In our view, there are not many catalysts for a meaningful pickup in labor demand on the near-termhorizon, with delayed monetary easing, heightened geopolitical uncertainty, and firms increasingly allocating capital toward AI. Thus, we continue toanticipate a modest pace of hiring in coming quarters and see nonfarm payrolls averaging 55K per month over the balance of the year. The moderate paceof job gains should coincide with the unemployment rate drifting up to 4.4% in Q3, where it is likely to hold through year‐end.
+
+The Fed's Next Move Is a Cut. We are sticking with our call for additional monetary easing in 2026. Higher inflation in the wake of Iran war will continue toinstill a "wait and see" approach, however, we still view the balance of risks as tilted toward underlying weakness in the labor market, despite recent signs ofstabilization. As such, we continue to foresee 50 bps of reductions this year. We remain agnostic on the timing, however, are penciling in 25 bp cuts at boththe October and December FOMC meetings, somewhat later than our previous forecast.
+
+U.S. Forecast Table
+Source: U.S. Department of Commerce, U.S. Department of Labor, IHS Markit, Federal Reserve Board and Wells Fargo Economics
+
+
+===== Page 2 =====
+
+Forecast Delta Table
+Source: U.S. Department of Commerce, U.S. Department of Labor, IHS Markit, Federal Reserve Board and Wells Fargo Economics
+Sector Analysis
+Personal Consumption Expenditures (PCE)
+Consumer spending held up in the immediate wake of the Iran conflict, but there are early signs of some softening in consumption into the second quarter.
+We have not materially adjusted our expectations for consumer spending and continue to anticipate real PCE to rise at an annual average pace of 2.0% thisyear. Higher tax refunds provided an immediate offset to higher gasoline costs, but high-frequency credit and debit card data suggest a pullback in broadspending in April. Real income growth excluding transfers also fell modestly negative in March. We expect higher prices to continue to erode already weakincome growth in coming months, resulting in lower purchasing power and a likely pullback in consumer spending in Q2.
+
+Investment: Equipment, Intellectual Property Products and Inventories
+Firms continue to priorize high-tech investment, which we still anticipate to be the main driver of capex spending this year.
+Spending on software, R&D and information processing equipment surged in the first quarter, contributing 1.5 percentage points to Q1 growth—about two-thirds of total GDP expansion--as firms continue to invest in the high-tech transition. While we expect the AI-driven build out to continue to boost spending, wealso still see signs of a broadening out in manufacturing after years of delayed activity due to uncertainty around the pandemic, presidential election, rates,and tariffs. Higher energy costs add a new wrinkle, but we've seen the ISM manufacturing index turn positive, durable goods orders are broadening out, andC&I lending has picked up this year. We look for another double-digit growth rate for equipment investment in Q2.
+
+
+===== Page 3 =====
+
+Source: U.S. Department of Commerce and Wells Fargo Economics
+Source: U.S. Department of Commerce and Wells Fargo Economics
+Investment: Residential
+
+
+===== Page 4 =====
+
+We have made no major changes to the forecast and maintain our view that residential investment will remain a drag on growth over the next severalquarters.
+Affordability remains a significant constraint for the residential sector. Over the past several weeks, mortgage rates have ticked higher on the back of the Iranwar and its potential effects on inflation and monetary policy. The recent leg-up in financing costs will likely keep home buying activity subdued. In terms ofresidential construction, building permits have generally trended lower so far this year, which points to a downshift in single-family construction as buildersrebalance inventory with more moderate sales. Multifamily activity may see a modest lift as financing costs ease and apartment conditions firm. Meanwhile,recent firming in building material store retail sales indicates that home improvement spending may be starting to recover, though continued low housingturnover and material inflation remain limitations.
+
+Investment: Nonresidential Structures
+We have not materially altered our outlook for nonresidential structures investment. There are pockets of growth, but overall spending remains weak.
+Nonresidential construction is likely to remain in low gear this year. In addition to elevated interest rates constraining new project starts, higher energy priceshave introduced new cost pressures. We do see several pockets of growth ahead. Higher oil prices should support energy-related investment throughincreased drilling activity. At the same time, the AI-driven infrastructure buildout and reindustrialization efforts should underpin strong growth in data centers,power, and manufacturing projects. That noted, new commercial construction starts remain low so far this year, indicating that spending within thesecategories will remain subdued and keep total structures investment running at a slow speed.
+
+Source: U.S. Department of Commerce and Wells Fargo Economics
+
+
+===== Page 5 =====
+
+Source: U.S. Department of Commerce and Wells Fargo Economics
+Net Exports & Trade
+International trade flows remain incredibly volatile month-to-month. We have not materially adjusted our outlook and continue to anticipate a modestwidening in the trade deficit over the course of the year.
+Continued tariff uncertainty and a high-tech domestic investment prioritization are driving trade flows and causing volatile demand. Imports were strongthrough the first quarter and suggest a further widening in the trade deficit into Q2, but we will refine our estimate as the data comes in given recent volatility.U.S. Customs and Border Protection has started the IEEPA tariff refund process with money already on the way to businesses. We continue to anticipaterefunds will act as profit-margin protection for firms rather than have a stimulative effect on growth and expect the administration to try and re-implement tariffsin late July under other legislation once the current 10% universal tariff expires. Tariff rates should thus remain near current levels.
+
+Labor Market
+We made no material changes to our labor market forecast.
+Recent data still point to a low‐hire, low‐fire labor market. Layoffs remain contained outside the tech sector, but there are few signs that demand for newworkers is improving with job openings continuing to move sideways and hiring announcements down from last year. Without stronger labor demand, lowlayoffs alone are unlikely to deliver a durable pickup in job creation. We expect nonfarm payroll growth to average around 55K per month over the balance ofthe year, compared to 76K the past four months. The more modest pace of job gains should coincide with the unemployment rate drifting up to 4.4% in Q3,where it is likely to hold through year‐end. With hiring subdued, we suspect compensation growth will cool a bit more and look for the ECI to subside to 3.3%year over year in Q2.
+
+Inflation
+We raised our inflation outlook modestly. We now look for core PCE inflation to end the year at 3.1% on a Q4-over-Q4 basis, up from 2.8% previously.
+Higher energy prices are beginning to seep into other categories. Beyond prices at the pump, food inflation is set to strengthen later this year as transportationcosts and other agriculture-related input prices rise. Core inflation is also likely to run hot in the near term, led by airfares and high-tech goods related to the AIbuildout. These pressures should be partly offset by continued cooling in shelter costs and fading tariff‐related increases. But on net, we expect core PCEinflation to peak at 3.5% in Q2 and end the year at 3.1%, as disinflation outside housing has become harder to come by.
+
+
+===== Page 6 =====
+
+Source: U.S. Department of Labor and Wells Fargo Economics
+Source: U.S. Department of Commerce and Wells Fargo Economics
+Fiscal Policy
+
+
+===== Page 7 =====
+
+We have modestly increased our budget deficit forecast to $1.95T in FY 2026 and $2.00T in FY 2027, up from $1.78 trillion in FY 2025.
+We expect a wider federal budget deficit due to the combination of softer tariff revenues following the rollback of IEEPA tariffs, potential refund outflows tobusinesses, and a potential supplemental defense spending package tied to the ongoing Middle East conflict. While risks to more defense spending haverisen, any increase is likely to be relatively small and phased in over time, limiting the near-term impact in 2026. Section 122 tariff authority remains the keyswing factor, with refunds and lower ongoing revenues expected to drive a modest widening in the deficit in the near term. Overall, fiscal policy should notmaterially alter the outlook, and we expect Fed policy to continue to be the primary driver of rates.
+
+Monetary Policy & Interest Rates
+We have pushed our expectation for the Fed's next cut to Q4 and now look for the FOMC to lower its target range by 25 bps in October and December, stillfollowed by an extended hold at 3.00%-3.25%. Our year‐end 10‐year Treasury yield forecasts remain unchanged at 4.25% in 2026 and 4.30% in 2027.
+The FOMC remains in wait‐and‐see mode. The labor market is resilient enough that policy easing is not urgent, especially with core inflation still running near3%. At the same time, growth has fallen short of warranting further tightening, and policymakers are unlikely to be seriously contemplating rate hikes. TheCommittee appears to retain a modest easing bias, though that bias is increasingly tenuous. If the labor market holds steady, energy prices remain elevated,and inflation fails to improve, the Fed could drift toward a more neutral stance. Still, we continue to see the next policy move as a cut, rather than a hike.
+
+
+===== Page 8 =====
+
+This report is produced by the Economics Group of Wells Fargo Securities, LLC (“Wells Fargo Securities”). This report is not a product of Wells Fargo Global Research and theinformation contained in this report is not financial research. Wells Fargo Securities distributes this report directly and through affiliates including, but not limited to, Wells Fargo &Company, Wells Fargo Bank, N.A., Wells Fargo Clearing Services, LLC, Wells Fargo Securities International Limited, Wells Fargo Securities Europe S.A., and Wells Fargo SecuritiesCanada, Ltd. Wells Fargo Securities, LLC is registered with the Commodity Futures Trading Commission as a futures commission merchant and is a member in good standing of theNational Futures Association. WFBNA is registered with the Commodity Futures Trading Commission as a swap dealer and is a member in good standing of the National FuturesAssociation. Wells Fargo Securities, LLC and WFBNA are generally engaged in the trading of futures and derivative products, any of which may be discussed within this report. Allreports published by the Economics Group are disseminated and available to all clients simultaneously through electronic publication to our internal client website. Clients may alsoreceive our reports via third party vendors. We are not responsible for the redistribution of our reports by third-party aggregators. Any external website links included in this report arenot maintained, controlled or operated by Wells Fargo Securities. Wells Fargo Securities does not provide the products and services on these websites and the views expressed onthese websites do not necessarily represent those of Wells Fargo Securities.
+
+SECURITIES: NOT FDIC-INSURED - MAY LOSE VALUE - NO BANK GUARANTEE
