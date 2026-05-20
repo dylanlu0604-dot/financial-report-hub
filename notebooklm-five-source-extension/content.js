@@ -166,12 +166,6 @@ if (!window.__fiveSourceNotebookLmImporterLoaded) {
     return activeSourceDialog() || document;
   }
 
-  function sourceRootForField(field) {
-    return activeSourceDialog() ||
-      field.closest?.("[role='dialog'], mat-dialog-container, .cdk-overlay-pane, [class*='dialog'], [class*='Dialog'], [class*='modal'], [class*='Modal']") ||
-      document;
-  }
-
   async function clickText(texts, description, timeoutMs = 20000) {
     const button = await waitFor(() => findClickable(texts), timeoutMs);
     if (!button) {
@@ -301,6 +295,23 @@ if (!window.__fiveSourceNotebookLmImporterLoaded) {
     field.dispatchEvent(new Event("change", { bubbles: true }));
   }
 
+  async function pressEnter(field, description) {
+    field.focus();
+    await sleep(150);
+    progress(`${description}：按 Enter 送出`);
+    const eventOptions = {
+      key: "Enter",
+      code: "Enter",
+      keyCode: 13,
+      which: 13,
+      bubbles: true,
+      cancelable: true
+    };
+    field.dispatchEvent(new KeyboardEvent("keydown", eventOptions));
+    field.dispatchEvent(new KeyboardEvent("keypress", eventOptions));
+    field.dispatchEvent(new KeyboardEvent("keyup", eventOptions));
+  }
+
   function chatInputCandidates() {
     return Array.from(document.querySelectorAll("textarea, [contenteditable='true'], [role='textbox'], input"))
       .filter(isVisible)
@@ -343,47 +354,6 @@ if (!window.__fiveSourceNotebookLmImporterLoaded) {
     }) || fields.at(-1) || null;
   }
 
-  function nearestChatRoot(field) {
-    let current = field;
-    for (let i = 0; current && i < 6; i += 1) {
-      if (current.querySelectorAll?.("button, [role='button']").length) return current;
-      current = current.parentElement;
-    }
-    return document;
-  }
-
-  function findSubmitQuestionButton(field) {
-    const root = nearestChatRoot(field);
-    const labels = [
-      "送出",
-      "傳送",
-      "提交",
-      "Send",
-      "Submit",
-      "Ask",
-      "arrow_upward",
-      "arrow_upward_alt",
-      "send"
-    ];
-
-    const exclude = (el) => {
-      const label = labelOf(el).toLowerCase();
-      return el.disabled ||
-        el.getAttribute("aria-disabled") === "true" ||
-        /新增來源|add source|建立|create|分享|share|設定|settings|mic|麥克風|來源|source/.test(label);
-    };
-
-    const labeled = findClickableIn(root, labels, { exclude });
-    if (labeled) return labeled;
-
-    const rootButtons = scopedClickableElements(root).filter((el) => !exclude(el));
-    const fieldRect = field.getBoundingClientRect();
-    return rootButtons
-      .map((el) => ({ el, rect: el.getBoundingClientRect() }))
-      .filter(({ rect }) => rect.left >= fieldRect.left && rect.top >= fieldRect.top - 40)
-      .sort((a, b) => (a.rect.top - b.rect.top) || (b.rect.left - a.rect.left))[0]?.el || null;
-  }
-
   async function submitFirstQuestion(firstQuestion) {
     if (!firstQuestion) return;
 
@@ -401,16 +371,7 @@ if (!window.__fiveSourceNotebookLmImporterLoaded) {
     await sleep(300);
     setFieldValue(textbox, firstQuestion);
     await sleep(900);
-
-    const submit = await waitFor(() => findSubmitQuestionButton(textbox), 10000, 300);
-    if (submit) {
-      progress(`送出第一個問題：${labelOf(submit) || "送出按鈕"}`);
-      submit.click();
-    } else {
-      progress("找不到送出問題按鈕，改用 Ctrl+Enter 嘗試送出", "warn");
-      textbox.dispatchEvent(new KeyboardEvent("keydown", { key: "Enter", code: "Enter", keyCode: 13, ctrlKey: true, bubbles: true }));
-      textbox.dispatchEvent(new KeyboardEvent("keyup", { key: "Enter", code: "Enter", keyCode: 13, ctrlKey: true, bubbles: true }));
-    }
+    await pressEnter(textbox, "送出第一個問題");
 
     const sent = await waitFor(() => {
       const value = norm(textFieldValue(textbox));
@@ -434,37 +395,7 @@ if (!window.__fiveSourceNotebookLmImporterLoaded) {
     progress(`填入 URL：${url}`);
     setFieldValue(textbox, url);
     await sleep(900);
-
-    const root = dialog || sourceRootForField(textbox);
-    const submit = await waitFor(() => {
-      const currentRoot = activeSourceDialog() || sourceRootForField(textbox);
-      return findClickableIn(currentRoot, [
-        "插入",
-        "Insert",
-        "匯入",
-        "Import",
-        "新增來源",
-        "Add source",
-        "新增",
-        "Add",
-        "Submit"
-      ], {
-        exclude: (el) => {
-          const label = labelOf(el).toLowerCase();
-          return el.disabled ||
-            el.getAttribute("aria-disabled") === "true" ||
-            (currentRoot === document && (label.includes("新增來源") || label.includes("add source")));
-        }
-      });
-    }, 15000);
-
-    if (submit) {
-      progress(`送出來源：${labelOf(submit)}`);
-      submit.click();
-    } else {
-      progress("找不到送出按鈕，改用 Enter 嘗試送出", "warn");
-      textbox.dispatchEvent(new KeyboardEvent("keydown", { key: "Enter", code: "Enter", keyCode: 13, bubbles: true }));
-    }
+    await pressEnter(textbox, "送出來源");
 
     const submitted = await waitFor(() => {
       const stillSameDialog = dialog && isVisible(dialog);
