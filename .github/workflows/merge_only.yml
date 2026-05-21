@@ -2,6 +2,13 @@ name: 單獨合併 PDF 與 NotebookLM HTML
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - build_merged_plain_text_html.py
+      - boilerplate_filter.py
+      - .github/workflows/merge_only.yml
 
 jobs:
   merge-pdfs:
