@@ -627,9 +627,26 @@ if (!window.__fiveSourceNotebookLmImporterLoaded) {
   }
 
   async function importUrls(urls) {
-    progress(`準備批次匯入 ${urls.length} 個來源...`);
-    await submitSourceUrlsBatch(urls);
-    progress(`${urls.length} 個來源已一次送出`, "ok");
+    const batchSize = 5;
+    const batches = [];
+    for (let index = 0; index < urls.length; index += batchSize) {
+      batches.push(urls.slice(index, index + batchSize));
+    }
+
+    progress(`準備分批匯入 ${urls.length} 個來源，每批 ${batchSize} 個...`);
+    for (let index = 0; index < batches.length; index += 1) {
+      const batch = batches[index];
+      const start = index * batchSize + 1;
+      const end = start + batch.length - 1;
+      progress(`匯入第 ${index + 1}/${batches.length} 批：source ${start}-${end}`);
+      await submitSourceUrlsBatch(batch);
+      progress(`第 ${index + 1}/${batches.length} 批已送出`, "ok");
+      if (index < batches.length - 1) {
+        progress("等待 5 秒後送下一批...");
+        await sleep(5000);
+      }
+    }
+    progress(`${urls.length} 個來源已分批送出`, "ok");
   }
 
   function isEditableField(el) {
