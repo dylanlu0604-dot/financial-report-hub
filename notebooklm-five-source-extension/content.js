@@ -407,6 +407,45 @@ if (!window.__fiveSourceNotebookLmImporterLoaded) {
       .sort((a, b) => (b.rect.top - a.rect.top) || (b.rect.left - a.rect.left))[0]?.el || null;
   }
 
+  function dialogText(root = dialogOrDocument()) {
+    return norm(root?.innerText || root?.textContent || "");
+  }
+
+  function dialogContainsAnyUrl(root, urls) {
+    const text = dialogText(root);
+    return urls.some((url) => text.includes(url));
+  }
+
+  function findSourceFinalizeButton(root = dialogOrDocument()) {
+    const labels = [
+      "加入",
+      "加入來源",
+      "新增",
+      "新增來源",
+      "匯入",
+      "匯入來源",
+      "插入",
+      "Add",
+      "Add source",
+      "Add sources",
+      "Add selected",
+      "Import",
+      "Insert"
+    ];
+
+    const matches = scopedClickableElements(root).filter((el) => {
+      if (el.disabled || el.getAttribute("aria-disabled") === "true") return false;
+      const label = labelOf(el);
+      if (!label) return false;
+      if (/全選|select all|搜尋|search|fast research|網路|website|url|網址|link|連結|youtube|drive|貼上文字|paste text/i.test(label)) return false;
+      return labels.some((text) => label.toLowerCase().includes(text.toLowerCase()));
+    });
+
+    return matches
+      .map((el) => ({ el, rect: el.getBoundingClientRect() }))
+      .sort((a, b) => (b.rect.top - a.rect.top) || (b.rect.left - a.rect.left))[0]?.el || null;
+  }
+
   function chatInputCandidates() {
     return Array.from(document.querySelectorAll("textarea, [contenteditable='true'], [role='textbox'], input"))
       .filter(isVisible)
@@ -605,22 +644,44 @@ if (!window.__fiveSourceNotebookLmImporterLoaded) {
       await pressEnter(textbox, "送出全部來源");
     }
 
-    const submitted = await waitFor(() => {
+    const searchSubmitted = await waitFor(() => {
       const stillSameDialog = dialog && isVisible(dialog);
       const bodyText = visibleText();
       if (/無法|失敗|錯誤|invalid|failed|error|too long|字數|來源過長/i.test(bodyText)) return "error";
       if (!stillSameDialog) return "closed";
-      const currentValue = norm(textFieldValue(textbox));
-      if (!currentValue.includes(urls[0].slice(0, 40))) return "cleared";
+      const root = dialogOrDocument();
+      const finalizeButton = findSourceFinalizeButton(root);
+      if (dialogContainsAnyUrl(root, urls) && finalizeButton) return finalizeButton;
       return null;
     }, 30000, 500);
 
-    if (submitted === "error") {
+    if (searchSubmitted === "error") {
       throw new Error("NotebookLM 顯示來源匯入錯誤，請看頁面上的錯誤訊息");
     }
-    if (!submitted) {
-      progress("送出後對話框沒有關閉，可能沒有真正匯入。", "warn");
-      throw new Error("批次 URL 送出未完成");
+    if (!searchSubmitted) {
+      progress("送出後沒有看到可加入的來源清單。", "warn");
+      throw new Error("批次 URL 搜尋未完成");
+    }
+    if (searchSubmitted !== "closed") {
+      await clickElement(searchSubmitted, "加入這批來源");
+
+      const imported = await waitFor(() => {
+        const stillSameDialog = dialog && isVisible(dialog);
+        const bodyText = visibleText();
+        if (/無法|失敗|錯誤|invalid|failed|error|too long|字數|來源過長/i.test(bodyText)) return "error";
+        if (!stillSameDialog) return "closed";
+        const root = dialogOrDocument();
+        if (!dialogContainsAnyUrl(root, urls)) return "cleared";
+        return null;
+      }, 30000, 500);
+
+      if (imported === "error") {
+        throw new Error("NotebookLM 顯示來源匯入錯誤，請看頁面上的錯誤訊息");
+      }
+      if (!imported) {
+        progress("已點加入，但對話框仍保留這批來源，可能尚未真正匯入。", "warn");
+        throw new Error("批次 URL 加入未完成");
+      }
     }
 
     await sleep(1500);
