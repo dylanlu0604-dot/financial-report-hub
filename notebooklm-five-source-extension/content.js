@@ -229,9 +229,71 @@ if (!window.__fiveSourceNotebookLmImporterLoaded) {
     return norm(document.body?.innerText || "");
   }
 
+  function isNotebookLmPromotionalDialog(el) {
+    const text = norm(el.innerText || el.textContent || "");
+    return (
+      // 「自訂」開頭、「體驗」結尾，中間書名號內可以是任意長度的筆記本名稱
+      /自訂\s*「[^」]*」\s*體驗/.test(text) ||
+      /customize\s+".+?"\s+experience/i.test(text) ||
+      /自訂語音摘要|customize.{0,10}audio|audio.{0,10}overview/i.test(text) ||
+      /試用新的|try.{0,10}new|新功能|new feature/i.test(text) ||
+      /立即體驗|get started|開始使用/i.test(text)
+    );
+  }
+
+  async function dismissCustomizeDialog() {
+    const dialog = Array.from(document.querySelectorAll([
+      "[role='dialog']",
+      "mat-dialog-container",
+      ".cdk-overlay-pane"
+    ].join(","))).filter((el) => isVisible(el)).find(isNotebookLmPromotionalDialog);
+    if (!dialog) return false;
+
+    progress("偵測到促銷 Dialog，嘗試關閉...", "warn");
+
+    // 優先：完成／略過等明確按鈕
+    const closeBtn = findClickableIn(dialog, [
+      "完成", "Done", "關閉", "Close", "略過", "Skip",
+      "取消", "Cancel", "稍後", "Later", "不用了", "No thanks", "跳過"
+    ]);
+    if (closeBtn) {
+      closeBtn.click();
+      await sleep(600);
+      progress(`已關閉促銷 Dialog（${labelOf(closeBtn)}）`, "ok");
+      return true;
+    }
+
+    // 備選：× 圖示關閉鈕
+    const xBtn = scopedClickableElements(dialog).find((el) => {
+      const lb = labelOf(el).toLowerCase();
+      return lb === "×" || lb === "x" || lb === "✕" || lb === "close" || lb === "關閉";
+    });
+    if (xBtn) {
+      xBtn.click();
+      await sleep(600);
+      progress("已關閉促銷 Dialog（× 鈕）", "ok");
+      return true;
+    }
+
+    // 找不到明確按鈕時，嘗試按 Escape
+    document.dispatchEvent(new KeyboardEvent("keydown", { key: "Escape", code: "Escape", keyCode: 27, bubbles: true }));
+    await sleep(600);
+    const stillVisible = Array.from(document.querySelectorAll("[role='dialog'], mat-dialog-container, .cdk-overlay-pane"))
+      .filter((el) => isVisible(el))
+      .some((el) => /自訂.{0,40}體驗|customize.{0,40}experience/i.test(norm(el.innerText || el.textContent || "")));
+    if (!stillVisible) {
+      progress("已按 Escape 關閉「自訂體驗」Dialog", "ok");
+      return true;
+    }
+
+    progress("無法自動關閉「自訂體驗」Dialog，流程繼續", "warn");
+    return false;
+  }
+
   async function createNotebook() {
     progress("等待 NotebookLM 首頁載入...");
     await waitFor(() => document.body && visibleText().length > 20, 30000);
+    await dismissCustomizeDialog();
 
     await clickText([
       "建立筆記本",
@@ -254,6 +316,7 @@ if (!window.__fiveSourceNotebookLmImporterLoaded) {
   }
 
   async function openAddSourceDialog() {
+    await dismissCustomizeDialog();
     const currentRoot = activeSourceDialog();
     if (currentRoot && (findUrlTextbox(currentRoot) || findClickableIn(currentRoot, ["網站", "Website", "網址", "YouTube", "貼上文字", "Paste text", "Copied text"]))) return;
     await clickText([
@@ -560,7 +623,7 @@ if (!window.__fiveSourceNotebookLmImporterLoaded) {
       const ready = await waitFor(() => {
         const saveButton = findSaveToNoteButton();
         if (saveButton && visibleText().includes("你想先展開哪個地區")) return saveButton;
-        if (saveButton && /85 個主題|85個主題|美國 10|美國10|你想先展開哪個地區/.test(visibleText())) return saveButton;
+        if (saveButton && /140 個主題|140個主題|85 個主題|85個主題|美國 10|美國10|你想先展開哪個地區/.test(visibleText())) return saveButton;
         return null;
       }, 90000, 1500);
 
@@ -876,16 +939,78 @@ if (!window.__fiveSourceNotebookLmImporterLoaded) {
     }
   }
 
+  function startDialogWatcher() {
+    let watcherTimer = null;
+
+    async function tick() {
+      const dialogs = Array.from(document.querySelectorAll([
+        "[role='dialog']",
+        "mat-dialog-container",
+        ".cdk-overlay-pane"
+      ].join(","))).filter((el) => isVisible(el) && el.id !== "five-source-nlm-status");
+
+      for (const dialog of dialogs) {
+        if (!isNotebookLmPromotionalDialog(dialog)) continue;
+        const closeBtn = findClickableIn(dialog, [
+          "關閉", "Close", "略過", "Skip", "取消", "Cancel",
+          "稍後", "Later", "不用了", "No thanks", "跳過", "暫不設定",
+          "完成", "Done"
+        ]);
+        if (closeBtn) {
+          progress(`自動關閉促銷 Dialog：${labelOf(closeBtn) || "×"}`, "warn");
+          closeBtn.click();
+          await sleep(400);
+        } else {
+          // 找 × 關閉鈕（aria-label 含 close/關閉，或純圖示按鈕）
+          const xBtn = scopedClickableElements(dialog).find((el) => {
+            const lb = labelOf(el).toLowerCase();
+            return lb.includes("close") || lb.includes("關閉") || lb === "×" || lb === "x" || lb === "✕";
+          });
+          if (xBtn) {
+            progress(`自動關閉促銷 Dialog（× 鈕）`, "warn");
+            xBtn.click();
+            await sleep(400);
+          }
+        }
+      }
+
+      // 右上角橫幅（非 dialog，有「×」關閉鈕且含促銷文字）
+      const banners = Array.from(document.querySelectorAll("[class*='banner'], [class*='snack'], [class*='toast'], [class*='promo'], [class*='notice'], [class*='announce']"))
+        .filter((el) => isVisible(el) && isNotebookLmPromotionalDialog(el));
+      for (const banner of banners) {
+        const xBtn = scopedClickableElements(banner).find((el) => {
+          const lb = labelOf(el).toLowerCase();
+          return lb.includes("close") || lb.includes("關閉") || lb === "×" || lb === "x" || lb === "✕";
+        });
+        if (xBtn) {
+          progress(`自動關閉促銷橫幅`, "warn");
+          xBtn.click();
+          await sleep(400);
+        }
+      }
+
+      watcherTimer = setTimeout(tick, 2000);
+    }
+
+    watcherTimer = setTimeout(tick, 1500);
+    return () => clearTimeout(watcherTimer);
+  }
+
   async function run({ title, urls, firstQuestion }) {
     ensureStatusPanel(true).textContent = "";
     progress("開始建立 NotebookLM 報告集...");
     progress(`目標名稱：${title}`);
-    await createNotebook();
-    await importUrls(urls);
-    await renameNotebook(title);
-    await submitFirstQuestion(firstQuestion);
-    await saveFirstAnswerToNote();
-    progress("流程完成。若 NotebookLM 還在處理來源，請等待它完成解析。", "ok");
+    const stopWatcher = startDialogWatcher();
+    try {
+        await createNotebook();
+      await importUrls(urls);
+      await renameNotebook(title);
+      await submitFirstQuestion(firstQuestion);
+      await saveFirstAnswerToNote();
+      progress("流程完成。若 NotebookLM 還在處理來源，請等待它完成解析。", "ok");
+    } finally {
+      stopWatcher();
+    }
   }
 
   chrome.runtime.onMessage.addListener((message, _sender, sendResponse) => {
