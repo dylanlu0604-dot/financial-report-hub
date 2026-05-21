@@ -1,52 +1,302 @@
 [
   {
-    "html_file": "source1.html",
-    "text_file": "source1.txt",
+    "html_file": "source01.html",
+    "text_file": "source01.txt",
+    "documents": 1,
+    "characters": 357746,
+    "html_bytes": 448254,
+    "text_bytes": 447622,
+    "first_title": "237_Triển vọng TTCK Việt Nam 2026 (2025-12-31)",
+    "last_title": "237_Triển vọng TTCK Việt Nam 2026 (2025-12-31)"
+  },
+  {
+    "html_file": "source02.html",
+    "text_file": "source02.txt",
     "documents": 12,
-    "characters": 1437441,
-    "html_bytes": 2240454,
-    "text_bytes": 2236960,
-    "first_title": "001__Merged",
-    "last_title": "012_DLRI_Merged"
+    "characters": 197101,
+    "html_bytes": 264959,
+    "text_bytes": 263325,
+    "first_title": "033_2026年4月27日匯率利率資訊",
+    "last_title": "441_美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌"
   },
   {
-    "html_file": "source2.html",
-    "text_file": "source2.txt",
-    "documents": 16,
-    "characters": 1369392,
-    "html_bytes": 1895760,
-    "text_bytes": 1891557,
-    "first_title": "013_Fubon_Merged",
-    "last_title": "028_Merrill_Lynch_(CMO)_Merged"
+    "html_file": "source03.html",
+    "text_file": "source03.txt",
+    "documents": 18,
+    "characters": 196760,
+    "html_bytes": 283607,
+    "text_bytes": 280919,
+    "first_title": "011_115年4月海關進出口貿易初步統計 (2026-05-08)",
+    "last_title": "467_金融・経済見通し"
   },
   {
-    "html_file": "source3.html",
-    "text_file": "source3.txt",
+    "html_file": "source04.html",
+    "text_file": "source04.txt",
+    "documents": 13,
+    "characters": 197234,
+    "html_bytes": 270203,
+    "text_bytes": 268356,
+    "first_title": "046_2026年4月通胀数据点评：输入性因素仍主导通胀回升",
+    "last_title": "406_欧州景気概況（2026年5月）"
+  },
+  {
+    "html_file": "source05.html",
+    "text_file": "source05.txt",
     "documents": 15,
-    "characters": 1592307,
-    "html_bytes": 2284779,
-    "text_bytes": 2280087,
-    "first_title": "029_Merrill_Lynch_(Viewpoint)_Merged",
-    "last_title": "043_Westpac_IQ_Merged"
+    "characters": 196792,
+    "html_bytes": 400087,
+    "text_bytes": 398097,
+    "first_title": "002_114年12月18日央行理監事會後記者會參考資料",
+    "last_title": "466_金融リテラシー調査（2025年）における男女の違い（金融リテラシー編） ～正答率が高い男性と、誤答率が低い女性～"
   },
   {
-    "html_file": "source4.html",
-    "text_file": "source4.txt",
-    "documents": 70,
-    "characters": 1309047,
-    "html_bytes": 2784968,
-    "text_bytes": 2781121,
-    "first_title": "044_YesFund_Merged",
-    "last_title": "113_民银证券_Merged"
+    "html_file": "source06.html",
+    "text_file": "source06.txt",
+    "documents": 13,
+    "characters": 197192,
+    "html_bytes": 232874,
+    "text_bytes": 231352,
+    "first_title": "028_2026年1～3月期のGDP（1次速報）予測",
+    "last_title": "464_金利上昇でAI関連株の過熱に冷水 ～金利上昇は高PERの天敵～"
   },
   {
-    "html_file": "source5.html",
-    "text_file": "source5.txt",
-    "documents": 32,
-    "characters": 779464,
-    "html_bytes": 1090151,
-    "text_bytes": 1087658,
-    "first_title": "114_浙商国际金融控股_Merged",
-    "last_title": "145_香港科技大学利丰供应链研究院_Merged"
+    "html_file": "source07.html",
+    "text_file": "source07.txt",
+    "documents": 13,
+    "characters": 196887,
+    "html_bytes": 259677,
+    "text_bytes": 257791,
+    "first_title": "040_2026年4月投資月報",
+    "last_title": "463_都区部版・日銀基調的インフレ率の試算（2026_04） ～緩やかな縮小傾向が継続、原油高は分布系指標も押し上げへ～"
+  },
+  {
+    "html_file": "source08.html",
+    "text_file": "source08.txt",
+    "documents": 13,
+    "characters": 196780,
+    "html_bytes": 376993,
+    "text_bytes": 375477,
+    "first_title": "004_114年6月19日央行理監事會後記者會參考資料",
+    "last_title": "465_金融システムに対するAIの脅威 ～「今そこにある危機」としてのインフラ停止リスク～"
+  },
+  {
+    "html_file": "source09.html",
+    "text_file": "source09.txt",
+    "documents": 13,
+    "characters": 197211,
+    "html_bytes": 344568,
+    "text_bytes": 343053,
+    "first_title": "003_114年3月20日央行理監事會後記者會參考資料",
+    "last_title": "470_雾芯科技Q1营收翻倍，国际化成效显著"
+  },
+  {
+    "html_file": "source10.html",
+    "text_file": "source10.txt",
+    "documents": 19,
+    "characters": 196774,
+    "html_bytes": 321759,
+    "text_bytes": 319390,
+    "first_title": "017_20260504【投研報告】市場快訊_AI產業進展迅速、電力基建需求無可替代",
+    "last_title": "456_葛卫东，豪赚百亿元！"
+  },
+  {
+    "html_file": "source11.html",
+    "text_file": "source11.txt",
+    "documents": 13,
+    "characters": 197244,
+    "html_bytes": 303627,
+    "text_bytes": 302151,
+    "first_title": "096_Australian Business Conditions and Confidence, April (2026-05-21)",
+    "last_title": "448_聯邦銀行卓越金融洞察(週)_20260511"
+  },
+  {
+    "html_file": "source12.html",
+    "text_file": "source12.txt",
+    "documents": 13,
+    "characters": 197133,
+    "html_bytes": 260998,
+    "text_bytes": 259522,
+    "first_title": "029_2026年1～3月期のGDP（1次速報）結果",
+    "last_title": "397_日銀は６月と12 月に利上げへ"
+  },
+  {
+    "html_file": "source13.html",
+    "text_file": "source13.txt",
+    "documents": 14,
+    "characters": 196859,
+    "html_bytes": 348980,
+    "text_bytes": 347226,
+    "first_title": "007_115年3月19日央行理監事會後記者會參考資料",
+    "last_title": "353_华为与东风关系更紧密了"
+  },
+  {
+    "html_file": "source14.html",
+    "text_file": "source14.txt",
+    "documents": 21,
+    "characters": 196787,
+    "html_bytes": 258191,
+    "text_bytes": 255536,
+    "first_title": "018_20260511_投資週報_科技財報助美股創高，關注地緣政治進展",
+    "last_title": "457_談股論金：訂單明確助漲AI飆股遍地開花"
+  },
+  {
+    "html_file": "source15.html",
+    "text_file": "source15.txt",
+    "documents": 14,
+    "characters": 197233,
+    "html_bytes": 362323,
+    "text_bytes": 360719,
+    "first_title": "005_114年9月18日央行理監事會後記者會參考資料",
+    "last_title": "449_聯邦銀行卓越金融洞察(週)_20260518"
+  },
+  {
+    "html_file": "source16.html",
+    "text_file": "source16.txt",
+    "documents": 16,
+    "characters": 196762,
+    "html_bytes": 270089,
+    "text_bytes": 268305,
+    "first_title": "068_8000人大裁员后安抚员工！扎克伯格承诺：今年不再进行“公司级别”裁员",
+    "last_title": "469_长鑫引爆“黄金窗口”：半导体材料与设备有望迎来高景气开支拐点"
+  },
+  {
+    "html_file": "source17.html",
+    "text_file": "source17.txt",
+    "documents": 15,
+    "characters": 197174,
+    "html_bytes": 313298,
+    "text_bytes": 311355,
+    "first_title": "021_20260520【投研報告】市場快訊_美伊僵局疊加通膨壓力下的股債投資策略",
+    "last_title": "468_锦江酒店赴港IPO：数字化是“药”，还是“补药”？"
+  },
+  {
+    "html_file": "source18.html",
+    "text_file": "source18.txt",
+    "documents": 16,
+    "characters": 196756,
+    "html_bytes": 276820,
+    "text_bytes": 274517,
+    "first_title": "036_2026年4月PMI点评：4月制造业PMI维持扩张",
+    "last_title": "443_美联储的溃败和坚守：从马丁到伯恩斯"
+  },
+  {
+    "html_file": "source19.html",
+    "text_file": "source19.txt",
+    "documents": 22,
+    "characters": 196770,
+    "html_bytes": 275537,
+    "text_bytes": 272712,
+    "first_title": "001_1-3月期ユーロ圏GDP 市場予想に反して減速",
+    "last_title": "471_非農業部門雇用者数は前月差＋11.5万人"
+  },
+  {
+    "html_file": "source20.html",
+    "text_file": "source20.txt",
+    "documents": 15,
+    "characters": 197215,
+    "html_bytes": 313443,
+    "text_bytes": 311607,
+    "first_title": "067_6月，人类第一个“万亿富豪”即将诞生：埃隆·马斯克",
+    "last_title": "472_韓国･４月輸出は旺盛なAI関連投資が後押し（Asia Weekly） ～中東情勢の緊迫化の影響が懸念されたが､AI関連投資の旺盛さが輸出全体を押し上げる～"
+  },
+  {
+    "html_file": "source21.html",
+    "text_file": "source21.txt",
+    "documents": 22,
+    "characters": 196756,
+    "html_bytes": 276008,
+    "text_bytes": 273049,
+    "first_title": "019_20260511【投研報告】市場快訊_AI用電需求預估上修，看好電力基建類股",
+    "last_title": "426_米国_中東情勢緊迫化でコスト増圧力が強まる（4月ISM製造業） ～拡大基調を維持も、供給網の混迷が下押し要因に～"
+  },
+  {
+    "html_file": "source22.html",
+    "text_file": "source22.txt",
+    "documents": 22,
+    "characters": 196796,
+    "html_bytes": 261674,
+    "text_bytes": 259109,
+    "first_title": "014_20260427_投資週報_美伊戰事餘波盪漾，無礙科技股上漲",
+    "last_title": "462_過去最大となった機械受注残高、その背景と影響は？"
+  },
+  {
+    "html_file": "source23.html",
+    "text_file": "source23.txt",
+    "documents": 22,
+    "characters": 196758,
+    "html_bytes": 283227,
+    "text_bytes": 280275,
+    "first_title": "023_2026年1-3月期GDP（1次速報）",
+    "last_title": "446_聯邦銀行卓越金融洞察(月)_20260504"
+  },
+  {
+    "html_file": "source24.html",
+    "text_file": "source24.txt",
+    "documents": 15,
+    "characters": 197185,
+    "html_bytes": 319585,
+    "text_bytes": 317843,
+    "first_title": "050_2026年5月11日投資研究週報",
+    "last_title": "402_景気ウォッチャー調査から見る中東情勢悪化の影響 ～供給制約への具体的な言及が明確に増えている～"
+  },
+  {
+    "html_file": "source25.html",
+    "text_file": "source25.txt",
+    "documents": 15,
+    "characters": 196828,
+    "html_bytes": 260983,
+    "text_bytes": 258637,
+    "first_title": "055_2026年5月4日國際經濟金融週報",
+    "last_title": "440_经济数据点评（2026.4）：多部门去杠杆仍对内需形成制约"
+  },
+  {
+    "html_file": "source26.html",
+    "text_file": "source26.txt",
+    "documents": 21,
+    "characters": 196771,
+    "html_bytes": 269915,
+    "text_bytes": 267212,
+    "first_title": "012_2025年12月投資月報",
+    "last_title": "431_経済指標の要点（4_15～5_20発表統計）"
+  },
+  {
+    "html_file": "source27.html",
+    "text_file": "source27.txt",
+    "documents": 15,
+    "characters": 197144,
+    "html_bytes": 270250,
+    "text_bytes": 268158,
+    "first_title": "027_2026年1月投資月報",
+    "last_title": "363_孩之宝Q1净利翻倍，卡牌游戏“单骑救主”"
+  },
+  {
+    "html_file": "source28.html",
+    "text_file": "source28.txt",
+    "documents": 15,
+    "characters": 197188,
+    "html_bytes": 281061,
+    "text_bytes": 279001,
+    "first_title": "010_115年4月全國賦稅收入初步統計 (2026-05-12)",
+    "last_title": "419_税収の増勢は衰えず ～25年度は昨年末政府見込みの80.7兆円を更に上振れへ～"
+  },
+  {
+    "html_file": "source29.html",
+    "text_file": "source29.txt",
+    "documents": 15,
+    "characters": 196845,
+    "html_bytes": 277405,
+    "text_bytes": 275703,
+    "first_title": "098_Automotive_ Will the Middle East crisis supercharge EV momentum_",
+    "last_title": "438_統計通報 - 2025年我出口值及貿易總值之全球排名前進至第12及第15，分創近32年及23年最佳 (2026-03-24)"
+  },
+  {
+    "html_file": "source30.html",
+    "text_file": "source30.txt",
+    "documents": 21,
+    "characters": 196763,
+    "html_bytes": 296996,
+    "text_bytes": 294436,
+    "first_title": "020_20260518_投資週報_油價推動通膨升溫；科技股再創新高",
+    "last_title": "428_米国_強弱入り混じる内容､FF金利据え置き観測を正当化(4月雇用統計) ～平均時給が鈍化したが、雇用者数は上振れ、失業率は低位安定を継続～"
   }
 ]
