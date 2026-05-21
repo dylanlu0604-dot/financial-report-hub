@@ -76,7 +76,7 @@ if (!window.__fiveSourceNotebookLmImporterLoaded) {
   function progress(text, cls = "") {
     const panel = ensureStatusPanel();
     if (!panel) {
-      console.log("[NotebookLM 5-source importer]", text);
+      console.log("[NotebookLM 30-source importer]", text);
       return;
     }
     const line = document.createElement("div");
@@ -86,7 +86,7 @@ if (!window.__fiveSourceNotebookLmImporterLoaded) {
     if (cls === "err") line.style.color = "#d93025";
     panel.appendChild(line);
     panel.scrollTop = panel.scrollHeight;
-    console.log("[NotebookLM 5-source importer]", text);
+    console.log("[NotebookLM 30-source importer]", text);
   }
 
   async function waitFor(fn, timeoutMs = 20000, stepMs = 300) {

@@ -5,13 +5,14 @@ import shutil
 from datetime import datetime, timezone
 from pathlib import Path
 
-from boilerplate_filter import is_boilerplate
+from boilerplate_filter import filter_boilerplate_chunks, is_boilerplate
 from pypdf import PdfReader
 
 
-SRC_DIR = Path("merged_pdfs")
+SRC_DIR = Path("all report pdf")
 OUT_DIR = Path("merged_plain_text_html")
-SOURCE_COUNT = 5
+SOURCE_COUNT = 30
+SOURCE_DIGITS = 2
 BOILERPLATE_THRESHOLD = 0.30
 RAW_URL_BASE = (
     "https://cdn.jsdelivr.net/gh/dylanlu0604-dot/financial-report-hub"
@@ -54,20 +55,15 @@ def split_blocks(text: str) -> list[str]:
 
 
 def filter_page_text(text: str) -> tuple[str, dict[str, int]]:
-    kept = []
-    removed_chunks = 0
-    removed_characters = 0
-
-    for block in split_blocks(text):
-        if is_boilerplate(block, BOILERPLATE_THRESHOLD):
-            removed_chunks += 1
-            removed_characters += len(block)
-            continue
-        kept.append(block)
+    chunks = [{"text": block} for block in split_blocks(text)]
+    kept_chunks = filter_boilerplate_chunks(chunks, threshold=BOILERPLATE_THRESHOLD)
+    kept_ids = {id(chunk) for chunk in kept_chunks}
+    kept = [chunk["text"] for chunk in kept_chunks]
+    removed = [chunk["text"] for chunk in chunks if id(chunk) not in kept_ids]
 
     return "\n\n".join(kept).strip(), {
-        "removed_chunks": removed_chunks,
-        "removed_characters": removed_characters,
+        "removed_chunks": len(removed),
+        "removed_characters": sum(len(block) for block in removed),
     }
 
 
@@ -100,31 +96,44 @@ def extract_pdf_text(pdf_path: Path) -> tuple[str, int, list[str], dict[str, int
         stats["filtered_characters"] += len(filtered_text)
         stats["removed_characters"] += page_stats["removed_characters"]
         stats["removed_chunks"] += page_stats["removed_chunks"]
-        parts.append(f"===== Page {page_number} =====\n\n{filtered_text}".strip())
+        if filtered_text:
+            parts.append(f"### Page {page_number}\n\n{filtered_text}".strip())
 
-    return clean_text("\n\n".join(parts).strip() + "\n"), len(reader.pages), warnings, stats
+    text = "\n\n".join(parts).strip()
+    if not text:
+        text = "[No extractable text after boilerplate filtering.]"
+    return clean_text(text + "\n"), len(reader.pages), warnings, stats
 
 
 def render_source_html(index: int, documents: list[dict]) -> str:
     sections = []
     for doc in documents:
+        warning_html = ""
+        if doc["warnings"]:
+            warning_items = "\n".join(f"<li>{html.escape(item)}</li>" for item in doc["warnings"])
+            warning_html = f"<details><summary>Extraction warnings</summary><ul>{warning_items}</ul></details>"
         sections.append(
             f"""<section>
-<h2>{html.escape(doc["title"])}</h2>
+<h2>Document {doc["document_number"]:03d}: {html.escape(doc["display_title"])}</h2>
+<p><strong>Source PDF:</strong> {html.escape(doc["pdf"])}<br>
+<strong>Pages:</strong> {doc["pages"]}<br>
+<strong>Status:</strong> {html.escape(doc["status"])}</p>
+{warning_html}
 <pre>{html.escape(doc["text"])}</pre>
 </section>"""
         )
 
+    label = f"{index:0{SOURCE_DIGITS}d}"
     return f"""<!doctype html>
 <html lang="zh-Hant">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Financial Report Source {index}</title>
+  <title>Financial Report Source {label}</title>
 </head>
 <body>
 <main>
-<h1>Financial Report Source {index}</h1>
+<h1>Financial Report Source {label}</h1>
 {chr(10).join(sections)}
 </main>
 </body>
@@ -133,9 +142,32 @@ def render_source_html(index: int, documents: list[dict]) -> str:
 
 
 def render_source_text(index: int, documents: list[dict]) -> str:
-    sections = [f"# Financial Report Source {index}"]
+    label = f"{index:0{SOURCE_DIGITS}d}"
+    sections = [
+        f"# Financial Report Source {label}",
+        "NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.",
+    ]
     for doc in documents:
-        sections.append(f"## {doc['title']}\n\n{doc['text'].strip()}")
+        metadata = [
+            f"Source PDF: {doc['pdf']}",
+            f"Pages: {doc['pages']}",
+            f"Extraction status: {doc['status']}",
+        ]
+        if doc["warnings"]:
+            metadata.append("Extraction warnings:")
+            metadata.extend(f"- {item}" for item in doc["warnings"])
+        sections.append(
+            "\n".join(
+                [
+                    "---",
+                    f"## Document {doc['document_number']:03d}: {doc['display_title']}",
+                    "",
+                    *metadata,
+                    "",
+                    doc["text"].strip(),
+                ]
+            ).strip()
+        )
     return "\n\n".join(sections).strip() + "\n"
 
 
@@ -166,7 +198,7 @@ def render_index(manifest: list[dict], generated_at: str) -> str:
 </head>
 <body>
   <h1>Merged Plain Text HTML Sources</h1>
-  <p>Generated at {html.escape(generated_at)} from <code>merged_pdfs/</code>. Fixed output: 5 HTML sources plus 5 plain text sources for NotebookLM URL import.</p>
+  <p>Generated at {html.escape(generated_at)} from <code>{html.escape(str(SRC_DIR))}/</code>. Fixed output: {SOURCE_COUNT} HTML sources plus {SOURCE_COUNT} plain text sources for NotebookLM URL import.</p>
   <table>
     <thead>
       <tr><th>HTML</th><th>NotebookLM TXT</th><th>Documents</th><th>Characters</th><th>First</th><th>Last</th></tr>
@@ -182,27 +214,13 @@ def render_index(manifest: list[dict], generated_at: str) -> str:
 
 def split_documents(documents: list[dict]) -> list[list[dict]]:
     buckets = [{"documents": [], "characters": 0} for _ in range(SOURCE_COUNT)]
-    total_chars = sum(doc["characters"] for doc in documents)
-    target_chars = max(total_chars / SOURCE_COUNT, 1)
-    bucket_index = 0
-
-    for doc in documents:
-        remaining_docs = len(documents) - sum(len(bucket["documents"]) for bucket in buckets)
-        remaining_buckets = SOURCE_COUNT - bucket_index
-        must_leave_for_later = remaining_docs <= remaining_buckets - 1
-
-        current = buckets[bucket_index]
-        if (
-            current["documents"]
-            and current["characters"] >= target_chars
-            and bucket_index < SOURCE_COUNT - 1
-            and not must_leave_for_later
-        ):
-            bucket_index += 1
-            current = buckets[bucket_index]
-
+    for doc in sorted(documents, key=lambda item: item["characters"], reverse=True):
+        current = min(buckets, key=lambda bucket: (bucket["characters"], len(bucket["documents"])))
         current["documents"].append(doc)
         current["characters"] += doc["characters"]
+
+    for bucket in buckets:
+        bucket["documents"].sort(key=lambda doc: doc["document_number"])
 
     return [bucket["documents"] for bucket in buckets]
 
@@ -227,7 +245,6 @@ def main() -> None:
 
     for index, pdf_path in enumerate(pdfs, 1):
         title = safe_title(pdf_path.stem, f"document_{index:03d}")
-        numbered_title = f"{index:03d}_{title}"
         print(f"[{index:03d}/{len(pdfs):03d}] extracting {pdf_path.name}", flush=True)
         try:
             text, page_count, warnings, filter_stats = extract_pdf_text(pdf_path)
@@ -246,7 +263,9 @@ def main() -> None:
 
         documents.append(
             {
-                "title": numbered_title,
+                "document_number": index,
+                "display_title": title,
+                "title": f"{index:03d}_{title}",
                 "pdf": str(pdf_path),
                 "pages": page_count,
                 "characters": len(text),
@@ -262,8 +281,9 @@ def main() -> None:
     raw_urls = []
 
     for index, bucket in enumerate(buckets, 1):
-        html_file_name = f"source{index}.html"
-        text_file_name = f"source{index}.txt"
+        source_label = f"{index:0{SOURCE_DIGITS}d}"
+        html_file_name = f"source{source_label}.html"
+        text_file_name = f"source{source_label}.txt"
         html_content = render_source_html(index, bucket)
         text_content = render_source_text(index, bucket)
         html_path = OUT_DIR / html_file_name

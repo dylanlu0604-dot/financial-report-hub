@@ -1,12 +1,12 @@
 const NOTEBOOKLM_URL = "https://notebooklm.google.com/";
+const SOURCE_COUNT = 30;
+const SOURCE_URL_BASE =
+  "https://cdn.jsdelivr.net/gh/dylanlu0604-dot/financial-report-hub@main/merged_plain_text_html";
 
-const SOURCE_URLS = [
-  "https://cdn.jsdelivr.net/gh/dylanlu0604-dot/financial-report-hub@main/merged_plain_text_html/source1.txt",
-  "https://cdn.jsdelivr.net/gh/dylanlu0604-dot/financial-report-hub@main/merged_plain_text_html/source2.txt",
-  "https://cdn.jsdelivr.net/gh/dylanlu0604-dot/financial-report-hub@main/merged_plain_text_html/source3.txt",
-  "https://cdn.jsdelivr.net/gh/dylanlu0604-dot/financial-report-hub@main/merged_plain_text_html/source4.txt",
-  "https://cdn.jsdelivr.net/gh/dylanlu0604-dot/financial-report-hub@main/merged_plain_text_html/source5.txt"
-];
+const SOURCE_URLS = Array.from({ length: SOURCE_COUNT }, (_, index) => {
+  const sourceNumber = String(index + 1).padStart(2, "0");
+  return `${SOURCE_URL_BASE}/source${sourceNumber}.txt`;
+});
 
 const FIRST_QUESTION = `步驟 1（只產生 85 個主題）
 
