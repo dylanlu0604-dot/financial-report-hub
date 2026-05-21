@@ -1,6 +1,6 @@
 # Financial Report Source 2
 
-## 012_Fubon_Merged
+## 013_Fubon_Merged
 
 ===== Page 1 =====
 
@@ -5530,7 +5530,7 @@ AI行情續看俏，樂觀氛圍創新高
 用、抄襲、重製或轉寄本研究報告。
 警語
 
-## 013_Goldman_Sachs_Merged
+## 014_Goldman_Sachs_Merged
 
 ===== Page 1 =====
 
@@ -13769,7 +13769,7 @@ limitation, using, extracting, downloading or retrieving this information, in wh
 artificial intelligence system, or to provide or reproduce this information, in whole or in part, as a prompt or input to any such
 system.
 
-## 014_Goldman_Sachs_Publishing_Merged
+## 015_Goldman_Sachs_Publishing_Merged
 
 ===== Page 1 =====
 
@@ -16185,7 +16185,7 @@ such system.
 4 May 2026   26
 Goldman Sachs AI Adoption Tracker
 
-## 015_Hankyung_Merged
+## 016_Hankyung_Merged
 
 ===== Page 1 =====
 
@@ -16537,224 +16537,6 @@ SK스퀘어 수정TP(원)
 
 ===== Page 7 =====
 
-64
-Robotic Warfare 2
-한화에어로스페이스(012450)
-Buy(Maintain)
-목표주가(12M) 1,830,000원(유지)
-종가(2026.05.18) 1,227,000원
-상승여력 49.1 %
-Stock Indicator
-자본금 270십억원
-발행주식수 5,156만주
-시가총액 63,268십억원
-외국인지분율 45.1%
-52주 주가 779,000~1,537,000원
-60일평균거래량 280,396주
-60일평균거래대금 391.6십억원
-주가수익률(%) 1M 3M 6M 12M
-절대수익률 -13.8 11.0 33.2 47.8
-상대수익률 -35.2 -25.4 -56.9 -138.3
-FY 2025 2026E 2027E 2028E
-매출액(십억원) 26,703 30,536 35,335 37,067
-영업이익(십억원) 3,089 4,404 5,619 5,888
-순이익(십억원) 1,405 1,888 2,536 2,719
-
-EPS(원) 28,573 36,621 49,179 52,733
-BPS(원) 187,825 219,549 263,832 311,668
-PER(배) 32.9 33.5 24.9 23.3
-PBR(배) 5.0 5.6 4.7 3.9
-ROE(%) 19.1 18.0 20.3 18.3
-배당수익률(%) 0.7 0.6 0.6 0.6
-EV/EBITDA(배) 13.3 12.3 9.9 9.2
-주: K-IFRS 연결 요약 재무제표
-미래형 지상전을 이끄는 기업
-[투자포인트]
-■ 한화에어로스페이스는 지상무기 분야의 경쟁력을 바탕으로 미래형 지상전 시장의 핵심 플레이어로 부각되고
-있음. 특히 국내외 육군의 무인화 전환이 가속화되며 UGV(무인지상차량) 부문 성장 수혜가 본격화될 전망
-■ 동사의 UGV ‘아리온스멧(Arion-SMET)’은 국내 방산기업 최초로 미국 국방부 해외비교성능시험 (FCT)을
-성공적으로 수행하며 글로벌 무인체계 기술 경쟁력을 입증. 현재는 방위사업청이 추진 중인 496억원 규모의
-
-육군 다목적무인차량 사업에서 성능확인평가를 완료했으며, 해당 사업은 육군 미래 전력 체계인 ‘아미타이거
-4.0’의 핵심으로 평가되는 만큼 최종 채택 시 향후 후속 양산 및 추가 사업 확대 가능성 존재
-■ 아리온스멧(소형)뿐 아니라, 2028년까지 소형·중형·대형급 차륜형 및 궤도형의 총 6종 UGV 제품군 확보를
-추진 중이며, 이를 기반으로 글로벌 군용 무인체계 시장 내 다양한 수요 확보와 경쟁력 강화 기대
-■ ’26년 2월 에스토니아 UGV 기업 밀렘 로보틱스와 공동 개발 협력 확대에 이어, 이번 5월 루마니아 BSDA에서는
-밀렘 로보틱스 및 한화에어로 루마니아 법인(HARO)과 UGV 사업 공동 참여를 위한 협력 계약까지 체결. 전쟁
-이후 증가하는 유럽 및 NATO 국가들의 무인체계 수요에 적극 대응할 전망
-0.46
-0.60
-0.74
-0.89
-1.03
-1.17
-701.0
-898.8
-1096.6
-
-1294.4
-1492.2
-1690.0
-25.05 25.07 25.09 25.11 26.01 26.03 26.05
-한화에어로스페이스
-Price(좌) Price Rel. To KOSPI
-000'S
-(2025/05/16~2026/05/18)
-
-===== Page 8 =====
-
-65
-Robotic Warfare 2
-한화에어로스페이스(012450)
-2028년까지 무인차량 풀라인업 구축 전망
-– 아리온스멧(Arion-SMET): 국내 최초 美 FCT 테스트 통과 → 미 육군
-S-MET 2차 사업 입찰 및 기술 협의 중. 국내 육군 다목적무인차량 사
-업 성능확인평가 완료(현대로템 셰르파와 경쟁, 상반기 결정 예정)
-– 아리온스멧 업그레이드 버전인 ‘그런트’에 이어 '28년까지 전 체급(소·
-중·대형) 총 6종의 차륜형 및 궤도형 무인지상차량 제품군 확보 및 차
-세대 중고도 무인기(MUAV) 엔진 개발 목표
-– 에스토니아 Milrem Robotics와 중형 궤도형 UGV 공동 개발 및 美 무
-인기 전문기업 GA와 단거리 무인기 및 드론 공동 개발 및 생산 예정
-– ‘25년 방사청과 2,700억원 규모의 폭발물 탐지·제거 로봇 양산 계약
-을 체결하며, 국내 군용 로봇 최초의 양산 사례로 자리매김
-
-<표> 한화에어로스페이스 주요 개발현황
-자료 : 언론종합, iM증권 리서치본부
-<그림> 한화에어로스페이스 폭발물탐지로봇
-자료 : 한화에어로스페이스, iM증권 리서치본부
-<그림> 아리온스멧(Arion-SMET)
-자료 : 한화에어로스페이스, iM증권 리서치본부
-대분류 소분류 개발 완료 개발 진행중 (완료시기)
-레거시
-무기체계의
-무인화
-무인차량
-아리온스멧
-K9A2
-(26년 개발 완료, 27년 납품 목표)
-K9A3
-그런트(Grunt) 소·중·대형의 차륜형 및 궤도형 UGV
-무인기 -
-GE-STOL(2027 초도비행, 2028인도)
-차세대 중고도무인기(MUAV) 탑재 엔진
-드론 -
-군용 중고도 장기체공 드론
-소형 드론
-로봇체계
-폭발물 탐지제거로봇
--
-소형정찰로봇
-
-===== Page 9 =====
-
-66
-Robotic Warfare 2
-K-IFRS 연결 요약 재무제표
-재무상태표 (십억원) 2025 2026E 2027E 2028E 포괄손익계산서 (십억원,%) 2025 2026E 2027E 2028E
-유동자산 30,705 34,296 39,349 44,311 매출액 26,703 30,536 35,335 37,067
-현금 및 현금성자산 7,713 8,423 10,034 12,660 증가율(%) 137.6 14.4 15.7 4.9
-단기금융자산 476 618 802 1,042 매출원가 21,252 21,426 24,277 25,440
-매출채권 3,698 4,193 4,812 5,036 매출총이익 5,450 9,110 11,058 11,627
-재고자산 7,742 8,853 10,244 10,746 판매비와관리비 2,361 4,706 5,440 5,739
-비유동자산 23,248 22,221 21,315 20,515 연구개발비 295 - - -
-
-유형자산 9,524 8,882 8,323 7,838 기타영업수익 - - - -
-무형자산 7,498 7,147 6,833 6,552 기타영업비용 - - - -
-자산총계 53,954 56,517 60,664 64,826 영업이익 3,089 4,404 5,619 5,888
-유동부채 29,976 29,803 30,206 30,358 증가율(%) 78.4 42.6 27.6 4.8
-매입채무 2,176 2,488 2,879 3,020 영업이익률(%) 11.6 14.4 15.9 15.9
-단기차입금 5,371 5,359 5,359 5,359 이자수익 223 298 358 452
-유동성장기부채 1,611 1,129 1,129 1,129 이자비용 490 424 412 412
-비유동부채 7,189 7,219 7,241 7,241 지분법이익(손실) -83 -83 -83 -83
-사채 2,298 2,310 2,321 2,321 기타영업외손익 -471 -438 -438 -438
-
-장기차입금 3,114 3,132 3,143 3,143 세전계속사업이익 2,210 3,746 5,031 5,394
-부채총계 37,165 37,022 37,447 37,599 법인세비용 8 787 1,056 1,133
-지배주주지분 9,685 11,321 13,604 16,071 세전계속이익률(%) 8.3 12.3 14.2 14.6
-자본금 270 270 270 270 당기순이익 2,202 2,960 3,974 4,262
-자본잉여금 3,604 3,604 3,604 3,604 순이익률(%) 8.2 9.7 11.2 11.5
-이익잉여금 5,983 7,511 9,687 12,046 지배주주귀속 순이익 1,405 1,888 2,536 2,719
-기타자본항목 -173 -65 43 150 기타포괄이익 104 108 108 108
-비지배주주지분 7,103 8,174 9,613 11,156 총포괄이익 2,306 3,067 4,082 4,369
-
-자본총계 16,788 19,495 23,217 27,226 지배주주귀속총포괄이익 - - - -
-현금흐름표 (십억원) 2025 2026E 2027E 2028E 주요투자지표 2025 2026E 2027E 2028E
-영업활동 현금흐름 4,050 2,090 2,549 3,641 주당지표(원)
-당기순이익 2,202 2,960 3,974 4,262 EPS 28,573 36,621 49,179 52,733
-유형자산감가상각비 495 642 559 486 BPS 187,825 219,549 263,832 311,668
-무형자산상각비 378 351 314 281 CFPS 46,323 55,889 66,104 67,602
-지분법관련손실(이익) -83 -83 -83 -83 DPS 7,000 7,000 7,000 7,000
-투자활동 현금흐름 -4,021 -229 -271 -327 Valuation(배)
-유형자산의 처분(취득) -1,691 - - - PER 32.9 33.5 24.9 23.3
-
-무형자산의 처분(취득) - - - - PBR 5.0 5.6 4.7 3.9
-금융상품의 증감 -1,920 -50 -50 -50 PCR 20.3 22.0 18.6 18.2
-재무활동 현금흐름 4,682 -2,289 -1,804 -1,826 EV/EBITDA 13.3 12.3 9.9 9.2
-단기금융부채의증감 -457 -493 - - Key Financial Ratio(%)
-장기금융부채의증감 2,590 30 22 - ROE 19.1 18.0 20.3 18.3
-자본의증감 4,209 - - - EBITDA이익률 14.8 17.7 18.4 18.0
-배당금지급 - - - - 부채비율 221.4 189.9 161.3 138.1
-현금및현금성자산의증감 4,746 710 1,611 2,626 순부채비율 25.1 14.8 4.8 -6.4
-기초현금및현금성자산 2,968 7,713 8,423 10,034 매출채권회전율(x) 7.4 7.7 7.8 7.5
-
-기말현금및현금성자산 7,713 8,423 10,034 12,660 재고자산회전율(x) 3.8 3.7 3.7 3.5
-자료 : 한화에어로스페이스, iM증권 리서치본부
-
-===== Page 10 =====
-
-67
-Robotic Warfare 2
-Compliance notice
-당 보고서공표일기준으로해당기업과관련하여,
-회사는해당종목을1%이상보유하고있지않습니다.
-금융투자분석사와그 배우자는해당기업의주식을보유하고있지않습니다.
-당 보고서는기관투자가및 제3자에게E-mail등을통하여사전에배포된사실이없습니다.
-회사는6개월간해당기업의유가증권발행과관련주관사로참여하지않았습니다.
- 당 보고서에게재된내용들은본인의의견을정확하게반영하고있으며, 외부의부당한압력이나간섭 없이
-작성되었음을확인합니다.
-본 분석자료는투자자의증권투자를돕기위한참고자료이며, 따라서, 본 자료에의한투자자의투자결과에대해
-어떠한 목적의 증빙자료로도사용될 수 없으며, 어떠한 경우에도작성자 및 당사의 허가 없이 전재, 복사 또는
-대여될수 없습니다.무단전재등으로인한분쟁발생시법적책임이있음을주지하시기바랍니다.
-[투자의견]
-종목추천투자등급
-종목투자의견은향후12개월간추천일종가대비해당종목의예상목표수익률을의미함.
-
-Buy(매 수):추천일종가대비+15%이상
-Hold(보유):추천일종가대비-15% ~ 15%내외등락
- Sell(매도):추천일종가대비-15%이상
-산업추천투자등급
-시가총액기준산업별시장비중대비보유비중의변화를추천하는것임
-Overweight(비중확대)
-Neutral(중립)
-Underweight(비중축소)
-[투자비율등급공시2026-03-31기준]
-매수 중립(보유) 매도
-88.2% 11.8% -
-한화에어로스페이스 투자의견 및 목표주가 변동추이
-일자 투자의견 목표주가
-괴리율
-평균주가대비 최고(최저)주가대비
-2024-08-01 Buy 360,000 -11.9% 9.2%
-2024-11-01 Buy 490,000 -25.7% 1.6%
-2025-02-12 Buy 690,000 2.3% 20.3%
-2025-05-02 Buy 980,000 -14.2% -9.2%
-2025-06-05 Buy 996,000 -10.5% 0.2%
-
-2025-07-31 Buy 1,360,000 -29.1% -18.6%
-2025-11-04 Buy 1,380,000 -25.1% -3.6%
-2026-02-10 Buy 1,680,000 -18.2% -8.5%
-2026-05-04 Buy 1,830,000
-160,000
-567,200
-974,400
-1,381,600
-1,788,800
-2,196,000
-24.05 24.10 25.03 25.08 26.01
-주가(원) 목표주가(원)
-
-===== Page 11 =====
-
 39
 VI. 기업 분석
 삼성전자(005930)
@@ -16823,7 +16605,7 @@ Price(좌) Price Rel. To KOSPI
 000'S
 (2025/05/14~2026/05/14)
 
-===== Page 12 =====
+===== Page 8 =====
 
 40
 VI. 기업 분석
@@ -16860,7 +16642,7 @@ VD /가전 매출 1 7 , 9 0 0 1 7 , 9 1 5 1 7 , 8 9 4 1 9 , 4 1 3 1 8 , 1 0 0 1 
 영업이익 600 704 295 - 2 8 8 400 660 253 170 3 , 0 7 1 1 , 3 1 1 1 , 4 8 3
 영업이익률 3.4% 3.9% 1.7% -1.5% 2.2% 3.4% 1.4% 0.9% 4.3% 1.8% 2.0%
 
-===== Page 13 =====
+===== Page 9 =====
 
 41
 VI. 기업 분석
@@ -16945,7 +16727,7 @@ T o tal 매출 (십억원) 71,916 74,068 79,099 75,788 79,141 74,566 86,062 93,8
 영업이익 (십억원) 6,606 10,444 9,183 6,493 6,685 4,676 12,166 20,074 57,233 87,577 103,299 103,906 6,567 32,726 43,601 352,014
 영업이익률 9% 14% 12% 9% 8% 6% 14% 21% 43% 53% 54% 56% 3% 11% 13% 52%
 
-===== Page 14 =====
+===== Page 10 =====
 
 42
 VI. 기업 분석
@@ -17000,7 +16782,7 @@ K-IFRS 연결 요약 재무제표
 기말현금및현금성자산 57,856 213,049 449,190 683,903 재고자산회전율(x) 6.4 8.5 6.2 6.0
 자료 : 삼성전자, iM증권 리서치본부
 
-===== Page 15 =====
+===== Page 11 =====
 
 43
 VI. 기업 분석
@@ -17068,7 +16850,7 @@ Compliance notice
 24.05 24.10 25.03 25.08 26.01
 주가(원) 목표주가(원)
 
-===== Page 16 =====
+===== Page 12 =====
 
 44
 VI. 기업 분석
@@ -17137,7 +16919,7 @@ Price(좌) Price Rel. To KOSPI
 000'S
 (2025/05/14~2026/05/14)
 
-===== Page 17 =====
+===== Page 13 =====
 
 45
 VI. 기업 분석
@@ -17173,7 +16955,7 @@ DRAM 영업이익 (십억원) 7,399 9,383 10,972 15,761 29,599 45,827 54,863 56,
 NAND 영업이익 (십억원) 24 -186 396 3,396 8,000 15,448 18,043 17,909 -8,763 2,345 3,630 59,400
 %/Sales 0.7% -3.6% 7.4% 42.1% 65.2% 68.7% 70.2% 70.4% -83.6% 11.4% 16.5% 69.2%
 
-===== Page 18 =====
+===== Page 14 =====
 
 46
 VI. 기업 분석
@@ -17228,7 +17010,7 @@ K-IFRS 연결 요약 재무제표
 기말현금및현금성자산 14,924 157,716 316,700 478,231 재고자산회전율(x) 7.0 10.3 6.9 6.4
 자료 : SK하이닉스, iM증권 리서치본부
 
-===== Page 19 =====
+===== Page 15 =====
 
 47
 VI. 기업 분석
@@ -17293,7 +17075,7 @@ SK하이닉스 투자의견 및 목표주가 변동추이
 24.05 24.10 25.03 25.08 26.01
 주가(원) 목표주가(원)
 
-===== Page 20 =====
+===== Page 16 =====
 
 www.imeritz.com
 
@@ -17343,7 +17125,7 @@ Buy (20거래일 평균종가 대비 상승 여력 기준)
 현재주가 (5.15) 700,000원 
 상승여력 35.7%
 
-===== Page 21 =====
+===== Page 17 =====
 
 2
 현대차, “외부 데이터 협력 & 독자 지능 개발” 투 트랙 전략 시작
@@ -17362,7 +17144,7 @@ BYD)  레거시 (Toyota, GM, Stellantis). 2028 년, 현대차는 지능 개�
 의 2028년 EPS 전망치에 지능 개발자 Peer Group 평균 PER 18.1배를 적용하여 적정주가를
 950,000원으로 상향한다.
 
-===== Page 22 =====
+===== Page 18 =====
 
 현대차 (005380) 
  3 
@@ -17381,7 +17163,7 @@ Xiaomi, Zerith Robotics, Matrix Robotics, Robros, OpenLoong, LG Electronics, Wes
 그림2  하나의 노동 수행이 가능한 지능 = ANI, 모든 노동 수행이 가능한 지능 = AGI, 지능의 진화와 함께 노동 앱스토어 등장 예상 
  자료: 메리츠증권 리서치센터
 
-===== Page 23 =====
+===== Page 19 =====
 
 4  
 그림3  직업의 수가 유한한 것과 달리 노동의 종류는 무한. 개별 노동에 대한 데이터를 수집하여 개별 훈련하여 개발하는 것은 불가능
@@ -17434,7 +17216,7 @@ AGI 개발을 위해서는 단순히 텍스트를 생
 관계를 이해하고 이를 통해 다음 세계를
 시뮬레이션할수 있는 능력 필요
 
-===== Page 24 =====
+===== Page 20 =====
 
 현대차 (005380) 
  5 
@@ -17509,7 +17291,7 @@ Llama 3.1
 (2024.7)
 (조개)
 
-===== Page 25 =====
+===== Page 21 =====
 
 6
 표1  Google Genie 벤치마크 점수 62.8%에 불과, Youtube 비디오에는 현실세계 물리법칙 부재하기 때문
@@ -17595,7 +17377,7 @@ Overall
 Average   62.8 56.7 54.2 59.3 56.5 60.6 57.3
 자료: Google Deepmind, 메리츠증권 리서치센터
 
-===== Page 26 =====
+===== Page 22 =====
 
 현대차 (005380) 
  7 
@@ -17652,7 +17434,7 @@ of data.
 So I think he has a phenomenal position, and he's been working on this for a long 
 time, so he's going to be in a great position to take advantage of it.
 
-===== Page 27 =====
+===== Page 23 =====
 
 8  
 그림10  휴머노이드 시장, 문을 여는 중  그림11  그러나 월드모델 학습을 위해서는 자동차 시장 활용이 필수적
@@ -17731,7 +17513,7 @@ driving experience for customers
 ▪ First phase of the partnership will begin with Waymo integrating its autonomous driving technology 
 into Hyundai's all-electric IONIQ5
 
-===== Page 28 =====
+===== Page 24 =====
 
 현대차 (005380) 
  9 
@@ -17799,7 +17581,7 @@ Data platform
 User platform
 (Connect/Data/App Market)
 
-===== Page 29 =====
+===== Page 25 =====
 
 10  
 그림16  업종 밸류에이션 5개 등급으로 구분. 월드모델 개발자 (Tesla)  지능 제공자 (Xpeng)  지능 개발자 (Xiaomi, Li Auto, 
@@ -17874,7 +17656,7 @@ Fair Value (원, c = a x b) 957,707원
 괴리율 (%) 35.7% 
 자료: Bloomberg, 메리츠증권 리서치센터
 
-===== Page 30 =====
+===== Page 26 =====
 
 현대차 (005380) 
  11 
@@ -17917,7 +17699,7 @@ Fair Value (원, c = a x b) 957,707원
 1950 '55 '60 '65 '70 '75 '80 '85 '90 '95 2000 '05 '10 '15 '20
 (%)
 
-===== Page 31 =====
+===== Page 27 =====
 
 12
 
@@ -17979,7 +17761,7 @@ ROE
 (pt)(천원)
 현대차 코스피지수(우)
 
-===== Page 32 =====
+===== Page 28 =====
 
 현대차 (005380) 
  13
@@ -18025,7 +17807,7 @@ ROE
 비지배주주지분  11,172.5  12,201.7  13,054.1  13,860.7  14,696.7   매출채권회전율(x)  33.1  25.7  21.9  20.9  20.4  
 자본총계  120,275.9  127,648.2  136,707.8  145,617.1  152,992.5   재고자산회전율(x)  7.3  7.4  7.4  7.2  7.1
 
-===== Page 33 =====
+===== Page 29 =====
 
 투자등급 관련사항 (2023년 8월 4일부터 기준 변경 시행)  투자의견 비율 
 기업 향후 12 개월간 추천기준일 직전 1 개월간 평균종가대비 추천종목의 예상 목표수익률을 의미  투자의견 비율 
@@ -18065,7 +17847,7 @@ Underweight (비중축소)
 24.5 24.11 25.5 25.10 26.4
 (원) 현대차 적정주가
 
-===== Page 34 =====
+===== Page 30 =====
 
 기업분석 2026.05.14 www.daishin.com
 
@@ -18164,7 +17946,7 @@ KOSPI 7844.01
 (%)(천원) 기아(좌)
 Relative to KOSPI( 우)
 
-===== Page 35 =====
+===== Page 31 =====
 
 기아(000270)
 
@@ -18244,7 +18026,7 @@ Relative to KOSPI( 우)
 05 07 09 11 13 15 17 19 21 23 25 27
 (만원)
 
-===== Page 36 =====
+===== Page 32 =====
 
 DAISHIN SECURITIES
 
@@ -18296,7 +18078,7 @@ KMI 19.6 18.6  18.3  18.3  19.1  19.9  19.7  18.9  18.7  19.4  19.6
 주: 추정치에 반영된 판매량은 지역별 공장 판매 물량 기준으로, 실제 연결 기준 판매 물량(도매)과 차이 발생 
 자료: 기아, 대신증권 Research Center
 
-===== Page 37 =====
+===== Page 33 =====
 
 기아(000270)
 
@@ -18348,7 +18130,7 @@ ROE 2024 10.1  19.5  13.1  7.7  -1.2  16.9  20.7
 주2: 기업별 평균/합산값에 테슬라 실적은 제외 
 자료: Bloomberg, 대신증권 Research Center
 
-===== Page 38 =====
+===== Page 34 =====
 
 DAISHIN SECURITIES
 
@@ -18400,7 +18182,7 @@ ROE 2024 9.1  11.0  8.2  10.2  6.7  10.6  11.0
 주2: 기업별 평균/합산값에 테슬라 실적은 제외 
 자료: Bloomberg, 대신증권 Research Center
 
-===== Page 39 =====
+===== Page 35 =====
 
 기아(000270)
 
@@ -18468,7 +18250,7 @@ ROE 19.1  12.9  12.8  12.7  13.9   현금 의 증감 -787  432  4,373  4,630  5,
 이자 보상배율 124.8  120.8  133.4  145.2  177.0   FCF 7,044  4,419  7,442  7,785  9,716  
 자료: 기아, 대신증 권 Research Center
 
-===== Page 40 =====
+===== Page 36 =====
 
 DAISHIN SECURITIES
 
@@ -18527,7 +18309,7 @@ Underperform(매도)
 24.05 24.09 25.01 25.05 25.09 26.01 26.05
 Adj. Price Adj. Target Price(원)
 
-===== Page 41 =====
+===== Page 37 =====
 
 AIDC가 여는 온사이트 BTM 발전 시대 (feat. 가스발전/태양광/ESS) 
 164 
@@ -18626,7 +18408,7 @@ Price(좌) Price Rel. To KOSPI
 000'S
 (2025/05/08~2026/05/08)
 
-===== Page 42 =====
+===== Page 38 =====
 
 AIDC가 여는 온사이트 BTM 발전 시대 (feat. 가스발전/태양광/ESS) 
 165
@@ -18703,7 +18485,7 @@ xEV(중대형) 소형 ESS 영업이익률
 (%)(십억원)
 xEV(중대형) 소형 ESS 영업이익률
 
-===== Page 43 =====
+===== Page 39 =====
 
 AIDC가 여는 온사이트 BTM 발전 시대 (feat. 가스발전/태양광/ESS) 
 166
@@ -18793,7 +18575,7 @@ EV(중대형) ESS 소형 영업이익률
 (%)(십억원)
 EBITDA EBITDA margin
 
-===== Page 44 =====
+===== Page 40 =====
 
 AIDC가 여는 온사이트 BTM 발전 시대 (feat. 가스발전/태양광/ESS) 
 167
@@ -18884,7 +18666,7 @@ x 155% 할증(과거 프리미엄 반영)
 7.0x
 ROE(우)
 
-===== Page 45 =====
+===== Page 41 =====
 
 AIDC가 여는 온사이트 BTM 발전 시대 (feat. 가스발전/태양광/ESS) 
 168
@@ -18939,7 +18721,7 @@ K-IFRS 연결 요약 재무제표
   기말현금및현금성자산 3,779  1,206  810  2,132   재고자산회전율(x) 5.3  5.3  5.3  5.3  
 자료 : LG에너지솔루션, iM증권 리서치본부
 
-===== Page 46 =====
+===== Page 42 =====
 
 AIDC가 여는 온사이트 BTM 발전 시대 (feat. 가스발전/태양광/ESS) 
 169
@@ -18993,7 +18775,7 @@ Compliance notice
 매수 중립(보유) 매도 
 88.2% 11.8% -
 
-===== Page 47 =====
+===== Page 43 =====
 
 금융투자분석사의 확인 및 중요 공시는 Appendix 참조
 
@@ -19068,7 +18850,7 @@ Quarterly earning Forecasts  (십억원, %)
 
 Company Report  2026.05.11
 
-===== Page 48 =====
+===== Page 44 =====
 
 2
 한화에어로스페이스 (012450)
@@ -19101,7 +18883,7 @@ A. 7월 우선협상대상자 선정 예상. 모든 업체가 신규 생산라�
 벌 차륜형 자주포 수요에 대응할 수 있을 것. 물론 미국 사업이 된다면 글로벌 확장세는 더욱
 가속화될 전망. 라인메탈, 제너럴다이내믹스, BAE 시스템스, 엘빗시스템스와 경쟁 중
 
-===== Page 49 =====
+===== Page 45 =====
 
 Company Report
 3
@@ -19139,7 +18921,7 @@ L-SAM 도 마찬가지임. 조건에 따라 빠르면 연말 수출 계약 체�
 의 비중을 차지하기 때문. 고객 입장에서도 높은 쉐어를 보유한 업체와 컨텍해야 후속 조치 등
 의 대처가 빨라질 수 있음. 우리가 수출 체계 업체가 될 확률도 높을 수 있음
 
-===== Page 50 =====
+===== Page 46 =====
 
 4
 한화에어로스페이스 (012450)
@@ -19176,7 +18958,7 @@ A. 전반적으로 하반기 집중 구조가 유지되나, 2 분기부터는 �
 아질 것. 천무 유도탄 및 탄약류는 출하 시점 전까지 정확한 인식 시점을 식별하기 어려움. 인식
 시점에 따라 더 좋아질 가능성 존재
 
-===== Page 51 =====
+===== Page 47 =====
 
 Company Report
 5
@@ -19199,7 +18981,7 @@ A. 폴란드 및 중동 등에서 관심이 증가하고 있으며, 올해 국�
 → 현재 대비 출력 및 사거리 증가 예정 (Block-II)
 → 발당 비용 약 3,000원 수준으로 매우 저렴
 
-===== Page 52 =====
+===== Page 48 =====
 
 6 
 한화에어로스페이스 (012450)
@@ -19315,7 +19097,7 @@ ROE 53.9  19.1  20.6  22.7  23.1
 순차입금/자기자본 (%) 150.3  48.7  35.5  20.6  7.8  
 영업이익/금융비용 (배) 7.1  6.3  7.9  9.2  11.1
 
-===== Page 53 =====
+===== Page 49 =====
 
 Company Report 
 7 
@@ -19400,14 +19182,14 @@ Price(adj.)
 주가 목표주가
 (원)
 
-===== Page 54 =====
+===== Page 50 =====
 
 8 
 한화에어로스페이스 (012450)
 
 Appendix
 
-===== Page 55 =====
+===== Page 51 =====
 
 금융투자분석사의 확인 및 중요 공시는 Appendix 참조
 
@@ -19481,7 +19263,7 @@ Quarterly earning Forecasts  (십억원, %)
 
 Company Report  2026.05.08
 
-===== Page 56 =====
+===== Page 52 =====
 
 2 
 HD현대중공업 (329180) 
@@ -19526,7 +19308,7 @@ HD 현대중 공업: 실적 추정치 및 컨센 서스 비교
 1Q25 2Q25 3Q25 4Q25 1Q26
 상선 특수선 해양플랜트 엔진기계
 
-===== Page 57 =====
+===== Page 53 =====
 
 Company Report 
 3
@@ -19642,7 +19424,7 @@ ROE 11.4  18.8  30.1  26.7  21.7
 순차입금/자기자본 (%) 18.7  -20.2  -30.4  -36.4  -38.8  
 영업이익/금융비용 (배) 4.7  21.1  55.7  67.4  69.6
 
-===== Page 58 =====
+===== Page 54 =====
 
 4 
 HD현대중공업 (329180) 
@@ -19727,14 +19509,14 @@ Price(adj.)
 주가 목표주가
 (원)
 
-===== Page 59 =====
+===== Page 55 =====
 
 Company Report 
 5
 
 Appendix
 
-===== Page 60 =====
+===== Page 56 =====
 
 www.imeritz.com
 
@@ -19771,7 +19553,7 @@ SK하이닉스의 GDR 주주 구성을 살펴보면, 장기 투자 성향의 글
 의 변화가 시작된 점은, 해외 투자자 저변이 이미 형성되고 있음을 방증 
  Meritz Research  2026. 5. 6
 
-===== Page 61 =====
+===== Page 57 =====
 
 2  
 거래 패턴 역시 주목할 필요. 일평균 거래량이 월간 평균 거래량 대비 편차가 크
@@ -19813,7 +19595,7 @@ SK하이닉스의 GDR 주주 구성을 살펴보면, 장기 투자 성향의 글
 SK하이닉스 원주 주가
 GDR 프리미엄 (우)
 
-===== Page 62 =====
+===== Page 58 =====
 
 SK 하이닉스 (000660) 
  3 
@@ -19863,11 +19645,11 @@ HSBC GENERALI MONEGA
 일일 거래량
 한달 평균 거래량
 
-===== Page 63 =====
+===== Page 59 =====
 
 4
 
-===== Page 64 =====
+===== Page 60 =====
 
 금융투자분석사의 확인 및 중요 공시는 Appendix 참조
 
@@ -19944,7 +19726,7 @@ Quarterly earning Forecasts  (십억원, %)
 
 Company Report  2026.05.04
 
-===== Page 65 =====
+===== Page 61 =====
 
 2 
 한화에어로스페이스 (012450) 
@@ -19979,7 +19761,7 @@ OPM % 10.2  13.7  13.2  9.6  11.1  13.7  16.1  14.9  11.6  14.2  15.6
 OPM % 26.1  29.5  27.1  19.9  17.1  24.3  28.6  28.7  19.3  20.4  21.8  
 자료: 유안타증권 리서치센터
 
-===== Page 66 =====
+===== Page 62 =====
 
 Company Report 
 3
@@ -20008,7 +19790,7 @@ K9 호주 794  30  양산
  이라크 발사대 388     양산     
 자료: 한화에어로스페이스, 유안타증권 리서치센터
 
-===== Page 67 =====
+===== Page 63 =====
 
 4 
 한화에어로스페이스 (012450)
@@ -20065,7 +19847,7 @@ EV/EBITDA
 28E 12.6  10.2  9.7  17.9  13.1  13.4  11.5  23.7  27.9  
 자료: Bloomberg, 유안타증권 리서치센터 / 주: 1) 국내, 해외 단위 모두 조원으로 통일, 2) 2026/04/30 종가기준
 
-===== Page 68 =====
+===== Page 64 =====
 
 Company Report 
 5
@@ -20181,7 +19963,7 @@ ROE 53.9  19.1  20.6  22.7  23.1
 순차입금/자기자본 (%) 150.3  48.7  35.5  20.6  7.8  
 영업이익/금융비용 (배) 7.1  6.3  7.9  9.2  11.1
 
-===== Page 69 =====
+===== Page 65 =====
 
 6 
 한화에어로스페이스 (012450) 
@@ -20266,14 +20048,14 @@ Price(adj.)
 주가 목표주가
 (원)
 
-===== Page 70 =====
+===== Page 66 =====
 
 Company Report 
 7
 
 Appendix
 
-===== Page 71 =====
+===== Page 67 =====
 
 삼성바이오로직스 (207940/KS) 
 우려는 과도, 펀더멘털은 견고 
@@ -20368,7 +20150,7 @@ ROE % 23.1 20.7 20.0
 KOSPI대비 상대수익률
 (원) (%)
 
-===== Page 72 =====
+===== Page 68 =====
 
 2
 
@@ -20395,7 +20177,7 @@ GPM (%) 54.2 55.8% 58.6 52.3 54.1 53.8 54.3 53.6 55.2 53.9
 6. 목표주가 2,000,000 원  
 자료: 삼성바이오로직스, SK증권
 
-===== Page 73 =====
+===== Page 69 =====
 
 3 
 8 9 14 16 23 29 40 52 597 12 15 19 25 31 36 49 53
@@ -20495,7 +20277,7 @@ CMO 제품수(DS/DP) CDO 제품수(단위: 개)
 16.3
 21.2 21.4
 
-===== Page 74 =====
+===== Page 70 =====
 
 4
 
@@ -20507,7 +20289,7 @@ CMO 제품수(DS/DP) CDO 제품수(단위: 개)
 
 자료: 삼성바이오로직스, SK증권
 
-===== Page 75 =====
+===== Page 71 =====
 
 5 
 재무상태표  포괄손익계산서 
@@ -20571,7 +20353,7 @@ CMO 제품수(DS/DP) CDO 제품수(단위: 개)
 FCF 357 858 1,989 2,102 2,304  배당수익률 0.0 0.0 0.0 0.0 0.0 
 자료 : 삼성바이오로직스, SK증권 추정
 
-===== Page 76 =====
+===== Page 72 =====
 
 6
 
@@ -20607,7 +20389,7 @@ SK 증권 유니버스 투자등급 비율 (2026년 04 월 30 일 기준)  매�
 24.04 24.07 24.10 25.01 25.04 25.07 25.10 26.01 26.04
 삼성바이오로직스 수정TP(원)
 
-===== Page 77 =====
+===== Page 73 =====
 
 매수 (유지)  
 1Q26 영업이익, 시장기대치를 약 20% 상회 
@@ -20710,7 +20492,7 @@ kith0923@ibks.com
 
 | 유틸리티/통신 | 2026. 4. 30
 
-===== Page 78 =====
+===== Page 74 =====
 
 두산에너빌리티 (034020)
 
@@ -20789,7 +20571,7 @@ YoY -8.5% 10.1% 14.3% 5.9% 13.7% 5.1% 8.0% 2.4% 5.1% 6.9% 5.7%
 20 21 22 23 24 25 26E 27E
 (%)(십억원) 매출액 영업이익률(우)
 
-===== Page 79 =====
+===== Page 75 =====
 
 김태현  6915-5658
 
@@ -20909,7 +20691,7 @@ IBKS RESEARCH │3
 21 22 23 24 25 26E 30E
 (GW) 국내수주 해외수주
 
-===== Page 80 =====
+===== Page 76 =====
 
 두산에너빌리티 (034020)
 
@@ -20962,7 +20744,7 @@ S사
 기타
 37%
 
-===== Page 81 =====
+===== Page 77 =====
 
 김태현  6915-5658
 
@@ -21083,7 +20865,7 @@ Price 0.5 3.5
 Price 5.0 18.0
 31.0 44.0 57.0
 
-===== Page 82 =====
+===== Page 78 =====
 
 두산에너빌리티 (034020)
 
@@ -21150,7 +20932,7 @@ EBITDA 1,509 1,320 1,739 2,018 2,328  비이자부채 8423 9447 8673 8998 9574
   총자산회전율 0.6 0.6 0.7 0.7 0.7    기말현금 2,898 3,081 2,905 3,271 4,189 
 *주당지표 및 밸류에이션은 지배주주순익 및 지배주주지분 기준
 
-===== Page 83 =====
+===== Page 79 =====
 
 김태현  6915-5658
 
@@ -21204,7 +20986,7 @@ M&A
    180,000
 (원)
 
-===== Page 84 =====
+===== Page 80 =====
 
 2026.04.27   
 기아 (000270)
@@ -21286,7 +21068,7 @@ EV/EBITDA(배) 2.4  2.7  2.2  1.7
 [자동차/로보틱스] 
 이상수 2122-9197 sang.su@imfnsec.com
 
-===== Page 85 =====
+===== Page 81 =====
 
 기아 (000270) 
 2
@@ -21325,7 +21107,7 @@ EV/EBITDA(배) 2.4  2.7  2.2  1.7
 현재주가 153,400 2026-04-24 종가 기준
 상승여력 56.5
 
-===== Page 86 =====
+===== Page 82 =====
 
 기아 (000270) 
 3 
@@ -21417,7 +21199,7 @@ OPM 13.2 10.9 10.0 10.7 9.4 5.1 6.6 7.5 11.8 8.0 8.0
 YoY 39.5 -19.5 -21.7 37.6 -23.3 -37.3 -15.4 -23.5 80.7 -22.7 7.7
 NPM 10.7 8.6 6.4 8.5 7.7 5.0 5.2 6.2 9.1 6.6 6.5
 
-===== Page 87 =====
+===== Page 83 =====
 
 기아 (000270) 
 4 
@@ -21512,7 +21294,7 @@ EV 판매 비중 (우)
 (대)
 카니발 텔룰라이드 쏘렌토 스포티지 니로
 
-===== Page 88 =====
+===== Page 84 =====
 
 기아 (000270) 
 5 
@@ -21593,7 +21375,7 @@ EV9 EV6 EV5 EV4 EV3 EV2
 C Segment 판매대수 (좌) B Segment 판매대수 (좌)
 A Segment 판매대수 (좌) A~C Segment 비중 (우)
 
-===== Page 89 =====
+===== Page 85 =====
 
 기아 (000270) 
 6 
@@ -21640,7 +21422,7 @@ Alpamayo 외에 기술적인 완성도가 높은 업체가 4~5개는 될 것으�
 CID 행사에서 SDV 및 자율주행, 그리고 Boston Dynamics와의 시너지 등에 대한 일부
 업데이트는 존재했으나, 절대적인 개발 시간이 부족해 유의미한 성과는 나오기 힘든 시점임
 
-===== Page 90 =====
+===== Page 86 =====
 
 기아 (000270) 
 7 
@@ -21694,7 +21476,7 @@ K-IFRS 연결 요약 재무제표
   기말현금및현금성자산 13,998  17,207  20,682  25,047   재고자산회전율(x) 8.4  8.1  8.0  8.0  
 자료 : 기아, iM증권 리서치본부
 
-===== Page 91 =====
+===== Page 87 =====
 
 기아 (000270) 
 8 
@@ -21743,7 +21525,7 @@ Compliance notice
 매수 중립(보유) 매도 
 88.2% 11.8% -
 
-===== Page 92 =====
+===== Page 88 =====
 
 기아 (000270)
 
@@ -21833,7 +21615,7 @@ ROE (%) 19.1  12.9  13.4  13.6  13.5
 주: IFRS 연결 기준 
 자료: 기아, LS증권 리서치센터
 
-===== Page 93 =====
+===== Page 89 =====
 
 EARNINGS REVIEW / 기아 / 2026.04.27 
 LS Securities Research 2 
@@ -21878,7 +21660,7 @@ KRW/USD  1,422   1,471   1,460   1,452   1,399   1,387   1,449   1,466   1,480  
 순이익          8,565           9,580           8,399           9,396  2.0% 2.0% 
 자료: 기아, LS증권 리서치센터
 
-===== Page 94 =====
+===== Page 90 =====
 
 EARNINGS REVIEW / 기아 / 2026.04.27 
 LS Securities Research 3 
@@ -21981,7 +21763,7 @@ HEV PHEV BEV(천대)
 1Q20 1Q21 1Q22 1Q23 1Q24 1Q25 1Q26
 (십억원)
 
-===== Page 95 =====
+===== Page 91 =====
 
 EARNINGS REVIEW / 기아 / 2026.04.27 
 LS Securities Research 4 
@@ -22050,7 +21832,7 @@ Price
 Price
 (원)
 
-===== Page 96 =====
+===== Page 92 =====
 
 EARNINGS REVIEW / 기아 / 2026.04.27 
 LS Securities Research 5 
@@ -22166,7 +21948,7 @@ BPS 140,395  156,726  171,896  189,666  209,604
 CFPS 48,886  41,005  29,243  32,050  34,853  
 DPS 6,500  6,800  6,800  7,000  7,000
 
-===== Page 97 =====
+===== Page 93 =====
 
 EARNINGS REVIEW / 기아 / 2026.04.27 
 LS Securities Research 6
@@ -22237,7 +22019,7 @@ Company 절대수익률 기준  Buy (매수) +15% 이상 기대 89.3%
 24/04 24/10 25/04 25/10 26/04
 (원) 주가 목표주가
 
-===== Page 98 =====
+===== Page 94 =====
 
 기업분석 2026.04.27 www.daishin.com
 
@@ -22335,7 +22117,7 @@ KOSPI 6,475.63
 (%)(천원) 한화에어로스페이스(좌)
 Relative to KOSPI(우)
 
-===== Page 99 =====
+===== Page 95 =====
 
 한화에어로스페이스(012450)
 
@@ -22400,7 +22182,7 @@ BAE 시스템즈 7.7 17.1 7.8 10.3 10.8 11.1 17.3 19.6 20.8 24.4 14.3 122.8
 (x) 한화에어로스페이스 라인메탈
 제너럴다이내믹스
 
-===== Page 100 =====
+===== Page 96 =====
 
 DAISHIN SECURITIES
 
@@ -22451,7 +22233,7 @@ RSP 제외 (십억원) 100 112 155 100 112 155
 지배주주순이익 (십억원) 1,405  2,643  3,645  1,405  2,623  3,763  2,360 
 자료: 한화에어로스페이스, 대신증권 Research Center
 
-===== Page 101 =====
+===== Page 97 =====
 
 한화에어로스페이스(012450)
 
@@ -22550,7 +22332,7 @@ Earnings Driver
 1Q28
 (%)
 
-===== Page 102 =====
+===== Page 98 =====
 
 DAISHIN SECURITIES
 
@@ -22617,7 +22399,7 @@ ROE 22.3 13.1 13.7 16.4 12.6  현금 의 증감 1,091  4,711  -2,203  993  1,412
 이자 보상배율 6.8 6.3 10.4 16.4 15.0  FCF 26  29  431  2,822  3,439  
 자료: 한 화에어로 스페이스, 대 신증권 Research Center
 
-===== Page 103 =====
+===== Page 99 =====
 
 한화에어로스페이스(012450)
 
@@ -22673,7 +22455,7 @@ ROE 22.3 13.1 13.7 16.4 12.6  현금 의 증감 1,091  4,711  -2,203  993  1,412
 24.04 24.08 24.12 25.04 25.08 25.12 26.04
 (원) Adj. Price Adj. Target Price
 
-## 016_ING_Think_Merged
+## 017_ING_Think_Merged
 
 ===== Page 1 =====
 
@@ -23133,440 +22915,6 @@ Additional information is available on request. For more information about ING G
 
 Article | 13 May 2026 1
 THINK economic and financial analysis
-Article  |  13 May 2026   BELGIUM
-Energy shock drives broader inflation in
-Belgium - a warning sign for Europe
-April’s inflation jump in Belgium is no longer “just energy”. It’s starting to
-look broader. If this were to be seen across the eurozone, the European
-Central Bank would need to act or risk falling behind the curve again
-2022 all over again?
-For a central bank, a stagflation shock is a policy nightmare. Hiking rates won’t lower oil prices,
-
-so it barely touches the root cause of inflation. Worse, higher rates would hit demand that is
-already squeezed by lost purchasing power. Yet if demand holds up, firms can pass costs on,
-and inflation broadens. That’s exactly what happened in 2021–2022: what looked like a
-temporary energy spike became the strongest inflation surge since the 1970s, helped by
-post‑Covid pent‑up demand. The question is: are we heading down that path again?
-A quick, sharp shock
-
-Central banks, therefore, need to track prices closely to see whether the energy shock stays
-contained, or turns into a broader inflation wave. In Belgium, early signs of spillover are
-starting to stack up.
-
-===== Page 19 =====
-
-THINK economic and financial analysis
-Article | 13 May 2026 2
-The initial jump in energy prices has been striking. The chart below compares recent episodes
-of oil shocks (here: at least +10% year‑on‑year in euro terms). It is rare to see oil rise this
-sharply and this quickly. As a consequence, Belgium’s energy inflation swung from
-around −8% in January to above +12% in April.
-This surge pushed Belgian headline inflation from 1.65% in March to 4% in April. Still, a broader
-
-inflation wave is not guaranteed. A violent energy shock can also curb consumption enough to
-limit pass‑through. To judge the risk, we need to look beyond headline figures.
-Oil prices: the sharpest rise in 20 years
-(oil price in euros during oil shocks; start of shock = 100)
-Source: LSEG Datastream. Note : An oil shock is defined here as an increase of at least 10% in the price of oil
-in euros.
-Belgium: signs of spillover
-Belgium’s consumer price index tracks roughly 215 categories of goods and services, each
-
-weighted by its share in household spending.
-To see whether the shock is spreading, we can examine how prices move across those 215
-items. In Belgium, the distribution is already shifting in a worrying direction:
-In a typical month, the price of 46% of items rises by at least 2%. That share was 39%
-early this year, but jumped to 51% in April.
-On a yearly basis, 24% of items usually run above 4% inflation. The share moved from
-21% at the start of the year to 27% by April.
-
-Most telling: the share of items whose inflation rose versus the previous month.
-Historically, it averages 43%. It fell to 27% early this year, as a clear sign of inflation
-normalisation, then surged to 62% in April, a level rarely seen (chart below). During the
-last inflation wave, this metric led headline inflation (62% in Oct 2021; peak 73% in Jun
-2022).
-
-===== Page 20 =====
-
-THINK economic and financial analysis
-Article | 13 May 2026 3
-Low inflation early in the year made April’s jump look even sharper. But it is becoming harder
-to argue that this is “just” energy. If April’s pattern persists, and especially if it spreads across
-the euro area, the ECB’s lesson from 2022 is clear: move early, or risk falling behind the curve
-again.
-Share of items whose inflation increased month to month,
-across oil shocks
-Source: Statbel. Computation: ING
-
-Competitiveness at stake
-In Belgium, inflation quickly feeds into competitiveness and public finances. Automatic
-indexation links wages and many benefits to prices, so inflation shocks rapidly lift labour costs
-and government spending. This renewed inflation will trigger nominal wage increases that
-were not priced in at the start of the year. Because neighbouring countries adjust more slowly,
-Belgium risks a short‑term competitiveness hit.
-That said, the government had planned to tweak indexation from July. For a limited period,
-
-pay above the median wage (€4,000 gross) and benefits/pensions above €2,000 would no
-longer be fully indexed beyond those thresholds. The proposal satisfies neither workers, who
-would lose purchasing power, nor employers, who will face extra social contributions in
-exchange for the capped indexation system.
-Unions and employers negotiated an alternative: keep automatic indexation, but smooth its
-timing, so wage costs adjust more gradually and competitiveness shocks are less abrupt.
-
-Despite the difficult social climate, the government has so far rejected this historic deal,
-arguing it would cost the public finances more in the short run than its own plan.
-The timing of this new energy shock could hardly be worse: the price shock intensifies the
-debate over automatic indexation for most incomes, and raises the stakes for business
-competitiveness.
-
-===== Page 21 =====
-
-This publication has been prepared by the Economic and Financial Analysis Division of ING Bank N.V. (“ING”) solely for
-information purposes without regard to any particular user's investment objectives, financial situation, or means. ING forms
-part of ING Group (being for this purpose ING Group N.V. and its subsidiary and affiliated companies). The information in the
-publication is not an investment recommendation and it is not investment, legal or tax advice or an offer or solicitation to
-
-person for any purpose without the prior express consent of ING. All rights are reserved. ING Bank N.V. is authorised by the
-Dutch Central Bank and supervised by the European Central Bank (ECB), the Dutch Central Bank (DNB) and the Dutch Authority
-for the Financial Markets (AFM). ING Bank N.V. is incorporated in the Netherlands (Trade Register no. 33031431 Amsterdam). In
-the United Kingdom this information is approved and/or communicated by ING Bank N.V., London Branch. ING Bank N.V.,
-
-London Branch is authorised by the Prudential Regulation Authority and is subject to regulation by the Financial Conduct
-Authority and limited regulation by the Prudential Regulation Authority. ING Bank N.V., London branch is registered in England
-(Registration number BR000341) at 8-10 Moorgate, London EC2 6DA. For US Investors: Any person wishing to discuss this
-report or effect transactions in any security discussed herein should contact ING Financial Markets LLC, which is a member of
-
-States under applicable requirements.
-Additional information is available on request. For more information about ING Group, please visit www.ing.com.
-
-===== Page 22 =====
-
-Article | 13 May 2026 1
-THINK economic and financial analysis
-Article  |  13 May 2026   ENERGY   TRANSPORT & LOGISTICS   SUSTAINABILITY
-Hormuz oil shock tilts shipping towards
-alternative fuels
-The current oil price shock is making alternative fuels more cost
-competitive in the shipping sector. LNG benefits the most,
-becoming even more attractive compared to conventional bunker fuels.
-Methanol is also becoming more viable, strengthening the case for
-
-methanol-ready vessels. Still, the emissions benefits remain limited
-Hormuz disruption has disrupted oil supply and pushed shipping fuel prices higher
-Alternative fuels more attractive now as oil shoots higher
-The Middle East conflict and blockade of the Strait of Hormuz have disrupted oil supply and
-pushed shipping fuel prices, like marine gas oil (MGO), sharply higher. In this environment, fuel
-strategy is no longer just about cost, but also about securing supply and managing price risks.
-
-At the same time, higher prices and greater uncertainty are shifting the relative economics of
-alternative fuels, even as regulatory progress has slowed with the delayed introduction of a
-global carbon price under the IMO’s Net Zero Framework.
-
-===== Page 23 =====
-
-THINK economic and financial analysis
-Article | 13 May 2026 2
-Prices for Marine Gas Oil spiked due to the closure of the
-Strait of Hormuz
-MGO bunker prices in Rotterdam in $ per tonne; we’ll analyse two scenarios
-Source: ING Research based on Refinitiv
-Our modelling shows how the costs and economics of renewable fuels of non-biological origin
-(RFNBOs) – also called synthetic or e-fuels – change in a high oil price scenario, from a
-Northwest European perspective. The Middle East war has squeezed the supply of oil and oil
-
-products. LNG is similarly affected, but less so, as more capacity is coming online, and natural
-gas continues to be supplied through regional production and pipelines.
-Our analysis translates the current geopolitical risk into a simple message for shipowners and
-cargo owners: when oil products spike and gas rises less, the relative economics of LNG and (to
-a lesser degree) methanol and even ammonia improve quickly, even if the absolute cost of all
-
-energy carriers rises.
-Decarbonisation requires shift to lower carbon fuels
-While geopolitical tensions do not alter the fundamental science behind decarbonisation, and
-hence emissions, they do influence the economics of the business case for different fuels.
-Traditional marine fuels such as marine gas oil (MGO) and very low sulphur fuel oil (VLSFO)
-currently generate approximately 1,900 kg of CO2 per deadweight tonne for every 1,000
-kilometres sailed. This carbon footprint can be lowered by transitioning to alternatives like LNG
-
-or synthetic fuels, like methanol and ammonia. However, meaningful climate benefits are
-achieved only when vessels use the green or blue variants of these synthetic fuels. Just
-switching to grey methanol or ammonia would only worsen the footprint to 2,500 or even
-4,000 kg of CO2.
-
-===== Page 24 =====
-
-THINK economic and financial analysis
-Article | 13 May 2026 3
-LNG and blue and green versions of synthetic fuels can reduce
-carbon emissions from shipping
-Indicative well to wake emissions for different shipping fuels in kilograms CO2 per deadweight
-tonnage per 1,000 kilometres (kgCO2/DWT/1,000km)
-Source: ING Research
-See the end of the article for a detailed explanation of the model and its
-underlying assumptions. In this analysis, the “colour” reflects the pathway
-
-used to produce hydrogen: grey hydrogen is derived from unabated natural
-gas; blue hydrogen combines natural gas with carbon capture and storage
-(CCS); and green hydrogen is produced with electrolysers powered by
-low‑carbon electricity. A key nuance is that methanol molecules inherently
-contain carbon. As a result, combustion always releases CO₂, regardless of the
-production pathway. Even green methanol therefore leads to residual
-emissions at the point of use. In addition, our modelling assumes that the
-
-carbon input for methanol production is sourced from natural gas, which
-reflects current industry practice in Europe. We therefore do not account for
-potential negative emissions that could arise from alternative carbon sources
-such as biomass or direct air capture (DAC).
-Structural changes in fuel prices can significantly influence how and when alternative solutions
-are adopted within the shipping industry. To assess this impact, we examine the impact of
-
-current high prices on the business case for oil and gas-based shipping fuels and synthetic
-fuels like methanol and ammonia. The duration of elevated fuel prices remains a subject of
-intense discussion and is closely tied to ongoing geopolitical developments surrounding the
-closure of the Strait of Hormuz, as well as the potential damage to oil and gas infrastructure in
-
-===== Page 25 =====
-
-THINK economic and financial analysis
-Article | 13 May 2026 4
-the Middle East from further conflict. You can find our most recent scenario analysis here. In
-this article, we set aside geopolitical factors and focus solely on how sustained higher prices
-affect the cost dynamics of various fuels.
-When oil products remain high, LNG becomes more attractive
-In the high-price scenario – the one most relevant under a continued Hormuz disruption –
-oil products become the big movers:
-
-MGO rises from 0.38 to 0.75 $/DWT/1,000km (+97%)
-VLSFO rises from 0.30 to 0.61 (+103%)
-LNG rises from 0.25 to 0.41 (+64%)
-The key mechanism is that the high case hits oil products harder than gas and power inputs.
-LNG becomes the most attractive “available now” hedge. In other words, the Hormuz-driven oil
-shock makes LNG not only a transitional decarbonisation option, but also commercially the
-most attractive option.
-Hormuz disruption strengthens LNG’s position as synthetic
-
-fuels lag on cost
-Indicative unsubsidised fuel costs in $/DWT/1,000km
-Source: ING research based on energy prices from Refinitiv and fossil fuel prices in shipping from Clarkson
-Methanol gains traction faster than ammonia
-
-===== Page 26 =====
-
-THINK economic and financial analysis
-Article | 13 May 2026 5
-Over the last three years, methanol has outpaced ammonia in commercial momentum in
-deep-sea shipping. There are four practical reasons:
-Engine and vessel adaptation is simpler and faster. Methanol can be used in internal1.
-combustion engines with fewer “system-wide” changes than ammonia, which require
-more extensive redesign and new safety systems.
-Bunkering and handling are more straightforward. Methanol is a liquid at ambient2.
-
-conditions, which reduces complexity compared to ammonia configurations.
-A “ready now / ready later” option exists. Orders for methanol-capable and methanol-3.
-ready dual-fuel vessels have become a pragmatic bet: shipowners can run on
-conventional fuels today and switch as low-carbon methanol supply grows. It is also a
-hedge against the possibility that policy pushes faster toward low-carbon fuels than
-infrastructure.
-From a cost perspective, methanol is currently more attractive than ammonia.4.
-
-Methanol’s CO2 footprint signals a downside; only blue and green deliver progress
-Methanol still contains carbon, which is emitted as CO2 when burned. This limits its
-CO2 reduction potential compared to ammonia, which is carbon‑free at the tailpipe. Only blue
-and green methanol deliver emission reductions relative to MGO and VLSFO and even then, the
-emissions reduction seems to be modest compared with LNG, at least in our framework, where
-methanol is currently predominantly produced from natural gas in Europe, compared to
-
-biomass (as a future green alternative), or coal (common practice in China). This matches our
-earlier warning: synthetic fuels can increase emissions if they are produced in a non-
-sustainable way, because the production chain is energy-intensive and the carbon intensity of
-inputs dominates outcomes. The economics and climate credentials of gas-based methanol
-remain challenging compared to LNG, even when produced as blue or green variants.
-Methanol’s biggest strategic value may be its optionality. When oil-product prices become
-
-more volatile, the value of being able to switch fuels - or at least switch procurement strategy
-– rises. That is precisely where dual-fuel capability becomes more than a decarbonisation
-story; it becomes a resilience story.
-The oil shock narrows the methanol–oil price gap
-Our model outputs show that higher prices for bunker fuels narrow the gap between methanol
-and marine gas oil (MGO). MGO roughly doubles in price, while methanol rises by about
-
-50–60%. So relative competitiveness improves for methanol: while it is still more expensive, the
-distance between oil and methanol shrinks. But two important caveats remain. Oil products
-like MGO and VLSFO remain cheaper than blue and green methanol.
-
-===== Page 27 =====
-
-THINK economic and financial analysis
-Article | 13 May 2026 6
-Price premium of synthetic fuels has narrowed now that oil
-prices are higher
-Indicative unsubsidised fuel costs in $/DWT/1,000km
-Source: ING Research
-Why blue methanol is probably the attractive variant
-Given that the green hydrogen market is still stuck in a pilot phase, blue methanol is a
-plausible near-term stepping stone: it scales earlier because it depends on gas plus CCS rather
-than small scale electrolysers. This “blue-first, green-later” pathway is also consistent with how
-
-many heavy-industry transitions unfold: deploy the imperfect-but-better option first, then
-upgrade as clean technologies become cheaper and renewable power becomes more
-abundant.
-Ammonia remains on the radar: expensive now – promising in
-the long run
-Ammonia is expensive in its blue and green variants, but this would offer strong climate
-benefits and real progress in CO2-reduction. Despite its challenging economics and inherent
-toxicity, market participants have not dismissed it as a viable option. The perception seems to
-
-be shifting from probably not to probably yes. But efficient usage is also a longer-term bet.
-Participants in the shipping sector now mostly refer to grey ammonia, which is already
-abundantly available for other purposes. But then again, this comes with more emissions, so it
-should not be viewed as a sustainable solution. However, overtime, blue and green variants
-could become more attractive if costs come down and carbon pricing is introduced.
-
-===== Page 28 =====
-
-THINK economic and financial analysis
-Article | 13 May 2026 7
-LNG holds the best cards
-LNG still looks like the stronger near-term route for ship owners, based on our numbers,
-because it combines lower emissions with lower costs compared to oil products. So, the Middle
-East oil supply crunch could accelerate a shift away from conventional fuels without
-necessarily accelerating a shift to synthetic fuels, like ammonia and methanol. It rewards the
-“closest substitute” that is available at scale, which is LNG.
-
-That creates a strategic tension for the sector and for policymakers: energy security and cost
-pressures may drive faster adoption of LNG, while net-zero targets still require a ramp-up of
-truly low-carbon fuels like biofuels and synthetic fuels from blue and green production routes.
-LNG vessels offer future flexibility for conversion to ammonia
-While ammonia presents certain safety challenges, it holds significant long-term promise as a
-shipping fuel. The possibility of converting LNG-capable vessels to run on ammonia in the
-
-future enhances their strategic value, providing shipowners with greater flexibility. Investing in
-LNG-powered vessels is not only a cost-effective and lower-emission option in the near term,
-but also future-proof fleets, by allowing for a smoother transition to ammonia as technology
-and regulations evolve. As gas-propelled vessels, these ships can be adapted to operate on
-ammonia, supporting both decarbonisation goals and resilience in a changing energy
-
-landscape.
-General momentum slowed amid policy headwinds
-The total orderbook in global shipping also confirms that LNG leads as an alternative fuel. In
-May this year, 28% of the over 7,000 vessels on order are capable of running on alternative
-fuels, over half this share can run on LNG (15%). Methanol comes second, with particularly
-recent investments by several container liners.
-After a post-pandemic acceleration, we saw orders for ships capable of running on alternative
-
-fuels slowed in 2025. During the second Trump administration, the United States shifted its
-policy and effectively lobbied International Maritime Organization (IMO) members to oppose
-the adoption of global measures aimed at advancing the industry’s climate ambitions and
-implementing a carbon pricing mechanism. Against this backdrop, companies – including
-frontrunners like Maersk - are still pursuing a diversified strategy and keeping their options
-
-open.
-All eyes on IMO as shipping needs a global carbon price to
-decarbonise
-The IMO’s Marine Environment Protection Committee is still discussing a framework to deliver
-on the previously agreed net-zero target (NZF) for 2050. The proposal agreed in 2025, which
-has since been postponed by member states, includes a carbon price of $100 per tonne of
-
-===== Page 29 =====
-
-THINK economic and financial analysis
-Article | 13 May 2026 8
-CO2 for emissions within the baseline, and $380 for non-compliance (we discussed the details
-here). Such a system could further narrow the cost gap with synthetic fuels and help pass
-additional costs along the value chain.  After a year of delays, adjustments to the 2025
-proposal now appear likely as stakeholders seek a compromise. However, it remains uncertain
-whether a final agreement will be reached.
-
-It's important to keep in mind that shipping costs typically represent less than 5% of overall
-product costs that are being shipped. The high efficiency of shipping means that even if these
-costs increase substantially, the impact on end consumers is minimal and the price premium is
-barely noticeable for most products. However, this dynamic is quite different for shipping
-companies and charterers, which are directly affected by rising operational expenses. As such,
-
-effective policies are essential to address these challenges within the industry.
-Cost, security and climate goals
-In the current environment, shipping owners face significant uncertainty, as geopolitical
-tensions around the Strait of Hormuz continue to drive volatility in bunker fuel prices, like
-marine gasoil (MGO). Elevated MGO prices are narrowing the cost gap with synthetic fuels such
-as methanol and ammonia, at least in Europe. However, LNG stands out as the most cost-
-
-effective option, solidifying its position as the preferred fuel choice. Amid the ongoing conflict
-and unpredictable fuel availability, we expect shipping companies to look beyond cost
-considerations. Dual-fuel capabilities, diversified bunkering access, and flexible contracts that
-permit fuel switching are increasingly valuable strategies, especially if high prices persist. This
-dynamic is expected to accelerate orders for LNG, and methanol-ready vessels, supporting
-
-operational resilience while helping to future-proof fleets against further market disruptions. It
-may also help shipowners meet their climate targets by significantly reducing vessel
-emissions.
-Appendix: scenario assumptions and model explainer
-Two commodity price scenarios for the shipping sector from a Northwestern European
-perspective
-Source: ING Research
-Model explainer
-
-===== Page 30 =====
-
-THINK economic and financial analysis
-Article | 13 May 2026 9
-Indicative emissions are modelled for an 82,000 deadweight tonnage (DWT) vessel, assuming
-230 sailing days per year at an average speed of 12.5 knots. The analysis adopts a full life-
-cycle perspective, covering both well-to-tank (fuel production) and tank-to-wake (onboard
-combustion) emissions.
-Natural gas is assumed as the primary feedstock for grey and blue methanol and ammonia,
-reflecting current production in Northwest Europe. As a result, no emission reductions from
-
-biomass or Direct Air Capture (DAC) are included. While these lower-carbon sources could be
-deployed in future pathways, particularly for methanol, they would come at higher cost and
-result in lower overall emissions compared to our figures. In this analysis, the “colour” reflects
-the pathway used to produce hydrogen: grey hydrogen is derived from unabated natural gas;
-blue hydrogen combines natural gas with carbon capture and storage (CCS); and green
-
-hydrogen comes from electrolysis powered by low‑carbon electricity.
-For blue production routes, a CO2 capture rate of 80% is assumed. The relatively limited
-electricity demand in grey and blue pathways is assumed to be met by grid power with a
-carbon intensity of 200 kg CO2/MWh, broadly representative of the Netherlands and Belgium.
-For green methanol and green ammonia, it is assumed that electrolysers are fully powered by
-low-carbon electricity (renewables, hydro or nuclear), sourced via Power Purchase Agreements
-
-(PPAs).
-Emissions are expressed per tonne-kilometre, ensuring comparability across fuels.
-In addition to the assumptions underpinning the emissions' analysis, we’ve used different
-economic assumptions for a world where the Strait of Hormuz opens or remains closed.
-Synthetic fuel costs are modelled using different values for gas, power, carbon and marine fuel
-prices (see table), while an exchange rate of €1 = $1.18 is used in both scenarios.
-Hydrogen production is assumed to take place within a 50km radius of methanol and
-
-ammonia plants, with transport via pipeline. This results in hydrogen costs of €1.80/kg (grey),
-€2.00/kg (blue), and €4.50/kg (green) in the low price environment and €2.70/kg (grey),
-€3.10/kg (blue), and €6.65/kg (green) in the high price environment.
-Finally, the results reflect fuel costs only and exclude vessel capex and opex, so they do not
-represent total cost of ownership.
-
-===== Page 31 =====
-
-This publication has been prepared by the Economic and Financial Analysis Division of ING Bank N.V. (“ING”) solely for
-information purposes without regard to any particular user's investment objectives, financial situation, or means. ING forms
-part of ING Group (being for this purpose ING Group N.V. and its subsidiary and affiliated companies). The information in the
-publication is not an investment recommendation and it is not investment, legal or tax advice or an offer or solicitation to
-
-person for any purpose without the prior express consent of ING. All rights are reserved. ING Bank N.V. is authorised by the
-Dutch Central Bank and supervised by the European Central Bank (ECB), the Dutch Central Bank (DNB) and the Dutch Authority
-for the Financial Markets (AFM). ING Bank N.V. is incorporated in the Netherlands (Trade Register no. 33031431 Amsterdam). In
-the United Kingdom this information is approved and/or communicated by ING Bank N.V., London Branch. ING Bank N.V.,
-
-London Branch is authorised by the Prudential Regulation Authority and is subject to regulation by the Financial Conduct
-Authority and limited regulation by the Prudential Regulation Authority. ING Bank N.V., London branch is registered in England
-(Registration number BR000341) at 8-10 Moorgate, London EC2 6DA. For US Investors: Any person wishing to discuss this
-report or effect transactions in any security discussed herein should contact ING Financial Markets LLC, which is a member of
-
-States under applicable requirements.
-Additional information is available on request. For more information about ING Group, please visit www.ing.com.
-
-===== Page 32 =====
-
-Article | 13 May 2026 1
-THINK economic and financial analysis
 Article  |  13 May 2026   CZECH REPUBLIC   HUNGARY
 Webinar: Directional Economics CEE –
 who breaks, who bends on Energy
@@ -23589,7 +22937,7 @@ energy prices.
 You’ll learn:
 Which countries entered into this shock in a better position
 
-===== Page 33 =====
+===== Page 19 =====
 
 THINK economic and financial analysis
 Article | 13 May 2026 2
@@ -23614,7 +22962,7 @@ scheduled start time.
 A joining link will be emailed following registration, and you will receive a reminder email 10
 minutes before the scheduled start time.
 
-===== Page 34 =====
+===== Page 20 =====
 
 This publication has been prepared by the Economic and Financial Analysis Division of ING Bank N.V. (“ING”) solely for
 information purposes without regard to any particular user's investment objectives, financial situation, or means. ING forms
@@ -23624,7 +22972,7 @@ publication is not an investment recommendation and it is not investment, legal 
 purchase or sell any financial instrument. Reasonable care has been taken to ensure that this publication is not untrue or
 misleading when published, but ING does not represent that it is accurate or complete. ING does not accept any liability for
 
-===== Page 35 =====
+===== Page 21 =====
 
 person for any purpose without the prior express consent of ING. All rights are reserved. ING Bank N.V. is authorised by the
 Dutch Central Bank and supervised by the European Central Bank (ECB), the Dutch Central Bank (DNB) and the Dutch Authority
@@ -23639,155 +22987,7 @@ report or effect transactions in any security discussed herein should contact IN
 States under applicable requirements.
 Additional information is available on request. For more information about ING Group, please visit www.ing.com.
 
-===== Page 36 =====
-
-Article | 12 May 2026 1
-THINK economic and financial analysis
-Article  |  12 May 2026   RATES
-Rates: The hidden force pushing gilt
-yields to record highs
-The 10Y gilt yield hit new highs on the back of inflation and political risks,
-but investors should not ignore the role of the Bank of England’s QT in
-this. We estimate the 2s10s GBP curve steepened by 60bp more than the
-USD curve due to the increased gilt supply and the divergence can
-continue. This could also be a lesson for Warsh who may look to walk a
-
-similar path
-The Bank of England, London. The central bank's quantitative tightening is adding to the upward pressure
-on gilt yields
-Global factors add to GBP term premium, but not entire story
-The 10Y gilt yield has hit its highest level since 2008, and whilst the near-term focus remains
-on oil prices and politics, the Bank of England’s balance sheet unwind poses further upside risk.
-And with the discussion about quantitative tightening (QT) flaring up again in the US under
-
-new Fed leadership, markets can learn from the potential impact on US rates by looking at the
-UK.
-Sterling rates are relatively sensitive to global market moves, and the spillovers from the US
-term premium play an especially important role. Between 2023 and today, the correlation of
-
-===== Page 37 =====
-
-THINK economic and financial analysis
-Article | 12 May 2026 2
-weekly changes in the 2s10s of the GBP curve and the US curve has been a significant 0.6. If we
-take the 2s10s term spread as a rough proxy of the term premium, both seem to be similar at
-first sight. The market optimism in US equity markets helps the US curve steepen again and
-also adds to the upward pressure on gilt yields.
-Japan’s curve shows a very different picture, and therefore we cannot simply assume a single
-
-global factor explains all term premia. For one, Japan’s economy has followed a very different
-path compared to other countries, experiencing stagflation for prolonged periods of time.
-Second, and of more importance to our analysis, is the fact that the Bank of Japan has
-intervened significantly more in the rates market through balance sheet policy than other
-central banks.
-Global term premia are strongly correlated but domestic
-factors play a role too
-
-Source: ING estimates, Macrobond
-Besides a global factor, the term spread is also driven by the business cycle. When a central
-bank hikes rates, curves tend to flatten, and vice versa. These moves seem more pronounced
-than purely explained by changes in the expected policy rates. As such, the 2Y rate is arguably
-an important ingredient for the term premium.
-And indeed, when looking over the past decade, the 2Y and the 2s10s show a strong negative
-
-correlation. The interesting observation here is that the term premium of the GBP curves
-seems to have increased disproportionately to the change in 2Y rates. This effect is also visible
-for the USD curve, but to a much lesser extent.
-
-===== Page 38 =====
-
-THINK economic and financial analysis
-Article | 12 May 2026 3
-When accounting for 2Y dynamics, the GBP curve recently
-steepened more than the USD curve
-Source: ING estimates, Macrobond
-We explore the divergence by looking at the spread differential of the 2s10s between the GBP
-and USD curve. Besides the 2Y spread differential, we add relative inflation to the model, which
-greatly improves the fit when used in conjunction with 2Y rates. Inflation differentials capture
-
-changing macro regimes and can help explain the term premium investors demand for
-holding longer dated bonds.
-Our three variable regression model (Fig 3) captures 83% of the variation in the difference
-between the 2s10s of the GBP and USD curve, whereby especially the residuals are of interest.
-We can easily identify three events that explain the deviation from our model, namely 1) QE
-by the Bank of England starting in 2016, 2) the Lizz Truss moment in 2022 and 3) the Fed’s
-
-tapering of QT in 2024. Outside of these periods the residual is close to zero, suggesting we are
-not missing any important variables.
-
-===== Page 39 =====
-
-THINK economic and financial analysis
-Article | 12 May 2026 4
-QT seems to play a part in explaining a 60bp steeper GBP
-2s10s curve
-Whilst the Fed announced a significant tapering of QT in May 2024, the pace of QT has
-remained much higher in the UK, helping explain the residual in our model. The Bank of
-England is continuing with active sales, bringing the wind-down to a significant £70bn per
-year. In terms of numbers, the 2s10s GBP curve is now some 60bp steeper since this
-
-divergence in monetary policy.
-The Fed faced reserve constraints, forcing it to slow QT, but the Bank of England does not have
-this problem, allowing QT to continue. Even though shrinking the bond book has extracted
-reserves from the banking system, a significant uptake of the Short Term Repo (STR) and
-Indexed Long-Term Repo (ILTR) have managed to stabilise reserves. In effect, the market stress
-in US repo markets never showed up in sterling markets.
-
-===== Page 40 =====
-
-THINK economic and financial analysis
-Article | 12 May 2026 5
-Significant pickup in BoE liquidity facilities are preventing
-reserves from falling, allow QT to continue
-Source: ING estimates, Bank of England, Macrobond
-With money markets seemingly stable, in theory, the Bank of England can continue unwinding
-the gilt portfolio, albeit at the expense of higher government borrowing costs. An August
-report from the Bank of England suggested that QT had an impact of 15-25bp as of then on
-
-longer-dated rates. But when you also include the changes in swap spreads, our estimate of
-the impact from QT on gilt yields is significantly higher. Since the start of QT, the 10Y Gilt-swap
-spread rose more than 80bp, adding to the steeper swap curve.
-With more gilt supply continuing to hit the market, including significant government issuance,
-investors may demand higher yields to be lured in. Already we see that gilt auctions have
-started to rely more on foreign demand to clear since the start of QT in 2023. Before 2023, the
-
-foreign uptake of gilt syndications up to 20Y was just 10%. This increased to over 25% after the
-start of QT. Foreign investors tend to be more price sensitive compared to domestic players
-such as banks, pension funds and insurance funds. Domestic players are more likely to buy
-gilts for reasons like liquidity and hedging regulation.
-Since QT, gilt markets have relied on more price-sensitive
-foreign investors, helping push up 10Y gilt yields
-Source: ING estimates, DMO, Macrobond
-
-===== Page 41 =====
-
-THINK economic and financial analysis
-Article | 12 May 2026 6
-So while we continue to see a rising term premium for the UK, we think a dovish repricing of
-policy rates should start bringing down the curve. But the scope for lower 10Y gilt yields is
-limited. We identify 4.5% as a realistic fair value in 2027. We believe the dynamics in the UK
-serve as a good lesson for Fed policy too. If new Chair Kevin Warsh manages to follow up with
-his plans to unwind the Fed’s bond portfolio at an accelerated pace, then the US curve should
-
-This publication has been prepared by the Economic and Financial Analysis Division of ING Bank N.V. (“ING”) solely for
-information purposes without regard to any particular user's investment objectives, financial situation, or means. ING forms
-part of ING Group (being for this purpose ING Group N.V. and its subsidiary and affiliated companies). The information in the
-publication is not an investment recommendation and it is not investment, legal or tax advice or an offer or solicitation to
-
-person for any purpose without the prior express consent of ING. All rights are reserved. ING Bank N.V. is authorised by the
-Dutch Central Bank and supervised by the European Central Bank (ECB), the Dutch Central Bank (DNB) and the Dutch Authority
-for the Financial Markets (AFM). ING Bank N.V. is incorporated in the Netherlands (Trade Register no. 33031431 Amsterdam). In
-the United Kingdom this information is approved and/or communicated by ING Bank N.V., London Branch. ING Bank N.V.,
-
-London Branch is authorised by the Prudential Regulation Authority and is subject to regulation by the Financial Conduct
-Authority and limited regulation by the Prudential Regulation Authority. ING Bank N.V., London branch is registered in England
-(Registration number BR000341) at 8-10 Moorgate, London EC2 6DA. For US Investors: Any person wishing to discuss this
-report or effect transactions in any security discussed herein should contact ING Financial Markets LLC, which is a member of
-
-States under applicable requirements.
-Additional information is available on request. For more information about ING Group, please visit www.ing.com.
-
-## 017_JRI_(EN)_Merged
+## 018_JRI_(EN)_Merged
 
 ===== Page 1 =====
 
@@ -25080,7 +24280,7 @@ the plan lacks concrete measures to stimulate consumpti on, concerns remain that
 demand and excess supply will worsen, making it more difficult for China to escape deflation.  
 (Junya Sano)
 
-## 018_JRI_Merged
+## 019_JRI_Merged
 
 ===== Page 1 =====
 
@@ -28446,7 +27646,7 @@ ISI　Emerging Market CEICデータベース
 ーブに近づけ、フェアな所得再分配を実現していく視点
 も重要になるだろう。
 
-## 019_KBSV_(Company)_Merged
+## 020_KBSV_(Company)_Merged
 
 ===== Page 1 =====
 
@@ -29669,7 +28869,7 @@ Hotline: 1900 1711
 Email: info@kbsec.com.vn 
 Website: www.kbsec.com.vn
 
-## 020_KBSV_(Macro)_Merged
+## 021_KBSV_(Macro)_Merged
 
 ===== Page 1 =====
 
@@ -31671,7 +30871,7 @@ Hotline: 1900 1711
 Email: info@kbsec.com.vn 
 Website: www.kbsec.com.vn
 
-## 021_KBSV_(Strategy)_Merged
+## 022_KBSV_(Strategy)_Merged
 
 ===== Page 1 =====
 
@@ -34737,7 +33937,7 @@ Trung Tâm Khách hàng Cá nhân: (+84) 24 7303 5333 – Ext: 2276
 Email: ccc@kbsec.com.vn 
 Website: www.kbsec.com.vn
 
-## 022_KBSV_(Thematic)_Merged
+## 023_KBSV_(Thematic)_Merged
 
 ===== Page 1 =====
 
@@ -35423,7 +34623,7 @@ Hotline: 1900 1711
 Email: info@kbsec.com.vn 
 Website: www.kbsec.com.vn
 
-## 023_KGI_(凱基證券)_Merged
+## 024_KGI_(凱基證券)_Merged
 
 ===== Page 1 =====
 
@@ -37421,7 +36621,7 @@ MAX：35.17
 
 富管理客服專線或透過財富管理客服信箱服務，查詢申訴案件處理進度。
 
-## 024_Mega_Bank_(匯率利率資訊)_Merged
+## 025_Mega_Bank_(匯率利率資訊)_Merged
 
 ===== Page 1 =====
 
@@ -38373,7 +37573,7 @@ USD/JPY匯價近期站上月線，然而短天期均線糾結、中長天期均�
 台債殖利率短線上維持區間盤整，預估5年券交易區間為1.38%~1.43%、10
 年券交易區間為1.48%~1.53%。
 
-## 025_Mega_Bank_(國際經濟金融週報)_Merged
+## 026_Mega_Bank_(國際經濟金融週報)_Merged
 
 ===== Page 1 =====
 
@@ -39689,7 +38889,7 @@ CPI 通膨年率升至 1.7%、2.1%(2 月 1.4%、2.0%)，以酒精飲料和菸草
 金額約在 870 億美元至 890 億美元之間，年增率可達 47.3%至 50%，仍呈高度成
 長。在人工智慧的加持下，外銷訂單有望持續暢旺，一路延續到年底。
 
-## 026_Mega_Bank_(投資研究週報)_Merged
+## 027_Mega_Bank_(投資研究週報)_Merged
 
 ===== Page 1 =====
 
@@ -42433,3 +41633,2470 @@ actical Adjustment
 金支付配息之相關資料，投資人可至各投信基金公司及總代理人網站查詢。
 11. 屬基金資訊觀測站ESG基金專區所列之基金，有關基金之ESG資訊，投資人應於申購前詳閱基金公開說明書或投資人須知所載之基金所有特色或目標等資訊。
 警 語
+
+## 028_Merrill_Lynch_(CMO)_Merged
+
+===== Page 1 =====
+
+CHIEF INVESTMENT OFFICE
+Capital Market Outlook
+
+===== Page 2 =====
+
+2 of 8 May 18, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+MACRO STRATEGY
+Expansion likely to continue despite inflation flareup
+Chief Investment Office, Macro Strategy Team
+Incoming economic data have supported our expectations for resilient U.S. growth in the
+face of various headwinds. Liquidity conditions have improved meaningfully over the past
+year as a result of Fed interest rate cuts, the end of quantitative tightening, and easier
+bank lending standards (Exhibit 1A), helping stabilize economic activity and boosting risk
+
+appetite. Fiscal support has also played a role in stabilizing demand, and surging AI-
+related investment has lifted industrial-sector confidence, activity, and earnings.
+As a result, layoffs have remained low, job openings have stabilized (Exhibit 1B),
+and hiring has rebounded enough to keep unemployment stable near 4.3% in April.
+Encouragingly, low layoffs, strong profits, declining business credit default rates,
+improving business sentiment and tight credit spreads point to continued expansion.
+
+Though largely driven by a 60%-plus surge in oil prices as a result of Iran war-related
+supply disruptions, inflation has also flared up, however, raising concerns about growth
+and the direction of interest rates. Measured by the consumer price index (CPI), inflation
+rose at an 8% annualized monthly pace in April. Although less eye-catching, “core”
+inflation—excluding food and energy—has also accelerated significantly, posting a 4.6%
+annualized gain in April from 2.4% in March. Both measures remain above the Fed’s
+
+2% target, with year-over-year (YoY) headline inflation at a three-year high of 3.8% and
+“core” inflation at 2.7%.
+The inflation reacceleration, combined with signs of rebounding economic growth, has
+led markets to quickly price out Fed rate cuts this year. While a prolonged policy pause
+is anticipated before possible rate cuts later in 2027, chatter of Fed tightening has also
+intensified, especially following a sharper-than-expected producer price index increase in
+
+April that suggests growing wholesale inflation pressures.
+The pickup in consumer price inflation also reflects ongoing sharp increases in electricity
+prices (mainly related to surging AI-driven power demand); spillovers from the Iran
+war into broader goods and services prices; as well as upside import price pressures
+following a year of dollar depreciation. Still, inflation is generally expected to end the
+year at 2.7% to 3%, not far above its 2025 pace. Indeed, absent a further escalation
+
+of Hormuz-related supply disruptions, there are reasons to expect inflation to remain
+contained, allowing for an extended expansion.
+In a nutshell, energy shocks tend to generate broader and sustained inflation pressures
+if they are accommodated by loose monetary or fiscal policy. However, current
+conditions—soft hiring and moderate labor-income growth, easing shelter inflation
+underpinnings, and relatively anchored longer-term inflation expectations—suggest the
+
+risk of a wage-price spiral remains limited. The expansion still lacks the ingredients for
+sustained inflation: excessive credit creation, strong wage growth and broad excess
+demand. Moreover, strong productivity continues to mitigate inflation forces. Here are
+few details underpinning our view:
+• The recent inflation flareup reflects residual tariff pass-through and temporary
+demand support from large One Big Beautiful Bill Act (OBBBA)-related tax refunds.
+
+• The spike in shelter inflation was caused by one-off data distortions. With slow
+employment growth, multi-year-high rental vacancies, and cooling market rents (which
+typically led the shelter inflation index by several months), underlying shelter inflation
+is likely to remain on a downtrend in coming quarters.
+• Much of the recent inflation impulse remains supply- and cost-driven rather than
+excess-demand-driven. If wage growth and inflation expectations remain anchored, as
+
+currently observed, higher energy prices mainly act as a tax on consumers, reducing real
+purchasing power, constraining demand, and limiting second-round inflation effects.
+Investment Implications
+A prolonged moderate-growth, profit-
+rich expansion suggests continued
+narrow credit spreads and support for
+Equities, particularly sectors leveraged
+to AI investment, productivity gains and
+pricing power. Manufacturing upcycles
+also tend to be accompanied by
+
+Emerging Market outperformance and
+dollar depreciation.
+
+===== Page 3 =====
+
+3 of 8 May 18, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+• Jobs have mainly been created in lower-paying services sectors, keeping consumer
+spending highly uneven across the income distribution.
+• According to Fed data, bank lending standards have improved over the past year but
+remain cautious, inconsistent with excess credit growth and overheating demand
+(Exhibit 1A).
+• The Employment Cost Index, which historically has correlated well with inflation trends,
+
+points to limited wage-driven inflation pressures. Accelerating AI adoption and strong
+productivity growth further restrain unit labor costs, consistent with moderate inflation
+(Exhibit 1B).
+• Equity-market strength has been an important transmission channel of strong capital
+income into discretionary spending, particularly for higher-income retired baby
+boomers, who account for a disproportionate share of wealth and consumption.
+• While tariff reimbursements—estimated at about $160 billion this year—are providing
+
+a new liquidity impulse, the OBBBA tax cuts/refunds are largely offsetting higher
+gasoline and utility costs rather than generating substantial incremental demand.
+• Most importantly, anchored inflation expectations continue to broadly restrain
+speculative overinvestment in labor and capital. Businesses still appear to primarily
+invest in operational efficiency gains in support of profit margins, suggesting
+sustained downside pressures on labor-income growth.
+
+• With much of the AI investment also offset by related equipment imports, incoming
+indicators remain consistent with only moderate real GDP growth of about 2.2% this
+year. Given productivity growth of around 2% to 2.5% and scant labor-force growth, this
+implies growth near or somewhat below potential, which tends to keep inflation in check.
+All in all, growth, and especially corporate profits, have surprised to the upside this year.
+At the same time, surging AI-related capital expenditures, passthrough of higher energy
+
+costs into broader prices, and lingering tariff effects are also keeping inflation higher
+than anticipated this year. The resulting erosion of real incomes is likely to weigh on
+consumption, while the sharp rise in producer prices points to margin pressure for firms
+with limited pricing power, effectively acting as a drag on broader growth.
+As the Iran supply shock fades, the macroeconomic backdrop suggests an elongated
+moderate inflation, moderate growth expansion—driven by business investment, strong
+
+productivity, durable profits, and support from sustained government deficit spending.
+Absent a de-anchoring of inflation expectations or a sustained rise in real interest rates
+relative to growth, in our view the outlook remains supportive for risk assets.
+Exhibit 1: Incoming Data Consistent with Moderate Growth and Contained Underlying Inflation Pressures.
+A) Bank lending standards in moderate-growth territory. B) Strong productivity and moderate wage growth suggest benign inflation underpinnings.
+
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+2001 - Q4 2007 - Q4 2013 - Q4 2019 - Q4 2025 - Q4
+z-score Net % of banks tightening Commercial & Industrial lending standards for large and medium
+companies (z-score)
+Private Sector Jobs Opening Rate (year-to-year change, z-score*)
+easing lending
+standards
+stabilizing
+job
+openings
+z-score
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+1989 - Q2 1998 - Q2 2007 - Q2 2016 - Q2 2025 - Q2
+Unit Labor Costs (YoY % change, z-score)
+"Core" CPI Inﬂation (YoY %, lagging 3 quarters, z-score)
+
+*z-score = number of standard deviations from the average of a data set. Gray bars represent recessionary periods. Exhibit 1A) Sources: Bureau of Labor Statistics, Federal Reserve Board/
+Haver Analytics. Data as of May 13, 2026. Exhibit 1B) Source: Bureau of Labor Statistics/Haver Analytics. Data as of May 13, 2026.
+
+===== Page 4 =====
+
+4 of 8 May 18, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+MARKET VIEW
+Has Europe’s Equity Performance Peaked?
+Ehiwario Efeyini, Director and Senior Investment Strategist
+International Equity markets outpaced U.S. Equities by over 15 percentage points in 2025,
+their widest margin since the 2008 financial crisis. Europe led the major non-U.S. benchmarks
+last year as fiscal policy was loosened both at the EU level and under the incoming coalition
+
+government in Germany, and as value sectors outperformed. And Europe’s strength relative to
+the S&P 500 extended into the early part of 2026. But European markets have since given up
+their return advantage, particularly since the late-February onset of the conflict in the Middle
+East (Exhibit 2).
+Exhibit 2: European Equity Return Advantage Has Reversed in 2026.
+A) Europe led International Equity gains in 2025. B) But European markets have lagged in 2026.
+
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+Europe Emerging Markets Japan U.S.
+MSCI equity index returns*
+Total return (USD)
+2025
+90
+95
+100
+105
+110
+115
+120
+125
+Jan-26 Feb-26 Mar-26 Apr-26 May-26
+MSCI equity index returns*
+Total return (USD), January 1, 2026 = 100
+Europe U.S. Japan Emerging Markets
+Exhibit 2A and B) Source: Bloomberg. Data as of May 13, 2026. *U.S. market is S&P 500. Data would differ if a different time period was displayed. Short-term performance shown to illustrate
+
+more recent trends. Past performance is no guarantee of future results. Please refer to index definitions at the end of this report. It is not possible to invest directly in an index.
+Alongside the Asia-Pacific, household and industrial energy users in Europe are among the
+most globally exposed to the energy shock. And though Europe is less reliant than Asia on
+energy imports sourced directly from Persian Gulf, oil and gas account for a higher proportion
+
+of its total energy supply. As a share of primary energy consumption, Europe’s combined
+57% in oil (33%) and natural gas (24%) far exceeds the levels of 26% in China and 34% for
+the wider Asia-Pacific region in aggregate (which depends more heavily on coal). This leaves
+it highly vulnerable to an extended period of high prices. And the estimated €4 trillion spent
+on energy subsidies by European governments in response to the 2022 Russia-Ukraine
+conflict-driven price spike has left limited capacity for additional support, according to the
+
+International Energy Agency.
+Relative weakness in European equity markets has been compounded by the surge in
+technology stocks over recent weeks. Since the start of Q2, the rebound in global equity
+markets has been led by enablers of the data center investment boom, particularly
+semiconductors, foundry and semi-cap equipment as the cloud hyperscalers have sustained
+their capital spending plans. But across the major global benchmarks, Europe remains among
+
+the least exposed to these industry groups. As at the end of the first quarter just 12% of its
+market capitalization was in the Technology sector as a whole, compared to 33% in U.S. and
+40% in emerging Asia, according to MSCI.
+At the same time Europe’s exposure to China in two major segments of its Consumer
+Discretionary sector—autos and luxury goods—poses an additional constraint for its
+corporate earnings outlook, both in terms of competition and export demand. Germany
+
+remains the single largest global passenger car exporter by value. But intensifying
+competition from China’s automakers on price and specification has seen China overtake
+Germany in volume terms over recent years, becoming the leading unit exporter of passenger
+vehicles in 2024. Meanwhile China’s ongoing slump in property prices, alongside its lackluster
+labor market and weak consumer confidence remains a headwind for Europe’s personal
+luxury goods categories which have traditionally relied on Chinese demand as a key source of
+
+growth. And the emergence of competing domestic luxury brands within China itself has only
+added to these pressures.
+Investment Implications
+We remain tactically cautious on European
+Equities given their vulnerability to the energy
+shock, relative lack of exposure to growth
+in AI data center investment, competitive
+and demand pressures from China in key
+consumer sectors and a comparatively
+hawkish central bank monetary policy stance.
+We nonetheless see individual areas of
+
+potential strength along country, sector and
+industry lines within Europe and continue to
+favor a strategic allocation to the region.
+
+===== Page 5 =====
+
+5 of 8 May 18, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+The Middle East conflict has pushed inflation rates higher on a global basis. And just as in
+the U.S. where inflation continues to exceed the Fed target, headline inflation in the eurozone
+stands well above the European Central Bank’s (ECB) “below but close to 2%” target range
+at 3.0% for April. But there has been a marked divergence in approach to the energy shock
+between the major monetary authorities, and the policy stance of the ECB represents
+
+another hurdle for the local equity market. While the Fed maintains an easing bias, the ECB
+has adopted a more hawkish tone and is expected to hike rates in the near term, potentially
+at its next meeting in June. This would come as a further relative headwind for the earnings
+outlook in European markets. Slower trend growth in Europe has already led the EU share of
+global GDP to fall from 25.4% in 2008 to 17.6% in 2025 (Exhibit 3), while being surpassed by
+
+China in 2021. And these challenges could cause Europe’s nominal output (the fundamental
+basis for corporate earnings) to lose further ground to the U.S. and China over the period
+ahead.
+Exhibit 3: Europe’s Trend Growth Weakness Reflected in Shrinking Share of Global GDP.
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+00 02 04 06 08 10 12 14 16 18 20 22 24 26
+Share of global nominal GDP
+Global share by market
+European Union U.S. China
+Source: International Monetary Fund. Data as of 2025.
+
+Though we remain tactically cautious on European markets, we nonetheless see pockets
+of potential opportunity within the region. The shift in fiscal approach away from balanced
+budgets and toward a much less restrictive stance should be an ongoing source of support
+for the Industrials sector. The defense industry is likely to remain the biggest beneficiary
+as proceeds from the €800 billion ReArm Europe program are deployed, particularly given
+concerns over the diversion of U.S. military support toward the conflict in the Middle
+
+East. And the wider sector should also gain from additional funds pledged by the German
+government for spending on clean energy, transportation and digital infrastructure.
+On a country basis, the Netherlands is most exposed to the AI investment boom, with a
+leading manufacturer of advanced semi-cap equipment accounting for close to 50% of the
+local market. And as data centers pursue more flexible power generation to supplement
+energy supply from the grid, demand for German providers of on-site gas turbines should
+
+also increase.
+The ongoing disruptions to global energy supply and persistently high prices in oil and gas
+markets should remain a tailwind for the Norwegian market, which has been Europe’s top
+performer in 2026. But at the same time, we would expect to see more countries moving
+to strengthen their domestic energy security in the wake of the conflict. As global leaders
+in renewable energy equipment manufacturing, this should leave Danish wind power system
+
+developers well positioned. And in southern Europe, Greece is also likely to benefit from its
+growing role in European energy security. Through its shipping infrastructure for liquefied
+natural gas (LNG) transportation and regasification, Greece has become a key geographical
+entry point for LNG imports into the region. And index provider MSCI recently announced
+plans to upgrade the Greek market to developed status in 2027, largely on the basis of its
+
+progress on public sector debt repayments and bank re-privatizations since the 2010 euro
+crisis. Alongside our tactical caution on Europe, we therefore see individual areas of potential
+strength on country, sector and industry lines. And we continue to favor a strategic allocation
+to the region for its geographical diversification, greater exposure to value sectors, higher
+aggregate dividend yields and lower valuations.
+
+===== Page 6 =====
+
+6 of 8 May 18, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+THOUGHT OF THE WEEK
+Rethinking Summer Seasonality
+Kirsten Cabacungan, Vice President and Investment Strategist
+U.S. Equities appear better positioned heading into the summer than the traditional “Sell
+in May and go away” narrative would suggest. While seasonal patterns have historically
+pointed to softer returns between May and October, the data present a more nuanced
+picture. Since 1928, the S&P 500 has averaged a modest 2.5% return during this six-
+
+month period, compared to 5.2% from November through April (Exhibit 4A). However, the
+index was still higher roughly two-thirds of the time.
+More importantly, recent trends suggest that seasonality may be evolving. Over the past
+decade, May through July have delivered some of the strongest and most consistent
+returns of the year, with the S&P 500 finishing those months higher, roughly 91%, 82%,
+and 100% of the time, respectively (Exhibit 4B). The broader May–October period has
+
+also averaged a solid 6.3% return over the past 10 years. Notably, in the most recent
+12-month period, the traditional pattern reversed entirely, with the S&P 500 rising 22.8%
+from May through October compared to 5.4% in the subsequent November–April period.
+This shifting seasonal backdrop is reinforced by strong underlying momentum. The S&P
+500 gained 10.4% in April, marking the fourth-strongest April since 1928, behind 1933,
+1938 and 2020, and placing the month in the 98th percentile of all monthly returns.
+
+In each of the prior instances with stronger April performance, the S&P 500 rallied
+meaningfully through the remainder of the year, up 30.2% on average. More broadly, April
+gains above 5% have historically been associated with stronger than average summer
+returns, with the S&P 500 advancing 11.6% from May through October and finishing
+positively nearly 80% of the time.
+While the midterm election cycle may introduce volatility—historically associated with
+
+drawdowns averaging around 18%—forward returns have been resilient. The S&P 500
+has delivered positive returns in the 12 months following every midterm election since
+1938, with an average gain of 14.8% over that period.
+Taken together, evolving seasonality trends and strong early-year momentum support a
+constructive outlook for stocks. While episodic volatility, particularly in midterm election
+years, is possible, such pullbacks have historically presented opportunities rather than
+
+signaling a shift in trend. Against a backdrop of resilient earnings growth and ongoing
+structural AI tailwinds, we maintain a favorable view on U.S. Equities into the second half
+of the year.
+Exhibit 4: Equity Market Seasonality: Historical Pattern vs. Recent Trends.
+A) Summer seasonality has historically been softer. B) Recent trends challenge the ‘Sell in May’ narrative.
+Average 6-month Returns for the S&P 500 (1928 – Apr 2026)
+Sorted Strongest to Weakest
+
+6-month Period Average Return % of Time Positive
+Nov-Apr 5.2% 70.4%
+Mar-Aug 5.0% 70.4%
+Oct-Mar 4.6% 62.2%
+Dec-May 4.3% 66.0%
+Jul-Dec 4.2% 68.4%
+Feb-Jul 4.0% 68.4%
+Jan-Jun 3.8% 65.3%
+Aug-Jan 3.7% 66.3%
+Jun-Nov 3.6% 66.3%
+Apr-Sep 3.5% 66.3%
+Sep-Feb 3.1% 64.3%
+May-Oct 2.5% 66.3%
+1.0%
+- 0.1% - 0.4%
+1.9% 1.4% 1.5%
+3.2%
+0.3%
+- 1.5%
+1.4%
+3.8%
+- 0.1%
+58.3%
+41.7%
+50.0%
+75.0%
+90.9%
+81.8%
+100.0%
+54.5%
+45.5%
+54.5%
+90.9%
+54.5%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+
+90%
+100%
+-2%
+-1%
+0%
+1%
+2%
+3%
+4%
+5%
+6%
+7%
+8%
+Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
+Avg Returns (2015- Apr 2026) % Positive
+Average S&P 500 Price Returns % of Time Positive
+Exhibit 5A) Green represents strongest; red represents weakness. Source: Bloomberg. Average returns from 1928 through April 30, 2026. Data as of April 30, 2026. Exhibit 5B) Source:
+Bloomberg. Average returns from 2015 through April 30, 2026. Data as of April 30, 2026. Past performance is no guarantee of future results. Please refer to index definitions at the end
+
+of this report. It is not possible to invest directly in an index.
+Portfolio Positioning
+While volatility may persist in the near
+term, we remain constructive on the
+outlook and therefore maintain our U.S.
+Equity overweight. Robust earnings
+growth, improving breadth across
+sectors, and strong capital investment
+supporting the AI infrastructure build
+out help to reinforce our view. We would
+view any near-term market weakness as
+a potential buying opportunity.
+
+===== Page 7 =====
+
+7 of 8 May 18, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+MARKETS IN REVIEW
+Equities
+Total Return in USD (%)
+Current WTD MTD YTD
+DJIA  49,526.17 -0.1 -0.2 3.6
+NASDAQ  26,225.14 -0.1 5.4 13.1
+S&P 500  7,408.50 0.2 2.8 8.7
+S&P 400 Mid Cap  3,609.80 -2.4 -0.8 9.7
+Russell 2000  2,793.30 -2.3 -0.2 13.0
+MSCI World  4,741.61 -0.3 1.8 7.6
+MSCI EAFE  3,024.90 -1.6 -0.2 5.9
+MSCI Emerging Markets  1,668.17 -2.5 4.4 19.5
+Fixed Income†
+Total Return in USD (%)
+Current WTD MTD YTD
+Corporate & Government 4.71 -1.08 -0.73 -0.81
+Agencies 4.43 -0.66 -0.50 -0.12
+Municipals 3.77 -0.58 -0.37 0.59
+U.S. Investment-Grade Credit 4.81 -1.14 -0.78 -0.71
+International 5.27 -1.04 -0.52 -0.60
+High Yield 7.17 -0.49 -0.30 0.88
+90 Day Yield 3.66 3.68 3.66 3.63
+2 Year Yield 4.07 3.88 3.87 3.47
+10 Year Yield 4.59 4.35 4.37 4.17
+30 Year Yield 5.12 4.93 4.97 4.84
+Commodities & Currencies
+Commodities
+Total Return in USD (%)
+Current WTD MTD YTD
+Bloomberg Commodity 359.71 1.9 0.4 30.2
+WTI Crude $/Barrel†† 105.42 10.5 0.3 83.6
+Gold Spot $/Ounce†† 4540.08 -3.7 -1.7 5.1
+Currencies
+Total Return in USD (%)
+Current
+Prior 
+Week End
+Prior 
+Month End
+2025 
+Year End
+EUR/USD 1.16 1.18 1.17 1.17
+USD/JPY 158.74 156.68 156.59 156.71
+USD/CNH 6.81 6.80 6.83 6.98
+S&P Sector Returns
+-3.0%
+-2.5%
+-2.2%
+-1.9%
+-1.1%
+-0.8%
+-0.3%
+1.1%
+1.2%
+1.3%
+7.0%
+-4.0% -2.0% 0.0% 2.0% 4.0% 6.0% 8.0%
+Consumer Discretionary
+Real Estate
+Materials
+Utilities
+Industrials
+Communication Services
+Financials
+Healthcare
+Information Technology
+Consumer Staples
+Energy
+Sources: Bloomberg, Factset. Total Returns from the period of 
+05/04/2026 to 05/08/2026. †Bloomberg Barclays Indices. ††Spot 
+price returns. All data as of the 05/15/2026 close. Data would differ 
+if a different time period was displayed. Short-term performance 
+shown to illustrate more recent trend. Past performance is no 
+guarantee of future results. 
+Economic Forecasts (as of 5/15/2026)
+Q1 2026A Q2 2026E Q3 2026E Q4 2026E 2026E 2027E
+Real global GDP (% y/y annualized) - - - - 3.1 3.4
+Real U.S. GDP (% q/q annualized) 2.0 2.5 1.9 1.9 2.2 2.2
+CPI inflation (% y/y) 2.7 4.2 4.1 3.9 3.7 2.3
+Core CPI inflation (% y/y**) 2.5 2.8 2.7 2.9 2.7 2.6
+Unemployment rate (%) 4.3 4.5 4.5 4.4 4.4 4.3
+Fed funds rate, end period (%) 3.63 3.63 3.63 3.63 3.63 3.13
+The forecasts in the table above are the baseline view from BofA Global Research. The Global Wealth & Investment 
+Management (GWIM) Investment Strategy Committee (ISC) may make adjustments to this view over the course of 
+the year and can express upside/downside to these forecasts. Historical data is sourced from Bloomberg, FactSet, 
+and Haver Analytics. Past performance is no guarantee of future results. There can be no assurance that the 
+forecasts will be achieved. Economic or financial forecasts are inherently limited and should not be relied on as 
+indicators of future investment performance. 
+A = Actual. E/* = Estimate. Data as of May 15, 2026.
+Sources: BofA Global Research; GWIM ISC as of May 15, 2026. 
+Asset Class Weightings (as of 5/5/2026)
+Asset Class
+CIO View  
+Underweight Neutral Overweight
+Equities
+U.S. Large-cap
+U.S. Mid-cap
+U.S. Small-cap
+International Developed
+Emerging Markets
+Fixed Income
+U.S. Investment- 
+grade Taxable
+International
+Global High Yield Taxable
+U.S. Investment-grade  
+Tax Exempt
+U.S. High Yield Tax 
+Exempt
+Alternative Investments
+Hedge Strategies 
+Private Equity  
+Private Credit  
+Private Real Estate  
+Tangible Assets 
+Cash
+
+* Many products that pursue Alternative Investment strategies, specifically Private Equity and Hedge Funds, 
+are available only to qualified investors. CIO asset class views are relative to the CIO Strategic Asset Allocation 
+(SAA) of a multi-asset portfolio. Source: Chief Investment Office as of May 5, 2026. All sector and asset allocation 
+recommendations must be considered in the context of an individual investor’s goals, time horizon, liquidity needs and 
+risk tolerance. Not all recommendations will be in the best interest of all investors.
+CIO Equity Sector Views
+Sector
+CIO View  
+Underweight Neutral Overweight
+Industrials
+Consumer 
+Discretionary
+Financials
+Information 
+Technology
+Energy
+Materials
+Utilities
+Healthcare
+Communication 
+Services
+Real Estate
+Consumer 
+Staples
+
+===== Page 8 =====
+
+8 of 8 May 18, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+Index Definitions
+Securities indexes assume reinvestment of all distributions and interest payments. Indexes are unmanaged and do not take into account fees or expenses. It is not possible to
+invest directly in an index. Indexes are all based in U.S. dollars.
+U.S./S&P 500 Index is a stock market index tracking the stock performance of 500 leading companies listed on stock exchanges in the United States.
+
+Consumer Price Index is a statistical metric that measures the average change over time in the prices paid by urban consumers for a representative "market basket" of consumer goods
+and services.
+Shelter Inflation Index encompasses both rent and utility payments for renters and the estimated rental cost of similar houses for homeowners.
+Employment Cost Index is a quarterly economic metric published by the U.S. Bureau of Labor Statistics that tracks changes in the total cost of labor, including wages, salaries, and employer-
+
+provided benefits, free from the influence of employment shifts among occupations and industries.
+MSCI Europe Index captures large and mid cap representation across Developed Markets (DM) countries in Europe.
+MSCI Emerging Markets Index is a financial benchmark designed to measure the performance of large and mid-cap companies across 24 developing nations.
+MSCI Japan Index is designed to measure the performance of the large and mid cap segments of the Japanese market.
+
+Investing involves risk, including the possible loss of principal. Past performance is no guarantee of future results.
+Bank of America, Merrill, their affiliates and advisors do not provide legal, tax or accounting advice. Clients should consult their legal and/or tax advisors before making any financial decisions.
+This material does not take into account a client’s particular investment objectives, financial situations, or needs and is not intended as a recommendation, offer, or solicitation for the purchase
+
+or sale of any security or investment strategy. Merrill offers a broad range of brokerage, investment advisory and other services. There are important differences between brokerage and
+investment advisory services, including the type of advice and assistance provided, the fees charged, and the rights and obligations of the parties. It is important to understand the differences,
+particularly when determining which service or services to select. For more information about these services and their differences, speak with your Merrill financial advisor.
+
+of America, Merrill or any affiliate to sell or provide, or a specific invitation for a consumer to apply for, any particular retail financial product or service that may be available.
+The Chief Investment Office (“CIO”) provides thought leadership on wealth management, investment strategy and global markets; portfolio management solutions; due diligence; and solutions
+oversight and data analytics. CIO viewpoints are developed for Bank of America Private Bank, a division of Bank of America, N.A., (“Bank of America”) and Merrill Lynch, Pierce, Fenner & Smith
+
+The Global Wealth & Investment Management Investment Strategy Committee (“GWIM ISC”) is responsible for developing and coordinating recommendations for short-term and long-term
+investment strategy and market views encompassing markets, economic indicators, asset classes and other market-related projections affecting GWIM.
+BofA Global Research is research produced by BofA Securities, Inc. (“BofAS”) and/or one or more of its affiliates. BofAS is a registered broker-dealer, Member SIPC and wholly owned subsidiary
+
+of Bank of America Corporation.
+All recommendations must be considered in the context of an individual investor’s goals, time horizon, liquidity needs and risk tolerance. Not all recommendations will be in the best interest
+of all investors.
+Asset allocation, diversification and rebalancing do not ensure a profit or protect against loss in declining markets.
+Investments have varying degrees of risk. Some of the risks involved with equity securities include the possibility that the value of the stocks may fluctuate in response to events specific to
+
+the companies or markets, as well as economic, political or social events in the U.S. or abroad. Small cap and mid cap companies pose special risks, including possible illiquidity and greater price
+volatility than funds consisting of larger, more established companies. Investing in fixed-income securities may involve certain risks, including the credit quality of individual issuers, possible
+prepayments, market or economic developments and yields and share price fluctuations due to changes in interest rates. When interest rates go up, bond prices typically drop, and vice versa.
+
+Investments in high-yield bonds (sometimes referred to as “junk bonds”) offer the potential for high current income and attractive total return, but involves certain risks. Changes in economic
+conditions or other circumstances may adversely affect a junk bond issuer’s ability to make principal and interest payments. Income from investing in municipal bonds is generally exempt
+from Federal and state taxes for residents of the issuing state. While the interest income is tax-exempt, any capital gains distributed are taxable to the investor. Income for some investors
+
+may be subject to the Federal Alternative Minimum Tax (AMT). Treasury bills are less volatile than longer-term fixed income securities and are guaranteed as to timely payment of principal and
+interest by the U.S. government. Bonds are subject to interest rate, inflation and credit risks. Investments in foreign securities (including ADRs) involve special risks, including foreign currency
+risk and the possibility of substantial volatility due to adverse political, economic or other developments. These risks are magnified for investments made in emerging markets. Investments in
+
+a certain industry or sector may pose additional risk due to lack of diversification and sector concentration. There are special risks associated with an investment in commodities, such as gold,
+including market price fluctuations, regulatory changes, interest rate changes, credit risk, economic changes and the impact of adverse political or financial factors.
+Alternative investments are speculative and involve a high degree of risk.
+Alternative investments are intended for qualified investors only. Alternative Investments such as derivatives, hedge funds, private credit, private equity funds, and funds of funds can result
+
+in higher return potential but also higher loss potential. Changes in economic conditions or other circumstances may adversely affect your investments. Before you invest in alternative
+investments, you should consider your overall financial situation, how much money you have to invest, your need for liquidity, and your tolerance for risk.
+Nonfinancial assets, such as closely held businesses, real estate, fine art, oil, gas and mineral properties, and timber, farm and ranch land, are complex in nature and involve risks including total
+
+===== Page 9 =====
+
+CHIEF INVESTMENT OFFICE
+Capital Market Outlook
+
+===== Page 10 =====
+
+2 of 8 May 11, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+MACRO STRATEGY
+Competitive Interdependence: Taking Stock of U.S.-Sino
+Relations on the Eve of the Summit
+Joseph P. Quinlan, Managing Director and Head of Market Strategy
+The Great Power Rivalry between the U.S. and China is unique because rarely has a
+strategic rivalry persisted alongside economic and financial entanglements that would
+be very costly to unwind. Today, the U.S.–China relationship is best understood as partial
+
+decoupling on the surface, with deep interdependence underneath.
+Hence, on the eve of the U.S.-China summit, we outline some key metrics that not only
+bind the U.S. and China together but also underscore what’s at stake as the two parties
+prepare to meet.
+One, while China’s share of U.S. goods imports has declined from 21.6% in 2017 to
+9.0% in 2025, and to just 7.5% in Q1 2026, the U.S. remains over-reliant on China
+for a host of strategic minerals and metals that keep the U.S. economy humming. For
+
+instance, of the 60 minerals considered “critical” by the U.S. government, China is the
+leading producing country for one-third of them. As evident from Exhibit 1A, China’s
+share of U.S. rare earth imports is now at a near all-time high (nearly 70% of the total in
+Q1), while China’s overall U.S. import share is at a decade-low.
+Two, despite all the chatter about U.S. “de-coupling” and “de-risking,” China remains
+one of the largest export markets in the world for U.S. goods. Indeed, only Mexico and
+
+Canada consumed more U.S. goods exports than China last year. Yes, annual U.S. exports
+to China have declined over the past few years, but the U.S. still exports more to China
+each year than what it sends to the United Kingdom, Japan and Germany.
+Conversely, the U.S. remains a critical market for China’s merchandise exports—even
+though China’s exports to the U.S. dropped by roughly 20% last year, the U.S. remained
+the mainland’s top export destination in 2025 ($420 billion), ahead of Hong Kong ($337
+
+billion) and Vietnam ($199 billion), according to China's General Administration of
+Customs. The key takeaway: even with tariffs and geopolitical tensions, U.S.-China bi-
+lateral total trade flows ($582 billion in 2025 per the Census Bureau) remain among the
+largest in the world. Including service trade, the total figures are even higher.
+Three, U.S. exports to China don’t even begin to capture how much business U.S. firms
+do each year in China. A more accurate metric emerges when you consider the presence
+
+of U.S. affiliates operating in China. The data is lagged, but, in 2023, the last year of
+available data from the Commerce Department, some 1,950 U.S. affiliates were operating
+in China, the fourth-highest total after the U.K., Canada and the Netherlands (Exhibit 1B).
+Exhibit 1: From Minerals to Business Abroad, the U.S. Depends on Beijing.
+A) U.S. Still Dependent on China for Rare Earth Imports. B) Beyond Exports: 1,950 U.S. Affiliates Do Business in China.
+
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+40%
+50%
+60%
+70%
+80%
+2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 Q1
+2026
+Share of Imports
+China's share of Total U.S. Goods Imports (RHS)
+China's share of U.S. Rare Earths Imports (LHS)
+0
+500
+1,000
+1,500
+2,000
+2,500
+3,000
+3,500
+4,000
+4,500
+United
+Kingdom
+Canada Netherlands China Germany France Mexico Hong Kong
+Number of Majority-Owned Foreign Afﬁliates* by Country
+Exhibit 1A) Source: U.S. Census Bureau. Data through March 2026, as of May 5, 2026. Exhibit 1B) *Includes number of affiliates with assets, sales or net income greater than $25 million.
+
+Source: Bureau of Economic Analysis. Data refers to 2023, as of March 2026.
+Investment Implications
+U.S.–China economic and financial ties
+are deeper than headlines suggest.
+Competition in areas like AI is mounting
+and will likely be a focus for the months
+to come. Investors could benefit via
+diversified exposure to technology
+leaders in both the U.S. and China and
+other Asian markets.
+
+===== Page 11 =====
+
+3 of 8 May 11, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+According to the Bureau of Economic Analysis, the in-country assets of these U.S.
+affiliates totaled $500 billion, producing some $85 billion in economic output, while
+employing nearly 1.2 million Chinese workers. More importantly, U.S. foreign affiliate
+sales totaled $475 billion in 2023—a figure some 4.5 times the size of U.S. exports to
+China and greater than affiliate sales in France, Italy and Spain combined. Suffice to
+
+say that whatever the metric—U.S. exports or U.S. affiliate sales—China remains an
+important market for Corporate America.
+It's also a profitable market as well, a fourth point to remember. U.S. affiliates earned
+$8.3 billion in China in 2025; add in Hong Kong, and the total soars to $20.5 billion,
+making Greater China one of the most profitable markets in the world for U.S. products
+(Exhibit 2A). As a footnote, the S&P 500 derives more than 40% of its revenues
+
+internationally, including 7% from China. The Technology sector stands the most exposed
+(13%) to China while Consumer Discretionary, Energy and Materials each derive 6% to
+7% of sales from the region, according to FactSet.
+Fifth, and finally, U.S.-China financial links remain quite strong. Although Beijing has
+been busy diversifying its excess reserves over the past decade, China’s financial
+stakes in the U.S. remain significant. As depicted in Exhibit 2B, China and Hong Kong’s
+
+combined holdings of U.S. Treasuries totaled nearly $1 trillion in February 2026, down
+from a peak of nearly 1.5 trillion in 2015. In addition, as of February, China owned $150+
+billion of U.S. Agency bonds and $369 billion stake of U.S. Equities. The key takeaway:
+China remains a significant creditor to debtor America.
+Exhibit 2: China Still Significant Source of Profits and U.S. Asset Demand.
+A) Greater China is One of America's Most Profitable Markets. B) China and Hong Kong's Combined Holdings of U.S. Treasurys.
+
+$0
+$5
+$10
+$15
+$20
+$25
+$30
+Canada China +
+Hong Kong
+Switzerland Mexico Japan   Germany
+U.S. Afﬁliate Income Earned Abroad by Country, USD Billions.
+0
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+1995 1997 1999 2001 2003 2005 2007 2009 2011 2013 2015 2017 2019 2021 2023 2025
+USD Billions
+Exhibit 2A) Source: Bureau of Economic Analysis. Data refers to 2025, as of March 2026. Exhibit 2B) Source: U.S. Treasury. Data as of April 15, 2026.
+Meanwhile, U.S. ownership of Equities in China hit a record high of $338 billion in
+
+February of this year, reflecting the rising appetite among U.S. investors (institutional
+and retail) to own some of China’s most attractive publicly traded companies.
+The Summit: What to Watch For. All the above is another way of saying that there’s
+a great deal riding on this week’s summit since bilateral trade, investment and capital
+flows between the U.S. and China remain thick and sticky—and mutually beneficial to
+both parties.
+That said, the markets will be keenly focused on such topics as tariffs, semiconductor
+
+restrictions, access to rare earth minerals and Taiwan. In that the summit is less about
+fostering a breakthrough on any given topic and more about the maintenance of the
+world’s most important bi-lateral relationship, the fact that the two leaders are even
+meeting in person is a positive backdrop for the global capital markets, the U.S. included.
+
+===== Page 12 =====
+
+4 of 8 May 11, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+MARKET VIEW
+Don’t Mistake Market Narrowness for Weakness
+Ariana Chiu, Assistant Vice President and Investment Strategist
+U.S. Equities have staged quite the recovery since their March 30 low. A narrow recovery,
+that is. Indeed, recent performance has been reminiscent of the AI-supercharged rally of
+the last couple of years, with just five companies driving half of the S&P 500’s 17% total
+
+return since the end of March. After a banger start to the year, the S&P 500’s equal-
+weighted counterpart has erased its entire year-to-date (YTD) lead over the market-cap
+weighted index. Hence renewed concerns about breadth in the market, or the lack thereof.
+But the recent resumption of technology leadership doesn’t mean underlying
+fundamentals elsewhere are weak. Yes, narrow performance has reflected narrowness
+in earnings, with Technology’s 2026 earnings estimates revised higher by more than
+
+15% since the start of the year. The sector is now expected to contribute 43% of the
+S&P 500 earnings growth in Q1. The main driver? Semiconductors and semiconductors
+equipment, now projected to grow earnings by nearly 75% YoY in 2026. Meanwhile, a
+handful of big technology companies have reported blowout profits in part driven by one-
+off investment gains (e.g., Amazon’s stake in Anthropic).
+And still, contrary to concerns, the average stock isn’t flailing. Quite the opposite: The
+
+median stock in the S&P 500 is logging 12% YoY earnings growth in Q1, the best growth
+we’ve seen in five years. Growth beyond technology is hardly anemic and reflective of a
+broader economy expanding at a healthy pace. In fact, for all the talk about semiconductors
+being the sole driver of profit growth, S&P 500 earnings are set to expand by an
+impressive 14% YoY in 2026 excluding both the Magnificent 7
+1 and the semiconductor
+industry. (For context, the same measure was closer to 5% in 2024 and 9% in 2025.)2
+
+Moreover, sectors including Materials and Utilities have also seen atypical upward
+revisions this year. That jives with the Institute for Supply Management manufacturing
+activity gauge in expansionary territory for the fourth straight month in April. Add too
+the impact of higher oil prices on Energy companies, and the result has been positive
+earnings estimate revisions for the broader S&P 500 YTD. That’s extremely rare per
+Exhibit 3A, which contrasts this year’s path of revisions (up) with the typical path (down).
+
+We’d call that good news for U.S. investors.
+It’s not just the S&P 500. Down the capitalization spectrum, Small- and Mid-cap Equities
+have quietly followed suit with forward earnings-per-share (EPS) of the S&P 600 and
+S&P 400 both inflecting higher in recent months (Exhibit 3B).
+Exhibit 3: Earnings On the Up and Up for the S&P 500 and Beyond.
+A) This Isn't Normal: 2026 Earnings Revisions vs. the Last 10 Years. B) Earnings Inflecting Higher Across Cap Spectrum.
+
+96
+98
+100
+102
+104
+106
+108
+110
+January February March April May
+S&P 500 Annual Earnings-per-Share (EPS) Revisions, Indexed to Jan. 1 = 100
+2026
+10-year Historical Average (2016 -2025)
+0
+75
+150
+225
+300
+375
+2000 2002 2004 2006 2008 2010 2012 2014 2016 2018 2020 2022 2024 2026
+12-month Forward Earnings-per-Share (EPS)
+S&P 600 (Small-Cap)
+S&P 400 (Mid-Cap) S&P 500 (Large-Cap)
+Exhibit 3A) Source: Bloomberg. Data as of May 4, 2026. Exhibit 3B) Source: Bloomberg. Data as of May 6, 2026. Past performance is no guarantee of future results. Please refer to index
+
+definitions at the end of this report. It is not possible to invest directly in an index.
+1 Alphabet, Amazon, Apple, Meta, Microsoft, NVIDIA, Tesla.
+2 BofA Global Research as of May 11, 2026.
+Portfolio Positioning
+Earnings strength is the backbone
+behind our conviction that U.S.
+Equities can remain resilient this year.
+Against record capital investment by
+hyperscalers, we are neutral Technology,
+underweight Communication Services
+and prefer capital expenditures
+
+(capex) beneficiaries like Industrials.
+Diversification in portfolios can help
+defend against volatility and any
+potential shift in the AI narrative.
+
+===== Page 13 =====
+
+5 of 8 May 11, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+Zooming out, latest figures from the Bureau of Economic Analysis’ National Income and
+Product Accounts (NIPA) suggest that economywide U.S. corporate profits expanded to a
+record $4.4 trillion by the end of 2025. That’s nearly 14% of GDP or the highest share in
+history, as shown in Exhibit 4A. In other words, data spanning firms big and small, public
+and private, and across both Wall Street and Main Street are pointing to what continues
+
+to be central to our bullishness on U.S. Equities: Corporate profits have been expanding
+and have been far from signaling a weaker economic backdrop.
+Of course, profits are in part benefiting from what’s shaping up to be a capital
+expenditure (capex) cycle of the ages. Five hyperscalers are now set to spend over
+$700 billion in capex this year alone, more than 70% higher YoY versus $416 billion
+in 2025 (See Exhibit 4B to put this year’s estimate in perspective). This extraordinary
+
+spending on AI data centers, graphics processing units (GPU) and networking has sent
+semiconductors’ revenues climbing, not to mention the physical power, cooling and
+electrical infrastructure companies required to support data centers. In the near-term,
+think cash flow pressure on the big spenders while AI suppliers enjoy higher revenues
+and margins. Hence our overweight to Industrials, for example, while we remain neutral
+on Information Technology and underweight Communication Services.
+
+Exhibit 4: Corporate Profits at Record Amid Historic Capital Investment.
+C) No Recession in Sight with U.S. Corporate Profits at Record Highs. D) Holy Spend: Putting Hyperscalers' $700 Billion-Plus Investment in Perspective.
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+1947 1953 1959 1965 1971 1977 1983 1989 1995 2001 2007 2013 2019 2025
+Corporate Proﬁts as a Share of Nominal GDP
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+Europe's
+Total Defense
+Spending
+Hyperscaler
+Capex
+
+in 2026
+Annual U.S.
+Medicaid
+Spending
+China's U.S.
+Treasury
+Holdings
+Singapore's
+GDP
+Brazil's
+Market
+Cap
+Global
+Power Grid
+Investment
+USD Billions
+Exhibit 4A) Gray bars represent recessionary periods. Source: Bureau of Economic Analysis. Data as of April 9, 2026. Exhibit 4B) Sources: Stockholm International Peace Research Institute
+(SIPRI), Bloomberg, company filings, U.S. Treasury, International Monetary Fund, FactSet, BloombergNEF . Europe's total defense spending, Singapore's GDP , and global power grid investment
+
+refer to 2025. U.S. Medicaid spending refers to the 12 months ending in March. China's U.S. Treasury holdings refers to February 2026 data. Brazil's market cap as of May 6, 2026. Latest
+data available.
+Looking ahead, the path for U.S. Equities is not without risk. In the near term, we
+wouldn’t be surprised to see some chop and churn should geopolitical conflict reescalate.
+Weaker returns and higher volatility even in the face of strong growth wouldn’t be out
+
+of the ordinary in a mid-term election year. Shifting sentiment toward AI also bears
+watching, particularly given recent parabolic movement in heavyweight semiconductors.
+The Philadelphia Stock Exchange Semiconductor Index (“SOX”) is now some 60% above
+the index’s 200-day moving average, with a handful of names in South Korea and Taiwan
+soaring in lockstep. Per the latter, this year alone, Taiwan has surpassed France, China
+and Canada to become the fourth-largest country weight in the MSCI All-Country World
+
+Index (behind just the U.S., Japan and the United Kingdom).
+But the bottom line is it’s hard to go against U.S. Equities with corporate profits and
+earnings momentum in such good shape. Technology may be dominating performance
+as of late, amplified in part by its weight in the index, but growth under the surface
+is broadening to the rest of the economy, in our view. Stay diversified, particularly as
+headlines shift on a dime, and, remember: Over long periods, Equity returns are primarily
+
+driven by corporate earnings growth. It’s this fundamental engine that fuels our ongoing
+bias to the U.S. in portfolios.
+
+===== Page 14 =====
+
+6 of 8 May 11, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+THOUGHT OF THE WEEK
+Along the Same Distorted Lines…
+Lauren Sanfilippo, Director and Senior Investment Strategist
+Given its disproportionate impact on market performance, earnings and GDP , AI spans
+and shapes both the equity market and the economy. From its impact on labor markets
+and the rerouted trade flows in AI-related goods, to record hyperscaler debt issuance and
+its growing contribution to earnings and equity performance, AI-driven distortions are
+
+becoming increasingly visible. In Equities, this manifests as the reasserted technology/
+AI-adjacent narrow leadership. On display there has been the semiconductor sector
+parabolic move of 44% off the recent March low. Performance-wise, the S&P 500’s
+YTD return of 6% would be a more meager 2.2% gain absent the semiconductor stocks
+contribution, driven by demand and supply dynamics.
+3
+To further gauge AI’s contribution see Exhibit 5A that shows the YoY growth in U.S.
+
+goods imports for AI and non-AI categories. After moving in tandem for 30 years,
+imports of semiconductors and related hardware decoupled from all other goods in
+2024, with AI-linked demand surging as non-AI imports declined. Since, the divergence
+has only widened. Take Q1 GDP for another example, that at last check expanded
+at roughly a 2.0% annualized rate. Business investment in information technology
+equipment and software contributed approximately 1.5% to overall growth, an
+
+extraordinary share that reflects the scale and apparent urgency of AI-related capital
+deployment across America.
+See Exhibit 5B that shows the outperformance of semi and semicap equipment
+relative to the broader S&P 500 Index over the three-and-a-half years since ChatGPT’s
+launch. Accordingly, semiconductor stocks represent 17% of the S&P 500’s market
+capitalization, ballooning from 5% since ChatGPT’s advent. Not abating are semi’s
+earnings estimates, which are on pace for a stunning near-80% EPS growth for this year.
+
+In other words, as semiconductors have become a marginal driver of Equity returns,
+AI-oriented investment has become a marginal driver of economic growth. And so, the
+narrowness of the AI-trade festers as AI-driven investment continues to be a central
+pillar of economic growth. Nonetheless, from a portfolio risk management perspective,
+we’d incorporate a more varied mix of variables—spanning size, style and sector—to
+best capture the fits and starts of narrowness and broadening seen this year.
+
+Exhibit 5: The Divergence in AI/non-AI goods imports and Semis Lift-Off.
+A) U.S. Imported Goods Disaggregated. B) Semis and Everything Else.
+-60
+-40
+-20
+0
+20
+40
+60
+80
+2003 2005 2007 2009 2011 2013 2015 2017 2019 2021 2023 2025
+YoY Change in Goods Imports (%)
+AI-Related Products*
+Total Ex-AI-Related Products
+50
+150
+250
+350
+450
+550
+650
+11/30/2022 1/31/2023 3/31/2023 5/31/2023 7/31/2023 9/30/2023 11/30/2023 1/31/2024 3/31/2024 5/31/2024 7/31/2024 9/30/2024 11/30/2024 1/31/2025 3/31/2025 5/31/2025 7/31/2025 9/30/2025 11/30/2025 1/31/2026 3/31/2026
+
+Indexed to 100 = 11/30/2022, ChatGPT launch
+Semiconductor & Semicap Equipment S&P 500
+Exhibit 5A) *Includes computer equipment, communications equipment, and semiconductors and other electronic components. Source: Census Bureau, Haver Analytics. Data as of May 5,
+2026. Exhibit 5B) Source: Source: Bloomberg. Data as of May 6, 2026. Past performance is no guarantee of future results. Please refer to index definitions at the end of this report. It is
+
+not possible to invest directly in an index.
+3 Data as of May 5, 2026. Source: Bloomberg.
+Investment Implications
+The Equity narrowness and GDP
+contribution of AI seen over the first
+four months of the year could persist
+given the basic equation of insatiable
+demand and structural constraints
+that are pushing prices and profits for
+related companies higher.
+
+===== Page 15 =====
+
+7 of 8 May 11, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+MARKETS IN REVIEW
+Equities
+Total Return in USD (%)
+Current WTD MTD YTD
+DJIA  49,609.16 0.2 -0.1 3.7
+NASDAQ  26,247.08 4.5 5.5 13.1
+S&P 500  7,398.93 2.4 2.7 8.5
+S&P 400 Mid Cap  3,699.83 1.7 1.7 12.4
+Russell 2000  2,861.21 1.7 2.2 15.7
+MSCI World  4,757.30 1.8 2.1 7.9
+MSCI EAFE  3,076.29 1.1 1.4 7.6
+MSCI Emerging Markets  1,711.25 6.9 7.0 22.5
+Fixed Income†
+Total Return in USD (%)
+Current WTD MTD YTD
+Corporate & Government 4.51 0.25 0.35 0.27
+Agencies 4.25 0.13 0.15 0.53
+Municipals 3.66 0.20 0.21 1.18
+U.S. Investment-Grade Credit 4.59 0.26 0.37 0.44
+International 5.10 0.38 0.52 0.44
+High Yield 6.94 0.05 0.18 1.37
+90 Day Yield 3.68 3.65 3.66 3.63
+2 Year Yield 3.88 3.88 3.87 3.47
+10 Year Yield 4.35 4.37 4.37 4.17
+30 Year Yield 4.93 4.96 4.97 4.84
+Commodities & Currencies
+Commodities
+Total Return in USD (%)
+Current WTD MTD YTD
+Bloomberg Commodity 353.05 -1.2 -1.4 27.8
+WTI Crude $/Barrel†† 95.42 -6.4 -9.2 66.2
+Gold Spot $/Ounce†† 4715.25 2.2 2.1 9.2
+Currencies
+Total Return in USD (%)
+Current
+Prior 
+Week End
+Prior 
+Month End
+2025 
+Year End
+EUR/USD 1.18 1.17 1.17 1.17
+USD/JPY 156.68 157.01 156.59 156.71
+USD/CNH 6.80 6.83 6.83 6.98
+S&P Sector Returns
+-6.0% -4.0% -2.0% 0.0% 2.0% 4.0% 6.0% 8.0%
+Energy
+Utilities
+Financials
+Healthcare
+Consumer Staples
+Real Estate
+Industrials
+Materials
+Consumer Discretionary
+Communication Services
+Information Technology
+-5.3%
+-3.9%
+-1.3%
+-1.1%
+-0.2%
+0.1%
+0.2%
+0.6%
+1.8%
+1.9%
+7.0%
+Sources: Bloomberg, Factset. Total Returns from the period of 
+05/04/2026 to 05/08/2026. †Bloomberg Barclays Indices. ††Spot 
+price returns. All data as of the 05/08/2026 close. Data would differ 
+if a different time period was displayed. Short-term performance 
+shown to illustrate more recent trend. Past performance is no 
+guarantee of future results. 
+Economic Forecasts (as of 5/8/2026)
+Q1 2026A Q2 2026E Q3 2026E Q4 2026E 2026E 2027E
+Real global GDP (% y/y annualized) - - - - 3.1 3.4
+Real U.S. GDP (% q/q annualized) 2.0 2.5 1.9 1.9 2.2 2.2
+CPI inflation (% y/y) 2.7 4.2 4.1 3.8 3.7 2.3
+Core CPI inflation (% y/y**) 2.5 2.7 2.6 2.8 2.7 2.5
+Unemployment rate (%) 4.3 4.5 4.5 4.4 4.4 4.3
+Fed funds rate, end period (%) 3.63 3.63 3.63 3.63 3.63 3.13
+The forecasts in the table above are the base line view from BofA Global Research. The Global Wealth & Investment 
+Management (GWIM) Investment Strategy Committee (ISC) may make adjustments to this view over the course of 
+the year and can express upside/downside to these forecasts. Historical data is sourced from Bloomberg, FactSet, and 
+Haver Analytics. There can be no assurance that the forecasts will be achieved. Economic or financial forecasts 
+are inherently limited and should not be relied on as indicators of future investment performance. 
+A = Actual. E/* = Estimate. Data as of May 8, 2026.
+Sources: BofA Global Research; GWIM ISC as of May 8, 2026. 
+Asset Class Weightings (as of 5/5/2026)
+Asset Class
+CIO View  
+Underweight Neutral Overweight
+Global Equities
+U.S. Large-cap Growth
+U.S. Large-cap Value
+U.S. Small-cap Growth
+U.S. Small-cap Growth
+International Developed
+Emerging Markets
+Global Fixed Income
+U.S. Governments
+U.S. Mortgages
+U.S. Corporates
+International Fixed 
+Income
+High Yield
+U.S. Investment-grade  
+Tax Exempt
+U.S. High Yield Tax 
+Exempt
+Alternative Investments
+Hedge Strategies 
+Private Equity  
+Private Credit  
+Real Assets 
+Cash
+
+* Many products that pursue Alternative Investment strategies, specifically Private Equity and Hedge Funds, 
+are available only to qualified investors. CIO asset class views are relative to the CIO Strategic Asset Allocation 
+(SAA) of a multi-asset portfolio. Source: Chief Investment Office as of May 5, 2026. All sector and asset allocation 
+recommendations must be considered in the context of an individual investor’s goals, time horizon, liquidity needs and 
+risk tolerance. Not all recommendations will be in the best interest of all investors.
+CIO Equity Sector Views
+Sector
+CIO View  
+Underweight Neutral Overweight
+Industrials
+Consumer 
+Discretionary
+Financials
+Information 
+Technology
+Energy
+Materials
+Utilities
+Healthcare
+Communication 
+Services
+Real Estate
+Consumer 
+Staples
+
+===== Page 16 =====
+
+8 of 8 May 11, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+Index Definitions
+Securities indexes assume reinvestment of all distributions and interest payments. Indexes are unmanaged and do not take into account fees or expenses. It is not possible to
+invest directly in an index. Indexes are all based in U.S. dollars.
+S&P 500 Index is a stock market index tracking the stock performance of 500 leading companies listed on stock exchanges in the United States.
+
+S&P 500 Market-cap Weighted Index is a stock market index where companies are weighted based on their total market capitalization (shares outstanding price), meaning larger companies
+like Nvidia, Apple, and Microsoft have a greater influence on performance.
+S&P 600 Index is a market-capitalization-weighted stock index maintained by S&P Dow Jones Indices that tracks 600 small-sized U.S. companies.
+S&P 400 Index is a stock market index from S&P Dow Jones Indices that measures the performance of 400 medium-sized U.S. companies.
+
+Investing involves risk, including the possible loss of principal. Past performance is no guarantee of future results.
+Bank of America, Merrill, their affiliates and advisors do not provide legal, tax or accounting advice. Clients should consult their legal and/or tax advisors before making any financial decisions.
+This material does not take into account a client’s particular investment objectives, financial situations, or needs and is not intended as a recommendation, offer, or solicitation for the purchase
+
+or sale of any security or investment strategy. Merrill offers a broad range of brokerage, investment advisory and other services. There are important differences between brokerage and
+investment advisory services, including the type of advice and assistance provided, the fees charged, and the rights and obligations of the parties. It is important to understand the differences,
+particularly when determining which service or services to select. For more information about these services and their differences, speak with your Merrill financial advisor.
+
+of America, Merrill or any affiliate to sell or provide, or a specific invitation for a consumer to apply for, any particular retail financial product or service that may be available.
+The Chief Investment Office (“CIO”) provides thought leadership on wealth management, investment strategy and global markets; portfolio management solutions; due diligence; and solutions
+oversight and data analytics. CIO viewpoints are developed for Bank of America Private Bank, a division of Bank of America, N.A., (“Bank of America”) and Merrill Lynch, Pierce, Fenner & Smith
+
+The Global Wealth & Investment Management Investment Strategy Committee (“GWIM ISC”) is responsible for developing and coordinating recommendations for short-term and long-term
+investment strategy and market views encompassing markets, economic indicators, asset classes and other market-related projections affecting GWIM.
+BofA Global Research is research produced by BofA Securities, Inc. (“BofAS”) and/or one or more of its affiliates. BofAS is a registered broker-dealer, Member SIPC and wholly owned subsidiary
+
+of Bank of America Corporation.
+All recommendations must be considered in the context of an individual investor’s goals, time horizon, liquidity needs and risk tolerance. Not all recommendations will be in the best interest
+of all investors.
+Asset allocation, diversification and rebalancing do not ensure a profit or protect against loss in declining markets.
+Investments have varying degrees of risk. Some of the risks involved with equity securities include the possibility that the value of the stocks may fluctuate in response to events specific to
+
+the companies or markets, as well as economic, political or social events in the U.S. or abroad. Small cap and mid cap companies pose special risks, including possible illiquidity and greater price
+volatility than funds consisting of larger, more established companies. Investing in fixed-income securities may involve certain risks, including the credit quality of individual issuers, possible
+prepayments, market or economic developments and yields and share price fluctuations due to changes in interest rates. When interest rates go up, bond prices typically drop, and vice versa.
+
+Investments in high-yield bonds (sometimes referred to as “junk bonds”) offer the potential for high current income and attractive total return, but involves certain risks. Changes in economic
+conditions or other circumstances may adversely affect a junk bond issuer’s ability to make principal and interest payments. Income from investing in municipal bonds is generally exempt
+from Federal and state taxes for residents of the issuing state. While the interest income is tax-exempt, any capital gains distributed are taxable to the investor. Income for some investors
+
+may be subject to the Federal Alternative Minimum Tax (AMT). Treasury bills are less volatile than longer-term fixed income securities and are guaranteed as to timely payment of principal and
+interest by the U.S. government. Bonds are subject to interest rate, inflation and credit risks. Investments in foreign securities (including ADRs) involve special risks, including foreign currency
+risk and the possibility of substantial volatility due to adverse political, economic or other developments. These risks are magnified for investments made in emerging markets. Investments in
+
+a certain industry or sector may pose additional risk due to lack of diversification and sector concentration. There are special risks associated with an investment in commodities, such as gold,
+including market price fluctuations, regulatory changes, interest rate changes, credit risk, economic changes and the impact of adverse political or financial factors.
+Alternative investments are speculative and involve a high degree of risk.
+Alternative investments are intended for qualified investors only. Alternative Investments such as derivatives, hedge funds, private credit, private equity funds, and funds of funds can result
+
+in higher return potential but also higher loss potential. Changes in economic conditions or other circumstances may adversely affect your investments. Before you invest in alternative
+investments, you should consider your overall financial situation, how much money you have to invest, your need for liquidity, and your tolerance for risk.
+Nonfinancial assets, such as closely held businesses, real estate, fine art, oil, gas and mineral properties, and timber, farm and ranch land, are complex in nature and involve risks including total
+
+===== Page 17 =====
+
+CHIEF INVESTMENT OFFICE
+Capital Market Outlook
+
+===== Page 18 =====
+
+2 of 8 May 4, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+MACRO STRATEGY
+No Two Oil Shocks Are Created Equal
+Chief Investment Office, Macro Strategy Team
+The Strait of Hormuz crisis has resulted in the largest oil trade disruption in history,
+affecting about 20 mbd—roughly 20% of global crude and refined product supply. Export
+flows effectively stopped by mid-April, particularly affecting Asia and Europe for two
+reasons. First, 82% of Hormuz exports typically go to Asia, covering roughly 60% of the
+
+region’s imports and 45% of its demand. Second, refinery closures, low spare refining
+capacity, Russian import restrictions and thin jet fuel inventories left Europe exposed to
+jet fuel shortages. Jet fuel imports cover 30% of European demand, 75% of which are via
+Hormuz (about 0.375 mbd).
+Several mitigating factors have narrowed the effective supply shortage to about half
+the headline disruption, howev er, helping limit its global impact. These include: (1) about
+
+3 mbd oversupplied initial conditions;
+1 (2) pipeline and port rerouting of about 5 mbd;
+(3) global inventories at a five year high, 2 with immediate drawdowns of commercial
+inventories and floating storage; (4) brief Iran and Russia sanction waiv ers; (5) rising
+refinery capacity utilization across Organisation for Economic Co-operation and
+Development (OECD) Americas to multidecade seasonal highs and rising U.S. refined
+product exports; and (6) fuel substitution. T ogether, these factors imply a net global
+
+supply loss closer to 10 mbd than the 20 mbd headline disruption, helping stretch
+inventory cover and limit global macroeconomic effects.
+Difficulty in replacing Middle Eastern heavy sour crude combined with the high
+concentration of refining capacity in Asia and little spare capacity elsewhere has led
+to acute localized shortages of refining feedstock and refined products. Faced with a
+roughly 8 mbd shortage, thin inventories in many countries,
+3 limited immediate relief
+
+and fuel affordability pressures, Asia has borne the brunt of oil demand destruction and
+economic stress. Consumption cuts—via work from home, less business travel, increased
+rail transport, higher prices, and suppression of lower-value oil use—quickly absorbed
+a significant part of the shock. According to IEA estimates, global consumption likely
+dropped by about 2.3 mbd in April year over year, mainly in Southeast Asia and the
+Middle East. With about eight months of Hormuz oil imports in inventories and ample
+
+refining capacity, China has been less impacted so far, and easing export restrictions
+starting in May will help alleviate regional supply tightness.
+A 400 mb IEA-coordinated Strategic Petroleum Reserve (SPR) release—including 172
+mb from the U.S. and representing about 22% of total strategic reserves held by the 32
+OECD countries that are also IEA members and about 40 days of the net Hormuz-related
+global supply shortfall—can only help ease the global supply shortage to a limited extent.
+
+As it turns out, not all crude oil is created equal. Asian refineries are largely configured
+for medium/heavy sour Middle Eastern crude, which produces more jet fuel and diesel
+than gasoline, and are generally incompatible with light sweet crude such as U.S. oil.
+Even where partial substitution is possible, jet fuel and diesel yields are materially lower.
+Logistical constraints also add friction, with up to an estimated two month lag from a
+U.S. SPR release to Asian refined output, for example. All in all, reflecting the refining
+
+bottleneck, global jet fuel and diesel supply constraints have pushed up prices by much
+more than oil prices have increased, more consistent with $150 to $175 per barrel
+Brent oil.
+While Europe’s crude oil exposure to Hormuz trade is more modest—around 5% of total
+oil consumption—its jet fuel and diesel import dependence is high, as noted above.
+Around 63% of Europe’s SPR release therefore consists of refined products. Still, its jet
+fuel inventories are relatively thin, not least due to relatively more expensive specialized
+
+1 IEA January 2026 Oil Market Report (OMR).
+2 IEA March 2026 OMR.
+3 Per IEA April 2026 OMR, non-OECD Asia refineries (excluding China) typically hold just 22 days of crude oil.
+Portfolio Considerations
+With resilient U.S. growth but risks
+of bigger oil disruptions should the
+Iran conflict persist, portfolios should
+stay pro quality and U.S.-centric.
+U.S. Equities also remain structurally
+advantaged by energy self-sufficiency,
+stronger productivity growth and a
+
+stronger AI-driven capital expenditures
+cycle.
+
+===== Page 19 =====
+
+3 of 8 May 4, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+storage and monitoring requirements, heightening aviation industry stress and forcing
+precautionary consumption cuts.
+Robust U.S. economic underpinnings and energy self-sufficiency have been central to
+global economic stability in the face of the Hormuz oil shock. The U.S. became a net
+crude oil exporter in April, and its net exports of refined oil products surged to 6 mbd
+in April, up 20% year-over-year (YoY). This, combined with declining energy intensity, a
+
+smaller gasoline share of consumer spending and One Big Beautiful Bill Act (OBBBA)
+tax support, has helped limit the Hormuz disruption impact both on the U.S. and
+global economy.
+Incoming data show that domestic growth has remained supported by the AI-driven
+capex/industrial sector revival, better-than-expected productivity growth, sustained
+consumer spending and strong profits. Q1 real GDP has increased 2.0% annualized,
+near potential and as expected, led by surging business equipment investment (up
+
+17% annualized). Strong gains in capital goods orders in March suggest investment
+growth has momentum into Q2. Most business surveys are in expansionary territory,
+and commercial and industrial bank lending increased strongly in March by the most in
+three years.
+The mix of resilient growth with solid efficiency and productivity gains has kept
+corporate earnings and investor risk appetite on the upswing. Forward earnings
+expectations for 2026 and 2027 have continued to rise, and earnings growth breadth
+
+across Large-, Mid- and Small-cap Indexes has increased to levels typical of bull markets.
+Manufacturing upcycles also tend to benefit Emerging Markets and overseas Equities, in
+general, with non-U.S. markets contributing meaningfully to the current earnings upcycle.
+Indeed, in light of a strong 3.9% global growth pace in Q4 2025 and positive global
+effects from reduced U.S. tariff rates, AI-related global spillover, OBBBA stimulus and
+growing defense spending around the world, the International Monetary Fund was
+
+preparing to raise its 2026 global growth forecast before the Iran conflict escalated.
+Instead, its base-case scenario (assuming an imminent resolution of the conflict)
+was modestly lowered to 3.1% mainly due to slower emerging-market growth linked
+to energy stress. This compares to 3.4% in 2024 to 2025 and 3.7% average growth
+between 2000–2019. Under an “adverse” energy scenario (oil near $100/barrel in 2026
+and $75/barrel in 2027), global growth is seen slowing to 2.5% in 2026 and rebounding
+
+to a below-average 3% in 2027. A “severe” scenario ($110 oil in 2026 and $125 in 2027)
+would see growth getting close to 2% in 2026 and 2027 (near recessionary levels).
+In sum, the Hormuz crisis is a severe but regionally concentrated energy shock.
+Preexisting global oversupply, inventory buffers, supply rerouting, demand adjustment,
+and U.S. economic and energy resilience have helped prevent a major global economic
+impact to date. The IEA estimates that roughly 80% of stranded capacity could be
+
+restored within two months after the reopening of Hormuz navigation. Moreover,
+according to the IEA, about 171 mb were stored in tankers in the Gulf and another 262
+mb in onshore storage as of mid April
+4 (about 40 days of current global shortfall), an
+important bridge to eventual export normalization. Roughly 5 mbd of spare capacity
+going into the Iran war, largely in Saudi Arabia, is also expected to support export
+recovery once the conflict resolves. Clearly, the longer the disruption persists, the greater
+
+the risk of derailment. For now, however, financial markets continue to price in a timely
+oil-flow normalization and continued economic expansion.
+4 IEA April 14, OMR.
+
+===== Page 20 =====
+
+4 of 8 May 4, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+MARKET VIEW
+The Next Frontier: China’s Rise as a Pharma Superpower
+Joseph Quinlan, Managing Director and Head of Market Strategy
+“China’s rise as a major center of drug development represents one of the most
+consequential shifts in the global life sciences landscape in a generation.”
+Food and Drug Administration Regulator Richard Pazdur 5
+And now medicine.
+After scaling and seizing control of one sector after another over the past few decades,
+
+China is rapidly emerging as a significant power in medicine. Indeed, China is already
+the world’s largest developer of new medicines after the U.S. That’s little recognized by
+investors, as is the fact that China is rapidly moving up the drug value chain using the
+same playbook it used to become a manufacturing powerhouse: Enter at the low end,
+provide oodles of government subsidies, scale relentlessly, build out capacity, prioritize
+the development of human capital, and leverage Western technology and innovation.
+
+The upshot: China’s stunning shift from bicycles to biotech—and the making of a drug
+superpower. Yes, China still suffers from a decades-long reputation that the quality and
+safety of their drugs are lower than America’s. But times are changing.
+Consider the following:
+• China accounted for 40% of global early-stage drug testing in Q3 2025, versus 35%
+in the U.S. according to The Journal of the American Medical Association. That’s up from
+just an 8% share a decade ago.
+
+• Roughly one-in-four generic drugs taken by Americans rely on ingredients from China.
+6
+• China supplies roughly one-third of the world’s active pharmaceutical ingredients. 7
+• Of the roughly 160 new obesity drugs in development around the world, one-third of
+them are from China, according to Bloomberg Intelligence.
+• Overseas partners signed a record 157 Chinese agreements ($136B) in 2025.
+8
+• Chinese drug leaders are now responsible for about 70% of the world’s antibody-drug
+
+conjugates (ADC), according to Goldman Sachs.
+• Chinese firms now account for roughly 24% of all first-in-class drug candidates in
+global development.
+9
+Summarizing the above: The world of “Big Pharma” no longer rests on the shoulders
+of U.S. and European firms. That’s the past. The present and future are evident in
+Exhibit 1A. In just the past decade, China’s role (and share) in global early-stage drug
+development has soared across various drug modalities and therapeutic areas, whether
+
+biologics, oncology or metabolic diseases. As the Journal of American Medical Association
+recently noted, “Global early-stage drug development has nearly doubled over the past
+decade, shifting from a system dominated by the U.S. toward a 2-hub structure centered
+on the U.S. and China.”
+10
+China’s rise as a life science giant has been underpinned by a number of factors,
+including regulatory reforms, state subsidies, a massive patient pool, generous spending
+
+on R&D, a centralized healthcare system and a deep bench of biological talent. Per the
+latter, China graduates five times the number of medical and biomedical students as
+5 “China’s Rise Threatens the Drug World’s Status Quo.” Axios, March 27, 2026.
+6 “China’s Grip on American Medicine Cabinets Grows More Entrenched,” Bloomberg November 18, 2025.
+7 “As China biotech firms shift gears, can AI floor the Accelerator?,” South China Morning Post, April 18, 2026.
+
+8 Ibid.
+9 Ibid.
+10 “Geographic Shifts in Early-stage Biopharmaceutical Innovation, JAMA. March 2026.
+Investment Implications
+Global life sciences offer attractive
+potential for investors, including China
+biotech leaders.
+
+===== Page 21 =====
+
+5 of 8 May 4, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+the U.S. year; in addition, given tighter U.S. immigration policies, some of China’s best
+and brightest medical talent in the U.S. is heading home—or back to China.
+China biotech excels at speed, scale and low cost. To wit, clinical trials are two to three
+times faster in China than the U.S. and less expensive. As noted by The Economist,
+“China’s firms can take a drug from discovery to the start of human trials in about half
+
+the global industry’s average time. A vast patient pool makes enrollment easier, and a
+large network of trial centers also speed things along.”
+11
+Against this backdrop, it is hardly surprising that new China-made medicines are
+attracting the capital and attention of U.S. pharmaceutical and biotech firms. As Exhibit
+1B shows, out-licensing deals have soared over the past decade, totaling a record 157
+last year, up from 94 deals in 2024 and just five a decade ago. (As a footnote: Out-
+
+licensing agreements typically involve a company in China granting another firm (e.g., a
+large U.S. pharmaceutical firm) the exclusive rights to further develop, manufacture and
+commercialize a drug once it has entered human trials).
+Reflecting the depth of U.S.-Sino drug ties, according to a recent survey by the
+Biotechnology Innovation Organization, a U.S. industry trade group, some 79% of 124
+bio-pharmaceutical U.S. companies have China-based development and manufacturing
+
+partners. Historically, these ties reflected China’s role as the world’s top supplier of
+low-cost generics and active pharmaceutical ingredients (APIs) used in everything from
+antibiotics to cancer drugs. This model was commodity-like—high volume, low margins,
+imitation rather than innovation, and little differentiation.
+But it’s different today. Boosted by various indigenous factors and expanding western
+ties, China is moving up the drug value chain. Investors need to sharpen their lens when
+
+it comes to China biotech. They need to recognize the patterns of the past, whereby
+China enters a sector at the low end but then hyper-accelerates towards the more
+competitive and profitable high-end value creation. Think steel, shipbuilding, renewable
+energy, electric vehicles—and now, biotech. We’ve seen this movie before.
+But how it all plays out remains to be seen. Many questions remain: Will low-cost
+Chinese drugs undercut the margins of U.S. pharmaceutical leaders? Will expanding
+
+biotech ties between the U.S. and China fall victim to rising geopolitical tensions? Can
+China continue to close the biotech innovation gap with the U.S.?
+Time will tell. Suffice it to say that a new global pharmaceutical order is in the making.
+We are positive on the China biotech sector and will continue to explore investment
+solutions for investors.
+Exhibit 1: China’s Rise in Global Drug Development and Out-Licensing Transactions.
+A) Share of Global Drug Development Programs. B) Number of China Innovative drug out-licensing transactions.
+
+2015 2024
+U.S. China U.S. China
+Biologics 45.7% 8.7% 35.7% 35.1%
+Small Molecules 49.9% 7.5% 39.4% 29.1%
+Cancer 48.7% 10.2% 36.5% 37.4%
+Infectious diseases 51.2% 9.0% 37.1% 25.8%
+Neurology/psychiatric conditions 51.8% 5.1% 42.0% 18.8%
+Other* 47.0% 6.4% 38.2% 26.7%
+5 6 11 17 22
+62
+50
+61
+89 94
+157
+0
+20
+40
+60
+80
+100
+120
+140
+160
+180
+2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+Exhibit 1A) *Other includes immune, endocrine/metabolic, gastrointestinal, cardiovascular, dermatologic, hematologic, ocular, and other miscellaneous disease areas. Source: The Journal of
+
+the American Medical Association. Data as of March 26, 2026. Exhibit 1B) Source: Pharmacube, CLSA. Data as of April 28, 2026.
+11 “Chinese Pharma’s Glow-Up”, The Economist, November 29, 2025.
+
+===== Page 22 =====
+
+6 of 8 May 4, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+THOUGHT OF THE WEEK
+Deal Activity Remains on Track in 2026
+Jordy Fuentes, Wealth Management Analyst
+Global deal activity entered 2026 with strong momentum following a robust 2025.
+Businesses pursuing exposure to the AI infrastructure buildout capitalized on fiscal
+tailwinds, easing borrowing costs and a solid macro backdrop. This positive foundation
+underpins our outlook for continued strength, with M&A and IPO activity well-positioned
+
+to advance further in 2026.
+In Q1 2026, global M&A deals surged to $1.2T, the strongest start to a year since
+2021 and the third consecutive quarter surpassing $1T (Exhibit 2). Similarly, global
+IPO proceeds reached $30.9B to a four-year high.
+12 The resurgence in activity
+reflects accelerating AI adoption and resilient economic fundamentals, with ongoing
+capital investment and healthy consumer spending supporting corporate confidence.
+Domestically, the U.S. remained a stronghold for dealmaking as it accounted for 52%
+
+of global M&A volumes and 27% of global IPO issuance in Q1, underscoring the depth
+and resilience of U.S. capital markets. Notably, M&A deals valued at over $10B increased
+47% YoY, marking the strongest quarter in LSEG’s data, compared to a 3% rise for
+deals valued below $500 million.
+13 While this divergence suggests deal activity remains
+top-heavy, it also signals balance sheet strength and flexibility among the largest
+corporations to execute deals in turbulent environments.
+
+Geopolitical instability to start 2026 has shifted the landscape, with some larger deals
+executed earlier than planned and others delayed amid concerns over a prolonged
+conflict in the Middle East. Stagflation worries have resurfaced as a result, which could
+temper deal activity. In our view, however, market indicators currently offer limited
+evidence that stagflation poses a sustained, long-term risk ahead.
+Reminiscent of April 2, 2025 Liberation Day, we expect deal activity to hold steady and
+
+pick up in the back half of the year, where conditions should stabilize and potential
+interest rate cuts could materialize. That said, near-term challenges could emerge if
+deal concentration begins to squeeze liquidity, geopolitical uncertainty persists, rate
+expectations shift, and equity market volatility picks up.
+For now, M&A activity remains robust, and the IPO forward calendar looks healthy. Deals
+are expected across Consumer, Energy, Industrials and Information Technology sectors.
+
+14
+Corporations may take a more cautious approach in today’s climate, but estimates
+point to continued strength throughout 2026 as they work to scale and enhance
+business models.
+Exhibit 2: Strongest Opening for Global M&A Deals since 2021.
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+$0
+$1,000
+$2,000
+$3,000
+$4,000
+$5,000
+$6,000
+$7,000
+2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 Q1
+Global M&A Deal Value, in millions
+First Quarter (LHS) Rest of Year (LHS) U.S. % of Global (RHS)
+
+Source: LSEG Data & Analytics. Data through March 31, 2026. As of April 27, 2026.
+12 LSEG Data & Analytics, Data as of April 27, 2026.
+13 Source: LSEG Data & Analytics. Data through March 31, 2026. As of April 27, 2026.
+14 PitchBook. Data as of April 14, 2026.
+Investment Implications
+The recent strength in deal activity is
+driven by corporations with disciplined
+balance sheets and a resilient economy.
+U.S. based businesses with stronger
+fundamentals and diversified business
+
+models should continue to support
+activity levels, one of the reasons why
+we favor the U.S. relative to the rest of
+the world.
+
+===== Page 23 =====
+
+7 of 8 May 4, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+MARKETS IN REVIEW
+Equities
+Total Return in USD (%)
+Current WTD MTD YTD
+DJIA  49,499.27 0.5 -0.3 3.5
+NASDAQ  25,114.44 1.1 0.9 8.2
+S&P 500  7,230.12 0.9 0.3 6.0
+S&P 400 Mid Cap  3,639.84 0.0 0.0 10.6
+Russell 2000  2,812.82 0.9 0.5 13.7
+MSCI World  4,674.25 0.9 0.3 6.0
+MSCI EAFE  3,048.80 1.0 0.3 6.5
+MSCI Emerging Markets  1,601.42 -0.5 0.1 14.6
+Fixed Income†
+Total Return in USD (%)
+Current WTD MTD YTD
+Corporate & Government 4.53 -0.40 0.10 0.02
+Agencies 4.25 -0.23 0.02 0.40
+Municipals 3.68 -0.33 0.01 0.98
+U.S. Investment-Grade Credit 4.61 -0.39 0.11 0.18
+International 5.13 -0.45 0.15 0.06
+High Yield 6.94 0.05 0.14 1.33
+90 Day Yield 3.65 3.67 3.66 3.63
+2 Year Yield 3.88 3.78 3.87 3.47
+10 Year Yield 4.37 4.30 4.37 4.17
+30 Year Yield 4.96 4.91 4.97 4.84
+Commodities & Currencies
+Commodities
+Total Return in USD (%)
+Current WTD MTD YTD
+Bloomberg Commodity 357.46 3.1 -0.2 29.4
+WTI Crude $/Barrel†† 101.94 8.0 -3.0 77.5
+Gold Spot $/Ounce†† 4614.21 -2.0 -0.1 6.8
+Currencies
+Total Return in USD (%)
+Current
+Prior 
+Week End
+Prior 
+Month End
+2025 
+Year End
+EUR/USD 357.46 3.1 -0.2 29.4
+USD/JPY 101.94 8.0 -3.0 77.5
+USD/CNH 4614.21 -2.0 -0.1 6.8
+S&P Sector Returns
+-3.0% -2.0% -1.0% 0.0% 1.0% 2.0% 3.0% 4.0% 5.0%
+Materials
+Information Technology
+Industrials
+Consumer Discretionary
+Healthcare
+Utilities
+Financials
+Real Estate
+Consumer Staples
+Energy
+Communication Services
+-2.0%
+0.1%
+0.3%
+0.4%
+0.7%
+0.8%
+0.9%
+1.0%
+1.2%
+3.3%
+4.5%
+Sources: Bloomberg, Factset. Total Returns from the period of 
+04/24/2026 to 05/01/2026. †Bloomberg Barclays Indices. ††Spot 
+price returns. All data as of the 05/01/2026 close. Data would differ 
+if a different time period was displayed. Short-term performance 
+shown to illustrate more recent trend. Past performance is no 
+guarantee of future results. 
+Economic Forecasts (as of 4/24/2026)
+Q1 2026A Q2 2026E Q3 2026E Q4 2026E 2026E 2027E
+Real global GDP (% y/y annualized) - - - - 3.1 3.4
+Real U.S. GDP (% q/q annualized) 2.0 2.5 1.9 1.9 2.2 2.2
+CPI inflation (% y/y) 2.7 4.4 4.0 3.8 3.7 2.3
+Core CPI inflation (% y/y**) 2.5 2.8 2.7 2.9 2.7 2.6
+Unemployment rate (%) 4.3 4.5 4.5 4.4 4.4 4.3
+Fed funds rate, end period (%) 3.63 3.63 3.38 3.13 3.13 3.13
+The forecasts in the table above are the base line view from BofA Global Research. The Global Wealth & Investment 
+Management (GWIM) Investment Strategy Committee (ISC) may make adjustments to this view over the course of 
+the year and can express upside/downside to these forecasts. Historical data is sourced from Bloomberg, FactSet, and 
+Haver Analytics. There can be no assurance that the forecasts will be achieved. Economic or financial forecasts 
+are inherently limited and should not be relied on as indicators of future investment performance. 
+A = Actual. E/* = Estimate. Data as of May 1, 2026.
+Sources: BofA Global Research; GWIM ISC as of May 1, 2026. 
+Asset Class Weightings (as of 4/7/2026)
+Asset Class
+CIO View  
+Underweight Neutral Overweight
+Global Equities
+U.S. Large-cap Growth
+U.S. Large-cap Value
+U.S. Small-cap Growth
+U.S. Small-cap Growth
+International Developed
+Emerging Markets
+Global Fixed Income
+U.S. Governments
+U.S. Mortgages
+U.S. Corporates
+International Fixed 
+Income
+High Yield
+U.S. Investment-grade  
+Tax Exempt
+U.S. High Yield Tax 
+Exempt
+Alternative Investments
+Hedge Strategies 
+Private Equity  
+Private Credit  
+Real Assets 
+Cash
+
+* Many products that pursue Alternative Investment strategies, specifically Private Equity and Hedge Funds, are 
+available only to qualified investors. CIO asset class views are relative to the CIO Strategic Asset Allocation (SAA) 
+of a multi-asset portfolio. Source: Chief Investment Office as of April 7, 2026. All sector and asset allocation 
+recommendations must be considered in the context of an individual investor’s goals, time horizon, liquidity needs and 
+risk tolerance. Not all recommendations will be in the best interest of all investors.
+CIO Equity Sector Views
+Sector
+CIO View  
+Underweight Neutral Overweight
+Financials
+Consumer 
+Discretionary
+Industrials
+Utilities
+Energy
+Information 
+Technology
+Healthcare
+Materials
+Real Estate
+Consumer 
+Staples
+Communication 
+Services
+
+===== Page 24 =====
+
+8 of 8 May 4, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+Index Definitions
+Securities indexes assume reinvestment of all distributions and interest payments. Indexes are unmanaged and do not take into account fees or expenses. It is not possible to
+invest directly in an index. Indexes are all based in U.S. dollars.
+S&P 500/S&P 500 Price Return Index is a stock market index tracking the stock performance of 500 leading companies listed on stock exchanges in the United States.
+
+U.S. Economic Policy Uncertainty Index is an index constructed based on newspaper articles regarding policy uncertainty from leading newspapers.
+Caldara-Iacoviello Geopolitical Risk Index measures adverse geopolitical events and associated risks based on a tally of newspaper articles covering geopolitical tensions, and examine its
+evolution and economic effects since 1900.
+NASDAQ Composite Index is a stock market index that tracks over 3,000 companies listed on the Nasdaq stock exchange. It is heavily weighted toward technology, biotechnology, and
+
+Investing involves risk, including the possible loss of principal. Past performance is no guarantee of future results.
+Bank of America, Merrill, their affiliates and advisors do not provide legal, tax or accounting advice. Clients should consult their legal and/or tax advisors before making any financial decisions.
+This material does not take into account a client’s particular investment objectives, financial situations, or needs and is not intended as a recommendation, offer, or solicitation for the purchase
+
+or sale of any security or investment strategy. Merrill offers a broad range of brokerage, investment advisory and other services. There are important differences between brokerage and
+investment advisory services, including the type of advice and assistance provided, the fees charged, and the rights and obligations of the parties. It is important to understand the differences,
+particularly when determining which service or services to select. For more information about these services and their differences, speak with your Merrill financial advisor.
+
+of America, Merrill or any affiliate to sell or provide, or a specific invitation for a consumer to apply for, any particular retail financial product or service that may be available.
+The Chief Investment Office (“CIO”) provides thought leadership on wealth management, investment strategy and global markets; portfolio management solutions; due diligence; and solutions
+oversight and data analytics. CIO viewpoints are developed for Bank of America Private Bank, a division of Bank of America, N.A., (“Bank of America”) and Merrill Lynch, Pierce, Fenner & Smith
+
+The Global Wealth & Investment Management Investment Strategy Committee (“GWIM ISC”) is responsible for developing and coordinating recommendations for short-term and long-term
+investment strategy and market views encompassing markets, economic indicators, asset classes and other market-related projections affecting GWIM.
+BofA Global Research is research produced by BofA Securities, Inc. (“BofAS”) and/or one or more of its affiliates. BofAS is a registered broker-dealer, Member SIPC and wholly owned subsidiary
+
+of Bank of America Corporation.
+Any materials indicated as prepared by Bank of America Institute are solely those of Bank of America Institute, and are not the product of the BofA Global Research department, Merrill or
+anyother department of Bank of America Corporation or its affiliates and/or subsidiaries (collectively Bank of America).
+All recommendations must be considered in the context of an individual investor’s goals, time horizon, liquidity needs and risk tolerance. Not all recommendations will be in the best interest
+
+of all investors.
+Asset allocation, diversification and rebalancing do not ensure a profit or protect against loss in declining markets.
+Investments have varying degrees of risk. Some of the risks involved with equity securities include the possibility that the value of the stocks may fluctuate in response to events specific to
+the companies or markets, as well as economic, political or social events in the U.S. or abroad. Small cap and mid cap companies pose special risks, including possible illiquidity and greater price
+
+volatility than funds consisting of larger, more established companies. Investing in fixed-income securities may involve certain risks, including the credit quality of individual issuers, possible
+prepayments, market or economic developments and yields and share price fluctuations due to changes in interest rates. When interest rates go up, bond prices typically drop, and vice versa.
+Investments in high-yield bonds (sometimes referred to as “junk bonds”) offer the potential for high current income and attractive total return, but involves certain risks. Changes in economic
+
+conditions or other circumstances may adversely affect a junk bond issuer’s ability to make principal and interest payments. Income from investing in municipal bonds is generally exempt
+from Federal and state taxes for residents of the issuing state. While the interest income is tax-exempt, any capital gains distributed are taxable to the investor. Income for some investors
+may be subject to the Federal Alternative Minimum Tax (AMT). Treasury bills are less volatile than longer-term fixed income securities and are guaranteed as to timely payment of principal and
+
+interest by the U.S. government. Bonds are subject to interest rate, inflation and credit risks. Investments in foreign securities (including ADRs) involve special risks, including foreign currency
+risk and the possibility of substantial volatility due to adverse political, economic or other developments. These risks are magnified for investments made in emerging markets. Investments in
+a certain industry or sector may pose additional risk due to lack of diversification and sector concentration. There are special risks associated with an investment in commodities, such as gold,
+
+in higher return potential but also higher loss potential. Changes in economic conditions or other circumstances may adversely affect your investments. Before you invest in alternative
+investments, you should consider your overall financial situation, how much money you have to invest, your need for liquidity and your tolerance for risk.
+Nonfinancial assets, such as closely-held businesses, real estate, fine art, oil, gas and mineral properties, and timber, farm and ranch land, are complex in nature and involve risks including total
+
+===== Page 25 =====
+
+CHIEF INVESTMENT OFFICE
+Capital Market Outlook
+
+===== Page 26 =====
+
+2 of 8 April 27, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+MACRO STRATEGY
+Four Factors that Make the U.S. Economy the Heavyweight of
+the World
+Joseph Quinlan, Managing Director and Head of Market Strategy
+It absorbs punches. It deflects jabs. It bends but rarely buckles. It takes blows that would
+deck others. And when it takes a swing, it’s usually a knock-out punch.
+We are talking about the U.S. economy—a heavyweight fighter in a world that keeps
+
+throwing punches, jabs and roundhouses. Consider this decade alone: Through a global
+pandemic, wars in Europe and the Middle East, inflation shocks, political uncertainty,
+trade conflicts, supply chain disruptions, one economy has repeatedly demonstrated an
+unusual ability to take the hits and keep standing, the United States.
+The U.S. has added $9.2 trillion to its nominal GDP since the start of 2020, well ahead of
+China ($5 trillion), EU ($5.4 trillion) and other nations like Germany ($1.1 trillion), Japan
+
+(-$0.8 trillion) and India ($1.1 trillion). Nominal U.S. output totaled nearly $31 trillion in
+2025, a figure that equates to a global share of total output of 26%, up from 24.3% in
+2019. In other words, amid the tumult of this decade, America’s weight in the global
+economy has gone up, not down. Correspondingly, the S&P 500 has produced total
+returns of 140% since the start of this decade, or 14.9% on a compound annual basis.
+1
+The first factor: The Making of a Heavyweight: productivity, diversification, wealth,
+
+and entrepreneurial DNA. America’s ability to roll with the punches reflects its unique
+underlying strengths, one of which is the simple fact that American workers, in general,
+are more productive than their global peers. According to figures from the Organisation
+for Economic Co-operation and Development (OECD), the average American worker
+generates roughly $170,000 in economic output per annum, compared with $120,000 in
+the euro area, $118,000 in the UK and $96,000 in Japan.
+
+American workers (and companies) are more productive because they have more tools
+at their disposal—think more capital, more cutting-edge technology, more research &
+development funding, more labor market flexibility, and more abundant and cheaper
+energy. By leveraging all of these factors, the U.S. economy, with just 4.7% of the world’s
+labor force, produces more than one-quarter of global GDP . It is remarkable how much
+more productive the U.S. economy is relative to China and India (Exhibit 1A). With a
+
+combined labor force of 1.4 billion workers, or nearly 40% of the total, India’s and China’s
+aggregated GDP ($23.5 trillion) in 2025 was nearly one-quarter less than America’s total
+output ($30.8 trillion).2 The bottom line: The U.S. economy remains among the most
+productive in the world.
+A second factor of strength: The U.S. economy is among the most diversified
+economies in the world—a competitive advantage that allows the economy to absorb
+and adapt to various shocks. Widely underappreciated by investors, the U.S. economy
+
+does many things very well. The U.S. is not just a superpower in such critical sectors
+as technology, finance and energy, but also a global juggernaut in aerospace and
+defense, capital goods, agriculture, entertainment and transportation. Whether goods or
+services—it doesn’t matter—the U.S. typically leads.
+And then there is the U.S. healthcare industry, which on a stand-alone basis, ranks as
+the third-largest economy in the world (Exhibit 1B). The key takeaway is that the U.S.
+
+economy is the furthest thing from being a one-trick pony. Multiple engines fire the
+economy, providing more ballast and support in a shock-prone world.
+A third factor of U.S. economic strength lies with the fact that the U.S. remains
+extraordinarily wealthy (Exhibit 1C). Based on the latest figures from the International
+Monetary Fund (IMF), the U.S.’ per capita income ($90.000) is roughly 50% higher
+than Germany’s and light years ahead of China ($14,000) and India ($2,700). Yes, the
+
+latter have massive populations, but their labor force remains generally unproductive
+and therefore poor, unable to generate the consumer demand on the scale of the U.S.
+1 Figures in this paragraph from the IMF .
+2 Ibid.
+Investment Implications
+No economy has absorbed shocks
+better than the U.S., making U.S.
+securities among the most attractive in
+the world.
+
+===== Page 27 =====
+
+3 of 8 April 27, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+And speaking of scale, the U.S. consumer generates over 30% of global consumption
+according to the IMF.
+In the end, America’s wealth acts as a shock absorber to unexpected downturns or one-
+off events; it gives the economy the wherewithal to adjust and reset during difficult
+times versus the immediate constraints to growth in poorer nations.
+And the fourth factor: America’s unique entrepreneurial ecosystem that encourages and
+
+enables the incessant churn of creative destruction between startups and incumbents.
+America’s economic metabolism is different from the rest of the world. Risk-taking
+pulsates throughout our economy. No country creates and destroys as manically as
+America. Our strength lies in starting businesses and letting them fail. Our social and
+political tolerance for letting companies go under is one of America’s greatest assets. It’s
+okay to fail in America.
+
+To this point, just since 2000, more than half (52%) of the companies on the Fortune
+500 list have gone bankrupt, been acquired or ceased to exist. Take note of Exhibit 1D,
+which contrasts the top 10 largest U.S. publicly traded companies at the start of this
+century with today. Of the top firms by market cap, only two companies—Microsoft and
+Walmart—remain on the list today; the fate of the others has ebbed and flowed with the
+ever-shifting competitive landscape of the economy.
+
+America’s entrepreneurial DNA empowers startups, enables innovation, fosters
+competition, creates opportunities and challenges incumbents. It’s our secret sauce
+that encourages more productivity, a more diversified economy, and more wealth-
+creation. The bottom line: In a world rife with tumult and uncertainty, it is imperative that
+investors understand that no economy takes the blows and punches better than the U.S.,
+creating, in our opinion, favorable long-term investment opportunities.
+
+Exhibit 1: The U.S. Economy’s Four Pillars of Strength.
+A) America is the Most Productive Economy in the World. B) Sector Heavyweight: U.S. Healthcare Industry is the Third Largest Economy.
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+United States European Union China India
+Share of Global Nominal GDP
+Share of Global Labor Force
+Share of Global
+0
+5
+10
+15
+20
+25
+30
+35
+United States
+China
+U.S. Healthcare
+Germany
+Japan
+United Kingdom
+India
+France
+Russia
+Italy
+Nominal GDP or U.S. Healthcare Expenditures in USD Trillions
+
+C) America is Extraordinarily Wealthy. D) Here Today, Gone Tomorrow.
+$89,991
+$60,439
+$47,088
+$35,973
+$13,968
+$2,675
+0
+20
+40
+60
+80
+100
+United States Germany European
+Union
+Japan China India
+GDP per capita in USD Thousands, Current Prices Top 10 U.S. Companies by Market Cap
+2000 2026
+Company Market Cap ($B) Company Market Cap ($B)
+1 Microsoft 601 NVIDIA 4,901
+2 General Electric 507 Alphabet 4,120
+3 Cisco Systems 355 Apple 3,967
+4 Walmart 308 Microsoft 3,139
+
+5 Intel 275 Amazon 2,694
+6 Pfizer 205 Broadcom 1,925
+7 Exxon Mobil 196 Meta 1,748
+8 IBM 192 Tesla 1,503
+9 Citigroup 187 Bershire Hathaway 1,023
+10 Time Warner 168 Walmart 1,016
+Exhibit 1A) Sources: International Labor Organization; World Bank; IMF . Data refers to 2025, as of April 14, 2026. Exhibit 1B) Sources: IMF; Centers for Medicare & Medicaid Services. U.S.
+healthcare estimate refers to 2024; GDP numbers refer to 2025. Data as of April 14, 2026. Exhibit 1C) Source: IMF . Data refers to 2025, as of April 14, 2026. Exhibit 1D) Source: Bloomberg.
+
+2000 data as of January 1, 2000. 2026 data as of April 17, 2026.
+
+===== Page 28 =====
+
+4 of 8 April 27, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+MARKET VIEW
+Equities Unfazed by Uncertainty
+Emily Avioli, Vice President and Investment Strategist
+Uncertainty is a defining feature of today’s investment landscape: Geopolitical risk looms
+large, oil prices remain volatile, midterm elections are quickly approaching, the outlook
+for Federal Reserve (Fed) policy is increasingly murky, and questions about the disruptive
+power of artificial intelligence (AI) continue to evolve.
+
+By some measures, today’s backdrop ranks among the most uncertain in modern history.
+So far in 2026, the U.S. Economic Policy Uncertainty Index has been above 300—2.5
+times its historical average—approximately 66% of the time.3  For perspective, the
+index has breached this threshold only about 4% of the time since 1985 (Exhibit 2).
+The Caldara-Iacoviello Geopolitical Risk Index, a measure of adverse geopolitical events,
+surged well above its historic average in Q1.4  Additionally, the Council on Foreign
+
+Relations reports that the number of global armed conflicts is currently the highest since
+the end of World War II.5
+Exhibit 2: U.S. Economic Policy Uncertainty Is Elevated....
+0
+2000
+4000
+6000
+8000
+0
+200
+400
+600
+800
+1985
+1987
+1989
+1991
+1993
+1995
+1997
+1999
+2001
+2003
+2005
+2007
+2009
+2011
+2013
+2015
+2017
+2019
+2021
+2023
+2025
+U.S. Economic Policy Uncertainty Index - 7 day moving average (LHS)
+U.S. Economic Policy Uncertainty Index - average since 1985 (LHS)
+
+S&P 500 Index (RHS)
+Sources: Bloomberg: Baker, S. R., Bloom, N., & Davis, S. J. Economic Policy Uncertainty Research. Data as of March 31, 2026.
+Past performance is no guarantee of future results. Please refer to index definitions at the end of this report. It is not
+possible to invest directly in an index.
+And yet, against this backdrop, Equities have shown remarkable resilience. The S&P 500
+recently rebounded from the brink of correction territory in just 11 days, erasing a 9%
+
+drawdown and reaching a new all-time high above the elusive 7,000 level. Over the same
+period, the technology-heavy NASDAQ Composite Index rose by a staggering 15.5%.
+It was the best 11-day stretch for both indexes since March 2022. Meanwhile, the
+Chicago Board Options Exchange's (CBOE) Volatility Index (VIX)—often referred to as the
+market’s “fear gauge”—swiftly retreated from a late-March peak of 31.1 to below the
+20.0 level, near where it stood prior to the escalation in Iran.6
+
+With geopolitical tensions unresolved and headline risks simmering, it’s reasonable to
+ask why Equity markets have resumed their grind higher. The answer is nuanced. First,
+it’s important to note that this pattern is not without precedent—periods of elevated
+uncertainty have tended to coincide with strong forward equity returns throughout
+history. Since 1985, when the seven-day moving average of the U.S. Economic Policy
+Uncertainty Index exceeded 300, the S&P 500 has delivered average price returns
+
+of roughly 15% over the subsequent six months and 29% over the subsequent 12
+months—well above returns observed following periods of lower uncertainty (Exhibit 3).
+There are a few factors that help to explain this counterintuitive dynamic. Elevated
+levels of uncertainty often coincide with more cautious investor positioning, higher cash
+3 Bloomberg, Baker, S. R., Bloom, N., and Davis, S. J., U.S. Economic Policy Uncertainty Index. Refers to average since 1985.
+
+Data as of March 31, 2026.
+4 Bloomberg, Caldara, D. and Iacoviello, M., Geopolitical Risk Index. Monthly data as of March 31, 2026.
+5 Council on Foreign Relations. December 18, 2025. Latest data available.
+6 Bloomberg. Data as of April 22, 2026. Price returns referenced.
+Investment Implications
+The fog of uncertainty is likely to
+continue to cloud the investment
+outlook moving forward. Long-term
+investors should continue to focus on
+fundamentals and maintain the highest
+
+level of diversification in portfolios.
+
+===== Page 29 =====
+
+5 of 8 April 27, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+balances, and lower levels of sentiment, all of which can leave stocks underowned and
+more responsive to incremental positive news. Some of those contrarian indicators
+became more prevalent in the weeks before the recent equity rally, aiding in the
+clawback.
+Exhibit 3: ...Which Historically, Has Not Been Bad For Equities.
+2%
+5%
+10%
+8%
+15%
+29%
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+(+) 3mo (+) 6mo (+) 12mo
+
+S&P 500 Price Return
+Period of lower uncertainty* Period of higher uncertainty**
+*Seven-day moving average of the U.S. Economic Policy Uncertainty Index <=300. **7-day moving average of the U.S.
+Economic Policy Uncertainty Index >300.Sources: Bloomberg: Baker, S. R., Bloom, N., & Davis, S. J. Economic Policy
+Uncertainty Research. Data as of March 31, 2026. Past performance is no guarantee of future results. Please refer to
+index definitions at the end of this report. It is not possible to invest directly in an index.
+
+As of early April, the BofA Global Research Fund Manager Survey showed that fund
+manager cash levels were at the highest level since May 2025, and sentiment was at
+the most bearish level since June 2025. The rally also came on the heels of a meaningful
+valuation compression, with the S&P 500 forward price-to-earnings ratio briefly dipping
+below 20.0x in late March,7 potentially representing an attractive entry point for those
+looking to deploy excess dry powder.
+
+At the same time, today’s equity market resilience reflects the strength of underlying
+fundamentals. Even amid unrelenting uncertainty and persistent headline risk, the “hard”
+earnings and economic data remain broadly positive. The start of earnings season has
+been encouraging, with the S&P 500 on track for a sixth consecutive quarter of double-
+digit year-over-year (YoY) earnings-per-share (EPS) growth and approximately 18.5% YoY
+EPS expansion for the full year 2026.8  Margins remain healthy, and earnings strength is
+
+expected to broaden across sectors. Importantly, forward guidance has been relatively
+unscathed by the recent conflict thus far. Earnings estimates for the S&P 500 have
+actually been revised higher since March 31, according to FactSet.
+The macroeconomic backdrop remains supportive as well. Weekly initial jobless claims
+continue to hover around 200,000, near multiyear lows. The U.S. economy added an
+above-estimated 178,000 jobs in March, while the unemployment rate ticked down
+
+to 4.3%. Consumer spending remains bifurcated but is resilient overall, with Bank of
+America Institute data showing that total debit and credit card spending excluding
+gasoline saw healthy growth of 3.6% YoY in March.9  U.S. retail sales tell a similar
+story—the overall value of purchases rose by 1.7% month-over-month (MoM) in March—
+the biggest monthly increase in a year—underscoring that consumers still have the
+wherewithal to spend. U.S. GDP estimates have been modestly reduced since the Middle
+
+East conflict began in late March, but the Atlanta Fed GDPNow tracker is still calling for
+growth of 1.2% in Q1.
+Risks have notably increased in recent weeks, and the outlook will likely be clouded by
+unknowns for some time. Even so, recent market activity suggests that that uncertainty
+alone is not sufficient to derail the secular bull market. In a world where uncertainty has
+become the new normal, staying anchored to fundamentals may be a sound strategy for
+
+long-term investors.
+7 Bloomberg. Data as of April 22, 2026.
+8 FactSet. Data as of April 22, 2026.
+9 Bank of America Institute. April 10, 2026.
+
+===== Page 30 =====
+
+6 of 8 April 27, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+THOUGHT OF THE WEEK
+Small but Mighty: Why Small-Caps are Leading the Charge
+Theadora Lamprecht, Assistant Vice President and Investment Strategist
+Small-cap Equities have emerged as one of the market’s standout performers this year.
+The Russell 2000 has gained 12% this year, materially outperforming the S&P 500, which
+has risen just 5%.
+10 This renewed strength is notable given that sustained higher rates and
+
+macro uncertainty would typically be expected to favor larger, more defensive companies.
+After briefly breaching correction territory (down roughly 11%) on March 30, the Russell
+2000 has staged an impressive rebound since then, rallying approximately 15%, 11
+climbing to a new all-time high last week, and is on pace for its strongest monthly
+advance (12%
+12 month-to-date) since December 2023, where it gained 12%. On a short-
+term basis, the index closed higher in 12 of 13 sessions in April marking its strongest
+
+streak since 2020.13
+13 Beneath the surface, breadth has also strengthened meaningfully.
+59% of Russell 2000 constituents recently reached new 20-day highs, compared to 47%
+of S&P 500 members (Exhibit 4). This marks the best reading above 50% since mid-
+2024. Several catalysts help explain their improving backdrop.
+Small-caps are benefiting from easing inflation pressures and renewed expectations
+for Fed rate cuts following the ceasefire-driven pullback in oil prices, as they are more
+
+sensitive to borrowing costs and domestically oriented growth. Valuations also remain
+attractive, with small-caps trading below historical averages and at a steep discount
+to large-caps. Together with recent outperformance, this suggests a broader market
+rotation away from mega-cap technology toward more cyclical segments of the market.
+In light of the evolving situation in Iran, a rise in oil prices wouldn’t necessarily be a
+headwind for small-caps. According to BofA Global Research, small-caps have roughly
+
+2X greater exposure to industries that benefit from higher oil prices, such as Energy and
+Capital Goods, than those hurt by rising oil costs. Moreover, since the start of the war,
+2026 consensus EPS estimates for small-caps have been revised higher by 2%, with
+earnings growth for small- and mid-caps now expected to be 20% versus approximately
+17% for large-caps.
+Taken together, improving breadth, supportive macro tailwinds, positive earnings trends
+
+and still-attractive valuations suggest the recent leadership from small-caps may be
+more than a short-term bounce and could have further room to grow.
+Exhibit 4: Strength Building in Small-Cap.
+0
+10
+20
+30
+40
+50
+60
+70
+80
+4/2023 10/2023 4/2024 10/2024 4/2025 10/2025 4/2026
+%
+Percentage of Russell 2000 Constituents Reaching a 20 - Day High
+Sources: Bloomberg; Strategas Research Partners. Data as of April 17, 2026. Past performance is no guarantee of future
+
+results. Please refer to index definitions at the end of this report. It is not possible to invest directly in an index.
+10 Bloomberg. Data as of April 24, 2026.
+11 Ibid.
+12 Ibid.
+13 Bloomberg. Data as of April 17, 2026.
+Investment Implications
+We remain overweight Small-caps as
+they are an attractive way to participate
+in a broadening equity market beyond
+the mega-cap names that have
+dominated in recent years. Small-caps
+can provide diversification benefits
+
+and are well positioned if leadership
+continues to rotate toward more cyclical
+and domestically- oriented areas of
+the market. They have the potential
+opportunity for investors seeking both
+value and upside participation as we
+move through the year.
+
+===== Page 31 =====
+
+7 of 8 April 27, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+MARKETS IN REVIEW
+Equities
+Total Return in USD (%)
+Current WTD MTD YTD
+DJIA  49,230.71 -0.4 6.3 2.9
+NASDAQ  24,836.60 1.5 15.1 7.0
+S&P 500  7,165.08 0.6 9.8 5.1
+S&P 400 Mid Cap  3,641.32 -0.1 7.9 10.6
+Russell 2000  2,787.00 0.4 11.7 12.7
+MSCI World  4,632.83 -0.3 8.9 5.0
+MSCI EAFE  3,021.80 -2.7 6.8 5.4
+MSCI Emerging Markets  1,610.00 0.8 15.4 15.2
+Fixed Income†
+Total Return in USD (%)
+Current WTD MTD YTD
+Corporate & Government 4.43 -0.24 0.62 0.42
+Agencies 4.17 -0.11 0.41 0.63
+Municipals 3.60 0.03 1.50 1.32
+U.S. Investment-Grade Credit 4.51 -0.26 0.62 0.57
+International 5.03 -0.27 1.05 0.51
+High Yield 6.90 -0.19 1.78 1.28
+90 Day Yield 3.67 3.68 3.67 3.63
+2 Year Yield 3.78 3.71 3.79 3.47
+10 Year Yield 4.30 4.25 4.32 4.17
+30 Year Yield 4.91 4.88 4.91 4.84
+Commodities & Currencies
+Commodities
+Total Return in USD (%)
+Current WTD MTD YTD
+Bloomberg Commodity 346.75 3.6 0.9 25.5
+WTI Crude $/Barrel†† 94.40 12.6 -6.9 64.4
+Gold Spot $/Ounce†† 4709.5 -2.5 0.9 9.0
+Currencies
+Total Return in USD (%)
+Current
+Prior 
+Week End
+Prior 
+Month End
+2025 
+Year End
+EUR/USD 1.17 1.18 1.16 1.17
+USD/JPY 159.38 158.64 158.72 156.71
+USD/CNH 6.83 6.82 6.89 6.98
+S&P Sector Returns
+- 3.1%
+- 1.9%
+- 1.5%
+- 0.8%
+- 0.6%
+- 0.3%
+0.1%
+0.1%
+1.3%
+3.1%
+3.2%
+-4% -3% -2% -1% 0% 1% 2% 3% 4%
+Healthcare
+Financials
+Real Estate
+Communication Services
+Industrials
+Consumer Discretionary
+Materials
+Utilities
+Consumer Staples
+Information Technology
+Energy
+Sources: Bloomberg, Factset. Total Returns from the period of 
+04/20/2026 to 04/24/2026. †Bloomberg Barclays Indices. ††Spot 
+price returns. All data as of the 4/24/2026 close. Data would differ 
+if a different time period was displayed. Short-term performance 
+shown to illustrate more recent trend. Past performance is no 
+guarantee of future results. 
+Economic Forecasts (as of 4/24/2026)
+Q1 2026A Q2 2026E Q3 2026E Q4 2026E 2026E 2027E
+Real global GDP (% y/y annualized) - - - - 3.1 3.4
+Real U.S. GDP (% q/q annualized) 2.5* 2.5 1.9 1.9 2.3 2.2
+CPI inflation (% y/y) 2.7 4.1 3.8 3.6 3.6 2.3
+Core CPI inflation (% y/y**) 2.5 2.8 2.7 2.9 2.7 2.6
+Unemployment rate (%) 4.3 4.5 4.5 4.4 4.4 4.3
+Fed funds rate, end period (%) 3.63 3.63 3.38 3.13 3.13 3.13
+The forecasts in the table above are the base line view from BofA Global Research. The Global Wealth & Investment 
+Management (GWIM) Investment Strategy Committee (ISC) may make adjustments to this view over the course of 
+the year and can express upside/downside to these forecasts. Historical data is sourced from Bloomberg, FactSet, and 
+Haver Analytics. There can be no assurance that the forecasts will be achieved. Economic or financial forecasts 
+are inherently limited and should not be relied on as indicators of future investment performance. 
+A = Actual. E/* = Estimate. Data as of April 24, 2026.
+Sources: BofA Global Research; GWIM ISC as of April 24, 2026.  
+Asset Class Weightings (as of 4/7/2026)
+Asset Class
+CIO View  
+Underweight Neutral Overweight
+Global Equities
+U.S. Large-cap Growth
+U.S. Large-cap Value
+U.S. Small-cap Growth
+U.S. Small-cap Growth
+International Developed
+Emerging Markets
+Global Fixed Income
+U.S. Governments
+U.S. Mortgages
+U.S. Corporates
+International Fixed 
+Income
+High Yield
+U.S. Investment-grade  
+Tax Exempt
+U.S. High Yield Tax 
+Exempt
+Alternative Investments
+Hedge Strategies 
+Private Equity  
+Private Credit  
+Real Assets 
+Cash
+
+* Many products that pursue Alternative Investment strategies, specifically Private Equity and Hedge Funds, are 
+available only to qualified investors. CIO asset class views are relative to the CIO Strategic Asset Allocation (SAA) 
+of a multi-asset portfolio. Source: Chief Investment Office as of April 7, 2026. All sector and asset allocation 
+recommendations must be considered in the context of an individual investor’s goals, time horizon, liquidity needs and 
+risk tolerance. Not all recommendations will be in the best interest of all investors.
+CIO Equity Sector Views
+Sector
+CIO View  
+Underweight Neutral Overweight
+Financials
+Consumer 
+Discretionary
+Industrials
+Utilities
+Energy
+Information 
+Technology
+Healthcare
+Materials
+Real Estate
+Consumer 
+Staples
+Communication 
+Services
+
+===== Page 32 =====
+
+8 of 8 April 27, 2026 – Capital Market Outlook RETURN TO FIRST PAGE
+Index Definitions
+Securities indexes assume reinvestment of all distributions and interest payments. Indexes are unmanaged and do not take into account fees or expenses. It is not possible to
+invest directly in an index. Indexes are all based in U.S. dollars.
+S&P 500/S&P 500 Price Return Index is a stock market index tracking the stock performance of 500 leading companies listed on stock exchanges in the United States.
+
+U.S. Economic Policy Uncertainty Index is an index constructed based on newspaper articles regarding policy uncertainty from leading newspapers.
+Caldara-Iacoviello Geopolitical Risk Index measures adverse geopolitical events and associated risks based on a tally of newspaper articles covering geopolitical tensions, and examine its
+evolution and economic effects since 1900.
+NASDAQ Composite Index is a stock market index that tracks over 3,000 companies listed on the Nasdaq stock exchange. It is heavily weighted toward technology, biotechnology, and
+
+Investing involves risk, including the possible loss of principal. Past performance is no guarantee of future results.
+Bank of America, Merrill, their affiliates and advisors do not provide legal, tax or accounting advice. Clients should consult their legal and/or tax advisors before making any financial decisions.
+This material does not take into account a client’s particular investment objectives, financial situations, or needs and is not intended as a recommendation, offer, or solicitation for the purchase
+
+or sale of any security or investment strategy. Merrill offers a broad range of brokerage, investment advisory and other services. There are important differences between brokerage and
+investment advisory services, including the type of advice and assistance provided, the fees charged, and the rights and obligations of the parties. It is important to understand the differences,
+particularly when determining which service or services to select. For more information about these services and their differences, speak with your Merrill financial advisor.
+
+of America, Merrill or any affiliate to sell or provide, or a specific invitation for a consumer to apply for, any particular retail financial product or service that may be available.
+The Chief Investment Office (“CIO”) provides thought leadership on wealth management, investment strategy and global markets; portfolio management solutions; due diligence; and solutions
+oversight and data analytics. CIO viewpoints are developed for Bank of America Private Bank, a division of Bank of America, N.A., (“Bank of America”) and Merrill Lynch, Pierce, Fenner & Smith
+
+The Global Wealth & Investment Management Investment Strategy Committee (“GWIM ISC”) is responsible for developing and coordinating recommendations for short-term and long-term
+investment strategy and market views encompassing markets, economic indicators, asset classes and other market-related projections affecting GWIM.
+BofA Global Research is research produced by BofA Securities, Inc. (“BofAS”) and/or one or more of its affiliates. BofAS is a registered broker-dealer, Member SIPC and wholly owned subsidiary
+
+of Bank of America Corporation.
+Any materials indicated as prepared by Bank of America Institute are solely those of Bank of America Institute, and are not the product of the BofA Global Research department, Merrill or
+anyother department of Bank of America Corporation or its affiliates and/or subsidiaries (collectively Bank of America).
+All recommendations must be considered in the context of an individual investor’s goals, time horizon, liquidity needs and risk tolerance. Not all recommendations will be in the best interest
+
+of all investors.
+Asset allocation, diversification and rebalancing do not ensure a profit or protect against loss in declining markets.
+Investments have varying degrees of risk. Some of the risks involved with equity securities include the possibility that the value of the stocks may fluctuate in response to events specific to
+the companies or markets, as well as economic, political or social events in the U.S. or abroad. Small cap and mid cap companies pose special risks, including possible illiquidity and greater price
+
+volatility than funds consisting of larger, more established companies. Investing in fixed-income securities may involve certain risks, including the credit quality of individual issuers, possible
+prepayments, market or economic developments and yields and share price fluctuations due to changes in interest rates. When interest rates go up, bond prices typically drop, and vice versa.
+Investments in high-yield bonds (sometimes referred to as “junk bonds”) offer the potential for high current income and attractive total return, but involves certain risks. Changes in economic
+
+conditions or other circumstances may adversely affect a junk bond issuer’s ability to make principal and interest payments. Income from investing in municipal bonds is generally exempt
+from Federal and state taxes for residents of the issuing state. While the interest income is tax-exempt, any capital gains distributed are taxable to the investor. Income for some investors
+may be subject to the Federal Alternative Minimum Tax (AMT). Treasury bills are less volatile than longer-term fixed income securities and are guaranteed as to timely payment of principal and
+
+interest by the U.S. government. Bonds are subject to interest rate, inflation and credit risks. Investments in foreign securities (including ADRs) involve special risks, including foreign currency
+risk and the possibility of substantial volatility due to adverse political, economic or other developments. These risks are magnified for investments made in emerging markets. Investments in
+a certain industry or sector may pose additional risk due to lack of diversification and sector concentration. There are special risks associated with an investment in commodities, such as gold,
+
+in higher return potential but also higher loss potential. Changes in economic conditions or other circumstances may adversely affect your investments. Before you invest in alternative
+investments, you should consider your overall financial situation, how much money you have to invest, your need for liquidity and your tolerance for risk.
+Nonfinancial assets, such as closely-held businesses, real estate, fine art, oil, gas and mineral properties, and timber, farm and ranch land, are complex in nature and involve risks including total

@@ -2,51 +2,51 @@
   {
     "html_file": "source1.html",
     "text_file": "source1.txt",
-    "documents": 11,
-    "characters": 1286321,
-    "html_bytes": 1996905,
-    "text_bytes": 1993996,
+    "documents": 12,
+    "characters": 1433808,
+    "html_bytes": 2203239,
+    "text_bytes": 2199684,
     "first_title": "001__Merged",
-    "last_title": "011_DLRI_Merged"
+    "last_title": "012_DLRI_Merged"
   },
   {
     "html_file": "source2.html",
     "text_file": "source2.txt",
-    "documents": 15,
-    "characters": 1281103,
-    "html_bytes": 1806388,
-    "text_bytes": 1802699,
-    "first_title": "012_Fubon_Merged",
-    "last_title": "026_Mega_Bank_(投資研究週報)_Merged"
+    "documents": 16,
+    "characters": 1363281,
+    "html_bytes": 1885518,
+    "text_bytes": 1881343,
+    "first_title": "013_Fubon_Merged",
+    "last_title": "028_Merrill_Lynch_(CMO)_Merged"
   },
   {
     "html_file": "source3.html",
     "text_file": "source3.txt",
     "documents": 15,
-    "characters": 1693503,
-    "html_bytes": 2347351,
-    "text_bytes": 2342192,
-    "first_title": "027_Merrill_Lynch_(CMO)_Merged",
-    "last_title": "041_Westpac_IQ_Merged"
+    "characters": 1643352,
+    "html_bytes": 2317776,
+    "text_bytes": 2313199,
+    "first_title": "029_Merrill_Lynch_(Viewpoint)_Merged",
+    "last_title": "043_Westpac_IQ_Merged"
   },
   {
     "html_file": "source4.html",
     "text_file": "source4.txt",
-    "documents": 68,
-    "characters": 1317046,
-    "html_bytes": 2750932,
-    "text_bytes": 2747237,
-    "first_title": "042_YesFund_Merged",
-    "last_title": "109_方正中期期货_Merged"
+    "documents": 70,
+    "characters": 1322023,
+    "html_bytes": 2803840,
+    "text_bytes": 2799998,
+    "first_title": "044_YesFund_Merged",
+    "last_title": "113_民银证券_Merged"
   },
   {
     "html_file": "source5.html",
     "text_file": "source5.txt",
-    "documents": 34,
-    "characters": 799230,
-    "html_bytes": 1135494,
-    "text_bytes": 1132903,
-    "first_title": "110_格林期货_Merged",
-    "last_title": "143_香港科技大学利丰供应链研究院_Merged"
+    "documents": 32,
+    "characters": 779464,
+    "html_bytes": 1090151,
+    "text_bytes": 1087658,
+    "first_title": "114_浙商国际金融控股_Merged",
+    "last_title": "145_香港科技大学利丰供应链研究院_Merged"
   }
 ]
