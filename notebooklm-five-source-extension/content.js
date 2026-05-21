@@ -379,6 +379,34 @@ if (!window.__fiveSourceNotebookLmImporterLoaded) {
     await sleep(300);
   }
 
+  function findSourceSubmitButton(root = dialogOrDocument()) {
+    const labels = [
+      "插入",
+      "新增",
+      "新增來源",
+      "匯入",
+      "送出",
+      "提交",
+      "Insert",
+      "Add",
+      "Add source",
+      "Import",
+      "Submit"
+    ];
+
+    const matches = scopedClickableElements(root).filter((el) => {
+      if (el.disabled || el.getAttribute("aria-disabled") === "true") return false;
+      const label = labelOf(el);
+      if (!label) return false;
+      if (/網站|website|url|網址|link|連結|youtube|drive|貼上文字|paste text/i.test(label)) return false;
+      return labels.some((text) => label.toLowerCase().includes(text.toLowerCase()));
+    });
+
+    return matches
+      .map((el) => ({ el, rect: el.getBoundingClientRect() }))
+      .sort((a, b) => (b.rect.top - a.rect.top) || (b.rect.left - a.rect.left))[0]?.el || null;
+  }
+
   function chatInputCandidates() {
     return Array.from(document.querySelectorAll("textarea, [contenteditable='true'], [role='textbox'], input"))
       .filter(isVisible)
@@ -562,13 +590,46 @@ if (!window.__fiveSourceNotebookLmImporterLoaded) {
     await sleep(1500);
   }
 
-  async function importUrls(urls) {
-    for (let i = 0; i < urls.length; i += 1) {
-      progress(`匯入第 ${i + 1}/${urls.length} 個來源...`);
-      await submitSourceUrl(urls[i]);
-      progress(`第 ${i + 1}/${urls.length} 個來源已送出`, "ok");
-      await sleep(1400);
+  async function submitSourceUrlsBatch(urls) {
+    await openAddSourceDialog();
+    const textbox = await selectWebsiteSource();
+    const dialog = activeSourceDialog();
+    const joinedUrls = urls.join("\n");
+    progress(`一次填入 ${urls.length} 個來源 URL（每行一個）`);
+    setFieldValue(textbox, joinedUrls);
+    await sleep(900);
+    const submitButton = findSourceSubmitButton(dialog || dialogOrDocument());
+    if (submitButton) {
+      await clickElement(submitButton, "送出全部來源");
+    } else {
+      await pressEnter(textbox, "送出全部來源");
     }
+
+    const submitted = await waitFor(() => {
+      const stillSameDialog = dialog && isVisible(dialog);
+      const bodyText = visibleText();
+      if (/無法|失敗|錯誤|invalid|failed|error|too long|字數|來源過長/i.test(bodyText)) return "error";
+      if (!stillSameDialog) return "closed";
+      const currentValue = norm(textFieldValue(textbox));
+      if (!currentValue.includes(urls[0].slice(0, 40))) return "cleared";
+      return null;
+    }, 30000, 500);
+
+    if (submitted === "error") {
+      throw new Error("NotebookLM 顯示來源匯入錯誤，請看頁面上的錯誤訊息");
+    }
+    if (!submitted) {
+      progress("送出後對話框沒有關閉，可能沒有真正匯入。", "warn");
+      throw new Error("批次 URL 送出未完成");
+    }
+
+    await sleep(1500);
+  }
+
+  async function importUrls(urls) {
+    progress(`準備批次匯入 ${urls.length} 個來源...`);
+    await submitSourceUrlsBatch(urls);
+    progress(`${urls.length} 個來源已一次送出`, "ok");
   }
 
   function isEditableField(el) {
