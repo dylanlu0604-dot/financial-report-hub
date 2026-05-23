@@ -3,449 +3,1597 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 046: 2026年5月18日國際經濟金融週報
+## Document 050: 2026年5月4日匯率利率資訊
 
-Source PDF: all report pdf/2026年5月18日國際經濟金融週報.pdf
-Pages: 9
+Source PDF: all report pdf/2026年5月4日匯率利率資訊.pdf
+Pages: 7
 Extraction status: ok
 
 ### Page 1
 
-本報告係根據研究資料及各項可靠數據作成，兆豐銀行保留報告內容所有權利，未經本行許可，請勿引
-用相關內容。
+1  兆豐國際商業銀行 http://www.megabank.com.tw/ 
+ －兆豐國際商業銀行－ 
+匯率利率資訊週報 
+民國一一五年五月四日 
+服務項目 
+(1)即期外匯交易 
+(2)遠期外匯交易 
+(3)外匯保證金交易 
+(4)外幣轉換 
+(5)匯率選擇權  
+(6)外匯定期存款 
+(7)優利投資 
+(8)利率交換 
+(9)換匯換利 
+(10)台幣票券買賣 
+上週美元兌新台幣及主要貨幣收盤價 
+ USD/NTD USD/JPY EUR/USD USD/CNY 
+FIXING 
+ Apr/27 (Mon) 31.467 159.42 1.1720 6.8579 
+Apr/28 (Tue) 31.518 159.61 1.1711 6.8589 
+ Apr/29 (Wed) 31.557 160.39 1.1677 6.8608 
+ Apr/30 (Thu) 31.648 156.57 1.1730 6.8628 
+ May/1 (Fri)  157.03 1.1720  
+HIGH 31.703 160.72 1.1785 6.8628 
+LOW 31.388 155.51 1.1654 6.8579
 
-兆豐國際商業銀行 徵信處 
-中華民國一一五年五月十八日
+上週公佈的經濟數據：                      本週將公佈的經濟數據： 
+4/27 
+4/28
 
-國際經濟金融週報
+4/29
+
+4/30
+
+5/1 
+德國消費者景氣指數 
+日本央行利率決議 
+日本核心校費者物價指數 
+澳洲第一季 CPI、德國 4 月 CPI 
+加拿大央行利率決議 
+美國聯準會利率決議 
+歐洲央行、英國央行利率決議 
+日本 3 月工業生產指數 
+中國 4 月綜合 PMI 
+加拿大 2 月 GDP 
+美國第一季 GDP、3 月 PCE 
+法國第一季 GDP、4 月 CPI 
+德國第一季 GDP、4 月失業率、3 月
+零售銷售 
+歐元區第一季 GDP、3 月失業率、4
+月 CPI 
+美國 4 月製造業 PMI 
+澳洲第一季 PPI 
+5/4
+
+5/5
+
+5/6
+
+5/7
+
+5/8 
+澳洲 3 月營建許可 
+歐元區 4 月製造業 PMI 
+澳洲央行利率決議 
+美國 4 月 ISM 非製造業 PMI 
+美國 JOLTS 職位空缺數 
+歐元區 3 月生產者物價指數 
+美國 4 月 ADP 非農就業 
+加拿大 4 月 PMI 
+德國 3 月工業訂單 
+台灣 4 月 CPI 
+歐元區 3 月零售銷售 
+德國 3 月貿易收支、工業生產指數 
+台灣 4 月出口 
+加拿大 4 月失業率 
+美國 4 月非農數據、失業率 
+美國密西根大學消費者信心指數
 
 ### Page 2
 
-本報告係根據研究資料及各項可靠數據作成，兆豐銀行保留報告內容所有權利，未經本行許可，請勿引
-用相關內容。
+2  兆豐國際商業銀行 http://www.megabank.com.tw/
+上週重要市場資訊
+⚫ 日本央行於上週二(4/28)維持利率不變，但九人組成的委員會中有三人提議上調
+借貸成本 ，顯示決策者對中東衝突引發的通膨壓力感到擔憂 ，日本央行在季度展
+望報告中大幅上調了通膨預期 ， 並警惕通膨有超標的風險， 市場預期日本央行最
+快可能在 6 月升息。
+⚫ 聯準會於上週三(4/29)維持利率不變 ，不過此次決策投票結果為 8 比 4，是自 1992
+年以來分歧最大的決議 。 政策聲明中指出對通膨上升的擔憂加劇，而這份聲明遭
+到三位決策者反對 ， 他們認為不應再傳遞出暗示聯準會傾向重起降息的措辭，而
+第四位投反對票的決策者主張降息 1 碼。
+⚫ 美國商務部經濟分析局上周四(4/30)公布的數據顯示，3 月份個人消費支出價格
+指數月增 0.7%，創下自 2022 年 6 月以來最大漲幅，此前 2 月份修正後漲幅仍
+為 0.4%。美國 3 月通膨加速，主因為美伊戰爭推高油價，此數據強化市場對於
 
-1
-
-國際經濟金融週報內容摘要 
-美 
-國 
-消費穩健、通膨回升、財政改善與地緣風險並存 
-經濟 
-⚫ 4 月美國聯邦政府財政收支由赤字轉為盈餘 2,150 億美元，主因稅收增
-加 。 當月收入8,373 億美元 、 年減1.5%， 支出6,223 億美元 、 年增5.2%。
-累計 2026 財年前 7 月利息支出 7,342 億美元、年增 7.3%。2026 財年前
-7 月赤字 9,536 億美元、年減 9.1%，關稅收入亦高於去年，財政改善。 
-⚫ 4 月美國零售與餐飲銷售額約 7,571 億美元，月增0.5%、年增 4.9%，顯
-示消費動能放緩但仍具韌性。產業表現分歧，其中加油站受油價上揚帶
-動年增 20.9%，電商年增 11.1%；相較之下，家具與居家用品及汽車相
-關零售續受高利率壓抑，表現相對疲弱。 
-⚫ 4 月美國成屋銷售年化 402 萬套，月增 0.2%、年持平，房市動能偏弱；
-房價中位數 41.77 萬美元，年增 0.9%且連 34 月上升。儘管 4 月成屋庫
-存 147 萬套、供給 4.4 個月，較 3 月略增，但整體房屋供給不足仍恐推
-升未來房價。 
-⚫ 4 月美國 CPI 月增 0.6%、年增 3.8%，通膨壓力回升；核心 CPI 同步上
-揚，顯示物價具黏著性。能源價格大幅上漲為主因，住房與服務續強，
-儘管部分商品價格回落，整體通膨壓力仍未明顯緩解。 
-⚫ 4 月美國 PPI 月增 1.4%、年增 6.0%，創近年高點，顯示生產端通膨壓
-力升溫 ； 漲勢主要由能源與服務帶動 ， 商品月增2.0%、 服務月增1.2%。
-核心 PPI 續升至年增 4.4%，反映核心通膨壓力仍大。 
-重要 
-事件 
-⚫ 美國參議院於 5 月 12 日、13 日分別通過華許出任聯準會理事及主席，
-並於 15 日正式接任，宣告「華許時代」來臨。市場預期其將改革決策
-與溝通機制，並在抗通膨前提下採取「降息搭配縮表」 ，提升政策彈性
-與公信力。惟在通膨壓力與地緣政治風險仍存下，聯準會年內政策基調
-料持續偏鷹，高利率環境延續，金融市場波動性亦可能進一步升高。 
-⚫ 2026 年川習會於 5 月 14 日在北京人民大會堂舉行，川普對中國進行國
-事訪問，並與習近平再度會談。雙方聚焦貿易關稅、農產品採購、航空
-訂單 、 台灣 、 伊朗及區域安全等議題 ， 並同意建立貿易與投資對話機制 ，
-作為後續協商平台。不過，會後未公布具約束力的重大協議，多數成果
-仍屬框架性共識，主要目的在於為美中關係降溫，後續進展仍取決於雙
-方談判細節與互信建立。
+聯準會將到明年第三季皆維持利率不變的預期。
+⚫ 歐洲央行上周四(4/30)如預期維持利率不變，但同時釋放出擔憂通膨日益飆升的
+訊號，使得市場預期歐央今年將升息 2-3 次，而首次升息可能在 6 月。歐元區 4
+月通膨躍升至 3%，遠高於歐洲央行 2%的目標，且隨著伊朗局勢推高油價至四
+年高點，預計通膨將進一步攀升。
+⚫ 英國央行上周四(4/30)維持利率不變在 3.75%，並提出伊朗戰爭可能對經濟造成
+影響的幾種情境，其中之一可能需要 「強力」 提高借貸成本。委員會在聲明中表
+示： 「委員會隨時準備好在必要時採取行動，確保CPI 在中期內保持在 2%的目
+標軌道上。」此說法與 3 月的前次會議措辭相同。
 
 ### Page 3
 
-本報告係根據研究資料及各項可靠數據作成，兆豐銀行保留報告內容所有權利，未經本行許可，請勿引
-用相關內容。
+3  兆豐國際商業銀行 http://www.megabank.com.tw/
+美元兌新台幣匯率走勢
+May/4/2026
+＜上週走勢＞
+上週台幣匯價高點為 31.388，低點在 31.703，以 31.648 作收，較前一周收盤價
+貶值 1 角 3.2 分。
+上週台幣震盪走貶，周初台股持續挑戰新高，並突破 4 萬點關卡，台幣在外資
+匯入下走升，一度突破 31.400 關口，最高來到 31.388，不過隨後外資逢高調節股市
+部位，外資呈現雙向進出，令台幣走勢震盪；臨近周末，聯準會如預期維持利率不
+變，然而部分官員反對聯準會釋放傾向重啟降息的措辭，態度偏向鷹派，令國際美
+元走升 ， 加上外資在股市連續四日皆賣超台股 ， 共計1921 億元 ， 並在匯市持續匯出，
+令台幣震盪走貶，最低來到 31.703，終場在央行調節之下收在 31.648。
+＜未來分析＞
+預估本週台幣區間震盪。就國際市場而言，美國總統川普上週五表示他對於伊
+朗提出的最新談判並不滿意，目前荷姆茲海峽仍維持幾乎封鎖的狀態，國際油價再
 
-2
-
-短評 
-⚫ 美國消費仍穩健但結構分歧 ， 房市動能疲弱 、 耐久財需求受高利率
-抑制 ； 通膨則在能源帶動下再度升溫 ， 且核心與生產端價格同步走
-高，顯示物價壓力仍具黏著性。在此背景下，華許上任後雖主張在
-控通膨下結合降息與縮表 、 提升政策彈性 ， 但短期政策仍難脫偏鷹
-基調。 
-歐 
-元 
-區 
-地緣政治動盪刺激庫存需求 
-經濟 ⚫ 3 月工業生產月增 0.2%。 
-⚫ 第一季就業成長 0.1%。 
-短評 
-⚫ 展望未來，地緣政治風險升高，企業拉高庫存對第二季工業生產形成一
-定支撐。但隨消費信心轉弱，耐久財需求恐降溫，部分產業可能出現非
-景氣循環性的低迷，成長步調仍具不確定性。 
-日 
-本 
-能源與科技雙重推升，供應鏈通膨壓力加劇 
-經濟 ⚫ 4 月企業商品物價指數（CGPI）年增 1.8%。 
-短評 
-⚫ 4 月 CGPI 的顯著上升凸顯能源與科技雙重壓力，中東局勢推升能源進
-口成本，政府補貼雖緩解汽油價格，但重油與其他能源仍持續走高；同
-時，AI 帶動的科技需求推高電子產品進出口價格 。 整體而言 ， 企業面臨
-成本轉嫁壓力，供應鏈通膨風險正逐步擴散。 
-中 
-國 
-川習會成果有限 
-經濟 
-⚫ 前 4 個月出口、進口分別年增 14.5%、23.6%，貿易順差達 3,477 億美
-元。 
-⚫ 4 月生產者通膨 (出廠價格 )躍升至 2.8%；消費者通膨 (CPI)則回升至
-1.2%。 
-重要 
-事件 
-⚫ 5 月 14 日舉行的川習會雖雙方同意互降等值 300 億美元商品的關稅，
-中國承諾採購 200 架波音客機、擴大農產品進口、購買美國石油。 
-短評 
-⚫ 川習會成果有限，未來持續關注美國 301 調查結果。 
-⚫ 鑒於中東戰爭持續延燒且有較大不確定性，預期生產者通膨將持續上
-漲，惟消費需求疲軟以及政府調控價格影響，消費者通膨料將維持相對
-溫和的走勢。
+度升溫，也令美國通膨加速上升，市場預期聯準會將維持利率不變較長一段時間，
+美台利差維持，將使台幣承壓；不過另一方面美元指數在日本央行干預下走弱，預
+計將緩解台幣貶值的壓力。就台灣市場來看，儘管台股突破 4 萬點大關，但逢高遭
+遇外資調節部位，並於持續外匯市場匯出，帶給台幣貶值的壓力，上週美國科技巨
+頭公布的財報強勁，有望帶動台股回穩， 加上USD/TWD 匯價逢高吸引出口商拋匯，
+預計將限縮台幣貶值空間，綜合以上，預估本週台幣區間震盪。
+＜預估本週＞ 美元兌台幣：31.400-31.750
 
 ### Page 4
 
-本報告係根據研究資料及各項可靠數據作成，兆豐銀行保留報告內容所有權利，未經本行許可，請勿引
-用相關內容。
+4  兆豐國際商業銀行 http://www.megabank.com.tw/
+美元兌人民幣匯率走勢
+May/4/2026
+＜上週走勢＞
+上週人民幣小幅走貶。周初川普表示不滿意伊朗提出的談判提議，美伊衝突仍
+陷入僵局，令美元指數小幅走高，拖累人民幣表現；周間，聯準會如預期維持利率
+不變，不過有三位官員反對聲明稿中繼續維持較為寬鬆的貨幣政策態度，顯示在中
+東局勢尚未明朗之前，部分官員變得較為鷹派，美元指數小幅上行；臨近周末，傳
+出日本政府出手干預外匯市場，買入日幣帶動日幣急升，拖累國際美元表現，而人
+民幣則受此影響，收斂周初大部分的貶幅，終場境外人民幣收在 6.8292，週線貶值
+40 點，境內人民幣因勞動節休假，4 月 30 日收在 6.8310，週線持平。
+＜未來分析＞
+預估本週人民幣區間震盪。就國際市場來看，美伊和平談判持續陷入僵局，高
+油價令聯準會偏向鷹派，預計支撐國際美元表現 ， 但另一方面 ， 日本央行干預匯市 ，
+在短線上也將令國際美元承壓；而就中國國內市場來看，中國 4 月官方 PMI 數據喜
 
-3
-
-東 
-(南) 
-亞 
-中東戰爭擾亂全球燃料供應，印、泰、越價格壓力大增 
-經濟 
-⚫ 印度 4 月 CPI、WPI 分別年增 3.48%、8.3%。 
-⚫ 馬來西亞 2026 年第一季 GDP 季增年率終值小幅上修至 5.4%。 
-⚫ 泰國 4 月 CPI 年增率 2.89%，自通縮轉為通膨。 
-⚫ 越南 4 月 CPI 年增率加速至 5.46%，創 6 年新高。 
-短評 
-⚫ 儘管燃料價格直接轉嫁消費者的程度有限，中東戰爭擾亂全球燃料、化
-肥等供應，加上貨幣貶值、極端氣候等因素，推升生產成本，將造成間
-接通膨壓力。
+憂參半，製造業 PMI 小降至 50.3，但優於市場預期，然而非製造業PMI 為 49.4，降
+至 50 榮枯線下方，顯示中國經濟仍以出口為主，內需依然相對疲弱，而近兩周人行
+中間價皆維持在 6.86 附近，顯示監管單位持續傳遞維穩匯率的訊號，後續將關注預
+計於 5 月 14-15 日舉辦的「川習會」；最後就技術面來看，USD/CNH 日線圖中，
+USD/CNH 各天期均線維持空頭排列，但近期匯價站回月線之上，顯示下行動能暫
+歇。綜合以上，預估本週人民幣區間震盪。
+＜預估本週＞ 美元兌人民幣：6.8100-6.8550
 
 ### Page 5
 
-本報告係根據研究資料及各項可靠數據作成，兆豐銀行保留報告內容所有權利，未經本行許可，請勿引
-用相關內容。
+5  兆豐國際商業銀行 http://www.megabank.com.tw/ 
+美元兌日圓匯率走勢  
+         May/4/2026
 
-4
-
-國際經濟金融週報 
-兆豐國際商業銀行 徵信處 
-115.5.18 
-一、 美國—消費穩健、通膨回升、財政改善與地緣風險並存 
-2026 年 4 月美國零售與餐飲銷售額約為 7,571 億美元，經季節性調整後月增
-0.5%、年增 4.9%，顯示消費動能雖較前月放緩，整體仍維持穩健成長。從產業別
-來看，表現較佳者包括加油站，受能源價格走高影響，銷售年增高達 20.9%，對
-整體零售表現形成明顯支撐；非實體零售商 (電商)年增 11.1%，持續反映消費行
-為向線上通路轉移的結構性趨勢 。 相較之下 ， 家具與居家用品相關零售轉為下滑 ，
-月減 2.0%、年減 3.6%，顯示房市低迷與高利率環境仍壓抑相關支出；另汽車及
-零件零售月減 0.4%、年減 1.2%，反映耐久財消費對金融條件變化高度敏感。整
-體而言，美國消費仍具韌性，但產業表現分歧情況依然明顯。 
-2026 年 4 月(2026 財年第 7 個月)美國聯邦政府財政收支由赤字轉為盈餘約
-2,150.2 億美元 ， 主因報稅季帶動收入大幅增加所致 。 當月政府預算收入約8,373.4
-億美元，年減約 1.5%；政府支出約 6,223.2 億美元，年增約 5.2%。其中，公債利
-息支出約 1,116.0 億美元，累計當年利息支出約 7,342.0 億美元，較去年同期增加
-約 7.3%，顯示在高利率環境下，政府利息負擔持續上升。累計 2026 財年前 7 個
-月 ， 財政赤字約9,535.6 億美元 ， 較去年同期的約1 兆 487.3 億美元縮減約 9.1%，
-反映收入累計成長約 6.7%，支出增幅約 2.8%。其中，4 月關稅收入約 221.2 億美
-元 ， 明顯高於去年同期水準 ， 顯示關稅政策持續為聯邦收入提供支撐 。 整體而言 ，
-在稅收明顯增加帶動下，4 月財政表現明顯改善。 
-2026 年 4 月經季節性調整後的美國成屋銷售年化總量為 402 萬套 ， 較上月小
-幅成長 0.2%，與去年同期持平，顯示在房貸利率仍偏高與消費者信心疲弱下，整
-體房市交易動能仍顯不足；房價方面，受供給持續吃緊影響，4 月成屋售價中位
-數升至 41.77 萬美元，年增 0.9%，並已連續第 34 個月呈現年增；供給端略有改
-善，待售成屋庫存增至 147 萬套，較上月增加 5.8%，年增 1.4%，相當於 4.4 個月
-供給量 ， 略高於前月及去年同期 ； 在可負擔性方面 ， 住房可負擔能力指數升至110.6，
-較去年同期明顯改善，反映房貸利率較去年下降與薪資成長支撐購屋能力，但全
-美不動產經紀人協會(NAR)指出庫存仍偏緊、成交天期延長，顯示買方態度轉趨
-審慎，未來若需求回溫而供給跟不上，房價仍可能面臨上行壓力。
+＜上週走勢＞ 
+上週日幣先貶後升。週初，日幣盤中一度因日本央行決議後的 6 月升息預期而
+走強 ，USD/JPY 匯價最低來到 158.90 附近 ， 但因聯準會聲明偏向鷹派 ， 推動USD/JPY
+上漲，最高來到 160.72，週四市場傳出日本政府出手干預，USD/JPY 快速下跌最低
+來到 155.51；臨近週末，在美元指數反彈的帶領下，USD/JPY 收復部分跌幅，終場
+收在 157.03，週線下跌 257 點。 
+＜未來分析＞ 
+  預估本週 USD/JPY 區間震盪，主要原因如下：一、日本央行上週如期將政策利
+率維持在 0.75%不變。然而日本財務官三村淳及財務大臣片山皋月強烈暗示，官方
+已準備好在「黃金週」長假期間隨時出手干預匯市以反擊投機空頭，儘管官方強力
+護盤，但在全球高油價及聯準會偏鷹的背景下，日圓的長線貶值壓力依然沉重。另
+外隨著長假到來，市場流動性枯竭可能引發匯價劇烈波動。二、東京 4 月核心 CPI
+意外降至 1.5%，創四年新低，主因政府補貼暫時掩蓋了物價壓力。不過在企業擔心
+中東戰火引發斷鏈而恐慌性囤貨下，4 月製造業 PMI 卻逆勢飆升至 55.1，創逾四年
+最大增幅。隨著輸入型通膨料將強勢反撲，迫使日本央行面臨極大的升息壓力，限
+縮了日圓大幅貶值的空間。三、技術面而言，在日線圖中，USD/JPY 雖跌破月線及
+季線，但仍守穩於 155.50 上方，且下方尚有年線的強力支撐，中長天期均線趨平，
+顯示進入盤整機率較大 。 綜合以上 ， 預估USD/JPY 本週呈現區間震盪的可能性較高 。 
+＜預估本週＞ 美元兌日幣：155.00-159.00 
+前週交易區間 
+155.51 160.72
 
 ### Page 6
 
-本報告係根據研究資料及各項可靠數據作成，兆豐銀行保留報告內容所有權利，未經本行許可，請勿引
-用相關內容。
+6  兆豐國際商業銀行 http://www.megabank.com.tw/ 
+歐元兌美元匯率走勢  
+         May/04/2026
 
-5
-
-2026 年 4 月美國消費者物價指數(CPI)月增率為 0.6%，較前月的 0.9%放緩，
-顯示短期物價動能略為降溫；年增率則由 3.3%升至 3.8%，反映整體通膨壓力再
-度回升。核心CPI(扣除食品與能源)月增 0.4%， 高於前月的0.2%，年增率由 2.6%
-升至 2.8%，顯示核心通膨壓力仍具黏著性。從結構觀察，本月通膨上行主要由能
-源價格推動，能源指數月增 3.8%，對整體漲幅貢獻逾四成，其中汽油價格上漲
-5.4%為主要動能 ； 同時 ， 住房成本月增0.6%， 反映租金與相關居住費用穩步上升 。
-食品價格亦轉為上漲(+0.5%)，以居家食品(+0.7%)漲勢較為明顯，外食價格則小
-幅上升(+0.2%)。相較之下，新車、通訊及醫療保健價格略有回落，對整體通膨形
-成部分抵銷；惟航空票價及部分服務價格持續攀升，顯示服務類通膨仍具支撐。
-整體而言，當前通膨結構呈現「能源推升、住房續漲、服務通膨仍具韌性」的特
-徵，在能源價格波動帶動下通膨再度升溫，且核心通膨同步走升，顯示物價壓力
-仍未明顯緩解。 
-2026 年 4 月美國生產者物價指數(PPI)月增 1.4%，創 2022 年 3 月以來最大升
-幅，年增率升至 6.0%，為 2022 年 12 月以來新高，顯示生產端價格壓力明顯升
-溫。細項觀察，本月漲勢主要由商品與服務同步帶動，其中最終需求商品價格月
-增 2.0%，受能源價格大幅上漲推升 ，能源項目月增7.8%，以汽油價格大漲 15.6%
-為主要動能 ， 柴油與航空燃油亦同步上揚 ； 食品價格則小幅上升 ， 漲幅相對溫和 。
-服務價格方面，4 月月增 1.2%，為 2022 年 3 月以來最大增幅，主要反映貿易服
-務價格擴大(+2.7%)及運輸與倉儲服務價格大幅上揚 (+5.0%)，顯示物流與流通成
-本仍持續攀升 。 若剔除食品 、 能源及貿易服務後觀察 ， 核心最終需求PPI 月增 0.6%，
-年增率達 4.4%，為 2023 年 2 月以來最大年增幅，顯示核心通膨壓力仍大。整體
-而言 ，4 月 PPI 大幅上揚主要受能源與服務雙重帶動 ， 生產端成本壓力顯著升溫 ，
-未來是否進一步向消費端傳導，仍為市場與政策關注焦點。 
-美國參議院於 5 月 12 日、13 日分別通過華許(Kevin Warsh) 出任聯準會理事
-及主席，並於 15 日正式接任，宣告 「華許時代」 來臨。市場高度關注其政策取向
-與改革方向，預期他將調整 Fed 決策與溝通框架，淡化前瞻指引與點陣圖影響，
-並推動建立新的通膨衡量指標及持續縮減資產負債表，以提升政策彈性與公信力。
-在貨幣政策方面，儘管華許近年立場轉趨務實，對降息持開放態度，但在通膨壓
-力未明顯消退、能源價格與地緣政治風險升溫的背景下，市場普遍預期 Fed 年內
-仍將維持偏鷹立場，降息時程可能延後， 「Higher for Longer」的高利率環境料將
+＜上週走勢＞ 
+    上週歐元震盪走升。週初，隨著各國央行利率即將展開，市場偏向觀望，歐元
+在 1.1680 至 1.1750 之間震盪；週間，聯準會釋出偏鷹的訊號，EUR/USD 大幅走弱
+跌破 1.1660，然而日圓快速走升導致美元走弱，再加上歐洲央行最快可能於 6 月升
+息，EUR/USD 反彈來到 1.1770 上方；臨近週末，美國總統川普稱將把歐盟輸美汽
+車和卡車關稅提高至 25%，歐元回吐部分漲幅，終場收在1.1720，週線上漲 22 點。 
+＜未來分析＞ 
+  預估本週 EUR/USD 區間偏多震盪，主要原因如下：一、歐洲央行上週維持基
+準利率於 2%不變，但決策高層發出強烈緊縮訊號，警告受能源危機衝擊，通膨飆升
+可能不是短暫現象。德國與愛沙尼亞央行總裁表示若通膨前景持續惡化，歐洲央行
+最快應於 6 月啟動升息以收緊政策，奧地利央行總裁亦擔憂高通膨將長期化。面對
+物價失控風險，市場已將歐洲央行年內升息預期調升至三次，將對歐元形成強力支
+撐。二、美國總統川普突襲宣布本週起將對歐盟進口汽車與卡車加徵高達  25% 的
+關稅，並強調僅豁免在美設廠的車企。此舉引發歐盟強烈反彈，歐洲議會貿易委員
+會主席揚言採取報復性反制措施。美歐貿易戰再起為全球經貿前景增添不確定性亦
+不利歐元走勢。三、技術面而言，在日線圖中 EUR/USD 在回測季線及年線後重新
+站上各天期均線並呈現多頭排列，不過上週五收長上影線，顯示上方仍有賣壓待消
+化。綜合以上，預估 EUR/USD 本週呈現區間偏多震盪可能性較高。 
+＜預估本週＞ 歐元兌美元：1.1650~1.1810 
+前週交易區間 
+1.1654 1.1785
 
 ### Page 7
 
-本報告係根據研究資料及各項可靠數據作成，兆豐銀行保留報告內容所有權利，未經本行許可，請勿引
-用相關內容。
+7  兆豐國際商業銀行 http://www.megabank.com.tw/ 
+                            新台幣利率走勢分析  
+        115.04. 27-115.04.30 
+銀行隔夜拆款利率  0.805% ~ 0.830%  
+30 天期短票利率   1.46% ~ 1.47% 
+公債－10 年期- A15106 1.50%~1.505% 
+      － 5 年期- A15101     1.38% 
+一、 台幣貨幣市場部分 ，本週為提存期底 ， 又恰逢勞動節連續假期對積數影響達四
+天 ， 銀行間調度較為謹慎 ， 不過整體市場資金相對平穩 ， 令短率持穩於近期區
+間。 
+週四央行標售 364 天期定存單 1400 億元 ， 加權平均得標利率為1.341%， 略高
+於市場預期區間 1.31%-1.33%，較上期標售結果上升 5.6 個基本點。 
+週 四 隔 夜 拆 款 利 率 區 間 在 0.805%~0.830% ， 30 天 期 短 票 主 要 成 交 在
+1.46%~1.47%，利率大致持平於上週。
 
-6
+二、 本週市場焦點集中在 FOMC 利率決議，整體操作態度延續觀望，5 年期指標
+券 A15101 成交在 1.38%，10 年期指標券 A15106 成交區間為 1.50%至 1.505%。 
+近期美伊談判陷入僵局致油價攀升 ， 加劇市場對通膨持續性的擔憂 ， 加上聯準
+會立場轉趨偏鷹 ， 使得美債氣氛偏空 ， 預期台債殖利率短線恐面臨上行壓力 ，
+預估 5 年 期 台 債 交 易 區 間 為1.38%~1.42% ， 10 年 期 台 債 交 易 區 間 為
+1.50%~1.55%。
 
-持續。隨著 6 月利率決策會議即將登場，市場已提前調整利率與資產價格預期，
-整體波動性升溫，反映投資人對未來政策路徑仍存高度不確定性。 
-2026 年川習會於 5 月 14 日在北京人民大會堂舉行，美國總統川普於 5 月 13
-日至 15 日對中國進行國事訪問 ， 這是美國總統睽違近九年再度訪中 ， 也是繼2025
-年 10 月南韓釜山會晤後，川普與中國國家主席習近平再度面對面會談。此次峰
-會聚焦美中貿易與關稅、農產品採購、航空訂單、台灣問題、伊朗與中東局勢，
-以及區域安全等議題；在經貿方面，雙方同意建立貿易與投資對話機制，作為後
-續協商平台，並討論部分產品相互降稅、處理非關稅障礙與市場准入問題，中方
-也釋出恢復或擴大採購美國大豆、小麥、高粱，並改善牛肉、禽肉進口程序的訊
-號，美方則表示中國可能採購包括波音飛機在內的美國商品，但具體規模、金額
-與執行時程仍待確認。整體而言，雙方均將會談形容為正面且具建設性，但並未
-公布完整且具約束力的重大協議，多數成果仍停留在原則性與框架性層級，被視
-為延續美中貿易休兵並為後續談判鋪路；分析認為，此次川習會主要作用在於為
-緊張的美中關係降溫並維持高層溝通，關稅、科技管制、台灣與地緣政治等分歧
-仍未真正解決，後續進展仍取決於雙方協商細節與政治互信。 
-二、歐元區—地緣政治動盪刺激庫存需求 
- 歐元區 3 月工業生產月增 0.2%。其中，受美伊衝突推升原油價格影響，採礦
-業與石油精煉業產出分別月增 4.8%、4.5%，為主要支撐動能；同時，隨軍備需求
-升溫與半導體投資持續擴張，資本財生產月增 1.1%，已連續兩個月成長。反觀原
-料藥及藥品生產月減 12%，主要反映先前因美國關稅戰所提前備貨的需求逐步消
-退，下游廠商進入去化庫存階段，短期形成產出壓力。 
- 整體而言，歐元區第一季工業生產季減 0.9%，以汽車、機械設備及製藥相關
-產業衰退幅度較為顯著，反映中國競爭及藥品庫存需求減弱；抵銷精煉業、食品
-業產出成長的影響。展望未來，在地緣政治風險升高、供應鏈中斷疑慮加深的背
-景下，企業可能提高安全庫存水位，對第二季工業生產形成一定支撐。然而，隨
-消費信心轉弱、實質所得成長受限，民間部門傾向增加儲蓄、抑制支出，耐久財
-如汽車與 3C 產品需求恐呈階段性降溫 ， 部分產業可能出現非景氣循環性的低迷 ，
-整體成長步調仍具不確定性。
+---
+## Document 110: China Didn’t De-Dollarize. It Just Hid Its Dollars. (2026-04-30)
+
+Source PDF: all report pdf/China Didn’t De-Dollarize. It Just Hid Its Dollars. (2026-04-30).pdf
+Pages: 8
+Extraction status: ok
+
+### Page 1
+
+EXPERT TAKE FOLLOW THE MONEY
+China’s “Fake” De-Dollarization
+China didn’t truly de-dollarize—it just shifted its dollar holdings from official reserves
+at SAFE to less transparent state entities like banks and investment funds.
+PUBLISHED
+April 30, 2026 2:33 p.m.
+Articles Follow the Money Share
+Brad W. Setser CFR EXPERT
+Whitney Shepardson Senior Fellow
+Back in 2005, C hina held 79 percent of its growing reserve
+portfolio in dollars.
+In 2024, C hina disclosed that by 2019 only 55 percent of its
+
+now stagnant reserves were in dollars.
+That is the last disclosed data point, but careful analysis of
+the U.S. Treasury’s data essentially rules out a significant rise
+in the dollar share of C hina’s formal reserves. The U.S. data is
+consistent with either a bit of a fall or very aggressive use of
+non-U.S. custodians over the last five years.
+So, C hina has de-dollarized? Not exactly.
+The big fall in the dollar share of C hina reserves (from 79 to
+
+59 percent) occurred between 2005 and 2012 (though C hina
+only disclosed the 2015 number) and during that period
+Log In
+Regions Topics Research Experts Events The Future of American Strategy
+
+### Page 2
+
+C hina’s toal reserves went from $800 to close to well over $3
+trillion and its actual dollars continued to rise.
+Reserves rose from 2012 to 2014 before falling sharply in
+2015 and 2016. But reserves now have been stuck at just over
+$3 trillion for the last 8 years. Subsequent fluctuations in the
+dollar share of reserves haven’t been all that material to the
+global flow of funds; a change of a hundred billion or so over
+spread over a multi-year period should not move markets
+
+much.
+More importantly, C hina has played a bit of a game. It
+reduced the dollar share of its formal reserves.
+But it then stopped adding to its formal reserves.
+All incremental growth in the foreign assets of C hina, Inc.
+has come from the increase in foreign lending of the policy
+banks (domestically funded), the increase in the foreign and
+foreign currency assets of the state commercial banks (also
+mostly domestically funded) and increases in the assets of
+
+various state investment funds (the State Administration of
+Foreign Exchange’s Buttonwood Investments vehicle has put
+dollars into a set of funds that support the Belt and Road and
+C hinese firms “going out”).
+Now, C hina doesn’t disclose full data about the currency
+composition of the broader C hinese state. In fact, there is
+essentially no useful public information about the country or
+currency composition of the obviously substantial foreign
+assets of C hina’s policy banks.*
+
+Moreover, the data on the foreign assets of the deposit-taking
+state commercial banks isn’t presented in the cleanest matter.
+One dataset includes yuan-denominated foreign assets,
+another includes foreign currency-denominated domestic
+assets, and the quarterly data set that provides a breakdown of
+foreign currency and yuan-denominated external assets
+doesn’t line up with the monthly data.**
+
+### Page 3
+
+But all the available data indicates that, until recently, the
+bulk of the policy banks’ lending was in dollars. That has
+certainly been true in the various “restructuring” cases
+(Z ambia, Sri Lanka, Ecuador, and Angola had dollar exposure
+—not yuan or euro exposure—to C hina’s policy banks). The
+recent restructuring of a few loans to Kenya into yuan is
+welcome, but not enough to really change the overall
+numbers.
+SAFE’s published data suggests that the state commercial
+
+banks have roughly 70 percent of their foreign currency assets
+in dollars (well above SAFE’s dollar share). But that probably
+understates the state banks’ impact on their dollar market.
+The state banks’ euro, yen, and other non-dollar foreign
+currency assets are matched by external euro, yen, and other
+non-dollar foreign currency denominated liabilities. So, the
+state banks in aggregate look to be borrowing euros and other
+currencies to invest in euros and other currencies abroad.
+
+C onversely, dollar assets abroad have been rising even as the
+banks‘ external dollar borrowing has fallen.
+The back door “intervention” consistent external portfolio (i.e.
+the state banks’ foreign assets that are somehow funded
+internally) is all in dollars.*** And the net external dollar
+position was above $700 billion at the end of last year and
+rising fast (it should be higher when the end Q1 data is
+
+### Page 4
+
+released; the banking data shows a $50 billion rise in foreign
+currency external assets).
+A bit of ballpark math is now needed.
+55 percent of C hina’s $3.3 trillion in reserves is roughly $1.8
+trillion. That is a reasonable estimate of SAFE’s dollar
+holdings (which include a decent chunk of U.S. equities; it
+isn’t all in fixed income).
+SAFE’s quarterly data shows state commercial banks had $1
+trillion in dollar assets (versus $300 billion in dollar liabilities
+
+abroad) at the end of Q4, and probably more like $1.1 trillion
+in dollar assets now.
+The policy banks have an undisclosed foreign portfolio. But
+AIDdata estimated that they could hold close to $1 trillion in
+claims on the world—and most of those seem to be in
+dollars.
+And, of course, the bulk of the C hina Investment
+C orporation’s (C IC ) private equity investments will be dollar-
+based. That suggests that the bulk of the C IC ’s $450 billion
+in foreign assets are dollars.****
+
+### Page 5
+
+Sum it up, and C hina, Inc. could hold more dollars off
+SAFE’s balance sheet than on SAFE’s balance sheet.
+Nice little trick.
+It seems to have fooled most of the internet.
+* The IMF hasn’t wanted to press about how the policy banks
+raise funds for external lending, it seems; it hasn’t been the
+subject of any IMF research even though it would seem to be
+critical for the IMF’s understanding a number of policy
+issues. Tooze argues that the IMF opts to avoid some
+
+controversial topics with C hina; this may be one of them.
+** SAFE’s data set on the external assets and liabilities of the
+state banks shows more assets and liabilities than the central’s
+bank data set on the foreign assets of the state commercial
+banks (other depository corporations). The difference,
+however, is bigger on the liability side (in yuan) than on the
+asset side. The SAFE series shows more foreign assets than
+the PBOC  series, but the changes now line.
+
+Same if the numbers on foreign currency assets are compared
+to the relevant PBOC  data set.
+
+### Page 6
+
+*** Foreign assets that are funded out of deposits need not be
+intervention, though C hina is now somewhat unique in that
+its domestic FX deposits are overwhelmingly backed by
+external FX assets. The stock of available deposits falls far
+short of measures of the banks’ total foreign assets. That
+includes the policy banks, so there is more going on than
+simple intermediation. And the deposit series is itself a little
+strange; it rose strongly from 2019 to 2021 even though C NY
+
+interest rates exceeded dollar interest rates, and fell in 2022
+and 2023 even as the Fed raised rates and the PBOC  cut
+rates. It looks a lot more like a data series influenced by
+backdoor intervention than a series driven by organic demand
+for dollars. See this blog for more.
+
+### Page 7
+
+From Follow the Money and Greenberg C enter for Geoeconomics
+Creative Commons: Some rights reserved.
+This work is licensed under Creative Commons Attribution-
+NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND
+4.0) License.
+CHINA ECONOMICS
+**** It is less clear with SAFE’s investment vehicles; they
+initially were funded out of dollars, but now likely have equity
+stakes in various C hinese investments around the world.
+Americans Beware: Markets Can
+
+Be Out of Sync With Reality
+By Robert E. Rubin
+CFR Sovereign Risk Tracker
+May 20, 2026
+What the Trump-X i
+Summit Means for Southeast
+Asia and South Asia
 
 ### Page 8
 
-本報告係根據研究資料及各項可靠數據作成，兆豐銀行保留報告內容所有權利，未經本行許可，請勿引
-用相關內容。
+About CFR Membership
+Support CFR Fellowships
+Careers Newsletters
+CFR Education CFR Store
+Contact Us Communications and Media Resources
+Privacy Policy Terms of Use
+GET CFR’S THE WORLD THIS WEEK
+©2026 C ouncil on Foreign Relations
+May 21, 2026 By Joshua Kurlantzick
+May 19, 2026
+email@example.com Subscribe
 
+---
+## Document 133: Energy shock_ Dashboard 2026 vs. 2022 (2026-05-19)
+
+Source PDF: all report pdf/Energy shock_ Dashboard 2026 vs. 2022 (2026-05-19).pdf
+Pages: 8
+Extraction status: ok
+
+### Page 1
+
+Energy shock: Dashboard 2026 vs. 2022
+MAY 2026
+
+### Page 2
+
+-20
+-15
+-10
+-5
+0
+5
+10
+m-13
+m-12
+m-11
+m-10
+m-9
+m-8
+m-7
+m-6
+m-5
+m-4
+m-3
+m-2
+m-1
+m
+m+1
+m+2
+m+3
+m+4
+m+5
+m+6
+m+7
+m+8
+m+9
+m+10
+MidEast war
+Ukraine war
+Energy shock: Dashboard 2026 vs. 2022
+20/05/2026 2
+Will the same causes produce the same effects? In other words, will the war in Iran and the resulting
+surge in oil and gas prices lead to an inflationary shock comparable to that seen in 2022? Will their
+negative effects on growth be the same as those for the war in Ukraine and the subsequent energy
+
+shock? Although there are similarities, there are many uncertainties.
+The ongoing energy-led inflation rise should be less strong, as demand is less dynamic and supply is
+less constrained today compared with the situation in 2022. Conditions do not appear to be conducive
+to a significant propagation of the rise in energy prices. However this will need to be closely monitored
+as transmission lags matter, and the return to normal oil production flows will take time while the
+
+strait of Hormuz remains blocked.
+In addition, central banks have learned from the inflationary shock of 2021–2023. They are ready to
+react more quickly to counter any spillovers, second-round effects and spiral between price increases,
+inflation expectations and wages. Such second-round effects are not yet visible in the data, but central
+banks are on alert of any warning signs.
+We have selected a set of indicators to track the impact of this new energy shock — caused by the war
+
+in the Middle East — on activity and prices in the Eurozone, the United States, oil and gas markets and
+emerging countries, and to see how much the current situation resembles that of 2022 at the outbreak
+of the conflict in Ukraine.
+This dashboard featuring charts and comments will be updated on a monthly basis for as long as
+necessary.
+ECONOMIC RESEARCH
+Eurozone/US: Household confidence falters under the impact of rising energy prices
+Eurozone consumer confidence:
+
+Financial situation over the next 12 months
+Change since m = 0 = February 2026 / February 2022                                                                           Change since m = 0 = February 2026 / February 2022
+Source: BLS, ISM, NFIB, University of Michigan, BNP Paribas
+-20
+-15
+-10
+-5
+0
+5
+10
+15
+20
+25
+m-13
+m-12
+m-11
+m-10
+m-9
+m-8
+m-7
+m-6
+m-5
+m-4
+m-3
+m-2
+m-1
+m
+m+1
+m+2
+m+3
+m+4
+m+5
+m+6
+m+7
+m+8
+m+9
+m+10
+m+11
+m+12
+MidEast war Ukraine war
+US: Consumer sentiment - Expected Personal Finances (1y)
+
+Source: S&P Global, Eurostat, European Commission, Macrobond, BNP Paribas
+US consumer sentiment:
+Expected personal finances (1y)
+
+### Page 3
+
+-20
+-15
+-10
+-5
+0
+5
+10
+15
+m-13
+m-12
+m-11
+m-10
+m-9
+m-8
+m-7
+m-6
+m-5
+m-4
+m-3
+m-2
+m-1
+m
+m+1
+m+2
+m+3
+m+4
+m+5
+m+6
+m+7
+m+8
+m+9
+m+10
+Input prices-MidEast war
+Outpout prices-MidEast war
+Input prices-Ukraine war
+Output prices-Ukraine war
+-15
+-10
+-5
+0
+5
+10
+15
+20
+m-13
+m-12
+m-11
+m-10
+m-9
+m-8
+m-7
+m-6
+m-5
+m-4
+m-3
+m-2
+m-1
+m
+m+1
+m+2
+m+3
+m+4
+m+5
+m+6
+m+7
+m+8
+m+9
+m+10
+MidEast war
+Ukraine war
+-20
+-15
+-10
+-5
+0
+5
+10
+m-13
+m-12
+m-11
+m-10
+m-9
+m-8
+m-7
+m-6
+m-5
+m-4
+m-3
+m-2
+m-1
+
+m
+m+1
+m+2
+m+3
+m+4
+m+5
+m+6
+m+7
+m+8
+m+9
+m+10
+MidEast war
+Ukraine war
+-12
+-10
+-8
+-6
+-4
+-2
+0
+2
+4
+6
+m-13
+m-12
+m-11
+m-10
+m-9
+m-8
+m-7
+m-6
+m-5
+m-4
+m-3
+m-2
+m-1
+m
+m+1
+m+2
+m+3
+m+4
+m+5
+m+6
+m+7
+m+8
+m+9
+m+10
+MidEast war
+Ukraine war
+-12
+-10
+-8
+-6
+-4
+-2
+0
+2
+4
+6
+m-13
+m-12
+m-11
+m-10
+m-9
+m-8
+m-7
+m-6
+m-5
+m-4
+m-3
+m-2
+m-1
+m
+m+1
+m+2
+m+3
+m+4
+m+5
+m+6
+m+7
+m+8
+m+9
+m+10
+MidEast war
+Ukraine war
+-6
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+5
+m-13
+m-12
+m-11
+m-10
+m-9
+m-8
+m-7
+m-6
+m-5
+m-4
+m-3
+m-2
+
+m-1
+m
+m+1
+m+2
+m+3
+m+4
+m+5
+m+6
+m+7
+m+8
+m+9
+m+10
+Inflation-MidEast war
+Inflation excl. NRJ-MidEast war
+Inflation-Ukraine war
+Inflation excl. NRJ-Ukraine war
+April 2026: Business confidence in services
+further deteriorates
+April 2026: Business confidence in the
+manufacturing sector remains well-oriented
+April 2026: Sharp rise in input prices and
+increase in output prices
+April 2026: Further lengthening of delivery
+times, signaling rising tensions on supply
+
+April 2026:
+Sharp fall in consumer confidence
+April 2026:
+The inflation rise remains energy-led
+Eurozone: The inflation rise remains energy-driven, but pressures are mounting and
+consumer and services sector confidence is deteriorating sharply
+20/05/2026 3
+We have selected two inflation measures (with and without energy) and six survey indicators: business confidence, as
+measured by the PMIs in the manufacturing and services sectors; the “input prices” and “output prices" components of the
+
+composite PMI (in order to identify direct inflationary pressures); the “suppliers’ delivery times” component of the
+manufacturing PMI (a direct indicator of possible supply difficulties and supply-demand imbalance, and therefore, indirectly,
+of inflationary pressures in the making); household confidence, as reflected in its “assessment of financial situation in the
+next 12 months” component (in order to capture the impact of inflation on purchasing power). The trends in each of these
+
+indicators are observed relative to month m=0, corresponding to the start of the conflict, more or less during the year that
+follows and the year that precedes the event. Each line does not represent the level of the indicator but its cumulative
+variation compared to month m=0.
+The assessment of the available data for April is more negative than in March. Inflation rose by 1.1 percentage points in two
+months, an increase that is however still solely driven by the "energy" component. Excluding energy as well as excluding
+
+“energy and food," inflation recorded a new slight decline in April. However inflationary pressures are mounting, through
+rising input prices and — new development in April — the beginning of an increase in output prices according to PMIs
+surveys. The lengthening of delivery times is not a good sign either. The good news, coming from confidence surveys, is the
+further improvement in the business climate in the manufacturing sector (driven by stockpiling in anticipation of price
+
+increases). But it is weakened by the new sharp deterioration of the business climate in services and by the further decline in
+consumer confidence.
+Source: S&P Global, Eurostat, European Commission, Macrobond, BNP Paribas
+ECONOMIC RESEARCH
+Change since m = 0 = February 2026 / February 2022
+Eurozone: Inflation (incl. & excl. Energy) Eurozone: Manufacturing PMI
+Eurozone: Manufacturing PMI - Suppliers' delivery times
+Eurozone: Consumer confidence
+Financial situation over the next 12 months
+
+Eurozone: Services PMI
+Eurozone: Composite PMI - Input and output prices
+
+### Page 4
+
+United States: Iran war pushes inflation higher and sustains downward pressure on
+household sentiment
+20/05/2026 4
+April 2026: Services business sentiment down
+but still buoyant
+April 2026: Positive trend for manufacturing
+business sentiment
+April 2026: Sharp rise in input prices, moderate
+rise in price plans
+April 2026:
+Longer delivery times
+May 2026:
+Growing concerns among households
+April 2026:
+Energy-related inflation bounce
+The Iran war delivered a quick, though relatively contained, negative impact to US activity data and surveys.
+
+CPI inflation recorded its largest monthly increase since 2022 in March, before reaching 3.8% y/y in April (+1.4pp in two
+months and a highest since 2023) – almost entirely on the back of gasoline prices, with the non-energy index edging up only
+moderately.
+Business sentiment, which was on an upward trajectory before the shock, stayed resilient but signaled a faster input-price
+growth (a leading indicator of inflation) and longer delivery times, both directly linked to Middle East turmoil and coming on
+
+top of the issue of tariffs.
+Meanwhile, the outlook of households, which were already low on optimism, has further deteriorated due to their sensibility
+to gasoline prices, while inflation expectations were rising.
+However, macro conditions are significantly less inflationary than in 2022, and small businesses have not yet materially
+raised their price plans.
+Source: BLS, ISM, NFIB, University of Michigan, BNP Paribas
+ECONOMIC RESEARCH
+Change since m = 0 = February 2026 / February 2022
+
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+5
+m-13
+m-12
+m-11
+m-10
+m-9
+m-8
+m-7
+m-6
+m-5
+m-4
+m-3
+m-2
+m-1
+m
+m+1
+m+2
+m+3
+m+4
+m+5
+m+6
+m+7
+m+8
+m+9
+m+10
+m+11
+m+12
+Inflation-MidEast war
+Inflation-Ukraine war
+Inflation excl. NRJ-MidEast war
+Inflation excl. NRJ-Ukraine war
+US: CPI inflation (incl. & excl. energy)
+-12
+-10
+-8
+-6
+-4
+-2
+0
+2
+4
+6
+m-13
+m-12
+m-11
+m-10
+m-9
+m-8
+m-7
+m-6
+m-5
+m-4
+m-3
+m-2
+m-1
+m
+m+1
+m+2
+m+3
+m+4
+m+5
+m+6
+m+7
+m+8
+m+9
+m+10
+m+11
+m+12
+MidEast war
+Ukraine war
+
+US: Manufacturing ISM
+-10
+-8
+-6
+-4
+-2
+0
+2
+4
+6
+8
+10
+12
+m-13
+m-12
+m-11
+m-10
+m-9
+m-8
+m-7
+m-6
+m-5
+m-4
+m-3
+m-2
+m-1
+m
+m+1
+m+2
+m+3
+m+4
+m+5
+m+6
+m+7
+m+8
+m+9
+m+10
+m+11
+m+12
+MidEast war Ukraine war
+US: Non-Manufacturing ISM
+-30
+-25
+-20
+-15
+-10
+-5
+0
+5
+10
+-30
+-25
+-20
+-15
+-10
+-5
+0
+5
+10
+m-13
+m-12
+m-11
+m-10
+m-9
+m-8
+m-7
+m-6
+m-5
+m-4
+m-3
+m-2
+m-1
+m
+m+1
+m+2
+m+3
+m+4
+m+5
+m+6
+m+7
+m+8
+m+9
+m+10
+m+11
+m+12
+Input prices-MidEast war
+Input prices-Ukraine war
+Price plans-MidEast war
+
+Price plans-Ukraine war
+US: Proxy ISM Composite Prices and NFIB Price Plans
+-15
+-10
+-5
+0
+5
+10
+15
+20
+m-13
+m-12
+m-11
+m-10
+m-9
+m-8
+m-7
+m-6
+m-5
+m-4
+m-3
+m-2
+m-1
+m
+m+1
+m+2
+m+3
+m+4
+m+5
+m+6
+m+7
+m+8
+m+9
+m+10
+m+11
+m+12
+MidEast war Ukraine war
+US: Manufacturing ISM - Supplier Deliveries
+-20
+-15
+-10
+-5
+0
+5
+10
+15
+20
+25
+m-13
+m-12
+m-11
+m-10
+m-9
+m-8
+m-7
+m-6
+m-5
+m-4
+m-3
+m-2
+m-1
+m
+m+1
+m+2
+m+3
+m+4
+m+5
+m+6
+m+7
+m+8
+m+9
+m+10
+m+11
+m+12
+MidEast war Ukraine war
+US: Consumer sentiment - Expected Personal Finances (1y)
+
+### Page 5
+
+-10
+-5
+0
+5
+10
+m-13
+m-12
+m-11
+m-10
+m-9
+m-8
+m-7
+m-6
+m-5
+m-4
+m-3
+m-2
+m-1
+m
+m+1
+m+2
+m+3
+m+4
+m+5
+m+6
+m+7
+m+8
+m+9
+m+10
+Input prices-MidEast war
+Output prices-MidEast war
+Input prices-Ukraine war
+Output prices-Ukraine war
+Composite PMI - Input & Output prices
+Emerging economies: Manufacturing activity seems to be holding up much better than in
+2022 but the inflation shock is spreading
+20/05/2026 5
+April 2026: … but a stronger acceleration in
+input and output producer prices
+
+April 2026 : Better business confidence
+after the March shock
+April 2026 :
+A marked rebound in portfolio investments
+April 2026 :
+A much less severe CPI inflation rebound …
+In April 2026, the inflationary impact of the oil price shock is spreading as the average CPI inflation rate for the main
+emerging economies reached 4.8% year-on-year, compared with 3.9% in February. The shock is still contained compared to
+2022 due to limited spillover to agricultural and food prices. However, manufacturers’ opinion on the trend in input & output
+
+prices have deteriorated significantly. The contagion of oil and gas prices to fertiliser and oil-derived input prices is being
+felt more acutely.
+As anticipated in March, the impact on manufacturing activity is far less severe than in 2022, as the business climate has
+become less negative. By comparison, prior to the shock of 2022, the business climate had continued to deteriorate
+significantly.
+According to estimates by the Institute of International Finance (IIF), non-resident portfolio investment in the main emerging
+
+markets rebounded (+USD 38.9 billion) following the massive outflows in March (-USD 85.7 billion), which were revised
+upwards from the first estimates. The return of foreign investors to the Chinese, Taiwanese and Korean markets accounts for
+most of the rebound. It should be noted, however, that investment outflows from Indian markets continued. At first sight, the
+oil shock has generated much higher volatility in portfolio investments flows than in 2022, but volatility was concentrated in
+
+a few markets.
+Source: National Statistical Offices, IIF, S&P Global, BNP Paribas
+ECONOMIC RESEARCH
+-6
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+5
+m-13
+m-12
+m-11
+m-10
+m-9
+m-8
+m-7
+m-6
+m-5
+m-4
+m-3
+m-2
+m-1
+m
+m+1
+m+2
+m+3
+m+4
+m+5
+m+6
+m+7
+m+8
+m+9
+m+10
+Inflation-MidEast war
+Inflation-Ukraine war
+-3
+-2
+-1
+0
+1
+2
+m-13
+m-12
+m-11
+m-10
+m-9
+m-8
+m-7
+m-6
+m-5
+m-4
+m-3
+m-2
+m-1
+m
+m+1
+m+2
+m+3
+m+4
+m+5
+m+6
+m+7
+m+8
+m+9
+m+10
+MidEast war
+Ukraine war
+Manufacturing PMI
+-100
+-80
+-60
+-40
+-20
+0
+
+20
+40
+60
+80
+m-13
+m-12
+m-11
+m-10
+m-9
+m-8
+m-7
+m-6
+m-5
+m-4
+m-3
+m-2
+m-1
+m
+m+1
+m+2
+m+3
+m+4
+m+5
+m+6
+m+7
+m+8
+m+9
+m+10
+MidEast war
+Ukraine war
+Non-residents portfolio capital flows (USD bn)
+Change since m = 0 = February 2026 / February 2022
+Composite PMI - Input and output prices
+Non-residents portfolio capital flows (USD bn) Manufacturing PMI
+
+### Page 6
+
+Oil & gas: The sharp rise in U.S. exports is providing temporary relief to the oil market,
+but prices remain very high
+20/05/2026 6
+May 2026: Narrowing spread between
+the physical barrel price and futures price
+May 2026:
+Rebound in LNG prices in Europe
+May 2026: Wholesale electricity prices in Europe
+have not reacted yet
+For now, European oil and gas prices appear to be reacting more strongly to the energy shock caused by the war in the
+Middle East than they did to the shock that followed Russia’s invasion of Ukraine.
+
+Oil: The growing loss of barrels available on the market due to the closure of the Strait of Hormuz, repeated attacks on
+production capacity in the Gulf, and restrictions on traffic through the Strait increase the risk of a physical oil shortage in
+the short term. This has led to a sharp reaction in the prices of physical barrels (dated Brent). In recent weeks, better
+pricing of this risk of shortage has caused the prices of futures (Brent) to converge with that of the physical barrel (dated
+
+Brent). Furthermore, the sharp rise in oil exports from the United States and, to a lesser extent, the decline in Chinese
+imports have eased tensions in the physical market and pushed prices lower.
+Gas: The reaction of the spot gas price in Europe (TTF) has been more moderate than that of oil. This is due in particular
+to 1) European countries’ limited direct dependence on gas from the Gulf, 2) the reduction in European demand as winter
+ends, and 3) the decline in Asian demand. Nevertheless, TTF prices remain high and have trended upward over the past
+
+month due to the ongoing blockade of the Strait and the start of the restocking period in Europe.
+Electricity: Unlike 2022, wholesale electricity prices in Europe have been falling since the start of the conflict. Gas prices
+remain an important determinant of wholesale electricity prices, but progress in decarbonation of the electricity mix
+since 2022 and favorable weather conditions explain this recent development.
+Source: Bloomberg, Ember, BNP Paribas
+
+Note: change % since 02/27/2026 - 02/23/2022; last price 05/18/2026
+ECONOMIC RESEARCH
+Note: change % since 02/27/2026 - 02/23/2022; last price 05/18/2026 Note: change % since 02/2026 - 02/2022
+-100
+-50
+0
+50
+100
+m-13
+m-12
+m-11
+m-10
+m-9
+m-8
+m-7
+m-6
+m-5
+m-4
+m-3
+m-2
+m-1
+m
+m+1
+m+2
+m+3
+m+4
+m+5
+m+6
+m+7
+m+8
+m+9
+m+10
+Brent - MidEast war
+Dated Brent - MidEast war
+Brent - Ukraine war
+Dated Brent - Ukraine war
+-100
+-50
+0
+50
+100
+150
+200
+m-13
+m-12
+m-11
+m-10
+m-9
+
+m-8
+m-7
+m-6
+m-5
+m-4
+m-3
+m-2
+m-1
+m
+m+1
+m+2
+m+3
+m+4
+m+5
+m+6
+m+7
+m+8
+m+9
+m+10
+European gas TTF - MidEast
+war
+European gas TTF - Ukraine
+war
+-100
+-50
+0
+50
+100
+150
+200
+m-13
+m-12
+m-11
+m-10
+m-9
+m-8
+m-7
+m-6
+m-5
+m-4
+m-3
+m-2
+m-1
+m
+m+1
+m+2
+m+3
+m+4
+m+5
+m+6
+m+7
+m+8
+m+9
+m+10
+Electricity price - MidEast war
+Electricity price - Ukraine war
+
+### Page 7
+
+ECONOMIC RESEARCH
 7
 
-三、日本—能源與科技雙重推升，供應鏈通膨壓力加劇 
-4 月企業商品物價指數（CGPI）年增 1.8%，創 2023 年 5 月以來最大漲幅，
-主要係中東衝突造成能源與化工品供應受限，推升石腦油價格年增 79.4%，航空
-煤油年增 128.5%，顯示能源進口壓力 顯著擴大。雖然政府補貼使汽油價格年減
-12.7%，但重油仍上漲 9.1%。另，進口價格全面上揚，以日圓計價的石油、煤炭
-和天然氣價格年增 19.7%，進一步加重企業提高產品價格的壓力。除能源外，科
-技相關產品也表現強勁，電子產品進口價格年增 22.8%。同時，人工智慧的蓬勃
-發展也推升科技產品的出口需求，使電子產品出口價格（以合約貨幣計價）年增
-18.9%。整體來看， 能源與科技雙重因素疊加 ， 顯示供應鏈的通膨壓力正在加劇。 
-四、中國—川習會成果有限 
- 4 月出口年增率較 3 月大幅增加 11.6 個百分點至 14.1%，出口總值為 6,341
-億美元；累計前四個月出口年增率為 14.5%，累積出口總值為 13,369 億美元。其
-中在政策支持高科技產業以及 AI 需求加持，加上記憶體價格上漲，IC、自動數
-據處理設備(包含伺服器等)累積出口分別成長 83.7%、31.8%；受惠先前全球訂船
-熱潮影響 ， 船舶累積出口成長48.7%， 預期未來3 至 4 年船舶產能續呈滿載局面 ；
-儘管電動車產業失去政策支持，但因產品在國際市場仍具備相當競爭力，汽車累
-積出口成長 54.1%。另方面，累計前四個月進口值成長23.6%至 9,892 億美元，其
-中 IC、自動數據處理設備(包含伺服器等)進口分別成長 47.8%、60.6%，呼應中國
-對高階 IC 的依賴，以及部分伺服器關鍵組件有賴於進口滿足所需。進出口相抵
-後，前四個月貿易順差達 3,477 億美元。 
- 4 月生產者通膨(出廠價格)由 3 月的 0.5%躍升至 2.8%，主要是受到美伊衝突
-影響，石油和天然氣開採出廠價格漲幅自 5.2%上升至 28.6%，石油、煤炭及其他
-燃料加工出廠價格漲幅則自-4.5%升至 18.7%，石化中下游產業如化學纖維、化工
-製品、橡塑膠等出廠價格漲幅皆有較大提升；有色金屬採礦出廠價格漲幅則為
-38.9%，主要反映黃金價格依然居高不下所致；黑色金屬相關產業通縮也有改善，
-反映其受惠於產能調節持續進行；另外，惟建材通縮加劇，反映房市持續疲軟之
-故。 
- 4 月消費者通膨(CPI)則較 3 月回升 0.2 個百分點至 1.2%， 核心通膨(不含食品
-及能源)回升 0.1 個百分點至 1.2%， 主要是國際能源價格上漲 ， 使燃油價格較去年
+### Page 8
 
-### Page 9
-
-本報告係根據研究資料及各項可靠數據作成，兆豐銀行保留報告內容所有權利，未經本行許可，請勿引
-用相關內容。
-
+ECONOMIC RESEARCH
 8
 
-同期上揚 14%， 加上清明連假推升旅遊服務價格所致 ， 反觀食品類價格續呈下跌 。
-整體而言，能源價格由上游迅速反映至消費端，惟受到政府壓縮成品油漲幅等臨
-時措施調控 ， 其漲幅仍遠低於國際價格 ； 另外 ， 雖石化與中游原料價格明顯上揚 ，
-卻未帶動衣著及生活用品等消費品同步上漲，顯示成本轉嫁仍受需求疲弱制約，
-通膨壓力尚屬溫和。 
- 展望未來 ，5 月 14 日舉行的川習會雖雙方同意互降等值 300 億美元商品的關
-稅，中國承諾採購 200 架波音客機、擴大農產品進口、購買美國石油等，但整體
-影響有限，後續關注在 7 月 24 日後美國預計將以 301 條關稅取代 10%的臨時性
-關稅。此外，鑒於中東戰爭持續延燒且有較大不確定性，預期生產者通膨將持續
-上漲，惟消費端需求疲軟以及政府調控價格影響，消費者通膨料將維持相對溫和
-的走勢。 
-五、印度及東南亞—中東戰爭擾亂全球燃料供應，印、泰、越 價格壓力大增 
-印度: 4 月消費者物價指數 （CPI，下同） 年增率 3.48%， 創一年來最快成長速度 ，
-主要反映食品及個人用品價格上揚所致， 交通運輸類價格 在國有礦商(OMC)吸收
-燃料相關成本下 ， 漲幅近乎持平 。 不過 ，4 月批發價格(WPI)年增率大幅上揚8.30%，
-其中，燃油價格飆升 24.71%，製造業(紡織、皮革及化學品)及食品通膨同步加速
-4.6%及 2.31%。展望未來，中東戰爭擾亂全球燃料供應，加上印度盧比貶值推高
-燃料成本，儘管印度總理莫迪呼籲企業實施居家辦公，4 月綜合採購經理人指數
-(PMI)顯示，投入成本壓力持續上揚，並可能傳導至產出價格，壓抑企業利潤，此
-外，化肥原料短缺、北半球夏季聖嬰現象即將到來，恐影響農作物生長，將使通
-膨有進一步上揚壓力。 
-東南亞:(1)泰國：4 月 CPI 年增率2.89%， 自歷經一年的通縮轉為通膨 ， 並創3 年
-來新高水準，反映中東戰爭推高了燃料、交通、租金和消費品的價格，核心通膨
-率升至0.83%，亦創九個月新高，近期泰國央行預計2026 年平均通膨率為 2.9%，
-隨著供應限制的逐步緩解，2027 年將回落至 1.5%。(2)越南:全球油價上漲帶動
-各項物價全面上揚，4 月CPI 年增率從 3 月的 4.65%加速至 5.46%，創6 年新高，
-核心CPI 亦加速至 4.66%的3 年高點 。 其中 ，食品 （5.20%）、住房及水電（7.95%）、
-交通（11.08%）等價格漲幅較鉅，通膨壓力漸增。
-
 ---
-## Document 149: France_ one-off factors largely account for zero growth in Q1 (2026-04-30)
+## Document 151: FX Daily_ Iran fall-out coming home to roost in EUR_USD
 
-Source PDF: all report pdf/France_ one-off factors largely account for zero growth in Q1 (2026-04-30).pdf
-Pages: 1
+Source PDF: all report pdf/FX Daily_ Iran fall-out coming home to roost in EUR_USD.pdf
+Pages: 4
 Extraction status: ok
 
 ### Page 1
 
-Paris, 30 April 2026
+Article | 22 May 2026 1
+THINK economic and financial analysis
+Article  |  22 May 2026   FX
+FX Daily: Iran fall-out coming home to
+roost in EUR/USD
+EUR/USD was hit in March on expectations that the stagflationary shock
+from Iran would resonate more in Europe than the US. The inflationary
+effects have been plain for all to see, but this week s release of European
+PMIs warns that the stagnationary effect is just starting to land in
+Europe. This can curtail ECB tightening expectations and weigh on
 
-EcoFlash
+EUR/USD
+It now looks as though we're entering a new bearish phase for EUR/USD
+USD: Look out for a Waller speech at 4:00pm CET
+The FX market is relatively calm and being gently bounced around by headlines out of Iran.
+One-month G7 FX implied volatility is near the lows of the year, suggesting the FX market is
+not priced for any dramatic news trends. The story since mid-May, however, has been the
+hawkish re-pricing of the Fed cycle and a stronger dollar. The market now prices 20bp of Fed
 
-France: one-off factors largely account for zero growth in Q1 
-French growth was lower than expected in the first quarter, at 0% QoQ, mainly hampered by exceptional factors, mostly 
-aeronautics deliveries and public investment . These factors explain why this figure is significantly lower than our 
-nowcast and that of the Banque de France, which estimated that growth had reached 0.3% in Q1, based on production 
-indicators in industry and services. This lead taken by production is reflected in a strongly positive contribution from 
-changes in inventories (+0.8 percentage points), driven mainly by transport equipment.
+hikes by December.
+The Chicago Fed President, Austan Goolsbee, sounded a word of warning yesterday by
 
-French GDP stagnated in the first quarter, mainly held back by aeronautics exports. Exports fell by 3.8% QoQ (a negative 
-contribution of 1.2 percentage points to growth) , a decline linked to very subdued aircraft  deliveries (114 aircraft in Q1 2026 , 
-compared with 136 in Q1 2025 and 286 in Q4 2025). However, this weakness in deliveries was not driven by a decline in the 
-production of transport equipment. Production of transport equipment rose by 1.5% QoQ in Q1 2026. Furthermore, changes in 
-inventories contributed positively to first -quarter growth (by 0.8 percentage points), and this increase in inventories is largely 
-attributable to transport equipment. We estimate that this exceptional factor (delayed aircraft deliveries) would have dampened 
-first-quarter growth by 0.3 percentage points and is likely to be recouped subsequently. Indeed, production in the sector shows 
-no signs of slowing down and the order book is full. A rebound in exports is therefore plausible, but would be spread over the 
-coming quarters, as ramp-up typically takes time.
+### Page 2
 
-An upside risk to our forecast for the second quarter, despite uncertainties that are likely to weigh on the outlook. We 
-recently revised our growth forecast for the second quarter to 0% QoQ, since accelerating inflation (2.5% y/y in April according 
-to the harmonised index) should lead to a decline in household consumption, a view we maintain. Household confidence fell by 
-5 points mom in April 2026, with a sizeable decline in the opportunity to make major purchases. Following a decrease by 0.1% 
-QoQ in the first quarter, we expect consumption to contract by 0.3% QoQ in Q2 according to our forecasts and to stagnate in 
-2026. However, the likely rebound in exports introduces an upside risk to our forecast. Growth could therefore be slightly positive 
-in both second and third quarters, and France would thus avoid recession.
+THINK economic and financial analysis
+Article | 22 May 2026 2
+announcing, "We have a pretty significant inflation problem developing". He is a non-voter this
+year, but is not typically seen as one of the most hawkish on the Fed. For a better steer on Fed
+thinking from another centrist, we have a speech from Christopher Waller today at 4:00pm
+CET. He typically delivers very clear speeches on the economic outlook, and his most recent
+speech made the case for a prolonged pause after he had voted for a rate cut in January. It is
 
-Investment: cautious optimism, despite a poor first quarter and uncertainty. Investment took a hit in the  first quarter of 
-2026, with a decline in business and household construction investment (which had strengthened in the second half of 2025) 
-and a fall in public investment (due to the local election cycle and the late adoption of the 2026 Finance Act). Recent data, notably 
-including an increase in housing starts observed over the last three months , nevertheless show that the trend towards 
-improvement remains intact. Furthermore, structural trends, such as business investment in digital technology, continue to 
-support growth and have led to a sharp rise in business creations (+14% y/y in Q1). Uncertainty surrounding the conflict in Iran 
-and the scale of the monetary policy response (which will determine the extent of the ECB’s rate hikes, +50 basis points in our 
-scenario for 2026) is likely to weigh on investment intentions in the coming quarters. However, we expect investment growth to 
-continue, albeit at a more moderate pace than in 2025 (+0.5% in 2026, compared with +0.8% in 2025).
+probably too early for him to be speculating over a hike, but this speech could be the biggest
+market mover on a quiet Friday. The background here is that, now that the US jobs market
+looks relatively stable, the Fed should be concentrating more on its price mandate.
+Today's US data calendar is quite light. Final releases for the University of Michigan Consumer
+sentiment today will provide an update on inflation expectations at both the one-year and
 
-Stéphane Colliac 
-Head of the ‘Advanced Economies’ team, France Economist 
-stephane.colliac@bnpparibas.com
+five-to-ten year horizons. Any increase in the medium-term expectations will be important for
+the Fed.
+Expect DXY to remain supported in a 99.00-99.50 range, with upside risks should Waller hint at
+the need for rate hikes.
+Chris Turner
+EUR: Activity is the weak link
+The Middle East shock has impacted EUR/USD in waves – first, the initial reaction that Europe is
+more exposed than the US, then a recovery on the view that the ECB would take forceful action
+
+by tightening policy, providing some support to EUR/USD. And it now looks like we are entering
+a new bearish phase for EUR/USD. This week's European PMIs have been poor and warn of
+weaker activity through the second quarter. Softer activity also brings into question how
+hawkish the ECB can be. In late April, the market was pricing close to 85bp of ECB tightening
+this year. That has now dropped to 65bp, with an ING house view that the ECB will hike just
+
+once in June.
+The re-pricing of both the Fed and the ECB policy cycles has seen the two-year EUR:USD real
+yield differential move 30bp against EUR/USD over the last two weeks, and we expect there is
+more to come. Under 1.1575, we think EUR/USD can press 1.1500 again and, equally, any
+progress on peace discussions in the Middle East could see any corrective rally stall
+near 1.1660/90 on the view that the fallout from the energy shock will still be with us for the
+
+next couple of months.
+For today, the focus is on the German Ifo at 10:00am CET. The expectations component should
+hold steady near 83.3/83.5 (its lowest since 2023), with any big miss potentially weighing on
+EUR/USD further. And again, Waller's speech will be important later in the day; look out for a
+speech from ECB President Christine Lagarde at 10:30am CET today, too.
+Chris Turner
+
+### Page 3
+
+THINK economic and financial analysis
+Article | 22 May 2026 3
+CHF: EUR/CHF hostage to the ECB
+It seems clear that the Swiss National Bank is not going to do anything with monetary policy
+anytime soon. Earlier in the year, the debate was whether it needed to take its policy rate
+– now at 0% – into negative territory. With the oil price spike, that flipped expectations towards
+SNB tightening and indeed 20bp of tightening is priced in by year-end. We cannot see the SNB
+
+tightening this year at a time when it says it wants to intervene more intensively against the
+strong Swiss franc.
+With SNB policy going nowhere, EUR/CHF is therefore being dragged around by the ECB
+tightening story. If the next chapter sees softer eurozone activity data raising questions over
+how much the ECB really needs to tighten after all, then EUR/CHF risks are skewed lower.
+Under 0.9125/35, EUR/CHF can drift under 0.9100.  But 0.90 remains the line in the sand for the
+
+SNB. It's worth remembering as well that Switzerland has some of the least fossil fuel-intensive
+industries in Europe, suggesting the economy may perform better relative to European peers
+this year.
+Chris Turner
+TRY: Political uncertainty tests carry positioning
+A Turkish court removed the leader of the country’s main opposition party in a landmark ruling
+that triggered market volatility across assets. The Ankara appeals court annulled the results of
+
+the 2023 congress of the Republican People’s Party, known by its Turkish initials CHP. The court
+decision cancels the election of Ozgur Ozel as CHP chairman. The market, remembering the
+turmoil of March 2025, went into defensive mode, and we saw a rapid sell-off in stocks and
+pressure on the lira.
+The headlines came just before the local market close, so we will see the full reaction of rates
+and bonds only today. However, the FX market clearly showed which direction it was heading.
+
+Spot USD/TRY remains unchanged, but forwards came under expected pressure, and we saw a
+spike in 1m TRY implied yields from around 35% to 50%. The market closed lower at around
+42%, still at significantly elevated levels, and we can probably see more of that today.
+The media has suggested that USD6bn was spent by the Central Bank of Turkey to defend the
+TRY yesterday, which seems to us to be a reasonable number. This does not indicate a major
+problem for the central bank, and we do not expect a prolonged period of volatility; the market
+
+should stabilise by Monday, in our view. The latest central bank figures show $169bn in FX
+reserves, which puts the CBT in a strong position. For comparison, in March 2025, CBT lost
+around $33bn and around $18bn at the start of the US-Iran conflict. Still, TRY has just started
+to see a renewal of carry positions to around $52bn in our estimates, and we will see later in
+the data how much it has lost after yesterday. Depending on that data, we will also see
+
+whether the market will be more hesitant to increase exposure again.
+
+### Page 4
+
+information purposes without regard to any particular user's investment objectives, financial situation, or means. ING forms
+part of ING Group (being for this purpose ING Group N.V. and its subsidiary and affiliated companies). The information in the
+publication is not an investment recommendation and it is not investment, legal or tax advice or an offer or solicitation to
+purchase or sell any financial instrument. Reasonable care has been taken to ensure that this publication is not untrue or
+
+person for any purpose without the prior express consent of ING. All rights are reserved. ING Bank N.V. is authorised by the
+Dutch Central Bank and supervised by the European Central Bank (ECB), the Dutch Central Bank (DNB) and the Dutch Authority
+for the Financial Markets (AFM). ING Bank N.V. is incorporated in the Netherlands (Trade Register no. 33031431 Amsterdam). In
+the United Kingdom this information is approved and/or communicated by ING Bank N.V., London Branch. ING Bank N.V.,
+
+London Branch is authorised by the Prudential Regulation Authority and is subject to regulation by the Financial Conduct
+Authority and limited regulation by the Prudential Regulation Authority. ING Bank N.V., London branch is registered in England
+(Registration number BR000341) at 8-10 Moorgate, London EC2 6DA. For US Investors: Any person wishing to discuss this
+report or effect transactions in any security discussed herein should contact ING Financial Markets LLC, which is a member of
+
+States under applicable requirements.
+Additional information is available on request. For more information about ING Group, please visit www.ing.com.
 
 ---
-## Document 167: Inflation in the Eurozone and France_ the start of a rebound (2026-03-30)
-
-Source PDF: all report pdf/Inflation in the Eurozone and France_ the start of a rebound (2026-03-30).pdf
-Pages: 1
-Extraction status: ok
-
-### Page 1
-
-Paris, 30 March 2026
-
-EcoFlash
-
-Inflation in the Eurozone and France: the start of a rebound 
-Inflation in both the Eurozone and France is expected to return to levels not seen since the summer of 2024. In March, 
-we forecast 2.6% y/y in the Eurozone (compared with 1.9% in February). In France, where inflation is starting from a  
-much lower base (1.1% in February), it is expected to reach 1.7% y/y in March, rising to 2.1% in May. This rebound in 
-inflation is attributable to the sharp increase in energy prices, which has not yet been passed on to core prices. Business 
-surveys point to a rebound in input prices. However, they do not currently suggest an increase in selling prices in the 
-second quarter, either in France or in the Eurozone. Nevertheless, a rebound in core inflation is expected from the 
-second half of the year. This could prompt the ECB to begin monetary tightening from June (by a cumulative 75 basis 
-points by the autumn, according to our forecasts).
-
-Harmonised inflation in the Eurozone is expected to reach 2.6% y/y in March, according to our forecasts . This would 
-represent a sharp rise compared with February (1.9% y/y). In monthly terms, the rise in consumer prices is expected to reach 
-1.4% m/m in March 2026, compared with 0.6% m/m in March 2025, a rise linked to the ongoing increase in fuel prices. The trend 
-is expected to remain unchanged for other consumer items, which would represent a notable difference from March 2022. At that 
-time, the inflationary spiral had already been underway since early 2021, and the Russian invasion of Ukraine had amplified it. 
-Behind the 2.4% m/m rise in the CPI in March 2022, the jump in fuel prices had reached 19% m/m (a trend similar to that expected 
-in March 2026). But food price inflation was also high and had already spread to the core rate (particularly goods prices). Nothing 
-of the sort is expected in March 2026. Core inflation is, in fact, expected to remain stable at 2.4% y/y. All European countries are 
-affected by the rise in Brent oil prices, as evidenced by the 0.8 percentage point acceleration in inflation in Germany (to 2.8% y/y) 
-and in Spain (to 3.3% y/y) in March.
-
-In France, similar trends are also expected . We forecast a rebound in harmonised inflation to 1.7% y/y (INSEE index at 
-1.6% y/y) compared with 1.1% in February (INSEE index at  1%). We estimate the rise in fuel prices at nearly 17% in March 
-(similar to March 2022). However, inflation is lower in France than in the Eurozone. Furthermore, the rate of increase is expected 
-to be lower than that seen in France in March 2022 (+1.6% m/m). However, with the recent rise in gas prices on the markets, the 
-Energy Regulatory Commission has already indicated that the benchmark retail price for gas will rise by 15% in May, which, 
-according to our forecasts, would push harmonised inflation in May above the 2% threshold (2.1% y/y). Core inflation (1.3% y/y 
-in February), meanwhile, is expected to remain stable.
-
-There is little risk of a rapid spillover to core inflation in the immediate term. The evolution of the conflict in Iran remains 
-uncertain. However, surveys currently suggest that, excluding energy, price rises are likely to be limited until the end of the  
-second quarter. In the Eurozone, the European Commission’s survey indicates a balance of opinion on 3-month prices of +20 in 
-industry (+6 m/m, but +57 in March 2022) and +20 in trade (+3 m/m , but +53 in March 2022). In France, the INSEE survey on 
-the business climate in March suggests that the pass-through effect would first affect food prices, with a more limited risk for the 
-time being than in 2022 (the balance of opinion on expected prices over the next three months stood at +8 in March 2026, 
-compared with +42 in March 2022). Inflation on goods could also rebound slightly (balance of opinion at +9 in March 2026), but 
-significantly less than in March 2022 (balance of opinion at +53) , for reasons unrelated to the energy shock (rise in industrial 
-input prices linked to increased production in defence, aerospace and AI).
-
-The ECB is unlikely to be in a rush to act, but would do so swiftly if necessary. The course of the conflict in Iran will be 
-decisive in determining whether hydrocarbon prices remain high for the long term. We have drawn up various scenarios . 
-According to the most likely scenario at this stage, Brent would remain above USD 100/barrel until the end of Q2, with a prolonged 
-blockade of the Strait of Hormuz and strikes on oil and gas facilities but without major damage (if the damage were to become 
-more significant, the price of oil could rise well above the USD 100/b threshold). In this context, the rise in energy prices would 
-continue. It would feed through more strongly to electricity prices (except in France, where the latter does not currently depend 
-on gas prices) and would spread more rapidly to core inflation. Such an acceleration w ould likely force the ECB to tighten 
-monetary conditions in the Eurozone, although the scale of the adjustment remains dependent on the uncertain evolution of the 
-conflict in the Middle East, its impact on commodity and industrial goods prices, and second-round effects. Markets are currently 
-pricing in three key rate hikes for 2026 of 25 basis points each : in June , July (as in our current scenario) and December 
-(September in our scenario). The ECB will remain vigilant to ensure that tightening too late does not lead to an inflationary  
-dynamic that is more difficult to reverse.
-
-Stéphane Colliac 
-Head of the Advanced Economies Team, France Economist 
-stephane.colliac@bnpparibas.com
-
-Guillaume Derrien 
-Eurozone Economist 
-guillaume.a.derrien@bnpparibas.com
-
----
-## Document 176: Lipper - S&P 500 Earnings Dashboard 26Q1
+## Document 175: Lipper - S&P 500 Earnings Dashboard 26Q1
 
 Source PDF: all report pdf/Lipper - S&P 500 Earnings Dashboard 26Q1.pdf
 Pages: 11
@@ -1642,6 +2790,87 @@ report or effect transactions in any security discussed herein should contact IN
 
 States under applicable requirements.
 Additional information is available on request. For more information about ING Group, please visit www.ing.com.
+
+---
+## Document 208: SpaceX、OpenAI、Anthropic“超级IPO”扎堆，美银：这是超级泡沫的重演
+
+Source PDF: all report pdf/SpaceX、OpenAI、Anthropic“超级IPO”扎堆，美银：这是超级泡沫的重演.pdf
+Pages: 3
+Extraction status: ok
+
+### Page 1
+
+美银策略师 Hartnett 发出警报：科技股已占标普 500 逾 44% 权重，⼀旦 SpaceX 、 OpenAI 等
+超级 IPO 落地，集中度将突破 48% ，超越 " 咆哮年代 " 、科⽹泡沫等所有历史泡沫峰值。他直
+⾔ " 散⼾狂热、波动率低迷，泡沫⽓息浓厚 " ，并警告收益率上⾏叠加极度看多仓位，市场获
+利了结时机已⾄。
+摘要：
+科技股集中度已逼近历史泡沫临界点，⽽⼀批巨型 IPO 正将市场推向更危险的边缘。
+SpaceX 的招股说明书（ S-1 ）已于本周正式披露，上市时间预计定于 6 ⽉第⼆周，将成为三家公
+司中⾸个完成公开募股的企业。 OpenAI 计划最快于今年 9 ⽉上市，较此前市场预期⼤幅提前，
+Anthropic 最早可能于今年 10 ⽉寻求上市。
+美国银⾏策略师 Michael Hartnett 在最新报告中警告，SpaceX 、 OpenAI 等超级 IPO ⼀旦落地，
+科技股在股票基准指数中的权重将轻松突破约 48% ，超越 1920 年代 “ 咆哮年代 ” 、 1970 年代 “ 漂
+
+亮 50” 、 1980 年代⽇本泡沫以及 1990 年代科⽹泡沫等历史上所有重⼤泡沫时期的集中度⽔平。
+⽬前，科技板块已占标普 500 指数逾 44% 的权重。 Hartnett 直⾔当前市场状态： “ 强劲的价格⾛
+势、散⼾狂热、波动率低迷 …… 泡沫⽓息浓厚。 ”
+这⼀警告发出之际，市场情绪正处于极度乐观区间。据彭博报道，美银本周早些时候发布的基
+⾦经理调查显⽰，投资者本⽉对股票的增持幅度创历史纪录，促使 Hartnett 再度重申股市⾯临回
+调⻛险的判断。他在报告中指出， “共识已在仓位与盈利预期上达到极度看多，加之收益率向上
+突破，意味着此时应适度获利了结。 ”
+超级 IPO 加剧科技集中⻛险
+⻢斯克旗下 SpaceX 已公布全球规模最⼤ IPO 的计划， ChatGPT 开发商 OpenAI 则⼒争抢在竞争对
+⼿ Anthropic 之前完成上市。这些巨型发⾏将进⼀步强化市场围绕科技与⼈⼯智能的乐观情绪，
+⽽这股情绪已在推动标普 500 指数创出数⼗年来最为集中的涨势。
+Hartnett 指出，⼀旦上述超级 IPO 与现有 AI 巨头叠加，市场集中度将轻易超越历史上所有知名泡
+
+沫时期约 48% 的峰值⽔平。这对资产配置者构成直接压⼒ —— 受⻛险管理约束，许多机构投资
+者⽆法在组合中完全跟踪这⼀权重⽐例，被动承受跟踪误差扩⼤的⻛险。
+此外，指数向科技板块的过度倾斜还可能掩盖市场内部的结构性隐患。消费和⾦融等与实体经
+济联系更为紧密的板块，其潜在弱势可能被科技股的强势所遮蔽，令整体市场⻛险评估失真。
+Hartnett 回顾了历史上若⼲重⼤ IPO 案例，得出的结论颇具警⽰意义。沙特阿美和 Meta （前⾝为
+Facebook ）的上市，事后证明对⼤盘⾛势影响有限；但在部分 " 顶部特征 " 明显的发⾏案例中，
+如 Visa 和 AIA 集团上市后的 9 ⾄ 12 个⽉内，市场整体表现反⽽⾛低。
+这⼀历史规律表明，超级 IPO 本⾝未必是市场崩溃的直接导⽕索，但往往与市场阶段性顶部相伴
+⽽⽣，对时机判断具有⼀定的参考价值。
+债券收益率是泡沫终结的关键变量
+⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⽣活家 搜索
+
+### Page 2
+
+⻛险提⽰及免责条款
+市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
+545 收藏 分享到 :
+写评论
+图⽚
+2 条评论
+Hartnett 明确指出，债券收益率飙升是历次繁荣与泡沫⾛向终结的共同路径。他以两只道富旗下
+ETF 作为观察收益率对股市影响的双重指标：若⽣物科技 ETF 跌⾄ 120 美元，意味着债券收益率
+持续上⾏的冲击正在显现；若追踪零售股的 ETF 升⾄ 85 美元，则表明债券层⾯的冲击暂时得到
+推迟。
+在政策层⾯， Hartnett 预计，在未来数⽉ CPI 升⾄ 4% ⾄ 5% 之前，实质性的政策收紧不会到来。
+他同时指出，在历史性 IPO 落地之前，市场参与者不会轻易削减多头仓位 —— 这在⼀定程度上解
+释了当前极度乐观情绪的韧性，也意味着潜在的调整⻛险正在积累⽽⾮释放。
+值得注意的是， Hartnett 此前曾准确预判国际股市去年的相对强势表现，其对⼤宗商品的看多判
+断也已兑现，这赋予其当前警告更⾼的市场关注度。
+关注 SpaceX ⾸秀能否打开局⾯
+此次三家公司集中上市，发⽣在科技 IPO 市场经历漫⻓低迷之后。就在三年前，⻛险投资⽀持的
+科技 IPO 市场曾经历⻓达 18 个⽉的近乎停摆，此后仅有零星项⽬断续⼊市。市场普遍认为，⾃
+2021 年以来，科技 IPO 从未真正迎来新⼀轮繁荣周期，规模接近本轮三家公司的上市案例更是
+从未出现过。
+据 The Information 援引知情⼈⼠透露， AI 芯⽚公司 Cerebras 近期的强劲市场表现已在投资者中
+激起⼀定情绪，为此次上市潮提供了积极的情绪铺垫。但市场⼈⼠普遍认为，这⼀轮科技 IPO 盛
+景能否真正引爆，关键在于 SpaceX 能否以⼀个强势的公开市场⾸秀打开局⾯。若 SpaceX 上市
+表现不及预期，后续跟进者的节奏与估值均可能受到显著影响。
+
+限免
+请发表您的评论
+表情 发布评论
+
+### Page 3
+
+正在加载 ..
 
 ---
 ## Document 237: Top of Mind - Will AI Eat Software_
@@ -4227,817 +5456,675 @@ artificial intelligence system, or to provide or reproduce this information, in 
 system.
 
 ---
-## Document 260: What fiscal can learn from monetary (2026-05-23)
+## Document 300: オーストラリア､増加が続いた雇用に変調の兆し（Asia Weekly） ～RBA(オーストラリア準備銀行)の政策運営に影響を与える可能性も～
 
-Source PDF: all report pdf/What fiscal can learn from monetary (2026-05-23).pdf
-Pages: 12
-Extraction status: ok
-
-### Page 1
-
-#australia #luciellis #interestrates#fiscalpolicy
-Wh at fiscal can learn from monetary
-By Luci Ellis
-Chief Economist Westpac Group, Westpac
-13:40 May 22 2026 Share
-Perennial proposals on tax reform mostly take a micro view, but with careful design, the
-fiscal system can be a macro management tool.
-Much post-Budget focus is on who wins, who loses, and the micro-level incentives they face.
-Macroeconomic perspectives are mostly downplayed, partly out of a belief that fiscal policy is not
-
-suited for management of the business cycle.
-
-### Page 2
-
-This year’s budget, with its focus on intergenerational distribution, will have significant effects on
-property and other asset markets, as well as on how many families manage their affairs. Even once
-they move beyond a pure winners-versus-losers framing, though, proponents of the changes and
-detractors alike are mostly thinking about fiscal policy like microeconomists. The emphasis is on
-efficiency and incentives across different activities and asset classes. Only rarely are macroeconomic
-
-perspectives, like the role of the fiscal system in managing the economic cycle, the focus.
-The micro perspective stems from a deep-seated belief that fiscal policy cannot be used effectively to
-manage the macroeconomic cycle. Even though payments and other fiscal actions can affect demand
-immediately, the decision-making process is too slow, and prone to being politicised. And with many
-moving parts, a budget can be directed to other objectives. Best leave the macro side to monetary
-
-policy, goes the thinking. It has much faster decision-making cycles, and you can dedicate one
-instrument to one job.
-Even if you take this allocation of responsibilities as given, though, there is plenty that fiscal policy can
-learn from monetary policy. One example is evident in the medium-term projections beyond the four-
-year ‘forward estimates’ horizon of the budget. These projections show a comforting upward trend in
-tax revenue as a share of GDP that closes the current deficit out in the 2030s. This is because the
-
-projections take current policy as given – including the tax brackets, which are fixed in dollar terms.
-There are some revenue measures as well, including the tax changes announced in last week’s federal
-budget, but it is mostly bracket creep.
-Even taking the allocation of responsibilities – monetary policy for the business cycle and fiscal policy
-for microeconomic incentives – as given, fiscal policy can learn from monetary policy.
-One example is the way institutional arrangements were designed to reduce the ‘time-inconsistency
-
-problem’ in monetary policy, the temptation to boost demand and inflation to lower unemployment. A
-similar problem applies to fiscal policy. Projections of future outcomes assume that bracket creep will
-boost tax revenue to a degree that no government will actually go through with when the time comes.
-Indexation of tax brackets can be viewed as a kind of commitment device to reduce this
-inconsistency. Care must be taken, however, to ensure that the countercyclical features of a
-
-progressive tax system are not lost. This points to another lesson from monetary policy: there are
-benefits to some degree of automation.
-
-### Page 3
-
-The reality is that, by the time we get to the 2030s, future governments will have given some of that
-bracket creep back. They always do. The alternative is an ever-rising share of household income going
-to tax. This inconsistency between forecasts based on known policy and the outcomes that are likely to
-actually occur once we get there is analogous to the ‘time-inconsistency problem’ that is well known to
-analysts of monetary policy.
-The ‘inconsistency’ is that monetary policymakers will always be tempted to ‘cheat’ on an inflation
-
-target, choosing a bit more inflation in the near term to get a bit less unemployment. Without some
-suitable institutional constraints, a central bank therefore cannot credibly commit to keep future inflation
-at the desired rate. Resolving this inconsistency is one of the reasons why independence of the central
-bank is seen as so important.
-So too with fiscal policy. A government can project to close a fiscal deficit using the increasing revenue
-from bracket creep. But when the day comes, the temptation to moderate an ever-increasing tax
-
-burden is too great. Just as central banks cannot credibly pre-commit to hit inflation targets without
-independence, accountability or some contractual arrangement, governments cannot credibly commit
-to improving their finances via future bracket creep. (To be clear, budget deficits of the order of 1% of
-GDP are not a big deal in the scheme of things, especially compared with most other major economies.
-
-### Page 4
-
-But if your ostensible aim is to eliminate that deficit eventually, projections that assume full bracket
-creep are not credible indications that you will get there.)
-Proposals to index tax brackets in some way can been seen in this context as a kind of pre-
-commitment device, much like independence and inflation targets are for monetary policy. Instead of
-giving periodic tax cuts but pretending you will not, bracket indexation legislates the unwind of bracket
-
-creep in a more mechanical way. It also avoids the risk that the usual decision and implementation lags
-end up seeing ad-hoc bracket adjustments arrive when the economy is hot and tax cuts are least
-needed.
-Of course, medium-term projections formulated on this basis will look more alarming than the recent
-run of budget papers. The gap is more appearance than substance, however. Perhaps, though, this will
-bring forward the hard conversations about the appropriate size of government and the share of
-
-government spending in GDP. This share took a noticeable step up in the late 2010s and again since
-the pandemic. Bracket creep enabled this expansion in government payments without needing to raise
-taxes explicitly.
-Plans to rein in NDIS spending should help avoid a further ramp-up in payments and the fiscal
-sustainability issues that would ensue. As we noted on Budget night, though, executing on these plans
-is crucial but far from assured.
-This points to another lesson that fiscal policy can learn from monetary policy: that while a hard-and-
-
-fast policy rule is too rigid and too simplistic, there are benefits to some degree of automaticity, of
-counter-cyclicality by design. A progressive tax system like Australia’s embeds countercyclicality. When
-the economy is growing quickly, incomes rise. More of people’s income is then taxed at their top
-marginal rate and more people get pushed into higher tax brackets. This raises the share of income
-going to tax. As long as the revenue windfall is not automatically recycled as higher government
-
-spending, this effect dampens demand automatically. Targeted welfare systems help on this front, too.
-For the record, Australia’s system is widely regarded as more targeted than most developed countries’
-systems.
-Indexation of tax brackets, like periodic tax cuts, reduces the drag from bracket creep but can lose that
-countercyclical feature depending on how it is implemented. For this reason, we have previously
-argued that fixed indexation at 2.5% – the mid-point of the RBA’s inflation target – is in most cases
-
-preferable to CPI indexation. (This point also applies to calculation of capital gains tax, administered
-prices and some payments as well as income tax brackets.) That way, when the economy is strong and
-inflation is high, the tax system still leans against inflation somewhat. The central bank does not have
-to shoulder the burden of macroeconomic management alone.
-The political nature of fiscal policy means there will always be some level of ‘consistency problem’. But
-
-careful design, including automation of some settings, can help address this. That in turn means fiscal
-policy can be more usefully used as a macroeconomic management tool, without risking the credibility
-of its medium-term sustainability.
-
-### Page 5
-
-Related articles
-Stay informed with  Westpac IQ
-Get the latest reports straight to your inbox.
-Subscribe
-Australia and NZ Weekly 25 May 2026
-May 22 2026 • 10 mins
-#australia
-By Luci Ellis , Matthew Hassan , Elliot Clarke &9 more
-
-### Page 6
-
-Australia and NZ Weekly 18 May 2026
-May 18 2026 • 10 mins
-#australia
-By Luci Ellis , Matthew Hassan , Elliot Clarke &9 more
-#australia
-
-### Page 7
-
-Australia and NZ Weekly 18 May 2026
-May 15 2026 • 10 mins
-By Luci Ellis , Matthew Hassan , Elliot Clarke &9 more
-#aud #australia #interestrates #nzd #usd #newzealand #rates #credit
-#yieldcurve #acgb #inflation #rba #semigovernment#basis #commodities
-#ustreasury #fx #rbnz #jpy #abs Show more tags
-Browse topics
-
-### Page 8
-
-Disclaimer
-©2026 Westpac Banking Corporation ABN 33 007 457 141 (including where acting under any of its
-Westpac, St George, Bank of Melbourne or BankSA brands, collectively, “Westpac”).  References to
-the “Westpac Group” are to Westpac and its subsidiaries and includes the directors, employees and
-representatives of Westpac and its subsidiaries.
-
-### Page 9
-
-Conflicts of Interest: In the normal course of offering banking products and services to its clients, the
-Westpac Group may act in several capacities (including issuer, market maker, underwriter,
-distributor, swap counterparty and calculation agent) simultaneously with respect to a financial
-instrument, giving rise to potential conflicts of interest which may impact the performance of a
-financial instrument. The Westpac Group may at any time transact or hold a position (including
-hedging and trading positions) for its own account or the account of a client in any financial
-instrument which may impact the performance of that financial instrument.
-
-Author(s) disclaimer and declaration: The author(s) confirms that (a) no part of his/her
-compensation was, is, or will be, directly or indirectly, related to any views or (if applicable)
-recommendations expressed in this material; (b) this material accurately reflects his/her personal
-views about the financial products, companies or issuers (if applicable) and is based on sources
-reasonably believed to be reliable and accurate; (c) to the best of the author’s knowledge, they are
-not in receipt of inside information and this material does not contain inside information; and (d) no
-other part of the Westpac Group has made any attempt to influence this material.
-
-### Page 10
-
-appropriateness of the advice.
-
-New Zealand: In New Zealand, Westpac Institutional Bank refers to the brand under which
-products and services are provided by either Westpac (NZ division) or Westpac New Zealand
-Limited (company number 1763882), the New Zealand incorporated subsidiary of Westpac
-("WNZL"). Any product or service made available by WNZL does not represent an offer from
-Westpac or any of its subsidiaries (other than WNZL). Neither Westpac nor its other subsidiaries
-guarantee or otherwise support the performance of WNZL in respect of any such product. WNZL is
-not an authorised deposit-taking institution for the purposes of Australian prudential standards. The
-current disclosure statements for the New Zealand branch of Westpac and WNZL can be obtained
-at the internet address www.westpac.co.nz.
-
-Fiji: Unless otherwise specified, the products and services for Westpac Fiji are available from
-www.westpac.com.fj © Westpac Banking Corporation ABN 33 007 457 141. This information does
-not take your personal circumstances into account and before acting on it you should consider the
-appropriateness of the information for your financial situation. Westpac Banking Corporation ABN
-33 007 457 141 is incorporated in NSW Australia and registered as a branch in Fiji. The liability of
-its members is limited.
-
-Papua New Guinea: Unless otherwise specified, the products and services for Westpac PNG are
-available from www.westpac.com.pg © Westpac Banking Corporation ABN 33 007 457 141. This
-information does not take your personal circumstances into account and before acting on it you
-should consider the appropriateness of the information for your financial situation. Westpac Banking
-Corporation ABN 33 007 457 141 is incorporated in NSW Australia. Westpac is represented in
-Papua New Guinea by Westpac Bank - PNG - Limited. The liability of its members is limited.
-
-### Page 11
-
-ceta  ega agee e ts betee  estpac ad C  a d obgato s o C  do ot epeset
-liabilities of Westpac.
-
-The author of this communication is employed by Westpac and is not registered or qualified as a
-research analyst, representative, or associated person of WCM or any other U.S. broker-dealer
-under the rules of FINRA, any other U.S. self-regulatory organisation, or the laws, rules or
-regulations of any State. Unless otherwise specifically stated, the views expressed herein are solely
-those of the author and may differ from the information, views or analysis expressed by Westpac
-and/or its affiliates.
-
-UK: The London branch of Westpac is authorised in the United Kingdom by the Prudential
-Regulation Authority (PRA) and is subject to regulation by the Financial Conduct Authority (FCA)
-and limited regulation by the PRA (Financial Services Register number: 124586).  The London
-branch of Westpac is registered at Companies House as a branch established in the United
-Kingdom (Branch No. BR000106). Details about the extent of the regulation of Westpac’s London
-branch by the PRA are available from us on request.
-
-This communication is not being made to or distributed to, and must not be passed on to, the
-general public in the United Kingdom. Rather, this communication is being made only to and is
-directed at (a) those persons falling within the definition of Investment Professionals (set out in
-Article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 (the
-“Order”)); (b) those persons falling within the definition of high net worth companies, unincorporated
-associations etc. (set out in Article 49(2)of the Order; (c) other persons to whom it may lawfully be
-communicated in accordance with the Order or (d) any persons to whom it may otherwise lawfully
-be made (all such persons together being referred to as “relevant persons”). Any person who is not
-a relevant person should not act or rely on this communication or any of its contents. In the same
-way, the information contained in this communication is intended for “eligible counterparties” and
-
-### Page 12
-
-“professional clients” as defined by the rules of the Financial Conduct Authority and is not intended
-for “retail clients”.  Westpac expressly prohibits you from passing on the information in this
-communication to any third party.
-
-European Economic Area (“EEA”): This material may be distributed to you by either: (i) Westpac
-directly, or (ii) Westpac Europe GmbH (“WEG”) under a sub-licensing arrangement.  WEG has not
-edited or otherwise modified the content of this material. WEG is authorised in Germany by the
-Federal Financial Supervision Authority (‘BaFin’) and subject to its regulation.  WEG’s supervisory
-authorities are BaFin and the German Federal Bank (‘Deutsche Bundesbank’).  WEG is registered
-with the commercial register (‘Handelsregister’) of the local court of Frankfurt am Main under
-registration number HRB 118483.  In accordance with APRA’s Prudential Standard 222 ‘Association
-with Related Entities’, Westpac does not stand behind WEG other than as provided for in certain
-legal agreements (a risk transfer, sub-participation and collateral agreement) between Westpac and
-WEG and obligations of WEG do not represent liabilities of Westpac.  Any product or service made
-available by WEG does not represent an offer from Westpac or any of its subsidiaries (other than
-WEG). All disclaimers set out with respect to Westpac apply equally to WEG.
-
-This communication is not intended for distribution to, or use by any person or entity in any
-jurisdiction or country where such distribution or use would be contrary to local law or regulation.
-
----
-## Document 263: “咆哮年代”回归！美银Hartnett警告：SpaceX超级IPO将引爆史诗级泡沫
-
-Source PDF: all report pdf/“咆哮年代”回归！美银Hartnett警告：SpaceX超级IPO将引爆史诗级泡沫.pdf
-Pages: 3
-Extraction status: ok
-
-### Page 1
-
-美银策略师 Hartnett 警告， SpaceX 与 OpenAI 等超级 IPO 或将推动科技股权重突破 48% ，
-超越 1920 年代 " 咆哮年代 " 、 1970 年代 " 漂亮 50" 、 1980 年代⽇本泡沫以及 1990 年代科⽹泡
-沫等历史上所有重⼤泡沫时期的市场集中度⽔平。历史经验显⽰超级 IPO 未必是催化剂，反
-⽽可能成为泡沫顶点。
-摘要：
-SpaceX 即将登陆美股，正在将整个市场推向历史性的亢奋边缘 —— ⽽这恰恰令华尔街最具影响
-⼒的策略师之⼀拉响了警报。
-美国银⾏策略师 Michael Hartnett 在最新报告中警告， SpaceX 和 OpenAI 等超级 IPO ⼀旦落地，
-科技股在股票基准指数中的权重将轻易突破约 48% ，超越 1920 年代 " 咆哮年代 " 、 1970 年代 " 漂亮
-50" 、 1980 年代⽇本泡沫以及 1990 年代科⽹泡沫等历史上所有重⼤泡沫时期的市场集中度⽔
-平。
-稍早前，美银对基⾦经理的最新调查显⽰，投资者本⽉加仓美股的幅度创历史纪录，市场看多
-
-情绪已接近极端⽔平，触发卖出信号。
-在市场层⾯， SpaceX 上市预期已引发太空概念股的集体狂欢。美银追踪太空赛道核⼼标的的篮
-⼦组合今年以来累计上涨 42% ，跑赢标普 500 指数和纳斯达克 100 指数。分析⼈⼠将这⼀现象与
-特斯拉当年带动整个电动⻋板块飙升的历史相提并论，但也有声⾳警告，热潮退去后，中⼩标
-的能否凭借⾃⾝基本⾯⽀撑估值，仍是未知数。
-集中度警报：科技权重逼近泡沫红线
-科技股在标普 500 指数中的权重已超过 44% 。 Hartnett 指出，⼀旦 SpaceX 和 OpenAI 完成上市，
-叠加现有⼈⼯智能巨头的体量，市场集中度将 " 轻易超越 " 历史上所有知名泡沫时期约 48% 的峰值
-⽔平。
-" 强劲的价格⾛势、散⼾狂热、波动率低迷 …… 泡沫⽓息浓厚， "Hartnett 在报告中写道。 "将超级
-IPO 加⼊ AI 巨头阵营，市场集中度将轻松超越咆哮年代、漂亮 50 年代、⽇本 80 年代、 TMT 90 年
-代等泡沫时期约 48% 的⽔平。 "
-这⼀集中度问题对资产配置者⽽⾔尤为棘⼿。受⻛险管理约束，许多机构投资者⽆法完全跟踪
-
-基准指数中的超⾼权重，被动偏离的压⼒将持续加⼤。此外，⾼度向科技倾斜的指数还可能掩
-盖消费和⾦融等与实体经济更为紧密的板块所潜藏的结构性弱点。
-历史镜鉴：超级 IPO 未必是市场催化剂
-Hartnett 回顾了历史上多宗重⼤ IPO 案例后指出，沙特阿美和 Meta （前⾝为 Facebook ）的上市
-对⼤盘⾛势影响有限，⽽ Visa 和友邦保险等 " 顶部 " 时期的发⾏，在上市后 9 ⾄ 12 个⽉内反⽽伴随
-着市场下跌。
-这⼀历史规律为当前的乐观情绪提供了重要参照。 Hartnett 表⽰，债券收益率的急剧攀升是历次
-繁荣与泡沫终结的共同导⽕索。
-他同时给出了两个观察指标：若追踪⽣物科技股的 State Street 旗下 ETF 跌⾄ 120 美元，意味着债
-券收益率仍在持续上⾏；若追踪零售股的 ETF 升⾄ 85 美元，则表明债券冲击暂时得到缓解。
-⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⽣活家 搜索
-
-### Page 2
-
-⻛险提⽰及免责条款
-市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
-341 收藏 分享到 :
-写评论
-图⽚
-Hartnett 还指出，当前市场共识已达到 " 最⼤看多 " 状态，仓位与盈利预期双双处于⾼位，叠加收
-益率上⾏压⼒，建议投资者考虑部分获利了结。" 但在历史性 IPO 到来之前，没有⼈会削减多头
-仓位， " 他补充道，并预计未来数⽉ CPI 触及 4% ⾄ 5% 后，政策收紧才会真正到来。
-太空板块狂热： SpaceX 效应复制特斯拉时刻
-SpaceX 于本周三正式提交 IPO 申请，基于可⽐上市公司估值，其市值区间在 8640 亿⾄ 2.25 万亿
-美元之间，⽽特斯拉和 Meta ⽬前市值均不⾜ 1.6 万亿美元。
-这⼀预期已在太空概念股中引发强烈共振。
-美银太空赛道篮⼦组合今年累计涨幅达 42% ， Procure Space ETF 和 Tema Space Innovators
-
-ETF 均录得两位数回报。
-Wedbush 分析师 Dan Ives 将 SpaceX 的 IPO 称为整个太空产业的 " ⻩⾦时刻 " ，并将其与特斯拉定
-义电动⻋赛道的历史相类⽐： " 这不仅仅关乎⼀家公司，就像特斯拉定义了电动汽⻋⼀样，这⾥
-有着开创新赛道的相似之处。 "
-科技投资⼈ Brett Hurt 表⽰， SpaceX 上市 " 对太空经济⽽⾔是巨⼤的胜利，将拉动其他公司的估
-值，进⽽提升其融资能⼒ " 。
-热潮之后，中⼩标的能否独⽴⽀撑估值
-然⽽，特斯拉效应的另⼀⾯同样值得警惕。
-在电动⻋热潮中， Rivian 股价较 2021 年 11 ⽉峰值已暴跌 92% ，⼩鹏汽⻋美国存托凭证较 2020 年
-11 ⽉⾼点累计下挫 78% 。特斯拉本⾝则凭借持续扩张跻⾝ " 科技七巨头 " ，但同赛道的追随者命运
-迥异。
-The Wealth Alliance 总裁兼董事总经理 Eric Diton 直⾔， SpaceX 上市后，中⼩太空公司将⾯临独
-⽴证明⾃⾝价值的压⼒： " 市场会逐⼀审视每家公司，我的第⼀个问题是 —— 你如何与⻢斯克和
-
-SpaceX 竞争？你有竞争优势吗？ "
-哥伦⽐亚⼤学法学院教授 Eric Talley 则指出，投资者对⻢斯克旗下所有资产的狂热情绪难以消
-退，但⻢斯克同时⾝兼多家公司⾼管职务、精⼒分散的问题同样不容忽视。
-ProcureAM 联合创始⼈兼 CEO Andrew Chanin 则持相对乐观⽴场，认为太空赛道并⾮ " 赢家通
-吃 " 的格局，⾜够⼴阔的市场空间可以容纳多家成功企业，但失败者同样在所难免。
-请发表您的评论
-表情 发布评论
-
-### Page 3
-
-1 条评论
-正在加载
-
----
-## Document 320: 中国版「就職氷河期」への懸念
-
-Source PDF: all report pdf/中国版「就職氷河期」への懸念.pdf
+Source PDF: all report pdf/オーストラリア､増加が続いた雇用に変調の兆し（Asia Weekly） ～RBA(オーストラリア準備銀行)の政策運営に影響を与える可能性も～.pdf
 Pages: 5
 Extraction status: ok
 
 ### Page 1
 
-中国
+Asia Indicators
 
-株式会社大和総研 丸の内オフィス 〒100-6756 東京都千代田区丸の内一丁目 9 番1 号 グラントウキョウ ノースタワー 
-このレポートは投資勧誘を意図して提供するものではありません。このレポートの掲載情報は信頼できると考えられる情報源から作成しておりますが、その正確性、完全
-性を保証するものではありません。また、記載された意見や予測等は作成時点のものであり今後予告なく変更されることがあります。㈱大和総研と大和証券㈱は、㈱大和
-証券グループ本社を親会社とする大和証券グループの会社です。内容に関する一切の権利は㈱大和総研にあります。無断での複製・転載・転送等はご遠慮ください。
+2026 年 5 月 22 日
 
-2026 年5 月21 日 全 5 頁
+1/5 
+オーストラリア､増加が続いた雇用に変調の兆し（Asia Weekly） 
+～RBA(オーストラリア準備銀行)の政策運営に影響を与える可能性も～ 
+ 経済調査部 主席エコノミスト  西濵 徹 
+（℡：050-5474-7495）
 
-中国版「就職氷河期」への懸念 
-中国若年層の高失業率問題の構造要因、解決の決定打はない
-
-調査本部 主席研究員 齋藤 尚登
-
-[要約] 
- 中国の若年層（16 歳～24 歳）の高失業率問題には様々な構造的な要因がある。例えば、
-熾烈な競争社会に疲れ果てた若年層の一部がやる気を失い、就職、結婚・出産をあき
-らめ、自動車などの高額消費や住宅購入に興味を示さなくなる、いわゆる「 躺平（タ
-ンピン）族＝寝そべり族」の増加が社会問題となっている。より深刻なのが、急速に
-高学歴化する若年層の就職希望先と実際の雇用のミスマッチの問題だ。さらに、中国
-の若年層はやっとの思いで就業しても、上記ミスマッチを背景に離職率が高いことも
-特徴のひとつとなっている。このほか、若年層は法律・制度面の問題で、リストラの
-対象になりやすいという問題がある。 
- 25 歳～29 歳の失業率が上昇していることも気掛かりだ。16 歳～24 歳の高失業率問題
-が解決・改善せずに持ち越されている可能性が高い。長期間の無職状態や非正規雇用
-が常態化し、あるいは正規雇用で就業してもその後離職するなどして雇用が不安定化
-すれば、賃金、キャリア、結婚・出産など人生全般に長期的な影響を及ぼす懸念があ
-る。中国版「就職氷河期」への懸念だ。25 歳～29 歳といえば、中国の住宅実需のボリ
-ュームゾーンを形成する30 歳～34 歳の一歩手前の年齢層である。少子化対策にせよ、
-不動産不況からの脱却にせよ、中国共産党・政府は若年層の高失業率問題の改善に向
-けて待ったなしの対応が求められているわけだが、決定打はない。結局のところ、若
-年層に過度に不利な法律・制度を見直す一方で、リスキリングを推進するというのが
-現実的な路線になるのではないだろうか。
+（経済指標の振り返り） 
+発表日 指標、イベントなど 結果 コンセンサス 前回 
+5/18（月） （シンガポール）4 月非石油輸出（前年比） 
+（中国）4 月小売売上高（前年比） 
+4 月鉱工業生産（前年比） 
+4 月固定資産投資（年初来前年比） 
+（タイ）1-3 月実質 GDP（前年比） 
+＋24.5％ 
+＋0.2％ 
+＋4.1％ 
+▲1.6％ 
+＋2.8％ 
+＋10.9％ 
+＋2.0％ 
+＋5.9％ 
+＋1.6％ 
+＋2.2％ 
+＋15.3％ 
+＋1.7％ 
+＋5.7％ 
+＋1.7％ 
+＋2.5％ 
+5/19（火） （マレーシア）4 月消費者物価（前年比） ＋1.9％ ＋1.3％ ＋1.7％ 
+5/20（水） （マレーシア）4 月輸出（前年比） 
+4 月輸入（前年比） 
+（インドネシア）金融政策委員会（政策金利） 
+＋36.9％ 
+＋20.0％ 
+5.25％ 
+＋9.0％ 
+＋2.5％ 
+5.00％ 
+＋8.4％ 
+＋10.4％ 
+4.75％ 
+5/21（木） （ニュージーランド）4 月輸出（億 NZ ドル） 
+4 月輸入（億 NZ ドル） 
+（オーストラリア）4 月失業率（季調済） 
+86.2 
+67.0 
+4.5％ 
+- - 
+- - 
+4.3％ 
+76.6 
+72.3 
+4.3％ 
+5/22（金） （台湾）4 月失業率（季調済） 3.34％ - - 3.35％ 
+（注）コンセンサスは Bloomberg 及び THOMSON REUTERS 調査。灰色で囲んでいる指標は本レポートで解説を行っています。 
+[オーストラリア]～増加が続いた雇用に変調の兆し、RBA(中銀)の政策運営に影響を与える可能性～ 
+21 日に発表された４月の失業率（季節調整済）は 4.5％となり、前月（4.3％）から 0.2pt 悪化
+した。 失業者数は前月比＋3.3 万人と、 前月 （同▲0.3 万人） から２ヶ月ぶりの増加に転じた。 雇用
+形態別にみても、非正規雇用を希望する求職者数（同＋2.2 万人）のみならず、正規雇用を希望す
+る求職者数（同＋1.1 万人）もともに増加している。中期的にも増加傾向で推移しており、失業者
+数が着実に増加している様子がうかがえる。一方、 雇用者数は前月比▲1.9 万人と、 前月 （同＋2.3
+万人）から５ヶ月ぶりの減少に転じており、これまで続いてきた増加基調に一服感がみられる。雇
+用形態別でも、 非正規雇用者数 （前月比▲0.8 万人） のみならず、 正規雇用者数 （同▲1.1 万人） も
+ともに減少している。地域別では、このところの資源価格上昇を追い風に、資源関連産業が集積す
+る西オーストラリア州で雇用増加の流れが続いている。一方、最大都市シドニーを擁するニュー・
+サウス・ウェールズ州など、その他の地域では軒並み雇用が減少しており、地域間で対照的な動き
 
 ### Page 2
 
-1
+2/5 
+がみられる。また、女性を中心に失業が拡大する動きがみられるなか、労働力人口は前月比＋1.4
+万人と、前月（同＋2.1 万人）から増加基調を維持しているものの、女性に限れば減少しており、
+労働市場から退出する動きもうかがえる。 この結果、労働参加率は 66.7％と前月（66.8％）から
+▲0.1pt 低下しており、雇用を取り巻く環境に変調の兆しが出ている様子がうかがえる。
 
-2 / 5
+[ニュージーランド]～輸出は持ち直しの動きを強める一方､輸入は頭打ちの動きを強める対照的な状況～ 
+21 日に発表された４月の輸出額は前年同月比＋12.3％となり、前月（同＋3.5％）から伸びが加
+速した。前月比でも＋7.7％と前月（同＋3.2％）から２ヶ月連続で増加しており、中期的な基調も
+拡大傾向に転じるなど、持ち直しの動きが強まっている。財別では、機械製品や果物関連の輸出に
+下押し圧力がかかる動きがみられるものの、 主力輸出品である乳製品や食肉関連の輸出が拡大して
+いるほか、材木・木製品関連の輸出も堅調に推移しており、輸出全体を押し上げている。国・地域
+別では、 最大の輸出相手である中国向けに加え、 ＡＳＥＡＮなどアジア新興国向けが堅調な動きを
+みせているほか、ＥＵ向けや米国向けも旺盛な伸びを示しており、輸出をけん引している。 一方、
+輸入額は前年同月比＋3.4％となり、 前月 （同＋9.4％） から伸びが鈍化した。 前月比でも▲2.3％と
+前月 （同▲3.7％） から２ヶ月連続で減少しており、 中期的な基調も減少傾向に転じるなど、 頭打ち
+感を強めている。財別では、 原油高を反映して原油や石油製品関連の輸入額が大幅に押し上げられ
+る一方、機械製品関連や縫製品関連など幅広い分野で輸入に下押し圧力がかかる動きがみられる。
+結果、貿易収支は＋19.20 億ＮＺドルと、前月（＋4.30 億ＮＺドル）から黒字幅が拡大している。
 
-若年層の高失業率問題の背景にある構造要因 
-2026 年4 月の中国の失業率は5.2％となった。2023 年3 月以降は5.0％～5.4％という比較的
-狭いレンジでの推移が続いており、全体で見れば、問題視される水準ではない。一方、2026 年
-4 月の年齢層別失業率は、16 歳～24 歳が 16.3％、25 歳～29 歳は 7.4％、30 歳～59 歳は 4.2％
-であり、若年層の失業率が突出して高い（図表1）。 
-失業率は2023 年6 月まで、16 歳～24 歳、25 歳～59 歳の2 つの年齢層別の統計が発表されて
-いたが、同年 7 月～11 月の発表中断を経て、同年 12 月より、現行の 3 つの年齢層別失業率の
-発表が始まった経緯がある。16 歳～24 歳について、発表中断前は在校生を含んでいたが、再開
-後の統計では含まないといった具合に、連続性が失われ、従来よりも低めの数字が出るように
-なっている。発表中断の直前である2023 年6 月の16 歳～24 歳の失業率は21.3％と、過去最高
-を記録していた。若年層の失業率は大学生や大学院生が 6 月に卒業し、一斉に労働市場に参入
-する 7 月に高まる傾向があるが、まさにそのタイミングで統計の発表が中断されたことになる
-（図表2）。
+図 1 AU 雇用環境の推移
 
-図表1 中国の年齢層別失業率（単位：％）
+（出所）CEIC より第一ライフ資産運用経済研究所作成   
+図 2 NZ 貿易動向の推移
 
-図表2 若年層の高失業率（単位：％）
-
-中国の就職サイト「前程無憂」の2025 年度の調査研究報告1によると、2026 年度の大学卒業
-予定者の進路希望は、企業への就職が 36.2％、公務員等が 25.1％、大学院などへの進学が
-24.4％、具体的な計画なしが10.3％、海外留学が2.5％などである。 「大学院などへの進学」や
-「海外留学」の一部は大学卒業後の就職の困難さを考慮したものと思われ、 「具体的な計画なし」
-の一部は潜在的な若年層失業者とみなすことが可能であろう。 
-中国の若年層の高失業率問題には様々な構造的な要因がある。例えば、親世代が豊かになり、
-若年層が意にそぐわない就業をしなくても生活していける、であるとか、熾烈な競争社会に疲
-
-1 「2025 年人力資源白書」（前程無憂人力資源調査センター、2026 年1 月） 
-0
-2
-4
-6
-8
-10
-12
-14
-16
-18
-20
-24 25 26
-（出所）中国国家統計局より大和総研作成
-失業率（全体）
-失業率（16歳～24歳）
-失業率（25歳～29歳）
-失業率（30歳～59歳）
-直近は2026年4月
-5.2
-21.3
-16.3
-0
-5
-10
-15
-20
-25
-18 19 20 21 22 23 24 25 26
-（注）2023年7月～11月の年齢別失業率は非公表
-（出所）中国国家統計局より大和総研作成
-失業率（全体）
-16歳～24歳
-直近は2026年4月
+（出所）CEIC より第一ライフ資産運用経済研究所作成
 
 ### Page 3
 
-1
+3/5 
+[台湾]～失業率はわずかに改善するも､雇用者数は頭打ちの動きを強めるなど雇用環境に変調の兆し～ 
+22 日に発表された４月の失業率（季節調整済）は3.34％となり、前月（3.35％）から0.01pt 改
+善した。失業者数は前月比▲0.1 万人と、前月（同＋0.2 万人）から２ヶ月ぶりの減少に転じてい
+るほか、中期的な基調も減少傾向で推移している。内訳をみると、新卒者では失業者数の増加がみ
+られるものの、 既卒者を中心に失業者数は減少しているほか、 非自発的失業も減少する動きが確認
+されている。一方、 雇用者数は前月比＋0.0 万人と、 前月 （同▲0.3 万人） から減少の動きに一服感
+がみられるものの、全体としては頭打ちの状況が続いている。分野別では、鉱業部門や公益部門で
+底堅い動きがみられる一方、製造業や建設業、サービス業では頭打ちの動きが確認されるなど、業
+種間のばらつきが鮮明となっている。また、労働力人口は前月比▲0.1 万人と、前月（同＋0.0 万
+人） から５ヶ月ぶりの減少に転じた。 労働参加率は59.59％と前月 （59.59％） から横ばいで推移し
+ているものの、 雇用環境を巡る不透明感が高まるなか、 労働市場への参入意欲が後退する兆しもう
+かがえる。
 
-3 / 5
+[シンガポール]～中東情勢の緊迫化による原油高も追い風に､輸出入ともに拡大基調を強める展開～ 
+18 日に発表された４月の非石油輸出額は前年同月比＋24.5％となり、 前月 （同＋15.3％） から伸
+びが加速した。 前月比でも＋10.96％と前月 （同＋2.96％） から４ヶ月連続で増加しているほか、 中
+期的な基調も拡大傾向で推移している。財別では、 主力輸出品である半導体などの電子部品や電気
+機械関連の輸出が堅調な動きをみせているほか、化学製品関連の輸出も旺盛な伸びを示している。
+原油関連を含めた総輸出額は前年同月比＋31.8％となり、 前月 （同＋41.0％） から伸びは鈍化した。
+前月比では＋6.1％と前月（同＋20.5％）から伸び率は縮小したものの、２ヶ月連続で増加してお
+り、中期的な基調も拡大傾向で推移するなど、底堅い動きが続いている。中東情勢の緊迫化を受け
+た供給懸念の高まりを背景に、原油高を反映して輸出額が押し上げられる動きがみられる。 一方、
+輸入額は前年同月比＋34.7％となり、前月（同＋35.4％）から伸びはわずかに鈍化した。前月比で
+も＋4.4％と前月 （同＋11.6％） から伸び率は縮小したものの、 ５ヶ月連続で増加しており、 中期的
+な基調も拡大傾向で推移している。財別では、原油価格の上昇を反映して原油・石油製品関連の輸
+入額が押し上げられているほか、 化学製品関連や機械製品関連など幅広い分野で輸入の拡大が確認
+されている。結果、貿易収支は＋137.79 億ＳＧドルと、前月（＋99.10 億ＳＧドル）から黒字幅が
+拡大している。 
+図 3 TW 雇用環境の推移
 
-れ果てた若年層の一部がやる気を失っている、といった社会的な問題である。後者に関連して、
-競争社会を避け、就職、結婚・出産をあきらめ、自動車などの高額消費や住宅購入に興味を示
-さなくなる人々、いわゆる「躺平（タンピン）族＝寝そべり族」の増加が社会問題となってい
-る。 
-より深刻なのが、急速に高学歴化する若年層の就職希望先と実際の雇用のミスマッチの問題
-だ。中国国家統計局によると、同国の大学・大学院などの卒業生数は 2000 年の 101 万人から
-2022 年以降は 1,000 万人を超え、大学・大学院などへの進学率は2000 年の 12.5％から直近の
-2024 年には60.8％に上昇した（図表3）。 
-統計の出所が異なるため、直接の対比はできないが、既述した「前程無憂」によると、2026
-年度の大学卒業予定者の就職先希望（構成比）の上位は、①国有企業 45.7％、②公的機関
-27.6％、③外資企業13.4％、④民営企業10.7％などであり、安定志向が極めて高い。一方で、
-別の就職サイト「猟聘」の「2025 年度大学生就業需給洞察報告」 （2025年 7 月）によると、
-2025 年前半の採用側の需要（構成比）は、①民営企業 47.6％、②国内上場会社 18.5％、③外
-資企業16.4％、④国有企業11.3％、などとなっている。安定志向の大学卒業予定者に対して、
-実際の就職先は民営企業や国内上場会社が中心となっており、大きなミスマッチが生じている。 
-就職先の業種別には、いわゆるオールドエコノミーが勢いを失い、雇用吸収力が低下する一
-方で、高レベル人材を必要とする産業の発展がそれに見合っていない、あるいは新興産業が従
-来型産業と比べてマンパワーを必要としないという問題がある。
-
-図表3 中国の大学・大学院など卒業生数と大学・大学院などへの進学率（単位：万人、％）
-
-0
-10
-20
-30
-40
-50
-60
-70
-0
-200
-400
-600
-800
-1,000
-1,200
-1,400
-00 02 04 06 08 10 12 14 16 18 20 22 24
-（出所）中国国家統計局より大和総研作成
-大学・大学院など卒業生数（万人）（左目盛）
-大学・大学院など進学率（％）（右目盛）
+（出所）CEIC より第一ライフ資産運用経済研究所作成
 
 ### Page 4
 
-1
+4/5
 
-4 / 5
+[マレーシア]～生活必需品の物価は落ち着いた動きも､インフレ率は 2024 年 10 月以来の伸びに加速～ 
+19 日に発表された４月の消費者物価は前年同月比＋1.9％となり、 前月 （同＋1.7％） から伸びが
+加速し、2024 年 10 月以来の高い伸びとなった。前月比でも＋0.37％と前月（同＋0.29％）から上
+昇ペースが加速している。中東情勢の緊迫化を受けた原油高にもかかわらず、 ガソリンをはじめと
+するエネルギーの統制価格は据え置かれているほか、 食料品価格もおおむね横ばいで推移しており、
+生活必需品の物価は落ち着いた動きをみせている。なお、 食料品とエネルギーを除いたコアインフ
+レ率は前年同月比＋2.0％となり、前月（同＋2.1％）からわずかに伸びが鈍化した。前月比でも＋
+0.15％と前月（同＋0.22％）から上昇ペースはやや鈍化している。エネルギー価格は据え置かれて
+いるものの、 輸送コストに上昇圧力がかかる動きがみられるほか、 金融市場におけるリンギ相場の
+上昇一服を受けた輸入インフレの影響も重なり、 財価格にはなお上昇圧力がくすぶっている。 さら
+に、 価格転嫁の動きを反映してサービス価格にも上昇圧力がかかる動きがみられるものの、 そのペ
+ースは緩やかなものにとどまっている。 
+20 日に発表された４月の輸出額は前年同月比＋36.9％となり、前月（同＋8.4％）から伸びが加
+速した。 前月比でも＋32.2％と前月 （同▲2.7％） から３ヶ月ぶりの増加に転じており、 中期的な基
+調も拡大傾向に転じるなど、持ち直しの動きを強めている。 財別では、世界的なＡＩ（人工知能）
+関連投資の拡大を追い風に、 主力輸出品である半導体など電子部品関連の輸出が堅調な動きをみせ
+ている。 さらに、 中東情勢の緊迫化を受けた原油高を反映し、 原油や天然ガスなど鉱物資源のほか、
+化学肥料など化学製品関連の輸出も大きく押し上げられている。国・地域別では、中東向けに大幅
+な下押し圧力がかかる動きがみられるものの、 最大の輸出相手である中国向けのほか、 ＡＳＥＡＮ
+などアジア新興国向けが軒並み拡大しているほか、 ＥＵ向けや米国向けも堅調に推移している。一
+方、輸入額は前年同月比＋20.0％となり、前月（同＋10.4％）から伸びが加速した。前月比でも＋
+31.8％と前月 （同▲6.5％） から２ヶ月ぶりの増加に転じるとともに、 中期的な基調も拡大傾向に転
+じるなど、輸出同様に持ち直しの動きを強めている。財別では、原油高を反映して原油などエネル
+ギー資源関連や化学製品関連の輸入額が大きく押し上げられたことが影響している。結果、 貿易収
+支は＋287.52 億リンギと、前月（＋244.97 億リンギ）から黒字幅が拡大している。 
+図 4 SG 貿易動向の推移
 
-中国では全国規模の人口センサスが10 年に1 度実施され、直近では2020 年11 月1 日時点の
-データが 2021 年 5 月に発表された。この第7 回人口センサスによると、16 歳～24 歳の若年層
-の就職先の構成比上位は、製造業（内訳ではコンピュータ・通信・その他電子設備製造業、電
-気機械・器具製造業などの割合が大きい） 、卸小売業、ホテル・飲食業、教育、建設業、情報
-通信・ソフトウエア・情報技術サービス業などであった（次頁図表4） 。さらに、大学卒業以上
-の学歴を有する者は、情報通信・ソフトウエア・情報技術サービス業、金融業、不動産業、教
-育、ハイエンド製造業などへの選好が強く、高校・中学卒業者は卸小売業、ホテル・飲食業、
-建設業、製造業などで働く人が多い。 
- このうち、教育については、2021 年 7 月に、党中央弁公庁・国務院弁公庁が発表した「義
-務教育段階の学生の課題負担・課外教育負担の軽減をさらに進めることに関する指導意見」の
-影響が長期化している。同指導意見は新規の学習塾の設立を認めず、既存の学習塾は非営利団
-体に転換するといった厳しい内容であり、多くの学習塾が閉鎖を余儀なくされた。また、建設
-や不動産業は今年で 5 年目に突入した不動産不況の悪影響を色濃く受け、飲食業の景況は節約
-志向の高まりによって過去最悪レベルに落ち込んでいる
-2。また、ハイエンド製造業などは自
-動化の進展が雇用機会の減少につながっている面がある。
-
-図表4 16 歳～24 歳の若年層の就業先の構成比上位業種（単位:％）
-
-さらに、中国の若年層はやっとの思いで就業しても、上記ミスマッチを背景に離職率が高い
-ことも特徴のひとつとなっている。 「前程無憂」によると、2024年度（2024 年 6 月）の就業者
-は 2025 年 4 月までの 1 年足らずの間に 15.9％が離職し、離職率が高いのは飲食・ホテル・観
-
-2 詳しくは2026 年4 月24 日付大和総研レポート「中国：飲食業景気指数が過去最低に」 （齋藤尚登）を参
-照。  
-2.1
-2.3
-2.5
-2.8
-3.1
-3.6
-4.5
-5.1
-5.5
-5.5
-5.8
-7.1
-9.2
-17.6
-21.4
-0 5 10 15 20 25
-金融業
-文化・スポーツ・娯楽業
-科学技術研究・技術サービス業
-公共管理・社会保障・社会組織
-不動産業
-衛生・保健業
-交通運輸・倉庫・郵政業
-リース・ビジネスサービス業
-住民サービス・メンテナンス・その他サービス業
-情報通信・ソフトウエア・情報技術サービス業
-建設業
-教育
-ホテル・飲食業
-卸小売業
-製造業
-（出所）中国国家統計局「第7回人口センサス」（2020年11月1日時点）より大和総研作成
+（出所）CEIC より第一ライフ資産運用経済研究所作成
 
 ### Page 5
 
-1
+本資料は情報提供を目的として作成されたものであり、投資勧誘を目的としたものではありません。作成時点で、第一ライフ資産運用
+経済研究所が信ずるに足ると判断した情報に基づき作成していますが、その正確性、完全性に対する責任は負いません。見通しは予告
+なく変更されることがあります。また、記載された内容は、第一生命保険ないしはその関連会社の投資方針と常に整合的であるとは限
+りません。 
+5/5
 
-5 / 5
+以 上 
+図 5 MY インフレ率の推移      図 6 MY 貿易動向の推移
 
-光（20.6％） 、不動産（16.8％） 、交通・運輸・物流（16.5％）などであった。離職理由（複数
-回答）は収入・福利厚生の低さ（78.9％） 、成長機会の低さ（49.5％） 、考課の不公正・インセ
-ンティブの欠如（46.6％）などが上位に並ぶ。 
- このほか、若年層は法律・制度面の問題で、リストラの対象になりやすいという問題がある。
-中国でも労働者保護の意識が高まりつつあり、ある程度の規模以上の企業などが、会社都合で
-従業員を解雇する場合、勤続年数に応じた補償を行うことが義務付けられている。この場合、
-企業にしてみれば勤続年数が長い従業員を解雇するよりも短い従業員を解雇した方が、コスト
-を抑制することが可能になる。若年層は雇用の調整弁として使われることが多い。
-
-中国版「就職氷河期」への懸念 
- これまで 16 歳～24 歳の若年層の高失業率問題をみてきたが、25 歳～29 歳の失業率が上昇し
-ていることも気掛かりだ。既述したように、2026 年 4 月のこの年齢層の失業率は 7.4％となっ
-た。2026 年3 月の7.7％が、統計の発表が開始された2023 年12 月（6.1％）以来の最高であっ
-たが、4 月はそれを若干下回る水準だ（前掲図表1）。16 歳～24 歳の高失業率問題が解決・改善
-せずに持ち越されている可能性が高い。長期間の無職状態や非正規雇用が常態化し、あるいは
-正規雇用で就業してもその後離職するなどして雇用が不安定化すれば、賃金、キャリア、結
-婚・出産など人生全般に長期的な影響を及ぼす懸念がある。中国版「就職氷河期」への懸念だ。 
- 25 歳～29 歳といえば、中国の住宅実需のボリュームゾーンを形成する30 歳～34 歳の一歩手
-前の年齢層である。少子化対策にせよ、不動産不況からの脱却にせよ、中国共産党・政府は若
-年層の高失業率問題の改善に向けて待ったなしの対応が求められているわけだが、決定打はな
-い。製造業の自動化を含む高度化や、様々な産業とAI 技術を連動させる「AI＋」などは、雇用
-を代替する側面があるが、だからといってその動きを抑制するのは本末転倒だ。また、企業の
-リストラが若年層に集中しないように、継続雇用に対するインセンティブを強化することも一
-案であるが、度がすぎれば、企業の収益性を低下させることになる。結局のところ、若年層に
-過度に不利な法律・制度を見直す一方で、リスキリングを推進するというのが現実的な路線に
-なるのではないだろうか。
+（出所）CEIC より第一ライフ資産運用経済研究所作成  （出所）CEIC より第一ライフ資産運用経済研究所作成
 
 ---
-## Document 341: 创业板涨超2%，算力硬件集体爆发，PCB、光模块齐涨，恒科指涨超2%，联想暴涨20%，智谱狂飙斤30%
+## Document 329: 付鹏拆解香港市场底层逻辑：资金与人口双变量，重塑港股与港房走势【付鹏说27】
 
-Source PDF: all report pdf/创业板涨超2%，算力硬件集体爆发，PCB、光模块齐涨，恒科指涨超2%，联想暴涨20%，智谱狂飙斤30%.pdf
-Pages: 9
-Extraction status: ok
-
-### Page 1
-
-盘⾯上，个股涨多跌少，沪深京三市超 3800 股飘红，今⽇成交 2.92 万亿，沪深两市成交额
-2.9 万亿，较上⼀个交易⽇缩量近 5800 亿。板块⽅⾯，算⼒硬件产业链再度⾛强， PCB 、
-超硬材料⽅向爆发；量⼦技术、半导体、电池、太空光伏、⼯业⾦属概念股活跃。券商、
-⽩酒、医药⽣物板块调整。
-摘要：
-A 股算⼒硬件股再度爆发， PCB 、 CPO 、玻璃纤维等概念股拉升，带动创业板盘中涨超 2% 。港
-股 AI ⼤模型股爆发，智谱狂飙超 20% ，因公司推出 ZCube 组⽹架构且有望⼊恒⽣科技指数。
-5 ⽉ 22 ⽇， A 股全天震荡攀升，午后进⼀步扩⼤涨幅，三⼤股指集体⾛⾼，沪指涨近 1% ，深成
-指、创业板双双涨超 2% ，算⼒硬件股⼤涨， CPO 、 PCB 、覆铜板等概念股⼤爆发，⽩酒、油⽓
-等集体调整。
-港股⾼开⾼⾛，恒指盘中涨超 1% ，恒科指⼤涨超 2% ，科⽹股普遍反弹，联想集团报涨近 20% ，
-AI ⼤模型股爆发，智谱狂飙近 30% ，芯⽚半导体午后拉升。债市⽅⾯，国债期货多数下跌。商品
-
-⽅⾯，国内商品期货⼤⾯积⾛低。
-A 股：截⾄收盘，沪指涨 0.87% ，深成指涨 2.30% ，创业板指涨 2.84% 。
-盘⾯上，个股涨多跌少，沪深京三市超 3800 股飘红，今⽇成交 2.92 万亿，沪深两市成交额 2.9 万
-亿，较上⼀个交易⽇缩量近 5800 亿。板块⽅⾯，算⼒硬件产业链再度⾛强， PCB 、超硬材料⽅
-向爆发；量⼦技术、半导体、电池、太空光伏、⼯业⾦属概念股活跃。券商、⽩酒、医药⽣物板
-块调整。
-港股：截⾄收盘，恒⽣指数收涨 0.86% ，恒⽣科技指数涨 2.11% 。
-⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⽣活家 搜索
-
-### Page 2
-
-盘⾯上，联想集团⼤涨近 20% ，中芯国际涨逾 7% ，舜宇光学科技涨近 7% ，⽹易涨近 6% 。
-联想暴涨近 20% ，此前公司公布四季度营收超预估，花旗称公司净利润⼤超该⾏预期和市场共
-识。花旗分析师 Kyna Wong 等⼈在报告中表⽰，联想净利润同⽐飙升 479% ，较花旗预测⾼
-127% ，较市场⼀致预期⾼ 79% 。 AI 相关收⼊已占到集团总收⼊的 38% ，同⽐增⻓ 84% ，成为业
-绩超预期背后的核⼼结构性驱动⼒。
-债市：国债期货多数下跌，截⾄收盘， 30 年期主⼒合约涨 0.19% ， 10 年期主⼒合约跌 0.04% ， 5
-年期主⼒合约跌 0.03% ， 2 年期主⼒合约跌 0.01% 。
-商品：国内商品期货多数下跌，截⾄收盘，化⼯品跌幅居前，丁⼆烯橡㬵跌 4.26% ；⿊⾊系全部
-下跌，焦煤跌 3.69% ；能源品多数下跌，原油跌 2.27% ；油脂油料多数下跌，棕榈油跌 1.70% ；
-⾮⾦属建材全部下跌， PVC 跌 1.56% ；新能源材料多数下跌，多晶硅跌 0.94% ；基本⾦属涨跌参
-
-半，沪镍跌 0.73% ；航运期货涨幅居前，集运指数 ( 欧线 ) 涨 3.39% ；农副产品多数上涨，⽣猪涨
-2.38% ；贵⾦属多数上涨，沪银涨 0.78% 。
-
-### Page 3
-
-芯⽚半导体、算⼒硬件⼤爆发
-算⼒硬件股⼤爆发， PCB 、光模块、覆铜板等概念股⾼开⾼⾛，宝⿍科技 5 天 3 板，华正新材 3 天
-2 板，鹏⿍控股、⼭东玻纤、强达电路等 10 余股涨停。 CPO 概念活跃，天孚通信涨超 10% ，联创
-电⼦、⽔晶光电等 10 余股收获涨停。
-
-### Page 5
-
-消息⾯上， 4 ⽉初， CCL ⻰头建滔积层板发函，将板料及 PP 半固化⽚价格统⼀上调 10% ，此次价
-格调整的原因在于上游树脂、电⼦玻纤布等核⼼原材料价格出现⼤幅上涨，同时供应情况较为
-紧张。
-当地时间 5 ⽉ 20 ⽇，英伟达公布了截⾄ 2026 年 4 ⽉ 26 ⽇的 2027 财年第⼀季度的业绩。该公司⼀季
-度营收创下历史新⾼，达 816 亿美元，环⽐增⻓ 20% ，同⽐增⻓ 85% ，超出市场预期的 810 亿美
-元； GAAP 和⾮ GAAP ⽑利率分别为 74.9% 和 75.0% 。同时，展望 2027 财年第⼆季度，英伟达认
-为，在未来的增⻓叙事中， Vera CPU 与 Rubin GPU 的放量是最主要的增⻓动⼒。
-摩根⼠丹利对英伟达下⼀代 Rubin 机架进⾏了全⾯的物料清单（ BOM ）拆解，内存增⻓ 435% ，
-在其覆盖的下游零部件中， PCB 内容价值增幅最为显著，较 GB300 ⼤涨 233% ；其次是 MLCC
-（ +182% ）、 ABF 基板（ +82% ）、电源（ +32% ），以及液冷组件（ +12% ）。
-
-国⾦证券认为，站在 OEM ⼚商⻆度，拆分 BOM 物料价值量， VR200 机柜的出货价为 780 万美
-元，相较 GB300 机柜（ 390 万美元）增⻓ 100% 。其中， VR200 的机柜 PCB 价值量 11.6 万美元，
-较 GB300 的机柜 PCB 价值量（ 3.5 万美元）翻 3 倍，同⽐增⻓ 233% 。
-上海证券认为， 2025 年报 PCB 业绩全⾯兑现， 2026 年订单需求有望继续推动业绩增⻓，验证
-PCB ⼚商预期与爬坡，将从 “ 预期驱动 ” 转向 “ 业绩兑现 ” 驱动。 Rubin 架构等新⼀代算⼒产品亮
-相，正交背板、 LPU 机柜多重需求叠加，全球 AI 算⼒硬件升级， PCB ⾏业产值有望实现跃升。
-⾼盛认为，全球 AI 基础设施提速，带动 AI 服务器和 PCB 需求，公司持续投⼊研发、资本开⽀，
-还在拓展光模块、先进封装 PCB 等⽅向，可能形成第⼆增⻓曲线。⻛险点在于 AI 服务器放量慢
-于预期、 PCB 规格升级节奏放缓、市场竞争加剧。
-
-半导体、存储芯⽚股午后爆发，兆易创新涨 8.5% ， A 股市值达 3286 亿元；⼤普微涨近 9% ，早盘
-⼀度跌超 14% ；国科微涨超 14% ，盈⽅微触及涨停。兆易创新、国科微、⼤族数控、⻓电科
-技、⼤普微等均创下历史新⾼。
-
-### Page 7
-
-今年 4 ⽉，⼤普微以约 45 元的发⾏价登陆创业板，主营企业级 SSD——AI 数据中⼼⽤于⾼速存储
-的关键元件。上市后直线飙升， 36 个交易⽇涨幅超过 16 倍。
-5 ⽉ 18 ⽇晚公司突然申请停牌，理由是 " 股价偏离基本⾯，存在市场情绪过热情形 " 。昨晚核查公
-告发布：公司基本⾯未发⽣重⼤变化，相关业务存在波动和不确定性，核查结果正常，于 5 ⽉ 22
-⽇复牌。今⽇最⼤跌幅超过 12% ，但即便下跌后，公司市值仍超过 3300 亿。
-与此同时，港股半导体股午后集体拉升，截⾄发稿，兆易创新涨超 12% 再创历史新⾼，天数智
-芯涨超 8% ，中芯国际涨超 7% ，澜起科技涨超 5% 。
-
-### Page 8
-
-港股 AI ⼤模型股狂飙
-今天早盘，港股部分 AI 应⽤概念股直线拉升，午后再度⼤幅拉升。截⾄收盘，智谱涨超 28% ，股
-价再创新⾼，总市值超过 5800 亿港元。 MINIMAX 涨近 15% ，五⼀视界涨超 13% ，滴普科技、知
-⾏科技、迅策等涨超 10% ，优必选涨超 7% ，迈富时涨超 5% 。
-消息⾯， 5 ⽉ 22 ⽇，智谱宣布⾯向部分企业客⼾提供 GLM-5.1 ⾼速版 API“GLM-5.1-highspeed” 。
-模型输出速度达到 400tokens/s ，刷新当前全球⼤模型⼚商 API 的速度上限。据了解， GLM-5.1
-⾼速版适⽤于 AI 编程、实时交互、商业决策、实时语⾳等对响应延迟要求极⾼的场景。
-此外，公司宣布在联合攻关下，提出并落地了 ZCube 组⽹架构，从⽽实现交换机与光模块成本
-优化、 GPU 平均推理吞吐提升等。
-摩根⼠丹利分析师 Gary Yu 与 Lydia Lin 在报告中称， ZCube 是⼀项重要技术创新，有助于缓解推
-理算⼒供应的瓶颈， ZCube 关键效果将包括：降低交换机和光模块资本开⽀约 33% ，提升 GPU
-
-推理吞吐量约 15% 等。
-与此同时，在政策层⾯， AI 产业⼜迎来好消息。 5 ⽉ 22 ⽇，国家发改委政策研究室副主任李超表
-⽰，近期国家发改委正在谋划出台加快⼈⼯智能落地的配套⽂件，进⼀步加⼤要素保障。同
-时，我们还将持续推动央国企开放⾼价值的应⽤场景，⾯向各个⾏业和领域、各个地⽅打造⼈
-⼯智能标杆应⽤，加快引导⼈⼯智能融⼊经营管理等各⽅⾯、各环节。
-
-### Page 9
-
-⻛险提⽰及免责条款
-市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
-458 收藏 分享到 :
-写评论
-图⽚
-2 条评论
-国信证券指出， AI Agent 发展迅速， AI ⼤模型 Agentic 能⼒提升、 OpenClaw 持续破圈，加速 AI 能
-⼒与渗透率提升，持续看好 AI 应⽤端机会。
-招商证券指出， “Token 运营 ” 能够兼顾 AI 产业链各个利益主体的利益诉求，共同推动 AI 产业链更
-快的发展。对于⼤模型公司来说，有越来越多的 Token 运营商能够购买⼤量的 Token ，这对于⼤
-模型的现⾦流改善⾮常重要。⼤模型花费巨资进⾏算⼒采购和⼤模型升级，⽣产⼤量的 Token ，
-但苦于现在使⽤⼤模型的⽤⼾很多，但真正为 Token 付费的还是太少，⼤模型公司的现⾦流压⼒
-⾮常⼤，所以⾮常需要 Token 运营商的采购。
-限免
-请发表您的评论
-
-表情 发布评论
-⻅闻⽤⼾05-22 06:16中国上海
-0  回复
-来呀  继续加仓 ~ 😉
-ALPHA05-22 02:36中国福建省
-1  回复
-算⼒百倍的 pe 不⼲预吗，太危险了
-
----
-## Document 370: 年终奖多100倍！三星AI芯片工人多拿40万美元奖金，引发内部不满
-
-Source PDF: all report pdf/年终奖多100倍！三星AI芯片工人多拿40万美元奖金，引发内部不满.pdf
+Source PDF: all report pdf/付鹏拆解香港市场底层逻辑：资金与人口双变量，重塑港股与港房走势【付鹏说27】.pdf
 Pages: 2
 Extraction status: ok
 
 ### Page 1
 
-三星电⼦临时薪酬协议将奖⾦与部⻔利润贡献挂钩，导致内存部⻔部分员⼯最⾼可获 6 亿韩
-元，⽽智能⼿机、电视及家电部⻔员⼯仅得约 600 万韩元，两者相差近百倍。这⼀巨⼤落差
-迅速在公司内部引发强烈反响，部分员⼯甚⾄佩戴⿊丝带以⽰抗议。三星电⼦⼯会 22 ⽇开
-始就临时薪资协议进⾏电⼦投票。
-摘要：
-⼀纸奖⾦协议使得三星罢⼯⻛波在最后⼀刻按下暂停键，但⾼达百倍的奖⾦差距正使得员⼯内
-部引发深层裂痕。
-据彭博社，三星电⼦⼯会在罢⼯启动前 90 分钟与公司达成临时协议，约定将营业利润的 10.5%
-以股票、 1.5% 以现⾦形式发放奖⾦，分配⽅案与各业务部⻔的利润贡献直接挂钩。
-按此规则，部⻔间奖⾦差距被急剧拉⼤。内存部⻔部分员⼯可获约 6 亿韩元（约 44 万美元），⽽
-智能⼿机、电视及家电业务线的员⼯仅得约 600 万韩元（ 4.4 万美元），两者相差百倍。巨⼤落差
-迅速在公司内部引发强烈反响，部分员⼯甚⾄佩戴⿊丝带以⽰抗议。
-据新华社，韩国三星电⼦⼯会 22 ⽇开始就⼀项临时薪资协议进⾏电⼦投票。按计划，电⼦投票
-
-将持续⾄ 5 ⽉ 27 ⽇上午 10 时，预计约 8.9 万名⼯会成员参与。若参与投票⼈数超过全部成员半
-数，且多数投票者⽀持协议，协议将正式⽣效；否则劳资双⽅需重新展开谈判。
-该⼯会成员中芯⽚⼯⼈占⽐近 90% ，⼤⼯会领导层也宣布谈判 “ 取得胜利 ”-- 按照协议，内存部⻔
-员⼯⼈均奖⾦约 34 万美元。这场可能影响全球半导体供应的劳资⻛波，正演变为⼀场内部利益
-的较量。
-昔⽇财务安全⽹，沦为奖⾦盛宴的边缘⻆⾊
-奖⾦分配的巨⼤落差，正成为三星电⼦内部⽭盾的导⽕索。
-主理智能⼿机、电视及家电业务的数字体验（ DX ）事业部下属⼩型⼯会负责⼈ Lee Ho-seo 表
-⽰： “ 三星电⼦是⼀家公司。每次遇到危机，我们都相互协作、共克时艰。如今业绩强劲，却说
-只有产⽣业绩的部⻔才能拿奖⾦，这根本说不通。 ”
-这场争议背后，是三星各业务部⻔间⻓期存在的相互依存关系。数⼗年来，以 Galaxy 智能⼿机
-为核⼼的 DX 事业部⼀直是整个公司的财务安全⽹。每当半导体部⻔进⼊下⾏周期，⾼昂的固定
-
-成本和内存价格的剧烈波动往往使芯⽚业务承压甚⾄亏损。
-2023 年初内存市场严重供过于求期间，据称芯⽚部⻔曾向三星显⽰器部⻔借款 20 万亿韩元，以
-维持对设备和研发的⼤规模投⼊。正是 Galaxy 系列⼿机带来的稳定利润，⽀撑三星在芯⽚业务
-不盈利时持续建⼚扩产，最终在当前的 AI 繁荣周期中占据有利位置。
-芯⽚部⻔内部同样存在分化
-⽭盾不仅存在于芯⽚与⾮芯⽚部⻔之间。在半导体事业部内部，代⼯和系统 LSI 等亏损业务线的
-员⼯，因绩效分配⽐例较低，所获奖⾦也远少于内存部⻔同事，从⽽引发 “ 不公平 ” 的批评。这些
-员⼯认为，⾃⼰为内存部⻔的成功提供了不可或缺的技术基础。
 ⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⽣活家 搜索
+《付鹏说 · 第六季》全⾯升级！⽴即订阅 !
+新增专栏社群，前瞻全球⼤类资产交易性机会！
+今年是华尔街⻅闻《付鹏说》年度专栏的第⼗个年头！《付鹏说第六季》第六季全⾯升
+级，在⽇常视频的基础上，新增专栏交流群更新付鹏说最新市场观点 & 图表数据解读（社
+群第⼀时间更新）
+再谈⾹港市场：资⾦与⼈⼝双变量，重塑港股与港房⾛势
+交易桌前看天下，付鹏说来评财经。本期视频录制 2026 年 5 ⽉ 23 ⽇。本期内容将结合近期
+⾹港各类核⼼数据，系统梳理⾹港市场的运⾏逻辑与底层规律。
+⾸先梳理两组关键核⼼数据，第⼀组数据为通过港股通实现的北向资⾦南向买⼊规模，以
+及⾹港疫情后港币 M2 货币供应量的同⽐增速，两组数据的运⾏节奏呈现⾼度⼀致性。
+第⼆组数据为⾹港 M2 与⾹港外汇储备的⽐值。从数据⾛势来看，该⽐值近年⼤幅攀升，尤
+其本年度数值已远超 2008 年⽔平，且在疫情后的两年时间内呈现持续⼤幅上⾏态势。这⼀
+数据变化的背后，折射出⾹港流动性核⼼来源的结构性转变，是值得重点探究的核⼼问
+
+题。
+投资全球更要投资⾃⼰
 
 ### Page 2
 
 ⻛险提⽰及免责条款
 市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
-177 收藏 分享到 :
 写评论
 图⽚
-2 条评论
-三星半导体业务⾸席执⾏官 Jun Young-hyun 在本周四的内部备忘录中写道，公司希望 “ 将这段冲
-突时期抛在⾝后 ” ，并呼吁员⼯ “ 在相互尊重与信任的基础上重新站在⼀起，再次实现更⼤的⻜
-跃 ” 。
-限免
+新⽤⼾注册，免费解锁  3 篇付费⽂章
 请发表您的评论
 表情 发布评论
-LordS18 ⼩时前中国湖北省
-0  回复
-不被安排待岗就不错了。
-MobileUser414421 ⼩时前中国新疆
-2  回复
-没事，被宁德时代收购⼤家就都⼀样了
 
 ---
-## Document 378: 投資策略月報：行情來得太快就像龍捲風
+## Document 332: 債券市場總評：非投等擇優布局
+
+Source PDF: all report pdf/債券市場總評：非投等擇優布局.pdf
+Pages: 6
+Extraction status: ok
+
+### Page 1
+
+1
+
+台北富邦銀行 
+May 4，2026 | 10:00 AM (GMT+8) 
+債券市場總評： 非投等 擇優布局
+投資研究部 
+ Research 
+Financial Market 
+▎中東僵局、Fed 分歧， 利率或維持更久 
+4 月中旬以來，美伊談判僵局與荷莫茲海峽封鎖風險推
+升油價 ，市場對能源價格外溢至通膨的疑慮升溫。
+FOMC 雖如預期按兵不動 ， 但會後訊號明顯偏鷹 ， 內部
+分歧擴大 ， 且有官員不支持在聲明中保留偏向後續寬鬆
+的措辭，鮑爾亦指出，若高油價延續，將使物價回落更
+為困難 。 另一方面 ， 零售銷售 、 耐久財訂單與製造業PMI
+等數據仍具韌性 ，3 月 PCE 通膨增溫，使市場對短期內
+重啟降息的預期更趨保守 。 另鮑爾表明卸任主席後仍將
+留任理事，而華許提名程序持續推進，但在通膨壓力未
+退與決策分歧仍深下，即便華許順利上任，政策短期內
+恐仍難快速轉向寬鬆。 
+圖 1 中東情勢陷入膠著，通膨有升溫壓力
+
+資料來源：Bloomberg，2026/5/1 
+▎油價帶動殖利率走升，債市轉趨承壓 
+在市場重新修正降息預期下，4 月中旬以來美國 10 年
+期公債殖利率一度反彈至 4.4%上方後回落，整體呈現
+震盪墊高走勢。期間雖曾因停火與和談預期升溫，帶
+動殖利率一度回落、債市短暫反彈，但隨後漲幅回
+吐，並在 FOMC 後升至近月高點，顯示市場已逐步轉
+向定價高利率維持更久的情境，債市因而再度轉趨承
+壓。
+
+圖 2 國際油價持續攀高抑債市，非投等債相對抗跌
+
+資料來源：Bloomberg，2026/5/1 
+◼ 10 月以來，美中貿易轉趨緊張，川普啟動亞洲行並重提關稅立場，市場避險情緒
+升溫，美債殖利率一度跌破 4%後反彈。聯準會釋出鴿派訊號，強化對 10 月底、
+12 月降息的預期 。 儘管區域銀行曝險消息一度引發市場疑慮 ， 信貸憂慮並未擴大 ，
+債市受政策寬鬆預期支撐，美國公債、投等債表現穩健，非投等債相對受壓。 
+◼ 美中談判不確定性升溫推動避險買盤回流，美債殖利率再度走低。但 Lombard 
+Odier 定價模型顯示，殖利率已大致反映政策與通膨預期，短線下行空間可能有
+限。利率環境仍偏寬鬆，鎖利與防禦需求帶動投等債持續受青睞，資金穩定支撐
+下，運輸、公用事業與必需消費等防禦性產業領漲，顯示市場佈局偏向穩健收息。 
+◼ 近期投等債與非投等債信用利差自低檔略為 走擴，但整體波動溫和。投等債在基
+本面穩健、信用品質較高下，展現相對抗震表現 ，而非投等債受信用事件干擾波
+動上升。隨美股 3Q 財報開局穩健，企業體質仍具支撐，有助穩定信用資產表現。
+
+◼ 中東局勢膠著推升油價，市場對通膨壓力擔憂升溫。FOMC 雖維持利率不變，但
+內部意見分歧，訊號偏鷹，鮑爾強調高油價恐使通膨回落更為不易， 而美國經濟
+數據仍具韌性，3 月 PCE 通膨增溫，市場對降息預期轉趨保守，債市因而承壓。
+不過 ， 在風險偏好尚未明顯轉弱下 ， 非投債表現相較公債與投資等債仍相對抗跌 。 
+◼ 在美債殖利率仍處高檔、資本利得空間有限下，債券報酬將以息收為主，較高殖
+利率的美國非投等債因票息較具吸引力，報酬潛力相對較佳。儘管企業獲利成長
+趨緩，美國非投等債企業的淨利潤率、槓桿與利息保障倍數大致穩定，違約風險
+仍屬可控，整體基本面尚具韌性。 
+◼ 在美國非投等債仍具吸引力下，可關注金融、航太國防、能源及醫療、公用事業、
+通訊等產業，主因這些領域多具穩定現金流，或受政策、國防支出與商品需求支
+撐，在高利率延續、景氣放緩但未衰退下，仍較具防禦與配置價值 。
+
+2026 年初至今報酬率 
+美國非投等債報酬率 1.33% 
+美國投等債報酬率 0.06% 
+美國公債報酬率 -0.04%
+
+美國 10 年公債殖利率 4.37% 
+西德州原油 101 美元/桶 
+3 月 PCE 年增率 3.5% 
+3 月核心 PCE 年增率 3.2% 
+美國 10 年期公債殖利率 4.37% 
+美國基準利率 3.50~3.75%
+
+### Page 2
+
+2
+
+誠信親切、專業創新 週報 
+▎非投等債殖利率較高，報酬潛力較佳 
+在美國公債殖利率仍處相對高檔 、 短期內下行空間有限
+的背景下，債券投資報酬將更仰賴票息收益，而非資本
+利得。相較之下，殖利率水準較高的信用債，特別是美
+國非投等債，因票息支撐較強，配置價值相對提升。根
+據高盛預估，2026 年美國投等債與非投等債全年總報
+酬分別可望達 5.1%與 6.1%， 大致落於歷年報酬分布的
+中段區間。整體來看，在利率高檔延續、債市資本利得
+空間受限的情況下，美國非投等債憑藉較高殖利率，仍
+具相對較佳的報酬潛力。
+
+圖 3 高盛對於今年美投等、非投等債總報酬預估
+
+資料來源：Goldman Sachs，2026/4/2
+
+▎非投等債企業基本面尚具韌性 
+從已完整公布的 2025 年第 4 季財報來看，美國非投
+等債企業雖面臨獲利成長壓力，但整體信用基本面仍
+具韌性。近期市場疑慮主要來自高利率環境可能壓抑
+企業融資與投資活動，而成本壓力與終端需求轉弱可
+能侵蝕企業獲利能力。在此背景下，非投等債發行人
+的 EBITDA 年增率仍處於正成長區間，但相較過去景
+氣擴張階段已明顯降溫，反映營運動能轉趨溫和(圖
+4)，不過，淨利潤率仍大致回升至 3%~4%區間，顯
+示企業雖面臨成長壓力，但獲利能力尚未同步轉弱，
+整體仍保有一定支撐(圖 5)。 
+在槓桿方面，市場雖關注 AI 資本支出擴張與併購融資
+可能推升企業槓桿，但美國非投等債發行企業的淨槓
+桿率並未進一步走高，反而回落至約 3.6 倍，顯示整
+體債務負擔仍大致可控(圖 6)。同時，企業付息能力也
+持續回穩，美國非投等債發行人的中位數利息保障倍
+數已回升至約 2.7~2.8 倍，較 2024 年低點明顯改
+善，反映即便利率環境仍偏高，企業償付利息的能力
+仍保有一定韌性。 
+整體而言，雖然美國非投等債企業獲利成長動能有所
+放緩，但槓桿與付息能力等核心信用指標仍大致穩
+定。高盛預估，2026 年底美國非投等債違約率約為
+3.0%，顯示信用風險尚屬可控。在較高票息支撐與基
+本面仍具韌性的背景下，美國非投等債仍具相對配置
+吸引力。
+
+圖 4  EBITDA 獲利成長動能轉趨溫和
+
+資料來源：Goldman Sachs，2026/4/2
+
+圖  5 非投等債淨利潤率回升，獲利具支撐
+
+資料來源：Goldman Sachs，2026/4/2
+
+美投等債歷年報酬率區間(左軸) 
+)) 
+美非投等債歷年報酬率區間(右軸) 
+)) 
+(預估落點) (預估落點)
+
+### Page 3
+
+3
+
+誠信親切、專業創新 週報 
+圖 6 美國投等、非投等債企業淨槓桿率均略有下降
+
+資料來源：Goldman Sachs，2026/4/2
+
+圖 7 利息保障倍數回升，付息能力改善
+
+資料來源：Goldman Sachs，2026/4/2
+
+▎關注具韌性之非投等債產業 
+在美國非投等債仍具相對配置吸引力的背景下 ， 後續可
+進一步關注金融、航太與國防、能源，以及偏防禦性的
+醫療保健、公用事業與通訊等產業。這些領域多具備較
+穩定的信用基礎，或有明確的需求與產業支撐，因此在
+高殖利率環境延續 、 成長放緩但尚未步入衰退的情境下 ，
+仍具相對配置價值。次產業來看，金融尤可關注銀行與
+保險，因其在景氣放緩階段仍具一定穩定性，航太與國
+防主要受惠於國防支出與地緣政治相關需求，能源則受
+大宗商品主題與相對穩健基本面支撐 。 偏防禦性的方向
+則可留意醫療保健的製藥 、 具穩定現金流基礎的公用事
+業，以及通訊中的無線通訊。整體而言，在非投等企業
+基本面尚具韌性、違約風險維持可控的背景下，可擇優
+聚焦於具產業支撐與相對穩定性的領域。
+
+表 1 美國非投等債可關注產業及理由
+
+資料來源：Goldman Sachs，2026/4/2
+
+### Page 4
+
+4
+
+誠信親切、專業創新 週報 
+<附錄> 
+投等、非投等、貨幣型基金獲資金流入 
+表 1 債券型基金資金流向
+
+表 2 股票型基金資金流向
+
+資料來源 ：EPFR、JPM(含 ETF 與共同基金)， 2026/4/22 
+註：亞太基金包含日股 
+    國際型股票基金投資區域不限特定國家或區域
+
+4 月美國投等債、非投等債報酬 
+圖 1 美投等債以金融公司、工業、保險產業表現抗跌
+
+資料來源：Bloomberg，2026/4/28
+
+圖 2 美非投等債以銀行、REITs、資產管理產業表現佳
+
+資料來源：Bloomberg，2026/4/28
+
+% 
+%
+
+### Page 5
+
+5
+
+誠信親切、專業創新 週報 
+4 月美國投等債、非投等債 OAS 
+圖 3 美投等債 OAS 以金融公司、保險、工業表現較佳
+
+資料來源：Bloomberg，2026/4/28
+
+圖 4 美非投等 OAS 以 REITs、資產管理、運輸表現佳
+
+資料來源：Bloomberg，2026/4/28
+
+<接續下頁> 
+美國非投等債 OAS 變動(bps)
+
+美國投等債 OAS 變動(bps) 
+本文係由台北富邦銀行提供，係根據市場公開資訊依據專業判斷所為，報告結果僅供讀者參考，並不構成要約、招攬、邀請、宣
+傳、誘使或任何不論種類或形式之表示、建議或推薦，本文亦不為獲利之保證，讀者個人投資決策仍需自行判斷並承擔風險。本
+文內容台北富邦銀行不保證其正確性及完整性，並所載述之內容台北富邦銀行保有隨時予以更正或撤回之權利。任何人不得以因
+信賴該等資料做出投資決策為由，向台北富邦銀行主張任何權利或提出訴訟。另台北富邦銀行保留本文之一切著作權，禁止讀者
+以任何形式引用、抄襲、複製及轉寄第三人。
+
+### Page 6
+
+6
+
+誠信親切、專業創新 週報 
+美 IG-金融公司產業 報酬較佳前 3 檔*
+
+美 IG-基礎工業 報酬較佳前 3 檔*
+
+美 IG-保險產業 報酬較佳前 3 檔*
+
+美 HY-銀行產業 報酬較佳前 3 檔*
+
+美 HY-REITs 產業 報酬較佳前 3 檔*
+
+美 HY-資產管理產業 報酬較佳前 3 檔*
+
+*：舉例說明，非單一標的推薦 
+本文係由台北富邦銀行提供，係根據市場公開資訊依據專業判斷所為，報告結果僅供讀者參考，並不構成要約、招攬、邀請、宣
+傳、誘使或任何不論種類或形式之表示、建議或推薦，本文亦不為獲利之保證，讀者個人投資決策仍需自行判斷並承擔風險。本
+文內容台北富邦銀行不保證其正確性及完整性，並所載述之內容台北富邦銀行保有隨時予以更正或撤回之權利。任何人不得以因
+信賴該等資料做出投資決策為由，向台北富邦銀行主張任何權利或提出訴訟。另台北富邦銀行保留本文之一切著作權，禁止讀者
+以任何形式引用、抄襲、複製及轉寄第三人。
+
+---
+## Document 340: 動見觀瞻：不畏IMF調降經濟展望，全球股市持續上攻
+
+Source PDF: all report pdf/動見觀瞻：不畏IMF調降經濟展望，全球股市持續上攻.pdf
+Pages: 5
+Extraction status: ok
+
+### Page 1
+
+2026
+
+02-2771-6699 
+ www.fubon.com 
+台北市大安區仁愛路四段 169 號
+
+不畏 IMF 調降經濟展望，全球股市持續上攻
+
+全球股市逐步淡化美伊衝突的負面影響，股市重新隨 AI 發展逐步走高。此波走
+勢主要來自獲利預期上調 ， 並非估值擴張 ， 為相對理性且合理的股價反應 ， 投資
+人不應自亂陣腳，反可持續買進估值偏低的韓股。 
+出刊日：2026/04/30 
+266 期
+
+### Page 2
+
+2026
+
+02-2771-6699 
+ www.fubon.com 
+台北市大安區仁愛路四段 169 號 
+動見觀瞻
+
+本期內容： 
+1. IMF 調降全球經
+濟展望 
+2. 企業獲利展望持
+續上調 
+3. 估值仍處合理，
+但注意短期風險
+
+重點摘要 
+■ IMF 將 2026 年全球經濟成長率由
+3.3%調降至 3.1%， 其中台灣經濟成長
+預測由 2.1%上調至 5.2%為最大亮點 ，
+美國則微調至 2.3%。
+
+■ 全球股市隨著美國態度轉軟及 AI 需求
+強勁 ， 企業獲利預期大幅提升 ， 美國標
+普 500 指數 2026 年 EPS 年增率由
+14%上調至 22%，台、韓企業獲利增
+長尤為顯著，分別達 57%及 205%。
+
+■ 台股乖離率已達 35%，接 近2 月 高 點，
+短期可能面臨修正壓力，但整體估值
+仍合理；韓股乖離率亦達 50%，估值
+卻處相對低點，建議可持續買進。
+
+南韓 KOSPI 指數再創歷史新高
+
+資料來源：Bloomberg，2026/4/24
+
+不畏 IMF 調降經濟展望，全球股市持續上攻
+
+### Page 3
+
+2026
+
+02-2771-6699 
+ www.fubon.com 
+台北市大安區仁愛路四段 169 號
+
+▋ IMF 調降全球經濟展望 
+如同動見觀瞻 265 期內容提及，國際貨幣
+基金(IMF)如預告般在 4/14 公布的全球經
+濟展望中以 「全球經濟陷入戰爭陰影」 為題 ，
+調降全球2026 年全球經濟成長率預期值至
+3.1%(1 月報告為 3.3%)。其中，最大亮點
+為台灣 ，2026 年經濟成長預測值自去年 10
+月的 2.1%上調至 5.2%。 但美國的全年預測
+值自 1 月的 2.4%下調至 2.3%，如同本刊
+預期維持正成長 ， 顯示美伊戰爭及高油價雖
+對全球經濟造成威脅 ， 經濟活動受阻礙 ， 但
+並不會直接進入衰退 ， 展示全球經濟活動在
+AI 時代仍具韌性。
+
+成熟國家中以歐洲各國受創最深 ， 歐元區整
+體自 1.3%下調至 1.1%，而英國則由 1.3%
+下調至 0.8%，顯示歐洲經濟在除去 2025
+年發表的基建及國防兩大計畫外 ， 並無出現
+更多上行動力 ， 整體經濟活動與全球經濟高
+度連動，且能源依存度高、難以自立，故受
+影響最深 。 而日本則維持在0.7%未有變動 ，
+顯示日本經濟主軸仍在自身通膨帶動及高
+市內閣基調下維持穩定成長。
+
+圖一: IMF 調降多國 2026 年經濟展望
+
+資料來源：IMF, 2026/4/14 
+▋ 企業獲利展望持續上調 
+儘管全球經濟在中東戰爭風險中出現修正 ，
+但隨美國態度有所趨軟 ， 市場情續近期出現
+轉向 ， 全球股市也逐漸收復跌幅 ， 再次走向
+年初的樂觀氣氛 。 檢視各主要指數近期表現 ，
+標普 500 指數已完全收復跌幅並再創歷史
+新高，全年累積漲幅為 3.8%，與 MSCI 已
+發展國家指數的 4.1%接近。而 MSCI 新興
+市場指數雖未完全收復戰事帶來的負向衝
+擊 ， 但已離戰前的股價水準不遠 ， 而今年以
+來表現最佳的三個國家— 南 韓、台 灣、日 本
+則皆完全收復損失並屢創股市新高 ， 年初來
+漲幅更高達 53.7%、30.2%及 17.5%，遠 遠
+領先全球其他指數。
+
+圖二: 全球股市已逐步收復戰爭負面衝擊
+
+資料來源: Bloomberg/北 富銀整理, 2026/4/24
+
+即便中東地緣政治及能源風險未完全消除 ，
+但全球 AI 及科技發展未見停歇，甚至持續
+擴張 ， 帶動企業獲利預期再次大幅走揚 。 以
+美國為例，年初分析師預期標普 500 指數
+2026 年 EPS 年增率僅有 14%上下，
+但在
+26Q1 財報仍未完全揭露前，截至 4/24 該
+預測值已來到 22%，顯示目前企業商業活
+動熱絡 、AI 相關需求旺盛 ， 持續保持 「供不
+應求」狀態。 
+1月 4月 1月 4 月 1月 4月 1月 4月
+2026 3.3% 3.1% 2.4% 2.3% 1.3% 1.1% 0.7% 0.7%
+2027 3.2% 3.2% 2.0% 2.1% 1.4% 1.2% 0.6% 0.6%
+1月 4月 1月 4月 1月 4月 1月 4月
+2026 4.2% 3.9% 5.0% 4.9% 2.3% 2.0% 2.2% 2.3%
+2027 4.1% 4.2% 4.8% 4.8% 2.4% 2.1% 2.7% 2.7%
+日本
+新興市場 新亞 新歐 拉美
+全球 美國 歐元區
+
+### Page 4
+
+2026
+
+02-2771-6699 
+ www.fubon.com 
+台北市大安區仁愛路四段 169 號
+
+而今年表現最佳的東亞三雄也持續上調全
+年獲利預期，截至 4/24 台股加權指數全年
+EPS 年增率已自年初的 25%大幅上調至
+57%，而韓國 KOSPI 指數更是由 70%爆發
+至 205%， 顯示企業獲利能力走揚永遠是股
+市大幅走高的最佳推進器。
+
+圖三: 台、韓企業獲利呈爆發性成長
+
+資料來源: Bloomberg/北富銀整理, 2026/4/24
+
+▋ 估值仍處合理，但注意短期風險 
+台股投資人最關心的 「乖離率」 問題隨股市
+再創新高也再次浮上水面 。 截至4/23 收 盤，
+台股加權指數 200 日乖離率達 35%，離 2
+月高點的 37%已不遠，顯示近期股價大幅
+上漲後或再次出現修正或休息行情 ， 引發投
+資人心中的不安 ， 思考 「是否應該逢高獲利
+了結，等待修正後再行進場?」。以目前全
+球各指數的預期本益比估值來看 ， 目前台灣
+加權指數僅略高於過去 5 年平均的正一倍
+標準差。而南韓 KOSPI 指數因企業獲利成
+長呈爆發式上揚，估值甚至處在 5 年平均
+的負兩倍標準差之下，僅日經 225 估值接
+近正兩倍標準差為相對偏高 ， 顯示全球股市
+並未出現估值大幅走高的資金氾濫狀態 ， 整
+體仍處合理區間 ， 甚至理性投資人應該逢低
+買進南韓股市。
+
+圖四: 韓國股市估值遠低於 5 年平均
+
+資料來源: Bloomberg/北富銀整理, 2026/4/24
+
+▋ 結論 
+全球股市逐步淡化美伊衝突的負面影響 ， 股
+市重新隨 AI 發展逐步走高。投資人仍應持
+續關注相關發展以及油價對通膨的影響 ， 可
+獲利了結估值相對高的日股 。 長期而言 ， 此
+波走勢主要來自獲利預期上調 ， 並非資金氾
+濫的估值擴張 ， 為相對理性且合理的股價反
+應 ， 投資人不應自亂陣腳 ， 反而應該持續買
+進估值偏低的韓股 ， 並持續穩定持有同樣受
+惠 AI 硬體需求的台股 ， 共享AI 發展為全球
+經濟發展帶來的科技紅利。
+
+### Page 5
+
+2026
+
+---
+## Document 375: 投資策略月報：行情來得太快就像龍捲風
 
 Source PDF: all report pdf/投資策略月報：行情來得太快就像龍捲風.pdf
 Pages: 29
@@ -5859,1007 +6946,209 @@ Warsh上任，戰爭未影響就業，但仍推升通膨，消費信心指數降
 警語
 
 ---
-## Document 397: 每加仑4.5美刀榨干中产！为了省钱加满油，美国人只能不吃牛排、不去酒吧
+## Document 398: 沙特媒体称获悉美伊协议草案 内容包括在所有战线实现停火
 
-Source PDF: all report pdf/每加仑4.5美刀榨干中产！为了省钱加满油，美国人只能不吃牛排、不去酒吧.pdf
-Pages: 2
+Source PDF: all report pdf/沙特媒体称获悉美伊协议草案　内容包括在所有战线实现停火.pdf
+Pages: 1
 Extraction status: ok
 
 ### Page 1
-
-美国汽油均价突破每加仑 4.5 美元，但消费者因出⾏刚需难以⼤幅减少加油，只能压缩可选
-消费。美国汽油库存处于近⼗⼆年同期低位，⽽需求依然坚挺，预计夏季出⾏旺季将进⼀
-步加剧供需紧张。
-摘要：
-油价飙升正悄然重塑美国消费者的⽇常账本：⻋不能不开，那就只能少吃⽜排、少去酒吧。
-据彭博，受伊朗战争影响，全美汽油均价已突破每加仑 4.5 美元，加州更是超过 6 美元。尽管价格
-⾼企，消费者并未⼤幅减少加油。对⼤多数美国⼈⽽⾔，开⻋通勤、接送孩⼦是⽣活刚需。
-汽油⽀出⼏乎⽆法压缩，消费者只能削减可选消费以平衡预算。费城居⺠ Avarisse Crawford 表
-⽰，她已减少娱乐开⽀，⽤免费公园活动替代⽜排晚餐和酒吧聚会。
-中东局势持续推⾼油价，霍尔⽊兹海峡的实际封锁导致全球原油运输受阻，美国汽油库存已随
-之降⾄ 2014 年以来同期最低⽔平，摩根⼠丹利预计 8 ⽉底将触及季节性历史低点。
-⾯对油价持续攀升，特朗普政府已接连释放战略⽯油储备、豁免《琼斯法案》，并讨论实施联邦
-汽油税假期，但效果尚不明显。随着阵亡将⼠纪念⽇周末拉开夏季出⾏旺季序幕，需求上⾏压
-
-⼒恐令本已吃紧的库存雪上加霜。
-油价攀升，需求不降
-当前供需格局对汽油价格构成强⼒⽀撑。美国汽油库存处于近⼗⼆年同期最低⽔平，进⼝量徘
-徊在近⼗年季节性低位附近，炼油⼚还持续将产能转向航空煤油，进⼀步压缩汽油产出。
-更关键的是需求端韧性⼗⾜ ——尽管油价突破每加仑 4 美元，消费者并未⼤幅减少加油。过去四
-周，汽油均价达每加仑 4.32 美元，实际加油量仍⾼于 2022 年和 2025 年同期⽔平。
-⻨格理全球能源策略师 Vikas Dwivedi 认为，只要价格低于 5 美元，需求降幅就⾮常有限，但这也
-意味着供需缺⼝将持续扩⼤。卡莱尔集团⾼级顾问、经济学家 Jeff Currie 警告，美国能源市场正
-⾯临⼀场酝酿中的危机，预计问题将在 7 ⽉集中显现。
-汽油需求刚性，可选消费承压
-⾯对油价⾼企，许多美国⼈并未减少出⾏，⽽是将压⼒转移⾄其他消费领域。
-据彭博，巴克莱信⽤卡数据显⽰，中东冲突爆发后约两个⽉内，各类消费者在住宿、服装、影
-院及杂货上的⽀出均低于季节性⽔平；美国银⾏研究院数据显⽰， 4 ⽉⼤件家居⽀出绝对下滑，
-
-⽽航空旅⾏和住宿⽀出基本持平。
-尽管整体出⾏需求仍具韧性，但部分指标已显露疲态。 GasBuddy 调查显⽰，计划今夏驾⻋出⾏
-超两⼩时的美国⼈⽐例为 56% ，低于去年的 69% 。美国汽⻋协会（ AAA ）调查则显⽰，约 10%
-的受访者会因油价取消⾏程，约三分之⼀表⽰不受影响。
-加州提供了⼀个更直观的参照。由于炼油⼚关闭、管⽹孤⽴及监管特殊，加州油价⻓期偏⾼。
-加州燃料与便利联盟⾸席执⾏官 Elizabeth Graham 表⽰，全州均价升⾄每加仑 6.14 美元后，加
-油站燃油消耗量⾃ 2025 年秋季以来已下降 9% 。
-⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⽣活家 搜索
-
-### Page 2
 
 ⻛险提⽰及免责条款
 市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
-168 收藏 分享到 :
+767 收藏 分享到 :
 写评论
 图⽚
-普通消费者已切实改变决策。费城居⺠ Avarisse Crawford 每周五天通勤，每⽉两次驾⻋探望亲
-属，减少驾驶并⾮选项。她削减了娱乐预算，以公园活动取代⽜排晚餐和下班聚会，并放弃了
-原计划的佛罗⾥达⾃驾游。她表⽰： “ 开⻋去佛罗⾥达，现在已经不是⼀个选项了。 ”
+1 条评论
+据报道，美国和伊朗 “ 接近达成 ” 的协议草案内容包括，在所有战线⽴即、全⾯和⽆条件地实
+现停⽕。该草案还提到 “ 在 7 天内就悬⽽未决的问题展开谈判 ” ，以及 “ 逐步解除美国对伊朗的
+制裁，以换取伊朗遵守协议 ” 。
+摘要：
+据新华社，据沙特阿拉伯阿拉⽐亚电视台 22 ⽇报道，该媒体独家获悉的美国和伊朗 “ 接近达成 ” 的
+协议草案内容包括，在所有战线⽴即、全⾯和⽆条件地实现停⽕。
+报道称，该草案内容还包括承诺不以军事、⺠⽤或经济基础设施为攻击⽬标；停⽌军事⾏动并
+停⽌媒体战；尊重主权和领⼟完整以及不⼲涉内政；保障海湾、霍尔⽊兹海峡和阿曼湾航⾏⾃
+由；建⽴联合监督和冲突解决机制等。
+报道还说，该草案还提到 “ 在 7 天内就悬⽽未决的问题展开谈判 ” ，以及 “ 逐步解除美国对伊朗的制
+
+裁，以换取伊朗遵守协议 ” 。
+阿拉⽐亚电视台援引消息⼈⼠的话说，该协议将在美伊双⽅正式宣布后⽴即⽣效。
+来源：新华社
 限免
 请发表您的评论
 表情 发布评论
+江东兵⻢⼤都督05-22 10:30中国⼴东省
+3  回复
+⼜在画 k 线了
+⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⽣活家 搜索
 
 ---
-## Document 420: 米国_中東情勢の混乱と統計の歪み剥落でインフレが加速(4月CPI) ～エネルギー価格高騰を受けFF金利先物では利上げ織り込みが小幅に強まる～
+## Document 432: 統計通報－今年1-4月自美國進口原油及液化天然氣金額創歷年同期新高，各增7.3%及3.7倍 (2026-05-21)
 
-Source PDF: all report pdf/米国_中東情勢の混乱と統計の歪み剥落でインフレが加速(4月CPI)   ～エネルギー価格高騰を受けFF金利先物では利上げ織り込みが小幅に強まる～.pdf
-Pages: 8
+Source PDF: all report pdf/統計通報－今年1-4月自美國進口原油及液化天然氣金額創歷年同期新高，各增7.3%及3.7倍 (2026-05-21).pdf
+Pages: 1
 Extraction status: ok
 
 ### Page 1
 
-US  Indicator s
+財政統計通報 
+                           （第 9 號） 
+財政部統計處  
+撰稿人：李震宇研究員 
+115 年 5 月 21 日  聯絡人：殷英洳科長 
+聯絡電話：(02)23228341  
+今年 1-4 月自美國進口原油及液化天然氣金額創歷年同期新高，各增 7.3%及 3.7 倍 
+1. 在能源轉型政策持續推進下，我國能源進口結構逐步朝向「增氣、減煤、展綠」方向調整。
+原油進口數量已由 108 年以前多逾 3 億桶，逐漸降至近年之 2.6 億至 3.0 億桶水準，進口金
+額同步收斂。112 年以來國際原油受供給過剩、中國大陸需求疲弱影響，價格呈偏弱整理，
+今(115)年 3-4 月美伊地緣政治衝突升溫，除阻礙航運外，亦使國際油價急速突破每桶 100
+美元，並於 100 至 120 美元區間高檔震盪，同期間我原油進口量相應銳減，致今年 1-4 月原
+油進口金額 64 億美元，年減 14.6%，數量減 12.9%，為近 11 年同期最大值、量雙減情況；
+就進口地區觀察，受戰事及供應調整配置影響，今年 4 月自美國進口原油(主要為頁岩油)
+激增 1.1 倍，前 4 月增 7.3%，金額 25 億美元創下同期新高，自中東國家進口多呈衰退，致
+整體比重由去年同期 66.7%驟降至 57.9%。 
+我國原油進口概況 
+單位：億美元；萬桶；%
+金額 數量 平均單價 進口來源國金額占比及年增率
+頁岩油 頁岩油 (美元/桶) 沙烏地阿拉伯 美國 科威特
+  109年 125 26 26,526 5,099 47.1 32.6 20.4 18.9
+  111年 309 67 30,001 6,399 103.1 33.1 21.4 20.6
+  114年 216 63 29,262 8,345 73.9 30.5 27.9 11.9
+  115年1-4月 64 29 8,372 3,539 77.0 28.1 38.1 5.9
+            4月 19 11 1,665 1,048 114.4 15.7 43.2 0.0
+111年 55.4 64.0 6.1 10.0 46.5 59.0 71.0 48.5
+114年 -9.4 -9.4 2.7 1.9 -11.8 -12.9 -15.6 -17.5
+115年1-4月 -14.6 25.4 -12.9 22.2 -1.9 -23.8 7.3 -51.1
+          4月 18.3 175.8 -19.8 102.7 47.4 -47.9 105.9 -100.0
+年    別
+年
+增
+率
 
-2026 年 5 月 13 日
+2. 天然氣方面，隨燃氣發電需求增加，液化天然氣進口長期呈現上升趨勢，今年 1-4 月進口金
+額 45 億美元，年增 8.3%，供應來源以澳大利亞占 3 成 2 居首，占比居次的卡達因荷姆茲海
+峽封鎖、運輸航線受阻，進口值大減 38.5%，美國則劇增 3.7 倍至 12 億美元之同期高點；
+煤近 3 年進口量呈現明顯下降，今年 1-4 月進口 20 億美元，減 0.4%，其中澳大利亞及印尼
+為前 2 大進口來源，合計占比逾 8 成，惟兩者走勢分歧，進口金額各增 22.1%及減 33.7%。 
+我國液化天然氣、煤進口及主要來源國變動概況 
+單位：億美元；萬公噸；%
+澳大利亞 卡達 美國 澳大利亞 印尼
+  109年 1,795 56 28.3 24.7 5.5 6,303 49 54.0 22.0
+  111年 1,996 199 47.0 13.4 7.1 6,306 162 61.3 20.8
+  114年 2,349 125 35.5 28.7 9.4 5,200 62 54.0 23.9
+  115年1-4月 743 45 32.0 17.5 26.2 1,562 20 65.1 16.5
+            4月 207 17 37.5 0.0 46.7 446 6 62.1 19.2
+111年 4.1 80.0 135.6 51.3 48.0 -7.9 94.0 98.2 135.2
+114年 11.5 7.3 -5.0 42.7 43.7 -9.2 -34.0 -37.5 -28.5
+115年1-4月 2.5 8.3 -1.0 -38.5 371.8 -0.1 -0.4 22.1 -33.7
+          4月 5.7 48.4 63.7 -100.0 1,228.0 -4.9 7.8 45.4 -17.6
+年
+增
+率
+液化天然氣 煤
+年    別 重量 金額 重量 金額金額占比及年增率 金額占比及年增率
 
-1/8
-
-米国:中東情勢の混乱と統計の歪み剥落でインフレが加速(4 月 CPI) 
-～エネルギー価格高騰を受け FF 金利先物では利上げ織り込みが小幅に強まる～ 
- 経済調査部 主任エコノミスト  桂畑 誠治 
-（℡：050-5474-7493）
-
-1.総合指数は鈍化するも、依然として高い伸びが継続 
-26 年 4 月の消費者物価（総合ＣＰＩ）は、前月比＋0.6％（前月:同＋0.9％）となった。これ 
-は、市場予想中央値や筆者予想（＋0.6％）と一致する結果。上昇率は前月から鈍化したものの、
-依然として高い伸びが続いた。 
-内訳をみると、エネルギー価格は電気料金の上昇率が高まったものの、ガソリンや燃料等の上 
-昇率が低下したことで、前月比＋3.8％（前月:同＋10.9％）へと鈍化した。一方で、エネルギ 
-ー・食品を除く消費者物価（コアＣＰＩ）は、同＋0.4％（前月:同＋0.2％）となり、市場予想＋
-0.3％（筆者予想＋0.3％）を上回って加速した。食品価格については、外食の伸び率が前月と同
-水準にとどまったものの、穀物・ベーカリー製品、肉類、卵、ノンアルコール飲料が上昇に転じ 
-たほか、野菜・果物も上昇率を高め、全体で同＋0.5％（前月:同 0.0％）へと上昇した。
-
-2.インフレ警戒感から政策金利の据え置き観測が強まる 
-金融市場では、4 月ＣＰＩが市場予想を上振れたことや、緊迫する中東情勢を背景とした原油価 
-格の高止まりを受け、インフレへの警戒感が強まっている。これに反応し、ＦＦ金利先物市場が 
-示す 6 月ＦＯＭＣでの政策金利据え置きの確率は約 98％（前日約 97％）へと小幅に上昇した。 
-先々の見通しについても、9 月に 25bpの利上げが行われる確率が約 8％（同約 5％）へ上昇したこ
-食品 住宅 アパレル 運輸 医療 財 サービス 
-総合 コア ｴﾈﾙｷﾞｰ コア コア 
-25/04 ＋0.162 (＋2.3) ＋0.239 (＋2.8) ▲0.6 ＋0.0 ＋0.4 ▲0.1 ▲0.4 ＋0 .4 ＋0.1 ＋0.3 
-25/05 ＋0.099 (＋2.4) ＋0.130 (＋2.8) ▲0.7 ＋0.3 ＋0.3 ▲0.3 ▲0.6 ＋0 .3 ▲0.0 ＋0.2 
-25/06 ＋0.254 (＋2.7) ＋0.234 (＋2.9) ＋0.4 ＋0.3 ＋0.3 ＋0.3 ＋0.0 ＋0 .4 ＋0.2 ＋0.3 
-25/07 ＋0.228 (＋2.7) ＋0.313 (＋3.1) ▲0.6 ＋0.1 ＋0.2 ＋0.1 ＋0.1 ＋0 .7 ＋0.2 ＋0.4 
-25/08 ＋0.348 (＋2.9) ＋0.310 (＋3.1) ＋0.7 ＋0.4 ＋0.3 ＋0.3 ＋0.8 ▲0 .1 ＋0.2 ＋0.3 
-25/09 ＋0.295 (＋3.0) ＋0.218 (＋3.0) ＋1.4 ＋0.2 ＋0.2 ＋0.5 ＋0.8 ＋0 .2 ＋0.2 ＋0.2 
-25/10 #N/A (＋2.8) #N/A (＋2.8) #N/A #N/A #N/A #N/A #N/A #N/A #N /A #N/A 
-25/11 #N/A (＋2.7) #N/A (＋2.6) #N/A #N/A #N/A #N/A #N/A #N/A #N /A #N/A 
-25/12 ＋0.298 (＋2.7) ＋0.233 (＋2.6) ＋0.3 ＋0.7 ＋0.4 ＋0.3 ▲0.0 ＋0 .4 ＋0.0 ＋0.3 
-26/01 ＋0.171 (＋2.4) ＋0.295 (＋2.5) ▲1.5 ＋0.2 ＋0.2 ＋0.3 ▲0.3 ＋0 .3 ＋0.0 ＋0.4 
-26/02 ＋0.267 (＋2.4) ＋0.216 (＋2.5) ＋0.6 ＋0.4 ＋0.3 ＋1.3 ＋0.2 ＋0 .5 ＋0.1 ＋0.3 
-26/03 ＋0.865 (＋3.3) ＋0.196 (＋2.6) ＋10.9 ▲0.0 ＋0.3 ＋1.0 ＋4.3 ▲ 0.2 ＋0.1 ＋0.2 
-26/04 ＋0.640 (＋3.8) ＋0.376 (＋2.8) ＋3.8 ＋0.5 ＋0.7 ＋0.6 ＋1.3 ▲0 .1 ＋0.0 ＋0.5 
-(注1）括弧内は前年同月比,(注2)25年10,11月前月比､10月前年比は未公表 
-消費者物価
-
-### Page 2
-
-2/8 
-3.00 
-3.05 
-3.10 
-3.15 
-3.20 
-3.25 
-3.30 
-3.35 
-3.40 
-3.45 
-3.50 
-3.55 
-3.60 
-3.65 
-3.70 
-3.75 
-3.80 
-3.85 
-3.90 
-26年5月
-6月
-7月
-8月
-9月
-10月
-11月
-12月
-27年1月
-2月
-3月
-4月
-5月
-6月
-7月
-8月
-9月
-10月
-11月
-（図表）ＦＦ金利先物イールドカーブ 
-2026/5/8 
-2026/5/11 
-2026/5/12 
-（％） 
-（出所）Bloombergより作成 
-とで、据え置き予想は約 88％（同約 90％）へ低下。12 月についても 25bp以上の利上げ確率が約
-36％（同約 24％）へと上昇し、据え置き予想は約 62％（同約 73％）へ低下した。結果、26 年末 
-時点のＦＦ金利の織り込み水準は 3.72％（前日 3.68％）へ上昇。債券市場では、米 2 年国債利回 
-りは一旦低下したものの、その後は統計公表前の水準で安定し、10 年国債利回りは一旦低下後に 
-水準を切り上げる動きを見せた（P7） 。為替市場ではドルが主要通貨に対して一時強含んだが、そ
-の後は方向感の乏しい展開となり、主要株価指数も上下に変動しながら小幅に水準を切り上げ 
-た。
-
-3.コアCPIでは統計の歪み剥落もありサービス価格が加速 
-コアＣＰＩの内訳では、財コアが前月比 0.0％（前月:同＋0.1％）と鈍化した一方、サービスコ 
-アは同＋0.5％（前月:同＋0.2％）へと加速した。 
-財コアでは、情報機器が上昇幅を拡大した一方、新車や自動車部品が下落に転じ、家庭用耐久 
-品・消耗品も下落幅を拡大した。衣料品の低下や医療用品の下落が続いたほか、余暇商品は伸び 
-率が低下した。中古車は下落から横ばいへ転じ、アルコール飲料やその他財は前月と同率の伸び 
-となった。 
-サービスコアでは、病院・関連サービス、レンタカー、自動車メンテナンス・修理が下落に転 
-じ、インターネットサービスは下落幅を拡大。専門医療や上下水道・ゴミ収集サービス、電話サ 
-ービスも低下し、医療保険は下落幅を縮小しつつもマイナス圏で推移した。一方、カーリース、
-余暇サービス、その他個人向けサービスが上昇に転じたほか、帰属家賃、賃貸料、ホテル、航空 
-運賃、自動車保険が上昇した。 
-特にシェアの大きい帰属家賃・賃貸料の上昇については、統計上の特殊要因が背景にある。米
-
-### Page 3
-
-3/8 
--0.6 
--0.4 
--0.2 
-0.0 
-0.2 
-0.4 
-0.6 
-0.8 
-1.0 
-20 21 22 23 24 25 26 
-（％） 
-コアＣＰＩの寄与度分解（前月比） 
-帰属家賃 その他 衣料品価格 CPIコア 
-(出所）米労働省 
--4 
--2 
-0
-2
-4
-6
-8
-10 
-12 
-18 20 22 24 26 
-（％） 
-コアCPIの推移 
-３ヵ月前対比年率 
-６ヵ月前対比年率 
-前年比 
-(出所）米労働省 
-国のCPI調査では全米を 6 地域に区分し、各地域を半年ごとに巡回調査する仕組みとなっている。 
-25 年 10 月、政府機関の一部閉鎖（10 月 1 日～11 月 12 日）によりデータ収集ができず、当時の 
-調査対象地域の数値は「変動なし（横ばい） 」と仮置きされた。その結果、その後の半年間は統計 
-上の伸びが実態よりも低く抑制されていた。しかし、半年が経過し、26 年 4 月は当該地域（25 年
-10 月に調査ができなった地域）が調査対象となったことで、それまで統計に反映されていなかっ 
-た半年分の家賃上昇分が一度に顕在化した。これが、今回の指数を大きく押し上げるテクニカル 
-な要因となった。
-
-4. インフレの再燃を示す上昇モメンタム 
-コアＣＰＩの上昇モメンタムを確認すると、3 カ月前対比年率で＋3.2％（3 月:＋2.9％） 、6 カ
-月前対比年率で＋2.9％（3 月:＋2.3％）とともに加速しており、インフレ圧力が再燃しているこ
-とが示されている。
-
-### Page 4
-
-4/8 
--2 
-0
-2
-4
-6
-8
-10 
-12 
-14 
-16 
-79 81 83 85 87 89 91 93 95 97 99 01 03 05 07 09 11 13 15 17 19 21 23 25 
-（％） 
-米国：総合ＣＰＩとコアＣＰＩの推移(前年同月比)
-CPI 
-CPIコア 
-(出所）米労働省 
-5. 前年同月比ではエネルギーの急伸、食品、コアサービスが押し上げ 
-前年同月比では、総合ＣＰＩが＋3.8％（前月：＋3.3％）と市場予想＋3.7％（筆者予想＋ 
-3.7％）を上回って加速した。食品は穀物・ベーカリー製品、肉類等の押し上げにより＋3.2％
-（同＋2.7％） 、エネルギーはガソリン（＋28.4％）や燃料油（＋54.3％）の急伸により＋17.9％
-（同＋12.5％）と大幅にプラス幅を拡大。コアＣＰＩも＋2.8％（前月：同＋2.6％）と市場予想 
-＋2.7％（筆者予想＋2.7％）を上振れて上昇した。 
-コアＣＰＩの内訳をみると、財コアは＋1.1％（同＋1.2％）と低下した。衣料品、アルコール 
-飲料、その他財が上昇した。一方、医薬品など医療用品が下落に転じたほか、家庭用耐久品・消 
-耗品、新車、自動車部品、余暇商品が低下した。情報機器、中古車は下落幅を縮小させつつもマ
-イナスを維持した。 
-サービスコアは＋3.3％（同＋3.0％）と上昇した。ここでも帰属家賃や賃貸料の統計的要因に
-加えて、航空運賃などの上昇が押し上げに寄与した。個別では、レンタカーが下落に転じたほ
-か、医療保険が下落幅を拡大した。また、専門医療サービス、病院・関連サービス、自動車保険 
-が低下、電話サービスが下落を続けた。一方、帰属家賃（＋3.3％、前月:＋3.1％） 、賃貸料（＋ 
-2.8％、前月:＋2.6％） 、ホテル、余暇サービス、航空運賃、教育関連サービス、その他個人向け 
-サービスが上昇した。上下水道・ゴミ収集サービス、インターネットの前年比の伸び率は前月か
-ら横ばいとなった。
-
-6.実質賃金の減少による消費への悪影響 
-物価高騰の影響で、4 月の実質平均時給は前年比▲0.3％（前月:＋0.2％）となり、2023 年 4 月
-（▲0.4％）以来のマイナスを記録した。実質平均週給も前年比▲0.2％（前月:＋0.1％）と 2023 
-年 5 月（▲0.4％）以来のマイナスに転じており、購買力の低下が 4 月の個人消費を押し下げる要
-因になったと考えられる。
-
-### Page 5
-
-5/8
-▲ 2
-0
-2
-4
-6
-8
-10
-19 20 21 22 23 24 25 26
-（％） ＣＰＩ寄与度分解（前年同月比）
-その他
-財コア
-家賃
-帰属家賃
-食料品
-ｴﾈﾙｷﾞｰ
-CPI
-(出所）米労働省
--3
--2
--1
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-85 87 89 91 93 95 97 99 01 03 05 07 09 11 13 15 17 19 21 23 25
-サービス（コア）
-消費者物価（コア）
-商品（コア）
-米国：商品・サービス価格の推移（コア、前年比） （％）
-（出所）米労働省
-▲ 1
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-84 86 88 90 92 94 96 98 00 02 04 06 08 10 12 14 16 18 20 22 24 26
-（％） コアＣＰＩと帰属家賃・家賃の推移（前年同月比）
-帰属家賃
-賃貸料
-CPIコア
-(出所）米労働省
-
-### Page 6
-
-6/8
--12
--9
--6
--3
-0
-3
-6
-9
-12
-15
--40
--30
--20
--10
-0
-10
-20
-30
-40
-50
-89 90 91 92 93 94 95 96 97 98 99 00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26
-（％） （％） 米国：エネルギーと食品の推移(前年同月比)
-エネルギー（左)
-食品（右）
-(出所）米労働省
-
-### Page 7
-
-7/8
-157.4
-157.4
-157.5
-157.5
-157.6
-157.6
-157.7
-157.7
-157.8
-157.8
-20:00
-20:16
-20:32
-20:48
-21:04
-21:20
-21:36
-21:52
-22:08
-22:24
-22:40
-22:56
-23:12
-23:28
-23:44
-0:00
-0:16
-0:32
-0:48
-1:04
-1:20
-1:36
-1:52
-2:08
-2:24
-2:40
-2:56
-3:12
-3:28
-3:44
-4:00
-4:16
-4:32
-4:48
-5:04
-5:20
-5:36
-5:52
-（円） ドル・円 CPI統計発表
-1.171
-1.171
-1.172
-1.172
-1.173
-1.173
-1.174
-1.174
-1.175
-1.175
-1.176
-20:00
-20:16
-20:32
-20:48
-21:04
-21:20
-21:36
-21:52
-22:08
-22:24
-22:40
-22:56
-23:12
-23:28
-23:44
-0:00
-0:16
-
-0:32
-0:48
-1:04
-1:20
-1:36
-1:52
-2:08
-2:24
-2:40
-2:56
-3:12
-3:28
-3:44
-4:00
-4:16
-4:32
-4:48
-5:04
-5:20
-5:36
-5:52
-（ﾕｰﾛ ）
-ユーロ・ドル CPI統計発表
-49,100
-49,200
-49,300
-49,400
-49,500
-49,600
-49,700
-49,800
-49,900
-50,000
-20:00
-20:16
-20:32
-20:48
-21:04
-21:20
-21:36
-21:52
-22:08
-22:24
-22:40
-22:56
-23:12
-23:28
-23:44
-0:00
-0:16
-0:32
-0:48
-1:04
-1:20
-1:36
-1:52
-2:08
-2:24
-2:40
-2:56
-3:12
-3:28
-3:44
-4:00
-4:16
-4:32
-4:48
-5:04
-5:20
-5:36
-5:52
-（ドル） ＮＹダウ先物 CPI統計発表
-7,320
-7,340
-7,360
-7,380
-7,400
-
-7,420
-7,440
-20:00
-20:15
-20:30
-20:45
-21:00
-21:15
-21:30
-21:45
-22:00
-22:15
-22:30
-22:45
-23:00
-23:15
-23:30
-23:45
-0:00
-0:15
-0:30
-0:45
-1:00
-1:15
-1:30
-1:45
-2:00
-2:15
-2:30
-2:45
-3:00
-3:15
-3:30
-3:45
-4:00
-4:15
-4:30
-4:45
-5:00
-Ｓ＆Ｐ 500 先物 CPI統計発表
-99.5
-100.0
-100.5
-101.0
-101.5
-102.0
-102.5
-103.0
-20:00
-20:16
-20:32
-20:48
-21:04
-21:20
-21:36
-21:52
-22:08
-22:24
-22:40
-22:56
-23:12
-23:28
-23:44
-0:00
-0:16
-0:32
-0:48
-1:04
-1:20
-1:36
-1:52
-2:08
-2:24
-2:40
-2:56
-3:12
-3:28
-3:44
-4:00
-4:16
-
-4:32
-4:48
-5:04
-5:20
-5:36
-5:52
-（ドル）
-原油先物 CPI統計発表
-4,600.0
-4,620.0
-4,640.0
-4,660.0
-4,680.0
-4,700.0
-4,720.0
-4,740.0
-20:00
-20:13
-20:26
-20:39
-20:52
-21:05
-21:18
-21:31
-21:44
-21:57
-22:10
-22:23
-22:36
-22:49
-23:02
-23:15
-23:28
-23:41
-23:54
-0:07
-0:20
-0:33
-0:46
-0:59
-1:12
-1:25
-1:38
-1:51
-2:04
-2:17
-2:30
-2:43
-2:56
-3:09
-3:22
-3:35
-3:48
-4:01
-4:14
-4:27
-（ドル）
-金先物 CPI統計発表
-4.40
-4.41
-4.42
-4.43
-4.44
-4.45
-4.46
-4.47
-20:00
-20:16
-20:32
-20:48
-21:04
-21:20
-21:36
-21:52
-22:08
-22:24
-22:40
-
-22:56
-23:12
-23:28
-23:44
-0:00
-0:16
-0:32
-0:48
-1:04
-1:20
-1:36
-1:52
-2:08
-2:24
-2:40
-2:56
-3:12
-3:28
-3:44
-4:00
-4:16
-4:32
-4:48
-5:04
-5:20
-5:36
-5:52
-（％） 米10 年国債利回り CPI統計発表
-3.94
-3.95
-3.96
-3.97
-3.98
-3.99
-4.00
-4.01
-20:00
-20:16
-20:32
-20:48
-21:04
-21:20
-21:36
-21:52
-22:08
-22:24
-22:40
-22:56
-23:12
-23:28
-23:44
-0:00
-0:16
-0:32
-0:48
-1:04
-1:20
-1:36
-1:52
-2:08
-2:24
-2:40
-2:56
-3:12
-3:28
-3:44
-4:00
-4:16
-4:32
-4:48
-5:04
-5:20
-5:36
-5:52
-（％） 米2年国債利回り CPI統計発表
-
-### Page 8
-
-経済研究所が信ずるに足ると判断した情報に基づき作成していますが、その正確性、完全性に対する責任は負いません。見通しは予告
-なく変更されることがあります。また、記載された内容は、第一生命保険ないしはその関連会社の投資方針と常に整合的であるとは限
-りません。
-8/8
-50
-100
-150
-200
-250
-300
-350
-400
-2020/1/1
-2020/3/23
-2020/6/13
-2020/9/3
-2020/11/24
-2021/2/14
-2021/5/7
-2021/7/28
-2021/10/18
-2022/1/8
-2022/3/31
-2022/6/21
-2022/9/11
-2022/12/2
-2023/2/22
-2023/5/15
-2023/8/5
-2023/10/26
-2024/1/16
-2024/4/7
-2024/6/28
-2024/9/18
-2024/12/9
-2025/3/1
-2025/5/22
-2025/8/12
-2025/11/2
-2026/1/23
-2026/4/15
-2020.3.23=100
-
-株価動向
-NASDAQ総合
-指数
-S&P500
-日経平均
-ＮＹダウ
--0.2
-0.0
-0.2
-0.4
-0.6
-0.8
-1.0
-1.2
-1.4
-1.6
-1.8
-2.0
-2.2
-2.4
-2.6
-2.8
-3.0
-3.2
-3.4
-3.6
-3.8
-4.0
-4.2
-4.4
-4.6
-4.8
-5.0
-5.2
-22 23 24 25 26
-（％）
-日米独英10年国債利回り
-ｲｷﾞﾘｽ
-米国
-ﾄﾞｲﾂ
-日本
-50
-100
-150
-200
-250
-300
-350
-400
-450
-500
-550
-2020/1/1
-2020/3/23
-2020/6/13
-2020/9/3
-2020/11…
-2021/2/14
-2021/5/7
-2021/7/28
-2021/10…
-2022/1/8
-2022/3/31
-2022/6/21
-2022/9/11
-2022/12/2
-2023/2/22
-2023/5/15
-2023/8/5
-2023/10…
-2024/1/16
-2024/4/7
-2024/6/28
-2024/9/18
-2024/12/9
-
-2025/3/1
-2025/5/22
-2025/8/12
-2025/11/2
-2026/1/23
-2026/4/15
-2020.3.23=100
-株価動向
-ｲﾝﾄﾞセンセック
-ス指数
-加権指数
-上海総合株価指
-数
-韓国総合株価指
-数
+資料來源：財政部統計處。
 
 ---
-## Document 450: 英スターマー首相は夏に退陣か？ ～バーナム氏の国政復帰を待って党首選実施へ～
+## Document 458: 连遭宕机+黑客入侵！微软接手8年后，GitHub正在瓦解
 
-Source PDF: all report pdf/英スターマー首相は夏に退陣か？ ～バーナム氏の国政復帰を待って党首選実施へ～.pdf
+Source PDF: all report pdf/连遭宕机+黑客入侵！微软接手8年后，GitHub正在瓦解.pdf
 Pages: 3
 Extraction status: ok
 
 ### Page 1
 
-Europe Trends
+GitHub 因领导层真空、⼈才流失及频繁宕机、安全泄露陷⼊⽣存危机。随着 Cursor 等 AI 编
+程竞品蚕⻝市场份额，开发者⽣态信任度锐减，内部架构整合失败导致 “GitHub 名存实
+亡 ” 。若微软 CoreAI 团队⽆法扭转颓势， GitHub 恐将失去作为全球开发者核⼼基础设施的
+战略地位。
+摘要：
+微软斥资 75 亿美元收购 GitHub 近⼋年后，这⼀全球最⼤代码托管平台正陷⼊⽣存危机。频繁宕
+机、安全漏洞与核⼼⼈才流失三重压⼒叠加， AI 编程⼯具竞争格局的急速演变更使其战略地位岌
+岌可危。
+过去数周内， GitHub 接连发⽣多次重⼤服务中断，并披露了⼀处严重远程代码执⾏漏洞；本周
+更有消息称，该公司 3800 个内部代码仓库遭到⼊侵，起因是⼀名员⼯安装了被植⼊恶意程序的
+VS Code 插件。据 The Verge 采访的多名现任及前任 GitHub 员⼯，公司普遍陷⼊领导层真空、⽅
+向感全⾯丧失的困境。
+动荡始于去年夏天前 CEO Thomas Dohmke 的离职。微软此后未安排继任者， GitHub 领导层被
 
-2026 年５月 15 日
+迫直接向微软 CoreAI 团队汇报。这⼀架构调整引发持续的⼈才流失 ——Julia Liuson 、 Elizabeth
+Pemmerl 、 Jared Palmer 等⾼管相继宣布离职或转岗，有员⼯直⾔ " 基本上已经没有 GitHub 这家
+公司了 " 。
+GitHub 的困境正在被竞争对⼿视为⼊场机会。 Cursor 和 Claude Code 已在蚕⻝ GitHub Copilot 的
+市场份额；据 The Information 报道，负责监管 GitHub 的微软 CoreAI 团队负责⼈ Jay Parikh 已私
+下警告同事， GitHub" ⾯临严峻威胁 " 。与此同时，曾对微软收购持观望态度的开发者正以实际⾏
+动表达不满 ——Ghostty 终端开发者 Mitchell Hashimoto 宣布将项⽬迁出 GitHub ，称 "18 年了，不
+得不离开 " 。
+领导层真空，⼈才加速出⾛
+GitHub 当前的困境，在很⼤程度上可追溯⾄去年夏天 Thomas Dohmke 的离职。微软随后将
 
-1/3 
-英スターマー首相は夏に退陣か？ 
-～バーナム氏の国政復帰を待って党首選実施へ～ 
- 経済調査部 首席エコノミスト  田中 理 
-（℡：050-5474-7494）
+GitHub 并⼊ CoreAI 团队管辖，该团队由微软 CEO Satya Nadella 亲⾃引进的前 Meta ⼯程主管 Jay
+Parikh 执掌。据媒体援引知情⼈⼠透露， Parikh 在微软内部⼝碑⽋佳，不设新 CEO 亦是其本⼈的
+决定。
+GitHub 员⼯⻓期以独⽴⽂化⾃豪，⾃称 "Hubbers" ，如今却须直接向微软体系内的团队汇报，适
+应过程颇为艰难。随着营收职能并⼊微软 MCAPS （客⼾与合作伙伴解决⽅案）部⻔、产品⼯作
+拆分⾄开发者事业部，部分内部⼈⼠已感到公司已名存实亡。 " 基本上已经没有 GitHub 这家公司
+了， " ⼀名员⼯上⽉告诉 The Verge ：
+⾼管离职潮持续扩⼤。拥有 34 年微软资历、此前负责监管 GitHub 营收与⼯程业务的 Julia Liuson
+上⽉宣布离职。 GitHub 前⾸席营收官 Elizabeth Pemmerl 同⽉递交辞呈，由微软 MCAPS 前负责
+⼈ Dan Stein 接任。今年去年 10 ⽉才以⾼级副总裁⾝份加⼊ GitHub 的 Jared Palmer ，已宣布转赴
 
-（要旨） 
-○ スターマー首相の辞任を求めてストリーティング保健相が14 日に閣僚を辞任したが、 与党・
-労働党の党首選につながる “党首チャレンジ” を即座に開始することを見送った。 同日には、
-政治家人気度調査でリードするマンチェスター市長のバーナム氏が首相就任に必要な下院の
-補欠選挙に出馬し、国政に復帰する意向を固めたほか、レイナー元副首相の党首選出馬の障
-害になるとみられてきた印紙税逃れ疑惑も解決した。 バーナム氏の国政復帰を待ったうえで、
-夏頃に党首選が行われ、ブレア路線の踏襲者とされるストリーティング氏、現職首相のスタ
-ーマー首相、穏健左派のバーナム氏の三つ巴の戦いとなることが予想される。党内基盤を考
-えると、穏健左派が次期首相に就く可能性が高く、財政運営にどういった変化が起こるのか
-に注目が集まる。
-
-14 日付けレポート「ポスト・スターマーと英国の財政運営」で指摘した通り、ストリーティン
-グ保健相は14 日、スターマー首相の指導力に対する信頼を失ったとして閣僚を辞任したが、与
-党・労働党の党首選につながる“党首チャレンジ”を即座に開始することを見送った。ストリー
-ティング氏が首相に提出した辞表では、スターマー氏が次期総選挙で労働党を率いることはない
-と指摘したうえで、党首選を示唆する文言（a battle of ideas）と、可能な限り、広範な候補者
-による戦いとなることを求める文言（It needs to be broad, and it needs the best possible 
-field of candidates）があり、マンチェスター市長のバーナム氏の国政復帰を待ったうえで党首
-選を行うことを示唆したものとされる。ストリーティング氏が党首チャレンジに必要な81 名の党
-所属下院議員の支持が得られなかったのか、政治家人気度調査（図）でリードするバーナム氏抜
-きの党首選ではその後の政権運営の正当性が担保できないと考えたのかは不明だ。
+Xbox 出任⼯程副总裁，并担任 Xbox CEO Asha Sharma 的技术顾问 —— 值得关注的是，这位
+" ⼀切都是微软，公司正在崩塌 —— ⽆论是从严重损害公司声誉的宕机事故来看，还是从领导层
+的不断出⾛来看。 "
+⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⽣活家 搜索
 
 ### Page 2
 
-2/3
+⻛险提⽰及免责条款
+Xbox 新掌⻔⼈已陆续招揽多名前微软 CoreAI ⾼管，外界普遍解读为相关⼈员急于脱离 Parikh 领
+导层的信号。
+⼈才流失还衍⽣出直接的竞争威胁。 Thomas Dohmke 离职后创办了新开发者平台 Entire ，该公
+司现有 30 名员⼯中，⾄少 11 ⼈曾供职于 GitHub ，其产品⽅向与 GitHub 直接竞争。
+宕机频发， CTO 公开道歉
+服务稳定性问题在过去⼀年尤为突出，以⾄于 GitHub CTO Vladimir Fedorov 上⽉不得不就最新
+⼀系列事故公开致歉。 Fedorov 承认，拉取请求、代码提交及新建仓库数量的激增，给 GitHub 基
+础设施带来了沉重压⼒。 " 我们的优先级很明确：⾸先是可⽤性，其次是容量，然后才是新功
+能， " 他表⽰， " 我们正在减少不必要的⼯作，改善缓存，隔离关键服务，消除单点故障，并将对
+性能敏感的路径迁移⾄专为此类⼯作负载设计的系统。 "
+Fedorov 于去年加⼊ GitHub ，此前曾在微软任职近⼋年、在 Facebook ⼯作逾 12 年。他⼊职后不
 
-そのバーナム氏はストリーティング氏の辞任表明の数時間後、国政復帰に向けて下院の補欠選
-挙に出馬する意向を表明した。スキャンダルの渦中にある労働党議員がバーナム氏の国政復帰へ
-の道を拓くため、下院議員を辞職することを決意したためだ。６月中にも補欠選挙が行われると
-みられ、過去の補欠選挙でバーナム氏の出馬を認めなかった労働党の役員会は今回、同氏の出馬
-を認める方針とされる。補欠選挙が行われるイングランド北部の選挙区では、前回2024 年の総選
-挙で、辞任する労働党議員が45.2％の得票率で議席を獲得したが、リフォームＵＫがそれに次ぐ
-31.8％の票を獲得した。マンチェスター市政を立て直した元閣僚経験者のバーナム氏には全国区
-の人気と知名度があり、補欠選挙での勝利が確実視される。もっとも、リフォームＵＫを率いる
-ファラージ氏はあらゆる手段を用いてバーナム氏の勝利を阻止するとしており、総選挙後のリフ
-ォームＵＫの党勢拡大もあり、バーナム氏が足元を救われる恐れがないかは注意を要する。 
-後継党首のもう１人の有力候補であるレイナー元副首相の動きも活発だ。ストリーティング氏
-出所：YouGov資料より第一ライフ資産運用経済研究所が作成
-（図）英国労働党の主要政治家に対する支持
--45 
--20 
--31 
-9 
--2 -6 
-15 
-41 
--50
--40
--30
--20
--10
-0
-10
-20
-30
-40
-50
-スターマー首相
-ストリーティング保健相
-レイナー元副首相
-バーナム・マンチェスター市長
-全調査対象 うち2024年総選挙で労働党に投票
-（％ポイント、支持－不支持）
+久即启动了将 GitHub 迁移⾄ Azure 服务器的项⽬，以应对数据中⼼容量瓶颈，但 GitHub 所管理的
+复杂 MySQL 集群，使迁移过程中的宕机⻛险始终难以消除。
+频繁宕机令外部开发者的耐⼼消磨殆尽。 Ghostty 终端开发者 Mitchell Hashimoto 上⽉在公开信
+中写道： "GitHub 每天都在辜负我，这让我感到很切⾝ …… 我想继续写代码，但我⽆法再在
+GitHub 上写代码了。 18 年后，我不得不离开。 "Ghostty 随即宣布迁出 GitHub 。
+服务稳定性之外，安全问题同样令 GitHub 承压。今年 3 ⽉，安全公司 Wiz Research 借助 AI 模型
+发现了 GitHub 内部 git 基础设施中的⼀处严重漏洞，攻击者⼀旦利⽤该漏洞，可访问数以百万计
+的公私代码仓库。 GitHub 在不到六⼩时内紧急完成修复。
+本周曝光的安全事件更为严重： GitHub 共有 3800 个内部代码仓库遭到⼊侵，起因是⼀名员⼯安
+装了⼀款被恶意篡改的 VS Code 插件。⼀名微软员⼯指出， VS Code 频繁向⽤⼾推送插件安装
+
+提⽰，此前已有安装量达数⼗万次的插件在被发现植⼊加密货币挖矿程序后，从 VS Code 应⽤
+市场下架。
+Copilot 竞争⼒滑坡，计费改⾰引发反弹
+GitHub Copilot 曾在 AI 编程助⼿领域占据先发优势，但过去⼀年已明显落后于竞争对⼿。据 The
+Information 报道， Parikh 已就此发出内部警告。微软近期据报曾考虑收购 Cursor 以弥补差距，
+并已取消⼤量 Claude Code 内部许可证，意在推动⾃家开发者转⽤ GitHub Copilot ，以帮助加快
+产品改进。
+与此同时， GitHub 即将推⾏基于⽤量的 Copilot 计费⽅式，引发开发者新⼀轮抵触。新⽅案下，
+每个订阅计划将包含⽉度 AI 积分配额，超额使⽤须另⾏付费；不同于现⾏⽅案中超限后⾃动降级
+⾄低能⼒模型的做法，新系统将直接断供，付费⻔槛的提⾼令部分开发者感到不满。
+在微软内忧不断之际，竞争对⼿正加速围猎 GitHub 的开发者⽣态。Entire 、 Cursor 和 Claude
+
+Code 均在强化产品能⼒，将 GitHub 的困境视为重塑市场格局的窗⼝期。
+对于微软⽽⾔， GitHub 的战略意义远超⼀款产品本⾝。正是⻓达数⼗年对开发者⽣态的深耕，
+奠定了微软作为软件巨头的根基。若 CoreAI 团队⽆法有效扭转当前颓势，微软或将持续流失这
+⼀赋予其核⼼竞争⼒的关键群体。
 
 ### Page 3
 
-本資料は情報提供を目的として作成されたものであり、投資勧誘を目的としたものではありません。作成時点で、第一ライフ資産運用
-経済研究所が信ずるに足ると判断した情報に基づき作成していますが、その正確性、完全性に対する責任は負いません。見通しは予告
-なく変更されることがあります。また、記載された内容は、第一生命保険ないしはその関連会社の投資方針と常に整合的であるとは限
-りません。 
-3/3 
-による党首チャレンジの可能性が高まった13 日、レイナー氏の弁護士は、同氏が副首相兼住宅相
-を辞任するきっかけとなった不動産購入時の印紙税を過小に支払った疑惑について、税務当局に
-対して早期の調査終了を求める書簡を送った。税務当局は14 日、未納分の支払いが行われ、全て
-の税務調査が終了したことを発表した。税逃れ疑惑が党首選出馬の障害になるとみられていたレ
-イナー氏は、バーナム氏の国政復帰を求めていた。今回の税逃れ疑惑の係争終了が、党首選への
-出馬を睨んだ動きなのか、バーナム氏の首相就任時の閣僚復帰を目指す動きなのかは不明だ。党
-首チャレンジ後の党首選に出馬するには、チャレンジを開始した以外の候補も各々81 名の議員の
-支持を取り付ける必要がある。穏健左派（ソフト・レフト）の立場が近いバーナム氏とレイナー
-氏が揃って出馬することは難しい。なお、バーナム氏かレイナー氏が穏健左派候補として党首選
-に出馬する可能性が高まったことで、ミリバンド元党首の出馬の芽は遠退いた。 
-スターマー首相は党首チャレンジが開始された場合、自身も出馬する意向を示唆している。６
-月の補欠選挙でのバーナム氏の国政復帰を待ったうえで、ストリーティング氏やバーナム氏が改
-めて党首チャレンジを開始し、夏頃に党首選が行われる可能性が高い。ブレア路線の踏襲者とさ
-れる中道寄りのストリーティング氏、現職首相のスターマー首相、穏健左派のバーナム氏（場合
-によってはレイナー氏）の三つ巴の戦いとなることが予想される。労働党が次の総選挙でリフォ
-ームＵＫと戦ううえで、全国区の知名度を持ち、党内外で幅広い支持を集めるバーナム氏は、最
-有力の候補となる。スターマー首相に対する信頼の欠如とストリーティング氏の党内基盤の弱さ
-を考えると、バーナム氏が勝利する公算が大きい。金融市場の動揺を回避するため、極端な財政
-拡張には動かないにしても、財政運営にどういった変化が起こるのかに注目が集まる。
-
-以 上
+市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
+94 收藏 分享到 :
+写评论
+图⽚
+限免
+请发表您的评论
+表情 发布评论
