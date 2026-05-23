@@ -3,7 +3,7 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 128: Directional Economics CEEMEA_ Energy Shock 2.0 – who breaks, who bends_
+## Document 127: Directional Economics CEEMEA_ Energy Shock 2.0 – who breaks, who bends_
 
 Source PDF: all report pdf/Directional Economics CEEMEA_ Energy Shock 2.0 – who breaks, who bends_.pdf
 Pages: 62
@@ -5011,23 +5011,3 @@ Source: National sources, ING estimates
 ### Page 62
 
 Directional Economics CEEMEA | Energy shock 2.0 - who breaks, who bends? May 2026
-
----
-## Document 278: 【宏观周报】国内4月新增贷款罕见净偿还，中美就贸易事项达成新共识
-
-Source PDF: all report pdf/【宏观周报】国内4月新增贷款罕见净偿还，中美就贸易事项达成新共识.pdf
-Pages: 10
-Extraction status: ok
-
-[No extractable text after boilerplate filtering.]
-
----
-## Document 417: 清朗·财经违规内容专项整治公告
-
-Source PDF: all report pdf/清朗·财经违规内容专项整治公告.pdf
-Pages: 1
-Extraction status: ok
-
-### Page 1
-
-⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⽣活家 搜索
