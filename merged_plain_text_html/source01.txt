@@ -3,7 +3,7 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 228: Triển vọng TTCK Việt Nam 2026 (2025-12-31)
+## Document 230: Triển vọng TTCK Việt Nam 2026 (2025-12-31)
 
 Source PDF: all report pdf/Triển vọng TTCK Việt Nam 2026 (2025-12-31).pdf
 Pages: 154
