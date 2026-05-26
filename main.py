@@ -10,7 +10,7 @@ import random
 import time
 import re
 import urllib.parse
-from datetime import datetime
+from datetime import datetime, timedelta
 from dotenv import load_dotenv
 from playwright.sync_api import sync_playwright
 from playwright_stealth import Stealth
@@ -26,6 +26,7 @@ load_dotenv()
 # ⚙️ 全域設定 (請確認您的 GitHub 資訊)
 # ==========================================
 ENABLE_AI_SUMMARY = False
+PDF_RETENTION_DAYS = 30
 
 GITHUB_USER = "dylanlu0604-dot"
 GITHUB_REPO = "financial-report-hub"
@@ -34,21 +35,82 @@ GITHUB_RAW_BASE = f"https://raw.githubusercontent.com/{GITHUB_USER}/{GITHUB_REPO
 # 🔑 這裡輸入您的 OpenAI API Key (請將引號內換成您的 sk-... 密碼)
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "請在這裡貼上您的_API_KEY") 
 
+def safe_pdf_filename(report_name):
+    safe_title = re.sub(r'[\\/*?:"<>|]', "_", str(report_name or 'Unknown')).strip()
+    return f"{safe_title}.pdf"
+
+def report_pdf_path(report, pdf_folder):
+    local_path = report.get('LocalPath')
+    if local_path:
+        return local_path
+    return os.path.join(pdf_folder, safe_pdf_filename(report.get('Name', 'Unknown')))
+
+def parse_report_datetime(date_value):
+    raw_date = str(date_value or '').strip()
+    match = re.search(r'(\d{4})[^\d]*(\d{1,2})[^\d]*(\d{1,2})', raw_date)
+    if not match:
+        return None
+    try:
+        clean_date = f"{match.group(1)}-{int(match.group(2)):02d}-{int(match.group(3)):02d}"
+        return datetime.strptime(clean_date, "%Y-%m-%d")
+    except Exception:
+        return None
+
+def load_previous_reports(json_path):
+    if not os.path.exists(json_path):
+        return []
+    try:
+        with open(json_path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+        return data if isinstance(data, list) else []
+    except Exception as e:
+        print(f"⚠️ 無法讀取既有報告資料，將只保留本輪抓到的 PDF: {e}")
+        return []
+
+def cleanup_old_pdfs(pdf_folder, current_reports, previous_reports):
+    cutoff_date = (datetime.now() - timedelta(days=PDF_RETENTION_DAYS)).date()
+    keep_paths = set()
+
+    for report in [*previous_reports, *current_reports]:
+        report_date = parse_report_datetime(report.get('Date'))
+        if report_date and report_date.date() < cutoff_date:
+            continue
+        keep_paths.add(os.path.abspath(report_pdf_path(report, pdf_folder)))
+
+    removed_count = 0
+    for filename in os.listdir(pdf_folder):
+        if not filename.lower().endswith('.pdf'):
+            continue
+        filepath = os.path.abspath(os.path.join(pdf_folder, filename))
+        if filepath in keep_paths:
+            continue
+        try:
+            os.remove(filepath)
+            removed_count += 1
+        except Exception as e:
+            print(f"⚠️ 刪除過期 PDF 失敗: {filename} ({e})")
+
+    print(f"🧹 已保留近 {PDF_RETENTION_DAYS} 天 PDF，移除 {removed_count} 個過期或未列入清單的檔案。")
+
 # ==========================================
 # 🚀 主程式執行區塊
 # ==========================================
 def main():
     print(f"\n{'='*60}\n🚀 開始執行自動化爬蟲程序...\n{'='*60}\n")
     
-    # 🌟 暴力清空法：強迫機器人刪除舊資料夾
+    pdf_folder = "all report pdf"
+    data_folder = "data"
+    previous_reports = load_previous_reports(os.path.join(data_folder, "reports.json"))
+
+    # 只重建輸出資料；PDF 資料夾保留近 30 天檔案，避免每次重複下載。
     import shutil
-    bad_folders = ["all report pdf", "data"]
+    bad_folders = [data_folder]
     for folder in bad_folders:
         if os.path.exists(folder):
             shutil.rmtree(folder)
             print(f"🧹 已強行刪除損壞的資料夾: {folder}")
-    os.makedirs("all report pdf", exist_ok=True)
-    os.makedirs("data", exist_ok=True)
+    os.makedirs(pdf_folder, exist_ok=True)
+    os.makedirs(data_folder, exist_ok=True)
     
     all_reports = []
     
@@ -106,12 +168,12 @@ def main():
             seen_links.add(report['Link'])
 
     print(f"\n📊 總共找到 {len(unique_reports)} 筆符合條件的報告。")
+    cleanup_old_pdfs(pdf_folder, unique_reports, previous_reports)
     
     # ==========================================
     # 📥 終極修正：物理隔離下載與轉檔模式
     # ==========================================
     print(f"\n{'='*60}\n📥 啟動【物理隔離】下載與轉檔模式...\n")
-    pdf_folder = "all report pdf"
     
     try:
         for i, report in enumerate(unique_reports, 1):
@@ -120,8 +182,7 @@ def main():
             
             is_web_article = report.get('Type') == 'Web' or not ('.pdf' in original_url.lower() or 'download' in original_url.lower() or 'downpdf' in original_url.lower())
 
-            safe_title = re.sub(r'[\\/*?:"<>|]', "_", str(report.get('Name', 'Unknown'))).strip()
-            local_filename = f"{safe_title}.pdf"
+            local_filename = safe_pdf_filename(report.get('Name', 'Unknown'))
             local_filepath = os.path.join(pdf_folder, local_filename)
             encoded_filename = urllib.parse.quote(local_filename)
             
