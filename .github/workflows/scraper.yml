@@ -2,7 +2,8 @@ name: Daily Financial Report Scraper
 
 on:
   schedule:
-    - cron: '0 4,8,14,23 * * *'
+    # 06:00 and 14:00 Asia/Taipei (UTC+8)
+    - cron: '0 22,6 * * *'
   workflow_dispatch:
 
 concurrency:
