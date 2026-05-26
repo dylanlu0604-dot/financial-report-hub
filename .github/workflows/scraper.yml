@@ -15,6 +15,7 @@ permissions:
 jobs:
   scrape-and-update:
     runs-on: ubuntu-latest
+    timeout-minutes: 90
 
     steps:
       - name: Checkout repository
@@ -40,6 +41,7 @@ jobs:
         run: playwright install chromium
 
       - name: Run Scraper
+        timeout-minutes: 70
         run: python main.py
         env:
           OPENAI_API_KEY: ${{ secrets.AITEST }}

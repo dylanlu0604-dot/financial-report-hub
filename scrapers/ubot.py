@@ -1,8 +1,12 @@
 import re
+from datetime import datetime, timedelta
 from urllib.parse import urljoin
 from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright
 from playwright_stealth import Stealth
+
+RECENT_DAYS = 35
+MAX_REPORTS = 80
 
 # ==========================================
 # 🛠️ 輔助工具函式
@@ -27,6 +31,20 @@ def extract_date(text):
 
 def clean_text(text):
     return re.sub(r'\s+', ' ', text).strip() if text else ""
+
+def parse_date(date_str):
+    if not date_str or date_str == "未知日期":
+        return None
+    try:
+        return datetime.strptime(date_str, "%Y-%m-%d")
+    except ValueError:
+        return None
+
+def is_recent(date_str):
+    parsed = parse_date(date_str)
+    if not parsed:
+        return True
+    return parsed.date() >= (datetime.now() - timedelta(days=RECENT_DAYS)).date()
 
 # ==========================================
 # 🕷️ 主爬蟲程式：YesFund (好好證券)
@@ -56,8 +74,13 @@ def scrape():
             def parse_html_for_reports(html_source, source_url):
                 soup = BeautifulSoup(html_source, 'html.parser')
                 found_count = 0
+                skipped_old = 0
                 
                 for a in soup.find_all('a', href=True):
+                    if len(reports) >= MAX_REPORTS:
+                        print(f"    ⏹️ 已達 YesFund 收錄上限 {MAX_REPORTS} 筆，停止掃描歷史資料")
+                        break
+
                     href = a['href']
                     text = clean_text(a.get_text())
                     
@@ -88,6 +111,10 @@ def scrape():
                             if a.parent and a.parent.parent:
                                 row_text = clean_text(a.parent.parent.get_text())
                                 date_str = extract_date(row_text)
+
+                        if not is_recent(date_str):
+                            skipped_old += 1
+                            continue
                                 
                         reports.append({
                             "Source": "YesFund",
@@ -98,6 +125,8 @@ def scrape():
                         seen_links.add(full_url)
                         found_count += 1
                         print(f"    ✅ 成功收錄: {title[:30]}...")
+                if skipped_old:
+                    print(f"    🧹 已跳過 {skipped_old} 筆超過 {RECENT_DAYS} 天的 YesFund 歷史報告")
                 return found_count
 
             # 3. 先掃描主頁面
