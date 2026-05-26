@@ -12,6 +12,7 @@ SOURCE = "line報告備份"
 FOLDER_ID = "1TsDz-JwKnsIpIeZedjmOhvh9ExEoSike"
 EMBEDDED_FOLDER_URL = f"https://drive.google.com/embeddedfolderview?id={FOLDER_ID}"
 RECENT_DAYS = 30
+MAX_REPORTS = 30
 
 MONTHS = {
     "jan": 1,
@@ -138,11 +139,17 @@ def scrape():
                 "Date": parsed_date.strftime("%Y-%m-%d") if parsed_date else "未知日期",
                 "Name": _clean_title(raw_title),
                 "Link": f"https://drive.google.com/uc?export=download&id={file_id}",
+                "_sort_date": parsed_date or datetime.min,
             })
             seen_file_ids.add(file_id)
 
     except Exception as e:
         print(f"  ❌ {SOURCE} 失敗: {e}")
+
+    reports.sort(key=lambda report: report["_sort_date"], reverse=True)
+    reports = reports[:MAX_REPORTS]
+    for report in reports:
+        report.pop("_sort_date", None)
 
     print(f"  ✅ {SOURCE} 找到 {len(reports)} 筆報告")
     return reports
