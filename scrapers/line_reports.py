@@ -11,8 +11,8 @@ from scrapers.utils import HEADERS
 SOURCE = "line報告備份"
 FOLDER_ID = "1TsDz-JwKnsIpIeZedjmOhvh9ExEoSike"
 EMBEDDED_FOLDER_URL = f"https://drive.google.com/embeddedfolderview?id={FOLDER_ID}"
-RECENT_DAYS = 30
-MAX_REPORTS = 30
+RECENT_DAYS = 14
+MAX_REPORTS = 200
 
 MONTHS = {
     "jan": 1,
