@@ -9031,7 +9031,7 @@ ESG 總分 23.1
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 112: 8028昇陽半 群益
+## Document 113: 8028昇陽半 群益
 
 Source PDF: all report pdf/8028昇陽半 群益.pdf
 Report source: line報告備份
@@ -9166,7 +9166,7 @@ PER= 股價 /2026 (F) EPS ； PBR= 股價 /2026 (F) 年 底 預 估 每 股 淨 
 情形。
 
 ---
-## Document 114: 8103瀚荃 統一
+## Document 115: 8103瀚荃 統一
 
 Source PDF: all report pdf/8103瀚荃 統一.pdf
 Report source: line報告備份
@@ -9478,7 +9478,7 @@ ainReport/data/FileStream?id=fec6b56a-9dc2-
 請參見末頁重要批露及免責聲明  9
 
 ---
-## Document 115: 8996高力 群益
+## Document 116: 8996高力 群益
 
 Source PDF: all report pdf/8996高力 群益.pdf
 Report source: line報告備份
@@ -9704,11 +9704,11 @@ YoY(%)
 情形。
 
 ---
-## Document 117: 9904寶成 富邦
+## Document 118: 9904寶成 富邦
 
 Source PDF: all report pdf/9904寶成 富邦.pdf
 Report source: line報告備份
-Date: 2026-05-27
+Date: 2026-05-26
 Pages: 7
 Extraction status: ok
 
@@ -10101,7 +10101,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 274: Taiwan_Semiconductors_and_Electronic_Components__Equipment_COMPUTEX_and_GTC_Taipei_preview_From_GPU_Racks_to_AI_Factories-Taiwan_Semiconductors_and_Electronic_Components__Equipment
+## Document 256: Taiwan_Semiconductors_and_Electronic_Components__Equipment_COMPUTEX_and_GTC_Taipei_preview_From_GPU_Racks_to_AI_Factories-Taiwan_Semiconductors_and_Electronic_Components__Equipment
 
 Source PDF: all report pdf/Taiwan_Semiconductors_and_Electronic_Components__Equipment_COMPUTEX_and_GTC_Taipei_preview_From_GPU_Racks_to_AI_Factories-Taiwan_Semiconductors_and_Electronic_Components__Equipment(1).pdf
 Report source: line報告備份
@@ -10697,7 +10697,7 @@ solely for the recipient and may not be further distributed by the recipient to 
 ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 
 ---
-## Document 321: 【國泰證期研究部】記憶體產業-CXL推動DRAM走向可分層與可池化-20260521
+## Document 299: 【國泰證期研究部】記憶體產業-CXL推動DRAM走向可分層與可池化-20260521
 
 Source PDF: all report pdf/【國泰證期研究部】記憶體產業-CXL推動DRAM走向可分層與可池化-20260521.pdf
 Report source: line報告備份
@@ -10895,7 +10895,7 @@ infrastructure 相關供應鏈。
 投資評等定義
 
 ---
-## Document 386: 偉詮電(2436)-20260525-速報-元富投顧(台新新光金控)
+## Document 370: 偉詮電(2436)-20260525-速報-元富投顧(台新新光金控)
 
 Source PDF: all report pdf/偉詮電(2436)-20260525-速報-元富投顧(台新新光金控).pdf
 Report source: line報告備份
@@ -11066,7 +11066,7 @@ Net 13.2 11.7 14.6 12.6 7.3 8.9 15.4 13.0
 NT$ mn Sales Sales YOY
 
 ---
-## Document 404: 凱基投顧_ADI Analog Device_陳仲瑋_20260521
+## Document 388: 凱基投顧_ADI Analog Device_陳仲瑋_20260521
 
 Source PDF: all report pdf/凱基投顧_ADI Analog Device_陳仲瑋_20260521.pdf
 Report source: line報告備份
@@ -11646,7 +11646,7 @@ May-22 Nov-22 May-23 Nov-23 May-24 Nov-24 May-25 Nov-25 May-26
 免責聲明
 
 ---
-## Document 405: 凱基投顧_AS Amer Sports_劉昃恩_20260520
+## Document 389: 凱基投顧_AS Amer Sports_劉昃恩_20260520
 
 Source PDF: all report pdf/凱基投顧_AS Amer Sports_劉昃恩_20260520.pdf
 Report source: line報告備份
@@ -12070,7 +12070,7 @@ May-24 Aug-24 Nov-24 Feb-25 May-25 Aug-25 Nov-25 Feb-26 May-26
 免責聲明
 
 ---
-## Document 408: 凱基投顧_Takeaway_1532 勤美_賴偉中_20260526
+## Document 392: 凱基投顧_Takeaway_1532 勤美_賴偉中_20260526
 
 Source PDF: all report pdf/凱基投顧_Takeaway_1532 勤美_賴偉中_20260526.pdf
 Report source: line報告備份
@@ -12200,7 +12200,7 @@ EnergyArk 儲能系統，建立建築廢棄物城市採礦循環。集團獲 202
 五月 26, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R    4
 
 ---
-## Document 410: 凱基投顧_Takeaway_4766 南寶_劉昃恩_20260521
+## Document 394: 凱基投顧_Takeaway_4766 南寶_劉昃恩_20260521
 
 Source PDF: all report pdf/凱基投顧_Takeaway_4766 南寶_劉昃恩_20260521.pdf
 Report source: line報告備份
@@ -12312,7 +12312,7 @@ eden.chang@kgi.com
 五月 21, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R  3
 
 ---
-## Document 413: 凱基投顧_TGT Target Corp_莊政翰_20260521
+## Document 397: 凱基投顧_TGT Target Corp_莊政翰_20260521
 
 Source PDF: all report pdf/凱基投顧_TGT Target Corp_莊政翰_20260521.pdf
 Report source: line報告備份
@@ -12899,7 +12899,7 @@ May-23 Nov-23 May-24 Nov-24 May-25 Nov-25 May-26
  泰國   曼谷
 
 ---
-## Document 475: 強茂(2481)-20260525-速報-元富投顧(台新新光金控)
+## Document 458: 強茂(2481)-20260525-速報-元富投顧(台新新光金控)
 
 Source PDF: all report pdf/強茂(2481)-20260525-速報-元富投顧(台新新光金控).pdf
 Report source: line報告備份
@@ -13050,7 +13050,7 @@ Net 8.4 11.4 12.4 12.6 7.3 9.1 11.3 13.6
 M / NTD Sales Sales YoY
 
 ---
-## Document 493: 新興(2605)-20260525-速報-元富投顧(台新新光金控)
+## Document 478: 新興(2605)-20260525-速報-元富投顧(台新新光金控)
 
 Source PDF: all report pdf/新興(2605)-20260525-速報-元富投顧(台新新光金控).pdf
 Report source: line報告備份

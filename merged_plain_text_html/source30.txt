@@ -3245,7 +3245,7 @@ Net 5.9 8.6 9.9 8.7 9.9 10.1 8.4
 Sales (NT$mn) YOY
 
 ---
-## Document 100: 6176瑞儀 永豐
+## Document 101: 6176瑞儀 永豐
 
 Source PDF: all report pdf/6176瑞儀 永豐.pdf
 Report source: line報告備份
@@ -3580,7 +3580,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 8
 
 ---
-## Document 102: 6291沛亨 第一金
+## Document 103: 6291沛亨 第一金
 
 Source PDF: all report pdf/6291沛亨 第一金.pdf
 Report source: line報告備份
@@ -3826,7 +3826,7 @@ YoY(%)
 8
 
 ---
-## Document 109: 6957裕慶 宏遠1
+## Document 110: 6957裕慶 宏遠1
 
 Source PDF: all report pdf/6957裕慶 宏遠1.pdf
 Report source: line報告備份
@@ -4345,7 +4345,7 @@ Company Report
 員工學歷分佈
 
 ---
-## Document 110: 6983華洋精機 富邦
+## Document 111: 6983華洋精機 富邦
 
 Source PDF: all report pdf/6983華洋精機 富邦.pdf
 Report source: line報告備份
@@ -4533,7 +4533,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 111: 7750新代 兆豐
+## Document 112: 7750新代 兆豐
 
 Source PDF: all report pdf/7750新代 兆豐.pdf
 Report source: line報告備份
@@ -5061,7 +5061,7 @@ ESG綜合評等
 交易所公司治理評鑑
 
 ---
-## Document 113: 8091翔名 永豐
+## Document 114: 8091翔名 永豐
 
 Source PDF: all report pdf/8091翔名 永豐.pdf
 Report source: line報告備份
@@ -5363,7 +5363,7 @@ S：Sell 賣出：未來 6 個月該股票表現將落後大盤
 7
 
 ---
-## Document 152: Barclays U.S. Internet Charts Worth a Look Measuring the Curren
+## Document 148: Barclays U.S. Internet Charts Worth a Look Measuring the Curren
 
 Source PDF: all report pdf/Barclays U.S. Internet Charts Worth a Look Measuring the Curren.pdf
 Report source: line報告備份
@@ -5959,7 +5959,7 @@ Additional information regarding this publication will be furnished upon request
 Barclays | U.S. Internet
 
 ---
-## Document 210: JP Morgan Equity Strategy Stay bullish on EM vs DM
+## Document 201: JP Morgan Equity Strategy Stay bullish on EM vs DM
 
 Source PDF: all report pdf/JP Morgan Equity Strategy Stay bullish on EM vs DM.pdf
 Report source: line報告備份
@@ -8104,7 +8104,7 @@ Completed 11 May 2026 02:48 AM BST Disseminated 11 May 2026 03:00 AM BST
 This document is being provided for the exclusive use of RACHEL CHEN at MOUNTAIN HILL LTD.
 
 ---
-## Document 237: ms_2h-may-panel-px
+## Document 228: ms_2h-may-panel-px
 
 Source PDF: all report pdf/ms_2h-may-panel-px.pdf
 Report source: line報告備份
@@ -9160,7 +9160,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 294: UBS China Equity Strategy How crowded is the AI trade and
+## Document 273: UBS China Equity Strategy How crowded is the AI trade and
 
 Source PDF: all report pdf/UBS China Equity Strategy How crowded is the AI trade and.pdf
 Report source: line報告備份
@@ -10082,7 +10082,7 @@ ab
 This document is being provided for the exclusive use of RACHEL CHEN at MOUNTAIN HILL LTD.
 
 ---
-## Document 320: 【國泰證期研究部】新應材(4749 TT)-買進(+20.2%)-向「光」而行-20260522
+## Document 298: 【國泰證期研究部】新應材(4749 TT)-買進(+20.2%)-向「光」而行-20260522
 
 Source PDF: all report pdf/【國泰證期研究部】新應材(4749 TT)-買進(+20.2%)-向「光」而行-20260522.pdf
 Report source: line報告備份
@@ -10435,7 +10435,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 401: 凱基投顧_2317 鴻海_向子慧_20260526
+## Document 385: 凱基投顧_2317 鴻海_向子慧_20260526
 
 Source PDF: all report pdf/凱基投顧_2317 鴻海_向子慧_20260526.pdf
 Report source: line報告備份
@@ -11276,7 +11276,7 @@ May-25 Jul-25 Sep-25 Nov-25 Jan-26 Apr-26
 資料來源：TEJ，凱基
 
 ---
-## Document 402: 凱基投顧_7921 台普威_李承泰_20260526
+## Document 386: 凱基投顧_7921 台普威_李承泰_20260526
 
 Source PDF: all report pdf/凱基投顧_7921 台普威_李承泰_20260526.pdf
 Report source: line報告備份
@@ -11693,7 +11693,7 @@ SI)，是台灣少數具備電網級儲能系統完整建置能力的業者之�
 五月 26, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 8
 
 ---
-## Document 403: 凱基投顧_9941 裕融_施志鴻_20260521
+## Document 387: 凱基投顧_9941 裕融_施志鴻_20260521
 
 Source PDF: all report pdf/凱基投顧_9941 裕融_施志鴻_20260521.pdf
 Report source: line報告備份
@@ -12471,7 +12471,7 @@ May-25 Jul-25 Sep-25 Nov-25 Jan-26 Mar-26
 資料來源：TEJ，凱基
 
 ---
-## Document 407: 凱基投顧_LOW Lowe’s_賴偉中_20260525
+## Document 391: 凱基投顧_LOW Lowe’s_賴偉中_20260525
 
 Source PDF: all report pdf/凱基投顧_LOW Lowe’s_賴偉中_20260525.pdf
 Report source: line報告備份
@@ -12868,7 +12868,7 @@ May-22 Nov-22 May-23 Nov-23 May-24 Nov-24 May-25 Nov-25 May-26
 免責聲明
 
 ---
-## Document 470: 帆宣(6196,B_買進)-CTBC260521
+## Document 451: 帆宣(6196,B_買進)-CTBC260521
 
 Source PDF: all report pdf/帆宣(6196,B_買進)-CTBC260521.pdf
 Report source: line報告備份
@@ -13192,7 +13192,7 @@ ESG 資訊 - 公司治理 (Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 473: 廣華-KY(1338_Note)-CTBC260526
+## Document 456: 廣華-KY(1338_Note)-CTBC260526
 
 Source PDF: all report pdf/廣華-KY(1338_Note)-CTBC260526.pdf
 Report source: line報告備份
@@ -13367,7 +13367,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 477: 彭博經濟研究：AI衝擊就業？全球1.2億人或受波及 但對各國影響不一
+## Document 460: 彭博經濟研究：AI衝擊就業？全球1.2億人或受波及 但對各國影響不一
 
 Source PDF: all report pdf/彭博經濟研究：AI衝擊就業？全球1.2億人或受波及 但對各國影響不一.pdf
 Report source: line報告備份
@@ -13484,11 +13484,11 @@ INF 通貨膨脹
 RLG 宗教信仰
 
 ---
-## Document 563: 總體經濟與自動化設備觀察報告書
+## Document 553: 總體經濟與自動化設備觀察報告書
 
 Source PDF: all report pdf/總體經濟與自動化設備觀察報告書.pdf
 Report source: line報告備份
-Date: 2026-05-27
+Date: 2026-05-26
 Pages: 6
 Extraction status: ok
 
@@ -16522,7 +16522,7 @@ JMTBA
 氣。
 
 ---
-## Document 607: 長榮航太(2645,B_買進)-CTBC260521
+## Document 597: 長榮航太(2645,B_買進)-CTBC260521
 
 Source PDF: all report pdf/長榮航太(2645,B_買進)-CTBC260521.pdf
 Report source: line報告備份

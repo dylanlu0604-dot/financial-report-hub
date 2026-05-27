@@ -5915,7 +5915,7 @@ YoY(%)
 
 Source PDF: all report pdf/3665貿聯 元大.pdf
 Report source: line報告備份
-Date: 2026-05-27
+Date: 2026-05-26
 Pages: 17
 Extraction status: ok
 
@@ -6603,7 +6603,7 @@ ESG 總分 22.7
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 103: 6409旭隼 宏遠
+## Document 104: 6409旭隼 宏遠
 
 Source PDF: all report pdf/6409旭隼 宏遠.pdf
 Report source: line報告備份
@@ -7163,7 +7163,7 @@ A+
 2023 2024 2025
 
 ---
-## Document 106: 6538倉和 統一
+## Document 107: 6538倉和 統一
 
 Source PDF: all report pdf/6538倉和 統一.pdf
 Report source: line報告備份
@@ -7547,11 +7547,11 @@ ainReport/data/FileStream?id=e9f4efa9-2fd1-
 請參見末頁重要批露及免責聲明  11
 
 ---
-## Document 118: 9921巨大 元富
+## Document 119: 9921巨大 元富
 
 Source PDF: all report pdf/9921巨大 元富.pdf
 Report source: line報告備份
-Date: 2026-05-27
+Date: 2026-05-26
 Pages: 1
 Extraction status: ok
 
@@ -7663,7 +7663,7 @@ Net (1.2) 4.5 4.3 1.7 4.6 2.1 1.4 2.5
 M / NTD Sales Sales YoY
 
 ---
-## Document 153: Barclays U.S. Software rAImo's AI Newsletter #108 The AI Math F
+## Document 149: Barclays U.S. Software rAImo's AI Newsletter #108 The AI Math F
 
 Source PDF: all report pdf/Barclays U.S. Software rAImo's AI Newsletter #108 The AI Math F.pdf
 Report source: line報告備份
@@ -8079,7 +8079,7 @@ Additional information regarding this publication will be furnished upon request
 Barclays | U.S. Software
 
 ---
-## Document 155: Bloomberg Intelligence BI_Private_Credit_Survey_Chartbook_April_2026
+## Document 152: Bloomberg Intelligence BI_Private_Credit_Survey_Chartbook_April_2026
 
 Source PDF: all report pdf/Bloomberg Intelligence BI_Private_Credit_Survey_Chartbook_April_2026.pdf
 Report source: line報告備份
@@ -8635,7 +8635,7 @@ and
 service marks of BFLP, a Delaware limited partnership, or its
 
 ---
-## Document 198: GFHK - CPU Update
+## Document 189: GFHK - CPU Update
 
 Source PDF: all report pdf/GFHK - CPU Update.pdf
 Report source: line報告備份
@@ -8666,7 +8666,7 @@ Figure 1: Server CPU TAM Estimates  2024E 2025E 2026E 2027E 2028E 2029E 2030E CP
 Sources: IDC, GF Securities (Hong Kong) Brokerage  Risks 1) Agentic AI demand slowing down; 2) Substrate supply constraints; 3) Competition.
 
 ---
-## Document 231: Micron(MU,OW_增加持股)-CTBC260525
+## Document 223: Micron(MU,OW_增加持股)-CTBC260525
 
 Source PDF: all report pdf/Micron(MU,OW_增加持股)-CTBC260525.pdf
 Report source: line報告備份
@@ -8908,7 +8908,7 @@ PER Band (以 GAAP EPS繪製)               PBR Band
 未評等 Not Rated (NR)
 
 ---
-## Document 243: NVIDIA(NVDA,B_買進)-CTBC260521
+## Document 232: NVIDIA(NVDA,B_買進)-CTBC260521
 
 Source PDF: all report pdf/NVIDIA(NVDA,B_買進)-CTBC260521.pdf
 Report source: line報告備份
@@ -9066,7 +9066,7 @@ PER Band                                  PBR Band
 未評等 Not Rated (NR)
 
 ---
-## Document 414: 凱基投顧_VFC 威富集團_劉昃恩_20260521
+## Document 398: 凱基投顧_VFC 威富集團_劉昃恩_20260521
 
 Source PDF: all report pdf/凱基投顧_VFC 威富集團_劉昃恩_20260521.pdf
 Report source: line報告備份
@@ -9517,7 +9517,7 @@ May-23 Nov-23 May-24 Nov-24 May-25 Nov-25 May-26
 免責聲明
 
 ---
-## Document 429: 和泰車(2207,OW_增加持股)-CTBC260522
+## Document 410: 和泰車(2207,OW_增加持股)-CTBC260522
 
 Source PDF: all report pdf/和泰車(2207,OW_增加持股)-CTBC260522.pdf
 Report source: line報告備份
@@ -9931,7 +9931,7 @@ ESG 資訊 ─公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 492: 新代(7750,B_買進)-CTBC260525
+## Document 477: 新代(7750,B_買進)-CTBC260525
 
 Source PDF: all report pdf/新代(7750,B_買進)-CTBC260525.pdf
 Report source: line報告備份
@@ -10215,7 +10215,7 @@ PBR Band
 未評等 Not Rated (NR)
 
 ---
-## Document 511: 汎銓(6830,Note)-CTBC260522
+## Document 498: 汎銓(6830,Note)-CTBC260522
 
 Source PDF: all report pdf/汎銓(6830,Note)-CTBC260522.pdf
 Report source: line報告備份
@@ -10460,7 +10460,7 @@ ESG 資訊 - 公司治理 (Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 533: 產銷調查：CPU運算力躍升AI要角 全球伺服器2026年出貨將顯增19.2％_20260525-153_圖表
+## Document 521: 產銷調查：CPU運算力躍升AI要角 全球伺服器2026年出貨將顯增19.2％_20260525-153_圖表
 
 Source PDF: all report pdf/產銷調查：CPU運算力躍升AI要角 全球伺服器2026年出貨將顯增19.2％_20260525-153_圖表.pdf
 Report source: line報告備份
@@ -10941,7 +10941,7 @@ Google、亞馬遜出貨皆成長4成以上，品牌商出貨亦將有1
 15
 
 ---
-## Document 534: 產銷調查：全球智慧型手機1Q26出貨2.783億支 預估2026全年出貨跌破11億支_20260521-151_圖表
+## Document 522: 產銷調查：全球智慧型手機1Q26出貨2.783億支 預估2026全年出貨跌破11億支_20260521-151_圖表
 
 Source PDF: all report pdf/產銷調查：全球智慧型手機1Q26出貨2.783億支 預估2026全年出貨跌破11億支_20260521-151_圖表.pdf
 Report source: line報告備份
@@ -11288,7 +11288,7 @@ Others
 15
 
 ---
-## Document 537: 科明(7881,Note)-CTBC260527
+## Document 529: 科明(7881,Note)-CTBC260527
 
 Source PDF: all report pdf/科明(7881,Note)-CTBC260527.pdf
 Report source: line報告備份
@@ -11399,7 +11399,7 @@ Sara.lai@ctbcsis.com
 未評等 Not Rated (NR)
 
 ---
-## Document 576: 群益-3491-2601昇達科
+## Document 567: 群益-3491-2601昇達科
 
 Source PDF: all report pdf/群益-3491-2601昇達科.pdf
 Report source: line報告備份
@@ -11625,7 +11625,7 @@ YoY(%)
 情形。
 
 ---
-## Document 590: 裕民(2606)-20260525-速報-元富投顧(台新新光金控)
+## Document 582: 裕民(2606)-20260525-速報-元富投顧(台新新光金控)
 
 Source PDF: all report pdf/裕民(2606)-20260525-速報-元富投顧(台新新光金控).pdf
 Report source: line報告備份
@@ -11772,7 +11772,7 @@ Net 25.4 23.7 31.9 29.6 19.1 28.6 23.4 27.8
 NT$m
 
 ---
-## Document 599: 金像電(2368,B_買進)-CTBC260526
+## Document 589: 金像電(2368,B_買進)-CTBC260526
 
 Source PDF: all report pdf/金像電(2368,B_買進)-CTBC260526.pdf
 Report source: line報告備份

@@ -3,11 +3,11 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 177: Directional Economics CEEMEA_ Energy Shock 2.0 – who breaks, who bends_
+## Document 171: Directional Economics CEEMEA_ Energy Shock 2.0 – who breaks, who bends_
 
 Source PDF: all report pdf/Directional Economics CEEMEA_ Energy Shock 2.0 – who breaks, who bends_.pdf
 Report source: ING Think
-Date: 未知日期
+Date: 2026-05-20
 Pages: 62
 Extraction status: ok
 
