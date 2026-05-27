@@ -11,7 +11,10 @@ from pypdf import PdfReader
 
 SRC_DIR = Path("all report pdf")
 OUT_DIR = Path("merged_plain_text_html")
+REPORTS_JSON = Path("data/reports.json")
 SOURCE_COUNT = 30
+GENERAL_SOURCE_COUNT = 25
+LINE_BACKUP_SOURCE = "line報告備份"
 SOURCE_DIGITS = 2
 BOILERPLATE_THRESHOLD = 0.30
 RAW_URL_BASE = (
@@ -29,6 +32,29 @@ def safe_title(value: str, fallback: str) -> str:
 
 def clean_text(value: str) -> str:
     return value.encode("utf-8", "replace").decode("utf-8")
+
+
+def load_report_metadata() -> dict[str, dict[str, str]]:
+    if not REPORTS_JSON.exists():
+        return {}
+
+    try:
+        reports = json.loads(REPORTS_JSON.read_text(encoding="utf-8"))
+    except Exception as exc:
+        print(f"Warning: could not read {REPORTS_JSON}: {exc}")
+        return {}
+
+    metadata = {}
+    for report in reports:
+        local_path = report.get("LocalPath")
+        if not local_path:
+            continue
+        metadata[Path(local_path).name] = {
+            "source": str(report.get("Source") or ""),
+            "date": str(report.get("Date") or "未知日期"),
+            "name": str(report.get("Name") or ""),
+        }
+    return metadata
 
 
 def split_blocks(text: str) -> list[str]:
@@ -116,6 +142,8 @@ def render_source_html(index: int, documents: list[dict]) -> str:
             f"""<section>
 <h2>Document {doc["document_number"]:03d}: {html.escape(doc["display_title"])}</h2>
 <p><strong>Source PDF:</strong> {html.escape(doc["pdf"])}<br>
+<strong>Report source:</strong> {html.escape(doc["source"] or "Unknown")}<br>
+<strong>Date:</strong> {html.escape(doc["date"])}<br>
 <strong>Pages:</strong> {doc["pages"]}<br>
 <strong>Status:</strong> {html.escape(doc["status"])}</p>
 {warning_html}
@@ -150,6 +178,8 @@ def render_source_text(index: int, documents: list[dict]) -> str:
     for doc in documents:
         metadata = [
             f"Source PDF: {doc['pdf']}",
+            f"Report source: {doc['source'] or 'Unknown'}",
+            f"Date: {doc['date']}",
             f"Pages: {doc['pages']}",
             f"Extraction status: {doc['status']}",
         ]
@@ -212,8 +242,8 @@ def render_index(manifest: list[dict], generated_at: str) -> str:
 """
 
 
-def split_documents(documents: list[dict]) -> list[list[dict]]:
-    buckets = [{"documents": [], "characters": 0} for _ in range(SOURCE_COUNT)]
+def distribute_documents(documents: list[dict], bucket_count: int) -> list[list[dict]]:
+    buckets = [{"documents": [], "characters": 0} for _ in range(bucket_count)]
     for doc in sorted(documents, key=lambda item: item["characters"], reverse=True):
         current = min(buckets, key=lambda bucket: (bucket["characters"], len(bucket["documents"])))
         current["documents"].append(doc)
@@ -223,6 +253,17 @@ def split_documents(documents: list[dict]) -> list[list[dict]]:
         bucket["documents"].sort(key=lambda doc: doc["document_number"])
 
     return [bucket["documents"] for bucket in buckets]
+
+
+def split_documents(documents: list[dict]) -> list[list[dict]]:
+    general_documents = [doc for doc in documents if doc["source"] != LINE_BACKUP_SOURCE]
+    line_backup_documents = [doc for doc in documents if doc["source"] == LINE_BACKUP_SOURCE]
+    line_bucket_count = SOURCE_COUNT - GENERAL_SOURCE_COUNT
+
+    return [
+        *distribute_documents(general_documents, GENERAL_SOURCE_COUNT),
+        *distribute_documents(line_backup_documents, line_bucket_count),
+    ]
 
 
 def remove_old_outputs() -> None:
@@ -241,10 +282,12 @@ def main() -> None:
 
     remove_old_outputs()
     documents = []
+    report_metadata = load_report_metadata()
     generated_at = datetime.now(timezone.utc).isoformat(timespec="seconds")
 
     for index, pdf_path in enumerate(pdfs, 1):
         title = safe_title(pdf_path.stem, f"document_{index:03d}")
+        metadata = report_metadata.get(pdf_path.name, {})
         print(f"[{index:03d}/{len(pdfs):03d}] extracting {pdf_path.name}", flush=True)
         try:
             text, page_count, warnings, filter_stats = extract_pdf_text(pdf_path)
@@ -267,6 +310,8 @@ def main() -> None:
                 "display_title": title,
                 "title": f"{index:03d}_{title}",
                 "pdf": str(pdf_path),
+                "source": metadata.get("source", ""),
+                "date": metadata.get("date", "未知日期"),
                 "pages": page_count,
                 "characters": len(text),
                 "text": text,
