@@ -3,7 +3,7 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 059: 260519_gs_AI-infra
+## Document 055: 260519_gs_AI-infra
 
 Source PDF: all report pdf/260519_gs_AI-infra.pdf
 Report source: line報告備份
@@ -364,7 +364,7 @@ Goldman Sachs Data Centers
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 070: 260525_daiwa_Ta Liang
+## Document 066: 260525_daiwa_Ta Liang
 
 Source PDF: all report pdf/260525_daiwa_Ta Liang.pdf
 Report source: line報告備份
@@ -643,7 +643,7 @@ the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 071: 260525_ms_AI-transceivers
+## Document 067: 260525_ms_AI-transceivers
 
 Source PDF: all report pdf/260525_ms_AI-transceivers.pdf
 Report source: line報告備份
@@ -1072,7 +1072,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 073: 260526_daiwa_Makalot
+## Document 069: 260526_daiwa_Makalot
 
 Source PDF: all report pdf/260526_daiwa_Makalot.pdf
 Report source: line報告備份
@@ -1237,7 +1237,7 @@ regarding the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 077: 260526_ubs_MU
+## Document 073: 260526_ubs_MU
 
 Source PDF: all report pdf/260526_ubs_MU.pdf
 Report source: line報告備份
@@ -3658,7 +3658,7 @@ name, e-mail address) until you notify us that you no longer wish to receive the
 ab
 
 ---
-## Document 081: 260527_ms_unimicron
+## Document 077: 260527_ms_unimicron
 
 Source PDF: all report pdf/260527_ms_unimicron.pdf
 Report source: line報告備份
@@ -4210,7 +4210,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 088: 2723美食 富邦
+## Document 084: 2723美食 富邦
 
 Source PDF: all report pdf/2723美食 富邦.pdf
 Report source: line報告備份
@@ -4610,7 +4610,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 089: 3088艾訊 群益
+## Document 085: 3088艾訊 群益
 
 Source PDF: all report pdf/3088艾訊 群益.pdf
 Report source: line報告備份
@@ -4887,7 +4887,7 @@ YoY(%)
 情形。
 
 ---
-## Document 096: 4129聯合 元富
+## Document 093: 4129聯合 元富
 
 Source PDF: all report pdf/4129聯合 元富.pdf
 Report source: line報告備份
@@ -5009,7 +5009,7 @@ Net 5.9 8.6 9.9 8.7 9.9 10.1 8.4
 Sales (NT$mn) YOY
 
 ---
-## Document 114: 6957裕慶 宏遠1
+## Document 111: 6957裕慶 宏遠1
 
 Source PDF: all report pdf/6957裕慶 宏遠1.pdf
 Report source: line報告備份
@@ -5528,7 +5528,7 @@ Company Report
 員工學歷分佈
 
 ---
-## Document 123: 9904寶成 富邦
+## Document 120: 9904寶成 富邦
 
 Source PDF: all report pdf/9904寶成 富邦.pdf
 Report source: line報告備份
@@ -5925,7 +5925,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 200: GFHK - CPU Update
+## Document 185: GFHK - CPU Update
 
 Source PDF: all report pdf/GFHK - CPU Update.pdf
 Report source: line報告備份
@@ -5956,7 +5956,7 @@ Figure 1: Server CPU TAM Estimates  2024E 2025E 2026E 2027E 2028E 2029E 2030E CP
 Sources: IDC, GF Securities (Hong Kong) Brokerage  Risks 1) Agentic AI demand slowing down; 2) Substrate supply constraints; 3) Competition.
 
 ---
-## Document 243: Micron(MU,OW_增加持股)-CTBC260525
+## Document 225: Micron(MU,OW_增加持股)-CTBC260525
 
 Source PDF: all report pdf/Micron(MU,OW_增加持股)-CTBC260525.pdf
 Report source: line報告備份
@@ -6198,7 +6198,7 @@ PER Band (以 GAAP EPS繪製)               PBR Band
 未評等 Not Rated (NR)
 
 ---
-## Document 250: ms_2h-may-panel-px
+## Document 230: ms_2h-may-panel-px
 
 Source PDF: all report pdf/ms_2h-may-panel-px.pdf
 Report source: line報告備份
@@ -7254,7 +7254,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 256: NVIDIA(NVDA,B_買進)-CTBC260521
+## Document 236: NVIDIA(NVDA,B_買進)-CTBC260521
 
 Source PDF: all report pdf/NVIDIA(NVDA,B_買進)-CTBC260521.pdf
 Report source: line報告備份
@@ -7412,7 +7412,7 @@ PER Band                                  PBR Band
 未評等 Not Rated (NR)
 
 ---
-## Document 274: Taiwan_Semiconductors_and_Electronic_Components__Equipment_COMPUTEX_and_GTC_Taipei_preview_From_GPU_Racks_to_AI_Factories-Taiwan_Semiconductors_and_Electronic_Components__Equipment
+## Document 248: Taiwan_Semiconductors_and_Electronic_Components__Equipment_COMPUTEX_and_GTC_Taipei_preview_From_GPU_Racks_to_AI_Factories-Taiwan_Semiconductors_and_Electronic_Components__Equipment
 
 Source PDF: all report pdf/Taiwan_Semiconductors_and_Electronic_Components__Equipment_COMPUTEX_and_GTC_Taipei_preview_From_GPU_Racks_to_AI_Factories-Taiwan_Semiconductors_and_Electronic_Components__Equipment(1).pdf
 Report source: line報告備份
@@ -8008,7 +8008,7 @@ solely for the recipient and may not be further distributed by the recipient to 
 ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 
 ---
-## Document 290: UBS China Equity Strategy How crowded is the AI trade and
+## Document 262: UBS China Equity Strategy How crowded is the AI trade and
 
 Source PDF: all report pdf/UBS China Equity Strategy How crowded is the AI trade and.pdf
 Report source: line報告備份
@@ -8930,7 +8930,7 @@ ab
 This document is being provided for the exclusive use of RACHEL CHEN at MOUNTAIN HILL LTD.
 
 ---
-## Document 370: 中傑-KY(6965,Note)-CTBC260528
+## Document 335: 中傑-KY(6965,Note)-CTBC260528
 
 Source PDF: all report pdf/中傑-KY(6965,Note)-CTBC260528.pdf
 Report source: line報告備份
@@ -9142,7 +9142,7 @@ ESG 資訊 -公 司 治 理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 413: 凱基投顧_2317 鴻海_向子慧_20260526
+## Document 376: 凱基投顧_2317 鴻海_向子慧_20260526
 
 Source PDF: all report pdf/凱基投顧_2317 鴻海_向子慧_20260526.pdf
 Report source: line報告備份
@@ -9983,7 +9983,7 @@ May-25 Jul-25 Sep-25 Nov-25 Jan-26 Apr-26
 資料來源：TEJ，凱基
 
 ---
-## Document 418: 凱基投顧_AS Amer Sports_劉昃恩_20260520
+## Document 381: 凱基投顧_AS Amer Sports_劉昃恩_20260520
 
 Source PDF: all report pdf/凱基投顧_AS Amer Sports_劉昃恩_20260520.pdf
 Report source: line報告備份
@@ -10407,7 +10407,7 @@ May-24 Aug-24 Nov-24 Feb-25 May-25 Aug-25 Nov-25 Feb-26 May-26
 免責聲明
 
 ---
-## Document 425: 凱基投顧_Takeaway_6617 共信-KY_陳宣甫_20260526
+## Document 388: 凱基投顧_Takeaway_6617 共信-KY_陳宣甫_20260526
 
 Source PDF: all report pdf/凱基投顧_Takeaway_6617 共信-KY_陳宣甫_20260526.pdf
 Report source: line報告備份
@@ -10622,7 +10622,7 @@ QA
 五月 26, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 5
 
 ---
-## Document 431: 凱基投顧_美國軟體產業_鄭傑懋_20260527
+## Document 394: 凱基投顧_美國軟體產業_鄭傑懋_20260527
 
 Source PDF: all report pdf/凱基投顧_美國軟體產業_鄭傑懋_20260527.pdf
 Report source: line報告備份
@@ -10994,7 +10994,7 @@ Sector
 免責聲明
 
 ---
-## Document 501: 彭博經濟研究：AI衝擊就業？全球1.2億人或受波及 但對各國影響不一
+## Document 456: 彭博經濟研究：AI衝擊就業？全球1.2億人或受波及 但對各國影響不一
 
 Source PDF: all report pdf/彭博經濟研究：AI衝擊就業？全球1.2億人或受波及 但對各國影響不一.pdf
 Report source: line報告備份
@@ -11111,7 +11111,7 @@ INF 通貨膨脹
 RLG 宗教信仰
 
 ---
-## Document 517: 新代(7750,B_買進)-CTBC260525
+## Document 469: 新代(7750,B_買進)-CTBC260525
 
 Source PDF: all report pdf/新代(7750,B_買進)-CTBC260525.pdf
 Report source: line報告備份
@@ -11395,7 +11395,7 @@ PBR Band
 未評等 Not Rated (NR)
 
 ---
-## Document 518: 新興(2605)-20260525-速報-元富投顧(台新新光金控)
+## Document 470: 新興(2605)-20260525-速報-元富投顧(台新新光金控)
 
 Source PDF: all report pdf/新興(2605)-20260525-速報-元富投顧(台新新光金控).pdf
 Report source: line報告備份
@@ -11563,7 +11563,7 @@ Net 28.3 108.1 35.7 39.2 11.0 34.0 19.2 52.7
 NT$m
 
 ---
-## Document 566: 產銷調查：全球智慧型手機1Q26出貨2.783億支 預估2026全年出貨跌破11億支_20260521-151_圖表
+## Document 515: 產銷調查：全球智慧型手機1Q26出貨2.783億支 預估2026全年出貨跌破11億支_20260521-151_圖表
 
 Source PDF: all report pdf/產銷調查：全球智慧型手機1Q26出貨2.783億支 預估2026全年出貨跌破11億支_20260521-151_圖表.pdf
 Report source: line報告備份
@@ -11910,7 +11910,7 @@ Others
 15
 
 ---
-## Document 572: 科明(7881,Note)-CTBC260527
+## Document 517: 科明(7881,Note)-CTBC260527
 
 Source PDF: all report pdf/科明(7881,Note)-CTBC260527.pdf
 Report source: line報告備份
@@ -12021,7 +12021,7 @@ Sara.lai@ctbcsis.com
 未評等 Not Rated (NR)
 
 ---
-## Document 610: 群益-6415-2603矽力-KY
+## Document 556: 群益-6415-2603矽力-KY
 
 Source PDF: all report pdf/群益-6415-2603矽力-KY.pdf
 Report source: line報告備份
@@ -12278,7 +12278,7 @@ YoY(%)
 情形。
 
 ---
-## Document 613: 聯合骨科(4129,N_中立)-CTBC260526
+## Document 559: 聯合骨科(4129,N_中立)-CTBC260526
 
 Source PDF: all report pdf/聯合骨科(4129,N_中立)-CTBC260526.pdf
 Report source: line報告備份
@@ -12513,7 +12513,7 @@ ESG 資訊 -公 司 治 理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 614: 聯茂(6213,B_買進)-CTBC260528
+## Document 560: 聯茂(6213,B_買進)-CTBC260528
 
 Source PDF: all report pdf/聯茂(6213,B_買進)-CTBC260528.pdf
 Report source: line報告備份
@@ -12789,7 +12789,7 @@ ESG 資訊 -公司治理 (Governance)
 營業執照字號： 114 金管投顧新字第 014 號
 
 ---
-## Document 635: 金像電(2368,B_買進)-CTBC260526
+## Document 577: 金像電(2368,B_買進)-CTBC260526
 
 Source PDF: all report pdf/金像電(2368,B_買進)-CTBC260526.pdf
 Report source: line報告備份

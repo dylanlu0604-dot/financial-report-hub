@@ -416,7 +416,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 9
 
 ---
-## Document 056: 2382廣達 宏遠
+## Document 052: 2382廣達 宏遠
 
 Source PDF: all report pdf/2382廣達 宏遠.pdf
 Report source: line報告備份
@@ -987,7 +987,7 @@ AAAA
 2023 2024 2025
 
 ---
-## Document 076: 260526_ms_automation
+## Document 072: 260526_ms_automation
 
 Source PDF: all report pdf/260526_ms_automation.pdf
 Report source: line報告備份
@@ -1454,7 +1454,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 082: 2605新興 群益
+## Document 078: 2605新興 群益
 
 Source PDF: all report pdf/2605新興 群益.pdf
 Report source: line報告備份
@@ -1809,7 +1809,7 @@ YoY(%)
 情形。
 
 ---
-## Document 095: 3665貿聯 元大
+## Document 092: 3665貿聯 元大
 
 Source PDF: all report pdf/3665貿聯 元大.pdf
 Report source: line報告備份
@@ -2501,7 +2501,7 @@ ESG 總分 22.7
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 104: 6173信昌電 台新
+## Document 101: 6173信昌電 台新
 
 Source PDF: all report pdf/6173信昌電 台新.pdf
 Report source: line報告備份
@@ -2713,7 +2713,7 @@ YoY(%)
 行單位不為使用者之資訊決策及結果負擔任何責任。
 
 ---
-## Document 109: 6491晶碩 永豐
+## Document 106: 6491晶碩 永豐
 
 Source PDF: all report pdf/6491晶碩 永豐.pdf
 Report source: line報告備份
@@ -3011,7 +3011,7 @@ S：Sell 賣出：未來 6 個月該股票表現將落後大盤
 7
 
 ---
-## Document 113: 6937天虹 宏遠
+## Document 110: 6937天虹 宏遠
 
 Source PDF: all report pdf/6937天虹 宏遠.pdf
 Report source: line報告備份
@@ -3479,7 +3479,7 @@ B
 員工學歷分佈
 
 ---
-## Document 120: 8103瀚荃 統一
+## Document 117: 8103瀚荃 統一
 
 Source PDF: all report pdf/8103瀚荃 統一.pdf
 Report source: line報告備份
@@ -3791,7 +3791,7 @@ ainReport/data/FileStream?id=fec6b56a-9dc2-
 請參見末頁重要批露及免責聲明  9
 
 ---
-## Document 121: 8996高力 群益
+## Document 118: 8996高力 群益
 
 Source PDF: all report pdf/8996高力 群益.pdf
 Report source: line報告備份
@@ -4017,7 +4017,7 @@ YoY(%)
 情形。
 
 ---
-## Document 157: Barclays U.S. Software rAImo's AI Newsletter #108 The AI Math F
+## Document 151: Barclays U.S. Software rAImo's AI Newsletter #108 The AI Math F
 
 Source PDF: all report pdf/Barclays U.S. Software rAImo's AI Newsletter #108 The AI Math F.pdf
 Report source: line報告備份
@@ -4433,7 +4433,7 @@ Additional information regarding this publication will be furnished upon request
 Barclays | U.S. Software
 
 ---
-## Document 160: Bloomberg Intelligence BI_Private_Credit_Survey_Chartbook_April_2026
+## Document 154: Bloomberg Intelligence BI_Private_Credit_Survey_Chartbook_April_2026
 
 Source PDF: all report pdf/Bloomberg Intelligence BI_Private_Credit_Survey_Chartbook_April_2026.pdf
 Report source: line報告備份
@@ -4989,7 +4989,7 @@ and
 service marks of BFLP, a Delaware limited partnership, or its
 
 ---
-## Document 201: GFHK_-_UMC_update
+## Document 186: GFHK_-_UMC_update
 
 Source PDF: all report pdf/GFHK_-_UMC_update.pdf
 Report source: line報告備份
@@ -5052,7 +5052,7 @@ Company Report | UMC
    [Table_FinanceDetail] Balance Sheet NTD mn  Cash Flow Statement NTD mn   2023     2024     2025    2026E    2027E   2023     2024     2025    2026E    2027E Current assets 216,797 189,678 204,783 243,979 280,293  Operating cash flow 66,689 79,970 103,286 123,927 148,672 Cash and cash equivalents 144,882 115,239 128,365 156,654 178,504  Profit for the year 60,990 47,211 41,716 62,506 83,918 Inventory 35,713 35,782 37,228 41,466 46,519  Depreciation & amortization 40,484 48,168 59,259 62,634 65,766 Accounts Receivable 29,586 33,343 31,274 36,596 44,107  Change in working capital -29,645 -16,251 2,272 -1,213 -1,012 Other current assets 6,618 5,313 7,915 9,262 11,163  Others -5,140 843 39 - - Non-current assets 342,390 380,523 374,213 361,828 355,762  Investing cash flow -97,053 -87,144 -52,988 -47,250 -56,700 Long-term equity investment 74,255 72,487 75,373 78,373 81,373  Capex -105,899 -85,408 -48,764 -47,250 -56,700 Fixed assets 239,123 279,059 271,395 256,011 246,945  Change in investment -4,267 924 -2,924 - - Other long-term assets 29,012 28,976 27,445 27,445 27,445  Others 13,113 -2,660 -1,300 - - Total assets 559,187 570,201 578,996 605,808 636,055  Free cash flow -39,210 -5,438 54,523 76,677 91,972 Current liabilities 99,015 75,260 87,598 93,153 100,740  Financing cash flow 33,508 6,135 2,874 -10,945 -15,506 Accounts Payable 7,526 7,633 9,170 10,214 11,458  Change in Capital - - - - - Short-term borrowings 29,537 19,510 27,597 23,457 17,593  Net Change in Debt 27,309 271 -2,075 -10,945 -15,506 Other current liabilities 61,952 48,117 50,831 59,482 71,689  Others 6,199 5,864 4,948 - - Non-current liabilities 99,015 75,260 87,598 93,153 100,740  Exchange influence -392 3,715 -1,846 - - Long-term Debt 45,236 55,533 45,372 38,566 28,925  Net increase in cash 3,144 -1,038 53,172 65,732 76,466 Other non-current liabilities 55,358 61,222 66,170 66,170 66,170        Total liabilities 199,608 192,016 199,141 197,889 195,835        Total Equity 359,579 378,185 379,855 407,918 440,220        Share Capital 125,298 125,607 125,882 125,882 125,882        Additional Paid-in Capital 16,886 25,473 21,004 16,004 8,504    Retained earnings 217,053 226,849 232,883 265,946 305,748        Preferred Stocks 341 257 87 87 87        Total Liabilities & Equity 559,187 570,201 578,996 605,808 636,055  Key Financial Ratios          2023     2024     2025    2026E    2027E        Growth (%)      Income Statement NTD mn  Revenue growth -20.2 4.4 2.3 17.0 20.5  2023     2024     2025    2026E    2027E  Operating profit growth -44.5 -10.8 -14.8 40.1 50.2 Revenue 222,533 232,303 237,553 277,979 335,025  Net profit growth -18.7 -7.8 5.2 69.8 57.5 Cost of sales 144,789 156,649 168,647 187,844 210,732  Profitability (%)         Gross profit 77,744 75,654 68,906 90,136 124,293  Gross profit margin 34.9 32.6 29.0 32.4 37.1 Operating Expense 19,853 24,042 24,958 28,582 31,830  Operating Profit Margin 26.0 22.2 18.5 22.1 27.6 Operating profit 57,891 51,613 43,949 61,554 92,463  Net profit margin 27.4 20.3 17.6 22.5 25.0 Interest Income  4,853   3,670   2,279  2,666 3,135  Key Ratio (%)         Interest Expense  1,483   1,679   1,602  1,461 1,175  ROA 10.9 8.3 7.2 10.3 13.2 Net other Non-op. Income/(Loss) 9,651 2,616 5,022 8,065 4,000  ROE 17.0 12.5 11.0 15.3 19.1 Pre-tax profit 70,912 56,220 49,648 70,824 98,423  Stability         Income tax 9,022 9,218 8,294 8,754 14,941  Gross debt/equity 0.6 0.5 0.5 0.5 0.4 Profit for the year 61,890 47,002 41,353 62,071 83,483  Interest Coverage 45 48 64 85 127 Minority interest -450 105 182 218 218  Current Ratio 2.2 2.5 2.3 2.6 2.8 Net profit to ord. equity 60,990 47,211 41,716 62,506 83,918  Quick Ratio 1.8 2.0 1.9 2.2 2.3 EPS (NT$) 4.9 3.8 3.3 5.0 6.7  Net debt/equity Net Cash Net Cash Net Cash Net Cash Net Cash
 
 ---
-## Document 291: UBS Global Real Estate Valuation Sheet Key valuation metric
+## Document 263: UBS Global Real Estate Valuation Sheet Key valuation metric
 
 Source PDF: all report pdf/UBS Global Real Estate Valuation Sheet Key valuation metric.pdf
 Report source: line報告備份
@@ -9415,7 +9415,7 @@ ab
 This document is being provided for the exclusive use of RACHEL CHEN at MOUNTAIN HILL LTD.
 
 ---
-## Document 315: 【國泰證期研究部】記憶體產業-CXL推動DRAM走向可分層與可池化-20260521
+## Document 283: 【國泰證期研究部】記憶體產業-CXL推動DRAM走向可分層與可池化-20260521
 
 Source PDF: all report pdf/【國泰證期研究部】記憶體產業-CXL推動DRAM走向可分層與可池化-20260521.pdf
 Report source: line報告備份
@@ -9613,7 +9613,7 @@ infrastructure 相關供應鏈。
 投資評等定義
 
 ---
-## Document 404: 兴业证券-MLCC行业更新：AI+Server持续挤压产能，MLCC景气周期开启-260526
+## Document 367: 兴业证券-MLCC行业更新：AI+Server持续挤压产能，MLCC景气周期开启-260526
 
 Source PDF: all report pdf/兴业证券-MLCC行业更新：AI+Server持续挤压产能，MLCC景气周期开启-260526.pdf
 Report source: line報告備份
@@ -10017,7 +10017,7 @@ DISCLAIMER免责声明
 仅供内部参考，请勿外传
 
 ---
-## Document 414: 凱基投顧_2886 兆豐金_施志鴻_20260527
+## Document 377: 凱基投顧_2886 兆豐金_施志鴻_20260527
 
 Source PDF: all report pdf/凱基投顧_2886 兆豐金_施志鴻_20260527.pdf
 Report source: line報告備份
@@ -13946,7 +13946,7 @@ Tower Fl.11 Jl. Jend. Sudirman kav.26 JakartaSelatan 12920 Indonesia
 免責聲明
 
 ---
-## Document 415: 凱基投顧_7921 台普威_李承泰_20260526
+## Document 378: 凱基投顧_7921 台普威_李承泰_20260526
 
 Source PDF: all report pdf/凱基投顧_7921 台普威_李承泰_20260526.pdf
 Report source: line報告備份
@@ -14363,7 +14363,7 @@ SI)，是台灣少數具備電網級儲能系統完整建置能力的業者之�
 五月 26, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 8
 
 ---
-## Document 426: 凱基投顧_Takeaway_6944 兆聯實業_劉昃恩_20260527
+## Document 389: 凱基投顧_Takeaway_6944 兆聯實業_劉昃恩_20260527
 
 Source PDF: all report pdf/凱基投顧_Takeaway_6944 兆聯實業_劉昃恩_20260527.pdf
 Report source: line報告備份
@@ -14472,7 +14472,7 @@ Wafer 廠約 8%、PCB/ABF 約 5%，OSAT 佔比較小。
 五月 27, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R   3
 
 ---
-## Document 489: 帆宣(6196,B_買進)-CTBC260521
+## Document 446: 帆宣(6196,B_買進)-CTBC260521
 
 Source PDF: all report pdf/帆宣(6196,B_買進)-CTBC260521.pdf
 Report source: line報告備份
@@ -14796,7 +14796,7 @@ ESG 資訊 - 公司治理 (Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 498: 強茂(2481)-20260525-速報-元富投顧(台新新光金控)
+## Document 453: 強茂(2481)-20260525-速報-元富投顧(台新新光金控)
 
 Source PDF: all report pdf/強茂(2481)-20260525-速報-元富投顧(台新新光金控).pdf
 Report source: line報告備份
@@ -14947,7 +14947,7 @@ Net 8.4 11.4 12.4 12.6 7.3 9.1 11.3 13.6
 M / NTD Sales Sales YoY
 
 ---
-## Document 502: 彭博经济研究：AI末日已至？Citrini报告设想的反乌托邦情景过于极端
+## Document 457: 彭博经济研究：AI末日已至？Citrini报告设想的反乌托邦情景过于极端
 
 Source PDF: all report pdf/彭博经济研究：AI末日已至？Citrini报告设想的反乌托邦情景过于极端.pdf
 Report source: line報告備份
@@ -15068,7 +15068,7 @@ Prof Daron Acemoglu Massachusetts Institute of Technology
 Dr Robert M Solow Massachusetts Institute of Technology
 
 ---
-## Document 540: 正文(4906,Note)-CTBC260528
+## Document 488: 正文(4906,Note)-CTBC260528
 
 Source PDF: all report pdf/正文(4906,Note)-CTBC260528.pdf
 Report source: line報告備份
@@ -15278,7 +15278,7 @@ ESG 資訊 -公 司 治 理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 555: 瀚荃(8103)-20260528-速報-元富投顧(台新新光金控)
+## Document 505: 瀚荃(8103)-20260528-速報-元富投顧(台新新光金控)
 
 Source PDF: all report pdf/瀚荃(8103)-20260528-速報-元富投顧(台新新光金控).pdf
 Report source: line報告備份
@@ -15396,7 +15396,7 @@ NT$m
 Sales Sales YoY
 
 ---
-## Document 565: 產銷調查：CPU運算力躍升AI要角 全球伺服器2026年出貨將顯增19.2％_20260525-153_圖表
+## Document 514: 產銷調查：CPU運算力躍升AI要角 全球伺服器2026年出貨將顯增19.2％_20260525-153_圖表
 
 Source PDF: all report pdf/產銷調查：CPU運算力躍升AI要角 全球伺服器2026年出貨將顯增19.2％_20260525-153_圖表.pdf
 Report source: line報告備份
@@ -15877,7 +15877,7 @@ Google、亞馬遜出貨皆成長4成以上，品牌商出貨亦將有1
 15
 
 ---
-## Document 608: 群益-2327-2605國巨
+## Document 554: 群益-2327-2605國巨
 
 Source PDF: all report pdf/群益-2327-2605國巨.pdf
 Report source: line報告備份
@@ -16121,7 +16121,7 @@ YoY(%)
 情形。
 
 ---
-## Document 643: 長榮航太(2645,B_買進)-CTBC260521
+## Document 585: 長榮航太(2645,B_買進)-CTBC260521
 
 Source PDF: all report pdf/長榮航太(2645,B_買進)-CTBC260521.pdf
 Report source: line報告備份
@@ -16405,7 +16405,7 @@ ESG 資訊 -公 司 治 理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 651: 韜（τ）定律
+## Document 589: 韜（τ）定律
 
 Source PDF: all report pdf/韜（τ）定律.pdf
 Report source: line報告備份
