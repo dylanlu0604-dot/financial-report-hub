@@ -416,7 +416,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 9
 
 ---
-## Document 052: 2027年SRAM中心高階雲端AI加速器將崛起
+## Document 048: 2027年SRAM中心高階雲端AI加速器將崛起
 
 Source PDF: all report pdf/2027年SRAM中心高階雲端AI加速器將崛起.pdf
 Report source: line報告備份
@@ -427,7 +427,7 @@ Extraction status: ok
 [No extractable text after boilerplate filtering.]
 
 ---
-## Document 060: 260520_ms_rubin-rack-BOM
+## Document 057: 260520_ms_rubin-rack-BOM
 
 Source PDF: all report pdf/260520_ms_rubin-rack-BOM.pdf
 Report source: line報告備份
@@ -1264,7 +1264,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 064: 260521_ms_old-memory
+## Document 061: 260521_ms_old-memory
 
 Source PDF: all report pdf/260521_ms_old-memory.pdf
 Report source: line報告備份
@@ -1667,7 +1667,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 065: 260522_ms_winway
+## Document 062: 260522_ms_winway
 
 Source PDF: all report pdf/260522_ms_winway.pdf
 Report source: line報告備份
@@ -2122,7 +2122,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 068: 260524_kgi_holystone-OW-initiation
+## Document 065: 260524_kgi_holystone-OW-initiation
 
 Source PDF: all report pdf/260524_kgi_holystone-OW-initiation.pdf
 Report source: line報告備份
@@ -3082,7 +3082,7 @@ Dec-23A Dec-24A Dec-25A Dec-26F Dec-27F
  泰國          曼谷
 
 ---
-## Document 075: 260526_ms_automation
+## Document 072: 260526_ms_automation
 
 Source PDF: all report pdf/260526_ms_automation.pdf
 Report source: line報告備份
@@ -3549,7 +3549,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 077: 260527_daiwa_SDI
+## Document 074: 260527_daiwa_SDI
 
 Source PDF: all report pdf/260527_daiwa_SDI.pdf
 Report source: line報告備份
@@ -4024,7 +4024,7 @@ the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 080: 260527_ms_PC-semis
+## Document 077: 260527_ms_PC-semis
 
 Source PDF: all report pdf/260527_ms_PC-semis.pdf
 Report source: line報告備份
@@ -4621,7 +4621,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 099: 2605新興 群益
+## Document 096: 2605新興 群益
 
 Source PDF: all report pdf/2605新興 群益.pdf
 Report source: line報告備份
@@ -4976,7 +4976,7 @@ YoY(%)
 情形。
 
 ---
-## Document 100: 2606裕民 永豐
+## Document 097: 2606裕民 永豐
 
 Source PDF: all report pdf/2606裕民 永豐.pdf
 Report source: line報告備份
@@ -5382,7 +5382,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 9
 
 ---
-## Document 102: 2645長榮航太 元富
+## Document 099: 2645長榮航太 元富
 
 Source PDF: all report pdf/2645長榮航太 元富.pdf
 Report source: line報告備份
@@ -5697,7 +5697,7 @@ Operating 23.8 23.7 23.4 12.0 ROA 10.00 9.97 11.02 17.33
 Net 20.4 19.8 19.9 10.9 ROE 3.84 3.51 3.81 6.50
 
 ---
-## Document 105: 2723美食 富邦
+## Document 102: 2723美食 富邦
 
 Source PDF: all report pdf/2723美食 富邦.pdf
 Report source: line報告備份
@@ -6097,7 +6097,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 106: 3088艾訊 群益
+## Document 103: 3088艾訊 群益
 
 Source PDF: all report pdf/3088艾訊 群益.pdf
 Report source: line報告備份
@@ -6374,7 +6374,7 @@ YoY(%)
 情形。
 
 ---
-## Document 109: 3376新日興 群益
+## Document 106: 3376新日興 群益
 
 Source PDF: all report pdf/3376新日興 群益.pdf
 Report source: line報告備份
@@ -6659,7 +6659,7 @@ YoY(%)
 情形。
 
 ---
-## Document 112: 3653健策 元大
+## Document 108: 3653健策 元大
 
 Source PDF: all report pdf/3653健策 元大.pdf
 Report source: line報告備份
@@ -7267,7 +7267,7 @@ ESG 總分 19.6
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 125: 6176瑞儀 永豐
+## Document 121: 6176瑞儀 永豐
 
 Source PDF: all report pdf/6176瑞儀 永豐.pdf
 Report source: line報告備份
@@ -7602,7 +7602,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 8
 
 ---
-## Document 127: 6291沛亨 第一金
+## Document 123: 6291沛亨 第一金
 
 Source PDF: all report pdf/6291沛亨 第一金.pdf
 Report source: line報告備份
@@ -7848,7 +7848,7 @@ YoY(%)
 8
 
 ---
-## Document 143: 9904寶成 富邦
+## Document 139: 9904寶成 富邦
 
 Source PDF: all report pdf/9904寶成 富邦.pdf
 Report source: line報告備份
@@ -8245,7 +8245,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 175: Barclays U.S. Internet Charts Worth a Look Measuring the Curren
+## Document 176: Barclays U.S. Internet Charts Worth a Look Measuring the Curren
 
 Source PDF: all report pdf/Barclays U.S. Internet Charts Worth a Look Measuring the Curren.pdf
 Report source: line報告備份
@@ -8841,7 +8841,7 @@ Additional information regarding this publication will be furnished upon request
 Barclays | U.S. Internet
 
 ---
-## Document 221: IBF Securities Investment Consulting IBFS05282026Daily
+## Document 230: IBF Securities Investment Consulting IBFS05282026Daily
 
 Source PDF: all report pdf/IBF Securities Investment Consulting IBFS05282026Daily.pdf
 Report source: line報告備份
@@ -9539,7 +9539,7 @@ S&P500 指數各類股漲跌幅 上證指數各類股漲跌幅
   資料來源：公開資訊觀測站
 
 ---
-## Document 266: nmr_semi-renaissance
+## Document 277: nmr_semi-renaissance
 
 Source PDF: all report pdf/nmr_semi-renaissance.pdf
 Report source: line報告備份
@@ -14797,7 +14797,7 @@ Tel: +81 3 5255 1658 Fax: +81 3 5255 1747, 3272 0869
 Caring for the environment: to receive only the electronic versions of our research, please contact your sales representative .
 
 ---
-## Document 293: UBS China Equity Strategy How crowded is the AI trade and
+## Document 307: UBS China Equity Strategy How crowded is the AI trade and
 
 Source PDF: all report pdf/UBS China Equity Strategy How crowded is the AI trade and.pdf
 Report source: line報告備份
@@ -15719,7 +15719,7 @@ ab
 This document is being provided for the exclusive use of RACHEL CHEN at MOUNTAIN HILL LTD.
 
 ---
-## Document 375: 世禾(3551,UG,B_買進)-CTBC260527
+## Document 389: 世禾(3551,UG,B_買進)-CTBC260527
 
 Source PDF: all report pdf/世禾(3551,UG,B_買進)-CTBC260527.pdf
 Report source: line報告備份
@@ -16020,7 +16020,7 @@ ESG 資訊 - 公司治理 (Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 404: 偉詮電(2436)-20260525-速報-元富投顧(台新新光金控)
+## Document 413: 偉詮電(2436)-20260525-速報-元富投顧(台新新光金控)
 
 Source PDF: all report pdf/偉詮電(2436)-20260525-速報-元富投顧(台新新光金控).pdf
 Report source: line報告備份
@@ -16191,7 +16191,7 @@ Net 13.2 11.7 14.6 12.6 7.3 8.9 15.4 13.0
 NT$ mn Sales Sales YOY
 
 ---
-## Document 425: 凱基投顧_7921 台普威_李承泰_20260526
+## Document 434: 凱基投顧_7921 台普威_李承泰_20260526
 
 Source PDF: all report pdf/凱基投顧_7921 台普威_李承泰_20260526.pdf
 Report source: line報告備份
@@ -16608,7 +16608,7 @@ SI)，是台灣少數具備電網級儲能系統完整建置能力的業者之�
 五月 26, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 8
 
 ---
-## Document 434: 凱基投顧_Takeaway_3706 神達_向子慧_20260528
+## Document 443: 凱基投顧_Takeaway_3706 神達_向子慧_20260528
 
 Source PDF: all report pdf/凱基投顧_Takeaway_3706 神達_向子慧_20260528.pdf
 Report source: line報告備份
@@ -16742,7 +16742,7 @@ angelah@kgi.com
 五月 28, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R   4
 
 ---
-## Document 436: 凱基投顧_Takeaway_4766 南寶_劉昃恩_20260521
+## Document 445: 凱基投顧_Takeaway_4766 南寶_劉昃恩_20260521
 
 Source PDF: all report pdf/凱基投顧_Takeaway_4766 南寶_劉昃恩_20260521.pdf
 Report source: line報告備份
@@ -16854,7 +16854,7 @@ eden.chang@kgi.com
 五月 21, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R  3
 
 ---
-## Document 447: 創意(3443)-20260528-速報-元富投顧(台新新光金控)
+## Document 456: 創意(3443)-20260528-速報-元富投顧(台新新光金控)
 
 Source PDF: all report pdf/創意(3443)-20260528-速報-元富投顧(台新新光金控).pdf
 Report source: line報告備份
@@ -16967,7 +16967,7 @@ Net 14.4 11.2 11.5 11.3 13.4 13.8 11.0 12.0
 Sales (NT$mn) YOY
 
 ---
-## Document 499: 崇越(5434,OW_增加持股)-CTBC260525
+## Document 504: 崇越(5434,OW_增加持股)-CTBC260525
 
 Source PDF: all report pdf/崇越(5434,OW_增加持股)-CTBC260525.pdf
 Report source: line報告備份
@@ -17280,7 +17280,7 @@ ESG 資訊 -公 司 治 理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 511: 彭博经济研究：AI末日已至？Citrini报告设想的反乌托邦情景过于极端
+## Document 516: 彭博经济研究：AI末日已至？Citrini报告设想的反乌托邦情景过于极端
 
 Source PDF: all report pdf/彭博经济研究：AI末日已至？Citrini报告设想的反乌托邦情景过于极端.pdf
 Report source: line報告備份
@@ -17401,7 +17401,7 @@ Prof Daron Acemoglu Massachusetts Institute of Technology
 Dr Robert M Solow Massachusetts Institute of Technology
 
 ---
-## Document 523: 新代(7750,B_買進)-CTBC260525
+## Document 529: 新代(7750,B_買進)-CTBC260525
 
 Source PDF: all report pdf/新代(7750,B_買進)-CTBC260525.pdf
 Report source: line報告備份
@@ -17685,7 +17685,7 @@ PBR Band
 未評等 Not Rated (NR)
 
 ---
-## Document 548: 汎銓(6830,Note)-CTBC260522
+## Document 552: 汎銓(6830,Note)-CTBC260522
 
 Source PDF: all report pdf/汎銓(6830,Note)-CTBC260522.pdf
 Report source: line報告備份
@@ -17930,7 +17930,7 @@ ESG 資訊 - 公司治理 (Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 573: 產銷調查：全球智慧型手機1Q26出貨2.783億支 預估2026全年出貨跌破11億支_20260521-151_圖表
+## Document 574: 產銷調查：全球智慧型手機1Q26出貨2.783億支 預估2026全年出貨跌破11億支_20260521-151_圖表
 
 Source PDF: all report pdf/產銷調查：全球智慧型手機1Q26出貨2.783億支 預估2026全年出貨跌破11億支_20260521-151_圖表.pdf
 Report source: line報告備份
@@ -18494,7 +18494,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 NotRated(NR)
 
 ---
-## Document 618: 群益-2327-2605國巨
+## Document 611: 群益-2327-2605國巨
 
 Source PDF: all report pdf/群益-2327-2605國巨.pdf
 Report source: line報告備份
@@ -18738,7 +18738,7 @@ YoY(%)
 情形。
 
 ---
-## Document 626: 群益-6605-2602帝寶
+## Document 619: 群益-6605-2602帝寶
 
 Source PDF: all report pdf/群益-6605-2602帝寶.pdf
 Report source: line報告備份
