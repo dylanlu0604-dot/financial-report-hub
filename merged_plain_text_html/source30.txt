@@ -290,7 +290,7 @@ YoY(%)
 存貨週轉天數(天) 74.78 71.59 83.63 93.31
 
 ---
-## Document 051: 2201裕隆 元富
+## Document 045: 2201裕隆 元富
 
 Source PDF: all report pdf/2201裕隆 元富.pdf
 Report source: line報告備份
@@ -421,7 +421,7 @@ Net 2.1 2.4 3.0 2.2 5.7 4.6 1.4 2.4
 M / NTD Sales Sales YoY
 
 ---
-## Document 053: 2436偉詮電 宏遠
+## Document 047: 2436偉詮電 宏遠
 
 Source PDF: all report pdf/2436偉詮電 宏遠.pdf
 Report source: line報告備份
@@ -645,7 +645,7 @@ Company Report
 6
 
 ---
-## Document 054: 2436偉詮電 統一
+## Document 048: 2436偉詮電 統一
 
 Source PDF: all report pdf/2436偉詮電 統一.pdf
 Report source: line報告備份
@@ -888,7 +888,7 @@ ainReport/data/FileStream?id=0a110a85-180a-
 請參見末頁重要批露及免責聲明  6
 
 ---
-## Document 055: 260519_gs_AI-infra
+## Document 049: 260519_gs_AI-infra
 
 Source PDF: all report pdf/260519_gs_AI-infra.pdf
 Report source: line報告備份
@@ -1249,7 +1249,7 @@ Goldman Sachs Data Centers
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 060: 260521_ms_ATS-implication
+## Document 054: 260521_ms_ATS-implication
 
 Source PDF: all report pdf/260521_ms_ATS-implication.pdf
 Report source: line報告備份
@@ -1829,7 +1829,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 075: 260527_ms_copmutex-preview
+## Document 069: 260527_ms_copmutex-preview
 
 Source PDF: all report pdf/260527_ms_copmutex-preview.pdf
 Report source: line報告備份
@@ -3127,7 +3127,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 079: 260527_yt_winway
+## Document 073: 260527_yt_winway
 
 Source PDF: all report pdf/260527_yt_winway.pdf
 Report source: line報告備份
@@ -3860,7 +3860,7 @@ ESG 總分 11.8
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 082: 260528_ms_avc
+## Document 076: 260528_ms_avc
 
 Source PDF: all report pdf/260528_ms_avc.pdf
 Report source: line報告備份
@@ -4346,7 +4346,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 085: 260528_ms_GUC-DG
+## Document 079: 260528_ms_GUC-DG
 
 Source PDF: all report pdf/260528_ms_GUC-DG.pdf
 Report source: line報告備份
@@ -5243,7 +5243,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 086: 260528_ms_kingslide
+## Document 080: 260528_ms_kingslide
 
 Source PDF: all report pdf/260528_ms_kingslide.pdf
 Report source: line報告備份
@@ -5692,7 +5692,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 087: 260528_ms_kyec
+## Document 081: 260528_ms_kyec
 
 Source PDF: all report pdf/260528_ms_kyec.pdf
 Report source: line報告備份
@@ -6102,7 +6102,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 088: 260528_ms_mtk
+## Document 082: 260528_ms_mtk
 
 Source PDF: all report pdf/260528_ms_mtk.pdf
 Report source: line報告備份
@@ -6835,7 +6835,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 094: 260528_ms_yageo
+## Document 088: 260528_ms_yageo
 
 Source PDF: all report pdf/260528_ms_yageo.pdf
 Report source: line報告備份
@@ -7318,7 +7318,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 117: 5285界霖 永豐
+## Document 111: 5285界霖 永豐
 
 Source PDF: all report pdf/5285界霖 永豐.pdf
 Report source: line報告備份
@@ -7606,7 +7606,7 @@ S：Sell 賣出：未來 6 個月該股票表現將落後大盤
 7
 
 ---
-## Document 118: 5434崇越 元大
+## Document 112: 5434崇越 元大
 
 Source PDF: all report pdf/5434崇越 元大.pdf
 Report source: line報告備份
@@ -8142,7 +8142,7 @@ ESG 總分 23.1
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 122: 6285啟碁 宏遠
+## Document 116: 6285啟碁 宏遠
 
 Source PDF: all report pdf/6285啟碁 宏遠.pdf
 Report source: line報告備份
@@ -8511,7 +8511,7 @@ Company Report
 11
 
 ---
-## Document 124: 6409旭隼 宏遠
+## Document 118: 6409旭隼 宏遠
 
 Source PDF: all report pdf/6409旭隼 宏遠.pdf
 Report source: line報告備份
@@ -9071,7 +9071,7 @@ A+
 2023 2024 2025
 
 ---
-## Document 126: 6498久禾光電 宏遠
+## Document 120: 6498久禾光電 宏遠
 
 Source PDF: all report pdf/6498久禾光電 宏遠.pdf
 Report source: line報告備份
@@ -9644,7 +9644,7 @@ Company Report
 員工學歷分佈
 
 ---
-## Document 131: 6983華洋精機 富邦
+## Document 125: 6983華洋精機 富邦
 
 Source PDF: all report pdf/6983華洋精機 富邦.pdf
 Report source: line報告備份
@@ -9832,7 +9832,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 140: 9921巨大 元富
+## Document 134: 9921巨大 元富
 
 Source PDF: all report pdf/9921巨大 元富.pdf
 Report source: line報告備份
@@ -9948,7 +9948,7 @@ Net (1.2) 4.5 4.3 1.7 4.6 2.1 1.4 2.5
 M / NTD Sales Sales YoY
 
 ---
-## Document 180: Bloomberg Intelligence BI_Private_Credit_Survey_Chartbook_April_2026
+## Document 169: Bloomberg Intelligence BI_Private_Credit_Survey_Chartbook_April_2026
 
 Source PDF: all report pdf/Bloomberg Intelligence BI_Private_Credit_Survey_Chartbook_April_2026.pdf
 Report source: line報告備份
@@ -10504,7 +10504,7 @@ and
 service marks of BFLP, a Delaware limited partnership, or its
 
 ---
-## Document 241: JP Morgan Equity Strategy Stay bullish on EM vs DM
+## Document 223: JP Morgan Equity Strategy Stay bullish on EM vs DM
 
 Source PDF: all report pdf/JP Morgan Equity Strategy Stay bullish on EM vs DM.pdf
 Report source: line報告備份
@@ -12649,7 +12649,7 @@ Completed 11 May 2026 02:48 AM BST Disseminated 11 May 2026 03:00 AM BST
 This document is being provided for the exclusive use of RACHEL CHEN at MOUNTAIN HILL LTD.
 
 ---
-## Document 248: Kinik(1560TW) MQ 260520
+## Document 230: Kinik(1560TW) MQ 260520
 
 Source PDF: all report pdf/Kinik(1560TW) MQ 260520.pdf
 Report source: line報告備份
@@ -12660,7 +12660,7 @@ Extraction status: ok
 [No extractable text after boilerplate filtering.]
 
 ---
-## Document 309: UBS-3443-20260527
+## Document 285: UBS-3443-20260527
 
 Source PDF: all report pdf/UBS-3443-20260527.pdf
 Report source: line報告備份
@@ -13775,7 +13775,7 @@ name, e-mail address) until you notify us that you no longer wish to receive the
 ab
 
 ---
-## Document 338: 【國泰證期研究部】記憶體產業-CXL推動DRAM走向可分層與可池化-20260521
+## Document 309: 【國泰證期研究部】記憶體產業-CXL推動DRAM走向可分層與可池化-20260521
 
 Source PDF: all report pdf/【國泰證期研究部】記憶體產業-CXL推動DRAM走向可分層與可池化-20260521.pdf
 Report source: line報告備份
@@ -13973,7 +13973,7 @@ infrastructure 相關供應鏈。
 投資評等定義
 
 ---
-## Document 435: 凱基投顧_9941 裕融_施志鴻_20260521
+## Document 399: 凱基投顧_9941 裕融_施志鴻_20260521
 
 Source PDF: all report pdf/凱基投顧_9941 裕融_施志鴻_20260521.pdf
 Report source: line報告備份
@@ -14751,7 +14751,7 @@ May-25 Jul-25 Sep-25 Nov-25 Jan-26 Mar-26
 資料來源：TEJ，凱基
 
 ---
-## Document 440: 凱基投顧_LOW Lowe’s_賴偉中_20260525
+## Document 404: 凱基投顧_LOW Lowe’s_賴偉中_20260525
 
 Source PDF: all report pdf/凱基投顧_LOW Lowe’s_賴偉中_20260525.pdf
 Report source: line報告備份
@@ -15148,7 +15148,7 @@ May-22 Nov-22 May-23 Nov-23 May-24 Nov-24 May-25 Nov-25 May-26
 免責聲明
 
 ---
-## Document 446: 凱基投顧_Takeaway_6515 穎崴_許芝瑄_20260526
+## Document 410: 凱基投顧_Takeaway_6515 穎崴_許芝瑄_20260526
 
 Source PDF: all report pdf/凱基投顧_Takeaway_6515 穎崴_許芝瑄_20260526.pdf
 Report source: line報告備份
@@ -15307,7 +15307,7 @@ Hyper Socket 能提供最穩定測試結果
 五月 26, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R   4
 
 ---
-## Document 447: 凱基投顧_Takeaway_6617 共信-KY_陳宣甫_20260526
+## Document 411: 凱基投顧_Takeaway_6617 共信-KY_陳宣甫_20260526
 
 Source PDF: all report pdf/凱基投顧_Takeaway_6617 共信-KY_陳宣甫_20260526.pdf
 Report source: line報告備份
@@ -15522,7 +15522,7 @@ QA
 五月 26, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 5
 
 ---
-## Document 449: 凱基投顧_Takeaway_6965 中傑-KY_劉昃恩_20260527
+## Document 413: 凱基投顧_Takeaway_6965 中傑-KY_劉昃恩_20260527
 
 Source PDF: all report pdf/凱基投顧_Takeaway_6965 中傑-KY_劉昃恩_20260527.pdf
 Report source: line報告備份
@@ -15636,7 +15636,7 @@ ROE 增長 (長期目標 >20%) 。
 五月 27, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R   3
 
 ---
-## Document 465: 台新投顧20260526個股報告-智通(8932)-強力買進
+## Document 428: 台新投顧20260526個股報告-智通(8932)-強力買進
 
 Source PDF: all report pdf/台新投顧20260526個股報告-智通(8932)-強力買進.pdf
 Report source: line報告備份
@@ -16004,7 +16004,7 @@ YoY(%)
 行單位不為使用者之資訊決策及結果負擔任何責任。
 
 ---
-## Document 512: 弘塑(3131,OW_增加持股)-CTBC260528
+## Document 477: 弘塑(3131,OW_增加持股)-CTBC260528
 
 Source PDF: all report pdf/弘塑(3131,OW_增加持股)-CTBC260528.pdf
 Report source: line報告備份
@@ -16338,7 +16338,7 @@ ESG 資訊 -公 司 治 理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 602: 總體經濟與自動化設備觀察報告書
+## Document 563: 總體經濟與自動化設備觀察報告書
 
 Source PDF: all report pdf/總體經濟與自動化設備觀察報告書.pdf
 Report source: line報告備份
@@ -19376,7 +19376,7 @@ JMTBA
 氣。
 
 ---
-## Document 613: 群益-2464-2601盟立
+## Document 574: 群益-2464-2601盟立
 
 Source PDF: all report pdf/群益-2464-2601盟立.pdf
 Report source: line報告備份
@@ -19645,7 +19645,7 @@ YoY(%)
 情形。
 
 ---
-## Document 617: 群益-6415-2603矽力-KY
+## Document 578: 群益-6415-2603矽力-KY
 
 Source PDF: all report pdf/群益-6415-2603矽力-KY.pdf
 Report source: line報告備份
@@ -19902,7 +19902,7 @@ YoY(%)
 情形。
 
 ---
-## Document 618: 群益-6435-2603大中
+## Document 579: 群益-6435-2603大中
 
 Source PDF: all report pdf/群益-6435-2603大中.pdf
 Report source: line報告備份
@@ -20142,7 +20142,7 @@ YoY(%)
 情形。
 
 ---
-## Document 623: 聯茂(6213,B_買進)-CTBC260528
+## Document 584: 聯茂(6213,B_買進)-CTBC260528
 
 Source PDF: all report pdf/聯茂(6213,B_買進)-CTBC260528.pdf
 Report source: line報告備份
@@ -20418,7 +20418,7 @@ ESG 資訊 -公司治理 (Governance)
 營業執照字號： 114 金管投顧新字第 014 號
 
 ---
-## Document 645: 金像電(2368,B_買進)-CTBC260526
+## Document 606: 金像電(2368,B_買進)-CTBC260526
 
 Source PDF: all report pdf/金像電(2368,B_買進)-CTBC260526.pdf
 Report source: line報告備份
