@@ -9832,7 +9832,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 134: 9921巨大 元富
+## Document 135: 9921巨大 元富
 
 Source PDF: all report pdf/9921巨大 元富.pdf
 Report source: line報告備份
@@ -10504,7 +10504,7 @@ and
 service marks of BFLP, a Delaware limited partnership, or its
 
 ---
-## Document 223: JP Morgan Equity Strategy Stay bullish on EM vs DM
+## Document 231: JP Morgan Equity Strategy Stay bullish on EM vs DM
 
 Source PDF: all report pdf/JP Morgan Equity Strategy Stay bullish on EM vs DM.pdf
 Report source: line報告備份
@@ -12649,7 +12649,7 @@ Completed 11 May 2026 02:48 AM BST Disseminated 11 May 2026 03:00 AM BST
 This document is being provided for the exclusive use of RACHEL CHEN at MOUNTAIN HILL LTD.
 
 ---
-## Document 230: Kinik(1560TW) MQ 260520
+## Document 238: Kinik(1560TW) MQ 260520
 
 Source PDF: all report pdf/Kinik(1560TW) MQ 260520.pdf
 Report source: line報告備份
@@ -12660,7 +12660,7 @@ Extraction status: ok
 [No extractable text after boilerplate filtering.]
 
 ---
-## Document 285: UBS-3443-20260527
+## Document 298: UBS-3443-20260527
 
 Source PDF: all report pdf/UBS-3443-20260527.pdf
 Report source: line報告備份
@@ -13775,7 +13775,7 @@ name, e-mail address) until you notify us that you no longer wish to receive the
 ab
 
 ---
-## Document 309: 【國泰證期研究部】記憶體產業-CXL推動DRAM走向可分層與可池化-20260521
+## Document 324: 【國泰證期研究部】記憶體產業-CXL推動DRAM走向可分層與可池化-20260521
 
 Source PDF: all report pdf/【國泰證期研究部】記憶體產業-CXL推動DRAM走向可分層與可池化-20260521.pdf
 Report source: line報告備份
@@ -13973,7 +13973,7 @@ infrastructure 相關供應鏈。
 投資評等定義
 
 ---
-## Document 399: 凱基投顧_9941 裕融_施志鴻_20260521
+## Document 412: 凱基投顧_9941 裕融_施志鴻_20260521
 
 Source PDF: all report pdf/凱基投顧_9941 裕融_施志鴻_20260521.pdf
 Report source: line報告備份
@@ -14751,7 +14751,7 @@ May-25 Jul-25 Sep-25 Nov-25 Jan-26 Mar-26
 資料來源：TEJ，凱基
 
 ---
-## Document 404: 凱基投顧_LOW Lowe’s_賴偉中_20260525
+## Document 417: 凱基投顧_LOW Lowe’s_賴偉中_20260525
 
 Source PDF: all report pdf/凱基投顧_LOW Lowe’s_賴偉中_20260525.pdf
 Report source: line報告備份
@@ -15148,7 +15148,7 @@ May-22 Nov-22 May-23 Nov-23 May-24 Nov-24 May-25 Nov-25 May-26
 免責聲明
 
 ---
-## Document 410: 凱基投顧_Takeaway_6515 穎崴_許芝瑄_20260526
+## Document 423: 凱基投顧_Takeaway_6515 穎崴_許芝瑄_20260526
 
 Source PDF: all report pdf/凱基投顧_Takeaway_6515 穎崴_許芝瑄_20260526.pdf
 Report source: line報告備份
@@ -15307,7 +15307,7 @@ Hyper Socket 能提供最穩定測試結果
 五月 26, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R   4
 
 ---
-## Document 411: 凱基投顧_Takeaway_6617 共信-KY_陳宣甫_20260526
+## Document 424: 凱基投顧_Takeaway_6617 共信-KY_陳宣甫_20260526
 
 Source PDF: all report pdf/凱基投顧_Takeaway_6617 共信-KY_陳宣甫_20260526.pdf
 Report source: line報告備份
@@ -15522,7 +15522,7 @@ QA
 五月 26, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 5
 
 ---
-## Document 413: 凱基投顧_Takeaway_6965 中傑-KY_劉昃恩_20260527
+## Document 426: 凱基投顧_Takeaway_6965 中傑-KY_劉昃恩_20260527
 
 Source PDF: all report pdf/凱基投顧_Takeaway_6965 中傑-KY_劉昃恩_20260527.pdf
 Report source: line報告備份
@@ -15636,7 +15636,7 @@ ROE 增長 (長期目標 >20%) 。
 五月 27, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R   3
 
 ---
-## Document 428: 台新投顧20260526個股報告-智通(8932)-強力買進
+## Document 441: 台新投顧20260526個股報告-智通(8932)-強力買進
 
 Source PDF: all report pdf/台新投顧20260526個股報告-智通(8932)-強力買進.pdf
 Report source: line報告備份
@@ -16004,7 +16004,7 @@ YoY(%)
 行單位不為使用者之資訊決策及結果負擔任何責任。
 
 ---
-## Document 477: 弘塑(3131,OW_增加持股)-CTBC260528
+## Document 492: 弘塑(3131,OW_增加持股)-CTBC260528
 
 Source PDF: all report pdf/弘塑(3131,OW_增加持股)-CTBC260528.pdf
 Report source: line報告備份
@@ -16338,7 +16338,7 @@ ESG 資訊 -公 司 治 理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 563: 總體經濟與自動化設備觀察報告書
+## Document 583: 總體經濟與自動化設備觀察報告書
 
 Source PDF: all report pdf/總體經濟與自動化設備觀察報告書.pdf
 Report source: line報告備份
@@ -19376,7 +19376,7 @@ JMTBA
 氣。
 
 ---
-## Document 574: 群益-2464-2601盟立
+## Document 595: 群益-2464-2601盟立
 
 Source PDF: all report pdf/群益-2464-2601盟立.pdf
 Report source: line報告備份
@@ -19645,7 +19645,7 @@ YoY(%)
 情形。
 
 ---
-## Document 578: 群益-6415-2603矽力-KY
+## Document 599: 群益-6415-2603矽力-KY
 
 Source PDF: all report pdf/群益-6415-2603矽力-KY.pdf
 Report source: line報告備份
@@ -19902,7 +19902,7 @@ YoY(%)
 情形。
 
 ---
-## Document 579: 群益-6435-2603大中
+## Document 600: 群益-6435-2603大中
 
 Source PDF: all report pdf/群益-6435-2603大中.pdf
 Report source: line報告備份
@@ -20142,7 +20142,7 @@ YoY(%)
 情形。
 
 ---
-## Document 584: 聯茂(6213,B_買進)-CTBC260528
+## Document 605: 聯茂(6213,B_買進)-CTBC260528
 
 Source PDF: all report pdf/聯茂(6213,B_買進)-CTBC260528.pdf
 Report source: line報告備份
@@ -20418,7 +20418,7 @@ ESG 資訊 -公司治理 (Governance)
 營業執照字號： 114 金管投顧新字第 014 號
 
 ---
-## Document 606: 金像電(2368,B_買進)-CTBC260526
+## Document 626: 金像電(2368,B_買進)-CTBC260526
 
 Source PDF: all report pdf/金像電(2368,B_買進)-CTBC260526.pdf
 Report source: line報告備份

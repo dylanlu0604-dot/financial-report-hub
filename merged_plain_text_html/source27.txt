@@ -7848,7 +7848,7 @@ YoY(%)
 8
 
 ---
-## Document 133: 9904寶成 富邦
+## Document 134: 9904寶成 富邦
 
 Source PDF: all report pdf/9904寶成 富邦.pdf
 Report source: line報告備份
@@ -8245,7 +8245,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 165: Barclays U.S. Internet Charts Worth a Look Measuring the Curren
+## Document 166: Barclays U.S. Internet Charts Worth a Look Measuring the Curren
 
 Source PDF: all report pdf/Barclays U.S. Internet Charts Worth a Look Measuring the Curren.pdf
 Report source: line報告備份
@@ -8841,7 +8841,7 @@ Additional information regarding this publication will be furnished upon request
 Barclays | U.S. Internet
 
 ---
-## Document 212: IBF Securities Investment Consulting IBFS05282026Daily
+## Document 221: IBF Securities Investment Consulting IBFS05282026Daily
 
 Source PDF: all report pdf/IBF Securities Investment Consulting IBFS05282026Daily.pdf
 Report source: line報告備份
@@ -9539,7 +9539,7 @@ S&P500 指數各類股漲跌幅 上證指數各類股漲跌幅
   資料來源：公開資訊觀測站
 
 ---
-## Document 254: nmr_semi-renaissance
+## Document 267: nmr_semi-renaissance
 
 Source PDF: all report pdf/nmr_semi-renaissance.pdf
 Report source: line報告備份
@@ -14797,7 +14797,7 @@ Tel: +81 3 5255 1658 Fax: +81 3 5255 1747, 3272 0869
 Caring for the environment: to receive only the electronic versions of our research, please contact your sales representative .
 
 ---
-## Document 283: UBS China Equity Strategy How crowded is the AI trade and
+## Document 296: UBS China Equity Strategy How crowded is the AI trade and
 
 Source PDF: all report pdf/UBS China Equity Strategy How crowded is the AI trade and.pdf
 Report source: line報告備份
@@ -15719,7 +15719,7 @@ ab
 This document is being provided for the exclusive use of RACHEL CHEN at MOUNTAIN HILL LTD.
 
 ---
-## Document 358: 世禾(3551,UG,B_買進)-CTBC260527
+## Document 370: 世禾(3551,UG,B_買進)-CTBC260527
 
 Source PDF: all report pdf/世禾(3551,UG,B_買進)-CTBC260527.pdf
 Report source: line報告備份
@@ -16020,7 +16020,7 @@ ESG 資訊 - 公司治理 (Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 379: 偉詮電(2436)-20260525-速報-元富投顧(台新新光金控)
+## Document 393: 偉詮電(2436)-20260525-速報-元富投顧(台新新光金控)
 
 Source PDF: all report pdf/偉詮電(2436)-20260525-速報-元富投顧(台新新光金控).pdf
 Report source: line報告備份
@@ -16191,7 +16191,7 @@ Net 13.2 11.7 14.6 12.6 7.3 8.9 15.4 13.0
 NT$ mn Sales Sales YOY
 
 ---
-## Document 398: 凱基投顧_7921 台普威_李承泰_20260526
+## Document 411: 凱基投顧_7921 台普威_李承泰_20260526
 
 Source PDF: all report pdf/凱基投顧_7921 台普威_李承泰_20260526.pdf
 Report source: line報告備份
@@ -16608,7 +16608,7 @@ SI)，是台灣少數具備電網級儲能系統完整建置能力的業者之�
 五月 26, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 8
 
 ---
-## Document 407: 凱基投顧_Takeaway_3706 神達_向子慧_20260528
+## Document 420: 凱基投顧_Takeaway_3706 神達_向子慧_20260528
 
 Source PDF: all report pdf/凱基投顧_Takeaway_3706 神達_向子慧_20260528.pdf
 Report source: line報告備份
@@ -16742,7 +16742,7 @@ angelah@kgi.com
 五月 28, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R   4
 
 ---
-## Document 409: 凱基投顧_Takeaway_4766 南寶_劉昃恩_20260521
+## Document 422: 凱基投顧_Takeaway_4766 南寶_劉昃恩_20260521
 
 Source PDF: all report pdf/凱基投顧_Takeaway_4766 南寶_劉昃恩_20260521.pdf
 Report source: line報告備份
@@ -16854,7 +16854,7 @@ eden.chang@kgi.com
 五月 21, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R  3
 
 ---
-## Document 420: 創意(3443)-20260528-速報-元富投顧(台新新光金控)
+## Document 432: 創意(3443)-20260528-速報-元富投顧(台新新光金控)
 
 Source PDF: all report pdf/創意(3443)-20260528-速報-元富投顧(台新新光金控).pdf
 Report source: line報告備份
@@ -16967,7 +16967,7 @@ Net 14.4 11.2 11.5 11.3 13.4 13.8 11.0 12.0
 Sales (NT$mn) YOY
 
 ---
-## Document 469: 崇越(5434,OW_增加持股)-CTBC260525
+## Document 483: 崇越(5434,OW_增加持股)-CTBC260525
 
 Source PDF: all report pdf/崇越(5434,OW_增加持股)-CTBC260525.pdf
 Report source: line報告備份
@@ -17280,7 +17280,7 @@ ESG 資訊 -公 司 治 理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 481: 彭博经济研究：AI末日已至？Citrini报告设想的反乌托邦情景过于极端
+## Document 497: 彭博经济研究：AI末日已至？Citrini报告设想的反乌托邦情景过于极端
 
 Source PDF: all report pdf/彭博经济研究：AI末日已至？Citrini报告设想的反乌托邦情景过于极端.pdf
 Report source: line報告備份
@@ -17401,7 +17401,7 @@ Prof Daron Acemoglu Massachusetts Institute of Technology
 Dr Robert M Solow Massachusetts Institute of Technology
 
 ---
-## Document 490: 新代(7750,B_買進)-CTBC260525
+## Document 507: 新代(7750,B_買進)-CTBC260525
 
 Source PDF: all report pdf/新代(7750,B_買進)-CTBC260525.pdf
 Report source: line報告備份
@@ -17685,7 +17685,7 @@ PBR Band
 未評等 Not Rated (NR)
 
 ---
-## Document 514: 汎銓(6830,Note)-CTBC260522
+## Document 533: 汎銓(6830,Note)-CTBC260522
 
 Source PDF: all report pdf/汎銓(6830,Note)-CTBC260522.pdf
 Report source: line報告備份
@@ -17930,7 +17930,7 @@ ESG 資訊 - 公司治理 (Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 535: 產銷調查：全球智慧型手機1Q26出貨2.783億支 預估2026全年出貨跌破11億支_20260521-151_圖表
+## Document 555: 產銷調查：全球智慧型手機1Q26出貨2.783億支 預估2026全年出貨跌破11億支_20260521-151_圖表
 
 Source PDF: all report pdf/產銷調查：全球智慧型手機1Q26出貨2.783億支 預估2026全年出貨跌破11億支_20260521-151_圖表.pdf
 Report source: line報告備份
@@ -18277,7 +18277,7 @@ Others
 15
 
 ---
-## Document 539: 穩懋(3105,Note)-CTBC260527
+## Document 559: 穩懋(3105,Note)-CTBC260527
 
 Source PDF: all report pdf/穩懋(3105,Note)-CTBC260527.pdf
 Report source: line報告備份
@@ -18494,7 +18494,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 NotRated(NR)
 
 ---
-## Document 572: 群益-2327-2605國巨
+## Document 593: 群益-2327-2605國巨
 
 Source PDF: all report pdf/群益-2327-2605國巨.pdf
 Report source: line報告備份
@@ -18738,7 +18738,7 @@ YoY(%)
 情形。
 
 ---
-## Document 580: 群益-6605-2602帝寶
+## Document 601: 群益-6605-2602帝寶
 
 Source PDF: all report pdf/群益-6605-2602帝寶.pdf
 Report source: line報告備份
