@@ -12,6 +12,10 @@
 來源: ING Think | 日期: 未知日期 | 頁數: 4 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/AI%20monthly_%20Many%20still%20unconvinced%20of%20GenAI%E2%80%99s%20relevance.pdf)
 
+### FX Daily: Dollar to build a stronger footing
+來源: ING Think | 日期: 未知日期 | 頁數: 4 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/FX%20Daily_%20Dollar%20to%20build%20a%20stronger%20footing.pdf)
+
 ### Czech economy shows strong domestic fundamentals
 來源: ING Think | 日期: 未知日期 | 頁數: 5 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Czech%20economy%20shows%20strong%20domestic%20fundamentals.pdf)
@@ -19,10 +23,6 @@
 ### National Bank of Poland preview: May inflation gives time to assess oil shock
 來源: ING Think | 日期: 未知日期 | 頁數: 3 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/National%20Bank%20of%20Poland%20preview_%20May%20inflation%20gives%20time%20to%20assess%20oil%20shock.pdf)
-
-### Inflation picks up in France as recession risks mount
-來源: ING Think | 日期: 未知日期 | 頁數: 3 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Inflation%20picks%20up%20in%20France%20as%20recession%20risks%20mount.pdf)
 
 ### Rates Spark: Watch inflation expectations drift higher
 來源: ING Think | 日期: 未知日期 | 頁數: 3 頁
@@ -64,13 +64,557 @@
 來源: Yuanta (投資月報) | 日期: 未知日期 | 頁數: 11 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/2026%E5%B9%B41%E6%9C%88%E6%8A%95%E8%B3%87%E6%9C%88%E5%A0%B1.pdf)
 
+### 貯蓄額過去最高の陰で減少する高齢無職世帯の預貯金 ～2025年家計調査にみる物価高とデキュムレーション～
+來源: DLRI | 日期: 2026-06-01 | 頁數: 7 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E8%B2%AF%E8%93%84%E9%A1%8D%E9%81%8E%E5%8E%BB%E6%9C%80%E9%AB%98%E3%81%AE%E9%99%B0%E3%81%A7%E6%B8%9B%E5%B0%91%E3%81%99%E3%82%8B%E9%AB%98%E9%BD%A2%E7%84%A1%E8%81%B7%E4%B8%96%E5%B8%AF%E3%81%AE%E9%A0%90%E8%B2%AF%E9%87%91%20%EF%BD%9E2025%E5%B9%B4%E5%AE%B6%E8%A8%88%E8%AA%BF%E6%9F%BB%E3%81%AB%E3%81%BF%E3%82%8B%E7%89%A9%E4%BE%A1%E9%AB%98%E3%81%A8%E3%83%87%E3%82%AD%E3%83%A5%E3%83%A0%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BD%9E.pdf)
+
+### 確定拠出年金サービスの高度化に向けて
+來源: DLRI | 日期: 2026-06-01 | 頁數: 5 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%A2%BA%E5%AE%9A%E6%8B%A0%E5%87%BA%E5%B9%B4%E9%87%91%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AE%E9%AB%98%E5%BA%A6%E5%8C%96%E3%81%AB%E5%90%91%E3%81%91%E3%81%A6.pdf)
+
+### 米国とイランの交渉は最終局面か？ ～暫定合意は近くて遠いが、いずれまとまる～
+來源: DLRI | 日期: 2026-06-01 | 頁數: 3 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%B1%B3%E5%9B%BD%E3%81%A8%E3%82%A4%E3%83%A9%E3%83%B3%E3%81%AE%E4%BA%A4%E6%B8%89%E3%81%AF%E6%9C%80%E7%B5%82%E5%B1%80%E9%9D%A2%E3%81%8B%EF%BC%9F%20%EF%BD%9E%E6%9A%AB%E5%AE%9A%E5%90%88%E6%84%8F%E3%81%AF%E8%BF%91%E3%81%8F%E3%81%A6%E9%81%A0%E3%81%84%E3%81%8C%E3%80%81%E3%81%84%E3%81%9A%E3%82%8C%E3%81%BE%E3%81%A8%E3%81%BE%E3%82%8B%EF%BD%9E.pdf)
+
+### コロンビア大統領選､決選投票は極右と左派の一騎打ちに ～左翼ゲリラどうしの構想が情勢を一変､選挙結果は日本の原油調達戦略にも影響するか～
+來源: DLRI | 日期: 2026-06-01 | 頁數: 3 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2%E5%A4%A7%E7%B5%B1%E9%A0%98%E9%81%B8%EF%BD%A4%E6%B1%BA%E9%81%B8%E6%8A%95%E7%A5%A8%E3%81%AF%E6%A5%B5%E5%8F%B3%E3%81%A8%E5%B7%A6%E6%B4%BE%E3%81%AE%E4%B8%80%E9%A8%8E%E6%89%93%E3%81%A1%E3%81%AB%20%EF%BD%9E%E5%B7%A6%E7%BF%BC%E3%82%B2%E3%83%AA%E3%83%A9%E3%81%A9%E3%81%86%E3%81%97%E3%81%AE%E6%A7%8B%E6%83%B3%E3%81%8C%E6%83%85%E5%8B%A2%E3%82%92%E4%B8%80%E5%A4%89%EF%BD%A4%E9%81%B8%E6%8C%99%E7%B5%90%E6%9E%9C%E3%81%AF%E6%97%A5%E6%9C%AC%E3%81%AE%E5%8E%9F%E6%B2%B9%E8%AA%BF%E9%81%94%E6%88%A6%E7%95%A5%E3%81%AB%E3%82%82%E5%BD%B1%E9%9F%BF%E3%81%99%E3%82%8B%E3%81%8B%EF%BD%9E.pdf)
+
+### 中国宏观经济2026年6月报告：外需再超内需带动经济 再通胀加速趋势不变
+來源: 方正中期期货 | 日期: 2026-06-01 | 頁數: 60 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E4%B8%AD%E5%9B%BD%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E2026%E5%B9%B46%E6%9C%88%E6%8A%A5%E5%91%8A%EF%BC%9A%E5%A4%96%E9%9C%80%E5%86%8D%E8%B6%85%E5%86%85%E9%9C%80%E5%B8%A6%E5%8A%A8%E7%BB%8F%E6%B5%8E%20%E5%86%8D%E9%80%9A%E8%83%80%E5%8A%A0%E9%80%9F%E8%B6%8B%E5%8A%BF%E4%B8%8D%E5%8F%98.pdf)
+
+### 2026年5月PMI数据点评：制造业PMI稳于临界点，新动能与基建助力非制造业回暖
+來源: 西南证券 | 日期: 2026-06-01 | 頁數: 8 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/2026%E5%B9%B45%E6%9C%88PMI%E6%95%B0%E6%8D%AE%E7%82%B9%E8%AF%84%EF%BC%9A%E5%88%B6%E9%80%A0%E4%B8%9APMI%E7%A8%B3%E4%BA%8E%E4%B8%B4%E7%95%8C%E7%82%B9%EF%BC%8C%E6%96%B0%E5%8A%A8%E8%83%BD%E4%B8%8E%E5%9F%BA%E5%BB%BA%E5%8A%A9%E5%8A%9B%E9%9D%9E%E5%88%B6%E9%80%A0%E4%B8%9A%E5%9B%9E%E6%9A%96.pdf)
+
+### 宏观观点：海运霸权：从英荷争斗看美国布局
+來源: 中邮证券 | 日期: 2026-06-01 | 頁數: 34 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%AE%8F%E8%A7%82%E8%A7%82%E7%82%B9%EF%BC%9A%E6%B5%B7%E8%BF%90%E9%9C%B8%E6%9D%83%EF%BC%9A%E4%BB%8E%E8%8B%B1%E8%8D%B7%E4%BA%89%E6%96%97%E7%9C%8B%E7%BE%8E%E5%9B%BD%E5%B8%83%E5%B1%80.pdf)
+
+### 政策调整中，经济总量暂时回调
+來源:  | 日期: 2026-06-01 | 頁數: 14 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%94%BF%E7%AD%96%E8%B0%83%E6%95%B4%E4%B8%AD%EF%BC%8C%E7%BB%8F%E6%B5%8E%E6%80%BB%E9%87%8F%E6%9A%82%E6%97%B6%E5%9B%9E%E8%B0%83.pdf)
+
+### 地产专题分析报告：《城市更新“十五五”规划》的增量信息
+來源: 国金证券 | 日期: 2026-06-01 | 頁數: 6 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%9C%B0%E4%BA%A7%E4%B8%93%E9%A2%98%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A%EF%BC%9A%E3%80%8A%E5%9F%8E%E5%B8%82%E6%9B%B4%E6%96%B0%E2%80%9C%E5%8D%81%E4%BA%94%E4%BA%94%E2%80%9D%E8%A7%84%E5%88%92%E3%80%8B%E7%9A%84%E5%A2%9E%E9%87%8F%E4%BF%A1%E6%81%AF.pdf)
+
+### 宏观月报：地缘+AI背景下的经济分化
+來源: 光大期货 | 日期: 2026-06-01 | 頁數: 33 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%AE%8F%E8%A7%82%E6%9C%88%E6%8A%A5%EF%BC%9A%E5%9C%B0%E7%BC%98%2BAI%E8%83%8C%E6%99%AF%E4%B8%8B%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%88%86%E5%8C%96.pdf)
+
+### 海外周报：美伊冲突缓和，关注5月非农数据
+來源: 东吴证券 | 日期: 2026-06-01 | 頁數: 6 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%B5%B7%E5%A4%96%E5%91%A8%E6%8A%A5%EF%BC%9A%E7%BE%8E%E4%BC%8A%E5%86%B2%E7%AA%81%E7%BC%93%E5%92%8C%EF%BC%8C%E5%85%B3%E6%B3%A85%E6%9C%88%E9%9D%9E%E5%86%9C%E6%95%B0%E6%8D%AE.pdf)
+
+### 宏观周报（5月第4周）：5月PMI结构分化显著
+來源: 世纪证券 | 日期: 2026-06-01 | 頁數: 6 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%AE%8F%E8%A7%82%E5%91%A8%E6%8A%A5%EF%BC%885%E6%9C%88%E7%AC%AC4%E5%91%A8%EF%BC%89%EF%BC%9A5%E6%9C%88PMI%E7%BB%93%E6%9E%84%E5%88%86%E5%8C%96%E6%98%BE%E8%91%97.pdf)
+
+### 宏观月报：国内4月物价和出口表现较好 中东局势不断反复变化
+來源: 国信期货 | 日期: 2026-06-01 | 頁數: 20 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%AE%8F%E8%A7%82%E6%9C%88%E6%8A%A5%EF%BC%9A%E5%9B%BD%E5%86%854%E6%9C%88%E7%89%A9%E4%BB%B7%E5%92%8C%E5%87%BA%E5%8F%A3%E8%A1%A8%E7%8E%B0%E8%BE%83%E5%A5%BD%20%E4%B8%AD%E4%B8%9C%E5%B1%80%E5%8A%BF%E4%B8%8D%E6%96%AD%E5%8F%8D%E5%A4%8D%E5%8F%98%E5%8C%96.pdf)
+
+### 5月PMI数据解读：制造业守住荣枯线，外需显著下滑
+來源: 国信证券 | 日期: 2026-06-01 | 頁數: 6 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/5%E6%9C%88PMI%E6%95%B0%E6%8D%AE%E8%A7%A3%E8%AF%BB%EF%BC%9A%E5%88%B6%E9%80%A0%E4%B8%9A%E5%AE%88%E4%BD%8F%E8%8D%A3%E6%9E%AF%E7%BA%BF%EF%BC%8C%E5%A4%96%E9%9C%80%E6%98%BE%E8%91%97%E4%B8%8B%E6%BB%91.pdf)
+
+### 2026年5月PMI数据点评：5月经济景气度整体回升，涨价过程有所放缓
+來源: 东方金诚 | 日期: 2026-06-01 | 頁數: 3 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/2026%E5%B9%B45%E6%9C%88PMI%E6%95%B0%E6%8D%AE%E7%82%B9%E8%AF%84%EF%BC%9A5%E6%9C%88%E7%BB%8F%E6%B5%8E%E6%99%AF%E6%B0%94%E5%BA%A6%E6%95%B4%E4%BD%93%E5%9B%9E%E5%8D%87%EF%BC%8C%E6%B6%A8%E4%BB%B7%E8%BF%87%E7%A8%8B%E6%9C%89%E6%89%80%E6%94%BE%E7%BC%93.pdf)
+
+### 国内观察：2026年5月PMI：新旧分化或将延续
+來源: 东海证券 | 日期: 2026-06-01 | 頁數: 4 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%9B%BD%E5%86%85%E8%A7%82%E5%AF%9F%EF%BC%9A2026%E5%B9%B45%E6%9C%88PMI%EF%BC%9A%E6%96%B0%E6%97%A7%E5%88%86%E5%8C%96%E6%88%96%E5%B0%86%E5%BB%B6%E7%BB%AD.pdf)
+
+### 宏观量化经济指数周报：AI需求和低基数或支撑5月出口保持较强韧性
+來源: 东吴证券 | 日期: 2026-06-01 | 頁數: 15 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%AE%8F%E8%A7%82%E9%87%8F%E5%8C%96%E7%BB%8F%E6%B5%8E%E6%8C%87%E6%95%B0%E5%91%A8%E6%8A%A5%EF%BC%9AAI%E9%9C%80%E6%B1%82%E5%92%8C%E4%BD%8E%E5%9F%BA%E6%95%B0%E6%88%96%E6%94%AF%E6%92%915%E6%9C%88%E5%87%BA%E5%8F%A3%E4%BF%9D%E6%8C%81%E8%BE%83%E5%BC%BA%E9%9F%A7%E6%80%A7.pdf)
+
+### 地产专题分析报告：地产分化正在加剧
+來源: 国金证券 | 日期: 2026-06-01 | 頁數: 4 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%9C%B0%E4%BA%A7%E4%B8%93%E9%A2%98%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A%EF%BC%9A%E5%9C%B0%E4%BA%A7%E5%88%86%E5%8C%96%E6%AD%A3%E5%9C%A8%E5%8A%A0%E5%89%A7.pdf)
+
+### 投資策略週報：戰爭煙硝漸散去，美股維持多頭序曲
+來源: Fubon | 日期: 2026-06-01 | 頁數: 21 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%8A%95%E8%B3%87%E7%AD%96%E7%95%A5%E9%80%B1%E5%A0%B1%EF%BC%9A%E6%88%B0%E7%88%AD%E7%85%99%E7%A1%9D%E6%BC%B8%E6%95%A3%E5%8E%BB%EF%BC%8C%E7%BE%8E%E8%82%A1%E7%B6%AD%E6%8C%81%E5%A4%9A%E9%A0%AD%E5%BA%8F%E6%9B%B2.pdf)
+
+### 1304台聚 永豐
+來源: line報告備份 | 日期: 2026-06-01 | 頁數: 10 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/1304%E5%8F%B0%E8%81%9A%20%E6%B0%B8%E8%B1%90.pdf)
+
+### 1308亞聚 永豐
+來源: line報告備份 | 日期: 2026-06-01 | 頁數: 10 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/1308%E4%BA%9E%E8%81%9A%20%E6%B0%B8%E8%B1%90.pdf)
+
+### 2344華邦電 富邦
+來源: line報告備份 | 日期: 2026-06-01 | 頁數: 7 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/2344%E8%8F%AF%E9%82%A6%E9%9B%BB%20%E5%AF%8C%E9%82%A6.pdf)
+
+### 2428興勤 兆豐
+來源: line報告備份 | 日期: 2026-06-01 | 頁數: 8 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/2428%E8%88%88%E5%8B%A4%20%E5%85%86%E8%B1%90.pdf)
+
+### 2603長榮 宏遠
+來源: line報告備份 | 日期: 2026-06-01 | 頁數: 7 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/2603%E9%95%B7%E6%A6%AE%20%E5%AE%8F%E9%81%A0.pdf)
+
+### 260541_ms_alchip
+來源: line報告備份 | 日期: 2026-06-01 | 頁數: 9 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/260541_ms_alchip.pdf)
+
+### 2610華航 元大
+來源: line報告備份 | 日期: 2026-06-01 | 頁數: 18 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/2610%E8%8F%AF%E8%88%AA%20%E5%85%83%E5%A4%A7.pdf)
+
+### 2610華航 元富
+來源: line報告備份 | 日期: 2026-06-01 | 頁數: 6 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/2610%E8%8F%AF%E8%88%AA%20%E5%85%83%E5%AF%8C.pdf)
+
+### 2755揚秦 永豐
+來源: line報告備份 | 日期: 2026-06-01 | 頁數: 8 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/2755%E6%8F%9A%E7%A7%A6%20%E6%B0%B8%E8%B1%90.pdf)
+
+### 3346麗清 宏遠
+來源: line報告備份 | 日期: 2026-06-01 | 頁數: 6 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/3346%E9%BA%97%E6%B8%85%20%E5%AE%8F%E9%81%A0.pdf)
+
+### 3532台勝科 第一金
+來源: line報告備份 | 日期: 2026-06-01 | 頁數: 11 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/3532%E5%8F%B0%E5%8B%9D%E7%A7%91%20%E7%AC%AC%E4%B8%80%E9%87%91.pdf)
+
+### 3706神達 群益
+來源: line報告備份 | 日期: 2026-06-01 | 頁數: 8 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/3706%E7%A5%9E%E9%81%94%20%E7%BE%A4%E7%9B%8A.pdf)
+
+### 4590富田 宏遠
+來源: line報告備份 | 日期: 2026-06-01 | 頁數: 7 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/4590%E5%AF%8C%E7%94%B0%20%E5%AE%8F%E9%81%A0.pdf)
+
+### 4a5b6b11-30d9-4e76-93d8-112bfceb1f7a
+來源: line報告備份 | 日期: 2026-06-01 | 頁數: 3 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/4a5b6b11-30d9-4e76-93d8-112bfceb1f7a.pdf)
+
+### 5269祥碩 元大
+來源: line報告備份 | 日期: 2026-06-01 | 頁數: 14 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/5269%E7%A5%A5%E7%A2%A9%20%E5%85%83%E5%A4%A7.pdf)
+
+### 5536聖暉 群益
+來源: line報告備份 | 日期: 2026-06-01 | 頁數: 3 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/5536%E8%81%96%E6%9A%89%20%E7%BE%A4%E7%9B%8A.pdf)
+
+### 6669緯穎 兆豐
+來源: line報告備份 | 日期: 2026-06-01 | 頁數: 9 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/6669%E7%B7%AF%E7%A9%8E%20%E5%85%86%E8%B1%90.pdf)
+
+### 7827漢康 宏遠
+來源: line報告備份 | 日期: 2026-06-01 | 頁數: 12 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/7827%E6%BC%A2%E5%BA%B7%20%E5%AE%8F%E9%81%A0.pdf)
+
+### 8028昇陽半 富邦
+來源: line報告備份 | 日期: 2026-06-01 | 頁數: 8 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/8028%E6%98%87%E9%99%BD%E5%8D%8A%20%E5%AF%8C%E9%82%A6.pdf)
+
+### Aletheia-Kioxia Holdings 0531
+來源: line報告備份 | 日期: 2026-06-01 | 頁數: 19 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Aletheia-Kioxia%20Holdings%200531.pdf)
+
+### GF - PTFE midplane
+來源: line報告備份 | 日期: 2026-06-01 | 頁數: 3 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/GF%20-%20PTFE%20midplane.pdf)
+
+### 三集瑞-KY(6862,Note)-CTBC260601
+來源: line報告備份 | 日期: 2026-06-01 | 頁數: 13 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E4%B8%89%E9%9B%86%E7%91%9E-KY%286862%2CNote%29-CTBC260601.pdf)
+
+### 國泰金(2882,OW_增加持股)-CTBC260601
+來源: line報告備份 | 日期: 2026-06-01 | 頁數: 10 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%9C%8B%E6%B3%B0%E9%87%91%282882%2COW_%E5%A2%9E%E5%8A%A0%E6%8C%81%E8%82%A1%29-CTBC260601.pdf)
+
+### 2026年6月1日匯率利率資訊
+來源: Mega Bank (匯率利率資訊) | 日期: 2026-06-01 | 頁數: 7 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/2026%E5%B9%B46%E6%9C%881%E6%97%A5%E5%8C%AF%E7%8E%87%E5%88%A9%E7%8E%87%E8%B3%87%E8%A8%8A.pdf)
+
+### 2026年1～3月期のGDP（2次速報）予測
+來源: MURC | 日期: 2026-06-01 | 頁數: 2 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/2026%E5%B9%B41%EF%BD%9E3%E6%9C%88%E6%9C%9F%E3%81%AEGDP%EF%BC%882%E6%AC%A1%E9%80%9F%E5%A0%B1%EF%BC%89%E4%BA%88%E6%B8%AC.pdf)
+
+### AI PC海啸引爆周末：英伟达亲自下场！大厂预计重塑万亿PC产业生态！
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 1 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/AI%20PC%E6%B5%B7%E5%95%B8%E5%BC%95%E7%88%86%E5%91%A8%E6%9C%AB%EF%BC%9A%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%BA%B2%E8%87%AA%E4%B8%8B%E5%9C%BA%EF%BC%81%E5%A4%A7%E5%8E%82%E9%A2%84%E8%AE%A1%E9%87%8D%E5%A1%91%E4%B8%87%E4%BA%BFPC%E4%BA%A7%E4%B8%9A%E7%94%9F%E6%80%81%EF%BC%81.pdf)
+
+### MiniMax新旗舰M3发布！自己干了12小时复现获奖论文，三条科技树同时点满
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 5 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/MiniMax%E6%96%B0%E6%97%97%E8%88%B0M3%E5%8F%91%E5%B8%83%EF%BC%81%E8%87%AA%E5%B7%B1%E5%B9%B2%E4%BA%8612%E5%B0%8F%E6%97%B6%E5%A4%8D%E7%8E%B0%E8%8E%B7%E5%A5%96%E8%AE%BA%E6%96%87%EF%BC%8C%E4%B8%89%E6%9D%A1%E7%A7%91%E6%8A%80%E6%A0%91%E5%90%8C%E6%97%B6%E7%82%B9%E6%BB%A1.pdf)
+
+### 告别母行依赖，32家理财子全部打通非母行代销渠道
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 2 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%91%8A%E5%88%AB%E6%AF%8D%E8%A1%8C%E4%BE%9D%E8%B5%96%EF%BC%8C32%E5%AE%B6%E7%90%86%E8%B4%A2%E5%AD%90%E5%85%A8%E9%83%A8%E6%89%93%E9%80%9A%E9%9D%9E%E6%AF%8D%E8%A1%8C%E4%BB%A3%E9%94%80%E6%B8%A0%E9%81%93.pdf)
+
+### 调任金监局一把手后，丁向群正式作别人保
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 2 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E8%B0%83%E4%BB%BB%E9%87%91%E7%9B%91%E5%B1%80%E4%B8%80%E6%8A%8A%E6%89%8B%E5%90%8E%EF%BC%8C%E4%B8%81%E5%90%91%E7%BE%A4%E6%AD%A3%E5%BC%8F%E4%BD%9C%E5%88%AB%E4%BA%BA%E4%BF%9D.pdf)
+
+### 英伟达掀桌，Windows 终于迎来真 AI PC
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 1 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%8E%80%E6%A1%8C%EF%BC%8CWindows%20%E7%BB%88%E4%BA%8E%E8%BF%8E%E6%9D%A5%E7%9C%9F%20AI%20PC.pdf)
+
+### 《国务院关于对外投资的规定》有何制定背景，适用于哪些情形？三部委负责人答问
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 8 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%80%8A%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%85%B3%E4%BA%8E%E5%AF%B9%E5%A4%96%E6%8A%95%E8%B5%84%E7%9A%84%E8%A7%84%E5%AE%9A%E3%80%8B%E6%9C%89%E4%BD%95%E5%88%B6%E5%AE%9A%E8%83%8C%E6%99%AF%EF%BC%8C%E9%80%82%E7%94%A8%E4%BA%8E%E5%93%AA%E4%BA%9B%E6%83%85%E5%BD%A2%EF%BC%9F%E4%B8%89%E9%83%A8%E5%A7%94%E8%B4%9F%E8%B4%A3%E4%BA%BA%E7%AD%94%E9%97%AE.pdf)
+
+### 长鑫IPO将至，怎么看A股后续走势？
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 4 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E9%95%BF%E9%91%ABIPO%E5%B0%86%E8%87%B3%EF%BC%8C%E6%80%8E%E4%B9%88%E7%9C%8BA%E8%82%A1%E5%90%8E%E7%BB%AD%E8%B5%B0%E5%8A%BF%EF%BC%9F.pdf)
+
+### AI热情主导市场，日韩股市齐创新高，三星电子大涨10%，油价攀升
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 4 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/AI%E7%83%AD%E6%83%85%E4%B8%BB%E5%AF%BC%E5%B8%82%E5%9C%BA%EF%BC%8C%E6%97%A5%E9%9F%A9%E8%82%A1%E5%B8%82%E9%BD%90%E5%88%9B%E6%96%B0%E9%AB%98%EF%BC%8C%E4%B8%89%E6%98%9F%E7%94%B5%E5%AD%90%E5%A4%A7%E6%B6%A810%25%EF%BC%8C%E6%B2%B9%E4%BB%B7%E6%94%80%E5%8D%87.pdf)
+
+### 1660亿退税救不了美国消费 AI独木撑不住美国经济
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 2 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/1660%E4%BA%BF%E9%80%80%E7%A8%8E%E6%95%91%E4%B8%8D%E4%BA%86%E7%BE%8E%E5%9B%BD%E6%B6%88%E8%B4%B9%20AI%E7%8B%AC%E6%9C%A8%E6%92%91%E4%B8%8D%E4%BD%8F%E7%BE%8E%E5%9B%BD%E7%BB%8F%E6%B5%8E.pdf)
+
+### Skew失灵！高盛波动率团队：美股10%暴涨与10%暴跌竟被赋予相同定价
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 3 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Skew%E5%A4%B1%E7%81%B5%EF%BC%81%E9%AB%98%E7%9B%9B%E6%B3%A2%E5%8A%A8%E7%8E%87%E5%9B%A2%E9%98%9F%EF%BC%9A%E7%BE%8E%E8%82%A110%25%E6%9A%B4%E6%B6%A8%E4%B8%8E10%25%E6%9A%B4%E8%B7%8C%E7%AB%9F%E8%A2%AB%E8%B5%8B%E4%BA%88%E7%9B%B8%E5%90%8C%E5%AE%9A%E4%BB%B7.pdf)
+
+### 美伊又打起来了，特朗普：伊朗“确实想要”达成协议
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 2 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%BE%8E%E4%BC%8A%E5%8F%88%E6%89%93%E8%B5%B7%E6%9D%A5%E4%BA%86%EF%BC%8C%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E2%80%9C%E7%A1%AE%E5%AE%9E%E6%83%B3%E8%A6%81%E2%80%9D%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE.pdf)
+
+### AI“泡沫”走到了哪一步？
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 1 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/AI%E2%80%9C%E6%B3%A1%E6%B2%AB%E2%80%9D%E8%B5%B0%E5%88%B0%E4%BA%86%E5%93%AA%E4%B8%80%E6%AD%A5%EF%BC%9F.pdf)
+
+### 英伟达GTC ：Vera Rubin全面量产，杀入PC芯片市场，携宇树布局机器人
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 14 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E8%8B%B1%E4%BC%9F%E8%BE%BEGTC%20%EF%BC%9AVera%20Rubin%E5%85%A8%E9%9D%A2%E9%87%8F%E4%BA%A7%EF%BC%8C%E6%9D%80%E5%85%A5PC%E8%8A%AF%E7%89%87%E5%B8%82%E5%9C%BA%EF%BC%8C%E6%90%BA%E5%AE%87%E6%A0%91%E5%B8%83%E5%B1%80%E6%9C%BA%E5%99%A8%E4%BA%BA.pdf)
+
+### 黄仁勋即将会见LG集团会长，LG电子连续涨停、年内飙升300%
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 2 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E9%BB%84%E4%BB%81%E5%8B%8B%E5%8D%B3%E5%B0%86%E4%BC%9A%E8%A7%81LG%E9%9B%86%E5%9B%A2%E4%BC%9A%E9%95%BF%EF%BC%8CLG%E7%94%B5%E5%AD%90%E8%BF%9E%E7%BB%AD%E6%B6%A8%E5%81%9C%E3%80%81%E5%B9%B4%E5%86%85%E9%A3%99%E5%8D%87300%25.pdf)
+
+### 软银超越丰田成日本市值最大公司，20年霸主易位
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 2 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E8%BD%AF%E9%93%B6%E8%B6%85%E8%B6%8A%E4%B8%B0%E7%94%B0%E6%88%90%E6%97%A5%E6%9C%AC%E5%B8%82%E5%80%BC%E6%9C%80%E5%A4%A7%E5%85%AC%E5%8F%B8%EF%BC%8C20%E5%B9%B4%E9%9C%B8%E4%B8%BB%E6%98%93%E4%BD%8D.pdf)
+
+### 超越贸易结算：人民币国际化迎来黄金窗口
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 2 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E8%B6%85%E8%B6%8A%E8%B4%B8%E6%98%93%E7%BB%93%E7%AE%97%EF%BC%9A%E4%BA%BA%E6%B0%91%E5%B8%81%E5%9B%BD%E9%99%85%E5%8C%96%E8%BF%8E%E6%9D%A5%E9%BB%84%E9%87%91%E7%AA%97%E5%8F%A3.pdf)
+
+### SK海力士韩国芯片工厂气体泄漏，3600人紧急疏散、6人受伤
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 1 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E9%9F%A9%E5%9B%BD%E8%8A%AF%E7%89%87%E5%B7%A5%E5%8E%82%E6%B0%94%E4%BD%93%E6%B3%84%E6%BC%8F%EF%BC%8C3600%E4%BA%BA%E7%B4%A7%E6%80%A5%E7%96%8F%E6%95%A3%E3%80%816%E4%BA%BA%E5%8F%97%E4%BC%A4.pdf)
+
+### SpaceX领衔，4万亿美元IPO冲击，市场能消化吗？高盛：没问题，美银：泡沫已逼近历史极值
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 3 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/SpaceX%E9%A2%86%E8%A1%94%EF%BC%8C4%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83IPO%E5%86%B2%E5%87%BB%EF%BC%8C%E5%B8%82%E5%9C%BA%E8%83%BD%E6%B6%88%E5%8C%96%E5%90%97%EF%BC%9F%E9%AB%98%E7%9B%9B%EF%BC%9A%E6%B2%A1%E9%97%AE%E9%A2%98%EF%BC%8C%E7%BE%8E%E9%93%B6%EF%BC%9A%E6%B3%A1%E6%B2%AB%E5%B7%B2%E9%80%BC%E8%BF%91%E5%8E%86%E5%8F%B2%E6%9E%81%E5%80%BC.pdf)
+
+### 高盛上调铜目标价！美国“囤货潮”加剧全球供应紧张
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 4 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E9%AB%98%E7%9B%9B%E4%B8%8A%E8%B0%83%E9%93%9C%E7%9B%AE%E6%A0%87%E4%BB%B7%EF%BC%81%E7%BE%8E%E5%9B%BD%E2%80%9C%E5%9B%A4%E8%B4%A7%E6%BD%AE%E2%80%9D%E5%8A%A0%E5%89%A7%E5%85%A8%E7%90%83%E4%BE%9B%E5%BA%94%E7%B4%A7%E5%BC%A0.pdf)
+
+### 从流量狂欢到利润为王：化妆品行业的五年之痛与复苏信号
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 3 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E4%BB%8E%E6%B5%81%E9%87%8F%E7%8B%82%E6%AC%A2%E5%88%B0%E5%88%A9%E6%B6%A6%E4%B8%BA%E7%8E%8B%EF%BC%9A%E5%8C%96%E5%A6%86%E5%93%81%E8%A1%8C%E4%B8%9A%E7%9A%84%E4%BA%94%E5%B9%B4%E4%B9%8B%E7%97%9B%E4%B8%8E%E5%A4%8D%E8%8B%8F%E4%BF%A1%E5%8F%B7.pdf)
+
+### 李乐成《人民日报》撰文：加快前瞻布局和发展未来产业
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 4 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%9D%8E%E4%B9%90%E6%88%90%E3%80%8A%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E3%80%8B%E6%92%B0%E6%96%87%EF%BC%9A%E5%8A%A0%E5%BF%AB%E5%89%8D%E7%9E%BB%E5%B8%83%E5%B1%80%E5%92%8C%E5%8F%91%E5%B1%95%E6%9C%AA%E6%9D%A5%E4%BA%A7%E4%B8%9A.pdf)
+
+### 30年美债收益率再破5%，“一切都廉价”的时代落幕了
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 3 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/30%E5%B9%B4%E7%BE%8E%E5%80%BA%E6%94%B6%E7%9B%8A%E7%8E%87%E5%86%8D%E7%A0%B45%25%EF%BC%8C%E2%80%9C%E4%B8%80%E5%88%87%E9%83%BD%E5%BB%89%E4%BB%B7%E2%80%9D%E7%9A%84%E6%97%B6%E4%BB%A3%E8%90%BD%E5%B9%95%E4%BA%86.pdf)
+
+### 美债交易员押注美联储加息，五月非农将成关键检验
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 2 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%BE%8E%E5%80%BA%E4%BA%A4%E6%98%93%E5%91%98%E6%8A%BC%E6%B3%A8%E7%BE%8E%E8%81%94%E5%82%A8%E5%8A%A0%E6%81%AF%EF%BC%8C%E4%BA%94%E6%9C%88%E9%9D%9E%E5%86%9C%E5%B0%86%E6%88%90%E5%85%B3%E9%94%AE%E6%A3%80%E9%AA%8C.pdf)
+
+### OpenAI正式成立机器人团队，进军实体世界AI
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 3 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/OpenAI%E6%AD%A3%E5%BC%8F%E6%88%90%E7%AB%8B%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%9B%A2%E9%98%9F%EF%BC%8C%E8%BF%9B%E5%86%9B%E5%AE%9E%E4%BD%93%E4%B8%96%E7%95%8CAI.pdf)
+
+### 日落之后：英国的生死大考【付鹏说 深度文章】
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 6 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%97%A5%E8%90%BD%E4%B9%8B%E5%90%8E%EF%BC%9A%E8%8B%B1%E5%9B%BD%E7%9A%84%E7%94%9F%E6%AD%BB%E5%A4%A7%E8%80%83%E3%80%90%E4%BB%98%E9%B9%8F%E8%AF%B4%20%E6%B7%B1%E5%BA%A6%E6%96%87%E7%AB%A0%E3%80%91.pdf)
+
+### 史上最大IPO SpaceX：强行改写指数规则，散户或成定价关键
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 3 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7IPO%20SpaceX%EF%BC%9A%E5%BC%BA%E8%A1%8C%E6%94%B9%E5%86%99%E6%8C%87%E6%95%B0%E8%A7%84%E5%88%99%EF%BC%8C%E6%95%A3%E6%88%B7%E6%88%96%E6%88%90%E5%AE%9A%E4%BB%B7%E5%85%B3%E9%94%AE.pdf)
+
+### 中国5月RatingDog制造业PMI 51.8，连续第六个月扩张，通胀压力出现缓解
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 3 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E4%B8%AD%E5%9B%BD5%E6%9C%88RatingDog%E5%88%B6%E9%80%A0%E4%B8%9APMI%2051.8%EF%BC%8C%E8%BF%9E%E7%BB%AD%E7%AC%AC%E5%85%AD%E4%B8%AA%E6%9C%88%E6%89%A9%E5%BC%A0%EF%BC%8C%E9%80%9A%E8%83%80%E5%8E%8B%E5%8A%9B%E5%87%BA%E7%8E%B0%E7%BC%93%E8%A7%A3.pdf)
+
+### 戴尔暴涨，大摩“认错”：对硬件周期过于保守了
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 4 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%88%B4%E5%B0%94%E6%9A%B4%E6%B6%A8%EF%BC%8C%E5%A4%A7%E6%91%A9%E2%80%9C%E8%AE%A4%E9%94%99%E2%80%9D%EF%BC%9A%E5%AF%B9%E7%A1%AC%E4%BB%B6%E5%91%A8%E6%9C%9F%E8%BF%87%E4%BA%8E%E4%BF%9D%E5%AE%88%E4%BA%86.pdf)
+
+### 科技背后的买卖盘
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 17 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%A7%91%E6%8A%80%E8%83%8C%E5%90%8E%E7%9A%84%E4%B9%B0%E5%8D%96%E7%9B%98.pdf)
+
+### 油价跌了黄金也没涨，市场开始担心一个新问题
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 8 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%B2%B9%E4%BB%B7%E8%B7%8C%E4%BA%86%E9%BB%84%E9%87%91%E4%B9%9F%E6%B2%A1%E6%B6%A8%EF%BC%8C%E5%B8%82%E5%9C%BA%E5%BC%80%E5%A7%8B%E6%8B%85%E5%BF%83%E4%B8%80%E4%B8%AA%E6%96%B0%E9%97%AE%E9%A2%98.pdf)
+
+### 高盛也支持“存储PE估值”，上调海力士、三星和铠侠“三巨头”目标价
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 6 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E9%AB%98%E7%9B%9B%E4%B9%9F%E6%94%AF%E6%8C%81%E2%80%9C%E5%AD%98%E5%82%A8PE%E4%BC%B0%E5%80%BC%E2%80%9D%EF%BC%8C%E4%B8%8A%E8%B0%83%E6%B5%B7%E5%8A%9B%E5%A3%AB%E3%80%81%E4%B8%89%E6%98%9F%E5%92%8C%E9%93%A0%E4%BE%A0%E2%80%9C%E4%B8%89%E5%B7%A8%E5%A4%B4%E2%80%9D%E7%9B%AE%E6%A0%87%E4%BB%B7.pdf)
+
+### 百亿基金集体“创新高”：一场必要的估值修复
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 4 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%99%BE%E4%BA%BF%E5%9F%BA%E9%87%91%E9%9B%86%E4%BD%93%E2%80%9C%E5%88%9B%E6%96%B0%E9%AB%98%E2%80%9D%EF%BC%9A%E4%B8%80%E5%9C%BA%E5%BF%85%E8%A6%81%E7%9A%84%E4%BC%B0%E5%80%BC%E4%BF%AE%E5%A4%8D.pdf)
+
+### 伯克希尔“新王”上任“第一把火”：85亿美元！卖油气，买地产
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 3 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E4%BC%AF%E5%85%8B%E5%B8%8C%E5%B0%94%E2%80%9C%E6%96%B0%E7%8E%8B%E2%80%9D%E4%B8%8A%E4%BB%BB%E2%80%9C%E7%AC%AC%E4%B8%80%E6%8A%8A%E7%81%AB%E2%80%9D%EF%BC%9A85%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%81%E5%8D%96%E6%B2%B9%E6%B0%94%EF%BC%8C%E4%B9%B0%E5%9C%B0%E4%BA%A7.pdf)
+
+### 这个周末，美伊忙着“改条件”，以色列忙着打黎巴嫩
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 3 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E8%BF%99%E4%B8%AA%E5%91%A8%E6%9C%AB%EF%BC%8C%E7%BE%8E%E4%BC%8A%E5%BF%99%E7%9D%80%E2%80%9C%E6%94%B9%E6%9D%A1%E4%BB%B6%E2%80%9D%EF%BC%8C%E4%BB%A5%E8%89%B2%E5%88%97%E5%BF%99%E7%9D%80%E6%89%93%E9%BB%8E%E5%B7%B4%E5%AB%A9.pdf)
+
+### 沃什改写“美联储最爱的通胀指标”，2021年“通胀低估”会重演吗？
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 1 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%B2%83%E4%BB%80%E6%94%B9%E5%86%99%E2%80%9C%E7%BE%8E%E8%81%94%E5%82%A8%E6%9C%80%E7%88%B1%E7%9A%84%E9%80%9A%E8%83%80%E6%8C%87%E6%A0%87%E2%80%9D%EF%BC%8C2021%E5%B9%B4%E2%80%9C%E9%80%9A%E8%83%80%E4%BD%8E%E4%BC%B0%E2%80%9D%E4%BC%9A%E9%87%8D%E6%BC%94%E5%90%97%EF%BC%9F.pdf)
+
+### 华尔街见闻早餐FM-Radio | 2026年6月1日
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 10 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%8D%8E%E5%B0%94%E8%A1%97%E8%A7%81%E9%97%BB%E6%97%A9%E9%A4%90FM-Radio%20_%202026%E5%B9%B46%E6%9C%881%E6%97%A5.pdf)
+
+### 6月1日会员早报：加拿大率先滑入"技术性衰退" 四大国际机构罕见联合警告今夏全球恐陷危机
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 2 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/6%E6%9C%881%E6%97%A5%E4%BC%9A%E5%91%98%E6%97%A9%E6%8A%A5%EF%BC%9A%E5%8A%A0%E6%8B%BF%E5%A4%A7%E7%8E%87%E5%85%88%E6%BB%91%E5%85%A5_%E6%8A%80%E6%9C%AF%E6%80%A7%E8%A1%B0%E9%80%80_%20%E5%9B%9B%E5%A4%A7%E5%9B%BD%E9%99%85%E6%9C%BA%E6%9E%84%E7%BD%95%E8%A7%81%E8%81%94%E5%90%88%E8%AD%A6%E5%91%8A%E4%BB%8A%E5%A4%8F%E5%85%A8%E7%90%83%E6%81%90%E9%99%B7%E5%8D%B1%E6%9C%BA.pdf)
+
+### 本周重磅日程：美非农、ComputeX大会、宇树IPO上会、美团博通财报
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 6 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%9C%AC%E5%91%A8%E9%87%8D%E7%A3%85%E6%97%A5%E7%A8%8B%EF%BC%9A%E7%BE%8E%E9%9D%9E%E5%86%9C%E3%80%81ComputeX%E5%A4%A7%E4%BC%9A%E3%80%81%E5%AE%87%E6%A0%91IPO%E4%B8%8A%E4%BC%9A%E3%80%81%E7%BE%8E%E5%9B%A2%E5%8D%9A%E9%80%9A%E8%B4%A2%E6%8A%A5.pdf)
+
+### 每天起床第一件事是看海力士股价！高盛合伙人感叹：人们满脑子都是杠杆，没有恐惧
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 6 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%AF%8F%E5%A4%A9%E8%B5%B7%E5%BA%8A%E7%AC%AC%E4%B8%80%E4%BB%B6%E4%BA%8B%E6%98%AF%E7%9C%8B%E6%B5%B7%E5%8A%9B%E5%A3%AB%E8%82%A1%E4%BB%B7%EF%BC%81%E9%AB%98%E7%9B%9B%E5%90%88%E4%BC%99%E4%BA%BA%E6%84%9F%E5%8F%B9%EF%BC%9A%E4%BA%BA%E4%BB%AC%E6%BB%A1%E8%84%91%E5%AD%90%E9%83%BD%E6%98%AF%E6%9D%A0%E6%9D%86%EF%BC%8C%E6%B2%A1%E6%9C%89%E6%81%90%E6%83%A7.pdf)
+
+### 6月，验牌
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 7 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/6%E6%9C%88%EF%BC%8C%E9%AA%8C%E7%89%8C.pdf)
+
+### 6月变盘点？这是不看好SpaceX IPO的12个理由
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 6 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/6%E6%9C%88%E5%8F%98%E7%9B%98%E7%82%B9%EF%BC%9F%E8%BF%99%E6%98%AF%E4%B8%8D%E7%9C%8B%E5%A5%BDSpaceX%20IPO%E7%9A%8412%E4%B8%AA%E7%90%86%E7%94%B1.pdf)
+
+### 高盛加入“AI瓶颈交易”：MLCC是新存储，已成AI服务器“第三大成本项”
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 5 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E9%AB%98%E7%9B%9B%E5%8A%A0%E5%85%A5%E2%80%9CAI%E7%93%B6%E9%A2%88%E4%BA%A4%E6%98%93%E2%80%9D%EF%BC%9AMLCC%E6%98%AF%E6%96%B0%E5%AD%98%E5%82%A8%EF%BC%8C%E5%B7%B2%E6%88%90AI%E6%9C%8D%E5%8A%A1%E5%99%A8%E2%80%9C%E7%AC%AC%E4%B8%89%E5%A4%A7%E6%88%90%E6%9C%AC%E9%A1%B9%E2%80%9D.pdf)
+
+### 5月PMI：临界点考验
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 2 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/5%E6%9C%88PMI%EF%BC%9A%E4%B8%B4%E7%95%8C%E7%82%B9%E8%80%83%E9%AA%8C.pdf)
+
+### 戴尔、诺基亚、联想、思科---科技“老登”在AI时代的逆袭
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 5 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%88%B4%E5%B0%94%E3%80%81%E8%AF%BA%E5%9F%BA%E4%BA%9A%E3%80%81%E8%81%94%E6%83%B3%E3%80%81%E6%80%9D%E7%A7%91---%E7%A7%91%E6%8A%80%E2%80%9C%E8%80%81%E7%99%BB%E2%80%9D%E5%9C%A8AI%E6%97%B6%E4%BB%A3%E7%9A%84%E9%80%86%E8%A2%AD.pdf)
+
+### 《求是》杂志发表习近平总书记重要文章《前瞻布局和发展未来产业》
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 2 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%80%8A%E6%B1%82%E6%98%AF%E3%80%8B%E6%9D%82%E5%BF%97%E5%8F%91%E8%A1%A8%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E9%87%8D%E8%A6%81%E6%96%87%E7%AB%A0%E3%80%8A%E5%89%8D%E7%9E%BB%E5%B8%83%E5%B1%80%E5%92%8C%E5%8F%91%E5%B1%95%E6%9C%AA%E6%9D%A5%E4%BA%A7%E4%B8%9A%E3%80%8B.pdf)
+
+### SpaceX、OpenAI上市在即，亚洲投资者“卖芯片，买瓶颈”，押注“新一轮资本开支”
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 3 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/SpaceX%E3%80%81OpenAI%E4%B8%8A%E5%B8%82%E5%9C%A8%E5%8D%B3%EF%BC%8C%E4%BA%9A%E6%B4%B2%E6%8A%95%E8%B5%84%E8%80%85%E2%80%9C%E5%8D%96%E8%8A%AF%E7%89%87%EF%BC%8C%E4%B9%B0%E7%93%B6%E9%A2%88%E2%80%9D%EF%BC%8C%E6%8A%BC%E6%B3%A8%E2%80%9C%E6%96%B0%E4%B8%80%E8%BD%AE%E8%B5%84%E6%9C%AC%E5%BC%80%E6%94%AF%E2%80%9D.pdf)
+
+### 高杠杆、高风险！美国批准首批“永续合约”，全面拥抱“币圈交易模式”
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 3 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E9%AB%98%E6%9D%A0%E6%9D%86%E3%80%81%E9%AB%98%E9%A3%8E%E9%99%A9%EF%BC%81%E7%BE%8E%E5%9B%BD%E6%89%B9%E5%87%86%E9%A6%96%E6%89%B9%E2%80%9C%E6%B0%B8%E7%BB%AD%E5%90%88%E7%BA%A6%E2%80%9D%EF%BC%8C%E5%85%A8%E9%9D%A2%E6%8B%A5%E6%8A%B1%E2%80%9C%E5%B8%81%E5%9C%88%E4%BA%A4%E6%98%93%E6%A8%A1%E5%BC%8F%E2%80%9D.pdf)
+
+### 美银Hartnett：泡沫破裂时该交易什么？
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 3 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%BE%8E%E9%93%B6Hartnett%EF%BC%9A%E6%B3%A1%E6%B2%AB%E7%A0%B4%E8%A3%82%E6%97%B6%E8%AF%A5%E4%BA%A4%E6%98%93%E4%BB%80%E4%B9%88%EF%BC%9F.pdf)
+
+### 黄仁勋预告“PC新时代”：英伟达不想只卖GPU了，开始抢下一代AI PC入口
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 4 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E9%BB%84%E4%BB%81%E5%8B%8B%E9%A2%84%E5%91%8A%E2%80%9CPC%E6%96%B0%E6%97%B6%E4%BB%A3%E2%80%9D%EF%BC%9A%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%B8%8D%E6%83%B3%E5%8F%AA%E5%8D%96GPU%E4%BA%86%EF%BC%8C%E5%BC%80%E5%A7%8B%E6%8A%A2%E4%B8%8B%E4%B8%80%E4%BB%A3AI%20PC%E5%85%A5%E5%8F%A3.pdf)
+
+### 当胡彦斌1个月写出APP，AI时代已经扑面而来
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 7 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%BD%93%E8%83%A1%E5%BD%A6%E6%96%8C1%E4%B8%AA%E6%9C%88%E5%86%99%E5%87%BAAPP%EF%BC%8CAI%E6%97%B6%E4%BB%A3%E5%B7%B2%E7%BB%8F%E6%89%91%E9%9D%A2%E8%80%8C%E6%9D%A5.pdf)
+
+### 库存见底之后：补库潮能否再度引爆油轮运价？
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 2 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%BA%93%E5%AD%98%E8%A7%81%E5%BA%95%E4%B9%8B%E5%90%8E%EF%BC%9A%E8%A1%A5%E5%BA%93%E6%BD%AE%E8%83%BD%E5%90%A6%E5%86%8D%E5%BA%A6%E5%BC%95%E7%88%86%E6%B2%B9%E8%BD%AE%E8%BF%90%E4%BB%B7%EF%BC%9F.pdf)
+
+### 美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 2 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%BE%8E%E4%BC%8A%E8%B0%88%E5%88%A4%E8%BF%9B%E5%85%A5%E5%85%B3%E9%94%AE%E6%8B%89%E9%94%AF%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%B4%E6%97%B6%E6%94%B9%E5%8D%8F%E8%AE%AE%EF%BC%8C%E7%AD%BE%E7%BD%B2%E6%97%B6%E9%97%B4%E5%86%8D%E7%94%9F%E5%8F%98%E6%95%B0.pdf)
+
+### GitHub不装了，用户炸锅了！AI编程的低价时代结束，从此按token计费
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 2 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/GitHub%E4%B8%8D%E8%A3%85%E4%BA%86%EF%BC%8C%E7%94%A8%E6%88%B7%E7%82%B8%E9%94%85%E4%BA%86%EF%BC%81AI%E7%BC%96%E7%A8%8B%E7%9A%84%E4%BD%8E%E4%BB%B7%E6%97%B6%E4%BB%A3%E7%BB%93%E6%9D%9F%EF%BC%8C%E4%BB%8E%E6%AD%A4%E6%8C%89token%E8%AE%A1%E8%B4%B9.pdf)
+
+### 上海楼市为何先止跌？哪些城市有望跟进？
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 8 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E4%B8%8A%E6%B5%B7%E6%A5%BC%E5%B8%82%E4%B8%BA%E4%BD%95%E5%85%88%E6%AD%A2%E8%B7%8C%EF%BC%9F%E5%93%AA%E4%BA%9B%E5%9F%8E%E5%B8%82%E6%9C%89%E6%9C%9B%E8%B7%9F%E8%BF%9B%EF%BC%9F.pdf)
+
+### 中国5月官方制造业PMI 50，非制造业PMI回升至50.1
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 5 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E4%B8%AD%E5%9B%BD5%E6%9C%88%E5%AE%98%E6%96%B9%E5%88%B6%E9%80%A0%E4%B8%9APMI%2050%EF%BC%8C%E9%9D%9E%E5%88%B6%E9%80%A0%E4%B8%9APMI%E5%9B%9E%E5%8D%87%E8%87%B350.1.pdf)
+
+### 750亿欧元砸向法国，孙正义要打造欧洲最大数据中心
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 2 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/750%E4%BA%BF%E6%AC%A7%E5%85%83%E7%A0%B8%E5%90%91%E6%B3%95%E5%9B%BD%EF%BC%8C%E5%AD%99%E6%AD%A3%E4%B9%89%E8%A6%81%E6%89%93%E9%80%A0%E6%AC%A7%E6%B4%B2%E6%9C%80%E5%A4%A7%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83.pdf)
+
+### 我不看AI公司的估值 —— 一种不纠结、更平静的投资方式
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 5 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%88%91%E4%B8%8D%E7%9C%8BAI%E5%85%AC%E5%8F%B8%E7%9A%84%E4%BC%B0%E5%80%BC%20%E2%80%94%E2%80%94%20%E4%B8%80%E7%A7%8D%E4%B8%8D%E7%BA%A0%E7%BB%93%E3%80%81%E6%9B%B4%E5%B9%B3%E9%9D%99%E7%9A%84%E6%8A%95%E8%B5%84%E6%96%B9%E5%BC%8F.pdf)
+
+### 你可以不相信叙事甚至是数据 但市场是诚实的：它正在定价滞胀
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 1 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E4%BD%A0%E5%8F%AF%E4%BB%A5%E4%B8%8D%E7%9B%B8%E4%BF%A1%E5%8F%99%E4%BA%8B%E7%94%9A%E8%87%B3%E6%98%AF%E6%95%B0%E6%8D%AE%20%E4%BD%86%E5%B8%82%E5%9C%BA%E6%98%AF%E8%AF%9A%E5%AE%9E%E7%9A%84%EF%BC%9A%E5%AE%83%E6%AD%A3%E5%9C%A8%E5%AE%9A%E4%BB%B7%E6%BB%9E%E8%83%80.pdf)
+
+### 清朗·财经违规内容专项整治公告
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 2 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%B8%85%E6%9C%97%C2%B7%E8%B4%A2%E7%BB%8F%E8%BF%9D%E8%A7%84%E5%86%85%E5%AE%B9%E4%B8%93%E9%A1%B9%E6%95%B4%E6%B2%BB%E5%85%AC%E5%91%8A.pdf)
+
+### 涉企虚假不实信息举报专区
+來源: WallstreetCN (Global) | 日期: 2026-06-01 | 頁數: 2 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%B6%89%E4%BC%81%E8%99%9A%E5%81%87%E4%B8%8D%E5%AE%9E%E4%BF%A1%E6%81%AF%E4%B8%BE%E6%8A%A5%E4%B8%93%E5%8C%BA.pdf)
+
+### Morning Report (2026-06-01)
+來源: Westpac IQ | 日期: 2026-06-01 | 頁數: 5 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Morning%20Report%20%282026-06-01%29.pdf)
+
+### Australian GDP: a preview bulletin (2026-06-01)
+來源: Westpac IQ | 日期: 2026-06-01 | 頁數: 7 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Australian%20GDP_%20a%20preview%20bulletin%20%282026-06-01%29.pdf)
+
+### Powering the AI Economy: Australia’s $155bn data centre boom (2026-06-01)
+來源: Westpac IQ | 日期: 2026-06-01 | 頁數: 8 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Powering%20the%20AI%20Economy_%20Australia%E2%80%99s%20%24155bn%20data%20centre%20boom%20%282026-06-01%29.pdf)
+
+### Datacentres hyperscale capex growth (2026-06-01)
+來源: Westpac IQ | 日期: 2026-06-01 | 頁數: 14 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Datacentres%20hyperscale%20capex%20growth%20%282026-06-01%29.pdf)
+
+### Morning Report (2026-06-01)
+來源: Westpac IQ | 日期: 2026-06-01 | 頁數: 5 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Morning%20Report%20%282026-06-01%29.pdf)
+
+### First impressions – April CPI (2026-06-01)
+來源: Westpac IQ | 日期: 2026-06-01 | 頁數: 11 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/First%20impressions%20%E2%80%93%20April%20CPI%20%282026-06-01%29.pdf)
+
 ### Westpac Economic Calendar June 2026 (2026-06-01)
 來源: Westpac IQ | 日期: 2026-06-01 | 頁數: 6 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Westpac%20Economic%20Calendar%20June%202026%20%282026-06-01%29.pdf)
 
+### April CPI: preview and analysis (2026-06-01)
+來源: Westpac IQ | 日期: 2026-06-01 | 頁數: 7 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/April%20CPI_%20preview%20and%20analysis%20%282026-06-01%29.pdf)
+
+### Morning Report (2026-06-01)
+來源: Westpac IQ | 日期: 2026-06-01 | 頁數: 5 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Morning%20Report%20%282026-06-01%29.pdf)
+
+### Morning Report (2026-06-01)
+來源: Westpac IQ | 日期: 2026-06-01 | 頁數: 5 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Morning%20Report%20%282026-06-01%29.pdf)
+
 ### Australia and NZ Weekly 1 June 2026 (2026-06-01)
 來源: Westpac IQ | 日期: 2026-06-01 | 頁數: 15 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Australia%20and%20NZ%20Weekly%201%20June%202026%20%282026-06-01%29.pdf)
+
+### Peering below the surface (2026-06-01)
+來源: Westpac IQ | 日期: 2026-06-01 | 頁數: 未知 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Peering%20below%20the%20surface%20%282026-06-01%29.pdf)
+
+### April CPI – undershoots on volatiles (2026-06-01)
+來源: Westpac IQ | 日期: 2026-06-01 | 頁數: 15 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/April%20CPI%20%E2%80%93%20undershoots%20on%20volatiles%20%282026-06-01%29.pdf)
+
+### Leading Index showing clearer loss of momentum (2026-06-01)
+來源: Westpac IQ | 日期: 2026-06-01 | 頁數: 5 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Leading%20Index%20showing%20clearer%20loss%20of%20momentum%20%282026-06-01%29.pdf)
+
+### Morning Report (2026-06-01)
+來源: Westpac IQ | 日期: 2026-06-01 | 頁數: 5 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Morning%20Report%20%282026-06-01%29.pdf)
+
+### Morning Report (2026-06-01)
+來源: Westpac IQ | 日期: 2026-06-01 | 頁數: 5 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Morning%20Report%20%282026-06-01%29.pdf)
+
+### Westpac Nowcast Q1 2026: Final estimate (2026-06-01)
+來源: Westpac IQ | 日期: 2026-06-01 | 頁數: 7 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Westpac%20Nowcast%20Q1%202026_%20Final%20estimate%20%282026-06-01%29.pdf)
+
+### Morning Report (2026-06-01)
+來源: Westpac IQ | 日期: 2026-06-01 | 頁數: 5 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Morning%20Report%20%282026-06-01%29.pdf)
+
+### Morning Report (2026-06-01)
+來源: Westpac IQ | 日期: 2026-06-01 | 頁數: 5 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Morning%20Report%20%282026-06-01%29.pdf)
+
+### Cliff Notes: AI goes from strength to strength (2026-06-01)
+來源: Westpac IQ | 日期: 2026-06-01 | 頁數: 11 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Cliff%20Notes_%20AI%20goes%20from%20strength%20to%20strength%20%282026-06-01%29.pdf)
+
+### Morning Report (2026-06-01)
+來源: Westpac IQ | 日期: 2026-06-01 | 頁數: 5 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Morning%20Report%20%282026-06-01%29.pdf)
+
+### Mining masks weakening construction, sharpening the RBA trade-off (2026-06-01)
+來源: Westpac IQ | 日期: 2026-06-01 | 頁數: 16 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Mining%20masks%20weakening%20construction%2C%20sharpening%20the%20RBA%20trade-off%20%282026-06-01%29.pdf)
+
+### Housing forecast update (2026-06-01)
+來源: Westpac IQ | 日期: 2026-06-01 | 頁數: 19 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Housing%20forecast%20update%20%282026-06-01%29.pdf)
+
+### Morning Report (2026-06-01)
+來源: Westpac IQ | 日期: 2026-06-01 | 頁數: 5 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Morning%20Report%20%282026-06-01%29.pdf)
+
+### What fiscal can learn from monetary (2026-06-01)
+來源: Westpac IQ | 日期: 2026-06-01 | 頁數: 12 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/What%20fiscal%20can%20learn%20from%20monetary%20%282026-06-01%29.pdf)
+
+### Cliff Notes: consumers wonder what’s next (2026-06-01)
+來源: Westpac IQ | 日期: 2026-06-01 | 頁數: 11 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Cliff%20Notes_%20consumers%20wonder%20what%E2%80%99s%20next%20%282026-06-01%29.pdf)
+
+### Australian dwelling prices: Prices dip again (2026-06-01)
+來源: Westpac IQ | 日期: 2026-06-01 | 頁數: 7 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Australian%20dwelling%20prices_%20Prices%20dip%20again%20%282026-06-01%29.pdf)
+
+### New Zealand Government Budget 2026 (2026-06-01)
+來源: Westpac IQ | 日期: 2026-06-01 | 頁數: 9 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/New%20Zealand%20Government%20Budget%202026%20%282026-06-01%29.pdf)
+
+### First Impressions: NZ retail trade, March quarter 2026 (2026-06-01)
+來源: Westpac IQ | 日期: 2026-06-01 | 頁數: 10 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/First%20Impressions_%20NZ%20retail%20trade%2C%20March%20quarter%202026%20%282026-06-01%29.pdf)
+
+### The Wrap on Asia: Resilience masking risk (2026-06-01)
+來源: Westpac IQ | 日期: 2026-06-01 | 頁數: 5 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/The%20Wrap%20on%20Asia_%20Resilience%20masking%20risk%20%282026-06-01%29.pdf)
+
+### Monthly household spending indicator: unwind of fuel-related spike (2026-06-01)
+來源: Westpac IQ | 日期: 2026-06-01 | 頁數: 5 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Monthly%20household%20spending%20indicator_%20unwind%20of%20fuel-related%20spike%20%282026-06-01%29.pdf)
+
+### 20260601/投資週報/地緣風險降溫，科技股帶動股市再創新高
+來源: Yuanta (投資週報) | 日期: 2026-06-01 | 頁數: 1 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/20260601_%E6%8A%95%E8%B3%87%E9%80%B1%E5%A0%B1_%E5%9C%B0%E7%B7%A3%E9%A2%A8%E9%9A%AA%E9%99%8D%E6%BA%AB%EF%BC%8C%E7%A7%91%E6%8A%80%E8%82%A1%E5%B8%B6%E5%8B%95%E8%82%A1%E5%B8%82%E5%86%8D%E5%89%B5%E6%96%B0%E9%AB%98.pdf)
+
+### 【粤开宏观】AI时代加剧供强需弱，分配改革至关重要：“超额利润税”
+來源: 粤开证券 | 日期: 2026-05-31 | 頁數: 8 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%80%90%E7%B2%A4%E5%BC%80%E5%AE%8F%E8%A7%82%E3%80%91AI%E6%97%B6%E4%BB%A3%E5%8A%A0%E5%89%A7%E4%BE%9B%E5%BC%BA%E9%9C%80%E5%BC%B1%EF%BC%8C%E5%88%86%E9%85%8D%E6%94%B9%E9%9D%A9%E8%87%B3%E5%85%B3%E9%87%8D%E8%A6%81%EF%BC%9A%E2%80%9C%E8%B6%85%E9%A2%9D%E5%88%A9%E6%B6%A6%E7%A8%8E%E2%80%9D.pdf)
+
+### 2026年6月宏观及大类资产月报：市场或结构性分化，以“哑铃策略”为主
+來源: 诚通证券 | 日期: 2026-05-31 | 頁數: 17 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/2026%E5%B9%B46%E6%9C%88%E5%AE%8F%E8%A7%82%E5%8F%8A%E5%A4%A7%E7%B1%BB%E8%B5%84%E4%BA%A7%E6%9C%88%E6%8A%A5%EF%BC%9A%E5%B8%82%E5%9C%BA%E6%88%96%E7%BB%93%E6%9E%84%E6%80%A7%E5%88%86%E5%8C%96%EF%BC%8C%E4%BB%A5%E2%80%9C%E5%93%91%E9%93%83%E7%AD%96%E7%95%A5%E2%80%9D%E4%B8%BA%E4%B8%BB.pdf)
 
 ### 宏观经济周报：5月外需韧性不改，内需仍在筑底
 來源: 国信证券 | 日期: 2026-05-31 | 頁數: 13 頁
@@ -92,373 +636,21 @@
 來源: 中银证券 | 日期: 2026-05-31 | 頁數: 19 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%AE%8F%E8%A7%82%E5%92%8C%E5%A4%A7%E7%B1%BB%E8%B5%84%E4%BA%A7%E9%85%8D%E7%BD%AE%E5%91%A8%E6%8A%A5%EF%BC%9A%E7%BE%8E%E4%BC%8A%E5%92%8C%E8%B0%88%E5%90%91%E5%89%8D%E6%8E%A8%E8%BF%9B.pdf)
 
-### 下周重磅日程：美非农、ComputeX大会、宇树IPO上会、美团博通财报
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 6 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E4%B8%8B%E5%91%A8%E9%87%8D%E7%A3%85%E6%97%A5%E7%A8%8B%EF%BC%9A%E7%BE%8E%E9%9D%9E%E5%86%9C%E3%80%81ComputeX%E5%A4%A7%E4%BC%9A%E3%80%81%E5%AE%87%E6%A0%91IPO%E4%B8%8A%E4%BC%9A%E3%80%81%E7%BE%8E%E5%9B%A2%E5%8D%9A%E9%80%9A%E8%B4%A2%E6%8A%A5.pdf)
-
-### 每天起床第一件事是看海力士股价！高盛合伙人感叹：人们满脑子都是杠杆，没有恐惧
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 6 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%AF%8F%E5%A4%A9%E8%B5%B7%E5%BA%8A%E7%AC%AC%E4%B8%80%E4%BB%B6%E4%BA%8B%E6%98%AF%E7%9C%8B%E6%B5%B7%E5%8A%9B%E5%A3%AB%E8%82%A1%E4%BB%B7%EF%BC%81%E9%AB%98%E7%9B%9B%E5%90%88%E4%BC%99%E4%BA%BA%E6%84%9F%E5%8F%B9%EF%BC%9A%E4%BA%BA%E4%BB%AC%E6%BB%A1%E8%84%91%E5%AD%90%E9%83%BD%E6%98%AF%E6%9D%A0%E6%9D%86%EF%BC%8C%E6%B2%A1%E6%9C%89%E6%81%90%E6%83%A7.pdf)
-
-### 6月，验牌
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 7 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/6%E6%9C%88%EF%BC%8C%E9%AA%8C%E7%89%8C.pdf)
-
-### 6月变盘点？这是不看好SpaceX IPO的12个理由
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 6 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/6%E6%9C%88%E5%8F%98%E7%9B%98%E7%82%B9%EF%BC%9F%E8%BF%99%E6%98%AF%E4%B8%8D%E7%9C%8B%E5%A5%BDSpaceX%20IPO%E7%9A%8412%E4%B8%AA%E7%90%86%E7%94%B1.pdf)
-
-### 高盛加入“AI瓶颈交易”：MLCC是新存储，已成AI服务器“第三大成本项”
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 5 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E9%AB%98%E7%9B%9B%E5%8A%A0%E5%85%A5%E2%80%9CAI%E7%93%B6%E9%A2%88%E4%BA%A4%E6%98%93%E2%80%9D%EF%BC%9AMLCC%E6%98%AF%E6%96%B0%E5%AD%98%E5%82%A8%EF%BC%8C%E5%B7%B2%E6%88%90AI%E6%9C%8D%E5%8A%A1%E5%99%A8%E2%80%9C%E7%AC%AC%E4%B8%89%E5%A4%A7%E6%88%90%E6%9C%AC%E9%A1%B9%E2%80%9D.pdf)
-
-### 5月PMI：临界点考验
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 2 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/5%E6%9C%88PMI%EF%BC%9A%E4%B8%B4%E7%95%8C%E7%82%B9%E8%80%83%E9%AA%8C.pdf)
-
-### 戴尔、诺基亚、联想、思科---科技“老登”在AI时代的逆袭
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 5 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%88%B4%E5%B0%94%E3%80%81%E8%AF%BA%E5%9F%BA%E4%BA%9A%E3%80%81%E8%81%94%E6%83%B3%E3%80%81%E6%80%9D%E7%A7%91---%E7%A7%91%E6%8A%80%E2%80%9C%E8%80%81%E7%99%BB%E2%80%9D%E5%9C%A8AI%E6%97%B6%E4%BB%A3%E7%9A%84%E9%80%86%E8%A2%AD.pdf)
-
-### 《求是》杂志发表习近平总书记重要文章《前瞻布局和发展未来产业》
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 2 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%80%8A%E6%B1%82%E6%98%AF%E3%80%8B%E6%9D%82%E5%BF%97%E5%8F%91%E8%A1%A8%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E9%87%8D%E8%A6%81%E6%96%87%E7%AB%A0%E3%80%8A%E5%89%8D%E7%9E%BB%E5%B8%83%E5%B1%80%E5%92%8C%E5%8F%91%E5%B1%95%E6%9C%AA%E6%9D%A5%E4%BA%A7%E4%B8%9A%E3%80%8B.pdf)
-
-### SpaceX、OpenAI上市在即，亚洲投资者“卖芯片，买瓶颈”，押注“新一轮资本开支”
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 3 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/SpaceX%E3%80%81OpenAI%E4%B8%8A%E5%B8%82%E5%9C%A8%E5%8D%B3%EF%BC%8C%E4%BA%9A%E6%B4%B2%E6%8A%95%E8%B5%84%E8%80%85%E2%80%9C%E5%8D%96%E8%8A%AF%E7%89%87%EF%BC%8C%E4%B9%B0%E7%93%B6%E9%A2%88%E2%80%9D%EF%BC%8C%E6%8A%BC%E6%B3%A8%E2%80%9C%E6%96%B0%E4%B8%80%E8%BD%AE%E8%B5%84%E6%9C%AC%E5%BC%80%E6%94%AF%E2%80%9D.pdf)
-
-### 日落之后：英国的生死大考【付鹏说 深度文章】
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 6 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%97%A5%E8%90%BD%E4%B9%8B%E5%90%8E%EF%BC%9A%E8%8B%B1%E5%9B%BD%E7%9A%84%E7%94%9F%E6%AD%BB%E5%A4%A7%E8%80%83%E3%80%90%E4%BB%98%E9%B9%8F%E8%AF%B4%20%E6%B7%B1%E5%BA%A6%E6%96%87%E7%AB%A0%E3%80%91.pdf)
-
-### 高杠杆、高风险！美国批准首批“永续合约”，全面拥抱“币圈交易模式”
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 3 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E9%AB%98%E6%9D%A0%E6%9D%86%E3%80%81%E9%AB%98%E9%A3%8E%E9%99%A9%EF%BC%81%E7%BE%8E%E5%9B%BD%E6%89%B9%E5%87%86%E9%A6%96%E6%89%B9%E2%80%9C%E6%B0%B8%E7%BB%AD%E5%90%88%E7%BA%A6%E2%80%9D%EF%BC%8C%E5%85%A8%E9%9D%A2%E6%8B%A5%E6%8A%B1%E2%80%9C%E5%B8%81%E5%9C%88%E4%BA%A4%E6%98%93%E6%A8%A1%E5%BC%8F%E2%80%9D.pdf)
-
-### 美银Hartnett：泡沫破裂时该交易什么？
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 3 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%BE%8E%E9%93%B6Hartnett%EF%BC%9A%E6%B3%A1%E6%B2%AB%E7%A0%B4%E8%A3%82%E6%97%B6%E8%AF%A5%E4%BA%A4%E6%98%93%E4%BB%80%E4%B9%88%EF%BC%9F.pdf)
-
-### 黄仁勋预告“PC新时代”：英伟达不想只卖GPU了，开始抢下一代Windows入口
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 5 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E9%BB%84%E4%BB%81%E5%8B%8B%E9%A2%84%E5%91%8A%E2%80%9CPC%E6%96%B0%E6%97%B6%E4%BB%A3%E2%80%9D%EF%BC%9A%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%B8%8D%E6%83%B3%E5%8F%AA%E5%8D%96GPU%E4%BA%86%EF%BC%8C%E5%BC%80%E5%A7%8B%E6%8A%A2%E4%B8%8B%E4%B8%80%E4%BB%A3Windows%E5%85%A5%E5%8F%A3.pdf)
-
-### 当胡彦斌1个月写出APP，AI时代已经扑面而来
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 7 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%BD%93%E8%83%A1%E5%BD%A6%E6%96%8C1%E4%B8%AA%E6%9C%88%E5%86%99%E5%87%BAAPP%EF%BC%8CAI%E6%97%B6%E4%BB%A3%E5%B7%B2%E7%BB%8F%E6%89%91%E9%9D%A2%E8%80%8C%E6%9D%A5.pdf)
-
-### 库存见底之后：补库潮能否再度引爆油轮运价？
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 2 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%BA%93%E5%AD%98%E8%A7%81%E5%BA%95%E4%B9%8B%E5%90%8E%EF%BC%9A%E8%A1%A5%E5%BA%93%E6%BD%AE%E8%83%BD%E5%90%A6%E5%86%8D%E5%BA%A6%E5%BC%95%E7%88%86%E6%B2%B9%E8%BD%AE%E8%BF%90%E4%BB%B7%EF%BC%9F.pdf)
-
-### 美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 2 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%BE%8E%E4%BC%8A%E8%B0%88%E5%88%A4%E8%BF%9B%E5%85%A5%E5%85%B3%E9%94%AE%E6%8B%89%E9%94%AF%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%B4%E6%97%B6%E6%94%B9%E5%8D%8F%E8%AE%AE%EF%BC%8C%E7%AD%BE%E7%BD%B2%E6%97%B6%E9%97%B4%E5%86%8D%E7%94%9F%E5%8F%98%E6%95%B0.pdf)
-
-### GitHub不装了，用户炸锅了！AI编程的低价时代结束，从此按token计费
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 2 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/GitHub%E4%B8%8D%E8%A3%85%E4%BA%86%EF%BC%8C%E7%94%A8%E6%88%B7%E7%82%B8%E9%94%85%E4%BA%86%EF%BC%81AI%E7%BC%96%E7%A8%8B%E7%9A%84%E4%BD%8E%E4%BB%B7%E6%97%B6%E4%BB%A3%E7%BB%93%E6%9D%9F%EF%BC%8C%E4%BB%8E%E6%AD%A4%E6%8C%89token%E8%AE%A1%E8%B4%B9.pdf)
-
-### 上海楼市为何先止跌？哪些城市有望跟进？
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 8 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E4%B8%8A%E6%B5%B7%E6%A5%BC%E5%B8%82%E4%B8%BA%E4%BD%95%E5%85%88%E6%AD%A2%E8%B7%8C%EF%BC%9F%E5%93%AA%E4%BA%9B%E5%9F%8E%E5%B8%82%E6%9C%89%E6%9C%9B%E8%B7%9F%E8%BF%9B%EF%BC%9F.pdf)
-
-### 中国5月官方制造业PMI 50，非制造业PMI回升至50.1
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 5 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E4%B8%AD%E5%9B%BD5%E6%9C%88%E5%AE%98%E6%96%B9%E5%88%B6%E9%80%A0%E4%B8%9APMI%2050%EF%BC%8C%E9%9D%9E%E5%88%B6%E9%80%A0%E4%B8%9APMI%E5%9B%9E%E5%8D%87%E8%87%B350.1.pdf)
-
-### 750亿欧元砸向法国，孙正义要打造欧洲最大数据中心
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 2 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/750%E4%BA%BF%E6%AC%A7%E5%85%83%E7%A0%B8%E5%90%91%E6%B3%95%E5%9B%BD%EF%BC%8C%E5%AD%99%E6%AD%A3%E4%B9%89%E8%A6%81%E6%89%93%E9%80%A0%E6%AC%A7%E6%B4%B2%E6%9C%80%E5%A4%A7%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83.pdf)
-
-### 我不看AI公司的估值 —— 一种不纠结、更平静的投资方式
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 5 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%88%91%E4%B8%8D%E7%9C%8BAI%E5%85%AC%E5%8F%B8%E7%9A%84%E4%BC%B0%E5%80%BC%20%E2%80%94%E2%80%94%20%E4%B8%80%E7%A7%8D%E4%B8%8D%E7%BA%A0%E7%BB%93%E3%80%81%E6%9B%B4%E5%B9%B3%E9%9D%99%E7%9A%84%E6%8A%95%E8%B5%84%E6%96%B9%E5%BC%8F.pdf)
-
-### 你可以不相信叙事甚至是数据 但市场是诚实的：它正在定价滞胀
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 1 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E4%BD%A0%E5%8F%AF%E4%BB%A5%E4%B8%8D%E7%9B%B8%E4%BF%A1%E5%8F%99%E4%BA%8B%E7%94%9A%E8%87%B3%E6%98%AF%E6%95%B0%E6%8D%AE%20%E4%BD%86%E5%B8%82%E5%9C%BA%E6%98%AF%E8%AF%9A%E5%AE%9E%E7%9A%84%EF%BC%9A%E5%AE%83%E6%AD%A3%E5%9C%A8%E5%AE%9A%E4%BB%B7%E6%BB%9E%E8%83%80.pdf)
-
-### 李强：纵深推进安全生产治本攻坚三年行动，切实维护人民群众生命财产安全和社会大局稳定
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 2 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%9D%8E%E5%BC%BA%EF%BC%9A%E7%BA%B5%E6%B7%B1%E6%8E%A8%E8%BF%9B%E5%AE%89%E5%85%A8%E7%94%9F%E4%BA%A7%E6%B2%BB%E6%9C%AC%E6%94%BB%E5%9D%9A%E4%B8%89%E5%B9%B4%E8%A1%8C%E5%8A%A8%EF%BC%8C%E5%88%87%E5%AE%9E%E7%BB%B4%E6%8A%A4%E4%BA%BA%E6%B0%91%E7%BE%A4%E4%BC%97%E7%94%9F%E5%91%BD%E8%B4%A2%E4%BA%A7%E5%AE%89%E5%85%A8%E5%92%8C%E7%A4%BE%E4%BC%9A%E5%A4%A7%E5%B1%80%E7%A8%B3%E5%AE%9A.pdf)
-
-### 家用储能独角兽Base Power拟融资，估值直逼120亿美元
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 2 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%AE%B6%E7%94%A8%E5%82%A8%E8%83%BD%E7%8B%AC%E8%A7%92%E5%85%BDBase%20Power%E6%8B%9F%E8%9E%8D%E8%B5%84%EF%BC%8C%E4%BC%B0%E5%80%BC%E7%9B%B4%E9%80%BC120%E4%BA%BF%E7%BE%8E%E5%85%83.pdf)
-
-### TrendForce大幅上调存储市场预测：2027年规模料超1.28万亿美元
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 2 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/TrendForce%E5%A4%A7%E5%B9%85%E4%B8%8A%E8%B0%83%E5%AD%98%E5%82%A8%E5%B8%82%E5%9C%BA%E9%A2%84%E6%B5%8B%EF%BC%9A2027%E5%B9%B4%E8%A7%84%E6%A8%A1%E6%96%99%E8%B6%851.28%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83.pdf)
-
-### 日债收益率飙升至数十年高位，日本央行量化紧缩或提前终结
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 3 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%97%A5%E5%80%BA%E6%94%B6%E7%9B%8A%E7%8E%87%E9%A3%99%E5%8D%87%E8%87%B3%E6%95%B0%E5%8D%81%E5%B9%B4%E9%AB%98%E4%BD%8D%EF%BC%8C%E6%97%A5%E6%9C%AC%E5%A4%AE%E8%A1%8C%E9%87%8F%E5%8C%96%E7%B4%A7%E7%BC%A9%E6%88%96%E6%8F%90%E5%89%8D%E7%BB%88%E7%BB%93.pdf)
-
-### “牛市”底气：全球企业盈利已“脱离基本面”，利润率将冲击历史记录，“AI效果类似中国加入WTO”
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 4 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E2%80%9C%E7%89%9B%E5%B8%82%E2%80%9D%E5%BA%95%E6%B0%94%EF%BC%9A%E5%85%A8%E7%90%83%E4%BC%81%E4%B8%9A%E7%9B%88%E5%88%A9%E5%B7%B2%E2%80%9C%E8%84%B1%E7%A6%BB%E5%9F%BA%E6%9C%AC%E9%9D%A2%E2%80%9D%EF%BC%8C%E5%88%A9%E6%B6%A6%E7%8E%87%E5%B0%86%E5%86%B2%E5%87%BB%E5%8E%86%E5%8F%B2%E8%AE%B0%E5%BD%95%EF%BC%8C%E2%80%9CAI%E6%95%88%E6%9E%9C%E7%B1%BB%E4%BC%BC%E4%B8%AD%E5%9B%BD%E5%8A%A0%E5%85%A5WTO%E2%80%9D.pdf)
-
-### 蓝色起源火箭爆炸，为何会殃及竞争对手SpaceX？
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 2 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E8%93%9D%E8%89%B2%E8%B5%B7%E6%BA%90%E7%81%AB%E7%AE%AD%E7%88%86%E7%82%B8%EF%BC%8C%E4%B8%BA%E4%BD%95%E4%BC%9A%E6%AE%83%E5%8F%8A%E7%AB%9E%E4%BA%89%E5%AF%B9%E6%89%8BSpaceX%EF%BC%9F.pdf)
-
-### 沪深300、科创50等重要指数调整在即，五大焦点解读
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 3 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%B2%AA%E6%B7%B1300%E3%80%81%E7%A7%91%E5%88%9B50%E7%AD%89%E9%87%8D%E8%A6%81%E6%8C%87%E6%95%B0%E8%B0%83%E6%95%B4%E5%9C%A8%E5%8D%B3%EF%BC%8C%E4%BA%94%E5%A4%A7%E7%84%A6%E7%82%B9%E8%A7%A3%E8%AF%BB.pdf)
-
-### 对霍尔木兹高度依赖！ 日本4月原油进口暴跌66%，创1962年以来最低
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 3 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%AF%B9%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E9%AB%98%E5%BA%A6%E4%BE%9D%E8%B5%96%EF%BC%81%20%E6%97%A5%E6%9C%AC4%E6%9C%88%E5%8E%9F%E6%B2%B9%E8%BF%9B%E5%8F%A3%E6%9A%B4%E8%B7%8C66%25%EF%BC%8C%E5%88%9B1962%E5%B9%B4%E4%BB%A5%E6%9D%A5%E6%9C%80%E4%BD%8E.pdf)
-
-### “没有零件就造不出设备”！韩国半导体检测设备业面临“史上最严重”零部件紧张
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 2 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E2%80%9C%E6%B2%A1%E6%9C%89%E9%9B%B6%E4%BB%B6%E5%B0%B1%E9%80%A0%E4%B8%8D%E5%87%BA%E8%AE%BE%E5%A4%87%E2%80%9D%EF%BC%81%E9%9F%A9%E5%9B%BD%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%A3%80%E6%B5%8B%E8%AE%BE%E5%A4%87%E4%B8%9A%E9%9D%A2%E4%B8%B4%E2%80%9C%E5%8F%B2%E4%B8%8A%E6%9C%80%E4%B8%A5%E9%87%8D%E2%80%9D%E9%9B%B6%E9%83%A8%E4%BB%B6%E7%B4%A7%E5%BC%A0.pdf)
-
-### 美伊协议“预期”砸崩油价，这家投行警告“市场跟现实严重脱节”：6-8月会有严峻压力
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 4 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%BE%8E%E4%BC%8A%E5%8D%8F%E8%AE%AE%E2%80%9C%E9%A2%84%E6%9C%9F%E2%80%9D%E7%A0%B8%E5%B4%A9%E6%B2%B9%E4%BB%B7%EF%BC%8C%E8%BF%99%E5%AE%B6%E6%8A%95%E8%A1%8C%E8%AD%A6%E5%91%8A%E2%80%9C%E5%B8%82%E5%9C%BA%E8%B7%9F%E7%8E%B0%E5%AE%9E%E4%B8%A5%E9%87%8D%E8%84%B1%E8%8A%82%E2%80%9D%EF%BC%9A6-8%E6%9C%88%E4%BC%9A%E6%9C%89%E4%B8%A5%E5%B3%BB%E5%8E%8B%E5%8A%9B.pdf)
-
-### “A+H”两地上市加速！MiniMax已正式启动A股辅导
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 4 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E2%80%9CA%2BH%E2%80%9D%E4%B8%A4%E5%9C%B0%E4%B8%8A%E5%B8%82%E5%8A%A0%E9%80%9F%EF%BC%81MiniMax%E5%B7%B2%E6%AD%A3%E5%BC%8F%E5%90%AF%E5%8A%A8A%E8%82%A1%E8%BE%85%E5%AF%BC.pdf)
-
-### 连涨9周，自3月低点反弹20%！美股这波反弹之凶猛“历史罕见”
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 3 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E8%BF%9E%E6%B6%A89%E5%91%A8%EF%BC%8C%E8%87%AA3%E6%9C%88%E4%BD%8E%E7%82%B9%E5%8F%8D%E5%BC%B920%25%EF%BC%81%E7%BE%8E%E8%82%A1%E8%BF%99%E6%B3%A2%E5%8F%8D%E5%BC%B9%E4%B9%8B%E5%87%B6%E7%8C%9B%E2%80%9C%E5%8E%86%E5%8F%B2%E7%BD%95%E8%A7%81%E2%80%9D.pdf)
-
-### 预测西班牙夺冠！高盛建模：世界杯“类似高波资产”，夺冠“路径比基本面重要”
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 6 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E9%A2%84%E6%B5%8B%E8%A5%BF%E7%8F%AD%E7%89%99%E5%A4%BA%E5%86%A0%EF%BC%81%E9%AB%98%E7%9B%9B%E5%BB%BA%E6%A8%A1%EF%BC%9A%E4%B8%96%E7%95%8C%E6%9D%AF%E2%80%9C%E7%B1%BB%E4%BC%BC%E9%AB%98%E6%B3%A2%E8%B5%84%E4%BA%A7%E2%80%9D%EF%BC%8C%E5%A4%BA%E5%86%A0%E2%80%9C%E8%B7%AF%E5%BE%84%E6%AF%94%E5%9F%BA%E6%9C%AC%E9%9D%A2%E9%87%8D%E8%A6%81%E2%80%9D.pdf)
-
-### 5年25倍超级周期！中企承接全球电力设备外溢需求
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 2 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/5%E5%B9%B425%E5%80%8D%E8%B6%85%E7%BA%A7%E5%91%A8%E6%9C%9F%EF%BC%81%E4%B8%AD%E4%BC%81%E6%89%BF%E6%8E%A5%E5%85%A8%E7%90%83%E7%94%B5%E5%8A%9B%E8%AE%BE%E5%A4%87%E5%A4%96%E6%BA%A2%E9%9C%80%E6%B1%82.pdf)
-
-### 20年来最大同期涨幅！亚洲大米5月涨了20%
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 2 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/20%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%A4%A7%E5%90%8C%E6%9C%9F%E6%B6%A8%E5%B9%85%EF%BC%81%E4%BA%9A%E6%B4%B2%E5%A4%A7%E7%B1%B35%E6%9C%88%E6%B6%A8%E4%BA%8620%25.pdf)
-
-### 美国软件股逆袭，创2001年以来最佳单月表现
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 3 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%BE%8E%E5%9B%BD%E8%BD%AF%E4%BB%B6%E8%82%A1%E9%80%86%E8%A2%AD%EF%BC%8C%E5%88%9B2001%E5%B9%B4%E4%BB%A5%E6%9D%A5%E6%9C%80%E4%BD%B3%E5%8D%95%E6%9C%88%E8%A1%A8%E7%8E%B0.pdf)
-
-### 忘了设限，1家公司1个月在Claude烧掉5亿美元！--当AI已经贵到“用不起”
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 1 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%BF%98%E4%BA%86%E8%AE%BE%E9%99%90%EF%BC%8C1%E5%AE%B6%E5%85%AC%E5%8F%B81%E4%B8%AA%E6%9C%88%E5%9C%A8Claude%E7%83%A7%E6%8E%895%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%81--%E5%BD%93AI%E5%B7%B2%E7%BB%8F%E8%B4%B5%E5%88%B0%E2%80%9C%E7%94%A8%E4%B8%8D%E8%B5%B7%E2%80%9D.pdf)
-
-### ComputeX大会前夜，英伟达发了个“预告帖”：神秘PC芯片即将发布
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 2 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/ComputeX%E5%A4%A7%E4%BC%9A%E5%89%8D%E5%A4%9C%EF%BC%8C%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%8F%91%E4%BA%86%E4%B8%AA%E2%80%9C%E9%A2%84%E5%91%8A%E5%B8%96%E2%80%9D%EF%BC%9A%E7%A5%9E%E7%A7%98PC%E8%8A%AF%E7%89%87%E5%8D%B3%E5%B0%86%E5%8F%91%E5%B8%83.pdf)
-
-### 硅基通胀与碳基崩溃：一头灰犀牛正在被养成
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 2 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%A1%85%E5%9F%BA%E9%80%9A%E8%83%80%E4%B8%8E%E7%A2%B3%E5%9F%BA%E5%B4%A9%E6%BA%83%EF%BC%9A%E4%B8%80%E5%A4%B4%E7%81%B0%E7%8A%80%E7%89%9B%E6%AD%A3%E5%9C%A8%E8%A2%AB%E5%85%BB%E6%88%90.pdf)
-
-### 讨论对华新限制措施，内部多国持谨慎态度，欧盟这次会议暴露深层次焦虑
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 3 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E8%AE%A8%E8%AE%BA%E5%AF%B9%E5%8D%8E%E6%96%B0%E9%99%90%E5%88%B6%E6%8E%AA%E6%96%BD%EF%BC%8C%E5%86%85%E9%83%A8%E5%A4%9A%E5%9B%BD%E6%8C%81%E8%B0%A8%E6%85%8E%E6%80%81%E5%BA%A6%EF%BC%8C%E6%AC%A7%E7%9B%9F%E8%BF%99%E6%AC%A1%E4%BC%9A%E8%AE%AE%E6%9A%B4%E9%9C%B2%E6%B7%B1%E5%B1%82%E6%AC%A1%E7%84%A6%E8%99%91.pdf)
-
-### 华尔街见闻早餐FM-Radio | 2026年5月30日
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 7 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%8D%8E%E5%B0%94%E8%A1%97%E8%A7%81%E9%97%BB%E6%97%A9%E9%A4%90FM-Radio%20_%202026%E5%B9%B45%E6%9C%8830%E6%97%A5.pdf)
-
-### 标普九周连涨、创2023年底最长，原油创六年来最大月跌幅，黄金冲高回落
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 10 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%A0%87%E6%99%AE%E4%B9%9D%E5%91%A8%E8%BF%9E%E6%B6%A8%E3%80%81%E5%88%9B2023%E5%B9%B4%E5%BA%95%E6%9C%80%E9%95%BF%EF%BC%8C%E5%8E%9F%E6%B2%B9%E5%88%9B%E5%85%AD%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%A4%A7%E6%9C%88%E8%B7%8C%E5%B9%85%EF%BC%8C%E9%BB%84%E9%87%91%E5%86%B2%E9%AB%98%E5%9B%9E%E8%90%BD.pdf)
-
-### 特朗普政府将对法官要求广泛退还关税的裁决提出上诉
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 1 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%B0%86%E5%AF%B9%E6%B3%95%E5%AE%98%E8%A6%81%E6%B1%82%E5%B9%BF%E6%B3%9B%E9%80%80%E8%BF%98%E5%85%B3%E7%A8%8E%E7%9A%84%E8%A3%81%E5%86%B3%E6%8F%90%E5%87%BA%E4%B8%8A%E8%AF%89.pdf)
-
-### 华尔街抛弃避险对冲，最遭做空股票两个月暴涨30%
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 3 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%8D%8E%E5%B0%94%E8%A1%97%E6%8A%9B%E5%BC%83%E9%81%BF%E9%99%A9%E5%AF%B9%E5%86%B2%EF%BC%8C%E6%9C%80%E9%81%AD%E5%81%9A%E7%A9%BA%E8%82%A1%E7%A5%A8%E4%B8%A4%E4%B8%AA%E6%9C%88%E6%9A%B4%E6%B6%A830%25.pdf)
-
-### 报道：城堡证券第一季度交易收入43亿美元创历史新高
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 2 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%8A%A5%E9%81%93%EF%BC%9A%E5%9F%8E%E5%A0%A1%E8%AF%81%E5%88%B8%E7%AC%AC%E4%B8%80%E5%AD%A3%E5%BA%A6%E4%BA%A4%E6%98%93%E6%94%B6%E5%85%A543%E4%BA%BF%E7%BE%8E%E5%85%83%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98.pdf)
-
-### 美媒：特朗普推迟就伊朗相关协议作最终决定
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 2 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%BE%8E%E5%AA%92%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E6%8E%A8%E8%BF%9F%E5%B0%B1%E4%BC%8A%E6%9C%97%E7%9B%B8%E5%85%B3%E5%8D%8F%E8%AE%AE%E4%BD%9C%E6%9C%80%E7%BB%88%E5%86%B3%E5%AE%9A.pdf)
-
-### Anthropic七位联创身家均达80亿美元，单日上榜人数创彭博富豪榜纪录
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 2 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Anthropic%E4%B8%83%E4%BD%8D%E8%81%94%E5%88%9B%E8%BA%AB%E5%AE%B6%E5%9D%87%E8%BE%BE80%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%8C%E5%8D%95%E6%97%A5%E4%B8%8A%E6%A6%9C%E4%BA%BA%E6%95%B0%E5%88%9B%E5%BD%AD%E5%8D%9A%E5%AF%8C%E8%B1%AA%E6%A6%9C%E7%BA%AA%E5%BD%95.pdf)
-
-### 丹麦养老基金将SpaceX列入黑名单：估值虚高、治理"灾难性"
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 2 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E4%B8%B9%E9%BA%A6%E5%85%BB%E8%80%81%E5%9F%BA%E9%87%91%E5%B0%86SpaceX%E5%88%97%E5%85%A5%E9%BB%91%E5%90%8D%E5%8D%95%EF%BC%9A%E4%BC%B0%E5%80%BC%E8%99%9A%E9%AB%98%E3%80%81%E6%B2%BB%E7%90%86_%E7%81%BE%E9%9A%BE%E6%80%A7_.pdf)
-
-### 蓝色起源火箭测试中爆炸，贝索斯“太空梦”受挫，马斯克：火箭就是这么难
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 3 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E8%93%9D%E8%89%B2%E8%B5%B7%E6%BA%90%E7%81%AB%E7%AE%AD%E6%B5%8B%E8%AF%95%E4%B8%AD%E7%88%86%E7%82%B8%EF%BC%8C%E8%B4%9D%E7%B4%A2%E6%96%AF%E2%80%9C%E5%A4%AA%E7%A9%BA%E6%A2%A6%E2%80%9D%E5%8F%97%E6%8C%AB%EF%BC%8C%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E7%81%AB%E7%AE%AD%E5%B0%B1%E6%98%AF%E8%BF%99%E4%B9%88%E9%9A%BE.pdf)
-
-### 全球铝市场拉响警报！日本基准铝升水单季暴涨超100美元
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 2 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%85%A8%E7%90%83%E9%93%9D%E5%B8%82%E5%9C%BA%E6%8B%89%E5%93%8D%E8%AD%A6%E6%8A%A5%EF%BC%81%E6%97%A5%E6%9C%AC%E5%9F%BA%E5%87%86%E9%93%9D%E5%8D%87%E6%B0%B4%E5%8D%95%E5%AD%A3%E6%9A%B4%E6%B6%A8%E8%B6%85100%E7%BE%8E%E5%85%83.pdf)
-
-### 特朗普称将作伊朗战事最终决定、霍尔木兹和伊核以外问题已达成一致，伊媒称其言论“真假参半”
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 4 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BD%9C%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%8B%E6%9C%80%E7%BB%88%E5%86%B3%E5%AE%9A%E3%80%81%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E5%92%8C%E4%BC%8A%E6%A0%B8%E4%BB%A5%E5%A4%96%E9%97%AE%E9%A2%98%E5%B7%B2%E8%BE%BE%E6%88%90%E4%B8%80%E8%87%B4%EF%BC%8C%E4%BC%8A%E5%AA%92%E7%A7%B0%E5%85%B6%E8%A8%80%E8%AE%BA%E2%80%9C%E7%9C%9F%E5%81%87%E5%8F%82%E5%8D%8A%E2%80%9D.pdf)
-
-### 退税兴奋感消退，美国消费者面临财政悬崖
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 2 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E9%80%80%E7%A8%8E%E5%85%B4%E5%A5%8B%E6%84%9F%E6%B6%88%E9%80%80%EF%BC%8C%E7%BE%8E%E5%9B%BD%E6%B6%88%E8%B4%B9%E8%80%85%E9%9D%A2%E4%B8%B4%E8%B4%A2%E6%94%BF%E6%82%AC%E5%B4%96.pdf)
-
-### 小鹏的“物理AI”豪赌，能否换来一张船票？
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 4 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%B0%8F%E9%B9%8F%E7%9A%84%E2%80%9C%E7%89%A9%E7%90%86AI%E2%80%9D%E8%B1%AA%E8%B5%8C%EF%BC%8C%E8%83%BD%E5%90%A6%E6%8D%A2%E6%9D%A5%E4%B8%80%E5%BC%A0%E8%88%B9%E7%A5%A8%EF%BC%9F.pdf)
-
-### 乘联会崔东树：中国车市出现了三个失衡
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 2 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E4%B9%98%E8%81%94%E4%BC%9A%E5%B4%94%E4%B8%9C%E6%A0%91%EF%BC%9A%E4%B8%AD%E5%9B%BD%E8%BD%A6%E5%B8%82%E5%87%BA%E7%8E%B0%E4%BA%86%E4%B8%89%E4%B8%AA%E5%A4%B1%E8%A1%A1.pdf)
-
-### 元戎启行周光：智驾同质化竞争到头了，大模型是下一关
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 2 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%85%83%E6%88%8E%E5%90%AF%E8%A1%8C%E5%91%A8%E5%85%89%EF%BC%9A%E6%99%BA%E9%A9%BE%E5%90%8C%E8%B4%A8%E5%8C%96%E7%AB%9E%E4%BA%89%E5%88%B0%E5%A4%B4%E4%BA%86%EF%BC%8C%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%98%AF%E4%B8%8B%E4%B8%80%E5%85%B3.pdf)
-
-### 欧洲央行管委：6月后可能需要第二次加息
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 2 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%AC%A7%E6%B4%B2%E5%A4%AE%E8%A1%8C%E7%AE%A1%E5%A7%94%EF%BC%9A6%E6%9C%88%E5%90%8E%E5%8F%AF%E8%83%BD%E9%9C%80%E8%A6%81%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%8A%A0%E6%81%AF.pdf)
-
-### 马斯克公开辟谣：SpaceX下调IPO估值目标为“虚假”消息
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 2 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E9%A9%AC%E6%96%AF%E5%85%8B%E5%85%AC%E5%BC%80%E8%BE%9F%E8%B0%A3%EF%BC%9ASpaceX%E4%B8%8B%E8%B0%83IPO%E4%BC%B0%E5%80%BC%E7%9B%AE%E6%A0%87%E4%B8%BA%E2%80%9C%E8%99%9A%E5%81%87%E2%80%9D%E6%B6%88%E6%81%AF.pdf)
-
-### 密集涨价后，中国汽车的竞争维度变了
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 3 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%AF%86%E9%9B%86%E6%B6%A8%E4%BB%B7%E5%90%8E%EF%BC%8C%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E7%9A%84%E7%AB%9E%E4%BA%89%E7%BB%B4%E5%BA%A6%E5%8F%98%E4%BA%86.pdf)
-
-### 清朗·财经违规内容专项整治公告
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 2 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%B8%85%E6%9C%97%C2%B7%E8%B4%A2%E7%BB%8F%E8%BF%9D%E8%A7%84%E5%86%85%E5%AE%B9%E4%B8%93%E9%A1%B9%E6%95%B4%E6%B2%BB%E5%85%AC%E5%91%8A.pdf)
-
-### 涉企虚假不实信息举报专区
-來源: WallstreetCN (Global) | 日期: 2026-05-31 | 頁數: 2 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%B6%89%E4%BC%81%E8%99%9A%E5%81%87%E4%B8%8D%E5%AE%9E%E4%BF%A1%E6%81%AF%E4%B8%BE%E6%8A%A5%E4%B8%93%E5%8C%BA.pdf)
-
-### Morning Report (2026-05-31)
-來源: Westpac IQ | 日期: 2026-05-31 | 頁數: 5 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Morning%20Report%20%282026-05-31%29.pdf)
-
-### Australian GDP: a preview bulletin (2026-05-31)
-來源: Westpac IQ | 日期: 2026-05-31 | 頁數: 7 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Australian%20GDP_%20a%20preview%20bulletin%20%282026-05-31%29.pdf)
-
-### Powering the AI Economy: Australia’s $155bn data centre boom (2026-05-31)
-來源: Westpac IQ | 日期: 2026-05-31 | 頁數: 8 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Powering%20the%20AI%20Economy_%20Australia%E2%80%99s%20%24155bn%20data%20centre%20boom%20%282026-05-31%29.pdf)
-
-### Datacentres hyperscale capex growth (2026-05-31)
-來源: Westpac IQ | 日期: 2026-05-31 | 頁數: 14 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Datacentres%20hyperscale%20capex%20growth%20%282026-05-31%29.pdf)
-
-### Morning Report (2026-05-31)
-來源: Westpac IQ | 日期: 2026-05-31 | 頁數: 5 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Morning%20Report%20%282026-05-31%29.pdf)
-
-### First impressions – April CPI (2026-05-31)
-來源: Westpac IQ | 日期: 2026-05-31 | 頁數: 11 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/First%20impressions%20%E2%80%93%20April%20CPI%20%282026-05-31%29.pdf)
-
-### April CPI: preview and analysis (2026-05-31)
-來源: Westpac IQ | 日期: 2026-05-31 | 頁數: 7 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/April%20CPI_%20preview%20and%20analysis%20%282026-05-31%29.pdf)
-
-### Morning Report (2026-05-31)
-來源: Westpac IQ | 日期: 2026-05-31 | 頁數: 5 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Morning%20Report%20%282026-05-31%29.pdf)
-
-### Morning Report (2026-05-31)
-來源: Westpac IQ | 日期: 2026-05-31 | 頁數: 5 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Morning%20Report%20%282026-05-31%29.pdf)
-
-### Peering below the surface (2026-05-31)
-來源: Westpac IQ | 日期: 2026-05-31 | 頁數: 未知 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Peering%20below%20the%20surface%20%282026-05-31%29.pdf)
-
-### April CPI – undershoots on volatiles (2026-05-31)
-來源: Westpac IQ | 日期: 2026-05-31 | 頁數: 15 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/April%20CPI%20%E2%80%93%20undershoots%20on%20volatiles%20%282026-05-31%29.pdf)
-
-### Leading Index showing clearer loss of momentum (2026-05-31)
-來源: Westpac IQ | 日期: 2026-05-31 | 頁數: 5 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Leading%20Index%20showing%20clearer%20loss%20of%20momentum%20%282026-05-31%29.pdf)
-
-### Morning Report (2026-05-31)
-來源: Westpac IQ | 日期: 2026-05-31 | 頁數: 5 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Morning%20Report%20%282026-05-31%29.pdf)
-
-### Morning Report (2026-05-31)
-來源: Westpac IQ | 日期: 2026-05-31 | 頁數: 5 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Morning%20Report%20%282026-05-31%29.pdf)
-
-### Westpac Nowcast Q1 2026: Final estimate (2026-05-31)
-來源: Westpac IQ | 日期: 2026-05-31 | 頁數: 7 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Westpac%20Nowcast%20Q1%202026_%20Final%20estimate%20%282026-05-31%29.pdf)
-
-### Morning Report (2026-05-31)
-來源: Westpac IQ | 日期: 2026-05-31 | 頁數: 5 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Morning%20Report%20%282026-05-31%29.pdf)
-
-### Morning Report (2026-05-31)
-來源: Westpac IQ | 日期: 2026-05-31 | 頁數: 5 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Morning%20Report%20%282026-05-31%29.pdf)
-
-### Cliff Notes: beyond the horizon (2026-05-31)
-來源: Westpac IQ | 日期: 2026-05-31 | 頁數: 10 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Cliff%20Notes_%20beyond%20the%20horizon%20%282026-05-31%29.pdf)
-
-### Cliff Notes: AI goes from strength to strength (2026-05-31)
-來源: Westpac IQ | 日期: 2026-05-31 | 頁數: 11 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Cliff%20Notes_%20AI%20goes%20from%20strength%20to%20strength%20%282026-05-31%29.pdf)
-
-### Morning Report (2026-05-31)
-來源: Westpac IQ | 日期: 2026-05-31 | 頁數: 5 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Morning%20Report%20%282026-05-31%29.pdf)
-
-### Mining masks weakening construction, sharpening the RBA trade-off (2026-05-31)
-來源: Westpac IQ | 日期: 2026-05-31 | 頁數: 16 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Mining%20masks%20weakening%20construction%2C%20sharpening%20the%20RBA%20trade-off%20%282026-05-31%29.pdf)
-
-### Housing forecast update (2026-05-31)
-來源: Westpac IQ | 日期: 2026-05-31 | 頁數: 19 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Housing%20forecast%20update%20%282026-05-31%29.pdf)
-
-### Morning Report (2026-05-31)
-來源: Westpac IQ | 日期: 2026-05-31 | 頁數: 5 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Morning%20Report%20%282026-05-31%29.pdf)
-
-### What fiscal can learn from monetary (2026-05-31)
-來源: Westpac IQ | 日期: 2026-05-31 | 頁數: 12 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/What%20fiscal%20can%20learn%20from%20monetary%20%282026-05-31%29.pdf)
-
-### Cliff Notes: consumers wonder what’s next (2026-05-31)
-來源: Westpac IQ | 日期: 2026-05-31 | 頁數: 11 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Cliff%20Notes_%20consumers%20wonder%20what%E2%80%99s%20next%20%282026-05-31%29.pdf)
-
-### Morning Report (2026-05-31)
-來源: Westpac IQ | 日期: 2026-05-31 | 頁數: 5 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Morning%20Report%20%282026-05-31%29.pdf)
-
-### Monthly household spending indicator: unwind of fuel-related spike (2026-05-31)
-來源: Westpac IQ | 日期: 2026-05-31 | 頁數: 5 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Monthly%20household%20spending%20indicator_%20unwind%20of%20fuel-related%20spike%20%282026-05-31%29.pdf)
-
-### New Zealand Government Budget 2026 (2026-05-31)
-來源: Westpac IQ | 日期: 2026-05-31 | 頁數: 9 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/New%20Zealand%20Government%20Budget%202026%20%282026-05-31%29.pdf)
-
-### First Impressions: NZ retail trade, March quarter 2026 (2026-05-31)
-來源: Westpac IQ | 日期: 2026-05-31 | 頁數: 10 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/First%20Impressions_%20NZ%20retail%20trade%2C%20March%20quarter%202026%20%282026-05-31%29.pdf)
-
-### The Wrap on Asia: Resilience masking risk (2026-05-31)
-來源: Westpac IQ | 日期: 2026-05-31 | 頁數: 5 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/The%20Wrap%20on%20Asia_%20Resilience%20masking%20risk%20%282026-05-31%29.pdf)
+### 260531_ms_advantech
+來源: line報告備份 | 日期: 2026-05-31 | 頁數: 9 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/260531_ms_advantech.pdf)
+
+### 260531_ms_automation
+來源: line報告備份 | 日期: 2026-05-31 | 頁數: 9 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/260531_ms_automation.pdf)
+
+### 260531_ms_parade
+來源: line報告備份 | 日期: 2026-05-31 | 頁數: 9 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/260531_ms_parade.pdf)
+
+### 260531_ms_winsemi
+來源: line報告備份 | 日期: 2026-05-31 | 頁數: 9 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/260531_ms_winsemi.pdf)
 
 ### 投資研究週報.pdf
 來源: Cathay | 日期: 2026-05-29 | 頁數: 21 頁
@@ -488,21 +680,13 @@
 來源: DIR | 日期: 2026-05-29 | 頁數: 14 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E3%81%AF%E6%8C%81%E7%B6%9A%E7%9A%84%E3%81%AB%E6%88%90%E9%95%B7%E3%81%A7%E3%81%8D%E3%82%8B%E3%81%AE%E3%81%8B%E3%80%80%EF%BC%8D%E3%83%9E%E3%82%AF%E3%83%AD%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AB%E3%82%88%E3%82%8B%E5%B0%86%E6%9D%A5%E3%82%B7%E3%83%8A%E3%83%AA%E3%82%AA%E3%81%AE%E6%A4%9C%E8%A8%BC.pdf)
 
-### 都区部版・日銀基調的インフレ率の試算（2026/05） ～依然として緩やかな縮小傾向にある～
-來源: DLRI | 日期: 2026-05-29 | 頁數: 3 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E9%83%BD%E5%8C%BA%E9%83%A8%E7%89%88%E3%83%BB%E6%97%A5%E9%8A%80%E5%9F%BA%E8%AA%BF%E7%9A%84%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AC%E7%8E%87%E3%81%AE%E8%A9%A6%E7%AE%97%EF%BC%882026_05%EF%BC%89%20%EF%BD%9E%E4%BE%9D%E7%84%B6%E3%81%A8%E3%81%97%E3%81%A6%E7%B7%A9%E3%82%84%E3%81%8B%E3%81%AA%E7%B8%AE%E5%B0%8F%E5%82%BE%E5%90%91%E3%81%AB%E3%81%82%E3%82%8B%EF%BD%9E.pdf)
-
-### 経済財政諮問会議（2026年5月22日）解説 〜「強い経済」の実現に向けた成長投資の加速と社会保障改革の断行〜
-來源: DLRI | 日期: 2026-05-29 | 頁數: 4 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%B5%8C%E6%B8%88%E8%B2%A1%E6%94%BF%E8%AB%AE%E5%95%8F%E4%BC%9A%E8%AD%B0%EF%BC%882026%E5%B9%B45%E6%9C%8822%E6%97%A5%EF%BC%89%E8%A7%A3%E8%AA%AC%20%E3%80%9C%E3%80%8C%E5%BC%B7%E3%81%84%E7%B5%8C%E6%B8%88%E3%80%8D%E3%81%AE%E5%AE%9F%E7%8F%BE%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E6%88%90%E9%95%B7%E6%8A%95%E8%B3%87%E3%81%AE%E5%8A%A0%E9%80%9F%E3%81%A8%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%9A%9C%E6%94%B9%E9%9D%A9%E3%81%AE%E6%96%AD%E8%A1%8C%E3%80%9C.pdf)
-
 ### 資産形成の「リスク・トライアングル」 ～三つのリスクと付き合う方法～
 來源: DLRI | 日期: 2026-05-29 | 頁數: 7 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E8%B3%87%E7%94%A3%E5%BD%A2%E6%88%90%E3%81%AE%E3%80%8C%E3%83%AA%E3%82%B9%E3%82%AF%E3%83%BB%E3%83%88%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%B0%E3%83%AB%E3%80%8D%20%EF%BD%9E%E4%B8%89%E3%81%A4%E3%81%AE%E3%83%AA%E3%82%B9%E3%82%AF%E3%81%A8%E4%BB%98%E3%81%8D%E5%90%88%E3%81%86%E6%96%B9%E6%B3%95%EF%BD%9E.pdf)
 
-### 米国: 26年もAI投資と積極財政が下支え、景気の堅調さ持続へ  ～1-3月期GDPは年率＋1.6％へ下方改定も、設備投資等内需の基調は堅調～
-來源: DLRI | 日期: 2026-05-29 | 頁數: 7 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%B1%B3%E5%9B%BD_%2026%E5%B9%B4%E3%82%82AI%E6%8A%95%E8%B3%87%E3%81%A8%E7%A9%8D%E6%A5%B5%E8%B2%A1%E6%94%BF%E3%81%8C%E4%B8%8B%E6%94%AF%E3%81%88%E3%80%81%E6%99%AF%E6%B0%97%E3%81%AE%E5%A0%85%E8%AA%BF%E3%81%95%E6%8C%81%E7%B6%9A%E3%81%B8%20%20%EF%BD%9E1-3%E6%9C%88%E6%9C%9FGDP%E3%81%AF%E5%B9%B4%E7%8E%87%EF%BC%8B1.6%EF%BC%85%E3%81%B8%E4%B8%8B%E6%96%B9%E6%94%B9%E5%AE%9A%E3%82%82%E3%80%81%E8%A8%AD%E5%82%99%E6%8A%95%E8%B3%87%E7%AD%89%E5%86%85%E9%9C%80%E3%81%AE%E5%9F%BA%E8%AA%BF%E3%81%AF%E5%A0%85%E8%AA%BF%EF%BD%9E.pdf)
+### 消費者物価指数（東京都区部・2026年5月） ～水道の基本料金無償化の影響で下振れも、先行き不透明感は極めて強い～
+來源: DLRI | 日期: 2026-05-29 | 頁數: 4 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%B6%88%E8%B2%BB%E8%80%85%E7%89%A9%E4%BE%A1%E6%8C%87%E6%95%B0%EF%BC%88%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8C%BA%E9%83%A8%E3%83%BB2026%E5%B9%B45%E6%9C%88%EF%BC%89%20%EF%BD%9E%E6%B0%B4%E9%81%93%E3%81%AE%E5%9F%BA%E6%9C%AC%E6%96%99%E9%87%91%E7%84%A1%E5%84%9F%E5%8C%96%E3%81%AE%E5%BD%B1%E9%9F%BF%E3%81%A7%E4%B8%8B%E6%8C%AF%E3%82%8C%E3%82%82%E3%80%81%E5%85%88%E8%A1%8C%E3%81%8D%E4%B8%8D%E9%80%8F%E6%98%8E%E6%84%9F%E3%81%AF%E6%A5%B5%E3%82%81%E3%81%A6%E5%BC%B7%E3%81%84%EF%BD%9E.pdf)
 
 ### イラン情勢悪化による貿易への影響分析 ～「原油・ナフサ」だけではない～
 來源: DLRI | 日期: 2026-05-29 | 頁數: 6 頁
@@ -511,6 +695,18 @@
 ### 半導体関連の強さが示される（26 年４月鉱工業生産）
 來源: DLRI | 日期: 2026-05-29 | 頁數: 4 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%8D%8A%E5%B0%8E%E4%BD%93%E9%96%A2%E9%80%A3%E3%81%AE%E5%BC%B7%E3%81%95%E3%81%8C%E7%A4%BA%E3%81%95%E3%82%8C%E3%82%8B%EF%BC%8826%20%E5%B9%B4%EF%BC%94%E6%9C%88%E9%89%B1%E5%B7%A5%E6%A5%AD%E7%94%9F%E7%94%A3%EF%BC%89.pdf)
+
+### 米国: 26年もAI投資と積極財政が下支え、景気の堅調さ持続へ  ～1-3月期GDPは年率＋1.6％へ下方改定も、設備投資等内需の基調は堅調～
+來源: DLRI | 日期: 2026-05-29 | 頁數: 7 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%B1%B3%E5%9B%BD_%2026%E5%B9%B4%E3%82%82AI%E6%8A%95%E8%B3%87%E3%81%A8%E7%A9%8D%E6%A5%B5%E8%B2%A1%E6%94%BF%E3%81%8C%E4%B8%8B%E6%94%AF%E3%81%88%E3%80%81%E6%99%AF%E6%B0%97%E3%81%AE%E5%A0%85%E8%AA%BF%E3%81%95%E6%8C%81%E7%B6%9A%E3%81%B8%20%20%EF%BD%9E1-3%E6%9C%88%E6%9C%9FGDP%E3%81%AF%E5%B9%B4%E7%8E%87%EF%BC%8B1.6%EF%BC%85%E3%81%B8%E4%B8%8B%E6%96%B9%E6%94%B9%E5%AE%9A%E3%82%82%E3%80%81%E8%A8%AD%E5%82%99%E6%8A%95%E8%B3%87%E7%AD%89%E5%86%85%E9%9C%80%E3%81%AE%E5%9F%BA%E8%AA%BF%E3%81%AF%E5%A0%85%E8%AA%BF%EF%BD%9E.pdf)
+
+### 都区部版・日銀基調的インフレ率の試算（2026/05） ～依然として緩やかな縮小傾向にある～
+來源: DLRI | 日期: 2026-05-29 | 頁數: 3 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E9%83%BD%E5%8C%BA%E9%83%A8%E7%89%88%E3%83%BB%E6%97%A5%E9%8A%80%E5%9F%BA%E8%AA%BF%E7%9A%84%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AC%E7%8E%87%E3%81%AE%E8%A9%A6%E7%AE%97%EF%BC%882026_05%EF%BC%89%20%EF%BD%9E%E4%BE%9D%E7%84%B6%E3%81%A8%E3%81%97%E3%81%A6%E7%B7%A9%E3%82%84%E3%81%8B%E3%81%AA%E7%B8%AE%E5%B0%8F%E5%82%BE%E5%90%91%E3%81%AB%E3%81%82%E3%82%8B%EF%BD%9E.pdf)
+
+### オーストラリア､４月インフレ率は鈍化も､根強いインフレ圧力を確認（Asia Weekly） ～韓国や台湾の４月の半導体生産は堅調な動きが続いている～
+來源: DLRI | 日期: 2026-05-29 | 頁數: 5 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2%EF%BD%A4%EF%BC%94%E6%9C%88%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AC%E7%8E%87%E3%81%AF%E9%88%8D%E5%8C%96%E3%82%82%EF%BD%A4%E6%A0%B9%E5%BC%B7%E3%81%84%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AC%E5%9C%A7%E5%8A%9B%E3%82%92%E7%A2%BA%E8%AA%8D%EF%BC%88Asia%20Weekly%EF%BC%89%20%EF%BD%9E%E9%9F%93%E5%9B%BD%E3%82%84%E5%8F%B0%E6%B9%BE%E3%81%AE%EF%BC%94%E6%9C%88%E3%81%AE%E5%8D%8A%E5%B0%8E%E4%BD%93%E7%94%9F%E7%94%A3%E3%81%AF%E5%A0%85%E8%AA%BF%E3%81%AA%E5%8B%95%E3%81%8D%E3%81%8C%E7%B6%9A%E3%81%84%E3%81%A6%E3%81%84%E3%82%8B%EF%BD%9E.pdf)
 
 ### 宏观月报：外围承压，内需偏弱
 來源: 宝城期货 | 日期: 2026-05-29 | 頁數: 18 頁
@@ -552,6 +748,10 @@
 來源: 东吴证券 | 日期: 2026-05-29 | 頁數: 26 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E4%BB%8E%E2%80%9C%E6%83%A9%E7%BD%9A%E8%8A%B1%E9%92%B1%E2%80%9D%E5%88%B0%E2%80%9C%E5%A5%96%E5%8A%B1%E6%88%90%E9%95%BF%E2%80%9D%EF%BC%9AA%E8%82%A1%E5%A6%82%E4%BD%95%E9%87%8D%E4%BC%B0Capex%EF%BC%9F.pdf)
 
+### 債券市場總評：新興亞債具韌性
+來源: Fubon | 日期: 2026-05-29 | 頁數: 6 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%82%B5%E5%88%B8%E5%B8%82%E5%A0%B4%E7%B8%BD%E8%A9%95%EF%BC%9A%E6%96%B0%E8%88%88%E4%BA%9E%E5%82%B5%E5%85%B7%E9%9F%8C%E6%80%A7.pdf)
+
 ### 談股論金：對比科技泡沫，AI尚未走到終點
 來源: Fubon | 日期: 2026-05-29 | 頁數: 5 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E8%AB%87%E8%82%A1%E8%AB%96%E9%87%91%EF%BC%9A%E5%B0%8D%E6%AF%94%E7%A7%91%E6%8A%80%E6%B3%A1%E6%B2%AB%EF%BC%8CAI%E5%B0%9A%E6%9C%AA%E8%B5%B0%E5%88%B0%E7%B5%82%E9%BB%9E.pdf)
@@ -563,6 +763,42 @@
 ### 2026年被動元件呈現結構性的變化-CTBC260529
 來源: line報告備份 | 日期: 2026-05-29 | 頁數: 9 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/2026%E5%B9%B4%E8%A2%AB%E5%8B%95%E5%85%83%E4%BB%B6%E5%91%88%E7%8F%BE%E7%B5%90%E6%A7%8B%E6%80%A7%E7%9A%84%E8%AE%8A%E5%8C%96-CTBC260529.pdf)
+
+### 260529_daiwa_Jentech
+來源: line報告備份 | 日期: 2026-05-29 | 頁數: 7 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/260529_daiwa_Jentech.pdf)
+
+### 260529_gs_MTK
+來源: line報告備份 | 日期: 2026-05-29 | 頁數: 10 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/260529_gs_MTK.pdf)
+
+### 260529_gs_umt
+來源: line報告備份 | 日期: 2026-05-29 | 頁數: 9 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/260529_gs_umt.pdf)
+
+### 260529_ms_ASE
+來源: line報告備份 | 日期: 2026-05-29 | 頁數: 9 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/260529_ms_ASE.pdf)
+
+### 260529_ms_asmedia
+來源: line報告備份 | 日期: 2026-05-29 | 頁數: 9 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/260529_ms_asmedia.pdf)
+
+### 260529_ms_lotes
+來源: line報告備份 | 日期: 2026-05-29 | 頁數: 9 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/260529_ms_lotes.pdf)
+
+### 260529_ms_realtek
+來源: line報告備份 | 日期: 2026-05-29 | 頁數: 8 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/260529_ms_realtek.pdf)
+
+### 260529_ms_silergy
+來源: line報告備份 | 日期: 2026-05-29 | 頁數: 9 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/260529_ms_silergy.pdf)
+
+### 260529_ms_vanguard
+來源: line報告備份 | 日期: 2026-05-29 | 頁數: 10 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/260529_ms_vanguard.pdf)
 
 ### US WEEKLY KICKSTART Answers to 7 common client questions on potential impending mega IPOs
 來源: line報告備份 | 日期: 2026-05-29 | 頁數: 30 頁
@@ -632,14 +868,6 @@
 來源: DIR | 日期: 2026-05-28 | 頁數: 1 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E3%81%AF%E6%96%B0%E3%81%9F%E3%81%AA%E5%9D%87%E8%A1%A1%E3%81%AB%E5%90%91%E3%81%8B%E3%81%88%E3%82%8B%E3%81%8B.pdf)
 
-### K 字型経済の難しさ 「利上げは家計に朗報か」
-來源: DLRI | 日期: 2026-05-28 | 頁數: 4 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/K%20%E5%AD%97%E5%9E%8B%E7%B5%8C%E6%B8%88%E3%81%AE%E9%9B%A3%E3%81%97%E3%81%95%20%E3%80%8C%E5%88%A9%E4%B8%8A%E3%81%92%E3%81%AF%E5%AE%B6%E8%A8%88%E3%81%AB%E6%9C%97%E5%A0%B1%E3%81%8B%E3%80%8D.pdf)
-
-### 6月FOMCに向けた注目点  ～ウォーシュ新体制の改革スピードは如何ほど？～
-來源: DLRI | 日期: 2026-05-28 | 頁數: 5 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/6%E6%9C%88FOMC%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E6%B3%A8%E7%9B%AE%E7%82%B9%20%20%EF%BD%9E%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%B7%E3%83%A5%E6%96%B0%E4%BD%93%E5%88%B6%E3%81%AE%E6%94%B9%E9%9D%A9%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89%E3%81%AF%E5%A6%82%E4%BD%95%E3%81%BB%E3%81%A9%EF%BC%9F%EF%BD%9E.pdf)
-
 ### AI普及で中立金利はいずれ上がる ～経済成長率、イノベーションを考える～
 來源: DLRI | 日期: 2026-05-28 | 頁數: 3 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/AI%E6%99%AE%E5%8F%8A%E3%81%A7%E4%B8%AD%E7%AB%8B%E9%87%91%E5%88%A9%E3%81%AF%E3%81%84%E3%81%9A%E3%82%8C%E4%B8%8A%E3%81%8C%E3%82%8B%20%EF%BD%9E%E7%B5%8C%E6%B8%88%E6%88%90%E9%95%B7%E7%8E%87%E3%80%81%E3%82%A4%E3%83%8E%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E8%80%83%E3%81%88%E3%82%8B%EF%BD%9E.pdf)
@@ -647,6 +875,14 @@
 ### 米国：株式保有別の消費者マインド ～株を持てばインフレでも大丈夫？～
 來源: DLRI | 日期: 2026-05-28 | 頁數: 2 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%B1%B3%E5%9B%BD%EF%BC%9A%E6%A0%AA%E5%BC%8F%E4%BF%9D%E6%9C%89%E5%88%A5%E3%81%AE%E6%B6%88%E8%B2%BB%E8%80%85%E3%83%9E%E3%82%A4%E3%83%B3%E3%83%89%20%EF%BD%9E%E6%A0%AA%E3%82%92%E6%8C%81%E3%81%A6%E3%81%B0%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AC%E3%81%A7%E3%82%82%E5%A4%A7%E4%B8%88%E5%A4%AB%EF%BC%9F%EF%BD%9E.pdf)
+
+### 6月FOMCに向けた注目点  ～ウォーシュ新体制の改革スピードは如何ほど？～
+來源: DLRI | 日期: 2026-05-28 | 頁數: 5 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/6%E6%9C%88FOMC%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E6%B3%A8%E7%9B%AE%E7%82%B9%20%20%EF%BD%9E%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%B7%E3%83%A5%E6%96%B0%E4%BD%93%E5%88%B6%E3%81%AE%E6%94%B9%E9%9D%A9%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89%E3%81%AF%E5%A6%82%E4%BD%95%E3%81%BB%E3%81%A9%EF%BC%9F%EF%BD%9E.pdf)
+
+### 韓国中銀は利上げシフトを鮮明に､申総裁はやはり｢タカ｣だった ～政策委員は引き締め方向で一致､総裁は｢借金投資｣への警戒感もにじませる～
+來源: DLRI | 日期: 2026-05-28 | 頁數: 6 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E9%9F%93%E5%9B%BD%E4%B8%AD%E9%8A%80%E3%81%AF%E5%88%A9%E4%B8%8A%E3%81%92%E3%82%B7%E3%83%95%E3%83%88%E3%82%92%E9%AE%AE%E6%98%8E%E3%81%AB%EF%BD%A4%E7%94%B3%E7%B7%8F%E8%A3%81%E3%81%AF%E3%82%84%E3%81%AF%E3%82%8A%EF%BD%A2%E3%82%BF%E3%82%AB%EF%BD%A3%E3%81%A0%E3%81%A3%E3%81%9F%20%EF%BD%9E%E6%94%BF%E7%AD%96%E5%A7%94%E5%93%A1%E3%81%AF%E5%BC%95%E3%81%8D%E7%B7%A0%E3%82%81%E6%96%B9%E5%90%91%E3%81%A7%E4%B8%80%E8%87%B4%EF%BD%A4%E7%B7%8F%E8%A3%81%E3%81%AF%EF%BD%A2%E5%80%9F%E9%87%91%E6%8A%95%E8%B3%87%EF%BD%A3%E3%81%B8%E3%81%AE%E8%AD%A6%E6%88%92%E6%84%9F%E3%82%82%E3%81%AB%E3%81%98%E3%81%BE%E3%81%9B%E3%82%8B%EF%BD%9E.pdf)
 
 ### 海外市场另类观察指南（一）：Polymarket：从另类指标到定价锚点
 來源: 国信证券 | 日期: 2026-05-28 | 頁數: 33 頁
@@ -707,6 +943,10 @@
 ### 260528_ms_chroma
 來源: line報告備份 | 日期: 2026-05-28 | 頁數: 9 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/260528_ms_chroma.pdf)
+
+### 260528_ms_fositek
+來源: line報告備份 | 日期: 2026-05-28 | 頁數: 9 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/260528_ms_fositek.pdf)
 
 ### 260528_ms_GUC-DG
 來源: line報告備份 | 日期: 2026-05-28 | 頁數: 19 頁
@@ -916,13 +1156,13 @@
 來源: DIR | 日期: 2026-05-27 | 頁數: 14 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E8%A6%8B%E9%80%9A%E3%81%97%EF%BC%9A2026%E5%B9%B45%E6%9C%88.pdf)
 
-### 公的年金運用、300兆円時代へ ～GPIFの「純投資」と「政策投資」の境界線～
-來源: DLRI | 日期: 2026-05-27 | 頁數: 9 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%85%AC%E7%9A%84%E5%B9%B4%E9%87%91%E9%81%8B%E7%94%A8%E3%80%81300%E5%85%86%E5%86%86%E6%99%82%E4%BB%A3%E3%81%B8%20%EF%BD%9EGPIF%E3%81%AE%E3%80%8C%E7%B4%94%E6%8A%95%E8%B3%87%E3%80%8D%E3%81%A8%E3%80%8C%E6%94%BF%E7%AD%96%E6%8A%95%E8%B3%87%E3%80%8D%E3%81%AE%E5%A2%83%E7%95%8C%E7%B7%9A%EF%BD%9E.pdf)
-
 ### 米国:中東情勢の緊迫化でも5月ＣＢ消費者信頼感は底這い   ～和平合意への期待が先行きを支えるも、根強いインフレ警戒が重石に～
 來源: DLRI | 日期: 2026-05-27 | 頁數: 6 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%B1%B3%E5%9B%BD_%E4%B8%AD%E6%9D%B1%E6%83%85%E5%8B%A2%E3%81%AE%E7%B7%8A%E8%BF%AB%E5%8C%96%E3%81%A7%E3%82%825%E6%9C%88%EF%BC%A3%EF%BC%A2%E6%B6%88%E8%B2%BB%E8%80%85%E4%BF%A1%E9%A0%BC%E6%84%9F%E3%81%AF%E5%BA%95%E9%80%99%E3%81%84%20%20%20%EF%BD%9E%E5%92%8C%E5%B9%B3%E5%90%88%E6%84%8F%E3%81%B8%E3%81%AE%E6%9C%9F%E5%BE%85%E3%81%8C%E5%85%88%E8%A1%8C%E3%81%8D%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E3%82%82%E3%80%81%E6%A0%B9%E5%BC%B7%E3%81%84%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AC%E8%AD%A6%E6%88%92%E3%81%8C%E9%87%8D%E7%9F%B3%E3%81%AB%EF%BD%9E.pdf)
+
+### 公的年金運用、300兆円時代へ ～GPIFの「純投資」と「政策投資」の境界線～
+來源: DLRI | 日期: 2026-05-27 | 頁數: 9 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%85%AC%E7%9A%84%E5%B9%B4%E9%87%91%E9%81%8B%E7%94%A8%E3%80%81300%E5%85%86%E5%86%86%E6%99%82%E4%BB%A3%E3%81%B8%20%EF%BD%9EGPIF%E3%81%AE%E3%80%8C%E7%B4%94%E6%8A%95%E8%B3%87%E3%80%8D%E3%81%A8%E3%80%8C%E6%94%BF%E7%AD%96%E6%8A%95%E8%B3%87%E3%80%8D%E3%81%AE%E5%A2%83%E7%95%8C%E7%B7%9A%EF%BD%9E.pdf)
 
 ### ニュージーランド中銀は僅差で金利据え置きも｢タカ派｣傾斜を確認 ニュージーランド中銀は僅差で金利据え置きも｢タカ派｣傾斜を確認
 來源: DLRI | 日期: 2026-05-27 | 頁數: 4 頁
@@ -1072,13 +1312,17 @@
 來源: DIR | 日期: 2026-05-26 | 頁數: 9 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E4%B8%AD%E5%9B%BD%E7%B5%8C%E6%B8%88%E8%A6%8B%E9%80%9A%E3%81%97%EF%BC%9A2026%E5%B9%B44%E6%9C%88%E3%81%AF%E6%80%A5%E6%B8%9B%E9%80%9F.pdf)
 
+### インド政府､｢Z世代｣の支持を集めるSNSへの警戒を強める ～不満を募らせる｢ゴキブリ｣を若年層が支持､政治的な動きに発展するかが注目される～
+來源: DLRI | 日期: 2026-05-26 | 頁數: 3 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%82%A4%E3%83%B3%E3%83%89%E6%94%BF%E5%BA%9C%EF%BD%A4%EF%BD%A2Z%E4%B8%96%E4%BB%A3%EF%BD%A3%E3%81%AE%E6%94%AF%E6%8C%81%E3%82%92%E9%9B%86%E3%82%81%E3%82%8BSNS%E3%81%B8%E3%81%AE%E8%AD%A6%E6%88%92%E3%82%92%E5%BC%B7%E3%82%81%E3%82%8B%20%EF%BD%9E%E4%B8%8D%E6%BA%80%E3%82%92%E5%8B%9F%E3%82%89%E3%81%9B%E3%82%8B%EF%BD%A2%E3%82%B4%E3%82%AD%E3%83%96%E3%83%AA%EF%BD%A3%E3%82%92%E8%8B%A5%E5%B9%B4%E5%B1%A4%E3%81%8C%E6%94%AF%E6%8C%81%EF%BD%A4%E6%94%BF%E6%B2%BB%E7%9A%84%E3%81%AA%E5%8B%95%E3%81%8D%E3%81%AB%E7%99%BA%E5%B1%95%E3%81%99%E3%82%8B%E3%81%8B%E3%81%8C%E6%B3%A8%E7%9B%AE%E3%81%95%E3%82%8C%E3%82%8B%EF%BD%9E.pdf)
+
 ### （最終版）電気・ガス代補助の物価への影響 ～CPIコアを▲0.5～▲0.6％Pt、前年比で▲0.2～▲0.3％Pt押し下げか～
 來源: DLRI | 日期: 2026-05-26 | 頁數: 1 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%EF%BC%88%E6%9C%80%E7%B5%82%E7%89%88%EF%BC%89%E9%9B%BB%E6%B0%97%E3%83%BB%E3%82%AC%E3%82%B9%E4%BB%A3%E8%A3%9C%E5%8A%A9%E3%81%AE%E7%89%A9%E4%BE%A1%E3%81%B8%E3%81%AE%E5%BD%B1%E9%9F%BF%20%EF%BD%9ECPI%E3%82%B3%E3%82%A2%E3%82%92%E2%96%B20.5%EF%BD%9E%E2%96%B20.6%EF%BC%85Pt%E3%80%81%E5%89%8D%E5%B9%B4%E6%AF%94%E3%81%A7%E2%96%B20.2%EF%BD%9E%E2%96%B20.3%EF%BC%85Pt%E6%8A%BC%E3%81%97%E4%B8%8B%E3%81%92%E3%81%8B%EF%BD%9E.pdf)
 
-### なぜ受診は遅れるのか？ ～世帯収入別にみた「受診の壁」と将来の家計リスク～
-來源: DLRI | 日期: 2026-05-26 | 頁數: 4 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%81%AA%E3%81%9C%E5%8F%97%E8%A8%BA%E3%81%AF%E9%81%85%E3%82%8C%E3%82%8B%E3%81%AE%E3%81%8B%EF%BC%9F%20%EF%BD%9E%E4%B8%96%E5%B8%AF%E5%8F%8E%E5%85%A5%E5%88%A5%E3%81%AB%E3%81%BF%E3%81%9F%E3%80%8C%E5%8F%97%E8%A8%BA%E3%81%AE%E5%A3%81%E3%80%8D%E3%81%A8%E5%B0%86%E6%9D%A5%E3%81%AE%E5%AE%B6%E8%A8%88%E3%83%AA%E3%82%B9%E3%82%AF%EF%BD%9E.pdf)
+### 株価の死角は「賃上げ」
+來源: DLRI | 日期: 2026-05-26 | 頁數: 3 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%A0%AA%E4%BE%A1%E3%81%AE%E6%AD%BB%E8%A7%92%E3%81%AF%E3%80%8C%E8%B3%83%E4%B8%8A%E3%81%92%E3%80%8D.pdf)
 
 ### 【宏观周报】国内4月多项经济指标回落，美国和伊朗即将达成协议
 來源: 浙商期货 | 日期: 2026-05-26 | 頁數: 10 頁
@@ -1228,17 +1472,13 @@
 來源: Sony FG | 日期: 2026-05-26 | 頁數: 4 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E7%B5%8C%E6%B8%88%E3%83%BB%E9%87%91%E5%88%A9%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81.pdf)
 
-### 「休むも相場」の落とし穴 悔しい損切り直後の株価急騰
-來源: DLRI | 日期: 2026-05-25 | 頁數: 3 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%80%8C%E4%BC%91%E3%82%80%E3%82%82%E7%9B%B8%E5%A0%B4%E3%80%8D%E3%81%AE%E8%90%BD%E3%81%A8%E3%81%97%E7%A9%B4%20%E6%82%94%E3%81%97%E3%81%84%E6%90%8D%E5%88%87%E3%82%8A%E7%9B%B4%E5%BE%8C%E3%81%AE%E6%A0%AA%E4%BE%A1%E6%80%A5%E9%A8%B0.pdf)
+### 2026年株主総会シーズンの特徴と課題 ～開示高度化の下で進む総会日程の“窮屈化”～
+來源: DLRI | 日期: 2026-05-25 | 頁數: 4 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/2026%E5%B9%B4%E6%A0%AA%E4%B8%BB%E7%B7%8F%E4%BC%9A%E3%82%B7%E3%83%BC%E3%82%BA%E3%83%B3%E3%81%AE%E7%89%B9%E5%BE%B4%E3%81%A8%E8%AA%B2%E9%A1%8C%20%EF%BD%9E%E9%96%8B%E7%A4%BA%E9%AB%98%E5%BA%A6%E5%8C%96%E3%81%AE%E4%B8%8B%E3%81%A7%E9%80%B2%E3%82%80%E7%B7%8F%E4%BC%9A%E6%97%A5%E7%A8%8B%E3%81%AE%E2%80%9C%E7%AA%AE%E5%B1%88%E5%8C%96%E2%80%9D%EF%BD%9E.pdf)
 
 ### 電気・ガス代補助の物価への影響と今後の課題 ～夏で終わらず、秋以降の支援延長・拡大の可能性も～
 來源: DLRI | 日期: 2026-05-25 | 頁數: 3 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E9%9B%BB%E6%B0%97%E3%83%BB%E3%82%AC%E3%82%B9%E4%BB%A3%E8%A3%9C%E5%8A%A9%E3%81%AE%E7%89%A9%E4%BE%A1%E3%81%B8%E3%81%AE%E5%BD%B1%E9%9F%BF%E3%81%A8%E4%BB%8A%E5%BE%8C%E3%81%AE%E8%AA%B2%E9%A1%8C%20%EF%BD%9E%E5%A4%8F%E3%81%A7%E7%B5%82%E3%82%8F%E3%82%89%E3%81%9A%E3%80%81%E7%A7%8B%E4%BB%A5%E9%99%8D%E3%81%AE%E6%94%AF%E6%8F%B4%E5%BB%B6%E9%95%B7%E3%83%BB%E6%8B%A1%E5%A4%A7%E3%81%AE%E5%8F%AF%E8%83%BD%E6%80%A7%E3%82%82%EF%BD%9E.pdf)
-
-### 2026年株主総会シーズンの特徴と課題 ～開示高度化の下で進む総会日程の“窮屈化”～
-來源: DLRI | 日期: 2026-05-25 | 頁數: 4 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/2026%E5%B9%B4%E6%A0%AA%E4%B8%BB%E7%B7%8F%E4%BC%9A%E3%82%B7%E3%83%BC%E3%82%BA%E3%83%B3%E3%81%AE%E7%89%B9%E5%BE%B4%E3%81%A8%E8%AA%B2%E9%A1%8C%20%EF%BD%9E%E9%96%8B%E7%A4%BA%E9%AB%98%E5%BA%A6%E5%8C%96%E3%81%AE%E4%B8%8B%E3%81%A7%E9%80%B2%E3%82%80%E7%B7%8F%E4%BC%9A%E6%97%A5%E7%A8%8B%E3%81%AE%E2%80%9C%E7%AA%AE%E5%B1%88%E5%8C%96%E2%80%9D%EF%BD%9E.pdf)
 
 ### 訪日外国人消費9.5兆円への下押し圧力 ～燃油サーチャージが観光需要を冷やす～
 來源: DLRI | 日期: 2026-05-25 | 頁數: 4 頁
@@ -1251,54 +1491,6 @@
 ### 宏观深度报告：消费“向下”、地产“向上”：300个地级市人口流动与需求变迁
 來源: 东吴证券 | 日期: 2026-05-25 | 頁數: 18 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%AE%8F%E8%A7%82%E6%B7%B1%E5%BA%A6%E6%8A%A5%E5%91%8A%EF%BC%9A%E6%B6%88%E8%B4%B9%E2%80%9C%E5%90%91%E4%B8%8B%E2%80%9D%E3%80%81%E5%9C%B0%E4%BA%A7%E2%80%9C%E5%90%91%E4%B8%8A%E2%80%9D%EF%BC%9A300%E4%B8%AA%E5%9C%B0%E7%BA%A7%E5%B8%82%E4%BA%BA%E5%8F%A3%E6%B5%81%E5%8A%A8%E4%B8%8E%E9%9C%80%E6%B1%82%E5%8F%98%E8%BF%81.pdf)
-
-### 宏观深度：从上市公司财报看经济周期位置及估值
-來源: 诚通证券 | 日期: 2026-05-25 | 頁數: 11 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%AE%8F%E8%A7%82%E6%B7%B1%E5%BA%A6%EF%BC%9A%E4%BB%8E%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E8%B4%A2%E6%8A%A5%E7%9C%8B%E7%BB%8F%E6%B5%8E%E5%91%A8%E6%9C%9F%E4%BD%8D%E7%BD%AE%E5%8F%8A%E4%BC%B0%E5%80%BC.pdf)
-
-### 海外宏观周报：美伊谈判释放缓和信号，海外债市收益率多数下行
-來源: 东方金诚 | 日期: 2026-05-25 | 頁數: 9 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%B5%B7%E5%A4%96%E5%AE%8F%E8%A7%82%E5%91%A8%E6%8A%A5%EF%BC%9A%E7%BE%8E%E4%BC%8A%E8%B0%88%E5%88%A4%E9%87%8A%E6%94%BE%E7%BC%93%E5%92%8C%E4%BF%A1%E5%8F%B7%EF%BC%8C%E6%B5%B7%E5%A4%96%E5%80%BA%E5%B8%82%E6%94%B6%E7%9B%8A%E7%8E%87%E5%A4%9A%E6%95%B0%E4%B8%8B%E8%A1%8C.pdf)
-
-### 《衍生品交易监督管理办法（试行）》政策解读
-來源: 五矿证券 | 日期: 2026-05-25 | 頁數: 6 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%80%8A%E8%A1%8D%E7%94%9F%E5%93%81%E4%BA%A4%E6%98%93%E7%9B%91%E7%9D%A3%E7%AE%A1%E7%90%86%E5%8A%9E%E6%B3%95%EF%BC%88%E8%AF%95%E8%A1%8C%EF%BC%89%E3%80%8B%E6%94%BF%E7%AD%96%E8%A7%A3%E8%AF%BB.pdf)
-
-### 国际货币体系的未来与中国的选择
-來源: 中银证券 | 日期: 2026-05-25 | 頁數: 24 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%9B%BD%E9%99%85%E8%B4%A7%E5%B8%81%E4%BD%93%E7%B3%BB%E7%9A%84%E6%9C%AA%E6%9D%A5%E4%B8%8E%E4%B8%AD%E5%9B%BD%E7%9A%84%E9%80%89%E6%8B%A9.pdf)
-
-### 宏观与大类资产周报：美伊冲突再起变数，美国通胀风险增加
-來源: 诚通证券 | 日期: 2026-05-25 | 頁數: 21 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%AE%8F%E8%A7%82%E4%B8%8E%E5%A4%A7%E7%B1%BB%E8%B5%84%E4%BA%A7%E5%91%A8%E6%8A%A5%EF%BC%9A%E7%BE%8E%E4%BC%8A%E5%86%B2%E7%AA%81%E5%86%8D%E8%B5%B7%E5%8F%98%E6%95%B0%EF%BC%8C%E7%BE%8E%E5%9B%BD%E9%80%9A%E8%83%80%E9%A3%8E%E9%99%A9%E5%A2%9E%E5%8A%A0.pdf)
-
-### 宏观周报（5月第3周）：美伊或将达成谅解备忘录
-來源: 世纪证券 | 日期: 2026-05-25 | 頁數: 6 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%AE%8F%E8%A7%82%E5%91%A8%E6%8A%A5%EF%BC%885%E6%9C%88%E7%AC%AC3%E5%91%A8%EF%BC%89%EF%BC%9A%E7%BE%8E%E4%BC%8A%E6%88%96%E5%B0%86%E8%BE%BE%E6%88%90%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95.pdf)
-
-### 宏观周报：4月经济回踩或与财政发力节奏有关
-來源: 信达期货 | 日期: 2026-05-25 | 頁數: 10 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%AE%8F%E8%A7%82%E5%91%A8%E6%8A%A5%EF%BC%9A4%E6%9C%88%E7%BB%8F%E6%B5%8E%E5%9B%9E%E8%B8%A9%E6%88%96%E4%B8%8E%E8%B4%A2%E6%94%BF%E5%8F%91%E5%8A%9B%E8%8A%82%E5%A5%8F%E6%9C%89%E5%85%B3.pdf)
-
-### 宏观周报：地产延续调整 服务消费强于商品消费
-來源: 华联期货 | 日期: 2026-05-25 | 頁數: 98 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%AE%8F%E8%A7%82%E5%91%A8%E6%8A%A5%EF%BC%9A%E5%9C%B0%E4%BA%A7%E5%BB%B6%E7%BB%AD%E8%B0%83%E6%95%B4%20%E6%9C%8D%E5%8A%A1%E6%B6%88%E8%B4%B9%E5%BC%BA%E4%BA%8E%E5%95%86%E5%93%81%E6%B6%88%E8%B4%B9.pdf)
-
-### 宏观及大类资产月报：风险资产修复之后，通胀与利率约束渐显
-來源: 铜冠金源期货 | 日期: 2026-05-25 | 頁數: 22 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%AE%8F%E8%A7%82%E5%8F%8A%E5%A4%A7%E7%B1%BB%E8%B5%84%E4%BA%A7%E6%9C%88%E6%8A%A5%EF%BC%9A%E9%A3%8E%E9%99%A9%E8%B5%84%E4%BA%A7%E4%BF%AE%E5%A4%8D%E4%B9%8B%E5%90%8E%EF%BC%8C%E9%80%9A%E8%83%80%E4%B8%8E%E5%88%A9%E7%8E%87%E7%BA%A6%E6%9D%9F%E6%B8%90%E6%98%BE.pdf)
-
-### 宏观周报：中东地缘局势呈缓和迹象 美联储新主席正式就任
-來源: 国信期货 | 日期: 2026-05-25 | 頁數: 22 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%AE%8F%E8%A7%82%E5%91%A8%E6%8A%A5%EF%BC%9A%E4%B8%AD%E4%B8%9C%E5%9C%B0%E7%BC%98%E5%B1%80%E5%8A%BF%E5%91%88%E7%BC%93%E5%92%8C%E8%BF%B9%E8%B1%A1%20%E7%BE%8E%E8%81%94%E5%82%A8%E6%96%B0%E4%B8%BB%E5%B8%AD%E6%AD%A3%E5%BC%8F%E5%B0%B1%E4%BB%BB.pdf)
-
-### 4月份国内宏观经济总体走弱但分化明显，海外高油价压制服务业但制造业较强：央行MLF恢复净投放，资金需求偏弱支撑债市仍是债市的主线
-來源: 中泰期货 | 日期: 2026-05-25 | 頁數: 55 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/4%E6%9C%88%E4%BB%BD%E5%9B%BD%E5%86%85%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E6%80%BB%E4%BD%93%E8%B5%B0%E5%BC%B1%E4%BD%86%E5%88%86%E5%8C%96%E6%98%8E%E6%98%BE%EF%BC%8C%E6%B5%B7%E5%A4%96%E9%AB%98%E6%B2%B9%E4%BB%B7%E5%8E%8B%E5%88%B6%E6%9C%8D%E5%8A%A1%E4%B8%9A%E4%BD%86%E5%88%B6%E9%80%A0%E4%B8%9A%E8%BE%83%E5%BC%BA%EF%BC%9A%E5%A4%AE%E8%A1%8CMLF%E6%81%A2%E5%A4%8D%E5%87%80%E6%8A%95%E6%94%BE%EF%BC%8C%E8%B5%84%E9%87%91%E9%9C%80%E6%B1%82%E5%81%8F%E5%BC%B1%E6%94%AF%E6%92%91%E5%80%BA%E5%B8%82%E4%BB%8D%E6%98%AF%E5%80%BA%E5%B8%82%E7%9A%84%E4%B8%BB%E7%BA%BF.pdf)
-
-### 海外周报：加息预期仍“过热”，美债利率如何展望？
-來源: 东吴证券 | 日期: 2026-05-25 | 頁數: 7 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%B5%B7%E5%A4%96%E5%91%A8%E6%8A%A5%EF%BC%9A%E5%8A%A0%E6%81%AF%E9%A2%84%E6%9C%9F%E4%BB%8D%E2%80%9C%E8%BF%87%E7%83%AD%E2%80%9D%EF%BC%8C%E7%BE%8E%E5%80%BA%E5%88%A9%E7%8E%87%E5%A6%82%E4%BD%95%E5%B1%95%E6%9C%9B%EF%BC%9F.pdf)
 
 ### 投資策略週報：高利率風暴來襲，抓緊AI守舵前行
 來源: Fubon | 日期: 2026-05-25 | 頁數: 22 頁
@@ -1456,10 +1648,6 @@
 來源: Yuanta (投資週報) | 日期: 2026-05-25 | 頁數: 1 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/20260525_%E6%8A%95%E8%B3%87%E9%80%B1%E5%A0%B1_%E6%AE%96%E5%88%A9%E7%8E%87%E4%B8%8A%E8%A1%8C%E5%A3%93%E6%8A%91%E8%82%A1%E5%B8%82%EF%BC%9B%E8%BC%9D%E9%81%94%E8%B2%A1%E5%A0%B1%E5%90%88%E4%B9%8E%E9%A0%90%E6%9C%9F.pdf)
 
-### 多资产周报：美债风暴里的黄金
-來源: 国信证券 | 日期: 2026-05-24 | 頁數: 10 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%A4%9A%E8%B5%84%E4%BA%A7%E5%91%A8%E6%8A%A5%EF%BC%9A%E7%BE%8E%E5%80%BA%E9%A3%8E%E6%9A%B4%E9%87%8C%E7%9A%84%E9%BB%84%E9%87%91.pdf)
-
 ### 2049上銀 元富
 來源: line報告備份 | 日期: 2026-05-24 | 頁數: 5 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/2049%E4%B8%8A%E9%8A%80%20%E5%85%83%E5%AF%8C.pdf)
@@ -1552,6 +1740,22 @@
 來源: DB Research | 日期: 2026-05-22 | 頁數: 3 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Key%20takeaways%20from%20the%20Deutsche%20Bank%20Global%20Auto%2C%20Mobility%20%26%20Robotics%20Conference%20%282026-05-22%29.pdf)
 
+### 米国:大幅増の反動により住宅着工は減少(26年4月)  ～一戸建ての許可減少など建設コスト高による先行き不透明感は継続～
+來源: DLRI | 日期: 2026-05-22 | 頁數: 4 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%B1%B3%E5%9B%BD_%E5%A4%A7%E5%B9%85%E5%A2%97%E3%81%AE%E5%8F%8D%E5%8B%95%E3%81%AB%E3%82%88%E3%82%8A%E4%BD%8F%E5%AE%85%E7%9D%80%E5%B7%A5%E3%81%AF%E6%B8%9B%E5%B0%91%2826%E5%B9%B44%E6%9C%88%29%20%20%EF%BD%9E%E4%B8%80%E6%88%B8%E5%BB%BA%E3%81%A6%E3%81%AE%E8%A8%B1%E5%8F%AF%E6%B8%9B%E5%B0%91%E3%81%AA%E3%81%A9%E5%BB%BA%E8%A8%AD%E3%82%B3%E3%82%B9%E3%83%88%E9%AB%98%E3%81%AB%E3%82%88%E3%82%8B%E5%85%88%E8%A1%8C%E3%81%8D%E4%B8%8D%E9%80%8F%E6%98%8E%E6%84%9F%E3%81%AF%E7%B6%99%E7%B6%9A%EF%BD%9E.pdf)
+
+### 米国経済マンスリー：2026年5月 ～インフレは加速するも、実体経済への影響はまだ穏やか～
+來源: DLRI | 日期: 2026-05-22 | 頁數: 13 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%B1%B3%E5%9B%BD%E7%B5%8C%E6%B8%88%E3%83%9E%E3%83%B3%E3%82%B9%E3%83%AA%E3%83%BC%EF%BC%9A2026%E5%B9%B45%E6%9C%88%20%EF%BD%9E%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AC%E3%81%AF%E5%8A%A0%E9%80%9F%E3%81%99%E3%82%8B%E3%82%82%E3%80%81%E5%AE%9F%E4%BD%93%E7%B5%8C%E6%B8%88%E3%81%B8%E3%81%AE%E5%BD%B1%E9%9F%BF%E3%81%AF%E3%81%BE%E3%81%A0%E7%A9%8F%E3%82%84%E3%81%8B%EF%BD%9E.pdf)
+
+### インドを襲う｢トリプル安｣､当局と市場との｢神経戦｣が続く ～ルピー安定には利上げが必至も副作用も多く､株式や債券市場への影響も警戒される～
+來源: DLRI | 日期: 2026-05-22 | 頁數: 4 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%82%A4%E3%83%B3%E3%83%89%E3%82%92%E8%A5%B2%E3%81%86%EF%BD%A2%E3%83%88%E3%83%AA%E3%83%97%E3%83%AB%E5%AE%89%EF%BD%A3%EF%BD%A4%E5%BD%93%E5%B1%80%E3%81%A8%E5%B8%82%E5%A0%B4%E3%81%A8%E3%81%AE%EF%BD%A2%E7%A5%9E%E7%B5%8C%E6%88%A6%EF%BD%A3%E3%81%8C%E7%B6%9A%E3%81%8F%20%EF%BD%9E%E3%83%AB%E3%83%94%E3%83%BC%E5%AE%89%E5%AE%9A%E3%81%AB%E3%81%AF%E5%88%A9%E4%B8%8A%E3%81%92%E3%81%8C%E5%BF%85%E8%87%B3%E3%82%82%E5%89%AF%E4%BD%9C%E7%94%A8%E3%82%82%E5%A4%9A%E3%81%8F%EF%BD%A4%E6%A0%AA%E5%BC%8F%E3%82%84%E5%82%B5%E5%88%B8%E5%B8%82%E5%A0%B4%E3%81%B8%E3%81%AE%E5%BD%B1%E9%9F%BF%E3%82%82%E8%AD%A6%E6%88%92%E3%81%95%E3%82%8C%E3%82%8B%EF%BD%9E.pdf)
+
+### 米国: 製造業の牽引で拡大ペース維持(26年5月PMI)   ～中東緊迫化による供給網リスクとインフレ圧力の強まり～
+來源: DLRI | 日期: 2026-05-22 | 頁數: 4 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%B1%B3%E5%9B%BD_%20%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E7%89%BD%E5%BC%95%E3%81%A7%E6%8B%A1%E5%A4%A7%E3%83%9A%E3%83%BC%E3%82%B9%E7%B6%AD%E6%8C%81%2826%E5%B9%B45%E6%9C%88PMI%29%20%20%20%EF%BD%9E%E4%B8%AD%E6%9D%B1%E7%B7%8A%E8%BF%AB%E5%8C%96%E3%81%AB%E3%82%88%E3%82%8B%E4%BE%9B%E7%B5%A6%E7%B6%B2%E3%83%AA%E3%82%B9%E3%82%AF%E3%81%A8%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AC%E5%9C%A7%E5%8A%9B%E3%81%AE%E5%BC%B7%E3%81%BE%E3%82%8A%EF%BD%9E.pdf)
+
 ### 消費者物価指数（全国・2026年4月） ～期初の値上げは限定的、先行きは上振れリスク大～
 來源: DLRI | 日期: 2026-05-22 | 頁數: 4 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%B6%88%E8%B2%BB%E8%80%85%E7%89%A9%E4%BE%A1%E6%8C%87%E6%95%B0%EF%BC%88%E5%85%A8%E5%9B%BD%E3%83%BB2026%E5%B9%B44%E6%9C%88%EF%BC%89%20%EF%BD%9E%E6%9C%9F%E5%88%9D%E3%81%AE%E5%80%A4%E4%B8%8A%E3%81%92%E3%81%AF%E9%99%90%E5%AE%9A%E7%9A%84%E3%80%81%E5%85%88%E8%A1%8C%E3%81%8D%E3%81%AF%E4%B8%8A%E6%8C%AF%E3%82%8C%E3%83%AA%E3%82%B9%E3%82%AF%E5%A4%A7%EF%BD%9E.pdf)
@@ -1560,17 +1764,9 @@
 來源: DLRI | 日期: 2026-05-22 | 頁數: 2 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%83%88%E3%83%AB%E3%82%B3%E3%81%AE%EF%BD%A2%E5%8F%B8%E6%B3%95%E3%82%AF%E3%83%BC%E3%83%87%E3%82%BF%E3%83%BC%EF%BD%A3%EF%BD%A4%E3%81%B5%E3%81%9F%E3%81%9F%E3%81%B3%20%EF%BD%9E%E6%B0%91%E4%B8%BB%E4%B8%BB%E7%BE%A9%E3%81%AE%E5%8D%B1%E6%A9%9F%E3%81%A8%E9%AB%98%E3%81%BE%E3%82%8B%E5%B8%82%E5%A0%B4%E3%81%AE%E4%B8%8D%E4%BF%A1%EF%BD%A4%EF%BD%A2%E3%83%88%E3%83%AA%E3%83%97%E3%83%AB%E5%AE%89%EF%BD%A3%E3%81%AE%E5%8B%95%E3%81%8D%E3%81%AF%E3%81%A9%E3%81%86%E3%81%AA%E3%82%8B%EF%BD%9E.pdf)
 
-### 米国:大幅増の反動により住宅着工は減少(26年4月)  ～一戸建ての許可減少など建設コスト高による先行き不透明感は継続～
-來源: DLRI | 日期: 2026-05-22 | 頁數: 4 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%B1%B3%E5%9B%BD_%E5%A4%A7%E5%B9%85%E5%A2%97%E3%81%AE%E5%8F%8D%E5%8B%95%E3%81%AB%E3%82%88%E3%82%8A%E4%BD%8F%E5%AE%85%E7%9D%80%E5%B7%A5%E3%81%AF%E6%B8%9B%E5%B0%91%2826%E5%B9%B44%E6%9C%88%29%20%20%EF%BD%9E%E4%B8%80%E6%88%B8%E5%BB%BA%E3%81%A6%E3%81%AE%E8%A8%B1%E5%8F%AF%E6%B8%9B%E5%B0%91%E3%81%AA%E3%81%A9%E5%BB%BA%E8%A8%AD%E3%82%B3%E3%82%B9%E3%83%88%E9%AB%98%E3%81%AB%E3%82%88%E3%82%8B%E5%85%88%E8%A1%8C%E3%81%8D%E4%B8%8D%E9%80%8F%E6%98%8E%E6%84%9F%E3%81%AF%E7%B6%99%E7%B6%9A%EF%BD%9E.pdf)
-
-### 米国:AI投資が牽引、26年1-3月期GDPは成長加速   ～26年の景気もAI投資と財政が支え、堅調さを維持へ～
-來源: DLRI | 日期: 2026-05-22 | 頁數: 6 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%B1%B3%E5%9B%BD_AI%E6%8A%95%E8%B3%87%E3%81%8C%E7%89%BD%E5%BC%95%E3%80%8126%E5%B9%B41-3%E6%9C%88%E6%9C%9FGDP%E3%81%AF%E6%88%90%E9%95%B7%E5%8A%A0%E9%80%9F%20%20%20%EF%BD%9E26%E5%B9%B4%E3%81%AE%E6%99%AF%E6%B0%97%E3%82%82AI%E6%8A%95%E8%B3%87%E3%81%A8%E8%B2%A1%E6%94%BF%E3%81%8C%E6%94%AF%E3%81%88%E3%80%81%E5%A0%85%E8%AA%BF%E3%81%95%E3%82%92%E7%B6%AD%E6%8C%81%E3%81%B8%EF%BD%9E.pdf)
-
-### 米国経済マンスリー：2026年5月 ～インフレは加速するも、実体経済への影響はまだ穏やか～
-來源: DLRI | 日期: 2026-05-22 | 頁數: 13 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%B1%B3%E5%9B%BD%E7%B5%8C%E6%B8%88%E3%83%9E%E3%83%B3%E3%82%B9%E3%83%AA%E3%83%BC%EF%BC%9A2026%E5%B9%B45%E6%9C%88%20%EF%BD%9E%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AC%E3%81%AF%E5%8A%A0%E9%80%9F%E3%81%99%E3%82%8B%E3%82%82%E3%80%81%E5%AE%9F%E4%BD%93%E7%B5%8C%E6%B8%88%E3%81%B8%E3%81%AE%E5%BD%B1%E9%9F%BF%E3%81%AF%E3%81%BE%E3%81%A0%E7%A9%8F%E3%82%84%E3%81%8B%EF%BD%9E.pdf)
+### オーストラリア､増加が続いた雇用に変調の兆し（Asia Weekly） ～RBA(オーストラリア準備銀行)の政策運営に影響を与える可能性も～
+來源: DLRI | 日期: 2026-05-22 | 頁數: 5 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2%EF%BD%A4%E5%A2%97%E5%8A%A0%E3%81%8C%E7%B6%9A%E3%81%84%E3%81%9F%E9%9B%87%E7%94%A8%E3%81%AB%E5%A4%89%E8%AA%BF%E3%81%AE%E5%85%86%E3%81%97%EF%BC%88Asia%20Weekly%EF%BC%89%20%EF%BD%9ERBA%28%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2%E6%BA%96%E5%82%99%E9%8A%80%E8%A1%8C%29%E3%81%AE%E6%94%BF%E7%AD%96%E9%81%8B%E5%96%B6%E3%81%AB%E5%BD%B1%E9%9F%BF%E3%82%92%E4%B8%8E%E3%81%88%E3%82%8B%E5%8F%AF%E8%83%BD%E6%80%A7%E3%82%82%EF%BD%9E.pdf)
 
 ### 談股論金：資料中心REITs隨AI同步飛行
 來源: Fubon | 日期: 2026-05-22 | 頁數: 5 頁
@@ -1656,53 +1852,17 @@
 來源: DB Research | 日期: 2026-05-21 | 頁數: 4 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/ChatIPO_%20Quick%20take%20on%20OpenAI%E2%80%99s%20record-breaking%20IPO%20plans%20%282026-05-21%29.pdf)
 
-### 内外経済ウォッチ『日本～現時点における高市政権の取り組み～』(2026年6月号)
-來源: DLRI | 日期: 2026-05-21 | 頁數: 1 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%86%85%E5%A4%96%E7%B5%8C%E6%B8%88%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81%E3%80%8E%E6%97%A5%E6%9C%AC%EF%BD%9E%E7%8F%BE%E6%99%82%E7%82%B9%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E9%AB%98%E5%B8%82%E6%94%BF%E6%A8%A9%E3%81%AE%E5%8F%96%E3%82%8A%E7%B5%84%E3%81%BF%EF%BD%9E%E3%80%8F%282026%E5%B9%B46%E6%9C%88%E5%8F%B7%29.pdf)
-
-### 時事雑感(2026年6月号)
-來源: DLRI | 日期: 2026-05-21 | 頁數: 1 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%99%82%E4%BA%8B%E9%9B%91%E6%84%9F%282026%E5%B9%B46%E6%9C%88%E5%8F%B7%29.pdf)
-
-### 内外経済ウォッチ『欧州～ブレグジット投票から10年、英国の現在地～』(2026年6月号)
-來源: DLRI | 日期: 2026-05-21 | 頁數: 1 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%86%85%E5%A4%96%E7%B5%8C%E6%B8%88%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81%E3%80%8E%E6%AC%A7%E5%B7%9E%EF%BD%9E%E3%83%96%E3%83%AC%E3%82%B0%E3%82%B8%E3%83%83%E3%83%88%E6%8A%95%E7%A5%A8%E3%81%8B%E3%82%8910%E5%B9%B4%E3%80%81%E8%8B%B1%E5%9B%BD%E3%81%AE%E7%8F%BE%E5%9C%A8%E5%9C%B0%EF%BD%9E%E3%80%8F%282026%E5%B9%B46%E6%9C%88%E5%8F%B7%29.pdf)
-
-### グローバル経済『各国経済の6ヶ月見通し』(2026年6月号)
-來源: DLRI | 日期: 2026-05-21 | 頁數: 1 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E7%B5%8C%E6%B8%88%E3%80%8E%E5%90%84%E5%9B%BD%E7%B5%8C%E6%B8%88%E3%81%AE6%E3%83%B6%E6%9C%88%E8%A6%8B%E9%80%9A%E3%81%97%E3%80%8F%282026%E5%B9%B46%E6%9C%88%E5%8F%B7%29.pdf)
-
-### ここが知りたい『確定拠出年金のキャッチアップ拠出』
-來源: DLRI | 日期: 2026-05-21 | 頁數: 1 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%81%93%E3%81%93%E3%81%8C%E7%9F%A5%E3%82%8A%E3%81%9F%E3%81%84%E3%80%8E%E7%A2%BA%E5%AE%9A%E6%8B%A0%E5%87%BA%E5%B9%B4%E9%87%91%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81%E3%82%A2%E3%83%83%E3%83%97%E6%8B%A0%E5%87%BA%E3%80%8F.pdf)
-
-### イベントカレンダー『各国の主要政治・経済イベント予定』(2026年6月号)
-來源: DLRI | 日期: 2026-05-21 | 頁數: 1 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC%E3%80%8E%E5%90%84%E5%9B%BD%E3%81%AE%E4%B8%BB%E8%A6%81%E6%94%BF%E6%B2%BB%E3%83%BB%E7%B5%8C%E6%B8%88%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E4%BA%88%E5%AE%9A%E3%80%8F%282026%E5%B9%B46%E6%9C%88%E5%8F%B7%29.pdf)
-
-### 長期金利上昇と中央銀行 そして株価
-來源: DLRI | 日期: 2026-05-21 | 頁數: 3 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E9%95%B7%E6%9C%9F%E9%87%91%E5%88%A9%E4%B8%8A%E6%98%87%E3%81%A8%E4%B8%AD%E5%A4%AE%E9%8A%80%E8%A1%8C%20%E3%81%9D%E3%81%97%E3%81%A6%E6%A0%AA%E4%BE%A1.pdf)
-
-### 給付になった給付付き税額控除 ～明確になった３つの方向性と課題～
+### 日本とドイツの逆転、GDPの次は長期金利？ ～長期金利3％台に日本が移行する可能性～
 來源: DLRI | 日期: 2026-05-21 | 頁數: 4 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%B5%A6%E4%BB%98%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%E7%B5%A6%E4%BB%98%E4%BB%98%E3%81%8D%E7%A8%8E%E9%A1%8D%E6%8E%A7%E9%99%A4%20%EF%BD%9E%E6%98%8E%E7%A2%BA%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%EF%BC%93%E3%81%A4%E3%81%AE%E6%96%B9%E5%90%91%E6%80%A7%E3%81%A8%E8%AA%B2%E9%A1%8C%EF%BD%9E.pdf)
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%97%A5%E6%9C%AC%E3%81%A8%E3%83%89%E3%82%A4%E3%83%84%E3%81%AE%E9%80%86%E8%BB%A2%E3%80%81GDP%E3%81%AE%E6%AC%A1%E3%81%AF%E9%95%B7%E6%9C%9F%E9%87%91%E5%88%A9%EF%BC%9F%20%EF%BD%9E%E9%95%B7%E6%9C%9F%E9%87%91%E5%88%A93%EF%BC%85%E5%8F%B0%E3%81%AB%E6%97%A5%E6%9C%AC%E3%81%8C%E7%A7%BB%E8%A1%8C%E3%81%99%E3%82%8B%E5%8F%AF%E8%83%BD%E6%80%A7%EF%BD%9E.pdf)
 
-### 対中東輸出入が急減、代替調達は進むか ～５月以降は代替調達拡大が期待されるも、残る課題～
-來源: DLRI | 日期: 2026-05-21 | 頁數: 4 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%AF%BE%E4%B8%AD%E6%9D%B1%E8%BC%B8%E5%87%BA%E5%85%A5%E3%81%8C%E6%80%A5%E6%B8%9B%E3%80%81%E4%BB%A3%E6%9B%BF%E8%AA%BF%E9%81%94%E3%81%AF%E9%80%B2%E3%82%80%E3%81%8B%20%EF%BD%9E%EF%BC%95%E6%9C%88%E4%BB%A5%E9%99%8D%E3%81%AF%E4%BB%A3%E6%9B%BF%E8%AA%BF%E9%81%94%E6%8B%A1%E5%A4%A7%E3%81%8C%E6%9C%9F%E5%BE%85%E3%81%95%E3%82%8C%E3%82%8B%E3%82%82%E3%80%81%E6%AE%8B%E3%82%8B%E8%AA%B2%E9%A1%8C%EF%BD%9E.pdf)
-
-### 時評『新NISA、その後』
+### 内外経済ウォッチ『アジア・新興国～結束に腐心するOPECプラス有志７カ国～』(2026年6月号)
 來源: DLRI | 日期: 2026-05-21 | 頁數: 1 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%99%82%E8%A9%95%E3%80%8E%E6%96%B0NISA%E3%80%81%E3%81%9D%E3%81%AE%E5%BE%8C%E3%80%8F.pdf)
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%86%85%E5%A4%96%E7%B5%8C%E6%B8%88%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81%E3%80%8E%E3%82%A2%E3%82%B8%E3%82%A2%E3%83%BB%E6%96%B0%E8%88%88%E5%9B%BD%EF%BD%9E%E7%B5%90%E6%9D%9F%E3%81%AB%E8%85%90%E5%BF%83%E3%81%99%E3%82%8BOPEC%E3%83%97%E3%83%A9%E3%82%B9%E6%9C%89%E5%BF%97%EF%BC%97%E3%82%AB%E5%9B%BD%EF%BD%9E%E3%80%8F%282026%E5%B9%B46%E6%9C%88%E5%8F%B7%29.pdf)
 
 ### 内外経済ウォッチ『米国～インフレ再燃とFOMC分裂に直面するウォーシュ新体制～』(2026年6月号)
 來源: DLRI | 日期: 2026-05-21 | 頁數: 1 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%86%85%E5%A4%96%E7%B5%8C%E6%B8%88%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81%E3%80%8E%E7%B1%B3%E5%9B%BD%EF%BD%9E%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AC%E5%86%8D%E7%87%83%E3%81%A8FOMC%E5%88%86%E8%A3%82%E3%81%AB%E7%9B%B4%E9%9D%A2%E3%81%99%E3%82%8B%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%B7%E3%83%A5%E6%96%B0%E4%BD%93%E5%88%B6%EF%BD%9E%E3%80%8F%282026%E5%B9%B46%E6%9C%88%E5%8F%B7%29.pdf)
-
-### 日本とドイツの逆転、GDPの次は長期金利？ ～長期金利3％台に日本が移行する可能性～
-來源: DLRI | 日期: 2026-05-21 | 頁數: 4 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%97%A5%E6%9C%AC%E3%81%A8%E3%83%89%E3%82%A4%E3%83%84%E3%81%AE%E9%80%86%E8%BB%A2%E3%80%81GDP%E3%81%AE%E6%AC%A1%E3%81%AF%E9%95%B7%E6%9C%9F%E9%87%91%E5%88%A9%EF%BC%9F%20%EF%BD%9E%E9%95%B7%E6%9C%9F%E9%87%91%E5%88%A93%EF%BC%85%E5%8F%B0%E3%81%AB%E6%97%A5%E6%9C%AC%E3%81%8C%E7%A7%BB%E8%A1%8C%E3%81%99%E3%82%8B%E5%8F%AF%E8%83%BD%E6%80%A7%EF%BD%9E.pdf)
 
 ### マーケット見通し『向こう１年間の市場見通し』(2026年6月号)
 來源: DLRI | 日期: 2026-05-21 | 頁數: 1 頁
@@ -1712,9 +1872,41 @@
 來源: DLRI | 日期: 2026-05-21 | 頁數: 5 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E9%87%91%E8%9E%8D%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC%E8%AA%BF%E6%9F%BB%EF%BC%882025%E5%B9%B4%EF%BC%89%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E7%94%B7%E5%A5%B3%E3%81%AE%E9%81%95%E3%81%84%EF%BC%88%E9%87%91%E8%9E%8D%E8%A1%8C%E5%8B%95%E7%B7%A8%EF%BC%89%20%EF%BD%9E%E9%87%91%E8%9E%8D%E3%83%88%E3%83%A9%E3%83%96%E3%83%AB%E3%81%8C%E5%A2%97%E5%8A%A0%E5%82%BE%E5%90%91%E3%81%AE%E8%8B%A5%E5%B9%B4%E7%94%B7%E6%80%A7%E3%81%A8%E3%80%81%E3%83%AA%E3%82%B9%E3%82%AF%E3%83%86%E3%82%A4%E3%82%AF%E3%82%92%E9%81%BF%E3%81%91%E3%82%8B%E5%A5%B3%E6%80%A7%EF%BD%9E.pdf)
 
+### グローバル経済『各国経済の6ヶ月見通し』(2026年6月号)
+來源: DLRI | 日期: 2026-05-21 | 頁數: 1 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E7%B5%8C%E6%B8%88%E3%80%8E%E5%90%84%E5%9B%BD%E7%B5%8C%E6%B8%88%E3%81%AE6%E3%83%B6%E6%9C%88%E8%A6%8B%E9%80%9A%E3%81%97%E3%80%8F%282026%E5%B9%B46%E6%9C%88%E5%8F%B7%29.pdf)
+
+### 内外経済ウォッチ『欧州～ブレグジット投票から10年、英国の現在地～』(2026年6月号)
+來源: DLRI | 日期: 2026-05-21 | 頁數: 1 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%86%85%E5%A4%96%E7%B5%8C%E6%B8%88%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81%E3%80%8E%E6%AC%A7%E5%B7%9E%EF%BD%9E%E3%83%96%E3%83%AC%E3%82%B0%E3%82%B8%E3%83%83%E3%83%88%E6%8A%95%E7%A5%A8%E3%81%8B%E3%82%8910%E5%B9%B4%E3%80%81%E8%8B%B1%E5%9B%BD%E3%81%AE%E7%8F%BE%E5%9C%A8%E5%9C%B0%EF%BD%9E%E3%80%8F%282026%E5%B9%B46%E6%9C%88%E5%8F%B7%29.pdf)
+
+### ここが知りたい『確定拠出年金のキャッチアップ拠出』
+來源: DLRI | 日期: 2026-05-21 | 頁數: 1 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%81%93%E3%81%93%E3%81%8C%E7%9F%A5%E3%82%8A%E3%81%9F%E3%81%84%E3%80%8E%E7%A2%BA%E5%AE%9A%E6%8B%A0%E5%87%BA%E5%B9%B4%E9%87%91%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81%E3%82%A2%E3%83%83%E3%83%97%E6%8B%A0%E5%87%BA%E3%80%8F.pdf)
+
+### 時評『新NISA、その後』
+來源: DLRI | 日期: 2026-05-21 | 頁數: 1 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%99%82%E8%A9%95%E3%80%8E%E6%96%B0NISA%E3%80%81%E3%81%9D%E3%81%AE%E5%BE%8C%E3%80%8F.pdf)
+
+### 給付になった給付付き税額控除 ～明確になった３つの方向性と課題～
+來源: DLRI | 日期: 2026-05-21 | 頁數: 4 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%B5%A6%E4%BB%98%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%E7%B5%A6%E4%BB%98%E4%BB%98%E3%81%8D%E7%A8%8E%E9%A1%8D%E6%8E%A7%E9%99%A4%20%EF%BD%9E%E6%98%8E%E7%A2%BA%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%EF%BC%93%E3%81%A4%E3%81%AE%E6%96%B9%E5%90%91%E6%80%A7%E3%81%A8%E8%AA%B2%E9%A1%8C%EF%BD%9E.pdf)
+
 ### 注目のキーワード『FIFAワールドカップ26』
 來源: DLRI | 日期: 2026-05-21 | 頁數: 1 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%B3%A8%E7%9B%AE%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%83%89%E3%80%8EFIFA%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%AB%E3%83%83%E3%83%9726%E3%80%8F.pdf)
+
+### 時事雑感(2026年6月号)
+來源: DLRI | 日期: 2026-05-21 | 頁數: 1 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%99%82%E4%BA%8B%E9%9B%91%E6%84%9F%282026%E5%B9%B46%E6%9C%88%E5%8F%B7%29.pdf)
+
+### 内外経済ウォッチ『日本～現時点における高市政権の取り組み～』(2026年6月号)
+來源: DLRI | 日期: 2026-05-21 | 頁數: 1 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%86%85%E5%A4%96%E7%B5%8C%E6%B8%88%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81%E3%80%8E%E6%97%A5%E6%9C%AC%EF%BD%9E%E7%8F%BE%E6%99%82%E7%82%B9%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E9%AB%98%E5%B8%82%E6%94%BF%E6%A8%A9%E3%81%AE%E5%8F%96%E3%82%8A%E7%B5%84%E3%81%BF%EF%BD%9E%E3%80%8F%282026%E5%B9%B46%E6%9C%88%E5%8F%B7%29.pdf)
+
+### イベントカレンダー『各国の主要政治・経済イベント予定』(2026年6月号)
+來源: DLRI | 日期: 2026-05-21 | 頁數: 1 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC%E3%80%8E%E5%90%84%E5%9B%BD%E3%81%AE%E4%B8%BB%E8%A6%81%E6%94%BF%E6%B2%BB%E3%83%BB%E7%B5%8C%E6%B8%88%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E4%BA%88%E5%AE%9A%E3%80%8F%282026%E5%B9%B46%E6%9C%88%E5%8F%B7%29.pdf)
 
 ### Germany: Federal Spending Picked Up Notably in April
 來源: Goldman Sachs Publishing | 日期: 2026-05-21 | 頁數: 7 頁
@@ -1772,90 +1964,6 @@
 來源: line報告備份 | 日期: 2026-05-21 | 頁數: 7 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/3088%E8%89%BE%E8%A8%8A%20%E7%BE%A4%E7%9B%8A.pdf)
 
-### 4129聯合 元富
-來源: line報告備份 | 日期: 2026-05-21 | 頁數: 1 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/4129%E8%81%AF%E5%90%88%20%E5%85%83%E5%AF%8C.pdf)
-
-### 4129聯合 永豐
-來源: line報告備份 | 日期: 2026-05-21 | 頁數: 7 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/4129%E8%81%AF%E5%90%88%20%E6%B0%B8%E8%B1%90.pdf)
-
-### 6538倉和 統一
-來源: line報告備份 | 日期: 2026-05-21 | 頁數: 11 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/6538%E5%80%89%E5%92%8C%20%E7%B5%B1%E4%B8%80.pdf)
-
-### 8103瀚荃 統一
-來源: line報告備份 | 日期: 2026-05-21 | 頁數: 9 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/8103%E7%80%9A%E8%8D%83%20%E7%B5%B1%E4%B8%80.pdf)
-
-### GFHK - CPU Update
-來源: line報告備份 | 日期: 2026-05-21 | 頁數: 5 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/GFHK%20-%20CPU%20Update.pdf)
-
-### ms_2h-may-panel-px
-來源: line報告備份 | 日期: 2026-05-21 | 頁數: 16 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/ms_2h-may-panel-px.pdf)
-
-### nmr_semi-renaissance
-來源: line報告備份 | 日期: 2026-05-21 | 頁數: 139 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/nmr_semi-renaissance.pdf)
-
-### NVIDIA(NVDA,B_買進)-CTBC260521
-來源: line報告備份 | 日期: 2026-05-21 | 頁數: 3 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/NVIDIA%28NVDA%2CB_%E8%B2%B7%E9%80%B2%29-CTBC260521.pdf)
-
-### 【國泰證期研究部】記憶體產業-CXL推動DRAM走向可分層與可池化-20260521
-來源: line報告備份 | 日期: 2026-05-21 | 頁數: 7 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%80%90%E5%9C%8B%E6%B3%B0%E8%AD%89%E6%9C%9F%E7%A0%94%E7%A9%B6%E9%83%A8%E3%80%91%E8%A8%98%E6%86%B6%E9%AB%94%E7%94%A2%E6%A5%AD-CXL%E6%8E%A8%E5%8B%95DRAM%E8%B5%B0%E5%90%91%E5%8F%AF%E5%88%86%E5%B1%A4%E8%88%87%E5%8F%AF%E6%B1%A0%E5%8C%96-20260521.pdf)
-
-### 元富投顧(台新新光金控)個股報告--奇鋐(3017)維持買進，營運逐季向上
-來源: line報告備份 | 日期: 2026-05-21 | 頁數: 5 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%85%83%E5%AF%8C%E6%8A%95%E9%A1%A7%28%E5%8F%B0%E6%96%B0%E6%96%B0%E5%85%89%E9%87%91%E6%8E%A7%29%E5%80%8B%E8%82%A1%E5%A0%B1%E5%91%8A--%E5%A5%87%E9%8B%90%283017%29%E7%B6%AD%E6%8C%81%E8%B2%B7%E9%80%B2%EF%BC%8C%E7%87%9F%E9%81%8B%E9%80%90%E5%AD%A3%E5%90%91%E4%B8%8A.pdf)
-
-### 凱基投顧_9941 裕融_施志鴻_20260521
-來源: line報告備份 | 日期: 2026-05-21 | 頁數: 7 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%87%B1%E5%9F%BA%E6%8A%95%E9%A1%A7_9941%20%E8%A3%95%E8%9E%8D_%E6%96%BD%E5%BF%97%E9%B4%BB_20260521.pdf)
-
-### 凱基投顧_ADI Analog Device_陳仲瑋_20260521
-來源: line報告備份 | 日期: 2026-05-21 | 頁數: 6 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%87%B1%E5%9F%BA%E6%8A%95%E9%A1%A7_ADI%20Analog%20Device_%E9%99%B3%E4%BB%B2%E7%91%8B_20260521.pdf)
-
-### 凱基投顧_HD Home Depot_賴偉中_20260521
-來源: line報告備份 | 日期: 2026-05-21 | 頁數: 4 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%87%B1%E5%9F%BA%E6%8A%95%E9%A1%A7_HD%20Home%20Depot_%E8%B3%B4%E5%81%89%E4%B8%AD_20260521.pdf)
-
-### 凱基投顧_Takeaway_2211 長榮鋼_劉昃恩_20260521
-來源: line報告備份 | 日期: 2026-05-21 | 頁數: 3 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%87%B1%E5%9F%BA%E6%8A%95%E9%A1%A7_Takeaway_2211%20%E9%95%B7%E6%A6%AE%E9%8B%BC_%E5%8A%89%E6%98%83%E6%81%A9_20260521.pdf)
-
-### 凱基投顧_Takeaway_4766 南寶_劉昃恩_20260521
-來源: line報告備份 | 日期: 2026-05-21 | 頁數: 3 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%87%B1%E5%9F%BA%E6%8A%95%E9%A1%A7_Takeaway_4766%20%E5%8D%97%E5%AF%B6_%E5%8A%89%E6%98%83%E6%81%A9_20260521.pdf)
-
-### 凱基投顧_TGT Target Corp_莊政翰_20260521
-來源: line報告備份 | 日期: 2026-05-21 | 頁數: 7 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%87%B1%E5%9F%BA%E6%8A%95%E9%A1%A7_TGT%20Target%20Corp_%E8%8E%8A%E6%94%BF%E7%BF%B0_20260521.pdf)
-
-### 凱基投顧_VFC 威富集團_劉昃恩_20260521
-來源: line報告備份 | 日期: 2026-05-21 | 頁數: 6 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%87%B1%E5%9F%BA%E6%8A%95%E9%A1%A7_VFC%20%E5%A8%81%E5%AF%8C%E9%9B%86%E5%9C%98_%E5%8A%89%E6%98%83%E6%81%A9_20260521.pdf)
-
-### 凱基投顧_貨櫃航運產業_賴偉中_20260521
-來源: line報告備份 | 日期: 2026-05-21 | 頁數: 12 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%87%B1%E5%9F%BA%E6%8A%95%E9%A1%A7_%E8%B2%A8%E6%AB%83%E8%88%AA%E9%81%8B%E7%94%A2%E6%A5%AD_%E8%B3%B4%E5%81%89%E4%B8%AD_20260521.pdf)
-
-### 帆宣(6196,B_買進)-CTBC260521
-來源: line報告備份 | 日期: 2026-05-21 | 頁數: 13 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%B8%86%E5%AE%A3%286196%2CB_%E8%B2%B7%E9%80%B2%29-CTBC260521.pdf)
-
-### 產銷調查：全球智慧型手機1Q26出貨2.783億支 預估2026全年出貨跌破11億支_20260521-151_圖表
-來源: line報告備份 | 日期: 2026-05-21 | 頁數: 15 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%94%A2%E9%8A%B7%E8%AA%BF%E6%9F%A5%EF%BC%9A%E5%85%A8%E7%90%83%E6%99%BA%E6%85%A7%E5%9E%8B%E6%89%8B%E6%A9%9F1Q26%E5%87%BA%E8%B2%A82.783%E5%84%84%E6%94%AF%20%E9%A0%90%E4%BC%B02026%E5%85%A8%E5%B9%B4%E5%87%BA%E8%B2%A8%E8%B7%8C%E7%A0%B411%E5%84%84%E6%94%AF_20260521-151_%E5%9C%96%E8%A1%A8.pdf)
-
-### 長榮航太(2645,B_買進)-CTBC260521
-來源: line報告備份 | 日期: 2026-05-21 | 頁數: 11 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E9%95%B7%E6%A6%AE%E8%88%AA%E5%A4%AA%282645%2CB_%E8%B2%B7%E9%80%B2%29-CTBC260521.pdf)
-
 ### 統計通報－今年1-4月自美國進口原油及液化天然氣金額創歷年同期新高，各增7.3%及3.7倍 (2026-05-21)
 來源: MOF | 日期: 2026-05-21 | 頁數: 1 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%B5%B1%E8%A8%88%E9%80%9A%E5%A0%B1%EF%BC%8D%E4%BB%8A%E5%B9%B41-4%E6%9C%88%E8%87%AA%E7%BE%8E%E5%9C%8B%E9%80%B2%E5%8F%A3%E5%8E%9F%E6%B2%B9%E5%8F%8A%E6%B6%B2%E5%8C%96%E5%A4%A9%E7%84%B6%E6%B0%A3%E9%87%91%E9%A1%8D%E5%89%B5%E6%AD%B7%E5%B9%B4%E5%90%8C%E6%9C%9F%E6%96%B0%E9%AB%98%EF%BC%8C%E5%90%84%E5%A2%9E7.3%25%E5%8F%8A3.7%E5%80%8D%20%282026-05-21%29.pdf)
@@ -1880,25 +1988,13 @@
 來源: DLRI | 日期: 2026-05-20 | 頁數: 9 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/JPX%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E6%80%A5%E6%88%90%E9%95%B7100%E6%8C%87%E6%95%B0%E3%81%AF%E4%BD%95%E3%82%92%E6%98%A0%E3%81%99%E3%81%AE%E3%81%8B%EF%BC%9F%20%EF%BD%9E%E6%97%A5%E6%9C%AC%E5%B8%82%E5%A0%B4%E3%81%8C%E8%A9%95%E4%BE%A1%E3%81%99%E3%82%8B%E9%AB%98%E6%88%90%E9%95%B7%E4%BC%81%E6%A5%AD%E5%83%8F%EF%BD%9E.pdf)
 
+### ＦＲＢが引き締める前に引き締まっている
+來源: DLRI | 日期: 2026-05-20 | 頁數: 3 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%EF%BC%A6%EF%BC%B2%EF%BC%A2%E3%81%8C%E5%BC%95%E3%81%8D%E7%B7%A0%E3%82%81%E3%82%8B%E5%89%8D%E3%81%AB%E5%BC%95%E3%81%8D%E7%B7%A0%E3%81%BE%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B.pdf)
+
 ### 世界経済見通し（日米欧亜・2026年5月）
 來源: DLRI | 日期: 2026-05-20 | 頁數: 8 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E4%B8%96%E7%95%8C%E7%B5%8C%E6%B8%88%E8%A6%8B%E9%80%9A%E3%81%97%EF%BC%88%E6%97%A5%E7%B1%B3%E6%AC%A7%E4%BA%9C%E3%83%BB2026%E5%B9%B45%E6%9C%88%EF%BC%89.pdf)
-
-### 1Q26兩岸晶圓代工淡季不淡 漲價效應將推升2Q26及2026全年兩岸產業營收_20260520-149
-來源: line報告備份 | 日期: 2026-05-20 | 頁數: 20 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/1Q26%E5%85%A9%E5%B2%B8%E6%99%B6%E5%9C%93%E4%BB%A3%E5%B7%A5%E6%B7%A1%E5%AD%A3%E4%B8%8D%E6%B7%A1%20%E6%BC%B2%E5%83%B9%E6%95%88%E6%87%89%E5%B0%87%E6%8E%A8%E5%8D%872Q26%E5%8F%8A2026%E5%85%A8%E5%B9%B4%E5%85%A9%E5%B2%B8%E7%94%A2%E6%A5%AD%E7%87%9F%E6%94%B6_20260520-149.pdf)
-
-### 260520_ms_rubin-rack-BOM
-來源: line報告備份 | 日期: 2026-05-20 | 頁數: 17 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/260520_ms_rubin-rack-BOM.pdf)
-
-### Kinik(1560TW) MQ 260520
-來源: line報告備份 | 日期: 2026-05-20 | 頁數: 4 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Kinik%281560TW%29%20MQ%20260520.pdf)
-
-### 凱基投顧_AS Amer Sports_劉昃恩_20260520
-來源: line報告備份 | 日期: 2026-05-20 | 頁數: 5 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%87%B1%E5%9F%BA%E6%8A%95%E9%A1%A7_AS%20Amer%20Sports_%E5%8A%89%E6%98%83%E6%81%A9_20260520.pdf)
 
 ### 2026年1～3月期のGDP（1次速報）結果
 來源: MURC | 日期: 2026-05-20 | 頁數: 2 頁
@@ -1948,25 +2044,17 @@
 來源: DLRI | 日期: 2026-05-19 | 頁數: 5 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/2026%E5%B9%B41-3%E6%9C%88%E6%9C%9FGDP%EF%BC%88%EF%BC%91%E6%AC%A1%E9%80%9F%E5%A0%B1%E5%80%A4%EF%BC%89%20%EF%BD%9E%E3%82%A4%E3%83%A9%E3%83%B3%E6%83%85%E5%8B%A2%E6%82%AA%E5%8C%96%E5%89%8D%E3%81%AE%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E3%81%AF%E5%BA%95%E5%A0%85%E3%81%8F%E6%8E%A8%E7%A7%BB%E3%82%82%E3%80%81%E5%85%88%E8%A1%8C%E3%81%8D%E6%87%B8%E5%BF%B5%E3%81%AF%E5%BC%B7%E3%81%BE%E3%82%8B%EF%BD%9E.pdf)
 
-### BRICS外相会議､中東情勢を巡る｢溝｣で共同声明の採択見送り ～イランとUAEの対立が先鋭化､｢全会一致｣を前提とする意思決定の難しさが露に～
-來源: DLRI | 日期: 2026-05-19 | 頁數: 3 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/BRICS%E5%A4%96%E7%9B%B8%E4%BC%9A%E8%AD%B0%EF%BD%A4%E4%B8%AD%E6%9D%B1%E6%83%85%E5%8B%A2%E3%82%92%E5%B7%A1%E3%82%8B%EF%BD%A2%E6%BA%9D%EF%BD%A3%E3%81%A7%E5%85%B1%E5%90%8C%E5%A3%B0%E6%98%8E%E3%81%AE%E6%8E%A1%E6%8A%9E%E8%A6%8B%E9%80%81%E3%82%8A%20%EF%BD%9E%E3%82%A4%E3%83%A9%E3%83%B3%E3%81%A8UAE%E3%81%AE%E5%AF%BE%E7%AB%8B%E3%81%8C%E5%85%88%E9%8B%AD%E5%8C%96%EF%BD%A4%EF%BD%A2%E5%85%A8%E4%BC%9A%E4%B8%80%E8%87%B4%EF%BD%A3%E3%82%92%E5%89%8D%E6%8F%90%E3%81%A8%E3%81%99%E3%82%8B%E6%84%8F%E6%80%9D%E6%B1%BA%E5%AE%9A%E3%81%AE%E9%9B%A3%E3%81%97%E3%81%95%E3%81%8C%E9%9C%B2%E3%81%AB%EF%BD%9E.pdf)
-
 ### テクニカル指標から見た日経平均株価 ～短期的な過熱は概ね解消、健全なスピード調整はもう少し続くか～
 來源: DLRI | 日期: 2026-05-19 | 頁數: 6 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%83%86%E3%82%AF%E3%83%8B%E3%82%AB%E3%83%AB%E6%8C%87%E6%A8%99%E3%81%8B%E3%82%89%E8%A6%8B%E3%81%9F%E6%97%A5%E7%B5%8C%E5%B9%B3%E5%9D%87%E6%A0%AA%E4%BE%A1%20%EF%BD%9E%E7%9F%AD%E6%9C%9F%E7%9A%84%E3%81%AA%E9%81%8E%E7%86%B1%E3%81%AF%E6%A6%82%E3%81%AD%E8%A7%A3%E6%B6%88%E3%80%81%E5%81%A5%E5%85%A8%E3%81%AA%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89%E8%AA%BF%E6%95%B4%E3%81%AF%E3%82%82%E3%81%86%E5%B0%91%E3%81%97%E7%B6%9A%E3%81%8F%E3%81%8B%EF%BD%9E.pdf)
 
-### 最近の長期金利上昇と賃上げの関係 労働者の怒りに注意
-來源: DLRI | 日期: 2026-05-19 | 頁數: 4 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%9C%80%E8%BF%91%E3%81%AE%E9%95%B7%E6%9C%9F%E9%87%91%E5%88%A9%E4%B8%8A%E6%98%87%E3%81%A8%E8%B3%83%E4%B8%8A%E3%81%92%E3%81%AE%E9%96%A2%E4%BF%82%20%E5%8A%B4%E5%83%8D%E8%80%85%E3%81%AE%E6%80%92%E3%82%8A%E3%81%AB%E6%B3%A8%E6%84%8F.pdf)
+### トランプ大統領が1～3月に大規模な証券取引 ～懸念される利益相反～
+來源: DLRI | 日期: 2026-05-19 | 頁數: 2 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E5%A4%A7%E7%B5%B1%E9%A0%98%E3%81%8C1%EF%BD%9E3%E6%9C%88%E3%81%AB%E5%A4%A7%E8%A6%8F%E6%A8%A1%E3%81%AA%E8%A8%BC%E5%88%B8%E5%8F%96%E5%BC%95%20%EF%BD%9E%E6%87%B8%E5%BF%B5%E3%81%95%E3%82%8C%E3%82%8B%E5%88%A9%E7%9B%8A%E7%9B%B8%E5%8F%8D%EF%BD%9E.pdf)
 
 ### 2026～2027年度日本経済見通し（2026年5月）（2026年1-3月期GDP1次速報後改定）
 來源: DLRI | 日期: 2026-05-19 | 頁數: 5 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/2026%EF%BD%9E2027%E5%B9%B4%E5%BA%A6%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E8%A6%8B%E9%80%9A%E3%81%97%EF%BC%882026%E5%B9%B45%E6%9C%88%EF%BC%89%EF%BC%882026%E5%B9%B41-3%E6%9C%88%E6%9C%9FGDP1%E6%AC%A1%E9%80%9F%E5%A0%B1%E5%BE%8C%E6%94%B9%E5%AE%9A%EF%BC%89.pdf)
-
-### トランプ大統領が1～3月に大規模な証券取引 ～懸念される利益相反～
-來源: DLRI | 日期: 2026-05-19 | 頁數: 2 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E5%A4%A7%E7%B5%B1%E9%A0%98%E3%81%8C1%EF%BD%9E3%E6%9C%88%E3%81%AB%E5%A4%A7%E8%A6%8F%E6%A8%A1%E3%81%AA%E8%A8%BC%E5%88%B8%E5%8F%96%E5%BC%95%20%EF%BD%9E%E6%87%B8%E5%BF%B5%E3%81%95%E3%82%8C%E3%82%8B%E5%88%A9%E7%9B%8A%E7%9B%B8%E5%8F%8D%EF%BD%9E.pdf)
 
 ### 日本経済展望2026年5月号：【乖離が広がる日経平均株価とTOPIX】【在米現地法人、トランプ関税下でも底堅い収益】（PDF：1262KB）
 來源: JRI | 日期: 2026-05-19 | 頁數: 11 頁
@@ -1975,14 +2063,6 @@
 ### Bất đồng trong đàm phán (2026-05-19)
 來源: KBSV (Thematic) | 日期: 2026-05-19 | 頁數: 3 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/B%E1%BA%A5t%20%C4%91%E1%BB%93ng%20trong%20%C4%91%C3%A0m%20ph%C3%A1n%20%282026-05-19%29.pdf)
-
-### 260519_gs_AI-infra
-來源: line報告備份 | 日期: 2026-05-19 | 頁數: 7 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/260519_gs_AI-infra.pdf)
-
-### 260519_ms_semi-distributors
-來源: line報告備份 | 日期: 2026-05-19 | 頁數: 18 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/260519_ms_semi-distributors.pdf)
 
 ### QE速報：2026年1-3月期の実質ＧＤＰは前期比0.5％（年率2.1％）－前期に続き...
 來源: NLI | 日期: 2026-05-19 | 頁數: 4 頁
@@ -2008,21 +2088,21 @@
 來源: CFR (Follow the Money) | 日期: 2026-05-18 | 頁數: 13 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Finding%20China%20in%20the%20U.S.%20TIC%20Data.pdf)
 
-### 工作機械受注が教えてくれる日本株・世界経済（26 年４月）
-來源: DLRI | 日期: 2026-05-18 | 頁數: 5 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%E5%8F%97%E6%B3%A8%E3%81%8C%E6%95%99%E3%81%88%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E6%97%A5%E6%9C%AC%E6%A0%AA%E3%83%BB%E4%B8%96%E7%95%8C%E7%B5%8C%E6%B8%88%EF%BC%8826%20%E5%B9%B4%EF%BC%94%E6%9C%88%EF%BC%89.pdf)
-
 ### 幼児期における金融経済教育の現状と課題 ～こどもたちの未来のファイナンシャル・ウェルビーイングを支えるために～
 來源: DLRI | 日期: 2026-05-18 | 頁數: 12 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%B9%BC%E5%85%90%E6%9C%9F%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E9%87%91%E8%9E%8D%E7%B5%8C%E6%B8%88%E6%95%99%E8%82%B2%E3%81%AE%E7%8F%BE%E7%8A%B6%E3%81%A8%E8%AA%B2%E9%A1%8C%20%EF%BD%9E%E3%81%93%E3%81%A9%E3%82%82%E3%81%9F%E3%81%A1%E3%81%AE%E6%9C%AA%E6%9D%A5%E3%81%AE%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%B3%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%BB%E3%82%A6%E3%82%A7%E3%83%AB%E3%83%93%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%B0%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%EF%BD%9E.pdf)
 
-### 米国:4月鉱工業生産はプラスに転じ回復トレンド強まる   ～中東情勢が重石となる一方、AI関連、自動車が押し上げ～
+### 米国:4月小売売上高は鈍化も依然として堅調   ～税還付や株高等が下支え、幅広い業種で売上拡大～
 來源: DLRI | 日期: 2026-05-18 | 頁數: 4 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%B1%B3%E5%9B%BD_4%E6%9C%88%E9%89%B1%E5%B7%A5%E6%A5%AD%E7%94%9F%E7%94%A3%E3%81%AF%E3%83%97%E3%83%A9%E3%82%B9%E3%81%AB%E8%BB%A2%E3%81%98%E5%9B%9E%E5%BE%A9%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89%E5%BC%B7%E3%81%BE%E3%82%8B%20%20%20%EF%BD%9E%E4%B8%AD%E6%9D%B1%E6%83%85%E5%8B%A2%E3%81%8C%E9%87%8D%E7%9F%B3%E3%81%A8%E3%81%AA%E3%82%8B%E4%B8%80%E6%96%B9%E3%80%81AI%E9%96%A2%E9%80%A3%E3%80%81%E8%87%AA%E5%8B%95%E8%BB%8A%E3%81%8C%E6%8A%BC%E3%81%97%E4%B8%8A%E3%81%92%EF%BD%9E.pdf)
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%B1%B3%E5%9B%BD_4%E6%9C%88%E5%B0%8F%E5%A3%B2%E5%A3%B2%E4%B8%8A%E9%AB%98%E3%81%AF%E9%88%8D%E5%8C%96%E3%82%82%E4%BE%9D%E7%84%B6%E3%81%A8%E3%81%97%E3%81%A6%E5%A0%85%E8%AA%BF%20%20%20%EF%BD%9E%E7%A8%8E%E9%82%84%E4%BB%98%E3%82%84%E6%A0%AA%E9%AB%98%E7%AD%89%E3%81%8C%E4%B8%8B%E6%94%AF%E3%81%88%E3%80%81%E5%B9%85%E5%BA%83%E3%81%84%E6%A5%AD%E7%A8%AE%E3%81%A7%E5%A3%B2%E4%B8%8A%E6%8B%A1%E5%A4%A7%EF%BD%9E.pdf)
 
 ### 経済財政諮問会議（2026年5月11日）解説 ～「マクロ経済運営」と「財政状況の多角的分析」について～
 來源: DLRI | 日期: 2026-05-18 | 頁數: 4 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%B5%8C%E6%B8%88%E8%B2%A1%E6%94%BF%E8%AB%AE%E5%95%8F%E4%BC%9A%E8%AD%B0%EF%BC%882026%E5%B9%B45%E6%9C%8811%E6%97%A5%EF%BC%89%E8%A7%A3%E8%AA%AC%20%EF%BD%9E%E3%80%8C%E3%83%9E%E3%82%AF%E3%83%AD%E7%B5%8C%E6%B8%88%E9%81%8B%E5%96%B6%E3%80%8D%E3%81%A8%E3%80%8C%E8%B2%A1%E6%94%BF%E7%8A%B6%E6%B3%81%E3%81%AE%E5%A4%9A%E8%A7%92%E7%9A%84%E5%88%86%E6%9E%90%E3%80%8D%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%EF%BD%9E.pdf)
+
+### タイ､１-３月GDPは前年比＋2.8％と堅調も､内外に不安要因山積 ～中東情勢悪化でデフレ状況は一変､政府見通し実現のハードルは高まっている～
+來源: DLRI | 日期: 2026-05-18 | 頁數: 4 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%82%BF%E3%82%A4%EF%BD%A4%EF%BC%91-%EF%BC%93%E6%9C%88GDP%E3%81%AF%E5%89%8D%E5%B9%B4%E6%AF%94%EF%BC%8B2.8%EF%BC%85%E3%81%A8%E5%A0%85%E8%AA%BF%E3%82%82%EF%BD%A4%E5%86%85%E5%A4%96%E3%81%AB%E4%B8%8D%E5%AE%89%E8%A6%81%E5%9B%A0%E5%B1%B1%E7%A9%8D%20%EF%BD%9E%E4%B8%AD%E6%9D%B1%E6%83%85%E5%8B%A2%E6%82%AA%E5%8C%96%E3%81%A7%E3%83%87%E3%83%95%E3%83%AC%E7%8A%B6%E6%B3%81%E3%81%AF%E4%B8%80%E5%A4%89%EF%BD%A4%E6%94%BF%E5%BA%9C%E8%A6%8B%E9%80%9A%E3%81%97%E5%AE%9F%E7%8F%BE%E3%81%AE%E3%83%8F%E3%83%BC%E3%83%89%E3%83%AB%E3%81%AF%E9%AB%98%E3%81%BE%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%EF%BD%9E.pdf)
 
 ### 米中首脳会談における経済・貿易面の成果 ～詳細は不明/年内3回の首脳会談を見据えて継続協議～
 來源: DLRI | 日期: 2026-05-18 | 頁數: 3 頁
@@ -2088,17 +2168,13 @@
 來源: CTBC | 日期: 2026-05-15 | 頁數: 4 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%80%90%E5%81%A5%E8%AD%B7%E7%94%A2%E6%A5%AD%E6%94%BB%E7%95%A5%E3%80%91%E5%81%A5%E8%AD%B7%E8%B2%A1%E5%A0%B1%E5%BE%8C%E6%8A%95%E8%B3%87%E7%9A%84%E8%BC%AA%E6%9B%BF.pdf)
 
-### 米中首脳会談を経て､米中関係は｢建設的戦略的安定｣へ ～当面は｢管理された競争｣が続くも､中国が主導権を目指すなかで世界はどう対峙するか～
-來源: DLRI | 日期: 2026-05-15 | 頁數: 5 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%B1%B3%E4%B8%AD%E9%A6%96%E8%84%B3%E4%BC%9A%E8%AB%87%E3%82%92%E7%B5%8C%E3%81%A6%EF%BD%A4%E7%B1%B3%E4%B8%AD%E9%96%A2%E4%BF%82%E3%81%AF%EF%BD%A2%E5%BB%BA%E8%A8%AD%E7%9A%84%E6%88%A6%E7%95%A5%E7%9A%84%E5%AE%89%E5%AE%9A%EF%BD%A3%E3%81%B8%20%EF%BD%9E%E5%BD%93%E9%9D%A2%E3%81%AF%EF%BD%A2%E7%AE%A1%E7%90%86%E3%81%95%E3%82%8C%E3%81%9F%E7%AB%B6%E4%BA%89%EF%BD%A3%E3%81%8C%E7%B6%9A%E3%81%8F%E3%82%82%EF%BD%A4%E4%B8%AD%E5%9B%BD%E3%81%8C%E4%B8%BB%E5%B0%8E%E6%A8%A9%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99%E3%81%AA%E3%81%8B%E3%81%A7%E4%B8%96%E7%95%8C%E3%81%AF%E3%81%A9%E3%81%86%E5%AF%BE%E5%B3%99%E3%81%99%E3%82%8B%E3%81%8B%EF%BD%9E.pdf)
-
-### 忍び寄るインフレ加速リスク ～コスト上昇＋供給不安で川上段階の物価が急上昇。川下への波及は進むか～
-來源: DLRI | 日期: 2026-05-15 | 頁數: 5 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%BF%8D%E3%81%B3%E5%AF%84%E3%82%8B%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AC%E5%8A%A0%E9%80%9F%E3%83%AA%E3%82%B9%E3%82%AF%20%EF%BD%9E%E3%82%B3%E3%82%B9%E3%83%88%E4%B8%8A%E6%98%87%EF%BC%8B%E4%BE%9B%E7%B5%A6%E4%B8%8D%E5%AE%89%E3%81%A7%E5%B7%9D%E4%B8%8A%E6%AE%B5%E9%9A%8E%E3%81%AE%E7%89%A9%E4%BE%A1%E3%81%8C%E6%80%A5%E4%B8%8A%E6%98%87%E3%80%82%E5%B7%9D%E4%B8%8B%E3%81%B8%E3%81%AE%E6%B3%A2%E5%8F%8A%E3%81%AF%E9%80%B2%E3%82%80%E3%81%8B%EF%BD%9E.pdf)
-
-### 英スターマー首相は夏に退陣か？ ～バーナム氏の国政復帰を待って党首選実施へ～
+### ペルー大統領選､決選投票を前に高まる経済と政治を巡るリスク ～候補者訴追問題やインフレ圧力の強まりを受け､市場環境は不安定な展開が続くか～
 來源: DLRI | 日期: 2026-05-15 | 頁數: 3 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E8%8B%B1%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%9E%E3%83%BC%E9%A6%96%E7%9B%B8%E3%81%AF%E5%A4%8F%E3%81%AB%E9%80%80%E9%99%A3%E3%81%8B%EF%BC%9F%20%EF%BD%9E%E3%83%90%E3%83%BC%E3%83%8A%E3%83%A0%E6%B0%8F%E3%81%AE%E5%9B%BD%E6%94%BF%E5%BE%A9%E5%B8%B0%E3%82%92%E5%BE%85%E3%81%A3%E3%81%A6%E5%85%9A%E9%A6%96%E9%81%B8%E5%AE%9F%E6%96%BD%E3%81%B8%EF%BD%9E.pdf)
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%83%9A%E3%83%AB%E3%83%BC%E5%A4%A7%E7%B5%B1%E9%A0%98%E9%81%B8%EF%BD%A4%E6%B1%BA%E9%81%B8%E6%8A%95%E7%A5%A8%E3%82%92%E5%89%8D%E3%81%AB%E9%AB%98%E3%81%BE%E3%82%8B%E7%B5%8C%E6%B8%88%E3%81%A8%E6%94%BF%E6%B2%BB%E3%82%92%E5%B7%A1%E3%82%8B%E3%83%AA%E3%82%B9%E3%82%AF%20%EF%BD%9E%E5%80%99%E8%A3%9C%E8%80%85%E8%A8%B4%E8%BF%BD%E5%95%8F%E9%A1%8C%E3%82%84%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AC%E5%9C%A7%E5%8A%9B%E3%81%AE%E5%BC%B7%E3%81%BE%E3%82%8A%E3%82%92%E5%8F%97%E3%81%91%EF%BD%A4%E5%B8%82%E5%A0%B4%E7%92%B0%E5%A2%83%E3%81%AF%E4%B8%8D%E5%AE%89%E5%AE%9A%E3%81%AA%E5%B1%95%E9%96%8B%E3%81%8C%E7%B6%9A%E3%81%8F%E3%81%8B%EF%BD%9E.pdf)
+
+### 円安もウォン安も背景に投資ブーム
+來源: DLRI | 日期: 2026-05-15 | 頁數: 4 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%86%86%E5%AE%89%E3%82%82%E3%82%A6%E3%82%A9%E3%83%B3%E5%AE%89%E3%82%82%E8%83%8C%E6%99%AF%E3%81%AB%E6%8A%95%E8%B3%87%E3%83%96%E3%83%BC%E3%83%A0.pdf)
 
 ### 金利上昇でAI関連株の過熱に冷水 ～金利上昇は高PERの天敵～
 來源: DLRI | 日期: 2026-05-15 | 頁數: 4 頁
@@ -2156,17 +2232,9 @@
 來源: DLRI | 日期: 2026-05-14 | 頁數: 4 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB%EF%BD%A5%E3%83%AB%E3%83%A9%E6%94%BF%E6%A8%A9%EF%BD%A4%E7%87%83%E6%96%99%E8%A3%9C%E5%8A%A9%E9%87%91%E3%81%AB%E3%82%88%E3%82%8B%E4%BE%A1%E6%A0%BC%E6%8A%91%E5%88%B6%E3%81%AB%E8%88%B5%20%EF%BD%9E%E5%A4%A7%E7%B5%B1%E9%A0%98%E9%81%B8%E3%82%92%E5%BC%B7%E3%81%8F%E6%84%8F%E8%AD%98%E3%81%97%E3%81%9F%E6%94%BF%E7%AD%96%E9%81%8B%E5%96%B6%EF%BD%A4%EF%BD%A2%E7%94%A3%E6%B2%B9%E5%9B%BD%EF%BD%A3%E3%81%AA%E3%81%A9%E7%89%B9%E6%AE%8A%E4%BA%8B%E6%83%85%E3%81%AF%E3%81%82%E3%82%8B%E3%81%8C%EF%BD%A4%E6%8C%81%E7%B6%9A%E5%8F%AF%E8%83%BD%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%84%EF%BD%9E.pdf)
 
-### ポスト・スターマーと英国の財政運営 ～若手改革派、現職首相、穏健左派が首相の座を争う～
-來源: DLRI | 日期: 2026-05-14 | 頁數: 2 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%83%9D%E3%82%B9%E3%83%88%E3%83%BB%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%9E%E3%83%BC%E3%81%A8%E8%8B%B1%E5%9B%BD%E3%81%AE%E8%B2%A1%E6%94%BF%E9%81%8B%E5%96%B6%20%EF%BD%9E%E8%8B%A5%E6%89%8B%E6%94%B9%E9%9D%A9%E6%B4%BE%E3%80%81%E7%8F%BE%E8%81%B7%E9%A6%96%E7%9B%B8%E3%80%81%E7%A9%8F%E5%81%A5%E5%B7%A6%E6%B4%BE%E3%81%8C%E9%A6%96%E7%9B%B8%E3%81%AE%E5%BA%A7%E3%82%92%E4%BA%89%E3%81%86%EF%BD%9E.pdf)
-
-### 米国:天候の改善により住宅着工は大幅増(26年3月)   ～許可件数の減少など建設コスト高による先行き不透明感は継続～
-來源: DLRI | 日期: 2026-05-14 | 頁數: 4 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%B1%B3%E5%9B%BD_%E5%A4%A9%E5%80%99%E3%81%AE%E6%94%B9%E5%96%84%E3%81%AB%E3%82%88%E3%82%8A%E4%BD%8F%E5%AE%85%E7%9D%80%E5%B7%A5%E3%81%AF%E5%A4%A7%E5%B9%85%E5%A2%97%2826%E5%B9%B43%E6%9C%88%29%20%20%20%EF%BD%9E%E8%A8%B1%E5%8F%AF%E4%BB%B6%E6%95%B0%E3%81%AE%E6%B8%9B%E5%B0%91%E3%81%AA%E3%81%A9%E5%BB%BA%E8%A8%AD%E3%82%B3%E3%82%B9%E3%83%88%E9%AB%98%E3%81%AB%E3%82%88%E3%82%8B%E5%85%88%E8%A1%8C%E3%81%8D%E4%B8%8D%E9%80%8F%E6%98%8E%E6%84%9F%E3%81%AF%E7%B6%99%E7%B6%9A%EF%BD%9E.pdf)
-
-### アフター・イラン攻撃のイメージ ～戦闘終結でも後遺症が残る～
-來源: DLRI | 日期: 2026-05-14 | 頁數: 4 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%A4%E3%83%A9%E3%83%B3%E6%94%BB%E6%92%83%E3%81%AE%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%20%EF%BD%9E%E6%88%A6%E9%97%98%E7%B5%82%E7%B5%90%E3%81%A7%E3%82%82%E5%BE%8C%E9%81%BA%E7%97%87%E3%81%8C%E6%AE%8B%E3%82%8B%EF%BD%9E.pdf)
+### それでもリスクは2022 年の再来 世界同時引き締めも
+來源: DLRI | 日期: 2026-05-14 | 頁數: 3 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%81%9D%E3%82%8C%E3%81%A7%E3%82%82%E3%83%AA%E3%82%B9%E3%82%AF%E3%81%AF2022%20%E5%B9%B4%E3%81%AE%E5%86%8D%E6%9D%A5%20%E4%B8%96%E7%95%8C%E5%90%8C%E6%99%82%E5%BC%95%E3%81%8D%E7%B7%A0%E3%82%81%E3%82%82.pdf)
 
 ### 統計通報 - 房屋稅開徵戶數近10年增近2成，114年女性納稅義務人占比45.2%再創新高 (2026-05-14)
 來源: MOF | 日期: 2026-05-14 | 頁數: 1 頁
@@ -2191,10 +2259,6 @@
 ### 【天然資源產業攻略】天然資源受惠價格上漲
 來源: CTBC | 日期: 2026-05-13 | 頁數: 4 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%80%90%E5%A4%A9%E7%84%B6%E8%B3%87%E6%BA%90%E7%94%A2%E6%A5%AD%E6%94%BB%E7%95%A5%E3%80%91%E5%A4%A9%E7%84%B6%E8%B3%87%E6%BA%90%E5%8F%97%E6%83%A0%E5%83%B9%E6%A0%BC%E4%B8%8A%E6%BC%B2.pdf)
-
-### 2026年1-3月期GDP予測(最終版) ～前期比年率＋1.7％のプラス成長を予想も、先行きの下振れリスクは大きい～
-來源: DLRI | 日期: 2026-05-13 | 頁數: 2 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/2026%E5%B9%B41-3%E6%9C%88%E6%9C%9FGDP%E4%BA%88%E6%B8%AC%28%E6%9C%80%E7%B5%82%E7%89%88%29%20%EF%BD%9E%E5%89%8D%E6%9C%9F%E6%AF%94%E5%B9%B4%E7%8E%87%EF%BC%8B1.7%EF%BC%85%E3%81%AE%E3%83%97%E3%83%A9%E3%82%B9%E6%88%90%E9%95%B7%E3%82%92%E4%BA%88%E6%83%B3%E3%82%82%E3%80%81%E5%85%88%E8%A1%8C%E3%81%8D%E3%81%AE%E4%B8%8B%E6%8C%AF%E3%82%8C%E3%83%AA%E3%82%B9%E3%82%AF%E3%81%AF%E5%A4%A7%E3%81%8D%E3%81%84%EF%BD%9E.pdf)
 
 ### 主要產業總評：測試的黃金時代
 來源: Fubon | 日期: 2026-05-13 | 頁數: 4 頁
@@ -2367,30 +2431,6 @@
 ### 今月のグラフ（2026年5月）「高根の花」となった東京の新築マンション
 來源: MURC | 日期: 2026-05-07 | 頁數: 2 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E4%BB%8A%E6%9C%88%E3%81%AE%E3%82%B0%E3%83%A9%E3%83%95%EF%BC%882026%E5%B9%B45%E6%9C%88%EF%BC%89%E3%80%8C%E9%AB%98%E6%A0%B9%E3%81%AE%E8%8A%B1%E3%80%8D%E3%81%A8%E3%81%AA%E3%81%A3%E3%81%9F%E6%9D%B1%E4%BA%AC%E3%81%AE%E6%96%B0%E7%AF%89%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3.pdf)
-
-### France: inflation is starting to spread but is still sparing consumer goods and services (2026-05-06)
-來源: BNP Paribas | 日期: 2026-05-06 | 頁數: 2 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/France_%20inflation%20is%20starting%20to%20spread%20but%20is%20still%20sparing%20consumer%20goods%20and%20services%20%282026-05-06%29.pdf)
-
-### 【通訊服務產業攻略】通訊服務成分股表現強勁，持續看好指數上行
-來源: CTBC | 日期: 2026-05-06 | 頁數: 4 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%80%90%E9%80%9A%E8%A8%8A%E6%9C%8D%E5%8B%99%E7%94%A2%E6%A5%AD%E6%94%BB%E7%95%A5%E3%80%91%E9%80%9A%E8%A8%8A%E6%9C%8D%E5%8B%99%E6%88%90%E5%88%86%E8%82%A1%E8%A1%A8%E7%8F%BE%E5%BC%B7%E5%8B%81%EF%BC%8C%E6%8C%81%E7%BA%8C%E7%9C%8B%E5%A5%BD%E6%8C%87%E6%95%B8%E4%B8%8A%E8%A1%8C.pdf)
-
-### The significance of the UAE (2026-05-06)
-來源: DB Research | 日期: 2026-05-06 | 頁數: 6 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/The%20significance%20of%20the%20UAE%20%282026-05-06%29.pdf)
-
-### The Great 2026 Reset... (2026-05-06)
-來源: DB Research | 日期: 2026-05-06 | 頁數: 46 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/The%20Great%202026%20Reset...%20%282026-05-06%29.pdf)
-
-### CTCP Vĩnh Hoàn - Cập nhật ĐHCĐ (2026-05-06)
-來源: KBSV (Company) | 日期: 2026-05-06 | 頁數: 3 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/CTCP%20V%C4%A9nh%20Ho%C3%A0n%20-%20C%E1%BA%ADp%20nh%E1%BA%ADt%20%C4%90HC%C4%90%20%282026-05-06%29.pdf)
-
-### [000660] SK하이닉스(000660) ADR에 앞서, GDR 관심도 급상승SK하이닉스(000660) ADR에 앞서, GDR 관심도 급상승ADR에 앞서, GDR 관심도 급상승 - 기업
-來源: Hankyung | 日期: 2026-05-06 | 頁數: 4 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%5B000660%5D%20SK%ED%95%98%EC%9D%B4%EB%8B%89%EC%8A%A4%28000660%29%20ADR%EC%97%90%20%EC%95%9E%EC%84%9C%2C%20GDR%20%EA%B4%80%EC%8B%AC%EB%8F%84%20%EA%B8%89%EC%83%81%EC%8A%B9SK%ED%95%98%EC%9D%B4%EB%8B%89%EC%8A%A4%28000660%29%20ADR%EC%97%90%20%EC%95%9E%EC%84%9C%2C%20GDR%20%EA%B4%80%EC%8B%AC%EB%8F%84%20%EA%B8%89%EC%83%81%EC%8A%B9ADR%EC%97%90%20%EC%95%9E%EC%84%9C%2C%20GDR%20%EA%B4%80%EC%8B%AC%EB%8F%84%20%EA%B8%89%EC%83%81%EC%8A%B9%20-%20%EA%B8%B0%EC%97%85.pdf)
 
 ### 115年3月19日央行理監事會後記者會參考資料
 來源: 中央銀行 (CBC) | 日期: 2026-03-19 | 頁數: 未知 頁
