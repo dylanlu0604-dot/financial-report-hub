@@ -416,7 +416,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 9
 
 ---
-## Document 052: 2201裕隆 元富
+## Document 053: 2201裕隆 元富
 
 Source PDF: all report pdf/2201裕隆 元富.pdf
 Report source: line報告備份
@@ -547,11 +547,11 @@ Net 2.1 2.4 3.0 2.2 5.7 4.6 1.4 2.4
 M / NTD Sales Sales YoY
 
 ---
-## Document 058: 2603長榮 宏遠
+## Document 059: 2603長榮 宏遠
 
 Source PDF: all report pdf/2603長榮 宏遠.pdf
 Report source: line報告備份
-Date: 2026-06-01
+Date: 2026-05-31
 Pages: 7
 Extraction status: ok
 
@@ -1082,7 +1082,7 @@ AAA
 2023 2024 2025
 
 ---
-## Document 063: 260521_ms_apmemory
+## Document 061: 260521_ms_apmemory
 
 Source PDF: all report pdf/260521_ms_apmemory.pdf
 Report source: line報告備份
@@ -1656,7 +1656,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 068: 260523_cl_MTK
+## Document 066: 260523_cl_MTK
 
 Source PDF: all report pdf/260523_cl_MTK.pdf
 Report source: line報告備份
@@ -2672,7 +2672,7 @@ market risks. Read all the related documents carefully
 before investing.
 
 ---
-## Document 069: 260524_kgi_holystone-OW-initiation
+## Document 067: 260524_kgi_holystone-OW-initiation
 
 Source PDF: all report pdf/260524_kgi_holystone-OW-initiation.pdf
 Report source: line報告備份
@@ -3632,7 +3632,7 @@ Dec-23A Dec-24A Dec-25A Dec-26F Dec-27F
  泰國          曼谷
 
 ---
-## Document 084: 260528_gs_WNC
+## Document 082: 260528_gs_WNC
 
 Source PDF: all report pdf/260528_gs_WNC.pdf
 Report source: line報告備份
@@ -4146,7 +4146,7 @@ Goldman Sachs WNC (6285.TW)
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 085: 260528_ms_aspeed
+## Document 083: 260528_ms_aspeed
 
 Source PDF: all report pdf/260528_ms_aspeed.pdf
 Report source: line報告備份
@@ -5420,7 +5420,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 086: 260528_ms_avc
+## Document 084: 260528_ms_avc
 
 Source PDF: all report pdf/260528_ms_avc.pdf
 Report source: line報告備份
@@ -5906,7 +5906,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 087: 260528_ms_bizlink
+## Document 085: 260528_ms_bizlink
 
 Source PDF: all report pdf/260528_ms_bizlink.pdf
 Report source: line報告備份
@@ -6372,7 +6372,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 090: 260528_ms_GUC-DG
+## Document 088: 260528_ms_GUC-DG
 
 Source PDF: all report pdf/260528_ms_GUC-DG.pdf
 Report source: line報告備份
@@ -7269,7 +7269,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 100: 260528_ms_ZDT
+## Document 098: 260528_ms_ZDT
 
 Source PDF: all report pdf/260528_ms_ZDT.pdf
 Report source: line報告備份
@@ -7750,7 +7750,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 108: 260529_ms_silergy
+## Document 106: 260529_ms_silergy
 
 Source PDF: all report pdf/260529_ms_silergy.pdf
 Report source: line報告備份
@@ -8221,7 +8221,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 110: 260531_ms_advantech
+## Document 108: 260531_ms_advantech
 
 Source PDF: all report pdf/260531_ms_advantech.pdf
 Report source: line報告備份
@@ -8653,7 +8653,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 113: 260531_ms_winsemi
+## Document 111: 260531_ms_winsemi
 
 Source PDF: all report pdf/260531_ms_winsemi.pdf
 Report source: line報告備份
@@ -9101,7 +9101,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 116: 2606裕民 永豐
+## Document 114: 2606裕民 永豐
 
 Source PDF: all report pdf/2606裕民 永豐.pdf
 Report source: line報告備份
@@ -9507,11 +9507,11 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 9
 
 ---
-## Document 117: 2610華航 元大
+## Document 115: 2610華航 元大
 
 Source PDF: all report pdf/2610華航 元大.pdf
 Report source: line報告備份
-Date: 2026-06-01
+Date: 2026-05-31
 Pages: 18
 Extraction status: ok
 
@@ -10721,7 +10721,7 @@ ESG 總分 19.3
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 120: 2645長榮航太 元富
+## Document 118: 2645長榮航太 元富
 
 Source PDF: all report pdf/2645長榮航太 元富.pdf
 Report source: line報告備份
@@ -11036,7 +11036,7 @@ Operating 23.8 23.7 23.4 12.0 ROA 10.00 9.97 11.02 17.33
 Net 20.4 19.8 19.9 10.9 ROE 3.84 3.51 3.81 6.50
 
 ---
-## Document 122: 2645長榮航太 第一金
+## Document 120: 2645長榮航太 第一金
 
 Source PDF: all report pdf/2645長榮航太 第一金.pdf
 Report source: line報告備份
@@ -11339,7 +11339,7 @@ YoY(%)
 -
 
 ---
-## Document 125: 3088艾訊 群益
+## Document 123: 3088艾訊 群益
 
 Source PDF: all report pdf/3088艾訊 群益.pdf
 Report source: line報告備份
@@ -11616,7 +11616,7 @@ YoY(%)
 情形。
 
 ---
-## Document 130: 3376新日興 群益
+## Document 128: 3376新日興 群益
 
 Source PDF: all report pdf/3376新日興 群益.pdf
 Report source: line報告備份
@@ -11901,7 +11901,7 @@ YoY(%)
 情形。
 
 ---
-## Document 131: 3443創意 群益
+## Document 129: 3443創意 群益
 
 Source PDF: all report pdf/3443創意 群益.pdf
 Report source: line報告備份
@@ -12149,7 +12149,7 @@ YoY(%)
 情形。
 
 ---
-## Document 154: 6291沛亨 第一金
+## Document 153: 6291沛亨 第一金
 
 Source PDF: all report pdf/6291沛亨 第一金.pdf
 Report source: line報告備份
@@ -12395,7 +12395,7 @@ YoY(%)
 8
 
 ---
-## Document 163: 6983華洋精機 富邦
+## Document 161: 6983華洋精機 富邦
 
 Source PDF: all report pdf/6983華洋精機 富邦.pdf
 Report source: line報告備份
@@ -12583,7 +12583,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 169: 7750新代 兆豐
+## Document 171: 7750新代 兆豐
 
 Source PDF: all report pdf/7750新代 兆豐.pdf
 Report source: line報告備份
@@ -13111,11 +13111,11 @@ ESG綜合評等
 交易所公司治理評鑑
 
 ---
-## Document 170: 7827漢康 宏遠
+## Document 172: 7827漢康 宏遠
 
 Source PDF: all report pdf/7827漢康 宏遠.pdf
 Report source: line報告備份
-Date: 2026-06-01
+Date: 2026-05-31
 Pages: 12
 Extraction status: ok
 
@@ -13650,7 +13650,7 @@ Company Report
 註:漢康 -KY 於 2024/10 /25 股東會決議普通股每股面額由美金 0.002 元變更為新臺幣 10 元。
 
 ---
-## Document 172: 8028昇陽半 群益
+## Document 174: 8028昇陽半 群益
 
 Source PDF: all report pdf/8028昇陽半 群益.pdf
 Report source: line報告備份
@@ -13785,7 +13785,7 @@ PER= 股價 /2026 (F) EPS ； PBR= 股價 /2026 (F) 年 底 預 估 每 股 淨 
 情形。
 
 ---
-## Document 257: GFHK_-_UMC_update
+## Document 250: GFHK_-_UMC_update
 
 Source PDF: all report pdf/GFHK_-_UMC_update.pdf
 Report source: line報告備份
@@ -13848,7 +13848,7 @@ Company Report | UMC
    [Table_FinanceDetail] Balance Sheet NTD mn  Cash Flow Statement NTD mn   2023     2024     2025    2026E    2027E   2023     2024     2025    2026E    2027E Current assets 216,797 189,678 204,783 243,979 280,293  Operating cash flow 66,689 79,970 103,286 123,927 148,672 Cash and cash equivalents 144,882 115,239 128,365 156,654 178,504  Profit for the year 60,990 47,211 41,716 62,506 83,918 Inventory 35,713 35,782 37,228 41,466 46,519  Depreciation & amortization 40,484 48,168 59,259 62,634 65,766 Accounts Receivable 29,586 33,343 31,274 36,596 44,107  Change in working capital -29,645 -16,251 2,272 -1,213 -1,012 Other current assets 6,618 5,313 7,915 9,262 11,163  Others -5,140 843 39 - - Non-current assets 342,390 380,523 374,213 361,828 355,762  Investing cash flow -97,053 -87,144 -52,988 -47,250 -56,700 Long-term equity investment 74,255 72,487 75,373 78,373 81,373  Capex -105,899 -85,408 -48,764 -47,250 -56,700 Fixed assets 239,123 279,059 271,395 256,011 246,945  Change in investment -4,267 924 -2,924 - - Other long-term assets 29,012 28,976 27,445 27,445 27,445  Others 13,113 -2,660 -1,300 - - Total assets 559,187 570,201 578,996 605,808 636,055  Free cash flow -39,210 -5,438 54,523 76,677 91,972 Current liabilities 99,015 75,260 87,598 93,153 100,740  Financing cash flow 33,508 6,135 2,874 -10,945 -15,506 Accounts Payable 7,526 7,633 9,170 10,214 11,458  Change in Capital - - - - - Short-term borrowings 29,537 19,510 27,597 23,457 17,593  Net Change in Debt 27,309 271 -2,075 -10,945 -15,506 Other current liabilities 61,952 48,117 50,831 59,482 71,689  Others 6,199 5,864 4,948 - - Non-current liabilities 99,015 75,260 87,598 93,153 100,740  Exchange influence -392 3,715 -1,846 - - Long-term Debt 45,236 55,533 45,372 38,566 28,925  Net increase in cash 3,144 -1,038 53,172 65,732 76,466 Other non-current liabilities 55,358 61,222 66,170 66,170 66,170        Total liabilities 199,608 192,016 199,141 197,889 195,835        Total Equity 359,579 378,185 379,855 407,918 440,220        Share Capital 125,298 125,607 125,882 125,882 125,882        Additional Paid-in Capital 16,886 25,473 21,004 16,004 8,504    Retained earnings 217,053 226,849 232,883 265,946 305,748        Preferred Stocks 341 257 87 87 87        Total Liabilities & Equity 559,187 570,201 578,996 605,808 636,055  Key Financial Ratios          2023     2024     2025    2026E    2027E        Growth (%)      Income Statement NTD mn  Revenue growth -20.2 4.4 2.3 17.0 20.5  2023     2024     2025    2026E    2027E  Operating profit growth -44.5 -10.8 -14.8 40.1 50.2 Revenue 222,533 232,303 237,553 277,979 335,025  Net profit growth -18.7 -7.8 5.2 69.8 57.5 Cost of sales 144,789 156,649 168,647 187,844 210,732  Profitability (%)         Gross profit 77,744 75,654 68,906 90,136 124,293  Gross profit margin 34.9 32.6 29.0 32.4 37.1 Operating Expense 19,853 24,042 24,958 28,582 31,830  Operating Profit Margin 26.0 22.2 18.5 22.1 27.6 Operating profit 57,891 51,613 43,949 61,554 92,463  Net profit margin 27.4 20.3 17.6 22.5 25.0 Interest Income  4,853   3,670   2,279  2,666 3,135  Key Ratio (%)         Interest Expense  1,483   1,679   1,602  1,461 1,175  ROA 10.9 8.3 7.2 10.3 13.2 Net other Non-op. Income/(Loss) 9,651 2,616 5,022 8,065 4,000  ROE 17.0 12.5 11.0 15.3 19.1 Pre-tax profit 70,912 56,220 49,648 70,824 98,423  Stability         Income tax 9,022 9,218 8,294 8,754 14,941  Gross debt/equity 0.6 0.5 0.5 0.5 0.4 Profit for the year 61,890 47,002 41,353 62,071 83,483  Interest Coverage 45 48 64 85 127 Minority interest -450 105 182 218 218  Current Ratio 2.2 2.5 2.3 2.6 2.8 Net profit to ord. equity 60,990 47,211 41,716 62,506 83,918  Quick Ratio 1.8 2.0 1.9 2.2 2.3 EPS (NT$) 4.9 3.8 3.3 5.0 6.7  Net debt/equity Net Cash Net Cash Net Cash Net Cash Net Cash
 
 ---
-## Document 265: IBF Securities Investment Consulting IBFS05282026Daily
+## Document 257: IBF Securities Investment Consulting IBFS05282026Daily
 
 Source PDF: all report pdf/IBF Securities Investment Consulting IBFS05282026Daily.pdf
 Report source: line報告備份
@@ -14546,7 +14546,7 @@ S&P500 指數各類股漲跌幅 上證指數各類股漲跌幅
   資料來源：公開資訊觀測站
 
 ---
-## Document 273: JP Morgan 992@HK Lenovo Group Limited (0992) 4Q FY26 first read Earning
+## Document 264: JP Morgan 992@HK Lenovo Group Limited (0992) 4Q FY26 first read Earning
 
 Source PDF: all report pdf/JP Morgan 992@HK Lenovo Group Limited (0992) 4Q FY26 first read Earning.pdf
 Report source: line報告備份
@@ -14674,7 +14674,7 @@ Albert Hung
 albert.hung@jpmchase.com
 
 ---
-## Document 344: UBS-3443-20260527
+## Document 328: UBS-3443-20260527
 
 Source PDF: all report pdf/UBS-3443-20260527.pdf
 Report source: line報告備份
@@ -15789,7 +15789,7 @@ name, e-mail address) until you notify us that you no longer wish to receive the
 ab
 
 ---
-## Document 460: 凱基投顧_2049 上銀_莊政翰_20260528
+## Document 440: 凱基投顧_2049 上銀_莊政翰_20260528
 
 Source PDF: all report pdf/凱基投顧_2049 上銀_莊政翰_20260528.pdf
 Report source: line報告備份
@@ -16584,7 +16584,7 @@ May-25 Jul-25 Sep-25 Nov-25 Jan-26 Apr-26
 資料來源：TEJ，凱基
 
 ---
-## Document 484: 創意(3443)-20260528-速報-元富投顧(台新新光金控)
+## Document 455: 創意(3443)-20260528-速報-元富投顧(台新新光金控)
 
 Source PDF: all report pdf/創意(3443)-20260528-速報-元富投顧(台新新光金控).pdf
 Report source: line報告備份
@@ -16697,7 +16697,7 @@ Net 14.4 11.2 11.5 11.3 13.4 13.8 11.0 12.0
 Sales (NT$mn) YOY
 
 ---
-## Document 493: 台新投顧20260528個股報告-亞力(1514)-強力買進
+## Document 464: 台新投顧20260528個股報告-亞力(1514)-強力買進
 
 Source PDF: all report pdf/台新投顧20260528個股報告-亞力(1514)-強力買進.pdf
 Report source: line報告備份
@@ -16892,7 +16892,7 @@ YoY(%)
 位不為使用者之資訊決策及結果負擔任何責任。
 
 ---
-## Document 494: 台新投顧20260528個股報告-全新(2455)-買進
+## Document 465: 台新投顧20260528個股報告-全新(2455)-買進
 
 Source PDF: all report pdf/台新投顧20260528個股報告-全新(2455)-買進.pdf
 Report source: line報告備份
@@ -17049,7 +17049,7 @@ PD 以及 400G GaAs 等產品開始小規模量產下，光電子業務表現將
 位不為使用者之資訊決策及結果負擔任何責任。
 
 ---
-## Document 540: 崇越(5434,OW_增加持股)-CTBC260525
+## Document 501: 崇越(5434,OW_增加持股)-CTBC260525
 
 Source PDF: all report pdf/崇越(5434,OW_增加持股)-CTBC260525.pdf
 Report source: line報告備份
@@ -17362,7 +17362,7 @@ ESG 資訊 -公 司 治 理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 566: 新興(2605)-20260525-速報-元富投顧(台新新光金控)
+## Document 528: 新興(2605)-20260525-速報-元富投顧(台新新光金控)
 
 Source PDF: all report pdf/新興(2605)-20260525-速報-元富投顧(台新新光金控).pdf
 Report source: line報告備份
@@ -17530,7 +17530,7 @@ Net 28.3 108.1 35.7 39.2 11.0 34.0 19.2 52.7
 NT$m
 
 ---
-## Document 654: 群益-2327-2605國巨
+## Document 613: 群益-2327-2605國巨
 
 Source PDF: all report pdf/群益-2327-2605國巨.pdf
 Report source: line報告備份
@@ -17774,7 +17774,7 @@ YoY(%)
 情形。
 
 ---
-## Document 656: 群益-2464-2601盟立
+## Document 615: 群益-2464-2601盟立
 
 Source PDF: all report pdf/群益-2464-2601盟立.pdf
 Report source: line報告備份
@@ -18043,7 +18043,7 @@ YoY(%)
 情形。
 
 ---
-## Document 666: 聯茂(6213,B_買進)-CTBC260528
+## Document 626: 聯茂(6213,B_買進)-CTBC260528
 
 Source PDF: all report pdf/聯茂(6213,B_買進)-CTBC260528.pdf
 Report source: line報告備份

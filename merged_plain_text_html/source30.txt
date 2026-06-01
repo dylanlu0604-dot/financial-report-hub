@@ -3,7 +3,7 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 050: 2049上銀 元富
+## Document 052: 2049上銀 元富
 
 Source PDF: all report pdf/2049上銀 元富.pdf
 Report source: line報告備份
@@ -187,7 +187,7 @@ Source ：TEJ
 個股報告
 
 ---
-## Document 064: 260521_ms_ATS-implication
+## Document 062: 260521_ms_ATS-implication
 
 Source PDF: all report pdf/260521_ms_ATS-implication.pdf
 Report source: line報告備份
@@ -767,7 +767,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 066: 260522_ms_winway
+## Document 064: 260522_ms_winway
 
 Source PDF: all report pdf/260522_ms_winway.pdf
 Report source: line報告備份
@@ -1222,7 +1222,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 076: 260526_ms_automation
+## Document 074: 260526_ms_automation
 
 Source PDF: all report pdf/260526_ms_automation.pdf
 Report source: line報告備份
@@ -1689,7 +1689,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 079: 260527_ms_copmutex-preview
+## Document 077: 260527_ms_copmutex-preview
 
 Source PDF: all report pdf/260527_ms_copmutex-preview.pdf
 Report source: line報告備份
@@ -2987,7 +2987,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 092: 260528_ms_kyec
+## Document 090: 260528_ms_kyec
 
 Source PDF: all report pdf/260528_ms_kyec.pdf
 Report source: line報告備份
@@ -3397,7 +3397,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 093: 260528_ms_mtk
+## Document 091: 260528_ms_mtk
 
 Source PDF: all report pdf/260528_ms_mtk.pdf
 Report source: line報告備份
@@ -4130,7 +4130,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 106: 260529_ms_lotes
+## Document 104: 260529_ms_lotes
 
 Source PDF: all report pdf/260529_ms_lotes.pdf
 Report source: line報告備份
@@ -4619,7 +4619,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 109: 260529_ms_vanguard
+## Document 107: 260529_ms_vanguard
 
 Source PDF: all report pdf/260529_ms_vanguard.pdf
 Report source: line報告備份
@@ -5096,11 +5096,11 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 114: 260541_ms_alchip
+## Document 112: 260541_ms_alchip
 
 Source PDF: all report pdf/260541_ms_alchip.pdf
 Report source: line報告備份
-Date: 2026-06-01
+Date: 2026-05-31
 Pages: 9
 Extraction status: ok
 
@@ -5542,11 +5542,11 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 124: 2755揚秦 永豐
+## Document 122: 2755揚秦 永豐
 
 Source PDF: all report pdf/2755揚秦 永豐.pdf
 Report source: line報告備份
-Date: 2026-06-01
+Date: 2026-05-31
 Pages: 8
 Extraction status: ok
 
@@ -5890,11 +5890,11 @@ S：Sell 賣出：未來 6 個月該股票表現將落後大盤
 8
 
 ---
-## Document 132: 3532台勝科 第一金
+## Document 130: 3532台勝科 第一金
 
 Source PDF: all report pdf/3532台勝科 第一金.pdf
 Report source: line報告備份
-Date: 2026-06-01
+Date: 2026-05-31
 Pages: 11
 Extraction status: ok
 
@@ -6223,7 +6223,7 @@ YoY(%)
 11
 
 ---
-## Document 133: 3653健策 元大
+## Document 131: 3653健策 元大
 
 Source PDF: all report pdf/3653健策 元大.pdf
 Report source: line報告備份
@@ -6831,7 +6831,7 @@ ESG 總分 19.6
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 134: 3665貿聯 元大
+## Document 132: 3665貿聯 元大
 
 Source PDF: all report pdf/3665貿聯 元大.pdf
 Report source: line報告備份
@@ -7523,11 +7523,11 @@ ESG 總分 22.7
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 139: 4a5b6b11-30d9-4e76-93d8-112bfceb1f7a
+## Document 135: 4a5b6b11-30d9-4e76-93d8-112bfceb1f7a
 
 Source PDF: all report pdf/4a5b6b11-30d9-4e76-93d8-112bfceb1f7a.pdf
 Report source: line報告備份
-Date: 2026-06-01
+Date: 2026-05-31
 Pages: 3
 Extraction status: ok
 
@@ -7602,7 +7602,7 @@ Nvidia
 Latest Production Plan: Rubin Resumed, Vera Raised
 
 ---
-## Document 144: 5285界霖 宏遠
+## Document 140: 5285界霖 宏遠
 
 Source PDF: all report pdf/5285界霖 宏遠.pdf
 Report source: line報告備份
@@ -8051,11 +8051,11 @@ C+C+
 2023 2024 2025
 
 ---
-## Document 147: 5536聖暉 群益
+## Document 143: 5536聖暉 群益
 
 Source PDF: all report pdf/5536聖暉 群益.pdf
 Report source: line報告備份
-Date: 2026-06-01
+Date: 2026-05-31
 Pages: 3
 Extraction status: ok
 
@@ -8178,7 +8178,7 @@ PER= 股價 /2026 (F) EPS ； PBR= 股價 /2026 (F) 年 底 預 估 每 股 淨 
 情形。
 
 ---
-## Document 151: 6173信昌電 台新
+## Document 150: 6173信昌電 台新
 
 Source PDF: all report pdf/6173信昌電 台新.pdf
 Report source: line報告備份
@@ -8390,7 +8390,7 @@ YoY(%)
 行單位不為使用者之資訊決策及結果負擔任何責任。
 
 ---
-## Document 157: 6498久禾光電 宏遠
+## Document 156: 6498久禾光電 宏遠
 
 Source PDF: all report pdf/6498久禾光電 宏遠.pdf
 Report source: line報告備份
@@ -8963,11 +8963,11 @@ Company Report
 員工學歷分佈
 
 ---
-## Document 171: 8028昇陽半 富邦
+## Document 173: 8028昇陽半 富邦
 
 Source PDF: all report pdf/8028昇陽半 富邦.pdf
 Report source: line報告備份
-Date: 2026-06-01
+Date: 2026-05-31
 Pages: 8
 Extraction status: ok
 
@@ -9393,7 +9393,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 175: 8996高力 群益
+## Document 176: 8996高力 群益
 
 Source PDF: all report pdf/8996高力 群益.pdf
 Report source: line報告備份
@@ -9619,7 +9619,7 @@ YoY(%)
 情形。
 
 ---
-## Document 176: 9904寶成 宏遠
+## Document 177: 9904寶成 宏遠
 
 Source PDF: all report pdf/9904寶成 宏遠.pdf
 Report source: line報告備份
@@ -11440,7 +11440,7 @@ and
 service marks of BFLP, a Delaware limited partnership, or its
 
 ---
-## Document 274: JP Morgan Equity Strategy Stay bullish on EM vs DM
+## Document 265: JP Morgan Equity Strategy Stay bullish on EM vs DM
 
 Source PDF: all report pdf/JP Morgan Equity Strategy Stay bullish on EM vs DM.pdf
 Report source: line報告備份
@@ -13585,7 +13585,7 @@ Completed 11 May 2026 02:48 AM BST Disseminated 11 May 2026 03:00 AM BST
 This document is being provided for the exclusive use of RACHEL CHEN at MOUNTAIN HILL LTD.
 
 ---
-## Document 342: UBS China Equity Strategy How crowded is the AI trade and
+## Document 326: UBS China Equity Strategy How crowded is the AI trade and
 
 Source PDF: all report pdf/UBS China Equity Strategy How crowded is the AI trade and.pdf
 Report source: line報告備份
@@ -14507,7 +14507,7 @@ ab
 This document is being provided for the exclusive use of RACHEL CHEN at MOUNTAIN HILL LTD.
 
 ---
-## Document 368: 【國泰證期研究部】新應材(4749 TT)-買進(+20.2%)-向「光」而行-20260522
+## Document 346: 【國泰證期研究部】新應材(4749 TT)-買進(+20.2%)-向「光」而行-20260522
 
 Source PDF: all report pdf/【國泰證期研究部】新應材(4749 TT)-買進(+20.2%)-向「光」而行-20260522.pdf
 Report source: line報告備份
@@ -14860,7 +14860,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 429: 中鋼(2002,Note)-CTBC260529
+## Document 411: 中鋼(2002,Note)-CTBC260529
 
 Source PDF: all report pdf/中鋼(2002,Note)-CTBC260529.pdf
 Report source: line報告備份
@@ -15023,7 +15023,7 @@ ESG 資訊 -公 司 治 理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 443: 偉詮電(2436)-20260525-速報-元富投顧(台新新光金控)
+## Document 425: 偉詮電(2436)-20260525-速報-元富投顧(台新新光金控)
 
 Source PDF: all report pdf/偉詮電(2436)-20260525-速報-元富投顧(台新新光金控).pdf
 Report source: line報告備份
@@ -15194,7 +15194,7 @@ Net 13.2 11.7 14.6 12.6 7.3 8.9 15.4 13.0
 NT$ mn Sales Sales YOY
 
 ---
-## Document 470: 凱基投顧_Takeaway_1532 勤美_賴偉中_20260526
+## Document 446: 凱基投顧_Takeaway_1532 勤美_賴偉中_20260526
 
 Source PDF: all report pdf/凱基投顧_Takeaway_1532 勤美_賴偉中_20260526.pdf
 Report source: line報告備份
@@ -15324,7 +15324,7 @@ EnergyArk 儲能系統，建立建築廢棄物城市採礦循環。集團獲 202
 五月 26, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R    4
 
 ---
-## Document 481: 凱基投顧_富邦金2881_施志鴻_20260525
+## Document 453: 凱基投顧_富邦金2881_施志鴻_20260525
 
 Source PDF: all report pdf/凱基投顧_富邦金2881_施志鴻_20260525.pdf
 Report source: line報告備份
@@ -16430,7 +16430,7 @@ May-25 Jul-25 Sep-25 Nov-25 Jan-26 Mar-26
  泰國          曼谷
 
 ---
-## Document 492: 台新投顧20260526個股報告-智通(8932)-強力買進
+## Document 463: 台新投顧20260526個股報告-智通(8932)-強力買進
 
 Source PDF: all report pdf/台新投顧20260526個股報告-智通(8932)-強力買進.pdf
 Report source: line報告備份
@@ -16798,7 +16798,7 @@ YoY(%)
 行單位不為使用者之資訊決策及結果負擔任何責任。
 
 ---
-## Document 504: 國泰金(2882,OW_增加持股)-CTBC260601
+## Document 474: 國泰金(2882,OW_增加持股)-CTBC260601
 
 Source PDF: all report pdf/國泰金(2882,OW_增加持股)-CTBC260601.pdf
 Report source: line報告備份
@@ -17068,7 +17068,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 546: 廣達(2382)-20260528-速報-元富投顧(台新新光金控)
+## Document 507: 廣達(2382)-20260528-速報-元富投顧(台新新光金控)
 
 Source PDF: all report pdf/廣達(2382)-20260528-速報-元富投顧(台新新光金控).pdf
 Report source: line報告備份
@@ -17284,7 +17284,7 @@ Operating 2.8 3.3 3.2 3.3 4.4 4.1 3.2
 Net 2.6 2.5 2.5 2.5 4.2 3.5 2.5
 
 ---
-## Document 549: 強茂(2481)-20260525-速報-元富投顧(台新新光金控)
+## Document 511: 強茂(2481)-20260525-速報-元富投顧(台新新光金控)
 
 Source PDF: all report pdf/強茂(2481)-20260525-速報-元富投顧(台新新光金控).pdf
 Report source: line報告備份
@@ -17435,7 +17435,7 @@ Net 8.4 11.4 12.4 12.6 7.3 9.1 11.3 13.6
 M / NTD Sales Sales YoY
 
 ---
-## Document 612: 產銷調查：CPU運算力躍升AI要角 全球伺服器2026年出貨將顯增19.2％_20260525-153_圖表
+## Document 571: 產銷調查：CPU運算力躍升AI要角 全球伺服器2026年出貨將顯增19.2％_20260525-153_圖表
 
 Source PDF: all report pdf/產銷調查：CPU運算力躍升AI要角 全球伺服器2026年出貨將顯增19.2％_20260525-153_圖表.pdf
 Report source: line報告備份
@@ -17916,7 +17916,7 @@ Google、亞馬遜出貨皆成長4成以上，品牌商出貨亦將有1
 15
 
 ---
-## Document 643: 總體經濟與自動化設備觀察報告書
+## Document 600: 總體經濟與自動化設備觀察報告書
 
 Source PDF: all report pdf/總體經濟與自動化設備觀察報告書.pdf
 Report source: line報告備份
@@ -20954,7 +20954,7 @@ JMTBA
 氣。
 
 ---
-## Document 655: 群益-2409-2603友達
+## Document 614: 群益-2409-2603友達
 
 Source PDF: all report pdf/群益-2409-2603友達.pdf
 Report source: line報告備份
@@ -21250,7 +21250,7 @@ YoY(%)
 情形。
 
 ---
-## Document 660: 群益-6415-2603矽力-KY
+## Document 619: 群益-6415-2603矽力-KY
 
 Source PDF: all report pdf/群益-6415-2603矽力-KY.pdf
 Report source: line報告備份
@@ -21507,7 +21507,7 @@ YoY(%)
 情形。
 
 ---
-## Document 664: 聖暉(5536,B_買進)-CTBC260526
+## Document 624: 聖暉(5536,B_買進)-CTBC260526
 
 Source PDF: all report pdf/聖暉(5536,B_買進)-CTBC260526.pdf
 Report source: line報告備份
@@ -21775,7 +21775,7 @@ ESG 資訊 ─公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 706: 韜（τ）定律
+## Document 661: 韜（τ）定律
 
 Source PDF: all report pdf/韜（τ）定律.pdf
 Report source: line報告備份
