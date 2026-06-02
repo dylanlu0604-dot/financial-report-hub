@@ -489,7 +489,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 10
 
 ---
-## Document 070: 260525_daiwa_Ta Liang
+## Document 057: 260525_daiwa_Ta Liang
 
 Source PDF: all report pdf/260525_daiwa_Ta Liang.pdf
 Report source: line報告備份
@@ -768,7 +768,7 @@ the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 073: 260526_daiwa_Makalot
+## Document 060: 260526_daiwa_Makalot
 
 Source PDF: all report pdf/260526_daiwa_Makalot.pdf
 Report source: line報告備份
@@ -933,7 +933,7 @@ regarding the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 077: 260526_ubs_MU
+## Document 064: 260526_ubs_MU
 
 Source PDF: all report pdf/260526_ubs_MU.pdf
 Report source: line報告備份
@@ -3354,7 +3354,7 @@ name, e-mail address) until you notify us that you no longer wish to receive the
 ab
 
 ---
-## Document 080: 260527_ms_nypcb
+## Document 067: 260527_ms_nypcb
 
 Source PDF: all report pdf/260527_ms_nypcb.pdf
 Report source: line報告備份
@@ -3894,7 +3894,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 088: 260528_ms_chroma
+## Document 075: 260528_ms_chroma
 
 Source PDF: all report pdf/260528_ms_chroma.pdf
 Report source: line報告備份
@@ -4383,7 +4383,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 092: 260528_ms_kyec
+## Document 079: 260528_ms_kyec
 
 Source PDF: all report pdf/260528_ms_kyec.pdf
 Report source: line報告備份
@@ -4793,7 +4793,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 109: 260529_ms_vanguard
+## Document 096: 260529_ms_vanguard
 
 Source PDF: all report pdf/260529_ms_vanguard.pdf
 Report source: line報告備份
@@ -5270,7 +5270,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 111: 260531_ms_automation
+## Document 098: 260531_ms_automation
 
 Source PDF: all report pdf/260531_ms_automation.pdf
 Report source: line報告備份
@@ -5721,7 +5721,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 114: 260541_ms_alchip
+## Document 101: 260541_ms_alchip
 
 Source PDF: all report pdf/260541_ms_alchip.pdf
 Report source: line報告備份
@@ -6167,7 +6167,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 117: 260601_daiwa_Fositek
+## Document 104: 260601_daiwa_Fositek
 
 Source PDF: all report pdf/260601_daiwa_Fositek.pdf
 Report source: line報告備份
@@ -6636,7 +6636,7 @@ the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 119: 260601_gs_TW-tech
+## Document 106: 260601_gs_TW-tech
 
 Source PDF: all report pdf/260601_gs_TW-tech.pdf
 Report source: line報告備份
@@ -7438,7 +7438,7 @@ Goldman Sachs Taiwan Technology: Semiconductors
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 121: 260601_gs_ZDT
+## Document 108: 260601_gs_ZDT
 
 Source PDF: all report pdf/260601_gs_ZDT.pdf
 Report source: line報告備份
@@ -7834,7 +7834,7 @@ Goldman Sachs Zhen Ding Technology Holding (4958.TW)
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 125: 260601_ms_macronix
+## Document 112: 260601_ms_macronix
 
 Source PDF: all report pdf/260601_ms_macronix.pdf
 Report source: line報告備份
@@ -8288,7 +8288,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 128: 260601_ms_winbond
+## Document 115: 260601_ms_winbond
 
 Source PDF: all report pdf/260601_ms_winbond.pdf
 Report source: line報告備份
@@ -8748,11 +8748,11 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 135: 2641正德 群益
+## Document 121: 2641正德 群益
 
 Source PDF: all report pdf/2641正德 群益.pdf
 Report source: line報告備份
-Date: 2026-06-02
+Date: 2026-06-01
 Pages: 7
 Extraction status: ok
 
@@ -9054,7 +9054,7 @@ YoY(%)
 情形。
 
 ---
-## Document 140: 2755揚秦 永豐
+## Document 123: 2755揚秦 永豐
 
 Source PDF: all report pdf/2755揚秦 永豐.pdf
 Report source: line報告備份
@@ -9402,7 +9402,7 @@ S：Sell 賣出：未來 6 個月該股票表現將落後大盤
 8
 
 ---
-## Document 159: 5285界霖 宏遠
+## Document 137: 5285界霖 宏遠
 
 Source PDF: all report pdf/5285界霖 宏遠.pdf
 Report source: line報告備份
@@ -9851,7 +9851,7 @@ C+C+
 2023 2024 2025
 
 ---
-## Document 179: 6869雲豹能源 兆豐
+## Document 150: 6869雲豹能源 兆豐
 
 Source PDF: all report pdf/6869雲豹能源 兆豐.pdf
 Report source: line報告備份
@@ -10286,7 +10286,7 @@ C
 交易所公司治理評鑑
 
 ---
-## Document 197: 9904寶成 富邦
+## Document 163: 9904寶成 富邦
 
 Source PDF: all report pdf/9904寶成 富邦.pdf
 Report source: line報告備份
@@ -10683,7 +10683,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 198: 9921巨大 元富
+## Document 164: 9921巨大 元富
 
 Source PDF: all report pdf/9921巨大 元富.pdf
 Report source: line報告備份
@@ -10799,7 +10799,7 @@ Net (1.2) 4.5 4.3 1.7 4.6 2.1 1.4 2.5
 M / NTD Sales Sales YoY
 
 ---
-## Document 281: GF - PTFE midplane
+## Document 242: GF - PTFE midplane
 
 Source PDF: all report pdf/GF - PTFE midplane.pdf
 Report source: line報告備份
@@ -10812,7 +10812,7 @@ Extraction status: ok
 What's new We see Nvidia has selected PTFE as the preferred material for Rubin Ultra midplane, we provide our view below.  Comments Nvidia to Adopt PTFE for Midplane: Our checks indicate that the M9+Q glass solution has not delivered satisfactory electrical performance, and PTFE has been selected as the preferred midplane material. 1) PTFE offers superior high-frequency transmission characteristics with lower loss, which is able to support the 337G+ Serdes in Rubin Ultra platform. 2) While previous PTFE solutions faced manufacturing challenges due to its softness and tendency to generate drilling burrs, newly developed filler-modified (with SiO2) PTFE significantly improves mechanical rigidity. We see both electrical performance test and manufacturing feasibility test have been passed. PTFE replacing fiber cloth: We believe PTFE-based CCL will not adopt glass fiber where PTFE is coated with hydrocarbon resin and laminated directly with copper foil. According to our checks, modified PTFE is priced at ~RMB150k/ton, one CCL would consume 800g of PTFE, and the pricing for the PTFE-based CCL could reach RMB2500. The final midplane design is yet to be confirmed with potential solutions including 78 or 108 layers, and a mixed lamination with PTFE CCL/M9-Q/ABF-filled CCL. We expect midplane final design to be finalized in July.  PTFE Beneficiaries: We expect Shengyi Tech (600183 SH) to emerge as the primary supplier for PTFE CCL while TPE (8039 TT) will likely be the secondary supplier though it is still working on qualification process. On the upstream side, Dongyue Group (0189 HK) is currently Shengyi's key PTFE material supplier while other potential PTFE suppliers include Daikin (6367 JP) and Haohua Chemical (600378 CH). Based on our preliminary order estimation, we project the PTFE-based CCL market to reach RMB8bn in 2027 for Kyber with further ramp up in Feynman platform. However, given manufacturing complexity, midplane production may begin in late 2026. Additionally, due to these manufacturing challenges, we see PCB players also standing to benefit from the new design, as the PCB value-to-CCL content ratio is expected to increase to 3–3.5x, compared to the current ~2–2.5x seen in HLC PCBs.  Risks 1) AI demand slowing down; 2) Geo-political risks; 3) Competition.
 
 ---
-## Document 318: Micron(MU,OW_增加持股)-CTBC260525
+## Document 278: Micron(MU,OW_增加持股)-CTBC260525
 
 Source PDF: all report pdf/Micron(MU,OW_增加持股)-CTBC260525.pdf
 Report source: line報告備份
@@ -11054,7 +11054,7 @@ PER Band (以 GAAP EPS繪製)               PBR Band
 未評等 Not Rated (NR)
 
 ---
-## Document 465: 元大-Nvidia GTC Taipei-20260602
+## Document 416: 元大-Nvidia GTC Taipei-20260602
 
 Source PDF: all report pdf/元大-Nvidia GTC Taipei-20260602.pdf
 Report source: line報告備份
@@ -11255,7 +11255,7 @@ Nvidia 持續看好 AI 發展，且 AI Agent 將成為市場發展的重心，CP
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 482: 凱基投顧_2886 兆豐金_施志鴻_20260527
+## Document 433: 凱基投顧_2886 兆豐金_施志鴻_20260527
 
 Source PDF: all report pdf/凱基投顧_2886 兆豐金_施志鴻_20260527.pdf
 Report source: line報告備份
@@ -15184,7 +15184,7 @@ Tower Fl.11 Jl. Jend. Sudirman kav.26 JakartaSelatan 12920 Indonesia
 免責聲明
 
 ---
-## Document 488: 凱基投顧_Takeaway_1785 光洋科_張育程_20260601
+## Document 438: 凱基投顧_Takeaway_1785 光洋科_張育程_20260601
 
 Source PDF: all report pdf/凱基投顧_Takeaway_1785 光洋科_張育程_20260601.pdf
 Report source: line報告備份
@@ -15330,7 +15330,7 @@ Q&A
 六月 01, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 4
 
 ---
-## Document 493: 凱基投顧_Takeaway_4755 三福化_張育程_20260528
+## Document 443: 凱基投顧_Takeaway_4755 三福化_張育程_20260528
 
 Source PDF: all report pdf/凱基投顧_Takeaway_4755 三福化_張育程_20260528.pdf
 Report source: line報告備份
@@ -15441,7 +15441,7 @@ angus.chuang@kgi.com
 五月 28, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R   3
 
 ---
-## Document 496: 凱基投顧_Takeaway_6510 精測_許芝瑄_20260601
+## Document 446: 凱基投顧_Takeaway_6510 精測_許芝瑄_20260601
 
 Source PDF: all report pdf/凱基投顧_Takeaway_6510 精測_許芝瑄_20260601.pdf
 Report source: line報告備份
@@ -15569,7 +15569,7 @@ Q&A
 六月 01, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R   4
 
 ---
-## Document 506: 凱基投顧_美國軟體產業_鄭傑懋_20260527
+## Document 455: 凱基投顧_美國軟體產業_鄭傑懋_20260527
 
 Source PDF: all report pdf/凱基投顧_美國軟體產業_鄭傑懋_20260527.pdf
 Report source: line報告備份
@@ -15941,7 +15941,7 @@ Sector
 免責聲明
 
 ---
-## Document 518: 台新投顧20260528個股報告-全新(2455)-買進
+## Document 473: 台新投顧20260528個股報告-全新(2455)-買進
 
 Source PDF: all report pdf/台新投顧20260528個股報告-全新(2455)-買進.pdf
 Report source: line報告備份
@@ -16098,7 +16098,7 @@ PD 以及 400G GaAs 等產品開始小規模量產下，光電子業務表現將
 位不為使用者之資訊決策及結果負擔任何責任。
 
 ---
-## Document 563: 廣達(2382)-20260528-速報-元富投顧(台新新光金控)
+## Document 521: 廣達(2382)-20260528-速報-元富投顧(台新新光金控)
 
 Source PDF: all report pdf/廣達(2382)-20260528-速報-元富投顧(台新新光金控).pdf
 Report source: line報告備份
@@ -16314,7 +16314,7 @@ Operating 2.8 3.3 3.2 3.3 4.4 4.1 3.2
 Net 2.6 2.5 2.5 2.5 4.2 3.5 2.5
 
 ---
-## Document 565: 弘塑(3131,OW_增加持股)-CTBC260528
+## Document 522: 弘塑(3131,OW_增加持股)-CTBC260528
 
 Source PDF: all report pdf/弘塑(3131,OW_增加持股)-CTBC260528.pdf
 Report source: line報告備份
@@ -16648,7 +16648,7 @@ ESG 資訊 -公 司 治 理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 584: 新應材(4749,B_買進)-CTBC260602
+## Document 543: 新應材(4749,B_買進)-CTBC260602
 
 Source PDF: all report pdf/新應材(4749,B_買進)-CTBC260602.pdf
 Report source: line報告備份
@@ -16921,7 +16921,7 @@ ESG 資訊 ─公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 605: 正文(4906,Note)-CTBC260528
+## Document 563: 正文(4906,Note)-CTBC260528
 
 Source PDF: all report pdf/正文(4906,Note)-CTBC260528.pdf
 Report source: line報告備份
@@ -17131,7 +17131,7 @@ ESG 資訊 -公 司 治 理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 664: 總體經濟與自動化設備觀察報告書
+## Document 616: 總體經濟與自動化設備觀察報告書
 
 Source PDF: all report pdf/總體經濟與自動化設備觀察報告書.pdf
 Report source: line報告備份
@@ -20169,7 +20169,7 @@ JMTBA
 氣。
 
 ---
-## Document 678: 群益-2409-2603友達
+## Document 631: 群益-2409-2603友達
 
 Source PDF: all report pdf/群益-2409-2603友達.pdf
 Report source: line報告備份
@@ -20465,7 +20465,7 @@ YoY(%)
 情形。
 
 ---
-## Document 684: 群益-6435-2603大中
+## Document 635: 群益-6435-2603大中
 
 Source PDF: all report pdf/群益-6435-2603大中.pdf
 Report source: line報告備份
@@ -20705,7 +20705,7 @@ YoY(%)
 情形。
 
 ---
-## Document 688: 聖暉(5536,B_買進)-CTBC260526
+## Document 638: 聖暉(5536,B_買進)-CTBC260526
 
 Source PDF: all report pdf/聖暉(5536,B_買進)-CTBC260526.pdf
 Report source: line報告備份
@@ -20973,11 +20973,11 @@ ESG 資訊 ─公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 697: 華南投顧-1434-福懋-1150601
+## Document 648: 華南投顧-1434-福懋-1150601
 
 Source PDF: all report pdf/華南投顧-1434-福懋-1150601.pdf
 Report source: line報告備份
-Date: 2026-06-02
+Date: 2026-06-01
 Pages: 8
 Extraction status: ok
 

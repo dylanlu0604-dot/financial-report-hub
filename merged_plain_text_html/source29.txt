@@ -460,7 +460,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 10
 
 ---
-## Document 052: 2027年SRAM中心高階雲端AI加速器將崛起
+## Document 050: 2027年SRAM中心高階雲端AI加速器將崛起
 
 Source PDF: all report pdf/2027年SRAM中心高階雲端AI加速器將崛起.pdf
 Report source: line報告備份
@@ -471,7 +471,7 @@ Extraction status: ok
 [No extractable text after boilerplate filtering.]
 
 ---
-## Document 056: 2344華邦電 富邦
+## Document 052: 2344華邦電 富邦
 
 Source PDF: all report pdf/2344華邦電 富邦.pdf
 Report source: line報告備份
@@ -914,7 +914,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 058: 2428興勤 兆豐
+## Document 053: 2428興勤 兆豐
 
 Source PDF: all report pdf/2428興勤 兆豐.pdf
 Report source: line報告備份
@@ -1378,7 +1378,7 @@ B+
 交易所公司治理評鑑
 
 ---
-## Document 059: 2436偉詮電 宏遠
+## Document 054: 2436偉詮電 宏遠
 
 Source PDF: all report pdf/2436偉詮電 宏遠.pdf
 Report source: line報告備份
@@ -1602,7 +1602,7 @@ Company Report
 6
 
 ---
-## Document 079: 260527_ms_copmutex-preview
+## Document 066: 260527_ms_copmutex-preview
 
 Source PDF: all report pdf/260527_ms_copmutex-preview.pdf
 Report source: line報告備份
@@ -2900,7 +2900,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 089: 260528_ms_fositek
+## Document 076: 260528_ms_fositek
 
 Source PDF: all report pdf/260528_ms_fositek.pdf
 Report source: line報告備份
@@ -3370,7 +3370,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 093: 260528_ms_mtk
+## Document 080: 260528_ms_mtk
 
 Source PDF: all report pdf/260528_ms_mtk.pdf
 Report source: line報告備份
@@ -4103,7 +4103,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 095: 260528_ms_quanta
+## Document 082: 260528_ms_quanta
 
 Source PDF: all report pdf/260528_ms_quanta.pdf
 Report source: line報告備份
@@ -4590,7 +4590,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 098: 260528_ms_wtmicro
+## Document 085: 260528_ms_wtmicro
 
 Source PDF: all report pdf/260528_ms_wtmicro.pdf
 Report source: line報告備份
@@ -5055,7 +5055,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 102: 260529_gs_MTK
+## Document 089: 260529_gs_MTK
 
 Source PDF: all report pdf/260529_gs_MTK.pdf
 Report source: line報告備份
@@ -5675,7 +5675,7 @@ Goldman Sachs MediaTek (2454.TW)
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 108: 260529_ms_silergy
+## Document 095: 260529_ms_silergy
 
 Source PDF: all report pdf/260529_ms_silergy.pdf
 Report source: line報告備份
@@ -6146,7 +6146,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 113: 260531_ms_winsemi
+## Document 100: 260531_ms_winsemi
 
 Source PDF: all report pdf/260531_ms_winsemi.pdf
 Report source: line報告備份
@@ -6594,7 +6594,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 116: 260601_daiwa_Delta
+## Document 103: 260601_daiwa_Delta
 
 Source PDF: all report pdf/260601_daiwa_Delta.pdf
 Report source: line報告備份
@@ -7221,7 +7221,7 @@ the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 127: 260601_ms_psmc
+## Document 114: 260601_ms_psmc
 
 Source PDF: all report pdf/260601_ms_psmc.pdf
 Report source: line報告備份
@@ -7678,7 +7678,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 132: 2610華航 元大
+## Document 119: 2610華航 元大
 
 Source PDF: all report pdf/2610華航 元大.pdf
 Report source: line報告備份
@@ -8892,7 +8892,7 @@ ESG 總分 19.3
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 149: 3532台勝科 第一金
+## Document 128: 3532台勝科 第一金
 
 Source PDF: all report pdf/3532台勝科 第一金.pdf
 Report source: line報告備份
@@ -9225,7 +9225,7 @@ YoY(%)
 11
 
 ---
-## Document 152: 3706神達 群益
+## Document 130: 3706神達 群益
 
 Source PDF: all report pdf/3706神達 群益.pdf
 Report source: line報告備份
@@ -9540,7 +9540,7 @@ YoY(%)
 情形。
 
 ---
-## Document 154: 4a5b6b11-30d9-4e76-93d8-112bfceb1f7a
+## Document 132: 4a5b6b11-30d9-4e76-93d8-112bfceb1f7a
 
 Source PDF: all report pdf/4a5b6b11-30d9-4e76-93d8-112bfceb1f7a.pdf
 Report source: line報告備份
@@ -9619,11 +9619,11 @@ Nvidia
 Latest Production Plan: Rubin Resumed, Vera Raised
 
 ---
-## Document 161: 5388中磊 富邦
+## Document 138: 5388中磊 富邦
 
 Source PDF: all report pdf/5388中磊 富邦.pdf
 Report source: line報告備份
-Date: 2026-06-02
+Date: 2026-06-01
 Pages: 7
 Extraction status: ok
 
@@ -10016,11 +10016,11 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 194: 8227巨有 宏遠
+## Document 161: 8227巨有 宏遠
 
 Source PDF: all report pdf/8227巨有 宏遠.pdf
 Report source: line報告備份
-Date: 2026-06-02
+Date: 2026-06-01
 Pages: 7
 Extraction status: ok
 
@@ -10494,7 +10494,7 @@ C
 2023 2024 2025
 
 ---
-## Document 349: Taiwan_Semiconductors_and_Electronic_Components__Equipment_COMPUTEX_and_GTC_Taipei_preview_From_GPU_Racks_to_AI_Factories-Taiwan_Semiconductors_and_Electronic_Components__Equipment
+## Document 307: Taiwan_Semiconductors_and_Electronic_Components__Equipment_COMPUTEX_and_GTC_Taipei_preview_From_GPU_Racks_to_AI_Factories-Taiwan_Semiconductors_and_Electronic_Components__Equipment
 
 Source PDF: all report pdf/Taiwan_Semiconductors_and_Electronic_Components__Equipment_COMPUTEX_and_GTC_Taipei_preview_From_GPU_Racks_to_AI_Factories-Taiwan_Semiconductors_and_Electronic_Components__Equipment(1).pdf
 Report source: line報告備份
@@ -11090,7 +11090,7 @@ solely for the recipient and may not be further distributed by the recipient to 
 ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 
 ---
-## Document 366: UBS China Equity Strategy How crowded is the AI trade and
+## Document 323: UBS China Equity Strategy How crowded is the AI trade and
 
 Source PDF: all report pdf/UBS China Equity Strategy How crowded is the AI trade and.pdf
 Report source: line報告備份
@@ -12012,7 +12012,7 @@ ab
 This document is being provided for the exclusive use of RACHEL CHEN at MOUNTAIN HILL LTD.
 
 ---
-## Document 447: 中鋼(2002,Note)-CTBC260529
+## Document 401: 中鋼(2002,Note)-CTBC260529
 
 Source PDF: all report pdf/中鋼(2002,Note)-CTBC260529.pdf
 Report source: line報告備份
@@ -12175,7 +12175,7 @@ ESG 資訊 -公 司 治 理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 479: 凱基-2026 Computex Keynote摘要-20260601
+## Document 430: 凱基-2026 Computex Keynote摘要-20260601
 
 Source PDF: all report pdf/凱基-2026 Computex Keynote摘要-20260601.pdf
 Report source: line報告備份
@@ -12326,7 +12326,7 @@ Isaac ROS 與 Jetson Thor 。
 六月 01, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 4
 
 ---
-## Document 481: 凱基投顧_2317 鴻海_向子慧_20260526
+## Document 432: 凱基投顧_2317 鴻海_向子慧_20260526
 
 Source PDF: all report pdf/凱基投顧_2317 鴻海_向子慧_20260526.pdf
 Report source: line報告備份
@@ -13167,7 +13167,7 @@ May-25 Jul-25 Sep-25 Nov-25 Jan-26 Apr-26
 資料來源：TEJ，凱基
 
 ---
-## Document 483: 凱基投顧_3324 雙鴻_向子慧_20260601
+## Document 434: 凱基投顧_3324 雙鴻_向子慧_20260601
 
 Source PDF: all report pdf/凱基投顧_3324 雙鴻_向子慧_20260601.pdf
 Report source: line報告備份
@@ -13885,7 +13885,7 @@ Recommendations & Target Price
 電話 62 21 250 6337
 
 ---
-## Document 492: 凱基投顧_Takeaway_4749 新應材_張育程_20260601
+## Document 442: 凱基投顧_Takeaway_4749 新應材_張育程_20260601
 
 Source PDF: all report pdf/凱基投顧_Takeaway_4749 新應材_張育程_20260601.pdf
 Report source: line報告備份
@@ -13998,7 +13998,7 @@ KLA 檢測 等) 均已建置完成，目前仍在客戶驗證階段，目標 202
 六月 01,2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 3
 
 ---
-## Document 494: 凱基投顧_Takeaway_5274 信驊_劉宇程_20260601
+## Document 444: 凱基投顧_Takeaway_5274 信驊_劉宇程_20260601
 
 Source PDF: all report pdf/凱基投顧_Takeaway_5274 信驊_劉宇程_20260601.pdf
 Report source: line報告備份
@@ -14234,7 +14234,7 @@ Cupola360 已提前布局相關市場
 六月 01, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 6
 
 ---
-## Document 497: 凱基投顧_Takeaway_6515 穎崴_許芝瑄_20260526
+## Document 447: 凱基投顧_Takeaway_6515 穎崴_許芝瑄_20260526
 
 Source PDF: all report pdf/凱基投顧_Takeaway_6515 穎崴_許芝瑄_20260526.pdf
 Report source: line報告備份
@@ -14393,7 +14393,7 @@ Hyper Socket 能提供最穩定測試結果
 五月 26, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R   4
 
 ---
-## Document 527: 國泰金(2882,OW_增加持股)-CTBC260601
+## Document 482: 國泰金(2882,OW_增加持股)-CTBC260601
 
 Source PDF: all report pdf/國泰金(2882,OW_增加持股)-CTBC260601.pdf
 Report source: line報告備份
@@ -14663,7 +14663,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 554: 富邦-2026 Nvidia Computex-20260601
+## Document 512: 富邦-2026 Nvidia Computex-20260601
 
 Source PDF: all report pdf/富邦-2026 Nvidia Computex-20260601.pdf
 Report source: line報告備份
@@ -15111,7 +15111,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 562: 廣華-KY(1338_Note)-CTBC260526
+## Document 520: 廣華-KY(1338_Note)-CTBC260526
 
 Source PDF: all report pdf/廣華-KY(1338_Note)-CTBC260526.pdf
 Report source: line報告備份
@@ -15286,7 +15286,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 657: 統一-2313-華通-20260601
+## Document 609: 統一-2313-華通-20260601
 
 Source PDF: all report pdf/統一-2313-華通-20260601.pdf
 Report source: line報告備份
@@ -15586,7 +15586,7 @@ ainReport/data/FileStream?id=679bfead-a0dc-
 請參見末頁重要批露及免責聲明  8
 
 ---
-## Document 658: 統一-2481-強茂-20260601
+## Document 610: 統一-2481-強茂-20260601
 
 Source PDF: all report pdf/統一-2481-強茂-20260601.pdf
 Report source: line報告備份
@@ -15855,7 +15855,7 @@ ainReport/data/FileStream?id=cc5a8a97-38dc-
 請參見末頁重要批露及免責聲明  7
 
 ---
-## Document 660: 統一-6672-騰輝電子-KY-20260601
+## Document 612: 統一-6672-騰輝電子-KY-20260601
 
 Source PDF: all report pdf/統一-6672-騰輝電子-KY-20260601.pdf
 Report source: line報告備份
@@ -16161,7 +16161,7 @@ ainReport/data/FileStream?id=8cd6ac11-fd79-
 請參見末頁重要批露及免責聲明  8
 
 ---
-## Document 679: 群益-2464-2601盟立
+## Document 632: 群益-2464-2601盟立
 
 Source PDF: all report pdf/群益-2464-2601盟立.pdf
 Report source: line報告備份
@@ -16430,7 +16430,7 @@ YoY(%)
 情形。
 
 ---
-## Document 685: 群益-6605-2602帝寶
+## Document 636: 群益-6605-2602帝寶
 
 Source PDF: all report pdf/群益-6605-2602帝寶.pdf
 Report source: line報告備份
@@ -16677,7 +16677,7 @@ YoY(%)
 情形。
 
 ---
-## Document 690: 聯茂(6213,B_買進)-CTBC260528
+## Document 640: 聯茂(6213,B_買進)-CTBC260528
 
 Source PDF: all report pdf/聯茂(6213,B_買進)-CTBC260528.pdf
 Report source: line報告備份
@@ -16953,11 +16953,11 @@ ESG 資訊 -公司治理 (Governance)
 營業執照字號： 114 金管投顧新字第 014 號
 
 ---
-## Document 700: 華南投顧-3532-台勝科-1150601
+## Document 651: 華南投顧-3532-台勝科-1150601
 
 Source PDF: all report pdf/華南投顧-3532-台勝科-1150601.pdf
 Report source: line報告備份
-Date: 2026-06-02
+Date: 2026-06-01
 Pages: 7
 Extraction status: ok
 
