@@ -214,7 +214,7 @@ A：產業結構問題並非今年才出現。三五年前台灣最大外銷品�
 負擔任何責任。
 
 ---
-## Document 045: 2308台達電 群益
+## Document 048: 2308台達電 群益
 
 Source PDF: all report pdf/2308台達電 群益.pdf
 Report source: line報告備份
@@ -316,7 +316,7 @@ PER= 股價 /2026 (F) EPS ； PBR= 股價 /2026 (F) 年 底 預 估 每 股 淨 
 情形。
 
 ---
-## Document 046: 2327國巨 兆豐
+## Document 049: 2327國巨 兆豐
 
 Source PDF: all report pdf/2327國巨 兆豐.pdf
 Report source: line報告備份
@@ -780,7 +780,7 @@ B
 交易所公司治理評鑑
 
 ---
-## Document 049: 2355敬鵬 富邦
+## Document 052: 2355敬鵬 富邦
 
 Source PDF: all report pdf/2355敬鵬 富邦.pdf
 Report source: line報告備份
@@ -1186,7 +1186,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 053: 2603長榮 宏遠
+## Document 056: 2603長榮 宏遠
 
 Source PDF: all report pdf/2603長榮 宏遠.pdf
 Report source: line報告備份
@@ -1721,7 +1721,7 @@ AAA
 2023 2024 2025
 
 ---
-## Document 054: 260528_gs_WNC
+## Document 057: 260528_gs_WNC
 
 Source PDF: all report pdf/260528_gs_WNC.pdf
 Report source: line報告備份
@@ -2235,7 +2235,7 @@ Goldman Sachs WNC (6285.TW)
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 059: 260528_ms_fositek
+## Document 062: 260528_ms_fositek
 
 Source PDF: all report pdf/260528_ms_fositek.pdf
 Report source: line報告備份
@@ -2705,7 +2705,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 061: 260528_ms_kingslide
+## Document 064: 260528_ms_kingslide
 
 Source PDF: all report pdf/260528_ms_kingslide.pdf
 Report source: line報告備份
@@ -3154,7 +3154,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 071: 260529_ms_asmedia
+## Document 074: 260529_ms_asmedia
 
 Source PDF: all report pdf/260529_ms_asmedia.pdf
 Report source: line報告備份
@@ -3612,7 +3612,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 078: 260531_ms_parade
+## Document 081: 260531_ms_parade
 
 Source PDF: all report pdf/260531_ms_parade.pdf
 Report source: line報告備份
@@ -4055,7 +4055,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 086: 260601_gs_ZDT
+## Document 089: 260601_gs_ZDT
 
 Source PDF: all report pdf/260601_gs_ZDT.pdf
 Report source: line報告備份
@@ -4451,7 +4451,7 @@ Goldman Sachs Zhen Ding Technology Holding (4958.TW)
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 092: 260601_ms_psmc
+## Document 095: 260601_ms_psmc
 
 Source PDF: all report pdf/260601_ms_psmc.pdf
 Report source: line報告備份
@@ -4908,7 +4908,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 095: 260601_ms_yageo
+## Document 098: 260601_ms_yageo
 
 Source PDF: all report pdf/260601_ms_yageo.pdf
 Report source: line報告備份
@@ -6165,7 +6165,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 100: 260602_gs_taliang
+## Document 103: 260602_gs_taliang
 
 Source PDF: all report pdf/260602_gs_taliang.pdf
 Report source: line報告備份
@@ -6483,7 +6483,7 @@ Goldman Sachs Taiwan Computex & Corporate Day
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 104: 260602_hsbc_korea-ai-supply-chain
+## Document 107: 260602_hsbc_korea-ai-supply-chain
 
 Source PDF: all report pdf/260602_hsbc_korea-ai-supply-chain.pdf
 Report source: line報告備份
@@ -7637,7 +7637,7 @@ capital, calculated according to the SSR methodology.
 Stay connected to our topical and timely thought leadership
 
 ---
-## Document 107: 260602_ms_key-computex-takeaways
+## Document 110: 260602_ms_key-computex-takeaways
 
 Source PDF: all report pdf/260602_ms_key-computex-takeaways.pdf
 Report source: line報告備份
@@ -8117,7 +8117,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 111: 260603_gs_GCE
+## Document 114: 260603_gs_GCE
 
 Source PDF: all report pdf/260603_gs_GCE.pdf
 Report source: line報告備份
@@ -8511,7 +8511,7 @@ Goldman Sachs GCE (2368.TW)
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 119: 260604_gs_innodisk
+## Document 122: 260604_gs_innodisk
 
 Source PDF: all report pdf/260604_gs_innodisk.pdf
 Report source: line報告備份
@@ -8816,7 +8816,7 @@ Goldman Sachs Taiwan Technology
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 121: 260604_ms_asustek
+## Document 124: 260604_ms_asustek
 
 Source PDF: all report pdf/260604_ms_asustek.pdf
 Report source: line報告備份
@@ -9368,7 +9368,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 122: 260604_ms_HH
+## Document 125: 260604_ms_HH
 
 Source PDF: all report pdf/260604_ms_HH.pdf
 Report source: line報告備份
@@ -9841,7 +9841,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 132: 3042佳世達 元大
+## Document 135: 3042佳世達 元大
 
 Source PDF: all report pdf/3042佳世達 元大.pdf
 Report source: line報告備份
@@ -10400,7 +10400,7 @@ ESG總分 19.2
 台灣臺北市 106仁愛路三段 157號 4樓
 
 ---
-## Document 136: 3665貿聯 永豐
+## Document 139: 3665貿聯 永豐
 
 Source PDF: all report pdf/3665貿聯 永豐.pdf
 Report source: line報告備份
@@ -10823,7 +10823,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 9
 
 ---
-## Document 137: 3706神達 元富
+## Document 140: 3706神達 元富
 
 Source PDF: all report pdf/3706神達 元富.pdf
 Report source: line報告備份
@@ -11162,7 +11162,7 @@ Operating 3.7 4.0 6.3 4.0 ROA 2.05 3.89 6.02 6.17
 Net 4.6 4.6 6.8 4.6 ROE 2.92 6.49 11.00 11.06
 
 ---
-## Document 143: 4927泰鼎 兆豐
+## Document 146: 4927泰鼎 兆豐
 
 Source PDF: all report pdf/4927泰鼎 兆豐.pdf
 Report source: line報告備份
@@ -11520,7 +11520,7 @@ AA
 交易所公司治理評鑑
 
 ---
-## Document 147: 5269祥碩 元大
+## Document 151: 5269祥碩 元大
 
 Source PDF: all report pdf/5269祥碩 元大.pdf
 Report source: line報告備份
@@ -12266,7 +12266,7 @@ ESG 總分 28.0
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 149: 5536聖暉 群益
+## Document 153: 5536聖暉 群益
 
 Source PDF: all report pdf/5536聖暉 群益.pdf
 Report source: line報告備份
@@ -12393,7 +12393,7 @@ PER= 股價 /2026 (F) EPS ； PBR= 股價 /2026 (F) 年 底 預 估 每 股 淨 
 情形。
 
 ---
-## Document 162: 6965中傑 宏遠
+## Document 166: 6965中傑 宏遠
 
 Source PDF: all report pdf/6965中傑 宏遠.pdf
 Report source: line報告備份
@@ -12879,7 +12879,7 @@ Company Report
 員工學歷分佈
 
 ---
-## Document 170: 8227巨有 宏遠
+## Document 175: 8227巨有 宏遠
 
 Source PDF: all report pdf/8227巨有 宏遠.pdf
 Report source: line報告備份
@@ -13357,7 +13357,7 @@ C
 2023 2024 2025
 
 ---
-## Document 204: Computex 2026 Booth Tour SK Hynix Call memo_Fubon 20260602
+## Document 205: Computex 2026 Booth Tour SK Hynix Call memo_Fubon 20260602
 
 Source PDF: all report pdf/Computex 2026 Booth Tour SK Hynix Call memo_Fubon 20260602.pdf
 Report source: line報告備份
@@ -13485,7 +13485,7 @@ PCV01 PCIe Gen5 規格，速度提升兩倍，電力效率節省 30%
 與 NAND 之間的效能鴻溝。
 
 ---
-## Document 355: 亞力(1514,B_買進)-CTBC260602
+## Document 370: 亞力(1514,B_買進)-CTBC260602
 
 Source PDF: all report pdf/亞力(1514,B_買進)-CTBC260602.pdf
 Report source: line報告備份
@@ -13770,7 +13770,7 @@ ESG 資訊 -公 司 治 理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 371: 凱基投顧_Takeaway_3324 雙鴻_向子慧_20260601
+## Document 393: 凱基投顧_Takeaway_3324 雙鴻_向子慧_20260601
 
 Source PDF: all report pdf/凱基投顧_Takeaway_3324 雙鴻_向子慧_20260601.pdf
 Report source: line報告備份
@@ -13894,7 +13894,7 @@ angelah@kgi.com
 六月 01, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 4
 
 ---
-## Document 379: 凱基投顧_Takeaway_6670 復盛應用_劉昃恩_20260604
+## Document 401: 凱基投顧_Takeaway_6670 復盛應用_劉昃恩_20260604
 
 Source PDF: all report pdf/凱基投顧_Takeaway_6670 復盛應用_劉昃恩_20260604.pdf
 Report source: line報告備份
@@ -13990,7 +13990,7 @@ body (但此非機器人最具附加價值部分) 。
 六月 04, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 3
 
 ---
-## Document 382: 凱基投顧_Takeaway_7811 民盛_劉昃恩_20260604
+## Document 404: 凱基投顧_Takeaway_7811 民盛_劉昃恩_20260604
 
 Source PDF: all report pdf/凱基投顧_Takeaway_7811 民盛_劉昃恩_20260604.pdf
 Report source: line報告備份
@@ -14095,7 +14095,7 @@ eden.chang@kgi.com
 六月 04, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 3
 
 ---
-## Document 393: 功率半導體進入結構性上行循環-CTBC260604
+## Document 416: 功率半導體進入結構性上行循環-CTBC260604
 
 Source PDF: all report pdf/功率半導體進入結構性上行循環-CTBC260604.pdf
 Report source: line報告備份
@@ -14345,7 +14345,7 @@ US D$mn 強茂 德微 台半 朋程 富鼎
 2 0 2 6 / 06 /04
 
 ---
-## Document 414: 國巨(2327,B_買進)-CTBC260603
+## Document 438: 國巨(2327,B_買進)-CTBC260603
 
 Source PDF: all report pdf/國巨(2327,B_買進)-CTBC260603.pdf
 Report source: line報告備份
@@ -14706,7 +14706,7 @@ ESG 資訊 -公司治理 (Governance)
 營業執照字號： 114 金管投顧新字第 014 號
 
 ---
-## Document 452: 承業醫(4164,N_中立)-CTBC260603
+## Document 485: 承業醫(4164,N_中立)-CTBC260603
 
 Source PDF: all report pdf/承業醫(4164,N_中立)-CTBC260603.pdf
 Report source: line報告備份
@@ -14962,7 +14962,7 @@ ESG 資訊 -公 司 治 理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 467: 昇陽半(8028,B_買進)-CTBC260605
+## Document 501: 昇陽半(8028,B_買進)-CTBC260605
 
 Source PDF: all report pdf/昇陽半(8028,B_買進)-CTBC260605.pdf
 Report source: line報告備份
@@ -15317,7 +15317,7 @@ ESG 資訊 - 公司治理 (Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 518: 華南投顧-1434-福懋-1150601
+## Document 572: 華南投顧-1434-福懋-1150601
 
 Source PDF: all report pdf/華南投顧-1434-福懋-1150601.pdf
 Report source: line報告備份
@@ -15660,7 +15660,7 @@ YOY -9.2 6.2 12.2 13.8
 個股投資建議與目標價三年歷史趨勢：
 
 ---
-## Document 519: 華南投顧-1582-信錦-1150601
+## Document 573: 華南投顧-1582-信錦-1150601
 
 Source PDF: all report pdf/華南投顧-1582-信錦-1150601.pdf
 Report source: line報告備份
@@ -15979,7 +15979,7 @@ YOY -5.7 8.9 15.8 17.7
 個股投資建議與目標價三年歷史趨勢：
 
 ---
-## Document 521: 華南投顧-2345-智邦-1150601
+## Document 575: 華南投顧-2345-智邦-1150601
 
 Source PDF: all report pdf/華南投顧-2345-智邦-1150601.pdf
 Report source: line報告備份
