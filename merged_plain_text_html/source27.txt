@@ -1352,7 +1352,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 085: 260531_ms_automation
+## Document 063: 260531_ms_automation
 
 Source PDF: all report pdf/260531_ms_automation.pdf
 Report source: line報告備份
@@ -1803,7 +1803,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 086: 260531_ms_parade
+## Document 064: 260531_ms_parade
 
 Source PDF: all report pdf/260531_ms_parade.pdf
 Report source: line報告備份
@@ -2246,7 +2246,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 090: 260601_daiwa_Fositek
+## Document 068: 260601_daiwa_Fositek
 
 Source PDF: all report pdf/260601_daiwa_Fositek.pdf
 Report source: line報告備份
@@ -2715,7 +2715,7 @@ the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 091: 260601_gs_kingslide
+## Document 069: 260601_gs_kingslide
 
 Source PDF: all report pdf/260601_gs_kingslide.pdf
 Report source: line報告備份
@@ -3092,7 +3092,7 @@ For the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 094: 260601_gs_ZDT
+## Document 072: 260601_gs_ZDT
 
 Source PDF: all report pdf/260601_gs_ZDT.pdf
 Report source: line報告備份
@@ -3488,7 +3488,7 @@ Goldman Sachs Zhen Ding Technology Holding (4958.TW)
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 096: 260601_ms_apmemory
+## Document 074: 260601_ms_apmemory
 
 Source PDF: all report pdf/260601_ms_apmemory.pdf
 Report source: line報告備份
@@ -3951,7 +3951,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 098: 260601_ms_macronix
+## Document 076: 260601_ms_macronix
 
 Source PDF: all report pdf/260601_ms_macronix.pdf
 Report source: line報告備份
@@ -4405,7 +4405,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 108: 260602_gs_taliang
+## Document 086: 260602_gs_taliang
 
 Source PDF: all report pdf/260602_gs_taliang.pdf
 Report source: line報告備份
@@ -4723,7 +4723,7 @@ Goldman Sachs Taiwan Computex & Corporate Day
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 112: 260602_hsbc_korea-ai-supply-chain
+## Document 090: 260602_hsbc_korea-ai-supply-chain
 
 Source PDF: all report pdf/260602_hsbc_korea-ai-supply-chain.pdf
 Report source: line報告備份
@@ -5877,7 +5877,7 @@ capital, calculated according to the SSR methodology.
 Stay connected to our topical and timely thought leadership
 
 ---
-## Document 114: 260602_ms_bizlink
+## Document 092: 260602_ms_bizlink
 
 Source PDF: all report pdf/260602_ms_bizlink.pdf
 Report source: line報告備份
@@ -6395,7 +6395,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 131: 260605_citi_HH
+## Document 109: 260605_citi_HH
 
 Source PDF: all report pdf/260605_citi_HH.pdf
 Report source: line報告備份
@@ -7332,7 +7332,7 @@ Extraction status: ok
 /69 /81 /81 /50 /63 /50 /85 /75/69 /86 /i255 /50 /75 /76 /85 /70/47/69/63 /50 /85 /75 /i255 /50 /48 /i255 /69 /87 /69 /50 /86 /69 /88 /86 /78 /i255 /89 /77 /85 /75 /i255 /70 /78 /90 /89 /78 /48 /63
 
 ---
-## Document 142: 260607_citi_TW-PCB-CCL
+## Document 120: 260607_citi_TW-PCB-CCL
 
 Source PDF: all report pdf/260607_citi_TW-PCB-CCL.pdf
 Report source: line報告備份
@@ -7929,7 +7929,7 @@ solely for the recipient and may not be further distributed by the recipient to 
 ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 
 ---
-## Document 147: 260607_ms_bizlink
+## Document 125: 260607_ms_bizlink
 
 Source PDF: all report pdf/260607_ms_bizlink.pdf
 Report source: line報告備份
@@ -8447,7 +8447,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 151: 260607_ms_kingslide
+## Document 129: 260607_ms_kingslide
 
 Source PDF: all report pdf/260607_ms_kingslide.pdf
 Report source: line報告備份
@@ -8964,7 +8964,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 164: 3532台勝科 第一金
+## Document 142: 3532台勝科 第一金
 
 Source PDF: all report pdf/3532台勝科 第一金.pdf
 Report source: line報告備份
@@ -9297,7 +9297,7 @@ YoY(%)
 11
 
 ---
-## Document 166: 3706神達 元富
+## Document 144: 3706神達 元富
 
 Source PDF: all report pdf/3706神達 元富.pdf
 Report source: line報告備份
@@ -9636,7 +9636,7 @@ Operating 3.7 4.0 6.3 4.0 ROA 2.05 3.89 6.02 6.17
 Net 4.6 4.6 6.8 4.6 ROE 2.92 6.49 11.00 11.06
 
 ---
-## Document 173: 4927泰鼎 兆豐
+## Document 151: 4927泰鼎 兆豐
 
 Source PDF: all report pdf/4927泰鼎 兆豐.pdf
 Report source: line報告備份
@@ -9994,7 +9994,7 @@ AA
 交易所公司治理評鑑
 
 ---
-## Document 180: 5536聖暉 群益
+## Document 158: 5536聖暉 群益
 
 Source PDF: all report pdf/5536聖暉 群益.pdf
 Report source: line報告備份
@@ -10121,7 +10121,7 @@ PER= 股價 /2026 (F) EPS ； PBR= 股價 /2026 (F) 年 底 預 估 每 股 淨 
 情形。
 
 ---
-## Document 187: 6239力成 群益
+## Document 163: 6239力成 群益
 
 Source PDF: all report pdf/6239力成 群益.pdf
 Report source: line報告備份
@@ -10644,7 +10644,7 @@ YoY(%)
 情形。
 
 ---
-## Document 189: 6491晶碩 永豐
+## Document 165: 6491晶碩 永豐
 
 Source PDF: all report pdf/6491晶碩 永豐.pdf
 Report source: line報告備份
@@ -10941,7 +10941,7 @@ S：Sell 賣出：未來 6 個月該股票表現將落後大盤
 7
 
 ---
-## Document 192: 6725矽科宏晟 宏遠
+## Document 168: 6725矽科宏晟 宏遠
 
 Source PDF: all report pdf/6725矽科宏晟 宏遠.pdf
 Report source: line報告備份
@@ -11405,7 +11405,7 @@ Company Report
 員工學歷分佈
 
 ---
-## Document 201: 7827漢康 宏遠
+## Document 177: 7827漢康 宏遠
 
 Source PDF: all report pdf/7827漢康 宏遠.pdf
 Report source: line報告備份
@@ -11944,7 +11944,7 @@ Company Report
 註:漢康 -KY 於 2024/10 /25 股東會決議普通股每股面額由美金 0.002 元變更為新臺幣 10 元。
 
 ---
-## Document 202: 7827漢康 第一金
+## Document 178: 7827漢康 第一金
 
 Source PDF: all report pdf/7827漢康 第一金.pdf
 Report source: line報告備份
@@ -12076,7 +12076,7 @@ YoY(%)
 稅後純益YoY -79.56% 344.64%
 
 ---
-## Document 264: GF - PTFE midplane
+## Document 257: GF - PTFE midplane
 
 Source PDF: all report pdf/GF - PTFE midplane.pdf
 Report source: line報告備份
@@ -12089,7 +12089,7 @@ Extraction status: ok
 What's new We see Nvidia has selected PTFE as the preferred material for Rubin Ultra midplane, we provide our view below.  Comments Nvidia to Adopt PTFE for Midplane: Our checks indicate that the M9+Q glass solution has not delivered satisfactory electrical performance, and PTFE has been selected as the preferred midplane material. 1) PTFE offers superior high-frequency transmission characteristics with lower loss, which is able to support the 337G+ Serdes in Rubin Ultra platform. 2) While previous PTFE solutions faced manufacturing challenges due to its softness and tendency to generate drilling burrs, newly developed filler-modified (with SiO2) PTFE significantly improves mechanical rigidity. We see both electrical performance test and manufacturing feasibility test have been passed. PTFE replacing fiber cloth: We believe PTFE-based CCL will not adopt glass fiber where PTFE is coated with hydrocarbon resin and laminated directly with copper foil. According to our checks, modified PTFE is priced at ~RMB150k/ton, one CCL would consume 800g of PTFE, and the pricing for the PTFE-based CCL could reach RMB2500. The final midplane design is yet to be confirmed with potential solutions including 78 or 108 layers, and a mixed lamination with PTFE CCL/M9-Q/ABF-filled CCL. We expect midplane final design to be finalized in July.  PTFE Beneficiaries: We expect Shengyi Tech (600183 SH) to emerge as the primary supplier for PTFE CCL while TPE (8039 TT) will likely be the secondary supplier though it is still working on qualification process. On the upstream side, Dongyue Group (0189 HK) is currently Shengyi's key PTFE material supplier while other potential PTFE suppliers include Daikin (6367 JP) and Haohua Chemical (600378 CH). Based on our preliminary order estimation, we project the PTFE-based CCL market to reach RMB8bn in 2027 for Kyber with further ramp up in Feynman platform. However, given manufacturing complexity, midplane production may begin in late 2026. Additionally, due to these manufacturing challenges, we see PCB players also standing to benefit from the new design, as the PCB value-to-CCL content ratio is expected to increase to 3–3.5x, compared to the current ~2–2.5x seen in HLC PCBs.  Risks 1) AI demand slowing down; 2) Geo-political risks; 3) Competition.
 
 ---
-## Document 341: 【國泰證期研究部】2H26電源產業展望-高耗電時代，電源配套升級-20260608
+## Document 340: 【國泰證期研究部】2H26電源產業展望-高耗電時代，電源配套升級-20260608
 
 Source PDF: all report pdf/【國泰證期研究部】2H26電源產業展望-高耗電時代，電源配套升級-20260608.pdf
 Report source: line報告備份
@@ -12291,7 +12291,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 420: 亞力(1514,B_買進)-CTBC260602
+## Document 411: 亞力(1514,B_買進)-CTBC260602
 
 Source PDF: all report pdf/亞力(1514,B_買進)-CTBC260602.pdf
 Report source: line報告備份
@@ -12576,7 +12576,7 @@ ESG 資訊 -公 司 治 理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 448: 凱基投顧_2892_第一金_施志鴻_20260602
+## Document 440: 凱基投顧_2892_第一金_施志鴻_20260602
 
 Source PDF: all report pdf/凱基投顧_2892_第一金_施志鴻_20260602.pdf
 Report source: line報告備份
@@ -13492,7 +13492,7 @@ Jun-25 Aug-25 Oct-25 Dec-25 Feb-26 Apr-26
  泰國          曼谷
 
 ---
-## Document 457: 凱基投顧_Takeaway_6510 精測_許芝瑄_20260601
+## Document 449: 凱基投顧_Takeaway_6510 精測_許芝瑄_20260601
 
 Source PDF: all report pdf/凱基投顧_Takeaway_6510 精測_許芝瑄_20260601.pdf
 Report source: line報告備份
@@ -13620,7 +13620,7 @@ Q&A
 六月 01, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R   4
 
 ---
-## Document 460: 凱基投顧_Takeaway_6679 鈺太_劉宇程_20260601
+## Document 452: 凱基投顧_Takeaway_6679 鈺太_劉宇程_20260601
 
 Source PDF: all report pdf/凱基投顧_Takeaway_6679 鈺太_劉宇程_20260601.pdf
 Report source: line報告備份
@@ -13930,7 +13930,7 @@ Transceiver、motion sensor 等產品提高單車內含價值
 六月 01, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 7
 
 ---
-## Document 465: 凱基投顧_Takeaway_Computex 2026_向子慧_20260603
+## Document 457: 凱基投顧_Takeaway_Computex 2026_向子慧_20260603
 
 Source PDF: all report pdf/凱基投顧_Takeaway_Computex 2026_向子慧_20260603.pdf
 Report source: line報告備份
@@ -14366,7 +14366,7 @@ AMD 等主要 CPU 供應商合作提供硬體平台。產品方面， 2U 伺服�
 六月 03,202 6 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 13
 
 ---
-## Document 548: 承業醫(4164,N_中立)-CTBC260603
+## Document 530: 承業醫(4164,N_中立)-CTBC260603
 
 Source PDF: all report pdf/承業醫(4164,N_中立)-CTBC260603.pdf
 Report source: line報告備份
@@ -14622,7 +14622,7 @@ ESG 資訊 -公 司 治 理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 569: 昇陽半(8028,B_買進)-CTBC260605
+## Document 547: 昇陽半(8028,B_買進)-CTBC260605
 
 Source PDF: all report pdf/昇陽半(8028,B_買進)-CTBC260605.pdf
 Report source: line報告備份
@@ -14977,7 +14977,7 @@ ESG 資訊 - 公司治理 (Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 627: 統一-2313-華通-20260601
+## Document 601: 統一-2313-華通-20260601
 
 Source PDF: all report pdf/統一-2313-華通-20260601.pdf
 Report source: line報告備份
@@ -15277,7 +15277,7 @@ ainReport/data/FileStream?id=679bfead-a0dc-
 請參見末頁重要批露及免責聲明  8
 
 ---
-## Document 630: 統一-6672-騰輝電子-KY-20260601
+## Document 604: 統一-6672-騰輝電子-KY-20260601
 
 Source PDF: all report pdf/統一-6672-騰輝電子-KY-20260601.pdf
 Report source: line報告備份
@@ -15583,7 +15583,7 @@ ainReport/data/FileStream?id=8cd6ac11-fd79-
 請參見末頁重要批露及免責聲明  8
 
 ---
-## Document 657: 華南投顧-1773-勝一-1150604
+## Document 636: 華南投顧-1773-勝一-1150604
 
 Source PDF: all report pdf/華南投顧-1773-勝一-1150604.pdf
 Report source: line報告備份
