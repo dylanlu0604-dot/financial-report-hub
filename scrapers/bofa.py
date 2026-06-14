@@ -8,10 +8,35 @@ from datetime import datetime
 def clean_text(text):
     return re.sub(r'\s+', ' ', text).strip() if text else ""
 
+def parse_month_date(text):
+    match = re.search(
+        r'\b(january|february|march|april|may|june|july|august|september|october|november|december)\s+(\d{4})\b',
+        text or "",
+        re.IGNORECASE
+    )
+    if not match:
+        return None
+
+    month_str = match.group(1)[:3].title()
+    year_str = match.group(2)
+    try:
+        return datetime.strptime(f"{month_str} {year_str}", "%b %Y").strftime("%Y-%m-01")
+    except ValueError:
+        return None
+
+def strip_leading_month(text):
+    return re.sub(
+        r'^(january|february|march|april|may|june|july|august|september|october|november|december)\s+\d{4}\s*',
+        '',
+        text or "",
+        flags=re.IGNORECASE
+    ).strip()
+
 def scrape():
     print("🔍 正在爬取 Bank of America (美國銀行) - 🎯 年月精準解析與名額限制模式...")
     reports = []
     seen_article_links = set()
+    seen_pdf_links = set()
     base_url = "https://institute.bankofamerica.com"
     
     target_urls = [
@@ -63,26 +88,9 @@ def scrape():
                                 continue
                             
                             if full_url not in seen_article_links and len(raw_title) > 5:
-                                
-                                # 🌟 預設日期為今天，並保留原始標題
-                                report_date = datetime.now().strftime("%Y-%m-%d")
-                                clean_title = raw_title
-                                
-                                # 🌟 日期魔法：用 Regex 抓取開頭的 "march 2026", "february 2026"
-                                date_match = re.search(r'^(january|february|march|april|may|june|july|august|september|october|november|december)\s+(\d{4})\s*', raw_title, re.IGNORECASE)
-                                
-                                if date_match:
-                                    # 取月份前三碼(例如 Mar)與年份
-                                    month_str = date_match.group(1)[:3].title() 
-                                    year_str = date_match.group(2)
-                                    try:
-                                        # 將文字轉為時間物件，並強制補上 1 號 (例如 2026-03-01)
-                                        date_obj = datetime.strptime(f"{month_str} {year_str}", "%b %Y")
-                                        report_date = date_obj.strftime("%Y-%m-01")
-                                        # 把標題前面的日期文字切掉，還原乾淨標題
-                                        clean_title = raw_title[date_match.end():].strip()
-                                    except:
-                                        pass
+                                # 先從列表標題抓月份；部分系列入口沒有月份，稍後進內頁補抓。
+                                report_date = parse_month_date(raw_title)
+                                clean_title = strip_leading_month(raw_title)
                                 
                                 # 存入待爬清單，這次多了 report_date
                                 valid_articles.append((clean_title, full_url, report_date))
@@ -104,6 +112,8 @@ def scrape():
                     page.wait_for_timeout(1500)
                     
                     article_soup = BeautifulSoup(page.content(), 'html.parser')
+                    if not report_date:
+                        report_date = parse_month_date(article_soup.get_text(" ", strip=True)) or "未知日期"
                     
                     pdf_href = None
                     
@@ -116,6 +126,11 @@ def scrape():
                     
                     if pdf_href:
                         full_pdf_url = urljoin(base_url, pdf_href)
+                        if full_pdf_url in seen_pdf_links:
+                            print(f"      ↩️ PDF 已收錄過，跳過重複項目。")
+                            continue
+
+                        seen_pdf_links.add(full_pdf_url)
                         reports.append({
                             "Source": "Bank of America",
                             "Date": report_date,  # 🌟 填入我們剛剛萃取出來的正確年月
