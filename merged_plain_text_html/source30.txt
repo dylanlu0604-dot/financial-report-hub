@@ -1251,7 +1251,7 @@ t
 僅供內部投資研究參考・嚴禁外流 15
 
 ---
-## Document 063: 2356英業達 群益
+## Document 064: 2356英業達 群益
 
 Source PDF: all report pdf/2356英業達 群益.pdf
 Report source: line報告備份
@@ -1554,7 +1554,7 @@ YoY(%)
 情形。
 
 ---
-## Document 068: 2454聯發科 群益
+## Document 069: 2454聯發科 群益
 
 Source PDF: all report pdf/2454聯發科 群益.pdf
 Report source: line報告備份
@@ -1693,7 +1693,7 @@ PER= 股價 /2026 (F) EPS ； PBR= 股價 /2026 (F) 年 底 預 估 每 股 淨 
 情形。
 
 ---
-## Document 077: 260603_gs_gigabyte
+## Document 078: 260603_gs_gigabyte
 
 Source PDF: all report pdf/260603_gs_gigabyte.pdf
 Report source: line報告備份
@@ -2067,7 +2067,7 @@ Goldman Sachs Gigabyte (2376.TW)
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 081: 260603_ms_kioxia-implication
+## Document 082: 260603_ms_kioxia-implication
 
 Source PDF: all report pdf/260603_ms_kioxia-implication.pdf
 Report source: line報告備份
@@ -2539,7 +2539,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 086: 260604_ms_asustek
+## Document 087: 260604_ms_asustek
 
 Source PDF: all report pdf/260604_ms_asustek.pdf
 Report source: line報告備份
@@ -3091,7 +3091,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 091: 260605_gs_delta
+## Document 092: 260605_gs_delta
 
 Source PDF: all report pdf/260605_gs_delta.pdf
 Report source: line報告備份
@@ -3933,7 +3933,7 @@ Goldman Sachs Delta Electronics (2308.TW)
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 092: 260605_gs_HH
+## Document 093: 260605_gs_HH
 
 Source PDF: all report pdf/260605_gs_HH.pdf
 Report source: line報告備份
@@ -4477,7 +4477,7 @@ Goldman Sachs Hon Hai (2317.TW)
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 101: 260607_ms_1h-june-panel-px
+## Document 102: 260607_ms_1h-june-panel-px
 
 Source PDF: all report pdf/260607_ms_1h-june-panel-px.pdf
 Report source: line報告備份
@@ -5527,7 +5527,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 103: 260607_ms_advantech
+## Document 104: 260607_ms_advantech
 
 Source PDF: all report pdf/260607_ms_advantech.pdf
 Report source: line報告備份
@@ -6029,7 +6029,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 107: 260607_ms_hiwin
+## Document 108: 260607_ms_hiwin
 
 Source PDF: all report pdf/260607_ms_hiwin.pdf
 Report source: line報告備份
@@ -6539,7 +6539,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 113: 260608_ms_eink
+## Document 114: 260608_ms_eink
 
 Source PDF: all report pdf/260608_ms_eink.pdf
 Report source: line報告備份
@@ -7067,7 +7067,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 114: 260608_ms_elan
+## Document 115: 260608_ms_elan
 
 Source PDF: all report pdf/260608_ms_elan.pdf
 Report source: line報告備份
@@ -7522,7 +7522,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 134: 260611_ms_optics-PCB
+## Document 135: 260611_ms_optics-PCB
 
 Source PDF: all report pdf/260611_ms_optics-PCB.pdf
 Report source: line報告備份
@@ -9242,7 +9242,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 136: 26604_citi_CHPT
+## Document 137: 26604_citi_CHPT
 
 Source PDF: all report pdf/26604_citi_CHPT.pdf
 Report source: line報告備份
@@ -9768,7 +9768,7 @@ solely for the recipient and may not be further distributed by the recipient to 
 ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 
 ---
-## Document 143: 3661世芯 宏遠
+## Document 144: 3661世芯 宏遠
 
 Source PDF: all report pdf/3661世芯 宏遠.pdf
 Report source: line報告備份
@@ -10222,7 +10222,7 @@ C+C+
 2023 2024 2025
 
 ---
-## Document 147: 5009榮剛 群益
+## Document 149: 5009榮剛 群益
 
 Source PDF: all report pdf/5009榮剛 群益.pdf
 Report source: line報告備份
@@ -10326,7 +10326,7 @@ PER= 股價 /2026 (F) EPS ； PBR= 股價 /2026 (F) 年 底 預 估 每 股 淨 
 情形。
 
 ---
-## Document 164: 6725矽科宏晟 宏遠
+## Document 168: 6725矽科宏晟 宏遠
 
 Source PDF: all report pdf/6725矽科宏晟 宏遠.pdf
 Report source: line報告備份
@@ -10790,7 +10790,7 @@ Company Report
 員工學歷分佈
 
 ---
-## Document 167: 6903巨漢 康和
+## Document 171: 6903巨漢 康和
 
 Source PDF: all report pdf/6903巨漢 康和.pdf
 Report source: line報告備份
@@ -11130,7 +11130,7 @@ EPS以股本66.7百萬股計算
 投 資 結 果 自 行 負 責 。
 
 ---
-## Document 168: 6965中傑 宏遠
+## Document 172: 6965中傑 宏遠
 
 Source PDF: all report pdf/6965中傑 宏遠.pdf
 Report source: line報告備份
@@ -11616,7 +11616,7 @@ Company Report
 員工學歷分佈
 
 ---
-## Document 176: 8069元太 群益
+## Document 180: 8069元太 群益
 
 Source PDF: all report pdf/8069元太 群益.pdf
 Report source: line報告備份
@@ -11735,7 +11735,7 @@ PER= 股價 /2026 (F) EPS ； PBR= 股價 /2026 (F) 年 底 預 估 每 股 淨 
 情形。
 
 ---
-## Document 177: 8487愛爾達 宏遠
+## Document 181: 8487愛爾達 宏遠
 
 Source PDF: all report pdf/8487愛爾達 宏遠.pdf
 Report source: line報告備份
@@ -12362,7 +12362,7 @@ Company Report
 2022 2024 2025
 
 ---
-## Document 223: COMPUTEX TAIPEI 2026評析-CTBC260605
+## Document 216: COMPUTEX TAIPEI 2026評析-CTBC260605
 
 Source PDF: all report pdf/COMPUTEX TAIPEI 2026評析-CTBC260605.pdf
 Report source: line報告備份
@@ -12829,7 +12829,7 @@ Computex相關個股
 營業執照字號：114金管投顧新字第014號
 
 ---
-## Document 444: 凱基投顧_2637 慧洋-KY_賴偉中_20260609
+## Document 416: 凱基投顧_2637 慧洋-KY_賴偉中_20260609
 
 Source PDF: all report pdf/凱基投顧_2637 慧洋-KY_賴偉中_20260609.pdf
 Report source: line報告備份
@@ -13430,7 +13430,7 @@ Jun-25 Aug-25 Oct-25 Dec-25 Feb-26 Apr-26
 資料來源：TEJ，凱基
 
 ---
-## Document 447: 凱基投顧_5274 信驊_劉宇程_20260608
+## Document 419: 凱基投顧_5274 信驊_劉宇程_20260608
 
 Source PDF: all report pdf/凱基投顧_5274 信驊_劉宇程_20260608.pdf
 Report source: line報告備份
@@ -13987,7 +13987,7 @@ Jun-25 Aug-25 Oct-25 Dec-25 Feb-26 Apr-26
 資料來源：TEJ，凱基
 
 ---
-## Document 452: 凱基投顧_Takeaway_6670 復盛應用_劉昃恩_20260604
+## Document 424: 凱基投顧_Takeaway_6670 復盛應用_劉昃恩_20260604
 
 Source PDF: all report pdf/凱基投顧_Takeaway_6670 復盛應用_劉昃恩_20260604.pdf
 Report source: line報告備份
@@ -14083,7 +14083,7 @@ body (但此非機器人最具附加價值部分) 。
 六月 04, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 3
 
 ---
-## Document 457: 凱基投顧_美國衛星產業_張燾_20260611
+## Document 429: 凱基投顧_美國衛星產業_張燾_20260611
 
 Source PDF: all report pdf/凱基投顧_美國衛星產業_張燾_20260611.pdf
 Report source: line報告備份
@@ -15972,7 +15972,7 @@ Launch Service Space System
 免責聲明
 
 ---
-## Document 458: 凱基投顧_美國軟體產業_鄭傑懋_20260604
+## Document 430: 凱基投顧_美國軟體產業_鄭傑懋_20260604
 
 Source PDF: all report pdf/凱基投顧_美國軟體產業_鄭傑懋_20260604.pdf
 Report source: line報告備份
@@ -16986,7 +16986,7 @@ CO2 約當排放量營收比
 免責聲明
 
 ---
-## Document 459: 凱基投顧_美國軟體產業_鄭傑懋_20260611
+## Document 431: 凱基投顧_美國軟體產業_鄭傑懋_20260611
 
 Source PDF: all report pdf/凱基投顧_美國軟體產業_鄭傑懋_20260611.pdf
 Report source: line報告備份
@@ -17589,7 +17589,7 @@ Oracle 台股供應鏈
 免責聲明
 
 ---
-## Document 462: 功率半導體進入結構性上行循環-CTBC260604
+## Document 435: 功率半導體進入結構性上行循環-CTBC260604
 
 Source PDF: all report pdf/功率半導體進入結構性上行循環-CTBC260604.pdf
 Report source: line報告備份
@@ -17839,7 +17839,7 @@ US D$mn 強茂 德微 台半 朋程 富鼎
 2 0 2 6 / 06 /04
 
 ---
-## Document 480: 國巨(2327,B_買進)-CTBC260603
+## Document 456: 國巨(2327,B_買進)-CTBC260603
 
 Source PDF: all report pdf/國巨(2327,B_買進)-CTBC260603.pdf
 Report source: line報告備份
@@ -18200,7 +18200,7 @@ ESG 資訊 -公司治理 (Governance)
 營業執照字號： 114 金管投顧新字第 014 號
 
 ---
-## Document 482: 均華(6640,B_買進)-CTBC260603
+## Document 459: 均華(6640,B_買進)-CTBC260603
 
 Source PDF: all report pdf/均華(6640,B_買進)-CTBC260603.pdf
 Report source: line報告備份
@@ -18484,7 +18484,7 @@ SG 資訊-公司治理(Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 509: 承業醫(4164,N_中立)-CTBC260603
+## Document 488: 承業醫(4164,N_中立)-CTBC260603
 
 Source PDF: all report pdf/承業醫(4164,N_中立)-CTBC260603.pdf
 Report source: line報告備份
@@ -18740,7 +18740,7 @@ ESG 資訊 -公 司 治 理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 522: 昇陽半(8028,B_買進)-CTBC260605
+## Document 500: 昇陽半(8028,B_買進)-CTBC260605
 
 Source PDF: all report pdf/昇陽半(8028,B_買進)-CTBC260605.pdf
 Report source: line報告備份
@@ -19095,7 +19095,7 @@ ESG 資訊 - 公司治理 (Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 524: 景碩(3189,B_買進)-CTBC260604
+## Document 502: 景碩(3189,B_買進)-CTBC260604
 
 Source PDF: all report pdf/景碩(3189,B_買進)-CTBC260604.pdf
 Report source: line報告備份
@@ -19384,7 +19384,7 @@ ESG 資訊 -公司治理 (Governance)
 營業執照字號： 114 金管投顧新字第 014 號
 
 ---
-## Document 529: 月營收評析-晶圓代工產業-CTBC260611
+## Document 507: 月營收評析-晶圓代工產業-CTBC260611
 
 Source PDF: all report pdf/月營收評析-晶圓代工產業-CTBC260611.pdf
 Report source: line報告備份
@@ -19484,7 +19484,7 @@ Foundry 發展腳步亦不停歇， 如進展順利，將 有利 挹注 中長�
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 567: 第一金(2892,OW_增加持股)-CTBC260603
+## Document 540: 第一金(2892,OW_增加持股)-CTBC260603
 
 Source PDF: all report pdf/第一金(2892,OW_增加持股)-CTBC260603.pdf
 Report source: line報告備份
@@ -19760,7 +19760,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 605: 群益-3081-2606聯亞
+## Document 583: 群益-3081-2606聯亞
 
 Source PDF: all report pdf/群益-3081-2606聯亞.pdf
 Report source: line報告備份
@@ -20082,7 +20082,7 @@ YoY(%)
 情形。
 
 ---
-## Document 608: 群益-8103-2604瀚荃
+## Document 586: 群益-8103-2604瀚荃
 
 Source PDF: all report pdf/群益-8103-2604瀚荃.pdf
 Report source: line報告備份
