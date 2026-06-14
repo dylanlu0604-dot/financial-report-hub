@@ -11,6 +11,22 @@ from playwright_stealth import Stealth
 def clean_title(title):
     return title.replace('\n', ' ').strip()
 
+def normalize_pdf_url(url):
+    chrome_pdf_prefix = "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/"
+    if url.startswith(chrome_pdf_prefix):
+        return url[len(chrome_pdf_prefix):]
+    return url
+
+def build_report_name(title, date_str):
+    if date_str != "未知日期":
+        year, month, day = date_str.split("-")
+        return f"{year}年{int(month)}月{int(day)}日國泰世華投資研究週報"
+
+    cleaned = clean_title(title)
+    if cleaned in ("投資研究週報.pdf", "投資研究週報"):
+        return "國泰世華投資研究週報"
+    return cleaned
+
 def extract_date_from_text(text):
     """嘗試從字串中萃取多種格式的日期"""
     # 1. 處理 YYYY年MM月DD日 (容許單數月/日)
@@ -81,7 +97,7 @@ def scrape():
                     if "投資研究週報" not in title and "投資研究週報" not in unquote(href):
                         continue
                         
-                    full_url = urljoin(base_url, href)
+                    full_url = normalize_pdf_url(urljoin(base_url, href))
                     if full_url in seen_pdfs:
                         continue
                         
@@ -104,7 +120,7 @@ def scrape():
                     reports.append({
                         "Source": "Cathay",
                         "Date": date_str,
-                        "Name": clean_title(title),
+                        "Name": build_report_name(title, date_str),
                         "Link": full_url
                     })
                     seen_pdfs.add(full_url)
