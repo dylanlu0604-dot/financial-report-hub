@@ -117,8 +117,8 @@ def scrape():
 
             print("  🌐 載入 Archive 首頁...")
             try:
-                page.goto(target_url, wait_until="networkidle", timeout=60000)
-                page.wait_for_timeout(3000)
+                page.goto(target_url, wait_until="domcontentloaded", timeout=60000)
+                page.wait_for_timeout(5000)
             except Exception as e:
                 print(f"    ⚠️ 首頁載入: {str(e)[:50]}")
 
@@ -257,7 +257,7 @@ def scrape():
                         except Exception as e:
                             print(f"    ❌ 第 {page_num} 頁: {e}")
                 else:
-                    print("  ❌ 自行組裝失敗，只能用 SSR 首批資料")
+                    print("  ⚠️ 自行組裝 API 失敗，改用 SSR 首批資料")
 
             # ==========================================
             # 解析所有 hits

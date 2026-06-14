@@ -38,6 +38,12 @@ def clean_title(title):
 def sanitize_filename(filename):
     return re.sub(r'[\\/*?:"<>|]', "", filename)
 
+def abort_heavy_assets(route):
+    if route.request.resource_type in ("image", "media", "font"):
+        route.abort()
+    else:
+        route.continue_()
+
 # ==========================================
 # 🕷️ 主爬蟲程式
 # ==========================================
@@ -67,9 +73,10 @@ def scrape():
             
             page = context.new_page()
             Stealth().apply_stealth_sync(page)
+            page.route("**/*", abort_heavy_assets)
             
             print(f"  🌐 正在載入文章列表...")
-            page.goto(list_url, wait_until="networkidle", timeout=60000)
+            page.goto(list_url, wait_until="domcontentloaded", timeout=60000)
             page.wait_for_timeout(3000) 
             
             html_content = page.content()
@@ -87,7 +94,7 @@ def scrape():
             
             for article_url in article_links[:15]: 
                 try:
-                    page.goto(article_url, wait_until="networkidle", timeout=30000)
+                    page.goto(article_url, wait_until="domcontentloaded", timeout=30000)
                     page.wait_for_timeout(2000) 
                     
                     inner_html = page.content()
@@ -148,30 +155,33 @@ def scrape():
                         
                     # 🌟 終極保險
                     if not title or len(clean_title(title)) < 3:
-                        title = f"Allianz Trade Report {date_str}"
+                        title = f"Allianz Trade Report {date_text}"
                     
                     seen_pdfs.add(pdf_link)
                     clean_t = clean_title(title)
                     
-                    # 🌟 觸發原生下載
-                    print(f"    📥 成功鎖定按鈕，正在用瀏覽器原生下載 PDF...")
+                    # 🌟 觸發原生下載；若瀏覽器下載事件沒有觸發，再用 request 直接抓。
+                    print(f"    📥 成功鎖定 PDF，正在下載...")
                     try:
-                        with page.expect_download(timeout=30000) as download_info:
-                            page.evaluate(f"""
-                                () => {{
-                                    const a = document.createElement('a');
-                                    a.href = '{pdf_link}';
-                                    a.download = 'report.pdf';
-                                    document.body.appendChild(a);
-                                    a.click();
-                                }}
-                            """)
-                        
-                        download = download_info.value
                         safe_name = sanitize_filename(f"Allianz_{date_text}_{clean_t}")
                         local_path = os.path.join(temp_dir, f"{safe_name}.pdf")
-                        
-                        download.save_as(local_path)
+                        try:
+                            with page.expect_download(timeout=15000) as download_info:
+                                page.evaluate(f"""
+                                    () => {{
+                                        const a = document.createElement('a');
+                                        a.href = '{pdf_link}';
+                                        a.download = 'report.pdf';
+                                        document.body.appendChild(a);
+                                        a.click();
+                                    }}
+                                """)
+                            download = download_info.value
+                            download.save_as(local_path)
+                        except Exception:
+                            pdf_resp = context.request.get(pdf_link, headers={"Referer": article_url})
+                            with open(local_path, "wb") as f:
+                                f.write(pdf_resp.body())
                         
                         is_valid_pdf = False
                         with open(local_path, "rb") as f:

@@ -32,6 +32,35 @@ def strip_leading_month(text):
         flags=re.IGNORECASE
     ).strip()
 
+def parse_article_date(soup):
+    meta_selectors = [
+        ("meta", {"property": "article:published_time"}),
+        ("meta", {"name": "date"}),
+        ("meta", {"name": "publishdate"}),
+        ("meta", {"name": "pubdate"}),
+    ]
+    for tag_name, attrs in meta_selectors:
+        tag = soup.find(tag_name, attrs=attrs)
+        if tag and tag.get("content"):
+            parsed = parse_month_date(tag["content"])
+            if parsed:
+                return parsed
+
+    time_tag = soup.find("time")
+    if time_tag:
+        parsed = parse_month_date(time_tag.get("datetime") or time_tag.get_text(" ", strip=True))
+        if parsed:
+            return parsed
+
+    for selector in [".date", ".publish-date", ".article-date", ".cmp-contentfragment__element-value"]:
+        node = soup.select_one(selector)
+        if node:
+            parsed = parse_month_date(node.get_text(" ", strip=True))
+            if parsed:
+                return parsed
+
+    return parse_month_date(soup.get_text(" ", strip=True))
+
 def scrape():
     print("🔍 正在爬取 Bank of America (美國銀行) - 🎯 年月精準解析與名額限制模式...")
     reports = []
@@ -113,7 +142,7 @@ def scrape():
                     
                     article_soup = BeautifulSoup(page.content(), 'html.parser')
                     if not report_date:
-                        report_date = parse_month_date(article_soup.get_text(" ", strip=True)) or "未知日期"
+                        report_date = parse_article_date(article_soup) or "未知日期"
                     
                     pdf_href = None
                     

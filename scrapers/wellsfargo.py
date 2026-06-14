@@ -1,6 +1,8 @@
 import os
 import re
 import urllib.parse
+import requests
+from email.utils import parsedate_to_datetime
 from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright
 from playwright_stealth import Stealth
@@ -40,6 +42,57 @@ def extract_date_from_text(text):
         
     return "未知日期"
 
+def abort_heavy_assets(route):
+    if route.request.resource_type in ("image", "media", "font"):
+        route.abort()
+    else:
+        route.continue_()
+
+def parse_bluematrix_report(url):
+    try:
+        resp = requests.get(
+            url,
+            headers={
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+                "Accept": "text/html,application/xhtml+xml",
+            },
+            timeout=20,
+        )
+        if resp.status_code != 200:
+            return None
+
+        soup = BeautifulSoup(resp.text, 'html.parser')
+        date_tag = soup.select_one(".document-info .date")
+        topic_tag = soup.select_one(".document-info .topic")
+        title_tag = soup.select_one(".document-info .document-title")
+        pdf_tag = soup.select_one("#pdf-link a[href*='mime=pdf'], a[href*='mime=pdf']")
+
+        date_str = parse_english_date(date_tag.get_text(" ", strip=True)) if date_tag else "未知日期"
+        if date_str == "未知日期":
+            last_modified = resp.headers.get("Last-Modified")
+            if last_modified:
+                try:
+                    date_str = parsedate_to_datetime(last_modified).strftime("%Y-%m-%d")
+                except Exception:
+                    pass
+        topic = clean_title(topic_tag.get_text(" ", strip=True)) if topic_tag else ""
+        title = clean_title(title_tag.get_text(" ", strip=True)) if title_tag else ""
+        name = " - ".join(part for part in [topic, title] if part) or clean_title(soup.title.get_text(" ", strip=True) if soup.title else "")
+        pdf_url = urllib.parse.urljoin(url, pdf_tag["href"]) if pdf_tag else url
+
+        if not name:
+            return None
+
+        return {
+            "Source": "Wells Fargo (Economics)",
+            "Date": date_str,
+            "Name": name,
+            "Link": pdf_url,
+            "Type": "PDF" if "mime=pdf" in pdf_url.lower() else "HTML",
+        }
+    except Exception:
+        return None
+
 # ==========================================
 # 🕷️ 主爬蟲程式
 # ==========================================
@@ -49,12 +102,7 @@ def scrape():
     seen_links = set()
     base_url = "https://www.wellsfargo.com"
     target_urls = [
-        "https://www.wellsfargo.com/cib/insights/economics/weekly-commentary/",
-        "https://www.wellsfargo.com/cib/insights/economics/special-reports/",
-        "https://www.wellsfargo.com/cib/insights/economics/us-outlook/",
-        "https://www.wellsfargo.com/cib/insights/economics/indicators/",
-        "https://www.wellsfargo.com/cib/insights/economics/international-outlook/",
-        "https://www.wellsfargo.com/cib/insights/economics/international-reports/"
+        "https://www.wellsfargo.com/cib/insights/economics/",
     ]
     
     try:
@@ -65,10 +113,17 @@ def scrape():
             )
             context = browser.new_context(
                 user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
-                viewport={'width': 1920, 'height': 1080}
+                viewport={'width': 1920, 'height': 1080},
+                locale="en-US",
+                timezone_id="America/New_York",
+                extra_http_headers={
+                    "Accept-Language": "en-US,en;q=0.9",
+                    "Upgrade-Insecure-Requests": "1",
+                }
             )
             page = context.new_page()
             Stealth().apply_stealth_sync(page)
+            page.route("**/*", abort_heavy_assets)
             
             for url in target_urls:
                 category = url.strip('/').split('/')[-1].replace('-', ' ').title()
@@ -84,6 +139,11 @@ def scrape():
                     print(f"  ⚠️ {category} 載入發生超時: {e}")
                 
                 html_content = page.content()
+                lowered_html = html_content.lower()
+                if "request rejected" in lowered_html or "the transaction failed" in lowered_html:
+                    print(f"    ⚠️ 官方站拒絕此分類的自動化請求，略過: {category}")
+                    continue
+
                 soup = BeautifulSoup(html_content, 'html.parser')
                 all_links = soup.find_all('a', href=True)
                 
@@ -115,7 +175,11 @@ def scrape():
                     date_str = extract_date_from_text(parent_text)
                     
                     # 🌟 寬鬆判定：只要有日期，或是網址包含 insights，就收錄！
-                    if date_str != "未知日期" or '/insights/' in clean_full_url.lower():
+                    if (
+                        date_str != "未知日期"
+                        or '/insights/' in clean_full_url.lower()
+                        or 'wellsfargo.bluematrix.com/docs/html/' in clean_full_url.lower()
+                    ):
                         potential_articles.append((a, clean_full_url, date_str))
                         seen_links.add(clean_full_url)
                 
@@ -128,6 +192,14 @@ def scrape():
                 
                 for a, full_url, date_str in potential_articles[:15]: 
                     try:
+                        if "wellsfargo.bluematrix.com/docs/html/" in full_url.lower():
+                            report = parse_bluematrix_report(full_url)
+                            if report and report["Link"] not in seen_links:
+                                seen_links.add(report["Link"])
+                                reports.append(report)
+                                print(f"    📄 [BlueMatrix PDF] 收錄: [{report['Date']}] {report['Name'][:40]}...")
+                            continue
+
                         title = clean_title(a.get_text())
                         
                         if not title or len(title) < 5 or title.lower() in ['read more', 'download', 'learn more']:

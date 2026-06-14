@@ -3,8 +3,7 @@ import re
 import urllib.parse
 from playwright.sync_api import sync_playwright
 from playwright_stealth import Stealth
-from datetime import datetime
-from datetime import datetime
+from datetime import datetime, timedelta
 
 # ⚙️ 與 main.py 保持一致
 GITHUB_USER = "dylanlu0604-dot"
@@ -21,6 +20,19 @@ def convert_vn_date(date_text):
         d, m, y = int(match.group(1)), int(match.group(2)), int(match.group(3))
         return f"{y}-{m:02d}-{d:02d}"
     return datetime.now().strftime("%Y-%m-%d")
+
+def is_recent_date(date_text, days=35):
+    try:
+        report_date = datetime.strptime(date_text, "%Y-%m-%d")
+        return report_date >= datetime.now() - timedelta(days=days)
+    except Exception:
+        return True
+
+def abort_heavy_assets(route):
+    if route.request.resource_type in ("image", "media", "font"):
+        route.abort()
+    else:
+        route.continue_()
 
 # ==========================================
 # 🕷️ 主爬蟲程式
@@ -49,25 +61,33 @@ def scrape():
             )
             page = context.new_page()
             Stealth().apply_stealth_sync(page)
+            page.route("**/*", abort_heavy_assets)
+            page.set_default_timeout(20000)
+            page.set_default_navigation_timeout(25000)
             
             for cat in target_categories:
                 print(f"  🌐 分類掃描: {cat['name']}...")
                 
                 success_load = False
                 # 🌟 修正 1：失敗重試機制 (最多試 3 次)
-                for attempt in range(3):
+                for attempt in range(2):
                     try:
                         # 降低等待門檻，只要 domcontentloaded 即可
-                        page.goto(cat['url'], wait_until="domcontentloaded", timeout=40000)
-                        page.wait_for_timeout(3000) # 給予緩衝時間讓 JS 渲染
+                        page.goto(cat['url'], wait_until="commit", timeout=25000)
+                        page.wait_for_load_state("domcontentloaded", timeout=10000)
+                        page.wait_for_timeout(2500) # 給予緩衝時間讓 JS 渲染
                         
                         # 檢查關鍵容器是否存在
-                        if page.locator(".itemNews").count() > 0 or page.locator(".item").count() > 0:
+                        if (
+                            page.locator(".itemNews").count() > 0
+                            or page.locator(".item").count() > 0
+                            or page.locator("a[href$='.pdf']").count() > 0
+                        ):
                             success_load = True
                             break
                         else:
                             print(f"    ⚠️ 第 {attempt+1} 次嘗試：頁面內容未完全加載，正在重試...")
-                            page.reload()
+                            page.reload(wait_until="domcontentloaded", timeout=15000)
                     except Exception as e:
                         print(f"    ⚠️ 第 {attempt+1} 次嘗試失敗: {str(e)[:50]}")
                         page.wait_for_timeout(2000)
@@ -81,11 +101,11 @@ def scrape():
                     () => {
                         let results = [];
                         // 針對 KBSV 結構進行優化
-                        let items = document.querySelectorAll('.itemNews .item, .list-news .item');
+                        let items = document.querySelectorAll('.itemNews .item, .list-news .item, .itemNews, .news-item, li');
                         items.forEach(item => {
-                            let titleEl = item.querySelector('h3 a, .name a');
+                            let titleEl = item.querySelector('h3 a, .name a, a[href*=".htm"], a[href$=".pdf"]');
                             let dateEl = item.querySelector('.date, .time, .thongKe');
-                            let downloadBtn = item.querySelector('a.more, a[href$=".pdf"]');
+                            let downloadBtn = item.querySelector('a.more, a[href$=".pdf"], a[href*=".pdf?"]');
                             
                             let url = downloadBtn ? downloadBtn.href : (titleEl ? titleEl.href : "");
                             
@@ -110,6 +130,10 @@ def scrape():
                     seen_pdfs.add(pdf_url)
                     
                     final_date = convert_vn_date(data['date_text'])
+                    if not is_recent_date(final_date):
+                        print(f"    ↩️ 跳過舊報告: {data['title'][:20]}... ({final_date})")
+                        continue
+
                     raw_title = data['title']
                     safe_title = re.sub(r'[\\/*?:"<>|]', "_", f"{raw_title} ({final_date})").strip()
                     save_path = os.path.join(download_path, f"{safe_title}.pdf")
@@ -118,7 +142,7 @@ def scrape():
                     
                     try:
                         # 帶上來源 Referer，這是避開防爬蟲的關鍵
-                        response = context.request.get(pdf_url, headers={"Referer": cat['url']})
+                        response = context.request.get(pdf_url, headers={"Referer": cat['url']}, timeout=20000)
                         if response.status == 200 and b'%PDF' in response.body()[:10]:
                             with open(save_path, "wb") as f:
                                 f.write(response.body())
