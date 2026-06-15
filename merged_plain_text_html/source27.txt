@@ -9191,7 +9191,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 142: 3443創意 群益
+## Document 141: 3443創意 群益
 
 Source PDF: all report pdf/3443創意 群益.pdf
 Report source: line報告備份
@@ -9439,7 +9439,7 @@ YoY(%)
 情形。
 
 ---
-## Document 145: 3665貿聯 永豐
+## Document 144: 3665貿聯 永豐
 
 Source PDF: all report pdf/3665貿聯 永豐.pdf
 Report source: line報告備份
@@ -10611,7 +10611,7 @@ S：Sell 賣出：未來 6 個月該股票表現將落後大盤
 9
 
 ---
-## Document 208: Chailease Holdings(5871TW) GS 260609
+## Document 212: Chailease Holdings(5871TW) GS 260609
 
 Source PDF: all report pdf/Chailease Holdings(5871TW) GS 260609.pdf
 Report source: line報告備份
@@ -10622,7 +10622,7 @@ Extraction status: ok
 [No extractable text after boilerplate filtering.]
 
 ---
-## Document 278: SA_Powered_Down,_Lights_Off_800VDC_Pushout_and_CPO_Delays1
+## Document 293: SA_Powered_Down,_Lights_Off_800VDC_Pushout_and_CPO_Delays1
 
 Source PDF: all report pdf/SA_Powered_Down,_Lights_Off_800VDC_Pushout_and_CPO_Delays1.pdf
 Report source: line報告備份
@@ -10633,7 +10633,7 @@ Extraction status: ok
 [No extractable text after boilerplate filtering.]
 
 ---
-## Document 323: 【國泰證期研究部】2H26電源產業展望-高耗電時代，電源配套升級-20260608
+## Document 340: 【國泰證期研究部】2H26電源產業展望-高耗電時代，電源配套升級-20260608
 
 Source PDF: all report pdf/【國泰證期研究部】2H26電源產業展望-高耗電時代，電源配套升級-20260608.pdf
 Report source: line報告備份
@@ -10835,7 +10835,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 327: 【國泰證期研究部】弘塑 (3131 TT)-買進(+20.1%)-先進封裝升級推動成長-20260610
+## Document 344: 【國泰證期研究部】弘塑 (3131 TT)-買進(+20.1%)-先進封裝升級推動成長-20260610
 
 Source PDF: all report pdf/【國泰證期研究部】弘塑 (3131 TT)-買進(+20.1%)-先進封裝升級推動成長-20260610.pdf
 Report source: line報告備份
@@ -11265,7 +11265,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 328: 【國泰證期研究部】第一金 (2892 TT)-買進(+17.2%)-恆常收益推升獲利預期-20260603
+## Document 345: 【國泰證期研究部】第一金 (2892 TT)-買進(+17.2%)-恆常收益推升獲利預期-20260603
 
 Source PDF: all report pdf/【國泰證期研究部】第一金 (2892 TT)-買進(+17.2%)-恆常收益推升獲利預期-20260603.pdf
 Report source: line報告備份
@@ -11687,7 +11687,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 329: 【國泰證期研究部】聯電(2303 TT)-買進(+28.3%)-稼動回升，漸入佳境-20260611
+## Document 346: 【國泰證期研究部】聯電(2303 TT)-買進(+28.3%)-稼動回升，漸入佳境-20260611
 
 Source PDF: all report pdf/【國泰證期研究部】聯電(2303 TT)-買進(+28.3%)-稼動回升，漸入佳境-20260611.pdf
 Report source: line報告備份
@@ -12138,7 +12138,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 330: 【國泰證期研究部】鈺齊-KY (9802 TT)-買進(+26.6%)-產能、訂單齊增 2H營運跳升-20260612
+## Document 347: 【國泰證期研究部】鈺齊-KY (9802 TT)-買進(+26.6%)-產能、訂單齊增 2H營運跳升-20260612
 
 Source PDF: all report pdf/【國泰證期研究部】鈺齊-KY (9802 TT)-買進(+26.6%)-產能、訂單齊增 2H營運跳升-20260612.pdf
 Report source: line報告備份
@@ -12406,7 +12406,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 408: 元大-2059-川湖-20260608
+## Document 424: 元大-2059-川湖-20260608
 
 Source PDF: all report pdf/元大-2059-川湖-20260608.pdf
 Report source: line報告備份
@@ -13054,7 +13054,7 @@ ESG 總分 21.4
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 420: 凱基投顧_RKLB Rocket Lab_張燾_20260611
+## Document 434: 凱基投顧_RKLB Rocket Lab_張燾_20260611
 
 Source PDF: all report pdf/凱基投顧_RKLB Rocket Lab_張燾_20260611.pdf
 Report source: line報告備份
@@ -13494,7 +13494,7 @@ Launch Service Space System
 免責聲明
 
 ---
-## Document 422: 凱基投顧_Takeaway_4726 永昕_陳宣甫_20260609
+## Document 436: 凱基投顧_Takeaway_4726 永昕_陳宣甫_20260609
 
 Source PDF: all report pdf/凱基投顧_Takeaway_4726 永昕_陳宣甫_20260609.pdf
 Report source: line報告備份
@@ -13713,7 +13713,7 @@ ADC 相關製造需採負壓設計，讓空氣往內流，避免有毒物質外
 六月 09, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 5
 
 ---
-## Document 428: 凱基投顧_ULTA Ulta Beauty_莊政翰_20260603
+## Document 442: 凱基投顧_ULTA Ulta Beauty_莊政翰_20260603
 
 Source PDF: all report pdf/凱基投顧_ULTA Ulta Beauty_莊政翰_20260603.pdf
 Report source: line報告備份
@@ -14295,7 +14295,7 @@ Jun-23 Dec-23 Jun-24 Dec-24 Jun-25 Dec-25 Jun-26
  泰國   曼谷
 
 ---
-## Document 462: 堡達(3537,Note)-CTBC260608
+## Document 475: 堡達(3537,Note)-CTBC260608
 
 Source PDF: all report pdf/堡達(3537,Note)-CTBC260608.pdf
 Report source: line報告備份
@@ -14514,7 +14514,7 @@ ESG 資訊-公司治理(Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 509: 月營收評析-記憶體產業-CTBC260610
+## Document 519: 月營收評析-記憶體產業-CTBC260610
 
 Source PDF: all report pdf/月營收評析-記憶體產業-CTBC260610.pdf
 Report source: line報告備份
@@ -14631,7 +14631,7 @@ YoY+ 210.4 %)， 連續3 個月刷新歷史紀錄 ， 累計 1~5 月 496.10 億�
 2 0 2 6 / 06 /1 0
 
 ---
-## Document 530: 漢唐(2404,UG,B_調升評等,買進)-CTBC260612
+## Document 536: 漢唐(2404,UG,B_調升評等,買進)-CTBC260612
 
 Source PDF: all report pdf/漢唐(2404,UG,B_調升評等,買進)-CTBC260612.pdf
 Report source: line報告備份
@@ -14949,7 +14949,7 @@ ESG 資訊 ─公司治理 (Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 582: 群益-3022-2602威強電
+## Document 585: 群益-3022-2602威強電
 
 Source PDF: all report pdf/群益-3022-2602威強電.pdf
 Report source: line報告備份
@@ -15177,7 +15177,7 @@ YoY(%)
 情形。
 
 ---
-## Document 585: 群益-7734-2603印能科技
+## Document 588: 群益-7734-2603印能科技
 
 Source PDF: all report pdf/群益-7734-2603印能科技.pdf
 Report source: line報告備份
