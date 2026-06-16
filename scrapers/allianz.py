@@ -44,6 +44,14 @@ def abort_heavy_assets(route):
     else:
         route.continue_()
 
+def is_cloudflare_challenge(html):
+    lowered = (html or "").lower()
+    return (
+        "cf_chl" in lowered
+        or "challenge-platform" in lowered
+        or ("just a moment" in lowered and "cloudflare" in lowered)
+    )
+
 # ==========================================
 # 🕷️ 主爬蟲程式
 # ==========================================
@@ -80,12 +88,22 @@ def scrape():
             page.wait_for_timeout(3000) 
             
             html_content = page.content()
+            if is_cloudflare_challenge(html_content):
+                print("  ⚠️ Allianz Trade 被 Cloudflare challenge 擋下，本輪略過以避免誤判為 0 篇文章。")
+                browser.close()
+                return reports
+
             soup = BeautifulSoup(html_content, 'html.parser')
             
             article_links = []
             for a in soup.find_all('a', href=True):
                 href = a['href']
-                if '/news-insights/economic-insights/' in href and href.endswith('.html'):
+                href_without_suffix = href.split('#', 1)[0].split('?', 1)[0]
+                if (
+                    '/news-insights/' in href
+                    and 'economic' in href.lower()
+                    and href_without_suffix.endswith('.html')
+                ):
                     full_url = urljoin(base_url, href)
                     if full_url != list_url and full_url not in article_links:
                         article_links.append(full_url)
