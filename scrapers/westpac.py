@@ -196,11 +196,11 @@ def scrape():
                         reports.append({"Source": "Westpac IQ", "Date": date_str, "Name": title, "Link": inner_pdf_url, "Type": "PDF"})
                         print(f"    🕵️ [內頁 PDF] 成功挖出實體: {title[:40]}...")
                     else:
-                        reports.append({"Source": "Westpac IQ", "Date": date_str, "Name": title, "Link": url})
+                        reports.append({"Source": "Westpac IQ", "Date": date_str, "Name": title, "Link": url, "Type": "Web"})
                         print(f"    🌐 [純網頁轉印] 收錄: {title[:40]}...")
                     
                 except Exception as inner_e:
-                    reports.append({"Source": "Westpac IQ", "Date": date_str, "Name": title, "Link": url})
+                    reports.append({"Source": "Westpac IQ", "Date": date_str, "Name": title, "Link": url, "Type": "Web"})
                     print(f"    🌐 [純網頁轉印] (內頁解析超時): {title[:40]}...")
                     
             browser.close()
