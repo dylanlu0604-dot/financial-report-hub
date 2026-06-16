@@ -71,7 +71,12 @@ def cleanup_old_pdfs(pdf_folder, current_reports, previous_reports):
     cutoff_date = (datetime.now() - timedelta(days=PDF_RETENTION_DAYS)).date()
     keep_paths = set()
 
-    for report in [*previous_reports, *current_reports]:
+    # current_reports 是本輪實際要保留的清單（含 CBC 等長保留來源），永遠保留它們指向的檔案
+    for report in current_reports:
+        keep_paths.add(os.path.abspath(report_pdf_path(report, pdf_folder)))
+
+    # previous_reports 才套 30 天硬切，避免歷史堆積
+    for report in previous_reports:
         report_date = parse_report_datetime(report.get('Date'))
         if report_date and report_date.date() < cutoff_date:
             continue
@@ -119,7 +124,7 @@ def main():
         if module_name == "utils": continue
         
         # 💡 ‼️‼️‼️‼️如果您想測試特定爬蟲，可以把下面兩行解除註解並填入名稱。target。篩選。
-        #if module_name not in ["line_reports"]: continue 
+        #if module_name not in ["sk_pdfs","mizuho"]: continue 
             
         try:
             module = importlib.import_module(f"scrapers.{module_name}")
@@ -178,12 +183,19 @@ def main():
     try:
         for i, report in enumerate(unique_reports, 1):
             original_url = report.get('Link', '')
-            report['PageCount'] = "未知" 
-            
-            is_web_article = report.get('Type') == 'Web' or not ('.pdf' in original_url.lower() or 'download' in original_url.lower() or 'downpdf' in original_url.lower())
+            report['PageCount'] = report.get('PageCount', "未知")
 
-            local_filename = safe_pdf_filename(report.get('Name', 'Unknown'))
-            local_filepath = os.path.join(pdf_folder, local_filename)
+            report_type = str(report.get('Type', '')).lower()
+            looks_like_pdf_url = any(token in original_url.lower() for token in ['.pdf', 'download', 'downpdf'])
+            is_web_article = report_type in ('web', 'html') or (report_type != 'pdf' and not looks_like_pdf_url)
+
+            existing_local_path = report.get('LocalPath')
+            if existing_local_path:
+                local_filepath = existing_local_path
+                local_filename = os.path.basename(local_filepath)
+            else:
+                local_filename = safe_pdf_filename(report.get('Name', 'Unknown'))
+                local_filepath = os.path.join(pdf_folder, local_filename)
             encoded_filename = urllib.parse.quote(local_filename)
             
             report['OriginalLink'] = original_url
