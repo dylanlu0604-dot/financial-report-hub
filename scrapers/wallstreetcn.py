@@ -1,128 +1,161 @@
+import email.utils
 import time
-import re
-import json
+import xml.etree.ElementTree as ET
+from datetime import datetime
+
 import requests
 from bs4 import BeautifulSoup
-from urllib.parse import urljoin
+
 from scrapers.utils import HEADERS
 
-# ==========================================
-# 🕷️ 主爬蟲程式：華爾街見聞 (Global) - 終極 JSON 解析版
-# ==========================================
-def scrape():
-    print("🔍 正在爬取 華爾街見聞 (Global) - 🚀 啟動 JSON 底層資料庫直擊模式...")
-    reports = []
-    
+RSS_URL = "https://feed.wallstreetcn.com/wallstreetcn/news/global"
+API_URL = "https://api-one-wscn.awtmt.com/apiv1/content/information-flow"
+MAX_REPORTS = 100
+MAX_API_PAGES = 6
+API_PAGE_LIMIT = 20
+API_HEADERS = {
+    **HEADERS,
+    "X-Ivanka-App": "wscn|web|0.40.40|0.0|0",
+}
+
+
+def parse_rss_date(pub_date):
     try:
-        from playwright.sync_api import sync_playwright
-    except ImportError:
-        print("  ❌ 尚未安裝 Playwright，請確認 requirements.txt")
-        return reports
+        parsed = email.utils.parsedate_to_datetime(pub_date)
+        return parsed.strftime("%Y-%m-%d")
+    except Exception:
+        return time.strftime("%Y-%m-%d")
 
-    with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True)
-        context = browser.new_context(
-            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
-            viewport={'width': 1920, 'height': 1080}
-        )
-        page = context.new_page()
-        
-        try:
-            # 1. 抓取清單頁：一樣用滾動的方式獲取大量連結
-            page.goto("https://wallstreetcn.com/news/global", wait_until="networkidle", timeout=30000)
-            print("  [動作] 網頁載入完成，開始執行深度向下滾動 (預計耗時 35 秒)...")
-            for i in range(2):
-                page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
-                page.wait_for_timeout(2000)
-            html_content = page.content()
-        except Exception as e:
-            print(f"  ❌ 華爾街見聞清單頁載入失敗: {e}")
-            html_content = ""
-        finally:
-            browser.close()
 
-    if not html_content:
-        return reports
+def description_text(description_html):
+    return BeautifulSoup(description_html or "", "html.parser").get_text(" ", strip=True)
 
-    soup = BeautifulSoup(html_content, 'html.parser')
-    links = soup.find_all('a', href=re.compile(r'/articles/\d+'))
-    seen_urls = set()
-    
-    print(f"  [掃描] 成功掃描到 {len(links)} 個潛在文章連結，啟動 JSON 深度解析...")
-    
-    for a in links:
-        if len(reports) >= 70: 
-            break
-            
-        url = urljoin("https://wallstreetcn.com", a['href'])
-        
-        if url in seen_urls:
-            continue
-        seen_urls.add(url)
-        
-        title = a.get_text(strip=True)
-        if not title or len(title) < 5:
-            continue
 
-        # ==========================================
-        # 🌟 終極殺手鐧：直接抓取網頁原始碼，挖出 JSON 資料庫
-        # ==========================================
-        try:
-            # 使用 requests 快速取得原始碼 (不渲染)
-            res = requests.get(url, headers=HEADERS, timeout=5)
-            if res.status_code == 200:
-                # 在原始碼中尋找那包隱藏的 INITIAL_STATE
-                match = re.search(r'window\.INITIAL_STATE\s*=\s*({.*?});</script>', res.text, re.DOTALL)
-                
-                if match:
-                    json_str = match.group(1)
-                    # 把網頁底層的資料庫轉成 Python 字典
-                    data = json.loads(json_str)
-                    
-                    # 嘗試從錯綜複雜的 JSON 結構中，把 "content" (文章純文字) 挖出來
-                    # 華爾街見聞的結構通常在：data -> articles -> (文章ID) -> content
-                    content_text = ""
-                    try:
-                        # 暴力搜尋 JSON 裡面的 content 欄位
-                        match_content = re.search(r'"content":"(.*?)"', json_str)
-                        if match_content:
-                            # 這是 HTML 格式的字串，我們把它清乾淨只留文字
-                            raw_html = match_content.group(1).replace('\\"', '"').replace('\\n', '')
-                            clean_text = BeautifulSoup(raw_html, "html.parser").get_text(strip=True)
-                            article_length = len(clean_text)
-                            
-                            if article_length < 200:
-                                print(f"    ⚠️ 剔除快訊: 字數僅 {article_length} 字 ({title[:15]}...)")
-                                continue
-                            else:
-                                pass # 字數夠多，過關！
-                        else:
-                             # 如果找不到 content，可能被混淆了，預設放行避免誤殺
-                             pass 
-                    except Exception as json_e:
-                        pass # JSON 解析失敗，預設放行
-                else:
-                    # 如果連 INITIAL_STATE 都找不到，可能是遇到付費牆或特殊版面，預設放行
-                    pass 
-            else:
+def parse_api_date(display_time):
+    try:
+        return datetime.fromtimestamp(int(display_time)).strftime("%Y-%m-%d")
+    except Exception:
+        return time.strftime("%Y-%m-%d")
+
+
+def is_public_article_link(link):
+    return bool(link) and "/articles/" in link and "/member/" not in link
+
+
+def scrape_api_reports():
+    reports = []
+    seen_links = set()
+    cursor = ""
+
+    for page_no in range(1, MAX_API_PAGES + 1):
+        params = {
+            "channel": "global",
+            "accept": "article",
+            "cursor": cursor,
+            "limit": API_PAGE_LIMIT,
+            "action": "upglide",
+        }
+        response = requests.get(API_URL, params=params, headers=API_HEADERS, timeout=30)
+        response.raise_for_status()
+        payload = response.json()
+        data = payload.get("data") or {}
+        items = data.get("items") or []
+        print(f"  [API] 第 {page_no} 頁讀取 {len(items)} 筆")
+
+        for item in items:
+            if len(reports) >= MAX_REPORTS:
+                break
+
+            if item.get("resource_type") != "article":
                 continue
-                
-        except Exception as e:
-            print(f"    ❌ 檢查內頁失敗，略過: {url}")
+
+            resource = item.get("resource") or {}
+            title = (resource.get("title") or "").strip()
+            link = (resource.get("uri") or "").strip()
+            short_text = (resource.get("content_short") or resource.get("subtitle") or "").strip()
+
+            if not title or link in seen_links or not is_public_article_link(link):
+                continue
+            if len(short_text) < 20:
+                print(f"    ⚠️ 剔除摘要過短項目: {title[:20]}...")
+                continue
+
+            seen_links.add(link)
+            reports.append({
+                "Source": "WallstreetCN (Global)",
+                "Date": parse_api_date(resource.get("display_time")),
+                "Name": title,
+                "Link": link,
+                "Type": "Web",
+            })
+
+        if len(reports) >= MAX_REPORTS:
+            break
+
+        cursor = data.get("next_cursor") or ""
+        if not cursor:
+            break
+
+    return reports
+
+
+def scrape_rss_reports():
+    reports = []
+    seen_links = set()
+    try:
+        response = requests.get(RSS_URL, headers=HEADERS, timeout=30)
+        response.raise_for_status()
+        root = ET.fromstring(response.content)
+    except Exception as e:
+        print(f"  ❌ 華爾街見聞 RSS 載入失敗: {e}")
+        return reports
+
+    items = root.findall("./channel/item")
+    print(f"  [RSS] 成功讀取 {len(items)} 筆最新項目，開始篩選長文...")
+
+    for item in items:
+        if len(reports) >= MAX_REPORTS:
+            break
+
+        title = (item.findtext("title") or "").strip()
+        link = (item.findtext("link") or "").strip()
+        pub_date = item.findtext("pubDate") or ""
+        text = description_text(item.findtext("description") or "")
+
+        if not title or not link or link in seen_links:
+            continue
+        seen_links.add(link)
+
+        # 跳過快訊、圖表與會員牆頁面；保留可轉印的公開長文。
+        if not is_public_article_link(link) or len(text) < 200:
+            print(f"    ⚠️ 剔除非長文或受限內容: {title[:20]}...")
             continue
 
-        # 正式收錄！
         reports.append({
             "Source": "WallstreetCN (Global)",
-            "Date": time.strftime("%Y-%m-%d"), 
+            "Date": parse_rss_date(pub_date),
             "Name": title,
-            "Link": url,
-            "Type": "Web" 
+            "Link": link,
+            "Type": "Web",
         })
-        time.sleep(0.2)
 
-    print(f"  ✅ 華爾街見聞 最終成功收錄 {len(reports)} 篇【深度長文報導】！")
     return reports
+
+
+def scrape():
+    print("🔍 正在爬取 華爾街見聞 (Global) - 🚀 啟動 API 分頁 + RSS 備援模式...")
+
+    try:
+        reports = scrape_api_reports()
+        print(f"  ✅ 華爾街見聞 最終成功收錄 {len(reports)} 篇【API 分頁長文】！")
+        return reports
+    except Exception as e:
+        print(f"  ⚠️ 華爾街見聞 API 分頁失敗，改用 RSS 備援: {e}")
+
+    reports = scrape_rss_reports()
+    print(f"  ✅ 華爾街見聞 最終成功收錄 {len(reports)} 篇【RSS 長文報導】！")
+    return reports
+
 
 if __name__ == "__main__":
     scrape()
