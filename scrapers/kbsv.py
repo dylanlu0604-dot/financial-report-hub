@@ -1,14 +1,20 @@
 import os
 import re
 import urllib.parse
-from playwright.sync_api import sync_playwright
-from playwright_stealth import Stealth
+from urllib.parse import urljoin
+import requests
+from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
 
 # ⚙️ 與 main.py 保持一致
 GITHUB_USER = "dylanlu0604-dot"
 GITHUB_REPO = "financial-report-hub"
 GITHUB_RAW_BASE = f"https://raw.githubusercontent.com/{GITHUB_USER}/{GITHUB_REPO}/main/all%20report%20pdf"
+KBSV_HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "vi,en-US;q=0.9,en;q=0.8",
+}
 
 # ==========================================
 # 🛠️ 輔助工具：越南日期轉西元
@@ -28,17 +34,46 @@ def is_recent_date(date_text, days=35):
     except Exception:
         return True
 
-def abort_heavy_assets(route):
-    if route.request.resource_type in ("image", "media", "font"):
-        route.abort()
-    else:
-        route.continue_()
+def fetch_category_items(category_url):
+    try:
+        response = requests.get(category_url, headers=KBSV_HEADERS, timeout=30)
+        response.raise_for_status()
+    except Exception as e:
+        print(f"    ⚠️ 靜態 HTML 載入失敗: {str(e)[:80]}")
+        return []
+
+    soup = BeautifulSoup(response.text, "html.parser")
+    containers = soup.select(".itemNews .item")
+    results = []
+
+    for item in containers:
+        pdf_anchor = item.find("a", href=re.compile(r"\.pdf(?:$|\?)", re.IGNORECASE))
+        if not pdf_anchor:
+            continue
+
+        title_anchor = item.select_one("h3 a[href]") or pdf_anchor
+        title = (
+            title_anchor.get("title")
+            or title_anchor.get_text(" ", strip=True)
+            or os.path.basename(pdf_anchor.get("href", "")).replace(".pdf", "")
+        )
+        date_el = item.select_one(".thongKe .date, .date")
+        date_text = date_el.get_text(" ", strip=True) if date_el else ""
+        pdf_url = urljoin(category_url, pdf_anchor.get("href"))
+
+        results.append({
+            "title": title.strip(),
+            "pdf_url": pdf_url,
+            "date_text": date_text.strip(),
+        })
+
+    return results
 
 # ==========================================
 # 🕷️ 主爬蟲程式
 # ==========================================
 def scrape():
-    print("🔍 正在爬取 KBSV (越南 KB 證券) - 🚀 啟動「前 5 篇 + 自動重試」模式...")
+    print("🔍 正在爬取 KBSV (越南 KB 證券) - 🚀 啟動「靜態 HTML 解析 + 前 5 篇」模式...")
     reports = []
     seen_pdfs = set()
     download_path = os.path.abspath("all report pdf")
@@ -53,120 +88,53 @@ def scrape():
         {"name": "Thematic", "url": "https://www.kbsec.com.vn/vi/bao-cao-chuyen-de.htm"}
     ]
     
-    try:
-        with sync_playwright() as p:
-            browser = p.chromium.launch(headless=True)
-            context = browser.new_context(
-                user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
-            )
-            page = context.new_page()
-            Stealth().apply_stealth_sync(page)
-            page.route("**/*", abort_heavy_assets)
-            page.set_default_timeout(20000)
-            page.set_default_navigation_timeout(25000)
-            
-            for cat in target_categories:
-                print(f"  🌐 分類掃描: {cat['name']}...")
-                
-                success_load = False
-                # 🌟 修正 1：失敗重試機制 (最多試 3 次)
-                for attempt in range(2):
-                    try:
-                        # 降低等待門檻，只要 domcontentloaded 即可
-                        page.goto(cat['url'], wait_until="commit", timeout=25000)
-                        page.wait_for_load_state("domcontentloaded", timeout=10000)
-                        page.wait_for_timeout(2500) # 給予緩衝時間讓 JS 渲染
-                        
-                        # 檢查關鍵容器是否存在
-                        if (
-                            page.locator(".itemNews").count() > 0
-                            or page.locator(".item").count() > 0
-                            or page.locator("a[href$='.pdf']").count() > 0
-                        ):
-                            success_load = True
-                            break
-                        else:
-                            print(f"    ⚠️ 第 {attempt+1} 次嘗試：頁面內容未完全加載，正在重試...")
-                            page.reload(wait_until="domcontentloaded", timeout=15000)
-                    except Exception as e:
-                        print(f"    ⚠️ 第 {attempt+1} 次嘗試失敗: {str(e)[:50]}")
-                        page.wait_for_timeout(2000)
+    for cat in target_categories:
+        print(f"  🌐 分類掃描: {cat['name']}...")
 
-                if not success_load:
-                    print(f"    ❌ 分類載入最終失敗: {cat['name']}")
-                    continue
-                    
-                # 🌟 修正 2：改用更精準的 CSS 選擇器提取資料
-                items_data = page.evaluate("""
-                    () => {
-                        let results = [];
-                        // 針對 KBSV 結構進行優化
-                        let items = document.querySelectorAll('.itemNews .item, .list-news .item, .itemNews, .news-item, li');
-                        items.forEach(item => {
-                            let titleEl = item.querySelector('h3 a, .name a, a[href*=".htm"], a[href$=".pdf"]');
-                            let dateEl = item.querySelector('.date, .time, .thongKe');
-                            let downloadBtn = item.querySelector('a.more, a[href$=".pdf"], a[href*=".pdf?"]');
-                            
-                            let url = downloadBtn ? downloadBtn.href : (titleEl ? titleEl.href : "");
-                            
-                            if (url && url.toLowerCase().includes('.pdf')) {
-                                results.push({
-                                    title: titleEl ? titleEl.innerText.trim() : "Untitled",
-                                    pdf_url: url,
-                                    date_text: dateEl ? dateEl.innerText.trim() : ""
-                                });
-                            }
-                        });
-                        return results;
-                    }
-                """)
-                
-                top_5 = items_data[:5]
-                print(f"    🎯 找到 {len(items_data)} 篇，鎖定前 {len(top_5)} 篇下載...")
-                
-                for data in top_5:
-                    pdf_url = data['pdf_url']
-                    if pdf_url in seen_pdfs: continue
-                    seen_pdfs.add(pdf_url)
-                    
-                    final_date = convert_vn_date(data['date_text'])
-                    if not is_recent_date(final_date):
-                        print(f"    ↩️ 跳過舊報告: {data['title'][:20]}... ({final_date})")
-                        continue
+        items_data = fetch_category_items(cat["url"])
+        top_5 = items_data[:5]
+        print(f"    🎯 找到 {len(items_data)} 篇，鎖定前 {len(top_5)} 篇下載...")
 
-                    raw_title = data['title']
-                    safe_title = re.sub(r'[\\/*?:"<>|]', "_", f"{raw_title} ({final_date})").strip()
-                    save_path = os.path.join(download_path, f"{safe_title}.pdf")
-                    
-                    print(f"    📄 物理下載: {raw_title[:20]}... ({final_date})")
-                    
-                    try:
-                        # 帶上來源 Referer，這是避開防爬蟲的關鍵
-                        response = context.request.get(pdf_url, headers={"Referer": cat['url']}, timeout=20000)
-                        if response.status == 200 and b'%PDF' in response.body()[:10]:
-                            with open(save_path, "wb") as f:
-                                f.write(response.body())
-                            
-                            encoded_filename = urllib.parse.quote(f"{safe_title}.pdf")
-                            github_link = f"{GITHUB_RAW_BASE}/{encoded_filename}"
-                            reports.append({
-                                "Source": f"KBSV ({cat['name']})",
-                                "Date": final_date,
-                                "Name": f"{raw_title} ({final_date})",
-                                "Link": github_link,
-                                "Type": "PDF",
-                                "LocalPath": save_path
-                            })
-                            print(f"      ✅ [下載成功]")
-                        else:
-                            print(f"      ❌ [檔案無效]")
-                    except Exception as e:
-                        print(f"      ❌ [出錯] {str(e)[:15]}")
-                            
-            browser.close()
-            
-    except Exception as e:
-        print(f"  ❌ KBSV 總體錯誤: {e}")
+        for data in top_5:
+            pdf_url = data['pdf_url']
+            if pdf_url in seen_pdfs:
+                continue
+            seen_pdfs.add(pdf_url)
+
+            final_date = convert_vn_date(data['date_text'])
+            if not is_recent_date(final_date):
+                print(f"    ↩️ 跳過舊報告: {data['title'][:20]}... ({final_date})")
+                continue
+
+            raw_title = data['title']
+            safe_title = re.sub(r'[\\/*?:"<>|]', "_", f"{raw_title} ({final_date})").strip()
+            save_path = os.path.join(download_path, f"{safe_title}.pdf")
+
+            print(f"    📄 物理下載: {raw_title[:20]}... ({final_date})")
+
+            try:
+                headers = {**KBSV_HEADERS, "Referer": cat["url"]}
+                response = requests.get(pdf_url, headers=headers, timeout=30)
+                body = response.content
+                if response.status_code == 200 and body[:4] == b'%PDF':
+                    with open(save_path, "wb") as f:
+                        f.write(body)
+
+                    encoded_filename = urllib.parse.quote(os.path.basename(save_path))
+                    github_link = f"{GITHUB_RAW_BASE}/{encoded_filename}"
+                    reports.append({
+                        "Source": f"KBSV ({cat['name']})",
+                        "Date": final_date,
+                        "Name": f"{raw_title} ({final_date})",
+                        "Link": github_link,
+                        "Type": "PDF",
+                        "LocalPath": save_path
+                    })
+                    print(f"      ✅ [下載成功]")
+                else:
+                    print(f"      ❌ [檔案無效] HTTP {response.status_code}")
+            except Exception as e:
+                print(f"      ❌ [出錯] {str(e)[:50]}")
 
     print(f"  ✅ 任務結束：總共實體收錄 {len(reports)} 篇越南報告")
     return reports
