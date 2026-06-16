@@ -70,10 +70,11 @@ def scrape():
                             print(f"    ✅ 收錄: {full_title[:30]}...")
                             
                 except Exception as e:
-                    print(f"    ⚠️ 搜尋 {ticker} 異常")
-                    
+                    print(f"    ⚠️ 搜尋 {ticker} 異常: {str(e)[:80]}")
+
             browser.close()
     except Exception as e:
         print(f"  ❌ 爬取異常: {e}")
 
+    print(f"  ✅ Hankyung 最終成功收錄 {len(reports)} 篇報告")
     return reports

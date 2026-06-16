@@ -184,20 +184,60 @@ def scrape():
                         print(f"    🚫 [跳過] 偵測到 YouTube: {title[:30]}...")
                         continue
                         
+                    # 🌟 優先抓主內容區裡的 PDF，避免抓到 footer/sidebar 的無關 PDF
                     pdf_href = page.evaluate("""
                         () => {
-                            let pdf = Array.from(document.querySelectorAll('a')).find(a => a.href.toLowerCase().includes('.pdf'));
-                            return pdf ? pdf.href : null;
+                            const scopes = [
+                                document.querySelector('main'),
+                                document.querySelector('article'),
+                                document.querySelector('.content, .article-body, .article-content, .download'),
+                                document.body
+                            ].filter(Boolean);
+                            for (const scope of scopes) {
+                                const links = Array.from(scope.querySelectorAll('a'));
+                                // 優先：包含 download / report 字眼或 PDF 圖示
+                                const primary = links.find(a => {
+                                    const href = (a.href || '').toLowerCase();
+                                    if (!href.includes('.pdf')) return false;
+                                    const ctx = (a.innerText + ' ' + a.getAttribute('aria-label') + ' ' + a.className).toLowerCase();
+                                    return ctx.includes('download') || ctx.includes('report') || ctx.includes('pdf');
+                                });
+                                if (primary) return primary.href;
+                                // 次選：scope 內任何 .pdf
+                                const any = links.find(a => (a.href || '').toLowerCase().includes('.pdf'));
+                                if (any) return any.href;
+                            }
+                            return null;
                         }
                     """)
-                    
+
+                    pdf_verified = False
+                    inner_pdf_url = None
                     if pdf_href:
                         inner_pdf_url = urllib.parse.urljoin(url, pdf_href)
+                        # 🌟 用 HEAD 驗證真的是 PDF（防止把 HTML/登入頁誤當 PDF）
+                        try:
+                            head = context.request.head(inner_pdf_url, timeout=8000)
+                            ctype = (head.headers.get('content-type') or '').lower()
+                            if 'pdf' in ctype:
+                                pdf_verified = True
+                            elif head.status in (405, 403):
+                                # 某些 CDN 不支援 HEAD，改用 GET 抓前 4 bytes
+                                resp = context.request.get(inner_pdf_url, timeout=10000)
+                                pdf_verified = resp.body()[:4] == b'%PDF'
+                        except Exception:
+                            pdf_verified = False
+
+                    if pdf_verified:
                         reports.append({"Source": "Westpac IQ", "Date": date_str, "Name": title, "Link": inner_pdf_url, "Type": "PDF"})
                         print(f"    🕵️ [內頁 PDF] 成功挖出實體: {title[:40]}...")
                     else:
+                        # 找不到 PDF 或驗證失敗 → 改用網頁轉印（main.py 會用 page.pdf() 處理）
                         reports.append({"Source": "Westpac IQ", "Date": date_str, "Name": title, "Link": url, "Type": "Web"})
-                        print(f"    🌐 [純網頁轉印] 收錄: {title[:40]}...")
+                        if pdf_href:
+                            print(f"    🌐 [PDF驗證失敗→改網頁轉印]: {title[:40]}...")
+                        else:
+                            print(f"    🌐 [純網頁轉印] 收錄: {title[:40]}...")
                     
                 except Exception as inner_e:
                     reports.append({"Source": "Westpac IQ", "Date": date_str, "Name": title, "Link": url, "Type": "Web"})
