@@ -53,13 +53,16 @@ jobs:
       - name: Build NotebookLM HTML sources
         run: python build_merged_plain_text_html.py
 
+      - name: Check generated PDF sizes
+        run: python check_generated_pdf_sizes.py
+
       - name: Commit and push changes
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
 
           git add data/ index.html "all report pdf/" merged_pdfs/ merged_plain_text_html/
-          git add build_merged_plain_text_html.py boilerplate_filter.py
+          git add build_merged_plain_text_html.py boilerplate_filter.py merge_pdfs.py check_generated_pdf_sizes.py
 
           git commit -m "Auto-update reports and NotebookLM HTML sources" || echo "No changes to commit"
           git push

@@ -8,6 +8,8 @@ on:
     paths:
       - build_merged_plain_text_html.py
       - boilerplate_filter.py
+      - merge_pdfs.py
+      - check_generated_pdf_sizes.py
       - .github/workflows/merge_only.yml
 
 jobs:
@@ -36,11 +38,14 @@ jobs:
       - name: 產生 NotebookLM HTML sources
         run: python build_merged_plain_text_html.py
 
+      - name: 檢查產出 PDF 大小
+        run: python check_generated_pdf_sizes.py
+
       - name: 將合併與 HTML 檔案推回倉庫
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add merged_pdfs/ merged_plain_text_html/
-          git add build_merged_plain_text_html.py boilerplate_filter.py
+          git add build_merged_plain_text_html.py boilerplate_filter.py merge_pdfs.py check_generated_pdf_sizes.py
           git commit -m "Manual trigger: Auto-merge PDFs and NotebookLM HTML" || exit 0
           git push
