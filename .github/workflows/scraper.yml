@@ -70,5 +70,5 @@ jobs:
           fi
 
           git commit -m "Auto-update reports and NotebookLM HTML sources"
-          git pull --rebase origin main
+          git pull --rebase --autostash origin main
           git push

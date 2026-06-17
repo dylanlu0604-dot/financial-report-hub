@@ -49,5 +49,5 @@ jobs:
           fi
 
           git commit -m "Manual trigger: Auto-merge PDFs and NotebookLM HTML"
-          git pull --rebase origin main
+          git pull --rebase --autostash origin main
           git push
