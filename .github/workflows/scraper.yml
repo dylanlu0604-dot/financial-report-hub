@@ -7,8 +7,8 @@ on:
   workflow_dispatch:
 
 concurrency:
-  group: pages
-  cancel-in-progress: true
+  group: financial-report-hub-publish
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -64,5 +64,11 @@ jobs:
           git add data/ index.html "all report pdf/" merged_pdfs/ merged_plain_text_html/
           git add build_merged_plain_text_html.py boilerplate_filter.py merge_pdfs.py check_generated_pdf_sizes.py
 
-          git commit -m "Auto-update reports and NotebookLM HTML sources" || echo "No changes to commit"
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git commit -m "Auto-update reports and NotebookLM HTML sources"
+          git pull --rebase origin main
           git push

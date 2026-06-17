@@ -2,15 +2,10 @@ name: 單獨合併 PDF 與 NotebookLM HTML
 
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - main
-    paths:
-      - build_merged_plain_text_html.py
-      - boilerplate_filter.py
-      - merge_pdfs.py
-      - check_generated_pdf_sizes.py
-      - .github/workflows/merge_only.yml
+
+concurrency:
+  group: financial-report-hub-publish
+  cancel-in-progress: false
 
 jobs:
   merge-pdfs:
@@ -47,5 +42,12 @@ jobs:
           git config --local user.name "GitHub Action"
           git add merged_pdfs/ merged_plain_text_html/
           git add build_merged_plain_text_html.py boilerplate_filter.py merge_pdfs.py check_generated_pdf_sizes.py
-          git commit -m "Manual trigger: Auto-merge PDFs and NotebookLM HTML" || exit 0
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git commit -m "Manual trigger: Auto-merge PDFs and NotebookLM HTML"
+          git pull --rebase origin main
           git push
