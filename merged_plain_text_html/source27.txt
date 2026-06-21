@@ -3,7 +3,7 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 007: 1590亞德客 永豐
+## Document 006: 1590亞德客 永豐
 
 Source PDF: all report pdf/1590亞德客 永豐.pdf
 Report source: line報告備份
@@ -319,7 +319,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 8
 
 ---
-## Document 014: 20260612 論壇艦長紀要
+## Document 013: 20260612 論壇艦長紀要
 
 Source PDF: all report pdf/20260612 論壇艦長紀要.pdf
 Report source: line報告備份
@@ -616,7 +616,7 @@ t
 僅供內部投資研究參考・嚴禁外流 15
 
 ---
-## Document 069: 2303聯電 群益
+## Document 068: 2303聯電 群益
 
 Source PDF: all report pdf/2303聯電 群益.pdf
 Report source: line報告備份
@@ -871,7 +871,7 @@ YoY(%)
 情形。
 
 ---
-## Document 070: 2324仁寶 元富
+## Document 069: 2324仁寶 元富
 
 Source PDF: all report pdf/2324仁寶 元富.pdf
 Report source: line報告備份
@@ -1010,7 +1010,7 @@ Operating 1.3 1.5 1.8 1.7 1.6 1.4 1.6
 Net 1.0 0.9 1.2 1.1 1.1 0.8 1.1
 
 ---
-## Document 072: 2327國巨國票
+## Document 071: 2327國巨國票
 
 Source PDF: all report pdf/2327國巨國票.pdf
 Report source: line報告備份
@@ -1463,7 +1463,7 @@ $1,400
 • 國票可能與該公司進行業務而處於緘默期
 
 ---
-## Document 077: 2379瑞昱 群益
+## Document 076: 2379瑞昱 群益
 
 Source PDF: all report pdf/2379瑞昱 群益.pdf
 Report source: line報告備份
@@ -1723,7 +1723,7 @@ YoY(%)
 情形。
 
 ---
-## Document 080: 2404漢唐 宏遠
+## Document 079: 2404漢唐 宏遠
 
 Source PDF: all report pdf/2404漢唐 宏遠.pdf
 Report source: line報告備份
@@ -2215,7 +2215,7 @@ D
 2024 2025 2026
 
 ---
-## Document 084: 2455全新 群益
+## Document 083: 2455全新 群益
 
 Source PDF: all report pdf/2455全新 群益.pdf
 Report source: line報告備份
@@ -2444,7 +2444,7 @@ YoY(%)
 情形。
 
 ---
-## Document 089: 260609_ms_winway
+## Document 088: 260609_ms_winway
 
 Source PDF: all report pdf/260609_ms_winway.pdf
 Report source: line報告備份
@@ -2892,7 +2892,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 093: 260610_jp_largan-DG
+## Document 092: 260610_jp_largan-DG
 
 Source PDF: all report pdf/260610_jp_largan-DG.pdf
 Report source: line報告備份
@@ -3537,7 +3537,7 @@ Asia Pacific Equity Research
 13
 
 ---
-## Document 104: 260612_cl_vpec
+## Document 103: 260612_cl_vpec
 
 Source PDF: all report pdf/260612_cl_vpec.pdf
 Report source: line報告備份
@@ -4126,7 +4126,7 @@ market risks. Read all the related documents carefully
 before investing.
 
 ---
-## Document 114: 260615_ubs_elan-resume-buy
+## Document 113: 260615_ubs_elan-resume-buy
 
 Source PDF: all report pdf/260615_ubs_elan-resume-buy.pdf
 Report source: line報告備份
@@ -6108,7 +6108,7 @@ kevinlu@ lenovo.com
 kevinlu@ lenovo.com
 
 ---
-## Document 115: 260616_daiwa_ Taiwan Small- and Mid-Caps
+## Document 114: 260616_daiwa_ Taiwan Small- and Mid-Caps
 
 Source PDF: all report pdf/260616_daiwa_ Taiwan Small- and Mid-Caps.pdf
 Report source: line報告備份
@@ -6391,7 +6391,7 @@ the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 119: 260616_gs_wistron
+## Document 118: 260616_gs_wistron
 
 Source PDF: all report pdf/260616_gs_wistron.pdf
 Report source: line報告備份
@@ -6971,7 +6971,7 @@ Goldman Sachs Wistron (3231.TW)
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 120: 260617_citi_TUC
+## Document 119: 260617_citi_TUC
 
 Source PDF: all report pdf/260617_citi_TUC.pdf
 Report source: line報告備份
@@ -7761,7 +7761,7 @@ solely for the recipient and may not be further distributed by the recipient to 
 ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 
 ---
-## Document 123: 260617_ms_yageo
+## Document 122: 260617_ms_yageo
 
 Source PDF: all report pdf/260617_ms_yageo.pdf
 Report source: line報告備份
@@ -8254,7 +8254,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 125: 3081聯亞 群益
+## Document 124: 3081聯亞 群益
 
 Source PDF: all report pdf/3081聯亞 群益.pdf
 Report source: line報告備份
@@ -8575,7 +8575,7 @@ YoY(%)
 情形。
 
 ---
-## Document 132: 4958臻鼎 永豐
+## Document 131: 4958臻鼎 永豐
 
 Source PDF: all report pdf/4958臻鼎 永豐.pdf
 Report source: line報告備份
@@ -8921,7 +8921,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 8
 
 ---
-## Document 149: 6472保瑞 元大
+## Document 148: 6472保瑞 元大
 
 Source PDF: all report pdf/6472保瑞 元大.pdf
 Report source: line報告備份
@@ -9785,7 +9785,7 @@ ESG總分 23.8
 台灣臺北市 106仁愛路三段 157號 4樓
 
 ---
-## Document 165: 7769鴻勁 宏遠
+## Document 164: 7769鴻勁 宏遠
 
 Source PDF: all report pdf/7769鴻勁 宏遠.pdf
 Report source: line報告備份
@@ -10261,7 +10261,7 @@ Company Report
 員工學歷分佈
 
 ---
-## Document 166: 7786東方風能 永豐
+## Document 165: 7786東方風能 永豐
 
 Source PDF: all report pdf/7786東方風能 永豐.pdf
 Report source: line報告備份
@@ -10664,7 +10664,7 @@ S：Sell 賣出：未來 6 個月該股票表現將落後大盤
 9
 
 ---
-## Document 167: 7795長廣 統一
+## Document 166: 7795長廣 統一
 
 Source PDF: all report pdf/7795長廣 統一.pdf
 Report source: line報告備份
@@ -11157,7 +11157,7 @@ EBITDA 633 639 483 1,294   EBITDA 26.8 28.6 25.5 32.3
 請參見末頁重要披露及免責聲明 13
 
 ---
-## Document 169: 8046南電 國票
+## Document 168: 8046南電 國票
 
 Source PDF: all report pdf/8046南電 國票.pdf
 Report source: line報告備份
@@ -11543,7 +11543,7 @@ $1,300
 • 國票可能與該公司進行業務而處於緘默期
 
 ---
-## Document 171: 8299群聯 宏遠
+## Document 170: 8299群聯 宏遠
 
 Source PDF: all report pdf/8299群聯 宏遠.pdf
 Report source: line報告備份
@@ -12030,7 +12030,7 @@ A
 2023 2024 2025
 
 ---
-## Document 189: Aletheia-Micron 0614
+## Document 190: Aletheia-Micron 0614
 
 Source PDF: all report pdf/Aletheia-Micron 0614.pdf
 Report source: line報告備份
@@ -12041,7 +12041,7 @@ Extraction status: ok
 [No extractable text after boilerplate filtering.]
 
 ---
-## Document 191: Aletheia-TSMC 0615_
+## Document 192: Aletheia-TSMC 0615_
 
 Source PDF: all report pdf/Aletheia-TSMC 0615_.pdf
 Report source: line報告備份
@@ -12052,7 +12052,7 @@ Extraction status: ok
 [No extractable text after boilerplate filtering.]
 
 ---
-## Document 277: No_Cap_AI_Servers_Are_Recharging_MLCC_Demand_–_SemiAnalysis
+## Document 288: No_Cap_AI_Servers_Are_Recharging_MLCC_Demand_–_SemiAnalysis
 
 Source PDF: all report pdf/No_Cap_AI_Servers_Are_Recharging_MLCC_Demand_–_SemiAnalysis.pdf
 Report source: line報告備份
@@ -12335,7 +12335,7 @@ may present a potentia confict of interest, and are encouraged to weigh th
 accordingy when evauating the contents of this Report.
 
 ---
-## Document 354: 【國泰證期研究部】2H26伺服器產業展望-AI、nonAI並進，neocloud成長可期-20260611
+## Document 368: 【國泰證期研究部】2H26伺服器產業展望-AI、nonAI並進，neocloud成長可期-20260611
 
 Source PDF: all report pdf/【國泰證期研究部】2H26伺服器產業展望-AI、nonAI並進，neocloud成長可期-20260611.pdf
 Report source: line報告備份
@@ -12504,7 +12504,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 456: 凱基投顧_2618 長榮航_賴偉中_20260616
+## Document 466: 凱基投顧_2618 長榮航_賴偉中_20260616
 
 Source PDF: all report pdf/凱基投顧_2618 長榮航_賴偉中_20260616.pdf
 Report source: line報告備份
@@ -13328,7 +13328,7 @@ Jun-25 Aug-25 Oct-25 Dec-25 Feb-26 Apr-26
 2023-11-08 持有 30.00 29.25
 
 ---
-## Document 465: 凱基投顧_JBL Jabil_張燾_20260618
+## Document 475: 凱基投顧_JBL Jabil_張燾_20260618
 
 Source PDF: all report pdf/凱基投顧_JBL Jabil_張燾_20260618.pdf
 Report source: line報告備份
@@ -14036,7 +14036,7 @@ Jun-23 Dec-23 Jun-24 Dec-24 Jun-25 Dec-25 Jun-26
 電話 62 21 250 6337
 
 ---
-## Document 469: 凱基投顧_Takeaway_3037 欣興_林祐熙_20260612
+## Document 479: 凱基投顧_Takeaway_3037 欣興_林祐熙_20260612
 
 Source PDF: all report pdf/凱基投顧_Takeaway_3037 欣興_林祐熙_20260612.pdf
 Report source: line報告備份
@@ -14133,7 +14133,7 @@ jacklin.lin@kgi.com
 六月 12, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 3
 
 ---
-## Document 478: 凱基投顧_Takeaway_8210 勤誠_余昀澄_20260612
+## Document 488: 凱基投顧_Takeaway_8210 勤誠_余昀澄_20260612
 
 Source PDF: all report pdf/凱基投顧_Takeaway_8210 勤誠_余昀澄_20260612.pdf
 Report source: line報告備份
@@ -14252,7 +14252,7 @@ EPS 年增 71%至 49.65 元。隨 AI 需求強勁與新專案陸續放量，凱
 六月 12, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 3
 
 ---
-## Document 494: 南電(8046,B_買進)-CTBC260616
+## Document 504: 南電(8046,B_買進)-CTBC260616
 
 Source PDF: all report pdf/南電(8046,B_買進)-CTBC260616.pdf
 Report source: line報告備份
@@ -14541,7 +14541,7 @@ ESG 資訊 -公司治理 (Governance)
 營業執照字號： 114 金管投顧新字第 014 號
 
 ---
-## Document 527: 康和投顧-4958 -臻鼎-KY- 20260612
+## Document 543: 康和投顧-4958 -臻鼎-KY- 20260612
 
 Source PDF: all report pdf/康和投顧-4958 -臻鼎-KY- 20260612.pdf
 Report source: line報告備份
@@ -14906,7 +14906,7 @@ Q1 Q2 Q3 Q4
 投 資 結 果 自 行 負 責。
 
 ---
-## Document 528: 廣宇(2328,Note)-CTBC260615
+## Document 544: 廣宇(2328,Note)-CTBC260615
 
 Source PDF: all report pdf/廣宇(2328,Note)-CTBC260615.pdf
 Report source: line報告備份
@@ -15073,7 +15073,7 @@ ESG 資訊 -公 司 治 理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 554: 月營收評析-ASIC與PMIC產業-CTBC260611
+## Document 571: 月營收評析-ASIC與PMIC產業-CTBC260611
 
 Source PDF: all report pdf/月營收評析-ASIC與PMIC產業-CTBC260611.pdf
 Report source: line報告備份
@@ -15197,7 +15197,7 @@ PMIC 廠商未來的營收提升，對於 PMIC 產業發展持樂觀看法。
 2 0 2 6 / 06 /11
 
 ---
-## Document 641: 群益專題報告-2026年下半年台股投資策略-20260617
+## Document 661: 群益專題報告-2026年下半年台股投資策略-20260617
 
 Source PDF: all report pdf/群益專題報告-2026年下半年台股投資策略-20260617.pdf
 Report source: line報告備份
@@ -15534,7 +15534,7 @@ FOPLP
 與法說 3/18財報
 
 ---
-## Document 643: 群益專題簡報-AI持續主導科技股，各大平台玩咖各顯神通-20260617
+## Document 663: 群益專題簡報-AI持續主導科技股，各大平台玩咖各顯神通-20260617
 
 Source PDF: all report pdf/群益專題簡報-AI持續主導科技股，各大平台玩咖各顯神通-20260617.pdf
 Report source: line報告備份
@@ -17373,7 +17373,7 @@ TV 43%
 上升或下降，產生投資回報金額可能比原始投資來得少的情形。
 
 ---
-## Document 662: 萬泰科(6190)-20260618-速報-元富投顧(台新新光金控)
+## Document 681: 萬泰科(6190)-20260618-速報-元富投顧(台新新光金控)
 
 Source PDF: all report pdf/萬泰科(6190)-20260618-速報-元富投顧(台新新光金控).pdf
 Report source: line報告備份
@@ -17525,7 +17525,7 @@ Net 3.2 4.8 5.4 5.6 4.4 4.3 4.8 6.1
 NT$m Sales Sales YoY
 
 ---
-## Document 681: 雙鴻(3324,B_買進)-CTBC260618
+## Document 701: 雙鴻(3324,B_買進)-CTBC260618
 
 Source PDF: all report pdf/雙鴻(3324,B_買進)-CTBC260618.pdf
 Report source: line報告備份
