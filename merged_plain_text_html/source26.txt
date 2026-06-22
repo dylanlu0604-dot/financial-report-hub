@@ -145,7 +145,7 @@ AI集群中導入。
 20260612 艦長QA重點紀要 | 投資評估報告 3
 
 ---
-## Document 020: 2026世足賽(FIFA2026)商機-CTBC260610
+## Document 021: 2026世足賽(FIFA2026)商機-CTBC260610
 
 Source PDF: all report pdf/2026世足賽(FIFA2026)商機-CTBC260610.pdf
 Report source: line報告備份
@@ -363,7 +363,7 @@ Converse
 營業執照字號：114金管投顧新字第014號
 
 ---
-## Document 069: 2049上銀 群益
+## Document 067: 2049上銀 群益
 
 Source PDF: all report pdf/2049上銀 群益.pdf
 Report source: line報告備份
@@ -605,7 +605,7 @@ YoY(%)
 情形。
 
 ---
-## Document 081: 2404漢唐 宏遠
+## Document 077: 2404漢唐 宏遠
 
 Source PDF: all report pdf/2404漢唐 宏遠.pdf
 Report source: line報告備份
@@ -1097,7 +1097,7 @@ D
 2024 2025 2026
 
 ---
-## Document 088: 2542興富發 群益
+## Document 083: 2542興富發 群益
 
 Source PDF: all report pdf/2542興富發 群益.pdf
 Report source: line報告備份
@@ -1511,7 +1511,7 @@ YoY(%)
 情形。
 
 ---
-## Document 095: 260610_ms_800v-dc-delay
+## Document 088: 260610_ms_800v-dc-delay
 
 Source PDF: all report pdf/260610_ms_800v-dc-delay.pdf
 Report source: line報告備份
@@ -1938,7 +1938,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 105: 260612_cl_vpec
+## Document 092: 260612_cl_vpec
 
 Source PDF: all report pdf/260612_cl_vpec.pdf
 Report source: line報告備份
@@ -2527,7 +2527,7 @@ market risks. Read all the related documents carefully
 before investing.
 
 ---
-## Document 108: 260612_gs_wiwynn
+## Document 095: 260612_gs_wiwynn
 
 Source PDF: all report pdf/260612_gs_wiwynn.pdf
 Report source: line報告備份
@@ -2985,7 +2985,7 @@ Goldman Sachs Wiwynn (6669.TW)
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 112: 260615_CLSA_Accton
+## Document 099: 260615_CLSA_Accton
 
 Source PDF: all report pdf/260615_CLSA_Accton.pdf
 Report source: line報告備份
@@ -3985,7 +3985,7 @@ market risks. Read all the related documents carefully
 before investing.
 
 ---
-## Document 114: 260615_ms_ATS
+## Document 101: 260615_ms_ATS
 
 Source PDF: all report pdf/260615_ms_ATS.pdf
 Report source: line報告備份
@@ -4465,7 +4465,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 117: 260616_daiwa_emc
+## Document 104: 260616_daiwa_emc
 
 Source PDF: all report pdf/260616_daiwa_emc.pdf
 Report source: line報告備份
@@ -4926,7 +4926,7 @@ the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 161: 6743 安普新 群益
+## Document 142: 6743 安普新 群益
 
 Source PDF: all report pdf/6743 安普新 群益.pdf
 Report source: line報告備份
@@ -5217,7 +5217,7 @@ YoY(%)
 情形。
 
 ---
-## Document 162: 6782視陽 群益
+## Document 143: 6782視陽 群益
 
 Source PDF: all report pdf/6782視陽 群益.pdf
 Report source: line報告備份
@@ -5487,7 +5487,7 @@ YoY(%)
 情形。
 
 ---
-## Document 174: 8299群聯 宏遠
+## Document 151: 8299群聯 宏遠
 
 Source PDF: all report pdf/8299群聯 宏遠.pdf
 Report source: line報告備份
@@ -5974,7 +5974,7 @@ A
 2023 2024 2025
 
 ---
-## Document 176: 8487愛爾達 宏遠
+## Document 153: 8487愛爾達 宏遠
 
 Source PDF: all report pdf/8487愛爾達 宏遠.pdf
 Report source: line報告備份
@@ -6601,7 +6601,7 @@ Company Report
 2022 2024 2025
 
 ---
-## Document 264: Global Semiconductors Global Semis： The CPU Renaissance？ Beneficiaries of a $223bn TAM... Bernstein 20260617
+## Document 236: Global Semiconductors Global Semis： The CPU Renaissance？ Beneficiaries of a $223bn TAM... Bernstein 20260617
 
 Source PDF: all report pdf/Global Semiconductors Global Semis： The CPU Renaissance？ Beneficiaries of a $223bn TAM... Bernstein 20260617.pdf
 Report source: line報告備份
@@ -8999,11 +8999,11 @@ GLOBAL SEMICONDUCTORS
 50
 
 ---
-## Document 291: Mizuho Securities DELL HBM4e Ramping, Sizing Agentic AI Impact, and HBFLTAs -
+## Document 261: Mizuho Securities DELL HBM4e Ramping, Sizing Agentic AI Impact, and HBFLTAs -
 
 Source PDF: all report pdf/Mizuho Securities DELL HBM4e Ramping, Sizing Agentic AI Impact, and HBFLTAs -.pdf
 Report source: line報告備份
-Date: 2026-06-22
+Date: 2026-06-21
 Pages: 15
 Extraction status: ok
 
@@ -9995,7 +9995,7 @@ tools), redistributed, passed on to any other party or used to create derivative
 15
 
 ---
-## Document 299: No_Cap_AI_Servers_Are_Recharging_MLCC_Demand_–_SemiAnalysis
+## Document 268: No_Cap_AI_Servers_Are_Recharging_MLCC_Demand_–_SemiAnalysis
 
 Source PDF: all report pdf/No_Cap_AI_Servers_Are_Recharging_MLCC_Demand_–_SemiAnalysis.pdf
 Report source: line報告備份
@@ -10278,7 +10278,7 @@ may present a potentia confict of interest, and are encouraged to weigh th
 accordingy when evauating the contents of this Report.
 
 ---
-## Document 323: SpaceX從太空王者走向AI基礎設施平台-CTBC20260617
+## Document 284: SpaceX從太空王者走向AI基礎設施平台-CTBC20260617
 
 Source PDF: all report pdf/SpaceX從太空王者走向AI基礎設施平台-CTBC20260617.pdf
 Report source: line報告備份
@@ -10519,7 +10519,7 @@ V3衛星世代切換與擴大釋單。 7.89 43% 32.6x
 營業執照字號：114金管投顧新字第014號
 
 ---
-## Document 493: 凱基投顧_2059 川湖_向子慧_20260618
+## Document 432: 凱基投顧_2059 川湖_向子慧_20260618
 
 Source PDF: all report pdf/凱基投顧_2059 川湖_向子慧_20260618.pdf
 Report source: line報告備份
@@ -11162,7 +11162,7 @@ Jun-25 Aug-25 Oct-25 Dec-25 Feb-26 Apr-26
 資料來源：TEJ；凱基
 
 ---
-## Document 494: 凱基投顧_2383 台光電_林祐熙_20260615
+## Document 433: 凱基投顧_2383 台光電_林祐熙_20260615
 
 Source PDF: all report pdf/凱基投顧_2383 台光電_林祐熙_20260615.pdf
 Report source: line報告備份
@@ -11939,7 +11939,7 @@ Recommendations & Target Price
 資料來源：TEJ，凱基
 
 ---
-## Document 499: 凱基投顧_2881 富邦金_施志鴻_20260616
+## Document 437: 凱基投顧_2881 富邦金_施志鴻_20260616
 
 Source PDF: all report pdf/凱基投顧_2881 富邦金_施志鴻_20260616.pdf
 Report source: line報告備份
@@ -12895,7 +12895,7 @@ Jun-25 Aug-25 Oct-25 Dec-25 Feb-26 Apr-26
  泰國          曼谷
 
 ---
-## Document 501: 凱基投顧_2890 永豐金_施志鴻_20260617
+## Document 439: 凱基投顧_2890 永豐金_施志鴻_20260617
 
 Source PDF: all report pdf/凱基投顧_2890 永豐金_施志鴻_20260617.pdf
 Report source: line報告備份
@@ -13912,7 +13912,7 @@ na
  泰國          曼谷
 
 ---
-## Document 512: 凱基投顧_Takeaway_3533 嘉澤_向子慧_20260613
+## Document 450: 凱基投顧_Takeaway_3533 嘉澤_向子慧_20260613
 
 Source PDF: all report pdf/凱基投顧_Takeaway_3533 嘉澤_向子慧_20260613.pdf
 Report source: line報告備份
@@ -14022,7 +14022,7 @@ QD/Cable ，單價較 高（QD 達 10-20 元） ，預期2027 年出貨量年
 六月 13, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 3
 
 ---
-## Document 520: 凱基投顧_Takeaway_8210 勤誠_余昀澄_20260612
+## Document 457: 凱基投顧_Takeaway_8210 勤誠_余昀澄_20260612
 
 Source PDF: all report pdf/凱基投顧_Takeaway_8210 勤誠_余昀澄_20260612.pdf
 Report source: line報告備份
@@ -14141,7 +14141,7 @@ EPS 年增 71%至 49.65 元。隨 AI 需求強勁與新專案陸續放量，凱
 六月 12, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 3
 
 ---
-## Document 522: 凱基投顧_美國總體濟_黃昱偉_20260618
+## Document 459: 凱基投顧_美國總體濟_黃昱偉_20260618
 
 Source PDF: all report pdf/凱基投顧_美國總體濟_黃昱偉_20260618.pdf
 Report source: line報告備份
@@ -14527,7 +14527,7 @@ M2貨幣供給 YoY % 8.0 7.1 5.3 5.5 3.5 3.4 4.8 5.4 5.0 5.1 5.0 5.2 5.4 5.8 6.5
 免責聲明
 
 ---
-## Document 545: 台新投顧20260617個股報告-大井泵浦(6982)-買進
+## Document 478: 台新投顧20260617個股報告-大井泵浦(6982)-買進
 
 Source PDF: all report pdf/台新投顧20260617個股報告-大井泵浦(6982)-買進.pdf
 Report source: line報告備份
@@ -14729,7 +14729,7 @@ YoY(%)
 資料來源：CMoney, 台新投顧預估&彙整。
 
 ---
-## Document 546: 台新投顧20260618個股報告-東和鋼鐵(2006)-買進
+## Document 479: 台新投顧20260618個股報告-東和鋼鐵(2006)-買進
 
 Source PDF: all report pdf/台新投顧20260618個股報告-東和鋼鐵(2006)-買進.pdf
 Report source: line報告備份
@@ -14920,7 +14920,7 @@ YoY(%)
 位不為使用者之資訊決策及結果負擔任何責任。
 
 ---
-## Document 590: 富邦-6585-鼎基-20260622
+## Document 521: 富邦-6585-鼎基-20260622
 
 Source PDF: all report pdf/富邦-6585-鼎基-20260622.pdf
 Report source: line報告備份
@@ -15312,7 +15312,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 597: 广发证券-如何看日本央行的此次加息-260617
+## Document 526: 广发证券-如何看日本央行的此次加息-260617
 
 Source PDF: all report pdf/广发证券-如何看日本央行的此次加息-260617.pdf
 Report source: line報告備份
@@ -15502,7 +15502,7 @@ guolei@gf.com.cn
 下载日志已记录，仅供内部参考
 
 ---
-## Document 630: 月營收評析-PA產業-CTBC260611
+## Document 559: 月營收評析-PA產業-CTBC260611
 
 Source PDF: all report pdf/月營收評析-PA產業-CTBC260611.pdf
 Report source: line報告備份
@@ -15582,7 +15582,7 @@ YoY+ 46.51 %)，預估 2Q26 營收 達成率 59.5%。先前我們已觀察到公
 2 0 2 6 / 06 /11
 
 ---
-## Document 632: 月營收評析-散熱、機殼與滑軌產業-CTBC260611
+## Document 561: 月營收評析-散熱、機殼與滑軌產業-CTBC260611
 
 Source PDF: all report pdf/月營收評析-散熱、機殼與滑軌產業-CTBC260611.pdf
 Report source: line報告備份
@@ -15722,7 +15722,7 @@ AI 機櫃領域，受惠 AI 伺服器功耗持續上升，帶動機櫃大型化�
 2 0 2 6 / 06 /11
 
 ---
-## Document 634: 月營收評析-航空-CTBC260611
+## Document 563: 月營收評析-航空-CTBC260611
 
 Source PDF: all report pdf/月營收評析-航空-CTBC260611.pdf
 Report source: line報告備份
@@ -15822,7 +15822,7 @@ YoY+ 4.02 %)，顯示在強勁的旅遊需求如清明連假、賞櫻旺季、�
 2 0 2 6 / 06 /11
 
 ---
-## Document 656: 洋基工程(6691,OW_增加持股)-CTBC260611
+## Document 586: 洋基工程(6691,OW_增加持股)-CTBC260611
 
 Source PDF: all report pdf/洋基工程(6691,OW_增加持股)-CTBC260611.pdf
 Report source: line報告備份
@@ -16088,7 +16088,7 @@ ESG 資訊 ─公司治理 (Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 664: 漢唐(2404,UG,B_調升評等,買進)-CTBC260612
+## Document 594: 漢唐(2404,UG,B_調升評等,買進)-CTBC260612
 
 Source PDF: all report pdf/漢唐(2404,UG,B_調升評等,買進)-CTBC260612.pdf
 Report source: line報告備份
@@ -16406,7 +16406,7 @@ ESG 資訊 ─公司治理 (Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 677: 矽創(8016,UG,B_買進)-CTBC260616
+## Document 607: 矽創(8016,UG,B_買進)-CTBC260616
 
 Source PDF: all report pdf/矽創(8016,UG,B_買進)-CTBC260616.pdf
 Report source: line報告備份
@@ -16706,7 +16706,7 @@ ESG 資訊 - 公司治理 (Gov ernan ce)
 未評等 Not Rated (NR)
 
 ---
-## Document 703: 統一-2006-東和鋼鐵-20260618
+## Document 629: 統一-2006-東和鋼鐵-20260618
 
 Source PDF: all report pdf/統一-2006-東和鋼鐵-20260618.pdf
 Report source: line報告備份
@@ -17003,7 +17003,7 @@ ainReport/data/FileStream?id=3c275db7-0378-
 請參見末頁重要批露及免責聲明  7
 
 ---
-## Document 725: 群益-3189-2601景碩
+## Document 650: 群益-3189-2601景碩
 
 Source PDF: all report pdf/群益-3189-2601景碩.pdf
 Report source: line報告備份
@@ -17288,7 +17288,7 @@ YoY(%)
 情形。
 
 ---
-## Document 777: 雙鴻(3324,B_買進)-CTBC260618
+## Document 703: 雙鴻(3324,B_買進)-CTBC260618
 
 Source PDF: all report pdf/雙鴻(3324,B_買進)-CTBC260618.pdf
 Report source: line報告備份
