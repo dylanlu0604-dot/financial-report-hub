@@ -3,243 +3,7 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 064: 2026陆家嘴论坛点评：资本市场再推多项措施，促进市场高质量发展
-
-Source PDF: all report pdf/2026陆家嘴论坛点评：资本市场再推多项措施，促进市场高质量发展.pdf
-Report source: 东莞证券
-Date: 2026-06-18
-Pages: 5
-Extraction status: ok
-
-### Page 1
-
-本报告的风险等级为中风险。 
-本报告的信息均来自已公开信息，关于信息的准确性与完整性，建议投资者谨慎判断，据此入市，风险自担。 
-请务必阅读末页声明。 
-事件： 
-2026 陆家嘴论坛将于 6 月 17 日至 18 日举行，本届论坛主题为“全球治理倡议下的金融发展与合
-作：新愿景、新挑战和新机遇”。多项重磅政策推出。 
-点评： 
-◼ 1、央行六项改革政策推出，提速金融结构转型与市场现代化 
-央行行长在2026陆家嘴论坛发表《中国金融结构的变迁和金融市场现代化》主题演讲，公布
-六项金融改革政策，复盘融资结构历史性转变，明确“十五五”现代化金融市场建设路径，释放资
-本市场、货币政策、金融对外开放多重信号。具体看： 
-六项政策举措即将出台，稳流动性、扩开放、防风险多维托底。一是优化利率走廊，将短端
-利率区间收窄至50BP，新增隔夜逆回购，推进货币政策价格型转型，平抑资金波动；二是创设境
-外央行回购工具，便利海外机构增配人民币债券；三是在上海自贸区开展离岸人民币外汇交易试
-点，进一步推动离岸人民币外汇交易市场发展；四是研究设立特定情景非银流动性支持宏观审慎
-工具， 强调“特定情景”意味着该机制不是对非银金融机构的常态化流动性供给，“防范金融市场道
-德风险”意味着非银机构与央行操作必须满足宏观审慎要求， 还要提供高等级抵押品； 五是会同上
-海市政府和有关部门出台 《上海国际金融中心发展离岸金融行动方案》 ； 六是银行间市场数据报告
-库正式挂牌， 强化穿透式监管。 一揽子工具兼顾常态化调控与极端风险兜底， 稳定股债市场预期。 
-融资结构迎来拐点， 金融发展重心由总量转向结构。 央行指出，“近年来， 以银行贷款为主体
-的间接融资占比持续下降，包括债券、股票在内的直接融资占比稳步上升，金融结构正在发生深
-刻的变化”。从增量看，过去新增间接融资占比长期在80%以上。2025年的社会融资规模增量中，
-贷款占比45%； 债券和股票融资合计占比47%， 首次超过贷款。 从存量看， 上世纪90年代， 间接融
-资在社会融资规模存量中的占比接近100%；2025年末， 间接融资占比降至2/3左右， 直接融资占比
-上升到1/3左右。央行强调，“金融对经济的服务更多体现在结构优化上，而不是宏观金融总量的
-持续扩张上，贷款‘降速提质’或将成为宏观经济运行新常态”。资金投向持续优化，地产、基建新
-增贷款占比降至10%， 金融“五篇大文章”贷款升至70%以上， 金融供给适配产业转型。 同时央行明
-确“推动中长期资金加大对股市、债市的投资力度”，为市场引入稳定压舱资金。 
-划定现代化金融市场五大方向。央行提出，建设规范、开放、有活力、有韧性的现代化金融
-市场是“十五五”的重要任务， 聚焦五大方向： 多层次市场扩容、 深化市场化定价、 健全法治生态、
-
-策略研究
-
-### Page 2
-
-事件点评 
- 2
-
-请务必阅读末页声明。
-
-完善宏观审慎监管、稳步制度型开放。顶层框架兼顾发展与风控，在做大直接融资同时筑牢风险
-底线，中长期利好资本市场规范化发展。 
-总的来看，我国金融结构正迎来间接融资向直接融资切换的关键转型窗口，央行通过优化利
-率调控工具、补齐非银流动性保障、拓宽人民币跨境投融资渠道等一揽子举措，锚定市场化、法
-治化、国际化的现代化金融市场建设目标。政策一边持续引导中长期内外资金增配资本市场，夯
-实市场长期资金底座， 一边完善宏观审慎监管框架守住风险底线， 兼顾发展与安全。 从中长期看，
-央行将持续改善股债市场资金供给与运行稳定性，推动金融资源更好适配科创、绿色等实体经济
-重点领域，为经济高质量发展提供适配的现代金融支撑。 
-◼ 2、投融资改革全面升级，多重政策护航新质生产力 
-证监会主席在2026陆家嘴论坛发表《进一步健全投融资相协调的资本市场功能  更好服务新
-质生产力和经济高质量发展》主题演讲。具体看： 
-科创投融资制度全面松绑，科技成长赛道获得持续增量资金支撑。本次讲话核心增量政策集
-中在科创资本化渠道拓宽，也是算力、光通信、CCL等AI硬件板块短期催化因素之一。一是科创
-板第五套标准明确扩容至AI大模型，同时覆盖量子、具身智能等前沿硬科技，彻底解决未盈利AI
-龙头回A融资痛点， 上游算力租赁、 高速光互连、 高端基材产业链将持续承接产业资本开支增量；
-叠加并购重组快速审核、储架发行机制落地、港股优质科创企业回A通道打通，形成“IPO+再融
-资+产业并购”三维融资支持体系，持续推高市场整体“含科量” 。二是中长期资金入市底盘持续
-夯实，两年社保、保险、年金净买入A股达1.3万亿元，配套长周期考核、险资权益投资试点，持
-续为科技成长提供稳定增量资金。同时监管明确区分硬科技成长与纯题材炒作，严查蹭 AI热点、
-操纵股价行为，资金将持续向具备产能、订单落地的主板算力、周期材料龙头集中，小票估值分
-化会进一步加剧。 投资端工具同步革新，即将落地场内主动ETF、 商业不动产REITs， 丰富机构与
-居民配置载体，场内资金流动性、调仓灵活度显著提升。 
-稳市机制与资本市场双向开放落地，强化A股抵御海外扰动的独立行情韧性。对内层面，监
-管再次明确汇金类平准基金、 结构性货币政策工具常态化稳市框架， 叠加上市公司分红回购约束、
-减持与股价分红挂钩机制，A股抗外部冲击能力持续增强。对外开放维度推出多项突破性工具创
-新， 人民币外汇期货试点、QFII参与国债期货、 外资独资证券基金机构放开， 补齐外资对冲汇率、
-利率风险的工具短板，解决此前海外长线资金配置A股的核心顾虑，有望带来持续性北向增量。
-区域落地层面划定上海、深圳、苏州等科技金融试点区域，配套 LNG、电力战略期货品种上市，
-高端制造、AI算力产业链金融配套持续完善。整体政策组合形成“融资端扶持科创、资金端引入
-长短增量、风险端筑牢稳市底线、开放端吸引全球资本”完整闭环，在全球资产再平衡周期下，
-A股算力、高端电子材料等新质生产力赛道兼具成长确定性与政策安全垫，具备中长期估值抬升
-逻辑。 
-◼ 3、践行全球治理倡议，深化国际监管合作 
-国家金融监管总局局长在2026陆家嘴论坛发表 《践行全球治理倡议 深化国际监管合作》 主题
-演讲。具体看： 
-全球治理维度， 中国方案正从理念走向实践。 国家金融监督管理总局强调， “适应全球经济格
-局变化， 需要更加包容平等的金融治理机制”“维护全球金融运行秩序， 需要更加等效适配的规则
-体系” 和 “妥善应对全球性风险挑战， 需要更加务实高效的金融监管协作”。随着中国深度参与多
-个国际金融组织工作，在全球金融治理中发挥着日益重要的建设性作用，这将为国际化创造更有
-利的规则环境。 
-国内监管层面，扛牢监管主责，聚力攻坚防范化解风险。国家金融监督管理总局强调，落实
-“稳定大局、统筹协调、分类施策、精准拆弹”基本方针，坚决守住不发生系统性金融风险底线。
-
-### Page 3
-
-事件点评 
- 3
-
-请务必阅读末页声明。
-
-在“降存量、控增量”上下功夫。有力有序处置中小金融机构风险，支持配合化解房地产、地方政
-府债务风险。预示中小金融机构风险处置、房地产和地方债务化解仍为监管主线。 
-实体经济服务方面，“五篇大文章”的政策落点更加清晰。 国家金融监督管理总局强调，着力
-促进新质生产力发展。持续完善全周期科技金融服务体系，强化融资支持和保险保障，推动金融
-资源更好向新兴产业和未来产业集聚。高效支持扩内需战略。指导金融机构深入参与财政金融协
-同促内需工作，助力实施提振消费专项行动和服务业扩能提质行动，强化“十五五”规划重大工程
-金融服务。加强薄弱环节金融保障。推动小微企业贷款实现质的有效提升和量的合理增长，针对
-“两司两员”等新就业群体开发专属普惠产品，助力稳企业、稳就业。新质生产力、重大工程、民
-生保障三大领域将成为金融资源集聚的主战场。 
-展望后市，随着监管政策配套落地与上海试点深入推进，我国金融体系有望实现安全与发展
-并重、对内服务与对外合作协同提升，在全球金融治理中持续贡献中国方案。 
-◼ 4、以更实举措推进跨境投融资便利化 
-国家外汇管理局局长在2026陆家嘴论坛发表《全球资本流动新格局与中国高水平开放》主题
-演讲。具体看： 
-国家外汇管理局表示， 当前全球资本流动呈现 “波动性上升、 结构分化加深、 整体韧性较强”
-三大特征。全球金融条件快速变化，国际金融市场波动增加，资本流动顺周期波动加大。金融结
-构变化也强化了这种波动性， 跨境资金更多通过债券、 股票、 基金等渠道配置， 相较于直接投资、
-银行信贷等传统渠道，风险和预期变化在不同市场、不同经济体之间传导加快。新一轮科技革命
-和产业变革加速突破，全球资金进一步向人工智能、半导体、生物制造、能源转型等未来产业集
-聚。部分传统行业、低增长板块和高估值资产面临重新定价压力。不同国家、行业和资产之间分
-化加大。向前看，新技术加快向生产率提升、商业模式创新和产业应用转化，加之创新成果对经
-济增长和收入分配的长期影响，将深刻影响全球资本配置方向。尽管面临多重挑战，全球开放合
-作的基础依然坚实， 各类主体跨境配置资源的内生动力强劲。2025年全球外商直接投资 （FDI）达
-到1.6万亿美元， 恢复至2019年水平。 跨境证券投资持续活跃，2025年全球各国吸收的跨境证券净
-投资超过4万亿美元，较上年增长14%，规模为历史最高。 
-当前中国以自身确定性对冲外部不确定性，双向开放成效显著：2025年，我国实际使用外资
-超1000亿美元，其中，高技术产业占比约1/3，医疗器械、航空航天业利用外资增速分别达42%和
-23%。资本市场上，“科技叙事”也愈加清晰。2026年一季度末，境外投资者持有境内股票市值约
-6000亿美元， 其中， 持有信息技术行业市值约900亿美元。 我国企业和机构对外投资中， 投资周期
-长、经营属性强的直接投资占比较高，2025年达到45%。人民币跨境使用与资本项目开放相互促
-进。中国资本项下跨境人民币收付占比，已上升至60%左右。 
-面向“十五五” ，中国将坚持市场化、法治化、国际化，围绕“四个深化”，从渠道开放向制度
-型开放深化、从业务便利向主体便利深化、从外汇管理向本外币协同深化、从汇兑环节向全链条
-管理服务深化。持续提升资本项目开放水平。 
-国家外汇管理局表示， 将以更实举措推进跨境投融资便利化。 一是在去年已出台9条投融资便
-利化政策基础上， 新增推出“一揽子”增量政策， 发挥存量和增量政策集成效应。 二是全面改革FDI
-跨境政策，更好服务各国企业来华投资兴业。三是更好支持境内主体全球资源配置。在今年已优
-化境内企业境外上市、境外放款等制度基础上，积极回应市场需求，进一步简化对外直接投资
-（ODI） 、外债等汇兑管理，优化外汇贷款、跨境股权激励等制度，发放新一批合格境内机构投资
-者（QDII）投资额度。
-
-### Page 4
-
-事件点评 
- 4
-
-请务必阅读末页声明。
-
-总体来看，我们认为，本届陆家嘴论坛恰逢新“国九条”发布两周年，亦处于资本市场高质
-量发展向深水区推进的关键节点。 在这一承前启后的重要时间窗口，“一行一局一会”集体发声，
-不仅系统厘清了资本市场深化改革的制度供给逻辑， 更为股债市场运行、 人民币汇率长期走势及
-金融体系现代化建设指明了清晰方向，释放积极政策信号。 
-特别是对资本市场而言， 央行明确提出 “推动中长期资金对股市、 债市的投资力度” ， 以及设
-立并完善支持资本市场稳定发展的货币政策工具，支持汇金公司发挥“类平准基金”作用，依然
-凸显央行在流动性以及中长期资金方面给与持续的支持。 而证监会主席针对资本市场， 更是明确
-表示要主动拥抱新一轮科技革命和产业变革， 科创板将扩大第五套标准适用范围至人工智能领域，
-积极支持优质人工智能大模型企业上市， 将为后续国内AI相关企业融资上市提供制度支持；而提
-出加快培育壮大耐心资本，进一步丰富投资产品和工具，推出主动ETF，以及后续深化资本市场
-高水平双向开放，为后续金融市场开放发展以及引入国际投资机构和全球资金带来更多便利。 
-预计后续政策将陆续落地，对市场带来积极影响，有望进一步提升资本市场在新质生产力、
-科技创新领域的支持和融合深度，持续增强资本市场制度包容性、适应性。其中，具备核心竞争
-优势的科技型企业（特别是此次提到的人工智能、量子科技、生物制造、具身智能方向）仍是政
-策支持方向，另外新型消费和现代服务业也受到一定关注，后续并购重组力度也将进一步加大。
-关注后续政策对科技创新的支持力度，以及国内AI重要企业的上市进程，有望成为市场重要关注
-方向。
-
-◼ 风险提示 
-内需恢复不及预期，消费延续疲弱，从而加大经济稳增长压力；海外经济超预期下滑，以及
-中美贸易摩擦超预期恶化， 导致外需回落， 国内出口承压； 全球主要经济体超预期延长加息周期，
-高利率环境使全球经济增速明显放缓，压缩国内资金面；海外信用收缩引发风险事件，可能对市
-场流动性造成冲击，干扰利率和汇率走势；政策推进及落地不及预期。
-
-### Page 5
-
-事件点评 
- 5
-
-请务必阅读末页声明。
-
----
-## Document 206: BTIG警告：半导体这种走势历史上仅在市场大顶出现过
-
-Source PDF: all report pdf/BTIG警告：半导体这种走势历史上仅在市场大顶出现过.pdf
-Report source: WallstreetCN (Global)
-Date: 2026-06-22
-Pages: 2
-Extraction status: ok
-
-### Page 1
-
-AI 芯⽚交易迎来技术⾯警报。 BTIG 指出，半导体相对纳指强势已接近 2000 年科技泡沫时期
-极端⽔平， SOX/NDX 12 周暴涨 46% ，单⽇⼤涨频率创历史罕⻅，回调⻛险升温。同时 AI
-内部出现分化，光学板块⾛弱，市场资⾦开始转向⼩盘股。
-摘要：
-华尔街技术分析师正对半导体板块发出罕⻅警⽰。 BTIG ⾸席技术策略师 Jonathan Krinsky 指
-出，半导体相对纳斯达克的强势程度已触及极端⽔平，历史上类似⾛势仅出现在重⼤市场顶部
-或熊市深处，当前科技与 AI 交易⾯临显著的回调⻛险。
-Krinsky 在最新报告中指出，费城半导体指数与纳斯达克 100 指数之⽐值（ SOX/NDX ）过去 12 周
-累计上涨 46% ，正逼近 2000 ⾄ 2001 年科技泡沫破裂前后所⻅的极端⽔平。与此同时， SOX 在过
-去 60 个交易⽇内录得多达 9 个单⽇涨幅超 5% 的交易⽇，这⼀异常⾼频的⼤涨现象，历史上仅在
-重⼤市场顶部或熊市最低⾕时期出现过。
-上述信号令市场对 AI 及科技板块的持续性产⽣疑虑。 Krinsky 表⽰，尽管科技与 AI 相关交易⽬前
-
-看似对任何持续性回调免疫，但其团队仍持续看到该板块存在急剧反转⻛险。
-半导体极端强势触发历史警⽰
-SOX/NDX ⽐值 12 周内飙升 46% ，是此轮警⽰的核⼼依据。 Krinsky 将这⼀⽔平与 2000 ⾄ 2001 年
-互联⽹泡沫时期相提并论 —— 彼时半导体板块在顶部前同样出现了相对⼤盘的极端超额表现，
-随后市场经历了深度调整。
-单⽇⼤涨频率同样异常。过去 60 个交易⽇内出现 9 次单⽇涨幅超 5% 的情形，在历史数据中极为
-罕⻅，且每次出现均与重⼤顶部或熊市底部相关联。这种⾼波动、⾼频率的单边上涨，往往预
-⽰着市场内部结构的不稳定性正在积累。
-⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⽣活家 搜索
-
-### Page 2
-
-⻛险提⽰及免责条款
-市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
-101 收藏 分享到 :
-写评论
-图⽚
-AI 复合体内部出现裂痕
-在更⼴泛的 AI 投资组合内部， Krinsky 指出光学相关标的已开始显现疲态。鉴于这些公司对 AI 基
-础设施建设具有直接敞⼝，其⾛势值得投资者密切关注，或预⽰ AI 资本⽀出主题的边际变化。
-⼩盘股与海外市场的结构性信号
-与半导体的极端强势形成对⽐， Krinsky 及其团队更倾向于⼩盘股当前缓慢⽽稳健的上升态势。
-IWM 近期悄然跑赢标普 500 ，⼩盘股相对突破的迹象正在形成，被视为更具可持续性的市场轮动
-⽅向。
-海外市场同样出现值得警惕的信号。韩国 KOSPI 指数上周四上涨 2.2% ，但与此同时， 85% 的成
-分股收盘下跌。这⼀严重背离揭⽰出指数层⾯的⾼度集中⻛险 —— 少数权重股拉动指数上⾏，
-⽽市场⼴度实际上已在恶化，这与半导体板块内部的结构性隐忧形成呼应。
-
-限免
-请发表您的评论
-表情 发布评论
-
----
-## Document 237: Download the report
+## Document 211: Download the report
 
 Source PDF: all report pdf/Download the report.pdf
 Report source: 渣打銀行 (Market Views)
@@ -7617,1513 +7381,228 @@ US  United States
 VN  Vietnam
 
 ---
-## Document 246: FIFAワールドカップ2026出場国の資産形成（1）オランダ ～トータルフットボールの国を支える国・企業・個人の“トータル年金制度”～
+## Document 371: ナフサの消費者価格への転嫁が始まる ～6月に入って食料品価格の上昇鈍化が反転～
 
-Source PDF: all report pdf/FIFAワールドカップ2026出場国の資産形成（1）オランダ ～トータルフットボールの国を支える国・企業・個人の“トータル年金制度”～.pdf
+Source PDF: all report pdf/ナフサの消費者価格への転嫁が始まる  ～6月に入って食料品価格の上昇鈍化が反転～.pdf
 Report source: DLRI
-Date: 2026-06-12
-Pages: 3
-Extraction status: ok
-
-### Page 1
-
-Flash Insights
-
-2026 年 6 月 12 日
-
-1/3 
-FIFA ワールドカップ 2026 出場国の資産形成（1）オラ
-ンダ 
-～トータルフットボールの国を支える国・企業・個人の“トータル年金制度”～ 
- 政策調査部 主任研究員  鄭 美沙
-
-1. 家計資産残高 
- 日本時間6 月12 日、FIFAワールドカップ2026がアメリカ、カナダ、メキシコで開幕した。本
-大会には、史上最多となる48 カ国が出場する。本稿では、6月 15日（日本時間）に日本が初戦で
-対戦するオランダの資産形成制度を概観する。オランダは、2026年 4 月時点のFIFAランキングに
-おいて 7位、ワールドカップでは過去3回の準優勝経験を持つ強豪国である。 
- オランダの家計資産残高を日本と比較すると、不動産と年金・保険のシェアが高い（資料1）。
-オランダは「持ち家」志向が強く、政府も住宅保有促進を進めてきたため、不動産が半分近いシ
-ェアを占めている。また、年金・保険も約4 分の1 を占めており、日本よりも高い割合となって
-いる。
-
-資料 1 家計資産残高の内訳（2024 年）
-
-（出所）OECDより第一ライフ資産運用経済研究所作成
-
-2. 年金制度の概要 
- オランダの年金制度の評価は高い。世界各国の年金制度の十分性、持続性、健全性を評価する
-マーサー・CFA協会による「グローバル年金指数（2025 年）」において、オランダは首位となって
-おり、年金大国といえる。 
-32.0%
-9.6%
-12.2%
-12.2%
-15.6%
-27.7%
-35.9%
-46.2%
-0% 20% 40% 60% 80% 100%
-日本
-オランダ
-現金・預金 債券 株式・投信 保険・年金 不動産
-
-### Page 2
-
-2/3 
-オランダの年金制度は、国・企業・個人による3階層で成り立っている。1階部分は、賦課方式
-の老齢年金（AOW）である。原則として、オランダ国内の居住者あるいは就労者が対象となる。財
-源は社会保険料だが、給付額を下回る分は一般財源（税財源）から繰り入れられる。近年は、高
-齢化の進展により一般財源の負担が増えており、2024 年には給付費の約55％が一般財源によって
-賄われた（CBS、2025）。受給開始年齢は段階的に引き上げられており、2024年以降は67歳に設定
-されている。今後も、平均寿命の伸びに応じてさらなる引き上げが見込まれる。 
- 2 階部分は、職域年金となる。労働協約により、多くの企業で加入が義務付けられており、全労
-働者の 90％以上が職域年金に加入しているとみられる（星野・田中等、2025）。保険料負担は労使
-折半が一般的である。職域年金の資産残高は対GDPで 150％を超えており、老齢年金（AOW）ととも
-に老後保障の中核的制度となっている。一方で、大きな年金改革も進んでいる。2026年以降、従
-来の確定給付型を中心とした制度から、確定拠出型として個人ごとの運用成果を反映する仕組み
-へ順次移行する予定である。背景には、現役世代の減少により、確定給付型の維持が困難になっ
-ていることなどがある。 
- 3 階部分は個人年金である。保険会社などが提供する個人年金保険に加入し、一定の条件を満た
-す場合には、掛金が所得控除の対象となるなどの税制優遇が設けられている。 
- このようにオランダの年金制度は、ベースとなる公的年金とそれを補完する強固な職域年金、
-そして追加的に備えるための個人年金の3 本柱で成り立っている。日本も同様に 3階建ての年金
-制度ではあるが、オランダの方がそれぞれ相互補完的に機能している。そのため、制度全体の一
-体性があり、国際的にも高く評価されていると考えられる。オランダといえば、選手全員が攻守
-に参加する「トータルフットボール」の発祥の地である。年金制度においても、国・企業・個人
-が一体となって老後を支える「トータル年金制度」といえる。
-
-3. CFK～プロサッカー選手を支える資産形成度～ 
- サッカー大国オランダの特徴的な資産形成制度として、プロサッカー選手を対象としたCFK
-（Contractspelers Fonds KNVB：オランダサッカー協会プロ契約選手基金）というものがある。
-これは、プロサッカー選手が現役中に給与の一部を積み立て、引退後はその積立資産を原資とし
-て月額給付を受ける制度である。老後保障を目的とする年金制度とは異なり、次のキャリアに向
-けた準備期間を経済的にサポートする制度である。受給額や受給期間は個人によって異なる。掛
-金は税引前所得から拠出され、所得税や社会保険料の負担が軽減されるなど税制優遇措置が講じ
-られている。 
- CFKは、1972年にプロサッカー選手を対象として創設され、2016年にプロ自転車競技選手にも
-対象が拡大された。サッカー選手は30歳代で引退するケースが多く、一般的な職業人と比べて職
-業寿命が短い。そのため、現役時代に強制的に資産を積み立てることで、引退後の生活の安定や
-再就職、資格取得などを通じた次のキャリアへの移行を支援する仕組みとなっている。こうした
-現役時代から引退後までを視野に入れた支援体制が、オランダがサッカー大国で居続けることを
-支えているのかもしれない。
-
-### Page 3
-
-経済研究所が信ずるに足ると判断した情報に基づき作成していますが、その正確性、完全性に対する責任は負いません。見通しは予告
-なく変更されることがあります。また、記載された内容は、第一生命保険ないしはその関連会社の投資方針と常に整合的であるとは限
-りません。
-3/3
-【参考文献】
-· 年金シニアプラン総合研究機構（2020）「各国の年金制度 オランダ」
-· 星野卓也・鄭美沙・前田和馬・田中理・阿原健一郎（2026） 「世界で進む「貯蓄から投資へ」～
-背景にある3 つの共通因子と主要各国の動向～」
-· CFK https://www.cfk.nl/en/ （参照日2026年6月9 日）
-· Centraal Bureau voor de Statistiek（CBS、オランダ中央統計局） （2025）“AOW voor het
-eerst meer dan de helft bekostigd uit belastinggeld”
-· Mercer and CFA Institute (2025) “Mercer CFA Institute Global Pension Index 2025”
-
----
-## Document 247: FIFAワールドカップ2026出場国の資産形成（2）アルゼンチン ～「個の力」としての暗号資産とサッカー界への影響～
-
-Source PDF: all report pdf/FIFAワールドカップ2026出場国の資産形成（2）アルゼンチン ～「個の力」としての暗号資産とサッカー界への影響～.pdf
-Report source: DLRI
-Date: 2026-06-18
-Pages: 4
-Extraction status: ok
-
-### Page 1
-
-Flash Insights
-
-2026 年 6 月 18 日
-
-1/4 
-FIFA ワールドカップ 2026 出場国の資産形成（2） 
-アルゼンチン 
-～「個の力」としての暗号資産とサッカー界への影響～ 
- 政策調査部 主任研究員  鄭 美沙
-
-1. 高いインフレ率 
- 本シリーズでは、FIFAワールドカップ2026 出場国における資産形成の制度や現状などを概観す
-る。第 2 弾となる本稿では、前回王者アルゼンチンを取り上げる。 
-アルゼンチンは、財政赤字などを背景に通貨価値が下落し、一時は前年同月比でインフレ率が
-300％近くまで上っていた（資料1）。しかし、2023 年に経済学者のミレイ氏が大統領に就任し、
-大胆な経済改革を進めた結果、財政収支は黒字化し､インフレ率も大幅に低下しているほか、為替
-市場も安定しつつあるなど､成果を上げてきた（西濵、2025）。さらに、2025 年の経済成長率は＋
-4.4％と3 年ぶりのプラス成長となり、同国経済は回復基調を強めている（西濵、2026）。
-
-資料 1 インフレ率（消費者物価指数前年同月比）の推移
-
-（出所）INDECより第一ライフ資産運用経済研究所作成
-
-2. 資産防衛としての暗号資産 
- このように近年改善されつつあるものの、自国通貨ペソの下落と急激なインフレが続いていた
-アルゼンチンでは、資産形成というよりも資産価値を守るための資産防衛の行動が重要となって
-きた。その主たる手段は、歴史的にはドルの保有である。購買力が落ちないよう、ペソをドルに
-0
-50
-100
-150
-200
-250
-300
-2019 2020 2021 2022 2023 2024 2025 2026
-（％）
-（年）
-
-### Page 2
-
-2/4 
-換えるというものだ。通貨安などを防ぐため、外貨取引規制が講じられていたが、それでも所謂
-タンス預金として 2,000 億ドルもの資産があるとされる（山本、2025）。 
-なお、アルゼンチンには公的年金制度が整備されており、財源には社会保険料を基盤とする賦
-課方式が採用されている（年金シニアプラン総合研究機構、2022）。年金額はインフレに応じて調
-整される仕組みとなっているが、急激な物価上昇に十分対応できず、実質的な給付水準の低下が
-課題となっている。 
- こうした中、ドル保有と同様に資産保全手段として近年活用されているのが暗号資産である。
-暗号資産の中でも、ドル連動型のステーブルコインが普及しており、送金や日常の決済で使われ
-ているとのことだ（日経ビジネス、2026）。国際決済銀行（2023）によると、新興国における暗号
-資産の普及は着実に進んでおり、投資や貯蓄の代替手段であったり、変動の大きい自国通貨の安
-全な逃避先として活用されている。その代表例が、アルゼンチンといえる。人口あたりの暗号資
-産利用率は約 20％、約860 万人のアルゼンチン人が暗号資産を保有または利用しているとの推計
-もある（Bitcoin.com、2026）。 
- アルゼンチンでは、暗号資産事業者に対する登録制度が導入されており、国内外の暗号資産関
-連企業が登録・参入している。加えて、銀行による暗号資産サービスの提供を認める制度改正も
-検討されている。同じく南米のブラジルでは、すでに銀行による暗号資産サービスの提供が進ん
-でおり、暗号資産が既存の金融システムに組み入れられつつある。ETHNews（2025）は、アルゼン
-チンにおいても、銀行の参入は、デジタル資産の金融システムへの統合が大きく前進することを
-意味すると指摘している。また、これまでアルゼンチンにおける暗号資産の主な利用目的は資産
-防衛であったが、現在では、運用収益の確保など資産運用の手段に利用する動きもみられ始めて
-いるようだ（Bitcoin.com、2026）。 
- このように、アルゼンチンの暗号資産市場は転換点にある。2022 年のワールドカップ優勝は、
-メッシという圧倒的な「個の力」だけでなく、チーム全体の組織力と完成度があってこそ成し遂
-げられたものだった。同様に、暗号資産もこれまでのようにインフレや通貨下落から資産を守る
-ための「個の力」として機能し続けるのか、それともミレイ政権下で経済の安定化や制度整備が
-進み、既存の金融システムの一部として位置付けられていくのか。アルゼンチン経済の先行きが
-注目される。
-
-3. サッカーと暗号資産 
-  暗号資産の影響はサッカー界にも及んでいる。アルゼンチンサッカー協会（AFA）は、複数の暗
-号資産関連企業とスポンサーシップ契約を結んでおり、一時はトレーニングウェアに企業のロゴ
-が載っていた。今回のワールドカップにおいては、FIFAの最上位スポンサーに暗号資産関連企業
-は含まれていないものの、公式暗号資産取引所サポーターとして提携している企業はある。暗号
-資産の普及や教育を目的として、開催都市において関連イベント等が開催される予定だ
-（Investing.com、2026）。 
-サッカーと暗号資産の結びつきは年々強くなっている。代表的なものはファントークンの発行
-
-### Page 3
-
-3/4 
-だ。ファントークンは、コミュニティ参加を主目的とするものと、取引所に上場し価格変動を伴
-うものに大別される。前者は、例えばユニフォームのデザインを投票したり、イベントへの参加
-権が得られたりと、資産というよりもファンクラブの会員証のような位置づけだ。一方で、後者
-はそうした特典に加え、実際に取引所で売買され値動きがある。こうした売買可能なファントー
-クンは、アルゼンチン代表のほか、FCバルセロナやパリ・サンジェルマンFC（PSG）、マンチェス
-ター・シティFCなどが発行している。実際、2021 年にメッシがPSGに移籍した際には、契約金の一
-部がファントークンで支払われた。日本では、湘南ベルマーレが、法律上は暗号資産ではないが
-売買可能なトークンを導入し、クラブの資金調達手段として活用している。 
-このように、サッカー界にも暗号資産が普及する一方で、英国金融行動監視機構（FCA）は、ワ
-ールドカップ開幕前の6 月3 日、営業を許可されていない金融事業者とのスポンサー契約を結ば
-ないようサッカークラブに警告を発した（FCA,2026）。ファンに対しても、金融サービスを利用す
-る前には必ず事業者を確認するよう注意喚起を行っている。 
-暗号資産は、サッカークラブとファンの関係強化に寄与する一方で、投機的な金融商品の広告
-や勧誘がファンに悪影響を及ぼす可能性もある。また、近年急拡大している予測市場において
-（注 1） 、暗号資産が使われるケースもある。サッカーをはじめスポーツにおける暗号資産活用は
-普及と規制の両面から検討されるべき課題となっている。
-
-以 上
-
-【注釈】 
-1) 予測市場（Prediction market）とは、様々なイベントの結果を予測し、金銭的リターンを得る
-オンライン・プラットフォームである。その対象はプロスポーツの試合結果、各国の大統領・
-首長・議会選挙などの政治イベント、或いは音楽ランキングやアカデミー賞の受賞作品など多
-岐にわたる。（前田和馬「予測市場とは何か？（1）～急拡大の背景～」2026 年） 
-なお、アライアンス・バーンスタインは、ワールドカップ期間中に30 億ドル超の取引高増加が
-生じうると推計し、これまでで最大の取引量をもたらすイベントになると予測している（Yahoo 
-Finance“Bernstein: 2026 FIFA World Cup Is A 'Watershed Moment' For Prediction 
-Markets—But Who Will Win It?”2026 年6 月 12 日）。
-
-【参考文献】 
-· 英国金融行動監視機構（Financial Conduct Authority：FCA）（2026）“Football clubs warned 
-on questionable sponsorship deals with unauthorised firms”Press Release、2026 年6 月
-3 日
-
-### Page 4
-
-経済研究所が信ずるに足ると判断した情報に基づき作成していますが、その正確性、完全性に対する責任は負いません。見通しは予告
-なく変更されることがあります。また、記載された内容は、第一生命保険ないしはその関連会社の投資方針と常に整合的であるとは限
-りません。
-4/4
-· 国際決済銀行（Bank for International Settlements：BIS）（2023）“Financial Stability
-Risks from Cryptoassets in Emerging Market Economies”, BIS Papers No.138.
-· 西濵徹（2025）「ミレイ改革でアルゼンチン経済は改善続く､次は『国民の審判』に注目～財政
-健全化､インフレ鈍化､貧困率改善など成果を上げるなか､10 月の中間選挙の行方に注目～」
-· 西濵徹（2026）「アルゼンチンで格上げ相次ぐ､金融市場はミレイ改革を評価～『破たん国家』
-の再建は前進も社会的摩擦も増大､改革の継続性が注目される～」
-
-· 日経ビジネス（2026）「新興国発、ステーブルコインの波 『安全なドル』に殺到 インフレ・
-通貨安、苦慮」2026 年3 月 9 日号
-· 年金シニアプラン総合研究機構（2022）「各国の年金制度 アルゼンチン」
-· 山本高大（2025）「エコノミストが率いる南米の大国―アルゼンチンタンゴが意味するもの―」
-財務省『ファイナンス』令和 7 年7 月号
-· Bitcoin.com（2026）“Argentina Enters 2026 With Cryptocurrency Adoption Levels
-Reaching 20%”2026 年1 月 3 日
-· ETHNews（2025）“Argentina Prepares Major Shift Allowing Banks to Offer Crypto
-Services by 2026”2026 年 12 月8 日
-· Investing.com（2026）「クラーケン、2026 FIFAワールドカップの公式暗号資産取引所スポンサ
-
-ーに就任」2026 年 6 月9 日
-
----
-## Document 253: FX Daily_ Lack of GBP political premium cuts both ways
-
-Source PDF: all report pdf/FX Daily_ Lack of GBP political premium cuts both ways.pdf
-Report source: Unknown
-Date: 未知日期
-Pages: 4
-Extraction status: ok
-
-### Page 1
-
-Article | 22 June 2026 1
-THINK economic and financial analysis
-Article  |  22 June 2026   FX
-FX Daily: Lack of GBP political premium
-cuts both ways
-Sterling shows little sign of stress despite the prospect of an imminent
-change in prime minister. This points to stronger market trust in
-Burnham, but also leaves the currency more exposed if fiscal concerns
-resurface. Elsewhere, Fedspeak and Strait of Hormuz news should drive
-most FX moves this week. Risks remain slightly skewed to the upside for
-
-USD
-Anticipation of a big political shake-up is building in the UK, though the pound still appears calm
-USD: Eyes on Fedspeak and Hormuz
-We expect the two main drivers for the dollar this week to be Fedspeak and news on whether
-Strait of Hormuz flows have continued.
-The former will shed some light on how serious FOMC members are about the prospect of one
-or more rate hikes after a hawkish meeting last week. We’ll be particularly curious to hear
-whether the half of the FOMC that didn’t forecast a hike this year has an interest in pushing
-
-back against the 43bp of tightening priced in by December. In this quieter period of the month
-for data releases, Fedspeak should be the main trigger for any adjustments in front-end USD
-rates, which have been the single most important driver of USD of late. The main data points
-
-### Page 2
-
-THINK economic and financial analysis
-Article | 22 June 2026 2
-this week are May personal spending, expected to be robust, and core PCE, which we expect at
-0.3% month-on-month – both due on Thursday.
-On geopolitics and commodities, markets are holding on to optimism following signs of
-progress towards a final deal. In recent days, US President Donald Trump has again threatened
-to strike Iran amid renewed Israel-Hezbollah clashes. Iran claimed it had shut the Strait of
-
-Hormuz in response, but shipping data and military sources suggest oil flows have continued.
-For now, our dollar call remains unchanged. Near-term risks remain skewed to the upside, but
-we do not see last week as the start of a new strong dollar cycle. Markets may try to use the
-next data or Fedspeak catalyst to price in 50bp of Fed tightening in 2026, but unless there is a
-fresh Middle East escalation, lower oil prices should contain USD gains. The DXY rally may fall
-
-short of the May 2025 102.0 high.
-Francesco Pesole
-EUR: 1.140 can be tested soon
-In line with our USD view above, we see a decent risk that EUR/USD will have to test 1.140 on
-the back of a long tail of post-Fed USD momentum before re-entering any upward pattern. At
-the same time, positive headlines from the US-Iran negotiations suggest the depth of the next
-leg lower should be more limited; the commodity terms of trade for the eurozone have
-recovered more than half of the initial war-related drop.
-
-On the data side, we’ll see eurozone confidence data and PMIs today and tomorrow. Still, the
-surveys may not yet reflect the interim peace deal and could still signal a less optimistic mood.
-We don’t expect those to be a key driver of EUR/USD, which remains very heavily dominated
-by the USD leg.
-Francesco Pesole
-GBP: Sterling seemingly fine with potential change in PM
-Multiple media reports (and a post by President Trump) have indicated UK Prime Minister Keir
-
-Starmer is set to lay out his exit plan this week – quite possibly today. That follows a number of
-calls by cabinet members asking for his resignation. There appears to be little doubt at this
-stage that Manchester Mayor Andy Burnham would, in turn, become the new PM.
-In May, Burnham’s comments about fiscal rules triggered a GBP and gilt selloff. Since then, he
-has adopted a more market-friendly tone on budget plans, resulting in a very contained
-
-market reaction to his winning a parliamentary seat last week, which allows him to become
-PM. The key test now for markets is the choice of Chancellor. Incumbent Chancellor Rachel
-Reeves has successfully mitigated market concerns via a strong commitment to the fiscal rule
-– markets will search for similar reassurances from her successor.
-
-### Page 3
-
-THINK economic and financial analysis
-Article | 22 June 2026 3
-Our short-term fair value model shows no overvaluation in EUR/GBP, suggesting no political risk
-premium. That is good and bad news for GBP. It signals that markets are relaxed about this
-government change, but that means a greater downside for the pound should fiscal concerns
-resurface.
-Our view on EUR/GBP is generally bullish, but mostly because we don’t expect the Bank of
-England to hike rates despite 33bp priced in. The past couple of years suggest that political risk
-
-premium can emerge in GBP, but tends to be temporary.
-Francesco Pesole
-CEE: FX is getting moving
-The week will open with Polish retail sales, wages and PPI figures for May. The market in Poland
-has jumped on the wave of dovish comments from several MPCs in the last two weeks and has
-outpriced almost all rate hikes this year. Friday's industrial production figures for May showed
-some upside, and the market has returned to expectations of less than one hike. Today's
-
-figures could confirm or refute whether rate hikes will be needed in market calculations.
-Tomorrow, the National Bank of Hungary is likely to cut rates by 25bp to 6.00%. The central
-bank wanted to restart the cutting cycle in February (when it last cut rates), but the US-Iran
-conflict stopped the process. However, the general election in April brought a strengthening of
-the forint by about 6% versus the euro, and inflation has since surprised on the downside
-
-at 1.8% in May, the lowest in the CEE region. The central bank will present a new forecast,
-which should revise the inflation forecast downwards, and the market's attention will be on
-communicating how many rate cuts we can expect this year. Our forecast expects 75bp this
-year with upside risk, but we expect the market to go for more.
-The CEE FX market is dominated by a stronger US dollar, similar to the rest of the EM space,
-following last week's Fed meeting. We have seen some pressure on currencies in the region in
-
-recent days. EUR/PLN jumped above 4.260, and for the first time since early April, it has broken
-out of its usual ranges. For now, the rate differential suggests fair levels in our opinion, but
-today's data may decide the direction moving forwards. EUR/HUF saw a minor correction
-upwards after touching 350, and the NBH meeting creates additional upside risk. On the other
-hand, 355-356 levels could again attract new forint buyers.
-Frantisek Taborsky
-
-### Page 4
-
-This publication has been prepared by the Economic and Financial Analysis Division of ING Bank N.V. (“ING”) solely for
-information purposes without regard to any particular user's investment objectives, financial situation, or means. ING forms
-part of ING Group (being for this purpose ING Group N.V. and its subsidiary and affiliated companies). The information in the
-publication is not an investment recommendation and it is not investment, legal or tax advice or an offer or solicitation to
-
-person for any purpose without the prior express consent of ING. All rights are reserved. ING Bank N.V. is authorised by the
-Dutch Central Bank and supervised by the European Central Bank (ECB), the Dutch Central Bank (DNB) and the Dutch Authority
-for the Financial Markets (AFM). ING Bank N.V. is incorporated in the Netherlands (Trade Register no. 33031431 Amsterdam). In
-the United Kingdom this information is approved and/or communicated by ING Bank N.V., London Branch. ING Bank N.V.,
-
-London Branch is authorised by the Prudential Regulation Authority and is subject to regulation by the Financial Conduct
-Authority and limited regulation by the Prudential Regulation Authority. ING Bank N.V., London branch is registered in England
-(Registration number BR000341) at 8-10 Moorgate, London EC2 6DA. For US Investors: Any person wishing to discuss this
-report or effect transactions in any security discussed herein should contact ING Financial Markets LLC, which is a member of
-
-States under applicable requirements.
-Additional information is available on request. For more information about ING Group, please visit www.ing.com.
-
----
-## Document 327: The nowcasts, updated scenario and forecasts of the Economic Research - 15 June 2026 (2026-06-15)
-
-Source PDF: all report pdf/The nowcasts, updated scenario and forecasts of the Economic Research - 15 June 2026 (2026-06-15).pdf
-Report source: BNP Paribas
 Date: 2026-06-15
 Pages: 2
 Extraction status: ok
 
 ### Page 1
 
-economic
--
-research.bnppari
-bas.com
+Economic Trends
 
-NOWCASTS OF THE 
-E
-CONOMI
-C RESEARCH 
-Eurozone 
- France 
- Belgium
+2026 年 6 月 15 日
 
-Source: 
-Refinitiv, BNP Paribas
+1/2 
+ナフサの消費者価格への転嫁が始まる 
+～6 月に入って食料品価格の上昇鈍化が反転～ 
+経済調査部 主席エコノミスト 星野 卓也 
+（℡：050-5474-7497）
 
-Source: 
-Refinitiv, BNP Paribas
+（要旨）
 
-S
-ource: 
-Refinitiv, BNP Paribas
+6 月に入ってPOS 価格の伸び率縮小傾向に変化 
+イラン情勢の影響が消費者価格にも徐々に波及し始めたようだ。（株）ナウキャストの日経CPINOW
+指数によれば、6 月 12 日時点の 7 日移動平均の伸び率（前年同日比）は＋2.4％となった。同指数
+はスーパー、 コンビニ等のPOS データを基にした物価指数であり、 食料品を中心とした物価動向を
+タイムリーに観察できる。 食料品価格の上昇率の鈍化とともに同指数の上昇率は5 月まで低下して
+きたものの、6 月に入って反転しつつある。6 月以降の消費者物価指数にも「食料品価格の上昇鈍
+化が止まるor 再上昇する」形で影響が表れそうだ。 
+図表１．日経 CPINOW 指数と全国CPI・生鮮除く食料（前年比）
 
-Our nowcast for 
- E
-urozone growth has been 
-revised downward due to the deterioration in 
-confidence surveys (PMI, consumer 
-confidence). It still points to a 0.2% 
- q/q 
-increase in activity in Q2, 
- against a forecast of 
-0.3% q/q
-.
-
-Our 
-nowcast  
-for French 
- GDP 
- growth suggests 
- a 
-recovery in 
- Q
-2 
-2026, at +0.
- 2
-% 
-q/q, 
-driven by the 
-one
--
- off factors  
- that weighed on Q1 GDP 
-(aeronautics exports and construction output
- ).
-
-Our 
-nowcast 
- for Q2 Belgium GDP growth 
-suggests a 
- slight deterioration 
- (0.1
-5
-% q/q) 
-from 
-Q1
-. 
-The 
-momentum in the manufacturing 
-sector is proving more resilient than first 
-feared. 
-Cost
-s 
-are rising fast
- er 
-than prev
- iously 
-expected
-, 
-especially in the service sector.
-
-Read the 
-Nowcast methodology 
-Tarik.rharrab@bnpparibas.com
-
--0.2
--0.1
-0.0
-0.1
-0.2
-0.3
-0.4
-0.5
-0.6
-0.7
-0.8
-0.9
-1.0
-Mar 22
- Nov 22
- Jul 23
- Mar 24
- Nov 24
- Jul 25
- Mar 26
-Observed GDP growth
-BNPP Nowcast, Q2 2026
-%, q/q
--0.2
--0.1
-0.0
-0.1
-0.2
-0.3
-0.4
-0.5
-0.6
-0.7
-0.8
-0.9
-1.0
-Mar 22
- Nov 22
- Jul 23
- Mar 24
- Nov 24
- Jul 25
- Mar 26
-Observed GDP growth
-BNPP Nowcast, Q2 2026
-%, q/q
-ECONOMIC SCENARIO AND FORECAST
-S 
-GDP growth and Inflation
-
-Interest and exchange rates
-
-%
- 2024
- 2025
- 2026 e
- 2027 e
- 2024
- 2025
- 2026 e
- 2027 e
-United States
- 2.8
- 2.1
- 2.3
- 2.4
- 2.9
- 2.7
- 3.7
- 2.8
-Japan
- -0.2 
- 1.1
- 0.5
- 0.7
- 2.7
- 3.1
- 2.3
- 3.1
-United Kingdom
- 1.0
- 1.4
- 1.0
- 1.2
- 2.5
- 3.4
- 3.4
- 3.3
-Euro Area
- 0.9
- 1.5
- 0.6
- 1.6
- 2.4
- 2.1
- 3.0
- 3.3
- Germany
- -0.5 
- 0.3
- 0.8
- 1.1
- 2.5
- 2.2
- 3.2
- 3.5
- France
- 1.1
- 0.9
- 0.8
- 1.1
- 2.3
- 1.0
- 2.2
- 1.6
- Italy
- 0.6
- 0.7
- 0.8
- 0.8
- 1.1
- 1.7
- 3.1
- 3.7
- Spain
- 3.5
- 2.8
- 2.3
- 2.2
- 2.8
- 2.7
- 3.3
- 3.1
-China
- 5.0
- 5.0
- 4.6
- 4.5
- 0.2
- 0.0
- 1.3
- 1.4
-India*
- 7.1
- 7.7
- 6.6
- 6.8
- 4.6
- 2.1
- 5.1
- 4.2
-Brazil
- 3.4
- 2.3
- 2.3
- 1.4
- 4.4
- 5.0
- 4.7
- 5.1
-Source : BNP Paribas (e: Estimates & forecasts)
-Last update: 15/06/2026
-* Fiscal year from April 1 of year N to March 31 of year N+1
-GDP Growth
- Inflation
-Interest rates, %
-End of period
- Spot 12/06
- Q2
- Q3
- Q4
- Q4
-US
- Fed Funds 
-(upper limit)
- 3.75
- 3.75
- 3.75
- 4.00
- 4.50
-T-Note 10y 
- 4.48
- 4.55
- 4.65
- 4.75
- 4.85
-Eurozone
- deposit rate
- 2.00
- 2.25
- 2.50
- 2.50
- 2.50
-Bund 10y
- 3.00
- 3.15
- 3.20
- 3.35
- 3.10
-OAT 10y
- 3.65
- 3.77
- 4.00
- 4.17
- 3.60
-BTP 10y
- 3.73
- 3.85
- 3.95
- 4.10
- 3.60
-BONO 10y
- 3.42
- 3.57
- 3.64
- 3.79
- 3.42
-UK
- Base rate
- 3.75
- 3.75
- 4.25
- 4.25
- 3.50
-Gilts 10y
- 4.85
- 4.70
- 4.60
- 4.50
- 4.30
-Japan
- BoJ Rate
- 0.75
- 1.00
- 1.00
- 1.25
- 2.00
-JGB 10y
- 2.62
- 2.70
- 2.85
- 2.85
- 3.10
-Exchange Rates
-End of period
-Spot 12/06
- Q2
- Q3
- Q4
- Q4
-USD
- EUR / USD
- 1.16
- -
- 1.15
- 1.16
- 1.20
-USD / JPY
- 160
- -
- 163
- 165
- 165
-GBP / USD
- 1.34
- -
- 1.32
- 1.32
- 1.36
-EUR
- EUR / GBP
- 0.86
- -
- 0.87
- 0.88
- 0.88
-EUR / JPY
- 185
- -
- 187
- 191
- 198
-Brent
-Quarter Average
-Spot 12/06
- Q2
- Q3
- Q4
- Q4
-Brent
- USD/bbl
- 87
- 110
- 90
- 85
- 83
-Sources: BNP Paribas (Market Economics, Interest Rate Strategy, FX Strategy, Commodities Desk 
-Strategy), Last update: 15/06/2026
-2026
-2026
-2026
- 2027
-2027
-2027
-The scenario, forecasts and nowcasts of the Economic Research 
-– 
-15 
-June 
-2026
-
-Contacts 
-Stephane.colliac@bnpparibas.com  
-Tarik.rharrab@bnpparibas.com
+（注）縦点線は 2026/6/1。（出所）ナウキャスト「日経CPINOW」より第一ライフ資産運用経済研究所が作成。 
+○ 6 月に入って以降、上昇率の鈍化が続いていたPOS データの物価指数が反転。即席めん、 納豆、
+豆腐など容器や包装コストの大きいとみられる食品の上昇が目立っている。 イラン情勢の影
+響が徐々に消費者段階にも波及してきた。
 
 ### Page 2
 
-UNITED STATES 
-The US economy is expected to grow above its potential in 2026, with an average annual growth rate of 2.3%, a yearly improvement (up from 
-2.1% in 2025). This apparent resilience to energy, uncertainty and tariff and energy shocks, together with above -trend productivity growth, 
-masks K-shaped growth, driven by investment linked to AI-optimism and consumption by the wealthiest amid a wealth effect (historically high 
-stock market valuations). Inflation overshooting is set to continue (3.7% in 2026) at least through 2028, largely because of the rise in oil prices 
-and tariffs – although the impact of these appears to be less significant than expected. The labour market is showing clear signs of improvement 
-that should bring the unemployment rate down toward 4.0%. Given this shift in price and employment risks amid dynamic growth, we expect 
-the FOMC to implement one rate hike (+25pb) and bring the Fed Funds target range at 3.75% - 4.0% by year-end.
-
-CHINA 
-Economic growth accelerated to +5.0% y/y in Q1 2026, vs. +4.5% in Q4 2025. It stood at 5% in 2025 as a whole and it is expected to slow 
-moderately in 2026. Growth remains characterized by a K-shaped trajectory. On the one hand, exports are still dynamic , and Chinese goods 
-are likely to remain competitive in the short term. On the other hand, domestic demand remains sluggish. It rebounded in the first two months 
-of 2026 but has weakened significantly since March. The crisis in the property sector continues and confidence of households and private 
-investors remains low. The authorities will maintain supportive fiscal and monetary policies, but the ir measures may continue to be modest, 
-even in a less supportive global environment. Deflationary pressures are expected to decline in 2026, notably thanks to highe r global energy 
-prices and anti-involution measures implemented by the authorities.
-
-EUROZONE 
-Eurozone growth would slow in 2026 due to spillovers from the Middle East conflict. In Q1 2026, GDP growth contracted 0.2% q/q mainly due 
-to the volatility of Ireland’s GDP data, but growth in the rest of the Eurozone remained resilient (+0.2% q/q). In 2026, consumption would be 
-held back by falling real wages. GDP growth, which reached 1.5% in 2025, would slow down to 0.6% in 2026, before rebounding at  1.6% in 
-2027, while inflation would rebound to 3.0% in 2026 and 3.3% in 2027 (compared to 2.1% in 2025). Activity would nevertheless withstand the 
-energy shock, supported by investment in defence, AI, and electrification, which should continue to boost intra-EU trade. As inflation rebounds, 
-two 25-basis-point hikes in the ECB’s policy rate would take place in 202 6 – with the first hike expected in June – pushing the deposit facility 
-rate to 2.5%. As inflation rebounds, another 25-basis-point hikes in the ECB’s policy rate – following June’s increase – would take place in Q3 
-2026 pushing the deposit facility rate to 2.5%.
-
-FRANCE 
-GDP growth deteriorated to -0.1% q/q in Q1 (after 0.2% q/q in Q4) as a result of one-off factors, including low aeronautics exports (-20% q/q 
-despite an increase of the output) and construction output ( -1.5% q/q). From Q2 2026, growth should be affected by the impact of higher oil 
-prices on inflation (2.4% in 2026, after 1% in 2025) and household purchasing power (with a likely impact on their consumption). In 2026, GDP 
-growth should reach 0.8% in 2026 (after 0.9% in 2025), driven by public spending and private investment in AI. Higher inflation (2.2% in 2026, 
-after 1% in 2025) would weigh on GDP growth.
-
-UNITED KINGDOM 
-Economic activity is expected to slow  in 2026, with growth decelerating to 1% from 1.4% in 2025; following +0.4% q/q in Q1, growth dipped 
-to -0.1% m/m in April, bringing the average quarterly pace for the remainder of the year down to approximately  +0.1%. This slowdown is set 
-against a backdrop of renewed inflationary pressures triggered by the war in Iran: inflation is projected to reach 3.4% y/y, and to remain sticky 
-and well above BoE's target at +3.3% in 2027. In this context, and contrary to the initially envisaged easing scenario, monetary policy would 
-shift toward a tightening of 50 basis points in H2 2026. 10y gilt yields will remain elevated in 2026, before falling to 4.30% in 2027 on reduced 
-net supply, a decline in political risk premia and a market starting to eye BoE rate cuts.
-
-JAPAN 
-The energy shock is set to impact the strong momentum of the Japanese economy negatively. We expect annual GDP growth to stand at 0.5% 
-in 2026, down from 1.1% in 2025. Higher inflation and production costs are expected to weigh on the economy’s overall performance. On the 
-other hand, the latter is still tempered by structural supply constraints and supported by fiscal policy and wage growth. Inflation has generally 
-overshot the 2% y/y target since 2022 and is expected to stay there through at least 2028. Accordingly, the Bank of Japan ini tiated a process 
-of “adjustment in the degree of monetary accommodation” in 2024, lifting the policy rate to 0.75% so far (previously negative). We expect the 
-process to extend, including one hike (25pb) in Q2 2026, until a 2.0% terminal rate in end -2027. Japan is facing long-term rates pressure, 
-illustrated by historically high 10- and 30-year yields, probably fueled by the level of public debt and the pace of monetary adjustment.
-
-EXCHANGE RATES 
-In our base-case scenario (gradual normalisation of the Middle East situation with persistent price tensions), we expect the USD deprecia tion 
-against the EUR to resume, albeit very gradually, amid broader diversification away from the dollar. We forecast E UR/USD to reach 1.21 by 
-Q4 2026 and 1.25 by Q4 2027. We anticipate stabilisation of the yen and the GBP against the dollar in 2026 (USD/JPY 160 and GBP/ USD 1.35 
-by Q4 2026) and 2027.
-
----
-## Document 514: 厄尔尼诺+乙醇双压夹击，印度糖出口或停滞至少三年
-
-Source PDF: all report pdf/厄尔尼诺+乙醇双压夹击，印度糖出口或停滞至少三年.pdf
-Report source: WallstreetCN (Global)
-Date: 2026-06-22
-Pages: 3
-Extraction status: ok
-
-### Page 1
-
-全球第⼆⼤⻝糖出⼝国印度正遭遇双重冲击：厄尔尼诺⽓候使今年季⻛降⾬跌⾄ 11 年最
-低，⽢蔗农⺠⼤规模转种⼤⾖；与此同时，政府激进推进⼄醇燃料政策，双重压⼒叠加
-下，印度⾄少三年内将⼏近⽆糖可出⼝，甚⾄可能⾸次重启进⼝，全球糖价或迎来⻓期⽀
-撑。
-摘要：
-印度正⾯临⽢蔗供应的双重冲击，这⼀曾经的全球第⼆⼤⻝糖出⼝国，预计⾄少在未来三个榨
-季内将⼏乎⽆糖可出⼝，全球⻝糖市场的供应格局由此⾯临深刻重塑。
-据路透社周⼀报道，厄尔尼诺⽓候条件威胁印度今年季⻛降⾬降⾄ 11 年来最低⽔平，与此同
-时，印度政府⼤⼒推进⼄醇混合燃料政策，两股压⼒叠加，正将数百万吨⻝糖从国际市场上抹
-去。
-孟买⼤宗商品交易商 MEIR Commodities India 董事总经理 Rahil Shaikh 表⽰， “ 如果降⾬如预期
-般令⼈失望，⽢蔗种植将受到严重冲击，这将使印度⾄少三年内退出⻝糖出⼝市场。 ”
-这⼀局⾯对亚洲、⾮洲和中东的⻝糖进⼝国构成直接压⼒，并将对伦敦和纽约基准糖价形成⽀
-撑。更为极端的情景是，若厄尔尼诺导致⽢蔗种植⾯积⼤幅萎缩，印度甚⾄可能被迫重启⻝糖
-
-进⼝ —— 这将是近⼗年来的⾸次。
-政府逐季管控出⼝，多年禁令或以 " 默许 " 形式延续
-⻝糖在印度具有⾼度政治敏感性。印度是全球最⼤⻝糖消费国，甜⻝⽂化根深蒂固，⼤量低收
-⼊家庭依赖⻝糖作为廉价热量来源。
-据路透社援引知情政府及⾏业⼈⼠透露，新德⾥不太可能宣布多年期出⼝禁令，⽽是倾向于逐
-季拒绝发放出⼝许可证。上⽉，印度总理莫迪政府⼀名⾼级部⻓已向糖⼚明确表态，要求优先
-保障国内供应，不得游说争取出⼝配额。上述消息⼈⼠因谈判内容属保密性质⽽要求匿名。印
-度⻝品、⺠⽤供应和消费者事务部未就出⼝前景及相关限制措施置评。
-印度在截⾄ 2022-23 榨季的五个榨季内，年均出⼝⻝糖 680 万吨，约占全球出货量的 10% 。本榨
-季，印度在出⼝约 80 万吨后即宣布禁⽌出货，禁令延续⾄ 9 ⽉ 30 ⽇榨季结束。
-厄尔尼诺重创⽢蔗产区，库存或跌⾄三⼗年低点
-厄尔尼诺⽓候条件预计将使印度今年季⻛降⾬降⾄ 11 年来最低⽔平。 6 ⽉降⽔量已较均值偏低逾
-40% ，农⺠普遍推迟种植计划。
-⻢哈拉施特拉邦 Sangli 地区农⺠ Sambhaji Patil 表⽰，原本计划 6 ⽉种植⻓⽣育期⽢蔗品种，但由
-
-于各⽅均预警降⾬减少，他决定暂缓计划，转⽽在 2 英亩⼟地上改种⼤⾖。苗圃经营者 Suraj
-Chavan 也反映，近⼏周⽢蔗种苗需求明显下滑。
-全国合作制糖⼚联合会董事总经理 Prakash Naiknavare 指出，农⺠可能⼤规模转向耗⽔量较低
-的作物，这将拖累 2027-28 榨季的⽢蔗种植⾯积和供应量。当地政府已在主要产糖区推⼴⼤⾖、
-⽊⾖等替代作物，并限制灌溉⽤⽔供应。
-⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⽣活家 搜索
-
-### Page 2
-
-⻛险提⽰及免责条款
-市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
-30 收藏 分享到 :
-写评论
-在产量层⾯，印度本榨季⻝糖产量预期已从 3095 万吨下调⾄ 2790 万吨，低于约 2850 万吨的年度
-消费量。 MEIR 的 Shaikh 预计， 10 ⽉ 1 ⽇新榨季开始时，糖⼚库存将降⾄约 350 万吨，为逾三⼗
-年来最低⽔平。
-⼄醇政策提速，⽢蔗争夺加剧⻓期供应压⼒
-与⽢蔗减产同步发⽣的，是印度政府对⼄醇产业的⼤⼒扶持，进⼀步压缩了可⽤于制糖的⽢蔗
-原料。
-印度本⽉取消了⾼⽐例⼄醇混合汽油的⽣产税，并推出含⼄醇⽐例⾼达 85% 的燃料，以⽀持灵
-活燃料汽⻋的普及。印度最⼤汽⻋制造商⻢鲁蒂铃⽊本⽉推出了全国⾸款灵活燃料乘⽤⻋，英
-雄摩托也发布了灵活燃料摩托⻋。
-Godavari Biorefineries 董事⻓兼董事总经理 Samir Somaiya 表⽰， “ ⼄醇需求的增⻓轨迹极为强
-
-劲，下⼀阶段的需求演变将由灵活燃料汽⻋的商业化推⼴驱动。 ” ⾏业估算显⽰，随着⼄醇混合⽐
-例提升和灵活燃料汽⻋加速普及，⼄醇需求到 2039-40 年可能从⽬前的 120 亿⾄ 130 亿升增⾄约
-300 亿升，增幅超过⼀倍。
-⻢哈拉施特拉邦 Natural Sugar 董事总经理 B.B. Thombare 表⽰，未来政府政策将倾向于⽀持⼄
-醇⽣产，⽽⾮⻝糖出⼝。
-进⼝重启⻛险浮现，全球糖价或获⻓期⽀撑
-多重压⼒叠加之下，印度重启⻝糖进⼝的可能性正在上升。印度上⼀次进⼝⻝糖是在 2016-17 和
-2017-18 榨季，彼时 2015 年厄尔尼诺引发的⼲旱导致⽢蔗种植⾯积⼤幅萎缩。⽽在 2009 年和
-2010 年，印度的⼤规模采购曾推动全球糖价飙升⾄此前⽔平的近三倍。
-新德⾥⼤宗商品交易商 K.S. Commodities 董事 Mohan Narang 警告称， " 由于严峻的厄尔尼诺形
-势和⼄醇需求的持续攀升，印度不仅出⼝将被彻底抹去，未来数年内进⼝也可能成为必要之
-举。 "
-贸易消息⼈⼠透露，全球⼤型贸易商的印度业务团队已开始向总部预警，来⾃印度的供应机会
-
-正在收窄。与此同时，巴西正将更多⽢蔗转⽤于⼄醇⽣产，泰国的产量也可能受到厄尔尼诺的
-冲击，全球⻝糖供应的多个⽀柱同步承压，市场紧张态势或将延续。
-限免
-请发表您的评论
-
-### Page 3
-
-图⽚
-表情 发布评论
-
----
-## Document 606: 月營收評析-散熱、機殼與滑軌產業-CTBC260611
-
-Source PDF: all report pdf/月營收評析-散熱、機殼與滑軌產業-CTBC260611.pdf
-Report source: Unknown
-Date: 未知日期
-Pages: 4
-Extraction status: ok
-
-### Page 1
-
-【中信投顧投資分析報告】 
-月營收評析
-
-2 0 2 6 / 06 /11
-
-1
-
-相關個股 代號 評等 目標價 
-奇鋐 3017 買進 3,520 
-雙鴻 3324 買進 1,495 
-邁科 6831 買進 441 
-勤誠 8210 買進 1,705 
-川湖 2059 買進 6,635 
-富世達 6805 買進 3,200
-
-鄭子凡 
-Jasmin.cheng@ctbcsis.com
-
-散熱 、 機殼 與 滑 軌產業  
-5 月 營 收 川 湖 強 勢 領 漲 ， 散 熱 與 機 殼 靜 待 下 半 年 放 量 
-⚫ 奇鋐 /雙鴻 /富世達營收符合市場預期，預計下半年升溫  
-⚫ 川湖 5 月營 收大 beat 市場預期， 營收有望持續向上  
-⚫ 散熱與機殼廠預期 6 月營收回溫，下半年加速  
-奇鋐 (3017) ：奇鋐 5 月營收 158.71 億元，月增 1.5% ，年增 60.6% ，累
-計 2Q26 營收達 307.6 億元，達成率約 61.6% ，符合市場預期。我們認
-為 AWS T3 氣冷產品於 5 月底才開始進入拉貨階段，因此 5 月營收尚
-未完全反映相關貢獻；隨著 6 月出貨規模放大，預期將帶動單月營收
-再創新高，支撐 2Q26 營收維持季增 4.3% 的成長動能。展望 2H26 ，
-隨著 AI 伺服器新平台逐步進入量產放量期，營運動能預期將由 2Q26
-末開始轉強，並延續至 3Q26 後明顯加速。在產品時程方面， ASIC 相
-關液冷產品預計自 6~8 月起陸續放量出貨，率先帶動水冷供應鏈需求
-升溫；同時， NVIDIA 新一代 Vera Rubin 平台相關水冷零組件，預計
-將於 3Q26 開始出貨予 ODM 廠，進一步推升整體出貨動能。  
-雙鴻 (3324 )： 雙鴻 5 月營收達 31.39 億元 ，月 增 10.4% ，年增 93.8% ，
-達成率為 64.5% ，符合市場預期。 5 月營收較 4 月明顯回升，主要係 4
-月泰國廠區受當地新年假期影響、工作天數減少，導致出貨短期受影
-響， 5 月後已逐步恢復正常產能與出貨水準。展望後續，公司預期 6
-月 CDM 產品將重回 NVIDIA Vera Rubin 相關供應鏈出貨節奏，有望
-帶動產品組合與出貨動能同步改善。整體而言，在產能恢復正常化與
-AI 伺服器水冷需求持續推升下，預期 5~6 月營收將呈現逐月走升趨
-勢。展望 2H26 ，雙鴻將迎來多項水冷專案同步進入放量階段，除 NV 
-Vera Rubin 平台相關水冷解決方案外 ， ASIC 伺服器客戶亦將陸續導入
-液冷架構，帶動整體需求擴大；同時， CDU 與 DIMM Cold Plate 等關
-鍵零組件專案亦預計於 2H26 逐步放量，產品組合將持續優化，我們
-預期雙鴻 2H26 營收與獲利皆有望同步維持成長動能。  
-邁科 (6831) ：邁科 5 月營收 3.3 億元，月 增 55%，年減 10.8 %，營收低
-於預期 ，達成率為 31%，主要因為 AWS 客戶 ASIC 平台轉換影響所
-致，客戶自 5 月底起才開始拉貨 T3 氣冷產品， 展望 6 月，我們預期
-隨 T3 氣冷產品出貨放量，營收有望較 5 月明顯成長，不排除挑戰單
-月歷史新高。展望 2026 年，邁科主要成長動能仍將來自 T3 氣冷散熱
-產品，隨 AWS 平台轉換完成後拉貨將逐季向上，帶動整體營收呈現
-穩定成長趨勢，下半年表現預期將優於上半年。另外， A 客戶交換器
-專案預計於 4Q26 開始出貨，並導入 CPO 與液冷散熱解決方案，將成
-為 2027 年重要成長催化劑，帶動專案進入放量階段。同時， 2027 年
-亦有望受惠新 CSP 客戶導入，進一步擴大液冷散熱產品滲透率與整體
-市場規模。我們認為邁科短期雖受平台轉換影響導致營收波動，但中
-長期在 AI 伺服器氣冷與液冷需求同步擴張下，成長趨勢明確，維持
-正向看待後續營運表現。  
-富世達 (6805):  富世達 5 月營收 11.8 億元 ， 月減12.77%， 年增37.22 %，
-2Q26 達成率約為 66.9 % ， 符 合 我 們 的 預 期 。2Q26 營收主要受到
-NVIDIA 平台轉換期影響，加上 AWS T3 水冷產品預計於下半年開始
-放量，短期營運將出現階段性空窗。 展望後市，公司目前亦積極與奇
-鋐合作進行 Mini QD 產品驗證，顯示其技術與產品線有機會進一步延
-
-### Page 2
-
-【中信投顧投資分析報告】 
-月營收評析
-
-2 0 2 6 / 06 /11
-
-2 
- 伸至光通與高速運算相關散熱應用，開啟新一階段產品滲透機會。我們認為富世
-達成長趨勢並未改變 ， 僅屬短期基期切換與專案過渡期 。 後續隨 AI 伺服器散熱需
-求擴大、產品組合持續升級，營收與獲利仍具上修空間，因此維持買進評等。  
-勤誠 (8210):  勤誠 5 月營收 25.17 億元，月增 21.8 %，年增 37.3 %，達成率 59.6% ，
-我們認為符合預期，主要因 4~5 月受 新舊專案轉換期間的短期波動 ，不過隨著專
-案轉換逐步完成，預期 6 月起營運動能將回升並逐步轉佳。展望 2026 年，我們認
-為除既有 AI 伺服器機殼業務維持穩健成長外， Rack 業務將成為公司中長期最重
-要的成長主軸。公司已進一步切入 IT Rack 、Switch Rack 及 CDU 液冷系統等高階
-AI 機櫃領域，受惠 AI 伺服器功耗持續上升，帶動機櫃大型化與液冷化趨勢加速，
-不僅提升單櫃價值量，也同步提高產業技術與製造門檻。 勤誠有 望透 過產品組合
-升級持續放大營收規模與獲利彈性 ， 並鞏固其在 AI 機櫃供應鏈中的關鍵地位。此
-外，公司亦開始導入壓鑄製程技術，未來有機會進一步切入 Busbar 或 CDM 等高
-附加價值零組件領域，持續拓展產品廣度與長期成長曲線，因此維持買進建議。  
-川湖 (2059): 川湖 5 月營收 37.91 億元，月增 46.1%，年增 172.1% ，達成率 95%，，
-表現明顯優於市場預期。主要受惠 GB300 平台出貨動能強勁、 AWS T3 進入量產
-階段，以及傳統伺服器需求持續回溫，帶動整體拉貨力道顯著提升。展望後市，
-我們認為川湖營運將維持逐季成長趨勢 ， 成長動能除既有 AI 伺服器專案外，下半
-年仍將陸續迎來多項新平台導入，包括 Vera Rubin 、AMD MI450 及 ASIC 伺服器
-等，將進一步支撐滑軌產品需求延續高檔表現。同時，市場需求亦正由傳統伺服
-器機櫃，逐步延伸至網通機櫃與電源機櫃等新應用領域，帶動滑軌產品整體 TAM
-持續擴大。在 AI 基礎設施持續擴張的長期趨勢下，川湖憑藉其在高階滑軌領域的
-技術與市占優勢，預期仍將穩固其產業關鍵供應地位。我們看好公司受惠 AI 伺服
-器與新應用滲透雙重推動，營運動能具備延續性，維持買進建議。  
-散熱與機殼廠預期 6 月營收回溫，下半年加速 : 多數散熱與機殼廠 5 月營收整體
-達成率大致符合預期 。 短期仍受到 AI 伺服器平台進入新舊世代交替影響，導致部
-分專案出貨節奏略有波動。不過隨著 AWS T3 平台於 5 月底開始逐步拉貨下游零
-組件，預期 6 月營收將較 5 月回升，呈現月增趨勢。相較之下，川湖營收表現明
-顯優於市場預期，主要受惠 5 月多項 AI 與新伺服器相關專案同步放量，帶動滑軌
-產品出貨大幅成長。  
-展望整體下游產業 ， 我們維持正向看法 ， 認為 2026 年下半年起成長動能將進一步
-加速，主要來自多項新平台進入放量階段，包括 Vera Rubin 、AMD MI450 及 ASIC
-伺服器等，將同步推升機殼與滑軌等基礎硬體需求。此外，隨著 AI 伺服器功耗持
-續攀升，散熱架構亦加速升級，水冷滲透率進一步提升，帶動整體液冷需求持續
-擴大，相關零組件如 CDU 、水冷板、 Manifold 及 QD 等均有望同步受惠。整體而
-言，在 AI 新平台放量與伺服器架構由氣冷走向液冷的雙重驅動下，我們預期下半
-年相關產業營收與獲利將重回並維持強勁成長軌道，產業基本面持續向上趨勢不
-變。
-
-### Page 3
-
-【中信投顧投資分析報告】 
-月營收評析
-
-2 0 2 6 / 06 /11
-
-3 
-圖表一、月營收表 (單位：百萬元 )
-
-資料來源： CMoney ，中信投顧整理
-
-### Page 4
-
-【中信投顧投資分析報告】 
-月營收評析
-
-2 0 2 6 / 06 /11
-
----
-## Document 622: 正念場を迎える半導体牽引株式市場 ～5月分物価関連統計、6月FOMCの内容次第では基調転換も～
-
-Source PDF: all report pdf/正念場を迎える半導体牽引株式市場 ～5月分物価関連統計、6月FOMCの内容次第では基調転換も～.pdf
-Report source: DLRI
-Date: 2026-06-10
-Pages: 5
-Extraction status: ok
-
-### Page 1
-
-Investment Navigator
-
-2026 年 6 月 10 日
-
-1/5 
-正念場を迎える半導体牽引株式市場 
-～5 月分物価関連統計、6 月 FOMC の内容次第では基調転換も～ 
- 経済調査部 シニア・フェロー  嶌峰 義清 
-（℡：050-5474-7489）
-
-（要旨） 
-○ 5 月分米雇用統計が市場予想を上回る結果となったことを受けて、市場では年内にFRB が利
-上げを行う可能性を警戒、これまで上昇が目立っていた半導体関連株を中心に株価が大幅に
-下落するなど、市場は動揺した。 
-○ もっとも、件の雇用統計からは需給逼迫によるインフレ圧力の高まりは確認されない。市場
-の期待インフレ率が特段上昇したわけでも無く、半導体関連株については“一服する材料”
-として利用された感がある。 
-○ とはいえ、FRB の次の一手が年内利上げであれば、 その影響は非常に大きい。5 月分の米国物
-価統計、 ウォーシュ新FRB 議長の下で初めて開かれるFOMC の内容次第では、 市場の基調が本
-格的に変わるリスクは否定できない。
-
-1. 予想を上回る雇用統計と、年内利上げを織り込んだ市場の動揺 
-6 月 5 日の米国市場、及び週明けとなる
-8 日のアジア市場では、これまで急伸して
-きた半導体関連株を中心に株価が急落し
-た。要因は複数あるが、その中でマクロ
-的な環境変化から生じる材料として、5 日
-に発表された米国雇用統計（5 月分）の結
-果が市場予想を大幅に上回ったことによ
-り、FRBが年内に利上げを実施するとの見
-方が強まったことが指摘されている。 
-雇用統計では（図表1）、失業率は
-4.3％と前月から横ばい、市場のコンセン
-サス通りとなる一方で、非農業部門雇用
-者数は前月差＋172 千人と市場の事前コン
-センサス（＋89 千人）を大幅に上回った
-出所：Datastream
-（図表1）米国雇用者数と失業率の推移
-3.0
-3.5
-4.0
-4.5
-5.0
-5.5
-6.0
-6.5
-7.0
--400
--200
-0
-200
-400
-600
-800
-1000
-21 22 23 24 25 26
-非農業雇用者数
-（左、前月差）
-失業率（右）
-（千人） （％）
-
-### Page 2
-
-2/5 
-ことで、雇用の持ち直し傾向が中東情勢悪化後も継続していることが確認された。 
-これを受けて、市場による先行きの政策金利水準予想を反映するFF金利先物市場では、2026 年
-6 月限を除いて価格が下落、将来の利上げ確率が上昇したことが反映された（図表2）。FF金利先
-物価格下落は週明け8 日も続き、12 月限の金利水準は3.870％と、1 回の利上げが実施された場合
-のFF金利の中央値（3.75～4.00％の中央値3.875％）をほぼ織り込んだ格好となっている。
-
-FF金利先物価格の動きから判断すれば、イランへの空爆開始（2 月28 日）までは、市場は年内
-に2 回以上の利下げが実施されることを織り込んでいた。しかし、空爆後は徐々にその確率が低
-下し、3 月下旬以降は年内据え置きがコンセンサスとなった。FRBの“次の一手”が利下げではな
-く、利上げに傾いたのは5 月半ば頃からで、これ以降確率は多少上下しながらも、基本的には年
-内に利上げが実施される可能性を市場は見続けている。 
-株式市場においては、中央銀行の利上げは金利の上昇に加えて、流動性の圧迫という観点から
-もマイナス要因だ。特に、急騰が続いてきた半導体関連株にはその影響が大きく出やすい。実
-際、5 日の米国株式市場ではNYダウが前日比▲1.3％、SP500 が同▲2.6％の下落にとどまったのに
-対し、フィラデルフィア半導体株指数（SOX）は同▲10.3％と、イランへの空爆開始後最も大きな
-下落率を記録した。これに呼応するように、週明け8 日の日本では日経半導体株指数が前週末比
-▲7.4％（TOPIXは同▲2.4％） 、半導体関連銘柄のウェイトが大きい韓国総合株価指数は同▲8.3％
-などと、半導体関連株中心に大きな値下がりを演じた。
-
-注：各線はそれぞれ2026年の凡例月末に相当するFF金利先物価格から算出される金利水準
-出所：Datastream
-3.000
-3.125
-3.250
-3.375
-3.500
-3.625
-3.750
-3.875
-4.000
-2/27 3/6 3/13 3/20 3/27 4/3 4/10 4/17 4/24 5/1 5/8 5/15 5/22 5/29 6/5
-6月 7月 8月 9月 10月 11月 12月
-（％） （図表2）FF金利先物の動向
-▲0.5％利下げの中心値
-▲0.25％利下げの中心値
-＋0.25％利上げの中心値
-現在のFF金利の中心値
-
-### Page 3
-
-3/5
-2. 雇用統計で米国のインフレ懸念が高まったわけではない
-このように、足元では米国の次の金融
-政策変更は利下げではなく利上げとの見
-方がより強固となりつつある。
-とはいえ、雇用統計をきっかけに金融
-政策やインフレに対する見方が急激に変
-化したわけではない。前述したFF金利先
-物市場では、5 月下旬にも足元に近い水準
-まで利上げを織り込んでいる。また、国
-債利回りから物価連動債利回りを差し引
-いて算出する期待インフレ率（BEI）を見
-ると、水準自体は5 月の方が高く、足元
-の方が低い（図表3）。こうした期待イン
-フレ率変化の背景には、4 月下旬～5 月中
-旬にかけて原油価格がWTI先物で 1 バレル
-＝100 ドル超えと高い水準だったのに対し、足元では同90 ドル程度に下落していることが挙げら
-れる。
-一方、5 月分の雇用統計を見ると、民間部門の時間あたり賃金の伸びは前年同月比＋3.4％と鈍
-化しており、労働需給の逼迫が賃金を押し上げ、物価上昇圧力を高める“ホームメイドインフ
-レ”の兆候は確認されていない。逆に、実質時間あたり賃金（4 月分）は同▲0.3％と、物価上昇
-
-率の加速を映じてマイナスに転じており、個人消費にはマイナスの影響を及ぼす内容となってい
-る（図表4）。
-このような点を勘案すれば、5 月分の雇用統計を受けて市場の利上げ期待が高まり、その結果急
-伸していた半導体関連株が大幅に値下がりしたわけではなく、個別企業の要因（売上見通しが市
-出所：Datastream
-（図表4）米国民間部門時間あたり賃金の推移(前年比）
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10 12 14 16 18 20 22 24 26
-（％） 【名目】
--4
--2
-0
-2
-4
-6
-8
-10 12 14 16 18 20 22 24 26
-（％） 【実質】
-注：BEIは10年国債利回りから同物価連動債利回りを
-引いて算出
-出所：Datastream
-（図表3）米国期待インフレ率(BEI）の推移
-2.20
-2.25
-2.30
-2.35
-2.40
-2.45
-2.50
-2.55
-1/1 2/1 3/1 4/1 5/1 6/1
-（％）
-
-### Page 4
-
-4/5 
-場予想対比下振れ、大規模IPOへの対応など）に「利上げ懸念」という材料が加わったことで、過
-熱感に伴う利益確定に繋がったものと判断される。
-
-3. とはいえ金利に敏感にならざるを得ない株式市場にとってこれからが正念場 
-世界的な半導体関連株の上昇は、AIの進化・発展とともに半導体市場が急拡大していくとの見
-通しが裏付けとなっている。その期待が行き過ぎていると言い切れるほどの材料は乏しく、逆に
-期待以上の拡大となる可能性も否定できない。 
-とはいえ、あまりに急激で一方的な株価の上昇局面では、投資家は一息入れる、すなわち利益
-を確定する材料を探しがちだ。例えば、市場予想を下回った経済指標や金利の上昇、当局者の発
-言などに反応しやすくなり、ボラタイルな動き（値動きが激しい）が目立つようになる。最近の
-株式市場では、こうした動きが現れているものと判断される。 
-ただし、それが政策転換となれば話は別だ。特に金融政策が緩和方向から引き締め方向に転じ
-る場合、金利の上昇に伴う相対的な魅力の低下や流動性の縮小など、株式市場を取り巻く環境は
-一変する。それまでの上昇の勢いが強ければ強いほど、調整の圧力も強くなる傾向がある。 
-足元の米政策金利（FF金利）は3.50～3.75％となっている。これに対し、FF金利の中立水準と
-見なされている、FRBが四半期に一度
-公表しているFOMCメンバーによる長
-期的なFF金利の平均水準は、直近（3
-月公表）で3.125％（中央値）とな
-っている。FRBの物価目標が2％であ
-ることから、中立金利を実質ベース
-で見た自然利子率は1.125％とな
-る。これに対し、足元における市場
-の期待インフレ率は前述したように
-2.4％前後だ。したがって、足元の期
-待インフレ率を勘案した（名目）中
-立金利水準は3.525％ということに
-なる。このことから、足元の政策金
-利はほぼ中立水準にあり、景気に及
-ぼす影響も“中立的”ということに
-なる（図表5）。 
-しかし、利上げが実施されれば、政策金利水準は中立水準を上放れし、理論的に見れば景気に
-は“抑制的”な圧力がかかり始める水準に達する。これは、景気減速を前提にした企業業績見通
-しに基づいた適正株価水準を探る展開へ、株式市場が移行する局面に入ることを意味する。 
-前述したように、足元の物価上昇は専ら資源価格の上昇によってもたらされたもので、金融政
-策による対応には限界がある。とはいえ、足元の米国経済は雇用の持ち直し傾向が続いているう
-注：色つき部分はFRBによる中立金利水準域
-出所：FRB
-0.0
-0.5
-1.0
-1.5
-2.0
-2.5
-3.0
-3.5
-4.0
-4.5
-5.0
-5.5
-12 14 16 18 20 22 24 26
-（図表5）米国の政策金利（FF金利）の推移（％）
-
-### Page 5
-
+本資料は情報提供を目的として作成されたものであり、投資勧誘を目的としたものではありません。作成時点で、第一ライフ資産運用
 経済研究所が信ずるに足ると判断した情報に基づき作成していますが、その正確性、完全性に対する責任は負いません。見通しは予告
 なく変更されることがあります。また、記載された内容は、第一生命保険ないしはその関連会社の投資方針と常に整合的であるとは限
-りません。
-5/5
-え、製造業の景況感も在庫調整の進展などを背景に改善傾向を強めている。加えて、2025 年に成
-立した財政調整法による減税効果が景気をサポートする効果も期待されている。
-資源価格の高騰が広く物価を押し上げ、期待インフレ率が更に上昇することを警戒して、利上
-げによって金利水準を景気抑制域に引き上げて、景気に多少のブレーキを踏んでも大きな影響は
-ないと判断するかどうかはFRBにかかっている。ただし、FRBの議長は新任のウォーシュ氏が就い
-たばかりであり、その手腕、考え方は未知数だ。6 月FOMC（16～17 日：米国時間）が開催される
-前に発表される5 月分の各種物価統計を含めて、急伸してきた半導体関連株を中心に、株式市場
-の先行きを占ううえで非常に重要な分岐点は近づいている。
+りません。 
+2/2 
+品目別にみると、直近 6 月の上昇率が5 月最終週と比較して大きい品目として、 生タイプ即席袋
+めん、即席カップ入りスープ・汁、即席カップめん、納豆、豆腐・豆腐製品、生鮮卵、食用油、殺
+虫剤・殺鼠剤、 洗濯・物干し用品が挙がる （図表２） 。 容器・包装コストが大きいとみられる加工食
+品の上昇が目立っており、ナフサ由来のコスト上昇と整合的である。
 
-仮に、川上段階での物価（輸入物価、生産者物価）上昇率が加速しても、消費者物価への波及
-を見守る余裕がある、との評価をFRBが下すようであれば、ウォーシュFRBはハト派的と評され
-て、株式市場には思わぬ恩恵となろう。逆に、消費者段階への物価上昇の波及を強く警戒すれ
-ば、タカ派的と見なされて、市場は年内利上げの可能性をより強く意識しよう。これは株式市場
-の方向転換に繋がる可能性がある。
-以 上
+図表２．6 月以降の価格上昇が目立つ品目群（前年比、％）
+
+（注）縦点線は 2026/6/1。（出所）ナウキャスト「日経 CPINOW」より第一ライフ資産運用経済研究所が作成。
+
+本日付けで米イランの戦闘終結に向けた合意が報じられている。 情勢改善はコストプッシュイン
+フレの圧力を和らげるほか、ホルムズ海峡が開放されれば供給途絶のリスクも低減に向かいそうだ。
+一方、戦闘による中東の石油生産能力への影響、関係再悪化の懸念などを背景に、原油価格も情勢
+悪化前対比では一定の高止まりが続きやすいとみられる。イラン情勢を起因とする消費者レベルの
+値上げ圧力はもうしばらく残存することが予想される。
+
+以上
 
 ---
-## Document 633: 海外观察：2026年6月美国FOMC会议：沃什首秀，点阵图抢戏
+## Document 377: ロシアGDP（2026年1-3月期）－1-3月期は一時的要因もありマイナス成長に
 
-Source PDF: all report pdf/海外观察：2026年6月美国FOMC会议：沃什首秀，点阵图抢戏.pdf
-Report source: 东海证券
-Date: 2026-06-21
-Pages: 3
+Source PDF: all report pdf/ロシアGDP（2026年1-3月期）－1-3月期は一時的要因もありマイナス成長に.pdf
+Report source: NLI
+Date: 2026-06-18
+Pages: 2
 Extraction status: ok
 
 ### Page 1
 
-总
-量
-研
-究 
-宏
-观
-简
-评  
-证券研究报告 HTTP://WWW.LONGONE.COM.CN 请务必仔细阅读正文后的所有说明和声明
+1． 結果の概要：マイナス成長に転じる 
+6 月 17 日、ロシア連邦統計局は国内総生産（ＧＤＰ）を公表し、結果は以下の通りとなった。 
+【実質ＧＤＰ成長率（未季節調整系列）】 
+・2026 年1-3 月期の前年同期比伸び率は▲0.2％、予想1（同▲0.2％）と一致、 前期 （同1.0％）
+からマイナスに転じた（図表1・2） 
+（図表 1）
 
-[Table_Reportdate] 2026年06月18日  
- [Table_NewTitle] 沃什首秀，点阵图抢戏 
-——海外观察：2026年6月美国FOMC会议
+（図表 2）
 
-[Table_Authors] 证券分析师 
-刘思佳 S0630516080002 
-liusj@longone.com.cn
+2． 結果の詳細：3 月以降は再びプラス成長に転じる 
+ロシアの 26 年 1-3 月期の実質ＧＤＰ伸び率は前年比▲0.2％となり、5 月 15 日に公表されてい
+た予備推計値と一致した。25 年 10-12 月期（同1.0％）からマイナス成長に転じた。マイナス成長
+はウクライナ侵攻直後で西側諸国の経済制裁に直面していた23 年1-3 月期 （▲0.8％） 以来となる。
+季節調整系列の前期比も▲0.6％ （年率換算▲2.5％）と、10-12 月期 （前期比0.4％、 年率換算1.6％）
+からマイナス成長に転じている。 
+執筆時点では需要別のデータは未公表であるため、以下では産業別のデータ等を確認していく。 
+産業別の伸び率は、前年比で第一次産業が 0.0％（前期：4.5％）、第二次産業が▲1.7％（前期：
+2.0％）、第三次産業（金融・不動産）が▲0.2％（前期：▲1.7％）、第三次産業（その他）が0.6％
+（前期：0.7％）となった（図表 3）。より細かい産業の伸び率では、建設業（▲9.7％）や技術サー
+ビス（▲6.1％）のマイナスが目立つ。
 
-[table_main] 
-投资要点 
-➢ 事件： 当地时间 6月17日，美联储召开 2026年6月FOMC会议，基准利率保持在 3.50%-
-3.75%区间不变。 
-➢ 核心观点：6月FOMC会议按兵不动，符合市场预期。会议真正超预期的因素并非来自沃
-什的首秀，而是美联储偏鹰派的点阵图。相较于3月时无人支持年内加息，本次会议除沃
-什没有提交利率预测外， 其余18人内一半支持年内加息。 同时会议声明也删除了宽松倾向
-以及前瞻性指引而变得极简化，双重使命也更强调通胀。SEP上调了通胀预期，下调了经
-济增长预期，这一组合略偏滞胀。除此之外，并未释放出明显偏鹰的信号，总体缺乏预期
-指引。会议后，FedWatch显示年内加息1次的概率升至80%以上。 不过，预期加息的诱因
-主要来自于油价上涨带来的通胀，美伊已签署协议，若后续油价趋势回落，对通胀的影响
-减弱得到进一步确认后，年内的加息预期仍有可能回撤。 
-➢ 点阵图偏鹰。本次会议中最鹰派的信号来自于点阵图， 除了沃什本人没有提交利率预测外，
-其余18人中9人支持年内加息，其中3人支持加息1次，6人支持加息2次及以上，相较于今
-年3月无人支持年内加息，明显上调了年内的利率预期。2027年底、2028年底的利率预期
-中值分别较3月提升了0.5和0.3个百分点至3.6%和3.4%；但长期中性利率中值没有变化，
-仍维持在3.1%。不过需要注意的是， 沃什不仅本人没有提交利率预测， 在发布会上也明确
-否定了点阵图的指导意义。 
-➢ 会议声明极简化，更强调通胀。如市场预期，本次会议声明删除了宽松倾向以及前瞻性指
-引，使声明本身篇幅大为缩减，全文仅130多个单词。双重使命中，强调“通胀相对于2%
-的目标仍然偏高” ， “将致力于实现价格稳定” ，并未提及“最大化就业” 。同时在新闻发布
-会上， 沃什提到 “通胀” 的词频要远高于 “就业” 。此外， 在经济方面， 会议声明中仅强调
-了“生产率增长和资本投资都很强劲” 。 
-➢ SEP上调通胀预期， 下调经济增长预期。经济增速方面，6月SEP将2026年预测下调0.2pct
-至2.2%，2027年预测不变；通胀方面，将2026年PCE以及核心PCE预测分别上调0.9pct、
-0.6pct至3.6%、3.3%，将2027年PCE以及核心PCE预测分别上调0.1pct、0.3pct至2.3%、
-2.5%；失业率方面，将2026年预测下调0.1pct至4.3%，2027年预测不变。 
-➢ 改革可能渐进式推进。改革方面，沃什在新闻发布会上宣布成立五个工作小组，包括美联
-储的沟通机制、美联储的资产负债表、现有数据来源的使用和依赖、转型时代的生产率和
-就业、美联储的通胀框架，预计年底前完成工作。也就是说，从短期来看，截尾通胀、缩
-表等政策主张的落地实践可能至少还要等到四季度或是明年。  
-➢ 年内加息仍存不确定性。发布会上沃什表示通胀回到2%之前， 不会改变目标，除此之外并
-未释放出明显偏鹰的信号，总体缺乏预期指引。 市场的反应主要来自于超预期的鹰派点阵
-图以及偏滞胀信号的SEP预测，美债收益率整体上升，曲线趋平，美元上涨，黄金、美股
-下跌。6月FOMC会议后，FedWatch显示年内加息1次的概率升至80%以上。不过， 自美伊
-冲突爆发以来的两份通胀数据中， 结构上都未反映涨价在核心通胀上的明显传导， 此外美
-伊已签订协议，虽然油价尚未回到冲突前水平，但距高点已有明显回落；同时劳动力市场
-从供需两端来看，失业率持稳的门槛并不高。若后续油价趋势回落，以及对通胀的影响减
-弱得到进一步确认后，年内的加息预期仍有可能回撤。 
-➢ 风险提示：中东冲突对通胀影响大于预期，美国就业市场受AI影响恶化超预期。
+1 bloomberg 集計の中央値。以下の予想値も同様。 
+▲ 0.2
+▲ 14
+▲ 12
+▲ 10
+▲ 8
+▲ 6
+▲ 4
+▲ 2
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+2025
+2026
+誤差等
+輸入
+輸出
+投資（在庫変動含む）
+最終消費
+実質GDP
+ロシアの実質ＧＤＰ成長率（需要項目別寄与度）（前年同期比、％）
+（四半期）
+（注）未季節調整系列の前年同期比、投資は在庫変動含む。寄与度は試算値
+22年以降の輸出入など一部データなし（22年以降の輸出入などは誤差に含む）
+（資料）ロシア連邦統計局、ＣＥＩＣ
+▲ 0.2
+▲ 0.3
+▲ 8
+▲ 6
+▲ 4
+▲ 2
+0
+2
+4
+6
+8
+10
+12
+14
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+2025
+2026
+税金（補助金控除後）
+第三次産業（その他）
+第三次産業（金融・不動産）
+第二次産業
+第一次産業
+実質GDP
+総付加価値
+ロシアの実質ＧＤＰ成長率（供給項目別寄与度）（前年同期比、％）
+（四半期）
+（注）未季節調整系列の前年同期比、寄与度は筆者による簡易的な試算値
+（資料）ロシア連邦統計局、ＣＥＩＣ
+ニッセイ基礎研究所 2026-06-18 
+ロシア GDP（2026 年 1-3 月期） 
+－1-3 月期は一時的要因もありマイナス成長に
 
 ### Page 2
 
-证券研究报告 HTTP://WWW.LONGONE.COM.CN 2/3 请务必仔细阅读正文后的所有说明和声明
+（図表 5）
 
-宏观简评
-
-图1  CME 显示年内加息概率上升至 80%以上
-
-资料来源：CME，东海证券研究所
-
-图2  6 月 FOMC 会议点阵图明显偏鹰
-
-资料来源：FED，东海证券研究所
-
-### Page 3
-
-证券研究报告 HTTP://WWW.LONGONE.COM.CN 3/3 请务必仔细阅读正文后的所有说明和声明
-
----
-## Document 660: 策略点评报告：6月FOMC，沃什新政下的加息重启
-
-Source PDF: all report pdf/策略点评报告：6月FOMC，沃什新政下的加息重启.pdf
-Report source: Unknown
-Date: 未知日期
-Pages: 9
-Extraction status: ok
-
-### Page 1
-
-2026 年 06 月 18 日 
-6 月 
-—策略 点评报告
-
-事件
-
-分析师：孙航 S1050525050001 
- sunhang@cfsc.com.cn 
-分析师：杨芹芹 S1050523040001 
- yangqq@cfsc.com.cn   
-最近一年大盘表现
-
-资料来源：Wind，华鑫证券研究
-
-相关研究   
-1、《3 月 
-场定价不降息》2026-03-19 
-2、《政策定调提质增效，助力2026
-年 A 股盈利驱动行情》2025-12-15 
-3、《三大利好齐发，政策护航2026
-年 A 股牛市》2025-12-09
-
-北京时间 2026 年 6 月 18 日凌晨，美联储公布了 6 月货币政
-策决议，维持当前利率不变，并发布了 二季度的预测和点阵
-图，上调了通胀和利率预期，下修了失业率预期。
-
-投资要点 
-▌ 联储态度转鹰，放弃降息措辞 
-利率维持不变，声明文本大幅精简，取消了公布票委投票情
-况的惯例，删除了暗示未来可能降息的措辞，正式宣告放弃
-前瞻性指引。大幅上调了今年的 PCE 与核心 PCE 通胀预期，
-以及未来三年的利率中值。同时小幅下调了 GDP 与失业率预
-期。沃什宣布新设五个领域的货币政策工作组，预计于年底
-前完成对沟通方式的全面审查。 
-▌ 重心重回通胀  
-上调通胀、下调失业率与下调 GDP 的组合，意味着联储的货
-币政策逻辑发生了改变：
-
-1. 告别二选一的平衡陷阱：过去联储常在充分就业和物价稳
-定之间进行权衡。沃什明确指出当前劳动力市场供需同步增
-长且保持稳定，不需要在两者之间进行二选一。这意味着，
-只要就业市场不出现断崖式下跌，联储就不会为了维持经济
-增速而向通胀妥协。 
-2. 进一步偏离 2%的预期：联储上调今年 PCE 预期并调高未
-来三年利率中值，反映出官员们意识到通胀粘性远超预期。
-在面对已经连续五年无法达成通胀目标的既定事实下，联储
-当前的执政合法性被迫绑定在抗通胀的决心上。 
-3. 点阵图大幅转鹰：半数官员开始考虑年内加息，表明联储
-的政策重心已经彻底完成了从何时降息到是否需要再加息的
-转移，为后续利率的进一步冲高打开空间。。 
-▌ 沃什首秀：低透明非传统且尚未分裂的联储 
-1. 降低透明度：精简声明、取消票委投票细节公开、放弃前
-瞻性指引，这些举措实质上是在主动削减联储与市场之间的
-透明度。沃什试图通过降低透明度来重立央行相机抉择的权
-威。 
-2. 对传统数据框架的反驳：沃什将现有的政府经济数据贬低
-为历史的回声，指出其频频大幅修正的弊端。他推崇金融市
+26 年1-3 月期の名目成長率は前年同期比4.0％（前期：5.2％） 、ＧＤＰデフレータ伸び率は前年
+同期比 4.2％（同4.2％）となり、デフレータは横ばいで推移した（図表5）。 
+直近までの動向を経済発展省が公表する月次のＧ
+ＤＰ成長率（前年比）から確認すると、26 年入り後
+は1 月▲1.7％、2 月▲1.0％、3 月1.7％、4 月 1.3％
+となり、3 月以降はプラス成長に戻っている（図表
+6）。なお、1-3 月期のマイナス成長については、 付加
+価値税引き上げなどによる悪影響のほか、1-2 月の
+営業日が前年対比で少ないことも影響していると指
+摘されている。 
+1-3 月期はマイナス成長に転じたものの、4-6 月期
+以降は再び成長率を高める可能性が高い。 
+85
+90
+95
+100
+105
+110
+115
+120
+125
+130
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+2025
+2026
+ロシアの実質ＧＤＰの動向（供給項目別）
+（2019年10-12月期＝100）
+（四半期）
+第三次産業
+（金融・不動産）
+第一次産業
+実質ＧＤＰ
+第三次産業
+（その他）
+（注）季節調整系列の19年10-12月期を100として指数化
+（資料）ロシア連邦統計局のデータをＣＥＩＣより取得
+第二次産業
+4.0
+▲ 0.2
+▲ 15
+▲ 10
+▲ 5
 0
 5
 10
@@ -9132,190 +7611,302 @@ Extraction status: ok
 25
 30
 35
-(%) 沪深300
-证
-券
-研
-究
-报
-告 
-策
-略
-研
-究
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+2025
+2026
+ＧＤＰデフレータ
+名目成長率
+実質成長率
+ロシアの名目および実質成長率
+（四半期）
+（注）未季節調整値、前年同期比
+（資料）ロシア連邦統計局のデータをＣＥＩＣより取得
+（前年同期比、％）
+（図表 3）
+
+（図表 6）
+
+本資料記載のデータは各種の情報源から入手・加工したものであり、その正確性と完全性を保証するものではありません。 
+また、本資料は情報提供が目的であり、記載の意見や予測は、いかなる契約の締結や解約を勧誘するものではありません。 
+▲ 0.6▲ 1.1 0.3
+2.6
+▲ 2.0▲ 3.3▲ 0.3▲ 3.8▲ 0.7 2.7 ▲ 3.0▲ 1.1
+1.7
+▲ 2.9▲ 0.0
+▲ 2.1
+▲ 4.1
+1.6
+▲ 4.2
+▲ 1.2 1.2
+▲ 0.3 0.4
+▲ 27.3
+0.7 0.1
+▲ 0.2▲ 0.3
+1.9
+0.0
+▲ 1.7
+0.4
+▲ 1.5
+▲ 9.7
+▲ 0.2
+0.9
+▲ 1.1
+0.6
+3.4
+▲ 3.9
+0.3
+▲ 1.8
+4.6 4.8
+▲ 6.1
+▲ 3.1
+3.9
+0.4 0.5 ▲ 0.4
+1.9
+0.0
+▲ 10
+▲ 8
+▲ 6
+▲ 4
+▲ 2
+0
+2
+4
+6
+8
+10
+▲ 30
+▲ 20
+▲ 10
+0
+10
+20
+30
+全体〔100.0〕
+総付加価値〔89.3〕
+税金〔10.7〕
+全体〔3.9〕
+全体〔29.5〕
+鉱業〔12.2〕
+製造業〔13.1〕
+建設業〔4.2〕
+全体〔13.8〕
+金融〔4.3〕
+不動産〔9.5〕
+全体〔42.3〕
+電気・ガス〔2.1〕
+水道〔0.5〕
+小売・卸売〔12.0〕
+運搬〔5.5〕
+飲食・居住〔0.6〕
+情報〔2.4〕
+技術〔3.6〕
+事務サービス〔1.9〕
+政府サービス〔6.3〕
+教育〔2.9〕
+医療〔3.1〕
+芸術・娯楽〔0.8〕
+その他〔0.4〕
+自家利用〔0.3〕
+実質GDP 第一次 第二次 第三次
+（金融・不動産）
+第三次（その他）
+前期比 前年比（右軸）
+ロシアの実質ＧＤＰ成長率（26年1-3月期）
+（注）〔〕は2020年の実質ＧＤＰ全体に対するウェイト、産業分類伸び率およびウェイトは筆者による試算
+（資料）ロシア連邦統計局のデータをＣＥＩＣより取得
+（％）（％）
+▲ 3.8
+▲ 8.4
+▲ 5.1
+1.3
+▲ 3.1
+▲ 7.3
+▲ 3.7
+▲ 0.2
+▲ 1.5
+▲ 7.6
+▲ 4.9
+▲ 0.6
+▲ 9
+▲ 6
+▲ 3
+0
+3
+6
+9
+12
+14/1
+14/7
+15/1
+15/7
+16/1
+16/7
+17/1
+17/7
+18/1
+18/7
+19/1
+19/7
+20/1
+20/7
+21/1
+21/7
+22/1
+22/7
+23/1
+23/7
+24/1
+24/7
+25/1
+25/7
+26/1
+月次ＧＤＰ（経済発展省、前年同月比）
+四半期ＧＤＰ（前年同期比）
+四半期ＧＤＰ（前期比）
+ロシアの実質ＧＤＰ成長率（％）
+（注）月次ＧＤＰは経済発展省の推計値
+（資料）ＣＥＩＣ
+
+---
+## Document 579: 消費者物価指数（全国・2026年5月） ～足元では落ち着きも、先行きは上振れの公算大～
+
+Source PDF: all report pdf/消費者物価指数（全国・2026年5月） ～足元では落ち着きも、先行きは上振れの公算大～.pdf
+Report source: DLRI
+Date: 2026-06-19
+Pages: 3
+Extraction status: ok
+
+### Page 1
+
+Economic Indicators
+
+2026 年 6 月19 日
+
+1/3 
+消費者物価指数（全国・2026 年 5 月） 
+～足元では落ち着きも、先行きは上振れの公算大～ 
+経済調査部 シニアエグゼクティブエコノミスト 新家義貴 
+（℡：050-5474-7490）
+
+前月から上昇率は変わらず、引き続き落ち着いた動き 
+本日総務省から発表された26 年５月の全国消費者物価指数では、生鮮食品を除く総合（ＣＰＩ
+コア）が前年比＋1.4％と、前月と同じ上昇率となった。市場予想通りの結果であり、サプライズ
+はない。石油製品が前年の裏もあって下落幅が縮小した一方、食料品価格の鈍化が続いたこと
+で、ＣＰＩコアの上昇率は前月から変化なしとなっている。食料品価格の鈍化を主因として、イ
+ンフレ率はこのところ落ち着きを見せている。イラン情勢悪化に由来する物価上昇品目も目立っ
+ておらず、少なくとも５月段階では物価上昇圧力は強まっていない。 
+もっとも、これで先行きの上振れリスクが払拭されたわけではない。米国とイランの暫定合意
+により原油価格が大幅に下落していることは、先行きの物価上昇圧力を弱める材料であるが、こ
+れまでの資源価格上昇や調達難の影響は、企業物価段階における価格上昇としてすでに一部で顕
+在化しており、今後、徐々に川下へ波及してくる可能性がある。また、燃料価格の上昇が電気
+(単位：％）
+総合 生鮮除く総
+合
+食料（酒類除
+く）及びエネ
+ルギー除く総
+合
+生鮮食品及
+びエネルギー
+を除く総合
+石油製品 総合 生鮮除く総
+合
+食料（酒類除
+く）及びエネ
+ルギー除く総
+合
+生鮮食品及
+びエネルギー
+を除く総合
+石油製品
+前年比 前年比 前年比 前年比 前年比 前年比 前年比 前年比 前年比 前年比
+25 1月 4.0 3.2 1.5 2.5 4.0 3.4 2.5 1.0 1.9 4.3
+2月 3.7 3.0 1.5 2.6 5.9 2.8 2.2 0.8 1.9 6.4
+3月 3.6 3.2 1.6 2.9 5.8 2.9 2.4 1.1 2.2 6.1
+4月 3.6 3.5 1.6 3.0 6.6 3.4 3.4 2.0 3.1 6.6
+5月 3.5 3.7 1.6 3.3 5.2 3.4 3.6 2.1 3.3 5.4
+6月 3.3 3.3 1.6 3.4 0.0 3.1 3.1 1.8 3.1 ▲ 0.9
+7月 3.1 3.1 1.6 3.4 0.3 2.9 2.9 1.7 3.1 ▲ 0.1
+8月 2.7 2.7 1.6 3.3 1.6 2.5 2.5 1.5 3.0 1.8
+9月 2.9 2.9 1.3 3.0 1.3 2.5 2.5 1.0 2.5 1.8
+10月 3.0 3.0 1.6 3.1 0.9 2.7 2.8 1.6 2.8 0.9
+11月 2.9 3.0 1.6 3.0 0.3 2.7 2.8 1.6 2.8 ▲ 0.1
+12月 2.1 2.4 1.5 2.9 ▲ 3.8 2.0 2.3 1.5 2.6 ▲ 4.5
+26 1月 1.5 2.0 1.3 2.6 ▲ 9.7 1.5 2.0 1.4 2.4 ▲ 12.1
+2月 1.3 1.6 1.4 2.5 ▲ 10.5 1.5 1.8 1.5 2.5 ▲ 12.4
+3月 1.5 1.8 1.4 2.4 ▲ 2.6 1.4 1.7 1.4 2.3 ▲ 0.1
+4月 1.4 1.4 1.1 1.9 ▲ 4.8 1.5 1.5 0.9 1.9 ▲ 7.3
+5月 1.5 1.4 1.1 1.8 ▲ 2.2 1.4 1.3 0.7 1.6 ▲ 5.5
+(出所）総務省統計局「消費者物価指数」
+全国 東京都区部
 
 ### Page 2
 
-证券研究报告
+2/3 
+代、ガス代に遅れて波及することも、先行きの物価上振れ要因となり得る。足元の物価上昇率は
+落ち着いているものの、先行きについてはなお上方向のリスクを意識しておく必要がある。
 
-如是 2 
-诚信、专业、稳健、高效
+食料品価格の鈍化が続く 
+電気・ガス代は前月からほぼ変わらずとなった（電気・都市ガス代の前年比寄与度：４月▲
+0.15％Pt → ５月▲0.14％Pt）。電気・ガス代補助が４月まででいったん終了したことで前月比で
+は＋4.9％と大きく上昇したが、昨年も同じ時期に終了していたことから、前年比での影響は限ら
+れた。なお、政府は７～９月にかけて電気・ガス代補助を復活させることを表明している。これ
+により８～10 月分のＣＰＩは押し下げられることになるだろう（（最終版）電気・ガス代補助の物
+価への影響 ～CPIコアを▲0.5～▲0.6％Pt、前年比で▲0.2～▲0.3％Pt押し下げか～ | 新家 義
+貴 | 第一ライフ資産運用経済研究所）。 
+食料品（生鮮除く）は前年比＋3.5％（前年比寄与度：＋0.90％Pt）と前月の＋4.1％（同寄与
+度：＋1.06％Pt）から鈍化した。食料品（生鮮除く）の前月比は＋0.2％と上昇が続いているが、
+昨年ほどの勢いはみられず、前年比でみればピークアウト感が鮮明となっている状況は変わらな
+い。今月は、米類が前年比▲4.9％（４月＋0.6％）と、22 年 11 月以来の前年割れとなったことが
+目につく。 
+エネルギー以外のコアコア部分は、日銀版コア（生鮮食品及びエネルギーを除く総合）が前年
+比＋1.8％（４月：＋1.9％） 、米国型コア（食料及びエネルギー除く総合）は前年比＋1.1％（４
+月：＋1.1％）となった。日銀版コアは食料品価格鈍化の影響で上昇率がやや縮小、米国型コアは
+変わらずとなっている。品目別にみても、特段イラン情勢悪化の影響で大きく上振れている品目
+が目立っている状況ではない。少なくとも５月段階では物価の加速はみられておらず、落ち着い
+た動きが続いていると判断される。 
+なお、５月の東京都区部ＣＰＩの下振れにつながった水道料については、全国では前年比▲
+4.7％（前年比寄与度：▲0.05％）となった（４月：前年比▲1.5％、寄与度▲0.02％Pt）。水道基
+本料金無償化は東京都独自の政策であるため、全国でみると影響が薄まっている。
 
-场价格和民间私营实时数据。这一权力的转移意味着市场原
-有的宏观推演逻辑面临系统性失效。 
-3. 尚未分裂的联储：尽管点阵图显示内部官员对是否加息存
-在分歧，但最终维持利率不动的决议获得全票通过，结合年
-底前将完成的沟通机制大洗牌和新设的五个工作组，显示出
-沃什正在通过重塑机制来强化内部集权。
-
-市场目前已开始定价 10 月加息，未来政策路径的博弈核心在
-于：究竟是应该看穿短期的通胀压力、博弈三季度的需求破
-坏与衰退；还是应该看穿短期的衰退恐慌、博弈长期结构性
-的通胀压力？从沃什表露的政策哲学来看，联储当前显然倾
-向于后者：愿意容忍短期需求破坏带来的放缓以换取通胀的
-回落，这意味着单纯依靠传统非农数据的冰封来倒逼联储转
-向的概率在降低。 
-▌ 资产展望： 
-1. 美债：短端依然是有性价比的现金产品，长端美债在增长
-放缓预期与长期通胀风险溢价的拉锯下，同样难以大幅下
-行，整体美债维持高收益率震荡格局。
-
-2. 黄金：短期遭遇剧烈冲击。在沃什强力压制通胀的宏观叙
-事和实际利率反弹的背景下，黄金短期将持续承压。但中长
-期来看，沃什新政带来的联储机制波动性上升，以及长期去
-美元化背景下的尾部风险，将为黄金提供深跌后的战略防御
-价值。
-
-3. 美股：承受双重挤压。一方面，美国空多比本身尚未释放
-完毕；另一方面，加息预期的重启以及联储不确定性的增加
-都会加大美股的压力，短期依然偏防御。
-
-4. 日元：随着美国加息概率的再度抬升，美日利差面临被动
-拉大的风险。在美元指数受鹰派政策支撑全面走强的背景
-下，若日本央行未能同步展现出超预期的鹰派决断，日元将
-面临新一轮的阶段性贬值压力。。
-
-▌ 风险提示 
-地缘政治风险反复，联储货币政策急转。
+先行きは上昇率が再び高まる可能性大 
+先行きについては、物価上昇率が再び高まる可能性が高いとみている。米国とイランの暫定合
+意を受けて原油価格が大幅に下落していることは、先行きの物価上昇圧力を弱める材料である。
+コスト上昇圧力が弱まることで価格転嫁が抑制されることに加え、電気・ガス代への将来的な上
+昇圧力も以前よりは抑えられる可能性が高まった。 
+ただし、これまでの資源価格上昇や調達難の影響は、企業物価段階における価格上昇としてす
+でに一部で顕在化している。今後、こうしたコスト上昇が徐々に川下へ波及すれば、消費者物価
+の上振れにつながる可能性がある。また、燃料価格の上昇は電気代、ガス代に遅れて波及するた
+め、足元の原油価格下落だけで、秋から冬にかけてのエネルギー価格上昇リスクが消えたとみる
+のは早計である（電気代はいつ上がるのか ～電気代が秋から冬にかけて大きく上昇する理由。支
 
 ### Page 3
 
-证券研究报告
+本資料は情報提供を目的として作成されたものであり、投資勧誘を目的としたものではありません。作成時点で、第一ライフ資産運用
+経済研究所が信ずるに足ると判断した情報に基づき作成していますが、その正確性、完全性に対する責任は負いません。見通しは予告
+なく変更されることがあります。また、記載された内容は、第一生命保険ないしはその関連会社の投資方針と常に整合的であるとは限
+りません。 
+3/3 
+援延長・拡充が論点に～ | 新家 義貴 | 第一ライフ資産運用経済研究所）。 
+このように、米イラン合意と原油価格下落により、物価の上振れリスクは以前よりも低下し
+た。ただし、既往の資源価格上昇や調達難の川下への波及、企業の価格転嫁姿勢がかつてに比べ
+て強まっていること、燃料価格上昇が電気・ガス代へ遅れて反映されること、などを踏まえる
+と、先行きの物価はなお上方向を意識しておく必要がある。ＣＰＩコアは夏～秋にかけて再び前
+年比＋２％を上回り、その後も徐々に上昇率を高める可能性があると予想している。
 
-请阅读最后一页重要免责声明 3 
-诚信、专业、稳健、高效
-
-正文目录 
-事件： ............................................................................................................................................................ 4 
-评论： ............................................................................................................................................................ 4 
-1、 沃什新政下的加息重启 ............................................................................................................................ 4 
-1.1、 联储态度转鹰，放弃降息措辞 .............................................................................................................. 4 
-1.2、 重心重回通胀 .......................................................................................................................................... 4 
-1.3、 沃什首秀：低透明非传统且尚未分裂的联储 ...................................................................................... 6 
-1.4、 资产展望： .............................................................................................................................................. 6 
-2、 风险提示 ................................................................................................................................................. 7 
-图表目录 
-图表 1：6 月联储上修通胀和利率预期，下修失业率 ..................................................................................... 5 
-图表 2：点阵图也变得更为鹰派 ....................................................................................................................... 5 
-图表 3：CME 显示市场开始预期今年的加息落地 ........................................................................................... 6 
-图表 4：日元空头仓位维持历史新高的位置 .................................................................................................... 7
-
-### Page 4
-
-证券研究报告
-
-请阅读最后一页重要免责声明 4 
-诚信、专业、稳健、高效
-
-事件： 
-北京时间 2026 年 6 月 18 日凌晨，美联储公布了 6 月货币政策决议，维持当前利率不
-变，并发布了二季度的预测和点阵图，上调了通胀和利率预期，下修了失业率预期。 
-评论： 
-1、 沃什新政下的加息重启 
-1.1、 联储态度转鹰，放弃降息措辞 
-利率维持不变，声明文本大幅精简，取消了公布票委投票情况的惯例，删除了暗示未
-来可能降息的措辞，正式宣告放弃前瞻性指引。大幅上调了今年的 PCE 与核心 PCE 通胀预
-期，以及未来三年的利率中值。同时小幅下调了 GDP 与失业率预期。沃什宣布新设五个领
-域的货币政策工作组，预计于年底前完成对沟通方式的全面审查。 
-1.2、 重心重回通胀 
-上调通胀、下调失业率与下调GDP 的组合，意味着联储的货币政策逻辑发生了改变：
-
-1. 告别二选一的平衡陷阱：过去联储常在充分就业和物价稳定之间进行权衡。沃什明
-确指出当前劳动力市场供需同步增长且保持稳定，不需要在两者之间进行二选一。这意味
-着，只要就业市场不出现断崖式下跌，联储就不会为了维持经济增速而向通胀妥协。 
-2. 进一步偏离 2%的预期：联储上调今年PCE 预期并调高未来三年利率中值，反映出官
-员们意识到通胀粘性远超预期。在面对已经连续五年无法达成通胀目标的既定事实下，联
-储当前的执政合法性被迫绑定在抗通胀的决心上。 
-3. 点阵图大幅转鹰：半数官员开始考虑年内加息，表明联储的政策重心已经彻底完成
-了从何时降息到是否需要再加息的转移，为后续利率的进一步冲高打开空间。
-
-### Page 5
-
-证券研究报告
-
-请阅读最后一页重要免责声明 5 
-诚信、专业、稳健、高效
-
-图表 1：6 月联储上修通胀和利率预期，下修失业率
-
-资料来源：
-
-图表 2：点阵图也变得更为鹰派
-
-资料来源：
-
-### Page 6
-
-证券研究报告
-
-请阅读最后一页重要免责声明 6 
-诚信、专业、稳健、高效
-
-图表 3：CME 显示市场开始预期今年的加息落地
-
-资料来源：CME，华鑫证券研究
-
-1.3、 沃什首秀：低透明非传统且尚未分裂的联储 
-1. 降低透明度：精简声明、取消票委投票细节公开、放弃前瞻性指引，这些举措实质
-上是在主动削减联储与市场之间的透明度。沃什试图通过降低透明度来重立央行相机抉择
-的权威。 
-2. 对传统数据框架的反驳：沃什将现有的政府经济数据贬低为历史的回声，指出其频
-频大幅修正的弊端。他推崇金融市场价格和民间私营实时数据。这一权力的转移意味着市
-场原有的宏观推演逻辑面临系统性失效。 
-3. 尚未分裂的联储：尽管点阵图显示内部官员对是否加息存在分歧，但最终维持利率
-不动的决议获得全票通过，结合年底前将完成的沟通机制大洗牌和新设的五个工作组，显
-示出沃什正在通过重塑机制来强化内部集权。 
-市场目前已开始定价 10 月加息，未来政策路径的博弈核心在于：究竟是应该看穿短期
-的通胀压力、博弈三季度的需求破坏与衰退；还是应该看穿短期的衰退恐慌、博弈长期结
-构性的通胀压力？从沃什表露的政策哲学来看，联储当前显然倾向于后者：愿意容忍短期
-需求破坏带来的放缓以换取通胀的回落，这意味着单纯依靠传统非农数据的冰封来倒逼联
-储转向的概率在降低。 
-1.4、 资产展望： 
-1. 美债：短端依然是有性价比的现金产品，长端美债在增长放缓预期与长期通胀风险
-溢价的拉锯下，同样难以大幅下行，整体美债维持高收益率震荡格局。
-
-### Page 7
-
-证券研究报告
-
-请阅读最后一页重要免责声明 7 
-诚信、专业、稳健、高效
-
-2. 黄金：短期遭遇剧烈冲击。在沃什强力压制通胀的宏观叙事和实际利率反弹的背景
-下，黄金短期将持续承压。但中长期来看，沃什新政带来的联储机制波动性上升，以及长
-期去美元化背景下的尾部风险，将为黄金提供深跌后的战略防御价值。
-
-3. 美股：承受双重挤压。一方面，美国空多比本身尚未释放完毕；另一方面，加息预
-期的重启以及联储不确定性的增加都会加大美股的压力，短期依然偏防御。
-
-4. 日元：随着美国加息概率的再度抬升，美日利差面临被动拉大的风险。在美元指数
-受鹰派政策支撑全面走强的背景下，若日本央行未能同步展现出超预期的鹰派决断，日元
-将面临新一轮的阶段性贬值压力。 
-图表 4：日元空头仓位维持历史新高的位置
-
-资料来源：Wind，华鑫证券研究
-
-2、 风险提示 
-（1）地缘政治风险反复 
-（2）联储货币政策急转
-
-0
-50,000
-100,000
-150,000
-200,000
-250,000
-300,000
+(出所）総務省統計局「消費者物価指数」
+-1.5
+-1.0
+-0.5
 0.0
 0.5
 1.0
@@ -9326,409 +7917,522 @@ Extraction status: ok
 3.5
 4.0
 4.5
-日美利差 CME:持仓数量:非商业空头持仓:日元兑美元，右轴
-
-### Page 8
-
-证券研究报告
-
-请阅读最后一页重要免责声明 8 
-诚信、专业、稳健、高效
-
-▌ 宏观策略组介绍
-
-杨芹芹： 经济学硕士， 8 年宏观策略研究经验。曾任如是金融研究院研究总
-监、民生证券研究员，兼任CCTV 新闻和财经频道、中央国际广播电台等特约评
-论，多次受邀为财政部等政府机构和金融机构提供研究咨询，参与多项重大委
-托课题研究。2021 年 11 月加盟华鑫证券研究所，研究内容涵盖海内外经济形
-势研判、政策解读与大类资产配置(宏观)、产业政策与行业配置(中观)、全球
-资金流动追踪与市场风格判断(微观)，全方位挖掘市场机会。 
-孙航：3 年宏观策略研究经验，从事海外宏观和大类资产的配置研究。金融硕
-士，2022 年 5 月入职华鑫研究所。 
-卫正：宏观策略组组员，金融硕士，2024 年8 月入职华鑫证券研究所。
-
-▌ 证券分析师承诺 
-本报告署名分析师具有中国证券业协会授予的证券投资咨询执业资格并注册为
-证券分析师，以勤勉的职业态度，独立、客观地出具本报告。本报告清晰准确
-地反映了本人的研究观点。本人不曾因，不因，也将不会因本报告中的具体推
-荐意见或观点而直接或间接收到任何形式的补偿。
-
-▌ 证券投资评级说明 
-股票投资评级说明： 
- 投资建议 预测个股相对同期证券市场代表性指数涨幅 
-1 买入 > 20% 
-2 增持 10% — 20% 
-3 中性 -10% — 10% 
-4 卖出 < -10% 
-行业投资评级说明： 
- 投资建议 行业指数相对同期证券市场代表性指数涨幅 
-1 推荐 > 10% 
-2 中性 -10% — 10% 
-3 回避 < -10% 
-以报告日后的 12 个月内，预测个股或行业指数相对于相关证券市场主要指数
-的涨跌幅为标准。 
-相关证券市场代表性指数说明：A 股市场以沪深 300 指数为基准；新三板市场
-以三板成指（针对协议转让标的）或三板做市指数（针对做市转让标的）为基
-准；香港市场以恒生指数为基准；美国市场以道琼斯指数为基准。
-
-### Page 9
-
-证券研究报告
-
-请阅读最后一页重要免责声明 9 
-诚信、专业、稳健、高效
-
-报告编码：HX-260618092344
+1 3 5 7 9 11 1 3 5 7 9 11 1 3 5 7 9 11 1 3 5
+23 24 25 26
+全国・消費者物価コア(前年比、％）
+食料・エネルギー除く
+エネルギー
+生鮮除く食料
+CPIコア
 
 ---
-## Document 661: 算力不再稀缺？AI服务器租赁成本走低，日本推出前沿级_编排_新模型
+## Document 595: 留不住AI诺奖得主！谷歌一度跌超7%，创2月以来最大单日跌幅
 
-Source PDF: all report pdf/算力不再稀缺？AI服务器租赁成本走低，日本推出前沿级_编排_新模型.pdf
+Source PDF: all report pdf/留不住AI诺奖得主！谷歌一度跌超7%，创2月以来最大单日跌幅.pdf
 Report source: WallstreetCN (Global)
 Date: 2026-06-22
-Pages: 1
+Pages: 2
 Extraction status: ok
 
 ### Page 1
 
-⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⽣活家 搜索
-
----
-## Document 694: 美国6月FOMC会议点评：沃什主席并不“鹰”
-
-Source PDF: all report pdf/美国6月FOMC会议点评：沃什主席并不“鹰”.pdf
-Report source: Unknown
-Date: 未知日期
-Pages: 6
-Extraction status: ok
-
-### Page 1
-
-事项：
-6 月 18 日，美联储议息会议宣布政策利率维持在 3.50-3.75%不变。
-评论：
+⻛险提⽰及免责条款
+Google DeepMind 副总裁 John Jumper 于上周五宣布将离职并加⼊ Anthropic ； Jumper 因
+在 AI 领域的贡献荣获 2024 年诺⻉尔化学奖。⾕歌最知名的研究⼈员之⼀ Noam Shazeer 上
+周也宣布离职，转投 OpenAI 。分析指出， OpenAI 和 Anthropic 与⾕歌、 Meta 和 xAI 的模型
+差距⽇益加⼤。
 摘要：
-美联储 6 月按兵不动，沃什不鹰、联储鹰。本次 FOMC 会议结果偏鹰。利率决议连续第四次按兵不动；但
-点阵图的上调幅度超市场预期。点阵图显示，2026 年利率中位点维持不变（3.5-3.75%），但恰好有 9位
-委员预测年内加息（3位委员预测加息 1次，5 位预测加息 2 次，1 位预测加息 3 次），与维持不变的 9 票
-平分秋色。沃什未提交利率预测，本次点阵图仅有 18 个点。从 SEP 经济预测来看，通胀上修是本次最大
-的变化。与 3月预测相比，委员们对今年经济的判断在整体上偏悲观，尤其通胀预测的上调幅度最为突出。
-2026年 PCE通胀中位数从 2.7%大幅上调至 3.6%，核心 PCE同样从 2.7%上调至 3.3%，且分布明显右偏，反
-映出油价冲击带来的通胀不确定性仍在持续扩散。
-我们认为，结合沃什的学术背景与政策主张，此次首秀并没有主观放鹰，点阵图的鹰派信号更多来自理事
+在⼜⼀位重量级⼈⼯智能领军⼈物转投竞争对⼿后，⾕歌股价周⼀⼤幅下挫。
+⾕歌⼀度下跌 7.2% ，创下⾃ 2 ⽉以来最⼤盘中跌幅。此前， Google DeepMind 副总裁 John
+Jumper 周末表⽰将离职加⼊Anthropic。⽽就在上周，⾕歌最知名的研究⼈员之⼀ Noam
+Shazeer 也宣布离职，转投OpenAI。
+Jumper 是⾕歌 AI 编程开发团队的核⼼成员之⼀。他的离开正值⾕歌在向企业客⼾推⼴ AI 编程⼯
+具⽅⾯遭遇困难之际，多名前员⼯透露了这⼀情况。
+与此同时， AI 编程⼯具已成为 Anthropic 和 OpenAI 近⼏个⽉增⻓势头的重要推动⼒。
 
-会内部的集体判断，沃什本人并无明确表态。更值得关注的是以下两个方面的信息：
-（1）沃什的政策哲学，“格林斯潘式”神秘主义。从沃什的整场发布会看，他刻意压缩了与市场的信息
-交换密度。声明极为简短，主动放弃前瞻指引，且他在回答记者追问时多次回避对市场走势置评，还淡化
-了点阵图对政策路径的指示意义。沃什希望市场交易数据本身，而不是交易联储的政策预期，这也是他向
-格林斯潘式模糊沟通靠拢的清晰信号。
-（2）改革第一步，设立 5 个工作组。沃什在首次记者会上宣布成立五个工作组（Taskforce），分别聚焦：
-联储沟通方式、资产负债表政策、数据来源、生产率与就业，以及通胀框架。沃什是公认的改革派，推行
-改革首先需要在理事会内部建立话语权，引入外部顶尖专家、重构议题框架。对沃什来说，这也是在机构
-内植入自己政策主张的有效路径。另外这套机制给了他足够的缓冲空间，在不明确承诺的前提下，可以作
-为延缓市场对缩表、框架改革等敏感议题的追问的“挡箭牌”。
-沃什对通胀的高度关注，并不等同于线性的加息冲动。他深受弗里德曼货币数量论影响，相信通胀归根结
-
-底是货币现象，治本之道在于收缩资产负债表、压降准备金需求，而非拉高利率。更深一层，他押注 AI
-驱动的生产率提升最终将从供给侧压制通胀，这也是他专门设立生产率与就业工作组的核心逻辑。供给扩
-张本身就是抗通胀的力量。这是我们维持年内不加不降判断的理论依据。
-声明发布后市场反应迅速，市场重新交易加息预期。美债利率曲线大幅熊平。标普 500和纳指分别收跌 1.2%
-和 1.3%；黄金下挫约 150美元，美元指数升破 100。沃什的五个工作组将在年内陆续给出结论，SEP 改革、
-沟通框架重构会逐步落地，届时市场理解和定价联储政策的方式本身就会发生变化。具体如何变，我们在
-《沃什首秀，AI 怎么走》中曾提示，沃什更希望投资者不要过多押注联储下一步动作，而是关注经济/产
-业基本面或资产价格本身。
-2026年06月19日
+新闻通讯《 Vital Knowledge 》创始⼈ Adam Crisafulli 周⽇写道：
+他表⽰， Jumper 的离职 “ 对⾕歌没有任何帮助 ” 。
+⾕歌股价的下跌也正值其他超⼤型科技股普遍⾛弱之际。周⼀，追踪所谓 “ 科技七巨头 ” 的彭博指
+数⼀度下跌 2.2% 。其中，亚⻢逊盘中⼀度下跌 4.9% ，⽽ Meta 和微软的跌幅均超过 2% 。
+Jumper 曾与 DeepMind ⾸席执⾏官 Demis Hassabis ⼀同荣获 2024 年诺⻉尔奖，原因是他开发了
+⼀款名为 AlphaFold 、能够预测蛋⽩质结构的⼈⼯智能模型。
+“OpenAI 和 Anthropic 正⽇益成为美国 AI 前沿领域的主导公司，并且似乎正在与⾕歌、 Meta 和 xAI
+的模型及编程⼯具拉开差距。 ”
+⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⽣活家 搜索
 
 ### Page 2
 
-图1：FOMC会议决议声明要点梳理
-资料来源：Wind、美联储、国信证券经济研究所整理
- 通胀有喜也有忧，高通胀≠要加息
-5 月 CPI同比升至 4.2%，创 2023 年 5 月以来新高。能源是主要驱动，环比 3.9%，贡献当月涨幅逾六成，
-同时核心服务中教育与通讯环比 0.9%，算力需求爆发推高了电信运营商扩容成本；好的一面是，核心商品
-环比仅-0.1%，油价向商品端的传导尚未打通，压力暂时可控。
-若单纯看这样一份通胀答卷，对沃什而言恐怕远谈不上满意。2006至 2011 年他任职联储理事期间，彼时
-正值低通胀、高增长的大缓和尾声，他仍是理事会中最警惕通胀风险的声音之一。如今通胀在目标上方持
-续超过五年、CPI同比再度升至 4.2%，只会让这位本就偏鹰的主席更加坚定。
-但若结合其政策主张来看，沃什对通胀的关切并不意味着加息。沃什深受弗里德曼货币数量论影响，芝加
-哥学派的底色让他相信，通胀归根结底是货币现象，控制货币供给才是治本之道。这也解释了他为何将资
-产负债表政策列为五个工作组之首，在他的逻辑框架里，先通过压降准备金需求、收缩资产负债表来收紧
-
-货币条件，利率中枢自然会随之下移，届时即便通胀仍在 2%上方，他也有足够的理论底气维持按兵不动。
-图2：美国CPI同比增速 图3：美国CPI环比增速
-资料来源：Wind、BLS、国信证券经济研究所整理 资料来源：Wind、BLS、国信证券经济研究所整理
-
-### Page 3
-
- 就业市场风险较小，生产率是沃什关切
-5 月新增非农就业 17.2 万人，大幅超出市场预期的 8-8.5 万人，前两月合计上修 9.3 万。结构上，休闲
-和酒店业季节性招工贡献 7.0万，教育和医疗延续稳定扩张；失业率维持 4.3%不变，薪资增速小幅回落，
-工资-价格螺旋尚未成形。从下修幅度来看，近期非农数据的历史修正区间仍偏大，数据本身的可靠性存
-在一定噪音。
-我们判断，沃什更关注就业结构背后的 AI 生产率叙事。沃什专门设立生产率与就业工作组，正是要厘清
-AI 对供给侧的提振究竟何时、以何种幅度落地。在他的框架里，若 AI驱动的生产率提升最终兑现，潜在
-增速上移，当前的就业韧性与通胀并存就不必然导向加息。供给扩张本身就是压制通胀的力量。这也是我
-们维持年内不加不降判断的深层逻辑之一。
-图4：新增非农就业 图5：美国失业率
-资料来源：Wind、BLS、国信证券经济研究所整理 资料来源：Wind、BLS、国信证券经济研究所整理
- 鹰派点阵图释放加息信号
-从 6 月 SEP点阵图看，2026 年中位点维持在 3.5-3.75%，但 18 个点中恰好 9 票预测年内加息，与维持不
-
-变的 9 票平分秋色，分布之分散在近年点阵图中实属罕见，反映出委员会内部对通胀路径的判断分歧极大。
-2027年中位点同样维持不变，但仍有 6 位委员预测加息，长期中性利率 3.1%未作调整。
-CME Fed Watch 的隐含概率与点阵图形成呼应，但市场定价明显比点阵图更为温和。7 月会议维持不动的
-概率高达 70.1%，9月才开始出现实质性加息定价（48.2%概率落在 375-400bp 区间）。全年来看，市场目
-前的基准预期是年内加息一次、落点在 12月前后，2027年路径则高度不确定、定价分散。
-图6：6月 SEP公布的点阵图 图7：FOMC会议后市场隐含政策利率路径
-资料来源：Wind、美联储、国信证券经济研究所整理 资料来源：Wind、国信证券经济研究所整理
-
-### Page 4
-
- 风险提示
-海外经济体政策不确定性，外部需求下滑。
-相关研究报告：
-《5月金融数据解读-财政支出与货币流通同步加速》 ——2026-06-13
-《美国 5月 CPI点评-叙事的交汇：当能源邂逅 AI》 ——2026-06-11
-《通胀数据快评-价格剪刀差继续走扩》 ——2026-06-11
-《5月进出口数据点评-若无 AI增速几何？》 ——2026-06-10
-《5月非农数据点评——拐点来了吗？》 ——2026-06-06
-
-### Page 5
-
-证券研究报告
-免责声明
-分析师声明
-作者保证报告所采用的数据均来自合规渠道；分析逻辑基于作者的职业理解，通过合理判断并得出结论，
-力求独立、客观、公正，结论不受任何第三方的授意或影响；作者在过去、现在或未来未就其研究报告
-所提供的具体建议或所表述的意见直接或间接收取任何报酬，特此声明。
-国信证券投资评级
-投资评级标准 类别 级别 说明
-报告中投资建议所涉及的评级（如有）分为股票评
-级和行业评级（另有说明的除外）。评级标准为报
-告发布日后6到 12个月内的相对市场表现，也即报
-告发布日后的6到12个月内公司股价（或行业指数）
-相对同期相关证券市场代表性指数的涨跌幅作为基
-准。A股市场以沪深 300指数（000300.SH）作为基
-准；新三板市场以三板成指（899001.CSI）为基准；
-香港市场以恒生指数(HSI.HI)作为基准；美国市场
-以标普 500指数(SPX.GI)或纳斯达克指数
-（IXIC.GI）为基准。
-股票
-投资评级
-优于大市 股价表现优于市场代表性指数 10%以上
-中性 股价表现介于市场代表性指数±10%之间
-弱于大市 股价表现弱于市场代表性指数 10%以上
-无评级 股价与市场代表性指数相比无明确观点
-行业
-投资评级
-优于大市 行业指数表现优于市场代表性指数 10%以上
-中性 行业指数表现介于市场代表性指数±10%之间
-弱于大市 行业指数表现弱于市场代表性指数 10%以上
-重要声明
-本报告由国信证券股份有限公司（已具备中国证监会许可的证券投资咨询业务资格）制作；报告版权归
-国信证券股份有限公司
-
-### Page 6
-
-证券研究报告
-国信证券经济研究所
-深圳
-深圳市福田区福华一路 125 号国信金融大厦 36 层
-邮编：518046 总机：0755-82130833
-上海
-上海浦东民生路 1199 弄证大五道口广场 1 号楼 12 层
-邮编：200135
-北京
-北京西城区金融大街兴盛街 6 号国信证券 9 层
-邮编：100032
+市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
+134 收藏 分享到 :
+写评论
+图⽚
+请发表您的评论
+表情 发布评论
 
 ---
-## Document 727: 自本（115）年起創編並按年發布「企業特徵別貿易統計」，105年至114年編算結果預定於7月20日公布 (2026-06-15)
+## Document 628: 经济触角：美联储加息路径判断难度提高；全年或将加息逾25基点
 
-Source PDF: all report pdf/自本（115）年起創編並按年發布「企業特徵別貿易統計」，105年至114年編算結果預定於7月20日公布 (2026-06-15).pdf
-Report source: MOF
-Date: 2026-06-15
-Pages: 2
+Source PDF: all report pdf/经济触角：美联储加息路径判断难度提高；全年或将加息逾25基点.pdf
+Report source: 光银国际资本
+Date: 2026-06-22
+Pages: 3
 Extraction status: ok
 
 ### Page 1
 
 1
 
-創編「企業特徵別貿易統計」 
-預定自今(115)年 7 月起正式發布 
-一、為反映企業在國際市場的行為態樣與角色，聯合國2010年版「國際商品
-貿 易 統 計 ： 概 念 與 定 義 (International Merchandise Trade Statistics: 
-Concepts and Definitions 2010, IMTS 2010)」鼓勵各國整合國際商品貿易
-與企業登記資料，編製相關補充性統計，並於2025年發布「企業與貿易
-統計整合手冊(Handbook on Integrating Business and Trade Statistics)」，
-提供編製概念及方法，以企業為中心架構，透過微觀資料連結，串接跨
-領域資料，建立企業特徵別貿易統計(Trade by Enterprise Characteristics, 
-TEC)，以掌握企業在全球價值鏈中的角色 ， 進而為政策制定提供更具體
-的參考依據。 
-二、近年來美國、南韓及歐盟等國家(組織)均積極推動TEC編製，以商業登
-記冊為核心，連結貿易、勞動、稅務等資料，建構企業層級的貿易統計
-架構，並按年(僅南韓採按季)對外發布，分析維度除涵蓋企業規模、產
-業別、貿易夥伴等基本特徵外，部分國家更在資料來源足以支撐下，延
-伸至貿易流向、貿易集中度、外銷依存度及企業所有權等面向。 
-三、為擴展貿易統計的應用層面， 本部自112年起陸續蒐集相關文獻與各國
-編製現況，並依循國際作法，盤點國內跨機關的微觀資料來源，經評估
-資料取得及串接之可行性後，遂開始啟動我國TEC研編作業，在海關進
-出口統計架構下，以營業稅稅籍登記為基礎，運用統一編號整合廠商進
-出口、營業稅申報(查定)、薪資扣繳、勞保等行政資料，產製企業層級
-的貿易結構特徵。其中出口廠商可成功對照稅籍檔者，其出口值占整體
- 115年6月15日發布 
-網際網路 https://www.mof.gov.tw同步發送
+！ gg
 
-聯絡人：殷英洳科長  
-電  話：(02)2322-8341 
-財政部新聞稿
+美联储加息路径判断难度提高；全年或将加
+息逾 25 基点 
+北京时间6 月18 日凌晨，美联储将联邦基金利率目标区间维持在 3.5%-
+3.75%不变，符合市场预期。这是美联储继今年 连续四次议息会议上维
+持利率不变。尽管本次会议保持利率不变，但政策信号较此前明显偏
+鹰。新任主席沃什首次主持会议，其沟通风格出现明显变化。 本次政策
+声明更短 及更直接，删减了过往较多解释性文字，并淡化了前瞻指引
+的内容及重要性。美联储主席表示，此举希望减少对未来路径的明确
+承诺，重新回到以数据为依据的政策框架。然而，金融市场需适应联
+储局的新举措，减少指引增加对美国联储局息口预测判断的难度。综
+合今次会议会后声明内容、联储局官员「点阵图」预测，与及联储局
+主席对通胀的担忧言论，美联储加息预期升温；全年或将加息逾 25 基
+点。 
+美联储认为美国经济仍保持稳健扩张。 尽管中东冲突推升外部不确定
+性，但目前尚未对美国经济活动形成实质冲击。生产率增长和资本投资
+均表现强劲。就业增长与劳动力供给 保持同步，失业率变化不大。同
+时，通胀仍是政策核心压力。沃什强调通胀已连续五年多高于 2%目
+标，持续高物价仍在压制居民实际购买力，因此委员会对恢复价格稳定
+的承诺是明确且一致的。 
+经济「 点阵图」显示联储局成员大幅调高通胀预测 ；同时轻微调低经
+济增长预测。根据联储局主席表示，目前全球经济变化速度较大，提出
+经济数据预测或影响对货币政策判断，因此，沃什未有提出其经济数据
+预测。根据最新「 点阵图 」，联储局 成员调低了美国今年经济增长预
+测，2026 年实际 GDP 由 3 月的增长 2.4%，调低至 2.2%，明年预测则维
+持增长2.3%；通胀预测则大幅提高，PCE 通胀今年为3.6%，高于3 月份
+预测的 2.7%，明年回落至 2.3%，高于 3 月份预测的 2.2%；核心 PCE 通
+胀方面，今年预测则调高至 3.3%，高于 3 月份预测的 2.7%，明年预测
+回落至 2.5%，仍高于 3 月份预测的 2.2%；今年失业率预测由 3 月份的
+4.4%，调低至目前的 4.3%。政策制定者对年内利率路径的判断已明显
+上移。其中，9 名官员预计 2026 年底利率将高于当前水平，8 名官员预
+计利率维持不变，仅 1 名官员预计年内降息。政策对应到中位数预测，
+二零二六年六月十八日 
+经济触角 
+光银国际研究团队评论
+
+北京时间 6 月 18 日凌晨，美联储将联邦
+基金利率目标区间维持在 3.5%-3.75%不
+变，符合市场预期。这是美联储继今年
+连续四次议息会议上维持利率不变。尽
+管本次会议保持利率不变，但政策信号
+较此前明显偏鹰。新任主席沃什首次主
+持会议，其沟通风格出现明显变化。
+
+本次政策声明更短、更直接，删减了过
+往较多解释性文字，并淡化了前瞻指引
+的内容及重要性。美联储主席表示，此
+举希望减少对未来路径的明确承诺， 重
+新回到以数据为依据的政策框架。然
+而，金融市场 需适应联储局的新举措，
+减少指引增加对美国联储局息口预测判
+断的难度。综合今次会议会后声明内
+容、联储局官员「位图」预测，与及联
+储局主席对通胀的担忧言论，美联储加
+息预期升温；全年或将加息逾 25 基点。
+
+经济「点阵图」显示联储局成员大幅调
+高通胀预测 ；同时轻微调低经济增长预
+测。根据最新「点阵图」，联储局 成员
+调低了美国今年经济增长预测， 2026 年
+实际 GDP 由 3 月的增长 2.4%，调低至
+2.2%；通胀预测则大幅提高，PCE 通胀今
+年预测为 3.6%，高于 3 月份预测的
+2.7%，明年回落至 2.3%，高于 3 月份预
+测的 2.2%；核心 PCE 通胀方面，今年预
+测则调高至 3.3%，高于 3 月份预测的
+2.7%，明年预测回落至 2.5%，仍高于 3
+月份预测的 2.2%；今年失业率预测由 3
+月份的 4.4%，调低至目前的 4.3%。政策
+制定者对年内利率路径的判断已明显上
+移。其中，9 名官员预计 2026 年底利率
+将高于当前水平，8 名官员预计利率维持
+不变，仅1名官员预计年内降息。政策对
+应到中位数预测， 2026 年底联邦基金利
+率预期由 3 月的 3.4%上调至 3.8%，高于
+当前目标区间中点，意味着美联储年内
+存在加息一次的可能。
+
+陈惠杰 
+首席分析师 
+Dominic.chan@cebi.com.hk 
+(852)2916-9631
+
+简述
 
 ### Page 2
 
 2
-海關出口值達99.5%， 進口部分亦多落在98.8%~99.2%， 涵蓋率相當高，
-達成以辦理統計調查方式所可獲取之相近成果。
-四、我國TEC預計發布內容主要包括：
-(一)企業結構 ： 按企業規模(員工人數組別)及主要行業(製造業 、 批發業 、 其
-他行業)分類 ， 並進一步按製造業中類分 ， 呈現各類企業之進出口結構 。
-(二)貿易流向：依企業是否同時從事出口與進口，區分為單向型與雙向型
-企業，分析企業參與國際商品貿易的型態。
-(三)出口市場個數及進口來源國個數：依企業出口目的地國別數及進口生
-產國別數分組，觀察企業國際市場與供應來源之多元化程度。
-(四)貿易值集中情形 ： 指前N大企業貿易值占比 ， 觀察少數企業對進出口貿
-易之影響，採前20、50、100、500及1,000大企業編製。
-五、不同於本部按月發布以貨品分類與貿易國別為核心之進出口統計，我國
-TEC統計範圍僅限於具營業稅稅籍登記之進出口廠商，個人、未登錄稅
-籍檔者(通常為政府機關、學校、執行業務事務所或其他非營利事業等)，
 
-以及無統一編號之貿易資料 ， 包括快遞貨物 、 海外售魚(本國籍漁船在海
-外販售水產品)等均不納入統計，且排除行業為O大類 「公共行政及國防 、
-強制性社會安全」之業者。
-六、為便於各界參考應用，我國企業特徵別貿易統計將追溯編算105年至114
-年之各年資料，預計今(115)年7月20日公布，明年起定期於每年7月底(t
-年)前公布前年(t-1年)及修正前兩年(t-2年)之企業特徵別貿易統計，並每
-5年依最新「工業及服務業普查」結果校正廠商行業。
+2026 年底联邦基金利率预期由 3 月的 3.4%上调至 3.8%，高于当前目标
+区间中点，意味着美联储年内存在加息一次的可能。 
+本次会议的另一重点是美联储制度层面的改革部署。 沃什宣布将设立
+五个特别工作组，分别聚焦美联储沟通、资产负债表政策、数据来源、
+生产率与就业，以及通胀框架。第一，沟通改革将评估当前声明、新闻
+发布会和 SEP 的作用，减少过度预测带来的误导。第二，资产负债表工
+作组将审视充裕准备金制度及资产结构，评估货币政策操作框架。第
+三，数据工作组将引入更及时、更具可操作性的信息来源。第四，生产
+率与就业工作组将研究 AI 等通用技术对劳动力、需求和通胀的影响。
+第五，通胀框架工作组将重新评估通胀驱动因素及实现价格稳定的政策
+工具。上述工作组研究结果或将于未来数周公布。 
+美联储加息预期升温；全年或将加息逾 25 基点。根据芝加哥期货利率
+显示，美国联储局会议后，市场对 美国今年加息预期急速升温。会前预
+测为预期今年维持利率不变的概率为 40%，60%概率加息 25 基点。会后
+预测变为今年全年维持利率不变的概率 仅为 16%，加息 25 基点概率为
+38%﹐加息 50 基点甚至更多的概率达 46%。
+
+### Page 3
+
+3
+
+权益披露 
+分析员保证 
+分析员，陈惠杰(香港证监会中央编号: APP609)作为本研究报告全部撰写人，谨此证明有关就研究报告中提及的所有公司及/或该公司所
+发行的证券所做出的观点，均属分析员之个人意见。分析员亦在此证明，就研究报告内所做出的推荐或个人观点，分析员幷无直接或间接
+地收取任何补偿。此外，分析员及分析员之关联人士幷没有持有研究报告内所推介股份的任何权益，幷且没有担任研究报告内曾提及的上
+市法团的高级工作人员。
 
 ---
-## Document 729: 芯片扩产+液冷双引擎爆发，氟化工站上AI超级风口！
+## Document 631: 美伊就霍尔木兹航线发出矛盾指令，船东面临制裁与扣押双重威胁
 
-Source PDF: all report pdf/芯片扩产+液冷双引擎爆发，氟化工站上AI超级风口！.pdf
+Source PDF: all report pdf/美伊就霍尔木兹航线发出矛盾指令，船东面临制裁与扣押双重威胁.pdf
 Report source: WallstreetCN (Global)
 Date: 2026-06-23
-Pages: 6
+Pages: 2
 Extraction status: ok
 
 ### Page 1
 
-AI 算⼒狂飙，氟化⼯迎来历史性重估窗⼝。芯⽚制造端，电⼦级氢氟酸供应偏紧、 3M 退场
-留下 13 亿美元缺⼝、六氟化钨价格⼤涨；数据中⼼端，液冷市场 2030 年或达 310 亿美元。
-瑞银指出，氟化⼯材料供应商相较电⼦化学品公司仍存明显折价，市场远未充分定价 AI 增
-⻓红利。
+霍尔⽊兹海峡表⾯回暖，暗战却在升级。美军 " 守护天使 " 护航线与伊朗强制收费路线形成正
+⾯对撞，船东⼀边是制裁合规雷区，⼀边是扣船与敌对⾏动威胁。通航量突破 30 艘创冲突
+新⾼、布伦特原油跌破 80 美元，但这份平静随时可能被⼀次扣船事件撕碎。
 摘要：
-AI 算⼒扩张正在把氟化⼯从制冷剂、传统材料，推向半导体制造、液冷、 PCB ⾼速材料等新场
-景。
-5 ⽉以来，氟化⼯板块明显跑赢化⼯⼤盘。涨幅背后不是单⼀涨价逻辑，⽽是两个变化叠加：⼀
-是美国宣布在部分应⽤中延后淘汰若⼲三代制冷剂；⼆是 AI 带来的算⼒扩张，让市场重新评估氟
-材料在芯⽚制造、服务器散热和⾼速传输材料⾥的位置。
-据追⻛交易台消息，瑞银证券亚洲有限公司 6 ⽉ 22 ⽇发布、由 Amily Guo 领衔的中国化⼯⾏业研
-究称：“ 我们预计，随着 AI 发展带来更⾼算⼒需求和材料体系迭代，氟化⼯材料在 AI 相关应⽤中
-将快速增⻓；⽬前氟化⼯材料供应商相较电⼦化学材料公司仍有明显折价，市场尚未充分计⼊
+美伊在霍尔⽊兹海峡的通航指令正出现严重对⽴。尽管宏观层⾯的停⽕协议推动海峡通航量创
+下冲突以来新⾼，但微观层⾯的航线博弈正将国际船东与保险商推⼊制裁合规与物理安全的双
+重死⻆。
+据英国《⾦融时报》周⼆报道，美国推出了受美军空中掩护的阿曼侧 “ 守护天使 ” 护航航线，⽽
+伊朗则强硬要求船只必须靠近其海岸航⾏并⽀付通⾏费。这种截然相反的指令，直接打破了宏
+观谅解备忘录带来的乐观预期，令航运市场的实际操作充满不确定性。
+尽管⾯临严重的指令冲突，霍尔⽊兹海峡 24 ⼩时通航量已突破 30 艘，创下 2 ⽉底冲突爆发以来的
+最⾼纪录。同时，英国海事贸易⾏动办公室（ UKMTO ）将该海域运营⻛险等级从 “ 严重 ” 下调⾄
+“ 中等 ” ，显⽰出资本与航运市场在⻛险与收益间正在进⾏重新平衡。
 
-AI 带来的增⻓机会。 ”
-这套框架把氟化⼯的 AI 机会拆成两条主线：⼀条在半导体制造，涉及电⼦级氢氟酸、含氟流体、
-含氟电⼦特⽓；另⼀条在数据中⼼，涉及 PTFE ⾼速材料、冷板液冷制冷剂、浸没式液冷含氟冷
-却液。
-半导体端：三条产品线，国产替代窗⼝正在打开
-电⼦级氢氟酸（ EG-HF ）： G5 级别，⻔槛决定⼀切
-氢氟酸是半导体清洗和刻蚀⼯艺不可缺少的湿电⼦化学品。 2025 年中国市场规模约 42.5 亿元，
-需求刚性强。
-其中最⾼纯度的 G5 级（ UPSSS 级，⽤于 12 英⼨晶圆 55nm 及以下制程），技术壁垒远⾼于低端产
-品，价格也显著更贵。
-国内 G5 级 EG-HF 市场⾼度集中 —— 根据⻉发集团 H 股招股书， 2025 年国内 G5 电⼦氢氟酸 CR5 达
-到 98% ，主要玩家包括多氟多、晶⿍（巨化旗下关联公司）、⻉发集团，新宙邦和三美化学也通
-过合联营公司布局其中。
+对于全球能源供应链⽽⾔，宏观协议的落地虽令地缘溢价消退、布伦特原油跌破 80 美元 / 桶，但
+微观航线的合规⻛险若引发局部扣船或制裁事件，仍可能随时扰动脆弱的航运保险费率与原油
+现货市场，投资者需警惕协议执⾏阶段的摩擦成本。
+美伊指令对⽴：阿曼侧护航与伊朗侧收费的博弈
+随着美伊签署谅解备忘录，霍尔⽊兹海峡重新开放进⼊执⾏阶段，但双⽅在具体通航路线上的
+分歧正在加剧。
+美国⽅⾯设⽴了由特朗普命名的 “ 守护天使 ” 护航航线，该航线位于海峡阿曼⼀侧，并由美军提供
+近距离空中掩护。西⽅保险商也普遍建议船舶遵循这⼀受保护的路线。
+然⽽，伊朗⽅⾯出台了截然相反的新规。德⿊兰要求所有船只必须提前获得许可，并强制靠近
+伊朗海岸线航⾏。据货运保险经纪⼈透露，伊朗正坚持要求使⽤其路线的船只⽀付通⾏费，并
+警告称，若不遵守规定，船只将⾯临 “ 惩罚 ” 甚⾄被迫折返。
+船东与保险商的实操死⻆：制裁合规与物理安全
+这种宏观协议与微观指令的脱节，令船东和运营商陷⼊了难以调和的操作困境。
+美国航运公司  Safesea Shipping 董事⻓  Dr SV Anchan 指出，如果船东听从保险商和美国当局
+
+的指导靠近阿曼航⾏，将⾯临伊朗当局的⼲扰、扣留或潜在敌对⾏动的⻛险。反之，若遵从伊
+朗指令靠近其海岸航⾏，则可能触发美国制裁相关的合规⻛险，并被视为违反保险商的航⾏建
+议。
+“ 美国告诉船只⾛阿曼路线并提供空中⽀援，⽽伊朗坚持⾛伊朗路线并收取过路费。这种局⾯缺
+乏协调，最终可能会以糟糕的⽅式收场。 ” ⼀位货运保险经纪⼈表⽰。
+尽管西⽅航运利益集团正推动使⽤阿曼路线，但⼀位油轮⾏业⾼管透露，⽬前仍有⼤量船东在
+探索将伊朗路线作为备选⽅案，试图在夹缝中寻找最优解。
 ⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⽣活家 搜索
 
 ### Page 2
 
-供给端有个新变量：中东冲突导致全球硫磺供给从 3 ⽉起趋紧，⽆⽔氢氟酸价格今年以来整体上
-⾏，⾼端 G5 产品因存储芯⽚需求旺盛⽽供应偏紧。中国是全球最⼤⽆⽔氢氟酸供应国，国内⼚
-商在原料保障上有天然优势。
-氟化液： 3M 退场，留下⼀个⼤缺⼝
-氟化液⼴泛⽤于半导体制造的清洗和冷却环节，化学惰性强、不燃、绝缘性好，是晶圆制造过
-程中不可替代的⼯艺材料。
-问题来了：全球最⼤半导体级氟化液供应商 3M ，已于 2025 年底全⾯停产 PFAS （全氟和多氟烷
-基物质）。 3M 的 PFAS 业务年销售额约 13 亿美元，其中半导体和汽⻋两个领域贡献了 35%-40% 的
-收⼊。 3M 退出不是主动收缩，⽽是被全球⽇趋收紧的 PFAS 环保法规所迫。
-由于氟化液直接影响晶圆制造的⼯艺稳定性和良率，客⼾验证周期⻓、进⼊壁垒⾼，先⼊局者
-优势明显。
-新宙邦⽬前在国内半导体冷却液领域市占率排名第⼀，已建成氢氟醚（ HFE ）产能 3000 吨 / 年、
-全氟聚醚（ PFPE ）产能 2500 吨 / 年，并与国内主要晶圆⼚（逻辑和存储均有覆盖）建⽴稳定供
-
-货关系。巨化、永太科技也在布局，但客⼾验证和规模订单⽅⾯尚滞后于新宙邦。
-氟化电⼦特⽓：六氟化钨价格今年⼤涨
-半导体⼲法刻蚀和 CVD ⼯艺所⽤的氟化特种⽓体，纯度要求 5N 甚⾄ 6N 以上，⾼端品种⻓期被海
-外巨头主导。
-值得关注的是六氟化钨（ WF₆ ） —— 上游钨资源因出⼝管制和开采收紧价格⼤幅上涨，⽇本主要
-产商预计缩减供应，叠加存储芯⽚需求拉动， WF₆ 价格今年以来涨幅显著。
-
-### Page 3
-
-国产化率相对较⾼的品种包括 NF₃ 、 SF₆ 、 CF₄ ，⽽ C₄F₆ （六氟丁⼆烯）和 WF₆ 技术壁垒⾼、国
-产化空间更⼤，皓华科技、派瑞特⽓、纳他光电等国内企业正在加速突破。
-数据中⼼端：液冷⽤料，两条路线都有氟
-液冷市场到底有多⼤？ 测算显⽰，直接液冷（ DLC ）市场规模到 2030 年有望达到 310 亿美元，
-对应 2025-2030 年复合增速 51% 。
-传统⻛冷已⽆法满⾜⾼功率密度 AI 服务器的散热需求，液冷成为趋势，但技术路线尚未收敛。
-⽬前主流是冷板式液冷，成本低、维护⽅便。其中两相冷板⽅案（利⽤液体汽化散热）所⽤制
-冷剂包括 R134a 、 R1234yf 、 R1233zd 等，与氟化⼯直接挂钩。
-浸没式液冷散热效果更强，但成本更⾼，⽬前渗透率低。随着芯⽚功率密度继续提升，两相浸
-没冷却预计在 2030 年后加速放量。两相浸没冷却中，氟化液在综合相容性上具有明显优势，包
-括 PFPE 、 HFE 等产品有望受益。
-不过，当前浸没式液冷市场仍⼩，尤其是两相浸没式液冷。原因很直接：成本更低的冷板液冷
-
-⽬前能满⾜多数需求。路径假设中，两相浸没式液冷的明显增⻓更可能出现在 2030 年之后，触
-发因素是服务器功率密度继续提⾼。
-AI 服务器需要更低损耗材料， PTFE 进⼊视野
-AI 服务器对⾼速、⾼频材料要求更⾼。 PTFE ，也就是聚四氟⼄烯，因低介电常数、低介电损
-耗，被视为下⼀代⾼速传输场景的潜在材料之⼀。
-这条线最直接的应⽤是 PCB 铜覆板材料，尤其是⾯向 AI 服务器机柜的正交背板材料。不过，纯
-PTFE 树脂有热膨胀系数⾼、加⼯性差等缺点，通常需要玻纤、硅微粉等填料改性，配⽅和⼯艺
-
-### Page 4
-
-复杂。
-下游铜覆板、 PCB 公司已有相关技术储备。⽣益科技在 DesignCon 2026 展⽰了满⾜ 224G/448G
-超⾼速传输需求的材料路线和⽅案，其中包括 PTFE 正交背板材料。
-对上游 PTFE 企业来说，真正难点不只是 “ 有产能 ” 。新⼀代低损耗⾼速材料对⾦属离⼦杂质控制
-要求⾼， PTFE 企业需要提升基础树脂纯度和⼀致性，并开发电⼦级 PTFE 品类。同时，还要与
-下游企业⼀起做改性，解决加⼯性、复合性能、多层板兼容性问题。
-国内 PTFE ⻰头包括东岳集团、昊华科技、巨化股份。东岳集团 PTFE 产能 5.5 万吨 / 年，为国内最
-⼤ PTFE ⽣产商。公司 2025 年 8 ⽉宣布投资 8956 万港元提升超⾼纯 PTFE 质量，⽬标包括⾯向半
-导体⾏业的⾼端 PTFE 产品。
-⻛险不⼩，核⼼在价格、路线和监管
-氟化⼯并不是没有⻛险。
-第⼀，产品和原材料价格波动会直接影响利润。氢氟酸、制冷剂、含氟聚合物、含氟精细化学
-品都有周期属性。
-第⼆，下游需求存在不确定性。半导体周期、 AI 服务器建设节奏、天⽓、宏观经济波动，都会影
-响需求兑现速度。
-第三，三代制冷剂配额政策仍有不确定性。制冷剂是氟化⼯重要利润来源，政策变化会影响供
-需和价格。
-第四， PFAS （全氟和多氟烷基物质）监管是⼀把双刃剑。 3M 退出带来替代机会，但海外 PFAS
-监管如果进⼀步收紧，也可能压缩部分含氟材料市场空间。
-
-~~~~~~~~~~~~~~~~~~~~~~~~
-以上精彩内容来⾃追⻛交易台。
-更详细的解读，包括实时解读、⼀线研究等内容，请加⼊【追⻛交易台 ▪ 年度会员】
-
-### Page 6
-
 ⻛险提⽰及免责条款
 市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
-45 收藏 分享到 :
+30 收藏 分享到 :
 写评论
 图⽚
+⻛险降级与通航回暖：市场在裂痕中重新定价
+尽管⾯临地缘政治博弈与指令冲突，航运市场已率先⽤实际动作对⻛险进⾏重新定价。
+数据显⽰，在美伊签署谅解备忘录后的周末，霍尔⽊兹海峡交通量显著回升。在截⾄周中的 24
+⼩时内，超过 30 艘船只通过该争议⽔域，创下 2 ⽉ 28 ⽇冲突爆发以来的单⽇新⾼。
+伴随通航量的恢复，英国海事贸易⾏动办公室（ UKMTO ）已将该海域的运营⻛险等级从 “ 严重 ”
+下调⾄ “ 中等 ” 。这⼀评级调整反映出，在美军实际解除对伊海上交通封锁后，市场对海峡物理安
+全的担忧正在实质性缓解。
+从宏观资产表现来看，协议落地与封锁解除已⼤幅消退了原油供应受阻的担忧。布伦特原油现
+货与期货价格双双跌破 80 美元 / 桶，地缘冲突溢价进⼀步挤出。然⽽，在通航量创新⾼与⻛险评
+
+级下调的表象下，美伊在航线控制权与通⾏费收取上的暗战仍未停⽌，这将是决定霍尔⽊兹海
+峡能否实现⻓期、⽆摩擦通航的关键变量。
 限免
 请发表您的评论
 表情 发布评论
+
+---
+## Document 638: 美国6月PMI初值全线超预期，制造业PMI创49个月新高，但就业指标跌至六年低点
+
+Source PDF: all report pdf/美国6月PMI初值全线超预期，制造业PMI创49个月新高，但就业指标跌至六年低点.pdf
+Report source: WallstreetCN (Global)
+Date: 2026-06-23
+Pages: 3
+Extraction status: ok
+
+### Page 1
+
+美国 6 ⽉综合 PMI 初值升⾄五个⽉⾼位 52.2 ，商业活动继续扩张。制造业表现强劲， PMI 升
+⾄ 55.7 ，新订单增速四年多最快，但部分受预防性囤货推动；服务业 PMI 仅温和升⾄
+51.3 ，复苏缓慢。企业采购库存创历史第⼆⾼，但⼯⼚就业⼈数跌⾄六年最低。中东局势
+缓和提振信⼼，但供应链延迟与成本压⼒等问题仍存。
+摘要：
+在服务业增⻓依旧疲弱、消费者信⼼低迷的背景下，美国制造业意外成为经济增⻓的主要⽀撑
+⼒量。
+6 ⽉ 23 ⽇，标普全球（ S&P Global ）公布数据显⽰，美国 6 ⽉综合采购经理⼈指数（ PMI ）初值
+升⾄ 52.2 ，⾼于前值 51.5 和市场预期的 52.1 ，创五个⽉新⾼，显⽰美国商业活动继续保持扩张。
+分项来看，制造业表现尤为亮眼。新订单增速创逾四年来最快纪录，带动⼯⼚⽣产活动明显升
+温。美国 6 ⽉制造业 PMI 初值升⾄ 55.7 ，创 2022 年 5 ⽉以来新⾼，⾼于预期值 54.6 及前值 55.1。
+与此同时，服务业也维持扩张态势，6 ⽉服务业 PMI 初值升⾄ 51.3 ，为四个⽉⾼位，⾼于预期的
+
+51.1 和前值 50.7。
+与此同时，中东局势缓和带来的成本压⼒缓解预期，也提振了企业信⼼。不过调查同时显⽰，
+供应链延迟、原材料涨价以及就业放缓等问题依然存在，经济复苏的基础并不牢固。
+制造业强势扩张，服务业复苏缓慢
+美国 6 ⽉制造业 PMI 初值升⾄ 55.7 ，创 49 个⽉新⾼。订单需求⼤幅回暖成为本轮扩张的主要动
+⼒，⼯⼚新订单创下四年多来最快增速，企业加速⽣产以响应需求，推动制造业整体活跃度明
+显提升。
+不过，标普全球⾸席商业经济学家 Chris Williamson 提醒，当前制造业的强劲势头在⼀定程度上
+受到企业预防性囤货⽀撑，未必反映终端需求的实质性改善。他指出，制造业确实展现出更积
+极的变化，但增⻓中有⼀部分源于企业对供应链中断的担忧⽽提前增加库存。
+与制造业的亮眼表现相⽐，美国服务业扩张步伐依然温和。 6 ⽉服务业 PMI 初值录得 51.3 ，略⾼
+于预期及前值，显⽰服务业活动环⽐略有改善，部分受益于世界杯等赛事带来的消费提振。
+⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⽣活家 搜索
+
+### Page 2
+
+然⽽，⾼物价与持续疲弱的消费者信⼼仍在抑制需求增⻓。 Williamson 表⽰，服务业 “ 仍以异常
+缓慢的速度增⻓ ” ，反映出美国经济内部结构分化依然明显。
+采购囤货创历史次⾼，就业⼈数跌⾄六年最低
+调查显⽰，尽管投⼊成本涨幅有所放缓，但供应商交货时间继续延⻓，供应链压⼒再度抬头。
+⾯对潜在的供应中断⻛险及未来可能出现的进⼀步涨价，美国制造商⼤幅扩⼤原材料采购规
+模。6 ⽉⼯⼚投⼊品采购量激增，原材料库存增速创下调查历史第⼆⾼纪录，反映出企业正积极
+提前锁定供应，以应对未来成本和物流的不确定性。
+在成本压⼒持续传导的背景下，企业开始通过控制⼈⼒⽀出来压缩运营成本。
+调查数据显⽰，6 ⽉制造业与服务业就业⼈数双双下滑，其中制造业就业⼈数跌⾄ 2020 年 5 ⽉以
+来最低⽔平，表明企业在扩⼤产出的同时，对新增招聘仍持审慎态度。与此同时，服务业企业
+则选择通过提⾼售价来转嫁成本压⼒，相关价格涨幅有所加快。
+Williamson 表⽰，制造业企业削减岗位主要源于对未来需求持续性的担忧，以及原材料成本上涨
+
+导致的利润压⼒。整体私⼈部⻔就业已连续第⼆个⽉表现低迷，与官⽅就业数据近期显⽰的劳
+动⼒市场韧性形成鲜明反差。
+地缘缓和提振企业信⼼，通胀黏性制约政策空间
+尽管企业仍⾯临成本和供应链挑战，但对未来前景的乐观情绪明显改善。
+标普全球指出，制造商和服务业企业的未来预期均有所回升，主要原因在于市场预计中东局势
+缓和将减轻能源和运输成本压⼒。
+本次调查于 6 ⽉ 11 ⽇⾄ 22 ⽇期间进⾏。期间，美国与伊朗签署谅解备忘录，为达成⻓期和平协议
+铺平道路。企业普遍认为，若地缘政治⻛险继续降温，未来数⽉成本环境有望进⼀步改善，从
+⽽为经济活动提供⽀撑。
+不过，通胀压⼒仍未完全消退。尽管制造业投⼊价格指数从 75.3 回落⾄ 71.2 ，但仍处于历史⾼
+位；产出价格指数也仅从 63.1 降⾄ 61.0 ，显⽰企业仍在持续向下游转嫁成本。
+
+### Page 3
+
+⻛险提⽰及免责条款
+市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
+455 收藏 分享到 :
+写评论
+图⽚
+1 条评论
+这⼀结果与市场对通胀黏性的担忧相吻合。分析⼈⼠认为，持续偏⾼的价格压⼒可能促使美联
+储在未来数⽉维持谨慎⽴场，甚⾄保留进⼀步收紧政策的可能性。
+限免
+请发表您的评论
+表情 发布评论
+MobileUser73009 ⼩时前中国⼴东省
+0  回复
+啥意思
+
+---
+## Document 679: 英国次期首相選びの前哨戦 ～バーナム氏の国政復帰とその後の展開について～
+
+Source PDF: all report pdf/英国次期首相選びの前哨戦 ～バーナム氏の国政復帰とその後の展開について～.pdf
+Report source: DLRI
+Date: 2026-06-15
+Pages: 2
+Extraction status: ok
+
+### Page 1
+
+Europe Trends
+
+2026 年６月 15 日
+
+1/2 
+英国次期首相選びの前哨戦 
+～バーナム氏の国政復帰とその後の展開について～ 
+ 経済調査部 首席エコノミスト  田中 理 
+（℡：050-5474-7494）
+
+（要旨） 
+○ 18 日に迫る英下院補選では、 次期首相就任を目指すバーナム・マンチェスター市長が国政復
+帰と党首選への切符を手に入れそうだ。スターマー首相の辞任とバーナム氏の後継首相就任
+の可能性が高まっている。労働組合に近く、公共サービスを重視するバーナム氏が首相に就
+任すれば、財政拡張が意識されやすい。金融市場の不安定化を避けるため、バーナム氏も財
+政運営を巡る発言を軌道修正しているが、スターマー政権時代の緊縮的な財政運営から何ら
+かの変化があると考えるのが自然だ。財政運営の陣頭指揮を執る財務相候補としては、バー
+ナム氏に近いソフトレイバー路線のミリバンド元党首、ブレア改革の踏襲者と目されるスト
+リーティング元保険相、スターマー首相に近いマフムード内相などの名前が挙がる。財務相
+人事の行方とともに、次期政権がどの程度財政運営を修正するかに注目が集まる。 
+18 日に予定されるイングランド北部メーカーフィールド選挙区の下院補欠選挙では、マンチェ
+スター市長のバーナム氏が首相就任を目指し、国政復帰の機会を窺っている。補欠選挙の結果を
+占う世論調査は少ないが、公表されている全ての調査で、労働党のバーナム氏がリフォームＵＫ
+のケニヨン氏をややリードしている。バーナム氏は、過去に英国のＥＵ再加盟に前向きな発言を
+したことがあるが、この問題は有権者の間でも依然として意見が割れ、リフォームＵＫに攻撃材
+料を提供することにもつながるため、ＥＵ再加盟を公約に盛り込んでいない。今回の選挙戦で
+は、政治への信頼回復、経済再生、地方自治拡大、公共住宅の建設、若者のコミュニティ活動支
+援などを重点政策として掲げている。対するケニヨン氏は、バーナム氏の過去の発言などへの個
+人攻撃のほか、不法移民規制の強化、公共住宅からの移民の排除、開発制限地域の開発反対、病
+院建設、経営難のパブへの支援などを掲げている。 
+リフォームＵＫは、英国独立党（UKIP）やブレグジット党を率いて英国のＥＵ離脱を扇動した
+ファラージ氏が、離脱確定後の2018 年に英国の改革を掲げて新たに旗上げした右派ポピュリスト
+政党だ。各種の世論調査でリードするなか、次期総選挙での政権奪取を目指し、保守党を離党し
+た大物政治家を招き入れるとともに、極端な政策主張を封印している。こうした同党の現実路線
+への転換に反発した離党者が、今年２月に新興右派ポピュリスト政党「リストア・ブリテン」を
+結党した。リストア・ブリテンは今回の補選にも候補者を擁立しており、保守党と労働党の二大
+政党支配に批判的な有権者の票をリフォームＵＫと奪い合っている。結果的に、国政選挙の世論
+
+### Page 2
+
+経済研究所が信ずるに足ると判断した情報に基づき作成していますが、その正確性、完全性に対する責任は負いません。見通しは予告
+なく変更されることがあります。また、記載された内容は、第一生命保険ないしはその関連会社の投資方針と常に整合的であるとは限
+りません。
+2/2
+調査でも今回の補選の世論調査でも、リフォームＵＫの支持率が伸び悩んでいる。このままバー
+ナム氏が逃げ切り、国政復帰と次期党首選への切符を手に入れる可能性が高い。
+バーナム氏が勝利した場合、速やかにスターマー首相の党首辞任を求め、 「党首チャレンジ」を
+開始するとみられる。５月の統一地方選挙で歴史的な敗北を喫したスターマー首相を取り巻く政
+治環境は一段と厳しさを増している。11 日にはヒーリー国防相とカーンズ軍務担当相が、政府の
+財政緊縮措置で防衛予算が抑制され、英国の安全保障環境を危険に晒していると批判し、閣僚を
+辞任した。労働党は下院の多数決を保持しており、労働党の党首選挙は事実上、次の首相選びを
+意味する。党首選が行われる場合、バーナム氏に加えて、スターマー首相も出馬する意向を示唆
+
+しているほか、５月の統一地方選挙後に保険相を辞任したストリーティング氏、先日軍務担当相
+を辞任したカーンズ氏などの出馬の可能性が取り沙汰されている。
+投票は労働党の党員と支持母体である労働組合の構成員が投票権を持ち、郵送で行われる可能
+性が高い。複数の候補が立候補する場合、各投票で最下位の票を獲得した候補が脱落し、過半数
+の支持を得る候補が現れるまで投票を繰り返す。後継党首がどのタイミングで判明するかは、党
+首選の投票日程、候補者の数、過半数確保までに必要な投票回数に左右される。何れにせよ秋の
+労働党の党大会までには、後継党首が確定することになりそうだ。
+2024 年７月の総選挙で労働党を地滑り的な勝利に導き、14 年振りの政権交代を実現したスター
+マー首相は、２年余りで退任する可能性が濃厚だ。労働党の支持母体である労働組合からは、中
+道寄りで緊縮的な政策に固執するスターマー首相とリーブス財務相に対する反発が強い。後継党
+首選では、労働組合に近く、公共サービスの拡充を重視する穏健左派（ソフトレフト）路線のバ
+
+ーナム氏が勝利する可能性が高い。金融市場では、バーナム氏が拡張的な財政運営に舵を切るこ
+とが不安視され、国債利回りに上昇圧力が及びやすい状況が続いている。バーナム氏も金融市場
+の反応に配慮し、このところ発言を軌道修正しているが、スターマー政権の緊縮的な財政運営か
+ら何らかの変化があると見るのが自然だろう。
+バーナム政権下の財務相候補としては、党首経験者でもあるミリバンド・エネルギー安全保障
+ネットゼロ担当相、バーナム氏の国政復帰前の党首チャレンジを見送り、同氏の首相就任への道
+を開いたストリーティング元保険相、野党時代に影の財務次官（ミリバンド党首時代）や影の財
+務相（コービン党首時代）を務めたマフムード内相などの名前が浮上している。市場安定に配慮
+して、リーブス財務相が留任するとの見方も一部にあるが、労働党の党勢凋落を招いた張本人で
+ある同氏が再任される可能性は低い。ミリバンド氏はバーナム氏に経済政策での助言をしている
+とされ、財政規律の重要性を訴えているとされるが、バーナム氏と同じソフトレイバー路線の中
+
+心人物で、財政拡張が意識されやすい。ブレア路線の後継者と目されるストリーティング氏が財
+務相に就任する場合、親ビジネス・財政規律重視・構造改革路線と受け止められそうだ。スター
+マー首相に近いマフムード氏の場合、スターマー・リーブス路線が踏襲されるとの見方から、財
+政規律重視と受け止められやすい。財務相人事の行方とともに、次期政権が財政運営をどの程度
+修正するかに注目が集まる。
+以 上
+
+---
+## Document 729: １０月の利上げを探る時間帯へ
+
+Source PDF: all report pdf/１０月の利上げを探る時間帯へ.pdf
+Report source: DLRI
+Date: 2026-06-16
+Pages: 2
+Extraction status: ok
+
+### Page 1
+
+2026 年 6 月 16 日(火)
+
+1/2 
+１０月の利上げを探る時間帯へ 
+経済調査部主席エコノミスト藤代宏一 
+（℡：050-5474-6123）
+
+＊総裁会見前に執筆
+
+・日銀は大方の予想通り、本日まで開催されていた金融政策決定会合で政策金利の引き上げを決定
+した。利上げは2025年12月以来、４会合ぶりで政策金利は1.0％とされた。反対は浅田統一郎委員
+の１票。リフレ派の同委員は「中東情勢の影響について、物価の上振れよりも生産・雇用の下振
+れリスクの方が大きく、金融市場調節方針を据え置くことが望ましい」とした。反対票を投じた
+のは大方の予想通りであると思われる。次回会合からは中川順子委員に代わって、リフレ派の佐
+藤綾野委員が加わるため、引き締め方向への政策変更があった場合、反対票が２票に増える公算
+が大きい。
+
+・日銀は「長期国債の買入れ計画」も新たに公表した。こちらも市場予想通り、2027年３月までは
+従来の計画に沿って毎四半期に2,000億円ずつ減額し、2027年４月以降は月間２兆円程度の買入れ
+を行う、というものであった。日銀の試算によれば、長期国債の保有残高は2030年３月時点にお
+いては、減額前の2024年６月（590兆円程度）比で36～39％の減少になるという。金額にすると
+350～370兆円程度となる。
+
+・日経平均株価は先行き12 ヶ月66,000 円程度で推移するだろう 
+・USD/JPY は先行き12 ヶ月 155 円程度で推移するだろう 
+・日銀は利上げを続け、27 年７月に1.5％超となろう（修正検討中） 
+・FED はFF 金利を、年内は3.75％で据え置くだろう。
+
+### Page 2
+
+本資料は情報提供を目的として作成されたものであり、投資勧誘を目的としたものではありません。作成時点で、第一ライフ資産運用
+経済研究所が信ずるに足ると判断した情報に基づき作成していますが、その正確性、完全性に対する責任は負いません。見通しは予告
+なく変更されることがあります。また、記載された内容は、第一生命保険ないしはその関連会社の投資方針と常に整合的であるとは限
+りません。 
+2/2
+
+・日銀は利上げの背景を経済と物価に分けて説明した。経済は「中心的な見通しに概ね沿って推
+移」しているとして、「緩やかに回復している」とした。その上で、先行きについては「伸び率
+を縮小しつつも、緩やかな成長を続ける見通し」とした。高水準の企業収益や雇用・所得環境の
+改善が背景にあるという。物価は、「基調的な物価上昇率が２％の『物価安定の目標』を超えて
+上振れていくリスク」があるとした。これまでに得られた企業物価指数から判断して「企業間取
+引ではやや速いスピードで価格転嫁」との言及があったほか、今後「消費者段階の価格上昇に幅
+広く波及する可能性」と言及した。また「中長期の予想物価上昇率は引き続き上昇」していると
+評価した。債券市場で観察される予想物価上昇率（10年BEI）が２％を上回っているほか、日銀短
+観や生活意識に関するアンケート調査などで上振れ傾向が確認されている。
+
+・今後の注目点は「半年に一度の利上げ」という暗黙の前提が崩れるか否かである。足もとではイ
+ラン情勢が好転する兆しが強まっていることから原油価格が安定化し、物価の上振れリスクは低
+下が期待されるものの、既往の原油高が消費者段階に波及していくのは時間の問題であることか
+ら、その多寡次第で日銀が利上げペースを早めることも想定される。もちろん円安も重要な要素
+となる。米国の利上げ観測が強まるなどしてドル高圧力が生じる場合、日銀は利上げ観測を繋ぎ
+とめる目的もあって、利上げに前向きな姿勢を示すだろう。
+
+0
+100
+200
+300
+400
+500
+600
+700
+03 05 07 09 11 13 15 17 19 21 23 25
+長期国債保有残高
+(備考）日銀により作成
+（兆円）
+0
+1
+2
+3
+4
+5
+6
+7
+24/7 25/3 25/11 26/7 27/3
+日銀の国債買入れ（兆円）
+（備考）日銀より作成

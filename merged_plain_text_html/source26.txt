@@ -3,7 +3,7 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 005: 1590亞德客 永豐
+## Document 006: 1590亞德客 永豐
 
 Source PDF: all report pdf/1590亞德客 永豐.pdf
 Report source: line報告備份
@@ -319,7 +319,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 8
 
 ---
-## Document 013: 20260612_captain_qa_summary
+## Document 016: 20260612_captain_qa_summary
 
 Source PDF: all report pdf/20260612_captain_qa_summary.pdf
 Report source: line報告備份
@@ -461,7 +461,7 @@ AI集群中導入。
 20260612 艦長QA重點紀要 | 投資評估報告 3
 
 ---
-## Document 072: 2327國巨國票
+## Document 070: 2327國巨國票
 
 Source PDF: all report pdf/2327國巨國票.pdf
 Report source: line報告備份
@@ -914,7 +914,7 @@ $1,400
 • 國票可能與該公司進行業務而處於緘默期
 
 ---
-## Document 075: 2352佳世達 群益
+## Document 073: 2352佳世達 群益
 
 Source PDF: all report pdf/2352佳世達 群益.pdf
 Report source: line報告備份
@@ -1213,7 +1213,7 @@ YoY(%)
 情形。
 
 ---
-## Document 078: 2383台光電 第一金
+## Document 076: 2383台光電 第一金
 
 Source PDF: all report pdf/2383台光電 第一金.pdf
 Report source: line報告備份
@@ -1521,7 +1521,7 @@ YoY(%)
 9
 
 ---
-## Document 081: 2404漢唐 群益
+## Document 079: 2404漢唐 群益
 
 Source PDF: all report pdf/2404漢唐 群益.pdf
 Report source: line報告備份
@@ -1806,7 +1806,7 @@ YoY(%)
 情形。
 
 ---
-## Document 083: 2455全新 永豐
+## Document 081: 2455全新 永豐
 
 Source PDF: all report pdf/2455全新 永豐.pdf
 Report source: line報告備份
@@ -2196,7 +2196,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 9
 
 ---
-## Document 099: 260612_gs_wiwynn
+## Document 089: 260612_gs_wiwynn
 
 Source PDF: all report pdf/260612_gs_wiwynn.pdf
 Report source: line報告備份
@@ -2654,7 +2654,7 @@ Goldman Sachs Wiwynn (6669.TW)
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 104: 260615_gs_US-marketing-feedback
+## Document 094: 260615_gs_US-marketing-feedback
 
 Source PDF: all report pdf/260615_gs_US-marketing-feedback.pdf
 Report source: line報告備份
@@ -3360,7 +3360,7 @@ Goldman Sachs Taiwan Technology
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 107: 260616_daiwa_ Taiwan Small- and Mid-Caps
+## Document 097: 260616_daiwa_ Taiwan Small- and Mid-Caps
 
 Source PDF: all report pdf/260616_daiwa_ Taiwan Small- and Mid-Caps.pdf
 Report source: line報告備份
@@ -3643,7 +3643,7 @@ the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 111: 260616_gs_wistron
+## Document 101: 260616_gs_wistron
 
 Source PDF: all report pdf/260616_gs_wistron.pdf
 Report source: line報告備份
@@ -4223,7 +4223,7 @@ Goldman Sachs Wistron (3231.TW)
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 120: 260621_ms_mcu
+## Document 110: 260621_ms_mcu
 
 Source PDF: all report pdf/260621_ms_mcu.pdf
 Report source: line報告備份
@@ -4723,7 +4723,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 122: 260622_jp_innostar-OW-initiation
+## Document 112: 260622_jp_innostar-OW-initiation
 
 Source PDF: all report pdf/260622_jp_innostar-OW-initiation.pdf
 Report source: line報告備份
@@ -6387,7 +6387,7 @@ Asia Pacific Equity Research
 32
 
 ---
-## Document 127: 260622_ms_yageo
+## Document 117: 260622_ms_yageo
 
 Source PDF: all report pdf/260622_ms_yageo.pdf
 Report source: line報告備份
@@ -7720,11 +7720,11 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 129: 2609陽明 元富
+## Document 119: 2609陽明 元富
 
 Source PDF: all report pdf/2609陽明 元富.pdf
 Report source: line報告備份
-Date: 2026-06-23
+Date: 2026-06-22
 Pages: 2
 Extraction status: ok
 
@@ -7866,7 +7866,7 @@ Net 3.71 14.51 18.15 8.08 3.39 28.82 10.45 11.77
 NT$m
 
 ---
-## Document 151: 6285啟碁 台新
+## Document 137: 6285啟碁 台新
 
 Source PDF: all report pdf/6285啟碁 台新.pdf
 Report source: line報告備份
@@ -7995,7 +7995,7 @@ YoY+27.4%，EPS 2.78 元。
 位不為使用者之資訊決策及結果負擔任何責任。
 
 ---
-## Document 155: 6491晶碩 群益
+## Document 140: 6491晶碩 群益
 
 Source PDF: all report pdf/6491晶碩 群益.pdf
 Report source: line報告備份
@@ -8309,7 +8309,7 @@ YoY(%)
 情形。
 
 ---
-## Document 156: 6526達發 永豐
+## Document 141: 6526達發 永豐
 
 Source PDF: all report pdf/6526達發 永豐.pdf
 Report source: line報告備份
@@ -8667,11 +8667,11 @@ S：Sell 賣出：未來 6 個月該股票表現將落後大盤
 8
 
 ---
-## Document 157: 6538倉和 統一
+## Document 142: 6538倉和 統一
 
 Source PDF: all report pdf/6538倉和 統一.pdf
 Report source: line報告備份
-Date: 2026-06-23
+Date: 2026-06-22
 Pages: 10
 Extraction status: ok
 
@@ -9099,7 +9099,7 @@ ainReport/data/FileStream?id=e9f4efa9-2fd1-
 請參見末頁重要批露及免責聲明  10
 
 ---
-## Document 159: 6743 安普新 群益
+## Document 144: 6743 安普新 群益
 
 Source PDF: all report pdf/6743 安普新 群益.pdf
 Report source: line報告備份
@@ -9390,7 +9390,7 @@ YoY(%)
 情形。
 
 ---
-## Document 271: JPM_AI_Capex_2_0_If_You__2026-06-17_5315638
+## Document 240: JPM_AI_Capex_2_0_If_You__2026-06-17_5315638
 
 Source PDF: all report pdf/JPM_AI_Capex_2_0_If_You__2026-06-17_5315638.pdf
 Report source: line報告備份
@@ -13334,7 +13334,7 @@ This document is being provided for the exclusive use of Chanel Yu at SinoPac Se
 {[{ICED4R29oNWusuFDvgIVMpmY05cFHKRoDBNkTW8gCkMTPWmWjdnOuCW3R3knpW-rho_nU-fp9YTw0j7fF7FF6_Oij7TnTg}]}
 
 ---
-## Document 288: Mizuho Securities DELL HBM4e Ramping, Sizing Agentic AI Impact, and HBFLTAs -
+## Document 253: Mizuho Securities DELL HBM4e Ramping, Sizing Agentic AI Impact, and HBFLTAs -
 
 Source PDF: all report pdf/Mizuho Securities DELL HBM4e Ramping, Sizing Agentic AI Impact, and HBFLTAs -.pdf
 Report source: line報告備份
@@ -14330,7 +14330,7 @@ tools), redistributed, passed on to any other party or used to create derivative
 15
 
 ---
-## Document 296: No_Cap_AI_Servers_Are_Recharging_MLCC_Demand_–_SemiAnalysis
+## Document 262: No_Cap_AI_Servers_Are_Recharging_MLCC_Demand_–_SemiAnalysis
 
 Source PDF: all report pdf/No_Cap_AI_Servers_Are_Recharging_MLCC_Demand_–_SemiAnalysis.pdf
 Report source: line報告備份
@@ -14613,7 +14613,7 @@ may present a potentia confict of interest, and are encouraged to weigh th
 accordingy when evauating the contents of this Report.
 
 ---
-## Document 374: 【國泰證期研究部】2H26鋼鐵產業展望-鋼鐵低速修復，結構需求成主軸-20260622
+## Document 333: 【國泰證期研究部】2H26鋼鐵產業展望-鋼鐵低速修復，結構需求成主軸-20260622
 
 Source PDF: all report pdf/【國泰證期研究部】2H26鋼鐵產業展望-鋼鐵低速修復，結構需求成主軸-20260622.pdf
 Report source: line報告備份
@@ -14871,7 +14871,7 @@ World(Mt) China(Mt) World(YoY, %) China(YoY, %)
 投資評等定義
 
 ---
-## Document 455: 元大-2301-光寶科-20260622
+## Document 407: 元大-2301-光寶科-20260622
 
 Source PDF: all report pdf/元大-2301-光寶科-20260622.pdf
 Report source: line報告備份
@@ -15651,7 +15651,7 @@ ESG總分 15.8
 台灣臺北市 106仁愛路三段 157號 4樓
 
 ---
-## Document 475: 凱基投顧_2890 永豐金_施志鴻_20260617
+## Document 426: 凱基投顧_2890 永豐金_施志鴻_20260617
 
 Source PDF: all report pdf/凱基投顧_2890 永豐金_施志鴻_20260617.pdf
 Report source: line報告備份
@@ -16668,7 +16668,7 @@ na
  泰國          曼谷
 
 ---
-## Document 476: 凱基投顧_3515 華擎_余昀澄_20260618
+## Document 427: 凱基投顧_3515 華擎_余昀澄_20260618
 
 Source PDF: all report pdf/凱基投顧_3515 華擎_余昀澄_20260618.pdf
 Report source: line報告備份
@@ -17257,7 +17257,7 @@ Jun-25 Aug-25 Oct-25 Dec-25 Feb-26 Apr-26
 資料來源：TEJ，凱基
 
 ---
-## Document 482: 凱基投顧_AAPL Apple_張燾_20260622
+## Document 432: 凱基投顧_AAPL Apple_張燾_20260622
 
 Source PDF: all report pdf/凱基投顧_AAPL Apple_張燾_20260622.pdf
 Report source: line報告備份
@@ -17945,7 +17945,7 @@ Jun-23 Dec-23 Jun-24 Dec-24 Jun-25 Dec-25 Jun-26
 電話 62 21 250 6337
 
 ---
-## Document 488: 凱基投顧_Takeaway_3533 嘉澤_向子慧_20260613
+## Document 436: 凱基投顧_Takeaway_3533 嘉澤_向子慧_20260613
 
 Source PDF: all report pdf/凱基投顧_Takeaway_3533 嘉澤_向子慧_20260613.pdf
 Report source: line報告備份
@@ -18055,7 +18055,7 @@ QD/Cable ，單價較 高（QD 達 10-20 元） ，預期2027 年出貨量年
 六月 13, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 3
 
 ---
-## Document 497: 凱基投顧_美國總體濟_黃昱偉_20260618
+## Document 444: 凱基投顧_美國總體濟_黃昱偉_20260618
 
 Source PDF: all report pdf/凱基投顧_美國總體濟_黃昱偉_20260618.pdf
 Report source: line報告備份
@@ -18441,7 +18441,7 @@ M2貨幣供給 YoY % 8.0 7.1 5.3 5.5 3.5 3.4 4.8 5.4 5.0 5.1 5.0 5.2 5.4 5.8 6.5
 免責聲明
 
 ---
-## Document 517: 台塑化(6505,OW_增加持股) -CTBC260617
+## Document 464: 台塑化(6505,OW_增加持股) -CTBC260617
 
 Source PDF: all report pdf/台塑化(6505,OW_增加持股) -CTBC260617.pdf
 Report source: line報告備份
@@ -18848,7 +18848,7 @@ ESG 資訊 ─公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 520: 台新投顧20260618國際金融市場快訊-考量2H26通膨風險降溫，Fed升息機率尚低，惟降息門檻提
+## Document 467: 台新投顧20260618國際金融市場快訊-考量2H26通膨風險降溫，Fed升息機率尚低，惟降息門檻提
 
 Source PDF: all report pdf/台新投顧20260618國際金融市場快訊-考量2H26通膨風險降溫，Fed升息機率尚低，惟降息門檻提.pdf
 Report source: line報告備份
@@ -18922,7 +18922,7 @@ Fed 主席 Warsh 在記者會上明確宣示 Fed 已 「拋棄前瞻性指引」
 或散布。
 
 ---
-## Document 522: 台積電台灣擴廠版圖_含屏東供應鏈與STATCOM_電力水資源強化版評估報告_v3
+## Document 469: 台積電台灣擴廠版圖_含屏東供應鏈與STATCOM_電力水資源強化版評估報告_v3
 
 Source PDF: all report pdf/台積電台灣擴廠版圖_含屏東供應鏈與STATCOM_電力水資源強化版評估報告_v3.pdf
 Report source: line報告備份
@@ -19765,7 +19765,7 @@ v3 新增來源（電力品質/STATCOM）
 差之討論，旨在提出透明化建議，不代表對任何一方數據準確性之最終判斷。
 
 ---
-## Document 523: 合庫-2106-建大-20260618
+## Document 470: 合庫-2106-建大-20260618
 
 Source PDF: all report pdf/合庫-2106-建大-20260618.pdf
 Report source: line報告備份
@@ -20065,7 +20065,7 @@ INVESTMENT CONSULTANT
 未評等 訊息不足或有相關業務往來
 
 ---
-## Document 570: 彰銀(2801,OW_增加持股)-CTBC260616
+## Document 520: 彰銀(2801,OW_增加持股)-CTBC260616
 
 Source PDF: all report pdf/彰銀(2801,OW_增加持股)-CTBC260616.pdf
 Report source: line報告備份
@@ -20346,11 +20346,11 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 706: 群益-2409-2604友達
+## Document 650: 群益-2409-2604友達
 
 Source PDF: all report pdf/群益-2409-2604友達.pdf
 Report source: line報告備份
-Date: 2026-06-23
+Date: 2026-06-22
 Pages: 5
 Extraction status: ok
 
@@ -20581,7 +20581,7 @@ YoY(%)
 情形。
 
 ---
-## Document 712: 群益-4540-2604全球傳動
+## Document 656: 群益-4540-2604全球傳動
 
 Source PDF: all report pdf/群益-4540-2604全球傳動.pdf
 Report source: line報告備份
@@ -20815,7 +20815,7 @@ YoY(%)
 情形。
 
 ---
-## Document 716: 群益-6890-2601來億-KY
+## Document 660: 群益-6890-2601來億-KY
 
 Source PDF: all report pdf/群益-6890-2601來億-KY.pdf
 Report source: line報告備份
@@ -21074,7 +21074,7 @@ YoY(%)
 情形。
 
 ---
-## Document 764: 雙鴻(3324,B_買進)-CTBC260618
+## Document 712: 雙鴻(3324,B_買進)-CTBC260618
 
 Source PDF: all report pdf/雙鴻(3324,B_買進)-CTBC260618.pdf
 Report source: line報告備份
