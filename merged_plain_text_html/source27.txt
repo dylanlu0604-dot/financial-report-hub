@@ -3,7 +3,7 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 068: 2324仁寶 元富
+## Document 065: 2324仁寶 元富
 
 Source PDF: all report pdf/2324仁寶 元富.pdf
 Report source: line報告備份
@@ -142,7 +142,7 @@ Operating 1.3 1.5 1.8 1.7 1.6 1.4 1.6
 Net 1.0 0.9 1.2 1.1 1.1 0.8 1.1
 
 ---
-## Document 075: 2383台光電 元富
+## Document 070: 2383台光電 元富
 
 Source PDF: all report pdf/2383台光電 元富.pdf
 Report source: line報告備份
@@ -402,7 +402,7 @@ this date and are subject to change without notice. MasterLink has produced this
 information and advice is given in good faith but without any warranty.
 
 ---
-## Document 094: 260615_gs_US-marketing-feedback
+## Document 082: 260615_gs_US-marketing-feedback
 
 Source PDF: all report pdf/260615_gs_US-marketing-feedback.pdf
 Report source: line報告備份
@@ -1108,7 +1108,7 @@ Goldman Sachs Taiwan Technology
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 104: 260617_gs_quanta
+## Document 092: 260617_gs_quanta
 
 Source PDF: all report pdf/260617_gs_quanta.pdf
 Report source: line報告備份
@@ -1628,7 +1628,7 @@ Goldman Sachs Quanta (2382.TW)
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 110: 260621_ms_mcu
+## Document 098: 260621_ms_mcu
 
 Source PDF: all report pdf/260621_ms_mcu.pdf
 Report source: line報告備份
@@ -2128,7 +2128,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 113: 260622_ms_2h-june-panel-px
+## Document 101: 260622_ms_2h-june-panel-px
 
 Source PDF: all report pdf/260622_ms_2h-june-panel-px.pdf
 Report source: line報告備份
@@ -3186,7 +3186,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 120: 260622_ubs_MTK
+## Document 108: 260622_ubs_MTK
 
 Source PDF: all report pdf/260622_ubs_MTK.pdf
 Report source: line報告備份
@@ -4702,7 +4702,7 @@ kevinlu@ lenovo.com
 kevinlu@ lenovo.com
 
 ---
-## Document 124: 260623_ms_AI-supply-chain
+## Document 112: 260623_ms_AI-supply-chain
 
 Source PDF: all report pdf/260623_ms_AI-supply-chain.pdf
 Report source: line報告備份
@@ -5736,7 +5736,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 125: 260623_ms_MTK
+## Document 113: 260623_ms_MTK
 
 Source PDF: all report pdf/260623_ms_MTK.pdf
 Report source: line報告備份
@@ -6665,7 +6665,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 128: 2609陽明 元富
+## Document 116: 2609陽明 元富
 
 Source PDF: all report pdf/2609陽明 元富.pdf
 Report source: line報告備份
@@ -6811,7 +6811,7 @@ Net 3.71 14.51 18.15 8.08 3.39 28.82 10.45 11.77
 NT$m
 
 ---
-## Document 152: 6472保瑞 統一
+## Document 140: 6472保瑞 統一
 
 Source PDF: all report pdf/6472保瑞 統一.pdf
 Report source: line報告備份
@@ -7077,7 +7077,7 @@ ainReport/data/FileStream?id=244f8440-5816-
 請參見末頁重要批露及免責聲明  7
 
 ---
-## Document 153: 6491晶碩 群益
+## Document 141: 6491晶碩 群益
 
 Source PDF: all report pdf/6491晶碩 群益.pdf
 Report source: line報告備份
@@ -7391,7 +7391,7 @@ YoY(%)
 情形。
 
 ---
-## Document 154: 6526達發 永豐
+## Document 142: 6526達發 永豐
 
 Source PDF: all report pdf/6526達發 永豐.pdf
 Report source: line報告備份
@@ -7749,7 +7749,7 @@ S：Sell 賣出：未來 6 個月該股票表現將落後大盤
 8
 
 ---
-## Document 158: 6782視陽 群益
+## Document 145: 6782視陽 群益
 
 Source PDF: all report pdf/6782視陽 群益.pdf
 Report source: line報告備份
@@ -8019,7 +8019,7 @@ YoY(%)
 情形。
 
 ---
-## Document 159: 6811宏碁資訊 宏遠
+## Document 146: 6811宏碁資訊 宏遠
 
 Source PDF: all report pdf/6811宏碁資訊 宏遠.pdf
 Report source: line報告備份
@@ -8414,11 +8414,11 @@ B+
 2023 2024 2025
 
 ---
-## Document 160: 6894衛斯特 宏遠
+## Document 147: 6894衛斯特 宏遠
 
 Source PDF: all report pdf/6894衛斯特 宏遠.pdf
 Report source: line報告備份
-Date: 2026-06-24
+Date: 2026-06-23
 Pages: 10
 Extraction status: ok
 
@@ -9020,7 +9020,7 @@ D
 2023 2024 2025
 
 ---
-## Document 250: Global Semiconductors Global Semis： The CPU Renaissance？ Beneficiaries of a $223bn TAM. Bernstein 20260617
+## Document 230: Global Semiconductors Global Semis： The CPU Renaissance？ Beneficiaries of a $223bn TAM. Bernstein 20260617
 
 Source PDF: all report pdf/Global Semiconductors Global Semis： The CPU Renaissance？ Beneficiaries of a $223bn TAM. Bernstein 20260617.pdf
 Report source: line報告備份
@@ -11418,7 +11418,7 @@ GLOBAL SEMICONDUCTORS
 50
 
 ---
-## Document 360: 【國泰證期研究部】2H26 AI產業展望-王者地位無法撼動，Google為AI先驅者-20260618
+## Document 337: 【國泰證期研究部】2H26 AI產業展望-王者地位無法撼動，Google為AI先驅者-20260618
 
 Source PDF: all report pdf/【國泰證期研究部】2H26 AI產業展望-王者地位無法撼動，Google為AI先驅者-20260618.pdf
 Report source: line報告備份
@@ -11706,7 +11706,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 364: 【國泰證期研究部】勤誠(8210 TT)-買進(+25.1%)-勤耕機構，誠載雲端-20260616
+## Document 340: 【國泰證期研究部】勤誠(8210 TT)-買進(+25.1%)-勤耕機構，誠載雲端-20260616
 
 Source PDF: all report pdf/【國泰證期研究部】勤誠(8210 TT)-買進(+25.1%)-勤耕機構，誠載雲端-20260616.pdf
 Report source: line報告備份
@@ -12102,7 +12102,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 434: 元大-3515-華擎-20260622
+## Document 411: 元大-3515-華擎-20260622
 
 Source PDF: all report pdf/元大-3515-華擎-20260622.pdf
 Report source: line報告備份
@@ -12795,7 +12795,7 @@ ESG總分 18.6
 台灣臺北市 106仁愛路三段 157號 4樓
 
 ---
-## Document 443: 凱基投顧_2059 川湖_向子慧_20260618
+## Document 419: 凱基投顧_2059 川湖_向子慧_20260618
 
 Source PDF: all report pdf/凱基投顧_2059 川湖_向子慧_20260618.pdf
 Report source: line報告備份
@@ -13438,7 +13438,7 @@ Jun-25 Aug-25 Oct-25 Dec-25 Feb-26 Apr-26
 資料來源：TEJ；凱基
 
 ---
-## Document 445: 凱基投顧_2609 陽明_賴偉中_20260618
+## Document 421: 凱基投顧_2609 陽明_賴偉中_20260618
 
 Source PDF: all report pdf/凱基投顧_2609 陽明_賴偉中_20260618.pdf
 Report source: line報告備份
@@ -14029,7 +14029,7 @@ Jun-25 Aug-25 Oct-25 Dec-25 Feb-26 Apr-26
 資料來源：TEJ，凱基
 
 ---
-## Document 447: 凱基投顧_2753 八方雲集_莊政翰_20260615
+## Document 423: 凱基投顧_2753 八方雲集_莊政翰_20260615
 
 Source PDF: all report pdf/凱基投顧_2753 八方雲集_莊政翰_20260615.pdf
 Report source: line報告備份
@@ -14602,7 +14602,7 @@ Jun-25 Aug-25 Oct-25 Dec-25 Feb-26 Apr-26
 資料來源：TEJ，凱基
 
 ---
-## Document 449: 凱基投顧_2882 國泰金_施志鴻_20260616
+## Document 425: 凱基投顧_2882 國泰金_施志鴻_20260616
 
 Source PDF: all report pdf/凱基投顧_2882 國泰金_施志鴻_20260616.pdf
 Report source: line報告備份
@@ -15562,7 +15562,7 @@ Recommendations & Target Price
  泰國          曼谷
 
 ---
-## Document 471: 凱基投顧_台灣總體經濟_劉建志_20260623
+## Document 440: 凱基投顧_台灣總體經濟_劉建志_20260623
 
 Source PDF: all report pdf/凱基投顧_台灣總體經濟_劉建志_20260623.pdf
 Report source: line報告備份
@@ -15947,7 +15947,7 @@ M2貨幣供給 YoY % 8.0 7.1 5.3 5.5 3.5 3.4 4.8 5.4 5.0 5.1 5.0 5.2 5.4 5.8 6.5
 免責聲明
 
 ---
-## Document 488: 南電(8046,B_買進)-CTBC260616
+## Document 458: 南電(8046,B_買進)-CTBC260616
 
 Source PDF: all report pdf/南電(8046,B_買進)-CTBC260616.pdf
 Report source: line報告備份
@@ -16236,7 +16236,7 @@ ESG 資訊 -公司治理 (Governance)
 營業執照字號： 114 金管投顧新字第 014 號
 
 ---
-## Document 495: 台新投顧20260618個股報告-東和鋼鐵(2006)-買進
+## Document 465: 台新投顧20260618個股報告-東和鋼鐵(2006)-買進
 
 Source PDF: all report pdf/台新投顧20260618個股報告-東和鋼鐵(2006)-買進.pdf
 Report source: line報告備份
@@ -16427,7 +16427,7 @@ YoY(%)
 位不為使用者之資訊決策及結果負擔任何責任。
 
 ---
-## Document 496: 台新投顧20260618國際金融市場快訊-考量2H26通膨風險降溫，Fed升息機率尚低，惟降息門檻提
+## Document 466: 台新投顧20260618國際金融市場快訊-考量2H26通膨風險降溫，Fed升息機率尚低，惟降息門檻提
 
 Source PDF: all report pdf/台新投顧20260618國際金融市場快訊-考量2H26通膨風險降溫，Fed升息機率尚低，惟降息門檻提.pdf
 Report source: line報告備份
@@ -16501,7 +16501,7 @@ Fed 主席 Warsh 在記者會上明確宣示 Fed 已 「拋棄前瞻性指引」
 或散布。
 
 ---
-## Document 498: 台積電台灣擴廠版圖_含屏東供應鏈與STATCOM_電力水資源強化版評估報告_v3
+## Document 467: 台積電台灣擴廠版圖_含屏東供應鏈與STATCOM_電力水資源強化版評估報告_v3
 
 Source PDF: all report pdf/台積電台灣擴廠版圖_含屏東供應鏈與STATCOM_電力水資源強化版評估報告_v3.pdf
 Report source: line報告備份
@@ -17344,7 +17344,7 @@ v3 新增來源（電力品質/STATCOM）
 差之討論，旨在提出透明化建議，不代表對任何一方數據準確性之最終判斷。
 
 ---
-## Document 499: 合庫-2106-建大-20260618
+## Document 468: 合庫-2106-建大-20260618
 
 Source PDF: all report pdf/合庫-2106-建大-20260618.pdf
 Report source: line報告備份
@@ -17644,7 +17644,7 @@ INVESTMENT CONSULTANT
 未評等 訊息不足或有相關業務往來
 
 ---
-## Document 544: 廣宇(2328,Note)-CTBC260615
+## Document 511: 廣宇(2328,Note)-CTBC260615
 
 Source PDF: all report pdf/廣宇(2328,Note)-CTBC260615.pdf
 Report source: line報告備份
@@ -17811,7 +17811,7 @@ ESG 資訊 -公 司 治 理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 545: 彰銀(2801,OW_增加持股)-CTBC260616
+## Document 513: 彰銀(2801,OW_增加持股)-CTBC260616
 
 Source PDF: all report pdf/彰銀(2801,OW_增加持股)-CTBC260616.pdf
 Report source: line報告備份
@@ -18092,7 +18092,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 677: 群益-2344-2614華邦電
+## Document 646: 群益-2344-2614華邦電
 
 Source PDF: all report pdf/群益-2344-2614華邦電.pdf
 Report source: line報告備份
@@ -18364,7 +18364,7 @@ YoY(%)
 情形。
 
 ---
-## Document 678: 群益-2409-2604友達
+## Document 647: 群益-2409-2604友達
 
 Source PDF: all report pdf/群益-2409-2604友達.pdf
 Report source: line報告備份
@@ -18599,7 +18599,7 @@ YoY(%)
 情形。
 
 ---
-## Document 685: 群益-4979-2602華星光
+## Document 654: 群益-4979-2602華星光
 
 Source PDF: all report pdf/群益-4979-2602華星光.pdf
 Report source: line報告備份
@@ -18830,7 +18830,7 @@ YoY(%)
 情形。
 
 ---
-## Document 689: 群益-美股Materion Corp (MTRN US)-06172026
+## Document 658: 群益-美股Materion Corp (MTRN US)-06172026
 
 Source PDF: all report pdf/群益-美股Materion Corp (MTRN US)-06172026.pdf
 Report source: line報告備份
@@ -19023,7 +19023,7 @@ Price P/E of 51.8x P/E of 37.7x P/E of 23.6x P/E of 9.5x
 建議降低持股
 
 ---
-## Document 693: 群益專題報告-歐元區經濟展望-20260617
+## Document 662: 群益專題報告-歐元區經濟展望-20260617
 
 Source PDF: all report pdf/群益專題報告-歐元區經濟展望-20260617.pdf
 Report source: line報告備份
@@ -19356,7 +19356,7 @@ Price 19X PE 17X PE 15X PE 13X PE 11X PE
 上升或下降，產生投資回報金額可能比原始投資來得少的情形。
 
 ---
-## Document 694: 群益專題簡報-AI持續主導科技股，各大平台玩咖各顯神通-20260617
+## Document 663: 群益專題簡報-AI持續主導科技股，各大平台玩咖各顯神通-20260617
 
 Source PDF: all report pdf/群益專題簡報-AI持續主導科技股，各大平台玩咖各顯神通-20260617.pdf
 Report source: line報告備份
@@ -21195,7 +21195,7 @@ TV 43%
 上升或下降，產生投資回報金額可能比原始投資來得少的情形。
 
 ---
-## Document 720: 視陽(6782,OW_增加持股)-CTBC260618
+## Document 687: 視陽(6782,OW_增加持股)-CTBC260618
 
 Source PDF: all report pdf/視陽(6782,OW_增加持股)-CTBC260618.pdf
 Report source: line報告備份
