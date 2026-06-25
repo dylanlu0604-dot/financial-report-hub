@@ -284,7 +284,7 @@ Operating 15.8 16.1 17.7 20.0 ROA 6.33 8.80 11.94 9.89
 Net 17.0 13.8 15.2 17.1 ROE 9.25 12.03 16.19 13.38
 
 ---
-## Document 018: 20260618 Kevin Warsh首秀
+## Document 017: 20260618 Kevin Warsh首秀
 
 Source PDF: all report pdf/20260618 Kevin Warsh首秀.pdf
 Report source: line報告備份
@@ -658,7 +658,7 @@ Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4
 複製、轉載或散布。
 
 ---
-## Document 064: 2049上銀 群益
+## Document 065: 2049上銀 群益
 
 Source PDF: all report pdf/2049上銀 群益.pdf
 Report source: line報告備份
@@ -900,7 +900,7 @@ YoY(%)
 情形。
 
 ---
-## Document 068: 2327國巨國票
+## Document 067: 2327國巨國票
 
 Source PDF: all report pdf/2327國巨國票.pdf
 Report source: line報告備份
@@ -1353,7 +1353,7 @@ $1,400
 • 國票可能與該公司進行業務而處於緘默期
 
 ---
-## Document 079: 2474可成 元富
+## Document 074: 2474可成 元富
 
 Source PDF: all report pdf/2474可成 元富.pdf
 Report source: line報告備份
@@ -1460,7 +1460,7 @@ Net 39.3 44.6 39.5 39.9 73.0 38.3 40.7
 公司拜訪快報
 
 ---
-## Document 090: 260616_gs_wistron
+## Document 079: 260616_gs_wistron
 
 Source PDF: all report pdf/260616_gs_wistron.pdf
 Report source: line報告備份
@@ -2040,7 +2040,7 @@ Goldman Sachs Wistron (3231.TW)
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 101: 260622_jp_innostar-OW-initiation
+## Document 090: 260622_jp_innostar-OW-initiation
 
 Source PDF: all report pdf/260622_jp_innostar-OW-initiation.pdf
 Report source: line報告備份
@@ -3704,7 +3704,7 @@ Asia Pacific Equity Research
 32
 
 ---
-## Document 106: 260622_ms_yageo
+## Document 095: 260622_ms_yageo
 
 Source PDF: all report pdf/260622_ms_yageo.pdf
 Report source: line報告備份
@@ -5037,7 +5037,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 108: 260622_ubs_data-center-central
+## Document 097: 260622_ubs_data-center-central
 
 Source PDF: all report pdf/260622_ubs_data-center-central.pdf
 Report source: line報告備份
@@ -6998,7 +6998,7 @@ kevinlu@ lenovo.com
 kevinlu@ lenovo.com
 
 ---
-## Document 112: 260623_hsbc_foundry
+## Document 101: 260623_hsbc_foundry
 
 Source PDF: all report pdf/260623_hsbc_foundry.pdf
 Report source: line報告備份
@@ -8556,7 +8556,7 @@ https://www.research.hsbc.com/R/34/rMSXc7k
 [1281465]
 
 ---
-## Document 113: 260623_ms_AI-supply-chain
+## Document 102: 260623_ms_AI-supply-chain
 
 Source PDF: all report pdf/260623_ms_AI-supply-chain.pdf
 Report source: line報告備份
@@ -9590,7 +9590,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 123: 2609陽明 元富
+## Document 112: 2609陽明 元富
 
 Source PDF: all report pdf/2609陽明 元富.pdf
 Report source: line報告備份
@@ -9736,7 +9736,7 @@ Net 3.71 14.51 18.15 8.08 3.39 28.82 10.45 11.77
 NT$m
 
 ---
-## Document 124: 2609陽明20260623-元富投顧(台新新光金控)報告
+## Document 113: 2609陽明20260623-元富投顧(台新新光金控)報告
 
 Source PDF: all report pdf/2609陽明20260623-元富投顧(台新新光金控)報告.pdf
 Report source: line報告備份
@@ -10034,7 +10034,7 @@ this date and are subject to change without notice. MasterLink has produced this
 information and advice is given in good faith but without any warranty.
 
 ---
-## Document 133: 3413京鼎 元大
+## Document 120: 3413京鼎 元大
 
 Source PDF: all report pdf/3413京鼎 元大.pdf
 Report source: line報告備份
@@ -10592,7 +10592,7 @@ Foxsemicon's Water Consumption in 2020 (m^3)
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 134: 3413京鼎 永豐
+## Document 121: 3413京鼎 永豐
 
 Source PDF: all report pdf/3413京鼎 永豐.pdf
 Report source: line報告備份
@@ -10965,7 +10965,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 9
 
 ---
-## Document 142: 6277宏正20260617-元富投顧(台新新光金控)報告
+## Document 128: 6277宏正20260617-元富投顧(台新新光金控)報告
 
 Source PDF: all report pdf/6277宏正20260617-元富投顧(台新新光金控)報告.pdf
 Report source: line報告備份
@@ -11291,7 +11291,7 @@ Operating 14.4 12.5 15.2 19.0 ROA 7.83 6.96 5.19 8.32
 Net 10.0 8.6 11.2 14.1 ROE 11.67 10.22 7.52 11.92
 
 ---
-## Document 143: 6278台表科 統一
+## Document 129: 6278台表科 統一
 
 Source PDF: all report pdf/6278台表科 統一.pdf
 Report source: line報告備份
@@ -11694,7 +11694,7 @@ ainReport/data/FileStream?id=53e4d5fb-10fe-
 請參見末頁重要批露及免責聲明  10
 
 ---
-## Document 146: 6472保瑞 元大
+## Document 131: 6472保瑞 元大
 
 Source PDF: all report pdf/6472保瑞 元大.pdf
 Report source: line報告備份
@@ -12558,7 +12558,7 @@ ESG總分 23.8
 台灣臺北市 106仁愛路三段 157號 4樓
 
 ---
-## Document 327: TSMC(2330TW) MQ 260618
+## Document 301: TSMC(2330TW) MQ 260618
 
 Source PDF: all report pdf/TSMC(2330TW) MQ 260618.pdf
 Report source: line報告備份
@@ -12569,7 +12569,7 @@ Extraction status: ok
 [No extractable text after boilerplate filtering.]
 
 ---
-## Document 361: 【國泰證期研究部】2H26 AI產業展望-王者地位無法撼動，Google為AI先驅者-20260618
+## Document 334: 【國泰證期研究部】2H26 AI產業展望-王者地位無法撼動，Google為AI先驅者-20260618
 
 Source PDF: all report pdf/【國泰證期研究部】2H26 AI產業展望-王者地位無法撼動，Google為AI先驅者-20260618.pdf
 Report source: line報告備份
@@ -12857,7 +12857,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 366: 【國泰證期研究部】崇越(5434 TT)-買進(+15.7%)-營運持續創高-20260622
+## Document 339: 【國泰證期研究部】崇越(5434 TT)-買進(+15.7%)-營運持續創高-20260622
 
 Source PDF: all report pdf/【國泰證期研究部】崇越(5434 TT)-買進(+15.7%)-營運持續創高-20260622.pdf
 Report source: line報告備份
@@ -13214,7 +13214,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 445: 凱基投顧_2026下半年台股投資策略_研究部_20260622
+## Document 416: 凱基投顧_2026下半年台股投資策略_研究部_20260622
 
 Source PDF: all report pdf/凱基投顧_2026下半年台股投資策略_研究部_20260622.pdf
 Report source: line報告備份
@@ -17458,7 +17458,7 @@ kenny.ch.hsu@kgi.com
 免責聲明
 
 ---
-## Document 451: 凱基投顧_2881 富邦金_施志鴻_20260616
+## Document 420: 凱基投顧_2881 富邦金_施志鴻_20260616
 
 Source PDF: all report pdf/凱基投顧_2881 富邦金_施志鴻_20260616.pdf
 Report source: line報告備份
@@ -18414,7 +18414,7 @@ Jun-25 Aug-25 Oct-25 Dec-25 Feb-26 Apr-26
  泰國          曼谷
 
 ---
-## Document 457: 凱基投顧_7828 創新服務_許芝瑄_20260617
+## Document 426: 凱基投顧_7828 創新服務_許芝瑄_20260617
 
 Source PDF: all report pdf/凱基投顧_7828 創新服務_許芝瑄_20260617.pdf
 Report source: line報告備份
@@ -19318,7 +19318,7 @@ Dec-24A Dec-25A Dec-26F Dec-27F Dec-28F
  泰國          曼谷
 
 ---
-## Document 458: 凱基投顧_8996 高力_李承泰_20260618
+## Document 427: 凱基投顧_8996 高力_李承泰_20260618
 
 Source PDF: all report pdf/凱基投顧_8996 高力_李承泰_20260618.pdf
 Report source: line報告備份
@@ -19981,7 +19981,7 @@ Jun-25 Aug-25 Oct-25 Dec-25 Feb-26 Apr-26
 資料來源：TEJ，凱基
 
 ---
-## Document 459: 凱基投顧_AAPL Apple_張燾_20260622
+## Document 428: 凱基投顧_AAPL Apple_張燾_20260622
 
 Source PDF: all report pdf/凱基投顧_AAPL Apple_張燾_20260622.pdf
 Report source: line報告備份
@@ -20669,11 +20669,11 @@ Jun-23 Dec-23 Jun-24 Dec-24 Jun-25 Dec-25 Jun-26
 電話 62 21 250 6337
 
 ---
-## Document 480: 华丰科技-688629-A股公司深度报告深耕高速互联系统掘金AI算力时代-26061437页
+## Document 450: 华丰科技-688629-A股公司深度报告深耕高速互联系统掘金AI算力时代-26061437页
 
 Source PDF: all report pdf/华丰科技-688629-A股公司深度报告深耕高速互联系统掘金AI算力时代-26061437页.pdf
 Report source: line報告備份
-Date: 2026-06-25
+Date: 2026-06-24
 Pages: 37
 Extraction status: ok
 
@@ -21936,7 +21936,7 @@ ROE 20% 30% 32% 36%
 国海证券·研究所·计算机研究团队
 
 ---
-## Document 488: 印能科技(7734,B_買進)-CTBC260625
+## Document 457: 印能科技(7734,B_買進)-CTBC260625
 
 Source PDF: all report pdf/印能科技(7734,B_買進)-CTBC260625.pdf
 Report source: line報告備份
@@ -22219,7 +22219,7 @@ ESG 資訊 - 環境保護 (Environmental)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 490: 台塑化(6505,OW_增加持股) -CTBC260617
+## Document 459: 台塑化(6505,OW_增加持股) -CTBC260617
 
 Source PDF: all report pdf/台塑化(6505,OW_增加持股) -CTBC260617.pdf
 Report source: line報告備份
@@ -22626,7 +22626,7 @@ ESG 資訊 ─公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 492: 台新投顧20260618個股報告-東和鋼鐵(2006)-買進
+## Document 461: 台新投顧20260618個股報告-東和鋼鐵(2006)-買進
 
 Source PDF: all report pdf/台新投顧20260618個股報告-東和鋼鐵(2006)-買進.pdf
 Report source: line報告備份
@@ -22817,7 +22817,7 @@ YoY(%)
 位不為使用者之資訊決策及結果負擔任何責任。
 
 ---
-## Document 498: 合庫-2474-可成-20260624
+## Document 469: 合庫-2474-可成-20260624
 
 Source PDF: all report pdf/合庫-2474-可成-20260624.pdf
 Report source: line報告備份
@@ -23052,11 +23052,11 @@ INVESTMENT CONSULTANT
 單位主管                      複核                     研究員
 
 ---
-## Document 545: 建筑装饰行业专题研究洁净室专题AI先进制程发展下半导体资本开支扩张洁净室下游高景气
+## Document 518: 建筑装饰行业专题研究洁净室专题AI先进制程发展下半导体资本开支扩张洁净室下游高景气
 
 Source PDF: all report pdf/建筑装饰行业专题研究洁净室专题AI先进制程发展下半导体资本开支扩张洁净室下游高景气.pdf
 Report source: line報告備份
-Date: 2026-06-25
+Date: 2026-06-24
 Pages: 37
 Extraction status: ok
 
@@ -24810,7 +24810,7 @@ SK 海力士、 中芯国际、 长鑫存储、 长江存储未来资本开支�
 弱于大市：相对同期相关证券市场代表性指数跌幅10%以上。
 
 ---
-## Document 612: 玉山-8358-金居-20260624
+## Document 585: 玉山-8358-金居-20260624
 
 Source PDF: all report pdf/玉山-8358-金居-20260624.pdf
 Report source: line報告備份
@@ -25016,7 +25016,7 @@ HVLP 高階銅箔 2026-2028 年產業進入結構性缺貨週期：需求端方�
 未評等：無。
 
 ---
-## Document 622: 矽格(6257,B_買進)-CTBC260624
+## Document 594: 矽格(6257,B_買進)-CTBC260624
 
 Source PDF: all report pdf/矽格(6257,B_買進)-CTBC260624.pdf
 Report source: line報告備份
@@ -25296,7 +25296,7 @@ ESG 資訊 - 環境保護 (Environmental)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 654: 總經評析-聯準會維持利率不變，點陣圖顯示今年將升息-CTBC260618
+## Document 625: 總經評析-聯準會維持利率不變，點陣圖顯示今年將升息-CTBC260618
 
 Source PDF: all report pdf/總經評析-聯準會維持利率不變，點陣圖顯示今年將升息-CTBC260618.pdf
 Report source: line報告備份
@@ -25413,7 +25413,7 @@ Emma.yu@ctbcsis.com
 未評等 Not Rated (NR)
 
 ---
-## Document 685: 群益-2409-2604友達
+## Document 655: 群益-2409-2604友達
 
 Source PDF: all report pdf/群益-2409-2604友達.pdf
 Report source: line報告備份
@@ -25648,7 +25648,7 @@ YoY(%)
 情形。
 
 ---
-## Document 699: 群益專題報告-2026年下半年台股投資策略-20260617
+## Document 664: 群益專題報告-2026年下半年台股投資策略-20260617
 
 Source PDF: all report pdf/群益專題報告-2026年下半年台股投資策略-20260617.pdf
 Report source: line報告備份
@@ -25985,7 +25985,7 @@ FOPLP
 與法說 3/18財報
 
 ---
-## Document 700: 群益專題報告-半導體設備產業-2027年全球半導體製造設備市場續看成長-20260622
+## Document 665: 群益專題報告-半導體設備產業-2027年全球半導體製造設備市場續看成長-20260622
 
 Source PDF: all report pdf/群益專題報告-半導體設備產業-2027年全球半導體製造設備市場續看成長-20260622.pdf
 Report source: line報告備份
@@ -26485,7 +26485,7 @@ TV 43%
 群益投顧
 
 ---
-## Document 728: 視陽(6782,OW_增加持股)-CTBC260618
+## Document 693: 視陽(6782,OW_增加持股)-CTBC260618
 
 Source PDF: all report pdf/視陽(6782,OW_增加持股)-CTBC260618.pdf
 Report source: line報告備份
@@ -26769,11 +26769,11 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 731: 计算机行业专题研究Switch交换芯片AI组网革新国产替代打开增长天花板-26062420页
+## Document 697: 计算机行业专题研究Switch交换芯片AI组网革新国产替代打开增长天花板-26062420页
 
 Source PDF: all report pdf/计算机行业专题研究Switch交换芯片AI组网革新国产替代打开增长天花板-26062420页.pdf
 Report source: line報告備份
-Date: 2026-06-25
+Date: 2026-06-24
 Pages: 20
 Extraction status: ok
 

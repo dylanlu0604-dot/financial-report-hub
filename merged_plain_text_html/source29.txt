@@ -3,7 +3,7 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 087: 260616_daiwa_emc
+## Document 076: 260616_daiwa_emc
 
 Source PDF: all report pdf/260616_daiwa_emc.pdf
 Report source: line報告備份
@@ -464,7 +464,7 @@ the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 091: 260617_citi_TUC
+## Document 080: 260617_citi_TUC
 
 Source PDF: all report pdf/260617_citi_TUC.pdf
 Report source: line報告備份
@@ -1254,7 +1254,7 @@ solely for the recipient and may not be further distributed by the recipient to 
 ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 
 ---
-## Document 097: 260619_gs_inventec
+## Document 086: 260619_gs_inventec
 
 Source PDF: all report pdf/260619_gs_inventec.pdf
 Report source: line報告備份
@@ -1795,7 +1795,7 @@ Goldman Sachs Inventec (2356.TW)
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 099: 260621_ms_mcu
+## Document 088: 260621_ms_mcu
 
 Source PDF: all report pdf/260621_ms_mcu.pdf
 Report source: line報告備份
@@ -2295,7 +2295,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 103: 260622_ms_china-AI-GPU-TAM
+## Document 092: 260622_ms_china-AI-GPU-TAM
 
 Source PDF: all report pdf/260622_ms_china-AI-GPU-TAM.pdf
 Report source: line報告備份
@@ -3569,7 +3569,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 109: 260622_ubs_MTK
+## Document 098: 260622_ubs_MTK
 
 Source PDF: all report pdf/260622_ubs_MTK.pdf
 Report source: line報告備份
@@ -5085,7 +5085,7 @@ kevinlu@ lenovo.com
 kevinlu@ lenovo.com
 
 ---
-## Document 118: 260624_gs_global-server
+## Document 107: 260624_gs_global-server
 
 Source PDF: all report pdf/260624_gs_global-server.pdf
 Report source: line報告備份
@@ -6188,7 +6188,7 @@ Goldman Sachs Global Server
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 120: 260624_kgi_iteq
+## Document 109: 260624_kgi_iteq
 
 Source PDF: all report pdf/260624_kgi_iteq.pdf
 Report source: line報告備份
@@ -6852,7 +6852,7 @@ Jun-25 Aug-25 Oct-25 Dec-25 Feb-26 Apr-26
 資料來源：TEJ，凱基
 
 ---
-## Document 121: 260624_ms_guc-UG
+## Document 110: 260624_ms_guc-UG
 
 Source PDF: all report pdf/260624_ms_guc-UG.pdf
 Report source: line報告備份
@@ -7770,7 +7770,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 126: 3017奇鋐 永豐
+## Document 115: 3017奇鋐 永豐
 
 Source PDF: all report pdf/3017奇鋐 永豐.pdf
 Report source: line報告備份
@@ -8114,7 +8114,7 @@ S：Sell 賣出：未來 6 個月該股票表現將落後大盤
 8
 
 ---
-## Document 128: 3037欣興 國票
+## Document 117: 3037欣興 國票
 
 Source PDF: all report pdf/3037欣興 國票.pdf
 Report source: line報告備份
@@ -8514,7 +8514,7 @@ $1,500
 • 國票可能與該公司進行業務而處於緘默期
 
 ---
-## Document 135: 3413京鼎 群益
+## Document 122: 3413京鼎 群益
 
 Source PDF: all report pdf/3413京鼎 群益.pdf
 Report source: line報告備份
@@ -8646,7 +8646,7 @@ PER= 股價 /2026 (F) EPS ； PBR= 股價 /2026 (F) 年 底 預 估 每 股 淨 
 情形。
 
 ---
-## Document 137: 5371中光電 群益
+## Document 123: 5371中光電 群益
 
 Source PDF: all report pdf/5371中光電 群益.pdf
 Report source: line報告備份
@@ -8880,7 +8880,7 @@ YoY(%)
 情形。
 
 ---
-## Document 151: 6743 安普新 群益
+## Document 135: 6743 安普新 群益
 
 Source PDF: all report pdf/6743 安普新 群益.pdf
 Report source: line報告備份
@@ -9171,7 +9171,7 @@ YoY(%)
 情形。
 
 ---
-## Document 155: 6894衛斯特 宏遠
+## Document 138: 6894衛斯特 宏遠
 
 Source PDF: all report pdf/6894衛斯特 宏遠.pdf
 Report source: line報告備份
@@ -9777,7 +9777,7 @@ D
 2023 2024 2025
 
 ---
-## Document 156: 7795長廣 統一
+## Document 139: 7795長廣 統一
 
 Source PDF: all report pdf/7795長廣 統一.pdf
 Report source: line報告備份
@@ -10270,11 +10270,11 @@ EBITDA 633 639 483 1,294   EBITDA 26.8 28.6 25.5 32.3
 請參見末頁重要披露及免責聲明 13
 
 ---
-## Document 158: 8086宏捷科 永豐
+## Document 141: 8086宏捷科 永豐
 
 Source PDF: all report pdf/8086宏捷科 永豐.pdf
 Report source: line報告備份
-Date: 2026-06-25
+Date: 2026-06-24
 Pages: 10
 Extraction status: ok
 
@@ -10776,7 +10776,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 10
 
 ---
-## Document 249: Here Is The Korean Article That Sent Memory Stocks Tumbling And Sparked A Global
+## Document 231: Here Is The Korean Article That Sent Memory Stocks Tumbling And Sparked A Global
 
 Source PDF: all report pdf/Here Is The Korean Article That Sent Memory Stocks Tumbling And Sparked A Global.pdf
 Report source: line報告備份
@@ -10904,7 +10904,7 @@ https://www.zerohedge.com/markets/here-korean-article-sent-memory-stocks-lower-a
 網⾴4/4
 
 ---
-## Document 333: UBS MU Micron Technology Inc FQ326 (May) Earnings Preview LT
+## Document 307: UBS MU Micron Technology Inc FQ326 (May) Earnings Preview LT
 
 Source PDF: all report pdf/UBS MU Micron Technology Inc FQ326 (May) Earnings Preview LT.pdf
 Report source: line報告備份
@@ -13609,7 +13609,7 @@ ab
 This document is being provided for the exclusive use of RACHEL CHEN at MOUNTAIN HILL LTD.
 
 ---
-## Document 368: 【國泰證期研究部】華城(1519 TT)-買進(+17%)-新產能貢獻晚於預期-20260618
+## Document 341: 【國泰證期研究部】華城(1519 TT)-買進(+17%)-新產能貢獻晚於預期-20260618
 
 Source PDF: all report pdf/【國泰證期研究部】華城(1519 TT)-買進(+17%)-新產能貢獻晚於預期-20260618.pdf
 Report source: line報告備份
@@ -13961,7 +13961,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 438: 元大-2301-光寶科-20260622
+## Document 410: 元大-2301-光寶科-20260622
 
 Source PDF: all report pdf/元大-2301-光寶科-20260622.pdf
 Report source: line報告備份
@@ -14741,7 +14741,7 @@ ESG總分 15.8
 台灣臺北市 106仁愛路三段 157號 4樓
 
 ---
-## Document 439: 元大-3515-華擎-20260622
+## Document 411: 元大-3515-華擎-20260622
 
 Source PDF: all report pdf/元大-3515-華擎-20260622.pdf
 Report source: line報告備份
@@ -15434,7 +15434,7 @@ ESG總分 18.6
 台灣臺北市 106仁愛路三段 157號 4樓
 
 ---
-## Document 440: 元大-經濟數據評析-日本5月進出口-20260618
+## Document 412: 元大-經濟數據評析-日本5月進出口-20260618
 
 Source PDF: all report pdf/元大-經濟數據評析-日本5月進出口-20260618.pdf
 Report source: line報告備份
@@ -15959,7 +15959,7 @@ CPI(扣除新鮮食品)   1.4 1.8 1.6 2.0 2.4 3.0 3.0 2.9 2.7 3.1 3.3
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 446: 凱基投顧_2059 川湖_向子慧_20260618
+## Document 417: 凱基投顧_2059 川湖_向子慧_20260618
 
 Source PDF: all report pdf/凱基投顧_2059 川湖_向子慧_20260618.pdf
 Report source: line報告備份
@@ -16602,7 +16602,7 @@ Jun-25 Aug-25 Oct-25 Dec-25 Feb-26 Apr-26
 資料來源：TEJ；凱基
 
 ---
-## Document 467: 凱基投顧_Takeaway_8462 柏文_劉昃恩_20260623
+## Document 435: 凱基投顧_Takeaway_8462 柏文_劉昃恩_20260623
 
 Source PDF: all report pdf/凱基投顧_Takeaway_8462 柏文_劉昃恩_20260623.pdf
 Report source: line報告備份
@@ -16724,7 +16724,7 @@ eden.chang@kgi.com
 六月 23, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R   3
 
 ---
-## Document 469: 凱基投顧_台灣總體經濟_劉建志_20260623
+## Document 437: 凱基投顧_台灣總體經濟_劉建志_20260623
 
 Source PDF: all report pdf/凱基投顧_台灣總體經濟_劉建志_20260623.pdf
 Report source: line報告備份
@@ -17109,7 +17109,7 @@ M2貨幣供給 YoY % 8.0 7.1 5.3 5.5 3.5 3.4 4.8 5.4 5.0 5.1 5.0 5.2 5.4 5.8 6.5
 免責聲明
 
 ---
-## Document 483: 华泰期货-FICC日报：日本央行加息25个基点，关注美联储利率决议-260617
+## Document 452: 华泰期货-FICC日报：日本央行加息25个基点，关注美联储利率决议-260617
 
 Source PDF: all report pdf/华泰期货-FICC日报：日本央行加息25个基点，关注美联储利率决议-260617.pdf
 Report source: line報告備份
@@ -17282,7 +17282,7 @@ FICC日报 | 2026-06-17
 下载日志已记录，仅供内部参考
 
 ---
-## Document 493: 台新投顧20260618國際金融市場快訊-考量2H26通膨風險降溫，Fed升息機率尚低，惟降息門檻提
+## Document 462: 台新投顧20260618國際金融市場快訊-考量2H26通膨風險降溫，Fed升息機率尚低，惟降息門檻提
 
 Source PDF: all report pdf/台新投顧20260618國際金融市場快訊-考量2H26通膨風險降溫，Fed升息機率尚低，惟降息門檻提.pdf
 Report source: line報告備份
@@ -17356,7 +17356,7 @@ Fed 主席 Warsh 在記者會上明確宣示 Fed 已 「拋棄前瞻性指引」
 或散布。
 
 ---
-## Document 497: 合庫-2106-建大-20260618
+## Document 468: 合庫-2106-建大-20260618
 
 Source PDF: all report pdf/合庫-2106-建大-20260618.pdf
 Report source: line報告備份
@@ -17656,7 +17656,7 @@ INVESTMENT CONSULTANT
 未評等 訊息不足或有相關業務往來
 
 ---
-## Document 538: 富邦-6585-鼎基-20260622
+## Document 512: 富邦-6585-鼎基-20260622
 
 Source PDF: all report pdf/富邦-6585-鼎基-20260622.pdf
 Report source: line報告備份
@@ -18048,7 +18048,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 624: 福邦-2258-鴻華先進-20260624
+## Document 596: 福邦-2258-鴻華先進-20260624
 
 Source PDF: all report pdf/福邦-2258-鴻華先進-20260624.pdf
 Report source: line報告備份
@@ -18291,7 +18291,7 @@ G r a n d  F o r t u n e  S e c u r i t i e s                                   
 本報告係就內部參考用，純屬參考性質，並不具備任何法律效果，其正確性不做任何承諾或保證。
 
 ---
-## Document 650: 統一-2006-東和鋼鐵-20260618
+## Document 621: 統一-2006-東和鋼鐵-20260618
 
 Source PDF: all report pdf/統一-2006-東和鋼鐵-20260618.pdf
 Report source: line報告備份
@@ -18588,7 +18588,7 @@ ainReport/data/FileStream?id=3c275db7-0378-
 請參見末頁重要批露及免責聲明  7
 
 ---
-## Document 682: 群益-2258-2601鴻華先進-創
+## Document 652: 群益-2258-2601鴻華先進-創
 
 Source PDF: all report pdf/群益-2258-2601鴻華先進-創.pdf
 Report source: line報告備份
@@ -18889,7 +18889,7 @@ YoY(%)
 情形。
 
 ---
-## Document 695: 群益-6789-2601采鈺
+## Document 661: 群益-6789-2601采鈺
 
 Source PDF: all report pdf/群益-6789-2601采鈺.pdf
 Report source: line報告備份
@@ -19187,7 +19187,7 @@ YoY(%)
 情形。
 
 ---
-## Document 701: 群益專題報告-歐元區經濟展望-20260617
+## Document 666: 群益專題報告-歐元區經濟展望-20260617
 
 Source PDF: all report pdf/群益專題報告-歐元區經濟展望-20260617.pdf
 Report source: line報告備份
@@ -19520,7 +19520,7 @@ Price 19X PE 17X PE 15X PE 13X PE 11X PE
 上升或下降，產生投資回報金額可能比原始投資來得少的情形。
 
 ---
-## Document 702: 群益專題簡報-AI持續主導科技股，各大平台玩咖各顯神通-20260617
+## Document 667: 群益專題簡報-AI持續主導科技股，各大平台玩咖各顯神通-20260617
 
 Source PDF: all report pdf/群益專題簡報-AI持續主導科技股，各大平台玩咖各顯神通-20260617.pdf
 Report source: line報告備份
@@ -21359,7 +21359,7 @@ TV 43%
 上升或下降，產生投資回報金額可能比原始投資來得少的情形。
 
 ---
-## Document 722: 華南-3010-華立-20260623
+## Document 688: 華南-3010-華立-20260623
 
 Source PDF: all report pdf/華南-3010-華立-20260623.pdf
 Report source: line報告備份
@@ -21709,7 +21709,7 @@ YOY 17.4 15.7 13.7 5.5
 個股投資建議與目標價三年歷史趨勢：
 
 ---
-## Document 724: 華南投顧-6782-視陽-1150618
+## Document 690: 華南投顧-6782-視陽-1150618
 
 Source PDF: all report pdf/華南投顧-6782-視陽-1150618.pdf
 Report source: line報告備份
@@ -22028,11 +22028,11 @@ YOY 29.6 17.8 22.0 32.6
 個股投資建議與目標價三年歷史趨勢：
 
 ---
-## Document 725: 華南投顧-6805-富世達-1150623
+## Document 691: 華南投顧-6805-富世達-1150623
 
 Source PDF: all report pdf/華南投顧-6805-富世達-1150623.pdf
 Report source: line報告備份
-Date: 2026-06-25
+Date: 2026-06-24
 Pages: 8
 Extraction status: ok
 
