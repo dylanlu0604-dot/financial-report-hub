@@ -3,7 +3,7 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 006: 1319東陽20260624-元富投顧(台新新光金控)報告
+## Document 007: 1319東陽20260624-元富投顧(台新新光金控)報告
 
 Source PDF: all report pdf/1319東陽20260624-元富投顧(台新新光金控)報告.pdf
 Report source: line報告備份
@@ -284,7 +284,7 @@ Operating 15.8 16.1 17.7 20.0 ROA 6.33 8.80 11.94 9.89
 Net 17.0 13.8 15.2 17.1 ROE 9.25 12.03 16.19 13.38
 
 ---
-## Document 009: 1780 立弘 富邦
+## Document 010: 1780 立弘 富邦
 
 Source PDF: all report pdf/1780 立弘 富邦.pdf
 Report source: line報告備份
@@ -442,7 +442,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 067: 2049上銀 群益
+## Document 065: 2049上銀 群益
 
 Source PDF: all report pdf/2049上銀 群益.pdf
 Report source: line報告備份
@@ -684,7 +684,7 @@ YoY(%)
 情形。
 
 ---
-## Document 072: 2383台光電 元富
+## Document 069: 2383台光電 元富
 
 Source PDF: all report pdf/2383台光電 元富.pdf
 Report source: line報告備份
@@ -944,7 +944,7 @@ this date and are subject to change without notice. MasterLink has produced this
 information and advice is given in good faith but without any warranty.
 
 ---
-## Document 076: 2455全新 群益
+## Document 071: 2455全新 群益
 
 Source PDF: all report pdf/2455全新 群益.pdf
 Report source: line報告備份
@@ -1173,7 +1173,7 @@ YoY(%)
 情形。
 
 ---
-## Document 089: 260619_gs_inventec
+## Document 079: 260619_gs_inventec
 
 Source PDF: all report pdf/260619_gs_inventec.pdf
 Report source: line報告備份
@@ -1714,7 +1714,7 @@ Goldman Sachs Inventec (2356.TW)
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 091: 260621_ms_mcu
+## Document 081: 260621_ms_mcu
 
 Source PDF: all report pdf/260621_ms_mcu.pdf
 Report source: line報告備份
@@ -2214,7 +2214,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 094: 260622_ms_2h-june-panel-px
+## Document 084: 260622_ms_2h-june-panel-px
 
 Source PDF: all report pdf/260622_ms_2h-june-panel-px.pdf
 Report source: line報告備份
@@ -3272,7 +3272,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 106: 260623_ms_MTK
+## Document 096: 260623_ms_MTK
 
 Source PDF: all report pdf/260623_ms_MTK.pdf
 Report source: line報告備份
@@ -4201,7 +4201,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 107: 260624_citi_MTK
+## Document 097: 260624_citi_MTK
 
 Source PDF: all report pdf/260624_citi_MTK.pdf
 Report source: line報告備份
@@ -4758,7 +4758,7 @@ solely for the recipient and may not be further distributed by the recipient to 
 ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 
 ---
-## Document 112: 260624_kgi_iteq
+## Document 102: 260624_kgi_iteq
 
 Source PDF: all report pdf/260624_kgi_iteq.pdf
 Report source: line報告備份
@@ -5422,7 +5422,7 @@ Jun-25 Aug-25 Oct-25 Dec-25 Feb-26 Apr-26
 資料來源：TEJ，凱基
 
 ---
-## Document 114: 260624_ubs_umc
+## Document 104: 260624_ubs_umc
 
 Source PDF: all report pdf/260624_ubs_umc.pdf
 Report source: line報告備份
@@ -6952,7 +6952,7 @@ name, e-mail address) until you notify us that you no longer wish to receive the
 ab
 
 ---
-## Document 117: 2609陽明 元富
+## Document 107: 2609陽明 元富
 
 Source PDF: all report pdf/2609陽明 元富.pdf
 Report source: line報告備份
@@ -7098,7 +7098,7 @@ Net 3.71 14.51 18.15 8.08 3.39 28.82 10.45 11.77
 NT$m
 
 ---
-## Document 141: 6538倉和 統一
+## Document 128: 6538倉和 統一
 
 Source PDF: all report pdf/6538倉和 統一.pdf
 Report source: line報告備份
@@ -7530,7 +7530,7 @@ ainReport/data/FileStream?id=e9f4efa9-2fd1-
 請參見末頁重要批露及免責聲明  10
 
 ---
-## Document 151: 8341日友 兆豐
+## Document 137: 8341日友 兆豐
 
 Source PDF: all report pdf/8341日友 兆豐.pdf
 Report source: line報告備份
@@ -8104,7 +8104,7 @@ B+B+
 交易所公司治理評鑑
 
 ---
-## Document 247: Global Semiconductors Global Semis： The CPU Renaissance？ Beneficiaries of a $223bn TAM. Bernstein 20260617
+## Document 224: Global Semiconductors Global Semis： The CPU Renaissance？ Beneficiaries of a $223bn TAM. Bernstein 20260617
 
 Source PDF: all report pdf/Global Semiconductors Global Semis： The CPU Renaissance？ Beneficiaries of a $223bn TAM. Bernstein 20260617.pdf
 Report source: line報告備份
@@ -10502,7 +10502,7 @@ GLOBAL SEMICONDUCTORS
 50
 
 ---
-## Document 280: Micron(MU,UG,B_調升評等,買進)-CTBC260625
+## Document 257: Micron(MU,UG,B_調升評等,買進)-CTBC260625
 
 Source PDF: all report pdf/Micron(MU,UG,B_調升評等,買進)-CTBC260625.pdf
 Report source: line報告備份
@@ -10803,7 +10803,7 @@ PER Band (以 GAAP EPS繪製)               PBR Band
 未評等 Not Rated (NR)
 
 ---
-## Document 281: Mizuho Securities DELL HBM4e Ramping, Sizing Agentic AI Impact, and HBFLTAs -
+## Document 258: Mizuho Securities DELL HBM4e Ramping, Sizing Agentic AI Impact, and HBFLTAs -
 
 Source PDF: all report pdf/Mizuho Securities DELL HBM4e Ramping, Sizing Agentic AI Impact, and HBFLTAs -.pdf
 Report source: line報告備份
@@ -11799,7 +11799,7 @@ tools), redistributed, passed on to any other party or used to create derivative
 15
 
 ---
-## Document 289: ms_Taiwan Retail Sales Tracker_20260624
+## Document 264: ms_Taiwan Retail Sales Tracker_20260624
 
 Source PDF: all report pdf/ms_Taiwan Retail Sales Tracker_20260624.pdf
 Report source: line報告備份
@@ -12104,7 +12104,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 458: 京鼎(3413,B_買進)-CTBC260617
+## Document 435: 京鼎(3413,B_買進)-CTBC260617
 
 Source PDF: all report pdf/京鼎(3413,B_買進)-CTBC260617.pdf
 Report source: line報告備份
@@ -12371,7 +12371,7 @@ ESG 資訊 - 公司治理 (Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 468: 元大-6409-旭隼-20260625
+## Document 447: 元大-6409-旭隼-20260625
 
 Source PDF: all report pdf/元大-6409-旭隼-20260625.pdf
 Report source: line報告備份
@@ -13002,7 +13002,7 @@ ESG總分 21.0
 台灣臺北市 106仁愛路三段 157號 4樓
 
 ---
-## Document 470: 兆豐-2026年下半年傳統產業投資展望-20260625
+## Document 449: 兆豐-2026年下半年傳統產業投資展望-20260625
 
 Source PDF: all report pdf/兆豐-2026年下半年傳統產業投資展望-20260625.pdf
 Report source: line報告備份
@@ -14222,7 +14222,7 @@ ROE
 本公司經證期局核准之營業執照字號：110年金管投顧新字第033號
 
 ---
-## Document 471: 全新(2455,B_買進)-CTBC260625
+## Document 451: 全新(2455,B_買進)-CTBC260625
 
 Source PDF: all report pdf/全新(2455,B_買進)-CTBC260625.pdf
 Report source: line報告備份
@@ -14481,7 +14481,7 @@ ESG 資訊 -公 司 治 理 (Governance )
 未評等 Not Rated (NR)
 
 ---
-## Document 481: 凱基投顧_3515 華擎_余昀澄_20260618
+## Document 460: 凱基投顧_3515 華擎_余昀澄_20260618
 
 Source PDF: all report pdf/凱基投顧_3515 華擎_余昀澄_20260618.pdf
 Report source: line報告備份
@@ -15070,7 +15070,7 @@ Jun-25 Aug-25 Oct-25 Dec-25 Feb-26 Apr-26
 資料來源：TEJ，凱基
 
 ---
-## Document 488: 凱基投顧_MU Micron_沈漢軒_2026_06_25_C_US
+## Document 467: 凱基投顧_MU Micron_沈漢軒_2026_06_25_C_US
 
 Source PDF: all report pdf/凱基投顧_MU Micron_沈漢軒_2026_06_25_C_US.pdf
 Report source: line報告備份
@@ -17028,7 +17028,7 @@ Sona Topas Tower Fl.11 Jl. Jend. Sudirman kav.26 JakartaSelatan 12920 Indonesia
 免責聲明
 
 ---
-## Document 490: 凱基投顧_Takeaway_2014 中鴻_劉昃恩_20260625
+## Document 469: 凱基投顧_Takeaway_2014 中鴻_劉昃恩_20260625
 
 Source PDF: all report pdf/凱基投顧_Takeaway_2014 中鴻_劉昃恩_20260625.pdf
 Report source: line報告備份
@@ -17125,7 +17125,7 @@ eden.chang@kgi.com
 六月 25, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R   3
 
 ---
-## Document 493: 凱基投顧_Takeaway_4536 拓凱_莊政翰_20260617
+## Document 472: 凱基投顧_Takeaway_4536 拓凱_莊政翰_20260617
 
 Source PDF: all report pdf/凱基投顧_Takeaway_4536 拓凱_莊政翰_20260617.pdf
 Report source: line報告備份
@@ -17261,7 +17261,7 @@ eden.chang@kgi.com
 六月 17, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 4
 
 ---
-## Document 511: 半導體封裝產業：面板級封裝製程將為封裝產業下一成長動能
+## Document 488: 半導體封裝產業：面板級封裝製程將為封裝產業下一成長動能
 
 Source PDF: all report pdf/半導體封裝產業：面板級封裝製程將為封裝產業下一成長動能.pdf
 Report source: line報告備份
@@ -17678,7 +17678,7 @@ EPS (元) 1.91 5.02 1.94
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 521: 台新-2002-中鋼-20260625
+## Document 497: 台新-2002-中鋼-20260625
 
 Source PDF: all report pdf/台新-2002-中鋼-20260625.pdf
 Report source: line報告備份
@@ -17867,7 +17867,7 @@ YoY(%)
 位不為使用者之資訊決策及結果負擔任何責任。
 
 ---
-## Document 572: 宏遠-6855-數泓科-20260623
+## Document 552: 宏遠-6855-數泓科-20260623
 
 Source PDF: all report pdf/宏遠-6855-數泓科-20260623.pdf
 Report source: line報告備份
@@ -18443,7 +18443,7 @@ C+C+
 2023 2024 2025
 
 ---
-## Document 582: 強茂(2481,B_買進)-CTBC260626
+## Document 560: 強茂(2481,B_買進)-CTBC260626
 
 Source PDF: all report pdf/強茂(2481,B_買進)-CTBC260626.pdf
 Report source: line報告備份
@@ -18931,7 +18931,7 @@ ESG 資訊 ─公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 648: 產業專題--貨櫃產業 20260623_元富投顧(台新新光金控)
+## Document 624: 產業專題--貨櫃產業 20260623_元富投顧(台新新光金控)
 
 Source PDF: all report pdf/產業專題--貨櫃產業 20260623_元富投顧(台新新光金控).pdf
 Report source: line報告備份
@@ -19142,7 +19142,7 @@ Exhibit 12：貨櫃產業追蹤個股評等表
 Sources :MasterLink
 
 ---
-## Document 651: 矽格(6257,B_買進)-CTBC260624
+## Document 629: 矽格(6257,B_買進)-CTBC260624
 
 Source PDF: all report pdf/矽格(6257,B_買進)-CTBC260624.pdf
 Report source: line報告備份
@@ -19422,7 +19422,7 @@ ESG 資訊 - 環境保護 (Environmental)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 679: 統一-2002-中鋼-20260625
+## Document 659: 統一-2002-中鋼-20260625
 
 Source PDF: all report pdf/統一-2002-中鋼-20260625.pdf
 Report source: line報告備份
@@ -19729,7 +19729,7 @@ ainReport/data/FileStream?id=70e312ca-16ff-
 請參見末頁重要批露及免責聲明  8
 
 ---
-## Document 709: 群益-2344-2614華邦電
+## Document 694: 群益-2344-2614華邦電
 
 Source PDF: all report pdf/群益-2344-2614華邦電.pdf
 Report source: line報告備份
@@ -20001,7 +20001,7 @@ YoY(%)
 情形。
 
 ---
-## Document 711: 群益-2409-2604友達
+## Document 696: 群益-2409-2604友達
 
 Source PDF: all report pdf/群益-2409-2604友達.pdf
 Report source: line報告備份
@@ -20236,7 +20236,7 @@ YoY(%)
 情形。
 
 ---
-## Document 717: 群益-6789-2601采鈺
+## Document 702: 群益-6789-2601采鈺
 
 Source PDF: all report pdf/群益-6789-2601采鈺.pdf
 Report source: line報告備份
@@ -20534,7 +20534,7 @@ YoY(%)
 情形。
 
 ---
-## Document 757: 視陽(6782,OW_增加持股)-CTBC260618
+## Document 740: 視陽(6782,OW_增加持股)-CTBC260618
 
 Source PDF: all report pdf/視陽(6782,OW_增加持股)-CTBC260618.pdf
 Report source: line報告備份
@@ -20818,7 +20818,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 763: 计算机行业专题研究Switch交换芯片AI组网革新国产替代打开增长天花板-26062420页
+## Document 746: 计算机行业专题研究Switch交换芯片AI组网革新国产替代打开增长天花板-26062420页
 
 Source PDF: all report pdf/计算机行业专题研究Switch交换芯片AI组网革新国产替代打开增长天花板-26062420页.pdf
 Report source: line報告備份
