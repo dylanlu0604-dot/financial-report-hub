@@ -458,7 +458,7 @@ $1,200
 • 國票可能與該公司進行業務而處於緘默期
 
 ---
-## Document 087: 260622_ms_MLCC-super-cycle
+## Document 085: 260622_ms_MLCC-super-cycle
 
 Source PDF: all report pdf/260622_ms_MLCC-super-cycle.pdf
 Report source: line報告備份
@@ -2171,7 +2171,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 088: 260622_ms_yageo
+## Document 086: 260622_ms_yageo
 
 Source PDF: all report pdf/260622_ms_yageo.pdf
 Report source: line報告備份
@@ -3504,7 +3504,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 095: 260623_ms_AI-supply-chain
+## Document 093: 260623_ms_AI-supply-chain
 
 Source PDF: all report pdf/260623_ms_AI-supply-chain.pdf
 Report source: line報告備份
@@ -4538,7 +4538,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 103: 260624_ms_guc-UG
+## Document 101: 260624_ms_guc-UG
 
 Source PDF: all report pdf/260624_ms_guc-UG.pdf
 Report source: line報告備份
@@ -5456,7 +5456,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 114: 3413京鼎 元大
+## Document 112: 3413京鼎 元大
 
 Source PDF: all report pdf/3413京鼎 元大.pdf
 Report source: line報告備份
@@ -9380,7 +9380,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 10
 
 ---
-## Document 186: CPO導入進展與短期量產觀察-CTBC260623
+## Document 190: CPO導入進展與短期量產觀察-CTBC260623
 
 Source PDF: all report pdf/CPO導入進展與短期量產觀察-CTBC260623.pdf
 Report source: line報告備份
@@ -9642,7 +9642,7 @@ KY 等個股，股價回檔主因為漲多後的評價面修正，而非基本�
                                        202 6 /6/23
 
 ---
-## Document 237: JPM_AI_Capex_2_0_If_You__2026-06-17_5315638
+## Document 244: JPM_AI_Capex_2_0_If_You__2026-06-17_5315638
 
 Source PDF: all report pdf/JPM_AI_Capex_2_0_If_You__2026-06-17_5315638.pdf
 Report source: line報告備份
@@ -13586,7 +13586,7 @@ This document is being provided for the exclusive use of Chanel Yu at SinoPac Se
 {[{ICED4R29oNWusuFDvgIVMpmY05cFHKRoDBNkTW8gCkMTPWmWjdnOuCW3R3knpW-rho_nU-fp9YTw0j7fF7FF6_Oij7TnTg}]}
 
 ---
-## Document 297: SpaceX從太空王者走向AI基礎設施平台-CTBC20260617
+## Document 311: SpaceX從太空王者走向AI基礎設施平台-CTBC20260617
 
 Source PDF: all report pdf/SpaceX從太空王者走向AI基礎設施平台-CTBC20260617.pdf
 Report source: line報告備份
@@ -13827,7 +13827,7 @@ V3衛星世代切換與擴大釋單。 7.89 43% 32.6x
 營業執照字號：114金管投顧新字第014號
 
 ---
-## Document 358: 【國泰證期研究部】2H26鋼鐵產業展望-鋼鐵低速修復，結構需求成主軸-20260622
+## Document 372: 【國泰證期研究部】2H26鋼鐵產業展望-鋼鐵低速修復，結構需求成主軸-20260622
 
 Source PDF: all report pdf/【國泰證期研究部】2H26鋼鐵產業展望-鋼鐵低速修復，結構需求成主軸-20260622.pdf
 Report source: line報告備份
@@ -14085,7 +14085,7 @@ World(Mt) China(Mt) World(YoY, %) China(YoY, %)
 投資評等定義
 
 ---
-## Document 457: 凱基投顧_2059 川湖_向子慧_20260618
+## Document 466: 凱基投顧_2059 川湖_向子慧_20260618
 
 Source PDF: all report pdf/凱基投顧_2059 川湖_向子慧_20260618.pdf
 Report source: line報告備份
@@ -14728,7 +14728,7 @@ Jun-25 Aug-25 Oct-25 Dec-25 Feb-26 Apr-26
 資料來源：TEJ；凱基
 
 ---
-## Document 462: 凱基投顧_6279 胡連_李承泰_20260622
+## Document 471: 凱基投顧_6279 胡連_李承泰_20260622
 
 Source PDF: all report pdf/凱基投顧_6279 胡連_李承泰_20260622.pdf
 Report source: line報告備份
@@ -15493,7 +15493,7 @@ Recommendations & Target Price
  泰國          曼谷
 
 ---
-## Document 465: 凱基投顧_AAPL Apple_張燾_20260622
+## Document 474: 凱基投顧_AAPL Apple_張燾_20260622
 
 Source PDF: all report pdf/凱基投顧_AAPL Apple_張燾_20260622.pdf
 Report source: line報告備份
@@ -16181,7 +16181,7 @@ Jun-23 Dec-23 Jun-24 Dec-24 Jun-25 Dec-25 Jun-26
 電話 62 21 250 6337
 
 ---
-## Document 473: 凱基投顧_Takeaway_6782 視陽_莊政翰_20260617
+## Document 482: 凱基投顧_Takeaway_6782 視陽_莊政翰_20260617
 
 Source PDF: all report pdf/凱基投顧_Takeaway_6782 視陽_莊政翰_20260617.pdf
 Report source: line報告備份
@@ -16321,7 +16321,7 @@ eden.chang@kgi.com
 六月 17, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 4
 
 ---
-## Document 478: 凱基投顧_美國運動休閒產業_劉昃恩_20260625
+## Document 487: 凱基投顧_美國運動休閒產業_劉昃恩_20260625
 
 Source PDF: all report pdf/凱基投顧_美國運動休閒產業_劉昃恩_20260625.pdf
 Report source: line報告備份
@@ -16671,7 +16671,7 @@ Dick's Sporting Goods
 免責聲明
 
 ---
-## Document 479: 凱基投顧_美國電子硬體與衛星產業_張燾_20260623
+## Document 488: 凱基投顧_美國電子硬體與衛星產業_張燾_20260623
 
 Source PDF: all report pdf/凱基投顧_美國電子硬體與衛星產業_張燾_20260623.pdf
 Report source: line報告備份
@@ -17005,7 +17005,7 @@ Vertiv VRT 7.01 11.25 增加持股 394
 電話 62 21 250 6337
 
 ---
-## Document 489: 华丰科技-688629-A股公司深度报告深耕高速互联系统掘金AI算力时代-26061437页
+## Document 497: 华丰科技-688629-A股公司深度报告深耕高速互联系统掘金AI算力时代-26061437页
 
 Source PDF: all report pdf/华丰科技-688629-A股公司深度报告深耕高速互联系统掘金AI算力时代-26061437页.pdf
 Report source: line報告備份
@@ -18272,7 +18272,7 @@ ROE 20% 30% 32% 36%
 国海证券·研究所·计算机研究团队
 
 ---
-## Document 500: 台新投顧20260618國際金融市場快訊-考量2H26通膨風險降溫，Fed升息機率尚低，惟降息門檻提
+## Document 505: 台新投顧20260618國際金融市場快訊-考量2H26通膨風險降溫，Fed升息機率尚低，惟降息門檻提
 
 Source PDF: all report pdf/台新投顧20260618國際金融市場快訊-考量2H26通膨風險降溫，Fed升息機率尚低，惟降息門檻提.pdf
 Report source: line報告備份
@@ -18346,7 +18346,7 @@ Fed 主席 Warsh 在記者會上明確宣示 Fed 已 「拋棄前瞻性指引」
 或散布。
 
 ---
-## Document 507: 合庫-2106-建大-20260618
+## Document 512: 合庫-2106-建大-20260618
 
 Source PDF: all report pdf/合庫-2106-建大-20260618.pdf
 Report source: line報告備份
@@ -18646,7 +18646,7 @@ INVESTMENT CONSULTANT
 未評等 訊息不足或有相關業務往來
 
 ---
-## Document 509: 合庫-6257-矽格-20260624
+## Document 514: 合庫-6257-矽格-20260624
 
 Source PDF: all report pdf/合庫-6257-矽格-20260624.pdf
 Report source: line報告備份
@@ -18898,7 +18898,7 @@ INVESTMENT CONSULTANT
 未評等 訊息不足或有相關業務往來
 
 ---
-## Document 520: 國票-8462-柏文-20260624
+## Document 525: 國票-8462-柏文-20260624
 
 Source PDF: all report pdf/國票-8462-柏文-20260624.pdf
 Report source: line報告備份
@@ -19303,7 +19303,7 @@ $200
 • 國票可能與該公司進行業務而處於緘默期
 
 ---
-## Document 524: 基础化工行业AI系列算力竞赛重塑MLCC需求曲线粉体配方与全链工艺筑就核心壁垒-26062456页
+## Document 528: 基础化工行业AI系列算力竞赛重塑MLCC需求曲线粉体配方与全链工艺筑就核心壁垒-26062456页
 
 Source PDF: all report pdf/基础化工行业AI系列算力竞赛重塑MLCC需求曲线粉体配方与全链工艺筑就核心壁垒-26062456页.pdf
 Report source: line報告備份
@@ -21704,7 +21704,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 559: 建筑装饰行业专题研究洁净室专题AI先进制程发展下半导体资本开支扩张洁净室下游高景气
+## Document 558: 建筑装饰行业专题研究洁净室专题AI先进制程发展下半导体资本开支扩张洁净室下游高景气
 
 Source PDF: all report pdf/建筑装饰行业专题研究洁净室专题AI先进制程发展下半导体资本开支扩张洁净室下游高景气.pdf
 Report source: line報告備份
@@ -23462,7 +23462,7 @@ SK 海力士、 中芯国际、 长鑫存储、 长江存储未来资本开支�
 弱于大市：相对同期相关证券市场代表性指数跌幅10%以上。
 
 ---
-## Document 586: 智伸科 (4551 TT)：半導體設備與UQD雙引擎放量，推升非車用佔比突破5成
+## Document 581: 智伸科 (4551 TT)：半導體設備與UQD雙引擎放量，推升非車用佔比突破5成
 
 Source PDF: all report pdf/智伸科 (4551 TT)：半導體設備與UQD雙引擎放量，推升非車用佔比突破5成.pdf
 Report source: line報告備份
@@ -24090,7 +24090,7 @@ YoY+22.8%/+14.4%。毛利率方面，產品組合持續轉佳，預估 2026/2027
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 617: 玉山-5471-松翰-20260625
+## Document 607: 玉山-5471-松翰-20260625
 
 Source PDF: all report pdf/玉山-5471-松翰-20260625.pdf
 Report source: line報告備份
@@ -24294,7 +24294,7 @@ USB MCU。
 未評等：無。
 
 ---
-## Document 630: 碩通(7929,Note)-CTBC260624
+## Document 618: 碩通(7929,Note)-CTBC260624
 
 Source PDF: all report pdf/碩通(7929,Note)-CTBC260624.pdf
 Report source: line報告備份
@@ -24494,7 +24494,7 @@ Jasmin.cheng@ctbcsis.com
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 693: 群益-2308-2607台達電
+## Document 674: 群益-2308-2607台達電
 
 Source PDF: all report pdf/群益-2308-2607台達電.pdf
 Report source: line報告備份
@@ -24751,7 +24751,7 @@ YoY(%)
 情形。
 
 ---
-## Document 735: 華南投顧-4971-IET-KY-1150625
+## Document 712: 華南投顧-4971-IET-KY-1150625
 
 Source PDF: all report pdf/華南投顧-4971-IET-KY-1150625.pdf
 Report source: line報告備份
@@ -25096,7 +25096,7 @@ YOY 22.8 19.9 38.2 30.3
 個股投資建議與目標價三年歷史趨勢：
 
 ---
-## Document 737: 華南投顧-6805-富世達-1150623
+## Document 714: 華南投顧-6805-富世達-1150623
 
 Source PDF: all report pdf/華南投顧-6805-富世達-1150623.pdf
 Report source: line報告備份
@@ -25458,7 +25458,7 @@ YOY 85.8 61.6 52.9 35.1
 個股投資建議與目標價三年歷史趨勢：
 
 ---
-## Document 738: 華南投顧-9907-統一實-1150625
+## Document 715: 華南投顧-9907-統一實-1150625
 
 Source PDF: all report pdf/華南投顧-9907-統一實-1150625.pdf
 Report source: line報告備份
@@ -25761,7 +25761,7 @@ YOY -8.8 -13.1 5.6 11.5
 個股投資建議與目標價三年歷史趨勢：
 
 ---
-## Document 739: 萬泰科(6190)-20260618-速報-元富投顧(台新新光金控)
+## Document 716: 萬泰科(6190)-20260618-速報-元富投顧(台新新光金控)
 
 Source PDF: all report pdf/萬泰科(6190)-20260618-速報-元富投顧(台新新光金控).pdf
 Report source: line報告備份
