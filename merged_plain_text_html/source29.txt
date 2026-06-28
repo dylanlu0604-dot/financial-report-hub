@@ -10175,7 +10175,7 @@ ainReport/data/FileStream?id=1e93bfbd-e318-
 請參見末頁重要批露及免責聲明  8
 
 ---
-## Document 243: ms_Makalot_20260624
+## Document 259: ms_Makalot_20260624
 
 Source PDF: all report pdf/ms_Makalot_20260624.pdf
 Report source: line報告備份
@@ -10750,7 +10750,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 247: Nan Ya Plastics(1303TW) JPM 260621
+## Document 263: Nan Ya Plastics(1303TW) JPM 260621
 
 Source PDF: all report pdf/Nan Ya Plastics(1303TW) JPM 260621.pdf
 Report source: line報告備份
@@ -11741,7 +11741,7 @@ G!7=K6E1NP694T2
 5AAA
 
 ---
-## Document 295: UBS MU Micron Technology Inc FQ326 (May) Earnings Preview LT
+## Document 316: UBS MU Micron Technology Inc FQ326 (May) Earnings Preview LT
 
 Source PDF: all report pdf/UBS MU Micron Technology Inc FQ326 (May) Earnings Preview LT.pdf
 Report source: line報告備份
@@ -14446,7 +14446,7 @@ ab
 This document is being provided for the exclusive use of RACHEL CHEN at MOUNTAIN HILL LTD.
 
 ---
-## Document 322: 【國泰證期研究部】2H26 IP產業展望-N2／A16／A14時代重塑IP供應鏈-20260623
+## Document 347: 【國泰證期研究部】2H26 IP產業展望-N2／A16／A14時代重塑IP供應鏈-20260623
 
 Source PDF: all report pdf/【國泰證期研究部】2H26 IP產業展望-N2／A16／A14時代重塑IP供應鏈-20260623.pdf
 Report source: line報告備份
@@ -14637,7 +14637,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 324: 【國泰證期研究部】2H26電力產業展望-Grid First轉向Power First-20260625
+## Document 349: 【國泰證期研究部】2H26電力產業展望-Grid First轉向Power First-20260625
 
 Source PDF: all report pdf/【國泰證期研究部】2H26電力產業展望-Grid First轉向Power First-20260625.pdf
 Report source: line報告備份
@@ -14863,7 +14863,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 327: 【國泰證期研究部】華城(1519 TT)-買進(+17%)-新產能貢獻晚於預期-20260618
+## Document 352: 【國泰證期研究部】華城(1519 TT)-買進(+17%)-新產能貢獻晚於預期-20260618
 
 Source PDF: all report pdf/【國泰證期研究部】華城(1519 TT)-買進(+17%)-新產能貢獻晚於預期-20260618.pdf
 Report source: line報告備份
@@ -15215,7 +15215,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 328: 【國泰證期研究部】華通(2313 TT)-買進(+21.4%)-星勢成形，大步前行-20260623
+## Document 353: 【國泰證期研究部】華通(2313 TT)-買進(+21.4%)-星勢成形，大步前行-20260623
 
 Source PDF: all report pdf/【國泰證期研究部】華通(2313 TT)-買進(+21.4%)-星勢成形，大步前行-20260623.pdf
 Report source: line報告備份
@@ -15577,7 +15577,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 420: 凱基投顧_6213 聯茂_林祐熙_20260624
+## Document 449: 凱基投顧_6213 聯茂_林祐熙_20260624
 
 Source PDF: all report pdf/凱基投顧_6213 聯茂_林祐熙_20260624.pdf
 Report source: line報告備份
@@ -16241,7 +16241,7 @@ Jun-25 Aug-25 Oct-25 Dec-25 Feb-26 Apr-26
 資料來源：TEJ，凱基
 
 ---
-## Document 422: 凱基投顧_7828 創新服務_許芝瑄_20260617
+## Document 451: 凱基投顧_7828 創新服務_許芝瑄_20260617
 
 Source PDF: all report pdf/凱基投顧_7828 創新服務_許芝瑄_20260617.pdf
 Report source: line報告備份
@@ -17145,7 +17145,7 @@ Dec-24A Dec-25A Dec-26F Dec-27F Dec-28F
  泰國          曼谷
 
 ---
-## Document 423: 凱基投顧_8996 高力_李承泰_20260618
+## Document 452: 凱基投顧_8996 高力_李承泰_20260618
 
 Source PDF: all report pdf/凱基投顧_8996 高力_李承泰_20260618.pdf
 Report source: line報告備份
@@ -17808,7 +17808,7 @@ Jun-25 Aug-25 Oct-25 Dec-25 Feb-26 Apr-26
 資料來源：TEJ，凱基
 
 ---
-## Document 427: 凱基投顧_Takeaway_2002 中鋼_劉昃恩_20260624
+## Document 456: 凱基投顧_Takeaway_2002 中鋼_劉昃恩_20260624
 
 Source PDF: all report pdf/凱基投顧_Takeaway_2002 中鋼_劉昃恩_20260624.pdf
 Report source: line報告備份
@@ -18018,7 +18018,7 @@ eden.chang@kgi.com
 六月 24, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R   5
 
 ---
-## Document 429: 凱基投顧_Takeaway_2313 HK 申洲_劉昃恩_20260623
+## Document 458: 凱基投顧_Takeaway_2313 HK 申洲_劉昃恩_20260623
 
 Source PDF: all report pdf/凱基投顧_Takeaway_2313 HK 申洲_劉昃恩_20260623.pdf
 Report source: line報告備份
@@ -18118,7 +18118,7 @@ eden.chang@kgi.com
 六月 23, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R   3
 
 ---
-## Document 439: 凱基金(2883,B_買進)-CTBC260622
+## Document 468: 凱基金(2883,B_買進)-CTBC260622
 
 Source PDF: all report pdf/凱基金(2883,B_買進)-CTBC260622.pdf
 Report source: line報告備份
@@ -18416,7 +18416,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 450: 印能科技(7734,B_買進)-CTBC260625
+## Document 480: 印能科技(7734,B_買進)-CTBC260625
 
 Source PDF: all report pdf/印能科技(7734,B_買進)-CTBC260625.pdf
 Report source: line報告備份
@@ -18699,7 +18699,7 @@ ESG 資訊 - 環境保護 (Environmental)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 452: 台塑化(6505,OW_增加持股) -CTBC260617
+## Document 482: 台塑化(6505,OW_增加持股) -CTBC260617
 
 Source PDF: all report pdf/台塑化(6505,OW_增加持股) -CTBC260617.pdf
 Report source: line報告備份
@@ -19106,7 +19106,7 @@ ESG 資訊 ─公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 455: 台新投顧20260618個股報告-東和鋼鐵(2006)-買進
+## Document 485: 台新投顧20260618個股報告-東和鋼鐵(2006)-買進
 
 Source PDF: all report pdf/台新投顧20260618個股報告-東和鋼鐵(2006)-買進.pdf
 Report source: line報告備份
@@ -19297,7 +19297,7 @@ YoY(%)
 位不為使用者之資訊決策及結果負擔任何責任。
 
 ---
-## Document 466: 合庫-8462-柏文-20260624
+## Document 495: 合庫-8462-柏文-20260624
 
 Source PDF: all report pdf/合庫-8462-柏文-20260624.pdf
 Report source: line報告備份
@@ -19561,7 +19561,7 @@ INVESTMENT CONSULTANT
 未評等 訊息不足或有相關業務往來
 
 ---
-## Document 560: 瑞昱(2379,N_中立)-CTBC260624
+## Document 590: 瑞昱(2379,N_中立)-CTBC260624
 
 Source PDF: all report pdf/瑞昱(2379,N_中立)-CTBC260624.pdf
 Report source: line報告備份
@@ -19846,7 +19846,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 624: 群益-2353-2601宏碁
+## Document 655: 群益-2353-2601宏碁
 
 Source PDF: all report pdf/群益-2353-2601宏碁.pdf
 Report source: line報告備份
@@ -20151,7 +20151,7 @@ YoY(%)
 情形。
 
 ---
-## Document 626: 群益-2609-2604陽明
+## Document 657: 群益-2609-2604陽明
 
 Source PDF: all report pdf/群益-2609-2604陽明.pdf
 Report source: line報告備份
@@ -20490,7 +20490,7 @@ YoY(%)
 情形。
 
 ---
-## Document 627: 群益-3264-2604欣銓
+## Document 658: 群益-3264-2604欣銓
 
 Source PDF: all report pdf/群益-3264-2604欣銓.pdf
 Report source: line報告備份
@@ -20757,7 +20757,7 @@ YoY(%)
 情形。
 
 ---
-## Document 628: 群益-3481-2602群創
+## Document 659: 群益-3481-2602群創
 
 Source PDF: all report pdf/群益-3481-2602群創.pdf
 Report source: line報告備份
@@ -20991,7 +20991,7 @@ YoY(%)
 情形。
 
 ---
-## Document 633: 群益-Micron (MU.US)-20260625
+## Document 664: 群益-Micron (MU.US)-20260625
 
 Source PDF: all report pdf/群益-Micron (MU.US)-20260625.pdf
 Report source: line報告備份
@@ -21127,7 +21127,7 @@ FY4Q26 GAAP 非GAAP
 建議降低持股
 
 ---
-## Document 657: 華南-3010-華立-20260623
+## Document 688: 華南-3010-華立-20260623
 
 Source PDF: all report pdf/華南-3010-華立-20260623.pdf
 Report source: line報告備份
