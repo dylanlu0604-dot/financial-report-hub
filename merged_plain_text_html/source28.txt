@@ -15018,7 +15018,7 @@ Tel: +81 3 5255 1658 Fax: +81 3 5255 1747, 3272 0869
 Caring for the environment: to receive only the electronic versions of our research, please contact your sales representative .
 
 ---
-## Document 210: DRAM Sentiment Indicator GS 260629
+## Document 218: DRAM Sentiment Indicator GS 260629
 
 Source PDF: all report pdf/DRAM Sentiment Indicator GS 260629.pdf
 Report source: line報告備份
@@ -15029,7 +15029,7 @@ Extraction status: ok
 [No extractable text after boilerplate filtering.]
 
 ---
-## Document 245: JP Morgan 半導体・半導体製造装置セクター 20262027
+## Document 256: JP Morgan 半導体・半導体製造装置セクター 20262027
 
 Source PDF: all report pdf/JP Morgan 半導体・半導体製造装置セクター 20262027.pdf
 Report source: line報告備份
@@ -18486,7 +18486,7 @@ Completed 17 Jun 2026 05:06 PM JST Disseminated 17 Jun 2026 05:07 PM JST
 This document is being provided for the exclusive use of RACHEL CHEN at MOUNTAIN HILL LTD.
 
 ---
-## Document 263: Micron(MU,UG,B_調升評等,買進)-CTBC260625
+## Document 277: Micron(MU,UG,B_調升評等,買進)-CTBC260625
 
 Source PDF: all report pdf/Micron(MU,UG,B_調升評等,買進)-CTBC260625.pdf
 Report source: line報告備份
@@ -18787,7 +18787,7 @@ PER Band (以 GAAP EPS繪製)               PBR Band
 未評等 Not Rated (NR)
 
 ---
-## Document 428: 兆豐-2026年下半年傳統產業投資展望-20260625
+## Document 446: 兆豐-2026年下半年傳統產業投資展望-20260625
 
 Source PDF: all report pdf/兆豐-2026年下半年傳統產業投資展望-20260625.pdf
 Report source: line報告備份
@@ -20007,7 +20007,7 @@ ROE
 本公司經證期局核准之營業執照字號：110年金管投顧新字第033號
 
 ---
-## Document 435: 凱基投顧_2H26半導體產業展望_潘俊宏_20260630
+## Document 453: 凱基投顧_2H26半導體產業展望_潘俊宏_20260630
 
 Source PDF: all report pdf/凱基投顧_2H26半導體產業展望_潘俊宏_20260630.pdf
 Report source: line報告備份
@@ -20706,7 +20706,7 @@ MediaTek
 免責聲明
 
 ---
-## Document 441: 凱基投顧_9914 美利達_莊政翰_20260626
+## Document 459: 凱基投顧_9914 美利達_莊政翰_20260626
 
 Source PDF: all report pdf/凱基投顧_9914 美利達_莊政翰_20260626.pdf
 Report source: line報告備份
@@ -21306,7 +21306,7 @@ Recommendations & Target Price
 資料來源：TEJ，凱基
 
 ---
-## Document 445: 凱基投顧_Takeaway_1783 和康生_陳宣甫_20260629
+## Document 463: 凱基投顧_Takeaway_1783 和康生_陳宣甫_20260629
 
 Source PDF: all report pdf/凱基投顧_Takeaway_1783 和康生_陳宣甫_20260629.pdf
 Report source: line報告備份
@@ -21448,7 +21448,7 @@ QA
 六月 29, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 4
 
 ---
-## Document 454: 凱基投顧_Takeaway_9945 潤泰新_賴偉中_20260702
+## Document 472: 凱基投顧_Takeaway_9945 潤泰新_賴偉中_20260702
 
 Source PDF: all report pdf/凱基投顧_Takeaway_9945 潤泰新_賴偉中_20260702.pdf
 Report source: line報告備份
@@ -21605,7 +21605,7 @@ IFRS17 一次性認列逾 600 億元淨值減損，惟受惠台股表現，至 5
 七月 02, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 4
 
 ---
-## Document 469: 台塑(1301,OW_增加持股 )-CTBC260629
+## Document 488: 台塑(1301,OW_增加持股 )-CTBC260629
 
 Source PDF: all report pdf/台塑(1301,OW_增加持股 )-CTBC260629.pdf
 Report source: line報告備份
@@ -21972,7 +21972,7 @@ ESG 資訊 ─公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 471: 台新投顧20260703個股報告-勤凱(4760)-強力買進
+## Document 490: 台新投顧20260703個股報告-勤凱(4760)-強力買進
 
 Source PDF: all report pdf/台新投顧20260703個股報告-勤凱(4760)-強力買進.pdf
 Report source: line報告備份
@@ -22140,7 +22140,7 @@ YoY(%)
 4
 
 ---
-## Document 489: 國票-2049-上銀-20260630pdf
+## Document 509: 國票-2049-上銀-20260630pdf
 
 Source PDF: all report pdf/國票-2049-上銀-20260630pdf.pdf
 Report source: line報告備份
@@ -22579,7 +22579,7 @@ $500
 • 國票可能與該公司進行業務而處於緘默期
 
 ---
-## Document 492: 國票-7722-LINEPAY-20260630
+## Document 512: 國票-7722-LINEPAY-20260630
 
 Source PDF: all report pdf/國票-7722-LINEPAY-20260630.pdf
 Report source: line報告備份
@@ -23013,7 +23013,7 @@ $1,000
 • 國票可能與該公司進行業務而處於緘默期
 
 ---
-## Document 530: 懶人摘要-Asia AI Semi _ Server
+## Document 553: 懶人摘要-Asia AI Semi _ Server
 
 Source PDF: all report pdf/懶人摘要-Asia AI Semi _ Server.pdf
 Report source: line報告備份
@@ -24733,7 +24733,7 @@ OpenAI
 好。
 
 ---
-## Document 574: 永悅健康（7835）｜IPO投資研究報告
+## Document 598: 永悅健康（7835）｜IPO投資研究報告
 
 Source PDF: all report pdf/永悅健康（7835）｜IPO投資研究報告.pdf
 Report source: line報告備份
@@ -25159,7 +25159,7 @@ CAGR +7%
 11
 
 ---
-## Document 595: 玉山-6285-啟碁-20260630
+## Document 619: 玉山-6285-啟碁-20260630
 
 Source PDF: all report pdf/玉山-6285-啟碁-20260630.pdf
 Report source: line報告備份
@@ -25338,7 +25338,7 @@ OCS研發有利評價上修，從2027年獲利評價，給予20倍本益比。
 未評等：無。
 
 ---
-## Document 598: 福邦-7827-漢康-20260625
+## Document 622: 福邦-7827-漢康-20260625
 
 Source PDF: all report pdf/福邦-7827-漢康-20260625.pdf
 Report source: line報告備份
@@ -25636,7 +25636,7 @@ G r a n d  F o r t u n e  S e c u r i t i e s                                   
 本報告係就內部參考用，純屬參考性質，並不具備任何法律效果，其正確性不做任何承諾或保證。
 
 ---
-## Document 602: 第一金投顧-2013-中鋼構-20260626
+## Document 626: 第一金投顧-2013-中鋼構-20260626
 
 Source PDF: all report pdf/第一金投顧-2013-中鋼構-20260626.pdf
 Report source: line報告備份
@@ -25890,7 +25890,7 @@ YoY(%)
 存貨週轉天數(天) 17.64 19.87 26.57 29.22
 
 ---
-## Document 617: 統一-2002-中鋼-20260625
+## Document 642: 統一-2002-中鋼-20260625
 
 Source PDF: all report pdf/統一-2002-中鋼-20260625.pdf
 Report source: line報告備份
@@ -26197,7 +26197,7 @@ ainReport/data/FileStream?id=70e312ca-16ff-
 請參見末頁重要批露及免責聲明  8
 
 ---
-## Document 619: 統一-4749-新應材-20260630
+## Document 644: 統一-4749-新應材-20260630
 
 Source PDF: all report pdf/統一-4749-新應材-20260630.pdf
 Report source: line報告備份
@@ -26605,7 +26605,7 @@ ainReport/data/FileStream?id=ba5bd5a6-dea0-
 請參見末頁重要批露及免責聲明  10
 
 ---
-## Document 639: 群益-8936-國統-20260625
+## Document 664: 群益-8936-國統-20260625
 
 Source PDF: all report pdf/群益-8936-國統-20260625.pdf
 Report source: line報告備份
@@ -26897,7 +26897,7 @@ YoY(%)
 情形。
 
 ---
-## Document 656: 華南投顧-2002-中鋼-1150626
+## Document 680: 華南投顧-2002-中鋼-1150626
 
 Source PDF: all report pdf/華南投顧-2002-中鋼-1150626.pdf
 Report source: line報告備份
@@ -27275,7 +27275,7 @@ YOY -4.8 14.3 9.3 13.2
 個股投資建議與目標價三年歷史趨勢：
 
 ---
-## Document 708: 鼎基(6585,Note)-CTBC260630
+## Document 729: 鼎基(6585,Note)-CTBC260630
 
 Source PDF: all report pdf/鼎基(6585,Note)-CTBC260630.pdf
 Report source: line報告備份

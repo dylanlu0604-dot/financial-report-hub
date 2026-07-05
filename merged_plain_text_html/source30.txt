@@ -14681,7 +14681,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 9
 
 ---
-## Document 407: 中信-AI網路互連升級躍遷銅線、PCB、光模組到CPO-20260625
+## Document 424: 中信-AI網路互連升級躍遷銅線、PCB、光模組到CPO-20260625
 
 Source PDF: all report pdf/中信-AI網路互連升級躍遷銅線、PCB、光模組到CPO-20260625.pdf
 Report source: line報告備份
@@ -15234,7 +15234,7 @@ XX
 營業執照字號：114金管投顧新字第014號
 
 ---
-## Document 425: 元大-6409-旭隼-20260625
+## Document 443: 元大-6409-旭隼-20260625
 
 Source PDF: all report pdf/元大-6409-旭隼-20260625.pdf
 Report source: line報告備份
@@ -15865,7 +15865,7 @@ ESG總分 21.0
 台灣臺北市 106仁愛路三段 157號 4樓
 
 ---
-## Document 427: 元大-綠能產業-20260629
+## Document 445: 元大-綠能產業-20260629
 
 Source PDF: all report pdf/元大-綠能產業-20260629.pdf
 Report source: line報告備份
@@ -16153,7 +16153,7 @@ AI、半導體擴產、RE100 及 SBTi 等多重驅動下，企業綠電需求持
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 429: 光頡(3624,B_買進)-CTBC260630
+## Document 447: 光頡(3624,B_買進)-CTBC260630
 
 Source PDF: all report pdf/光頡(3624,B_買進)-CTBC260630.pdf
 Report source: line報告備份
@@ -16459,7 +16459,7 @@ ESG 資訊-公司治理(Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 436: 凱基投顧_2H26台股投資展望_20260630
+## Document 454: 凱基投顧_2H26台股投資展望_20260630
 
 Source PDF: all report pdf/凱基投顧_2H26台股投資展望_20260630.pdf
 Report source: line報告備份
@@ -17637,7 +17637,7 @@ Mar-17 Mar-18 Mar-19 Mar-20 Mar-21 Mar-22 Mar-23 Mar-24 Mar-25 Mar-26
 THANK YOU
 
 ---
-## Document 439: 凱基投顧_6446 藥華藥_陳宣甫_20260702
+## Document 457: 凱基投顧_6446 藥華藥_陳宣甫_20260702
 
 Source PDF: all report pdf/凱基投顧_6446 藥華藥_陳宣甫_20260702.pdf
 Report source: line報告備份
@@ -18119,7 +18119,7 @@ Jul-25 Sep-25 Nov-25 Jan-26 Mar-26 May-26
 資料來源：TEJ，凱基
 
 ---
-## Document 442: 凱基投顧_MU Micron_沈漢軒_2026_06_25_C_US
+## Document 460: 凱基投顧_MU Micron_沈漢軒_2026_06_25_C_US
 
 Source PDF: all report pdf/凱基投顧_MU Micron_沈漢軒_2026_06_25_C_US.pdf
 Report source: line報告備份
@@ -20077,7 +20077,7 @@ Sona Topas Tower Fl.11 Jl. Jend. Sudirman kav.26 JakartaSelatan 12920 Indonesia
 免責聲明
 
 ---
-## Document 443: 凱基投顧_NKE NIKE_劉昃恩_20260701
+## Document 461: 凱基投顧_NKE NIKE_劉昃恩_20260701
 
 Source PDF: all report pdf/凱基投顧_NKE NIKE_劉昃恩_20260701.pdf
 Report source: line報告備份
@@ -20729,7 +20729,7 @@ Jun-23 Dec-23 Jun-24 Dec-24 Jun-25 Dec-25 Jun-26
 免責聲明
 
 ---
-## Document 449: 凱基投顧_Takeaway_2548 華固_賴偉中_20260625
+## Document 467: 凱基投顧_Takeaway_2548 華固_賴偉中_20260625
 
 Source PDF: all report pdf/凱基投顧_Takeaway_2548 華固_賴偉中_20260625.pdf
 Report source: line報告備份
@@ -20875,7 +20875,7 @@ Tommy.lai@kgi.com
 六月 25, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R   4
 
 ---
-## Document 451: 凱基投顧_Takeaway_5538 東明-KY_劉昃恩_20260702
+## Document 469: 凱基投顧_Takeaway_5538 東明-KY_劉昃恩_20260702
 
 Source PDF: all report pdf/凱基投顧_Takeaway_5538 東明-KY_劉昃恩_20260702.pdf
 Report source: line報告備份
@@ -20968,7 +20968,7 @@ eden.chang@kgi.com
 七月 02, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 3
 
 ---
-## Document 452: 凱基投顧_Takeaway_8422 可寧衛_賴偉中_20260630
+## Document 470: 凱基投顧_Takeaway_8422 可寧衛_賴偉中_20260630
 
 Source PDF: all report pdf/凱基投顧_Takeaway_8422 可寧衛_賴偉中_20260630.pdf
 Report source: line報告備份
@@ -21110,7 +21110,7 @@ Q3-Q4 轉正。
 六月 30, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 4
 
 ---
-## Document 466: 印能科技(7734,B_買進)-CTBC260625
+## Document 485: 印能科技(7734,B_買進)-CTBC260625
 
 Source PDF: all report pdf/印能科技(7734,B_買進)-CTBC260625.pdf
 Report source: line報告備份
@@ -21393,7 +21393,7 @@ ESG 資訊 - 環境保護 (Environmental)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 470: 台新-2002-中鋼-20260625
+## Document 489: 台新-2002-中鋼-20260625
 
 Source PDF: all report pdf/台新-2002-中鋼-20260625.pdf
 Report source: line報告備份
@@ -21582,7 +21582,7 @@ YoY(%)
 位不為使用者之資訊決策及結果負擔任何責任。
 
 ---
-## Document 472: 台新投顧20260703個股報告-長興(1717)-買進
+## Document 491: 台新投顧20260703個股報告-長興(1717)-買進
 
 Source PDF: all report pdf/台新投顧20260703個股報告-長興(1717)-買進.pdf
 Report source: line報告備份
@@ -21871,7 +21871,7 @@ EPS(元) 1.54 1.25 1.99 2.05 2.86 2.15 1.28 1.56 1.41
 位不為使用者之資訊決策及結果負擔任何責任。
 
 ---
-## Document 490: 國票-2248-華勝-KY-20260630
+## Document 510: 國票-2248-華勝-KY-20260630
 
 Source PDF: all report pdf/國票-2248-華勝-KY-20260630.pdf
 Report source: line報告備份
@@ -22340,7 +22340,7 @@ $110
 • 國票可能與該公司進行業務而處於緘默期
 
 ---
-## Document 502: 宇隆(2233,Note)-CTBC260703
+## Document 523: 宇隆(2233,Note)-CTBC260703
 
 Source PDF: all report pdf/宇隆(2233,Note)-CTBC260703.pdf
 Report source: line報告備份
@@ -22526,7 +22526,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 516: 富邦-8436-大江-20260630
+## Document 540: 富邦-8436-大江-20260630
 
 Source PDF: all report pdf/富邦-8436-大江-20260630.pdf
 Report source: line報告備份
@@ -22926,7 +22926,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 517: 富邦-記憶體產業-20260625
+## Document 541: 富邦-記憶體產業-20260625
 
 Source PDF: all report pdf/富邦-記憶體產業-20260625.pdf
 Report source: line報告備份
@@ -23102,7 +23102,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 531: 懶人摘要
+## Document 554: 懶人摘要
 
 Source PDF: all report pdf/懶人摘要.pdf
 Report source: line報告備份
@@ -24822,7 +24822,7 @@ OpenAI
 好。
 
 ---
-## Document 655: 華南投顧-1504-東元-1150625
+## Document 679: 華南投顧-1504-東元-1150625
 
 Source PDF: all report pdf/華南投顧-1504-東元-1150625.pdf
 Report source: line報告備份
@@ -25144,7 +25144,7 @@ YOY 3.6 17.7 32.3 32.4
 個股投資建議與目標價三年歷史趨勢：
 
 ---
-## Document 660: 華南投顧-9907-統一實-1150625
+## Document 684: 華南投顧-9907-統一實-1150625
 
 Source PDF: all report pdf/華南投顧-9907-統一實-1150625.pdf
 Report source: line報告備份
