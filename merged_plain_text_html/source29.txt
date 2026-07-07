@@ -3,7 +3,7 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 007: 1301台塑 元大
+## Document 005: 1301台塑 元大
 
 Source PDF: all report pdf/1301台塑 元大.pdf
 Report source: line報告備份
@@ -674,7 +674,7 @@ ESG總分 25.0
 台灣臺北市 106仁愛路三段 157號 4樓
 
 ---
-## Document 060: 2233宇隆 玉山
+## Document 055: 2233宇隆 玉山
 
 Source PDF: all report pdf/2233宇隆 玉山.pdf
 Report source: line報告備份
@@ -995,7 +995,7 @@ Harmonic
 未評等：無。
 
 ---
-## Document 063: 2327國巨 兆豐
+## Document 056: 2327國巨 兆豐
 
 Source PDF: all report pdf/2327國巨 兆豐.pdf
 Report source: line報告備份
@@ -1462,7 +1462,7 @@ B
 交易所公司治理評鑑
 
 ---
-## Document 064: 2344華邦電 群益
+## Document 057: 2344華邦電 群益
 
 Source PDF: all report pdf/2344華邦電 群益.pdf
 Report source: line報告備份
@@ -1735,7 +1735,7 @@ YoY(%)
 情形。
 
 ---
-## Document 068: 2408南亞科 群益
+## Document 061: 2408南亞科 群益
 
 Source PDF: all report pdf/2408南亞科 群益.pdf
 Report source: line報告備份
@@ -2001,7 +2001,7 @@ YoY(%)
 情形。
 
 ---
-## Document 076: 260629_daiwa_Nan Ya PCB
+## Document 065: 260629_daiwa_Nan Ya PCB
 
 Source PDF: all report pdf/260629_daiwa_Nan Ya PCB.pdf
 Report source: line報告備份
@@ -2185,7 +2185,7 @@ regarding the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 080: 260629_ms_TSMC
+## Document 069: 260629_ms_TSMC
 
 Source PDF: all report pdf/260629_ms_TSMC.pdf
 Report source: line報告備份
@@ -3601,7 +3601,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 092: 260630_nmr_kyec
+## Document 081: 260630_nmr_kyec
 
 Source PDF: all report pdf/260630_nmr_kyec.pdf
 Report source: line報告備份
@@ -4058,7 +4058,7 @@ Nomura | King Yuan Electronics Corp 30 June 2026
 9
 
 ---
-## Document 096: 260701_daiwa_avc
+## Document 085: 260701_daiwa_avc
 
 Source PDF: all report pdf/260701_daiwa_avc.pdf
 Report source: line報告備份
@@ -4251,7 +4251,7 @@ regarding the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 100: 260701_nmr_yageo
+## Document 089: 260701_nmr_yageo
 
 Source PDF: all report pdf/260701_nmr_yageo.pdf
 Report source: line報告備份
@@ -4695,7 +4695,7 @@ Nomura | YAGEO Corporation 1 July 2026
 9
 
 ---
-## Document 111: 260703_gs_ODM-brands
+## Document 100: 260703_gs_ODM-brands
 
 Source PDF: all report pdf/260703_gs_ODM-brands.pdf
 Report source: line報告備份
@@ -5323,7 +5323,7 @@ Goldman Sachs Taiwan ODM/BrandsFor the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 119: 260706_citi_winway
+## Document 108: 260706_citi_winway
 
 Source PDF: all report pdf/260706_citi_winway.pdf
 Report source: line報告備份
@@ -5824,7 +5824,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 122: 260706_gs_automation
+## Document 111: 260706_gs_automation
 
 Source PDF: all report pdf/260706_gs_automation.pdf
 Report source: line報告備份
@@ -6232,7 +6232,7 @@ Goldman Sachs Asia Pacific Machinery: AutomationFor the exclusive use of KEVINLU
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 127: 260706_ms_accton
+## Document 116: 260706_ms_accton
 
 Source PDF: all report pdf/260706_ms_accton.pdf
 Report source: line報告備份
@@ -6749,7 +6749,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 129: 260706_ms_chroma
+## Document 118: 260706_ms_chroma
 
 Source PDF: all report pdf/260706_ms_chroma.pdf
 Report source: line報告備份
@@ -7237,7 +7237,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 130: 260706_ms_PC-semis
+## Document 119: 260706_ms_PC-semis
 
 Source PDF: all report pdf/260706_ms_PC-semis.pdf
 Report source: line報告備份
@@ -8163,7 +8163,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 131: 260706_ms_tech-supply-chain
+## Document 120: 260706_ms_tech-supply-chain
 
 Source PDF: all report pdf/260706_ms_tech-supply-chain.pdf
 Report source: line報告備份
@@ -8904,7 +8904,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 134: 2609陽明 宏遠
+## Document 123: 2609陽明 宏遠
 
 Source PDF: all report pdf/2609陽明 宏遠.pdf
 Report source: line報告備份
@@ -9465,7 +9465,7 @@ AAAAA
 2024 2025 2026
 
 ---
-## Document 150: 4912聯德 元富
+## Document 138: 4912聯德 元富
 
 Source PDF: all report pdf/4912聯德 元富.pdf
 Report source: line報告備份
@@ -9712,11 +9712,11 @@ Operating 5.5 7.0 9.0 9.0 ROA 3.63 5.47 1.60 4.68
 Net 5.1 4.9 6.4 6.4 ROE 7.96 11.56 3.58 11.06
 
 ---
-## Document 153: 5371中光電 群益
+## Document 141: 5371中光電 群益
 
 Source PDF: all report pdf/5371中光電 群益.pdf
 Report source: line報告備份
-Date: 2026-07-07
+Date: 2026-07-06
 Pages: 5
 Extraction status: ok
 
@@ -9947,7 +9947,7 @@ YoY(%)
 情形。
 
 ---
-## Document 169: 6456GIS 群益
+## Document 152: 6456GIS 群益
 
 Source PDF: all report pdf/6456GIS 群益.pdf
 Report source: line報告備份
@@ -10237,11 +10237,11 @@ YoY(%)
 情形。
 
 ---
-## Document 172: 6491晶碩 永豐
+## Document 154: 6491晶碩 永豐
 
 Source PDF: all report pdf/6491晶碩 永豐.pdf
 Report source: line報告備份
-Date: 2026-07-07
+Date: 2026-07-06
 Pages: 7
 Extraction status: ok
 
@@ -10529,7 +10529,7 @@ S：Sell 賣出：未來 6 個月該股票表現將落後大盤
 7
 
 ---
-## Document 184: 7631聚賢研發 康和
+## Document 162: 7631聚賢研發 康和
 
 Source PDF: all report pdf/7631聚賢研發 康和.pdf
 Report source: line報告備份
@@ -10884,7 +10884,7 @@ EPS以股本20.1百萬股計算
 投 資 結 果 自 行 負 責 。
 
 ---
-## Document 189: 9914美利達20260629-元富投顧(台新新光金控)報告
+## Document 166: 9914美利達20260629-元富投顧(台新新光金控)報告
 
 Source PDF: all report pdf/9914美利達20260629-元富投顧(台新新光金控)報告.pdf
 Report source: line報告備份
@@ -11140,7 +11140,7 @@ Operating 5.2 7.1 6.8 4.0 ROA 4.19 -1.85 3.30 4.32
 Net 6.1 7.7 8.7 1.9 ROE 7.86 -3.34 5.99 7.70
 
 ---
-## Document 353: Nomura
+## Document 306: Nomura
 
 Source PDF: all report pdf/Nomura.pdf
 Report source: line報告備份
@@ -18267,7 +18267,7 @@ Tel: +81 3 5255 1658 Fax: +81 3 5255 1747, 3272 0869
 Caring for the environment: to receive only the electronic versions of our research, please contact your sales representative .
 
 ---
-## Document 380: Snowflake(SNOW,OW_增加持股)-CTBC260702
+## Document 322: Snowflake(SNOW,OW_增加持股)-CTBC260702
 
 Source PDF: all report pdf/Snowflake(SNOW,OW_增加持股)-CTBC260702.pdf
 Report source: line報告備份
@@ -18484,7 +18484,7 @@ PSR Band
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 409: Walmart(WMT,OW_增加持股)-CTBC260702
+## Document 348: Walmart(WMT,OW_增加持股)-CTBC260702
 
 Source PDF: all report pdf/Walmart(WMT,OW_增加持股)-CTBC260702.pdf
 Report source: line報告備份
@@ -18621,7 +18621,7 @@ PER Band                                  PBR Band
 未評等 Not Rated (NR)
 
 ---
-## Document 533: 凱基投顧_2330 台積電_潘俊宏_20260701
+## Document 463: 凱基投顧_2330 台積電_潘俊宏_20260701
 
 Source PDF: all report pdf/凱基投顧_2330 台積電_潘俊宏_20260701.pdf
 Report source: line報告備份
@@ -19455,7 +19455,7 @@ Jul-25 Sep-25 Nov-25 Jan-26 Mar-26 May-26
 資料來源：TEJ，凱基
 
 ---
-## Document 534: 凱基投顧_2H26半導體產業展望_潘俊宏_20260630
+## Document 464: 凱基投顧_2H26半導體產業展望_潘俊宏_20260630
 
 Source PDF: all report pdf/凱基投顧_2H26半導體產業展望_潘俊宏_20260630.pdf
 Report source: line報告備份
@@ -20154,7 +20154,7 @@ MediaTek
 免責聲明
 
 ---
-## Document 542: 凱基投顧_SPCX SpaceX_張燾_20260701
+## Document 471: 凱基投顧_SPCX SpaceX_張燾_20260701
 
 Source PDF: all report pdf/凱基投顧_SPCX SpaceX_張燾_20260701.pdf
 Report source: line報告備份
@@ -20581,7 +20581,7 @@ Space X 是由企業家 Elon Musk 於 2002 年創立 ，主要業務包
 免責聲明
 
 ---
-## Document 543: 凱基投顧_Takeaway_1783 和康生_陳宣甫_20260629
+## Document 472: 凱基投顧_Takeaway_1783 和康生_陳宣甫_20260629
 
 Source PDF: all report pdf/凱基投顧_Takeaway_1783 和康生_陳宣甫_20260629.pdf
 Report source: line報告備份
@@ -20723,7 +20723,7 @@ QA
 六月 29, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 4
 
 ---
-## Document 546: 凱基投顧_Takeaway_4169 泰宗_陳宣甫_20260630
+## Document 474: 凱基投顧_Takeaway_4169 泰宗_陳宣甫_20260630
 
 Source PDF: all report pdf/凱基投顧_Takeaway_4169 泰宗_陳宣甫_20260630.pdf
 Report source: line報告備份
@@ -20922,7 +20922,7 @@ CatCHimer a 進入美國市場首日就能直接向保險公司報帳，直接
 六月 30, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 5
 
 ---
-## Document 552: 凱基投顧_TWLO Twilio_鄭傑懋_20260702
+## Document 479: 凱基投顧_TWLO Twilio_鄭傑懋_20260702
 
 Source PDF: all report pdf/凱基投顧_TWLO Twilio_鄭傑懋_20260702.pdf
 Report source: line報告備份
@@ -22587,7 +22587,7 @@ Avg
 電話 62 21 250 6337
 
 ---
-## Document 647: 懶人摘要
+## Document 564: 懶人摘要
 
 Source PDF: all report pdf/懶人摘要.pdf
 Report source: line報告備份
@@ -24307,7 +24307,7 @@ OpenAI
 好。
 
 ---
-## Document 706: 穎崴(6515,B_買進)-CTBC260701
+## Document 623: 穎崴(6515,B_買進)-CTBC260701
 
 Source PDF: all report pdf/穎崴(6515,B_買進)-CTBC260701.pdf
 Report source: line報告備份
@@ -24632,7 +24632,7 @@ ESG 資訊 - 公司治理 (Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 724: 統一-2409-友達-20260630
+## Document 639: 統一-2409-友達-20260630
 
 Source PDF: all report pdf/統一-2409-友達-20260630.pdf
 Report source: line報告備份
@@ -24930,7 +24930,7 @@ ainReport/data/FileStream?id=0afcd982-636d-
 請參見末頁重要批露及免責聲明  8
 
 ---
-## Document 746: 群益-3563-2601牧德
+## Document 657: 群益-3563-2601牧德
 
 Source PDF: all report pdf/群益-3563-2601牧德.pdf
 Report source: line報告備份
@@ -25219,7 +25219,7 @@ YoY(%)
 情形。
 
 ---
-## Document 756: 臺慶科(3357,B_買進)-CTBC260707
+## Document 668: 臺慶科(3357,B_買進)-CTBC260707
 
 Source PDF: all report pdf/臺慶科(3357,B_買進)-CTBC260707.pdf
 Report source: line報告備份
@@ -25535,11 +25535,11 @@ ESG 資訊-公司治理(Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 771: 華南投顧-4551-智伸科-1150706
+## Document 678: 華南投顧-4551-智伸科-1150706
 
 Source PDF: all report pdf/華南投顧-4551-智伸科-1150706.pdf
 Report source: line報告備份
-Date: 2026-07-07
+Date: 2026-07-06
 Pages: 6
 Extraction status: ok
 

@@ -3,7 +3,7 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 008: 1301台塑 兆豐
+## Document 006: 1301台塑 兆豐
 
 Source PDF: all report pdf/1301台塑 兆豐.pdf
 Report source: line報告備份
@@ -512,7 +512,7 @@ AAAAA
 交易所公司治理評鑑
 
 ---
-## Document 012: 1569濱川20260630-元富投顧(台新新光金控)報告
+## Document 009: 1569濱川20260630-元富投顧(台新新光金控)報告
 
 Source PDF: all report pdf/1569濱川20260630-元富投顧(台新新光金控)報告.pdf
 Report source: line報告備份
@@ -736,7 +736,7 @@ Operating -9.6 -2.3 10.5 17.9 ROA -1.69 -4.84 -11.06 3.02
 Net -12.6 0.2 10.2 15.9 ROE -3.32 -9.91 -24.20 6.90
 
 ---
-## Document 070: 2603長榮 宏遠
+## Document 063: 2603長榮 宏遠
 
 Source PDF: all report pdf/2603長榮 宏遠.pdf
 Report source: line報告備份
@@ -1382,7 +1382,7 @@ AAA
 2023 2024 2025
 
 ---
-## Document 075: 260629_citi_nypcb
+## Document 064: 260629_citi_nypcb
 
 Source PDF: all report pdf/260629_citi_nypcb.pdf
 Report source: line報告備份
@@ -1882,7 +1882,7 @@ solely for the recipient and may not be further distributed by the recipient to 
 ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 
 ---
-## Document 082: 260630_citi_ABF-BT
+## Document 071: 260630_citi_ABF-BT
 
 Source PDF: all report pdf/260630_citi_ABF-BT.pdf
 Report source: line報告備份
@@ -3322,7 +3322,7 @@ solely for the recipient and may not be further distributed by the recipient to 
 ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 
 ---
-## Document 084: 260630_daiwa_ Nan Juen
+## Document 073: 260630_daiwa_ Nan Juen
 
 Source PDF: all report pdf/260630_daiwa_ Nan Juen.pdf
 Report source: line報告備份
@@ -3825,7 +3825,7 @@ the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 086: 260630_kgi_GWC-resume-buy
+## Document 075: 260630_kgi_GWC-resume-buy
 
 Source PDF: all report pdf/260630_kgi_GWC-resume-buy.pdf
 Report source: line報告備份
@@ -5101,7 +5101,7 @@ Recommendations & Target Price
 2023-08-01 持有 524 512
 
 ---
-## Document 103: 260702_citi_airtac
+## Document 092: 260702_citi_airtac
 
 Source PDF: all report pdf/260702_citi_airtac.pdf
 Report source: line報告備份
@@ -5596,7 +5596,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 112: 260703_gs_TSMC
+## Document 101: 260703_gs_TSMC
 
 Source PDF: all report pdf/260703_gs_TSMC.pdf
 Report source: line報告備份
@@ -6560,7 +6560,7 @@ Goldman Sachs TSMC (2330.TW)For the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 113: 260705_gs_yageo
+## Document 102: 260705_gs_yageo
 
 Source PDF: all report pdf/260705_gs_yageo.pdf
 Report source: line報告備份
@@ -7411,7 +7411,7 @@ Goldman Sachs Yageo Corp. (2327.TW)For the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 120: 260706_daiwa_Bizlink
+## Document 109: 260706_daiwa_Bizlink
 
 Source PDF: all report pdf/260706_daiwa_Bizlink.pdf
 Report source: line報告備份
@@ -7627,7 +7627,7 @@ regarding the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 124: 260706_gs_FOCI-buy-initiation
+## Document 113: 260706_gs_FOCI-buy-initiation
 
 Source PDF: all report pdf/260706_gs_FOCI-buy-initiation.pdf
 Report source: line報告備份
@@ -8690,7 +8690,7 @@ Goldman Sachs FOCI (3363.TWO)For the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 125: 260706_gs_HH
+## Document 114: 260706_gs_HH
 
 Source PDF: all report pdf/260706_gs_HH.pdf
 Report source: line報告備份
@@ -9130,11 +9130,11 @@ Goldman Sachs Hon Hai (2317.TW)For the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 144: 3526凡甲 國票
+## Document 131: 3526凡甲 國票
 
 Source PDF: all report pdf/3526凡甲 國票.pdf
 Report source: line報告備份
-Date: 2026-07-07
+Date: 2026-07-06
 Pages: 10
 Extraction status: ok
 
@@ -9549,7 +9549,7 @@ $500
 • 國票可能與該公司進行業務而處於緘默期
 
 ---
-## Document 151: 5285界霖 康和
+## Document 139: 5285界霖 康和
 
 Source PDF: all report pdf/5285界霖 康和.pdf
 Report source: line報告備份
@@ -9876,7 +9876,7 @@ EPS以股本102百萬股計算
 投 資 結 果 自 行 負 責 。
 
 ---
-## Document 152: 5288豐祥 康和
+## Document 140: 5288豐祥 康和
 
 Source PDF: all report pdf/5288豐祥 康和.pdf
 Report source: line報告備份
@@ -10215,7 +10215,7 @@ Q1 Q2 Q3 Q4
 投 資 結 果 自 行 負 責。
 
 ---
-## Document 165: 6290良維 群益
+## Document 149: 6290良維 群益
 
 Source PDF: all report pdf/6290良維 群益.pdf
 Report source: line報告備份
@@ -10454,7 +10454,7 @@ YoY(%)
 情形。
 
 ---
-## Document 225: Asia AI Semi & Server(1)
+## Document 203: Asia AI Semi & Server(1)
 
 Source PDF: all report pdf/Asia AI Semi & Server(1).pdf
 Report source: line報告備份
@@ -17581,7 +17581,7 @@ Tel: +81 3 5255 1658 Fax: +81 3 5255 1747, 3272 0869
 Caring for the environment: to receive only the electronic versions of our research, please contact your sales representative .
 
 ---
-## Document 341: MLCC materials Nomura 260702
+## Document 295: MLCC materials Nomura 260702
 
 Source PDF: all report pdf/MLCC materials Nomura 260702.pdf
 Report source: line報告備份
@@ -17991,7 +17991,7 @@ Member associations: Japan Securities Dealers Association; Investment Management
 of Japan; Type II Financial Instruments Firms Association; and Japan Security Token Offering Association.
 
 ---
-## Document 355: Nvidia’s CCL Supply Chain Shake Up – SemiAnalysis
+## Document 308: Nvidia’s CCL Supply Chain Shake Up – SemiAnalysis
 
 Source PDF: all report pdf/Nvidia’s CCL Supply Chain Shake Up – SemiAnalysis.pdf
 Report source: line報告備份
@@ -18173,7 +18173,7 @@ Report.
 https://semianalysis.com/institutional/nvidias-ccl-supply-chain-shake-up/?access_token=eyJhbGciOiJFUzI1NiIsImtpZCI6InNlbWlhbmFseXNpcy5wYXNzcG9… 6/6
 
 ---
-## Document 436: 【國泰證期研究部】智邦(2345 TT)-買進(+28.2%)-旺季在即、以智興邦-20260630
+## Document 371: 【國泰證期研究部】智邦(2345 TT)-買進(+28.2%)-旺季在即、以智興邦-20260630
 
 Source PDF: all report pdf/【國泰證期研究部】智邦(2345 TT)-買進(+28.2%)-旺季在即、以智興邦-20260630.pdf
 Report source: line報告備份
@@ -18512,7 +18512,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 437: 【國泰證期研究部】聯詠(3034 TT)-中立(+9.6_)-邊緣AI為亮點，仍待評價面更具吸引力-20260707
+## Document 372: 【國泰證期研究部】聯詠(3034 TT)-中立(+9.6_)-邊緣AI為亮點，仍待評價面更具吸引力-20260707
 
 Source PDF: all report pdf/【國泰證期研究部】聯詠(3034 TT)-中立(+9.6_)-邊緣AI為亮點，仍待評價面更具吸引力-20260707.pdf
 Report source: line報告備份
@@ -18812,7 +18812,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 526: 元大-綠能產業-20260629
+## Document 456: 元大-綠能產業-20260629
 
 Source PDF: all report pdf/元大-綠能產業-20260629.pdf
 Report source: line報告備份
@@ -19100,7 +19100,7 @@ AI、半導體擴產、RE100 及 SBTi 等多重驅動下，企業綠電需求持
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 536: 凱基投顧_2H26電子硬體產業展望_向子慧_20260701
+## Document 466: 凱基投顧_2H26電子硬體產業展望_向子慧_20260701
 
 Source PDF: all report pdf/凱基投顧_2H26電子硬體產業展望_向子慧_20260701.pdf
 Report source: line報告備份
@@ -19878,11 +19878,11 @@ ODM
 免責聲明
 
 ---
-## Document 557: 功率半導體 中信託
+## Document 483: 功率半導體 中信託
 
 Source PDF: all report pdf/功率半導體 中信託.pdf
 Report source: line報告備份
-Date: 2026-07-07
+Date: 2026-07-06
 Pages: 6
 Extraction status: ok
 
@@ -20128,11 +20128,11 @@ US D$mn 強茂 德微 台半 朋程 富鼎
 2 0 2 6 / 06 /04
 
 ---
-## Document 558: 功率半導體 國票
+## Document 484: 功率半導體 國票
 
 Source PDF: all report pdf/功率半導體 國票.pdf
 Report source: line報告備份
-Date: 2026-07-07
+Date: 2026-07-06
 Pages: 8
 Extraction status: ok
 
@@ -20265,7 +20265,7 @@ SiC是800V HVDC架構的關鍵元件，驅動電動車與資料中心效能全�
 資結果自行負責。以上報告內容之著作權屬國票投顧所有，非經本公司同意，禁止任何形式之抄襲、引用或轉載。
 
 ---
-## Document 573: 台新投顧20260703個股報告-勤凱(4760)-強力買進
+## Document 495: 台新投顧20260703個股報告-勤凱(4760)-強力買進
 
 Source PDF: all report pdf/台新投顧20260703個股報告-勤凱(4760)-強力買進.pdf
 Report source: line報告備份
@@ -20433,7 +20433,7 @@ YoY(%)
 4
 
 ---
-## Document 574: 台新投顧20260703個股報告-長興(1717)-買進
+## Document 496: 台新投顧20260703個股報告-長興(1717)-買進
 
 Source PDF: all report pdf/台新投顧20260703個股報告-長興(1717)-買進.pdf
 Report source: line報告備份
@@ -20722,7 +20722,7 @@ EPS(元) 1.54 1.25 1.99 2.05 2.86 2.15 1.28 1.56 1.41
 位不為使用者之資訊決策及結果負擔任何責任。
 
 ---
-## Document 590: 國票-2049-上銀-20260630pdf
+## Document 511: 國票-2049-上銀-20260630pdf
 
 Source PDF: all report pdf/國票-2049-上銀-20260630pdf.pdf
 Report source: line報告備份
@@ -21161,7 +21161,7 @@ $500
 • 國票可能與該公司進行業務而處於緘默期
 
 ---
-## Document 594: 國票-7827-漢康-KY-20260630
+## Document 515: 國票-7827-漢康-KY-20260630
 
 Source PDF: all report pdf/國票-7827-漢康-KY-20260630.pdf
 Report source: line報告備份
@@ -21520,7 +21520,7 @@ Y oY(%)
 • 國票可能與該公司進行業務而處於緘默期
 
 ---
-## Document 603: 天风证券_产业赛道投资图谱：PCB，AI浪潮催生量价质”三重共振_260702
+## Document 523: 天风证券_产业赛道投资图谱：PCB，AI浪潮催生量价质”三重共振_260702
 
 Source PDF: all report pdf/天风证券_产业赛道投资图谱：PCB，AI浪潮催生量价质”三重共振_260702.pdf
 Report source: line報告備份
@@ -22153,7 +22153,7 @@ Prismark 及灼识咨询数据， 全球PCB 专用设备市场规模由 2020 年
 天风 证券研究
 
 ---
-## Document 604: 天风证券_非金属新材料行业MLCC专题研究之二：全球龙头公司梳理，高端MLCC竞争格局清晰_260703
+## Document 524: 天风证券_非金属新材料行业MLCC专题研究之二：全球龙头公司梳理，高端MLCC竞争格局清晰_260703
 
 Source PDF: all report pdf/天风证券_非金属新材料行业MLCC专题研究之二：全球龙头公司梳理，高端MLCC竞争格局清晰_260703.pdf
 Report source: line報告備份
@@ -23673,7 +23673,7 @@ Vibrantz 业务主要包括先进材料、色彩解决方案和功能涂层三�
 天风 证券研究
 
 ---
-## Document 633: 富邦-8436-大江-20260630
+## Document 553: 富邦-8436-大江-20260630
 
 Source PDF: all report pdf/富邦-8436-大江-20260630.pdf
 Report source: line報告備份
@@ -24073,7 +24073,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 646: 懶人摘要-Asia AI Semi _ Server
+## Document 563: 懶人摘要-Asia AI Semi _ Server
 
 Source PDF: all report pdf/懶人摘要-Asia AI Semi _ Server.pdf
 Report source: line報告備份
@@ -25793,7 +25793,7 @@ OpenAI
 好。
 
 ---
-## Document 699: 玉山-6285-啟碁-20260630
+## Document 616: 玉山-6285-啟碁-20260630
 
 Source PDF: all report pdf/玉山-6285-啟碁-20260630.pdf
 Report source: line報告備份
@@ -25972,7 +25972,7 @@ OCS研發有利評價上修，從2027年獲利評價，給予20倍本益比。
 未評等：無。
 
 ---
-## Document 703: 申万宏源_玻璃基板行业深度报告：后摩尔时代的底层技术跃迁_260630
+## Document 620: 申万宏源_玻璃基板行业深度报告：后摩尔时代的底层技术跃迁_260630
 
 Source PDF: all report pdf/申万宏源_玻璃基板行业深度报告：后摩尔时代的底层技术跃迁_260630.pdf
 Report source: line報告備份
@@ -26748,7 +26748,7 @@ www.swsresearch.com
 renjie@swsresearch.com
 
 ---
-## Document 747: 群益-8103-2605瀚荃
+## Document 658: 群益-8103-2605瀚荃
 
 Source PDF: all report pdf/群益-8103-2605瀚荃.pdf
 Report source: line報告備份
@@ -27052,11 +27052,11 @@ YoY(%)
 情形。
 
 ---
-## Document 748: 群益-美股TE Connectivity (TEL-US)-07062026
+## Document 659: 群益-美股TE Connectivity (TEL-US)-07062026
 
 Source PDF: all report pdf/群益-美股TE Connectivity (TEL-US)-07062026.pdf
 Report source: line報告備份
-Date: 2026-07-07
+Date: 2026-07-06
 Pages: 3
 Extraction status: ok
 
@@ -27189,7 +27189,7 @@ FY3Q25 FY4Q25 FY1Q26 FY2Q26
 中立(Neutral)
 
 ---
-## Document 790: 鈞興-KY(4571,B_買進)-CTBC260707
+## Document 701: 鈞興-KY(4571,B_買進)-CTBC260707
 
 Source PDF: all report pdf/鈞興-KY(4571,B_買進)-CTBC260707.pdf
 Report source: line報告備份
@@ -27498,7 +27498,7 @@ ESG 資訊 -公 司 治 理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 812: 鼎基(6585,Note)-CTBC260630
+## Document 724: 鼎基(6585,Note)-CTBC260630
 
 Source PDF: all report pdf/鼎基(6585,Note)-CTBC260630.pdf
 Report source: line報告備份
