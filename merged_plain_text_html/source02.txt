@@ -3,7 +3,7 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 339: Triển vọng TTCK 2H2026 (2026-07-07)
+## Document 399: Triển vọng TTCK 2H2026 (2026-07-07)
 
 Source PDF: all report pdf/Triển vọng TTCK 2H2026 (2026-07-07).pdf
 Report source: KBSV (Strategy)
@@ -50,7 +50,7 @@ phần đông cổ phiếu vốn hóa lớn trên sàn (ngoại trừ nhóm Ving
 Mức P/E điều chỉnh  (chúng tôi tính toán lại chỉ số P/E VNIndex với giả định 
 biến động giá cổ phiếu nhóm Vingroup tăng tương đồng với mức tăng lợi 
 nhuận sau thuế trượt 4 quý – tức P/E nhóm này không đổi từ đầu 2025) 
-hiện ở 11.2, tương đương vùng đáy các năm 2020,  2022, 2025. Đây là cơ s ở 
+hiện ở 11.2, tương đương vùng đáy các năm 2020,  2022, 2025. Đây là cơ sở 
 quan trọng để chúng tôi cho rằng ngay khi các rủi ro vĩ mô trong nước hạ 
 nhiệt (là yếu tố chúng tôi kỳ vọng sẽ xảy ra trong nửa sau 2026), phần 
 đông các cổ phiếu sẽ có cơ hội được tái định giá lại ở mặt bằng giá cao 
@@ -63,13 +63,13 @@ hướng điều chỉnh ở nhóm này.
 Hai rủi ro vĩ mô trọng yếu gây áp lực chính lên TTCK Việt Nam trong nửa đầu 2026 
 là xung đột Trung Đông và mặt bằng lãi suất huy động tăng cao sẽ dần hạ nhiệt 
 trong nửa sau 2026. Trên thực tế, giá dầu đã lao dốc mạnh kể từ khi đạt đỉnh vào 
-đầu tháng 5 trước các diễn biến đàm phán tích cực Mỹ - Trung. Đối với vấn đề lãi 
+đầu tháng 5 trước các diễn biến đàm phán tích cực Mỹ - Iran. Đối với vấn đề lãi 
 suất, chúng tôi cho rằng mặt bằng lãi suất sẽ tiếp tục neo cao nửa đầu quý 3, trước 
 khi hạ nhiệt dần với xu hướng giảm rõ rệt xuất hiện từ đầu quý 4 (xem thêm phần 
 bối cảnh vĩ mô).
 
 Chủ đề đầu tư chúng tôi lựa chọn cho 2H 2026 là Nâng hạng thị trường, Thoái vốn 
-doanh nghiệp nhà nước, Elnino, Xung đột Mỹ - Iran hạ nhiệt, và tăng trưởng dòng 
+doanh nghiệp nhà nước, El Nino, Xung đột Mỹ - Iran hạ nhiệt, và tăng trưởng dòng 
 vốn FDI.
 
 ### Page 2
@@ -86,7 +86,7 @@ IV. CHỦ ĐỀ ĐẦU TƯ 16
 2. Nâng hạng thị trường 18 
 3. Dòng vốn FDI đầu tư vào Việt Nam hồi phục mạnh 20 
 4. Thoái vốn doanh nghiệp nhà nước 23 
-5. Elnino 26 
+5. El Nino 26 
 V. DANH MỤC ĐẦU TƯ MẪU 31 
 VI. TRIỂN VỌNG NGÀNH 32 
 Ngân hàng 33 
@@ -106,7 +106,7 @@ Dầu khí 145
 3
 
 I. Triển vọng TTCK 2H2026 
-TTCK Việt Nam giảm 4.2% ftrong 1H 
+TTCK Việt Nam giảm 4.2% trong 1H 
 2026
 
 TTCK Việt Nam biến động giằng co, tăng nhẹ trong nửa đầu 2026, với diễn biến 
@@ -313,7 +313,7 @@ VNIndex Set Index JCI Index PASHR Index
 20
 22
 24
-7/5/2021 7/5/2022 7/5/2023 7/5/2024 7/5/2025
+05/07/2021 05/07/2022 05/07/2023 05/07/2024 05/07/2025
 P/E P/E điều chỉnh
 
 ### Page 6
@@ -574,16 +574,16 @@ Bảng 10. Các yếu tố vĩ mô Thế giới tác động chính trong 2H2026
     Đánh giá của KBSV 
 Yếu tố tác động  Tác động đến VNINDEX 2H2026 Xu hướng 1H2026 Dự báo xu hướng 2H2026 
 Xung đột Mỹ/Israel - Iran  Đỉnh điểm của xung đột Mỹ/Israel - Iran.  
-Giá dầu tăng chạm mốc 120 USD/thùng 
+Giá dầu tăng chạm mốc 120 USD/thùng  
 Xung đột Mỹ/Israel - Iran dần hạ nhiệt,  
 giá dầu giảm về 70 - 75 USD/thùng 
 Chính sách của NHTW lớn    
 FED giữ nguyên lãi suất 
-PboC duy trì xu hướng cắt lãi suất, hỗ trợ  
+PBoC duy trì xu hướng cắt lãi suất, hỗ trợ  
 tăng trưởng  
 ECB, BOE, BOJ tăng lãi suất  
 FED giữ nguyên lãi suất 
-PboC duy trì xu hướng cắt lãi suất, hỗ trợ  
+PBoC duy trì xu hướng cắt lãi suất, hỗ trợ  
 tăng trưởng  
 ECB, BOE, BOJ tiếp tục tăng lãi suất 
 Chỉ số DXY    Tăng lên mốc 101.x, tăng 3% so với cuối  
@@ -697,8 +697,8 @@ Trình tự dỡ trừng phạt / giải
 phóng tài sản 
 Muốn gắn với "mốc" cụ thể, chỉ dỡ đầy đủ khi có thỏa 
 thuận cuối cùng được xác minh. 
-Muốn Mỹ sớm dỡ các lệnh trừng phạ (miễn trừ xuất khẩu 
-dầu, giải phóng tài sản) trước khi nhượng bộ. 
+Muốn Mỹ sớm dỡ các lệnh trừng phạt (miễn trừ xuất 
+khẩu dầu, giải phóng tài sản) trước khi nhượng bộ. 
 Phạm vi ngừng bắn Muốn Iran chấm dứt tấn công tàu/căn cứ Mỹ, kiềm 
 chế lực lượng đồng minh của Mỹ. 
 Gắn thực hiện thỏa thuận với diễn biến tại Lebanon.
@@ -931,7 +931,7 @@ trường OMO trước các áp lực lạm phát và tỷ giá do ảnh hưởn
 đột Trung Đông.   
 Theo thống kê của NHNN, tính t ới hết tháng 5, m ặt bằng lãi suất huy động của 
 các khoản tiền gửi cũ và m ới kỳ hạn từ 12 - 24 tháng tr ở lên đã tăng thêm 20 - 
-30bps kể từ cuối tháng 3 (tương đương mức tăng 120-150bps so với cuối 2025.
+30bps kể từ cuối tháng 3 (tương đương mức tăng 120-150bps so với cuối 2025).
 
 ### Page 14
 
@@ -1115,13 +1115,13 @@ IV. Chủ đề đầu tư
 Chủ đề đầu tư Nhóm ngành/ nhóm cổ phiếu 
 hưởng lợi Cổ phiếu tiêu biểu 
 Căng thẳng Mỹ - Iran hạ nhiệt Hàng không, nguyên vật liệu, xây 
-dựng. dầu khí HVN, VJC, CTD, GAS 
+dựng, dầu khí HVN, VJC, CTD, GAS 
 Nâng hạng thị trường Nhóm cổ phiếu vào rổ FTSE, chứng 
 khoán VIC, HPG, VCB, SSI 
 Dòng vốn đầu tư FDI Khu công nghiệp, công nghệ, xây lắp 
 điện IDC, SIP, FPT, PC1 
 Thoái vốn DNNN Nhóm cổ phiếu trong diện thoái vốn VGC, GVR, MSB, GAS 
-Elnino Đường, nhiệt điện QNS, SBT, QTP, POW
+El Nino Đường, nhiệt điện QNS, SBT, QTP, POW
 
 ### Page 17
 
@@ -1145,7 +1145,7 @@ nhóm ngành gồm: i) Hàng không, ii) Tiêu dùng, iii) Nguyên vật liệu 
 Trong khi đó, triển vọng đối với ngành dầu khí trong nửa cuối năm sẽ có sự 
 phân hóa.
 
-Bảng 24. Triển vọng và rủi ro của các cổ phiếu trong nhóm ngành ảnh từ diễn biến hạ nhiệt của giá dầu
+Bảng 24. Triển vọng và rủi ro của các cổ phiếu trong nhóm ngành ảnh hưởng từ diễn biến hạ nhiệt của giá dầu
 
 Cổ phiếu Giá đồng thuận Triển vọng Rủi ro 
 Nhóm dầu khí 
@@ -1153,7 +1153,7 @@ POW 16,050 Nguồn cung LNG toàn cầu trở lại ổn định sẽ bảo đ�
 của nhiệt điện LNG Nhơn Trạch 3&4. Giá dầu giảm cũng tăng khả năng 
 cạnh tranh về giá thành của nhà máy điện khí. 
 Giá bán điện trên thị trường cạnh tranh bị ảnh hưởng bởi giá thành 
-sản xuất của các nhà máy nhiệt điện giảm khi giá nhiên liêu hạ nhiệt. 
+sản xuất của các nhà máy nhiệt điện giảm khi giá nhiên liệu hạ nhiệt. 
 PVS 50,518  Nguồn cung LNG toàn cầu dự kiến ổn định trở lại sẽ thúc đẩy quá trình 
 sử dụng LNG của Việt Nam, gia tăng khối lượng backlog các dự án điện 
 khí và kho cảng. 
@@ -1689,7 +1689,7 @@ thể
 11% 21.40 2.29 Thuộc nhóm DN tỷ USD đang cơ 
 cấu lại vốn NN (cuộc họp Chính 
 phủ 19/5/2026 về tiêu chí phân 
-loại DNNN)). Chưa công bố tỷ lệ 
+loại DNNN). Chưa công bố tỷ lệ 
 thoái cụ thể.
 
 Nguồn: KBSV Tổng hợp
@@ -2126,7 +2126,8 @@ ngày càng tăng trưởng tích cực
 MSN 
 MWG 121.60 78.50 47.0% 12.7 28.5% 
 - Chuỗi TGDD+ĐMX tiếp tục duy trì tăng trưởng trung bình 2 chữ số trong 
-2026 nhờ chu kỳ nâng cấp đồ điện tử, chu kỳ Elnino và nhu cầu BĐS bàn giao 
+2026 nhờ chu kỳ nâng cấp đồ điện tử, chu kỳ El Nino và nhu cầu BĐS bàn 
+giao 
 - Số lượng cửa hàng mở mới của BHX có thể đạt 1000 cửa hàng trong 2026 
 (+25% YoY) với tăng trưởng DT trên cửa hàng cũ 2026/2027 đạt 14%/10% 
 - Khả năng tăng doanh thu tài chính đến từ việc tận dụng phần phải trả nhà 
@@ -2549,7 +2550,7 @@ Biểu đồ 51. Lãi suất bình quân đầu vào/ra và NIM theo quý
 Trung bình NIM theo quý của nhóm NHTM 
 niêm yết giảm 16bps so với quý trước, về mức 
 thấp nhất trong nhiều năm trở lại đây. Trong 
-đó, lãi suất bình quần đầu vào tăng 31bps 
+đó, lãi suất bình quân đầu vào tăng 31bps 
 QoQ, nhanh hơn tốc độ tăng của lãi suất bình 
 quân đầu ra (+18bps QoQ).
 
@@ -2646,7 +2647,7 @@ nguyên nhân cho sự suy giảm chất lượng tài sản của hệ thống 
 yếu là do yếu tố mùa vụ của các quý đầu năm. 
 Chi phí trích lập dự phòng trong 1Q2026 đạt 39.3 nghìn tỷ đồng (+27.5% YoY), 
 cho thấy các ngân hàng đang duy trì quan điểm thận trọng hơn đối với rủi ro 
-tín dụng trong bối cảnh mặt bằng lãi suất tăng mạnh và diễn biễn tiêu cực của 
+tín dụng trong bối cảnh mặt bằng lãi suất tăng mạnh và diễn biến tiêu cực của 
 vĩ mô thế giới có thể gây áp lực lên khả năng trả nợ của khách hàng trong thời 
 gian tới.  
 Dự phòng rủi ro cho vay khách hàng chỉ tăng nhẹ 6.7% QoQ, trong khi nợ xấu 
@@ -2712,17 +2713,16 @@ Trích lập DPRR Tăng trưởng YoY
 
 TRIỂN VỌNG 2H2026
 
-Lãi suất đã tạo đỉnh, dự báo sẽ giảm 
-dần từ đầu 4Q2026
+Lãi suất đã đang ở vùng đỉnh, dự 
+báo sẽ giảm dần từ đầu 4Q2026
 
 Tình trạng căng thẳng thanh khoản của hệ thống ngân hàng tiếp tục duy trì 
 trong nửa đầu năm 2026 và chưa có dấu hiệu hạ nhiệt. Trong khi đó, áp lực ổn 
 định lạm phát và tỷ giá làm thu hẹp đáng kể dư địa nới lỏng của chính sách tiền 
 tệ của NHNN so với năm 2025. Hệ quả là áp lực huy động của các NHTM gia 
 tăng, qua đó khiến mặt bằng lãi suất huy động tăng nóng trong quý đầu năm.  
-Tuy nhiên, chúng tôi cho rằng lãi suất huy động đã tạo đỉnh và sẽ đi ngang 
-trong 3Q2026 trước khi có dấu hiệu giảm rõ nét từ đầu 4Q2026, với mức giảm 
-bình quần khoảng 0.5-1%/năm so với mức đỉnh nhờ: 
+Tuy nhiên, chúng tôi cho rằng lãi suất huy động đã đang ở vùng đỉnh, sẽ tiếp 
+tục neo cao trong quý 3, trước khi cho dấu hiệu giảm dần từ đầu quý 4, nhờ: 
 (1) Tiến triển tích cực trong cục diện xung đột Mỹ - Iran được kỳ vọng sẽ giảm 
 bớt áp lực lên giá dầu và lạm phát trong nước (theo kịch bản cơ sở, chúng 
 tôi dự báo giá dầu trong 2H2026 sẽ duy trì ổn định trong khoảng 70 – 75 
@@ -3001,18 +3001,18 @@ Nguồn: Bloomberg, KBSV
 20,000
 25,000
 30,000
-6/4/2025
-7/4/2025
-8/4/2025
-9/4/2025
-10/4/2025
-11/4/2025
-12/4/2025
-1/4/2026
-2/4/2026
-3/4/2026
-4/4/2026
-5/4/2026
+04/06/2025
+04/07/2025
+04/08/2025
+04/09/2025
+04/10/2025
+04/11/2025
+04/12/2025
+04/01/2026
+04/02/2026
+04/03/2026
+04/04/2026
+04/05/2026
 (%)(VND)
 Giá (LHS)
 Tương quan VN-Index
@@ -3106,18 +3106,18 @@ Nguồn: Bloomberg, KBSV
 25,000
 30,000
 35,000
-6/12/2025
-7/12/2025
-8/12/2025
-9/12/2025
-10/12/2025
-11/12/2025
+12/06/2025
+12/07/2025
+12/08/2025
+12/09/2025
+12/10/2025
+12/11/2025
 12/12/2025
-1/12/2026
-2/12/2026
-3/12/2026
-4/12/2026
-5/12/2026
+12/01/2026
+12/02/2026
+12/03/2026
+12/04/2026
+12/05/2026
 (%)(VND)
 Giá (LHS)
 Tương quan VN-Index
@@ -3217,18 +3217,18 @@ Nguồn: Bloomberg, KBSV
 30,000
 40,000
 50,000
-5/22/2025
-6/22/2025
-7/22/2025
-8/22/2025
-9/22/2025
-10/22/2025
-11/22/2025
-12/22/2025
-1/22/2026
-2/22/2026
-3/22/2026
-4/22/2026
+22/05/2025
+22/06/2025
+22/07/2025
+22/08/2025
+22/09/2025
+22/10/2025
+22/11/2025
+22/12/2025
+22/01/2026
+22/02/2026
+22/03/2026
+22/04/2026
 (%)(VND)
 Giá (LHS)
 Tương quan VN-Index
@@ -3913,7 +3913,7 @@ Giá cổ phiếu KDH (Trái) (VND)
 
 57
 
-LNST công ty mẹ đạt  tỷ 146 tỷ 
+LNST công ty mẹ đạt 146 tỷ 
 VND(+8%YoY), 9M2025 đạt 55% kế 
 hoạch năm của doanh nghiệp
 
@@ -3941,8 +3941,8 @@ Doanh số bán hàng trong Quý 3/2025 đạt 1,740 tỷ VND (+129%QoQ,+42%YoY
 từ các dự án Cần Thơ, Southgate, Akari City, Mizuki Park và Izumi City. Lũy kế từ 
 đầu năm 2025, doanh số bán hàng đạt 5,004 tỷ VND (+42%YoY).
 
-KBSV KBSV điều chỉnh dự báo doanh số bán hàng năm 2025 tăng 47%YoY đạt 7,675 
-tỷ VND đến từ các dự án South Gate, Mizuki Park, Cần Thơ và Izumi City dựa trên kỳ 
+KBSV điều chỉnh dự báo doanh số bán hàng năm 2025 tăng 47%YoY đạt 7,675 tỷ 
+VND đến từ các dự án South Gate, Mizuki Park, Cần Thơ và Izumi City dựa trên kỳ 
 vọng khả năng hấp thụ tích cực các sản phẩm của NLG.
 
 Các dự án lớn của NLG hiện tại chủ yếu nằm tại khu vực Đồng Nai và Long An, sắp 
@@ -4517,8 +4517,9 @@ trong 2H2026, dựa trên kỳ vọng dòng vốn FDI đầu tư vào Việt Na
 hồi mạnh mẽ, nhờ: (1) xu hướng dịch chuyển và gia tăng đầu tư rõ nét của các 
 tập đoàn công nghệ cao vào Việt Nam; (2) kỳ vọng rủi ro vĩ mô toàn cầu hạ 
 nhiệt cùng đà giảm của giá dầu, qua đó giải tỏa tâm lý chờ đợi của dòng vốn 
-đầu tư; và (3) lợi thế cạnh tranh bền vững của Việt Nam về vị trí địa lý, sự ổn 
-định chính trị và chi phí nhân công, tiếp tục được củng cố sau Tradewar 2.0.
+đầu tư; (3) rủi ro thuế quan hạ nhiệt; (4) lợi thế cạnh tranh bền vững của Việt 
+Nam về vị trí địa lý, sự ổn định chính trị và chi phí nhân công, tiếp tục được 
+củng cố sau Tradewar 2.0.
 
 Đáng chú ý, các dự án mới cho thấy Việt Nam đang từng bước tham gia sâu hơn 
 vào chuỗi giá trị toàn cầu, với sự hiện diện ngày càng rõ của phân khúc R&D, AI, 
@@ -6094,18 +6095,18 @@ Nguồn: Bloomberg, KBSV
 60,000
 80,000
 100,000
-6/15/2025
-7/15/2025
-8/15/2025
-9/15/2025
-10/15/2025
-11/15/2025
-12/15/2025
-1/15/2026
-2/15/2026
-3/15/2026
-4/15/2026
-5/15/2026
+15/06/2025
+15/07/2025
+15/08/2025
+15/09/2025
+15/10/2025
+15/11/2025
+15/12/2025
+15/01/2026
+15/02/2026
+15/03/2026
+15/04/2026
+15/05/2026
 (%)PNJ VN Equity
 Tương quan Vnindex (RHS)
 
@@ -6754,8 +6755,7 @@ Phú Mỹ NT1&2 BOT và nhà máy khác(triệu m3)
 09/25
 01/26
 05/26
-Newcastle_Monthly Richard bay_Monthly
-(USD)
+Newcastle_Monthly Richard bay_Monthly(USD)
 0
 2,000
 4,000
@@ -7436,7 +7436,7 @@ tiềm năng.
 Ngành công nghệ số được thúc đẩy toàn diện tại Việt Nam 
 Chương trình Chuyển đổi số quốc gia giai đoạn 2025-2030 đặt mục tiêu đẩy nhanh 
 tốc độ xử lý thủ tục hành chính, qus đó tạo ra nhu cầu chuyển đổi số rất lớn trong 
-các bộ ngành và địa phương. Ngoài ra, các chính sách thu hút và đào tạo nhân lực 
+các bộ ngành và địa phương. Ngoài ra, các chính sách thu hút và đào t ạo nhân lực 
 chất lượng cao cũng sẽ thúc đẩy hoạt động nghiên cứu và làm chủ công nghệ lõi, 
 qua đó tăng cường nền móng chủ quyền số của Việt Nam. Các doanh nghiệp như 
 FPT được kỳ vọng sẽ phát triển và mở rộng hoạt động kinh doanh trong nước.
@@ -7597,8 +7597,7 @@ Nguồn: Báo cáo các doanh nghiệp, KBSV
 3M25
 3M26
 FPT VGI CMG ELC ICT GLT
-Doanh thu (trái) Biên lợi nhuận gộp (phải)
-(tỷ VND)
+Doanh thu (trái) Biên lợi nhuận gộp (phải)(tỷ VND)
 
 ### Page 102
 
@@ -8014,7 +8013,7 @@ Kết quả kinh doanh các doanh nghiệp phân hóa
 Ở lĩnh vực cá tra, VHC tiếp tục dẫn đầu với doanh thu thuần quý 1 đạt 2,955 tỷ VNĐ 
 (+12% yoy) và LNST cổ đông công ty mẹ đạt 266 tỷ VNĐ (+38% yoy), trong khi ANV 
 bám sát phía sau với tăng trưởng cao với doanh thu và LNST đạt 1,841 tỷ 
-VNĐ(+66% yoy) và 195 tỷ VNĐ (+48% yoy), nhờ đẩy mạnh nuôi cá rô phi và tận 
+VNĐ(+66% yoy) và 195 tỷ VNĐ (+48% yoy), nhờ đẩy mạnh nuôi cá rô phi và tận 
 dụng khoảng trống thuế quan tại Mỹ và hưởng lợi khi chi phí thức ăn chăn nuôi 
 chạm đáy. Ở mảng tôm, MPC dẫn đầu ngành với quy mô lớn và ghi nhận phục hồi 
 tích cực nhờ tồn kho giá rẻ, giúp ghi nhận doanh thu và LNST đạt lần lượt 5,706 tỷ 
@@ -8619,18 +8618,18 @@ Nguồn: Bloomberg, KBSV
 40,000
 60,000
 80,000
-6/18/2025
-7/18/2025
-8/18/2025
-9/18/2025
-10/18/2025
-11/18/2025
-12/18/2025
-1/18/2026
-2/18/2026
-3/18/2026
-4/18/2026
-5/18/2026
+18/06/2025
+18/07/2025
+18/08/2025
+18/09/2025
+18/10/2025
+18/11/2025
+18/12/2025
+18/01/2026
+18/02/2026
+18/03/2026
+18/04/2026
+18/05/2026
 (%)
 VHC (LHS) Tương quan Vnindex (RHS)
 
@@ -9009,18 +9008,18 @@ Nguồn: Bloomberg, KBSV
 25,000
 30,000
 35,000
-5/19/2025
-6/19/2025
-7/19/2025
-8/19/2025
-9/19/2025
-10/19/2025
-11/19/2025
-12/19/2025
-1/19/2026
-2/19/2026
-3/19/2026
-4/19/2026
+19/05/2025
+19/06/2025
+19/07/2025
+19/08/2025
+19/09/2025
+19/10/2025
+19/11/2025
+19/12/2025
+19/01/2026
+19/02/2026
+19/03/2026
+19/04/2026
 (%)(VND)
 MCM Relative Performance (RHS)
 
@@ -9317,7 +9316,7 @@ nhiên liệu tăng cao dự kiến sẽ phản ánh rõ hơn vào KQKD của do
 80,000
 100,000
 120,000
-6/24/2021 6/24/2022 6/24/2023 6/24/2024 6/24/2025
+24/06/2021 24/06/2022 24/06/2023 24/06/2024 24/06/2025
 1100 Teu 2500 Teu 4250 Teu
 
 ### Page 127
@@ -9697,7 +9696,6 @@ Nguồn: Bloomberg, KBSV
 70,000
 80,000
 90,000
-6/2/2025 9/2/2025 12/2/2025 3/2/2026
 (VND)
 Giá (LHS) Tương quan Vnindex (RHS)
 (%)
@@ -9804,7 +9802,6 @@ Nguồn: Bloomberg, KBSV
 50,000
 60,000
 70,000
-6/9/2025 9/9/2025 12/9/2025 3/9/2026
 (VND)
 Giá (LHS) Tương quan Vnindex (RHS)
 (%)
@@ -10366,7 +10363,7 @@ Nguồn: KBSV tổng hợp
 8
 9
 10
-1/1/2026 2/1/2026 3/1/2026 4/1/2026 5/1/2026
+01/01/2026 01/02/2026 01/03/2026 01/04/2026 01/05/2026
 FDI đăng ký Tăng trưởng yoy
 0
 5,000
