@@ -3,7 +3,7 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 055: 2233宇隆 宏遠
+## Document 052: 2233宇隆 宏遠
 
 Source PDF: all report pdf/2233宇隆 宏遠.pdf
 Report source: line報告備份
@@ -444,7 +444,7 @@ C+
 2024 2025 2026
 
 ---
-## Document 064: 2603長榮 宏遠
+## Document 061: 2603長榮 宏遠
 
 Source PDF: all report pdf/2603長榮 宏遠.pdf
 Report source: line報告備份
@@ -1090,7 +1090,7 @@ AAA
 2023 2024 2025
 
 ---
-## Document 066: 260630_citi_flexium
+## Document 063: 260630_citi_flexium
 
 Source PDF: all report pdf/260630_citi_flexium.pdf
 Report source: line報告備份
@@ -1837,7 +1837,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 =
 
 ---
-## Document 070: 260630_ms_testing-interface
+## Document 067: 260630_ms_testing-interface
 
 Source PDF: all report pdf/260630_ms_testing-interface.pdf
 Report source: line報告備份
@@ -2281,7 +2281,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 074: 260630_nmr_EMC
+## Document 071: 260630_nmr_EMC
 
 Source PDF: all report pdf/260630_nmr_EMC.pdf
 Report source: line報告備份
@@ -2859,7 +2859,7 @@ Nomura | Elite Material 30 June 2026
 10
 
 ---
-## Document 077: 260630_nmr_tuc
+## Document 074: 260630_nmr_tuc
 
 Source PDF: all report pdf/260630_nmr_tuc.pdf
 Report source: line報告備份
@@ -3309,7 +3309,7 @@ Nomura | TUC 30 June 2026
 8
 
 ---
-## Document 090: 260702_ms_nand-industry
+## Document 087: 260702_ms_nand-industry
 
 Source PDF: all report pdf/260702_ms_nand-industry.pdf
 Report source: line報告備份
@@ -5406,7 +5406,7 @@ Morgan Stanley Research 39
 © 2026 Morgan Stanley
 
 ---
-## Document 091: 260703_citi_TSMC
+## Document 088: 260703_citi_TSMC
 
 Source PDF: all report pdf/260703_citi_TSMC.pdf
 Report source: line報告備份
@@ -6226,7 +6226,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 092: 260703_daiwa_Bizlink
+## Document 089: 260703_daiwa_Bizlink
 
 Source PDF: all report pdf/260703_daiwa_Bizlink.pdf
 Report source: line報告備份
@@ -6396,7 +6396,7 @@ regarding the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 093: 260703_daiwa_EMC
+## Document 090: 260703_daiwa_EMC
 
 Source PDF: all report pdf/260703_daiwa_EMC.pdf
 Report source: line報告備份
@@ -6653,7 +6653,7 @@ regarding the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 095: 260703_gs_TSMC
+## Document 092: 260703_gs_TSMC
 
 Source PDF: all report pdf/260703_gs_TSMC.pdf
 Report source: line報告備份
@@ -7617,7 +7617,7 @@ Goldman Sachs TSMC (2330.TW)For the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 106: 260706_daiwa_microloops 6831
+## Document 103: 260706_daiwa_microloops 6831
 
 Source PDF: all report pdf/260706_daiwa_microloops 6831.pdf
 Report source: line報告備份
@@ -7820,7 +7820,7 @@ regarding the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 111: 260706_gs_HH
+## Document 108: 260706_gs_HH
 
 Source PDF: all report pdf/260706_gs_HH.pdf
 Report source: line報告備份
@@ -8260,7 +8260,7 @@ Goldman Sachs Hon Hai (2317.TW)For the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 118: 260706_ms_chroma
+## Document 115: 260706_ms_chroma
 
 Source PDF: all report pdf/260706_ms_chroma.pdf
 Report source: line報告備份
@@ -8748,7 +8748,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 119: 260706_ms_PC-semis
+## Document 116: 260706_ms_PC-semis
 
 Source PDF: all report pdf/260706_ms_PC-semis.pdf
 Report source: line報告備份
@@ -9674,7 +9674,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 122: 260706_yt_server
+## Document 119: 260706_yt_server
 
 Source PDF: all report pdf/260706_yt_server.pdf
 Report source: line報告備份
@@ -9909,7 +9909,7 @@ Meta Others Total ASIC YoY
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 130: 260707_ML_GWC-ememory-wimicro
+## Document 127: 260707_ML_GWC-ememory-wimicro
 
 Source PDF: all report pdf/260707_ML_GWC-ememory-wimicro.pdf
 Report source: line報告備份
@@ -10404,7 +10404,7 @@ Neither BofA Securities nor any officer or employee of BofA Securities accepts a
 information.
 
 ---
-## Document 132: 260707_ms_chenbro
+## Document 129: 260707_ms_chenbro
 
 Source PDF: all report pdf/260707_ms_chenbro.pdf
 Report source: line報告備份
@@ -10927,7 +10927,7 @@ Update
 © 2026 Morgan Stanley
 
 ---
-## Document 149: 3189景碩20260630-元富投顧(台新新光金控)報告
+## Document 146: 3189景碩20260630-元富投顧(台新新光金控)報告
 
 Source PDF: all report pdf/3189景碩20260630-元富投顧(台新新光金控)報告.pdf
 Report source: line報告備份
@@ -11361,7 +11361,7 @@ Operating 8.0 14.7 16.9 18.0 ROA -0.5 0.1 2.0 7.8
 Net 4.9 10.6 13.2 14.8 ROE -1.0 0.1 3.9 15.8
 
 ---
-## Document 152: 3526凡甲 國票
+## Document 149: 3526凡甲 國票
 
 Source PDF: all report pdf/3526凡甲 國票.pdf
 Report source: line報告備份
@@ -11780,7 +11780,7 @@ $500
 • 國票可能與該公司進行業務而處於緘默期
 
 ---
-## Document 154: 3563牧德 宏遠
+## Document 151: 3563牧德 宏遠
 
 Source PDF: all report pdf/3563牧德 宏遠.pdf
 Report source: line報告備份
@@ -12261,7 +12261,7 @@ A
 2024 2025 2026
 
 ---
-## Document 156: 3661世芯 群益
+## Document 153: 3661世芯 群益
 
 Source PDF: all report pdf/3661世芯 群益.pdf
 Report source: line報告備份
@@ -12528,7 +12528,7 @@ YoY(%)
 情形。
 
 ---
-## Document 160: 4912聯德 元富
+## Document 156: 4912聯德 元富
 
 Source PDF: all report pdf/4912聯德 元富.pdf
 Report source: line報告備份
@@ -12775,7 +12775,7 @@ Operating 5.5 7.0 9.0 9.0 ROA 3.63 5.47 1.60 4.68
 Net 5.1 4.9 6.4 6.4 ROE 7.96 11.56 3.58 11.06
 
 ---
-## Document 161: 5288豐祥 康和
+## Document 157: 5288豐祥 康和
 
 Source PDF: all report pdf/5288豐祥 康和.pdf
 Report source: line報告備份
@@ -13114,7 +13114,7 @@ Q1 Q2 Q3 Q4
 投 資 結 果 自 行 負 責。
 
 ---
-## Document 162: 5306桂盟 宏遠
+## Document 158: 5306桂盟 宏遠
 
 Source PDF: all report pdf/5306桂盟 宏遠.pdf
 Report source: line報告備份
@@ -13646,11 +13646,11 @@ B+
 2024 2025 2026
 
 ---
-## Document 164: 5388中磊 富邦
+## Document 160: 5388中磊 富邦
 
 Source PDF: all report pdf/5388中磊 富邦.pdf
 Report source: line報告備份
-Date: 2026-07-09
+Date: 2026-07-08
 Pages: 7
 Extraction status: ok
 
@@ -14027,7 +14027,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 170: 6446藥華藥 元富
+## Document 165: 6446藥華藥 元富
 
 Source PDF: all report pdf/6446藥華藥 元富.pdf
 Report source: line報告備份
@@ -14287,11 +14287,11 @@ Operating 40.8 42.3 45.2 44.7 ROA 10.17 14.74 25.98 30.77
 Net 42.0 38.1 40.7 40.2 ROE 11.54 16.97 29.83 34.50
 
 ---
-## Document 171: 6446藥華藥 永豐
+## Document 166: 6446藥華藥 永豐
 
 Source PDF: all report pdf/6446藥華藥 永豐.pdf
 Report source: line報告備份
-Date: 2026-07-09
+Date: 2026-07-08
 Pages: 8
 Extraction status: ok
 
@@ -14613,7 +14613,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 8
 
 ---
-## Document 184: 7750新代 元大
+## Document 180: 7750新代 元大
 
 Source PDF: all report pdf/7750新代 元大.pdf
 Report source: line報告備份
@@ -15524,7 +15524,7 @@ CNC 控制器 各類金屬切削、車銑複合、五軸加工等高精度設備
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 227: Apple(AAPL,DG,OW_調降評等,增加持股)-CTBC260708
+## Document 223: Apple(AAPL,DG,OW_調降評等,增加持股)-CTBC260708
 
 Source PDF: all report pdf/Apple(AAPL,DG,OW_調降評等,增加持股)-CTBC260708.pdf
 Report source: line報告備份
@@ -15641,7 +15641,7 @@ PBR Band
 未評等 Not Rated (NR)
 
 ---
-## Document 228: Asia AI Semi & Server(1)
+## Document 224: Asia AI Semi & Server(1)
 
 Source PDF: all report pdf/Asia AI Semi & Server(1).pdf
 Report source: line報告備份
@@ -22768,7 +22768,7 @@ Tel: +81 3 5255 1658 Fax: +81 3 5255 1747, 3272 0869
 Caring for the environment: to receive only the electronic versions of our research, please contact your sales representative .
 
 ---
-## Document 492: 元大-2059-川湖-20260707
+## Document 493: 元大-2059-川湖-20260707
 
 Source PDF: all report pdf/元大-2059-川湖-20260707.pdf
 Report source: line報告備份
@@ -23452,7 +23452,7 @@ ESG 總分 22.2
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 494: 光頡(3624,B_買進)-CTBC260630
+## Document 497: 光頡(3624,B_買進)-CTBC260630
 
 Source PDF: all report pdf/光頡(3624,B_買進)-CTBC260630.pdf
 Report source: line報告備份
@@ -23758,7 +23758,7 @@ ESG 資訊-公司治理(Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 505: 凱基投顧_2H26台股投資展望_20260630
+## Document 507: 凱基投顧_2H26台股投資展望_20260630
 
 Source PDF: all report pdf/凱基投顧_2H26台股投資展望_20260630.pdf
 Report source: line報告備份
@@ -24936,7 +24936,7 @@ Mar-17 Mar-18 Mar-19 Mar-20 Mar-21 Mar-22 Mar-23 Mar-24 Mar-25 Mar-26
 THANK YOU
 
 ---
-## Document 522: 功率半導體 國票
+## Document 524: 功率半導體 國票
 
 Source PDF: all report pdf/功率半導體 國票.pdf
 Report source: line報告備份
@@ -25073,7 +25073,7 @@ SiC是800V HVDC架構的關鍵元件，驅動電動車與資料中心效能全�
 資結果自行負責。以上報告內容之著作權屬國票投顧所有，非經本公司同意，禁止任何形式之抄襲、引用或轉載。
 
 ---
-## Document 523: 功率半導體 群益
+## Document 525: 功率半導體 群益
 
 Source PDF: all report pdf/功率半導體 群益.pdf
 Report source: line報告備份
@@ -25195,7 +25195,7 @@ PER= 股價 /2026 (F) EPS ； PBR= 股價 /2026 (F) 年 底 預 估 每 股 淨 
 情形。
 
 ---
-## Document 533: 南茂(8150,B_買進)-CTBC260703
+## Document 535: 南茂(8150,B_買進)-CTBC260703
 
 Source PDF: all report pdf/南茂(8150,B_買進)-CTBC260703.pdf
 Report source: line報告備份
@@ -25565,7 +25565,7 @@ ESG 資訊 -公 司 治 理 (Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 558: 天风证券_非金属新材料行业MLCC专题研究之二：全球龙头公司梳理，高端MLCC竞争格局清晰_260703
+## Document 553: 天风证券_非金属新材料行业MLCC专题研究之二：全球龙头公司梳理，高端MLCC竞争格局清晰_260703
 
 Source PDF: all report pdf/天风证券_非金属新材料行业MLCC专题研究之二：全球龙头公司梳理，高端MLCC竞争格局清晰_260703.pdf
 Report source: line報告備份
@@ -27085,7 +27085,7 @@ Vibrantz 业务主要包括先进材料、色彩解决方案和功能涂层三�
 天风 证券研究
 
 ---
-## Document 707: 群益-4749-2604新應材
+## Document 685: 群益-4749-2604新應材
 
 Source PDF: all report pdf/群益-4749-2604新應材.pdf
 Report source: line報告備份
@@ -27425,7 +27425,7 @@ YoY(%)
 情形。
 
 ---
-## Document 728: 華南投顧-4551-智伸科-1150706
+## Document 707: 華南投顧-4551-智伸科-1150706
 
 Source PDF: all report pdf/華南投顧-4551-智伸科-1150706.pdf
 Report source: line報告備份
