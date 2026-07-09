@@ -3,11 +3,11 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 008: 1477聚陽 永豐
+## Document 009: 1477聚陽 永豐
 
 Source PDF: all report pdf/1477聚陽 永豐.pdf
 Report source: line報告備份
-Date: 2026-07-08
+Date: 2026-07-07
 Pages: 8
 Extraction status: ok
 
@@ -321,7 +321,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 8
 
 ---
-## Document 009: 1569濱川20260630-元富投顧(台新新光金控)報告
+## Document 010: 1569濱川20260630-元富投顧(台新新光金控)報告
 
 Source PDF: all report pdf/1569濱川20260630-元富投顧(台新新光金控)報告.pdf
 Report source: line報告備份
@@ -545,7 +545,7 @@ Operating -9.6 -2.3 10.5 17.9 ROA -1.69 -4.84 -11.06 3.02
 Net -12.6 0.2 10.2 15.9 ROE -3.32 -9.91 -24.20 6.90
 
 ---
-## Document 022: 202607福邦 PCB
+## Document 021: 202607福邦 PCB
 
 Source PDF: all report pdf/202607福邦 PCB.pdf
 Report source: line報告備份
@@ -1746,7 +1746,7 @@ Q&A
 不一致或相抵觸為由，主張本公司或本集團其他成員有侵害讀者權益之情事。
 
 ---
-## Document 058: 2327國巨 兆豐
+## Document 056: 2327國巨 兆豐
 
 Source PDF: all report pdf/2327國巨 兆豐.pdf
 Report source: line報告備份
@@ -2213,11 +2213,11 @@ B
 交易所公司治理評鑑
 
 ---
-## Document 059: 2327國巨 宏遠
+## Document 057: 2327國巨 宏遠
 
 Source PDF: all report pdf/2327國巨 宏遠.pdf
 Report source: line報告備份
-Date: 2026-07-08
+Date: 2026-07-07
 Pages: 11
 Extraction status: ok
 
@@ -2846,7 +2846,7 @@ B
 2024 2025 2026
 
 ---
-## Document 061: 2359所羅門 群益
+## Document 059: 2359所羅門 群益
 
 Source PDF: all report pdf/2359所羅門 群益.pdf
 Report source: line報告備份
@@ -3074,7 +3074,7 @@ YoY(%)
 情形。
 
 ---
-## Document 062: 2404漢唐 群益
+## Document 060: 2404漢唐 群益
 
 Source PDF: all report pdf/2404漢唐 群益.pdf
 Report source: line報告備份
@@ -3354,7 +3354,7 @@ YoY(%)
 情形。
 
 ---
-## Document 078: 260630_kgi_GWC-resume-buy
+## Document 068: 260630_kgi_GWC-resume-buy
 
 Source PDF: all report pdf/260630_kgi_GWC-resume-buy.pdf
 Report source: line報告備份
@@ -4630,7 +4630,7 @@ Recommendations & Target Price
 2023-08-01 持有 524 512
 
 ---
-## Document 080: 260630_nmr_ASE
+## Document 070: 260630_nmr_ASE
 
 Source PDF: all report pdf/260630_nmr_ASE.pdf
 Report source: line報告備份
@@ -5158,7 +5158,7 @@ Nomura | ASE Technology Holding 30 June 2026
 11
 
 ---
-## Document 082: 260630_nmr_ASPEED
+## Document 072: 260630_nmr_ASPEED
 
 Source PDF: all report pdf/260630_nmr_ASPEED.pdf
 Report source: line報告備份
@@ -5794,7 +5794,7 @@ Nomura | ASPEED Technology 30 June 2026
 14
 
 ---
-## Document 084: 260630_nmr_kyec
+## Document 074: 260630_nmr_kyec
 
 Source PDF: all report pdf/260630_nmr_kyec.pdf
 Report source: line報告備份
@@ -6251,7 +6251,7 @@ Nomura | King Yuan Electronics Corp 30 June 2026
 9
 
 ---
-## Document 095: 260702_citi_airtac
+## Document 085: 260702_citi_airtac
 
 Source PDF: all report pdf/260702_citi_airtac.pdf
 Report source: line報告備份
@@ -6746,7 +6746,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 097: 260702_gs_TSMC
+## Document 087: 260702_gs_TSMC
 
 Source PDF: all report pdf/260702_gs_TSMC.pdf
 Report source: line報告備份
@@ -7699,7 +7699,7 @@ such system.
 Goldman Sachs TSMC (2330.TW)
 
 ---
-## Document 104: 260703_gs_TSMC
+## Document 094: 260703_gs_TSMC
 
 Source PDF: all report pdf/260703_gs_TSMC.pdf
 Report source: line報告備份
@@ -8663,7 +8663,7 @@ Goldman Sachs TSMC (2330.TW)For the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 113: 260706_daiwa_guc
+## Document 103: 260706_daiwa_guc
 
 Source PDF: all report pdf/260706_daiwa_guc.pdf
 Report source: line報告備份
@@ -8940,7 +8940,7 @@ regarding the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 119: 260706_gs_FOCI-buy-initiation
+## Document 109: 260706_gs_FOCI-buy-initiation
 
 Source PDF: all report pdf/260706_gs_FOCI-buy-initiation.pdf
 Report source: line報告備份
@@ -10003,7 +10003,7 @@ Goldman Sachs FOCI (3363.TWO)For the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 120: 260706_gs_HH
+## Document 110: 260706_gs_HH
 
 Source PDF: all report pdf/260706_gs_HH.pdf
 Report source: line報告備份
@@ -10443,7 +10443,7 @@ Goldman Sachs Hon Hai (2317.TW)For the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 123: 260706_ms_1h-jul-panel-px Glass core BOE
+## Document 113: 260706_ms_1h-jul-panel-px Glass core BOE
 
 Source PDF: all report pdf/260706_ms_1h-jul-panel-px Glass core BOE.pdf
 Report source: line報告備份
@@ -11600,7 +11600,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 138: 260707_ML_kyber-delay
+## Document 128: 260707_ML_kyber-delay
 
 Source PDF: all report pdf/260707_ML_kyber-delay.pdf
 Report source: line報告備份
@@ -12120,7 +12120,7 @@ Neither BofA Securities nor any officer or employee of BofA Securities accepts a
 information.
 
 ---
-## Document 147: 3357台慶科 兆豐
+## Document 136: 3357台慶科 兆豐
 
 Source PDF: all report pdf/3357台慶科 兆豐.pdf
 Report source: line報告備份
@@ -12627,7 +12627,7 @@ B+
 交易所公司治理評鑑
 
 ---
-## Document 148: 3376新日興 群益
+## Document 137: 3376新日興 群益
 
 Source PDF: all report pdf/3376新日興 群益.pdf
 Report source: line報告備份
@@ -12924,7 +12924,7 @@ YoY(%)
 情形。
 
 ---
-## Document 153: 3661世芯 群益
+## Document 142: 3661世芯 群益
 
 Source PDF: all report pdf/3661世芯 群益.pdf
 Report source: line報告備份
@@ -13191,11 +13191,11 @@ YoY(%)
 情形。
 
 ---
-## Document 170: 6279胡連 永豐
+## Document 153: 6279胡連 永豐
 
 Source PDF: all report pdf/6279胡連 永豐.pdf
 Report source: line報告備份
-Date: 2026-07-08
+Date: 2026-07-07
 Pages: 7
 Extraction status: ok
 
@@ -13519,7 +13519,7 @@ S：Sell 賣出：未來 6 個月該股票表現將落後大盤
 7
 
 ---
-## Document 177: 6491晶碩 群益
+## Document 158: 6491晶碩 群益
 
 Source PDF: all report pdf/6491晶碩 群益.pdf
 Report source: line報告備份
@@ -13834,7 +13834,7 @@ YoY(%)
 情形。
 
 ---
-## Document 233: Asia AI Semi _ Server
+## Document 209: Asia AI Semi _ Server
 
 Source PDF: all report pdf/Asia AI Semi _ Server.pdf
 Report source: line報告備份
@@ -20961,7 +20961,7 @@ Tel: +81 3 5255 1658 Fax: +81 3 5255 1747, 3272 0869
 Caring for the environment: to receive only the electronic versions of our research, please contact your sales representative .
 
 ---
-## Document 433: 【國泰證期研究部】日月光投控(3711 TT)-初次評等買進(+29.0%)-前景似錦，基業長青-20260708
+## Document 388: 【國泰證期研究部】日月光投控(3711 TT)-初次評等買進(+29.0%)-前景似錦，基業長青-20260708
 
 Source PDF: all report pdf/【國泰證期研究部】日月光投控(3711 TT)-初次評等買進(+29.0%)-前景似錦，基業長青-20260708.pdf
 Report source: line報告備份
@@ -21491,7 +21491,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 514: 元大-1476-儒鴻-20260706
+## Document 471: 元大-1476-儒鴻-20260706
 
 Source PDF: all report pdf/元大-1476-儒鴻-20260706.pdf
 Report source: line報告備份
@@ -22094,7 +22094,7 @@ ESG 總分 17.8
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 515: 元大-2059-川湖-20260707
+## Document 472: 元大-2059-川湖-20260707
 
 Source PDF: all report pdf/元大-2059-川湖-20260707.pdf
 Report source: line報告備份
@@ -22778,7 +22778,7 @@ ESG 總分 22.2
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 540: 凱基投顧_Takeaway_5306 桂盟_莊政翰_20260706
+## Document 491: 凱基投顧_Takeaway_5306 桂盟_莊政翰_20260706
 
 Source PDF: all report pdf/凱基投顧_Takeaway_5306 桂盟_莊政翰_20260706.pdf
 Report source: line報告備份
@@ -22936,7 +22936,7 @@ eden.chang@kgi.com
 七月 06, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 4
 
 ---
-## Document 588: 大江(8436,N_中立)-CTBC260701
+## Document 532: 大江(8436,N_中立)-CTBC260701
 
 Source PDF: all report pdf/大江(8436,N_中立)-CTBC260701.pdf
 Report source: line報告備份
@@ -23167,7 +23167,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 616: 富邦-8436-大江-20260630
+## Document 563: 富邦-8436-大江-20260630
 
 Source PDF: all report pdf/富邦-8436-大江-20260630.pdf
 Report source: line報告備份
@@ -23567,7 +23567,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 617: 富邦-軍工產業-20260706
+## Document 564: 富邦-軍工產業-20260706
 
 Source PDF: all report pdf/富邦-軍工產業-20260706.pdf
 Report source: line報告備份
@@ -23710,7 +23710,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 619: 崇越(5434,OW_增加持股)-CTBC260706
+## Document 565: 崇越(5434,OW_增加持股)-CTBC260706
 
 Source PDF: all report pdf/崇越(5434,OW_增加持股)-CTBC260706.pdf
 Report source: line報告備份
@@ -24021,7 +24021,7 @@ ESG 資訊 -公 司 治 理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 661: 欣銓(3264,B_買進)-CTBC260630
+## Document 611: 欣銓(3264,B_買進)-CTBC260630
 
 Source PDF: all report pdf/欣銓(3264,B_買進)-CTBC260630.pdf
 Report source: line報告備份
@@ -24309,7 +24309,7 @@ ESG 資訊 - 公司治理 (Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 691: 福邦-8436-大江-20260630
+## Document 641: 福邦-8436-大江-20260630
 
 Source PDF: all report pdf/福邦-8436-大江-20260630.pdf
 Report source: line報告備份
@@ -24579,7 +24579,7 @@ G r a n d  F o r t u n e  S e c u r i t i e s                                   
 本報告係就內部參考用，純屬參考性質，並不具備任何法律效果，其正確性不做任何承諾或保證。
 
 ---
-## Document 726: 群益-2385-2603群光
+## Document 682: 群益-2385-2603群光
 
 Source PDF: all report pdf/群益-2385-2603群光.pdf
 Report source: line報告備份
@@ -24814,11 +24814,11 @@ YoY(%)
 情形。
 
 ---
-## Document 730: 群益-4749-2604新應材
+## Document 686: 群益-4749-2604新應材
 
 Source PDF: all report pdf/群益-4749-2604新應材.pdf
 Report source: line報告備份
-Date: 2026-07-08
+Date: 2026-07-07
 Pages: 7
 Extraction status: ok
 
@@ -25154,11 +25154,11 @@ YoY(%)
 情形。
 
 ---
-## Document 734: 群益-8996-2607高力
+## Document 690: 群益-8996-2607高力
 
 Source PDF: all report pdf/群益-8996-2607高力.pdf
 Report source: line報告備份
-Date: 2026-07-08
+Date: 2026-07-07
 Pages: 6
 Extraction status: ok
 
@@ -25429,7 +25429,7 @@ YoY(%)
 情形。
 
 ---
-## Document 735: 群益-美股TE Connectivity (TEL-US)-07062026
+## Document 691: 群益-美股TE Connectivity (TEL-US)-07062026
 
 Source PDF: all report pdf/群益-美股TE Connectivity (TEL-US)-07062026.pdf
 Report source: line報告備份
@@ -25566,7 +25566,7 @@ FY3Q25 FY4Q25 FY1Q26 FY2Q26
 中立(Neutral)
 
 ---
-## Document 774: 鈞興-KY(4571,B_買進)-CTBC260707
+## Document 726: 鈞興-KY(4571,B_買進)-CTBC260707
 
 Source PDF: all report pdf/鈞興-KY(4571,B_買進)-CTBC260707.pdf
 Report source: line報告備份

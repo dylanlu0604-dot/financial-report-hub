@@ -3,7 +3,7 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 001: 114年財政統計年報電子書上線(實體書刊預計7月上旬出版) (2026-06-26)
+## Document 002: 114年財政統計年報電子書上線(實體書刊預計7月上旬出版) (2026-06-26)
 
 Source PDF: all report pdf/114年財政統計年報電子書上線(實體書刊預計7月上旬出版) (2026-06-26).pdf
 Report source: MOF
