@@ -3,7 +3,7 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 054: 2233宇隆 玉山
+## Document 053: 2233宇隆 玉山
 
 Source PDF: all report pdf/2233宇隆 玉山.pdf
 Report source: line報告備份
@@ -324,7 +324,7 @@ Harmonic
 未評等：無。
 
 ---
-## Document 057: 2344華邦電 群益
+## Document 056: 2344華邦電 群益
 
 Source PDF: all report pdf/2344華邦電 群益.pdf
 Report source: line報告備份
@@ -597,7 +597,7 @@ YoY(%)
 情形。
 
 ---
-## Document 058: 2359所羅門 群益
+## Document 057: 2359所羅門 群益
 
 Source PDF: all report pdf/2359所羅門 群益.pdf
 Report source: line報告備份
@@ -825,7 +825,7 @@ YoY(%)
 情形。
 
 ---
-## Document 061: 2408南亞科 群益
+## Document 060: 2408南亞科 群益
 
 Source PDF: all report pdf/2408南亞科 群益.pdf
 Report source: line報告備份
@@ -1091,7 +1091,7 @@ YoY(%)
 情形。
 
 ---
-## Document 066: 260630_gs_largan
+## Document 065: 260630_gs_largan
 
 Source PDF: all report pdf/260630_gs_largan.pdf
 Report source: line報告備份
@@ -2076,7 +2076,7 @@ Goldman Sachs Largan (3008.TW)
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 069: 260630_nmr_ASE
+## Document 068: 260630_nmr_ASE
 
 Source PDF: all report pdf/260630_nmr_ASE.pdf
 Report source: line報告備份
@@ -2604,7 +2604,7 @@ Nomura | ASE Technology Holding 30 June 2026
 11
 
 ---
-## Document 074: 260630_nmr_mtk
+## Document 073: 260630_nmr_mtk
 
 Source PDF: all report pdf/260630_nmr_mtk.pdf
 Report source: line報告備份
@@ -3134,7 +3134,7 @@ viruses. The sender therefore does not accept liability (in negligence or otherw
 contents of this document, which may arise as a result of electronic transmission. If verification is required, please request a hard-copy version.
 
 ---
-## Document 080: 260701_jp_MTK
+## Document 079: 260701_jp_MTK
 
 Source PDF: all report pdf/260701_jp_MTK.pdf
 Report source: line報告備份
@@ -3667,7 +3667,7 @@ Completed 01 Jul 2026 10:08 PM HKT Disseminated 01 Jul 2026 10:09 PM HKT
 {[{fo5ybQJe-th_meqqFJRXUCKnY0STkWYCMMyNV4aWjTFiM4zjgPu-NANmZFmbWzbq00PL2DYvIVTyqc3eF93QoHuaB5Ruuw}]}
 
 ---
-## Document 081: 260701_nmr_yageo
+## Document 080: 260701_nmr_yageo
 
 Source PDF: all report pdf/260701_nmr_yageo.pdf
 Report source: line報告備份
@@ -4111,7 +4111,7 @@ Nomura | YAGEO Corporation 1 July 2026
 9
 
 ---
-## Document 100: 260706_citi_winway
+## Document 099: 260706_citi_winway
 
 Source PDF: all report pdf/260706_citi_winway.pdf
 Report source: line報告備份
@@ -4612,7 +4612,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 101: 260706_daiwa_Bizlink
+## Document 100: 260706_daiwa_Bizlink
 
 Source PDF: all report pdf/260706_daiwa_Bizlink.pdf
 Report source: line報告備份
@@ -4828,7 +4828,7 @@ regarding the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 102: 260706_daiwa_guc
+## Document 101: 260706_daiwa_guc
 
 Source PDF: all report pdf/260706_daiwa_guc.pdf
 Report source: line報告備份
@@ -5105,7 +5105,7 @@ regarding the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 105: 260706_daiwa_Nanya Technology
+## Document 104: 260706_daiwa_Nanya Technology
 
 Source PDF: all report pdf/260706_daiwa_Nanya Technology.pdf
 Report source: line報告備份
@@ -5593,7 +5593,7 @@ the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 106: 260706_gs_automation
+## Document 105: 260706_gs_automation
 
 Source PDF: all report pdf/260706_gs_automation.pdf
 Report source: line報告備份
@@ -6001,7 +6001,7 @@ Goldman Sachs Asia Pacific Machinery: AutomationFor the exclusive use of KEVINLU
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 112: 260706_ms_1h-jul-panel-px Glass core BOE
+## Document 111: 260706_ms_1h-jul-panel-px Glass core BOE
 
 Source PDF: all report pdf/260706_ms_1h-jul-panel-px Glass core BOE.pdf
 Report source: line報告備份
@@ -7158,7 +7158,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 115: 260706_ms_bizlink
+## Document 114: 260706_ms_bizlink
 
 Source PDF: all report pdf/260706_ms_bizlink.pdf
 Report source: line報告備份
@@ -7685,7 +7685,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 121: 260707_citi_avc
+## Document 120: 260707_citi_avc
 
 Source PDF: all report pdf/260707_citi_avc.pdf
 Report source: line報告備份
@@ -8185,7 +8185,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 124: 260707_daiwa_AURAS
+## Document 123: 260707_daiwa_AURAS
 
 Source PDF: all report pdf/260707_daiwa_AURAS.pdf
 Report source: line報告備份
@@ -8382,7 +8382,7 @@ regarding the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 125: 260707_daiwa_Fositek
+## Document 124: 260707_daiwa_Fositek
 
 Source PDF: all report pdf/260707_daiwa_Fositek.pdf
 Report source: line報告備份
@@ -8579,7 +8579,7 @@ regarding the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 126: 260707_jp_apmemory
+## Document 125: 260707_jp_apmemory
 
 Source PDF: all report pdf/260707_jp_apmemory.pdf
 Report source: line報告備份
@@ -9387,7 +9387,7 @@ This document is being provided for the exclusive use of Mandy Lin at Franklin T
 {[{Kccbhcsi2hx_Vx7Ywh4D3YsN38QcQnyf2s9uORf8VI9KcNdr9hGOq3qIm0c9mfnd8HjrP38gb34z-Lp5veM03hMi1ocv4A}]}
 
 ---
-## Document 132: 260707_ubs_kinsus
+## Document 131: 260707_ubs_kinsus
 
 Source PDF: all report pdf/260707_ubs_kinsus.pdf
 Report source: line報告備份
@@ -10612,7 +10612,7 @@ name, e-mail address) until you notify us that you no longer wish to receive the
 ab
 
 ---
-## Document 134: 260708_citi_yageo
+## Document 133: 260708_citi_yageo
 
 Source PDF: all report pdf/260708_citi_yageo.pdf
 Report source: line報告備份
@@ -11136,7 +11136,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 139: 2609陽明 宏遠
+## Document 138: 2609陽明 宏遠
 
 Source PDF: all report pdf/2609陽明 宏遠.pdf
 Report source: line報告備份
@@ -11697,7 +11697,7 @@ AAAAA
 2024 2025 2026
 
 ---
-## Document 171: 6491晶碩 永豐
+## Document 170: 6491晶碩 永豐
 
 Source PDF: all report pdf/6491晶碩 永豐.pdf
 Report source: line報告備份
@@ -11989,7 +11989,7 @@ S：Sell 賣出：未來 6 個月該股票表現將落後大盤
 7
 
 ---
-## Document 173: 6643M31 永豐
+## Document 172: 6643M31 永豐
 
 Source PDF: all report pdf/6643M31 永豐.pdf
 Report source: line報告備份
@@ -12338,7 +12338,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 9
 
 ---
-## Document 215: Advantest (6857,B_買進)-CTBC260709
+## Document 213: Advantest (6857,B_買進)-CTBC260709
 
 Source PDF: all report pdf/Advantest (6857,B_買進)-CTBC260709.pdf
 Report source: line報告備份
@@ -12615,7 +12615,7 @@ PER Band                   PBR Band
 營業執照字號：114金管投顧新字第 014號
 
 ---
-## Document 350: Nike(NKE,OW_增加持股)-CTBC260708
+## Document 340: Nike(NKE,OW_增加持股)-CTBC260708
 
 Source PDF: all report pdf/Nike(NKE,OW_增加持股)-CTBC260708.pdf
 Report source: line報告備份
@@ -12870,7 +12870,7 @@ PER Band                                  PBR Band
 未評等 Not Rated (NR)
 
 ---
-## Document 351: Nomura
+## Document 341: Nomura
 
 Source PDF: all report pdf/Nomura.pdf
 Report source: line報告備份
@@ -19997,7 +19997,7 @@ Tel: +81 3 5255 1658 Fax: +81 3 5255 1747, 3272 0869
 Caring for the environment: to receive only the electronic versions of our research, please contact your sales representative .
 
 ---
-## Document 353: Nvidia’s CCL Supply Chain Shake Up – SemiAnalysis
+## Document 343: Nvidia’s CCL Supply Chain Shake Up – SemiAnalysis
 
 Source PDF: all report pdf/Nvidia’s CCL Supply Chain Shake Up – SemiAnalysis.pdf
 Report source: line報告備份
@@ -20179,7 +20179,7 @@ Report.
 https://semianalysis.com/institutional/nvidias-ccl-supply-chain-shake-up/?access_token=eyJhbGciOiJFUzI1NiIsImtpZCI6InNlbWlhbmFseXNpcy5wYXNzcG9… 6/6
 
 ---
-## Document 406: Walmart(WMT,OW_增加持股)-CTBC260702
+## Document 390: Walmart(WMT,OW_增加持股)-CTBC260702
 
 Source PDF: all report pdf/Walmart(WMT,OW_增加持股)-CTBC260702.pdf
 Report source: line報告備份
@@ -20316,7 +20316,7 @@ PER Band                                  PBR Band
 未評等 Not Rated (NR)
 
 ---
-## Document 427: 【國泰證期研究部】PCB產業-高階光模塊需求強勁，台系PCB業者大幅擴產增加市佔-20260707
+## Document 412: 【國泰證期研究部】PCB產業-高階光模塊需求強勁，台系PCB業者大幅擴產增加市佔-20260707
 
 Source PDF: all report pdf/【國泰證期研究部】PCB產業-高階光模塊需求強勁，台系PCB業者大幅擴產增加市佔-20260707.pdf
 Report source: line報告備份
@@ -20492,7 +20492,7 @@ M9 CCL，儘管公司持續開出產能且進行價格調整策略，整體供�
 投資評等定義
 
 ---
-## Document 511: 元大-1476-儒鴻-20260706
+## Document 497: 元大-1476-儒鴻-20260706
 
 Source PDF: all report pdf/元大-1476-儒鴻-20260706.pdf
 Report source: line報告備份
@@ -21095,7 +21095,7 @@ ESG 總分 17.8
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 533: 凱基投顧_SPCX SpaceX_張燾_20260701
+## Document 519: 凱基投顧_SPCX SpaceX_張燾_20260701
 
 Source PDF: all report pdf/凱基投顧_SPCX SpaceX_張燾_20260701.pdf
 Report source: line報告備份
@@ -21522,7 +21522,7 @@ Space X 是由企業家 Elon Musk 於 2002 年創立 ，主要業務包
 免責聲明
 
 ---
-## Document 575: 天风证券_产业赛道投资图谱：PCB，AI浪潮催生量价质”三重共振_260702
+## Document 562: 天风证券_产业赛道投资图谱：PCB，AI浪潮催生量价质”三重共振_260702
 
 Source PDF: all report pdf/天风证券_产业赛道投资图谱：PCB，AI浪潮催生量价质”三重共振_260702.pdf
 Report source: line報告備份
@@ -22155,7 +22155,7 @@ Prismark 及灼识咨询数据， 全球PCB 专用设备市场规模由 2020 年
 天风 证券研究
 
 ---
-## Document 655: 永悅健康（7835）｜IPO投資研究報告
+## Document 636: 永悅健康（7835）｜IPO投資研究報告
 
 Source PDF: all report pdf/永悅健康（7835）｜IPO投資研究報告.pdf
 Report source: line報告備份
@@ -22581,7 +22581,7 @@ CAGR +7%
 11
 
 ---
-## Document 668: 玉山金(2884,N_中立)-CTBC260701
+## Document 648: 玉山金(2884,N_中立)-CTBC260701
 
 Source PDF: all report pdf/玉山金(2884,N_中立)-CTBC260701.pdf
 Report source: line報告備份
@@ -22856,7 +22856,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 711: 群益-3413-2602京鼎
+## Document 687: 群益-3413-2602京鼎
 
 Source PDF: all report pdf/群益-3413-2602京鼎.pdf
 Report source: line報告備份
@@ -23148,7 +23148,7 @@ YoY(%)
 情形。
 
 ---
-## Document 717: 群益-8103-2605瀚荃
+## Document 693: 群益-8103-2605瀚荃
 
 Source PDF: all report pdf/群益-8103-2605瀚荃.pdf
 Report source: line報告備份
@@ -23452,7 +23452,7 @@ YoY(%)
 情形。
 
 ---
-## Document 719: 群益-美股TE Connectivity (TEL-US)-07062026
+## Document 695: 群益-美股TE Connectivity (TEL-US)-07062026
 
 Source PDF: all report pdf/群益-美股TE Connectivity (TEL-US)-07062026.pdf
 Report source: line報告備份
@@ -23589,7 +23589,7 @@ FY3Q25 FY4Q25 FY1Q26 FY2Q26
 中立(Neutral)
 
 ---
-## Document 755: 鈞興-KY(4571,B_買進)-CTBC260707
+## Document 728: 鈞興-KY(4571,B_買進)-CTBC260707
 
 Source PDF: all report pdf/鈞興-KY(4571,B_買進)-CTBC260707.pdf
 Report source: line報告備份

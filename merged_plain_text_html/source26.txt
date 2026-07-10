@@ -3,7 +3,7 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 007: 1569濱川20260630-元富投顧(台新新光金控)報告
+## Document 006: 1569濱川20260630-元富投顧(台新新光金控)報告
 
 Source PDF: all report pdf/1569濱川20260630-元富投顧(台新新光金控)報告.pdf
 Report source: line報告備份
@@ -227,7 +227,7 @@ Operating -9.6 -2.3 10.5 17.9 ROA -1.69 -4.84 -11.06 3.02
 Net -12.6 0.2 10.2 15.9 ROE -3.32 -9.91 -24.20 6.90
 
 ---
-## Document 052: 2233宇隆 兆豐
+## Document 051: 2233宇隆 兆豐
 
 Source PDF: all report pdf/2233宇隆 兆豐.pdf
 Report source: line報告備份
@@ -739,7 +739,7 @@ C+
 交易所公司治理評鑑
 
 ---
-## Document 055: 2327國巨 兆豐
+## Document 054: 2327國巨 兆豐
 
 Source PDF: all report pdf/2327國巨 兆豐.pdf
 Report source: line報告備份
@@ -1206,7 +1206,7 @@ B
 交易所公司治理評鑑
 
 ---
-## Document 060: 2408南亞科 富邦
+## Document 059: 2408南亞科 富邦
 
 Source PDF: all report pdf/2408南亞科 富邦.pdf
 Report source: line報告備份
@@ -1665,7 +1665,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 065: 260630_daiwa_ Nan Juen
+## Document 064: 260630_daiwa_ Nan Juen
 
 Source PDF: all report pdf/260630_daiwa_ Nan Juen.pdf
 Report source: line報告備份
@@ -2168,7 +2168,7 @@ the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 070: 260630_nmr_Asia-AI-Semi-Server 2330 3711 5274 2454 6488 2449 2883 6274 4958
+## Document 069: 260630_nmr_Asia-AI-Semi-Server 2330 3711 5274 2454 6488 2449 2883 6274 4958
 
 Source PDF: all report pdf/260630_nmr_Asia-AI-Semi-Server 2330 3711 5274 2454 6488 2449 2883 6274 4958.pdf
 Report source: line報告備份
@@ -9295,7 +9295,7 @@ Tel: +81 3 5255 1658 Fax: +81 3 5255 1747, 3272 0869
 Caring for the environment: to receive only the electronic versions of our research, please contact your sales representative .
 
 ---
-## Document 073: 260630_nmr_kyec
+## Document 072: 260630_nmr_kyec
 
 Source PDF: all report pdf/260630_nmr_kyec.pdf
 Report source: line報告備份
@@ -9752,7 +9752,7 @@ Nomura | King Yuan Electronics Corp 30 June 2026
 9
 
 ---
-## Document 077: 260701_daiwa_avc
+## Document 076: 260701_daiwa_avc
 
 Source PDF: all report pdf/260701_daiwa_avc.pdf
 Report source: line報告備份
@@ -9945,7 +9945,7 @@ regarding the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 083: 260701_ubs_cloud-AI
+## Document 082: 260701_ubs_cloud-AI
 
 Source PDF: all report pdf/260701_ubs_cloud-AI.pdf
 Report source: line報告備份
@@ -11369,7 +11369,7 @@ name, e-mail address) until you notify us that you no longer wish to receive the
 ab
 
 ---
-## Document 087: 260702_ms_airtac
+## Document 086: 260702_ms_airtac
 
 Source PDF: all report pdf/260702_ms_airtac.pdf
 Report source: line報告備份
@@ -11862,7 +11862,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 094: 260705_gs_yageo
+## Document 093: 260705_gs_yageo
 
 Source PDF: all report pdf/260705_gs_yageo.pdf
 Report source: line報告備份
@@ -12713,7 +12713,7 @@ Goldman Sachs Yageo Corp. (2327.TW)For the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 095: 260705_ms_accton
+## Document 094: 260705_ms_accton
 
 Source PDF: all report pdf/260705_ms_accton.pdf
 Report source: line報告備份
@@ -13511,7 +13511,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 098: 260706_citi_chroma
+## Document 097: 260706_citi_chroma
 
 Source PDF: all report pdf/260706_citi_chroma.pdf
 Report source: line報告備份
@@ -13995,7 +13995,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 099: 260706_citi_MTK-GUC-alchip
+## Document 098: 260706_citi_MTK-GUC-alchip
 
 Source PDF: all report pdf/260706_citi_MTK-GUC-alchip.pdf
 Report source: line報告備份
@@ -14876,7 +14876,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 103: 260706_daiwa_innodisk
+## Document 102: 260706_daiwa_innodisk
 
 Source PDF: all report pdf/260706_daiwa_innodisk.pdf
 Report source: line報告備份
@@ -15093,7 +15093,7 @@ regarding the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 129: 260707_ML_kyber-delay
+## Document 128: 260707_ML_kyber-delay
 
 Source PDF: all report pdf/260707_ML_kyber-delay.pdf
 Report source: line報告備份
@@ -15613,7 +15613,7 @@ Neither BofA Securities nor any officer or employee of BofA Securities accepts a
 information.
 
 ---
-## Document 133: 260708_citi_hon-precision
+## Document 132: 260708_citi_hon-precision
 
 Source PDF: all report pdf/260708_citi_hon-precision.pdf
 Report source: line報告備份
@@ -16112,7 +16112,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 152: 3526凡甲 康和
+## Document 151: 3526凡甲 康和
 
 Source PDF: all report pdf/3526凡甲 康和.pdf
 Report source: line報告備份
@@ -16410,7 +16410,7 @@ EPS以股本65.9百萬股計算
 投 資 結 果 自 行 負 責 。
 
 ---
-## Document 161: 5371中光電 群益
+## Document 160: 5371中光電 群益
 
 Source PDF: all report pdf/5371中光電 群益.pdf
 Report source: line報告備份
@@ -16645,7 +16645,7 @@ YoY(%)
 情形。
 
 ---
-## Document 172: 6491晶碩 群益
+## Document 171: 6491晶碩 群益
 
 Source PDF: all report pdf/6491晶碩 群益.pdf
 Report source: line報告備份
@@ -16960,7 +16960,7 @@ YoY(%)
 情形。
 
 ---
-## Document 174: 6689伊雲谷 群益
+## Document 173: 6689伊雲谷 群益
 
 Source PDF: all report pdf/6689伊雲谷 群益.pdf
 Report source: line報告備份
@@ -17281,7 +17281,7 @@ YoY(%)
 情形。
 
 ---
-## Document 184: 7769鴻勁 群益
+## Document 183: 7769鴻勁 群益
 
 Source PDF: all report pdf/7769鴻勁 群益.pdf
 Report source: line報告備份
@@ -17419,7 +17419,7 @@ PER= 股價 /2026 (F) EPS ； PBR= 股價 /2026 (F) 年 底 預 估 每 股 淨 
 情形。
 
 ---
-## Document 185: 8422可寧衛 永豐
+## Document 184: 8422可寧衛 永豐
 
 Source PDF: all report pdf/8422可寧衛 永豐.pdf
 Report source: line報告備份
@@ -17792,7 +17792,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 9
 
 ---
-## Document 344: ms_Automation – Read-across from China's June Manufacturing PMI_20260630
+## Document 334: ms_Automation – Read-across from China's June Manufacturing PMI_20260630
 
 Source PDF: all report pdf/ms_Automation – Read-across from China's June Manufacturing PMI_20260630.pdf
 Report source: line報告備份
@@ -18271,7 +18271,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 426: 【國泰證期研究部】2H26半導體測試產業展望-AI算力擴張，測試需求延伸-20260630
+## Document 411: 【國泰證期研究部】2H26半導體測試產業展望-AI算力擴張，測試需求延伸-20260630
 
 Source PDF: all report pdf/【國泰證期研究部】2H26半導體測試產業展望-AI算力擴張，測試需求延伸-20260630.pdf
 Report source: line報告備份
@@ -18432,7 +18432,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 429: 【國泰證期研究部】日月光投控(3711 TT)-初次評等買進(+29.0%)-前景似錦，基業長青-20260708
+## Document 414: 【國泰證期研究部】日月光投控(3711 TT)-初次評等買進(+29.0%)-前景似錦，基業長青-20260708
 
 Source PDF: all report pdf/【國泰證期研究部】日月光投控(3711 TT)-初次評等買進(+29.0%)-前景似錦，基業長青-20260708.pdf
 Report source: line報告備份
@@ -18962,7 +18962,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 431: 【國泰證期研究部】聯詠(3034 TT)-中立(+9.6_)-邊緣AI為亮點，仍待評價面更具吸引力-20260707
+## Document 416: 【國泰證期研究部】聯詠(3034 TT)-中立(+9.6_)-邊緣AI為亮點，仍待評價面更具吸引力-20260707
 
 Source PDF: all report pdf/【國泰證期研究部】聯詠(3034 TT)-中立(+9.6_)-邊緣AI為亮點，仍待評價面更具吸引力-20260707.pdf
 Report source: line報告備份
@@ -19262,7 +19262,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 523: 冠德(2520,UG,OW_增加持股)-CTBC260708
+## Document 509: 冠德(2520,UG,OW_增加持股)-CTBC260708
 
 Source PDF: all report pdf/冠德(2520,UG,OW_增加持股)-CTBC260708.pdf
 Report source: line報告備份
@@ -19555,7 +19555,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 525: 凱基投顧_2408 南亞科_沈漢軒_20260708
+## Document 511: 凱基投顧_2408 南亞科_沈漢軒_20260708
 
 Source PDF: all report pdf/凱基投顧_2408 南亞科_沈漢軒_20260708.pdf
 Report source: line報告備份
@@ -20408,7 +20408,7 @@ Jul-25 Sep-25 Nov-25 Jan-26 Mar-26 May-26
 資料來源：TEJ，凱基
 
 ---
-## Document 528: 凱基投顧_2H26電子硬體產業展望_向子慧_20260701
+## Document 514: 凱基投顧_2H26電子硬體產業展望_向子慧_20260701
 
 Source PDF: all report pdf/凱基投顧_2H26電子硬體產業展望_向子慧_20260701.pdf
 Report source: line報告備份
@@ -21186,7 +21186,7 @@ ODM
 免責聲明
 
 ---
-## Document 534: 凱基投顧_Takeaway_5306 桂盟_莊政翰_20260706
+## Document 520: 凱基投顧_Takeaway_5306 桂盟_莊政翰_20260706
 
 Source PDF: all report pdf/凱基投顧_Takeaway_5306 桂盟_莊政翰_20260706.pdf
 Report source: line報告備份
@@ -21344,7 +21344,7 @@ eden.chang@kgi.com
 七月 06, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 4
 
 ---
-## Document 538: 凱基投顧_電子硬體產業_向子慧_20260707
+## Document 524: 凱基投顧_電子硬體產業_向子慧_20260707
 
 Source PDF: all report pdf/凱基投顧_電子硬體產業_向子慧_20260707.pdf
 Report source: line報告備份
@@ -21844,7 +21844,7 @@ PCB
 免責聲明
 
 ---
-## Document 539: 凱基投顧_電源供應器產業_李承泰_20260706
+## Document 525: 凱基投顧_電源供應器產業_李承泰_20260706
 
 Source PDF: all report pdf/凱基投顧_電源供應器產業_李承泰_20260706.pdf
 Report source: line報告備份
@@ -22948,7 +22948,7 @@ Dec-24A Dec-25A Dec-26F Dec-27F Dec-28F
 免責聲明
 
 ---
-## Document 605: 富邦-軍工產業-20260706
+## Document 585: 富邦-軍工產業-20260706
 
 Source PDF: all report pdf/富邦-軍工產業-20260706.pdf
 Report source: line報告備份
@@ -23091,7 +23091,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 611: 广发证券_机械设备行业AI珠峰系列十三：PCB设备的半导体化——挑战物理极限的工艺革命_260701
+## Document 591: 广发证券_机械设备行业AI珠峰系列十三：PCB设备的半导体化——挑战物理极限的工艺革命_260701
 
 Source PDF: all report pdf/广发证券_机械设备行业AI珠峰系列十三：PCB设备的半导体化——挑战物理极限的工艺革命_260701.pdf
 Report source: line報告備份
@@ -24936,7 +24936,7 @@ gfzhangzhilin@gf.com.cn
  香港： 香港湾仔骆克道 81 号广发大厦 27 楼 -
 
 ---
-## Document 616: 懶人摘要
+## Document 595: 懶人摘要
 
 Source PDF: all report pdf/懶人摘要.pdf
 Report source: line報告備份
@@ -26656,7 +26656,7 @@ OpenAI
 好。
 
 ---
-## Document 710: 群益-2385-2603群光
+## Document 686: 群益-2385-2603群光
 
 Source PDF: all report pdf/群益-2385-2603群光.pdf
 Report source: line報告備份
@@ -26891,7 +26891,7 @@ YoY(%)
 情形。
 
 ---
-## Document 712: 群益-3563-2601牧德
+## Document 688: 群益-3563-2601牧德
 
 Source PDF: all report pdf/群益-3563-2601牧德.pdf
 Report source: line報告備份
@@ -27180,7 +27180,7 @@ YoY(%)
 情形。
 
 ---
-## Document 718: 群益-8996-2607高力
+## Document 694: 群益-8996-2607高力
 
 Source PDF: all report pdf/群益-8996-2607高力.pdf
 Report source: line報告備份
