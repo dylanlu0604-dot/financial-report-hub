@@ -12338,7 +12338,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 9
 
 ---
-## Document 213: Advantest (6857,B_買進)-CTBC260709
+## Document 212: Advantest (6857,B_買進)-CTBC260709
 
 Source PDF: all report pdf/Advantest (6857,B_買進)-CTBC260709.pdf
 Report source: line報告備份
@@ -12615,7 +12615,7 @@ PER Band                   PBR Band
 營業執照字號：114金管投顧新字第 014號
 
 ---
-## Document 340: Nike(NKE,OW_增加持股)-CTBC260708
+## Document 348: Nike(NKE,OW_增加持股)-CTBC260708
 
 Source PDF: all report pdf/Nike(NKE,OW_增加持股)-CTBC260708.pdf
 Report source: line報告備份
@@ -12870,7 +12870,7 @@ PER Band                                  PBR Band
 未評等 Not Rated (NR)
 
 ---
-## Document 341: Nomura
+## Document 349: Nomura
 
 Source PDF: all report pdf/Nomura.pdf
 Report source: line報告備份
@@ -19997,7 +19997,7 @@ Tel: +81 3 5255 1658 Fax: +81 3 5255 1747, 3272 0869
 Caring for the environment: to receive only the electronic versions of our research, please contact your sales representative .
 
 ---
-## Document 343: Nvidia’s CCL Supply Chain Shake Up – SemiAnalysis
+## Document 351: Nvidia’s CCL Supply Chain Shake Up – SemiAnalysis
 
 Source PDF: all report pdf/Nvidia’s CCL Supply Chain Shake Up – SemiAnalysis.pdf
 Report source: line報告備份
@@ -20179,7 +20179,7 @@ Report.
 https://semianalysis.com/institutional/nvidias-ccl-supply-chain-shake-up/?access_token=eyJhbGciOiJFUzI1NiIsImtpZCI6InNlbWlhbmFseXNpcy5wYXNzcG9… 6/6
 
 ---
-## Document 390: Walmart(WMT,OW_增加持股)-CTBC260702
+## Document 404: Walmart(WMT,OW_增加持股)-CTBC260702
 
 Source PDF: all report pdf/Walmart(WMT,OW_增加持股)-CTBC260702.pdf
 Report source: line報告備份
@@ -20316,7 +20316,7 @@ PER Band                                  PBR Band
 未評等 Not Rated (NR)
 
 ---
-## Document 412: 【國泰證期研究部】PCB產業-高階光模塊需求強勁，台系PCB業者大幅擴產增加市佔-20260707
+## Document 428: 【國泰證期研究部】PCB產業-高階光模塊需求強勁，台系PCB業者大幅擴產增加市佔-20260707
 
 Source PDF: all report pdf/【國泰證期研究部】PCB產業-高階光模塊需求強勁，台系PCB業者大幅擴產增加市佔-20260707.pdf
 Report source: line報告備份
@@ -20492,7 +20492,7 @@ M9 CCL，儘管公司持續開出產能且進行價格調整策略，整體供�
 投資評等定義
 
 ---
-## Document 497: 元大-1476-儒鴻-20260706
+## Document 512: 元大-1476-儒鴻-20260706
 
 Source PDF: all report pdf/元大-1476-儒鴻-20260706.pdf
 Report source: line報告備份
@@ -21095,7 +21095,7 @@ ESG 總分 17.8
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 519: 凱基投顧_SPCX SpaceX_張燾_20260701
+## Document 534: 凱基投顧_SPCX SpaceX_張燾_20260701
 
 Source PDF: all report pdf/凱基投顧_SPCX SpaceX_張燾_20260701.pdf
 Report source: line報告備份
@@ -21522,7 +21522,7 @@ Space X 是由企業家 Elon Musk 於 2002 年創立 ，主要業務包
 免責聲明
 
 ---
-## Document 562: 天风证券_产业赛道投资图谱：PCB，AI浪潮催生量价质”三重共振_260702
+## Document 575: 天风证券_产业赛道投资图谱：PCB，AI浪潮催生量价质”三重共振_260702
 
 Source PDF: all report pdf/天风证券_产业赛道投资图谱：PCB，AI浪潮催生量价质”三重共振_260702.pdf
 Report source: line報告備份
@@ -22155,7 +22155,7 @@ Prismark 及灼识咨询数据， 全球PCB 专用设备市场规模由 2020 年
 天风 证券研究
 
 ---
-## Document 636: 永悅健康（7835）｜IPO投資研究報告
+## Document 644: 永悅健康（7835）｜IPO投資研究報告
 
 Source PDF: all report pdf/永悅健康（7835）｜IPO投資研究報告.pdf
 Report source: line報告備份
@@ -22581,7 +22581,7 @@ CAGR +7%
 11
 
 ---
-## Document 648: 玉山金(2884,N_中立)-CTBC260701
+## Document 656: 玉山金(2884,N_中立)-CTBC260701
 
 Source PDF: all report pdf/玉山金(2884,N_中立)-CTBC260701.pdf
 Report source: line報告備份
@@ -22856,7 +22856,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 687: 群益-3413-2602京鼎
+## Document 694: 群益-3413-2602京鼎
 
 Source PDF: all report pdf/群益-3413-2602京鼎.pdf
 Report source: line報告備份
@@ -23148,7 +23148,7 @@ YoY(%)
 情形。
 
 ---
-## Document 693: 群益-8103-2605瀚荃
+## Document 700: 群益-8103-2605瀚荃
 
 Source PDF: all report pdf/群益-8103-2605瀚荃.pdf
 Report source: line報告備份
@@ -23452,7 +23452,7 @@ YoY(%)
 情形。
 
 ---
-## Document 695: 群益-美股TE Connectivity (TEL-US)-07062026
+## Document 702: 群益-美股TE Connectivity (TEL-US)-07062026
 
 Source PDF: all report pdf/群益-美股TE Connectivity (TEL-US)-07062026.pdf
 Report source: line報告備份
@@ -23589,7 +23589,7 @@ FY3Q25 FY4Q25 FY1Q26 FY2Q26
 中立(Neutral)
 
 ---
-## Document 728: 鈞興-KY(4571,B_買進)-CTBC260707
+## Document 733: 鈞興-KY(4571,B_買進)-CTBC260707
 
 Source PDF: all report pdf/鈞興-KY(4571,B_買進)-CTBC260707.pdf
 Report source: line報告備份

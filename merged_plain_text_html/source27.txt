@@ -15524,7 +15524,7 @@ CNC 控制器 各類金屬切削、車銑複合、五軸加工等高精度設備
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 230: Apple(AAPL,DG,OW_調降評等,增加持股)-CTBC260708
+## Document 227: Apple(AAPL,DG,OW_調降評等,增加持股)-CTBC260708
 
 Source PDF: all report pdf/Apple(AAPL,DG,OW_調降評等,增加持股)-CTBC260708.pdf
 Report source: line報告備份
@@ -15641,7 +15641,7 @@ PBR Band
 未評等 Not Rated (NR)
 
 ---
-## Document 231: Asia AI Semi & Server(1)
+## Document 228: Asia AI Semi & Server(1)
 
 Source PDF: all report pdf/Asia AI Semi & Server(1).pdf
 Report source: line報告備份
@@ -22768,7 +22768,7 @@ Tel: +81 3 5255 1658 Fax: +81 3 5255 1747, 3272 0869
 Caring for the environment: to receive only the electronic versions of our research, please contact your sales representative .
 
 ---
-## Document 498: 元大-2059-川湖-20260707
+## Document 513: 元大-2059-川湖-20260707
 
 Source PDF: all report pdf/元大-2059-川湖-20260707.pdf
 Report source: line報告備份
@@ -23452,7 +23452,7 @@ ESG 總分 22.2
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 502: 光頡(3624,B_買進)-CTBC260630
+## Document 517: 光頡(3624,B_買進)-CTBC260630
 
 Source PDF: all report pdf/光頡(3624,B_買進)-CTBC260630.pdf
 Report source: line報告備份
@@ -23758,7 +23758,7 @@ ESG 資訊-公司治理(Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 513: 凱基投顧_2H26台股投資展望_20260630
+## Document 528: 凱基投顧_2H26台股投資展望_20260630
 
 Source PDF: all report pdf/凱基投顧_2H26台股投資展望_20260630.pdf
 Report source: line報告備份
@@ -24936,7 +24936,7 @@ Mar-17 Mar-18 Mar-19 Mar-20 Mar-21 Mar-22 Mar-23 Mar-24 Mar-25 Mar-26
 THANK YOU
 
 ---
-## Document 529: 功率半導體 國票
+## Document 544: 功率半導體 國票
 
 Source PDF: all report pdf/功率半導體 國票.pdf
 Report source: line報告備份
@@ -25073,7 +25073,7 @@ SiC是800V HVDC架構的關鍵元件，驅動電動車與資料中心效能全�
 資結果自行負責。以上報告內容之著作權屬國票投顧所有，非經本公司同意，禁止任何形式之抄襲、引用或轉載。
 
 ---
-## Document 530: 功率半導體 群益
+## Document 545: 功率半導體 群益
 
 Source PDF: all report pdf/功率半導體 群益.pdf
 Report source: line報告備份
@@ -25195,7 +25195,7 @@ PER= 股價 /2026 (F) EPS ； PBR= 股價 /2026 (F) 年 底 預 估 每 股 淨 
 情形。
 
 ---
-## Document 542: 南茂(8150,B_買進)-CTBC260703
+## Document 554: 南茂(8150,B_買進)-CTBC260703
 
 Source PDF: all report pdf/南茂(8150,B_買進)-CTBC260703.pdf
 Report source: line報告備份
@@ -25565,7 +25565,7 @@ ESG 資訊 -公 司 治 理 (Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 563: 天风证券_非金属新材料行业MLCC专题研究之二：全球龙头公司梳理，高端MLCC竞争格局清晰_260703
+## Document 576: 天风证券_非金属新材料行业MLCC专题研究之二：全球龙头公司梳理，高端MLCC竞争格局清晰_260703
 
 Source PDF: all report pdf/天风证券_非金属新材料行业MLCC专题研究之二：全球龙头公司梳理，高端MLCC竞争格局清晰_260703.pdf
 Report source: line報告備份
@@ -27085,7 +27085,7 @@ Vibrantz 业务主要包括先进材料、色彩解决方案和功能涂层三�
 天风 证券研究
 
 ---
-## Document 690: 群益-4749-2604新應材
+## Document 697: 群益-4749-2604新應材
 
 Source PDF: all report pdf/群益-4749-2604新應材.pdf
 Report source: line報告備份
@@ -27425,7 +27425,7 @@ YoY(%)
 情形。
 
 ---
-## Document 710: 華南投顧-4551-智伸科-1150706
+## Document 714: 華南投顧-4551-智伸科-1150706
 
 Source PDF: all report pdf/華南投顧-4551-智伸科-1150706.pdf
 Report source: line報告備份

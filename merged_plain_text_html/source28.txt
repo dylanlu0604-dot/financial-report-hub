@@ -13366,7 +13366,7 @@ YoY(%)
 情形。
 
 ---
-## Document 232: Asia AI Semi _ Server
+## Document 229: Asia AI Semi _ Server
 
 Source PDF: all report pdf/Asia AI Semi _ Server.pdf
 Report source: line報告備份
@@ -20493,7 +20493,7 @@ Tel: +81 3 5255 1658 Fax: +81 3 5255 1747, 3272 0869
 Caring for the environment: to receive only the electronic versions of our research, please contact your sales representative .
 
 ---
-## Document 331: MLCC materials Nomura 260702
+## Document 338: MLCC materials Nomura 260702
 
 Source PDF: all report pdf/MLCC materials Nomura 260702.pdf
 Report source: line報告備份
@@ -20903,7 +20903,7 @@ Member associations: Japan Securities Dealers Association; Investment Management
 of Japan; Type II Financial Instruments Firms Association; and Japan Security Token Offering Association.
 
 ---
-## Document 342: NV CCL supply chain semianalysis
+## Document 350: NV CCL supply chain semianalysis
 
 Source PDF: all report pdf/NV CCL supply chain semianalysis.pdf
 Report source: line報告備份
@@ -21085,7 +21085,7 @@ Report.
 https://semianalysis.com/institutional/nvidias-ccl-supply-chain-shake-up/?access_token=eyJhbGciOiJFUzI1NiIsImtpZCI6InNlbWlhbmFseXNpcy5wYXNzcG9… 6/6
 
 ---
-## Document 415: 【國泰證期研究部】智邦(2345 TT)-買進(+28.2%)-旺季在即、以智興邦-20260630
+## Document 431: 【國泰證期研究部】智邦(2345 TT)-買進(+28.2%)-旺季在即、以智興邦-20260630
 
 Source PDF: all report pdf/【國泰證期研究部】智邦(2345 TT)-買進(+28.2%)-旺季在即、以智興邦-20260630.pdf
 Report source: line報告備份
@@ -21424,7 +21424,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 483: 中砂(1560,B_買進)-CTBC260709
+## Document 498: 中砂(1560,B_買進)-CTBC260709
 
 Source PDF: all report pdf/中砂(1560,B_買進)-CTBC260709.pdf
 Report source: line報告備份
@@ -21688,7 +21688,7 @@ ESG 資訊 - 公司治理 (Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 510: 凱基投顧_2330 台積電_潘俊宏_20260701
+## Document 525: 凱基投顧_2330 台積電_潘俊宏_20260701
 
 Source PDF: all report pdf/凱基投顧_2330 台積電_潘俊宏_20260701.pdf
 Report source: line報告備份
@@ -22522,7 +22522,7 @@ Jul-25 Sep-25 Nov-25 Jan-26 Mar-26 May-26
 資料來源：TEJ，凱基
 
 ---
-## Document 515: 凱基投顧_3605 宏致_張燾_20260707
+## Document 530: 凱基投顧_3605 宏致_張燾_20260707
 
 Source PDF: all report pdf/凱基投顧_3605 宏致_張燾_20260707.pdf
 Report source: line報告備份
@@ -23234,7 +23234,7 @@ Recommendations & Target Price
 資料來源：TEJ，凱基
 
 ---
-## Document 517: 凱基投顧_6831 邁科_向子慧_20260630
+## Document 532: 凱基投顧_6831 邁科_向子慧_20260630
 
 Source PDF: all report pdf/凱基投顧_6831 邁科_向子慧_20260630.pdf
 Report source: line報告備份
@@ -23885,7 +23885,7 @@ Dec-21A Dec-22A Dec-23A Dec-24A Dec-25A
  泰國          曼谷
 
 ---
-## Document 518: 凱基投顧_NKE NIKE_劉昃恩_20260701
+## Document 533: 凱基投顧_NKE NIKE_劉昃恩_20260701
 
 Source PDF: all report pdf/凱基投顧_NKE NIKE_劉昃恩_20260701.pdf
 Report source: line報告備份
@@ -24537,7 +24537,7 @@ Jun-23 Dec-23 Jun-24 Dec-24 Jun-25 Dec-25 Jun-26
 免責聲明
 
 ---
-## Document 522: 凱基投顧_Takeaway_9945 潤泰新_賴偉中_20260702
+## Document 537: 凱基投顧_Takeaway_9945 潤泰新_賴偉中_20260702
 
 Source PDF: all report pdf/凱基投顧_Takeaway_9945 潤泰新_賴偉中_20260702.pdf
 Report source: line報告備份
@@ -24694,7 +24694,7 @@ IFRS17 一次性認列逾 600 億元淨值減損，惟受惠台股表現，至 5
 七月 02, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 4
 
 ---
-## Document 523: 凱基投顧_TWLO Twilio_鄭傑懋_20260702
+## Document 538: 凱基投顧_TWLO Twilio_鄭傑懋_20260702
 
 Source PDF: all report pdf/凱基投顧_TWLO Twilio_鄭傑懋_20260702.pdf
 Report source: line報告備份
@@ -26359,7 +26359,7 @@ Avg
 電話 62 21 250 6337
 
 ---
-## Document 560: 大江(8436,N_中立)-CTBC260701
+## Document 572: 大江(8436,N_中立)-CTBC260701
 
 Source PDF: all report pdf/大江(8436,N_中立)-CTBC260701.pdf
 Report source: line報告備份
@@ -26590,7 +26590,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 608: 新日興(3376,B_買進)-CTBC260709
+## Document 618: 新日興(3376,B_買進)-CTBC260709
 
 Source PDF: all report pdf/新日興(3376,B_買進)-CTBC260709.pdf
 Report source: line報告備份
@@ -26887,7 +26887,7 @@ ESG 資訊-公司治理(Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 653: 穎崴(6515,B_買進)-CTBC260701
+## Document 662: 穎崴(6515,B_買進)-CTBC260701
 
 Source PDF: all report pdf/穎崴(6515,B_買進)-CTBC260701.pdf
 Report source: line報告備份
@@ -27212,7 +27212,7 @@ ESG 資訊 - 公司治理 (Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 692: 群益-6515-2602穎崴
+## Document 699: 群益-6515-2602穎崴
 
 Source PDF: all report pdf/群益-6515-2602穎崴.pdf
 Report source: line報告備份
