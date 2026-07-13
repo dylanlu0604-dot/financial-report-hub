@@ -3,7 +3,7 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 006: 1477聚陽 永豐
+## Document 007: 1477聚陽 永豐
 
 Source PDF: all report pdf/1477聚陽 永豐.pdf
 Report source: line報告備份
@@ -325,7 +325,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 
 Source PDF: all report pdf/2026H1 福邦PCB.pdf
 Report source: line報告備份
-Date: 2026-07-13
+Date: 2026-07-12
 Pages: 38
 Extraction status: ok
 
@@ -1404,7 +1404,7 @@ Q&A
 不一致或相抵觸為由，主張本公司或本集團其他成員有侵害讀者權益之情事。
 
 ---
-## Document 059: 2344華邦電 群益
+## Document 057: 2344華邦電 群益
 
 Source PDF: all report pdf/2344華邦電 群益.pdf
 Report source: line報告備份
@@ -1677,7 +1677,7 @@ YoY(%)
 情形。
 
 ---
-## Document 060: 2359所羅門 群益
+## Document 058: 2359所羅門 群益
 
 Source PDF: all report pdf/2359所羅門 群益.pdf
 Report source: line報告備份
@@ -1905,7 +1905,7 @@ YoY(%)
 情形。
 
 ---
-## Document 078: 260701_daiwa_accton
+## Document 063: 260701_daiwa_accton
 
 Source PDF: all report pdf/260701_daiwa_accton.pdf
 Report source: line報告備份
@@ -2402,7 +2402,7 @@ the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 092: 260703_daiwa_Bizlink
+## Document 077: 260703_daiwa_Bizlink
 
 Source PDF: all report pdf/260703_daiwa_Bizlink.pdf
 Report source: line報告備份
@@ -2572,7 +2572,7 @@ regarding the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 098: 260705_nmr_bizlink
+## Document 083: 260705_nmr_bizlink
 
 Source PDF: all report pdf/260705_nmr_bizlink.pdf
 Report source: line報告備份
@@ -2806,7 +2806,7 @@ Nomura | Bizlink 5 July 2026
 5
 
 ---
-## Document 099: 260706_citi_accton
+## Document 084: 260706_citi_accton
 
 Source PDF: all report pdf/260706_citi_accton.pdf
 Report source: line報告備份
@@ -3278,7 +3278,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 106: 260706_daiwa_microloops 6831
+## Document 091: 260706_daiwa_microloops 6831
 
 Source PDF: all report pdf/260706_daiwa_microloops 6831.pdf
 Report source: line報告備份
@@ -3481,7 +3481,7 @@ regarding the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 112: 260706_ml_CCL 2383 shengyi 3715
+## Document 097: 260706_ml_CCL 2383 shengyi 3715
 
 Source PDF: all report pdf/260706_ml_CCL 2383 shengyi 3715.pdf
 Report source: line報告備份
@@ -4046,7 +4046,7 @@ Neither BofA Securities nor any officer or employee of BofA Securities accepts a
 information.
 
 ---
-## Document 120: 260706_ms_tech-supply-chain
+## Document 105: 260706_ms_tech-supply-chain
 
 Source PDF: all report pdf/260706_ms_tech-supply-chain.pdf
 Report source: line報告備份
@@ -4787,7 +4787,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 122: 260706_yt_server
+## Document 107: 260706_yt_server
 
 Source PDF: all report pdf/260706_yt_server.pdf
 Report source: line報告備份
@@ -5022,7 +5022,7 @@ Meta Others Total ASIC YoY
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 127: 260707_daiwa_Fositek
+## Document 112: 260707_daiwa_Fositek
 
 Source PDF: all report pdf/260707_daiwa_Fositek.pdf
 Report source: line報告備份
@@ -5219,7 +5219,7 @@ regarding the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 133: 260707_ubs_800v-DC
+## Document 118: 260707_ubs_800v-DC
 
 Source PDF: all report pdf/260707_ubs_800v-DC.pdf
 Report source: line報告備份
@@ -8011,7 +8011,7 @@ name, e-mail address) until you notify us that you no longer wish to receive the
 ab
 
 ---
-## Document 135: 260708_citi_hon-precision
+## Document 120: 260708_citi_hon-precision
 
 Source PDF: all report pdf/260708_citi_hon-precision.pdf
 Report source: line報告備份
@@ -8510,7 +8510,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 138: 260708_ms_eink
+## Document 123: 260708_ms_eink
 
 Source PDF: all report pdf/260708_ms_eink.pdf
 Report source: line報告備份
@@ -9020,7 +9020,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 148: 260709_ubs_largan
+## Document 133: 260709_ubs_largan
 
 Source PDF: all report pdf/260709_ubs_largan.pdf
 Report source: line報告備份
@@ -10571,7 +10571,7 @@ name, e-mail address) until you notify us that you no longer wish to receive the
 ab
 
 ---
-## Document 149: 260710_daiwa_MTK
+## Document 134: 260710_daiwa_MTK
 
 Source PDF: all report pdf/260710_daiwa_MTK.pdf
 Report source: line報告備份
@@ -10849,7 +10849,7 @@ regarding the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 152: 260712_citi_bbu-feedback
+## Document 137: 260712_citi_bbu-feedback
 
 Source PDF: all report pdf/260712_citi_bbu-feedback.pdf
 Report source: line報告備份
@@ -11382,7 +11382,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 153: 260712_gs_ABF
+## Document 138: 260712_gs_ABF
 
 Source PDF: all report pdf/260712_gs_ABF.pdf
 Report source: line報告備份
@@ -12359,7 +12359,7 @@ Goldman Sachs Asia TechnologyFor the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 154: 260712_ms_nytech
+## Document 139: 260712_ms_nytech
 
 Source PDF: all report pdf/260712_ms_nytech.pdf
 Report source: line報告備份
@@ -13216,7 +13216,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 156: 2610華航 富邦
+## Document 141: 2610華航 富邦
 
 Source PDF: all report pdf/2610華航 富邦.pdf
 Report source: line報告備份
@@ -13601,7 +13601,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 157: 2645長榮航太 元大
+## Document 142: 2645長榮航太 元大
 
 Source PDF: all report pdf/2645長榮航太 元大.pdf
 Report source: line報告備份
@@ -14536,7 +14536,7 @@ ESG 總分 16.7
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 161: 3081聯亞 群益
+## Document 145: 3081聯亞 群益
 
 Source PDF: all report pdf/3081聯亞 群益.pdf
 Report source: line報告備份
@@ -14770,7 +14770,7 @@ YoY(%)
 情形。
 
 ---
-## Document 167: 3376新日興 群益
+## Document 148: 3376新日興 群益
 
 Source PDF: all report pdf/3376新日興 群益.pdf
 Report source: line報告備份
@@ -15067,7 +15067,7 @@ YoY(%)
 情形。
 
 ---
-## Document 171: 3563牧德 玉山
+## Document 151: 3563牧德 玉山
 
 Source PDF: all report pdf/3563牧德 玉山.pdf
 Report source: line報告備份
@@ -15286,7 +15286,7 @@ AOI 在市場上販售、2 台為正在研發的新機種，2026 年已上市的
 未評等：無。
 
 ---
-## Document 173: 4771望隼 群益
+## Document 153: 4771望隼 群益
 
 Source PDF: all report pdf/4771望隼 群益.pdf
 Report source: line報告備份
@@ -15571,7 +15571,7 @@ YoY(%)
 情形。
 
 ---
-## Document 190: 6491晶碩 永豐
+## Document 166: 6491晶碩 永豐
 
 Source PDF: all report pdf/6491晶碩 永豐.pdf
 Report source: line報告備份
@@ -15863,7 +15863,7 @@ S：Sell 賣出：未來 6 個月該股票表現將落後大盤
 7
 
 ---
-## Document 344: MLCC materials Nomura 260702
+## Document 318: MLCC materials Nomura 260702
 
 Source PDF: all report pdf/MLCC materials Nomura 260702.pdf
 Report source: line報告備份
@@ -16273,7 +16273,7 @@ Member associations: Japan Securities Dealers Association; Investment Management
 of Japan; Type II Financial Instruments Firms Association; and Japan Security Token Offering Association.
 
 ---
-## Document 355: NV CCL supply chain semianalysis
+## Document 326: NV CCL supply chain semianalysis
 
 Source PDF: all report pdf/NV CCL supply chain semianalysis.pdf
 Report source: line報告備份
@@ -16455,7 +16455,7 @@ Report.
 https://semianalysis.com/institutional/nvidias-ccl-supply-chain-shake-up/?access_token=eyJhbGciOiJFUzI1NiIsImtpZCI6InNlbWlhbmFseXNpcy5wYXNzcG9… 6/6
 
 ---
-## Document 435: 【國泰證期研究部】記憶體產業-Meta Vistara重塑資料中心記憶體架構-20260713
+## Document 397: 【國泰證期研究部】記憶體產業-Meta Vistara重塑資料中心記憶體架構-20260713
 
 Source PDF: all report pdf/【國泰證期研究部】記憶體產業-Meta Vistara重塑資料中心記憶體架構-20260713.pdf
 Report source: line報告備份
@@ -16710,7 +16710,7 @@ AI儲存最佳化與 storage offload 方案推進，有望在 CXL帶動的分層
 投資評等定義
 
 ---
-## Document 508: 中砂(1560,B_買進)-CTBC260709
+## Document 470: 中砂(1560,B_買進)-CTBC260709
 
 Source PDF: all report pdf/中砂(1560,B_買進)-CTBC260709.pdf
 Report source: line報告備份
@@ -16974,7 +16974,7 @@ ESG 資訊 - 公司治理 (Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 527: 元大-能源通膨警報解除！AI通膨升溫？-20260707
+## Document 487: 元大-能源通膨警報解除！AI通膨升溫？-20260707
 
 Source PDF: all report pdf/元大-能源通膨警報解除！AI通膨升溫？-20260707.pdf
 Report source: line報告備份
@@ -17353,7 +17353,7 @@ S&P500 指數 7,537.43  0.72%  10.11%
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 542: 凱基投顧_3605 宏致_張燾_20260707
+## Document 496: 凱基投顧_3605 宏致_張燾_20260707
 
 Source PDF: all report pdf/凱基投顧_3605 宏致_張燾_20260707.pdf
 Report source: line報告備份
@@ -18065,7 +18065,7 @@ Recommendations & Target Price
 資料來源：TEJ，凱基
 
 ---
-## Document 553: 凱基投顧_電源供應器產業_李承泰_20260706
+## Document 505: 凱基投顧_電源供應器產業_李承泰_20260706
 
 Source PDF: all report pdf/凱基投顧_電源供應器產業_李承泰_20260706.pdf
 Report source: line報告備份
@@ -19169,7 +19169,7 @@ Dec-24A Dec-25A Dec-26F Dec-27F Dec-28F
 免責聲明
 
 ---
-## Document 558: 功率半導體 國票
+## Document 509: 功率半導體 國票
 
 Source PDF: all report pdf/功率半導體 國票.pdf
 Report source: line報告備份
@@ -19306,7 +19306,7 @@ SiC是800V HVDC架構的關鍵元件，驅動電動車與資料中心效能全�
 資結果自行負責。以上報告內容之著作權屬國票投顧所有，非經本公司同意，禁止任何形式之抄襲、引用或轉載。
 
 ---
-## Document 590: 大立光(3008,UG,B_調升,買進)-CTBC260713
+## Document 539: 大立光(3008,UG,B_調升,買進)-CTBC260713
 
 Source PDF: all report pdf/大立光(3008,UG,B_調升,買進)-CTBC260713.pdf
 Report source: line報告備份
@@ -19613,7 +19613,7 @@ ESG 資訊 ─公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 621: 富邦-3491昇達科-20260709
+## Document 568: 富邦-3491昇達科-20260709
 
 Source PDF: all report pdf/富邦-3491昇達科-20260709.pdf
 Report source: line報告備份
@@ -19997,7 +19997,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 624: 富邦-軍工產業-20260706
+## Document 571: 富邦-軍工產業-20260706
 
 Source PDF: all report pdf/富邦-軍工產業-20260706.pdf
 Report source: line報告備份
@@ -20140,7 +20140,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 752: 華南投顧-4551-智伸科-1150706
+## Document 692: 華南投顧-4551-智伸科-1150706
 
 Source PDF: all report pdf/華南投顧-4551-智伸科-1150706.pdf
 Report source: line報告備份

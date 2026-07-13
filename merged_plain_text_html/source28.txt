@@ -3,11 +3,11 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 058: 2327國巨 永豐
+## Document 056: 2327國巨 永豐
 
 Source PDF: all report pdf/2327國巨 永豐.pdf
 Report source: line報告備份
-Date: 2026-07-13
+Date: 2026-07-12
 Pages: 8
 Extraction status: ok
 
@@ -341,7 +341,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 8
 
 ---
-## Document 064: 2603長榮 宏遠
+## Document 062: 2603長榮 宏遠
 
 Source PDF: all report pdf/2603長榮 宏遠.pdf
 Report source: line報告備份
@@ -987,7 +987,7 @@ AAA
 2023 2024 2025
 
 ---
-## Document 079: 260701_daiwa_avc
+## Document 064: 260701_daiwa_avc
 
 Source PDF: all report pdf/260701_daiwa_avc.pdf
 Report source: line報告備份
@@ -1180,7 +1180,7 @@ regarding the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 086: 260702_citi_airtac
+## Document 071: 260702_citi_airtac
 
 Source PDF: all report pdf/260702_citi_airtac.pdf
 Report source: line報告備份
@@ -1675,7 +1675,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 088: 260702_gs_TSMC
+## Document 073: 260702_gs_TSMC
 
 Source PDF: all report pdf/260702_gs_TSMC.pdf
 Report source: line報告備份
@@ -2628,7 +2628,7 @@ such system.
 Goldman Sachs TSMC (2330.TW)
 
 ---
-## Document 094: 260703_gs_ODM-brands
+## Document 079: 260703_gs_ODM-brands
 
 Source PDF: all report pdf/260703_gs_ODM-brands.pdf
 Report source: line報告備份
@@ -3256,7 +3256,7 @@ Goldman Sachs Taiwan ODM/BrandsFor the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 103: 260706_daiwa_Bizlink
+## Document 088: 260706_daiwa_Bizlink
 
 Source PDF: all report pdf/260706_daiwa_Bizlink.pdf
 Report source: line報告備份
@@ -3472,7 +3472,7 @@ regarding the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 108: 260706_gs_automation
+## Document 093: 260706_gs_automation
 
 Source PDF: all report pdf/260706_gs_automation.pdf
 Report source: line報告備份
@@ -3880,7 +3880,7 @@ Goldman Sachs Asia Pacific Machinery: AutomationFor the exclusive use of KEVINLU
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 110: 260706_gs_FOCI-buy-initiation
+## Document 095: 260706_gs_FOCI-buy-initiation
 
 Source PDF: all report pdf/260706_gs_FOCI-buy-initiation.pdf
 Report source: line報告備份
@@ -4943,7 +4943,7 @@ Goldman Sachs FOCI (3363.TWO)For the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 111: 260706_gs_HH
+## Document 096: 260706_gs_HH
 
 Source PDF: all report pdf/260706_gs_HH.pdf
 Report source: line報告備份
@@ -5383,7 +5383,7 @@ Goldman Sachs Hon Hai (2317.TW)For the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 115: 260706_ms_ABF
+## Document 100: 260706_ms_ABF
 
 Source PDF: all report pdf/260706_ms_ABF.pdf
 Report source: line報告備份
@@ -7439,7 +7439,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 119: 260706_ms_PC-semis
+## Document 104: 260706_ms_PC-semis
 
 Source PDF: all report pdf/260706_ms_PC-semis.pdf
 Report source: line報告備份
@@ -8365,7 +8365,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 121: 260706_ms_winway
+## Document 106: 260706_ms_winway
 
 Source PDF: all report pdf/260706_ms_winway.pdf
 Report source: line報告備份
@@ -8840,7 +8840,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 124: 260707_citi_dynapck-buy-initiation
+## Document 109: 260707_citi_dynapck-buy-initiation
 
 Source PDF: all report pdf/260707_citi_dynapck-buy-initiation.pdf
 Report source: line報告備份
@@ -11639,7 +11639,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 129: 260707_ml_ASE
+## Document 114: 260707_ml_ASE
 
 Source PDF: all report pdf/260707_ml_ASE.pdf
 Report source: line報告備份
@@ -12336,7 +12336,7 @@ Neither BofA Securities nor any officer or employee of BofA Securities accepts a
 information.
 
 ---
-## Document 132: 260707_ms_chenbro
+## Document 117: 260707_ms_chenbro
 
 Source PDF: all report pdf/260707_ms_chenbro.pdf
 Report source: line報告備份
@@ -12859,7 +12859,7 @@ Update
 © 2026 Morgan Stanley
 
 ---
-## Document 137: 260708_ms_AI-supply-chain
+## Document 122: 260708_ms_AI-supply-chain
 
 Source PDF: all report pdf/260708_ms_AI-supply-chain.pdf
 Report source: line報告備份
@@ -14009,7 +14009,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 140: 260709_citi_largan
+## Document 125: 260709_citi_largan
 
 Source PDF: all report pdf/260709_citi_largan.pdf
 Report source: line報告備份
@@ -14764,7 +14764,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 143: 260709_gs_allring
+## Document 128: 260709_gs_allring
 
 Source PDF: all report pdf/260709_gs_allring.pdf
 Report source: line報告備份
@@ -15372,7 +15372,7 @@ Goldman Sachs All Ring Tech Co. (6187.TWO)For the exclusive use of KEVINLU@LENOV
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 150: 260710_daiwa_nytech
+## Document 135: 260710_daiwa_nytech
 
 Source PDF: all report pdf/260710_daiwa_nytech.pdf
 Report source: line報告備份
@@ -15644,11 +15644,11 @@ regarding the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 160: 3005神基 群益
+## Document 144: 3005神基 群益
 
 Source PDF: all report pdf/3005神基 群益.pdf
 Report source: line報告備份
-Date: 2026-07-13
+Date: 2026-07-12
 Pages: 5
 Extraction status: ok
 
@@ -15861,7 +15861,7 @@ YoY(%)
 情形。
 
 ---
-## Document 164: 3189景碩 元富
+## Document 147: 3189景碩 元富
 
 Source PDF: all report pdf/3189景碩 元富.pdf
 Report source: line報告備份
@@ -15969,7 +15969,7 @@ Operating 8.0 14.4 17.3 18.5 3.6 6.8 15.2 21.8
 Net 4.9 10.7 13.7 15.2 0.2 4.1 11.7 18.2
 
 ---
-## Document 185: 6446藥華藥 元富
+## Document 163: 6446藥華藥 元富
 
 Source PDF: all report pdf/6446藥華藥 元富.pdf
 Report source: line報告備份
@@ -16229,7 +16229,7 @@ Operating 40.8 42.3 45.2 44.7 ROA 10.17 14.74 25.98 30.77
 Net 42.0 38.1 40.7 40.2 ROE 11.54 16.97 29.83 34.50
 
 ---
-## Document 191: 6491晶碩 群益
+## Document 167: 6491晶碩 群益
 
 Source PDF: all report pdf/6491晶碩 群益.pdf
 Report source: line報告備份
@@ -16544,11 +16544,11 @@ YoY(%)
 情形。
 
 ---
-## Document 203: 9914美利達 兆豐
+## Document 178: 9914美利達 兆豐
 
 Source PDF: all report pdf/9914美利達 兆豐.pdf
 Report source: line報告備份
-Date: 2026-07-13
+Date: 2026-07-12
 Pages: 8
 Extraction status: ok
 
@@ -17066,7 +17066,7 @@ C+
 交易所公司治理評鑑
 
 ---
-## Document 245: Apple(AAPL,DG,OW_調降評等,增加持股)-CTBC260708
+## Document 218: Apple(AAPL,DG,OW_調降評等,增加持股)-CTBC260708
 
 Source PDF: all report pdf/Apple(AAPL,DG,OW_調降評等,增加持股)-CTBC260708.pdf
 Report source: line報告備份
@@ -17183,7 +17183,7 @@ PBR Band
 未評等 Not Rated (NR)
 
 ---
-## Document 357: Nvidia’s_CCL_Supply_Chain_Shake_Up_–_SemiAnalysis
+## Document 328: Nvidia’s_CCL_Supply_Chain_Shake_Up_–_SemiAnalysis
 
 Source PDF: all report pdf/Nvidia’s_CCL_Supply_Chain_Shake_Up_–_SemiAnalysis.pdf
 Report source: line報告備份
@@ -17365,7 +17365,7 @@ Report.
 https://semianalysis.com/institutional/nvidias-ccl-supply-chain-shake-up/?access_token=eyJhbGciOiJFUzI1NiIsImtpZCI6InNlbWlhbmFseXNpcy5wYXNzcG9… 6/6
 
 ---
-## Document 429: 【國泰證期研究部】PCB產業-高階光模塊需求強勁，台系PCB業者大幅擴產增加市佔-20260707
+## Document 392: 【國泰證期研究部】PCB產業-高階光模塊需求強勁，台系PCB業者大幅擴產增加市佔-20260707
 
 Source PDF: all report pdf/【國泰證期研究部】PCB產業-高階光模塊需求強勁，台系PCB業者大幅擴產增加市佔-20260707.pdf
 Report source: line報告備份
@@ -17541,7 +17541,7 @@ M9 CCL，儘管公司持續開出產能且進行價格調整策略，整體供�
 投資評等定義
 
 ---
-## Document 496: 世界先進(5347,Note)-CTBC260707
+## Document 462: 世界先進(5347,Note)-CTBC260707
 
 Source PDF: all report pdf/世界先進(5347,Note)-CTBC260707.pdf
 Report source: line報告備份
@@ -17863,7 +17863,7 @@ ESG 資訊 - 公司治理 (Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 536: 冠德(2520,UG,OW_增加持股)-CTBC260708
+## Document 494: 冠德(2520,UG,OW_增加持股)-CTBC260708
 
 Source PDF: all report pdf/冠德(2520,UG,OW_增加持股)-CTBC260708.pdf
 Report source: line報告備份
@@ -18156,7 +18156,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 538: 凱基投顧_2408 南亞科_沈漢軒_20260708
+## Document 495: 凱基投顧_2408 南亞科_沈漢軒_20260708
 
 Source PDF: all report pdf/凱基投顧_2408 南亞科_沈漢軒_20260708.pdf
 Report source: line報告備份
@@ -19009,7 +19009,7 @@ Jul-25 Sep-25 Nov-25 Jan-26 Mar-26 May-26
 資料來源：TEJ，凱基
 
 ---
-## Document 546: 凱基投顧_Takeaway_2408 南亞科_沈漢軒_20260710
+## Document 498: 凱基投顧_Takeaway_2408 南亞科_沈漢軒_20260710
 
 Source PDF: all report pdf/凱基投顧_Takeaway_2408 南亞科_沈漢軒_20260710.pdf
 Report source: line報告備份
@@ -19227,7 +19227,7 @@ Wafer on W afer 相關產品以支援 AI 基礎建設需求
 七月 10, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R  6
 
 ---
-## Document 552: 凱基投顧_電子硬體產業_向子慧_20260707
+## Document 504: 凱基投顧_電子硬體產業_向子慧_20260707
 
 Source PDF: all report pdf/凱基投顧_電子硬體產業_向子慧_20260707.pdf
 Report source: line報告備份
@@ -19727,7 +19727,7 @@ PCB
 免責聲明
 
 ---
-## Document 623: 富邦-6285啟碁-20260709
+## Document 570: 富邦-6285啟碁-20260709
 
 Source PDF: all report pdf/富邦-6285啟碁-20260709.pdf
 Report source: line報告備份
@@ -20109,7 +20109,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 646: 新日興(3376,B_買進)-CTBC260709
+## Document 591: 新日興(3376,B_買進)-CTBC260709
 
 Source PDF: all report pdf/新日興(3376,B_買進)-CTBC260709.pdf
 Report source: line報告備份
@@ -20406,7 +20406,7 @@ ESG 資訊-公司治理(Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 701: 第一金-1514亞力-20260708
+## Document 641: 第一金-1514亞力-20260708
 
 Source PDF: all report pdf/第一金-1514亞力-20260708.pdf
 Report source: line報告備份
@@ -20639,7 +20639,7 @@ YoY(%)
 存貨週轉天數(天) 110.72 116.01 126.05 95.86
 
 ---
-## Document 702: 第一金-6538倉和-20260708
+## Document 642: 第一金-6538倉和-20260708
 
 Source PDF: all report pdf/第一金-6538倉和-20260708.pdf
 Report source: line報告備份
@@ -20865,7 +20865,7 @@ YoY(%)
 存貨週轉天數(天) 62.01 54.93 62.17 58.05
 
 ---
-## Document 732: 群益-3413-2602京鼎
+## Document 674: 群益-3413-2602京鼎
 
 Source PDF: all report pdf/群益-3413-2602京鼎.pdf
 Report source: line報告備份
@@ -21157,7 +21157,7 @@ YoY(%)
 情形。
 
 ---
-## Document 736: 群益-6257-2604矽格
+## Document 677: 群益-6257-2604矽格
 
 Source PDF: all report pdf/群益-6257-2604矽格.pdf
 Report source: line報告備份
@@ -21552,7 +21552,7 @@ YoY(%)
 情形。
 
 ---
-## Document 739: 群益-8996-2607高力
+## Document 679: 群益-8996-2607高力
 
 Source PDF: all report pdf/群益-8996-2607高力.pdf
 Report source: line報告備份
@@ -21827,7 +21827,7 @@ YoY(%)
 情形。
 
 ---
-## Document 745: 臺慶科(3357,B_買進)-CTBC260707
+## Document 684: 臺慶科(3357,B_買進)-CTBC260707
 
 Source PDF: all report pdf/臺慶科(3357,B_買進)-CTBC260707.pdf
 Report source: line報告備份
