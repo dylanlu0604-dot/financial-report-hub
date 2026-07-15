@@ -52,6 +52,26 @@
   {
     "Source": "ING Think",
     "Date": "未知日期",
+    "Name": "Low June inflation highlights Poland’s resilience despite past energy shock",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Low%20June%20inflation%20highlights%20Poland%E2%80%99s%20resilience%20despite%20past%20energy%20shock.pdf",
+    "PageCount": 4,
+    "OriginalLink": "https://think.ing.com/downloads/pdf/article/low-june-inflation-shows-polands-resilience-despite-earlier-energy-shock",
+    "LocalPath": "all report pdf/Low June inflation highlights Poland’s resilience despite past energy shock.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "ING Think",
+    "Date": "未知日期",
+    "Name": "National Bank of Hungary preview: Next, please!",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/National%20Bank%20of%20Hungary%20preview_%20Next%2C%20please%21.pdf",
+    "PageCount": 4,
+    "OriginalLink": "https://think.ing.com/downloads/pdf/article/national-bank-of-hungary-preview-next-please",
+    "LocalPath": "all report pdf/National Bank of Hungary preview_ Next, please!.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "ING Think",
+    "Date": "未知日期",
     "Name": "Rates Spark: EUR rates cannot follow a dovish US",
     "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Rates%20Spark_%20EUR%20rates%20cannot%20follow%20a%20dovish%20US.pdf",
     "PageCount": 3,
@@ -67,26 +87,6 @@
     "PageCount": 4,
     "OriginalLink": "https://think.ing.com/downloads/pdf/article/fx-daily-benign-cpi-takes-sting-out-of-dollars-upside",
     "LocalPath": "all report pdf/FX Daily_ Benign CPI takes sting out of dollar’s upside.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "ING Think",
-    "Date": "未知日期",
-    "Name": "China slowdown worse than expected on weak domestic demand",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/China%20slowdown%20worse%20than%20expected%20on%20weak%20domestic%20demand.pdf",
-    "PageCount": 7,
-    "OriginalLink": "https://think.ing.com/downloads/pdf/article/china-slowdown-worse-than-expected-amid-domestic-activity-slump",
-    "LocalPath": "all report pdf/China slowdown worse than expected on weak domestic demand.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "ING Think",
-    "Date": "未知日期",
-    "Name": "FX Daily: Dollar upside risks are rising rapidly",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/FX%20Daily_%20Dollar%20upside%20risks%20are%20rising%20rapidly.pdf",
-    "PageCount": 4,
-    "OriginalLink": "https://think.ing.com/downloads/pdf/article/fx-daily-dollar-upside-risks-are-rising-rapidly",
-    "LocalPath": "all report pdf/FX Daily_ Dollar upside risks are rising rapidly.pdf",
     "Summary": "未執行 AI 摘要"
   },
   {
@@ -150,6 +150,39 @@
     "Summary": "未執行 AI 摘要"
   },
   {
+    "Source": "BNP Paribas",
+    "Date": "2026-07-15",
+    "Name": "The conflict in the Middle East: a massive blow to growth in the Gulf (2026-07-15)",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/The%20conflict%20in%20the%20Middle%20East_%20a%20massive%20blow%20to%20growth%20in%20the%20Gulf%20%282026-07-15%29.pdf",
+    "Type": "PDF",
+    "PageCount": 2,
+    "OriginalLink": "https://economic-research.bnpparibas.com/pdf/en-US/conflict-Middle-East-massive-blow-growth-Gulf-7/15/2026,53632",
+    "LocalPath": "all report pdf/The conflict in the Middle East_ a massive blow to growth in the Gulf (2026-07-15).pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "CTBC",
+    "Date": "2026-07-15",
+    "Name": "【趨勢主題】２０２６年下半年全球金融市場展望－高利新常態下的經濟成長韌性",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%80%90%E8%B6%A8%E5%8B%A2%E4%B8%BB%E9%A1%8C%E3%80%91%EF%BC%92%EF%BC%90%EF%BC%92%EF%BC%96%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E5%85%A8%E7%90%83%E9%87%91%E8%9E%8D%E5%B8%82%E5%A0%B4%E5%B1%95%E6%9C%9B%EF%BC%8D%E9%AB%98%E5%88%A9%E6%96%B0%E5%B8%B8%E6%85%8B%E4%B8%8B%E7%9A%84%E7%B6%93%E6%BF%9F%E6%88%90%E9%95%B7%E9%9F%8C%E6%80%A7.pdf",
+    "Type": "PDF",
+    "PageCount": 14,
+    "OriginalLink": "https://www.ctbcbank.com/IB/api/adapters/IB_Adapter/resource/report/20260715-C-13-0#.pdf",
+    "LocalPath": "all report pdf/【趨勢主題】２０２６年下半年全球金融市場展望－高利新常態下的經濟成長韌性.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "DB Research",
+    "Date": "2026-07-15",
+    "Name": "Food For Thought: Sowing The Seeds of Food Inflation (2026-07-15)",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Food%20For%20Thought_%20Sowing%20The%20Seeds%20of%20Food%20Inflation%20%282026-07-15%29.pdf",
+    "Type": "PDF",
+    "LocalPath": "/home/runner/work/financial-report-hub/financial-report-hub/all report pdf/Food For Thought_ Sowing The Seeds of Food Inflation (2026-07-15).pdf",
+    "PageCount": 10,
+    "OriginalLink": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Food%20For%20Thought_%20Sowing%20The%20Seeds%20of%20Food%20Inflation%20%282026-07-15%29.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
     "Source": "DIR",
     "Date": "2026-07-15",
     "Name": "2026年5月機械受注",
@@ -192,11 +225,131 @@
   {
     "Source": "DLRI",
     "Date": "2026-07-15",
+    "Name": "中国景気は｢外需＞内需｣と｢供給＞需要｣の構図が続いている ～名実逆転解消も､先行きの景気は｢Ｋ字型｣の様相を一段と強めると見込まれる～",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E4%B8%AD%E5%9B%BD%E6%99%AF%E6%B0%97%E3%81%AF%EF%BD%A2%E5%A4%96%E9%9C%80%EF%BC%9E%E5%86%85%E9%9C%80%EF%BD%A3%E3%81%A8%EF%BD%A2%E4%BE%9B%E7%B5%A6%EF%BC%9E%E9%9C%80%E8%A6%81%EF%BD%A3%E3%81%AE%E6%A7%8B%E5%9B%B3%E3%81%8C%E7%B6%9A%E3%81%84%E3%81%A6%E3%81%84%E3%82%8B%20%EF%BD%9E%E5%90%8D%E5%AE%9F%E9%80%86%E8%BB%A2%E8%A7%A3%E6%B6%88%E3%82%82%EF%BD%A4%E5%85%88%E8%A1%8C%E3%81%8D%E3%81%AE%E6%99%AF%E6%B0%97%E3%81%AF%EF%BD%A2%EF%BC%AB%E5%AD%97%E5%9E%8B%EF%BD%A3%E3%81%AE%E6%A7%98%E7%9B%B8%E3%82%92%E4%B8%80%E6%AE%B5%E3%81%A8%E5%BC%B7%E3%82%81%E3%82%8B%E3%81%A8%E8%A6%8B%E8%BE%BC%E3%81%BE%E3%82%8C%E3%82%8B%EF%BD%9E.pdf",
+    "PageCount": 7,
+    "OriginalLink": "https://www.dlri.co.jp/files/macro/634314.pdf",
+    "LocalPath": "all report pdf/中国景気は｢外需＞内需｣と｢供給＞需要｣の構図が続いている ～名実逆転解消も､先行きの景気は｢Ｋ字型｣の様相を一段と強めると見込まれる～.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026-07-15",
     "Name": "ウォーシュFRB議長、初の議会証言で物価抑制へ不退転の決意  ～フォワードガイダンスを拒絶、データ依存と物価安定へのレジーム・チェンジ～",
     "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%B7%E3%83%A5FRB%E8%AD%B0%E9%95%B7%E3%80%81%E5%88%9D%E3%81%AE%E8%AD%B0%E4%BC%9A%E8%A8%BC%E8%A8%80%E3%81%A7%E7%89%A9%E4%BE%A1%E6%8A%91%E5%88%B6%E3%81%B8%E4%B8%8D%E9%80%80%E8%BB%A2%E3%81%AE%E6%B1%BA%E6%84%8F%20%20%EF%BD%9E%E3%83%95%E3%82%A9%E3%83%AF%E3%83%BC%E3%83%89%E3%82%AC%E3%82%A4%E3%83%80%E3%83%B3%E3%82%B9%E3%82%92%E6%8B%92%E7%B5%B6%E3%80%81%E3%83%87%E3%83%BC%E3%82%BF%E4%BE%9D%E5%AD%98%E3%81%A8%E7%89%A9%E4%BE%A1%E5%AE%89%E5%AE%9A%E3%81%B8%E3%81%AE%E3%83%AC%E3%82%B8%E3%83%BC%E3%83%A0%E3%83%BB%E3%83%81%E3%82%A7%E3%83%B3%E3%82%B8%EF%BD%9E.pdf",
     "PageCount": 5,
     "OriginalLink": "https://www.dlri.co.jp/files/macro/634309.pdf",
     "LocalPath": "all report pdf/ウォーシュFRB議長、初の議会証言で物価抑制へ不退転の決意  ～フォワードガイダンスを拒絶、データ依存と物価安定へのレジーム・チェンジ～.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "西南证券",
+    "Date": "2026-07-15",
+    "Name": "2026年6月贸易数据点评：外贸高增底色不变，驱动因素由“量”转“价”",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/2026%E5%B9%B46%E6%9C%88%E8%B4%B8%E6%98%93%E6%95%B0%E6%8D%AE%E7%82%B9%E8%AF%84%EF%BC%9A%E5%A4%96%E8%B4%B8%E9%AB%98%E5%A2%9E%E5%BA%95%E8%89%B2%E4%B8%8D%E5%8F%98%EF%BC%8C%E9%A9%B1%E5%8A%A8%E5%9B%A0%E7%B4%A0%E7%94%B1%E2%80%9C%E9%87%8F%E2%80%9D%E8%BD%AC%E2%80%9C%E4%BB%B7%E2%80%9D.pdf",
+    "PageCount": 6,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202607151826998644_1.pdf?1784151616000.pdf",
+    "LocalPath": "all report pdf/2026年6月贸易数据点评：外贸高增底色不变，驱动因素由“量”转“价”.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "东吴证券",
+    "Date": "2026-07-15",
+    "Name": "Q2和6月经济数据点评：4.3%之后的“止跌回稳”",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Q2%E5%92%8C6%E6%9C%88%E7%BB%8F%E6%B5%8E%E6%95%B0%E6%8D%AE%E7%82%B9%E8%AF%84%EF%BC%9A4.3%25%E4%B9%8B%E5%90%8E%E7%9A%84%E2%80%9C%E6%AD%A2%E8%B7%8C%E5%9B%9E%E7%A8%B3%E2%80%9D.pdf",
+    "PageCount": 6,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202607151826998004_1.pdf?1784149002000.pdf",
+    "LocalPath": "all report pdf/Q2和6月经济数据点评：4.3%之后的“止跌回稳”.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "粤开证券",
+    "Date": "2026-07-15",
+    "Name": "【粤开宏观】理性看待二季度经济增速回落：亮点与隐忧并存",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%80%90%E7%B2%A4%E5%BC%80%E5%AE%8F%E8%A7%82%E3%80%91%E7%90%86%E6%80%A7%E7%9C%8B%E5%BE%85%E4%BA%8C%E5%AD%A3%E5%BA%A6%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%80%9F%E5%9B%9E%E8%90%BD%EF%BC%9A%E4%BA%AE%E7%82%B9%E4%B8%8E%E9%9A%90%E5%BF%A7%E5%B9%B6%E5%AD%98.pdf",
+    "PageCount": 11,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202607151826997956_1.pdf?1784149002000.pdf",
+    "LocalPath": "all report pdf/【粤开宏观】理性看待二季度经济增速回落：亮点与隐忧并存.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "国信证券",
+    "Date": "2026-07-15",
+    "Name": "美国6月CPI点评：加息取决于两个“二阶”变量",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%BE%8E%E5%9B%BD6%E6%9C%88CPI%E7%82%B9%E8%AF%84%EF%BC%9A%E5%8A%A0%E6%81%AF%E5%8F%96%E5%86%B3%E4%BA%8E%E4%B8%A4%E4%B8%AA%E2%80%9C%E4%BA%8C%E9%98%B6%E2%80%9D%E5%8F%98%E9%87%8F.pdf",
+    "PageCount": 7,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202607151826995634_1.pdf?1784145505000.pdf",
+    "LocalPath": "all report pdf/美国6月CPI点评：加息取决于两个“二阶”变量.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "浦银国际证券",
+    "Date": "2026-07-15",
+    "Name": "中国宏观数据点评：二季度经济增速不及预期，但6月大部分实体经济数据边际改善",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E4%B8%AD%E5%9B%BD%E5%AE%8F%E8%A7%82%E6%95%B0%E6%8D%AE%E7%82%B9%E8%AF%84%EF%BC%9A%E4%BA%8C%E5%AD%A3%E5%BA%A6%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%80%9F%E4%B8%8D%E5%8F%8A%E9%A2%84%E6%9C%9F%EF%BC%8C%E4%BD%866%E6%9C%88%E5%A4%A7%E9%83%A8%E5%88%86%E5%AE%9E%E4%BD%93%E7%BB%8F%E6%B5%8E%E6%95%B0%E6%8D%AE%E8%BE%B9%E9%99%85%E6%94%B9%E5%96%84.pdf",
+    "PageCount": 10,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202607151826995015_1.pdf?1784144894000.pdf",
+    "LocalPath": "all report pdf/中国宏观数据点评：二季度经济增速不及预期，但6月大部分实体经济数据边际改善.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "浦银国际证券",
+    "Date": "2026-07-15",
+    "Name": "6月美国核心CPI环比再次超预期下滑，或锁定美联储7月按兵不动",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/6%E6%9C%88%E7%BE%8E%E5%9B%BD%E6%A0%B8%E5%BF%83CPI%E7%8E%AF%E6%AF%94%E5%86%8D%E6%AC%A1%E8%B6%85%E9%A2%84%E6%9C%9F%E4%B8%8B%E6%BB%91%EF%BC%8C%E6%88%96%E9%94%81%E5%AE%9A%E7%BE%8E%E8%81%94%E5%82%A87%E6%9C%88%E6%8C%89%E5%85%B5%E4%B8%8D%E5%8A%A8.pdf",
+    "PageCount": 8,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202607151826995002_1.pdf?1784144780000.pdf",
+    "LocalPath": "all report pdf/6月美国核心CPI环比再次超预期下滑，或锁定美联储7月按兵不动.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "北大国民经济研究中心",
+    "Date": "2026-07-15",
+    "Name": "进出口点评报告：调结构“高技术”产品贸易领跑，外贸增速继续上行——蔡含篇",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E8%BF%9B%E5%87%BA%E5%8F%A3%E7%82%B9%E8%AF%84%E6%8A%A5%E5%91%8A%EF%BC%9A%E8%B0%83%E7%BB%93%E6%9E%84%E2%80%9C%E9%AB%98%E6%8A%80%E6%9C%AF%E2%80%9D%E4%BA%A7%E5%93%81%E8%B4%B8%E6%98%93%E9%A2%86%E8%B7%91%EF%BC%8C%E5%A4%96%E8%B4%B8%E5%A2%9E%E9%80%9F%E7%BB%A7%E7%BB%AD%E4%B8%8A%E8%A1%8C%E2%80%94%E2%80%94%E8%94%A1%E5%90%AB%E7%AF%87.pdf",
+    "PageCount": 6,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202607151826994399_1.pdf?1784144102000.pdf",
+    "LocalPath": "all report pdf/进出口点评报告：调结构“高技术”产品贸易领跑，外贸增速继续上行——蔡含篇.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "联合资信评估",
+    "Date": "2026-07-15",
+    "Name": "2026年上半年经济数据点评：出口超预期韧性，内需分化下隐忧尚存",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/2026%E5%B9%B4%E4%B8%8A%E5%8D%8A%E5%B9%B4%E7%BB%8F%E6%B5%8E%E6%95%B0%E6%8D%AE%E7%82%B9%E8%AF%84%EF%BC%9A%E5%87%BA%E5%8F%A3%E8%B6%85%E9%A2%84%E6%9C%9F%E9%9F%A7%E6%80%A7%EF%BC%8C%E5%86%85%E9%9C%80%E5%88%86%E5%8C%96%E4%B8%8B%E9%9A%90%E5%BF%A7%E5%B0%9A%E5%AD%98.pdf",
+    "PageCount": 6,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202607151826993503_1.pdf?1784138490000.pdf",
+    "LocalPath": "all report pdf/2026年上半年经济数据点评：出口超预期韧性，内需分化下隐忧尚存.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "东海证券",
+    "Date": "2026-07-15",
+    "Name": "海外观察：美国2026年6月CPI数据-能源价格拖累通胀降温",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%B5%B7%E5%A4%96%E8%A7%82%E5%AF%9F%EF%BC%9A%E7%BE%8E%E5%9B%BD2026%E5%B9%B46%E6%9C%88CPI%E6%95%B0%E6%8D%AE-%E8%83%BD%E6%BA%90%E4%BB%B7%E6%A0%BC%E6%8B%96%E7%B4%AF%E9%80%9A%E8%83%80%E9%99%8D%E6%B8%A9.pdf",
+    "PageCount": 4,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202607151826993442_1.pdf?1784138295000.pdf",
+    "LocalPath": "all report pdf/海外观察：美国2026年6月CPI数据-能源价格拖累通胀降温.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "东海证券",
+    "Date": "2026-07-15",
+    "Name": "国内观察：2026年6月进出口数据：进出口再度走强",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%9B%BD%E5%86%85%E8%A7%82%E5%AF%9F%EF%BC%9A2026%E5%B9%B46%E6%9C%88%E8%BF%9B%E5%87%BA%E5%8F%A3%E6%95%B0%E6%8D%AE%EF%BC%9A%E8%BF%9B%E5%87%BA%E5%8F%A3%E5%86%8D%E5%BA%A6%E8%B5%B0%E5%BC%BA.pdf",
+    "PageCount": 5,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202607151826993438_1.pdf?1784138189000.pdf",
+    "LocalPath": "all report pdf/国内观察：2026年6月进出口数据：进出口再度走强.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "国金证券",
+    "Date": "2026-07-15",
+    "Name": "产业景气高频跟踪",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E4%BA%A7%E4%B8%9A%E6%99%AF%E6%B0%94%E9%AB%98%E9%A2%91%E8%B7%9F%E8%B8%AA.pdf",
+    "PageCount": 3,
+    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202607151826989120_1.pdf?1784132499000.pdf",
+    "LocalPath": "all report pdf/产业景气高频跟踪.pdf",
     "Summary": "未執行 AI 摘要"
   },
   {
@@ -393,101 +546,11 @@
   {
     "Source": "line報告備份",
     "Date": "2026-07-15",
-    "Name": "202607福邦 PCB",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/202607%E7%A6%8F%E9%82%A6%20PCB.pdf",
-    "PageCount": 43,
-    "OriginalLink": "https://drive.google.com/uc?export=download&id=10pd2kcY2zNZM___awR8KHvtdP-Gbh8au",
-    "LocalPath": "all report pdf/202607福邦 PCB.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "line報告備份",
-    "Date": "2026-07-15",
-    "Name": "2248華勝 群益",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/2248%E8%8F%AF%E5%8B%9D%20%E7%BE%A4%E7%9B%8A.pdf",
-    "PageCount": 6,
-    "OriginalLink": "https://drive.google.com/uc?export=download&id=1Iz9qeMa-Xy6MXXg3wqU9woha8FP8OiD2",
-    "LocalPath": "all report pdf/2248華勝 群益.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "line報告備份",
-    "Date": "2026-07-15",
-    "Name": "2408南亞科 元富",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/2408%E5%8D%97%E4%BA%9E%E7%A7%91%20%E5%85%83%E5%AF%8C.pdf",
-    "PageCount": 5,
-    "OriginalLink": "https://drive.google.com/uc?export=download&id=1rCLAs130UDs-QaNdd0UIR1AwLnzQ5r2E",
-    "LocalPath": "all report pdf/2408南亞科 元富.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "line報告備份",
-    "Date": "2026-07-15",
-    "Name": "3008大立光 元富",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/3008%E5%A4%A7%E7%AB%8B%E5%85%89%20%E5%85%83%E5%AF%8C.pdf",
-    "PageCount": 5,
-    "OriginalLink": "https://drive.google.com/uc?export=download&id=1ial5nyvZYRnLOzb4tjEW_ju8nQJ6bxOr",
-    "LocalPath": "all report pdf/3008大立光 元富.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "line報告備份",
-    "Date": "2026-07-15",
-    "Name": "3017奇鋐 群益",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/3017%E5%A5%87%E9%8B%90%20%E7%BE%A4%E7%9B%8A.pdf",
-    "PageCount": 7,
-    "OriginalLink": "https://drive.google.com/uc?export=download&id=1mRKyLmW_nl3IllWociScK0y-zvZn8r6c",
-    "LocalPath": "all report pdf/3017奇鋐 群益.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "line報告備份",
-    "Date": "2026-07-15",
-    "Name": "3491昇達科 玉山",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/3491%E6%98%87%E9%81%94%E7%A7%91%20%E7%8E%89%E5%B1%B1.pdf",
-    "PageCount": 5,
-    "OriginalLink": "https://drive.google.com/uc?export=download&id=1GI7w1LCYNi339SPrVqYuxOPL17tlddY6",
-    "LocalPath": "all report pdf/3491昇達科 玉山.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "line報告備份",
-    "Date": "2026-07-15",
-    "Name": "5388中磊 群益",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/5388%E4%B8%AD%E7%A3%8A%20%E7%BE%A4%E7%9B%8A.pdf",
-    "PageCount": 7,
-    "OriginalLink": "https://drive.google.com/uc?export=download&id=11nSVctn7Cl6bij6Gl43tCvp-Pm2zB6Bl",
-    "LocalPath": "all report pdf/5388中磊 群益.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "line報告備份",
-    "Date": "2026-07-15",
-    "Name": "5434崇越 永豐",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/5434%E5%B4%87%E8%B6%8A%20%E6%B0%B8%E8%B1%90.pdf",
-    "PageCount": 8,
-    "OriginalLink": "https://drive.google.com/uc?export=download&id=1anrrhXVqK8d2CXVr09sxpt97jU8Z6BM-",
-    "LocalPath": "all report pdf/5434崇越 永豐.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "line報告備份",
-    "Date": "2026-07-15",
-    "Name": "華南投顧-2303-聯電-1150714",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E8%8F%AF%E5%8D%97%E6%8A%95%E9%A1%A7-2303-%E8%81%AF%E9%9B%BB-1150714.pdf",
-    "PageCount": 8,
-    "OriginalLink": "https://drive.google.com/uc?export=download&id=1axlrc1NKTXZc_cbcYshK8eLDrSX1apuh",
-    "LocalPath": "all report pdf/華南投顧-2303-聯電-1150714.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "line報告備份",
-    "Date": "2026-07-15",
-    "Name": "華南投顧-2355-敬鵬-1150714",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E8%8F%AF%E5%8D%97%E6%8A%95%E9%A1%A7-2355-%E6%95%AC%E9%B5%AC-1150714.pdf",
-    "PageCount": 7,
-    "OriginalLink": "https://drive.google.com/uc?export=download&id=10JYe7Rl5MXFVSBsugBs2xFm63TsfGHIg",
-    "LocalPath": "all report pdf/華南投顧-2355-敬鵬-1150714.pdf",
+    "Name": "2313 華通丨宏遠丨20260715",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/2313%20%E8%8F%AF%E9%80%9A%E4%B8%A8%E5%AE%8F%E9%81%A0%E4%B8%A820260715.pdf",
+    "PageCount": 9,
+    "OriginalLink": "https://drive.google.com/uc?export=download&id=1WRnHifaVarCeerRtRcCiCkzHSzsCLxrn",
+    "LocalPath": "all report pdf/2313 華通丨宏遠丨20260715.pdf",
     "Summary": "未執行 AI 摘要"
   },
   {
@@ -498,6 +561,16 @@
     "PageCount": 17,
     "OriginalLink": "https://drive.google.com/uc?export=download&id=1d6CMy5t4NrRUqwxfVQEPhtF3CPfrzQ9J",
     "LocalPath": "all report pdf/260715_mq_UMC-initiation.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "line報告備份",
+    "Date": "2026-07-15",
+    "Name": "3551 世禾丨中信丨20260715",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/3551%20%E4%B8%96%E7%A6%BE%E4%B8%A8%E4%B8%AD%E4%BF%A1%E4%B8%A820260715.pdf",
+    "PageCount": 10,
+    "OriginalLink": "https://drive.google.com/uc?export=download&id=1T2fe9tQEV3PERqsH--5chwTwtciCULR5",
+    "LocalPath": "all report pdf/3551 世禾丨中信丨20260715.pdf",
     "Summary": "未執行 AI 摘要"
   },
   {
@@ -551,6 +624,16 @@
     "Summary": "未執行 AI 摘要"
   },
   {
+    "Source": "NLI",
+    "Date": "2026-07-15",
+    "Name": "中国の不動産関連統計（26年6月）～販売低迷が続く。在庫の減少は緩やかに進展",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E4%B8%AD%E5%9B%BD%E3%81%AE%E4%B8%8D%E5%8B%95%E7%94%A3%E9%96%A2%E9%80%A3%E7%B5%B1%E8%A8%88%EF%BC%8826%E5%B9%B46%E6%9C%88%EF%BC%89%EF%BD%9E%E8%B2%A9%E5%A3%B2%E4%BD%8E%E8%BF%B7%E3%81%8C%E7%B6%9A%E3%81%8F%E3%80%82%E5%9C%A8%E5%BA%AB%E3%81%AE%E6%B8%9B%E5%B0%91%E3%81%AF%E7%B7%A9%E3%82%84%E3%81%8B%E3%81%AB%E9%80%B2%E5%B1%95.pdf",
+    "PageCount": 3,
+    "OriginalLink": "https://www.nli-research.co.jp/files/topics/86257_ext_18_0.pdf?site=nli",
+    "LocalPath": "all report pdf/中国の不動産関連統計（26年6月）～販売低迷が続く。在庫の減少は緩やかに進展.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
     "Source": "渣打銀行 (Market Views)",
     "Date": "2026-07-15",
     "Name": "Download the report",
@@ -559,6 +642,545 @@
     "PageCount": 141,
     "OriginalLink": "https://www.sc.com/en/uploads/sites/66/content/docs/bain-report-southeast-asia-green-economy-2026.pdf",
     "LocalPath": "all report pdf/Download the report.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "WallstreetCN (Global)",
+    "Date": "2026-07-15",
+    "Name": "特朗普重申希望利率下降，称按兵不动总比加息好、很尊重沃什",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E7%94%B3%E5%B8%8C%E6%9C%9B%E5%88%A9%E7%8E%87%E4%B8%8B%E9%99%8D%EF%BC%8C%E7%A7%B0%E6%8C%89%E5%85%B5%E4%B8%8D%E5%8A%A8%E6%80%BB%E6%AF%94%E5%8A%A0%E6%81%AF%E5%A5%BD%E3%80%81%E5%BE%88%E5%B0%8A%E9%87%8D%E6%B2%83%E4%BB%80.pdf",
+    "Type": "Web",
+    "PageCount": 1,
+    "OriginalLink": "https://wallstreetcn.com/articles/3777055",
+    "LocalPath": "all report pdf/特朗普重申希望利率下降，称按兵不动总比加息好、很尊重沃什.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "WallstreetCN (Global)",
+    "Date": "2026-07-15",
+    "Name": "美联储理事库克：通胀风险已压倒就业风险，若通胀不降温将采取行动",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%BE%8E%E8%81%94%E5%82%A8%E7%90%86%E4%BA%8B%E5%BA%93%E5%85%8B%EF%BC%9A%E9%80%9A%E8%83%80%E9%A3%8E%E9%99%A9%E5%B7%B2%E5%8E%8B%E5%80%92%E5%B0%B1%E4%B8%9A%E9%A3%8E%E9%99%A9%EF%BC%8C%E8%8B%A5%E9%80%9A%E8%83%80%E4%B8%8D%E9%99%8D%E6%B8%A9%E5%B0%86%E9%87%87%E5%8F%96%E8%A1%8C%E5%8A%A8.pdf",
+    "Type": "Web",
+    "PageCount": 2,
+    "OriginalLink": "https://wallstreetcn.com/articles/3777059",
+    "LocalPath": "all report pdf/美联储理事库克：通胀风险已压倒就业风险，若通胀不降温将采取行动.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "WallstreetCN (Global)",
+    "Date": "2026-07-15",
+    "Name": "报道称苹果寻求收购芯片公司，加速布局AI服务器能力",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%8A%A5%E9%81%93%E7%A7%B0%E8%8B%B9%E6%9E%9C%E5%AF%BB%E6%B1%82%E6%94%B6%E8%B4%AD%E8%8A%AF%E7%89%87%E5%85%AC%E5%8F%B8%EF%BC%8C%E5%8A%A0%E9%80%9F%E5%B8%83%E5%B1%80AI%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%83%BD%E5%8A%9B.pdf",
+    "Type": "Web",
+    "PageCount": 1,
+    "OriginalLink": "https://wallstreetcn.com/articles/3777054",
+    "LocalPath": "all report pdf/报道称苹果寻求收购芯片公司，加速布局AI服务器能力.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "WallstreetCN (Global)",
+    "Date": "2026-07-15",
+    "Name": "特朗普批评纽约暂停AI数据中心审批：这是\"糟糕透顶的决定\"，税收与就业是\"液态黄金\"",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%B9%E8%AF%84%E7%BA%BD%E7%BA%A6%E6%9A%82%E5%81%9CAI%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E5%AE%A1%E6%89%B9%EF%BC%9A%E8%BF%99%E6%98%AF_%E7%B3%9F%E7%B3%95%E9%80%8F%E9%A1%B6%E7%9A%84%E5%86%B3%E5%AE%9A_%EF%BC%8C%E7%A8%8E%E6%94%B6%E4%B8%8E%E5%B0%B1%E4%B8%9A%E6%98%AF_%E6%B6%B2%E6%80%81%E9%BB%84%E9%87%91_.pdf",
+    "Type": "Web",
+    "PageCount": 2,
+    "OriginalLink": "https://wallstreetcn.com/articles/3777058",
+    "LocalPath": "all report pdf/特朗普批评纽约暂停AI数据中心审批：这是_糟糕透顶的决定_，税收与就业是_液态黄金_.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "WallstreetCN (Global)",
+    "Date": "2026-07-15",
+    "Name": "阿根廷逆转绝杀英格兰，将与西班牙争冠",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%80%86%E8%BD%AC%E7%BB%9D%E6%9D%80%E8%8B%B1%E6%A0%BC%E5%85%B0%EF%BC%8C%E5%B0%86%E4%B8%8E%E8%A5%BF%E7%8F%AD%E7%89%99%E4%BA%89%E5%86%A0.pdf",
+    "Type": "Web",
+    "PageCount": 2,
+    "OriginalLink": "https://wallstreetcn.com/articles/3777056",
+    "LocalPath": "all report pdf/阿根廷逆转绝杀英格兰，将与西班牙争冠.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "WallstreetCN (Global)",
+    "Date": "2026-07-15",
+    "Name": "PPI确认通胀降温，美股小幅收涨，美光、闪迪暴跌8%，原油、黄金走V",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/PPI%E7%A1%AE%E8%AE%A4%E9%80%9A%E8%83%80%E9%99%8D%E6%B8%A9%EF%BC%8C%E7%BE%8E%E8%82%A1%E5%B0%8F%E5%B9%85%E6%94%B6%E6%B6%A8%EF%BC%8C%E7%BE%8E%E5%85%89%E3%80%81%E9%97%AA%E8%BF%AA%E6%9A%B4%E8%B7%8C8%25%EF%BC%8C%E5%8E%9F%E6%B2%B9%E3%80%81%E9%BB%84%E9%87%91%E8%B5%B0V.pdf",
+    "Type": "Web",
+    "PageCount": 9,
+    "OriginalLink": "https://wallstreetcn.com/articles/3776964",
+    "LocalPath": "all report pdf/PPI确认通胀降温，美股小幅收涨，美光、闪迪暴跌8%，原油、黄金走V.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "WallstreetCN (Global)",
+    "Date": "2026-07-15",
+    "Name": "美伊冲突持续威胁，美国或再出手压制油价，白宫被曝考虑再次延长“船禁”豁免",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%BE%8E%E4%BC%8A%E5%86%B2%E7%AA%81%E6%8C%81%E7%BB%AD%E5%A8%81%E8%83%81%EF%BC%8C%E7%BE%8E%E5%9B%BD%E6%88%96%E5%86%8D%E5%87%BA%E6%89%8B%E5%8E%8B%E5%88%B6%E6%B2%B9%E4%BB%B7%EF%BC%8C%E7%99%BD%E5%AE%AB%E8%A2%AB%E6%9B%9D%E8%80%83%E8%99%91%E5%86%8D%E6%AC%A1%E5%BB%B6%E9%95%BF%E2%80%9C%E8%88%B9%E7%A6%81%E2%80%9D%E8%B1%81%E5%85%8D.pdf",
+    "Type": "Web",
+    "PageCount": 3,
+    "OriginalLink": "https://wallstreetcn.com/articles/3777053",
+    "LocalPath": "all report pdf/美伊冲突持续威胁，美国或再出手压制油价，白宫被曝考虑再次延长“船禁”豁免.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "WallstreetCN (Global)",
+    "Date": "2026-07-15",
+    "Name": "破发！SpaceX股价首次跌穿135美元IPO发行价，公司债一路下跌，收益率高达7.5%堪比垃圾债",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%A0%B4%E5%8F%91%EF%BC%81SpaceX%E8%82%A1%E4%BB%B7%E9%A6%96%E6%AC%A1%E8%B7%8C%E7%A9%BF135%E7%BE%8E%E5%85%83IPO%E5%8F%91%E8%A1%8C%E4%BB%B7%EF%BC%8C%E5%85%AC%E5%8F%B8%E5%80%BA%E4%B8%80%E8%B7%AF%E4%B8%8B%E8%B7%8C%EF%BC%8C%E6%94%B6%E7%9B%8A%E7%8E%87%E9%AB%98%E8%BE%BE7.5%25%E5%A0%AA%E6%AF%94%E5%9E%83%E5%9C%BE%E5%80%BA.pdf",
+    "Type": "Web",
+    "PageCount": 3,
+    "OriginalLink": "https://wallstreetcn.com/articles/3777047",
+    "LocalPath": "all report pdf/破发！SpaceX股价首次跌穿135美元IPO发行价，公司债一路下跌，收益率高达7.5%堪比垃圾债.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "WallstreetCN (Global)",
+    "Date": "2026-07-15",
+    "Name": "报道：ASML计划上调光刻机价格，台积电表示反对",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%8A%A5%E9%81%93%EF%BC%9AASML%E8%AE%A1%E5%88%92%E4%B8%8A%E8%B0%83%E5%85%89%E5%88%BB%E6%9C%BA%E4%BB%B7%E6%A0%BC%EF%BC%8C%E5%8F%B0%E7%A7%AF%E7%94%B5%E8%A1%A8%E7%A4%BA%E5%8F%8D%E5%AF%B9.pdf",
+    "Type": "Web",
+    "PageCount": 2,
+    "OriginalLink": "https://wallstreetcn.com/articles/3777051",
+    "LocalPath": "all report pdf/报道：ASML计划上调光刻机价格，台积电表示反对.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "WallstreetCN (Global)",
+    "Date": "2026-07-15",
+    "Name": "美伊冲突高压，伊朗警告违约必反制、拒绝主动求谈，美军恢复封锁并发动新打击，特朗普剑指镐山核设施",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%BE%8E%E4%BC%8A%E5%86%B2%E7%AA%81%E9%AB%98%E5%8E%8B%EF%BC%8C%E4%BC%8A%E6%9C%97%E8%AD%A6%E5%91%8A%E8%BF%9D%E7%BA%A6%E5%BF%85%E5%8F%8D%E5%88%B6%E3%80%81%E6%8B%92%E7%BB%9D%E4%B8%BB%E5%8A%A8%E6%B1%82%E8%B0%88%EF%BC%8C%E7%BE%8E%E5%86%9B%E6%81%A2%E5%A4%8D%E5%B0%81%E9%94%81%E5%B9%B6%E5%8F%91%E5%8A%A8%E6%96%B0%E6%89%93%E5%87%BB%EF%BC%8C%E7%89%B9%E6%9C%97%E6%99%AE%E5%89%91%E6%8C%87%E9%95%90%E5%B1%B1%E6%A0%B8%E8%AE%BE%E6%96%BD.pdf",
+    "Type": "Web",
+    "PageCount": 4,
+    "OriginalLink": "https://wallstreetcn.com/articles/3777049",
+    "LocalPath": "all report pdf/美伊冲突高压，伊朗警告违约必反制、拒绝主动求谈，美军恢复封锁并发动新打击，特朗普剑指镐山核设施.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "WallstreetCN (Global)",
+    "Date": "2026-07-15",
+    "Name": "美联储褐皮书：美国经济微幅至温和增长，通胀前景存分歧，劳动力市场稳健",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%BE%8E%E8%81%94%E5%82%A8%E8%A4%90%E7%9A%AE%E4%B9%A6%EF%BC%9A%E7%BE%8E%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%BE%AE%E5%B9%85%E8%87%B3%E6%B8%A9%E5%92%8C%E5%A2%9E%E9%95%BF%EF%BC%8C%E9%80%9A%E8%83%80%E5%89%8D%E6%99%AF%E5%AD%98%E5%88%86%E6%AD%A7%EF%BC%8C%E5%8A%B3%E5%8A%A8%E5%8A%9B%E5%B8%82%E5%9C%BA%E7%A8%B3%E5%81%A5.pdf",
+    "Type": "Web",
+    "PageCount": 3,
+    "OriginalLink": "https://wallstreetcn.com/articles/3777050",
+    "LocalPath": "all report pdf/美联储褐皮书：美国经济微幅至温和增长，通胀前景存分歧，劳动力市场稳健.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "WallstreetCN (Global)",
+    "Date": "2026-07-15",
+    "Name": "黄仁勋回怼SemiAnalysis的产品延期论，称英伟达Vera Rubin将按计划向客户交付",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E9%BB%84%E4%BB%81%E5%8B%8B%E5%9B%9E%E6%80%BCSemiAnalysis%E7%9A%84%E4%BA%A7%E5%93%81%E5%BB%B6%E6%9C%9F%E8%AE%BA%EF%BC%8C%E7%A7%B0%E8%8B%B1%E4%BC%9F%E8%BE%BEVera%20Rubin%E5%B0%86%E6%8C%89%E8%AE%A1%E5%88%92%E5%90%91%E5%AE%A2%E6%88%B7%E4%BA%A4%E4%BB%98.pdf",
+    "Type": "Web",
+    "PageCount": 2,
+    "OriginalLink": "https://wallstreetcn.com/articles/3777048",
+    "LocalPath": "all report pdf/黄仁勋回怼SemiAnalysis的产品延期论，称英伟达Vera Rubin将按计划向客户交付.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "WallstreetCN (Global)",
+    "Date": "2026-07-15",
+    "Name": "530亿美元、28%溢价：Stripe联手Advent\"反向收购\"PayPal，支付史上“最冒险的赌局”",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/530%E4%BA%BF%E7%BE%8E%E5%85%83%E3%80%8128%25%E6%BA%A2%E4%BB%B7%EF%BC%9AStripe%E8%81%94%E6%89%8BAdvent_%E5%8F%8D%E5%90%91%E6%94%B6%E8%B4%AD_PayPal%EF%BC%8C%E6%94%AF%E4%BB%98%E5%8F%B2%E4%B8%8A%E2%80%9C%E6%9C%80%E5%86%92%E9%99%A9%E7%9A%84%E8%B5%8C%E5%B1%80%E2%80%9D.pdf",
+    "Type": "Web",
+    "PageCount": 2,
+    "OriginalLink": "https://wallstreetcn.com/articles/3777011",
+    "LocalPath": "all report pdf/530亿美元、28%溢价：Stripe联手Advent_反向收购_PayPal，支付史上“最冒险的赌局”.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "WallstreetCN (Global)",
+    "Date": "2026-07-15",
+    "Name": "加拿大央行连续第六次维持利率不变：经济显现改善迹象，预计通胀明年初重返2%目标",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%A4%AE%E8%A1%8C%E8%BF%9E%E7%BB%AD%E7%AC%AC%E5%85%AD%E6%AC%A1%E7%BB%B4%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98%EF%BC%9A%E7%BB%8F%E6%B5%8E%E6%98%BE%E7%8E%B0%E6%94%B9%E5%96%84%E8%BF%B9%E8%B1%A1%EF%BC%8C%E9%A2%84%E8%AE%A1%E9%80%9A%E8%83%80%E6%98%8E%E5%B9%B4%E5%88%9D%E9%87%8D%E8%BF%942%25%E7%9B%AE%E6%A0%87.pdf",
+    "Type": "Web",
+    "PageCount": 2,
+    "OriginalLink": "https://wallstreetcn.com/articles/3777046",
+    "LocalPath": "all report pdf/加拿大央行连续第六次维持利率不变：经济显现改善迹象，预计通胀明年初重返2%目标.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "WallstreetCN (Global)",
+    "Date": "2026-07-15",
+    "Name": "Anthropic冲刺IPO，最快10月挂牌，或抢先OpenAI登陆资本市场",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Anthropic%E5%86%B2%E5%88%BAIPO%EF%BC%8C%E6%9C%80%E5%BF%AB10%E6%9C%88%E6%8C%82%E7%89%8C%EF%BC%8C%E6%88%96%E6%8A%A2%E5%85%88OpenAI%E7%99%BB%E9%99%86%E8%B5%84%E6%9C%AC%E5%B8%82%E5%9C%BA.pdf",
+    "Type": "Web",
+    "PageCount": 2,
+    "OriginalLink": "https://wallstreetcn.com/articles/3777045",
+    "LocalPath": "all report pdf/Anthropic冲刺IPO，最快10月挂牌，或抢先OpenAI登陆资本市场.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "WallstreetCN (Global)",
+    "Date": "2026-07-15",
+    "Name": "AI牛市满血复活？瑞银：前期调整只是“夏日洗盘”，财报季有望推动行情延续",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/AI%E7%89%9B%E5%B8%82%E6%BB%A1%E8%A1%80%E5%A4%8D%E6%B4%BB%EF%BC%9F%E7%91%9E%E9%93%B6%EF%BC%9A%E5%89%8D%E6%9C%9F%E8%B0%83%E6%95%B4%E5%8F%AA%E6%98%AF%E2%80%9C%E5%A4%8F%E6%97%A5%E6%B4%97%E7%9B%98%E2%80%9D%EF%BC%8C%E8%B4%A2%E6%8A%A5%E5%AD%A3%E6%9C%89%E6%9C%9B%E6%8E%A8%E5%8A%A8%E8%A1%8C%E6%83%85%E5%BB%B6%E7%BB%AD.pdf",
+    "Type": "Web",
+    "PageCount": 1,
+    "OriginalLink": "https://wallstreetcn.com/articles/3777043",
+    "LocalPath": "all report pdf/AI牛市满血复活？瑞银：前期调整只是“夏日洗盘”，财报季有望推动行情延续.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "WallstreetCN (Global)",
+    "Date": "2026-07-15",
+    "Name": "闪迪跌逾12%领跌，SK海力士重挫8%：美股存储板块开盘遭全线抛售",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E9%97%AA%E8%BF%AA%E8%B7%8C%E9%80%BE12%25%E9%A2%86%E8%B7%8C%EF%BC%8CSK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E9%87%8D%E6%8C%AB8%25%EF%BC%9A%E7%BE%8E%E8%82%A1%E5%AD%98%E5%82%A8%E6%9D%BF%E5%9D%97%E5%BC%80%E7%9B%98%E9%81%AD%E5%85%A8%E7%BA%BF%E6%8A%9B%E5%94%AE.pdf",
+    "Type": "Web",
+    "PageCount": 3,
+    "OriginalLink": "https://wallstreetcn.com/articles/3777044",
+    "LocalPath": "all report pdf/闪迪跌逾12%领跌，SK海力士重挫8%：美股存储板块开盘遭全线抛售.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "WallstreetCN (Global)",
+    "Date": "2026-07-15",
+    "Name": "IBM“暴雷”只是开始？伯恩斯坦：行业预算大转移，资金正在加速撤离传统IT",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/IBM%E2%80%9C%E6%9A%B4%E9%9B%B7%E2%80%9D%E5%8F%AA%E6%98%AF%E5%BC%80%E5%A7%8B%EF%BC%9F%E4%BC%AF%E6%81%A9%E6%96%AF%E5%9D%A6%EF%BC%9A%E8%A1%8C%E4%B8%9A%E9%A2%84%E7%AE%97%E5%A4%A7%E8%BD%AC%E7%A7%BB%EF%BC%8C%E8%B5%84%E9%87%91%E6%AD%A3%E5%9C%A8%E5%8A%A0%E9%80%9F%E6%92%A4%E7%A6%BB%E4%BC%A0%E7%BB%9FIT.pdf",
+    "Type": "Web",
+    "PageCount": 3,
+    "OriginalLink": "https://wallstreetcn.com/articles/3777041",
+    "LocalPath": "all report pdf/IBM“暴雷”只是开始？伯恩斯坦：行业预算大转移，资金正在加速撤离传统IT.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "WallstreetCN (Global)",
+    "Date": "2026-07-15",
+    "Name": "油价重返85美元，市场对欧央行继续加息的押注升温",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%B2%B9%E4%BB%B7%E9%87%8D%E8%BF%9485%E7%BE%8E%E5%85%83%EF%BC%8C%E5%B8%82%E5%9C%BA%E5%AF%B9%E6%AC%A7%E5%A4%AE%E8%A1%8C%E7%BB%A7%E7%BB%AD%E5%8A%A0%E6%81%AF%E7%9A%84%E6%8A%BC%E6%B3%A8%E5%8D%87%E6%B8%A9.pdf",
+    "Type": "Web",
+    "PageCount": 3,
+    "OriginalLink": "https://wallstreetcn.com/articles/3777040",
+    "LocalPath": "all report pdf/油价重返85美元，市场对欧央行继续加息的押注升温.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "WallstreetCN (Global)",
+    "Date": "2026-07-15",
+    "Name": "留给开源模型的时间，就剩6个月？",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%95%99%E7%BB%99%E5%BC%80%E6%BA%90%E6%A8%A1%E5%9E%8B%E7%9A%84%E6%97%B6%E9%97%B4%EF%BC%8C%E5%B0%B1%E5%89%A96%E4%B8%AA%E6%9C%88%EF%BC%9F.pdf",
+    "Type": "Web",
+    "PageCount": 5,
+    "OriginalLink": "https://wallstreetcn.com/articles/3777039",
+    "LocalPath": "all report pdf/留给开源模型的时间，就剩6个月？.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "WallstreetCN (Global)",
+    "Date": "2026-07-15",
+    "Name": "广发郭磊：对上半年宏观经济数据的四点认识",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%B9%BF%E5%8F%91%E9%83%AD%E7%A3%8A%EF%BC%9A%E5%AF%B9%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E6%95%B0%E6%8D%AE%E7%9A%84%E5%9B%9B%E7%82%B9%E8%AE%A4%E8%AF%86.pdf",
+    "Type": "Web",
+    "PageCount": 5,
+    "OriginalLink": "https://wallstreetcn.com/articles/3777038",
+    "LocalPath": "all report pdf/广发郭磊：对上半年宏观经济数据的四点认识.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "WallstreetCN (Global)",
+    "Date": "2026-07-15",
+    "Name": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%B2%83%E4%BB%80%EF%BC%9AAI%E6%8E%A8%E9%AB%98%E4%BB%B7%E6%A0%BC%E4%BD%86%E6%9C%AA%E5%BF%85%E6%8E%A8%E5%8D%87%E9%80%9A%E8%83%80%EF%BC%8C%E4%BB%BB%E4%BD%95%E9%80%9A%E8%83%80%E6%8C%87%E6%A0%87%E9%83%BD%E4%B8%8D%E7%B2%BE%E7%A1%AE%EF%BC%8C%E7%89%B9%E6%9C%97%E6%99%AE%E6%B2%A1%E8%AF%95%E5%9B%BE%E5%B9%B2%E9%A2%84%E7%BE%8E%E8%81%94%E5%82%A8.pdf",
+    "Type": "Web",
+    "PageCount": 3,
+    "OriginalLink": "https://wallstreetcn.com/articles/3777042",
+    "LocalPath": "all report pdf/沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "WallstreetCN (Global)",
+    "Date": "2026-07-15",
+    "Name": "哈塞特：数据未构成加息理由，沃什会带领美联储作出“正确决定”",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%93%88%E5%A1%9E%E7%89%B9%EF%BC%9A%E6%95%B0%E6%8D%AE%E6%9C%AA%E6%9E%84%E6%88%90%E5%8A%A0%E6%81%AF%E7%90%86%E7%94%B1%EF%BC%8C%E6%B2%83%E4%BB%80%E4%BC%9A%E5%B8%A6%E9%A2%86%E7%BE%8E%E8%81%94%E5%82%A8%E4%BD%9C%E5%87%BA%E2%80%9C%E6%AD%A3%E7%A1%AE%E5%86%B3%E5%AE%9A%E2%80%9D.pdf",
+    "Type": "Web",
+    "PageCount": 2,
+    "OriginalLink": "https://wallstreetcn.com/articles/3777027",
+    "LocalPath": "all report pdf/哈塞特：数据未构成加息理由，沃什会带领美联储作出“正确决定”.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "WallstreetCN (Global)",
+    "Date": "2026-07-15",
+    "Name": "豆包AI手机今年将发布多款机型",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E8%B1%86%E5%8C%85AI%E6%89%8B%E6%9C%BA%E4%BB%8A%E5%B9%B4%E5%B0%86%E5%8F%91%E5%B8%83%E5%A4%9A%E6%AC%BE%E6%9C%BA%E5%9E%8B.pdf",
+    "Type": "Web",
+    "PageCount": 1,
+    "OriginalLink": "https://wallstreetcn.com/articles/3777036",
+    "LocalPath": "all report pdf/豆包AI手机今年将发布多款机型.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "WallstreetCN (Global)",
+    "Date": "2026-07-15",
+    "Name": "大宗商品回到了2022年",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%A4%A7%E5%AE%97%E5%95%86%E5%93%81%E5%9B%9E%E5%88%B0%E4%BA%862022%E5%B9%B4.pdf",
+    "Type": "Web",
+    "PageCount": 8,
+    "OriginalLink": "https://wallstreetcn.com/articles/3777028",
+    "LocalPath": "all report pdf/大宗商品回到了2022年.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "WallstreetCN (Global)",
+    "Date": "2026-07-15",
+    "Name": "“猴概念”突然爆发，宏辉果蔬强势涨停！因为“卖香蕉”？",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E2%80%9C%E7%8C%B4%E6%A6%82%E5%BF%B5%E2%80%9D%E7%AA%81%E7%84%B6%E7%88%86%E5%8F%91%EF%BC%8C%E5%AE%8F%E8%BE%89%E6%9E%9C%E8%94%AC%E5%BC%BA%E5%8A%BF%E6%B6%A8%E5%81%9C%EF%BC%81%E5%9B%A0%E4%B8%BA%E2%80%9C%E5%8D%96%E9%A6%99%E8%95%89%E2%80%9D%EF%BC%9F.pdf",
+    "Type": "Web",
+    "PageCount": 2,
+    "OriginalLink": "https://wallstreetcn.com/articles/3777034",
+    "LocalPath": "all report pdf/“猴概念”突然爆发，宏辉果蔬强势涨停！因为“卖香蕉”？.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "WallstreetCN (Global)",
+    "Date": "2026-07-15",
+    "Name": "美联储“三把手”：利率处于有利位置，有理由相信通胀已达峰值",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%BE%8E%E8%81%94%E5%82%A8%E2%80%9C%E4%B8%89%E6%8A%8A%E6%89%8B%E2%80%9D%EF%BC%9A%E5%88%A9%E7%8E%87%E5%A4%84%E4%BA%8E%E6%9C%89%E5%88%A9%E4%BD%8D%E7%BD%AE%EF%BC%8C%E6%9C%89%E7%90%86%E7%94%B1%E7%9B%B8%E4%BF%A1%E9%80%9A%E8%83%80%E5%B7%B2%E8%BE%BE%E5%B3%B0%E5%80%BC.pdf",
+    "Type": "Web",
+    "PageCount": 2,
+    "OriginalLink": "https://wallstreetcn.com/articles/3777033",
+    "LocalPath": "all report pdf/美联储“三把手”：利率处于有利位置，有理由相信通胀已达峰值.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "WallstreetCN (Global)",
+    "Date": "2026-07-15",
+    "Name": "通胀全面回落！美国6月PPI同比 5.5%，环比创六年来最大跌幅，核心PPI同比4.7%低于预期",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E9%80%9A%E8%83%80%E5%85%A8%E9%9D%A2%E5%9B%9E%E8%90%BD%EF%BC%81%E7%BE%8E%E5%9B%BD6%E6%9C%88PPI%E5%90%8C%E6%AF%94%205.5%25%EF%BC%8C%E7%8E%AF%E6%AF%94%E5%88%9B%E5%85%AD%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%A4%A7%E8%B7%8C%E5%B9%85%EF%BC%8C%E6%A0%B8%E5%BF%83PPI%E5%90%8C%E6%AF%944.7%25%E4%BD%8E%E4%BA%8E%E9%A2%84%E6%9C%9F.pdf",
+    "Type": "Web",
+    "PageCount": 4,
+    "OriginalLink": "https://wallstreetcn.com/articles/3777031",
+    "LocalPath": "all report pdf/通胀全面回落！美国6月PPI同比 5.5%，环比创六年来最大跌幅，核心PPI同比4.7%低于预期.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "WallstreetCN (Global)",
+    "Date": "2026-07-15",
+    "Name": "华尔街集体看多：ASML产能激增，内存“见顶论”可以休矣！",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%8D%8E%E5%B0%94%E8%A1%97%E9%9B%86%E4%BD%93%E7%9C%8B%E5%A4%9A%EF%BC%9AASML%E4%BA%A7%E8%83%BD%E6%BF%80%E5%A2%9E%EF%BC%8C%E5%86%85%E5%AD%98%E2%80%9C%E8%A7%81%E9%A1%B6%E8%AE%BA%E2%80%9D%E5%8F%AF%E4%BB%A5%E4%BC%91%E7%9F%A3%EF%BC%81.pdf",
+    "Type": "Web",
+    "PageCount": 3,
+    "OriginalLink": "https://wallstreetcn.com/articles/3777029",
+    "LocalPath": "all report pdf/华尔街集体看多：ASML产能激增，内存“见顶论”可以休矣！.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "WallstreetCN (Global)",
+    "Date": "2026-07-15",
+    "Name": "美军称对伊朗进行了90分钟打击",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%BE%8E%E5%86%9B%E7%A7%B0%E5%AF%B9%E4%BC%8A%E6%9C%97%E8%BF%9B%E8%A1%8C%E4%BA%8690%E5%88%86%E9%92%9F%E6%89%93%E5%87%BB.pdf",
+    "Type": "Web",
+    "PageCount": 2,
+    "OriginalLink": "https://wallstreetcn.com/articles/3777022",
+    "LocalPath": "all report pdf/美军称对伊朗进行了90分钟打击.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "WallstreetCN (Global)",
+    "Date": "2026-07-15",
+    "Name": "大摩二季度净营收、利润双双创纪录，股票交易收入同比增长近七成 | 财报见闻",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%A4%A7%E6%91%A9%E4%BA%8C%E5%AD%A3%E5%BA%A6%E5%87%80%E8%90%A5%E6%94%B6%E3%80%81%E5%88%A9%E6%B6%A6%E5%8F%8C%E5%8F%8C%E5%88%9B%E7%BA%AA%E5%BD%95%EF%BC%8C%E8%82%A1%E7%A5%A8%E4%BA%A4%E6%98%93%E6%94%B6%E5%85%A5%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF%E8%BF%91%E4%B8%83%E6%88%90%20_%20%E8%B4%A2%E6%8A%A5%E8%A7%81%E9%97%BB.pdf",
+    "Type": "Web",
+    "PageCount": 4,
+    "OriginalLink": "https://wallstreetcn.com/articles/3777026",
+    "LocalPath": "all report pdf/大摩二季度净营收、利润双双创纪录，股票交易收入同比增长近七成 _ 财报见闻.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "WallstreetCN (Global)",
+    "Date": "2026-07-15",
+    "Name": "习近平在上海考察时强调 全面践行人民城市理念 高质量推进城市更新 蔡奇陪同考察",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E4%B8%8A%E6%B5%B7%E8%80%83%E5%AF%9F%E6%97%B6%E5%BC%BA%E8%B0%83%20%E5%85%A8%E9%9D%A2%E8%B7%B5%E8%A1%8C%E4%BA%BA%E6%B0%91%E5%9F%8E%E5%B8%82%E7%90%86%E5%BF%B5%20%E9%AB%98%E8%B4%A8%E9%87%8F%E6%8E%A8%E8%BF%9B%E5%9F%8E%E5%B8%82%E6%9B%B4%E6%96%B0%20%E8%94%A1%E5%A5%87%E9%99%AA%E5%90%8C%E8%80%83%E5%AF%9F.pdf",
+    "Type": "Web",
+    "PageCount": 2,
+    "OriginalLink": "https://wallstreetcn.com/articles/3777025",
+    "LocalPath": "all report pdf/习近平在上海考察时强调 全面践行人民城市理念 高质量推进城市更新 蔡奇陪同考察.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "WallstreetCN (Global)",
+    "Date": "2026-07-15",
+    "Name": "事关两倍海力士",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E4%BA%8B%E5%85%B3%E4%B8%A4%E5%80%8D%E6%B5%B7%E5%8A%9B%E5%A3%AB.pdf",
+    "Type": "Web",
+    "PageCount": 7,
+    "OriginalLink": "https://wallstreetcn.com/articles/3777017",
+    "LocalPath": "all report pdf/事关两倍海力士.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "WallstreetCN (Global)",
+    "Date": "2026-07-15",
+    "Name": "又有科技基金经理2季报“发声”：本轮AI产业周期和历史上科技泡沫完全不同",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%8F%88%E6%9C%89%E7%A7%91%E6%8A%80%E5%9F%BA%E9%87%91%E7%BB%8F%E7%90%862%E5%AD%A3%E6%8A%A5%E2%80%9C%E5%8F%91%E5%A3%B0%E2%80%9D%EF%BC%9A%E6%9C%AC%E8%BD%AEAI%E4%BA%A7%E4%B8%9A%E5%91%A8%E6%9C%9F%E5%92%8C%E5%8E%86%E5%8F%B2%E4%B8%8A%E7%A7%91%E6%8A%80%E6%B3%A1%E6%B2%AB%E5%AE%8C%E5%85%A8%E4%B8%8D%E5%90%8C.pdf",
+    "Type": "Web",
+    "PageCount": 3,
+    "OriginalLink": "https://wallstreetcn.com/articles/3777024",
+    "LocalPath": "all report pdf/又有科技基金经理2季报“发声”：本轮AI产业周期和历史上科技泡沫完全不同.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "WallstreetCN (Global)",
+    "Date": "2026-07-15",
+    "Name": "中国6月新增社融3.36万亿元，新增人民币贷款1.61万亿元，M2同比增长8%",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E4%B8%AD%E5%9B%BD6%E6%9C%88%E6%96%B0%E5%A2%9E%E7%A4%BE%E8%9E%8D3.36%E4%B8%87%E4%BA%BF%E5%85%83%EF%BC%8C%E6%96%B0%E5%A2%9E%E4%BA%BA%E6%B0%91%E5%B8%81%E8%B4%B7%E6%AC%BE1.61%E4%B8%87%E4%BA%BF%E5%85%83%EF%BC%8CM2%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF8%25.pdf",
+    "Type": "Web",
+    "PageCount": 5,
+    "OriginalLink": "https://wallstreetcn.com/articles/3776999",
+    "LocalPath": "all report pdf/中国6月新增社融3.36万亿元，新增人民币贷款1.61万亿元，M2同比增长8%.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "WallstreetCN (Global)",
+    "Date": "2026-07-15",
+    "Name": "资深宏观投资人Jordi Visser：AI加速颠覆，未来一半的标普500公司或将无关紧要",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E8%B5%84%E6%B7%B1%E5%AE%8F%E8%A7%82%E6%8A%95%E8%B5%84%E4%BA%BAJordi%20Visser%EF%BC%9AAI%E5%8A%A0%E9%80%9F%E9%A2%A0%E8%A6%86%EF%BC%8C%E6%9C%AA%E6%9D%A5%E4%B8%80%E5%8D%8A%E7%9A%84%E6%A0%87%E6%99%AE500%E5%85%AC%E5%8F%B8%E6%88%96%E5%B0%86%E6%97%A0%E5%85%B3%E7%B4%A7%E8%A6%81.pdf",
+    "Type": "Web",
+    "PageCount": 1,
+    "OriginalLink": "https://wallstreetcn.com/articles/3777013",
+    "LocalPath": "all report pdf/资深宏观投资人Jordi Visser：AI加速颠覆，未来一半的标普500公司或将无关紧要.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "WallstreetCN (Global)",
+    "Date": "2026-07-15",
+    "Name": "AI存储周期爆发，佰维存储上半年净利预增70亿元至75亿元，上年同期亏损2.26亿元｜财报见闻",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/AI%E5%AD%98%E5%82%A8%E5%91%A8%E6%9C%9F%E7%88%86%E5%8F%91%EF%BC%8C%E4%BD%B0%E7%BB%B4%E5%AD%98%E5%82%A8%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%87%80%E5%88%A9%E9%A2%84%E5%A2%9E70%E4%BA%BF%E5%85%83%E8%87%B375%E4%BA%BF%E5%85%83%EF%BC%8C%E4%B8%8A%E5%B9%B4%E5%90%8C%E6%9C%9F%E4%BA%8F%E6%8D%9F2.26%E4%BA%BF%E5%85%83%EF%BD%9C%E8%B4%A2%E6%8A%A5%E8%A7%81%E9%97%BB.pdf",
+    "Type": "Web",
+    "PageCount": 3,
+    "OriginalLink": "https://wallstreetcn.com/articles/3777016",
+    "LocalPath": "all report pdf/AI存储周期爆发，佰维存储上半年净利预增70亿元至75亿元，上年同期亏损2.26亿元｜财报见闻.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "WallstreetCN (Global)",
+    "Date": "2026-07-15",
+    "Name": "小米开源具身生成大模型U0，要给机器人批量“造数据”",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%B0%8F%E7%B1%B3%E5%BC%80%E6%BA%90%E5%85%B7%E8%BA%AB%E7%94%9F%E6%88%90%E5%A4%A7%E6%A8%A1%E5%9E%8BU0%EF%BC%8C%E8%A6%81%E7%BB%99%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%B9%E9%87%8F%E2%80%9C%E9%80%A0%E6%95%B0%E6%8D%AE%E2%80%9D.pdf",
+    "Type": "Web",
+    "PageCount": 2,
+    "OriginalLink": "https://wallstreetcn.com/articles/3777019",
+    "LocalPath": "all report pdf/小米开源具身生成大模型U0，要给机器人批量“造数据”.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "WallstreetCN (Global)",
+    "Date": "2026-07-15",
+    "Name": "净利预增50倍却一字跌停，德明利的存储叙事走到拐点了吗",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%87%80%E5%88%A9%E9%A2%84%E5%A2%9E50%E5%80%8D%E5%8D%B4%E4%B8%80%E5%AD%97%E8%B7%8C%E5%81%9C%EF%BC%8C%E5%BE%B7%E6%98%8E%E5%88%A9%E7%9A%84%E5%AD%98%E5%82%A8%E5%8F%99%E4%BA%8B%E8%B5%B0%E5%88%B0%E6%8B%90%E7%82%B9%E4%BA%86%E5%90%97.pdf",
+    "Type": "Web",
+    "PageCount": 4,
+    "OriginalLink": "https://wallstreetcn.com/articles/3777018",
+    "LocalPath": "all report pdf/净利预增50倍却一字跌停，德明利的存储叙事走到拐点了吗.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "WallstreetCN (Global)",
+    "Date": "2026-07-15",
+    "Name": "“大多头”Tom Lee：AI生产力最大短期赢家是金融服务业，上调标普500目标至8000点",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E2%80%9C%E5%A4%A7%E5%A4%9A%E5%A4%B4%E2%80%9DTom%20Lee%EF%BC%9AAI%E7%94%9F%E4%BA%A7%E5%8A%9B%E6%9C%80%E5%A4%A7%E7%9F%AD%E6%9C%9F%E8%B5%A2%E5%AE%B6%E6%98%AF%E9%87%91%E8%9E%8D%E6%9C%8D%E5%8A%A1%E4%B8%9A%EF%BC%8C%E4%B8%8A%E8%B0%83%E6%A0%87%E6%99%AE500%E7%9B%AE%E6%A0%87%E8%87%B38000%E7%82%B9.pdf",
+    "Type": "Web",
+    "PageCount": 12,
+    "OriginalLink": "https://wallstreetcn.com/articles/3777007",
+    "LocalPath": "all report pdf/“大多头”Tom Lee：AI生产力最大短期赢家是金融服务业，上调标普500目标至8000点.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "WallstreetCN (Global)",
+    "Date": "2026-07-15",
+    "Name": "7款手机AI集体获批！苹果智能牵手阿里千问，努比亚豆包也在列",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/7%E6%AC%BE%E6%89%8B%E6%9C%BAAI%E9%9B%86%E4%BD%93%E8%8E%B7%E6%89%B9%EF%BC%81%E8%8B%B9%E6%9E%9C%E6%99%BA%E8%83%BD%E7%89%B5%E6%89%8B%E9%98%BF%E9%87%8C%E5%8D%83%E9%97%AE%EF%BC%8C%E5%8A%AA%E6%AF%94%E4%BA%9A%E8%B1%86%E5%8C%85%E4%B9%9F%E5%9C%A8%E5%88%97.pdf",
+    "Type": "Web",
+    "PageCount": 3,
+    "OriginalLink": "https://wallstreetcn.com/articles/3777012",
+    "LocalPath": "all report pdf/7款手机AI集体获批！苹果智能牵手阿里千问，努比亚豆包也在列.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "WallstreetCN (Global)",
+    "Date": "2026-07-15",
+    "Name": "7款手机AI率先“持证上岗”  更多厂商已在“路上”",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/7%E6%AC%BE%E6%89%8B%E6%9C%BAAI%E7%8E%87%E5%85%88%E2%80%9C%E6%8C%81%E8%AF%81%E4%B8%8A%E5%B2%97%E2%80%9D%20%20%E6%9B%B4%E5%A4%9A%E5%8E%82%E5%95%86%E5%B7%B2%E5%9C%A8%E2%80%9C%E8%B7%AF%E4%B8%8A%E2%80%9D.pdf",
+    "Type": "Web",
+    "PageCount": 1,
+    "OriginalLink": "https://wallstreetcn.com/articles/3777015",
+    "LocalPath": "all report pdf/7款手机AI率先“持证上岗”  更多厂商已在“路上”.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "WallstreetCN (Global)",
+    "Date": "2026-07-15",
+    "Name": "科创50跌超4%，半导体产业链全线下挫，创新药、白酒逆势拉升，恒科指涨超1%，长飞光纤港股跳水",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%A7%91%E5%88%9B50%E8%B7%8C%E8%B6%854%25%EF%BC%8C%E5%8D%8A%E5%AF%BC%E4%BD%93%E4%BA%A7%E4%B8%9A%E9%93%BE%E5%85%A8%E7%BA%BF%E4%B8%8B%E6%8C%AB%EF%BC%8C%E5%88%9B%E6%96%B0%E8%8D%AF%E3%80%81%E7%99%BD%E9%85%92%E9%80%86%E5%8A%BF%E6%8B%89%E5%8D%87%EF%BC%8C%E6%81%92%E7%A7%91%E6%8C%87%E6%B6%A8%E8%B6%851%25%EF%BC%8C%E9%95%BF%E9%A3%9E%E5%85%89%E7%BA%A4%E6%B8%AF%E8%82%A1%E8%B7%B3%E6%B0%B4.pdf",
+    "Type": "Web",
+    "PageCount": 11,
+    "OriginalLink": "https://wallstreetcn.com/articles/3776980",
+    "LocalPath": "all report pdf/科创50跌超4%，半导体产业链全线下挫，创新药、白酒逆势拉升，恒科指涨超1%，长飞光纤港股跳水.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "WallstreetCN (Global)",
+    "Date": "2026-07-15",
+    "Name": "下半年资产配置机会在哪里？听徐小庆分享股债汇市场最新洞察，推演配置逻辑",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E4%B8%8B%E5%8D%8A%E5%B9%B4%E8%B5%84%E4%BA%A7%E9%85%8D%E7%BD%AE%E6%9C%BA%E4%BC%9A%E5%9C%A8%E5%93%AA%E9%87%8C%EF%BC%9F%E5%90%AC%E5%BE%90%E5%B0%8F%E5%BA%86%E5%88%86%E4%BA%AB%E8%82%A1%E5%80%BA%E6%B1%87%E5%B8%82%E5%9C%BA%E6%9C%80%E6%96%B0%E6%B4%9E%E5%AF%9F%EF%BC%8C%E6%8E%A8%E6%BC%94%E9%85%8D%E7%BD%AE%E9%80%BB%E8%BE%91.pdf",
+    "Type": "Web",
+    "PageCount": 9,
+    "OriginalLink": "https://wallstreetcn.com/articles/3774897",
+    "LocalPath": "all report pdf/下半年资产配置机会在哪里？听徐小庆分享股债汇市场最新洞察，推演配置逻辑.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "WallstreetCN (Global)",
+    "Date": "2026-07-15",
+    "Name": "史上第一次，人比软件便宜？AI要是没用好，比人可贵多了！",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%8F%B2%E4%B8%8A%E7%AC%AC%E4%B8%80%E6%AC%A1%EF%BC%8C%E4%BA%BA%E6%AF%94%E8%BD%AF%E4%BB%B6%E4%BE%BF%E5%AE%9C%EF%BC%9FAI%E8%A6%81%E6%98%AF%E6%B2%A1%E7%94%A8%E5%A5%BD%EF%BC%8C%E6%AF%94%E4%BA%BA%E5%8F%AF%E8%B4%B5%E5%A4%9A%E4%BA%86%EF%BC%81.pdf",
+    "Type": "Web",
+    "PageCount": 4,
+    "OriginalLink": "https://wallstreetcn.com/articles/3776997",
+    "LocalPath": "all report pdf/史上第一次，人比软件便宜？AI要是没用好，比人可贵多了！.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "WallstreetCN (Global)",
+    "Date": "2026-07-15",
+    "Name": "招商宏观：AI链价格贡献较大，出口韧性再超预期",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%8B%9B%E5%95%86%E5%AE%8F%E8%A7%82%EF%BC%9AAI%E9%93%BE%E4%BB%B7%E6%A0%BC%E8%B4%A1%E7%8C%AE%E8%BE%83%E5%A4%A7%EF%BC%8C%E5%87%BA%E5%8F%A3%E9%9F%A7%E6%80%A7%E5%86%8D%E8%B6%85%E9%A2%84%E6%9C%9F.pdf",
+    "Type": "Web",
+    "PageCount": 3,
+    "OriginalLink": "https://wallstreetcn.com/articles/3777001",
+    "LocalPath": "all report pdf/招商宏观：AI链价格贡献较大，出口韧性再超预期.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "WallstreetCN (Global)",
+    "Date": "2026-07-15",
+    "Name": "本月起，力积电存储代工涨价45%",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%9C%AC%E6%9C%88%E8%B5%B7%EF%BC%8C%E5%8A%9B%E7%A7%AF%E7%94%B5%E5%AD%98%E5%82%A8%E4%BB%A3%E5%B7%A5%E6%B6%A8%E4%BB%B745%25.pdf",
+    "Type": "Web",
+    "PageCount": 2,
+    "OriginalLink": "https://wallstreetcn.com/articles/3777006",
+    "LocalPath": "all report pdf/本月起，力积电存储代工涨价45%.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "WallstreetCN (Global)",
+    "Date": "2026-07-15",
+    "Name": "日本散户上月做空美元头寸创2008年以来最高，达2.79万亿日元",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%97%A5%E6%9C%AC%E6%95%A3%E6%88%B7%E4%B8%8A%E6%9C%88%E5%81%9A%E7%A9%BA%E7%BE%8E%E5%85%83%E5%A4%B4%E5%AF%B8%E5%88%9B2008%E5%B9%B4%E4%BB%A5%E6%9D%A5%E6%9C%80%E9%AB%98%EF%BC%8C%E8%BE%BE2.79%E4%B8%87%E4%BA%BF%E6%97%A5%E5%85%83.pdf",
+    "Type": "Web",
+    "PageCount": 2,
+    "OriginalLink": "https://wallstreetcn.com/articles/3777008",
+    "LocalPath": "all report pdf/日本散户上月做空美元头寸创2008年以来最高，达2.79万亿日元.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "WallstreetCN (Global)",
+    "Date": "2026-07-15",
+    "Name": "央行：加大逆周期和跨周期调节力度，贷款的降速提质可能成为宏观运行的新常态之一",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%A4%AE%E8%A1%8C%EF%BC%9A%E5%8A%A0%E5%A4%A7%E9%80%86%E5%91%A8%E6%9C%9F%E5%92%8C%E8%B7%A8%E5%91%A8%E6%9C%9F%E8%B0%83%E8%8A%82%E5%8A%9B%E5%BA%A6%EF%BC%8C%E8%B4%B7%E6%AC%BE%E7%9A%84%E9%99%8D%E9%80%9F%E6%8F%90%E8%B4%A8%E5%8F%AF%E8%83%BD%E6%88%90%E4%B8%BA%E5%AE%8F%E8%A7%82%E8%BF%90%E8%A1%8C%E7%9A%84%E6%96%B0%E5%B8%B8%E6%80%81%E4%B9%8B%E4%B8%80.pdf",
+    "Type": "Web",
+    "PageCount": 9,
+    "OriginalLink": "https://wallstreetcn.com/articles/3777004",
+    "LocalPath": "all report pdf/央行：加大逆周期和跨周期调节力度，贷款的降速提质可能成为宏观运行的新常态之一.pdf",
     "Summary": "未執行 AI 摘要"
   },
   {
@@ -581,17 +1203,6 @@
     "PageCount": 1,
     "OriginalLink": "https://wallstreetcn.com/articles/3777003",
     "LocalPath": "all report pdf/韩国股市“走极端”引发刑案：一20多岁股民持刀刺伤网红股票博主！警方：嫌犯听信博主建议，加杠杆重仓SK海力士却遭巨亏.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "WallstreetCN (Global)",
-    "Date": "2026-07-15",
-    "Name": "AI乐观情绪重燃，阿斯麦绩后涨7%，韩股涨到熔断、SK海力士涨约9%，油价维持80美元高位",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/AI%E4%B9%90%E8%A7%82%E6%83%85%E7%BB%AA%E9%87%8D%E7%87%83%EF%BC%8C%E9%98%BF%E6%96%AF%E9%BA%A6%E7%BB%A9%E5%90%8E%E6%B6%A87%25%EF%BC%8C%E9%9F%A9%E8%82%A1%E6%B6%A8%E5%88%B0%E7%86%94%E6%96%AD%E3%80%81SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E6%B6%A8%E7%BA%A69%25%EF%BC%8C%E6%B2%B9%E4%BB%B7%E7%BB%B4%E6%8C%8180%E7%BE%8E%E5%85%83%E9%AB%98%E4%BD%8D.pdf",
-    "Type": "Web",
-    "PageCount": 4,
-    "OriginalLink": "https://wallstreetcn.com/articles/3776964",
-    "LocalPath": "all report pdf/AI乐观情绪重燃，阿斯麦绩后涨7%，韩股涨到熔断、SK海力士涨约9%，油价维持80美元高位.pdf",
     "Summary": "未執行 AI 摘要"
   },
   {
@@ -669,17 +1280,6 @@
     "PageCount": 3,
     "OriginalLink": "https://wallstreetcn.com/articles/3776985",
     "LocalPath": "all report pdf/霍尔木兹爆发激烈交火！特朗普：伊朗像伟大拳击手，你以为击败他，结果被重拳反击；若伊朗不回来谈判，将轰炸电厂桥梁，不排除派地面部队.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "WallstreetCN (Global)",
-    "Date": "2026-07-15",
-    "Name": "科创50跌超3%，半导体产业链全线下挫，创新药、白酒逆势拉升，恒科指涨1%，长飞光纤港股跳水",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%A7%91%E5%88%9B50%E8%B7%8C%E8%B6%853%25%EF%BC%8C%E5%8D%8A%E5%AF%BC%E4%BD%93%E4%BA%A7%E4%B8%9A%E9%93%BE%E5%85%A8%E7%BA%BF%E4%B8%8B%E6%8C%AB%EF%BC%8C%E5%88%9B%E6%96%B0%E8%8D%AF%E3%80%81%E7%99%BD%E9%85%92%E9%80%86%E5%8A%BF%E6%8B%89%E5%8D%87%EF%BC%8C%E6%81%92%E7%A7%91%E6%8C%87%E6%B6%A81%25%EF%BC%8C%E9%95%BF%E9%A3%9E%E5%85%89%E7%BA%A4%E6%B8%AF%E8%82%A1%E8%B7%B3%E6%B0%B4.pdf",
-    "Type": "Web",
-    "PageCount": 13,
-    "OriginalLink": "https://wallstreetcn.com/articles/3776980",
-    "LocalPath": "all report pdf/科创50跌超3%，半导体产业链全线下挫，创新药、白酒逆势拉升，恒科指涨1%，长飞光纤港股跳水.pdf",
     "Summary": "未執行 AI 摘要"
   },
   {
@@ -916,6 +1516,83 @@
   {
     "Source": "Westpac IQ",
     "Date": "2026-07-15",
+    "Name": "Morning Report (2026-07-15)",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Morning%20Report%20%282026-07-15%29.pdf",
+    "Type": "PDF",
+    "PageCount": 5,
+    "OriginalLink": "https://library.westpaciq.com.au/content/dam/public/westpaciq/secure/economics/documents/aus/2026/07/WBC_MorningReport16Jul2026.pdf",
+    "LocalPath": "all report pdf/Morning Report (2026-07-15).pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "Westpac IQ",
+    "Date": "2026-07-15",
+    "Name": "Morning Report (2026-07-15)",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Morning%20Report%20%282026-07-15%29.pdf",
+    "Type": "PDF",
+    "PageCount": 5,
+    "OriginalLink": "https://library.westpaciq.com.au/content/dam/public/westpaciq/secure/economics/documents/aus/2026/07/WBC_MorningReport15Jul2026.pdf",
+    "LocalPath": "all report pdf/Morning Report (2026-07-15).pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "Westpac IQ",
+    "Date": "2026-07-15",
+    "Name": "Cliff Notes: testing conditions (2026-07-15)",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Cliff%20Notes_%20testing%20conditions%20%282026-07-15%29.pdf",
+    "Type": "Web",
+    "PageCount": 10,
+    "OriginalLink": "https://www.westpaciq.com.au/economics/2026/07/cliff-notes-10-july-2026",
+    "LocalPath": "all report pdf/Cliff Notes_ testing conditions (2026-07-15).pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "Westpac IQ",
+    "Date": "2026-07-15",
+    "Name": "Construction rebalancing keeps the RBA on alert (2026-07-15)",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Construction%20rebalancing%20keeps%20the%20RBA%20on%20alert%20%282026-07-15%29.pdf",
+    "Type": "Web",
+    "PageCount": 17,
+    "OriginalLink": "https://www.westpaciq.com.au/economics/2026/07/australian-construction-8-july-2026",
+    "LocalPath": "all report pdf/Construction rebalancing keeps the RBA on alert (2026-07-15).pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "Westpac IQ",
+    "Date": "2026-07-15",
+    "Name": "Morning Report (2026-07-15)",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Morning%20Report%20%282026-07-15%29.pdf",
+    "Type": "PDF",
+    "PageCount": 5,
+    "OriginalLink": "https://library.westpaciq.com.au/content/dam/public/westpaciq/secure/economics/documents/aus/2026/06/WBC_MorningReport06Jul2026.pdf",
+    "LocalPath": "all report pdf/Morning Report (2026-07-15).pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "Westpac IQ",
+    "Date": "2026-07-15",
+    "Name": "China’s greatest opportunity and biggest threat (2026-07-15)",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/China%E2%80%99s%20greatest%20opportunity%20and%20biggest%20threat%20%282026-07-15%29.pdf",
+    "Type": "Web",
+    "PageCount": 11,
+    "OriginalLink": "https://www.westpaciq.com.au/economics/2026/07/weekly-note-elliot-3-july-2026",
+    "LocalPath": "all report pdf/China’s greatest opportunity and biggest threat (2026-07-15).pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "Westpac IQ",
+    "Date": "2026-07-15",
+    "Name": "Morning Report (2026-07-15)",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Morning%20Report%20%282026-07-15%29.pdf",
+    "Type": "PDF",
+    "PageCount": 5,
+    "OriginalLink": "https://library.westpaciq.com.au/content/dam/public/westpaciq/secure/economics/documents/aus/2026/07/WBC_MorningReport01Jul2026.pdf",
+    "LocalPath": "all report pdf/Morning Report (2026-07-15).pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "Westpac IQ",
+    "Date": "2026-07-15",
     "Name": "Australian Business Conditions and Confidence, June (2026-07-15)",
     "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Australian%20Business%20Conditions%20and%20Confidence%2C%20June%20%282026-07-15%29.pdf",
     "Type": "Web",
@@ -1070,67 +1747,34 @@
   {
     "Source": "Westpac IQ",
     "Date": "2026-07-15",
-    "Name": "Morning Report (2026-07-15)",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Morning%20Report%20%282026-07-15%29.pdf",
-    "Type": "PDF",
-    "PageCount": 5,
-    "OriginalLink": "https://library.westpaciq.com.au/content/dam/public/westpaciq/secure/economics/documents/aus/2026/07/WBC_MorningReport15Jul2026.pdf",
-    "LocalPath": "all report pdf/Morning Report (2026-07-15).pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "Westpac IQ",
-    "Date": "2026-07-15",
-    "Name": "Cliff Notes: testing conditions (2026-07-15)",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Cliff%20Notes_%20testing%20conditions%20%282026-07-15%29.pdf",
+    "Name": "First Impressions: NZIER Quarterly Survey of Business Opinion, June quarter 2026 (2026-07-15)",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/First%20Impressions_%20NZIER%20Quarterly%20Survey%20of%20Business%20Opinion%2C%20June%20quarter%202026%20%282026-07-15%29.pdf",
     "Type": "Web",
     "PageCount": 10,
-    "OriginalLink": "https://www.westpaciq.com.au/economics/2026/07/cliff-notes-10-july-2026",
-    "LocalPath": "all report pdf/Cliff Notes_ testing conditions (2026-07-15).pdf",
+    "OriginalLink": "https://www.westpaciq.com.au/economics/2026/07/nz-first-impressions-nzier-qsbo-june-quarter-2026",
+    "LocalPath": "all report pdf/First Impressions_ NZIER Quarterly Survey of Business Opinion, June quarter 2026 (2026-07-15).pdf",
     "Summary": "未執行 AI 摘要"
   },
   {
     "Source": "Westpac IQ",
     "Date": "2026-07-15",
-    "Name": "Construction rebalancing keeps the RBA on alert (2026-07-15)",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Construction%20rebalancing%20keeps%20the%20RBA%20on%20alert%20%282026-07-15%29.pdf",
-    "Type": "Web",
-    "PageCount": 17,
-    "OriginalLink": "https://www.westpaciq.com.au/economics/2026/07/australian-construction-8-july-2026",
-    "LocalPath": "all report pdf/Construction rebalancing keeps the RBA on alert (2026-07-15).pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "Westpac IQ",
-    "Date": "2026-07-15",
-    "Name": "Morning Report (2026-07-15)",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Morning%20Report%20%282026-07-15%29.pdf",
+    "Name": "Chart pack: New Zealand household finances (2026-07-15)",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Chart%20pack_%20New%20Zealand%20household%20finances%20%282026-07-15%29.pdf",
     "Type": "PDF",
-    "PageCount": 5,
-    "OriginalLink": "https://library.westpaciq.com.au/content/dam/public/westpaciq/secure/economics/documents/aus/2026/06/WBC_MorningReport06Jul2026.pdf",
-    "LocalPath": "all report pdf/Morning Report (2026-07-15).pdf",
+    "PageCount": 7,
+    "OriginalLink": "https://library.westpaciq.com.au/content/dam/public/westpaciq/secure/economics/documents/nz/2026/07/Economic-data_03072026-Household-finances-chart-pack_03Jul2026.pdf",
+    "LocalPath": "all report pdf/Chart pack_ New Zealand household finances (2026-07-15).pdf",
     "Summary": "未執行 AI 摘要"
   },
   {
     "Source": "Westpac IQ",
     "Date": "2026-07-15",
-    "Name": "China’s greatest opportunity and biggest threat (2026-07-15)",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/China%E2%80%99s%20greatest%20opportunity%20and%20biggest%20threat%20%282026-07-15%29.pdf",
-    "Type": "Web",
-    "PageCount": 11,
-    "OriginalLink": "https://www.westpaciq.com.au/economics/2026/07/weekly-note-elliot-3-july-2026",
-    "LocalPath": "all report pdf/China’s greatest opportunity and biggest threat (2026-07-15).pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "Westpac IQ",
-    "Date": "2026-07-15",
-    "Name": "Morning Report (2026-07-15)",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Morning%20Report%20%282026-07-15%29.pdf",
+    "Name": "Australian dwelling approvals: detached dwellings remain resilient (2026-07-15)",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Australian%20dwelling%20approvals_%20detached%20dwellings%20remain%20resilient%20%282026-07-15%29.pdf",
     "Type": "PDF",
-    "PageCount": 5,
-    "OriginalLink": "https://library.westpaciq.com.au/content/dam/public/westpaciq/secure/economics/documents/aus/2026/07/WBC_MorningReport01Jul2026.pdf",
-    "LocalPath": "all report pdf/Morning Report (2026-07-15).pdf",
+    "PageCount": 6,
+    "OriginalLink": "https://library.westpaciq.com.au/content/dam/public/westpaciq/secure/economics/documents/aus/2026/07/er20260701BullDwellingApprovalsMay.pdf",
+    "LocalPath": "all report pdf/Australian dwelling approvals_ detached dwellings remain resilient (2026-07-15).pdf",
     "Summary": "未執行 AI 摘要"
   },
   {
@@ -1175,39 +1819,6 @@
     "PageCount": 7,
     "OriginalLink": "https://library.westpaciq.com.au/content/dam/public/westpaciq/secure/economics/documents/aus/2026/07/er20260701BullCotalityDwellingPrices.pdf",
     "LocalPath": "all report pdf/Australian dwelling prices_ Markets heading south or slowing (2026-07-15).pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "Westpac IQ",
-    "Date": "2026-07-15",
-    "Name": "First Impressions: NZIER Quarterly Survey of Business Opinion, June quarter 2026 (2026-07-15)",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/First%20Impressions_%20NZIER%20Quarterly%20Survey%20of%20Business%20Opinion%2C%20June%20quarter%202026%20%282026-07-15%29.pdf",
-    "Type": "Web",
-    "PageCount": 10,
-    "OriginalLink": "https://www.westpaciq.com.au/economics/2026/07/nz-first-impressions-nzier-qsbo-june-quarter-2026",
-    "LocalPath": "all report pdf/First Impressions_ NZIER Quarterly Survey of Business Opinion, June quarter 2026 (2026-07-15).pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "Westpac IQ",
-    "Date": "2026-07-15",
-    "Name": "Chart pack: New Zealand household finances (2026-07-15)",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Chart%20pack_%20New%20Zealand%20household%20finances%20%282026-07-15%29.pdf",
-    "Type": "PDF",
-    "PageCount": 7,
-    "OriginalLink": "https://library.westpaciq.com.au/content/dam/public/westpaciq/secure/economics/documents/nz/2026/07/Economic-data_03072026-Household-finances-chart-pack_03Jul2026.pdf",
-    "LocalPath": "all report pdf/Chart pack_ New Zealand household finances (2026-07-15).pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "Westpac IQ",
-    "Date": "2026-07-15",
-    "Name": "Australian dwelling approvals: detached dwellings remain resilient (2026-07-15)",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Australian%20dwelling%20approvals_%20detached%20dwellings%20remain%20resilient%20%282026-07-15%29.pdf",
-    "Type": "PDF",
-    "PageCount": 6,
-    "OriginalLink": "https://library.westpaciq.com.au/content/dam/public/westpaciq/secure/economics/documents/aus/2026/07/er20260701BullDwellingApprovalsMay.pdf",
-    "LocalPath": "all report pdf/Australian dwelling approvals_ detached dwellings remain resilient (2026-07-15).pdf",
     "Summary": "未執行 AI 摘要"
   },
   {
@@ -1275,6 +1886,16 @@
   {
     "Source": "DLRI",
     "Date": "2026-07-14",
+    "Name": "ホルムズ海峡を巡る｢みかじめ料｣を要求するトランプ米大統領 ～アジア新興国で米国への不信感増幅の懸念､日本として求められる役割とは～",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%83%9B%E3%83%AB%E3%83%A0%E3%82%BA%E6%B5%B7%E5%B3%A1%E3%82%92%E5%B7%A1%E3%82%8B%EF%BD%A2%E3%81%BF%E3%81%8B%E3%81%98%E3%82%81%E6%96%99%EF%BD%A3%E3%82%92%E8%A6%81%E6%B1%82%E3%81%99%E3%82%8B%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E7%B1%B3%E5%A4%A7%E7%B5%B1%E9%A0%98%20%EF%BD%9E%E3%82%A2%E3%82%B8%E3%82%A2%E6%96%B0%E8%88%88%E5%9B%BD%E3%81%A7%E7%B1%B3%E5%9B%BD%E3%81%B8%E3%81%AE%E4%B8%8D%E4%BF%A1%E6%84%9F%E5%A2%97%E5%B9%85%E3%81%AE%E6%87%B8%E5%BF%B5%EF%BD%A4%E6%97%A5%E6%9C%AC%E3%81%A8%E3%81%97%E3%81%A6%E6%B1%82%E3%82%81%E3%82%89%E3%82%8C%E3%82%8B%E5%BD%B9%E5%89%B2%E3%81%A8%E3%81%AF%EF%BD%9E.pdf",
+    "PageCount": 3,
+    "OriginalLink": "https://www.dlri.co.jp/files/macro/634279.pdf",
+    "LocalPath": "all report pdf/ホルムズ海峡を巡る｢みかじめ料｣を要求するトランプ米大統領 ～アジア新興国で米国への不信感増幅の懸念､日本として求められる役割とは～.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026-07-14",
     "Name": "GPIFに国内投資拡大の余地はあるのか ～片山財務・金融相発言から考え得る三つの手段～",
     "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/GPIF%E3%81%AB%E5%9B%BD%E5%86%85%E6%8A%95%E8%B3%87%E6%8B%A1%E5%A4%A7%E3%81%AE%E4%BD%99%E5%9C%B0%E3%81%AF%E3%81%82%E3%82%8B%E3%81%AE%E3%81%8B%20%EF%BD%9E%E7%89%87%E5%B1%B1%E8%B2%A1%E5%8B%99%E3%83%BB%E9%87%91%E8%9E%8D%E7%9B%B8%E7%99%BA%E8%A8%80%E3%81%8B%E3%82%89%E8%80%83%E3%81%88%E5%BE%97%E3%82%8B%E4%B8%89%E3%81%A4%E3%81%AE%E6%89%8B%E6%AE%B5%EF%BD%9E.pdf",
     "PageCount": 7,
@@ -1290,16 +1911,6 @@
     "PageCount": 6,
     "OriginalLink": "https://www.dlri.co.jp/files/macro/634263.pdf",
     "LocalPath": "all report pdf/骨太方針2026のポイント（社会保障編）  ～「社会保障負担率引き下げ目標」の本当の意味合い～.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026-07-14",
-    "Name": "ホルムズ海峡を巡る｢みかじめ料｣を要求するトランプ米大統領 ～アジア新興国で米国への不信感増幅の懸念､日本として求められる役割とは～",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%83%9B%E3%83%AB%E3%83%A0%E3%82%BA%E6%B5%B7%E5%B3%A1%E3%82%92%E5%B7%A1%E3%82%8B%EF%BD%A2%E3%81%BF%E3%81%8B%E3%81%98%E3%82%81%E6%96%99%EF%BD%A3%E3%82%92%E8%A6%81%E6%B1%82%E3%81%99%E3%82%8B%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E7%B1%B3%E5%A4%A7%E7%B5%B1%E9%A0%98%20%EF%BD%9E%E3%82%A2%E3%82%B8%E3%82%A2%E6%96%B0%E8%88%88%E5%9B%BD%E3%81%A7%E7%B1%B3%E5%9B%BD%E3%81%B8%E3%81%AE%E4%B8%8D%E4%BF%A1%E6%84%9F%E5%A2%97%E5%B9%85%E3%81%AE%E6%87%B8%E5%BF%B5%EF%BD%A4%E6%97%A5%E6%9C%AC%E3%81%A8%E3%81%97%E3%81%A6%E6%B1%82%E3%82%81%E3%82%89%E3%82%8C%E3%82%8B%E5%BD%B9%E5%89%B2%E3%81%A8%E3%81%AF%EF%BD%9E.pdf",
-    "PageCount": 3,
-    "OriginalLink": "https://www.dlri.co.jp/files/macro/634279.pdf",
-    "LocalPath": "all report pdf/ホルムズ海峡を巡る｢みかじめ料｣を要求するトランプ米大統領 ～アジア新興国で米国への不信感増幅の懸念､日本として求められる役割とは～.pdf",
     "Summary": "未執行 AI 摘要"
   },
   {
@@ -1405,6 +2016,36 @@
   {
     "Source": "line報告備份",
     "Date": "2026-07-14",
+    "Name": "202607福邦 PCB",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/202607%E7%A6%8F%E9%82%A6%20PCB.pdf",
+    "PageCount": 43,
+    "OriginalLink": "https://drive.google.com/uc?export=download&id=10pd2kcY2zNZM___awR8KHvtdP-Gbh8au",
+    "LocalPath": "all report pdf/202607福邦 PCB.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "line報告備份",
+    "Date": "2026-07-14",
+    "Name": "2248華勝 群益",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/2248%E8%8F%AF%E5%8B%9D%20%E7%BE%A4%E7%9B%8A.pdf",
+    "PageCount": 6,
+    "OriginalLink": "https://drive.google.com/uc?export=download&id=1Iz9qeMa-Xy6MXXg3wqU9woha8FP8OiD2",
+    "LocalPath": "all report pdf/2248華勝 群益.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "line報告備份",
+    "Date": "2026-07-14",
+    "Name": "2408南亞科 元富",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/2408%E5%8D%97%E4%BA%9E%E7%A7%91%20%E5%85%83%E5%AF%8C.pdf",
+    "PageCount": 5,
+    "OriginalLink": "https://drive.google.com/uc?export=download&id=1rCLAs130UDs-QaNdd0UIR1AwLnzQ5r2E",
+    "LocalPath": "all report pdf/2408南亞科 元富.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "line報告備份",
+    "Date": "2026-07-14",
     "Name": "260714_daiwa_nypcb",
     "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/260714_daiwa_nypcb.pdf",
     "PageCount": 9,
@@ -1450,6 +2091,56 @@
     "PageCount": 7,
     "OriginalLink": "https://drive.google.com/uc?export=download&id=1Wx6Gluqg-rhkoSIO0C-p4cwjVZTVcPjB",
     "LocalPath": "all report pdf/260714_ms_mthly-databook-NB.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "line報告備份",
+    "Date": "2026-07-14",
+    "Name": "3008大立光 元富",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/3008%E5%A4%A7%E7%AB%8B%E5%85%89%20%E5%85%83%E5%AF%8C.pdf",
+    "PageCount": 5,
+    "OriginalLink": "https://drive.google.com/uc?export=download&id=1ial5nyvZYRnLOzb4tjEW_ju8nQJ6bxOr",
+    "LocalPath": "all report pdf/3008大立光 元富.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "line報告備份",
+    "Date": "2026-07-14",
+    "Name": "3017奇鋐 群益",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/3017%E5%A5%87%E9%8B%90%20%E7%BE%A4%E7%9B%8A.pdf",
+    "PageCount": 7,
+    "OriginalLink": "https://drive.google.com/uc?export=download&id=1mRKyLmW_nl3IllWociScK0y-zvZn8r6c",
+    "LocalPath": "all report pdf/3017奇鋐 群益.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "line報告備份",
+    "Date": "2026-07-14",
+    "Name": "3491昇達科 玉山",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/3491%E6%98%87%E9%81%94%E7%A7%91%20%E7%8E%89%E5%B1%B1.pdf",
+    "PageCount": 5,
+    "OriginalLink": "https://drive.google.com/uc?export=download&id=1GI7w1LCYNi339SPrVqYuxOPL17tlddY6",
+    "LocalPath": "all report pdf/3491昇達科 玉山.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "line報告備份",
+    "Date": "2026-07-14",
+    "Name": "5388中磊 群益",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/5388%E4%B8%AD%E7%A3%8A%20%E7%BE%A4%E7%9B%8A.pdf",
+    "PageCount": 7,
+    "OriginalLink": "https://drive.google.com/uc?export=download&id=11nSVctn7Cl6bij6Gl43tCvp-Pm2zB6Bl",
+    "LocalPath": "all report pdf/5388中磊 群益.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "line報告備份",
+    "Date": "2026-07-14",
+    "Name": "5434崇越 永豐",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/5434%E5%B4%87%E8%B6%8A%20%E6%B0%B8%E8%B1%90.pdf",
+    "PageCount": 8,
+    "OriginalLink": "https://drive.google.com/uc?export=download&id=1anrrhXVqK8d2CXVr09sxpt97jU8Z6BM-",
+    "LocalPath": "all report pdf/5434崇越 永豐.pdf",
     "Summary": "未執行 AI 摘要"
   },
   {
@@ -1580,6 +2271,26 @@
     "PageCount": 12,
     "OriginalLink": "https://drive.google.com/uc?export=download&id=1Nq26po6bA6u4BS9CS4SzGIavSzY3nmn0",
     "LocalPath": "all report pdf/統一-3008 大立光-20260714.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "line報告備份",
+    "Date": "2026-07-14",
+    "Name": "華南投顧-2303-聯電-1150714",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E8%8F%AF%E5%8D%97%E6%8A%95%E9%A1%A7-2303-%E8%81%AF%E9%9B%BB-1150714.pdf",
+    "PageCount": 8,
+    "OriginalLink": "https://drive.google.com/uc?export=download&id=1axlrc1NKTXZc_cbcYshK8eLDrSX1apuh",
+    "LocalPath": "all report pdf/華南投顧-2303-聯電-1150714.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "line報告備份",
+    "Date": "2026-07-14",
+    "Name": "華南投顧-2355-敬鵬-1150714",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E8%8F%AF%E5%8D%97%E6%8A%95%E9%A1%A7-2355-%E6%95%AC%E9%B5%AC-1150714.pdf",
+    "PageCount": 7,
+    "OriginalLink": "https://drive.google.com/uc?export=download&id=10JYe7Rl5MXFVSBsugBs2xFm63TsfGHIg",
+    "LocalPath": "all report pdf/華南投顧-2355-敬鵬-1150714.pdf",
     "Summary": "未執行 AI 摘要"
   },
   {
@@ -1862,479 +2573,6 @@
     "Summary": "未執行 AI 摘要"
   },
   {
-    "Source": "WallstreetCN (Global)",
-    "Date": "2026-07-14",
-    "Name": "涨价时代来临，摩根士丹利：苹果iPhone 18 Pro系列或将上调200美元",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%B6%A8%E4%BB%B7%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%B8%B4%EF%BC%8C%E6%91%A9%E6%A0%B9%E5%A3%AB%E4%B8%B9%E5%88%A9%EF%BC%9A%E8%8B%B9%E6%9E%9CiPhone%2018%20Pro%E7%B3%BB%E5%88%97%E6%88%96%E5%B0%86%E4%B8%8A%E8%B0%83200%E7%BE%8E%E5%85%83.pdf",
-    "Type": "Web",
-    "PageCount": 2,
-    "OriginalLink": "https://wallstreetcn.com/articles/3776933",
-    "LocalPath": "all report pdf/涨价时代来临，摩根士丹利：苹果iPhone 18 Pro系列或将上调200美元.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "WallstreetCN (Global)",
-    "Date": "2026-07-14",
-    "Name": "才一天就改口！特朗普放弃霍尔木兹海峡货运收费20%，美油“闪跌”",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%89%8D%E4%B8%80%E5%A4%A9%E5%B0%B1%E6%94%B9%E5%8F%A3%EF%BC%81%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BE%E5%BC%83%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E8%B4%A7%E8%BF%90%E6%94%B6%E8%B4%B920%25%EF%BC%8C%E7%BE%8E%E6%B2%B9%E2%80%9C%E9%97%AA%E8%B7%8C%E2%80%9D.pdf",
-    "Type": "Web",
-    "PageCount": 3,
-    "OriginalLink": "https://wallstreetcn.com/articles/3776934",
-    "LocalPath": "all report pdf/才一天就改口！特朗普放弃霍尔木兹海峡货运收费20%，美油“闪跌”.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "WallstreetCN (Global)",
-    "Date": "2026-07-14",
-    "Name": "6月外贸：“热潮”下的价量信号",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/6%E6%9C%88%E5%A4%96%E8%B4%B8%EF%BC%9A%E2%80%9C%E7%83%AD%E6%BD%AE%E2%80%9D%E4%B8%8B%E7%9A%84%E4%BB%B7%E9%87%8F%E4%BF%A1%E5%8F%B7.pdf",
-    "Type": "Web",
-    "PageCount": 3,
-    "OriginalLink": "https://wallstreetcn.com/articles/3776904",
-    "LocalPath": "all report pdf/6月外贸：“热潮”下的价量信号.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "WallstreetCN (Global)",
-    "Date": "2026-07-14",
-    "Name": "长鑫科技：发行价格为8.66元/股，7月16日进行申购",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%EF%BC%9A%E5%8F%91%E8%A1%8C%E4%BB%B7%E6%A0%BC%E4%B8%BA8.66%E5%85%83_%E8%82%A1%EF%BC%8C7%E6%9C%8816%E6%97%A5%E8%BF%9B%E8%A1%8C%E7%94%B3%E8%B4%AD.pdf",
-    "Type": "Web",
-    "PageCount": 2,
-    "OriginalLink": "https://wallstreetcn.com/articles/3776930",
-    "LocalPath": "all report pdf/长鑫科技：发行价格为8.66元_股，7月16日进行申购.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "WallstreetCN (Global)",
-    "Date": "2026-07-14",
-    "Name": "存储的繁荣，能够持续多久？",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%AD%98%E5%82%A8%E7%9A%84%E7%B9%81%E8%8D%A3%EF%BC%8C%E8%83%BD%E5%A4%9F%E6%8C%81%E7%BB%AD%E5%A4%9A%E4%B9%85%EF%BC%9F.pdf",
-    "Type": "Web",
-    "PageCount": 9,
-    "OriginalLink": "https://wallstreetcn.com/articles/3776926",
-    "LocalPath": "all report pdf/存储的繁荣，能够持续多久？.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "WallstreetCN (Global)",
-    "Date": "2026-07-14",
-    "Name": "韩国股市杠杆绞杀实录：最高46万账户遭强平，散户“血本无归”，有人连养老金也亏掉了",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E6%9D%A0%E6%9D%86%E7%BB%9E%E6%9D%80%E5%AE%9E%E5%BD%95%EF%BC%9A%E6%9C%80%E9%AB%9846%E4%B8%87%E8%B4%A6%E6%88%B7%E9%81%AD%E5%BC%BA%E5%B9%B3%EF%BC%8C%E6%95%A3%E6%88%B7%E2%80%9C%E8%A1%80%E6%9C%AC%E6%97%A0%E5%BD%92%E2%80%9D%EF%BC%8C%E6%9C%89%E4%BA%BA%E8%BF%9E%E5%85%BB%E8%80%81%E9%87%91%E4%B9%9F%E4%BA%8F%E6%8E%89%E4%BA%86.pdf",
-    "Type": "Web",
-    "PageCount": 5,
-    "OriginalLink": "https://wallstreetcn.com/articles/3776889",
-    "LocalPath": "all report pdf/韩国股市杠杆绞杀实录：最高46万账户遭强平，散户“血本无归”，有人连养老金也亏掉了.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "WallstreetCN (Global)",
-    "Date": "2026-07-14",
-    "Name": "摩根大通一线调研：存储大跌，核心矛盾到底在哪？",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%91%A9%E6%A0%B9%E5%A4%A7%E9%80%9A%E4%B8%80%E7%BA%BF%E8%B0%83%E7%A0%94%EF%BC%9A%E5%AD%98%E5%82%A8%E5%A4%A7%E8%B7%8C%EF%BC%8C%E6%A0%B8%E5%BF%83%E7%9F%9B%E7%9B%BE%E5%88%B0%E5%BA%95%E5%9C%A8%E5%93%AA%EF%BC%9F.pdf",
-    "Type": "Web",
-    "PageCount": 3,
-    "OriginalLink": "https://wallstreetcn.com/articles/3776927",
-    "LocalPath": "all report pdf/摩根大通一线调研：存储大跌，核心矛盾到底在哪？.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "WallstreetCN (Global)",
-    "Date": "2026-07-14",
-    "Name": "沃什：美联储对持续高通胀“零容忍”",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%B2%83%E4%BB%80%EF%BC%9A%E7%BE%8E%E8%81%94%E5%82%A8%E5%AF%B9%E6%8C%81%E7%BB%AD%E9%AB%98%E9%80%9A%E8%83%80%E2%80%9C%E9%9B%B6%E5%AE%B9%E5%BF%8D%E2%80%9D.pdf",
-    "Type": "Web",
-    "PageCount": 2,
-    "OriginalLink": "https://wallstreetcn.com/articles/3776925",
-    "LocalPath": "all report pdf/沃什：美联储对持续高通胀“零容忍”.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "WallstreetCN (Global)",
-    "Date": "2026-07-14",
-    "Name": "股市动荡之际，韩国开通债务咨询热线，扩大援助中心规模",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E8%82%A1%E5%B8%82%E5%8A%A8%E8%8D%A1%E4%B9%8B%E9%99%85%EF%BC%8C%E9%9F%A9%E5%9B%BD%E5%BC%80%E9%80%9A%E5%80%BA%E5%8A%A1%E5%92%A8%E8%AF%A2%E7%83%AD%E7%BA%BF%EF%BC%8C%E6%89%A9%E5%A4%A7%E6%8F%B4%E5%8A%A9%E4%B8%AD%E5%BF%83%E8%A7%84%E6%A8%A1.pdf",
-    "Type": "Web",
-    "PageCount": 4,
-    "OriginalLink": "https://wallstreetcn.com/articles/3776922",
-    "LocalPath": "all report pdf/股市动荡之际，韩国开通债务咨询热线，扩大援助中心规模.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "WallstreetCN (Global)",
-    "Date": "2026-07-14",
-    "Name": "伊朗称美进入正式战争状态",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%BE%8E%E8%BF%9B%E5%85%A5%E6%AD%A3%E5%BC%8F%E6%88%98%E4%BA%89%E7%8A%B6%E6%80%81.pdf",
-    "Type": "Web",
-    "PageCount": 1,
-    "OriginalLink": "https://wallstreetcn.com/articles/3776923",
-    "LocalPath": "all report pdf/伊朗称美进入正式战争状态.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "WallstreetCN (Global)",
-    "Date": "2026-07-14",
-    "Name": "投资收益贡献显著，国轩高科上半年净利预增227%至323%｜财报见闻",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%8A%95%E8%B5%84%E6%94%B6%E7%9B%8A%E8%B4%A1%E7%8C%AE%E6%98%BE%E8%91%97%EF%BC%8C%E5%9B%BD%E8%BD%A9%E9%AB%98%E7%A7%91%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%87%80%E5%88%A9%E9%A2%84%E5%A2%9E227%25%E8%87%B3323%25%EF%BD%9C%E8%B4%A2%E6%8A%A5%E8%A7%81%E9%97%BB.pdf",
-    "Type": "Web",
-    "PageCount": 1,
-    "OriginalLink": "https://wallstreetcn.com/articles/3776914",
-    "LocalPath": "all report pdf/投资收益贡献显著，国轩高科上半年净利预增227%至323%｜财报见闻.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "WallstreetCN (Global)",
-    "Date": "2026-07-14",
-    "Name": "高盛Q2营收创新高，股票交易收入连续三个季度刷新华尔街纪录，SpaceX上市推动股票承销收入飙升130% | 财报见闻",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E9%AB%98%E7%9B%9BQ2%E8%90%A5%E6%94%B6%E5%88%9B%E6%96%B0%E9%AB%98%EF%BC%8C%E8%82%A1%E7%A5%A8%E4%BA%A4%E6%98%93%E6%94%B6%E5%85%A5%E8%BF%9E%E7%BB%AD%E4%B8%89%E4%B8%AA%E5%AD%A3%E5%BA%A6%E5%88%B7%E6%96%B0%E5%8D%8E%E5%B0%94%E8%A1%97%E7%BA%AA%E5%BD%95%EF%BC%8CSpaceX%E4%B8%8A%E5%B8%82%E6%8E%A8%E5%8A%A8%E8%82%A1%E7%A5%A8%E6%89%BF%E9%94%80%E6%94%B6%E5%85%A5%E9%A3%99%E5%8D%87130%25%20_%20%E8%B4%A2%E6%8A%A5%E8%A7%81%E9%97%BB.pdf",
-    "Type": "Web",
-    "PageCount": 4,
-    "OriginalLink": "https://wallstreetcn.com/articles/3776918",
-    "LocalPath": "all report pdf/高盛Q2营收创新高，股票交易收入连续三个季度刷新华尔街纪录，SpaceX上市推动股票承销收入飙升130% _ 财报见闻.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "WallstreetCN (Global)",
-    "Date": "2026-07-14",
-    "Name": "永辉超市上半年扭亏 但二季度扣非后再度承压",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%B0%B8%E8%BE%89%E8%B6%85%E5%B8%82%E4%B8%8A%E5%8D%8A%E5%B9%B4%E6%89%AD%E4%BA%8F%20%E4%BD%86%E4%BA%8C%E5%AD%A3%E5%BA%A6%E6%89%A3%E9%9D%9E%E5%90%8E%E5%86%8D%E5%BA%A6%E6%89%BF%E5%8E%8B.pdf",
-    "Type": "Web",
-    "PageCount": 2,
-    "OriginalLink": "https://wallstreetcn.com/articles/3776917",
-    "LocalPath": "all report pdf/永辉超市上半年扭亏 但二季度扣非后再度承压.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "WallstreetCN (Global)",
-    "Date": "2026-07-14",
-    "Name": "美银基金经理调查：AI泡沫成市场最担心的事了！",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%BE%8E%E9%93%B6%E5%9F%BA%E9%87%91%E7%BB%8F%E7%90%86%E8%B0%83%E6%9F%A5%EF%BC%9AAI%E6%B3%A1%E6%B2%AB%E6%88%90%E5%B8%82%E5%9C%BA%E6%9C%80%E6%8B%85%E5%BF%83%E7%9A%84%E4%BA%8B%E4%BA%86%EF%BC%81.pdf",
-    "Type": "Web",
-    "PageCount": 7,
-    "OriginalLink": "https://wallstreetcn.com/articles/3776916",
-    "LocalPath": "all report pdf/美银基金经理调查：AI泡沫成市场最担心的事了！.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "WallstreetCN (Global)",
-    "Date": "2026-07-14",
-    "Name": "AI存储需求爆发，德明利上半年净利预计57亿-65亿元，上年同期亏损1.18亿元｜财报见闻",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/AI%E5%AD%98%E5%82%A8%E9%9C%80%E6%B1%82%E7%88%86%E5%8F%91%EF%BC%8C%E5%BE%B7%E6%98%8E%E5%88%A9%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%87%80%E5%88%A9%E9%A2%84%E8%AE%A157%E4%BA%BF-65%E4%BA%BF%E5%85%83%EF%BC%8C%E4%B8%8A%E5%B9%B4%E5%90%8C%E6%9C%9F%E4%BA%8F%E6%8D%9F1.18%E4%BA%BF%E5%85%83%EF%BD%9C%E8%B4%A2%E6%8A%A5%E8%A7%81%E9%97%BB.pdf",
-    "Type": "Web",
-    "PageCount": 2,
-    "OriginalLink": "https://wallstreetcn.com/articles/3776910",
-    "LocalPath": "all report pdf/AI存储需求爆发，德明利上半年净利预计57亿-65亿元，上年同期亏损1.18亿元｜财报见闻.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "WallstreetCN (Global)",
-    "Date": "2026-07-14",
-    "Name": "水井坊上半年预亏 主动控货拖累收入超3亿元",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%B0%B4%E4%BA%95%E5%9D%8A%E4%B8%8A%E5%8D%8A%E5%B9%B4%E9%A2%84%E4%BA%8F%20%E4%B8%BB%E5%8A%A8%E6%8E%A7%E8%B4%A7%E6%8B%96%E7%B4%AF%E6%94%B6%E5%85%A5%E8%B6%853%E4%BA%BF%E5%85%83.pdf",
-    "Type": "Web",
-    "PageCount": 2,
-    "OriginalLink": "https://wallstreetcn.com/articles/3776913",
-    "LocalPath": "all report pdf/水井坊上半年预亏 主动控货拖累收入超3亿元.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "WallstreetCN (Global)",
-    "Date": "2026-07-14",
-    "Name": "摩根大通Q2净利润增长41%，股票交易收入飙升86%，戴蒙警告深层风险正在积聚 | 财报见闻",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%91%A9%E6%A0%B9%E5%A4%A7%E9%80%9AQ2%E5%87%80%E5%88%A9%E6%B6%A6%E5%A2%9E%E9%95%BF41%25%EF%BC%8C%E8%82%A1%E7%A5%A8%E4%BA%A4%E6%98%93%E6%94%B6%E5%85%A5%E9%A3%99%E5%8D%8786%25%EF%BC%8C%E6%88%B4%E8%92%99%E8%AD%A6%E5%91%8A%E6%B7%B1%E5%B1%82%E9%A3%8E%E9%99%A9%E6%AD%A3%E5%9C%A8%E7%A7%AF%E8%81%9A%20_%20%E8%B4%A2%E6%8A%A5%E8%A7%81%E9%97%BB.pdf",
-    "Type": "Web",
-    "PageCount": 4,
-    "OriginalLink": "https://wallstreetcn.com/articles/3776911",
-    "LocalPath": "all report pdf/摩根大通Q2净利润增长41%，股票交易收入飙升86%，戴蒙警告深层风险正在积聚 _ 财报见闻.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "WallstreetCN (Global)",
-    "Date": "2026-07-14",
-    "Name": "华创策略：调整或已到位，把握布局窗口",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%8D%8E%E5%88%9B%E7%AD%96%E7%95%A5%EF%BC%9A%E8%B0%83%E6%95%B4%E6%88%96%E5%B7%B2%E5%88%B0%E4%BD%8D%EF%BC%8C%E6%8A%8A%E6%8F%A1%E5%B8%83%E5%B1%80%E7%AA%97%E5%8F%A3.pdf",
-    "Type": "Web",
-    "PageCount": 3,
-    "OriginalLink": "https://wallstreetcn.com/articles/3776908",
-    "LocalPath": "all report pdf/华创策略：调整或已到位，把握布局窗口.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "WallstreetCN (Global)",
-    "Date": "2026-07-14",
-    "Name": "AI算力需求引爆高速光模块，剑桥科技上半年净利润预增156.65%至197.18%｜财报见闻",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/AI%E7%AE%97%E5%8A%9B%E9%9C%80%E6%B1%82%E5%BC%95%E7%88%86%E9%AB%98%E9%80%9F%E5%85%89%E6%A8%A1%E5%9D%97%EF%BC%8C%E5%89%91%E6%A1%A5%E7%A7%91%E6%8A%80%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%87%80%E5%88%A9%E6%B6%A6%E9%A2%84%E5%A2%9E156.65%25%E8%87%B3197.18%25%EF%BD%9C%E8%B4%A2%E6%8A%A5%E8%A7%81%E9%97%BB.pdf",
-    "Type": "Web",
-    "PageCount": 2,
-    "OriginalLink": "https://wallstreetcn.com/articles/3776906",
-    "LocalPath": "all report pdf/AI算力需求引爆高速光模块，剑桥科技上半年净利润预增156.65%至197.18%｜财报见闻.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "WallstreetCN (Global)",
-    "Date": "2026-07-14",
-    "Name": "谷歌杀入英伟达\"地盘\"：TPU扩张战略直指新云服务商",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E8%B0%B7%E6%AD%8C%E6%9D%80%E5%85%A5%E8%8B%B1%E4%BC%9F%E8%BE%BE_%E5%9C%B0%E7%9B%98_%EF%BC%9ATPU%E6%89%A9%E5%BC%A0%E6%88%98%E7%95%A5%E7%9B%B4%E6%8C%87%E6%96%B0%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%95%86.pdf",
-    "Type": "Web",
-    "PageCount": 3,
-    "OriginalLink": "https://wallstreetcn.com/articles/3776888",
-    "LocalPath": "all report pdf/谷歌杀入英伟达_地盘_：TPU扩张战略直指新云服务商.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "WallstreetCN (Global)",
-    "Date": "2026-07-14",
-    "Name": "霍尔木兹海峡再响警报：阿联酋两艘油轮遇袭、一名船员死亡！",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E5%86%8D%E5%93%8D%E8%AD%A6%E6%8A%A5%EF%BC%9A%E9%98%BF%E8%81%94%E9%85%8B%E4%B8%A4%E8%89%98%E6%B2%B9%E8%BD%AE%E9%81%87%E8%A2%AD%E3%80%81%E4%B8%80%E5%90%8D%E8%88%B9%E5%91%98%E6%AD%BB%E4%BA%A1%EF%BC%81.pdf",
-    "Type": "Web",
-    "PageCount": 1,
-    "OriginalLink": "https://wallstreetcn.com/articles/3776900",
-    "LocalPath": "all report pdf/霍尔木兹海峡再响警报：阿联酋两艘油轮遇袭、一名船员死亡！.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "WallstreetCN (Global)",
-    "Date": "2026-07-14",
-    "Name": "锂价回暖叠加投资收益，赣锋锂业上半年预计扭亏为盈，净利润最高46亿元｜财报见闻",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E9%94%82%E4%BB%B7%E5%9B%9E%E6%9A%96%E5%8F%A0%E5%8A%A0%E6%8A%95%E8%B5%84%E6%94%B6%E7%9B%8A%EF%BC%8C%E8%B5%A3%E9%94%8B%E9%94%82%E4%B8%9A%E4%B8%8A%E5%8D%8A%E5%B9%B4%E9%A2%84%E8%AE%A1%E6%89%AD%E4%BA%8F%E4%B8%BA%E7%9B%88%EF%BC%8C%E5%87%80%E5%88%A9%E6%B6%A6%E6%9C%80%E9%AB%9846%E4%BA%BF%E5%85%83%EF%BD%9C%E8%B4%A2%E6%8A%A5%E8%A7%81%E9%97%BB.pdf",
-    "Type": "Web",
-    "PageCount": 2,
-    "OriginalLink": "https://wallstreetcn.com/articles/3776898",
-    "LocalPath": "all report pdf/锂价回暖叠加投资收益，赣锋锂业上半年预计扭亏为盈，净利润最高46亿元｜财报见闻.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "WallstreetCN (Global)",
-    "Date": "2026-07-14",
-    "Name": "全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%85%A8%E7%BE%8E%E9%A6%96%E4%B8%AA%E5%B7%9E%E7%BA%A7%E2%80%9C%E5%88%B9%E8%BD%A6%E4%BB%A4%E2%80%9D%EF%BC%81%E7%BA%BD%E7%BA%A6%E5%B7%9E%E6%9A%82%E5%81%9C%E6%96%B0%E5%BB%BA%E5%A4%A7%E5%9E%8BAI%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%EF%BC%8C%E4%B8%80%E5%B9%B4%E5%86%85%E4%B8%8D%E5%86%8D%E5%8F%91%E6%94%BE%E6%96%B0%E8%AE%B8%E5%8F%AF.pdf",
-    "Type": "Web",
-    "PageCount": 3,
-    "OriginalLink": "https://wallstreetcn.com/articles/3776903",
-    "LocalPath": "all report pdf/全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "WallstreetCN (Global)",
-    "Date": "2026-07-14",
-    "Name": "本周四，韩国市场面临\"双重审判\"",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%9C%AC%E5%91%A8%E5%9B%9B%EF%BC%8C%E9%9F%A9%E5%9B%BD%E5%B8%82%E5%9C%BA%E9%9D%A2%E4%B8%B4_%E5%8F%8C%E9%87%8D%E5%AE%A1%E5%88%A4_.pdf",
-    "Type": "Web",
-    "PageCount": 1,
-    "OriginalLink": "https://wallstreetcn.com/articles/3776901",
-    "LocalPath": "all report pdf/本周四，韩国市场面临_双重审判_.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "WallstreetCN (Global)",
-    "Date": "2026-07-14",
-    "Name": "赴美上市传闻再起，三星电子紧急否认ADR发行评估",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E8%B5%B4%E7%BE%8E%E4%B8%8A%E5%B8%82%E4%BC%A0%E9%97%BB%E5%86%8D%E8%B5%B7%EF%BC%8C%E4%B8%89%E6%98%9F%E7%94%B5%E5%AD%90%E7%B4%A7%E6%80%A5%E5%90%A6%E8%AE%A4ADR%E5%8F%91%E8%A1%8C%E8%AF%84%E4%BC%B0.pdf",
-    "Type": "Web",
-    "PageCount": 2,
-    "OriginalLink": "https://wallstreetcn.com/articles/3776890",
-    "LocalPath": "all report pdf/赴美上市传闻再起，三星电子紧急否认ADR发行评估.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "WallstreetCN (Global)",
-    "Date": "2026-07-14",
-    "Name": "东山精密预计上半年净利润同比增长282.58%～295.78%，光模块业务成关键驱动力 | 财报见闻",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E4%B8%9C%E5%B1%B1%E7%B2%BE%E5%AF%86%E9%A2%84%E8%AE%A1%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%87%80%E5%88%A9%E6%B6%A6%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF282.58%25%EF%BD%9E295.78%25%EF%BC%8C%E5%85%89%E6%A8%A1%E5%9D%97%E4%B8%9A%E5%8A%A1%E6%88%90%E5%85%B3%E9%94%AE%E9%A9%B1%E5%8A%A8%E5%8A%9B%20_%20%E8%B4%A2%E6%8A%A5%E8%A7%81%E9%97%BB.pdf",
-    "Type": "Web",
-    "PageCount": 2,
-    "OriginalLink": "https://wallstreetcn.com/articles/3776899",
-    "LocalPath": "all report pdf/东山精密预计上半年净利润同比增长282.58%～295.78%，光模块业务成关键驱动力 _ 财报见闻.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "WallstreetCN (Global)",
-    "Date": "2026-07-14",
-    "Name": "北方稀土上半年净利预增逾112%，稀土量价齐升，三大产品产量创同期新高｜财报见闻",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%8C%97%E6%96%B9%E7%A8%80%E5%9C%9F%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%87%80%E5%88%A9%E9%A2%84%E5%A2%9E%E9%80%BE112%25%EF%BC%8C%E7%A8%80%E5%9C%9F%E9%87%8F%E4%BB%B7%E9%BD%90%E5%8D%87%EF%BC%8C%E4%B8%89%E5%A4%A7%E4%BA%A7%E5%93%81%E4%BA%A7%E9%87%8F%E5%88%9B%E5%90%8C%E6%9C%9F%E6%96%B0%E9%AB%98%EF%BD%9C%E8%B4%A2%E6%8A%A5%E8%A7%81%E9%97%BB.pdf",
-    "Type": "Web",
-    "PageCount": 2,
-    "OriginalLink": "https://wallstreetcn.com/articles/3776896",
-    "LocalPath": "all report pdf/北方稀土上半年净利预增逾112%，稀土量价齐升，三大产品产量创同期新高｜财报见闻.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "WallstreetCN (Global)",
-    "Date": "2026-07-14",
-    "Name": "A股午后集体反攻！创业板直线拉升涨超3%，算力硬件爆发、PCB掀涨停潮，港股半导体反弹",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/A%E8%82%A1%E5%8D%88%E5%90%8E%E9%9B%86%E4%BD%93%E5%8F%8D%E6%94%BB%EF%BC%81%E5%88%9B%E4%B8%9A%E6%9D%BF%E7%9B%B4%E7%BA%BF%E6%8B%89%E5%8D%87%E6%B6%A8%E8%B6%853%25%EF%BC%8C%E7%AE%97%E5%8A%9B%E7%A1%AC%E4%BB%B6%E7%88%86%E5%8F%91%E3%80%81PCB%E6%8E%80%E6%B6%A8%E5%81%9C%E6%BD%AE%EF%BC%8C%E6%B8%AF%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%8F%8D%E5%BC%B9.pdf",
-    "Type": "Web",
-    "PageCount": 8,
-    "OriginalLink": "https://wallstreetcn.com/articles/3776862",
-    "LocalPath": "all report pdf/A股午后集体反攻！创业板直线拉升涨超3%，算力硬件爆发、PCB掀涨停潮，港股半导体反弹.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "WallstreetCN (Global)",
-    "Date": "2026-07-14",
-    "Name": "算力需求爆发驱动，长飞光纤预计上半年净利润同比增长711%-914% | 财报见闻",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%AE%97%E5%8A%9B%E9%9C%80%E6%B1%82%E7%88%86%E5%8F%91%E9%A9%B1%E5%8A%A8%EF%BC%8C%E9%95%BF%E9%A3%9E%E5%85%89%E7%BA%A4%E9%A2%84%E8%AE%A1%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%87%80%E5%88%A9%E6%B6%A6%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF711%25-914%25%20_%20%E8%B4%A2%E6%8A%A5%E8%A7%81%E9%97%BB.pdf",
-    "Type": "Web",
-    "PageCount": 2,
-    "OriginalLink": "https://wallstreetcn.com/articles/3776895",
-    "LocalPath": "all report pdf/算力需求爆发驱动，长飞光纤预计上半年净利润同比增长711%-914% _ 财报见闻.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "WallstreetCN (Global)",
-    "Date": "2026-07-14",
-    "Name": "跟韩国券商唱反调！SemiAnalysis：预计SK海力士盈利强劲，“别人恐惧我贪婪”！",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E8%B7%9F%E9%9F%A9%E5%9B%BD%E5%88%B8%E5%95%86%E5%94%B1%E5%8F%8D%E8%B0%83%EF%BC%81SemiAnalysis%EF%BC%9A%E9%A2%84%E8%AE%A1SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E7%9B%88%E5%88%A9%E5%BC%BA%E5%8A%B2%EF%BC%8C%E2%80%9C%E5%88%AB%E4%BA%BA%E6%81%90%E6%83%A7%E6%88%91%E8%B4%AA%E5%A9%AA%E2%80%9D%EF%BC%81.pdf",
-    "Type": "Web",
-    "PageCount": 3,
-    "OriginalLink": "https://wallstreetcn.com/articles/3776891",
-    "LocalPath": "all report pdf/跟韩国券商唱反调！SemiAnalysis：预计SK海力士盈利强劲，“别人恐惧我贪婪”！.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "WallstreetCN (Global)",
-    "Date": "2026-07-14",
-    "Name": "两融余额，创15个月来最长连降纪录",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E4%B8%A4%E8%9E%8D%E4%BD%99%E9%A2%9D%EF%BC%8C%E5%88%9B15%E4%B8%AA%E6%9C%88%E6%9D%A5%E6%9C%80%E9%95%BF%E8%BF%9E%E9%99%8D%E7%BA%AA%E5%BD%95.pdf",
-    "Type": "Web",
-    "PageCount": 2,
-    "OriginalLink": "https://wallstreetcn.com/articles/3776894",
-    "LocalPath": "all report pdf/两融余额，创15个月来最长连降纪录.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "WallstreetCN (Global)",
-    "Date": "2026-07-14",
-    "Name": "单日600亿！大资金进场信号显现",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%8D%95%E6%97%A5600%E4%BA%BF%EF%BC%81%E5%A4%A7%E8%B5%84%E9%87%91%E8%BF%9B%E5%9C%BA%E4%BF%A1%E5%8F%B7%E6%98%BE%E7%8E%B0.pdf",
-    "Type": "Web",
-    "PageCount": 3,
-    "OriginalLink": "https://wallstreetcn.com/articles/3776892",
-    "LocalPath": "all report pdf/单日600亿！大资金进场信号显现.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "WallstreetCN (Global)",
-    "Date": "2026-07-14",
-    "Name": "霍尔木兹关闭触发亚洲紧急转购美油，15倍价差颠覆传统航线",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E5%85%B3%E9%97%AD%E8%A7%A6%E5%8F%91%E4%BA%9A%E6%B4%B2%E7%B4%A7%E6%80%A5%E8%BD%AC%E8%B4%AD%E7%BE%8E%E6%B2%B9%EF%BC%8C15%E5%80%8D%E4%BB%B7%E5%B7%AE%E9%A2%A0%E8%A6%86%E4%BC%A0%E7%BB%9F%E8%88%AA%E7%BA%BF.pdf",
-    "Type": "Web",
-    "PageCount": 3,
-    "OriginalLink": "https://wallstreetcn.com/articles/3776893",
-    "LocalPath": "all report pdf/霍尔木兹关闭触发亚洲紧急转购美油，15倍价差颠覆传统航线.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "WallstreetCN (Global)",
-    "Date": "2026-07-14",
-    "Name": "今夜，全球市场的三重大考：美国CPI、沃什听证会与财报季“第一枪”",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E4%BB%8A%E5%A4%9C%EF%BC%8C%E5%85%A8%E7%90%83%E5%B8%82%E5%9C%BA%E7%9A%84%E4%B8%89%E9%87%8D%E5%A4%A7%E8%80%83%EF%BC%9A%E7%BE%8E%E5%9B%BDCPI%E3%80%81%E6%B2%83%E4%BB%80%E5%90%AC%E8%AF%81%E4%BC%9A%E4%B8%8E%E8%B4%A2%E6%8A%A5%E5%AD%A3%E2%80%9C%E7%AC%AC%E4%B8%80%E6%9E%AA%E2%80%9D.pdf",
-    "Type": "Web",
-    "PageCount": 4,
-    "OriginalLink": "https://wallstreetcn.com/articles/3776884",
-    "LocalPath": "all report pdf/今夜，全球市场的三重大考：美国CPI、沃什听证会与财报季“第一枪”.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "WallstreetCN (Global)",
-    "Date": "2026-07-14",
-    "Name": "日本长债集体上涨！日本财长一席话引爆需求，20年期债券拍卖火热",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%97%A5%E6%9C%AC%E9%95%BF%E5%80%BA%E9%9B%86%E4%BD%93%E4%B8%8A%E6%B6%A8%EF%BC%81%E6%97%A5%E6%9C%AC%E8%B4%A2%E9%95%BF%E4%B8%80%E5%B8%AD%E8%AF%9D%E5%BC%95%E7%88%86%E9%9C%80%E6%B1%82%EF%BC%8C20%E5%B9%B4%E6%9C%9F%E5%80%BA%E5%88%B8%E6%8B%8D%E5%8D%96%E7%81%AB%E7%83%AD.pdf",
-    "Type": "Web",
-    "PageCount": 3,
-    "OriginalLink": "https://wallstreetcn.com/articles/3776887",
-    "LocalPath": "all report pdf/日本长债集体上涨！日本财长一席话引爆需求，20年期债券拍卖火热.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "WallstreetCN (Global)",
-    "Date": "2026-07-14",
-    "Name": "伊朗发动代号“纳斯尔2”军事行动，对美军“造成重大损失”！特朗普：伊朗想达成协议！以色列很想开打",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E4%BC%8A%E6%9C%97%E5%8F%91%E5%8A%A8%E4%BB%A3%E5%8F%B7%E2%80%9C%E7%BA%B3%E6%96%AF%E5%B0%942%E2%80%9D%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%EF%BC%8C%E5%AF%B9%E7%BE%8E%E5%86%9B%E2%80%9C%E9%80%A0%E6%88%90%E9%87%8D%E5%A4%A7%E6%8D%9F%E5%A4%B1%E2%80%9D%EF%BC%81%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%83%B3%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE%EF%BC%81%E4%BB%A5%E8%89%B2%E5%88%97%E5%BE%88%E6%83%B3%E5%BC%80%E6%89%93.pdf",
-    "Type": "Web",
-    "PageCount": 2,
-    "OriginalLink": "https://wallstreetcn.com/articles/3776883",
-    "LocalPath": "all report pdf/伊朗发动代号“纳斯尔2”军事行动，对美军“造成重大损失”！特朗普：伊朗想达成协议！以色列很想开打.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "WallstreetCN (Global)",
-    "Date": "2026-07-14",
-    "Name": "中国6月原油进口显著下降，大豆进口创13个月新高，铝出口创历史新高，上半年算力硬件进出口增长55.6%",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E4%B8%AD%E5%9B%BD6%E6%9C%88%E5%8E%9F%E6%B2%B9%E8%BF%9B%E5%8F%A3%E6%98%BE%E8%91%97%E4%B8%8B%E9%99%8D%EF%BC%8C%E5%A4%A7%E8%B1%86%E8%BF%9B%E5%8F%A3%E5%88%9B13%E4%B8%AA%E6%9C%88%E6%96%B0%E9%AB%98%EF%BC%8C%E9%93%9D%E5%87%BA%E5%8F%A3%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98%EF%BC%8C%E4%B8%8A%E5%8D%8A%E5%B9%B4%E7%AE%97%E5%8A%9B%E7%A1%AC%E4%BB%B6%E8%BF%9B%E5%87%BA%E5%8F%A3%E5%A2%9E%E9%95%BF55.6%25.pdf",
-    "Type": "Web",
-    "PageCount": 4,
-    "OriginalLink": "https://wallstreetcn.com/articles/3776879",
-    "LocalPath": "all report pdf/中国6月原油进口显著下降，大豆进口创13个月新高，铝出口创历史新高，上半年算力硬件进出口增长55.6%.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "WallstreetCN (Global)",
-    "Date": "2026-07-14",
-    "Name": "高盛：香港市场已进入AI时代",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E9%AB%98%E7%9B%9B%EF%BC%9A%E9%A6%99%E6%B8%AF%E5%B8%82%E5%9C%BA%E5%B7%B2%E8%BF%9B%E5%85%A5AI%E6%97%B6%E4%BB%A3.pdf",
-    "Type": "Web",
-    "PageCount": 2,
-    "OriginalLink": "https://wallstreetcn.com/articles/3776882",
-    "LocalPath": "all report pdf/高盛：香港市场已进入AI时代.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "WallstreetCN (Global)",
-    "Date": "2026-07-14",
-    "Name": "AI数据中心债信用大分化：甲骨文获惠誉最高评级，谷歌背书项目冰火两重天",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/AI%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E5%80%BA%E4%BF%A1%E7%94%A8%E5%A4%A7%E5%88%86%E5%8C%96%EF%BC%9A%E7%94%B2%E9%AA%A8%E6%96%87%E8%8E%B7%E6%83%A0%E8%AA%89%E6%9C%80%E9%AB%98%E8%AF%84%E7%BA%A7%EF%BC%8C%E8%B0%B7%E6%AD%8C%E8%83%8C%E4%B9%A6%E9%A1%B9%E7%9B%AE%E5%86%B0%E7%81%AB%E4%B8%A4%E9%87%8D%E5%A4%A9.pdf",
-    "Type": "Web",
-    "PageCount": 2,
-    "OriginalLink": "https://wallstreetcn.com/articles/3776875",
-    "LocalPath": "all report pdf/AI数据中心债信用大分化：甲骨文获惠誉最高评级，谷歌背书项目冰火两重天.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "WallstreetCN (Global)",
-    "Date": "2026-07-14",
-    "Name": "芯片出口强劲，韩国政府大幅上调经济预测",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E8%8A%AF%E7%89%87%E5%87%BA%E5%8F%A3%E5%BC%BA%E5%8A%B2%EF%BC%8C%E9%9F%A9%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%A4%A7%E5%B9%85%E4%B8%8A%E8%B0%83%E7%BB%8F%E6%B5%8E%E9%A2%84%E6%B5%8B.pdf",
-    "Type": "Web",
-    "PageCount": 2,
-    "OriginalLink": "https://wallstreetcn.com/articles/3776876",
-    "LocalPath": "all report pdf/芯片出口强劲，韩国政府大幅上调经济预测.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "WallstreetCN (Global)",
-    "Date": "2026-07-14",
-    "Name": "美银：SK海力士2028新增产能或仅为原计划的六分之一，DRAM价格操纵争议再起",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%BE%8E%E9%93%B6%EF%BC%9ASK%E6%B5%B7%E5%8A%9B%E5%A3%AB2028%E6%96%B0%E5%A2%9E%E4%BA%A7%E8%83%BD%E6%88%96%E4%BB%85%E4%B8%BA%E5%8E%9F%E8%AE%A1%E5%88%92%E7%9A%84%E5%85%AD%E5%88%86%E4%B9%8B%E4%B8%80%EF%BC%8CDRAM%E4%BB%B7%E6%A0%BC%E6%93%8D%E7%BA%B5%E4%BA%89%E8%AE%AE%E5%86%8D%E8%B5%B7.pdf",
-    "Type": "Web",
-    "PageCount": 2,
-    "OriginalLink": "https://wallstreetcn.com/articles/3776878",
-    "LocalPath": "all report pdf/美银：SK海力士2028新增产能或仅为原计划的六分之一，DRAM价格操纵争议再起.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "WallstreetCN (Global)",
-    "Date": "2026-07-14",
-    "Name": "萨洛蒙中国新帅确定，耐克20年老将杜文钧接棒",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E8%90%A8%E6%B4%9B%E8%92%99%E4%B8%AD%E5%9B%BD%E6%96%B0%E5%B8%85%E7%A1%AE%E5%AE%9A%EF%BC%8C%E8%80%90%E5%85%8B20%E5%B9%B4%E8%80%81%E5%B0%86%E6%9D%9C%E6%96%87%E9%92%A7%E6%8E%A5%E6%A3%92.pdf",
-    "Type": "Web",
-    "PageCount": 2,
-    "OriginalLink": "https://wallstreetcn.com/articles/3776877",
-    "LocalPath": "all report pdf/萨洛蒙中国新帅确定，耐克20年老将杜文钧接棒.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "WallstreetCN (Global)",
-    "Date": "2026-07-14",
-    "Name": "华尔街不担心资本开支！大摩：明年五大云厂资本开支1.2万亿美元，2028年1.4万亿美元，算力翻四倍",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%8D%8E%E5%B0%94%E8%A1%97%E4%B8%8D%E6%8B%85%E5%BF%83%E8%B5%84%E6%9C%AC%E5%BC%80%E6%94%AF%EF%BC%81%E5%A4%A7%E6%91%A9%EF%BC%9A%E6%98%8E%E5%B9%B4%E4%BA%94%E5%A4%A7%E4%BA%91%E5%8E%82%E8%B5%84%E6%9C%AC%E5%BC%80%E6%94%AF1.2%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%8C2028%E5%B9%B41.4%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%8C%E7%AE%97%E5%8A%9B%E7%BF%BB%E5%9B%9B%E5%80%8D.pdf",
-    "Type": "Web",
-    "PageCount": 1,
-    "OriginalLink": "https://wallstreetcn.com/articles/3776864",
-    "LocalPath": "all report pdf/华尔街不担心资本开支！大摩：明年五大云厂资本开支1.2万亿美元，2028年1.4万亿美元，算力翻四倍.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
     "Source": "Yuanta (市場評論)",
     "Date": "2026-07-14",
     "Name": "20260714【投研報告】市場快訊/科技股再度領跌，市場觀望CPI及台積電法說",
@@ -2350,8 +2588,8 @@
     "Name": "Advanced economies, emerging economies: does this distinction still hold any meaning, and for which countries? (2026-07-13)",
     "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Advanced%20economies%2C%20emerging%20economies_%20does%20this%20distinction%20still%20hold%20any%20meaning%2C%20and%20for%20which%20countries_%20%282026-07-13%29.pdf",
     "Type": "PDF",
-    "PageCount": 1,
-    "OriginalLink": "https://economic-research.bnpparibas.com/pdf/en-US/Advanced-economies-emerging-economies-does-distinction-still-hold-meaning-which-countries-7/13/2026,53629",
+    "PageCount": 3,
+    "OriginalLink": "https://economic-research.bnpparibas.com/pdf/en-US/Advanced-economies-emerging-economies-does-this-distinction-still-hold-meaning-which-countries-7/13/2026,53629",
     "LocalPath": "all report pdf/Advanced economies, emerging economies_ does this distinction still hold any meaning, and for which countries_ (2026-07-13).pdf",
     "Summary": "未執行 AI 摘要"
   },
@@ -2361,7 +2599,7 @@
     "Name": "EcoNews - 13 July 2026 (2026-07-13)",
     "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/EcoNews%20-%2013%20July%202026%20%282026-07-13%29.pdf",
     "Type": "PDF",
-    "PageCount": 1,
+    "PageCount": 2,
     "OriginalLink": "https://economic-research.bnpparibas.com/pdf/en-US/EcoNews-13-July-2026-7/13/2026,53623",
     "LocalPath": "all report pdf/EcoNews - 13 July 2026 (2026-07-13).pdf",
     "Summary": "未執行 AI 摘要"
@@ -2402,23 +2640,23 @@
   {
     "Source": "DB Research",
     "Date": "2026-07-13",
-    "Name": "Mapping the World's Prices 2026 (2026-07-13)",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Mapping%20the%20World%27s%20Prices%202026%20%282026-07-13%29.pdf",
-    "Type": "PDF",
-    "LocalPath": "/home/runner/work/financial-report-hub/financial-report-hub/all report pdf/Mapping the World's Prices 2026 (2026-07-13).pdf",
-    "PageCount": 68,
-    "OriginalLink": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Mapping%20the%20World%27s%20Prices%202026%20%282026-07-13%29.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "DB Research",
-    "Date": "2026-07-13",
     "Name": "Macro, Markets, Geopolitics and Tech: A Q3 2026 Guide for CFOs and Corporates (2026-07-13)",
     "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Macro%2C%20Markets%2C%20Geopolitics%20and%20Tech_%20A%20Q3%202026%20Guide%20for%20CFOs%20and%20Corporates%20%282026-07-13%29.pdf",
     "Type": "PDF",
     "LocalPath": "/home/runner/work/financial-report-hub/financial-report-hub/all report pdf/Macro, Markets, Geopolitics and Tech_ A Q3 2026 Guide for CFOs and Corporates (2026-07-13).pdf",
     "PageCount": 20,
     "OriginalLink": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Macro%2C%20Markets%2C%20Geopolitics%20and%20Tech_%20A%20Q3%202026%20Guide%20for%20CFOs%20and%20Corporates%20%282026-07-13%29.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "DB Research",
+    "Date": "2026-07-13",
+    "Name": "Mapping the World's Prices 2026 (2026-07-13)",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Mapping%20the%20World%27s%20Prices%202026%20%282026-07-13%29.pdf",
+    "Type": "PDF",
+    "LocalPath": "/home/runner/work/financial-report-hub/financial-report-hub/all report pdf/Mapping the World's Prices 2026 (2026-07-13).pdf",
+    "PageCount": 68,
+    "OriginalLink": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Mapping%20the%20World%27s%20Prices%202026%20%282026-07-13%29.pdf",
     "Summary": "未執行 AI 摘要"
   },
   {
@@ -2429,6 +2667,26 @@
     "PageCount": 8,
     "OriginalLink": "https://www.dir.co.jp/report/research/economics/japan/20260713_025897.pdf",
     "LocalPath": "all report pdf/骨太方針のポイント①　～危機管理投資・成長投資で高成長を実現できるか.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026-07-13",
+    "Name": "イラン情勢と異常気象､アジア新興国への影響を考える ～スーパーエルニーニョによる影響に加え､世界的なインフレによる間接的影響にも要注意～",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%82%A4%E3%83%A9%E3%83%B3%E6%83%85%E5%8B%A2%E3%81%A8%E7%95%B0%E5%B8%B8%E6%B0%97%E8%B1%A1%EF%BD%A4%E3%82%A2%E3%82%B8%E3%82%A2%E6%96%B0%E8%88%88%E5%9B%BD%E3%81%B8%E3%81%AE%E5%BD%B1%E9%9F%BF%E3%82%92%E8%80%83%E3%81%88%E3%82%8B%20%EF%BD%9E%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%A8%E3%83%AB%E3%83%8B%E3%83%BC%E3%83%8B%E3%83%A7%E3%81%AB%E3%82%88%E3%82%8B%E5%BD%B1%E9%9F%BF%E3%81%AB%E5%8A%A0%E3%81%88%EF%BD%A4%E4%B8%96%E7%95%8C%E7%9A%84%E3%81%AA%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AC%E3%81%AB%E3%82%88%E3%82%8B%E9%96%93%E6%8E%A5%E7%9A%84%E5%BD%B1%E9%9F%BF%E3%81%AB%E3%82%82%E8%A6%81%E6%B3%A8%E6%84%8F%EF%BD%9E.pdf",
+    "PageCount": 5,
+    "OriginalLink": "https://www.dlri.co.jp/files/macro/629248.pdf",
+    "LocalPath": "all report pdf/イラン情勢と異常気象､アジア新興国への影響を考える ～スーパーエルニーニョによる影響に加え､世界的なインフレによる間接的影響にも要注意～.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026-07-13",
+    "Name": "マレーシア､地方選で国政与党どうしが激戦､政局への影響は ～アンワル首相率いるPHが連立相手BNに惨敗､早期解散･総選挙観測の行方は～",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%83%9E%E3%83%AC%E3%83%BC%E3%82%B7%E3%82%A2%EF%BD%A4%E5%9C%B0%E6%96%B9%E9%81%B8%E3%81%A7%E5%9B%BD%E6%94%BF%E4%B8%8E%E5%85%9A%E3%81%A9%E3%81%86%E3%81%97%E3%81%8C%E6%BF%80%E6%88%A6%EF%BD%A4%E6%94%BF%E5%B1%80%E3%81%B8%E3%81%AE%E5%BD%B1%E9%9F%BF%E3%81%AF%20%EF%BD%9E%E3%82%A2%E3%83%B3%E3%83%AF%E3%83%AB%E9%A6%96%E7%9B%B8%E7%8E%87%E3%81%84%E3%82%8BPH%E3%81%8C%E9%80%A3%E7%AB%8B%E7%9B%B8%E6%89%8BBN%E3%81%AB%E6%83%A8%E6%95%97%EF%BD%A4%E6%97%A9%E6%9C%9F%E8%A7%A3%E6%95%A3%EF%BD%A5%E7%B7%8F%E9%81%B8%E6%8C%99%E8%A6%B3%E6%B8%AC%E3%81%AE%E8%A1%8C%E6%96%B9%E3%81%AF%EF%BD%9E.pdf",
+    "PageCount": 3,
+    "OriginalLink": "https://www.dlri.co.jp/files/macro/634252.pdf",
+    "LocalPath": "all report pdf/マレーシア､地方選で国政与党どうしが激戦､政局への影響は ～アンワル首相率いるPHが連立相手BNに惨敗､早期解散･総選挙観測の行方は～.pdf",
     "Summary": "未執行 AI 摘要"
   },
   {
@@ -2449,16 +2707,6 @@
     "PageCount": 6,
     "OriginalLink": "https://www.dlri.co.jp/files/macro/629236.pdf",
     "LocalPath": "all report pdf/異例の為替介入見送り継続 ～円安材料の雰囲気が変わるタイミングであれば、再び介入の可能性も～.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026-07-13",
-    "Name": "イラン情勢と異常気象､アジア新興国への影響を考える ～スーパーエルニーニョによる影響に加え､世界的なインフレによる間接的影響にも要注意～",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%82%A4%E3%83%A9%E3%83%B3%E6%83%85%E5%8B%A2%E3%81%A8%E7%95%B0%E5%B8%B8%E6%B0%97%E8%B1%A1%EF%BD%A4%E3%82%A2%E3%82%B8%E3%82%A2%E6%96%B0%E8%88%88%E5%9B%BD%E3%81%B8%E3%81%AE%E5%BD%B1%E9%9F%BF%E3%82%92%E8%80%83%E3%81%88%E3%82%8B%20%EF%BD%9E%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%A8%E3%83%AB%E3%83%8B%E3%83%BC%E3%83%8B%E3%83%A7%E3%81%AB%E3%82%88%E3%82%8B%E5%BD%B1%E9%9F%BF%E3%81%AB%E5%8A%A0%E3%81%88%EF%BD%A4%E4%B8%96%E7%95%8C%E7%9A%84%E3%81%AA%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AC%E3%81%AB%E3%82%88%E3%82%8B%E9%96%93%E6%8E%A5%E7%9A%84%E5%BD%B1%E9%9F%BF%E3%81%AB%E3%82%82%E8%A6%81%E6%B3%A8%E6%84%8F%EF%BD%9E.pdf",
-    "PageCount": 5,
-    "OriginalLink": "https://www.dlri.co.jp/files/macro/629248.pdf",
-    "LocalPath": "all report pdf/イラン情勢と異常気象､アジア新興国への影響を考える ～スーパーエルニーニョによる影響に加え､世界的なインフレによる間接的影響にも要注意～.pdf",
     "Summary": "未執行 AI 摘要"
   },
   {
@@ -2938,7 +3186,7 @@
     "Name": "2026年7月13日匯率利率資訊",
     "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/2026%E5%B9%B47%E6%9C%8813%E6%97%A5%E5%8C%AF%E7%8E%87%E5%88%A9%E7%8E%87%E8%B3%87%E8%A8%8A.pdf",
     "PageCount": 7,
-    "OriginalLink": "https://www.megabank.com.tw/-/media/mega/files/bankv2/personal/finance/financial-service/bulletin/weekly-journal/exchange-rate/202607/20260713.pdf?h=714&w=1225&hash=EDE8A8129CCE55973EAFC257BE155A3B",
+    "OriginalLink": "https://www.megabank.com.tw/-/media/mega/files/bankv2/personal/finance/financial-service/bulletin/weekly-journal/exchange-rate/202607/20260713.pdf",
     "LocalPath": "all report pdf/2026年7月13日匯率利率資訊.pdf",
     "Summary": "未執行 AI 摘要"
   },
@@ -3005,6 +3253,16 @@
     "Summary": "未執行 AI 摘要"
   },
   {
+    "Source": "YesFund",
+    "Date": "2026-07-13",
+    "Name": "聯邦銀行卓越金融洞察(週)_20260713",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E8%81%AF%E9%82%A6%E9%8A%80%E8%A1%8C%E5%8D%93%E8%B6%8A%E9%87%91%E8%9E%8D%E6%B4%9E%E5%AF%9F%28%E9%80%B1%29_20260713.pdf",
+    "PageCount": 20,
+    "OriginalLink": "https://www.yesfund.com.tw/SaveFile/聯邦銀行卓越金融洞察_20260713.pdf",
+    "LocalPath": "all report pdf/聯邦銀行卓越金融洞察(週)_20260713.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
     "Source": "Westpac IQ",
     "Date": "2026-07-13",
     "Name": "Australia and NZ Weekly 13 July 2026 (2026-07-13)",
@@ -3053,66 +3311,6 @@
     "PageCount": 21,
     "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202607121826912220_1.pdf?1783883262000.pdf",
     "LocalPath": "all report pdf/金融产品周报：市场虽仍有反复，但企稳窗口或快临近.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "华源证券",
-    "Date": "2026-07-12",
-    "Name": "宏观周报：AI分歧加大，地缘扰动或可控",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%AE%8F%E8%A7%82%E5%91%A8%E6%8A%A5%EF%BC%9AAI%E5%88%86%E6%AD%A7%E5%8A%A0%E5%A4%A7%EF%BC%8C%E5%9C%B0%E7%BC%98%E6%89%B0%E5%8A%A8%E6%88%96%E5%8F%AF%E6%8E%A7.pdf",
-    "PageCount": 7,
-    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202607121826912057_1.pdf?1783882911000.pdf",
-    "LocalPath": "all report pdf/宏观周报：AI分歧加大，地缘扰动或可控.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "上海证券",
-    "Date": "2026-07-12",
-    "Name": "ESG与可持续发展周报：“十五五”碳达峰行动方案审议通过，打造绿色低碳经济增长新引擎",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/ESG%E4%B8%8E%E5%8F%AF%E6%8C%81%E7%BB%AD%E5%8F%91%E5%B1%95%E5%91%A8%E6%8A%A5%EF%BC%9A%E2%80%9C%E5%8D%81%E4%BA%94%E4%BA%94%E2%80%9D%E7%A2%B3%E8%BE%BE%E5%B3%B0%E8%A1%8C%E5%8A%A8%E6%96%B9%E6%A1%88%E5%AE%A1%E8%AE%AE%E9%80%9A%E8%BF%87%EF%BC%8C%E6%89%93%E9%80%A0%E7%BB%BF%E8%89%B2%E4%BD%8E%E7%A2%B3%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%95%BF%E6%96%B0%E5%BC%95%E6%93%8E.pdf",
-    "PageCount": 4,
-    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202607121826911588_1.pdf?1783878477000.pdf",
-    "LocalPath": "all report pdf/ESG与可持续发展周报：“十五五”碳达峰行动方案审议通过，打造绿色低碳经济增长新引擎.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "东吴证券",
-    "Date": "2026-07-12",
-    "Name": "宏观量化经济指数周报：价格因素或继续支撑我国出口保持较强韧性",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%AE%8F%E8%A7%82%E9%87%8F%E5%8C%96%E7%BB%8F%E6%B5%8E%E6%8C%87%E6%95%B0%E5%91%A8%E6%8A%A5%EF%BC%9A%E4%BB%B7%E6%A0%BC%E5%9B%A0%E7%B4%A0%E6%88%96%E7%BB%A7%E7%BB%AD%E6%94%AF%E6%92%91%E6%88%91%E5%9B%BD%E5%87%BA%E5%8F%A3%E4%BF%9D%E6%8C%81%E8%BE%83%E5%BC%BA%E9%9F%A7%E6%80%A7.pdf",
-    "PageCount": 15,
-    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202607121826911066_1.pdf?1783872661000.pdf",
-    "LocalPath": "all report pdf/宏观量化经济指数周报：价格因素或继续支撑我国出口保持较强韧性.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "国信证券",
-    "Date": "2026-07-12",
-    "Name": "宏观经济周报：核心CPI走弱打开降息窗口",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%91%A8%E6%8A%A5%EF%BC%9A%E6%A0%B8%E5%BF%83CPI%E8%B5%B0%E5%BC%B1%E6%89%93%E5%BC%80%E9%99%8D%E6%81%AF%E7%AA%97%E5%8F%A3.pdf",
-    "PageCount": 13,
-    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202607121826910102_1.pdf?1783869950000.pdf",
-    "LocalPath": "all report pdf/宏观经济周报：核心CPI走弱打开降息窗口.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "国金证券",
-    "Date": "2026-07-12",
-    "Name": "AI洪流三部曲：技术的鸿沟",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/AI%E6%B4%AA%E6%B5%81%E4%B8%89%E9%83%A8%E6%9B%B2%EF%BC%9A%E6%8A%80%E6%9C%AF%E7%9A%84%E9%B8%BF%E6%B2%9F.pdf",
-    "PageCount": 8,
-    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202607121826910068_1.pdf?1783869950000.pdf",
-    "LocalPath": "all report pdf/AI洪流三部曲：技术的鸿沟.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "开源证券",
-    "Date": "2026-07-12",
-    "Name": "2026年6月价格数据点评：PPI同比延续高增，物价回升动能有所转换",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/2026%E5%B9%B46%E6%9C%88%E4%BB%B7%E6%A0%BC%E6%95%B0%E6%8D%AE%E7%82%B9%E8%AF%84%EF%BC%9APPI%E5%90%8C%E6%AF%94%E5%BB%B6%E7%BB%AD%E9%AB%98%E5%A2%9E%EF%BC%8C%E7%89%A9%E4%BB%B7%E5%9B%9E%E5%8D%87%E5%8A%A8%E8%83%BD%E6%9C%89%E6%89%80%E8%BD%AC%E6%8D%A2.pdf",
-    "PageCount": 9,
-    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202607121826909963_1.pdf?1783864130000.pdf",
-    "LocalPath": "all report pdf/2026年6月价格数据点评：PPI同比延续高增，物价回升动能有所转换.pdf",
     "Summary": "未執行 AI 摘要"
   },
   {
@@ -3289,21 +3487,21 @@
   {
     "Source": "DLRI",
     "Date": "2026-07-10",
-    "Name": "経済の舞台裏（2026.7）",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%B5%8C%E6%B8%88%E3%81%AE%E8%88%9E%E5%8F%B0%E8%A3%8F%EF%BC%882026.7%EF%BC%89.pdf",
-    "PageCount": 7,
-    "OriginalLink": "https://www.dlri.co.jp/files/macro/629225.pdf",
-    "LocalPath": "all report pdf/経済の舞台裏（2026.7）.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026-07-10",
     "Name": "2025年のNISA利用状況を読み解く（1） ～NISAが普及してもなお残る「なぜ日本人は投資をしないのか？」という課題～",
     "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/2025%E5%B9%B4%E3%81%AENISA%E5%88%A9%E7%94%A8%E7%8A%B6%E6%B3%81%E3%82%92%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%EF%BC%881%EF%BC%89%20%EF%BD%9ENISA%E3%81%8C%E6%99%AE%E5%8F%8A%E3%81%97%E3%81%A6%E3%82%82%E3%81%AA%E3%81%8A%E6%AE%8B%E3%82%8B%E3%80%8C%E3%81%AA%E3%81%9C%E6%97%A5%E6%9C%AC%E4%BA%BA%E3%81%AF%E6%8A%95%E8%B3%87%E3%82%92%E3%81%97%E3%81%AA%E3%81%84%E3%81%AE%E3%81%8B%EF%BC%9F%E3%80%8D%E3%81%A8%E3%81%84%E3%81%86%E8%AA%B2%E9%A1%8C%EF%BD%9E.pdf",
     "PageCount": 4,
     "OriginalLink": "https://www.dlri.co.jp/files/asset/629200.pdf",
     "LocalPath": "all report pdf/2025年のNISA利用状況を読み解く（1） ～NISAが普及してもなお残る「なぜ日本人は投資をしないのか？」という課題～.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026-07-10",
+    "Name": "工作機械受注が教えてくれる日本株・世界経済（26 年６月）",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%E5%8F%97%E6%B3%A8%E3%81%8C%E6%95%99%E3%81%88%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E6%97%A5%E6%9C%AC%E6%A0%AA%E3%83%BB%E4%B8%96%E7%95%8C%E7%B5%8C%E6%B8%88%EF%BC%8826%20%E5%B9%B4%EF%BC%96%E6%9C%88%EF%BC%89.pdf",
+    "PageCount": 5,
+    "OriginalLink": "https://www.dlri.co.jp/files/macro/629207.pdf",
+    "LocalPath": "all report pdf/工作機械受注が教えてくれる日本株・世界経済（26 年６月）.pdf",
     "Summary": "未執行 AI 摘要"
   },
   {
@@ -3317,53 +3515,13 @@
     "Summary": "未執行 AI 摘要"
   },
   {
-    "Source": "西南证券",
+    "Source": "DLRI",
     "Date": "2026-07-10",
-    "Name": "宏观周报：香港离岸人民币制度再升级，IMF下调全球经济增速预期",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%AE%8F%E8%A7%82%E5%91%A8%E6%8A%A5%EF%BC%9A%E9%A6%99%E6%B8%AF%E7%A6%BB%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E5%88%B6%E5%BA%A6%E5%86%8D%E5%8D%87%E7%BA%A7%EF%BC%8CIMF%E4%B8%8B%E8%B0%83%E5%85%A8%E7%90%83%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%80%9F%E9%A2%84%E6%9C%9F.pdf",
-    "PageCount": 14,
-    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202607101826881803_1.pdf?1783718852000.pdf",
-    "LocalPath": "all report pdf/宏观周报：香港离岸人民币制度再升级，IMF下调全球经济增速预期.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "华源证券",
-    "Date": "2026-07-10",
-    "Name": "兼评6月通胀数据：通胀动能切换进行时",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%85%BC%E8%AF%846%E6%9C%88%E9%80%9A%E8%83%80%E6%95%B0%E6%8D%AE%EF%BC%9A%E9%80%9A%E8%83%80%E5%8A%A8%E8%83%BD%E5%88%87%E6%8D%A2%E8%BF%9B%E8%A1%8C%E6%97%B6.pdf",
+    "Name": "経済の舞台裏（2026.7）",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%B5%8C%E6%B8%88%E3%81%AE%E8%88%9E%E5%8F%B0%E8%A3%8F%EF%BC%882026.7%EF%BC%89.pdf",
     "PageCount": 7,
-    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202607101826880819_1.pdf?1783714367000.pdf",
-    "LocalPath": "all report pdf/兼评6月通胀数据：通胀动能切换进行时.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "信达证券",
-    "Date": "2026-07-10",
-    "Name": "PPI同比高点或在三季度",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/PPI%E5%90%8C%E6%AF%94%E9%AB%98%E7%82%B9%E6%88%96%E5%9C%A8%E4%B8%89%E5%AD%A3%E5%BA%A6.pdf",
-    "PageCount": 10,
-    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202607101826880421_1.pdf?1783713106000.pdf",
-    "LocalPath": "all report pdf/PPI同比高点或在三季度.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "联储证券",
-    "Date": "2026-07-10",
-    "Name": "6月通胀数据点评：外部价格支撑趋弱，终端需求仍待接力",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/6%E6%9C%88%E9%80%9A%E8%83%80%E6%95%B0%E6%8D%AE%E7%82%B9%E8%AF%84%EF%BC%9A%E5%A4%96%E9%83%A8%E4%BB%B7%E6%A0%BC%E6%94%AF%E6%92%91%E8%B6%8B%E5%BC%B1%EF%BC%8C%E7%BB%88%E7%AB%AF%E9%9C%80%E6%B1%82%E4%BB%8D%E5%BE%85%E6%8E%A5%E5%8A%9B.pdf",
-    "PageCount": 4,
-    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202607101826874752_1.pdf?1783702639000.pdf",
-    "LocalPath": "all report pdf/6月通胀数据点评：外部价格支撑趋弱，终端需求仍待接力.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "瑞达期货",
-    "Date": "2026-07-10",
-    "Name": "宏观市场周报",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%AE%8F%E8%A7%82%E5%B8%82%E5%9C%BA%E5%91%A8%E6%8A%A5.pdf",
-    "PageCount": 27,
-    "OriginalLink": "https://pdf.dfcfw.com/pdf/H3_AP202607101826874676_1.pdf?1783702333000.pdf",
-    "LocalPath": "all report pdf/宏观市场周报.pdf",
+    "OriginalLink": "https://www.dlri.co.jp/files/macro/629225.pdf",
+    "LocalPath": "all report pdf/経済の舞台裏（2026.7）.pdf",
     "Summary": "未執行 AI 摘要"
   },
   {
@@ -3598,6 +3756,16 @@
   {
     "Source": "DLRI",
     "Date": "2026-07-09",
+    "Name": "台湾・６月輸出､先進国向けは拡大も､中国本土向けは下振れ（Asia Weekly） ～原油高一服でアジアのエネルギー価格は下振れするも､幅広くインフレ圧力が強まる流れ～",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%8F%B0%E6%B9%BE%E3%83%BB%EF%BC%96%E6%9C%88%E8%BC%B8%E5%87%BA%EF%BD%A4%E5%85%88%E9%80%B2%E5%9B%BD%E5%90%91%E3%81%91%E3%81%AF%E6%8B%A1%E5%A4%A7%E3%82%82%EF%BD%A4%E4%B8%AD%E5%9B%BD%E6%9C%AC%E5%9C%9F%E5%90%91%E3%81%91%E3%81%AF%E4%B8%8B%E6%8C%AF%E3%82%8C%EF%BC%88Asia%20Weekly%EF%BC%89%20%EF%BD%9E%E5%8E%9F%E6%B2%B9%E9%AB%98%E4%B8%80%E6%9C%8D%E3%81%A7%E3%82%A2%E3%82%B8%E3%82%A2%E3%81%AE%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E4%BE%A1%E6%A0%BC%E3%81%AF%E4%B8%8B%E6%8C%AF%E3%82%8C%E3%81%99%E3%82%8B%E3%82%82%EF%BD%A4%E5%B9%85%E5%BA%83%E3%81%8F%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AC%E5%9C%A7%E5%8A%9B%E3%81%8C%E5%BC%B7%E3%81%BE%E3%82%8B%E6%B5%81%E3%82%8C%EF%BD%9E.pdf",
+    "PageCount": 4,
+    "OriginalLink": "https://www.dlri.co.jp/files/macro/629195.pdf",
+    "LocalPath": "all report pdf/台湾・６月輸出､先進国向けは拡大も､中国本土向けは下振れ（Asia Weekly） ～原油高一服でアジアのエネルギー価格は下振れするも､幅広くインフレ圧力が強まる流れ～.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026-07-09",
     "Name": "中国経済は苦境に直面も､経済的威圧をやめることはない ～原油高一服後も需要低迷と価格転嫁難が景気､株価の重しとなる展開～",
     "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E4%B8%AD%E5%9B%BD%E7%B5%8C%E6%B8%88%E3%81%AF%E8%8B%A6%E5%A2%83%E3%81%AB%E7%9B%B4%E9%9D%A2%E3%82%82%EF%BD%A4%E7%B5%8C%E6%B8%88%E7%9A%84%E5%A8%81%E5%9C%A7%E3%82%92%E3%82%84%E3%82%81%E3%82%8B%E3%81%93%E3%81%A8%E3%81%AF%E3%81%AA%E3%81%84%20%EF%BD%9E%E5%8E%9F%E6%B2%B9%E9%AB%98%E4%B8%80%E6%9C%8D%E5%BE%8C%E3%82%82%E9%9C%80%E8%A6%81%E4%BD%8E%E8%BF%B7%E3%81%A8%E4%BE%A1%E6%A0%BC%E8%BB%A2%E5%AB%81%E9%9B%A3%E3%81%8C%E6%99%AF%E6%B0%97%EF%BD%A4%E6%A0%AA%E4%BE%A1%E3%81%AE%E9%87%8D%E3%81%97%E3%81%A8%E3%81%AA%E3%82%8B%E5%B1%95%E9%96%8B%EF%BD%9E.pdf",
     "PageCount": 5,
@@ -3608,11 +3776,11 @@
   {
     "Source": "DLRI",
     "Date": "2026-07-09",
-    "Name": "米国の原油輸出動向（26年5月時点） ～対日輸出が急増～",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%B1%B3%E5%9B%BD%E3%81%AE%E5%8E%9F%E6%B2%B9%E8%BC%B8%E5%87%BA%E5%8B%95%E5%90%91%EF%BC%8826%E5%B9%B45%E6%9C%88%E6%99%82%E7%82%B9%EF%BC%89%20%EF%BD%9E%E5%AF%BE%E6%97%A5%E8%BC%B8%E5%87%BA%E3%81%8C%E6%80%A5%E5%A2%97%EF%BD%9E.pdf",
-    "PageCount": 3,
-    "OriginalLink": "https://www.dlri.co.jp/files/macro/629186.pdf",
-    "LocalPath": "all report pdf/米国の原油輸出動向（26年5月時点） ～対日輸出が急増～.pdf",
+    "Name": "経済財政諮問会議（2026年6月24日）解説 〜戦略17分野の官民投資額、地域未来戦略〜",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%B5%8C%E6%B8%88%E8%B2%A1%E6%94%BF%E8%AB%AE%E5%95%8F%E4%BC%9A%E8%AD%B0%EF%BC%882026%E5%B9%B46%E6%9C%8824%E6%97%A5%EF%BC%89%E8%A7%A3%E8%AA%AC%20%E3%80%9C%E6%88%A6%E7%95%A517%E5%88%86%E9%87%8E%E3%81%AE%E5%AE%98%E6%B0%91%E6%8A%95%E8%B3%87%E9%A1%8D%E3%80%81%E5%9C%B0%E5%9F%9F%E6%9C%AA%E6%9D%A5%E6%88%A6%E7%95%A5%E3%80%9C.pdf",
+    "PageCount": 4,
+    "OriginalLink": "https://www.dlri.co.jp/files/macro/629163.pdf",
+    "LocalPath": "all report pdf/経済財政諮問会議（2026年6月24日）解説 〜戦略17分野の官民投資額、地域未来戦略〜.pdf",
     "Summary": "未執行 AI 摘要"
   },
   {
@@ -3932,6 +4100,16 @@
   {
     "Source": "DLRI",
     "Date": "2026-07-08",
+    "Name": "ブラジル･フラビオ上院議員も米国の関税政策に反対表明へ ～懲罰的関税が米国の影響力低下を加速させる皮肉な結果となる可能性も～",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB%EF%BD%A5%E3%83%95%E3%83%A9%E3%83%93%E3%82%AA%E4%B8%8A%E9%99%A2%E8%AD%B0%E5%93%A1%E3%82%82%E7%B1%B3%E5%9B%BD%E3%81%AE%E9%96%A2%E7%A8%8E%E6%94%BF%E7%AD%96%E3%81%AB%E5%8F%8D%E5%AF%BE%E8%A1%A8%E6%98%8E%E3%81%B8%20%EF%BD%9E%E6%87%B2%E7%BD%B0%E7%9A%84%E9%96%A2%E7%A8%8E%E3%81%8C%E7%B1%B3%E5%9B%BD%E3%81%AE%E5%BD%B1%E9%9F%BF%E5%8A%9B%E4%BD%8E%E4%B8%8B%E3%82%92%E5%8A%A0%E9%80%9F%E3%81%95%E3%81%9B%E3%82%8B%E7%9A%AE%E8%82%89%E3%81%AA%E7%B5%90%E6%9E%9C%E3%81%A8%E3%81%AA%E3%82%8B%E5%8F%AF%E8%83%BD%E6%80%A7%E3%82%82%EF%BD%9E.pdf",
+    "PageCount": 2,
+    "OriginalLink": "https://www.dlri.co.jp/files/macro/629157.pdf",
+    "LocalPath": "all report pdf/ブラジル･フラビオ上院議員も米国の関税政策に反対表明へ ～懲罰的関税が米国の影響力低下を加速させる皮肉な結果となる可能性も～.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026-07-08",
     "Name": "フランス大統領選挙を展望する ～極右大統領は誕生するか？～",
     "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E5%A4%A7%E7%B5%B1%E9%A0%98%E9%81%B8%E6%8C%99%E3%82%92%E5%B1%95%E6%9C%9B%E3%81%99%E3%82%8B%20%EF%BD%9E%E6%A5%B5%E5%8F%B3%E5%A4%A7%E7%B5%B1%E9%A0%98%E3%81%AF%E8%AA%95%E7%94%9F%E3%81%99%E3%82%8B%E3%81%8B%EF%BC%9F%EF%BD%9E.pdf",
     "PageCount": 6,
@@ -3942,11 +4120,11 @@
   {
     "Source": "DLRI",
     "Date": "2026-07-08",
-    "Name": "ブラジル･フラビオ上院議員も米国の関税政策に反対表明へ ～懲罰的関税が米国の影響力低下を加速させる皮肉な結果となる可能性も～",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB%EF%BD%A5%E3%83%95%E3%83%A9%E3%83%93%E3%82%AA%E4%B8%8A%E9%99%A2%E8%AD%B0%E5%93%A1%E3%82%82%E7%B1%B3%E5%9B%BD%E3%81%AE%E9%96%A2%E7%A8%8E%E6%94%BF%E7%AD%96%E3%81%AB%E5%8F%8D%E5%AF%BE%E8%A1%A8%E6%98%8E%E3%81%B8%20%EF%BD%9E%E6%87%B2%E7%BD%B0%E7%9A%84%E9%96%A2%E7%A8%8E%E3%81%8C%E7%B1%B3%E5%9B%BD%E3%81%AE%E5%BD%B1%E9%9F%BF%E5%8A%9B%E4%BD%8E%E4%B8%8B%E3%82%92%E5%8A%A0%E9%80%9F%E3%81%95%E3%81%9B%E3%82%8B%E7%9A%AE%E8%82%89%E3%81%AA%E7%B5%90%E6%9E%9C%E3%81%A8%E3%81%AA%E3%82%8B%E5%8F%AF%E8%83%BD%E6%80%A7%E3%82%82%EF%BD%9E.pdf",
+    "Name": "英国政治を翻弄するファラージ氏 ～英国民は何度この男に踊らされてきたことか～",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E8%8B%B1%E5%9B%BD%E6%94%BF%E6%B2%BB%E3%82%92%E7%BF%BB%E5%BC%84%E3%81%99%E3%82%8B%E3%83%95%E3%82%A1%E3%83%A9%E3%83%BC%E3%82%B8%E6%B0%8F%20%EF%BD%9E%E8%8B%B1%E5%9B%BD%E6%B0%91%E3%81%AF%E4%BD%95%E5%BA%A6%E3%81%93%E3%81%AE%E7%94%B7%E3%81%AB%E8%B8%8A%E3%82%89%E3%81%95%E3%82%8C%E3%81%A6%E3%81%8D%E3%81%9F%E3%81%93%E3%81%A8%E3%81%8B%EF%BD%9E.pdf",
     "PageCount": 2,
-    "OriginalLink": "https://www.dlri.co.jp/files/macro/629157.pdf",
-    "LocalPath": "all report pdf/ブラジル･フラビオ上院議員も米国の関税政策に反対表明へ ～懲罰的関税が米国の影響力低下を加速させる皮肉な結果となる可能性も～.pdf",
+    "OriginalLink": "https://www.dlri.co.jp/files/macro/623904.pdf",
+    "LocalPath": "all report pdf/英国政治を翻弄するファラージ氏 ～英国民は何度この男に踊らされてきたことか～.pdf",
     "Summary": "未執行 AI 摘要"
   },
   {
@@ -3962,11 +4140,11 @@
   {
     "Source": "DLRI",
     "Date": "2026-07-08",
-    "Name": "英国政治を翻弄するファラージ氏 ～英国民は何度この男に踊らされてきたことか～",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E8%8B%B1%E5%9B%BD%E6%94%BF%E6%B2%BB%E3%82%92%E7%BF%BB%E5%BC%84%E3%81%99%E3%82%8B%E3%83%95%E3%82%A1%E3%83%A9%E3%83%BC%E3%82%B8%E6%B0%8F%20%EF%BD%9E%E8%8B%B1%E5%9B%BD%E6%B0%91%E3%81%AF%E4%BD%95%E5%BA%A6%E3%81%93%E3%81%AE%E7%94%B7%E3%81%AB%E8%B8%8A%E3%82%89%E3%81%95%E3%82%8C%E3%81%A6%E3%81%8D%E3%81%9F%E3%81%93%E3%81%A8%E3%81%8B%EF%BD%9E.pdf",
-    "PageCount": 2,
-    "OriginalLink": "https://www.dlri.co.jp/files/macro/623904.pdf",
-    "LocalPath": "all report pdf/英国政治を翻弄するファラージ氏 ～英国民は何度この男に踊らされてきたことか～.pdf",
+    "Name": "半導体株は何をみられているのか？",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%8D%8A%E5%B0%8E%E4%BD%93%E6%A0%AA%E3%81%AF%E4%BD%95%E3%82%92%E3%81%BF%E3%82%89%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8B%EF%BC%9F.pdf",
+    "PageCount": 3,
+    "OriginalLink": "https://www.dlri.co.jp/files/macro/629138.pdf",
+    "LocalPath": "all report pdf/半導体株は何をみられているのか？.pdf",
     "Summary": "未執行 AI 摘要"
   },
   {
@@ -4318,6 +4496,16 @@
   {
     "Source": "DLRI",
     "Date": "2026-07-07",
+    "Name": "ペルー･フジモリ次期大統領､中銀総裁留任で政策の継続性を重視 ～ベラルデ中銀総裁が留任要請を受諾､市場が期待する同氏の手腕と政権運営の行方は～",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%83%9A%E3%83%AB%E3%83%BC%EF%BD%A5%E3%83%95%E3%82%B8%E3%83%A2%E3%83%AA%E6%AC%A1%E6%9C%9F%E5%A4%A7%E7%B5%B1%E9%A0%98%EF%BD%A4%E4%B8%AD%E9%8A%80%E7%B7%8F%E8%A3%81%E7%95%99%E4%BB%BB%E3%81%A7%E6%94%BF%E7%AD%96%E3%81%AE%E7%B6%99%E7%B6%9A%E6%80%A7%E3%82%92%E9%87%8D%E8%A6%96%20%EF%BD%9E%E3%83%99%E3%83%A9%E3%83%AB%E3%83%87%E4%B8%AD%E9%8A%80%E7%B7%8F%E8%A3%81%E3%81%8C%E7%95%99%E4%BB%BB%E8%A6%81%E8%AB%8B%E3%82%92%E5%8F%97%E8%AB%BE%EF%BD%A4%E5%B8%82%E5%A0%B4%E3%81%8C%E6%9C%9F%E5%BE%85%E3%81%99%E3%82%8B%E5%90%8C%E6%B0%8F%E3%81%AE%E6%89%8B%E8%85%95%E3%81%A8%E6%94%BF%E6%A8%A9%E9%81%8B%E5%96%B6%E3%81%AE%E8%A1%8C%E6%96%B9%E3%81%AF%EF%BD%9E.pdf",
+    "PageCount": 2,
+    "OriginalLink": "https://www.dlri.co.jp/files/macro/623869.pdf",
+    "LocalPath": "all report pdf/ペルー･フジモリ次期大統領､中銀総裁留任で政策の継続性を重視 ～ベラルデ中銀総裁が留任要請を受諾､市場が期待する同氏の手腕と政権運営の行方は～.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026-07-07",
     "Name": "AI半導体バブルはどこまで続くのか ～AI半導体投資の過熱と、インフラ投資回収の限界～",
     "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/AI%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%90%E3%83%96%E3%83%AB%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E7%B6%9A%E3%81%8F%E3%81%AE%E3%81%8B%20%EF%BD%9EAI%E5%8D%8A%E5%B0%8E%E4%BD%93%E6%8A%95%E8%B3%87%E3%81%AE%E9%81%8E%E7%86%B1%E3%81%A8%E3%80%81%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E6%8A%95%E8%B3%87%E5%9B%9E%E5%8F%8E%E3%81%AE%E9%99%90%E7%95%8C%EF%BD%9E.pdf",
     "PageCount": 6,
@@ -4328,11 +4516,31 @@
   {
     "Source": "DLRI",
     "Date": "2026-07-07",
-    "Name": "英国年金自由化の光と影 ～英国のデキュムレーション政策から日本が学ぶこと～",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E8%8B%B1%E5%9B%BD%E5%B9%B4%E9%87%91%E8%87%AA%E7%94%B1%E5%8C%96%E3%81%AE%E5%85%89%E3%81%A8%E5%BD%B1%20%EF%BD%9E%E8%8B%B1%E5%9B%BD%E3%81%AE%E3%83%87%E3%82%AD%E3%83%A5%E3%83%A0%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E6%94%BF%E7%AD%96%E3%81%8B%E3%82%89%E6%97%A5%E6%9C%AC%E3%81%8C%E5%AD%A6%E3%81%B6%E3%81%93%E3%81%A8%EF%BD%9E.pdf",
-    "PageCount": 11,
-    "OriginalLink": "https://www.dlri.co.jp/files/asset/623822.pdf",
-    "LocalPath": "all report pdf/英国年金自由化の光と影 ～英国のデキュムレーション政策から日本が学ぶこと～.pdf",
+    "Name": "加速する税収増の背景 ～25年度税収は84兆円超へ大幅増～",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%8A%A0%E9%80%9F%E3%81%99%E3%82%8B%E7%A8%8E%E5%8F%8E%E5%A2%97%E3%81%AE%E8%83%8C%E6%99%AF%20%EF%BD%9E25%E5%B9%B4%E5%BA%A6%E7%A8%8E%E5%8F%8E%E3%81%AF84%E5%85%86%E5%86%86%E8%B6%85%E3%81%B8%E5%A4%A7%E5%B9%85%E5%A2%97%EF%BD%9E.pdf",
+    "PageCount": 3,
+    "OriginalLink": "https://www.dlri.co.jp/files/macro/623847.pdf",
+    "LocalPath": "all report pdf/加速する税収増の背景 ～25年度税収は84兆円超へ大幅増～.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026-07-07",
+    "Name": "実質賃金は改善続くも、持続性は物価次第（26年5月毎月勤労統計） ～秋以降に実質賃金が下振れるリスクも～",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%AE%9F%E8%B3%AA%E8%B3%83%E9%87%91%E3%81%AF%E6%94%B9%E5%96%84%E7%B6%9A%E3%81%8F%E3%82%82%E3%80%81%E6%8C%81%E7%B6%9A%E6%80%A7%E3%81%AF%E7%89%A9%E4%BE%A1%E6%AC%A1%E7%AC%AC%EF%BC%8826%E5%B9%B45%E6%9C%88%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%EF%BC%89%20%EF%BD%9E%E7%A7%8B%E4%BB%A5%E9%99%8D%E3%81%AB%E5%AE%9F%E8%B3%AA%E8%B3%83%E9%87%91%E3%81%8C%E4%B8%8B%E6%8C%AF%E3%82%8C%E3%82%8B%E3%83%AA%E3%82%B9%E3%82%AF%E3%82%82%EF%BD%9E.pdf",
+    "PageCount": 4,
+    "OriginalLink": "https://www.dlri.co.jp/files/macro/623852.pdf",
+    "LocalPath": "all report pdf/実質賃金は改善続くも、持続性は物価次第（26年5月毎月勤労統計） ～秋以降に実質賃金が下振れるリスクも～.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026-07-07",
+    "Name": "米国:非製造業は小幅鈍化も堅調な国内需要が下支え（6月ISM）   ～地政学リスクの緩和も根強いインフレ圧力～",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%B1%B3%E5%9B%BD_%E9%9D%9E%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AF%E5%B0%8F%E5%B9%85%E9%88%8D%E5%8C%96%E3%82%82%E5%A0%85%E8%AA%BF%E3%81%AA%E5%9B%BD%E5%86%85%E9%9C%80%E8%A6%81%E3%81%8C%E4%B8%8B%E6%94%AF%E3%81%88%EF%BC%886%E6%9C%88ISM%EF%BC%89%20%20%20%EF%BD%9E%E5%9C%B0%E6%94%BF%E5%AD%A6%E3%83%AA%E3%82%B9%E3%82%AF%E3%81%AE%E7%B7%A9%E5%92%8C%E3%82%82%E6%A0%B9%E5%BC%B7%E3%81%84%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AC%E5%9C%A7%E5%8A%9B%EF%BD%9E.pdf",
+    "PageCount": 8,
+    "OriginalLink": "https://www.dlri.co.jp/files/macro/623879.pdf",
+    "LocalPath": "all report pdf/米国_非製造業は小幅鈍化も堅調な国内需要が下支え（6月ISM）   ～地政学リスクの緩和も根強いインフレ圧力～.pdf",
     "Summary": "未執行 AI 摘要"
   },
   {
@@ -4358,51 +4566,11 @@
   {
     "Source": "DLRI",
     "Date": "2026-07-07",
-    "Name": "フィリピン･サラ副大統領への弾劾裁判開始 ～弾劾の行方は不透明だが､経済を無視した政局争いを市場はどうみるか～",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%83%95%E3%82%A3%E3%83%AA%E3%83%94%E3%83%B3%EF%BD%A5%E3%82%B5%E3%83%A9%E5%89%AF%E5%A4%A7%E7%B5%B1%E9%A0%98%E3%81%B8%E3%81%AE%E5%BC%BE%E5%8A%BE%E8%A3%81%E5%88%A4%E9%96%8B%E5%A7%8B%20%EF%BD%9E%E5%BC%BE%E5%8A%BE%E3%81%AE%E8%A1%8C%E6%96%B9%E3%81%AF%E4%B8%8D%E9%80%8F%E6%98%8E%E3%81%A0%E3%81%8C%EF%BD%A4%E7%B5%8C%E6%B8%88%E3%82%92%E7%84%A1%E8%A6%96%E3%81%97%E3%81%9F%E6%94%BF%E5%B1%80%E4%BA%89%E3%81%84%E3%82%92%E5%B8%82%E5%A0%B4%E3%81%AF%E3%81%A9%E3%81%86%E3%81%BF%E3%82%8B%E3%81%8B%EF%BD%9E.pdf",
-    "PageCount": 2,
-    "OriginalLink": "https://www.dlri.co.jp/files/macro/623855.pdf",
-    "LocalPath": "all report pdf/フィリピン･サラ副大統領への弾劾裁判開始 ～弾劾の行方は不透明だが､経済を無視した政局争いを市場はどうみるか～.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026-07-07",
-    "Name": "実質賃金は改善続くも、持続性は物価次第（26年5月毎月勤労統計） ～秋以降に実質賃金が下振れるリスクも～",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%AE%9F%E8%B3%AA%E8%B3%83%E9%87%91%E3%81%AF%E6%94%B9%E5%96%84%E7%B6%9A%E3%81%8F%E3%82%82%E3%80%81%E6%8C%81%E7%B6%9A%E6%80%A7%E3%81%AF%E7%89%A9%E4%BE%A1%E6%AC%A1%E7%AC%AC%EF%BC%8826%E5%B9%B45%E6%9C%88%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%EF%BC%89%20%EF%BD%9E%E7%A7%8B%E4%BB%A5%E9%99%8D%E3%81%AB%E5%AE%9F%E8%B3%AA%E8%B3%83%E9%87%91%E3%81%8C%E4%B8%8B%E6%8C%AF%E3%82%8C%E3%82%8B%E3%83%AA%E3%82%B9%E3%82%AF%E3%82%82%EF%BD%9E.pdf",
-    "PageCount": 4,
-    "OriginalLink": "https://www.dlri.co.jp/files/macro/623852.pdf",
-    "LocalPath": "all report pdf/実質賃金は改善続くも、持続性は物価次第（26年5月毎月勤労統計） ～秋以降に実質賃金が下振れるリスクも～.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026-07-07",
     "Name": "韓国ウォンの下落から考える円安の背景",
     "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E9%9F%93%E5%9B%BD%E3%82%A6%E3%82%A9%E3%83%B3%E3%81%AE%E4%B8%8B%E8%90%BD%E3%81%8B%E3%82%89%E8%80%83%E3%81%88%E3%82%8B%E5%86%86%E5%AE%89%E3%81%AE%E8%83%8C%E6%99%AF.pdf",
     "PageCount": 5,
     "OriginalLink": "https://www.dlri.co.jp/files/macro/623861.pdf",
     "LocalPath": "all report pdf/韓国ウォンの下落から考える円安の背景.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026-07-07",
-    "Name": "米国:非製造業は小幅鈍化も堅調な国内需要が下支え（6月ISM）   ～地政学リスクの緩和も根強いインフレ圧力～",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%B1%B3%E5%9B%BD_%E9%9D%9E%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AF%E5%B0%8F%E5%B9%85%E9%88%8D%E5%8C%96%E3%82%82%E5%A0%85%E8%AA%BF%E3%81%AA%E5%9B%BD%E5%86%85%E9%9C%80%E8%A6%81%E3%81%8C%E4%B8%8B%E6%94%AF%E3%81%88%EF%BC%886%E6%9C%88ISM%EF%BC%89%20%20%20%EF%BD%9E%E5%9C%B0%E6%94%BF%E5%AD%A6%E3%83%AA%E3%82%B9%E3%82%AF%E3%81%AE%E7%B7%A9%E5%92%8C%E3%82%82%E6%A0%B9%E5%BC%B7%E3%81%84%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AC%E5%9C%A7%E5%8A%9B%EF%BD%9E.pdf",
-    "PageCount": 8,
-    "OriginalLink": "https://www.dlri.co.jp/files/macro/623879.pdf",
-    "LocalPath": "all report pdf/米国_非製造業は小幅鈍化も堅調な国内需要が下支え（6月ISM）   ～地政学リスクの緩和も根強いインフレ圧力～.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026-07-07",
-    "Name": "加速する税収増の背景 ～25年度税収は84兆円超へ大幅増～",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%8A%A0%E9%80%9F%E3%81%99%E3%82%8B%E7%A8%8E%E5%8F%8E%E5%A2%97%E3%81%AE%E8%83%8C%E6%99%AF%20%EF%BD%9E25%E5%B9%B4%E5%BA%A6%E7%A8%8E%E5%8F%8E%E3%81%AF84%E5%85%86%E5%86%86%E8%B6%85%E3%81%B8%E5%A4%A7%E5%B9%85%E5%A2%97%EF%BD%9E.pdf",
-    "PageCount": 3,
-    "OriginalLink": "https://www.dlri.co.jp/files/macro/623847.pdf",
-    "LocalPath": "all report pdf/加速する税収増の背景 ～25年度税収は84兆円超へ大幅増～.pdf",
     "Summary": "未執行 AI 摘要"
   },
   {
@@ -4853,6 +5021,16 @@
   {
     "Source": "DLRI",
     "Date": "2026-07-06",
+    "Name": "「地域未来金融アクションプラン」への期待と課題 ～地域金融力強化に求められる制度改革～",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%80%8C%E5%9C%B0%E5%9F%9F%E6%9C%AA%E6%9D%A5%E9%87%91%E8%9E%8D%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%97%E3%83%A9%E3%83%B3%E3%80%8D%E3%81%B8%E3%81%AE%E6%9C%9F%E5%BE%85%E3%81%A8%E8%AA%B2%E9%A1%8C%20%EF%BD%9E%E5%9C%B0%E5%9F%9F%E9%87%91%E8%9E%8D%E5%8A%9B%E5%BC%B7%E5%8C%96%E3%81%AB%E6%B1%82%E3%82%81%E3%82%89%E3%82%8C%E3%82%8B%E5%88%B6%E5%BA%A6%E6%94%B9%E9%9D%A9%EF%BD%9E.pdf",
+    "PageCount": 6,
+    "OriginalLink": "https://www.dlri.co.jp/files/asset/623818.pdf",
+    "LocalPath": "all report pdf/「地域未来金融アクションプラン」への期待と課題 ～地域金融力強化に求められる制度改革～.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026-07-06",
     "Name": "「実質賃金＋2％」でも実感が薄い理由 ～①賃金実勢はもう一段低い＋②中央値賃金の伸び悩み～",
     "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%80%8C%E5%AE%9F%E8%B3%AA%E8%B3%83%E9%87%91%EF%BC%8B2%EF%BC%85%E3%80%8D%E3%81%A7%E3%82%82%E5%AE%9F%E6%84%9F%E3%81%8C%E8%96%84%E3%81%84%E7%90%86%E7%94%B1%20%EF%BD%9E%E2%91%A0%E8%B3%83%E9%87%91%E5%AE%9F%E5%8B%A2%E3%81%AF%E3%82%82%E3%81%86%E4%B8%80%E6%AE%B5%E4%BD%8E%E3%81%84%EF%BC%8B%E2%91%A1%E4%B8%AD%E5%A4%AE%E5%80%A4%E8%B3%83%E9%87%91%E3%81%AE%E4%BC%B8%E3%81%B3%E6%82%A9%E3%81%BF%EF%BD%9E.pdf",
     "PageCount": 5,
@@ -4863,11 +5041,11 @@
   {
     "Source": "DLRI",
     "Date": "2026-07-06",
-    "Name": "「地域未来金融アクションプラン」への期待と課題 ～地域金融力強化に求められる制度改革～",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%80%8C%E5%9C%B0%E5%9F%9F%E6%9C%AA%E6%9D%A5%E9%87%91%E8%9E%8D%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%97%E3%83%A9%E3%83%B3%E3%80%8D%E3%81%B8%E3%81%AE%E6%9C%9F%E5%BE%85%E3%81%A8%E8%AA%B2%E9%A1%8C%20%EF%BD%9E%E5%9C%B0%E5%9F%9F%E9%87%91%E8%9E%8D%E5%8A%9B%E5%BC%B7%E5%8C%96%E3%81%AB%E6%B1%82%E3%82%81%E3%82%89%E3%82%8C%E3%82%8B%E5%88%B6%E5%BA%A6%E6%94%B9%E9%9D%A9%EF%BD%9E.pdf",
-    "PageCount": 6,
-    "OriginalLink": "https://www.dlri.co.jp/files/asset/623818.pdf",
-    "LocalPath": "all report pdf/「地域未来金融アクションプラン」への期待と課題 ～地域金融力強化に求められる制度改革～.pdf",
+    "Name": "OPEC有志７ヵ国､８月も６月･７月と同じ日量18.8万バレル増産で合意 ～結束の維持を重視も､市場では過剰供給への警戒感が高まる可能性～",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/OPEC%E6%9C%89%E5%BF%97%EF%BC%97%E3%83%B5%E5%9B%BD%EF%BD%A4%EF%BC%98%E6%9C%88%E3%82%82%EF%BC%96%E6%9C%88%EF%BD%A5%EF%BC%97%E6%9C%88%E3%81%A8%E5%90%8C%E3%81%98%E6%97%A5%E9%87%8F18.8%E4%B8%87%E3%83%90%E3%83%AC%E3%83%AB%E5%A2%97%E7%94%A3%E3%81%A7%E5%90%88%E6%84%8F%20%EF%BD%9E%E7%B5%90%E6%9D%9F%E3%81%AE%E7%B6%AD%E6%8C%81%E3%82%92%E9%87%8D%E8%A6%96%E3%82%82%EF%BD%A4%E5%B8%82%E5%A0%B4%E3%81%A7%E3%81%AF%E9%81%8E%E5%89%B0%E4%BE%9B%E7%B5%A6%E3%81%B8%E3%81%AE%E8%AD%A6%E6%88%92%E6%84%9F%E3%81%8C%E9%AB%98%E3%81%BE%E3%82%8B%E5%8F%AF%E8%83%BD%E6%80%A7%EF%BD%9E.pdf",
+    "PageCount": 3,
+    "OriginalLink": "https://www.dlri.co.jp/files/macro/623811.pdf",
+    "LocalPath": "all report pdf/OPEC有志７ヵ国､８月も６月･７月と同じ日量18.8万バレル増産で合意 ～結束の維持を重視も､市場では過剰供給への警戒感が高まる可能性～.pdf",
     "Summary": "未執行 AI 摘要"
   },
   {
@@ -5263,32 +5441,12 @@
     "Summary": "未執行 AI 摘要"
   },
   {
-    "Source": "line報告備份",
-    "Date": "2026-07-06",
-    "Name": "功率半導體 國票",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%8A%9F%E7%8E%87%E5%8D%8A%E5%B0%8E%E9%AB%94%20%E5%9C%8B%E7%A5%A8.pdf",
-    "PageCount": 8,
-    "OriginalLink": "https://drive.google.com/uc?export=download&id=1izqoxhXr7Gz4AJAu87-EZEcI_CKvD74s",
-    "LocalPath": "all report pdf/功率半導體 國票.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "line報告備份",
-    "Date": "2026-07-06",
-    "Name": "功率半導體 群益",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%8A%9F%E7%8E%87%E5%8D%8A%E5%B0%8E%E9%AB%94%20%E7%BE%A4%E7%9B%8A.pdf",
-    "PageCount": 3,
-    "OriginalLink": "https://drive.google.com/uc?export=download&id=1gk90DHqm45a_Vjoj7gQIGjhBAGl_T781",
-    "LocalPath": "all report pdf/功率半導體 群益.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
     "Source": "Mega Bank (匯率利率資訊)",
     "Date": "2026-07-06",
     "Name": "2026年7月6日匯率利率資訊",
     "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/2026%E5%B9%B47%E6%9C%886%E6%97%A5%E5%8C%AF%E7%8E%87%E5%88%A9%E7%8E%87%E8%B3%87%E8%A8%8A.pdf",
     "PageCount": 7,
-    "OriginalLink": "https://www.megabank.com.tw/-/media/mega/files/bankv2/personal/finance/financial-service/bulletin/weekly-journal/exchange-rate/202607/20260706.pdf?h=714&w=1225&hash=F42387F07CCEA8A06CB042E6C16D9D1F",
+    "OriginalLink": "https://www.megabank.com.tw/-/media/mega/files/bankv2/personal/finance/financial-service/bulletin/weekly-journal/exchange-rate/202607/20260706.pdf",
     "LocalPath": "all report pdf/2026年7月6日匯率利率資訊.pdf",
     "Summary": "未執行 AI 摘要"
   },
@@ -5329,7 +5487,7 @@
     "Name": "今月のグラフ（2026年7月）米国の労働力人口の減少",
     "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E4%BB%8A%E6%9C%88%E3%81%AE%E3%82%B0%E3%83%A9%E3%83%95%EF%BC%882026%E5%B9%B47%E6%9C%88%EF%BC%89%E7%B1%B3%E5%9B%BD%E3%81%AE%E5%8A%B4%E5%83%8D%E5%8A%9B%E4%BA%BA%E5%8F%A3%E3%81%AE%E6%B8%9B%E5%B0%91.pdf",
     "PageCount": 2,
-    "OriginalLink": "https://www.murc.jp/library/economyresearch/periodicals/graph_month/watch_2607/",
+    "OriginalLink": "https://www.murc.jp/wp-content/uploads/2026/07/watch_2607_01.pdf",
     "LocalPath": "all report pdf/今月のグラフ（2026年7月）米国の労働力人口の減少.pdf",
     "Summary": "未執行 AI 摘要"
   },
@@ -5460,31 +5618,21 @@
   {
     "Source": "DLRI",
     "Date": "2026-07-03",
+    "Name": "ベトナム､4-6月GDPは前年比＋8.39％に加速も､目標のハードルは高い ～市場を取り巻く環境は改善するなか､先行きは｢身の丈｣が重要になるか～",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%EF%BD%A44-6%E6%9C%88GDP%E3%81%AF%E5%89%8D%E5%B9%B4%E6%AF%94%EF%BC%8B8.39%EF%BC%85%E3%81%AB%E5%8A%A0%E9%80%9F%E3%82%82%EF%BD%A4%E7%9B%AE%E6%A8%99%E3%81%AE%E3%83%8F%E3%83%BC%E3%83%89%E3%83%AB%E3%81%AF%E9%AB%98%E3%81%84%20%EF%BD%9E%E5%B8%82%E5%A0%B4%E3%82%92%E5%8F%96%E3%82%8A%E5%B7%BB%E3%81%8F%E7%92%B0%E5%A2%83%E3%81%AF%E6%94%B9%E5%96%84%E3%81%99%E3%82%8B%E3%81%AA%E3%81%8B%EF%BD%A4%E5%85%88%E8%A1%8C%E3%81%8D%E3%81%AF%EF%BD%A2%E8%BA%AB%E3%81%AE%E4%B8%88%EF%BD%A3%E3%81%8C%E9%87%8D%E8%A6%81%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%8B%EF%BD%9E.pdf",
+    "PageCount": 4,
+    "OriginalLink": "https://www.dlri.co.jp/files/macro/623793.pdf",
+    "LocalPath": "all report pdf/ベトナム､4-6月GDPは前年比＋8.39％に加速も､目標のハードルは高い ～市場を取り巻く環境は改善するなか､先行きは｢身の丈｣が重要になるか～.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026-07-03",
     "Name": "使われない老後資産が映す日本の不安 ～日本に求められる「デキュムレーション」の設計図～",
     "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E4%BD%BF%E3%82%8F%E3%82%8C%E3%81%AA%E3%81%84%E8%80%81%E5%BE%8C%E8%B3%87%E7%94%A3%E3%81%8C%E6%98%A0%E3%81%99%E6%97%A5%E6%9C%AC%E3%81%AE%E4%B8%8D%E5%AE%89%20%EF%BD%9E%E6%97%A5%E6%9C%AC%E3%81%AB%E6%B1%82%E3%82%81%E3%82%89%E3%82%8C%E3%82%8B%E3%80%8C%E3%83%87%E3%82%AD%E3%83%A5%E3%83%A0%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%8D%E3%81%AE%E8%A8%AD%E8%A8%88%E5%9B%B3%EF%BD%9E.pdf",
     "PageCount": 9,
     "OriginalLink": "https://www.dlri.co.jp/files/asset/623771.pdf",
     "LocalPath": "all report pdf/使われない老後資産が映す日本の不安 ～日本に求められる「デキュムレーション」の設計図～.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026-07-03",
-    "Name": "世界で強まる米国への不信感 ～ただ、経済面での米国離れにはハードル～",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E4%B8%96%E7%95%8C%E3%81%A7%E5%BC%B7%E3%81%BE%E3%82%8B%E7%B1%B3%E5%9B%BD%E3%81%B8%E3%81%AE%E4%B8%8D%E4%BF%A1%E6%84%9F%20%EF%BD%9E%E3%81%9F%E3%81%A0%E3%80%81%E7%B5%8C%E6%B8%88%E9%9D%A2%E3%81%A7%E3%81%AE%E7%B1%B3%E5%9B%BD%E9%9B%A2%E3%82%8C%E3%81%AB%E3%81%AF%E3%83%8F%E3%83%BC%E3%83%89%E3%83%AB%EF%BD%9E.pdf",
-    "PageCount": 5,
-    "OriginalLink": "https://www.dlri.co.jp/files/macro/623754.pdf",
-    "LocalPath": "all report pdf/世界で強まる米国への不信感 ～ただ、経済面での米国離れにはハードル～.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026-07-03",
-    "Name": "GPIF、2025年度の運用益は41兆円に ～市場運用25年が示す長期投資の意義～",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/GPIF%E3%80%812025%E5%B9%B4%E5%BA%A6%E3%81%AE%E9%81%8B%E7%94%A8%E7%9B%8A%E3%81%AF41%E5%85%86%E5%86%86%E3%81%AB%20%EF%BD%9E%E5%B8%82%E5%A0%B4%E9%81%8B%E7%94%A825%E5%B9%B4%E3%81%8C%E7%A4%BA%E3%81%99%E9%95%B7%E6%9C%9F%E6%8A%95%E8%B3%87%E3%81%AE%E6%84%8F%E7%BE%A9%EF%BD%9E.pdf",
-    "PageCount": 2,
-    "OriginalLink": "https://www.dlri.co.jp/files/asset/623801.pdf",
-    "LocalPath": "all report pdf/GPIF、2025年度の運用益は41兆円に ～市場運用25年が示す長期投資の意義～.pdf",
     "Summary": "未執行 AI 摘要"
   },
   {
@@ -5500,11 +5648,31 @@
   {
     "Source": "DLRI",
     "Date": "2026-07-03",
+    "Name": "世界で強まる米国への不信感 ～ただ、経済面での米国離れにはハードル～",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E4%B8%96%E7%95%8C%E3%81%A7%E5%BC%B7%E3%81%BE%E3%82%8B%E7%B1%B3%E5%9B%BD%E3%81%B8%E3%81%AE%E4%B8%8D%E4%BF%A1%E6%84%9F%20%EF%BD%9E%E3%81%9F%E3%81%A0%E3%80%81%E7%B5%8C%E6%B8%88%E9%9D%A2%E3%81%A7%E3%81%AE%E7%B1%B3%E5%9B%BD%E9%9B%A2%E3%82%8C%E3%81%AB%E3%81%AF%E3%83%8F%E3%83%BC%E3%83%89%E3%83%AB%EF%BD%9E.pdf",
+    "PageCount": 5,
+    "OriginalLink": "https://www.dlri.co.jp/files/macro/623754.pdf",
+    "LocalPath": "all report pdf/世界で強まる米国への不信感 ～ただ、経済面での米国離れにはハードル～.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026-07-03",
     "Name": "物価上昇時代の認知症高齢者の財産管理(後編) ～“凍結して守る”から“活かして守る”へ～",
     "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%89%A9%E4%BE%A1%E4%B8%8A%E6%98%87%E6%99%82%E4%BB%A3%E3%81%AE%E8%AA%8D%E7%9F%A5%E7%97%87%E9%AB%98%E9%BD%A2%E8%80%85%E3%81%AE%E8%B2%A1%E7%94%A3%E7%AE%A1%E7%90%86%28%E5%BE%8C%E7%B7%A8%29%20%EF%BD%9E%E2%80%9C%E5%87%8D%E7%B5%90%E3%81%97%E3%81%A6%E5%AE%88%E3%82%8B%E2%80%9D%E3%81%8B%E3%82%89%E2%80%9C%E6%B4%BB%E3%81%8B%E3%81%97%E3%81%A6%E5%AE%88%E3%82%8B%E2%80%9D%E3%81%B8%EF%BD%9E.pdf",
     "PageCount": 13,
     "OriginalLink": "https://www.dlri.co.jp/files/asset/623751.pdf",
     "LocalPath": "all report pdf/物価上昇時代の認知症高齢者の財産管理(後編) ～“凍結して守る”から“活かして守る”へ～.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026-07-03",
+    "Name": "GPIF、2025年度の運用益は41兆円に ～市場運用25年が示す長期投資の意義～",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/GPIF%E3%80%812025%E5%B9%B4%E5%BA%A6%E3%81%AE%E9%81%8B%E7%94%A8%E7%9B%8A%E3%81%AF41%E5%85%86%E5%86%86%E3%81%AB%20%EF%BD%9E%E5%B8%82%E5%A0%B4%E9%81%8B%E7%94%A825%E5%B9%B4%E3%81%8C%E7%A4%BA%E3%81%99%E9%95%B7%E6%9C%9F%E6%8A%95%E8%B3%87%E3%81%AE%E6%84%8F%E7%BE%A9%EF%BD%9E.pdf",
+    "PageCount": 2,
+    "OriginalLink": "https://www.dlri.co.jp/files/asset/623801.pdf",
+    "LocalPath": "all report pdf/GPIF、2025年度の運用益は41兆円に ～市場運用25年が示す長期投資の意義～.pdf",
     "Summary": "未執行 AI 摘要"
   },
   {
@@ -5678,21 +5846,11 @@
   {
     "Source": "DLRI",
     "Date": "2026-07-02",
-    "Name": "インフレ時代の資産運用 ～株式と債券の分散効果に変化の兆し～",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AC%E6%99%82%E4%BB%A3%E3%81%AE%E8%B3%87%E7%94%A3%E9%81%8B%E7%94%A8%20%EF%BD%9E%E6%A0%AA%E5%BC%8F%E3%81%A8%E5%82%B5%E5%88%B8%E3%81%AE%E5%88%86%E6%95%A3%E5%8A%B9%E6%9E%9C%E3%81%AB%E5%A4%89%E5%8C%96%E3%81%AE%E5%85%86%E3%81%97%EF%BD%9E.pdf",
-    "PageCount": 6,
-    "OriginalLink": "https://www.dlri.co.jp/files/asset/623697.pdf",
-    "LocalPath": "all report pdf/インフレ時代の資産運用 ～株式と債券の分散効果に変化の兆し～.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026-07-02",
-    "Name": "米国：不確実性下の前倒し発注が指数を下支え(6月ISM製造業)   ～コスト増圧力は根強いが、6カ月連続の拡大圏維持～",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%B1%B3%E5%9B%BD%EF%BC%9A%E4%B8%8D%E7%A2%BA%E5%AE%9F%E6%80%A7%E4%B8%8B%E3%81%AE%E5%89%8D%E5%80%92%E3%81%97%E7%99%BA%E6%B3%A8%E3%81%8C%E6%8C%87%E6%95%B0%E3%82%92%E4%B8%8B%E6%94%AF%E3%81%88%286%E6%9C%88ISM%E8%A3%BD%E9%80%A0%E6%A5%AD%29%20%20%20%EF%BD%9E%E3%82%B3%E3%82%B9%E3%83%88%E5%A2%97%E5%9C%A7%E5%8A%9B%E3%81%AF%E6%A0%B9%E5%BC%B7%E3%81%84%E3%81%8C%E3%80%816%E3%82%AB%E6%9C%88%E9%80%A3%E7%B6%9A%E3%81%AE%E6%8B%A1%E5%A4%A7%E5%9C%8F%E7%B6%AD%E6%8C%81%EF%BD%9E.pdf",
-    "PageCount": 8,
-    "OriginalLink": "https://www.dlri.co.jp/files/macro/623714.pdf",
-    "LocalPath": "all report pdf/米国：不確実性下の前倒し発注が指数を下支え(6月ISM製造業)   ～コスト増圧力は根強いが、6カ月連続の拡大圏維持～.pdf",
+    "Name": "原油価格下落でＥＣＢの利上げ継続は？ ～追加利上げへの切迫感が後退、このまま打ち止めも～",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%8E%9F%E6%B2%B9%E4%BE%A1%E6%A0%BC%E4%B8%8B%E8%90%BD%E3%81%A7%EF%BC%A5%EF%BC%A3%EF%BC%A2%E3%81%AE%E5%88%A9%E4%B8%8A%E3%81%92%E7%B6%99%E7%B6%9A%E3%81%AF%EF%BC%9F%20%EF%BD%9E%E8%BF%BD%E5%8A%A0%E5%88%A9%E4%B8%8A%E3%81%92%E3%81%B8%E3%81%AE%E5%88%87%E8%BF%AB%E6%84%9F%E3%81%8C%E5%BE%8C%E9%80%80%E3%80%81%E3%81%93%E3%81%AE%E3%81%BE%E3%81%BE%E6%89%93%E3%81%A1%E6%AD%A2%E3%82%81%E3%82%82%EF%BD%9E.pdf",
+    "PageCount": 4,
+    "OriginalLink": "https://www.dlri.co.jp/files/macro/623734.pdf",
+    "LocalPath": "all report pdf/原油価格下落でＥＣＢの利上げ継続は？ ～追加利上げへの切迫感が後退、このまま打ち止めも～.pdf",
     "Summary": "未執行 AI 摘要"
   },
   {
@@ -5713,6 +5871,26 @@
     "PageCount": 3,
     "OriginalLink": "https://www.dlri.co.jp/files/macro/623675.pdf",
     "LocalPath": "all report pdf/ウォーシュFRB議長、インフレリスクの緩和を示唆   ～引き続きフォワードガイダンスを示さず～.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026-07-02",
+    "Name": "米国：不確実性下の前倒し発注が指数を下支え(6月ISM製造業)   ～コスト増圧力は根強いが、6カ月連続の拡大圏維持～",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%B1%B3%E5%9B%BD%EF%BC%9A%E4%B8%8D%E7%A2%BA%E5%AE%9F%E6%80%A7%E4%B8%8B%E3%81%AE%E5%89%8D%E5%80%92%E3%81%97%E7%99%BA%E6%B3%A8%E3%81%8C%E6%8C%87%E6%95%B0%E3%82%92%E4%B8%8B%E6%94%AF%E3%81%88%286%E6%9C%88ISM%E8%A3%BD%E9%80%A0%E6%A5%AD%29%20%20%20%EF%BD%9E%E3%82%B3%E3%82%B9%E3%83%88%E5%A2%97%E5%9C%A7%E5%8A%9B%E3%81%AF%E6%A0%B9%E5%BC%B7%E3%81%84%E3%81%8C%E3%80%816%E3%82%AB%E6%9C%88%E9%80%A3%E7%B6%9A%E3%81%AE%E6%8B%A1%E5%A4%A7%E5%9C%8F%E7%B6%AD%E6%8C%81%EF%BD%9E.pdf",
+    "PageCount": 8,
+    "OriginalLink": "https://www.dlri.co.jp/files/macro/623714.pdf",
+    "LocalPath": "all report pdf/米国：不確実性下の前倒し発注が指数を下支え(6月ISM製造業)   ～コスト増圧力は根強いが、6カ月連続の拡大圏維持～.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026-07-02",
+    "Name": "インフレ時代の資産運用 ～株式と債券の分散効果に変化の兆し～",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AC%E6%99%82%E4%BB%A3%E3%81%AE%E8%B3%87%E7%94%A3%E9%81%8B%E7%94%A8%20%EF%BD%9E%E6%A0%AA%E5%BC%8F%E3%81%A8%E5%82%B5%E5%88%B8%E3%81%AE%E5%88%86%E6%95%A3%E5%8A%B9%E6%9E%9C%E3%81%AB%E5%A4%89%E5%8C%96%E3%81%AE%E5%85%86%E3%81%97%EF%BD%9E.pdf",
+    "PageCount": 6,
+    "OriginalLink": "https://www.dlri.co.jp/files/asset/623697.pdf",
+    "LocalPath": "all report pdf/インフレ時代の資産運用 ～株式と債券の分散効果に変化の兆し～.pdf",
     "Summary": "未執行 AI 摘要"
   },
   {
@@ -5790,6 +5968,17 @@
   {
     "Source": "Bank of America",
     "Date": "2026-07-01",
+    "Name": "The rise of value Why have lower-income households accounted for a larger share of retail spending but also traded down the most? 2 min read",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/The%20rise%20of%20value%20Why%20have%20lower-income%20households%20accounted%20for%20a%20larger%20share%20of%20retail%20spending%20but%20also%20traded%20down%20the%20most_%202%20min%20read.pdf",
+    "Type": "PDF",
+    "PageCount": 9,
+    "OriginalLink": "https://institute.bankofamerica.com/content/dam/economic-insights/consumer-search-for-value.pdf",
+    "LocalPath": "all report pdf/The rise of value Why have lower-income households accounted for a larger share of retail spending but also traded down the most_ 2 min read.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "Bank of America",
+    "Date": "2026-07-01",
     "Name": "Consumer Checkpoint: Consumers hit the back of the net Are narrowing income gaps, the World Cup and online promotions providing a lift to summer spending? 2 min read",
     "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Consumer%20Checkpoint_%20Consumers%20hit%20the%20back%20of%20the%20net%20Are%20narrowing%20income%20gaps%2C%20the%20World%20Cup%20and%20online%20promotions%20providing%20a%20lift%20to%20summer%20spending_%202%20min%20read.pdf",
     "Type": "PDF",
@@ -5832,17 +6021,6 @@
     "Summary": "未執行 AI 摘要"
   },
   {
-    "Source": "DB Research",
-    "Date": "2026-07-01",
-    "Name": "I, robot... you, unemployed: How workers are responding to AI fears (2026-07-01)",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/I%2C%20robot...%20you%2C%20unemployed_%20How%20workers%20are%20responding%20to%20AI%20fears%20%282026-07-01%29.pdf",
-    "Type": "PDF",
-    "LocalPath": "/home/runner/work/financial-report-hub/financial-report-hub/all report pdf/I, robot... you, unemployed_ How workers are responding to AI fears (2026-07-01).pdf",
-    "PageCount": 14,
-    "OriginalLink": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/I%2C%20robot...%20you%2C%20unemployed_%20How%20workers%20are%20responding%20to%20AI%20fears%20%282026-07-01%29.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
     "Source": "DBS",
     "Date": "2026-07-01",
     "Name": "Taiwan-Singapore: Asia’s new growth corridor (2026-07-01)",
@@ -5851,16 +6029,6 @@
     "LocalPath": "/home/runner/work/financial-report-hub/financial-report-hub/all report pdf/Taiwan-Singapore_ Asia’s new growth corridor (2026-07-01).pdf",
     "PageCount": 8,
     "OriginalLink": "https://www.dbs.com.tw/personal/aics/archive/templatedata/article/generic/data/en/GR/072026/260701_insights_taiwan.xml",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026-07-01",
-    "Name": "パクス・メローニの不安材料 ～イタリアのメローニ首相の続投は？～",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%83%91%E3%82%AF%E3%82%B9%E3%83%BB%E3%83%A1%E3%83%AD%E3%83%BC%E3%83%8B%E3%81%AE%E4%B8%8D%E5%AE%89%E6%9D%90%E6%96%99%20%EF%BD%9E%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E3%81%AE%E3%83%A1%E3%83%AD%E3%83%BC%E3%83%8B%E9%A6%96%E7%9B%B8%E3%81%AE%E7%B6%9A%E6%8A%95%E3%81%AF%EF%BC%9F%EF%BD%9E.pdf",
-    "PageCount": 3,
-    "OriginalLink": "https://www.dlri.co.jp/files/macro/623628.pdf",
-    "LocalPath": "all report pdf/パクス・メローニの不安材料 ～イタリアのメローニ首相の続投は？～.pdf",
     "Summary": "未執行 AI 摘要"
   },
   {
@@ -5876,11 +6044,21 @@
   {
     "Source": "DLRI",
     "Date": "2026-07-01",
-    "Name": "経済財政諮問会議（2026年6月25日）解説 〜予算編成改革基本原則、中長期的な経済・財政試算の概要〜",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%B5%8C%E6%B8%88%E8%B2%A1%E6%94%BF%E8%AB%AE%E5%95%8F%E4%BC%9A%E8%AD%B0%EF%BC%882026%E5%B9%B46%E6%9C%8825%E6%97%A5%EF%BC%89%E8%A7%A3%E8%AA%AC%20%E3%80%9C%E4%BA%88%E7%AE%97%E7%B7%A8%E6%88%90%E6%94%B9%E9%9D%A9%E5%9F%BA%E6%9C%AC%E5%8E%9F%E5%89%87%E3%80%81%E4%B8%AD%E9%95%B7%E6%9C%9F%E7%9A%84%E3%81%AA%E7%B5%8C%E6%B8%88%E3%83%BB%E8%B2%A1%E6%94%BF%E8%A9%A6%E7%AE%97%E3%81%AE%E6%A6%82%E8%A6%81%E3%80%9C.pdf",
+    "Name": "パクス・メローニの不安材料 ～イタリアのメローニ首相の続投は？～",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%83%91%E3%82%AF%E3%82%B9%E3%83%BB%E3%83%A1%E3%83%AD%E3%83%BC%E3%83%8B%E3%81%AE%E4%B8%8D%E5%AE%89%E6%9D%90%E6%96%99%20%EF%BD%9E%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E3%81%AE%E3%83%A1%E3%83%AD%E3%83%BC%E3%83%8B%E9%A6%96%E7%9B%B8%E3%81%AE%E7%B6%9A%E6%8A%95%E3%81%AF%EF%BC%9F%EF%BD%9E.pdf",
+    "PageCount": 3,
+    "OriginalLink": "https://www.dlri.co.jp/files/macro/623628.pdf",
+    "LocalPath": "all report pdf/パクス・メローニの不安材料 ～イタリアのメローニ首相の続投は？～.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026-07-01",
+    "Name": "FIFAワールドカップ2026出場国の資産形成（5） スウェーデン ～資産形成と金融教育で日本をリード～",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/FIFA%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%AB%E3%83%83%E3%83%972026%E5%87%BA%E5%A0%B4%E5%9B%BD%E3%81%AE%E8%B3%87%E7%94%A3%E5%BD%A2%E6%88%90%EF%BC%885%EF%BC%89%20%E3%82%B9%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%87%E3%83%B3%20%EF%BD%9E%E8%B3%87%E7%94%A3%E5%BD%A2%E6%88%90%E3%81%A8%E9%87%91%E8%9E%8D%E6%95%99%E8%82%B2%E3%81%A7%E6%97%A5%E6%9C%AC%E3%82%92%E3%83%AA%E3%83%BC%E3%83%89%EF%BD%9E.pdf",
     "PageCount": 5,
-    "OriginalLink": "https://www.dlri.co.jp/files/macro/623662.pdf",
-    "LocalPath": "all report pdf/経済財政諮問会議（2026年6月25日）解説 〜予算編成改革基本原則、中長期的な経済・財政試算の概要〜.pdf",
+    "OriginalLink": "https://www.dlri.co.jp/files/asset/623659.pdf",
+    "LocalPath": "all report pdf/FIFAワールドカップ2026出場国の資産形成（5） スウェーデン ～資産形成と金融教育で日本をリード～.pdf",
     "Summary": "未執行 AI 摘要"
   },
   {
@@ -5896,21 +6074,41 @@
   {
     "Source": "DLRI",
     "Date": "2026-07-01",
-    "Name": "骨太方針2026のポイント（総論編） ～責任ある積極財政の具体化と「成長重視」へのギアチェンジ～",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E9%AA%A8%E5%A4%AA%E6%96%B9%E9%87%9D2026%E3%81%AE%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%EF%BC%88%E7%B7%8F%E8%AB%96%E7%B7%A8%EF%BC%89%20%EF%BD%9E%E8%B2%AC%E4%BB%BB%E3%81%82%E3%82%8B%E7%A9%8D%E6%A5%B5%E8%B2%A1%E6%94%BF%E3%81%AE%E5%85%B7%E4%BD%93%E5%8C%96%E3%81%A8%E3%80%8C%E6%88%90%E9%95%B7%E9%87%8D%E8%A6%96%E3%80%8D%E3%81%B8%E3%81%AE%E3%82%AE%E3%82%A2%E3%83%81%E3%82%A7%E3%83%B3%E3%82%B8%EF%BD%9E.pdf",
-    "PageCount": 6,
-    "OriginalLink": "https://www.dlri.co.jp/files/macro/623625.pdf",
-    "LocalPath": "all report pdf/骨太方針2026のポイント（総論編） ～責任ある積極財政の具体化と「成長重視」へのギアチェンジ～.pdf",
+    "Name": "驚異的な伸び　韓国の輸出そして株価",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E9%A9%9A%E7%95%B0%E7%9A%84%E3%81%AA%E4%BC%B8%E3%81%B3%E3%80%80%E9%9F%93%E5%9B%BD%E3%81%AE%E8%BC%B8%E5%87%BA%E3%81%9D%E3%81%97%E3%81%A6%E6%A0%AA%E4%BE%A1.pdf",
+    "PageCount": 2,
+    "OriginalLink": "https://www.dlri.co.jp/files/macro/623622.pdf",
+    "LocalPath": "all report pdf/驚異的な伸び　韓国の輸出そして株価.pdf",
     "Summary": "未執行 AI 摘要"
   },
   {
     "Source": "DLRI",
     "Date": "2026-07-01",
-    "Name": "FIFAワールドカップ2026出場国の資産形成（5） スウェーデン ～資産形成と金融教育で日本をリード～",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/FIFA%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%AB%E3%83%83%E3%83%972026%E5%87%BA%E5%A0%B4%E5%9B%BD%E3%81%AE%E8%B3%87%E7%94%A3%E5%BD%A2%E6%88%90%EF%BC%885%EF%BC%89%20%E3%82%B9%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%87%E3%83%B3%20%EF%BD%9E%E8%B3%87%E7%94%A3%E5%BD%A2%E6%88%90%E3%81%A8%E9%87%91%E8%9E%8D%E6%95%99%E8%82%B2%E3%81%A7%E6%97%A5%E6%9C%AC%E3%82%92%E3%83%AA%E3%83%BC%E3%83%89%EF%BD%9E.pdf",
+    "Name": "インフレ加速の兆候とAI 需要の強さを示した日銀短観６月調査",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AC%E5%8A%A0%E9%80%9F%E3%81%AE%E5%85%86%E5%80%99%E3%81%A8AI%20%E9%9C%80%E8%A6%81%E3%81%AE%E5%BC%B7%E3%81%95%E3%82%92%E7%A4%BA%E3%81%97%E3%81%9F%E6%97%A5%E9%8A%80%E7%9F%AD%E8%A6%B3%EF%BC%96%E6%9C%88%E8%AA%BF%E6%9F%BB.pdf",
     "PageCount": 5,
-    "OriginalLink": "https://www.dlri.co.jp/files/asset/623659.pdf",
-    "LocalPath": "all report pdf/FIFAワールドカップ2026出場国の資産形成（5） スウェーデン ～資産形成と金融教育で日本をリード～.pdf",
+    "OriginalLink": "https://www.dlri.co.jp/files/macro/623606.pdf",
+    "LocalPath": "all report pdf/インフレ加速の兆候とAI 需要の強さを示した日銀短観６月調査.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026-07-01",
+    "Name": "経済財政諮問会議（2026年6月25日）解説 〜予算編成改革基本原則、中長期的な経済・財政試算の概要〜",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%B5%8C%E6%B8%88%E8%B2%A1%E6%94%BF%E8%AB%AE%E5%95%8F%E4%BC%9A%E8%AD%B0%EF%BC%882026%E5%B9%B46%E6%9C%8825%E6%97%A5%EF%BC%89%E8%A7%A3%E8%AA%AC%20%E3%80%9C%E4%BA%88%E7%AE%97%E7%B7%A8%E6%88%90%E6%94%B9%E9%9D%A9%E5%9F%BA%E6%9C%AC%E5%8E%9F%E5%89%87%E3%80%81%E4%B8%AD%E9%95%B7%E6%9C%9F%E7%9A%84%E3%81%AA%E7%B5%8C%E6%B8%88%E3%83%BB%E8%B2%A1%E6%94%BF%E8%A9%A6%E7%AE%97%E3%81%AE%E6%A6%82%E8%A6%81%E3%80%9C.pdf",
+    "PageCount": 5,
+    "OriginalLink": "https://www.dlri.co.jp/files/macro/623662.pdf",
+    "LocalPath": "all report pdf/経済財政諮問会議（2026年6月25日）解説 〜予算編成改革基本原則、中長期的な経済・財政試算の概要〜.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026-07-01",
+    "Name": "骨太方針2026のポイント（総論編） ～責任ある積極財政の具体化と「成長重視」へのギアチェンジ～",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E9%AA%A8%E5%A4%AA%E6%96%B9%E9%87%9D2026%E3%81%AE%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%EF%BC%88%E7%B7%8F%E8%AB%96%E7%B7%A8%EF%BC%89%20%EF%BD%9E%E8%B2%AC%E4%BB%BB%E3%81%82%E3%82%8B%E7%A9%8D%E6%A5%B5%E8%B2%A1%E6%94%BF%E3%81%AE%E5%85%B7%E4%BD%93%E5%8C%96%E3%81%A8%E3%80%8C%E6%88%90%E9%95%B7%E9%87%8D%E8%A6%96%E3%80%8D%E3%81%B8%E3%81%AE%E3%82%AE%E3%82%A2%E3%83%81%E3%82%A7%E3%83%B3%E3%82%B8%EF%BD%9E.pdf",
+    "PageCount": 6,
+    "OriginalLink": "https://www.dlri.co.jp/files/macro/623625.pdf",
+    "LocalPath": "all report pdf/骨太方針2026のポイント（総論編） ～責任ある積極財政の具体化と「成長重視」へのギアチェンジ～.pdf",
     "Summary": "未執行 AI 摘要"
   },
   {
@@ -5968,6 +6166,17 @@
   {
     "Source": "Westpac IQ",
     "Date": "2026-07-01",
+    "Name": "Westpac commodity forecasts July 2026 (2026-07-01)",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Westpac%20commodity%20forecasts%20July%202026%20%282026-07-01%29.pdf",
+    "Type": "PDF",
+    "PageCount": 4,
+    "OriginalLink": "https://library.westpaciq.com.au/content/dam/public/westpaciq/secure/economics/documents/aus/2026/07/Westpac%20Commodity%20Forecasts%20July%202026.pdf",
+    "LocalPath": "all report pdf/Westpac commodity forecasts July 2026 (2026-07-01).pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "Westpac IQ",
+    "Date": "2026-07-01",
     "Name": "RBNZ Monetary Policy Review July 2026 (2026-07-01)",
     "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/RBNZ%20Monetary%20Policy%20Review%20July%202026%20%282026-07-01%29.pdf",
     "Type": "PDF",
@@ -5985,17 +6194,6 @@
     "PageCount": 13,
     "OriginalLink": "https://www.westpaciq.com.au/economics/2026/07/first-impressions-rbnz-monetary-policy-review-july-2026-",
     "LocalPath": "all report pdf/First Impressions_ RBNZ Monetary Policy Review July 2026 (2026-07-01).pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "Westpac IQ",
-    "Date": "2026-07-01",
-    "Name": "Westpac commodity forecasts July 2026 (2026-07-01)",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Westpac%20commodity%20forecasts%20July%202026%20%282026-07-01%29.pdf",
-    "Type": "PDF",
-    "PageCount": 4,
-    "OriginalLink": "https://library.westpaciq.com.au/content/dam/public/westpaciq/secure/economics/documents/aus/2026/07/Westpac%20Commodity%20Forecasts%20July%202026.pdf",
-    "LocalPath": "all report pdf/Westpac commodity forecasts July 2026 (2026-07-01).pdf",
     "Summary": "未執行 AI 摘要"
   },
   {
@@ -6066,6 +6264,16 @@
   {
     "Source": "DLRI",
     "Date": "2026-06-30",
+    "Name": "実質賃金をプラスにする条件は何か？ ～経済原理から考える～",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%AE%9F%E8%B3%AA%E8%B3%83%E9%87%91%E3%82%92%E3%83%97%E3%83%A9%E3%82%B9%E3%81%AB%E3%81%99%E3%82%8B%E6%9D%A1%E4%BB%B6%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F%20%EF%BD%9E%E7%B5%8C%E6%B8%88%E5%8E%9F%E7%90%86%E3%81%8B%E3%82%89%E8%80%83%E3%81%88%E3%82%8B%EF%BD%9E.pdf",
+    "PageCount": 4,
+    "OriginalLink": "https://www.dlri.co.jp/files/macro/623590.pdf",
+    "LocalPath": "all report pdf/実質賃金をプラスにする条件は何か？ ～経済原理から考える～.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026-06-30",
     "Name": "「責任ある積極財政」と金融政策の針路 〜「金利ある世界」における地域金融機関の役割と生存戦略〜",
     "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%80%8C%E8%B2%AC%E4%BB%BB%E3%81%82%E3%82%8B%E7%A9%8D%E6%A5%B5%E8%B2%A1%E6%94%BF%E3%80%8D%E3%81%A8%E9%87%91%E8%9E%8D%E6%94%BF%E7%AD%96%E3%81%AE%E9%87%9D%E8%B7%AF%20%E3%80%9C%E3%80%8C%E9%87%91%E5%88%A9%E3%81%82%E3%82%8B%E4%B8%96%E7%95%8C%E3%80%8D%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%9C%B0%E5%9F%9F%E9%87%91%E8%9E%8D%E6%A9%9F%E9%96%A2%E3%81%AE%E5%BD%B9%E5%89%B2%E3%81%A8%E7%94%9F%E5%AD%98%E6%88%A6%E7%95%A5%E3%80%9C.pdf",
     "PageCount": 5,
@@ -6076,11 +6284,31 @@
   {
     "Source": "DLRI",
     "Date": "2026-06-30",
+    "Name": "雇用なき成長続く中国､金融市場は追加緩和観測を強める ～中銀は翌日物リバースレポ取引再開､金融緩和観測が高まる一因に～",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E9%9B%87%E7%94%A8%E3%81%AA%E3%81%8D%E6%88%90%E9%95%B7%E7%B6%9A%E3%81%8F%E4%B8%AD%E5%9B%BD%EF%BD%A4%E9%87%91%E8%9E%8D%E5%B8%82%E5%A0%B4%E3%81%AF%E8%BF%BD%E5%8A%A0%E7%B7%A9%E5%92%8C%E8%A6%B3%E6%B8%AC%E3%82%92%E5%BC%B7%E3%82%81%E3%82%8B%20%EF%BD%9E%E4%B8%AD%E9%8A%80%E3%81%AF%E7%BF%8C%E6%97%A5%E7%89%A9%E3%83%AA%E3%83%90%E3%83%BC%E3%82%B9%E3%83%AC%E3%83%9D%E5%8F%96%E5%BC%95%E5%86%8D%E9%96%8B%EF%BD%A4%E9%87%91%E8%9E%8D%E7%B7%A9%E5%92%8C%E8%A6%B3%E6%B8%AC%E3%81%8C%E9%AB%98%E3%81%BE%E3%82%8B%E4%B8%80%E5%9B%A0%E3%81%AB%EF%BD%9E.pdf",
+    "PageCount": 4,
+    "OriginalLink": "https://www.dlri.co.jp/files/macro/623601.pdf",
+    "LocalPath": "all report pdf/雇用なき成長続く中国､金融市場は追加緩和観測を強める ～中銀は翌日物リバースレポ取引再開､金融緩和観測が高まる一因に～.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026-06-30",
     "Name": "まだ若い？半導体相場 （５月鉱工業生産）",
     "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%81%BE%E3%81%A0%E8%8B%A5%E3%81%84%EF%BC%9F%E5%8D%8A%E5%B0%8E%E4%BD%93%E7%9B%B8%E5%A0%B4%20%EF%BC%88%EF%BC%95%E6%9C%88%E9%89%B1%E5%B7%A5%E6%A5%AD%E7%94%9F%E7%94%A3%EF%BC%89.pdf",
     "PageCount": 4,
     "OriginalLink": "https://www.dlri.co.jp/files/macro/623574.pdf",
     "LocalPath": "all report pdf/まだ若い？半導体相場 （５月鉱工業生産）.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026-06-30",
+    "Name": "AIエージェントはSaaS企業の敵か味方か ～「SaaSの死」は本当か？ソフトウェア株再評価の新しい論点～",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/AI%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%81%AFSaaS%E4%BC%81%E6%A5%AD%E3%81%AE%E6%95%B5%E3%81%8B%E5%91%B3%E6%96%B9%E3%81%8B%20%EF%BD%9E%E3%80%8CSaaS%E3%81%AE%E6%AD%BB%E3%80%8D%E3%81%AF%E6%9C%AC%E5%BD%93%E3%81%8B%EF%BC%9F%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E6%A0%AA%E5%86%8D%E8%A9%95%E4%BE%A1%E3%81%AE%E6%96%B0%E3%81%97%E3%81%84%E8%AB%96%E7%82%B9%EF%BD%9E.pdf",
+    "PageCount": 6,
+    "OriginalLink": "https://www.dlri.co.jp/files/asset/623568.pdf",
+    "LocalPath": "all report pdf/AIエージェントはSaaS企業の敵か味方か ～「SaaSの死」は本当か？ソフトウェア株再評価の新しい論点～.pdf",
     "Summary": "未執行 AI 摘要"
   },
   {
@@ -6118,21 +6346,31 @@
   {
     "Source": "DLRI",
     "Date": "2026-06-29",
-    "Name": "財政改革検討本部提言（2026年6月25日）解説 〜強い経済と財政の持続可能性を両立させる『責任ある積極財政』〜",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E8%B2%A1%E6%94%BF%E6%94%B9%E9%9D%A9%E6%A4%9C%E8%A8%8E%E6%9C%AC%E9%83%A8%E6%8F%90%E8%A8%80%EF%BC%882026%E5%B9%B46%E6%9C%8825%E6%97%A5%EF%BC%89%E8%A7%A3%E8%AA%AC%20%E3%80%9C%E5%BC%B7%E3%81%84%E7%B5%8C%E6%B8%88%E3%81%A8%E8%B2%A1%E6%94%BF%E3%81%AE%E6%8C%81%E7%B6%9A%E5%8F%AF%E8%83%BD%E6%80%A7%E3%82%92%E4%B8%A1%E7%AB%8B%E3%81%95%E3%81%9B%E3%82%8B%E3%80%8E%E8%B2%AC%E4%BB%BB%E3%81%82%E3%82%8B%E7%A9%8D%E6%A5%B5%E8%B2%A1%E6%94%BF%E3%80%8F%E3%80%9C.pdf",
+    "Name": "欧州を襲う熱波の影響は？ ～経済活動を抑制し、物価を押し上げよう～",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%AC%A7%E5%B7%9E%E3%82%92%E8%A5%B2%E3%81%86%E7%86%B1%E6%B3%A2%E3%81%AE%E5%BD%B1%E9%9F%BF%E3%81%AF%EF%BC%9F%20%EF%BD%9E%E7%B5%8C%E6%B8%88%E6%B4%BB%E5%8B%95%E3%82%92%E6%8A%91%E5%88%B6%E3%81%97%E3%80%81%E7%89%A9%E4%BE%A1%E3%82%92%E6%8A%BC%E3%81%97%E4%B8%8A%E3%81%92%E3%82%88%E3%81%86%EF%BD%9E.pdf",
     "PageCount": 3,
-    "OriginalLink": "https://www.dlri.co.jp/files/macro/623558.pdf",
-    "LocalPath": "all report pdf/財政改革検討本部提言（2026年6月25日）解説 〜強い経済と財政の持続可能性を両立させる『責任ある積極財政』〜.pdf",
+    "OriginalLink": "https://www.dlri.co.jp/files/macro/623555.pdf",
+    "LocalPath": "all report pdf/欧州を襲う熱波の影響は？ ～経済活動を抑制し、物価を押し上げよう～.pdf",
     "Summary": "未執行 AI 摘要"
   },
   {
     "Source": "DLRI",
     "Date": "2026-06-29",
-    "Name": "韓国･李政権の支持率が急落､就任後最低水準に ～８月の代表選へ主導権争い激化､その行方は良好な日韓関係に影響を与える可能性も～",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E9%9F%93%E5%9B%BD%EF%BD%A5%E6%9D%8E%E6%94%BF%E6%A8%A9%E3%81%AE%E6%94%AF%E6%8C%81%E7%8E%87%E3%81%8C%E6%80%A5%E8%90%BD%EF%BD%A4%E5%B0%B1%E4%BB%BB%E5%BE%8C%E6%9C%80%E4%BD%8E%E6%B0%B4%E6%BA%96%E3%81%AB%20%EF%BD%9E%EF%BC%98%E6%9C%88%E3%81%AE%E4%BB%A3%E8%A1%A8%E9%81%B8%E3%81%B8%E4%B8%BB%E5%B0%8E%E6%A8%A9%E4%BA%89%E3%81%84%E6%BF%80%E5%8C%96%EF%BD%A4%E3%81%9D%E3%81%AE%E8%A1%8C%E6%96%B9%E3%81%AF%E8%89%AF%E5%A5%BD%E3%81%AA%E6%97%A5%E9%9F%93%E9%96%A2%E4%BF%82%E3%81%AB%E5%BD%B1%E9%9F%BF%E3%82%92%E4%B8%8E%E3%81%88%E3%82%8B%E5%8F%AF%E8%83%BD%E6%80%A7%E3%82%82%EF%BD%9E.pdf",
-    "PageCount": 2,
-    "OriginalLink": "https://www.dlri.co.jp/files/macro/623561.pdf",
-    "LocalPath": "all report pdf/韓国･李政権の支持率が急落､就任後最低水準に ～８月の代表選へ主導権争い激化､その行方は良好な日韓関係に影響を与える可能性も～.pdf",
+    "Name": "家計調査でみる「預貯金純増」は、なぜ残高に積み上がらないのか ～キャッシュレス時代に強まる預金口座の「決済ハブ」機能～",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%AE%B6%E8%A8%88%E8%AA%BF%E6%9F%BB%E3%81%A7%E3%81%BF%E3%82%8B%E3%80%8C%E9%A0%90%E8%B2%AF%E9%87%91%E7%B4%94%E5%A2%97%E3%80%8D%E3%81%AF%E3%80%81%E3%81%AA%E3%81%9C%E6%AE%8B%E9%AB%98%E3%81%AB%E7%A9%8D%E3%81%BF%E4%B8%8A%E3%81%8C%E3%82%89%E3%81%AA%E3%81%84%E3%81%AE%E3%81%8B%20%EF%BD%9E%E3%82%AD%E3%83%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%83%AC%E3%82%B9%E6%99%82%E4%BB%A3%E3%81%AB%E5%BC%B7%E3%81%BE%E3%82%8B%E9%A0%90%E9%87%91%E5%8F%A3%E5%BA%A7%E3%81%AE%E3%80%8C%E6%B1%BA%E6%B8%88%E3%83%8F%E3%83%96%E3%80%8D%E6%A9%9F%E8%83%BD%EF%BD%9E.pdf",
+    "PageCount": 4,
+    "OriginalLink": "https://www.dlri.co.jp/files/ld/623522.pdf",
+    "LocalPath": "all report pdf/家計調査でみる「預貯金純増」は、なぜ残高に積み上がらないのか ～キャッシュレス時代に強まる預金口座の「決済ハブ」機能～.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026-06-29",
+    "Name": "財政改革検討本部提言（2026年6月25日）解説 〜強い経済と財政の持続可能性を両立させる『責任ある積極財政』〜",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E8%B2%A1%E6%94%BF%E6%94%B9%E9%9D%A9%E6%A4%9C%E8%A8%8E%E6%9C%AC%E9%83%A8%E6%8F%90%E8%A8%80%EF%BC%882026%E5%B9%B46%E6%9C%8825%E6%97%A5%EF%BC%89%E8%A7%A3%E8%AA%AC%20%E3%80%9C%E5%BC%B7%E3%81%84%E7%B5%8C%E6%B8%88%E3%81%A8%E8%B2%A1%E6%94%BF%E3%81%AE%E6%8C%81%E7%B6%9A%E5%8F%AF%E8%83%BD%E6%80%A7%E3%82%92%E4%B8%A1%E7%AB%8B%E3%81%95%E3%81%9B%E3%82%8B%E3%80%8E%E8%B2%AC%E4%BB%BB%E3%81%82%E3%82%8B%E7%A9%8D%E6%A5%B5%E8%B2%A1%E6%94%BF%E3%80%8F%E3%80%9C.pdf",
+    "PageCount": 3,
+    "OriginalLink": "https://www.dlri.co.jp/files/macro/623558.pdf",
+    "LocalPath": "all report pdf/財政改革検討本部提言（2026年6月25日）解説 〜強い経済と財政の持続可能性を両立させる『責任ある積極財政』〜.pdf",
     "Summary": "未執行 AI 摘要"
   },
   {
@@ -6148,11 +6386,11 @@
   {
     "Source": "DLRI",
     "Date": "2026-06-29",
-    "Name": "家計調査でみる「預貯金純増」は、なぜ残高に積み上がらないのか ～キャッシュレス時代に強まる預金口座の「決済ハブ」機能～",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%AE%B6%E8%A8%88%E8%AA%BF%E6%9F%BB%E3%81%A7%E3%81%BF%E3%82%8B%E3%80%8C%E9%A0%90%E8%B2%AF%E9%87%91%E7%B4%94%E5%A2%97%E3%80%8D%E3%81%AF%E3%80%81%E3%81%AA%E3%81%9C%E6%AE%8B%E9%AB%98%E3%81%AB%E7%A9%8D%E3%81%BF%E4%B8%8A%E3%81%8C%E3%82%89%E3%81%AA%E3%81%84%E3%81%AE%E3%81%8B%20%EF%BD%9E%E3%82%AD%E3%83%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%83%AC%E3%82%B9%E6%99%82%E4%BB%A3%E3%81%AB%E5%BC%B7%E3%81%BE%E3%82%8B%E9%A0%90%E9%87%91%E5%8F%A3%E5%BA%A7%E3%81%AE%E3%80%8C%E6%B1%BA%E6%B8%88%E3%83%8F%E3%83%96%E3%80%8D%E6%A9%9F%E8%83%BD%EF%BD%9E.pdf",
-    "PageCount": 4,
-    "OriginalLink": "https://www.dlri.co.jp/files/ld/623522.pdf",
-    "LocalPath": "all report pdf/家計調査でみる「預貯金純増」は、なぜ残高に積み上がらないのか ～キャッシュレス時代に強まる預金口座の「決済ハブ」機能～.pdf",
+    "Name": "高い所は慣れると怖くない 日経平均株価は７万円台前半で足場固め",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E9%AB%98%E3%81%84%E6%89%80%E3%81%AF%E6%85%A3%E3%82%8C%E3%82%8B%E3%81%A8%E6%80%96%E3%81%8F%E3%81%AA%E3%81%84%20%E6%97%A5%E7%B5%8C%E5%B9%B3%E5%9D%87%E6%A0%AA%E4%BE%A1%E3%81%AF%EF%BC%97%E4%B8%87%E5%86%86%E5%8F%B0%E5%89%8D%E5%8D%8A%E3%81%A7%E8%B6%B3%E5%A0%B4%E5%9B%BA%E3%82%81.pdf",
+    "PageCount": 3,
+    "OriginalLink": "https://www.dlri.co.jp/files/macro/623545.pdf",
+    "LocalPath": "all report pdf/高い所は慣れると怖くない 日経平均株価は７万円台前半で足場固め.pdf",
     "Summary": "未執行 AI 摘要"
   },
   {
@@ -6182,7 +6420,7 @@
     "Name": "2026年6月29日匯率利率資訊",
     "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/2026%E5%B9%B46%E6%9C%8829%E6%97%A5%E5%8C%AF%E7%8E%87%E5%88%A9%E7%8E%87%E8%B3%87%E8%A8%8A.pdf",
     "PageCount": 7,
-    "OriginalLink": "https://www.megabank.com.tw/-/media/mega/files/bankv2/personal/finance/financial-service/bulletin/weekly-journal/exchange-rate/202606/20260629.pdf?h=714&w=1225&hash=00C05F54832A251D7525B837EFF7860E",
+    "OriginalLink": "https://www.megabank.com.tw/-/media/mega/files/bankv2/personal/finance/financial-service/bulletin/weekly-journal/exchange-rate/202606/20260629.pdf",
     "LocalPath": "all report pdf/2026年6月29日匯率利率資訊.pdf",
     "Summary": "未執行 AI 摘要"
   },
@@ -6249,17 +6487,6 @@
     "Summary": "未執行 AI 摘要"
   },
   {
-    "Source": "Westpac IQ",
-    "Date": "2026-06-29",
-    "Name": "Australia and NZ Weekly 29 June 2026 (2026-06-29)",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/Australia%20and%20NZ%20Weekly%2029%20June%202026%20%282026-06-29%29.pdf",
-    "Type": "PDF",
-    "PageCount": 14,
-    "OriginalLink": "https://library.westpaciq.com.au/content/dam/public/westpaciq/secure/economics/documents/aus/2026/06/WestpacWeekly20260629.pdf",
-    "LocalPath": "all report pdf/Australia and NZ Weekly 29 June 2026 (2026-06-29).pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
     "Source": "Yuanta (投資週報)",
     "Date": "2026-06-29",
     "Name": "20260629/投資週報/通膨黏滯不利風險偏好，科技高估值引發修正",
@@ -6305,6 +6532,26 @@
   {
     "Source": "DLRI",
     "Date": "2026-06-26",
+    "Name": "都区部版・消費者物価のコア指標（2026/06）  ～特殊要因除く系列を試算、全般的な基調は横ばい～加速～",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E9%83%BD%E5%8C%BA%E9%83%A8%E7%89%88%E3%83%BB%E6%B6%88%E8%B2%BB%E8%80%85%E7%89%A9%E4%BE%A1%E3%81%AE%E3%82%B3%E3%82%A2%E6%8C%87%E6%A8%99%EF%BC%882026_06%EF%BC%89%20%20%EF%BD%9E%E7%89%B9%E6%AE%8A%E8%A6%81%E5%9B%A0%E9%99%A4%E3%81%8F%E7%B3%BB%E5%88%97%E3%82%92%E8%A9%A6%E7%AE%97%E3%80%81%E5%85%A8%E8%88%AC%E7%9A%84%E3%81%AA%E5%9F%BA%E8%AA%BF%E3%81%AF%E6%A8%AA%E3%81%B0%E3%81%84%EF%BD%9E%E5%8A%A0%E9%80%9F%EF%BD%9E.pdf",
+    "PageCount": 3,
+    "OriginalLink": "https://www.dlri.co.jp/files/macro/623479.pdf",
+    "LocalPath": "all report pdf/都区部版・消費者物価のコア指標（2026_06）  ～特殊要因除く系列を試算、全般的な基調は横ばい～加速～.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026-06-26",
+    "Name": "大統領選を前に板挟みのブラジル中銀､市場の信認が揺らぐ懸念 ～インフレ加速にもかかわらず連続利下げ決定､中銀の独立性にも懸念～",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E5%A4%A7%E7%B5%B1%E9%A0%98%E9%81%B8%E3%82%92%E5%89%8D%E3%81%AB%E6%9D%BF%E6%8C%9F%E3%81%BF%E3%81%AE%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB%E4%B8%AD%E9%8A%80%EF%BD%A4%E5%B8%82%E5%A0%B4%E3%81%AE%E4%BF%A1%E8%AA%8D%E3%81%8C%E6%8F%BA%E3%82%89%E3%81%90%E6%87%B8%E5%BF%B5%20%EF%BD%9E%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AC%E5%8A%A0%E9%80%9F%E3%81%AB%E3%82%82%E3%81%8B%E3%81%8B%E3%82%8F%E3%82%89%E3%81%9A%E9%80%A3%E7%B6%9A%E5%88%A9%E4%B8%8B%E3%81%92%E6%B1%BA%E5%AE%9A%EF%BD%A4%E4%B8%AD%E9%8A%80%E3%81%AE%E7%8B%AC%E7%AB%8B%E6%80%A7%E3%81%AB%E3%82%82%E6%87%B8%E5%BF%B5%EF%BD%9E.pdf",
+    "PageCount": 2,
+    "OriginalLink": "https://www.dlri.co.jp/files/macro/623525.pdf",
+    "LocalPath": "all report pdf/大統領選を前に板挟みのブラジル中銀､市場の信認が揺らぐ懸念 ～インフレ加速にもかかわらず連続利下げ決定､中銀の独立性にも懸念～.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026-06-26",
     "Name": "財政再建のための奇策 ～100兆円の日銀含み益を使えないか？～",
     "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E8%B2%A1%E6%94%BF%E5%86%8D%E5%BB%BA%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E5%A5%87%E7%AD%96%20%EF%BD%9E100%E5%85%86%E5%86%86%E3%81%AE%E6%97%A5%E9%8A%80%E5%90%AB%E3%81%BF%E7%9B%8A%E3%82%92%E4%BD%BF%E3%81%88%E3%81%AA%E3%81%84%E3%81%8B%EF%BC%9F%EF%BD%9E.pdf",
     "PageCount": 3,
@@ -6315,41 +6562,21 @@
   {
     "Source": "DLRI",
     "Date": "2026-06-26",
+    "Name": "米国: 1-3月期GDP確報後の2026年の景気・金利展望  ～「底堅い成長」と「根強いインフレ」のもとFRBはタカ派寄りのスタンス維持へ～",
+    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E7%B1%B3%E5%9B%BD_%201-3%E6%9C%88%E6%9C%9FGDP%E7%A2%BA%E5%A0%B1%E5%BE%8C%E3%81%AE2026%E5%B9%B4%E3%81%AE%E6%99%AF%E6%B0%97%E3%83%BB%E9%87%91%E5%88%A9%E5%B1%95%E6%9C%9B%20%20%EF%BD%9E%E3%80%8C%E5%BA%95%E5%A0%85%E3%81%84%E6%88%90%E9%95%B7%E3%80%8D%E3%81%A8%E3%80%8C%E6%A0%B9%E5%BC%B7%E3%81%84%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AC%E3%80%8D%E3%81%AE%E3%82%82%E3%81%A8FRB%E3%81%AF%E3%82%BF%E3%82%AB%E6%B4%BE%E5%AF%84%E3%82%8A%E3%81%AE%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%B9%E7%B6%AD%E6%8C%81%E3%81%B8%EF%BD%9E.pdf",
+    "PageCount": 7,
+    "OriginalLink": "https://www.dlri.co.jp/files/macro/623499.pdf",
+    "LocalPath": "all report pdf/米国_ 1-3月期GDP確報後の2026年の景気・金利展望  ～「底堅い成長」と「根強いインフレ」のもとFRBはタカ派寄りのスタンス維持へ～.pdf",
+    "Summary": "未執行 AI 摘要"
+  },
+  {
+    "Source": "DLRI",
+    "Date": "2026-06-26",
     "Name": "消費者物価指数（東京都区部・2026年6月） ～水道料の攪乱を除けば落ち着いた動きも、夏場以降の食品値上げには警戒～",
     "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E6%B6%88%E8%B2%BB%E8%80%85%E7%89%A9%E4%BE%A1%E6%8C%87%E6%95%B0%EF%BC%88%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8C%BA%E9%83%A8%E3%83%BB2026%E5%B9%B46%E6%9C%88%EF%BC%89%20%EF%BD%9E%E6%B0%B4%E9%81%93%E6%96%99%E3%81%AE%E6%94%AA%E4%B9%B1%E3%82%92%E9%99%A4%E3%81%91%E3%81%B0%E8%90%BD%E3%81%A1%E7%9D%80%E3%81%84%E3%81%9F%E5%8B%95%E3%81%8D%E3%82%82%E3%80%81%E5%A4%8F%E5%A0%B4%E4%BB%A5%E9%99%8D%E3%81%AE%E9%A3%9F%E5%93%81%E5%80%A4%E4%B8%8A%E3%81%92%E3%81%AB%E3%81%AF%E8%AD%A6%E6%88%92%EF%BD%9E.pdf",
     "PageCount": 4,
     "OriginalLink": "https://www.dlri.co.jp/files/macro/623488.pdf",
     "LocalPath": "all report pdf/消費者物価指数（東京都区部・2026年6月） ～水道料の攪乱を除けば落ち着いた動きも、夏場以降の食品値上げには警戒～.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026-06-26",
-    "Name": "ナフサの代替調達が進む ～中東からの輸入は激減続くも、米国からの輸入が急増～",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%83%8A%E3%83%95%E3%82%B5%E3%81%AE%E4%BB%A3%E6%9B%BF%E8%AA%BF%E9%81%94%E3%81%8C%E9%80%B2%E3%82%80%20%EF%BD%9E%E4%B8%AD%E6%9D%B1%E3%81%8B%E3%82%89%E3%81%AE%E8%BC%B8%E5%85%A5%E3%81%AF%E6%BF%80%E6%B8%9B%E7%B6%9A%E3%81%8F%E3%82%82%E3%80%81%E7%B1%B3%E5%9B%BD%E3%81%8B%E3%82%89%E3%81%AE%E8%BC%B8%E5%85%A5%E3%81%8C%E6%80%A5%E5%A2%97%EF%BD%9E.pdf",
-    "PageCount": 2,
-    "OriginalLink": "https://www.dlri.co.jp/files/macro/623536.pdf",
-    "LocalPath": "all report pdf/ナフサの代替調達が進む ～中東からの輸入は激減続くも、米国からの輸入が急増～.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026-06-26",
-    "Name": "メキシコ中銀､利下げサイクル終了で当面は金利据え置きを示唆 ～ペソ相場は米ドル高､USMCAを巡る動きが重しとなる可能性に引き続き注意～",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%83%A1%E3%82%AD%E3%82%B7%E3%82%B3%E4%B8%AD%E9%8A%80%EF%BD%A4%E5%88%A9%E4%B8%8B%E3%81%92%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E7%B5%82%E4%BA%86%E3%81%A7%E5%BD%93%E9%9D%A2%E3%81%AF%E9%87%91%E5%88%A9%E6%8D%AE%E3%81%88%E7%BD%AE%E3%81%8D%E3%82%92%E7%A4%BA%E5%94%86%20%EF%BD%9E%E3%83%9A%E3%82%BD%E7%9B%B8%E5%A0%B4%E3%81%AF%E7%B1%B3%E3%83%89%E3%83%AB%E9%AB%98%EF%BD%A4USMCA%E3%82%92%E5%B7%A1%E3%82%8B%E5%8B%95%E3%81%8D%E3%81%8C%E9%87%8D%E3%81%97%E3%81%A8%E3%81%AA%E3%82%8B%E5%8F%AF%E8%83%BD%E6%80%A7%E3%81%AB%E5%BC%95%E3%81%8D%E7%B6%9A%E3%81%8D%E6%B3%A8%E6%84%8F%EF%BD%9E.pdf",
-    "PageCount": 3,
-    "OriginalLink": "https://www.dlri.co.jp/files/macro/623493.pdf",
-    "LocalPath": "all report pdf/メキシコ中銀､利下げサイクル終了で当面は金利据え置きを示唆 ～ペソ相場は米ドル高､USMCAを巡る動きが重しとなる可能性に引き続き注意～.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026-06-26",
-    "Name": "都区部版・消費者物価のコア指標（2026/06）  ～特殊要因除く系列を試算、全般的な基調は横ばい～加速～",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E9%83%BD%E5%8C%BA%E9%83%A8%E7%89%88%E3%83%BB%E6%B6%88%E8%B2%BB%E8%80%85%E7%89%A9%E4%BE%A1%E3%81%AE%E3%82%B3%E3%82%A2%E6%8C%87%E6%A8%99%EF%BC%882026_06%EF%BC%89%20%20%EF%BD%9E%E7%89%B9%E6%AE%8A%E8%A6%81%E5%9B%A0%E9%99%A4%E3%81%8F%E7%B3%BB%E5%88%97%E3%82%92%E8%A9%A6%E7%AE%97%E3%80%81%E5%85%A8%E8%88%AC%E7%9A%84%E3%81%AA%E5%9F%BA%E8%AA%BF%E3%81%AF%E6%A8%AA%E3%81%B0%E3%81%84%EF%BD%9E%E5%8A%A0%E9%80%9F%EF%BD%9E.pdf",
-    "PageCount": 3,
-    "OriginalLink": "https://www.dlri.co.jp/files/macro/623479.pdf",
-    "LocalPath": "all report pdf/都区部版・消費者物価のコア指標（2026_06）  ～特殊要因除く系列を試算、全般的な基調は横ばい～加速～.pdf",
     "Summary": "未執行 AI 摘要"
   },
   {
@@ -6466,17 +6693,6 @@
     "Summary": "未執行 AI 摘要"
   },
   {
-    "Source": "Allianz Trade",
-    "Date": "2026-06-25",
-    "Name": "The semiconductor premium: EM equity and the concentration risk within",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/The%20semiconductor%20premium_%20EM%20equity%20and%20the%20concentration%20risk%20within.pdf",
-    "Type": "PDF",
-    "PageCount": 12,
-    "OriginalLink": "http://127.0.0.1:18033/allianz_temp_pdf/Allianz_2026-06-25_The%20semiconductor%20premium%20EM%20equity%20and%20the%20concentration%20risk%20within.pdf",
-    "LocalPath": "all report pdf/The semiconductor premium_ EM equity and the concentration risk within.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
     "Source": "BNP Paribas",
     "Date": "2026-06-25",
     "Name": "German Investment Plans: Reasons to Stay Optimistic (2026-06-25)",
@@ -6507,16 +6723,6 @@
     "PageCount": 6,
     "OriginalLink": "https://www.ctbcbank.com/IB/api/adapters/IB_Adapter/resource/report/20260625-C-22-0#.pdf",
     "LocalPath": "all report pdf/【歐洲攻略】地緣風險緩和支撐歐股行情，惟評價擴張空間受限.pdf",
-    "Summary": "未執行 AI 摘要"
-  },
-  {
-    "Source": "DLRI",
-    "Date": "2026-06-25",
-    "Name": "ペルー大統領選､｢四度目の正直｣でケイコ･フジモリ氏の勝利が確実に ～日系人がルーツ､安定路線への期待は高いが､現時点における過度な期待は禁物～",
-    "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/%E3%83%9A%E3%83%AB%E3%83%BC%E5%A4%A7%E7%B5%B1%E9%A0%98%E9%81%B8%EF%BD%A4%EF%BD%A2%E5%9B%9B%E5%BA%A6%E7%9B%AE%E3%81%AE%E6%AD%A3%E7%9B%B4%EF%BD%A3%E3%81%A7%E3%82%B1%E3%82%A4%E3%82%B3%EF%BD%A5%E3%83%95%E3%82%B8%E3%83%A2%E3%83%AA%E6%B0%8F%E3%81%AE%E5%8B%9D%E5%88%A9%E3%81%8C%E7%A2%BA%E5%AE%9F%E3%81%AB%20%EF%BD%9E%E6%97%A5%E7%B3%BB%E4%BA%BA%E3%81%8C%E3%83%AB%E3%83%BC%E3%83%84%EF%BD%A4%E5%AE%89%E5%AE%9A%E8%B7%AF%E7%B7%9A%E3%81%B8%E3%81%AE%E6%9C%9F%E5%BE%85%E3%81%AF%E9%AB%98%E3%81%84%E3%81%8C%EF%BD%A4%E7%8F%BE%E6%99%82%E7%82%B9%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E9%81%8E%E5%BA%A6%E3%81%AA%E6%9C%9F%E5%BE%85%E3%81%AF%E7%A6%81%E7%89%A9%EF%BD%9E.pdf",
-    "PageCount": 3,
-    "OriginalLink": "https://www.dlri.co.jp/files/macro/623472.pdf",
-    "LocalPath": "all report pdf/ペルー大統領選､｢四度目の正直｣でケイコ･フジモリ氏の勝利が確実に ～日系人がルーツ､安定路線への期待は高いが､現時点における過度な期待は禁物～.pdf",
     "Summary": "未執行 AI 摘要"
   },
   {
@@ -6772,7 +6978,7 @@
     "Name": "2026年6月22日匯率利率資訊",
     "Link": "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/2026%E5%B9%B46%E6%9C%8822%E6%97%A5%E5%8C%AF%E7%8E%87%E5%88%A9%E7%8E%87%E8%B3%87%E8%A8%8A.pdf",
     "PageCount": 7,
-    "OriginalLink": "https://www.megabank.com.tw/-/media/mega/files/bankv2/personal/finance/financial-service/bulletin/weekly-journal/exchange-rate/202606/20260622.pdf?h=714&w=1225&hash=6A1F462C5CD726986F0D9BFB22B7CD56",
+    "OriginalLink": "https://www.megabank.com.tw/-/media/mega/files/bankv2/personal/finance/financial-service/bulletin/weekly-journal/exchange-rate/202606/20260622.pdf",
     "LocalPath": "all report pdf/2026年6月22日匯率利率資訊.pdf",
     "Summary": "未執行 AI 摘要"
   },
