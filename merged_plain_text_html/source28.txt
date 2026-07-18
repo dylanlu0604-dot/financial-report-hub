@@ -3,7 +3,7 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 060: 2308台達電 元大
+## Document 058: 2308台達電 元大
 
 Source PDF: all report pdf/2308台達電 元大.pdf
 Report source: line報告備份
@@ -924,7 +924,7 @@ ESG總分 14.3
 台灣臺北市 106仁愛路三段 157號 4樓
 
 ---
-## Document 061: 2313 華通丨宏遠丨20260715
+## Document 059: 2313 華通丨宏遠丨20260715
 
 Source PDF: all report pdf/2313 華通丨宏遠丨20260715.pdf
 Report source: line報告備份
@@ -1267,7 +1267,7 @@ Company Report
 9
 
 ---
-## Document 070: 2408南亞科 群益
+## Document 068: 2408南亞科 群益
 
 Source PDF: all report pdf/2408南亞科 群益.pdf
 Report source: line報告備份
@@ -1533,7 +1533,7 @@ YoY(%)
 情形。
 
 ---
-## Document 079: 260708_ms_nvl72-racks
+## Document 077: 260708_ms_nvl72-racks
 
 Source PDF: all report pdf/260708_ms_nvl72-racks.pdf
 Report source: line報告備份
@@ -2114,7 +2114,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 083: 260709_gs_allring
+## Document 081: 260709_gs_allring
 
 Source PDF: all report pdf/260709_gs_allring.pdf
 Report source: line報告備份
@@ -2722,7 +2722,7 @@ Goldman Sachs All Ring Tech Co. (6187.TWO)For the exclusive use of KEVINLU@LENOV
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 086: 260709_ms_WPG
+## Document 084: 260709_ms_WPG
 
 Source PDF: all report pdf/260709_ms_WPG.pdf
 Report source: line報告備份
@@ -3194,7 +3194,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 090: 260710_daiwa_nytech
+## Document 088: 260710_daiwa_nytech
 
 Source PDF: all report pdf/260710_daiwa_nytech.pdf
 Report source: line報告備份
@@ -3466,7 +3466,7 @@ regarding the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 091: 260710_ubs_nytech
+## Document 089: 260710_ubs_nytech
 
 Source PDF: all report pdf/260710_ubs_nytech.pdf
 Report source: line報告備份
@@ -4769,7 +4769,7 @@ name, e-mail address) until you notify us that you no longer wish to receive the
 ab
 
 ---
-## Document 093: 260712_gs_ABF
+## Document 091: 260712_gs_ABF
 
 Source PDF: all report pdf/260712_gs_ABF.pdf
 Report source: line報告備份
@@ -5746,7 +5746,7 @@ Goldman Sachs Asia TechnologyFor the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 095: 260712_ms_nytech
+## Document 093: 260712_ms_nytech
 
 Source PDF: all report pdf/260712_ms_nytech.pdf
 Report source: line報告備份
@@ -6603,7 +6603,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 099: 260713_ml_allring-buy-initiaiton 6187
+## Document 097: 260713_ml_allring-buy-initiaiton 6187
 
 Source PDF: all report pdf/260713_ml_allring-buy-initiaiton 6187.pdf
 Report source: line報告備份
@@ -8681,7 +8681,7 @@ All Ring | 13 July 2026    31
 32 All Ring | 13 July 2026
 
 ---
-## Document 108: 260715_gs_winway
+## Document 106: 260715_gs_winway
 
 Source PDF: all report pdf/260715_gs_winway.pdf
 Report source: line報告備份
@@ -9341,7 +9341,7 @@ Goldman Sachs Winway Technology Co. (6515.TW)For the exclusive use of KEVINLU@LE
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 113: 260716_citi_BBU
+## Document 111: 260716_citi_BBU
 
 Source PDF: all report pdf/260716_citi_BBU.pdf
 Report source: line報告備份
@@ -9845,7 +9845,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 129: 3008大立光 永豐
+## Document 127: 3008大立光 永豐
 
 Source PDF: all report pdf/3008大立光 永豐.pdf
 Report source: line報告備份
@@ -10208,7 +10208,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 9
 
 ---
-## Document 134: 3293鈊象 元大
+## Document 132: 3293鈊象 元大
 
 Source PDF: all report pdf/3293鈊象 元大.pdf
 Report source: line報告備份
@@ -10899,7 +10899,7 @@ ESG 總分 16.2
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 141: 5388中磊 康和
+## Document 138: 5388中磊 康和
 
 Source PDF: all report pdf/5388中磊 康和.pdf
 Report source: line報告備份
@@ -11202,7 +11202,7 @@ EPS以股本304.3百萬股計算
 投 資 結 果 自 行 負 責 。
 
 ---
-## Document 148: 6414樺漢 永豐
+## Document 145: 6414樺漢 永豐
 
 Source PDF: all report pdf/6414樺漢 永豐.pdf
 Report source: line報告備份
@@ -11540,7 +11540,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 8
 
 ---
-## Document 151: 6488環球晶 兆豐
+## Document 148: 6488環球晶 兆豐
 
 Source PDF: all report pdf/6488環球晶 兆豐.pdf
 Report source: line報告備份
@@ -11995,7 +11995,7 @@ A+A+A+A+A+
 交易所公司治理評鑑
 
 ---
-## Document 152: 6515穎崴 群益
+## Document 149: 6515穎崴 群益
 
 Source PDF: all report pdf/6515穎崴 群益.pdf
 Report source: line報告備份
@@ -12135,7 +12135,7 @@ PER= 股價 /2026 (F) EPS ； PBR= 股價 /2026 (F) 年 底 預 估 每 股 淨 
 情形。
 
 ---
-## Document 169: 7751竑騰 群益
+## Document 162: 7751竑騰 群益
 
 Source PDF: all report pdf/7751竑騰 群益.pdf
 Report source: line報告備份
@@ -12373,7 +12373,7 @@ YoY(%)
 情形。
 
 ---
-## Document 172: 9914美利達 兆豐
+## Document 165: 9914美利達 兆豐
 
 Source PDF: all report pdf/9914美利達 兆豐.pdf
 Report source: line報告備份
@@ -12895,7 +12895,7 @@ C+
 交易所公司治理評鑑
 
 ---
-## Document 211: Apple(AAPL,DG,OW_調降評等,增加持股)-CTBC260708
+## Document 204: Apple(AAPL,DG,OW_調降評等,增加持股)-CTBC260708
 
 Source PDF: all report pdf/Apple(AAPL,DG,OW_調降評等,增加持股)-CTBC260708.pdf
 Report source: line報告備份
@@ -13012,7 +13012,7 @@ PBR Band
 未評等 Not Rated (NR)
 
 ---
-## Document 278: GFHK - TSMC update
+## Document 280: GFHK - TSMC update
 
 Source PDF: all report pdf/GFHK - TSMC update.pdf
 Report source: line報告備份
@@ -13251,7 +13251,7 @@ Without the prior written consent obtained from GF Securities (Hong Kong) Broker
 reproduced or (ii) be re-disseminated.
 
 ---
-## Document 288: JPMorgan Chase(JPM,OW_增加持股)-CTBC260715
+## Document 290: JPMorgan Chase(JPM,OW_增加持股)-CTBC260715
 
 Source PDF: all report pdf/JPMorgan Chase(JPM,OW_增加持股)-CTBC260715.pdf
 Report source: line報告備份
@@ -13438,7 +13438,7 @@ PBR
 未評等 Not Rated (NR)
 
 ---
-## Document 310: Nike(NKE,OW_增加持股)-CTBC260708
+## Document 312: Nike(NKE,OW_增加持股)-CTBC260708
 
 Source PDF: all report pdf/Nike(NKE,OW_增加持股)-CTBC260708.pdf
 Report source: line報告備份
@@ -13693,7 +13693,7 @@ PER Band                                  PBR Band
 未評等 Not Rated (NR)
 
 ---
-## Document 372: 【國泰證期研究部】鋼鐵產業-歐盟新規正式上路，結構性分化持續-20260713
+## Document 377: 【國泰證期研究部】鋼鐵產業-歐盟新規正式上路，結構性分化持續-20260713
 
 Source PDF: all report pdf/【國泰證期研究部】鋼鐵產業-歐盟新規正式上路，結構性分化持續-20260713.pdf
 Report source: line報告備份
@@ -13885,7 +13885,7 @@ ESG 減碳剛性需求，為公司構築了難以取代的長期護城河與雙�
 投資評等定義
 
 ---
-## Document 454: 中磊(5388,B_買進)-CTBC260715
+## Document 457: 中磊(5388,B_買進)-CTBC260715
 
 Source PDF: all report pdf/中磊(5388,B_買進)-CTBC260715.pdf
 Report source: line報告備份
@@ -14170,7 +14170,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 483: 凱基投顧_2408 南亞科_沈漢軒_20260708
+## Document 486: 凱基投顧_2408 南亞科_沈漢軒_20260708
 
 Source PDF: all report pdf/凱基投顧_2408 南亞科_沈漢軒_20260708.pdf
 Report source: line報告備份
@@ -15618,7 +15618,7 @@ ESG 資訊 - 公司治理 (Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 526: 台新投顧20260715個股報告-遠雄(5522)-買進
+## Document 528: 台新投顧20260715個股報告-遠雄(5522)-買進
 
 Source PDF: all report pdf/台新投顧20260715個股報告-遠雄(5522)-買進.pdf
 Report source: line報告備份
@@ -15807,7 +15807,7 @@ EPS(元) 4.19 2.40 2.42 3.89 4.86 7.78 7.04 4.76 4.32 7.45
 位不為使用者之資訊決策及結果負擔任何責任。
 
 ---
-## Document 532: 合庫-8016矽創-20260709
+## Document 531: 合庫-8016矽創-20260709
 
 Source PDF: all report pdf/合庫-8016矽創-20260709.pdf
 Report source: line報告備份
@@ -16047,7 +16047,7 @@ INVESTMENT CONSULTANT
 未評等 訊息不足或有相關業務往來
 
 ---
-## Document 549: 大立光(3008,UG,B_調升,買進)-CTBC260713
+## Document 545: 大立光(3008,UG,B_調升,買進)-CTBC260713
 
 Source PDF: all report pdf/大立光(3008,UG,B_調升,買進)-CTBC260713.pdf
 Report source: line報告備份
@@ -16354,7 +16354,7 @@ ESG 資訊 ─公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 568: 富邦-2408南亞科-20260713
+## Document 563: 富邦-2408南亞科-20260713
 
 Source PDF: all report pdf/富邦-2408南亞科-20260713.pdf
 Report source: line報告備份
@@ -16800,7 +16800,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 570: 富邦-2605 新興-20260714
+## Document 565: 富邦-2605 新興-20260714
 
 Source PDF: all report pdf/富邦-2605 新興-20260714.pdf
 Report source: line報告備份
@@ -17183,7 +17183,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 571: 富邦-3035智原-20260709
+## Document 566: 富邦-3035智原-20260709
 
 Source PDF: all report pdf/富邦-3035智原-20260709.pdf
 Report source: line報告備份
@@ -17575,7 +17575,7 @@ Underweight  Sector expected to underperform the broader market indexes within t
 劣於大盤 預估該產業在未來6個月內會比大盤指數表現較差
 
 ---
-## Document 654: 福邦-2026 H2 PCB產業-20260709
+## Document 633: 福邦-2026 H2 PCB產業-20260709
 
 Source PDF: all report pdf/福邦-2026 H2 PCB產業-20260709.pdf
 Report source: line報告備份
@@ -18731,7 +18731,7 @@ Q&A
 不一致或相抵觸為由，主張本公司或本集團其他成員有侵害讀者權益之情事。
 
 ---
-## Document 655: 福邦-2317鴻海-20260715
+## Document 634: 福邦-2317鴻海-20260715
 
 Source PDF: all report pdf/福邦-2317鴻海-20260715.pdf
 Report source: line報告備份
@@ -19003,7 +19003,7 @@ G r a n d  F o r t u n e  S e c u r i t i e s                                   
 本報告係就內部參考用，純屬參考性質，並不具備任何法律效果，其正確性不做任何承諾或保證。
 
 ---
-## Document 680: 統一-1303 南亞-20260714
+## Document 658: 統一-1303 南亞-20260714
 
 Source PDF: all report pdf/統一-1303 南亞-20260714.pdf
 Report source: line報告備份
