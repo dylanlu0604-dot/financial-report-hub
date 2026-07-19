@@ -3,7 +3,7 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 006: 1477聚陽 永豐
+## Document 009: 1477聚陽 永豐
 
 Source PDF: all report pdf/1477聚陽 永豐.pdf
 Report source: line報告備份
@@ -321,7 +321,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 8
 
 ---
-## Document 013: 20260711-nmr-GlobalWafers
+## Document 016: 20260711-nmr-GlobalWafers
 
 Source PDF: all report pdf/20260711-nmr-GlobalWafers.pdf
 Report source: line報告備份
@@ -749,7 +749,7 @@ Nomura | GlobalWafers 11 July 2026
 9
 
 ---
-## Document 015: 20260714_玉山投顧_台股各產業月營收暨科技類股掃描
+## Document 018: 20260714_玉山投顧_台股各產業月營收暨科技類股掃描
 
 Source PDF: all report pdf/20260714_玉山投顧_台股各產業月營收暨科技類股掃描.pdf
 Report source: line報告備份
@@ -1305,7 +1305,7 @@ IPC/POS/ 機器人
 如引用本文，須經本公司同意。
 
 ---
-## Document 053: 2248華勝 群益
+## Document 058: 2248華勝 群益
 
 Source PDF: all report pdf/2248華勝 群益.pdf
 Report source: line報告備份
@@ -1551,7 +1551,7 @@ YoY(%)
 情形。
 
 ---
-## Document 057: 2317鴻海 永豐
+## Document 062: 2317鴻海 永豐
 
 Source PDF: all report pdf/2317鴻海 永豐.pdf
 Report source: line報告備份
@@ -1905,7 +1905,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 8
 
 ---
-## Document 066: 2472立隆電 玉山
+## Document 071: 2472立隆電 玉山
 
 Source PDF: all report pdf/2472立隆電 玉山.pdf
 Report source: line報告備份
@@ -2111,7 +2111,7 @@ thomaschang-72182@esunsec.com.tw
 未評等：無。
 
 ---
-## Document 067: 260707_citi_avc
+## Document 072: 260707_citi_avc
 
 Source PDF: all report pdf/260707_citi_avc.pdf
 Report source: line報告備份
@@ -2611,7 +2611,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 071: 260708_ms_AI-supply-chain
+## Document 076: 260708_ms_AI-supply-chain
 
 Source PDF: all report pdf/260708_ms_AI-supply-chain.pdf
 Report source: line報告備份
@@ -3761,7 +3761,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 072: 260708_ms_eink
+## Document 077: 260708_ms_eink
 
 Source PDF: all report pdf/260708_ms_eink.pdf
 Report source: line報告備份
@@ -4271,7 +4271,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 078: 260709_gs_kingslide
+## Document 083: 260709_gs_kingslide
 
 Source PDF: all report pdf/260709_gs_kingslide.pdf
 Report source: line報告備份
@@ -4959,7 +4959,7 @@ Goldman Sachs King Slide (2059.TW)For the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 094: 260713_ms_TSMC-US-feedback
+## Document 099: 260713_ms_TSMC-US-feedback
 
 Source PDF: all report pdf/260713_ms_TSMC-US-feedback.pdf
 Report source: line報告備份
@@ -6338,7 +6338,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 100: 260714_ms_mthly-databook-NB
+## Document 105: 260714_ms_mthly-databook-NB
 
 Source PDF: all report pdf/260714_ms_mthly-databook-NB.pdf
 Report source: line報告備份
@@ -6816,7 +6816,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 106: 260715_ubs_delta
+## Document 111: 260715_ubs_delta
 
 Source PDF: all report pdf/260715_ubs_delta.pdf
 Report source: line報告備份
@@ -8533,7 +8533,7 @@ constitute, advice within the meaning of the Municipal Advisor Rule.  For inform
 ab
 
 ---
-## Document 111: 260716_gs_umt
+## Document 116: 260716_gs_umt
 
 Source PDF: all report pdf/260716_gs_umt.pdf
 Report source: line報告備份
@@ -8796,7 +8796,7 @@ Goldman Sachs UMT (3491.TWO)For the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 112: 260716_mq_TSMC
+## Document 117: 260716_mq_TSMC
 
 Source PDF: all report pdf/260716_mq_TSMC.pdf
 Report source: line報告備份
@@ -9457,7 +9457,7 @@ Investments in securities market are subject to market risks. Read all the relat
 This publication was disseminated on 16 July 2026 at 10:05 UTC
 
 ---
-## Document 121: 3008大立光 合庫
+## Document 126: 3008大立光 合庫
 
 Source PDF: all report pdf/3008大立光 合庫.pdf
 Report source: line報告備份
@@ -9681,7 +9681,7 @@ INVESTMENT CONSULTANT
 未評等 訊息不足或有相關業務往來
 
 ---
-## Document 130: 3551 世禾丨中信丨20260715
+## Document 135: 3551 世禾丨中信丨20260715
 
 Source PDF: all report pdf/3551 世禾丨中信丨20260715.pdf
 Report source: line報告備份
@@ -9983,7 +9983,7 @@ ESG 資訊 - 公司治理 (Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 131: 4807日成 宏遠
+## Document 136: 4807日成 宏遠
 
 Source PDF: all report pdf/4807日成 宏遠.pdf
 Report source: line報告備份
@@ -10509,7 +10509,7 @@ DD
 2024 2025 2026
 
 ---
-## Document 138: 5434崇越 永豐
+## Document 143: 5434崇越 永豐
 
 Source PDF: all report pdf/5434崇越 永豐.pdf
 Report source: line報告備份
@@ -10831,7 +10831,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 8
 
 ---
-## Document 139: 6213聯茂 富邦
+## Document 144: 6213聯茂 富邦
 
 Source PDF: all report pdf/6213聯茂 富邦.pdf
 Report source: line報告備份
@@ -11225,7 +11225,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 140: 622475524597613072_Asia_Technology_ABF_price_hikes_to_outpace_our
+## Document 145: 622475524597613072_Asia_Technology_ABF_price_hikes_to_outpace_our
 
 Source PDF: all report pdf/622475524597613072_Asia_Technology_ABF_price_hikes_to_outpace_our.pdf
 Report source: line報告備份
@@ -12201,7 +12201,7 @@ Goldman Sachs Asia Technology
 0e9a8f9023044ccc8559dea9c0453f9d
 
 ---
-## Document 148: 6770力積電 宏遠
+## Document 153: 6770力積電 宏遠
 
 Source PDF: all report pdf/6770力積電 宏遠.pdf
 Report source: line報告備份
@@ -12684,7 +12684,7 @@ AA
 2024 2025 2026
 
 ---
-## Document 268: Johnson_Johnson(JNJ,OW_增加持股)-CTBC260716
+## Document 286: Johnson_Johnson(JNJ,OW_增加持股)-CTBC260716
 
 Source PDF: all report pdf/Johnson_Johnson(JNJ,OW_增加持股)-CTBC260716.pdf
 Report source: line報告備份
@@ -12854,7 +12854,7 @@ PER Band                                  PBR Band
 未評等 Not Rated (NR)
 
 ---
-## Document 352: 【國泰證期研究部】晶心科(6533 TT)-買進(+23.5%)-CSP客戶貢獻啟動，AI仍為主基調-20260714
+## Document 378: 【國泰證期研究部】晶心科(6533 TT)-買進(+23.5%)-CSP客戶貢獻啟動，AI仍為主基調-20260714
 
 Source PDF: all report pdf/【國泰證期研究部】晶心科(6533 TT)-買進(+23.5%)-CSP客戶貢獻啟動，AI仍為主基調-20260714.pdf
 Report source: line報告備份
@@ -13170,7 +13170,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 435: 中砂(1560,B_買進)-CTBC260709
+## Document 463: 中砂(1560,B_買進)-CTBC260709
 
 Source PDF: all report pdf/中砂(1560,B_買進)-CTBC260709.pdf
 Report source: line報告備份
@@ -13434,7 +13434,7 @@ ESG 資訊 - 公司治理 (Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 455: 元大-3008大立光-20260713
+## Document 483: 元大-3008大立光-20260713
 
 Source PDF: all report pdf/元大-3008大立光-20260713.pdf
 Report source: line報告備份
@@ -13641,7 +13641,7 @@ EC 將光纖對準晶片的側邊進行水平光線傳遞，不需要 Micro Lens
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 466: 凱基投顧_2467 志聖_潘俊宏_20260714
+## Document 495: 凱基投顧_2467 志聖_潘俊宏_20260714
 
 Source PDF: all report pdf/凱基投顧_2467 志聖_潘俊宏_20260714.pdf
 Report source: line報告備份
@@ -14175,7 +14175,7 @@ Jul-25 Aug-25 Sep-25 Oct-25 Nov-25 Dec-25 Jan-26 Feb-26 Mar-26 Apr-26 May-26 Jun
 資料來源：TEJ，凱基
 
 ---
-## Document 468: 凱基投顧_8210 勤誠_余昀澄_20260713
+## Document 497: 凱基投顧_8210 勤誠_余昀澄_20260713
 
 Source PDF: all report pdf/凱基投顧_8210 勤誠_余昀澄_20260713.pdf
 Report source: line報告備份
@@ -14752,7 +14752,7 @@ Jul-25 Sep-25 Nov-25 Jan-26 Mar-26 May-26
 資料來源：TEJ，凱基
 
 ---
-## Document 470: 凱基投顧_GOOGL Alphabet_鄭傑懋_20260716
+## Document 499: 凱基投顧_GOOGL Alphabet_鄭傑懋_20260716
 
 Source PDF: all report pdf/凱基投顧_GOOGL Alphabet_鄭傑懋_20260716.pdf
 Report source: line報告備份
@@ -15367,7 +15367,7 @@ Jan-23 Apr-23 Jul -23 Oct-2 3 Jan-24 Apr-24 Jul -24 Oct-2 4 Jan-25 Apr-25 Jul -2
 電話 62 21 250 6337
 
 ---
-## Document 472: 凱基投顧_META Meta_鄭傑懋_20260716
+## Document 501: 凱基投顧_META Meta_鄭傑懋_20260716
 
 Source PDF: all report pdf/凱基投顧_META Meta_鄭傑懋_20260716.pdf
 Report source: line報告備份
@@ -15980,7 +15980,7 @@ Jan-23 Apr-23 Jul -23 Oct-2 3 Jan-24 Apr-24 Jul -24 Oct-2 4 Jan-25 Apr-25 Jul -2
 電話 62 21 250 6337
 
 ---
-## Document 477: 凱基投顧_Takeaway_2002 中鋼_劉昃恩_20260714
+## Document 506: 凱基投顧_Takeaway_2002 中鋼_劉昃恩_20260714
 
 Source PDF: all report pdf/凱基投顧_Takeaway_2002 中鋼_劉昃恩_20260714.pdf
 Report source: line報告備份
@@ -16079,7 +16079,7 @@ eden.chang@kgi.com
 七月 14, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R   3
 
 ---
-## Document 483: 凱基投顧_金融產業_施志鴻_20260715
+## Document 512: 凱基投顧_金融產業_施志鴻_20260715
 
 Source PDF: all report pdf/凱基投顧_金融產業_施志鴻_20260715.pdf
 Report source: line報告備份
@@ -16750,7 +16750,7 @@ May-00 May-04 May-08 May-12 May-16 May-20 May-24
 免責聲明
 
 ---
-## Document 505: 台新-5522 遠雄-20260715
+## Document 536: 台新-5522 遠雄-20260715
 
 Source PDF: all report pdf/台新-5522 遠雄-20260715.pdf
 Report source: line報告備份
@@ -16939,7 +16939,7 @@ EPS(元) 4.19 2.40 2.42 3.89 4.86 7.78 7.04 4.76 4.32 7.45
 位不為使用者之資訊決策及結果負擔任何責任。
 
 ---
-## Document 546: 富邦-3491昇達科-20260709
+## Document 581: 富邦-3491昇達科-20260709
 
 Source PDF: all report pdf/富邦-3491昇達科-20260709.pdf
 Report source: line報告備份
@@ -17323,7 +17323,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 549: 富邦-6285啟碁-20260709
+## Document 584: 富邦-6285啟碁-20260709
 
 Source PDF: all report pdf/富邦-6285啟碁-20260709.pdf
 Report source: line報告備份
@@ -17705,7 +17705,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 630: 統一-3008 大立光-20260714
+## Document 665: 統一-3008 大立光-20260714
 
 Source PDF: all report pdf/統一-3008 大立光-20260714.pdf
 Report source: line報告備份
@@ -18173,7 +18173,7 @@ EBITDA 23,229 30,262 31,290 35,483   EBITDA 47.6 50.9 51.2 52.0
 請參見末頁重要披露及免責聲明 12
 
 ---
-## Document 661: 華南-8341 日友-20260715
+## Document 697: 華南-8341 日友-20260715
 
 Source PDF: all report pdf/華南-8341 日友-20260715.pdf
 Report source: line報告備份
@@ -18542,7 +18542,7 @@ YOY 13.4 22.2 -2.4 -0.8
 個股投資建議與目標價三年歷史趨勢：
 
 ---
-## Document 662: 華南投顧-2303-聯電-1150714
+## Document 698: 華南投顧-2303-聯電-1150714
 
 Source PDF: all report pdf/華南投顧-2303-聯電-1150714.pdf
 Report source: line報告備份
@@ -18898,7 +18898,7 @@ YOY 5.5 17.0 13.3 12.8
 個股投資建議與目標價三年歷史趨勢：
 
 ---
-## Document 667: 華南投顧-6770-力積電-1150713
+## Document 703: 華南投顧-6770-力積電-1150713
 
 Source PDF: all report pdf/華南投顧-6770-力積電-1150713.pdf
 Report source: line報告備份
