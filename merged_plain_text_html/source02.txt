@@ -3,7 +3,7 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 333: Triển vọng TTCK 2H2026 (2026-07-07)
+## Document 369: Triển vọng TTCK 2H2026 (2026-07-07)
 
 Source PDF: all report pdf/Triển vọng TTCK 2H2026 (2026-07-07).pdf
 Report source: KBSV (Strategy)
