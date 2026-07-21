@@ -3,7 +3,7 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 021: 202607福邦 PCB
+## Document 022: 202607福邦 PCB
 
 Source PDF: all report pdf/202607福邦 PCB.pdf
 Report source: line報告備份
@@ -1204,7 +1204,7 @@ Q&A
 不一致或相抵觸為由，主張本公司或本集團其他成員有侵害讀者權益之情事。
 
 ---
-## Document 057: 2327國巨 永豐
+## Document 056: 2327國巨 永豐
 
 Source PDF: all report pdf/2327國巨 永豐.pdf
 Report source: line報告備份
@@ -1542,7 +1542,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 8
 
 ---
-## Document 059: 2330台積電 宏遠
+## Document 058: 2330台積電 宏遠
 
 Source PDF: all report pdf/2330台積電 宏遠.pdf
 Report source: line報告備份
@@ -2092,7 +2092,7 @@ A+A+A+A+A+
 2024 2025 2026
 
 ---
-## Document 060: 2330台積電 永豐
+## Document 059: 2330台積電 永豐
 
 Source PDF: all report pdf/2330台積電 永豐.pdf
 Report source: line報告備份
@@ -2494,11 +2494,11 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 9
 
 ---
-## Document 061: 2330台積電 第一金
+## Document 060: 2330台積電 第一金
 
 Source PDF: all report pdf/2330台積電 第一金.pdf
 Report source: line報告備份
-Date: 2026-07-21
+Date: 2026-07-20
 Pages: 8
 Extraction status: ok
 
@@ -2762,7 +2762,7 @@ YoY(%)
 存貨週轉天數(天) 81.44 86.14 76.38 67.86
 
 ---
-## Document 068: 2408南亞科 國票
+## Document 067: 2408南亞科 國票
 
 Source PDF: all report pdf/2408南亞科 國票.pdf
 Report source: line報告備份
@@ -3217,7 +3217,7 @@ $800
 • 國票可能與該公司進行業務而處於緘默期
 
 ---
-## Document 069: 2408南亞科 統一
+## Document 068: 2408南亞科 統一
 
 Source PDF: all report pdf/2408南亞科 統一.pdf
 Report source: line報告備份
@@ -3439,7 +3439,7 @@ ainReport/data/FileStream?id=fdc5db44-509b-
 請參見末頁重要批露及免責聲明  6
 
 ---
-## Document 084: 260710_daiwa_MTK
+## Document 074: 260710_daiwa_MTK
 
 Source PDF: all report pdf/260710_daiwa_MTK.pdf
 Report source: line報告備份
@@ -3717,7 +3717,7 @@ regarding the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 093: 260713_gs_largan
+## Document 083: 260713_gs_largan
 
 Source PDF: all report pdf/260713_gs_largan.pdf
 Report source: line報告備份
@@ -4220,7 +4220,7 @@ Goldman Sachs Largan (3008.TW)For the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 096: 260713_ms_TSMC
+## Document 086: 260713_ms_TSMC
 
 Source PDF: all report pdf/260713_ms_TSMC.pdf
 Report source: line報告備份
@@ -4755,7 +4755,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 102: 260714_nmr_kinik
+## Document 092: 260714_nmr_kinik
 
 Source PDF: all report pdf/260714_nmr_kinik.pdf
 Report source: line報告備份
@@ -5166,7 +5166,7 @@ Nomura | Kinik Company 14 July 2026
 9
 
 ---
-## Document 115: 260716_ms_TSMC
+## Document 105: 260716_ms_TSMC
 
 Source PDF: all report pdf/260716_ms_TSMC.pdf
 Report source: line報告備份
@@ -5647,7 +5647,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 121: 260717_ubs_advantech
+## Document 111: 260717_ubs_advantech
 
 Source PDF: all report pdf/260717_ubs_advantech.pdf
 Report source: line報告備份
@@ -6876,7 +6876,7 @@ constitute, advice within the meaning of the Municipal Advisor Rule.  For inform
 ab
 
 ---
-## Document 122: 260717_ubs_wistron
+## Document 112: 260717_ubs_wistron
 
 Source PDF: all report pdf/260717_ubs_wistron.pdf
 Report source: line報告備份
@@ -8265,11 +8265,11 @@ constitute, advice within the meaning of the Municipal Advisor Rule.  For inform
 ab
 
 ---
-## Document 131: 2762世界健身 群益
+## Document 121: 2762世界健身 群益
 
 Source PDF: all report pdf/2762世界健身 群益.pdf
 Report source: line報告備份
-Date: 2026-07-21
+Date: 2026-07-20
 Pages: 2
 Extraction status: ok
 
@@ -8375,7 +8375,7 @@ PER= 股價 /2026 (F) EPS ； PBR= 股價 /2026 (F) 年 底 預 估 每 股 淨 
 資 來 得 少 的 情 形 。
 
 ---
-## Document 135: 3008大立光 合庫
+## Document 125: 3008大立光 合庫
 
 Source PDF: all report pdf/3008大立光 合庫.pdf
 Report source: line報告備份
@@ -8599,7 +8599,7 @@ INVESTMENT CONSULTANT
 未評等 訊息不足或有相關業務往來
 
 ---
-## Document 136: 3008大立光 宏遠
+## Document 126: 3008大立光 宏遠
 
 Source PDF: all report pdf/3008大立光 宏遠.pdf
 Report source: line報告備份
@@ -9055,7 +9055,7 @@ B+B+
 2023 2024 2025
 
 ---
-## Document 153: 6213聯茂 富邦
+## Document 143: 6213聯茂 富邦
 
 Source PDF: all report pdf/6213聯茂 富邦.pdf
 Report source: line報告備份
@@ -9449,7 +9449,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 154: 622475524597613072_Asia_Technology_ABF_price_hikes_to_outpace_our
+## Document 144: 622475524597613072_Asia_Technology_ABF_price_hikes_to_outpace_our
 
 Source PDF: all report pdf/622475524597613072_Asia_Technology_ABF_price_hikes_to_outpace_our.pdf
 Report source: line報告備份
@@ -10425,7 +10425,7 @@ Goldman Sachs Asia Technology
 0e9a8f9023044ccc8559dea9c0453f9d
 
 ---
-## Document 157: 6414樺漢 永豐
+## Document 147: 6414樺漢 永豐
 
 Source PDF: all report pdf/6414樺漢 永豐.pdf
 Report source: line報告備份
@@ -10763,7 +10763,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 8
 
 ---
-## Document 160: 6515穎崴 群益
+## Document 150: 6515穎崴 群益
 
 Source PDF: all report pdf/6515穎崴 群益.pdf
 Report source: line報告備份
@@ -10903,7 +10903,7 @@ PER= 股價 /2026 (F) EPS ； PBR= 股價 /2026 (F) 年 底 預 估 每 股 淨 
 情形。
 
 ---
-## Document 162: 6613朋億 群益
+## Document 152: 6613朋億 群益
 
 Source PDF: all report pdf/6613朋億 群益.pdf
 Report source: line報告備份
@@ -11145,7 +11145,7 @@ YoY(%)
 情形。
 
 ---
-## Document 164: 6770力積電 宏遠
+## Document 154: 6770力積電 宏遠
 
 Source PDF: all report pdf/6770力積電 宏遠.pdf
 Report source: line報告備份
@@ -11628,7 +11628,7 @@ AA
 2024 2025 2026
 
 ---
-## Document 308: JPMorgan Chase(JPM,OW_增加持股)-CTBC260715
+## Document 289: JPMorgan Chase(JPM,OW_增加持股)-CTBC260715
 
 Source PDF: all report pdf/JPMorgan Chase(JPM,OW_增加持股)-CTBC260715.pdf
 Report source: line報告備份
@@ -11815,7 +11815,7 @@ PBR
 未評等 Not Rated (NR)
 
 ---
-## Document 384: 【國泰證期研究部】記憶體產業-Meta Vistara重塑資料中心記憶體架構-20260713
+## Document 362: 【國泰證期研究部】記憶體產業-Meta Vistara重塑資料中心記憶體架構-20260713
 
 Source PDF: all report pdf/【國泰證期研究部】記憶體產業-Meta Vistara重塑資料中心記憶體架構-20260713.pdf
 Report source: line報告備份
@@ -12070,7 +12070,7 @@ AI儲存最佳化與 storage offload 方案推進，有望在 CXL帶動的分層
 投資評等定義
 
 ---
-## Document 385: 【國泰證期研究部】鋼鐵產業-歐盟新規正式上路，結構性分化持續-20260713
+## Document 363: 【國泰證期研究部】鋼鐵產業-歐盟新規正式上路，結構性分化持續-20260713
 
 Source PDF: all report pdf/【國泰證期研究部】鋼鐵產業-歐盟新規正式上路，結構性分化持續-20260713.pdf
 Report source: line報告備份
@@ -12262,7 +12262,7 @@ ESG 減碳剛性需求，為公司構築了難以取代的長期護城河與雙�
 投資評等定義
 
 ---
-## Document 487: 凱基投顧_2467 志聖_潘俊宏_20260714
+## Document 461: 凱基投顧_2467 志聖_潘俊宏_20260714
 
 Source PDF: all report pdf/凱基投顧_2467 志聖_潘俊宏_20260714.pdf
 Report source: line報告備份
@@ -12796,7 +12796,7 @@ Jul-25 Aug-25 Sep-25 Oct-25 Nov-25 Dec-25 Jan-26 Feb-26 Mar-26 Apr-26 May-26 Jun
 資料來源：TEJ，凱基
 
 ---
-## Document 490: 凱基投顧_BAC Bank of America Corporation_施志鴻_20260715
+## Document 464: 凱基投顧_BAC Bank of America Corporation_施志鴻_20260715
 
 Source PDF: all report pdf/凱基投顧_BAC Bank of America Corporation_施志鴻_20260715.pdf
 Report source: line報告備份
@@ -13571,7 +13571,7 @@ Jul-23 Jan-24 Jul-24 Jan-25 Jul-25 Jan-26 Jul-26
  泰國   曼谷
 
 ---
-## Document 492: 凱基投顧_JPM PMorgan Chase _ Co. _施志鴻_20260715
+## Document 466: 凱基投顧_JPM PMorgan Chase _ Co. _施志鴻_20260715
 
 Source PDF: all report pdf/凱基投顧_JPM PMorgan Chase _ Co. _施志鴻_20260715.pdf
 Report source: line報告備份
@@ -14260,7 +14260,7 @@ Jul-23 Jan-24 Jul-24 Jan-25 Jul-25 Jan-26 Jul-26
  泰國   曼谷
 
 ---
-## Document 495: 凱基投顧_Radar Monthly_消費產業_劉昃恩_20260714
+## Document 469: 凱基投顧_Radar Monthly_消費產業_劉昃恩_20260714
 
 Source PDF: all report pdf/凱基投顧_Radar Monthly_消費產業_劉昃恩_20260714.pdf
 Report source: line報告備份
@@ -16395,7 +16395,7 @@ May-23 Sep-23 Jan-24 May-24 Sep-24 Jan-25 May-25 Sep-25 Jan-26 May-26
 免責聲明
 
 ---
-## Document 496: 凱基投顧_Radar Monthly_電子硬體產業_余昀澄_20260715
+## Document 470: 凱基投顧_Radar Monthly_電子硬體產業_余昀澄_20260715
 
 Source PDF: all report pdf/凱基投顧_Radar Monthly_電子硬體產業_余昀澄_20260715.pdf
 Report source: line報告備份
@@ -19019,7 +19019,7 @@ AI 筆電滲透 率成長至 30-35%
 免責聲明
 
 ---
-## Document 506: 凱基投顧_美股投資策略_總經策略部_20260716
+## Document 479: 凱基投顧_美股投資策略_總經策略部_20260716
 
 Source PDF: all report pdf/凱基投顧_美股投資策略_總經策略部_20260716.pdf
 Report source: line報告備份
@@ -19543,7 +19543,7 @@ X
 免責聲明
 
 ---
-## Document 511: 創新服務(7828,B_買進)-CTBC260713
+## Document 484: 創新服務(7828,B_買進)-CTBC260713
 
 Source PDF: all report pdf/創新服務(7828,B_買進)-CTBC260713.pdf
 Report source: line報告備份
@@ -19829,7 +19829,7 @@ PBR Band
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 529: 台塑(1301,OW_增加持股 )-CTBC260721
+## Document 503: 台塑(1301,OW_增加持股 )-CTBC260721
 
 Source PDF: all report pdf/台塑(1301,OW_增加持股 )-CTBC260721.pdf
 Report source: line報告備份
@@ -20197,7 +20197,7 @@ ESG 資訊 ─公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 534: 台積電(2330,B_買進)-CTBC260717
+## Document 508: 台積電(2330,B_買進)-CTBC260717
 
 Source PDF: all report pdf/台積電(2330,B_買進)-CTBC260717.pdf
 Report source: line報告備份
@@ -20534,7 +20534,7 @@ ESG 資訊 - 公司治理 (Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 550: 大立光(3008,UG,B_調升,買進)-CTBC260713
+## Document 522: 大立光(3008,UG,B_調升,買進)-CTBC260713
 
 Source PDF: all report pdf/大立光(3008,UG,B_調升,買進)-CTBC260713.pdf
 Report source: line報告備份
@@ -20841,7 +20841,7 @@ ESG 資訊 ─公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 579: 富邦-2605 新興-20260714
+## Document 547: 富邦-2605 新興-20260714
 
 Source PDF: all report pdf/富邦-2605 新興-20260714.pdf
 Report source: line報告備份
@@ -21224,7 +21224,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 683: 統一-3008 大立光-20260714
+## Document 644: 統一-3008 大立光-20260714
 
 Source PDF: all report pdf/統一-3008 大立光-20260714.pdf
 Report source: line報告備份
@@ -21692,7 +21692,7 @@ EBITDA 23,229 30,262 31,290 35,483   EBITDA 47.6 50.9 51.2 52.0
 請參見末頁重要披露及免責聲明 12
 
 ---
-## Document 714: 華南-6873 泓德能源-20260715
+## Document 676: 華南-6873 泓德能源-20260715
 
 Source PDF: all report pdf/華南-6873 泓德能源-20260715.pdf
 Report source: line報告備份
