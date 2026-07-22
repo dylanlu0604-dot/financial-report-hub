@@ -3,7 +3,7 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 021: 20260716-2330-memo
+## Document 019: 20260716-2330-memo
 
 Source PDF: all report pdf/20260716-2330-memo.pdf
 Report source: line報告備份
@@ -32,7 +32,7 @@ A. Our pkg capacity is so tight that limit customer work. B. Additional help TSM
 B. Work with substrate vender so customer can product in their market C. Pilot line 幾個月前，還需要一年才會技術成熟，才有機會生產。 16. (capex and sales) capex/ rev increasing, rev guide for next several years? A. Rev correlated to our investment. B. Next few year is good years for TSMC. C. AI related. 17. (L-T strategy) BE competition lead to FE completion? A. FE and BE are 2 df things. ASE become FE competitor? B. Since our capacity in BE is shortage more, the gap is bigger, so welcome competitor BE. 18. (high NA adoption) high NA adoption, customer die shrinking feedback? A. High NA is good tool, high performance, but TSMC work with ASML try to make is more suitable in terms of cost, maturity. 19. (3nm) demand > supply 30-50%? A. We don’t have number to sure. B. A very big gap. 20. (capacity expansion) 2nm capacity growth 60% from 2026-2028? 3nm CAGR 25%? # still the same? A. We show the chart, and now is bigger. 21. (AP side) capex allocate to AP exclude test, mask and others? A. Make sure capex is correct but some 彈性in FE and BE. B. BE is about 10-20%. 22. (capex revision) YTD台積電上修很多capex，面對的狀況和六個月前有什麼不同？ A. 最重要的原因是需求持續增加，公司產能必須跟上客戶。還有通膨，現在設備都是通膨後的價格。 23. (mature node S-D) 成熟製程現在復甦也非常強勁，也有供應問題，怎麼看供需動態？ A. Mature node cover lot segment, only in AI is shortage. (1) PMIC, all DC need PM. (2) sensor portion, to detect mental information and put into DC to analyze.  B. consumer product is not in high demand.
 
 ---
-## Document 055: 2248華勝 群益
+## Document 052: 2248華勝 群益
 
 Source PDF: all report pdf/2248華勝 群益.pdf
 Report source: line報告備份
@@ -278,7 +278,7 @@ YoY(%)
 情形。
 
 ---
-## Document 059: 2313華通 宏遠
+## Document 055: 2313華通 宏遠
 
 Source PDF: all report pdf/2313華通 宏遠.pdf
 Report source: line報告備份
@@ -621,7 +621,7 @@ Company Report
 9
 
 ---
-## Document 073: 2408南亞科 統一
+## Document 068: 2408南亞科 統一
 
 Source PDF: all report pdf/2408南亞科 統一.pdf
 Report source: line報告備份
@@ -843,7 +843,7 @@ ainReport/data/FileStream?id=fdc5db44-509b-
 請參見末頁重要批露及免責聲明  6
 
 ---
-## Document 074: 2408南亞科 群益
+## Document 069: 2408南亞科 群益
 
 Source PDF: all report pdf/2408南亞科 群益.pdf
 Report source: line報告備份
@@ -1109,7 +1109,7 @@ YoY(%)
 情形。
 
 ---
-## Document 078: 2548華固 國票
+## Document 073: 2548華固 國票
 
 Source PDF: all report pdf/2548華固 國票.pdf
 Report source: line報告備份
@@ -1562,7 +1562,7 @@ $190
 • 國票可能與該公司進行業務而處於緘默期
 
 ---
-## Document 089: 260713_ml_allring-buy-initiaiton 6187
+## Document 077: 260713_ml_allring-buy-initiaiton 6187
 
 Source PDF: all report pdf/260713_ml_allring-buy-initiaiton 6187.pdf
 Report source: line報告備份
@@ -3640,7 +3640,7 @@ All Ring | 13 July 2026    31
 32 All Ring | 13 July 2026
 
 ---
-## Document 090: 260713_ms_TSMC-US-feedback
+## Document 078: 260713_ms_TSMC-US-feedback
 
 Source PDF: all report pdf/260713_ms_TSMC-US-feedback.pdf
 Report source: line報告備份
@@ -5019,7 +5019,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 091: 260713_ms_TSMC
+## Document 079: 260713_ms_TSMC
 
 Source PDF: all report pdf/260713_ms_TSMC.pdf
 Report source: line報告備份
@@ -5554,7 +5554,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 102: 260715_ubs_delta
+## Document 090: 260715_ubs_delta
 
 Source PDF: all report pdf/260715_ubs_delta.pdf
 Report source: line報告備份
@@ -7271,7 +7271,7 @@ constitute, advice within the meaning of the Municipal Advisor Rule.  For inform
 ab
 
 ---
-## Document 109: 260716_ms_eink
+## Document 097: 260716_ms_eink
 
 Source PDF: all report pdf/260716_ms_eink.pdf
 Report source: line報告備份
@@ -7776,7 +7776,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 112: 260717_daiwa_microloop
+## Document 100: 260717_daiwa_microloop
 
 Source PDF: all report pdf/260717_daiwa_microloop.pdf
 Report source: line報告備份
@@ -7947,7 +7947,7 @@ regarding the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 113: 260717_gs_CCL
+## Document 101: 260717_gs_CCL
 
 Source PDF: all report pdf/260717_gs_CCL.pdf
 Report source: line報告備份
@@ -8646,7 +8646,7 @@ Goldman Sachs Taiwan CCLFor the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 119: 260718_gs_mitac
+## Document 107: 260718_gs_mitac
 
 Source PDF: all report pdf/260718_gs_mitac.pdf
 Report source: line報告備份
@@ -9110,7 +9110,7 @@ Goldman Sachs Mitac (3706.TW)For the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 125: 260721_daiwa_Airtac
+## Document 113: 260721_daiwa_Airtac
 
 Source PDF: all report pdf/260721_daiwa_Airtac.pdf
 Report source: line報告備份
@@ -9621,7 +9621,7 @@ the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 127: 260721_ms_shanghai-WAIC
+## Document 115: 260721_ms_shanghai-WAIC
 
 Source PDF: all report pdf/260721_ms_shanghai-WAIC.pdf
 Report source: line報告備份
@@ -10569,7 +10569,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 138: 3017奇鋐 群益
+## Document 124: 3017奇鋐 群益
 
 Source PDF: all report pdf/3017奇鋐 群益.pdf
 Report source: line報告備份
@@ -10874,7 +10874,7 @@ YoY(%)
 情形。
 
 ---
-## Document 140: 3293鈊象 元大
+## Document 125: 3293鈊象 元大
 
 Source PDF: all report pdf/3293鈊象 元大.pdf
 Report source: line報告備份
@@ -11565,7 +11565,7 @@ ESG 總分 16.2
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 144: 3605宏致 第一金
+## Document 128: 3605宏致 第一金
 
 Source PDF: all report pdf/3605宏致 第一金.pdf
 Report source: line報告備份
@@ -11807,7 +11807,7 @@ YoY(%)
 存貨週轉天數(天) 68.76 70.65 62.43 63.39
 
 ---
-## Document 154: 6239力成 群益
+## Document 137: 6239力成 群益
 
 Source PDF: all report pdf/6239力成 群益.pdf
 Report source: line報告備份
@@ -12107,7 +12107,7 @@ YoY(%)
 情形。
 
 ---
-## Document 159: 6515穎崴 群益
+## Document 141: 6515穎崴 群益
 
 Source PDF: all report pdf/6515穎崴 群益.pdf
 Report source: line報告備份
@@ -12247,7 +12247,7 @@ PER= 股價 /2026 (F) EPS ； PBR= 股價 /2026 (F) 年 底 預 估 每 股 淨 
 情形。
 
 ---
-## Document 163: 6770力積電 宏遠
+## Document 145: 6770力積電 宏遠
 
 Source PDF: all report pdf/6770力積電 宏遠.pdf
 Report source: line報告備份
@@ -12730,7 +12730,7 @@ AA
 2024 2025 2026
 
 ---
-## Document 177: 8027鈦昇 康和1
+## Document 156: 8027鈦昇 康和1
 
 Source PDF: all report pdf/8027鈦昇 康和1.pdf
 Report source: line報告備份
@@ -13141,7 +13141,7 @@ EPS以股本109.75百萬
 投 資 結 果 自 行 負 責 。
 
 ---
-## Document 180: 9938百和 宏遠
+## Document 158: 9938百和 宏遠
 
 Source PDF: all report pdf/9938百和 宏遠.pdf
 Report source: line報告備份
@@ -13755,7 +13755,7 @@ B
 2024 2025 2026
 
 ---
-## Document 382: 【國泰證期研究部】晶心科(6533 TT)-買進(+23.5%)-CSP客戶貢獻啟動，AI仍為主基調-20260714
+## Document 348: 【國泰證期研究部】晶心科(6533 TT)-買進(+23.5%)-CSP客戶貢獻啟動，AI仍為主基調-20260714
 
 Source PDF: all report pdf/【國泰證期研究部】晶心科(6533 TT)-買進(+23.5%)-CSP客戶貢獻啟動，AI仍為主基調-20260714.pdf
 Report source: line報告備份
@@ -14071,7 +14071,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 385: 【國泰證期研究部】紡織製鞋產業-營運尚待復甦，聚焦明年成長且評價低檔者-20260716
+## Document 351: 【國泰證期研究部】紡織製鞋產業-營運尚待復甦，聚焦明年成長且評價低檔者-20260716
 
 Source PDF: all report pdf/【國泰證期研究部】紡織製鞋產業-營運尚待復甦，聚焦明年成長且評價低檔者-20260716.pdf
 Report source: line報告備份
@@ -14258,7 +14258,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 386: 【國泰證期研究部】網通產業-矽光發展新階段，多元入光眾家必爭-20260722
+## Document 352: 【國泰證期研究部】網通產業-矽光發展新階段，多元入光眾家必爭-20260722
 
 Source PDF: all report pdf/【國泰證期研究部】網通產業-矽光發展新階段，多元入光眾家必爭-20260722.pdf
 Report source: line報告備份
@@ -14400,7 +14400,7 @@ Optical Transceivers)。與前面板收發器不同，光引擎(Optical Engine)�
 投資評等定義
 
 ---
-## Document 388: 【國泰證期研究部】記憶體產業-Meta Vistara重塑資料中心記憶體架構-20260713
+## Document 354: 【國泰證期研究部】記憶體產業-Meta Vistara重塑資料中心記憶體架構-20260713
 
 Source PDF: all report pdf/【國泰證期研究部】記憶體產業-Meta Vistara重塑資料中心記憶體架構-20260713.pdf
 Report source: line報告備份
@@ -14655,7 +14655,7 @@ AI儲存最佳化與 storage offload 方案推進，有望在 CXL帶動的分層
 投資評等定義
 
 ---
-## Document 463: 中磊(5388,B_買進)-CTBC260715
+## Document 427: 中磊(5388,B_買進)-CTBC260715
 
 Source PDF: all report pdf/中磊(5388,B_買進)-CTBC260715.pdf
 Report source: line報告備份
@@ -14940,7 +14940,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 481: 元大-6505 台塑化-20260720
+## Document 445: 元大-6505 台塑化-20260720
 
 Source PDF: all report pdf/元大-6505 台塑化-20260720.pdf
 Report source: line報告備份
@@ -15586,7 +15586,7 @@ ESG總分 37.1
 台灣臺北市 106仁愛路三段 157號 4樓
 
 ---
-## Document 494: 凱基投顧_BAC Bank of America Corporation_施志鴻_20260715
+## Document 457: 凱基投顧_BAC Bank of America Corporation_施志鴻_20260715
 
 Source PDF: all report pdf/凱基投顧_BAC Bank of America Corporation_施志鴻_20260715.pdf
 Report source: line報告備份
@@ -16361,7 +16361,7 @@ Jul-23 Jan-24 Jul-24 Jan-25 Jul-25 Jan-26 Jul-26
  泰國   曼谷
 
 ---
-## Document 497: 凱基投顧_JPM PMorgan Chase _ Co. _施志鴻_20260715
+## Document 460: 凱基投顧_JPM PMorgan Chase _ Co. _施志鴻_20260715
 
 Source PDF: all report pdf/凱基投顧_JPM PMorgan Chase _ Co. _施志鴻_20260715.pdf
 Report source: line報告備份
@@ -17050,7 +17050,7 @@ Jul-23 Jan-24 Jul-24 Jan-25 Jul-25 Jan-26 Jul-26
  泰國   曼谷
 
 ---
-## Document 498: 凱基投顧_META Meta_鄭傑懋_20260716
+## Document 461: 凱基投顧_META Meta_鄭傑懋_20260716
 
 Source PDF: all report pdf/凱基投顧_META Meta_鄭傑懋_20260716.pdf
 Report source: line報告備份
@@ -17663,7 +17663,7 @@ Jan-23 Apr-23 Jul -23 Oct-2 3 Jan-24 Apr-24 Jul -24 Oct-2 4 Jan-25 Apr-25 Jul -2
 電話 62 21 250 6337
 
 ---
-## Document 505: 凱基投顧_Takeaway_2328 廣宇_張燾 _20260714
+## Document 468: 凱基投顧_Takeaway_2328 廣宇_張燾 _20260714
 
 Source PDF: all report pdf/凱基投顧_Takeaway_2328 廣宇_張燾 _20260714.pdf
 Report source: line報告備份
@@ -17751,7 +17751,7 @@ AI 資料中心業務
 七月 14, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 3
 
 ---
-## Document 536: 台塑(1301,OW_增加持股 )-CTBC260721
+## Document 497: 台塑(1301,OW_增加持股 )-CTBC260721
 
 Source PDF: all report pdf/台塑(1301,OW_增加持股 )-CTBC260721.pdf
 Report source: line報告備份
@@ -18119,7 +18119,7 @@ ESG 資訊 ─公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 539: 台新-6177 達麗-20260720
+## Document 500: 台新-6177 達麗-20260720
 
 Source PDF: all report pdf/台新-6177 達麗-20260720.pdf
 Report source: line報告備份
@@ -18308,7 +18308,7 @@ EPS(元) 1.79 5.17 0.19 3.26 0.49 4.03 2.94 4.83 4.76 3.84
 位不為使用者之資訊決策及結果負擔任何責任。
 
 ---
-## Document 596: 巧新(1563,Note)-CTBC260722
+## Document 549: 巧新(1563,Note)-CTBC260722
 
 Source PDF: all report pdf/巧新(1563,Note)-CTBC260722.pdf
 Report source: line報告備份
@@ -18498,7 +18498,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 691: 統一-3008 大立光-20260714
+## Document 647: 統一-3008 大立光-20260714
 
 Source PDF: all report pdf/統一-3008 大立光-20260714.pdf
 Report source: line報告備份
@@ -18966,7 +18966,7 @@ EBITDA 23,229 30,262 31,290 35,483   EBITDA 47.6 50.9 51.2 52.0
 請參見末頁重要披露及免責聲明 12
 
 ---
-## Document 719: 華南-2404 漢唐-20260715
+## Document 681: 華南-2404 漢唐-20260715
 
 Source PDF: all report pdf/華南-2404 漢唐-20260715.pdf
 Report source: line報告備份
@@ -19276,7 +19276,7 @@ YOY 76.2 76.3 49.1 53.6
 個股投資建議與目標價三年歷史趨勢：
 
 ---
-## Document 751: 閎康(3587,B_買進)-CTBC260714
+## Document 716: 閎康(3587,B_買進)-CTBC260714
 
 Source PDF: all report pdf/閎康(3587,B_買進)-CTBC260714.pdf
 Report source: line報告備份
