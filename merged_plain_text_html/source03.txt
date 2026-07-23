@@ -3,422 +3,131 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 160: 6月进出口数据解读：6月进出口同比增速继续提高
+## Document 021: 20260720_投資週報_半導體估值修正，無礙AI長多格局
 
-Source PDF: all report pdf/6月进出口数据解读：6月进出口同比增速继续提高.pdf
-Report source: Unknown
-Date: 未知日期
-Pages: 6
+Source PDF: all report pdf/20260720_投資週報_半導體估值修正，無礙AI長多格局.pdf
+Report source: Yuanta (投資週報)
+Date: 2026-07-20
+Pages: 1
 Extraction status: ok
 
 ### Page 1
 
-市场研究部 2026年7月14日
-事件
-海关总署 7月 14日发布，上半年，我国出口 21253.6亿美元，
-同比增长 17.6%；进口 15493.8 亿美元，同比增长 26.6%；贸易
-顺差 5759.8亿美元。
-解读
-一、上半年出口保持较高增长，6月同比增速比5月继续提高
-上半年出口 21254 亿美元，同比增长 17.6%，比 1-5 月提高
-2.1个百分点，比去年同期提高 11.7个百分点。
-以人民币计价，上半年出口 14.73万亿元，同比增长 13.4%，
-比 1-5月提高 1.6个百分点，比去年同期提高 6.3个百分点。
-6 月，出口 4123.9 亿美元，创单月出口历史新高，同比增长
-27.0%，比 5 月提高 7.6 个百分点，比去年 6 月提高 21.3 个百分
-点，连续 3个月增速明显提高。
-以人民币计价，6月出口 2.82万亿元，创单月出口历史新高，
-同比增长 20.8%，比 5 月提高 7.0 个百分点，比去年 6 月提高
-13.8个百分点，连续 3个月增速明显提高。
+任何擔保，如有錯漏或疏忽，本行及本行之任何董事或受僱人，毋須負任何法律責任。任何人因信賴此等資料而做出或改變投資決策，應審慎衡量本
+身之需求及投資風險，自行承擔一切投資風險並自負盈虧，本行不負任何法律責任。本報告受中華民國著作權法保護為元大銀行所有，非經本行同
+意，不得將本報告內容之一部或全部加以複製、轉載或散布。本報告所載述的意見本行可隨時予以更改或撤回，恕不另行通知。
+金融市場投資週報                 2026 年 7 月 20 日
+上週重點訊息
+◼ 美國通膨降溫但 Fed 仍偏謹慎，科技股估值壓力升溫：美國 6 月 CPI 月減 0.4%，核心 CPI 月
+增持平，PPI 亦月減 0.3%，顯示能源價格回落帶動短期通膨壓力降溫；惟Fed7 月貨幣政策報
+告仍指出通膨高於 2%目標，市場對降息時點仍偏保守。另一方面，消費與就業仍具韌性，在
+利率預期未明、AI 資本支出升高與半導體股漲多背景下，美股科技股上周出現獲利了結。
+◼ 台積電法說優於預期，但短線利多鈍化：台積電第二季營收達新台幣 1.27 兆元、年增 36%，
 
-二、上半年对主要经济体出口 20%以上高增长，增速比去年
-同期大幅提高，对美出口同比转为增长。
-上半年，以美元计价，对东盟出口同比增长 22.9%，比 1-5月
-提高 2.6 个百分点，比去年同期提高 9.9 个百分点；其中，6月对
-东盟出口同比增长 34.5%，比 5月提高 10.2个百分点。
-上半年，对日本出口同比增长 7.1%，与 1-5 月持平，比去年
-同期提高 2.3个百分点；其中，6月对日本出口同比增长 6.9%，比
-5月回落 4.1个百分点。
-上半年，对中国香港出口同比增长 48.1%，比 1-5 月提高 2.6
-个百分点，比去年同期提高 37.3个百分点；其中，6月对香港出口
-同比增长 58.0%，比 5月回落 5.1个百分点。
-上半年，对中国台湾出口同比增长 32.9%，比 1-5 月提高 2.3
-个百分点，比去年同期提高 24.4个百分点；其中，6月对台湾出口
-同比增长 43.7%，比 5月提高 11.6个百分点。
-宏观研究
-6月进出口同比增速继续提高
-——6月进出口数据解读
+淨利新台幣 7,065.6 億元、年增 77.4%，連續第五季創獲利新高，公司同步上修全年資本支出
+至 600 億至 640 億美元，顯示先進封裝與擴產仍為中長期投資主軸。然高資本支出也使市場
+重新評估 AI 供應鏈投資回收、折舊壓力與產能消化速度，法說後全球半導體族群出現賣壓。
+◼ 中國 Q2 經濟成長放緩，下半年待政策刺激：中國第二季 GDP 年增 4.3%，較第一季 5.0%明
+顯放緩，為逾三年來最弱表現；雖然 6 月工業生產年增 5.3%，顯示製造與出口仍具支撐，但
+上半年固定資產投資下滑 5.7%，凸顯內需與投資信心仍未明顯修復。市場關注 7 月底政治局
+會議是否釋出進一步財政、消費或房市支持政策。
+市場展望與操作策略
+◼ 美股短線聚焦財報表現：美股第二季財報季登場，已公布金融股業績普遍優於預期。然市場開
+始質疑 AI 投資何時轉化為可見回報， 反而帶動科技股短線獲利了結 ， 然而長線展望依舊正面 。，
+建議持續關注與 AI 供應鏈連動度較高的台灣及日本股市。
+◼ 台股基本面仍無虞 ， 靜待籌碼沉澱：AI 資本支出續增之結構性趨勢未變 ， 惟近期美股面臨升息
 
-市场表现截至 2026.6.30
-资料来源：Wind，国新证券整理。
-分析师：郝大明
-登记编码：S1490514010002
-邮箱：haodaming@crsec.com.cn
-证券研究报告
-
-### Page 2
-
-上半年，对韩国出口同比增长 31.0%，比 1-5 月提高 2.5个百
-分点，比去年同期提高 33.0个百分点；其中，6月对韩国出口同比
-增长 42.6%，比 5月提高 0.4个百分点。
-上半年，对印度出口同比增长 21.8%，比 1-5 月提高 3.7个百
-分点，比去年同期提高 7.7 个百分点。其中，6月对印度出口同比
-增长 39.4%，比 5月提高 20.8个百分点。
-上半年，对美国出口同比增长 0.2%，转为增长，比 1-5 月提
-高 2.9 个百分点，比去年同期提高 11.1 个百分点；其中 6 月，对
-美国出口同比增长 13.9%，比 5月回落 21.5个百分点。
-对欧盟出口同比增长 16.8%，比 1-5 月提高 0.4个百分点，比
-去年同期提高 10.2 个百分点；其中 6 月同比增长 18.5%，比 5 月
-提高 10.9个百分点。
-上半年，对俄罗斯出口同比增长 28.4%，比 1-5月提高 2.0个
-百分点，比去年同期提高 36.8 个百分点；其中 6 月同比增长
-38.0%，比 5月提高 2.2个百分点。
-
-上半年，对巴西出口同比增长 23.1%，比 1-5 月提高 1.3个百
-分点，比去年同期提高 26.3个百分点；其中 6月同比增长 28.9%，
-比 5月提高 15.3个百分点。
-对澳大利亚出口同比增长 22.3%，比 1-5月提高 1.6个百分点，
-比去年同期提高 22.0 个百分点；其中 6 月同比增长 29.8%，比 5
-月提高 6.2个百分点。
-三、6 月机电产品和高新技术产品出口同比高增长，比去年同
-期大幅提高，集成电路、汽车、自动数据处理设备及其零部件出口
-保持高增长。
-上半年，机电产品出口同比增长 24.5%，比 1-5月提高 2.1个
-百分点，比去年同期提高 16.3 个百分点，其中，6 月同比增长
-34.2%，比 5月提高 4.8个百分点。
-上半年，高新技术产品出口同比增长 38.5%，比 1-5 月提高
-4.1个百分点，比去年同期提高 32.1 个百分点，其中，6 月，同比
-增长52.2%，比 5月提高 1.3个百分点。
-上半年，通用机械设备出口同比增长 5.8%，比 1-5月提高 1.9
-
-个百分点，比去年同期回落 1.2个百分点；
-上半年，集成电路出口比增长 96.1%，比 1-5 月提高 6.1个百
-分点，比去年同期提高 77.2 个百分点；其中，6 月，同比增长
-121.9%，比5 月提高11.0个百分点。
-上半年，自动数据处理设备及其零部件同比增长 41.3%，比
-1-5月提高 2.6个百分点，比去年同期提高 39.5个百分点；其中，
-6月，同比增长53.1%，比 5月回落 13.0个百分点。
-
-### Page 3
-
-上半年，汽车出口同比增长 53.9%，比 1-5月提高 3.5 个百分
-点，比去年同期提高 45.7 个百分点；其中，6 月，同比增长
-69.6%，比 5月提高 30.3个百分点。
-上半年，船舶出口同比增长 29.4%，比 1-5月提高 2.9 个百分
-点，比去年同期提高 10.8个百分点；
-上半年，家电产品出口同比增长 6.1%，比 1-5 月提高 1.8 个
-百分点，比去年同期提高 5.9个百分点；
-上半年，液晶平板显示模组同比增长 7.2%，比 1-5月提高 0.5
-个百分点，比去年同期回落 2.1个百分点；
-上半年，音视频设备及其零件出口同比增长 13.1%，比 1-5月
-回落 0.2个百分点，比去年同期提高 7.7个百分点。
-上半年，医疗仪器及器械出口同比增长 14.1%，比 1-5月提高
-0.7个百分点，比去年同期提高 8.2个百分点。
-四、上半年 8 大类轻工产品出口同比 3 增 5 降，同比增速比
-去年同期4 高4低。
-上半年，塑料制品同比增长 10.3%，比 1-5月提高 1.6 个百分
-
-点，比去年同期提高 11.6个百分点；
-上半年，箱包及类似容器同比下降 3.1%，降幅 1-5月收窄 1.1
-个百分点，比去年同期提高 8.1个百分点；
-上半年，纺织品同比增长 3.5%，比 1-5月提高 1.8个百分点，
-比去年同期同比提高 1.7个百分点；
-上半年，服装及衣着附件出口同比下降 0.7%，降幅比 1-5 月
-收窄 0.9个百分点，降幅比去年同期扩大 0.5百分点；
-上半年，鞋靴同比下降 8.6%，降幅比 1-5 月收窄 1.7 个百分
-点，降幅比去年同期扩大 1.4个百分点；
-上半年，陶瓷产品出口同比下降 26.0%，降幅比 1-5 月扩大
-5.6个百分点，比去年同期扩大 24.9个百分点；
-上半年，家具同比增长 2.6%，比 1-5 月提高 1.3 个百分点，
-比去年同期提高 9.4个百分点；
-上半年，玩具出口同比下降 11.3%，降幅比 1-5 月收窄 1.3 个
-百分点，降幅比去年同期扩大 9.2个百分点。
-上半年稀土和铝材出口同比较高增长。
-上半年稀土出口同比增长 61.1%，比 1-5 月提高 16.2 个百分
-
-点，比去年同期提高 89.4个百分点；
-肥料出口同比下降 2.7%，比 1-5月回落 26.1个百分点，比去
-年同期回落 28.6个百分点;
-铝材出口同比增长 33.2%，比 1-5月提高 8.6个百分点，比去
-年同期提高 36.4个百分点。
-
-### Page 4
-
-钢材出口同比下降 5.4%，降幅比 1-5 月收窄 3.0 个百分点，
-降幅比去年同期扩大 3.4个百分点;
-成品油出口同比增长 14.5%，比 1-5 月提高 3.6个百分点，比
-去年同期提高 34.5个百分点。
-五、上半年进口高增长，6月进口同比增速比5月明显提高。
-上半年进口 15493.8亿美元，同比增长 26.6%，比 1-5月提高
-2.1个百分点，比去年同期提高 30.4百分点。
-以人民币计价，上半年进口 10.74万亿元，同比增长 22.1%，
-比 1-5月提高 1.6个百分点，比去年同期提高 24.7个百分点。
-6月，进口 2867.6亿美元，同比增长 36.0%，比 5月提高 7.6
-个百分点，比去年 6月提高 21.3个百分点。
-以人民币计价，6月进口 19616.2亿元，同比增长 29.4%，比
-5月提高 7.9个百分点，比去年同期提高 26.9个百分点。
-六、6月机电产品和高新技术产品进口高增长50%左右，且增
-速比5月大幅提高，比去年同期高30个百分点左右。
-上半年，机电产品进口同比增长 32.8%，比 1-5月提高 3.3个
-
-百分点，比去年同期提高 27.7个百分点，其中，6月进口同比增长
-47.5%，比 5月提高 9.3个百分点。
-上半年，高新技术产品进口同比增长 39.6%，比 1-5 月提高
-4.0个百分点，比去年同期提高 29.8个百分点。其中，6月进口同
-比增长 57.8%，比 5月提高 11.0个百分点。
-剔除高新技术产品，上半年进口 10186 亿美元，同比增长
-20.7%，比去年同期提高 29.4个百分点。
-上半年，集成电路进口同比增长55.8%，比 1-5月提高 3.7个
-百分点，比去年同期提高 48.8个百分点，其中，6月进口同比增长
-72.3%，比 5月提高 4.3个百分点。
-上半年，自动数据处理设备及其零部件进口同比增长78.9%，
-比 1-5月提高 13.8 个百分点，比去年同期提高 23.7 个百分点。液
-晶平板显示模组进口同比-4.0%，降幅比 1-5月收窄 0.3个百分点，
-降幅比去年同期收窄 11.4 个百分点。医疗仪器及器械进口同比-
-4.2%，降幅比 1-5月扩大 0.7个百分点，比去年同期扩大 0.8个百
-
-分点。
-上半年，汽车（包括底盘）进口同比下降 18.5%，降幅比 1-5
-月收窄 0.8 个百分点，降幅比去年同期收窄 19.4 个百分点，汽车
-零部件进口进口同比-3.1%，比 1-5 月回落 4.1 个百分点，比去年
-同期提高 20.3个百分点。
-上半年，原油进口同比增长 1.8%，比 1-5 月回落 1.7 个百分
-点，比去年同期提高 13.8 个百分点，原油进口数量同比下降
-11.4%，降幅比 1-5 月扩大 6.5 个百分点，原油进口均价同比上涨
-
-### Page 5
-
-9.1%，比 1-5月高 9.8 个百分点。其中，6月，原油进口同比增长
-15.3%，比 5月提高 2.1个百分点，原油进口数量同比下降 29.0%，
-降幅比 5月扩大 9.0个百分点，原油进口均价同比上涨 57.7%，比
-5月回落 4.7个百分点。
-上半年，食用植物油进口同比增长 15.0%，比 1-5 月回落 9.2
-个，比去年同期提高 3.0个百分点，铁矿砂进口同比增长 11.4%，
-比 1-5 月提高 2.0 个百分点，比去年同期提高 30.5 个百分点，铜
-矿砂及其精矿进口同比增长36.8%，比 1-5月提高 0.1个百分点，
-比去年同期提高 22.6个百分点，成品油进口同比增长 0.3%，比 1-
-5月回落 6.4个百分点，比去年同期提高 24.8个百分点，
-上半年，肥料进口同比增长 65.2%，比去年同期提高 75.4 个
-百分点，稀土进口同比增长 26.2%，比去年同期提高 26.6 个百分
-点，纺织品进口同比增长21.4%，比去年同期提高 34.7个百分点，
-铜材进口增长29.5%，比去年同期提高 30.2个百分点。
-
-上半年，进口下降的基础原材料产品有，天然气同比-5.3%，
-塑料-14.8%，天然橡胶-4.7%，原木-1.2%，纸浆-6.0%，钢材-
-6.6%。
-七、上半年贸易顺差5759.8亿美元，比去年同期下降1.3%，
-其中 6 月 1256.2 亿美元，同比增长 10.3%，主要原因是出口创历
-史新高。
-预测 7月出口增速继续提高。6月出口强劲，产业链和供应链
-优势充分发挥。7月，受国内产业链优势和国际原油供应困局的持
-续影响，预计进出口保持较高增长。
-投资建议
-1：上半年机电产品和高新技术产品进、出口高增长。
-2：6 月集成电路、汽车、自动数据处理设备及其零部件出口
-高增长。
-3：预测 7月出口仍将保持较高增长。
-风险提示
-1、地缘政治恶化超预期；
-2、欧美经济衰退超预期。
+與評價修正風險，加大台股短線波動幅度，故建議投資人可採分批方式布局台灣大型權值、半
+導體及 AI 基礎建設相關類股，避免單筆重押，並應優先選擇獲利能見度高、現金流穩健及負
+債比相對較低之產業，避免過度集中於高融資、高本益比及流動性較低的題材型個股。
+◼ 3~10 年美國公債/投資級債為債市首選：在未來聯準會減少前瞻指引、利率路徑更依賴數據
+的環境下，債券殖利率出現較大波動；長天期債券又有期限溢酬偏高、政府財政惡化及公債供
+給增加等風險。建議債券布局可聚焦 3 至 10 年期美國公債及投等債，不僅能提供相對具吸引
+力的息收，若未來通膨預期放緩，在資本利得方面亦可望有所表現。
 
 ---
-## Document 244: China’s New and “Improved_” BOP Data (2026-07-14)
+## Document 182: _债券义警_阴影重现，30年期美债收益率高于5%的天数创近二十年最多
 
-Source PDF: all report pdf/China’s New and “Improved_” BOP Data (2026-07-14).pdf
-Report source: CFR (Follow the Money)
-Date: 2026-07-14
-Pages: 8
+Source PDF: all report pdf/_债券义警_阴影重现，30年期美债收益率高于5%的天数创近二十年最多.pdf
+Report source: WallstreetCN (Global)
+Date: 2026-07-22
+Pages: 3
 Extraction status: ok
 
 ### Page 1
 
-1
-EXPERT TAKE FOLLOW THE MONEY
-China’s New and “Improved?” BOP Data
-China promised a better balance of payments report. What it delivered instead is a
-set of implausible numbers that deserve a closer look from the IMF.
-Articles Follow the Money Share
-Log In
-Regions Topics Research Experts Events The Future of American Strategy
+债券义警指投资者通过⼤规模抛售国债的⽅式，向政府施加财政压⼒，迫使其恢复财政纪
+律。美国 30 年期国债收益率今年已连续 12 个交易⽇⾼于 5% ，创历史新⾼。今年迄今，该收
+益率共有 27 个交易⽇⾼于 5% ，约占全部交易⽇的 19% 。⻓期收益率的持续⾼企，基⾦经理
+普遍转向 5 ⾄ 7 年期债券以规避⻓端⻛险。
+摘要：
+美国 30 年期国债收益率今年持续⾛⾼，引发市场对财政纪律失守的深度警惕。
+截⾄周三， 30 年期美债收益率已连续第 12 个交易⽇⾼于 5% ，超过 5 ⽉创下的连续 11 天纪录。
+今年迄今，该收益率共有 27 个交易⽇⾼于 5% ，约占全部交易⽇的 19% 。
+与此同时，经通胀调整后的 30 年期实际收益率今年已上涨约 50 个基点，接近 3% ，上次触及这⼀
+⽔平是在 2008 年。
+⻓期收益率的持续⾼企，基⾦经理普遍转向 5 ⾄ 7 年期债券以规避⻓端⻛险，部分⻓期多头机构
+亦已翻转⽴场，⽽ " 债券义警 " 卷⼟重来的担忧则成为横亘市场的最⼤尾部⻛险。
+
+⻛险溢价抬升，与 2007 年的关键差异
+今年 30 年期美债收益率⾼于 5% 的交易⽇数量仅次于 2007 年的 50 天，但两者背景存在本质差异。
+2007 年，美联储基准利率⽐当前⽔平⾼出约 150 个基点。这意味着，与次贷危机初期相⽐，当前
+投资者要求的⻛险溢价实际上更⾼。
+Nuveen 资管的固定收益策略主管 Tony Rodriguez 指出：
+⾃ 2007 年以来，美国国债市场规模已从 4.5 万亿美元膨胀⾄ 31 万亿美元，债务占 GDP ⽐重翻番⾄
+100% 以上，美国财政部年度利息成本亦突破 1 万亿美元。
+惠誉评级近期警告称，美国债务负担 " 远⾼于 " 其他同样获得 AA 评级的国家。
+财政压⼒叠加供给冲击，⻓端承压难解
+⻓期美债的压⼒来⾃多个⽅向的共振。
+影响更⼤的是主权债务和财政⾚字处于极⾼⽔平，这使⻓期利率维持⾼位。
+⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⽣活家 搜索
 
 ### Page 2
 
-2
-PUBLISHED
-July 14, 2026 1:24 p.m.
-Brad W. Setser CFR EXPERT
-Whitney Shepardson Senior Fellow
-China released its “improved” balance of payments
-data for the first time at the end of the first quarter.
-It isn’t much of an improvement. If I was an external
-referee, I would argue that the IMF should ask China
-to revise and resubmit.
-In theory, China was going to provide a bit more of a
-breakdown of its investment income returns. And it
-did provide a line item for its Q1 FDI returns ($30
+⼀⽅⾯，华尔街交易商预计美国财政部最早将于 2027 年 5 ⽉开始增加 2 年⾄ 30 年期附息国债的拍
+卖规模，供给端的潜在扩张令市场提前定价。
+另⼀⽅⾯，超过 5000 亿美元的⼈⼯智能相关融资正在公司债市场密集发⾏，争夺有限的债券买
+家资⾦。
+WisdomTree 投资策略主管 Kevin Flanagan 表⽰：
+⾃ 2020 年疫情以来，全球多国债务均⼤幅增加。但除英国外，美国 30 年期国债收益率已⾼于⽇
+本和法国等其他主要债务国。
+⻓期多头阵营松动，传统买家选择增多
+债务担忧已促使部分坚定多头转变⽴场。
+Hoisington 资管公司本⽉早些时候放弃了坚守数⼗年的美国⻓期国债看多⽴场，认为更⼤的财
+政⾚字和更⾼的资本需求可能使通胀和⻓期收益率持续维持⾼位。
+Vanguard 资本管理公司的⾼级投资组合经理 Alex Payne 指出：
+他补充称，⽬前还不能确定收益率是否已经⻅顶。
+这⼀判断与当前资产配置趋势相互印证。基⾦经理整体上更⻘睐 5 ⾄ 7 年期债券，以在⻓期收益
 
-billion, a 3.3 percent implied return), as well as its
-non-FDI returns ($36.5 billion, which works out to a
-return of under 2 percent on China’s non FDI assets;
-SAFE managed 3 percent in the low for long era
-from 2011 to 2020).
-The new and improved data was also supposed to
-break out its portfolio investment and banking data
-(“Other”) by sector.
-That breakdown is comically bad.
-“Portfolio equity, government” is usually where the
-foreign equity investments of sovereign funds are
+率飙升时限制损失。
+" 债券义警 " 或已重返，市场⾯临压⼒测试
+在市场参与者看来，当前局⾯与上世纪 80 年代" 债券义警 "横⾏的时代已颇为相似，投资者通过
+推⾼⻓期收益率向政府施加财政压⼒。
+Haverford Trust 投资策略主管 Hank Smith 表⽰，该公司已在近⼏个⽉增加对短期美国国债的配
+置，对⾮应税客⼾不再配置 10 年以上期限的债券， Hank Smith 说：
+Smith 坦⾔，过去 20 年客⼾反复询问他⾼债务的隐患，他的回答始终是 " 当债务真正成为这个国
+家的问题时，债券市场会告诉你。 "
+他表⽰，⽬前美债拍卖尚未显现疲弱迹象，但警告称：
+在评估收益率曲线⻓端的合理价值时，财政⾚字、未偿债务以及未来美国国债拍卖规模可能增加
+都是需要考虑的因素。
+过去⼏年⾥，每当收益率达到 5% ，市场都会迅速买⼊，⽽现在养⽼⾦和保险公司等 30 年期国债
+的传统买家，拥有⽐过去更多的选择。
+在我们看来，⻛险回报并不划算。
 
 ### Page 3
 
-3
-reported. It is here where, for example, Singapore’s
-Government Investment Corporation enters the data.
-And where Korea’s massive National Pension Service
-enters the data. And where Norges Bank Investment
-Management enters the data.
-Yet China reported a zero.
-That is obviously false. The CIC reported $451
-billion in “foreign “Financial assets at fair value
-through profit or loss” at the end of 2024—it
-obviously has an equity book. And most people think
-
-China’s $400 billion plus National Social Security
-Fund (the analogue to Korea’s National Pension
-Service) has a modest foreign portfolio. Zero is clearly
-not the right number.
-Consider loans under “Other investment.”
-$1.015 trillion of the total $1.030 trillion in loans
-were from “deposit-taking corporations.”
-That makes sense, you might think, as banks take in
-deposits and make loans.
-Except two of China’s biggest lenders—the China
-Development Bank (CDB) and Export-Import Bank
-
-of China (China Exim)—aren’t “deposit-taking
-corporations.” The policy banks raise funds by selling
-bonds to the market -- and of course that includes
-selling bonds to the “deposit-taking corporations.”
-
-### Page 4
-
-4
-The total here also doesn’t line up with other data
-sources.
-For example, the foreign currency sources and uses
-table for the state commercial banks that the PBOC
-ublishes monthly reports $409 billion in foreign
-currency loans.
-That leaves up to $600 billion for RMB-
-denominated loans, or potentially for the CDB and
-Exim if China bundled their external lending with
-the state banks (presumably the policy banks should
-be a line item under “other financial institutions” but
-
-that is clearly not what China did for “loans”).
-Now look at “Trade credit and advances”:
-China reports $720 billion in total credit credit assets.
-Zero though come from the banks (hmmm) and all
-are in “Other sectors”—that has to be Exim (most of
-it is short-term as well, $706 billion of the whole
-$720 billion).
-The thing here is that everyone who has worked on
-frontier market restructurings or looked at China’s
-external lending—say, to Zambia, Sri Lanka, or
-
-Ecuador—knows that Exim and the CDB provided a
-lot of credit to these countries. To Angola and
-Venezuela too.
-So, it isn’t really plausible that all the long-term loans
-are from deposit-taking corporations (not the policy
-banks) and all the trade credit is short-term and from
-
-### Page 5
-
-incomplete that the IMF should send it back and ask
-China to resubmit with some real numbers.
-The IMF statistics department likes to say that it
-doesn’t judge the quality of its members’ data. That
-has been its excuse for not challenging the results of
-China’s “survey-based” methodology for calculating
-the transfer of value tied to “exports” in the current
-account.*
-In this case, China clearly didn’t make much of an
-effort to produce real numbers. Bad reporting is
-
-foreign asset position of the deposit taking
-institutions and the policy banks in the NIIP -- it is
-roughly $1.5 trillion. But it would be nice to be able
-to break this out by the obvious regulatory categories
-that China uses -- namely the commercial banks and
-the policy banks. That was the point of the exercise,
-not getting obviously incomplete entries for the key
-line items.**
-
-### Page 6
-
-6
-* The official position of the Bureau of Statistics is
-that China is correctly implementing its latest
-guidance note, unlike the U.S.—never mind the
-quarterly inconsistencies that have developed with the
-new methodology, and never mind that China cannot
-credibly explain the source of the gaps created
-between the current reported numbers and what the
-numbers would be under the old customs-based
-methodology.
-** A number of emerging economies do produce
-
-good, detailed balance of payments data -- Korea,
-Brazil and Turkey all come to mind. All have very
-complete data, and all actually report monthly. China,
-with a very controlled financial account, should have a
-much easier time generating high quality data. The
-low quality of its latest disclosure will only add to the
-questions many have about the accuracy of China’s
-external reporting.
-
-### Page 7
-
-7
-From Follow the Money and Greenberg Center for Geoeconomics
-Creative Commons: Some rights reserved.
-This work is licensed under Creative Commons Attribution-
-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-
-ND 4.0) License.
-CHINA ECONOMICS
-About CFR Membership
-Support CFR Fellowships
-Careers Newsletters
-CFR Education CFR Store
-China’s Transnational
-Repression Is Being Met
-With a Deafening Silence
-By Joshua Kurlantzick
-July 13, 2026
-Trump’s Iran Deal Has
-
-Collapsed, Leaving the U.S.
-With Few Good Options
-By Max Boot
-July 13, 2026
-How the Coup Turned Myanmar
-Into Asia’s Deadliest Conflict
-By Joshua Kurlantzick
-July 10, 2026
-
-### Page 8
-
-8
-Contact Us Communications and Media Resources
-Privacy Policy Terms of Use
-Sitemap
-GET CFR’S THE WORLD THIS WEEK
-©2026 Council on Foreign Relations
-email@example.com Subscribe
+⻛险提⽰及免责条款
+市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
+41 收藏 分享到 :
+写评论
+图⽚
+⼀旦出现由财政问题引发的剧烈债市动荡，所有⼈都将⾯临考验。
+包括债券市场和股票市场在内，我们认为市场⾯临的最⼤⻛险是 ' 债券义警 ' 可能卷⼟重来。
+请发表您的评论
+表情 发布评论
 
 ---
-## Document 256: Download the report
+## Document 241: Download the report
 
 Source PDF: all report pdf/Download the report.pdf
 Report source: 渣打銀行 (Market Views)
@@ -7796,1015 +7505,254 @@ US  United States
 VN  Vietnam
 
 ---
-## Document 354: Transatlantic Tensions_ The NATO Summit Verdict (2026-07-09)
+## Document 271: Grok 4.5用8分钟推翻困扰数学界30年的图论猜想，马斯克点赞转发
 
-Source PDF: all report pdf/Transatlantic Tensions_ The NATO Summit Verdict (2026-07-09).pdf
-Report source: DB Research
-Date: 2026-07-09
-Pages: 4
-Extraction status: ok
-
-### Page 1
-
-Deutsche Bank 
-Research Institute
-
-Transatlantic Tensions? 
-The NATO Summit Verdicts
-
-1 
-Authors 
-Helen Belopolsky 
-Global Head of Geopolitical 
-Research
-
-July 9, 2026 
-Transatlantic tensions are brewing! Our latest analysis dissects the NATO 
-Summit's verdict, revealing critical shifts in defence spending, new industrial 
-initiatives, and unresolved strains between Europe and the US. Discover what 
-these developments mean for markets, from potential trade wars to a looming 
-Ukraine ceasefire. 
-Context 
-— NATO leaders met in Ankara on 7-8 JUL for a summit, which reaffirmed the 
-alliance’s unity on key issues and embedded the ‘NATO 3.0’ plan to shift 
-more of the burden of Europe’s conventional defence onto European 
-members. 
-— At the same time, the summit was fractious given high-profile criticism by 
-President Trump of NATO’s willingness to assist the US in Iran, renewed 
-claims on Greenland, and political differences with several European 
-countries. The Europe-US relationship is under stress. 
-— While the summit delivered some concrete industrial initiatives, the 
-underlying transatlantic strains remain unresolved, and there is almost 
-undoubtedly going to be more strains ahead relating to burden-shifting, 
-spending and issues like Greenland. 
-What did the summit deliver? 
-— The summit's headline outcome is that NATO allies are moving quickly to 
-increase defence spending and production, and to develop new warfare 
-capabilities. Following the 2025 declaration that allies’ “core” defence 
-spending would rise to 3.5% of GDP by 2035, leaders highlighted a $139 Bn 
-increase in 2025 by European NATO countries and Canada. The NATO 
-Summit Defence Industry Forum saw allies announce over $50 Bn in new 
-defence procurement, including a $40 Bn commitment over five years to 
-build drone and counter-drone systems. They also pledged to provide 
-Ukraine with €70 Bn EUR in weapons deliveries and defence assistance in 
-2026 and an equivalent amount in 2027. 
-— Countries have launched NATO-adjacent coalitions to address financing 
-and procurement bottlenecks. These include: the Canada-led Defence 
-Security and Resilience Bank (DSRB), which reportedly aims to raise up to 
-$135 Bn in lending capacity; and the UK-championed Multilateral Defence 
-Mechanism (MDM), meant to coordinate joint procurement to improve 
-efficiency and reduce unit costs. Discussions are ongoing on aligning or 
-consolidating the DSRB and MDM, and participation in these and similar 
-initiatives is likely to gather pace. 
-— More efficient engagement with industry: Secretary General Rutte 
-launched the NATO Front Door for Industry (a new platform to simplify how 
-companies engage with NATO by giving companies a single point of access 
-to NATO procurement opportunities, innovation events, and other
-
-### Page 2
-
-Deutsche Bank Research Institute 
-Transatlantic Tensions? The NATO Summit Verdict – July 9, 2026
-
-2 
-engagement channels). This is paired with NATO’s first public unclassified 
-demand signal, developed by NATO’s defence planners laying out capability 
-priorities for the coming years and distributed through the Front Door. Rutte 
-also launched the NATO Engine, a framework to expand industrial 
-production capacity, which connects defence and civilian manufacturing 
-lines across the Alliance. 
-What should markets be watching next? 
-— Europe-US political and security relations: Tension in the transatlantic 
-relationship has grown since the start of the year and may increase further, 
-particularly as ties between Trump and traditional centre-right European 
-allies have come under strain. European leaders fear rapid US withdrawal of 
-defence capabilities that cannot be quickly replaced (e.g. intelligence, 
-reconnaissance and surveillance; air-to-air refuelling; and long-range fires). 
-US Defence Secretary Pete Hegseth’s announcement on 18 June of a six-
-month Pentagon review of US force posture in Europe will heighten these 
-concerns, as well as fears of political retaliation against individual countries. 
-— European capitals are pushing the US for a clear roadmap on force 
-drawdowns that would allow them to plan their corresponding build-up, but 
-it is unclear whether they will receive any concrete commitments. As the US 
-begins to face constraints on resources and weapons stockpiles owing to the 
-Iran war, the Trump administration will likely intensify its demands that 
-Europe urgently take on more responsibility for its own conventional 
-defence. 
-— Europe-US economic ties: A key consideration for investors is whether 
-worsening political ties will spill over into the transatlantic trade and 
-investment environment. The 2025 EU-US Turnberry agreement took effect in 
-the EU on 1 July, but US adherence to the 15% all-inclusive rate on covered 
-EU exports has been thrown into doubt by the shifting basis of US tariff 
-authority this year. The next watchpoint will be the findings of the US Section 
-301 investigation into structural overcapacity, in which the EU is one of 16 
-jurisdictions in scope. 
-— This may lead to renewed EU-US negotiations over implementing Turnberry; 
-the European Commission could propose to suspend certain concessions if 
-it deems the US in breach of the agreement's terms. Political tail risks to the 
-economic relationship will also remain: Trump's restated claims on 
-Greenland, or his demand to cut economic ties with Spain, could prompt the 
-EU to threaten retaliatory measures similar to those it considered applying in 
-January of this year, and could trigger renewed market volatility. 
-— Russia-Ukraine ceasefire negotiations: In line with our expectations, 
-Trump is renewing his diplomatic push for a ceasefire, meeting President 
-Zelensky on 8 July and speaking to President Putin over the 4-5 July weekend. 
-This re-engagement has notably coincided with closer Europe-US alignment 
-on Ukraine, the expiry of the US waiver for Russian oil sanctions on 17 June, 
-and Trump’s announcement on 8 July that the US would grant Ukraine a 
-licence to produce Patriot air defence missiles domestically. Taken together, 
-these measures may form part of a US strategy to increase pressure on 
-Moscow to re-enter mediated negotiations with Ukraine. 
-— Growing war fatigue, a shift in public attitudes in both Russia and Ukraine, 
-and greater openness among some European leaders to direct talks with 
-Moscow all point to possible progress towards a deal. A ceasefire this year is 
-by no means assured, but any agreement could have wide-ranging 
-implications for markets, including sanctions relief, increased agricultural
-
-### Page 3
-
-Deutsche Bank Research Institute 
-Transatlantic Tensions? The NATO Summit Verdict – July 9, 2026
-
-3 
-exports, and substantial investment in infrastructure, energy, transport, 
-minerals, defence and other sectors associated with post-conflict 
-reconstruction. 
-— The author of this report wishes to acknowledge the contribution made by 
-Scott R Martin, an independent expert engaged by Deutsche Bank, in the 
-preparation of this report.
-
-### Page 4
-
-Deutsche Bank Research Institute 
-Transatlantic Tensions? The NATO Summit Verdict – July 9, 2026
-
----
-## Document 430: フィリピン･サラ副大統領への弾劾裁判開始 ～弾劾の行方は不透明だが､経済を無視した政局争いを市場はどうみるか～
-
-Source PDF: all report pdf/フィリピン･サラ副大統領への弾劾裁判開始 ～弾劾の行方は不透明だが､経済を無視した政局争いを市場はどうみるか～.pdf
-Report source: DLRI
-Date: 2026-07-07
-Pages: 2
-Extraction status: ok
-
-### Page 1
-
-Asia Trends
-
-2026 年 7 月 7 日
-
-1/2 
-フィリピン･サラ副大統領への弾劾裁判開始 
-～弾劾の行方は不透明だが､経済を無視した政局争いを市場はどうみるか～ 
- 経済調査部 主席エコノミスト  西濵 徹 
-（℡：050-5474-7495）
-
-（要旨） 
-○ フィリピン元老院は７月６日、サラ・ドゥテルテ=カルピオ副大統領の弾劾裁判を開始した。
-サラ氏はドゥテルテ前大統領の長女で、2028年大統領選の最有力候補とされており、解職が
-決定すれば公職資格を失い出馬が困難となる。同国政界におけるマルコス大統領派とドゥテ
-ルテ派の確執が背景にあるものの、現時点においてその結果は不透明と考えられる。 
-○ 弾劾を巡っては 2025 年に機密費不正使用疑惑等を理由とする申し立てが行われ、代議院で
-可決されたものの、元老院は一旦弾劾訴追を差し戻し、同一年内の複数回弾劾を禁じる規定
-により申し立て自体も無効化された。その後最高裁が手続きの違憲性を認めつつ再申し立て
-を可能とする判断を下したことを受け、市民団体が改めて申し立てを行い、代議院で圧倒的
-多数で可決、今回の裁判開始に至った。サラ氏は初日の審理を欠席し、弁護団のみが出席。
-機密費不正使用疑惑(計６億ペソ)について全面的に争う姿勢を示している。 
-○ 経済面では、中東情勢緊迫化による原油高から「エネルギー国家非常事態」を宣言する事態
-となったが、米イラン停戦を受け原油高は一服し最悪期を脱しつつある。一方、エルニーニ
-ョによる干ばつ・水不足で食料インフレリスクが上昇し、ペソ安による輸入インフレ懸念も
-強まっている。中銀は資本取引規制の強化を示唆しており、今後の政策対応が注目される。
-
-フィリピン国会の上院（元老院）は、７月６日にサラ・ドゥテルテ＝カルピオ副大統領の解職の
-是非を審理する弾劾裁判を開始した。サラ氏はドゥテルテ前大統領の長女であり、2028年に実施さ
-れる次期大統領選への出馬表明を行っており、出馬が取り沙汰される候補のうち最も支持率が高く、
-次期大統領の最有力候補とされる。仮に解職となれば、公職に就く資格を失う可能性があり、次期
-大統領選への出馬が困難になる。フィリピン政界ではここ数年、マルコス大統領（マルコス家）と
-サラ氏（ドゥテルテ家）の確執が鮮明になっている。解職には３分の２以上の賛成が必要となるも
-のの、元老院（総議席数 24）においてマルコス派は３分の２にわずかに届かない水準にとどまる。
-このため、現時点においてはその行方は不透明と考えられる。 
-サラ氏を巡っては 2025 年、副大統領府と教育省の機密費の不正使用疑惑と出所不明の蓄財疑惑
-を理由に、市民団体が弾劾の申し立てを行った。さらに、その審理結果を待たないタイミングで、
-
-### Page 2
-
-本資料は情報提供を目的として作成されたものであり、投資勧誘を目的としたものではありません。作成時点で、第一ライフ資産運用
-経済研究所が信ずるに足ると判断した情報に基づき作成していますが、その正確性、完全性に対する責任は負いません。見通しは予告
-なく変更されることがあります。また、記載された内容は、第一生命保険ないしはその関連会社の投資方針と常に整合的であるとは限
-りません。 
-2/2 
-マルコス大統領夫妻と大統領の従兄弟であるロムアルデス前下院議長に対する殺害予告を理由に
-別の弾劾申し立てが行われた。国会下院（代議院）は 2025 年、これらの申し立てを受理したうえ
-で、賛成多数で可決した。その後、元老院は弾劾裁判所を一旦設置したものの、審理の末に弾劾訴
-追そのものを代議院に差し戻す決定を行った。さらに、弾劾裁判所では、現行憲法における同一の
-公職者に対する弾劾手続きを１年以内に複数回行うことを禁じる規定を理由に、申し立て自体を無
-効とする動議が提出され、賛成多数で可決された。その後に最高裁判所は、弾劾手続きの違憲性を
-理由に無効とする一方、訴追内容自体を免責するものではないとして、再度の申し立てや訴追を可
-能とする判断を下した。 
-最高裁による判断を踏まえ、市民団体はあらためて代議院にサラ氏に対する弾劾申し立てを行っ
-た。その後、代議院は弾劾訴追に正当な理由があると認定したうえで、圧倒的多数による賛成で可
-決された （注１） 。今回の弾劾裁判所はこの決定に基づく形で設置されており、マルコス家とドゥテ
-ルテ家を巡る政局争いは裁判の場へと移った。なお、サラ氏は初日の審理には出席せず、弁護団の
-みが出席した。サラ氏側は、弾劾事由となっている計６億ペソの機密費の不正使用疑惑について、
-根拠がないとして全面的に争う考えを示している。 
-同国経済を巡っては、 中東情勢の緊迫化を受けた原油高をきっかけに 「エネルギー国家非常事態」
-を宣言するなど厳しい状況に直 面して
-いる。足元では、米国とイランによる停
-戦合意を受けて原油高は一服するなど
-落ち着きを取り戻しており、最悪期を過
-ぎつつある。一方、エルニーニョ現象の
-発生により、同国では干ばつと水不足を
-理由とする農業被害が懸念されるなど
-食料インフレのリスクが高まっている。
-金融市場においては、ペソ相場に調整圧
-力がかかるなど輸入インフレの懸念も
-高まっている。同国では、元々資本取引
-に一定の制限がかかっているものの、中銀はペソ安の進行を受けて規制強化の可能性を示唆してお
-り、強力な政策対応に舵を切る可能性にも注意が必要になっている。 
-以 上
-
-注１ ５月21日付レポート「フィリピン議会下院､サラ副大統領への弾劾訴追を再び可決」 
-  （https://www.dlri.co.jp/report/macro/606983.html） 
-図 1 ペソ相場(対ドル)の推移
-
-（出所）LSEG より第一ライフ資産運用経済研究所作成
-
----
-## Document 466: 亚马逊巴林数据中心又被炸了，中东算力战争开打
-
-Source PDF: all report pdf/亚马逊巴林数据中心又被炸了，中东算力战争开打.pdf
+Source PDF: all report pdf/Grok 4.5用8分钟推翻困扰数学界30年的图论猜想，马斯克点赞转发.pdf
 Report source: WallstreetCN (Global)
-Date: 2026-07-22
-Pages: 1
-Extraction status: ok
-
-### Page 1
-
-⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⽣活家 搜索
-
----
-## Document 467: 今年上半年中央企业实现利润总额1.4万亿元
-
-Source PDF: all report pdf/今年上半年中央企业实现利润总额1.4万亿元.pdf
-Report source: WallstreetCN (Global)
-Date: 2026-07-22
-Pages: 2
-Extraction status: ok
-
-### Page 1
-
-⻛险提⽰及免责条款
-市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
-今年 1 ⾄ 6 ⽉，中央企业⽣产经营稳中提质，运⾏态势平稳向好，实现利润总额 1.4 万亿元，
-固定资产投资同⽐增⻓ 4.5% 。国务院国资委主任程福波表⽰，上半年中央企业积极应对各
-种挑战和不确定性，实现可持续发展。
-摘要：
-今年 1 ⾄ 6 ⽉，中央企业⽣产经营稳中提质，运⾏态势平稳向好，实现利润总额 1.4 万亿元，固定
-资产投资同⽐增⻓ 4.5% 。
-这是国务院国资委在 7 ⽉ 21 ⽇⾄ 22 ⽇举⾏的中央企业负责⼈研讨班上披露的最新情况。
-国务院国资委主任程福波表⽰，上半年中央企业积极应对各种挑战和不确定性，实现可持续发
-展。
-科技攻关提速加⼒。 1 ⾄ 6 ⽉，中央企业完成研发经费投⼊同⽐增⻓ 3.8% 。在 2025 年度国家科技
-奖评选中， 50 家中央企业获奖 112 项，航天科技⻓⼗⼄⽕箭成功实现⼀⼦级可控回收，航空⼯业
-
-集团 HH-200 航空商⽤⽆⼈运输系统圆满⾸⻜，中国⼀汽形成⾼⽐能全固态电芯样件，鞍钢⾃主
-研发⾼效流化床氢冶⾦新技术。
-产业布局结构向新向优。中国联通⾼标准建设⻘海三江源绿电智算融合⽰范园，中国华能发布
-全球⾸个电⼒储能超级电容器国际标准，中国电信完成国内⾸创 AI 多智能体可信通信试验，中国
-移动牵头制定 3GPP 全球⾸个 6G 国际标准，中国建材率先实现 T1200 级超⾼性能碳纤维⼯程化量
-产。
-国资国企改⾰持续深化。中国⽯化重组中国航油、助⼒可持续航空燃料产业加快发展。国家管
-⽹集团等形成体系化、规范化治理结构，推动各治理主体⾼效联动。精准考核进⼀步落实落
-细，监管效能不断提升，穿透式监管⼯作全⾯部署推进。
-全⼒推进国家重⼤⼯程建设。国家电⽹、南⽅电⽹加快建设跨经营区电⼒灵活互济⼯程，中国
-三峡集团三峡⽔运新通道正式开⼯，中⼴核粤港澳⼤湾区⾸台 “ 华⻰⼀号 ” 核电机组投产发电。
-下半年，中央企业将着⼒巩固经济运⾏良好态势，推进原始创新和关键核⼼技术攻关，推动产
-业深度转型升级，推进国家重⼤⼯程建设，制定实施好本企业 “ ⼗五五 ” 规划，抓好新⼀轮国资国
-
-企改⾰⽅案的⾼质量实施，防范化解重点领域⻛险，提升战略⽀撑保障能⼒。
-本⽂来源：新华社
-限免
-⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⽣活家 搜索
-
-### Page 2
-
-35 收藏 分享到 :
-写评论
-图⽚
-请发表您的评论
-表情 发布评论
-
----
-## Document 484: 内外経済ウォッチ『欧州～短命政権の主役はイタリアから英国に交代～』(2026年8月号)
-
-Source PDF: all report pdf/内外経済ウォッチ『欧州～短命政権の主役はイタリアから英国に交代～』(2026年8月号).pdf
-Report source: DLRI
-Date: 2026-07-21
-Pages: 1
-Extraction status: ok
-
-### Page 1
-
-欧州
-～短命政権の主役はイタリアから英国に交代～
-2024年の総選挙で労働党を14年振りの政権交代に
-導いた英国のスターマー首相が辞任の意向を固めた。 経
-済成長、 インフラ整備、 生活や雇用の安定、 公的医療の再
-建、 クリーンエネルギーの推進、 安全な社会の実現、 不法
-移民対策の強化、 教育 ・ 就業機会の提供、 地域格差の縮小
-などを掲げてきたが、 保守党政権から引き継いだ厳しい
-財政状況、 ブレグジッ トの後遺症、 米国の関税引き上げ、
-イラン情勢の不安定化、 物価上昇に対する国民の不満な
-どの逆風もあり、 政権の支持率が低迷した。 地方選挙や
-下院補欠選挙での敗北も続き、 党内からも辞任を求める
-声が浮上していた。
-英国では近年、 首相交代が相次いでいる。 過去10年で
-７ 人目の首相が近く誕生することになる。 後継首相の最
-有力候補は、 労働党所属の下院議員であるバーナム前マ
-ンチェスター市長だ。 首相就任を目指し、 ６ 月の下院補欠
-選挙で国政復帰を果たした。 地方分権の推進、 地域経済
-
-の活性化、 公共サービスの充実、 公営住宅の建設、 水道や
-エネルギー事業の公的関与拡大、 減税などの政策を掲げ
-ている。 バーナム氏が首相の座に就けば、 財政拡張色が
-強まるとの警戒も根強い。 各種の世論調査では、 英国を
-離脱に煽動したファラージ氏が率いる右派ポピュ リス ト
-政党 ・ リフォームＵ Ｋ がリー ドする。 新首相の下で英国が
-失った輝きと国民からの信頼を回復できるかに注目が集
-まる。
-英国は過去10年で ７ 人目の首相が誕生へ
-少数政党が乱立し、 歴史的に短命政権が多いことで知
-られるイタリアだが、 2022年に就任したメローニ首相
-の下で長期政権が続いている。 連立を主導するのは、 メ
-ローニ氏が党首を務める右派政党 ・ イタリアの同胞で、
-ム ッ ソリーニ支持者が結党した政党の流れを汲む。 首相
-就任時にはその政治信条や過去の発言を不安視する声
-もあったが、 就任後は欧州連合 （ Ｅ Ｕ） の幹部や欧州各国
-首脳と良好な関係を築き、 財政運営やウクライナ支援な
-どで Ｅ Ｕとの衝突を避け、 現実的な政権運営を行ってき
-
-た。 メローニ政権の在任期間は ５ 月に第二次世界大戦後
-の歴代政権で二番手に浮上し、 ９ 月には第二次ベルルス
-コーニ政権の1412日を超えて歴代最長を更新する見
-込みだ。
-盤石にみえるメローニ政権だが、 不安材料も浮上して
-いる。 ３ 月に行われた司法制度改革の国民投票は反対多
-数で否決され、 政権にと って初の政治的な痛手となっ
-た。 来年に総選挙を控え、 左派系野党が共闘に傾いてい
-るほか、 新たな極右政党が支持を伸ばしている。 左派が
-統一会派の結成に成功し、 連立を組む右派会派と新興
-極右の間で保守票が分断すれば、 首相続投が危ぶまれ
-る。 与党は政権基盤の安定を目指し、 選挙制度の改正に
-着手している。 選挙制度改正の行方、 野党が左派会派を
-結成できるか、 新興極右を右派会派に取り込むかが、 次
-の総選挙での勝敗の鍵を握りそうだ。
-「パクス ・ メローニ」 が続くイタリア
-経済調査部　首席エコノミス ト　田中 理（たなか おさむ）
-資料1 英国の総選挙の得票率と世論調査の支持率 （％）
-
-（出所） YouGov資料より第一ライフ資産運用経済研究所が作成
-資料2 イタリアの総選挙の得票率と世論調査の支持率 （％）
-（出所） SWG資料より第一ライフ資産運用経済研究所が作成
-7 第一ライフ研レポー ト 2026.08
-内外経済ウォッチ
-内外経済ウォッチ
-
----
-## Document 520: 加速する税収増の背景 ～25年度税収は84兆円超へ大幅増～
-
-Source PDF: all report pdf/加速する税収増の背景 ～25年度税収は84兆円超へ大幅増～.pdf
-Report source: DLRI
-Date: 2026-07-07
+Date: 2026-07-23
 Pages: 3
 Extraction status: ok
 
 ### Page 1
 
-Economic Trends
-
-2026 年7 月 7 日
-
-1/3 
-加速する税収増の背景 
-～25 年度税収は 84 兆円超へ大幅増～ 
-経済調査部 主席エコノミスト 星野 卓也 
-（℡：050-5474-7497）
-
-（要旨）
-
-25 年度税収は大幅増加に 
-税収は依然として堅調な増加をみせている。3 日に公表された財務省の一般会計決算概要によれ
-ば、2025 年度の税収は84.2 兆円に上った。前年度の2024 年度からは＋9.0 兆円の増、昨年末の
-政府見込み（80.7 兆円）からは＋3.5 兆円の上振れとなる。なお、2024 年度には所得税の定額減
-税（国税分で2.3 兆円）が実施されており、その剥落で増加幅が大きくなっている。ただし、そ
-れを除く数字でみても2024 年度対比＋8.6％の増加であり、税収の増勢は強いといえる。 
-税目別にみると所得税が25.3 兆円（前年度差＋4.0 兆円、政府見込み対比＋0.6 兆円） 、法人税
-が21.7 兆円（同＋3.8 兆円、＋2.1 兆円） 、消費税が26.0 兆円（同＋1.0 兆円、＋0.5 兆円） 、相
-続税が 3.9 兆円（同＋0.3 兆円、＋0.2 兆円）であった。目立つのは法人税の増加/上振れであ
-る。円安、インフレによる売上高・利益の増加、AI 関連の需要増などが追い風となっているとみ
-られる。所得税の増加幅が大きいのは、主に2024 年度の定額減税（国税分で2.3 兆円分）の影響
-が剥落したことによるものである。ただし、それを除いても増勢は保っており、賃金上昇の影響
-などが背景にあると考えられる。また、所得税のブラケット・クリープの影響も累積していると
-考えられ、25 年度の所得税にも増収要因となっていると推定される（詳細はEconomic Trends
-「ブラケット・クリープによる「隠れ増税」の試算～2019→2025 年のインフレで1.9 兆円/年程度
-に膨らむ～」（2026 年5 月 8 日）。なお、ここでの1.9 兆円/年は地方税（住民税）込みの試算であ
-○ 2025 年度の一般会計税収は84.2 兆円となった。昨年末時点の政府見通しからは＋3.5 兆円
-の上振れ、2024 年度対比では＋9.0 兆円の増加である。24 年度定額減税の復元分2.3 兆円
-を除いても、前年度比＋8.6％の増加。税収の増勢は強い。高い伸びとなった名目GDP（＋
-4.1％）も大きく上回っている。 
-○ 24 年度までの数値については、国税庁統計でいくらかの分析が可能。所得税では株式や不
-動産の譲渡所得などキャピタルゲイン系の所得が増加。フローの経済規模（名目ＧＤＰ）
-の伸びを上回る税収の伸びが続く一因と考えられる。
+⻢斯克在社交平台 X 上点赞转发了⼀项新的发现： xAI 旗下 Grok 4.5 在内部 Slack ⽇常讨论
+中，仅⽤ 8 分钟便⾃主找到反例，推翻了悬⽽未决约 30 年的 Dinitz-Garg-Goemans 图论猜
+想。
+摘要：
+AI 在数学领域的突破正在加速。 xAI 旗下模型 Grok 4.5 在⼀次⾮正式的内部讨论中，仅⽤ 8 分钟便
+推翻了⼀个困扰数学界约 30 年的图论猜想，引发科技与投资圈⼴泛关注。
+事件起源于⽤⼾ Dmitry Rybin 23 ⽇在社交平台 X 上发布的⼀篇帖⼦。他表⽰， Dinitz-Garg-
+Goemans 猜想已被证伪 —— 该图论问题悬⽽未决⻓达约 30 年。据其描述，相关发现借助 AI 完
+成，帖⼦附有具体的图论反例数据。
+随后， xAI 创始⼈埃隆 · ⻢斯克点赞并转发，评论称 "Grok 4.5 刚刚解决了⼀个悬⽽未决约 30 年的
+图论猜想 " 。
+⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⽣活家 搜索
 
 ### Page 2
 
-2/3 
-り、国税の所得税に限ると1.4 兆円/年である） 。消費者段階の物価上昇のもとで消費税が増加し
-ているほか、近年は相続税も増加基調がしっかりしている。相続税は土地をはじめとした資産価
-格の上昇定着が背景と考えられる。 
-また、ここまでの月次税収に季節調整をかけると、直近のトレンド（6 カ月移動平均）の値は
-85 兆円近辺である。増加傾向は続いている点、イラン情勢や原油価格に落ち着きがみられている
-点などを踏まえても、税収の増加は26 年度も続く可能性が高そうである。現在、2026 年度当初予
-算において26 年度税収が83.7 兆円と見積もられている。25 年度税収実績（84.2 兆円）が既にそ
-れを上回る状況にあり、年末の税収見積もり段階、決算段階ではここから上振れする見込みであ
-る。
+这⼀事件迅速引发市场对 AI 前沿能⼒的关注。 Grok 4.5 Medium 版本以⾮正式渠道完成这⼀突
+破，尤其值得注意的是，这并⾮⼀次精⼼设计的基准测试，⽽是在团队 Slack 频道的⽇常讨论中
+偶然触发，进⼀步凸显当前顶级 AI 模型在数学推理⽅⾯的实际落地能⼒。
+意外突破： Slack 对话中的数学发现
+据贾斯汀 · 孙（ Justin Sun ）在 X 平台发布的帖⼦披露，团队将 Rybin 的原始帖⼦分享⾄内部 Slack
+频道后， Capy—— ⼀个运⾏在 Grok 4.5 Medium 之上的 AI—— 主动尝试求解，并在 8 分钟内找到
+了⼀个新颖的反例，从⽽推翻了该猜想。
+这⼀过程的⾮计划性使其格外引⼈注⽬。 AI 并⾮在受控的研究环境中被专⻔部署于该问题，⽽是
+在⼀次随机的团队讨论中⾃主 " 介⼊ " ，并独⽴完成了推理与验证。
+Dinitz-Garg-Goemans 猜想属于图论领域，核⼼涉及分数流（ fractional flow ）与不可分割流
+（ unsplittable flow ）之间的代价关系。根据 Rybin 的描述，被找到的反例图具有分数流代价 58 ，
 
-図表１．税収の推移（左図：年度次、右図：月次季節調整値）
-
-（出所）財務省より第一ライフ資産運用経済研究所が作成。
-
-24 年度までは所得毎の分析が可能：キャピタルゲイン系の所得が増えている 
-現時点での25 年度の税収については税目ごとの数値しか確認することはできず、増加要因は厳
-密にはよく分からない。一方、24 年度までであれば国税庁から統計年報が公表されており、ある
-程度細かな分析が可能である。 
-近年の所得税についてみると、特にキャピタルゲイン系の所得額（税額）が増えていることが
-際立っている。コロナ禍前2019 年と最新値2024 年値との比較でみると、給与所得（源泉分）が
-＋19.5％増加しているのに対し、株式等の譲渡所得（源泉分）は1.9 兆円→8.7 兆円と約4.6 倍
-に、同（申告分）は3.0 兆円→7.2 兆円へと約2.4 倍に膨らんでいる。不動産が中心の分離長期譲
-渡所得も4.8 兆円→6.2 兆円と＋29.7％の増加である。 
-キャピタルゲイン系の所得が増えていることは、近年名目GDP の伸びを上回る税収の伸びが実
-84.2
-0.0
-5.0
-10.0
-15.0
-20.0
-25.0
-30.0
-0.0
-10.0
-20.0
-30.0
-40.0
-50.0
-60.0
-70.0
-80.0
-90.0
-一般会計税収の推移
-計（左軸）
- 所得税（右軸）
- 法人税（右軸）
-消費税（右軸）
- 相続税（右軸）
-（兆円）
-（兆円）
+⽽任何容量违反不超过 15 的不可分割流，其代价⾄少为 60—— 这⼀差距直接否定了该猜想的成
+⽴。
+该猜想⾃提出以来悬⽽未决约 30 年，属于组合优化与⽹络流领域的经典开放问题。
 
 ### Page 3
 
-本資料は情報提供を目的として作成されたものであり、投資勧誘を目的としたものではありません。作成時点で、第一ライフ資産運用
-経済研究所が信ずるに足ると判断した情報に基づき作成していますが、その正確性、完全性に対する責任は負いません。見通しは予告
-なく変更されることがあります。また、記載された内容は、第一生命保険ないしはその関連会社の投資方針と常に整合的であるとは限
-りません。 
-3/3 
-現している要因でもある。株価、不動産価格をはじめ、国内の名目GDP を明確に上回るペースで
-資産価格が上昇していることが、売買益の増加などを通じて税収増にドライブをかけていると考
-えられる。法人税の統計ではキャピタルゲイン系の所得を分離することはできないが、同様の現
-象が起こっているのだろう。資産価格の上昇自体は25 年度も続いており、税収の大幅増加をもた
-らす要因になっていると推定される。
+⻛险提⽰及免责条款
+市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
+55 收藏 分享到 :
+写评论
+图⽚
+值得关注的是， Rybin 本⼈在其帖⼦中提及，上述发现最初是通过与 GPT-5 的对话完成的，并附
+上了相关聊天记录链接。⽽贾斯汀 · 孙随后展⽰了 Grok 4.5 Medium 同样独⽴完成了这⼀推翻过
+程。
+这意味着，在同⼀数学难题上， OpenAI 的 GPT-5 与 xAI 的 Grok 4.5 在短时间内相继给出有效解
+答，直观呈现出当前顶尖 AI 模型在数学推理能⼒上的竞争态势，也为市场评估两家公司技术实⼒
+提供了新的参照维度。
 
-図表２．所得種類別所得額（上段：源泉、下段：申告）
-
-（注）配当所得_源泉が 2024 年度に減少しているのは、法人間配当の源泉徴収廃止（源泉徴収不適用制度）による
-もの。従来所得税で徴収、法人税で還付されていた法人間配当について、当初から徴収しない仕組みとなったこと
-による影響（同額分、法人税減少要因がなくなっている）である。 
-（出所）国税庁より第一ライフ資産運用経済研究所が作成。
-
-以上 
-0.0
-100.0
-200.0
-300.0
-400.0
-2000
-2003
-2006
-2009
-2012
-2015
-2018
-2021
-2024
-給与所得
-_
- 源泉
-(
-兆円
-)
-0.0
-10.0
-20.0
-30.0
-40.0
-50.0
-60.0
-2000
-2003
-2006
-2009
-2012
-2015
-2018
-2021
-2024
-配当所得
-_
- 源泉
-(
-兆円
-)
-0.0
-2.0
-4.0
-6.0
-8.0
-10.0
-2000
-2003
-2006
-2009
-2012
-2015
-2018
-2021
-2024
-株式等の譲渡所得等
-_
- 源泉
-(
-兆円
-)
-0.0
-0.2
-0.4
-0.6
-0.8
-1.0
-1.2
-2000
-2003
-2006
-2009
-2012
-2015
-2018
-2021
-2024
-配当所得
-_
- 申告
-(
-兆円
-)
-0.0
-2.0
-4.0
-6.0
-8.0
-2000
-2003
-2006
-2009
-2012
-2015
-2018
-2021
-2024
-分離長期譲渡所得（不動産など）
- _
- 申
-告
-(
-兆円
-)
-0.0
-2.0
-4.0
-6.0
-8.0
-2000
-2003
-2006
-2009
-2012
-2015
-2018
-2021
-2024
-株式等の譲渡等所得
-_
- 申告
-(
-兆円
-)
+限免
+请发表您的评论
+表情 发布评论
 
 ---
-## Document 528: 原油価格下落でＥＣＢの利上げ継続は？ ～追加利上げへの切迫感が後退、このまま打ち止めも～
+## Document 299: MLCC也进入“长协时代”：三星电机与某科技巨头签下2亿美元长协，锁定2027年供应
 
-Source PDF: all report pdf/原油価格下落でＥＣＢの利上げ継続は？ ～追加利上げへの切迫感が後退、このまま打ち止めも～.pdf
-Report source: Unknown
-Date: 未知日期
-Pages: 4
+Source PDF: all report pdf/MLCC也进入“长协时代”：三星电机与某科技巨头签下2亿美元长协，锁定2027年供应.pdf
+Report source: WallstreetCN (Global)
+Date: 2026-07-23
+Pages: 2
 Extraction status: ok
 
 ### Page 1
 
-Europe Trends
+这是其继 6 ⽉后连续第⼆个⽉斩获同类⼤单，今年已披露的 AI 服务器元器件协议总额超 15 亿
+美元。三星电机表⽰，将加速开发下⼀代尖端产品，构建稳定供应链。业内指出， MLCC
+正在 AI 基础设施需求驱动下加速从短期订单转向⻓协模式，三星电机凭借逾 40% 的市占率
+持续领跑这⼀⾼壁垒市场。
+摘要：
+三星电机正将 AI 服务器 MLCC 业务推向 " ⻓协化 " 轨道，这⼀趋势正在重塑这⼀核⼼电⼦元器件的
+供需格局。
+据报道，三星电机 7 ⽉ 23 ⽇披露，公司与⼀家全球⼤型科技企业签署了⼀份价值 2951.2 亿韩元
+（约 2.04 亿美元）的 MLCC 供货合同，供货期为 2027 年全年。交易对⼿⽅因双⽅保密协议未予
+公开。
+这是三星电机继 6 ⽉签下约 4500 亿韩元 AI 服务器 MLCC ⼤单之后，连续第⼆个⽉斩获同类⼤规模
+订单，今年已公开披露的 AI 服务器 MLCC 合同总额累计达 750 亿韩元（约 5.1 亿美元），若将 5 ⽉签
+订的约 1.5 万亿韩元硅电容⻓协⼀并计⼊，今年 AI 服务器元器件供货协议总额已超过 2.25 万亿韩
 
-2026 年７月２日
-
-1/4 
-原油価格下落でＥＣＢの利上げ継続は？ 
-～追加利上げへの切迫感が後退、このまま打ち止めも～ 
- 経済調査部 首席エコノミスト  田中 理 
-（℡：050-5474-7494）
-
-（要旨） 
-○ イラン和平の進展期待で原油価格が空爆開始以前の水準まで下落している。ユーロ圏の消費
-者物価も上昇率が鈍化するなど、エネルギー価格の高騰が他の物価に波及する二次的効果も
-広がっていない。ＥＣＢは６月に利上げを開始したが、最近の高官発言からは追加利上げへ
-の切迫感が後退している。イラン情勢が再エスカレートする懸念も残るが、７月の利上げ見
-送り後、 インフレ圧力が抑制されていれば、 追加利上げが必要かを巡る議論が本格化しよう。
-
-イラン情勢の緊迫化によるインフレ圧力の高まりを受け、欧州中央銀行（ＥＣＢ）は６月11 日
-に終わった理事会で約14 年振りの利上げを決めたが、直後の14 日にトランプ大統領が米国とイ
-ランとの停戦合意を発表し、17 日に14 項目の覚書に署名したことを受け、原油価格が下落に転じ
-ており、追加利上げ期待が後退している。一時１バレル＝110 ドル台後半に高騰した北海ブレント
-原油先物価格（期近物）は、２月下旬の空爆開始以前とほぼ同水準の１バレル＝71 ドル台に下落
-している（図表１）。
-
-出所：Refinitivより第一ライフ資産運用経済研究所が作成
-（図表１）欧州の原油と天然ガスの先物価格
-0
-50
-100
-150
-200
-250
-300
-350
-0
-20
-40
-60
-80
-100
-120
-140
-2020 2021 2022 2023 2024 2025 2026
-（ドル/バレル） （ユーロ/MwH）
-ＴＴＦオランダ
-天然ガス先物（右目盛）
-北海ブレント原油先物
-（左目盛）
+元（约 15 亿美元）。
+三星电机总裁 Chang Duck-hyun 表⽰：
+消息公布当⽇，三星电机股价盘中⼀度⼤涨逾 8% ，触及 147.5 万韩元，涨幅在韩国综合股价指
+数（ KOSPI ）成分股中领先三星电⼦和 SK 海⼒⼠等权重股。
+连续⼤单： AI 服务器 MLCC 订单加速累积
+此次合同⾦额约占三星电机去年合并营收 11.3145 万亿韩元的 2.6% ，供货内容为⽤于客⼾ AI 服务
+器及数据中⼼系统的⼤批量核⼼⾼性能 MLCC 。从时间线来看，三星电机今年的 AI 服务器元器件
+订单呈现出明显的加速态势：
+" 此次⼤规模合同是三星电机 MLCC 技术作为 AI 基础设施核⼼元器件获得充分认可的成果。基于
+客⼾的深度信任，我们将加速开发下⼀代尖端产品，构建稳定供应链，引领 AI 元器件市场。 "
+⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⽣活家 搜索
 
 ### Page 2
 
-2/4 
-エネルギー価格の上昇が賃金や他の物価に波及する二次的効果が広がる兆しもみられない。１
-日に発表されたユーロ圏の６月の消費者物価（ＥＵ統一基準）の速報値は、前年比＋2.8％と前月
-の同＋3.2％から上昇率が鈍化した（図表２）。エネルギー価格（前月：同＋10.8％→今月：同＋
-8.7％）の上昇が一服したほか、食料・アルコール飲料・たばこ価格（同＋1.9％→同＋1.6％） 、
-エネルギー・食料・アルコール飲料・たばこを除くコア物価（同＋2.6％→同＋2.4％）が揃って
-上昇率が鈍化した。４～６月期の消費者物価は同＋3.0％と、６月の理事会で公表されたスタッフ
-見通しの想定（同＋3.2％）を下回った（図表３） 。
+⻛险提⽰及免责条款
+市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
+244 收藏 分享到 :
+写评论
+图⽚
+报道称，业内观察⼈⼠指出，如此密集的⼤规模⻓期 MLCC 供货合同在⾏业内实属罕⻅，标志着
+MLCC 这⼀传统上以短期订单为主的元器件品类，正在 AI 基础设施需求的驱动下加速向⻓协模式
+演进。
+MLCC 素有 " 电⼦⼯业的⼤⽶ " 之称，其核⼼功能是为电⼦电路提供稳定电流、控制电压波动。在
+AI 服务器场景下，这⼀功能的战略价值被显著放⼤。
+与普通服务器相⽐， AI 服务器所需 MLCC 数量超出⼗倍以上 —— 每个服务器机架最多安装多达 60
+万颗 MLCC 。
+与此同时， AI 服务器对 MLCC 的规格要求极为严苛，需满⾜超⼩型、超⼤容量设计，以及耐⾼
+温、耐⾼压、抗基板翘曲等多项可靠性标准，技术⻔槛极⾼，具备实际⼤规模供货能⼒的企业
+数量极为有限。
 
-注：コア物価はエネルギー・食料・アルコール・たばこを除く
-出所：欧州統計局資料より第一ライフ資産運用経済研究所が作成
-（図表２）ユーロ圏の消費者物価の主要項目の推移（前年比）
--20
--15
--10
--5
-0
-5
-10
-15
-20
-25
-30
-35
-40
-45
-50
--8
--6
--4
--2
-0
-2
-4
-6
-8
-10
-12
-14
-16
-18
-20
-2020 2021 2022 2023 2024 2025 2026
-（％）
-消費者物価（左目盛）
-コア物価（左目盛）
-食料品（左目盛）
-エネルギー（右目盛）
-（％）
-利上げ局面
-出所：欧州中央銀行資料より第一生命経済研究所が作成
-（図表３）ＥＣＢスタッフによるユーロ圏の消費者物価見通し
--2
-0
-2
-4
-6
-8
-10
-2019Q1
-2019Q3
-2020Q1
-2020Q3
-2021Q1
-2021Q3
-2022Q1
-2022Q3
-2023Q1
-2023Q3
-2024Q1
-2024Q3
-2025Q1
-2025Q3
-2026Q1
-2026Q3
-2027Q1
-2027Q3
-2028Q1
-2028Q3
-（前年比、％）
-実績
-2026年6月ベースライン
-2025年6月穏健シナリオ
-2026年6月悪材料シナリオ
-2026年6月深刻シナリオ
-
-### Page 3
-
-3/4
-
-最近のＥＣＢ高官の発言からは、追加利上げへの切迫感が後退している様子が窺える。ＥＣＢ
-は６月 29 日～７月１日に毎年恒例の金融政策フォーラムをポルトガルのシントラで開催し、多く
-のＥＣＢ高官が発言した。理事会メンバーの多くは、最近のエネルギー市況の緊張緩和とインフ
-レ圧力の後退を好感している。タカ派メンバーを中心に先行きの利上げ姿勢を維持しているが、
-全般にトーンダウンしている。主な発言は以下の通り。
-
-➢ ラガルド総裁（ややタカ派）「ユーロ圏の物価の上振れリスクと景気の下振れリスクは、数週間
-前と比べてよりバランスの取れたものになっている」 （７月１日） 
-➢ ブイチッチ副総裁（タカ派）「７月の理事会までに公表されるデータを待つ必要がある。９月に
-は新たな見通しが発表され、新たに入ってくるデータに基づいて決定する」 （７月１日） 
-➢ カザークス・ラトビア中銀総裁（ややハト派）「連続利上げの緊急性は大幅に低下しており、Ｅ
-ＣＢは現時点でインフレに対して強力な対応を取る必要はない」 （７月１日） 
-➢ ナーゲル・ドイツ連銀総裁（タカ派）「７月と９月の理事会については選択肢を広く残しておく
-つもりだ」 （７月１日） 
-➢ コッハー・オーストリア中銀総裁（タカ派） 「次回の会合では、現在の金融政策を維持するか、
-それとも金利をさらに引き上げるかという決定が下される可能性が高い。インフレの脅威はま
-だ完全に収束したわけではないが、確実に弱まっている」（７月１日） 
-➢ デマルコ・マルタ中銀総裁（ハト派） 「こうした物価上昇圧力が緩和されている状況下では、政
-策措置を急ぐのは賢明ではないだろう」 （７月１日） 
-➢ ウンシュ・ベルギー中銀総裁（タカ派） 「さらなる利上げの根拠は薄れつつある」 （７月１日） 
-➢ レーン・フィンランド中銀総裁（ハト派） 「インフレ期待は安定している。性急な結論は出さ
-ず、来月のデータがどのような結果を示すか様子をみましょう」 （６月30 日） 
-➢ ドレンツ・クロアチア中銀総裁（タカ派） 「石油・ガス価格が低水準にとどまるのであれば、さ
-らなる金融引き締めを検討する緊急性は特にない。現時点で入手可能なデータに基づけば、９
-月までは様子見の姿勢をとるのが適切と考えられる」 （６月30 日） 
-➢ スレイペン・オランダ中銀総裁（タカ派） 「現在の原油価格の下落はインフレの観点からは間違
-いなく朗報だが、今後どのような展開が待ち受けているかはまだ見通しが立たない」 （６月30
-日） 
-➢ ウンシュ・ベルギー中銀総裁（タカ派） 「さらなる利上げが必要になる可能性はあるが、６月に
-考えていたほどではない。もしさらなる利上げが必要だと判断するなら、早めに行動したほう
-がいい。だからといって、7 月になるという意味ではない」 （６月30 日） 
-➢ ナーゲル・ドイツ連銀総裁（タカ派）「インフレ率は高止まりするだろう。金融政策は引き続き
-警戒を怠ってはならない」（６月 30 日） 
-➢ ラガルド総裁（ややタカ派）「６月の利上げは保険的な利上げではない。その後の情勢も判断を
-変えるものではない」（６月 29 日）
-
-### Page 4
-
-本資料は情報提供を目的として作成されたものであり、投資勧誘を目的としたものではありません。作成時点で、第一ライフ資産運用
-経済研究所が信ずるに足ると判断した情報に基づき作成していますが、その正確性、完全性に対する責任は負いません。見通しは予告
-なく変更されることがあります。また、記載された内容は、第一生命保険ないしはその関連会社の投資方針と常に整合的であるとは限
-りません。 
-4/4
-
-先物金利が示唆する年内の追加利上げは、利上げ開始直後の２回超から足元で１回程度に後退
-している（図表４） 。７月の利上げ確率は３割程度にとどまり、次のスタッフ見通しが発表される
-９月までの利上げ確率は６割程度となっている。米国とイランの和平プロセスは、６月中旬に両
-国が覚書を交わした後もホルムズ海峡の通航ルール、制裁解除、核問題などを巡って対立が残
-り、散発的な攻撃が続くなど、恒久的な解決への道のりは長い。ただ、緊張再燃による資源価格
-の再高騰がなければ、ＥＣＢが利上げを急ぐ必要性は遠退く。筆者も９月の追加利上げ予想を今
-のところ維持しているが、７月の追加利上げを見送った後、賃金や他の物価への波及が限定的な
-ものにとどまるならば、９月の追加利上げが必要かどうかを巡っての議論が本格化しよう。
-
-以 上
-
-出所：欧州中央銀行資料より第一ライフ資産運用経済研究所が作成
-（図表４）ＥＣＢの政策金利見通し
--1.0
--0.5
-0.0
-0.5
-1.0
-1.5
-2.0
-2.5
-3.0
-3.5
-4.0
-4.5
-2022 2023 2024 2025 2026 2027
-下限の政策金利（預金ファシリティ金利）
-第一ライフ資産運用経済研究所の政策金利見通し
-市場金利が示唆する将来の政策金利（インプライド金利）（％）
-ＥＣＢの中立金利の推計値（1.75～2.25％）
+硅电容⽅⾯，该产品安装于 AI 芯⽚封装内部（包括 GPU 及⾼带宽内存 HBM ），⽤于辅助稳定电
+源，其电阻约为传统 MLCC 的百分之⼀，性能优势突出。
+三星电机在 AI 服务器 MLCC 市场保持全球领先地位，市占率超过 40% 。这⼀市场份额优势被认为
+是公司持续获得⼤客⼾⻘睐的核⼼⽀撑，也是今年 5 ⽉硅电容⻓协披露后股价⼤幅上涨的重要驱
+动因素。
+三星电机称，公司⽬前正与多家全球客⼾就中⻓期 MLCC 供货计划进⾏进⼀步磋商，并计划通过
+扩⼤⻓期供货合同，在稳固 AI 服务器 MLCC 稳定需求基础的同时，加速推进以⼯业、⻋载电⼦及
+AI 服务器应⽤为核⼼的⾼附加值产品组合转型。
+5 ⽉，公司与⼀家全球客⼾签署约 1.5 万亿韩元的⻓期硅电容供货合同； 6 ⽉，再度与⼀家全球⼤
+型科技企业签下约 4500 亿韩元的 AI 服务器 MLCC 供货协议；此次 7 ⽉披露的合同则进⼀步将年内
+已公开的 AI 服务器 MLCC 合同总额推⾄ 750 亿韩元。
+请发表您的评论
+表情 发布评论
 
 ---
-## Document 604: 摩根大通的“技术分析”：油价触及关键阻力，金价中期偏空，铜价跌破支撑将强化看空
+## Document 333: U.S. Economic Forecast
 
-Source PDF: all report pdf/摩根大通的“技术分析”：油价触及关键阻力，金价中期偏空，铜价跌破支撑将强化看空.pdf
-Report source: WallstreetCN (Global)
-Date: 2026-07-23
+Source PDF: all report pdf/U.S. Economic Forecast.pdf
+Report source: Wells Fargo (Economics)
+Date: 2026-07-16
 Pages: 1
 Extraction status: ok
 
-### Page 1
-
-⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⽣活家 搜索
+[No extractable text after boilerplate filtering.]
 
 ---
-## Document 605: 放出した備蓄米はどう買戻すべきか～価格低下を望む消費者と、政府買入れを求める市場の間で...
+## Document 509: 回调即布局机会！瑞银：去杠杆尾声+盈利预期上调+监管层维护市场稳定，科技依然是A股核心主线
 
-Source PDF: all report pdf/放出した備蓄米はどう買戻すべきか～価格低下を望む消費者と、政府買入れを求める市場の間で....pdf
-Report source: NLI
-Date: 2026-07-10
-Pages: 6
+Source PDF: all report pdf/回调即布局机会！瑞银：去杠杆尾声+盈利预期上调+监管层维护市场稳定，科技依然是A股核心主线.pdf
+Report source: WallstreetCN (Global)
+Date: 2026-07-23
+Pages: 5
 Extraction status: ok
 
 ### Page 1
 
-1――備蓄米制度の本来目的 
-現在の政府備蓄米制度は、価格を調整するためではなく、不作などによる供給不足に備える仕組み
-として整備された。 その出発点が、1993 年の平成の米騒動を契機に制定された「主要食糧の需給及び
-価格の安定に関する法律」 （以下、食糧法）である。 
-食糧法では米穀の備蓄を「生産量減少によりその供給が不足する事態に備える在庫」と定義してい
-る。備蓄米制度は、米価を抑える目的ではなく、供給不足に備える安全対策として設計された。 
-当初の備蓄制度は、 平均的な不作が2 年続いても支障が出ないよう、150 万トンを基本に、1 年保有
-後に主食用米として販売する回転備蓄方式で運営された。しかし、豊作や過剰作付けで主食用米とし
-ての販売が振るわず、在庫と財政負担が膨らんだ。 
-このため、2002 年度から備蓄水準は100 万トンへ縮小された。毎年50 万トン程度を買い入れ、2 年
-保有後に主食用米として販売するよう、毎年の買い入れ量の縮小に加え、保管期間の延長が図られた。 
-その後、2011 年度からは現在の制度に変更された。収穫前に買い入れ、5 年程度保管後に飼料用等
-へ販売する棚上備蓄方式で運営されている。備蓄米の総量は100 万トン程度を維持し、 毎年20 万トン
-程度を買い入れると同時に、飼料用米等として20 万トン程度を販売している。また現在の方式では、
-買入時期を前倒しにすることで、市場の価格形成への影響を避ける狙いがある。 
-ただし、備蓄米の制度目的とは別に、 過去には需給緩和局面の市場安定化に使われた例もある。2007
-年の米価下落局面では、 政府は 「米緊急対策」 として34 万トンを買い入れ、 市場の価格下落を抑制し
-た。この事例は、備蓄米制度が、本来の供給不足対策という目的を超え、価格安定策として運用され
-得ることを示している。
+瑞银称， A 股科技股近期回调主要源于获利了结、去杠杆和交易降温，⽽⾮基本⾯恶化。公
+募基⾦科技仓位创历史新⾼，北向资⾦⼆季度⼤幅转为净流⼊，叠加盈利改善与 AI 政策⽀
+持，当前回调或成为布局窗⼝。
+摘要：
+A 股科技板块近期剧烈震荡，但瑞银最新研究显⽰，此轮回调的根源在于获利了结、交易拥挤度
+下降及去杠杆压⼒，⽽⾮基本⾯恶化。与此同时，公募基⾦对科技板块的配置已在 2026 年⼆季
+度创下历史新⾼，多重积极信号正在汇聚。
+追⻛交易台消息，据瑞银 7 ⽉ 23 ⽇发布的中国股票策略报告。分析师统计显⽰， Q2公募基⾦对
+⼤科技板块的持仓⽐例和超配⽐例分别升⾄ 57.3% 和 18.5% ，均创历史新⾼，远超此前⼤消费板
+块 43.7% 的历史峰值。与此同时，监管层、国有资本运营公司及保险机构相继表态维护市场稳
+定，沪深 300 、创业板指及科创 50 ETF 均出现⼤规模净流⼊。
+瑞银认为， A 股融资余额已从峰值快速回落，科技板块融资规模显著收缩，但其杠杆率与整体市
+场⼤体相当，当前去杠杆阶段或已接近尾声。与此同时， A 股盈利基本⾯持续改善，创业板和科
 
-2――令和 7 年備蓄米放出における基本指針の変更 
-1｜従来ルールと令和7 年 1 月の転換 
-従来、備蓄米を放出するには、大凶作や連続不作で民間在庫が著しく低下する場合に、農林水産省
-の食糧部会で作柄、在庫、市場、価格等を議論し、農林水産大臣が放出を決定する必要がある。令和
-2026-07-10 
-研究員 
-の眼 
-放出した 備蓄米は どう 買戻すべ
-きか 
-～価格低下を望む消費者と、政府買入れを求める市場の間で考え
-る備蓄米制度～
-
-総合政策研究部 准主任研究員 小前田 大介 
-(03)3512-1834  d-komaeda@nli-research.co.jp 
-ニッセイ基礎研究所
+创板盈利预期获得连续上调，政策层⾯对 AI 发展的⽀持构成⻓期顺⻛。
+公募基⾦科技仓位创历史新⾼
+据瑞银报告， 2026 年⼆季度，公募基⾦⼤幅增持电⼦、电信及机械板块，持仓⽐例分别环⽐上
+升 20.2 个百分点、 4.4 个百分点和 0.8 个百分点。其中，电⼦和电信板块的持仓⽐例及超配⽐例均
+⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⽣活家 搜索
 
 ### Page 2
 
-2｜買戻し条件付き競争入札 
-最初の放出は、買戻し条件付きの一般競争入札だった。令和7 年2 月の売渡し概要では、令和6 年
-産を中心に令和5 年産も加え、21 万トンを販売予定とし、初回は15 万トンとされた。対象は年間玄
-米仕入量5,000 トン以上の集荷業者等である。買受者は同等同量の国内産米を一定期間後に政府へ売
-り渡すことを誓約する必要があった。買戻し期限は当初、1 年以内だった。 
-需給がひっ迫する中で、なぜ買戻し条件を付けたのか。政府資料を確認した限り、理由は明確に示
-されていない。備蓄水準を将来的に100 万トン程度へ戻す意図があった可能性はある。しかし市場に
-対しては、「将来、政府が買う」という大きな需要を示唆することになる。 
-3｜買戻し期限の延長と随意契約 
-令和7 年5 月の「米の流通安定化に向けた対策パッケージ」では、買戻し期限が原則1 年以内から
-原則5 年以内へ延長された。同時に、令和7 年産の備蓄米買入れについても、需給環境が大きく変化
-しなければ当面買入れを中止し、買戻しも行わないとされた。買戻しの運用は、短期で同量を戻す方
-式から、需給を見ながら中長期で判断する方式に変更された。 
-その後、政府は随意契約による売渡しに移行し、買戻し条件を付与しない契約形態により、小売業
+升⾄历史最⾼⽔平。
+全球 AI 浪潮持续推动全球科技巨头资本开⽀强劲增⻓，为科技硬件的基本⾯提供有⼒⽀撑。机械
+板块⽅⾯，⼈形机器⼈产业链快速成⻓，⼯程机械海外业务增⻓亦有所恢复。
+与此同时，公募基⾦⼤幅提升对科创板和创业板的配置，两者持仓⽐例分别环⽐上升 9.9 个百分
+点和 3.5 个百分点，均创历史新⾼。主动管理型科技主题基⾦规模占全部主动管理型公募基⾦资
+产管理规模的⽐例，亦升⾄历史最⾼的 27.5% 。瑞银指出，该⽐例已明显超过跟踪科技相关指数
+的被动基⾦的规模占⽐，显⽰主动资⾦对科技赛道的认可度持续提升。
+北向资⾦⼤幅转为净流⼊
+瑞银估算显⽰，北向资⾦在 2026 年⼆季度实现净流⼊⼈⺠币 2230 亿元，⽽⼀季度为净流出 130
+亿元，转变幅度显著。
+瑞银认为， A 股硬科技股吸引⼒持续提升是主要驱动因素之⼀。
+从⾏业分布来看，⼯业和信息技术板块分别录得北向净流⼊⼈⺠币 1285 亿元和 672 亿元，是吸⾦
+最多的两⼤⽅向。相⽐之下，必需消费品和电信板块是仅有的两个出现净流出的⾏业，净流出
+
+规模分别为 97 亿元和 31 亿元。
+去杠杆接近尾声，回调或为布局窗⼝
+瑞银在报告中明确指出，近期全球科技股波动加剧及 A 股科技板块⼤幅回调，主要源于获利了
+结、交易拥挤度下降以及去杠杆压⼒，⽽⾮基本⾯层⾯的实质性恶化。
+从去杠杆进程来看，A 股市场融资余额已从峰值快速下降，科技板块融资规模⼤幅收缩，但其杠
+杆率与整体市场⽔平⼤体相当。瑞银认为，上述迹象表明当前去杠杆阶段或已临近尾声。
+在盈利层⾯，瑞银预计全部 A 股盈利同⽐增速将从 2025 年的 3.9% 提升⾄ 2026 年的 11% 。⾃ 2026
+年⼆季度初以来，⼯业企业利润增速已有所加快，创业板和科创板的盈利预期亦获得持续上
+调。
+政策⾯同样提供⽀撑。市场⼤幅波动期间，监管层、国有资本运营公司及保险机构相继表态，
+承诺维护市场稳定。
+据华尔街⻅闻此前⽂章， 7 ⽉ 19 ⽇晚间，中国国新与中国诚通相继发布公告，双双表态 “ 坚定看
+好中国资本市场发展前景 ” ，并宣布将继续增持中央企业股票及科技类资产。
+7 ⽉ 20 ⽇，保险⾏业三⼤头部机构 —— 中国平安、中国太保、新华保险当⽇先后发布关于 “ 坚定
+
+⽀持资本市场发展与提升股东回报 / 积极回报投资者 ” 的公告，向市场释放积极信号。
+另据⼈⺠⽇报， 7 ⽉ 20 ⽇上午，证监会党委书记、主席吴清在北京到证券营业部调研并主持召开
+投资者座谈会，与包括⼤中⼩散各类投资者的 8 名代表⾯对⾯交流，就促进资本市场稳定健康发
+展听取意⻅建议。
+沪深 300 、创业板指及科创 50 ETF 的成交量出现明显放量，并录得⼤规模净流⼊。瑞银认为， AI
+发展的政策⽀持构成⻓期结构性顺⻛，科技板块的核⼼主线地位短期内难以动摇。
+资⾦从传统板块持续撤离
 
 ### Page 3
 
-3――買戻しを判断する条件 
-1｜令和 8 年産米の供給余力 
-買戻しの是非は、過去にどれだけ放出したかだけではなく、供給余力と在庫構成によって決まる。 
-まず令和8 年産米の需給見通しを確認する。令和8 年産の主食用米と備蓄用米を合わせた生産量見
-通しは 740 万トン2で、基本指針の主食用需要見通し最大711 万トン3を上回る。令和8 年産備蓄米の
-政府買入入札は、第4 回までに約 21 万トンが落札された4。これを差し引くと、主食用米として市場
-に出回る数量は約719 万トンとなり、基本指針の主食用需要見通し最大711 万トンを約8 万トン上回
-る。さらに、令和8 年5 月末の民間在庫は223 万トンと前年同月比75 万トン増5で、令和8 年6 月末
-も 221～234 万トンと見込まれている6。令和8 年産米の需給見通しや直近の民間在庫を数量面からみ
-れば、一定の供給余力は確認できる。ただし、数量上の余裕が直ちに市場で利用可能な供給余力を意
-味するわけではなく、販売契約の状況や流通上の制約も踏まえて判断する必要がある。 
-2｜備蓄米の年産構成 
-棚上備蓄方式では、従来通りの買入が行われていれば、5 年程度保管後に飼料用等へ販売する運営
-が基本である。令和7 年産米の買入が通常通り行われていれば、令和2 年産米は制度上すでに飼料用
-米等への販売時期を迎えている。令和2 年産米の15 万トンは、 本来予定されていた飼料用等への販売
-が凍結されている。令和3 年産米も、令和8 年産米と入れ替わる形で飼料用米等として販売されるは
-ずの年産である（図表2）。 
-筆者が確認した範囲では、5 年経過後の食味劣化を定量的に示す研究結果は見当たらない。しかし、
-3 年経過米の放出にはメッシュチェック7を必須としたことや、消費者の古い年産米に抱く心理的な抵
-抗感を踏まえれば、主食用米としての活用には一定のハードルがあると推察される。 
-したがって、令和7 年の大規模放出後は、 「減った備蓄を戻す」 だけでなく、 本来更新時期を迎えた
-年産米の更新要否も検討すべきである。6 月末時点で民間在庫が潤沢であれば、備蓄水準の回復に加
-え、年産構成を正常化するため、一定量について、既存契約に基づく買戻し、または新たな備蓄米買
-入れを行うことを検討する合理性はある。
+与科技板块的历史性超配形成鲜明对⽐，公募基⾦对多个传统板块的配置持续下降。⼆季度，
+电⽓设备、有⾊⾦属和⻝品饮料遭到明显减持，化⼯、国防军⼯、汽⻋、银⾏及⾮银⾦融的持
+仓⽐例亦有不同程度下滑。
+国有企业相关持仓在⼆季度出现明显收缩。医疗保健板块的持仓⽐例和超配⽐例双双下降，家
+⽤电器持仓进⼀步⾛低。煤炭、⽯油及⽯化板块的持仓⽐例亦有所回落。
+上述资⾦流向的结构性变化表明，在全球 AI 主题持续演绎的背景下，机构投资者正加速将筹码集
+中于科技赛道，对周期性及防御性板块的兴趣则持续减退。
 
-1 買戻し条件付き売渡しは契約数量ベース、随意契約による売渡しは申込確定数量ベース、加工原材料用への売渡しは申込
-申請数量ベース 農林水産省 米をめぐる状況について（令和8 年3 月）  
-2 農林水産省 食料・農業・農村政策審議会食糧部会 議事録（令和8 年3 月23 日開催） 
-3 農林水産省 米の需給見通しについて 令和8 年3 月 
-4 農林水産省 令和8 年産備蓄米の政府買入入札の結果 第4 回 令和8 年6 月9 日実施 
-5 農林水産省 令和8 年5 月の米穀流通の動向（集荷、販売、民間在庫） 令和8 年6 月30 日 
-6 農林水産省 米の需給見通しについて 令和8 年3 月 
-7 玄米状態の米を二重にした金属の網に通し、カビの発生や品質劣化、異物混入の有無を目視で確認する検査作業
-
-### Page 4
-
-3｜買戻し条件は必要か 
-買戻し条件は、生産者や流通側には将来需要を示すことで価格の急落を防止する安心材料となる。
-一方、消費者には、政府買入れが将来の需要として織り込まれれば、価格低下が緩やかになる可能性
-があるため、価格下支え策と受け止められやすい。今回の備蓄米放出が流通・価格対策として行われ
-た以上は、市場価格に影響を及ぼす買戻し条件の設定は慎重に行うべきであった。 
-備蓄水準の回復は食料安全保障上必要であり、買戻し条件そのものを否定すべきではない。ただし、
-放出時点で同量・短期間の買戻しを一律に固定すれば、将来の政府需要が市場に織り込まれ、価格形
-成に影響を及ぼす可能性がある。今後は備蓄残高、年産構成、民間在庫、生産量見通し、需要動向を
-見ながら、買戻しの時期と数量を臨機応変に判断する必要がある。
-
-4――備蓄米制度に残る課題 
-今回の備蓄米放出では、流通の遅れ、民間在庫の把握不足、輸入米が果たした調整機能といった制
-度運営上の課題も明らかになった。以下では、これらの課題を整理し、今後の備蓄米制度に求められ
-る見直しの方向性を確認する。 
-1｜備蓄米は流通に時間がかかる 
-今回、課題となったのは、備蓄米の市場流通における機動性である。政府は約100 万トンを保有し
-ていたが、備蓄米は玄米であり、消費者に届くまでには品質確認、精米、包装、配送、販売先調整な
-どが必要である。加えて、一般競争入札には公告期間を要した。また売渡しの混乱を避ける観点から
-川上の集荷業者に販売したことで、川下へ届くまで時間を要した。
+~~~~~~~~~~~~~~~~~~~~~~~~
+以上精彩内容来⾃追⻛交易台。
+更详细的解读，包括实时解读、⼀线研究等内容，请加⼊【追⻛交易台 ▪ 年度会员】
 
 ### Page 5
 
-5――おわりに 
-令和の米騒動に伴う備蓄米放出では、当初、備蓄米の放出が市場の価格形成を過度にゆがめないか
-が問われた。政府も、競争入札から随意契約へ、買戻し条件付きから買戻し期間の延長・買戻し条件
-なしへと運用を変更した。 
-放出後の買戻しについては、単に放出量を穴埋めするだけでは不十分である。政府備蓄の残高、年
-産構成、6 月末の民間在庫、 作柄見通し、 需要動向、 海外産米の調達状況などを見ながら、 時期と数量
-を判断する必要がある。民間在庫が一定の水準を上回り、価格下支えにつながる懸念が小さい場合に
-は、備蓄水準の回復や年産米の入替えを兼ねた買入れは検討すべきである。一方で、放出時点で買戻
-し条件を固定すれば、将来の政府需要が市場に織り込まれ、価格形成に影響を及ぼしかねない。 
-備蓄米制度は、不作時の保険として始まった。しかし令和7 年の備蓄米放出は、備蓄米制度に、流
-
-8 農林水産省 令和6 年産米の産地別契約・販売状況（令和7 年1 月末） 
-9 財務省 貿易統計 対象は（MA 米を除く）米の輸入量を暦年比較。前年比は筆者計算。
-
-### Page 6
-
-本資料記載のデータは各種の情報源から入手・加工したものであり、その正確性と完全性を保証するものではありません。 
-また、本資料は情報提供が目的であり、記載の意見や予測は、いかなる契約の締結や解約を勧誘するものではありません。
+⻛险提⽰及免责条款
+市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
+292 收藏 分享到 :
+写评论
+图⽚
+3 条评论
+限免
+请发表您的评论
+表情 发布评论
+LordS8 ⼩时前中国湖北省
+2  回复
+没⼈接盘急了？
+MobileUser27989 ⼩时前中国
+0  回复
+AI 始终是绕不开的。第⼆次互联⽹机遇
+MobileUser887310 ⼩时前中国浙江省
+5  回复
+⽼乡别⾛，⽼乡别⾛，我们还没有减持完
 
 ---
-## Document 650: 特斯拉的“尴尬期”：汽车利润越来越薄，AI故事越来越贵
+## Document 586: 极致抱团！一份“前所未有”的基金季报及当下的配置建议
 
-Source PDF: all report pdf/特斯拉的“尴尬期”：汽车利润越来越薄，AI故事越来越贵.pdf
+Source PDF: all report pdf/极致抱团！一份“前所未有”的基金季报及当下的配置建议.pdf
 Report source: WallstreetCN (Global)
 Date: 2026-07-23
 Pages: 1
@@ -8815,539 +7763,85 @@ Extraction status: ok
 ⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⽣活家 搜索
 
 ---
-## Document 672: 米住宅着工・許可件数（26年6月）－着工件数は142.7万件と前月（119.9万件）、市場予想（131.0万件）を大幅に上回る
+## Document 649: 美伊停火希望落空！布油重回95美元关口，地缘风险溢价全面回归
 
-Source PDF: all report pdf/米住宅着工・許可件数（26年6月）－着工件数は142.7万件と前月（119.9万件）、市場予想（131.0万件）を大幅に上回る.pdf
-Report source: NLI
-Date: 2026-07-21
+Source PDF: all report pdf/美伊停火希望落空！布油重回95美元关口，地缘风险溢价全面回归.pdf
+Report source: Unknown
+Date: 未知日期
 Pages: 3
 Extraction status: ok
 
 ### Page 1
 
-1． 結果の概要：住宅着工は市場予想を上回った一方、許可件数は市場予想を下回る 
-7 月17 日、米国センサス局は26 年 6 月の住宅着工、許可件数を発表した。住宅着工件数（季節
-調整済、年率）は142.7 万件（前月改定値：119.9 万件）と117.7 万件から上方修正された前月
-値、市場予想の131.0 万件（Bloomberg 集計の中央値）をいずれも大幅に上回った（図表1、図表
-3）。 
-先行指標である建設許可件数（季節調整済、年率）は136.7 万件（前月：141.0 万件）とこちら
-は前月および市場予想の 140.3 万件を下回った（図表 2、図表 5）。
-
-2． 結果の評価：着工は集合住宅主導で反発、4－6 月期の住宅投資は 6 期ぶりのプラスへ 
-住宅着工件数の伸びは前月比+19.0％ （前月：▲15.2％）と前月から大幅なプラスに転じた（図表
-3）。戸建て住宅が▲0.2％（前月：▲1.9％）とマイナス幅は縮小したものの、3 ヵ月連続のマイナ
-スとなった一方、2 戸以上を合計した集合住宅が+76.2％ （前月：▲39.6％） と大幅なプラスに転じ
-て着工件数全体を押し上げた（図表4）。 
-前年同月比は+3.5％（前月：▲7.0％）と前月からプラスに転じた。戸建てが▲3.2％（前月：▲
-5.1％）と3 ヵ月連続のマイナスとなった一方、集合住宅が+17.2％（前月：▲12.2％）と 2 桁のプ
-ラスに転じて着工件数全体を押し上げた。 
-地域別寄与度（前月比）は、北東部が+1.0％ポイント （前月 ：▲2.3％ポイント）、中西部が+5.2％
-ポイント （前月 ：▲0.6％ポイント）、南部が+8.2％ポイント （前月 ：▲7.6％ポイント）、西部が+4.7％
-ポイント（前月：▲4.8％ポイント）とすべての地域で前月からプラスに転じた。 
-（図表 1）
-
-（図表 2）
-
-0
-20
-40
-60
-80
-100
-120
-140
-160
-180
-200
-2021 2022 2023 2024 2025 2026
-集合住宅（二戸以上）
-戸建て
-住宅着工件数
-住宅着工件数（万件）
-（資料）センサス局よりニッセイ基礎研究所作成 （月次）
-0
-20
-40
-60
-80
-100
-120
-140
-160
-180
-200
-220
-2021 2022 2023 2024 2025 2026
-集合住宅（二戸以上）
-戸建て
-住宅建設許可件数
-住宅着工許可件数（万件）
-（資料）センサス局よりニッセイ基礎研究所作成 （月次）
-ニッセイ基礎研究所 2026-07-21 
-米住宅着工・許可件数（26 年 6 月） 
-着工件数は 142.7 万件と前月（119.9 万件）、市場
-予想（131.0 万件）を大幅に上回る
-
-### Page 2
-
-先行指標である住宅建設許可件数は、前月比が▲3.0％（前月：▲0.9％）と 2 ヵ月連続のマイナ
-スとなったほか、マイナス幅が拡大した（図表 5）。戸建てが▲2.4％（前月：+1.2％）と前月から
-マイナスに転じたほか、集合住宅も▲4.2％（前月 ：▲4.4％） と2 ヵ月連続のマイナスとなった（図
-表6）。 
-前年同月比は▲2.3％（前月：▲0.4％）と 4 ヵ月連続のマイナスとなった。集合住宅が▲5.7％
-（前月：+4.6％）と3 ヵ月ぶりにマイナスに転じたほか、戸建てが▲0.2％（前月：▲0.8％）とマ
-イナス幅は縮小したものの、25 ヵ月連続のマイナスとなった。
-
-一方、住宅着工件数と許可件数の 3 ヵ月移動平
-均、3 ヵ月前比は年率で 6 月がそれぞれ▲18.6％
-（3 月：+31.7％） 、▲8.6％（3 月：▲1.7％）と3
-月に比べて着工件数が 2 桁のマイナスに転じたほ
-か、許可件数のマイナス幅が拡大した（図表7）。 
-もっとも、民間住宅建設支出は4－5 月平均 （季
-節調整済、 年率）が 9,287 億ドルと1－3 月平均の
-9,126 億ドルを上回っている。ＧＤＰに計上され
-る住宅投資は建設工事の進捗（出来高）を反映す
-るため、4－6 月期の住宅着工件数が前期比で大幅
-（図表 3）
-
-（図表 4）
-
-（図表 5）
-
-（図表 6）
-
-（図表7）
-
--180
--160
--140
--120
--100
--80
--60
--40
--20
-0
-20
-40
-60
-80
--40
--30
--20
--10
-0
-10
-20
-30
-40
-50
-60
-70
-80
-90
-2021 2022 2023 2024 2025 2026
-季調済前月比
-前年同月比（右軸）
-住宅着工件数（伸び率）（前月比、％）
-（資料）センサス局よりニッセイ基礎研究所作成 （月次）
-（前年同月比、％）
--30
--20
--10
-0
-10
-20
-30
-2021 2022 2023 2024 2025 2026
-集合住宅 一戸建て 住宅着工
-住宅着工件数前月比（寄与度）（％）
-（資料）センサス局よりニッセイ基礎研究所作成 （月次）
--120
--100
--80
--60
--40
--20
-0
-20
-40
-60
-80
--30
--20
--10
-0
-10
-20
-30
-40
-50
-60
-70
-2021 2022 2023 2024 2025 2026
-季調済前月比
-前年同月比（右軸）
-住宅建設許可件数（伸び率）（前月比、％）
-（資料）センサス局よりニッセイ基礎研究所作成 （月次）
-（前年同月比、％）
--25
--20
--15
--10
--5
-0
-5
-10
-15
-20
-2021 2022 2023 2024 2025 2026
-集合住宅（二戸以上） 一戸建て 住宅建設許可件数
-住宅建設許可件数前月比（寄与度）（％）
-（資料）センサス局よりニッセイ基礎研究所作成 （月次）
-▲ 40
-▲ 20
-0
-20
-40
-60
-80
-100
-▲ 100
-▲ 50
-0
-50
-100
-150
-200
-250
-2020 2021 2022 2023 2024 2025 2026
-住宅着工件数
-住宅建設許可件数
-住宅投資（実質伸び率、右軸）
-住宅着工件数と実質住宅投資の伸び率（年率）
-（注）住宅着工件数、住宅建設許可件数は3カ月移動平均後の3カ月前比年率
-（資料）センサス局、BEAよりニッセイ基礎研究所作成 （着工・建設許可：月次、住宅投資：四半期）
-（年率）
-
-### Page 3
-
-本資料記載のデータは各種の情報源から入手・加工したものであり、その正確性と完全性を保証するものではありません。 
-また、本資料は情報提供が目的であり、記載の意見や予測は、いかなる契約の締結や解約を勧誘するものではありません。
-
----
-## Document 740: 证监会这场座谈会，透露了啥信息？
-
-Source PDF: all report pdf/证监会这场座谈会，透露了啥信息？.pdf
-Report source: WallstreetCN (Global)
-Date: 2026-07-22
-Pages: 2
-Extraction status: ok
-
-### Page 1
-
-⼀是稳市决⼼，明确维护市场平稳运⾏，国家队同步⼊市超 600 亿元；⼆是⻓期信⼼，强调
-短期波动不改⻓期向好趋势；三是强基恒⼼，推动制度建设完善，健全投资者保护⻓效机
-制，问计于市场已成常态化制度安排。
+美伊冲突连续升级、谈判前景⼏近破裂，市场开始为⻓期能源供应⻛险重新定价。布伦特
+原油突破 95 美元，霍尔⽊兹海峡封锁⻛险推升油⽓价格、通胀预期和美债收益率同步⾛
+⾼，地缘政治⻛险溢价正成为全球能源市场新的定价核⼼。
 摘要：
-近期，受境外输⼊性⻛险等因素叠加影响， A 股市场出现较⼤波动。在此背景下，证监会党委书
-记、主席吴清 7 ⽉ 20 ⽇召开的⼀场座谈会⼴受关注。
-这场座谈会，名为投资者座谈会，顾名思义，以投资者为核⼼。吴清与包括⼤中⼩散各类投资
-者的 8 名代表⾯对⾯交流，就促进资本市场稳定健康发展听取意⻅建议。在当前市场波动的背景
-下，及时倾听投资者意⻅、回应关切，这⾸先表明了监管部⻔⾼度重视投资者的声⾳，也体现
-了监管部⻔ “ 问需于市场、问计于投资者 ” 的务实态度。
-在⾯对⾯的交流中，建议与表态、需求与回应积极碰撞、有效对接，进⼀步传达了丰富的信息
-量，可以⽤三个 “ ⼼ ” 来概括。
-稳市场稳预期的决⼼
-座谈会上吴清表态，证监会将坚持⼀体推进资本市场防⻛险、强监管、促⾼质量发展，全⼒维
+美伊冲突持续升级，全球能源市场正在为⼀场旷⽇持久的供应冲击重新定价。
+布伦特原油周三盘中突破每桶 95 美元，创六周新⾼，单⽇涨幅接近 5% 。与此同时，美国与伊朗
+双⽅均明确释放出拒绝谈判的信号，令市场对短期停⽕的预期⼏近归零。油价的上涨已不再是
+单纯的供需逻辑驱动，地缘⻛险溢价正在成为定价体系中的结构性锚点。
+据央视新闻，当地时间 7 ⽉ 22 ⽇，美国总统特朗普在社交媒体发⽂表⽰，从现在起，只要伊朗在
+霍尔⽊兹海峡向船只开⽕，⽆论使⽤导弹、⽕箭弹、⽆⼈机，还是其他装置或武器，美国都将
+轰炸并摧毁伊朗⼀座桥梁或发电⼚。特朗普称，相关打击⽬标也包括位于伊朗⾸都德⿊兰附近
+或德⿊兰市内的桥梁和发电⼚。
+央视稍早前报道称，当地时间 21 ⽇晚，美国军⽅表⽰，已开始对伊朗进⾏最新⼀轮空袭，这标
 
-护市场平稳运⾏。这体现监管部⻔对当前稳市场态度明确、底线清晰。稳市场为了谁？正如吴
-清在座谈会上所说， “ ⼴⼤投资者是市场之本，是资本市场最重要的参与群体 ” 。此次座谈会搭建
-了与投资者直接沟通的桥梁，也体现了稳市场决⼼的 “ 底层逻辑 ” ，要让投资者更好分享经济和资
-本市场⾼质量发展成果。
-与座谈会形成呼应的是近期国家队 “ 真⾦⽩银 ” 的稳市动作。 7 ⽉ 19 ⽇，中国国新、中国诚通两⼤
-国有资本运营平台先后官宣增持 A 股，累计⼊市规模超 600 亿元。 20 ⽇五家央企控股上市公司也
-密集披露增持、回购、资产注⼊及分红安排。资⾦⾯协同发⼒进⼀步向市场释放稳定预期的信
-号和决⼼。
-对⻓期向好趋势不改的信⼼
-投资者的话语传达信⼼。会上，投资者代表结合投资和参与股市的经历和体会作了发⾔。⼤家
-表⽰，新 “ 国九条 ” 实施以来，我国资本市场总体呈现稳中向好发展态势。近期，受境外输⼊性⻛
-险等因素叠加影响， A 股市场出现较⼤波动，但 “9·26” 以来资本市场政策逻辑、创新逻辑、安全
-
-逻辑没有改变，短期波动不改变⻓期向好趋势。
-直⾯问题的坦诚强化信⼼。本次座谈会上，投资者代表提出的建议集中在五⼤⽅向：加强⼀⼆
-级市场逆周期调节，多措并举引导中⻓期资⾦⼊市，规范发展量化交易和 AI 应⽤，进⼀步推动上
-市公司加⼤分红⼒度，提⾼证券违法犯罪成本。这些建议精准聚焦当前市场的核⼼关切，座谈
-会收集的意⻅有望转化为后续务实的政策举措。
-强本强基的恒⼼
-资本市场⾼质量发展，离不开⻓期的制度建设。本次座谈会上投资者代表的核⼼建议指向的是
-市场调节、资⾦供给、交易监管、上市公司投资价值、投资者回报、违法惩治等资本市场机制
-的完善。监管部⻔的回应也从制度建设⻆度出发，⽆论是 “ ⼀体推进资本市场防⻛险、强监管、
+志着美军连续第 11 晚对伊朗发动袭击。打击范围⾸次延伸⾄西北部城市⼤不⾥⼠附近的军事⽬
+标，同时对伊朗西部靠近伊拉克边境的阿⼘达南和乔⽡尔实施打击。
+伊朗内政部发⾔⼈明确表⽰， " ⽬前没有任何谈判，只可能存在信息传递 " ，伊朗议员 Qashqavi
+亦否认特朗普关于伊朗寻求谈判的说法。油价飙升已向债券市场传导，美国 10 年期和 30 年期国
+债收益率升⾄约两个⽉⾼位，市场对美联储加息的押注随之升温。
+冲突升级，霍尔⽊兹海峡封锁⻛险加剧
+美伊军事对抗已进⼊第 11 个连续交⽕夜，战线持续扩⼤。
+美军此次将打击范围扩展⾄⼤不⾥⼠，这是⾃两周前冲突激化以来该地区⾸次遭到打击，标志
+着美⽅轰炸⾏动的地理边界正在向伊朗腹地推进。
+美国中央司令部（ CENTCOM ）表⽰，此轮打击⽬标包括伊朗军事指挥中⼼、海上作战能⼒、
+⻜机机库、⽆⼈机储存设施及军事后勤基础设施，⽬的是进⼀步削弱伊朗威胁霍尔⽊兹海峡商
 ⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⽣活家 搜索
 
 ### Page 2
 
 ⻛险提⽰及免责条款
 市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
-54 收藏 分享到 :
+452 收藏 分享到 :
 写评论
-图⽚
-1 条评论
-促⾼质量发展 ” ，还是 “ 不断健全投资者保护⻓效机制 ”“ 坚决维护公开、公平、公正的市场秩序 ” ，
-都显⽰了监管部⻔持续完善制度建设、夯实市场内在稳定基础的恒⼼。
-⽽此次座谈会这样问计于众的形式也已经形成⼀种制度安排。近年来，证监会已召开覆盖专家
-学者、上市公司、中介机构、外资等各类资本市场主体的座谈会，其中 2024 年、 2025 年、 2026
-年均召开了直接⾯向投资者的座谈会，体现了集思⼴益、凝聚共识的沟通渠道常态化、制度
-化，有利于下⼀步政策制定更紧密地贴合市场和投资者实际诉求。
-市场越波动，监管者与投资者之间沟通的桥梁要建得越稳固。⼴泛听取意⻅、积极回应诉求，
-期待后续更多政策和制度的落地和完善，进⼀步增强资本市场内在稳定性，构建更加健康发展
+业航运的能⼒。 CENTCOM 同时声称，⾃ 5 ⽉初以来，美军已协助约 900 艘船只、共计 4.5 亿桶原
+油通过霍尔⽊兹海峡。
+然⽽，伊朗军队总司令 Amir Hatami 明确表⽰，伊朗控制霍尔⽊兹海峡，并将对美军开⽕。据
+Kpler 数据，当⽇仅有 3 艘货船通过霍尔⽊兹海峡，航运实际受阻程度远超官⽅表述。与此同时，
+伊朗⽀持的胡塞武装宣布，已在红海南端曼德海峡附近部署⼒量，准备对试图停靠沙特港⼝的
+船只发动海上攻击，全球航运⾯临双线封堵⻛险。全球第三⼤集装箱航运公司达⻜轮船（ CMA
+CGM ）宣布，将于 8 ⽉ 1 ⽇起征收紧急燃油附加费。
+外交僵局，谈判窗⼝实质性关闭
+外交斡旋努⼒未能取得任何实质进展。伊朗内政部⻓ Eskandar Momeni 周⼆访问巴基斯坦 ——
 
-的市场⽣态。
-本⽂来源：⼈⺠⽇报客⼾端
-限免
+此次冲突的主要调停⽅之⼀ —— 但访问结束后，双⽅紧张态势并未缓和。伊朗⽅⾯随后表⽰，
+当前局势仅限于 " 信息传递 " ，并指责美⽅违反了 6 ⽉ 17 ⽇签署的临时停⽕协议，称该协议 " 实际上
+已形同废纸 " 。
+特朗普在回应记者提问时淡化了谈判前景，表⽰ " 他们迫切想要会⾯，但在他们准备好以有意义
+的⽅式会⾯之前，我们没有兴趣 " 。他同时暗⽰，美军可能打击伊朗疑似核设施 " 鹤嘴锄⼭ " ，并
+重申军事⾏动将持续。美国国务卿 Rubio 周三指责伊朗未能履⾏霍尔⽊兹海峡协议，称伊朗坚持
+要求对海峡拥有控制权是谈判的核⼼障碍，但同时表⽰美⽅ " 致⼒于外交途径 " 。
+伊朗⽅⾯则警告，若美国打击其核设施或其他敏感基础设施，将予以 " 强⼒反击 " ，并称若美军踏
+上伊朗领⼟，将⾯临 " 数百万⼈的全⼒抵抗 " 。
+能源价格全线上扬，通胀压⼒重燃
+油价飙升正在向更⼴泛的能源和⾦融市场蔓延。
+布伦特原油盘中最⾼触及每桶 95.24 美元， WTI 原油亦升⾄每桶 88.25 美元附近，两者单⽇涨幅均
+
+超过 4% 。欧洲精炼燃料价格同步上涨，批发柴油价格显著攀升。
+天然⽓市场同样承压。欧洲基准天然⽓价格荷兰 TTF 前⽉合约升⾄每兆⽡时 62 欧元上⽅，⾼于前
+⼀⽇不⾜ 60 欧元的⽔平。⾼盛已将 TTF 三季度和四季度预测分别上调⾄每兆⽡时 60 欧元和 53 欧
+元，此前预测分别为 41 欧元和 40 欧元，理由是波斯湾液化天然⽓出⼝恢复正常的时间预计推迟
+⾄ 2026 年 10 ⽉。
+通胀预期的升温直接冲击债券市场。美国 10 年期国债收益率升⾄ 4.63% ，触及约两个⽉⾼位；
+30 年期实际收益率升⾄ 2.93% ，为 2008 年以来最⾼⽔平。市场对美联储 7 ⽉加息的概率预期⼀度
+回升⾄ 26% 。⻩⾦价格突破每盎司 4100 美元，⽩银和铜价亦同步⾛⾼，短期通胀互换利率全线
+上⾏。
 请发表您的评论
-表情 发布评论
-⻅闻⽤⼾1 ⼩时前中国上海
-0  回复
-以⾼位融资为核⼼哈 😶
-
----
-## Document 753: 重要信号已现！付鹏深度解析AI产业链周期当前最值得关注的指标【付鹏说29】
-
-Source PDF: all report pdf/重要信号已现！付鹏深度解析AI产业链周期当前最值得关注的指标【付鹏说29】.pdf
-Report source: WallstreetCN (Global)
-Date: 2026-07-22
-Pages: 3
-Extraction status: ok
-
-### Page 1
-
-⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⽣活家 搜索
-《付鹏说 · 第六季》全⾯升级！⽴即订阅 !
-新增专栏社群，前瞻全球⼤类资产交易性机会！
-今年是华尔街⻅闻《付鹏说》年度专栏的第⼗个年头！《付鹏说第六季》第六季全⾯升
-级，在⽇常视频的基础上，新增专栏交流群更新付鹏说最新市场观点 & 图表数据解读（社
-群第⼀时间更新）
-深度解析 AI 产业链周期
-交易桌前看天下，付鹏说来评财经。本期视频录制 2026 年 7 ⽉ 13 ⽇。
-我注意到，许多⼈提出的问题实际上都与当前  AI 产业链⾼度相关。这些问题的背后反映
-出的是⼀个核⼼问题 —— ⼤家并未真正认真地思考过整个产业链的路径与逻辑。
-可能很多⼈并未经历过⼀个完整的产业链周期，对产业链分析的⽅法也不太了解。因此，
-当他们看到⼀些新闻和资讯时，其实并不明⽩这些内容为何重要。我认为，不能仅就某个
-单⼀点去解释，那样并⽆实质意义。更有效的⽅式，是将整个完整产业链的逻辑重新梳理
-⼀遍。当你的脑海中建⽴起这⼀框架后，再去看各类数据与新闻时，就能清楚地判断⾃⼰
-
-⼤致处于产业链的哪个节点上。
-投资全球更要投资⾃⼰
-
-### Page 2
-
-⼀、 " 要想富，先修路 "—— 基建逻辑的类⽐
-在过去⼏年中，我曾多次与⼤家分享过  AI 产业链的逻辑线。其中⼀个重要的类⽐，便
-是 " 要想富，先修路 " 的基建逻辑。在  AI 产业链中，这⼀逻辑对应的是 " 要想富，先修数据
-中⼼、算⼒中⼼ " 。数据中⼼与算⼒中⼼的投⼊，曾经带动了宝钢股份、海螺⽔泥、三⼀重
-⼯等的上涨。
-这⼀环节在整个  AI 产业链中实际上偏上游，即整个投资端的路径。
-整个产业链，我之前跟⼤家讲过，可以类⽐冶炼和钢铁⾏业。我曾⽤过⼀张钢⼚上中下游
-的图 —— 从⾼炉到中间的冶炼⼯艺，到铁⽔，再到下游的船板、⼯字钢等应⽤。
-最终呈现出来的，就是⼤家现在看到的这张图：上游的硬件，中间的冶炼⽅式即算法，⽣
-成出的 " 原材料 " ，再到其各种各样的应⽤。这张图实际上就是  AI 产业链的上中下游。⻩仁
-勋将其分为五层，本质上也是类似的，⼤体上都是相通的。
-⼆、 AI 产业链的核⼼：⼤⼚科技巨头
-在这⼀产业链中， AI 的核⼼实际上是⼤⼚科技巨头。这⼀轮的整个逻辑，可以理解为  AI
-
-产业是半导体与互联⽹产业链的⼀次⼤规模升级 —— 从硬件基础设施，到平台服务，再到
-最终以⼈⼯智能驱动的⽣产⼒跃迁，由这种⽣产⼒来创造全新的应⽤与⽣产关系。
-因此，这⼀轮中，我们所凭借的实际上是上⼀次数字化周期中崛起的科技巨头 —— 这些寡
-头，我们称之为 " ⼤⼚ " ，⽐如⾕歌、微软、 Meta 、亚⻢逊等等，即所谓的 " 七姐妹 " 。
-其中，七姐妹中最重要的，是上⼀轮数字化周期中的互联⽹巨头。它们过去凭借搜索、云
-服务、电商、社交媒体平台等的垄断地位和规模效应，积累了⼤量⾃由现⾦流。
-这也正是为什么我在此前跟⼤家解释过，今年 Q2 季度最重要的关注点，是这些⼤⼚的⾃由
-现⾦流。所谓的企业投资，也就是美国过去七⼋年间，企业的资本⽀出和投资已经成为经
-济增⻓中最重要的动⼒之⼀。那么这个 " 企业 " 是谁？指的正是那些⼿上有钱的、拥有⾃由
-现⾦流的寡头垄断企业。它们正在将这些⾃由现⾦流转化为  AI 时代的领先性 —— 这种领
-先性，实质上就是护城河。
-这是典型的破坏式创新逻辑：前期通过⼤规模、⾼强度的投资，来换取⽣产⼒的提升和市
-
-场的主导权。
-在过去⼏年中，资本市场的逻辑变成了：只要这些⼤⼚愿意花钱 —— 即便⾃由现⾦流下降
-—— 市场反⽽愿意给予它们更⾼的远期估值，给予它们远期增⻓的预期。这⼀逻辑的根源
-在于：当⼈⼯智能技术的路径出现之后，谁先投资，谁在未来就会掌握⽣产⼒的主导权。
-于是市场逻辑在那⼏年就变成了 —— ⾃由现⾦流越花越值得。市场认为，谁先投，谁就
-能 " 先富起来 " 。 " 要想富，先修路 " ， " 要想富，先修数据中⼼和算⼒中⼼ " 。
-因此，在切分这条产业链时，实际上可以从这⾥切⼊：往上是  Capex （资本⽀出投资），
-往下则是在寻求应⽤端，也就是未来的收益。
 
 ### Page 3
 
-⻛险提⽰及免责条款
-市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
-写评论
 图⽚
 1 条评论
-新⽤⼾注册，免费解锁  3 篇付费⽂章
-请发表您的评论
 表情 发布评论
-aha13 ⼩时前中国上海
-0  回复
-所以现在的问题是 AI 实际需求到底有多少，是不是仅仅因为价格太贵导致需求不⾜还是说 AI 应⽤
-并没有真的提升效率，只是出现了⼀个新的技术，但是并没有经济效益
-
----
-## Document 756: 金融・経済見通し
-
-Source PDF: all report pdf/金融・経済見通し.pdf
-Report source: Sony FG
-Date: 2026-07-08
-Pages: 3
-Extraction status: ok
-
-### Page 1
-
-2026/7/8
-1
-issue date 2026/7/8
-ソニーフィナンシャルグループ株式会社
-金融市場調査部ソニーフィナンシャルグループ(株)
-2028年
-10-12月期 1-3月期 4-6月期 7-9月期 10-12月期 1-3月期 4-6月期 7-9月期 10-12月期 1-3月期
-実質GDP 0.5 2.1 2.4 1.9 2.0 2.1 2.1 2.0 2.0 2.0 2.2 2.1
-コアPCEデフレータ 2.9 3.1 3.3 3.3 3.0 2.6 2.4 2.4 2.3 2.2 3.2 2.4
-実質GDP 0.7 1.8 0.8 0.5 0.7 0.8 1.0 0.9 0.9 0.8 0.6 0.8
-コアCPI 2.8 1.8 1.4 1.7 2.4 2.6 2.7 2.2 2.1 2.0 1.8 2.4
-実質GDP 0.7 -0.9 0.4 0.8 1.2 1.2 1.4 1.5 1.5 1.5 0.3 1.2
-CPI 2.1 2.1 3.2 3.2 3.2 2.9 2.1 1.9 2.0 2.0 2.9 2.2
-
-実質GDP 4.5 5.0 4.6 4.7 4.7 4.5 4.4 4.3 4.3 4.3 4.7 4.4
-CPI 0.6 0.8 1.2 1.0 1.0 1.0 0.9 0.9 0.9 0.9 1.0 0.9
-注: 実質GDPは、米国・日本・ユーロ圏は前期比年率、中国は前年比。物価は前年比。日本のコアCPIは消費増税の影響除く
-2028年
-10-12月期 1-3月期 4-6月期 7-9月期 10-12月期 1-3月期 4-6月期 7-9月期 10-12月期 1-3月期
-政策金利 3.50～3.75 3.50～3.75 3.50～3.75 3.50～3.75 3.50～3.75 3.50～3.75 3.75～4.00 3.75～4.00 4.00～4.25 4.00～4.25 3.50～3.75 4.00～4.25
-10年債利回り 4.17 4.32 4.50 4.55 4.60 4.65 4.65 4.70 4.70 4.75 4.60 4.70
-政策金利 0.75 0.75 1.00 1.00 1.25 1.25 1.50 1.50 1.75 1.75 1.25 1.75
-
-10年債利回り 2.07 2.35 2.64 2.70 2.70 2.70 2.70 2.70 2.70 2.71 2.60 2.70
-政策金利 2.00 2.00 2.25 2.25 2.25 2.25 2.25 2.25 2.25 2.25 2.25 2.25
-独10年債利回り 2.85 3.04 2.89 2.92 2.95 2.98 2.98 3.01 3.01 3.05 2.95 3.01
-中国 政策金利 3.00 3.00 3.00 3.00 3.00 3.00 3.00 3.00 3.00 3.00 3.00 3.00
-2028年
-10-12月期 1-3月期 4-6月期 7-9月期 10-12月期 1-3月期 4-6月期 7-9月期 10-12月期 1-3月期
-米ドル ドル円 156 157 160 161 160 161 162 164 165 165 160 165
-ユーロ円 183 182 186 184 179 177 175 180 185 188 179 185
-
-ユーロドル 1.17 1.16 1.16 1.14 1.12 1.10 1.08 1.10 1.12 1.14 1.12 1.12
-ポンド円 211 207 211 209 203 200 196 205 211 218 203 211
-ポンドドル 1.35 1.32 1.32 1.30 1.27 1.24 1.21 1.25 1.28 1.32 1.27 1.28
-豪ドル円 103 113 115 119 122 116 118 121 124 125 122 124
-豪ドル米ドル 0.66 0.72 0.72 0.74 0.76 0.72 0.73 0.74 0.75 0.76 0.76 0.75
-為
-替
-見
-通
-し
-2025年
-注: 政策金利は、米国がFF金利、日本が政策金利残高への適用金利、ユーロ圏は預金ファシリティ金利、中国は貸出基準金利。全て期末値
-ユーロ圏
-経
-済
-見
-通
-し
-金
-利
-見
-通
-し
-中国
-（％）
-豪ドル
-ユーロ
-ポンド
-注:全て期末値　　出所：SFGI
-（％）
-
-米国
-日本
-米国
-日本
-ユーロ圏
-2025年
-2025年
-2026年 2027年
-2026年 2027年
-2026年 2027年
-2027年
-2027年
-2027年
-2026年
-2026年
-2026年
-
-### Page 2
-
-ソニーフィナンシャルグループ 金融市場調査部・研究員紹介
-尾河 眞樹 （おがわ まき）
-執行役員（金融市場調査部担当） チーフアナリスト
-ファースト・シカゴ銀行、JPモルガン・チェース銀行などの為替ディーラーを経て、ソニー財務部にて為替リスクヘッジと市場調査に従事。その後シティバンク銀行（現SMBC
-信託銀行） で個人金融部門の投資調査企画部長として 、金融市場の調査・ 分析を担当。2016年8月より当社執行役員。 テレビ東京 「Newsモーニングサテライト 」、日経
-CNBCなどにレギュラー出演し、金融市場の解説を行っている。主な著書に『為替ってこんなに面白い！（2024年幻冬舎新書）』、『〈最新版〉本当にわかる為替相場（2023年
-日本実業出版社）』などがある。ソニー銀行株式会社取締役、ウェルスナビ株式会社顧問。人生投資アカデミー® 学長。
-井上 哲也 （いのうえ てつや）
-金融市場調査部 シニアフェロー エグゼクティブエコノミスト
-日本銀行で主として国際金融市場やそれに関する政策、2回の役員秘書（福井副総裁、植田審議委員）、IT革命の影響に関する研究等を行った後、野村総合研究所で主
-
-要国の金融政策、デジタル通貨、地域金融の活性化等に関する調査を行い、成果を多数の報告書等の形で公表。2026年4月より現職。テレビ出演や経済メディアへの寄
-稿を行っているほか、主な著書に『異次元緩和（2013年日経BP）』、『デジタル円（2020年日経BP）』、『CBDCとステーブルコインの衝撃（2026年日経BP）』がある。1985年東
-京大学経済学部卒、1992年イェール大学大学院経済学修士。
-渡辺 浩志 （わたなべ ひろし）
-金融市場調査部長 チーフエコノミスト
-1999年に大和総研に入社し、経済調査部にてエコノミストとしてのキャリアをスタート。2006年～2008年は内閣府政策統括官室（経済財政分析・総括担当）へ出向し、『経済
-財政白書』等の執筆を行う。2011年からはSMBC日興証券金融経済調査部および株式調査部にて機関投資家向けの経済分析・情報発信に従事。2017年1月より当社。内
-外のマクロ経済についての調査・分析業務を担当。ロジカルかつデータの裏付けを重視した分析を行っている。
-
-石川 久美子 （いしかわ くみこ）
-金融市場調査部 シニアアナリスト
-森本 淳太郎 （もりもと じゅんたろう）
-金融市場調査部 シニアアナリスト
-みずほフィナンシャルグループにて企画業務、法人営業などを経験した後、2019年8月より現職。外国為替市場の調査・分析業務、特にユーロやポンド、スイスフランなどの
-欧州通貨を専門に担当。テレビ東京「Newsモーニングサテライト」、TOKYO MX 「Stock Voice 東京マーケットワイド」、日経CNBC「朝エクスプレス」「GINZA CROSSING Talk
-マーケットニュース」などにレギュラー出演し、金融市場の解説を行っている。2013年東京大学経済学部卒。
-宮嶋 貴之 （みやじま たかゆき）
-金融市場調査部 シニアエコノミスト
-2009年にみずほ総合研究所（当時）入社以来、一貫してエコノミストとしてマクロ経済調査を担当。 2011年～2013年は内閣府（経済財政分析担当）へ出向 。官庁エコノミスト
-として『経済財政白書』、『月例経済報告』等を担当。2021年4月より現職。2025年から景気循環学会・ 理事。主な著書（全て共著）は、『TPP-日台加盟の影響と展望』 （国立
-
-台湾大学出版中心）、『激震 原油安経済』（日経BP）。日本経済・債券市場、中国などのアジア情勢が専門、セクターは不動産、観光、半導体等を分析。
-商品先物専門紙での貴金属および外国為替担当の編集記者を経て、2009年4月に外為どっとコムに入社し、外為どっとコム総合研究所の立ち上げに参画。同年6月から同社研
-究員として、外国為替相場について調査・分析を行う。2016年11月より現職。外国為替市場に関するレポート執筆の他、テレビ東京「Newsモーニングサテライト」など多数のメディ
-アに出演し 、金融市場の解説を行う 。資源国 ・新興国通貨に強い 。著書に 『円安はいつまで続くのか 為替で世界を読む （2025年マイナビ新書 ）』がある 。Xでの情報発信
-（@KumiIshikawa_FX）も行っている。
-
-### Page 3
-
-く、特定の金融商品の推奨や売買申し込み、投資の勧誘等を目的としたものでもありません。
- 本レポートに掲載された内容は、本レポートの発行時点における投資環境やこれに関する当社の見解や予測を紹介するものであり 、その内容は変更又は修正されることがありますが、当社はかかる変更等を行い又はその変更等の
-内容を報告する義務を負わないものといたします。本レポートに記載された情報は、公的に入手可能な情報ですが、当社がその正確性・信頼性・完全性・妥当性等を保証するものではありません。本レポート中のグラフ、数値等は将来
-の予測値を含むものであり、実際と異なる場合があります。
- 本レポート中のいかなる内容も、将来の投資環境の変動等を保証するものではなく、かつ、将来の運用成果等を約束するものでもありません。かかる投資環境や相場の変動は、お客様に損失を与える可能性もございます。
- 当社は、当社の子会社及び関連会社（以下、「グループ会社」といいます）に対しても本レポートに記載される内容を開示又は提供しており、かかるグループ会社が本レポートの内容を参考に投資決定を行う可能性もあれば、逆に、グ
-
- ソニーフィナンシャルグループ株式会社は、 ソニー生命保険株式会社 、ソニー損害保険株式会社 、ソニー銀
-行株式会社の３社を中核とする金融持株会社です。
- 当社グループの各事業は、独自性のある事業モデルを構築し、合理的かつ利便性の高い商品・サービスを個
-人のお客さまに提供しています。
- 当社グループの基本情報、グループ各社の事業内容などにつきましては、当社ホームページでご覧いただけ
-ます。
-https://www.sonyfg.co.jp
-介護事業
-銀行事業
-損害保険事業
-生命保険事業
-100%出資
-100%出資
-100%出資
-100%出資
-100%出資
-（ベンチャーキャピタル事業)
-ソニーフィナンシャルグループ (株)
