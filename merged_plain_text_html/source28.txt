@@ -3,7 +3,7 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 019: 20260714_玉山投顧_台股各產業月營收暨科技類股掃描
+## Document 020: 20260714_玉山投顧_台股各產業月營收暨科技類股掃描
 
 Source PDF: all report pdf/20260714_玉山投顧_台股各產業月營收暨科技類股掃描.pdf
 Report source: line報告備份
@@ -2413,7 +2413,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 076: 2451創見 玉山
+## Document 073: 2451創見 玉山
 
 Source PDF: all report pdf/2451創見 玉山.pdf
 Report source: line報告備份
@@ -2603,11 +2603,11 @@ AI 應用持續擴散至 Edge AI 及裝置端，將推動記憶體需求成⻑�
 未評等：無。
 
 ---
-## Document 077: 2454聯發科 富邦
+## Document 074: 2454聯發科 富邦
 
 Source PDF: all report pdf/2454聯發科 富邦.pdf
 Report source: line報告備份
-Date: 2026-07-24
+Date: 2026-07-23
 Pages: 7
 Extraction status: ok
 
@@ -3009,11 +3009,11 @@ Underweight  Sector expected to underperform the broader market indexes within t
 劣於大盤 預估該產業在未來6個月內會比大盤指數表現較差
 
 ---
-## Document 081: 2605新興 國票
+## Document 078: 2605新興 國票
 
 Source PDF: all report pdf/2605新興 國票.pdf
 Report source: line報告備份
-Date: 2026-07-24
+Date: 2026-07-23
 Pages: 9
 Extraction status: ok
 
@@ -3412,7 +3412,7 @@ $45
 • 國票可能與該公司進行業務而處於緘默期
 
 ---
-## Document 084: 260714_daiwa_Tong Yang
+## Document 080: 260714_daiwa_Tong Yang
 
 Source PDF: all report pdf/260714_daiwa_Tong Yang.pdf
 Report source: line報告備份
@@ -3622,7 +3622,7 @@ regarding the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 096: 260716_Daiwa_TSMC
+## Document 091: 260716_Daiwa_TSMC
 
 Source PDF: all report pdf/260716_Daiwa_TSMC.pdf
 Report source: line報告備份
@@ -4198,7 +4198,7 @@ the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 099: 260716_mq_TSMC
+## Document 094: 260716_mq_TSMC
 
 Source PDF: all report pdf/260716_mq_TSMC.pdf
 Report source: line報告備份
@@ -4859,7 +4859,7 @@ Investments in securities market are subject to market risks. Read all the relat
 This publication was disseminated on 16 July 2026 at 10:05 UTC
 
 ---
-## Document 106: 260717_ms_TSMC
+## Document 101: 260717_ms_TSMC
 
 Source PDF: all report pdf/260717_ms_TSMC.pdf
 Report source: line報告備份
@@ -6015,7 +6015,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 109: 260717_ubs_wiwynn
+## Document 104: 260717_ubs_wiwynn
 
 Source PDF: all report pdf/260717_ubs_wiwynn.pdf
 Report source: line報告備份
@@ -7411,7 +7411,7 @@ constitute, advice within the meaning of the Municipal Advisor Rule.  For inform
 ab
 
 ---
-## Document 110: 260718_gs_mitac
+## Document 105: 260718_gs_mitac
 
 Source PDF: all report pdf/260718_gs_mitac.pdf
 Report source: line報告備份
@@ -7875,7 +7875,7 @@ Goldman Sachs Mitac (3706.TW)For the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 112: 260719_citi_kimi-k3
+## Document 107: 260719_citi_kimi-k3
 
 Source PDF: all report pdf/260719_citi_kimi-k3.pdf
 Report source: line報告備份
@@ -8370,7 +8370,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 113: 260719_ms_kingslide
+## Document 108: 260719_ms_kingslide
 
 Source PDF: all report pdf/260719_ms_kingslide.pdf
 Report source: line報告備份
@@ -9325,7 +9325,7 @@ Morgan Stanley Research 17
 © 2026 Morgan Stanley
 
 ---
-## Document 119: 260722_citi_delta
+## Document 114: 260722_citi_delta
 
 Source PDF: all report pdf/260722_citi_delta.pdf
 Report source: line報告備份
@@ -10024,7 +10024,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 125: 260723_citi_yageo
+## Document 120: 260723_citi_yageo
 
 Source PDF: all report pdf/260723_citi_yageo.pdf
 Report source: line報告備份
@@ -10569,7 +10569,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 127: 260724_nmr_chroma
+## Document 122: 260724_nmr_chroma
 
 Source PDF: all report pdf/260724_nmr_chroma.pdf
 Report source: line報告備份
@@ -12629,7 +12629,7 @@ viruses. The sender therefore does not accept liability (in negligence or otherw
 contents of this document, which may arise as a result of electronic transmission. If verification is required, please request a hard-copy version.
 
 ---
-## Document 129: 2762世界健身 群益
+## Document 124: 2762世界健身 群益
 
 Source PDF: all report pdf/2762世界健身 群益.pdf
 Report source: line報告備份
@@ -12739,11 +12739,11 @@ PER= 股價 /2026 (F) EPS ； PBR= 股價 /2026 (F) 年 底 預 估 每 股 淨 
 資 來 得 少 的 情 形 。
 
 ---
-## Document 133: 3189景碩 兆豐
+## Document 126: 3189景碩 兆豐
 
 Source PDF: all report pdf/3189景碩 兆豐.pdf
 Report source: line報告備份
-Date: 2026-07-24
+Date: 2026-07-23
 Pages: 7
 Extraction status: ok
 
@@ -13160,7 +13160,7 @@ A
 交易所公司治理評鑑
 
 ---
-## Document 136: 3551 世禾丨中信丨20260715
+## Document 128: 3551 世禾丨中信丨20260715
 
 Source PDF: all report pdf/3551 世禾丨中信丨20260715.pdf
 Report source: line報告備份
@@ -13462,7 +13462,7 @@ ESG 資訊 - 公司治理 (Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 149: 6213聯茂 富邦
+## Document 139: 6213聯茂 富邦
 
 Source PDF: all report pdf/6213聯茂 富邦.pdf
 Report source: line報告備份
@@ -13856,7 +13856,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 159: 6782視陽 群益
+## Document 149: 6782視陽 群益
 
 Source PDF: all report pdf/6782視陽 群益.pdf
 Report source: line報告備份
@@ -14148,7 +14148,7 @@ YoY(%)
 情形。
 
 ---
-## Document 161: 6997博弘 群益
+## Document 151: 6997博弘 群益
 
 Source PDF: all report pdf/6997博弘 群益.pdf
 Report source: line報告備份
@@ -14467,7 +14467,7 @@ YoY(%)
 情形。
 
 ---
-## Document 166: 7799禾榮科 元富
+## Document 156: 7799禾榮科 元富
 
 Source PDF: all report pdf/7799禾榮科 元富.pdf
 Report source: line報告備份
@@ -14963,7 +14963,7 @@ Operating (3067.4) (20730.3) (4389.9) (3775.6) ROA -7.34 -4.10 8.89
 Net (1995.8) (19738.2) (4189.9) (3655.6) ROE -7.43 -4.14 8.95
 
 ---
-## Document 167: 7811民盛 宏遠
+## Document 157: 7811民盛 宏遠
 
 Source PDF: all report pdf/7811民盛 宏遠.pdf
 Report source: line報告備份
@@ -15478,7 +15478,7 @@ Company Report
 員工學歷分佈
 
 ---
-## Document 282: FC-BGA (ABF) substrate JPM 260721
+## Document 266: FC-BGA (ABF) substrate JPM 260721
 
 Source PDF: all report pdf/FC-BGA (ABF) substrate JPM 260721.pdf
 Report source: line報告備份
@@ -15654,7 +15654,7 @@ ACAU5S
 VFIFBQPW2NE#Z[O1	AGGY 734._D_
 
 ---
-## Document 386: 【國泰證期研究部】IC設計產業-AI互連需求升溫，PCIe迎成長週期-20260724
+## Document 369: 【國泰證期研究部】IC設計產業-AI互連需求升溫，PCIe迎成長週期-20260724
 
 Source PDF: all report pdf/【國泰證期研究部】IC設計產業-AI互連需求升溫，PCIe迎成長週期-20260724.pdf
 Report source: line報告備份
@@ -15860,7 +15860,7 @@ KY(4966 TT)則布局 PCIe Gen4／5 Retimer 及 Gen6 Linear Redriver，其中 Gen
 投資評等定義
 
 ---
-## Document 393: 【國泰證期研究部】特化產業-乾膜光阻市場受惠於PCB, IC載板和先進封裝正向趨勢-20260723
+## Document 374: 【國泰證期研究部】特化產業-乾膜光阻市場受惠於PCB, IC載板和先進封裝正向趨勢-20260723
 
 Source PDF: all report pdf/【國泰證期研究部】特化產業-乾膜光阻市場受惠於PCB, IC載板和先進封裝正向趨勢-20260723.pdf
 Report source: line報告備份
@@ -16029,7 +16029,7 @@ IC 封裝，且2026 年仍持續於 JPCA、CPCA 等展會推廣乾膜產品，�
 投資評等定義
 
 ---
-## Document 396: 【國泰證期研究部】網通產業-矽光發展新階段，多元入光眾家必爭-20260722
+## Document 377: 【國泰證期研究部】網通產業-矽光發展新階段，多元入光眾家必爭-20260722
 
 Source PDF: all report pdf/【國泰證期研究部】網通產業-矽光發展新階段，多元入光眾家必爭-20260722.pdf
 Report source: line報告備份
@@ -16171,7 +16171,7 @@ Optical Transceivers)。與前面板收發器不同，光引擎(Optical Engine)�
 投資評等定義
 
 ---
-## Document 467: 中磊(5388,B_買進)-CTBC260715
+## Document 460: 中磊(5388,B_買進)-CTBC260715
 
 Source PDF: all report pdf/中磊(5388,B_買進)-CTBC260715.pdf
 Report source: line報告備份
@@ -16456,7 +16456,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 480: 元大-1326 台化-20260720
+## Document 473: 元大-1326 台化-20260720
 
 Source PDF: all report pdf/元大-1326 台化-20260720.pdf
 Report source: line報告備份
@@ -17070,7 +17070,7 @@ ESG總分 25.6
 台灣臺北市 106仁愛路三段 157號 4樓
 
 ---
-## Document 503: 凱基投顧_Takeaway_1597 直得_莊政翰_20260716
+## Document 493: 凱基投顧_Takeaway_1597 直得_莊政翰_20260716
 
 Source PDF: all report pdf/凱基投顧_Takeaway_1597 直得_莊政翰_20260716.pdf
 Report source: line報告備份
@@ -17175,7 +17175,7 @@ eden.chang@kgi.com
 七月 16, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 3
 
 ---
-## Document 512: 凱基投顧_Takeaway_7942 東佑達_莊政翰_20260723
+## Document 499: 凱基投顧_Takeaway_7942 東佑達_莊政翰_20260723
 
 Source PDF: all report pdf/凱基投顧_Takeaway_7942 東佑達_莊政翰_20260723.pdf
 Report source: line報告備份
@@ -17290,7 +17290,7 @@ eden.chang@kgi.com
 七月 23, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R   3
 
 ---
-## Document 539: 台塑(1301,OW_增加持股 )-CTBC260721
+## Document 530: 台塑(1301,OW_增加持股 )-CTBC260721
 
 Source PDF: all report pdf/台塑(1301,OW_增加持股 )-CTBC260721.pdf
 Report source: line報告備份
@@ -17658,7 +17658,7 @@ ESG 資訊 ─公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 559: 大和 Google 2Q26法說摘要-1
+## Document 552: 大和 Google 2Q26法說摘要-1
 
 Source PDF: all report pdf/大和 Google 2Q26法說摘要-1.pdf
 Report source: line報告備份
@@ -17841,7 +17841,7 @@ Gemini 4, 目標是在 Gemini 4 推出時能在屆時的前沿水準上競爭; �
 發過程中 roadmap 的一部分.
 
 ---
-## Document 594: 巨有科技(8227,B_買進)-CTBC260722
+## Document 586: 巨有科技(8227,B_買進)-CTBC260722
 
 Source PDF: all report pdf/巨有科技(8227,B_買進)-CTBC260722.pdf
 Report source: line報告備份
@@ -18130,7 +18130,7 @@ ESG 資訊 -公 司 治 理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 697: 群益產業速報-台積電(2330 TT)將上調2027年報價-07222026
+## Document 694: 群益產業速報-台積電(2330 TT)將上調2027年報價-07222026
 
 Source PDF: all report pdf/群益產業速報-台積電(2330 TT)將上調2027年報價-07222026.pdf
 Report source: line報告備份
