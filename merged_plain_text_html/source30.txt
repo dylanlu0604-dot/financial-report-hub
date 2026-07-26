@@ -9981,7 +9981,7 @@ artificial intelligence (“AI”) systems or models when such J.P. Morgan Data 
 Completed 23 Jul 2026 12:09 AM HKT Disseminated 23 Jul 2026 12:09 AM HKT
 
 ---
-## Document 127: 4770上品 國票
+## Document 129: 4770上品 國票
 
 Source PDF: all report pdf/4770上品 國票.pdf
 Report source: line報告備份
@@ -10430,7 +10430,7 @@ $540
 • 國票可能與該公司進行業務而處於緘默期
 
 ---
-## Document 129: 4771望隼 群益
+## Document 131: 4771望隼 群益
 
 Source PDF: all report pdf/4771望隼 群益.pdf
 Report source: line報告備份
@@ -10713,7 +10713,7 @@ YoY(%)
 情形。
 
 ---
-## Document 132: 5434崇越 元大
+## Document 134: 5434崇越 元大
 
 Source PDF: all report pdf/5434崇越 元大.pdf
 Report source: line報告備份
@@ -11248,7 +11248,7 @@ ESG總分 23.1
 台灣臺北市 106仁愛路三段 157號 4樓
 
 ---
-## Document 137: 6446藥華藥 統一
+## Document 139: 6446藥華藥 統一
 
 Source PDF: all report pdf/6446藥華藥 統一.pdf
 Report source: line報告備份
@@ -11502,7 +11502,7 @@ ainReport/data/FileStream?id=85352a0f-31bd-
 請參見末頁重要批露及免責聲明  6
 
 ---
-## Document 141: 6683雍智 群益
+## Document 143: 6683雍智 群益
 
 Source PDF: all report pdf/6683雍智 群益.pdf
 Report source: line報告備份
@@ -11627,7 +11627,7 @@ PER= 股價 /2026 (F) EPS ； PBR= 股價 /2026 (F) 年 底 預 估 每 股 淨 
 情形。
 
 ---
-## Document 142: 6770力積電 宏遠
+## Document 144: 6770力積電 宏遠
 
 Source PDF: all report pdf/6770力積電 宏遠.pdf
 Report source: line報告備份
@@ -12110,7 +12110,7 @@ AA
 2024 2025 2026
 
 ---
-## Document 144: 6947台鎔 永豐
+## Document 146: 6947台鎔 永豐
 
 Source PDF: all report pdf/6947台鎔 永豐.pdf
 Report source: line報告備份
@@ -12249,7 +12249,7 @@ S：Sell 賣出：未來 6 個月該股票表現將落後大盤
 5
 
 ---
-## Document 154: 8938明安 統一
+## Document 157: 8938明安 統一
 
 Source PDF: all report pdf/8938明安 統一.pdf
 Report source: line報告備份
@@ -12656,7 +12656,7 @@ ainReport/data/FileStream?id=34db5e22-4978-
 請參見末頁重要批露及免責聲明  7
 
 ---
-## Document 155: 9938百和 宏遠
+## Document 158: 9938百和 宏遠
 
 Source PDF: all report pdf/9938百和 宏遠.pdf
 Report source: line報告備份
@@ -13270,7 +13270,7 @@ B
 2024 2025 2026
 
 ---
-## Document 269: JPMorgan Chase(JPM,OW_增加持股)-CTBC260715
+## Document 282: JPMorgan Chase(JPM,OW_增加持股)-CTBC260715
 
 Source PDF: all report pdf/JPMorgan Chase(JPM,OW_增加持股)-CTBC260715.pdf
 Report source: line報告備份
@@ -13457,7 +13457,7 @@ PBR
 未評等 Not Rated (NR)
 
 ---
-## Document 342: 【國泰證期研究部】PCB產業-高階光模塊需求強勁，台系PCB業者大幅擴產增加市佔-2026
+## Document 364: 【國泰證期研究部】PCB產業-高階光模塊需求強勁，台系PCB業者大幅擴產增加市佔-2026
 
 Source PDF: all report pdf/【國泰證期研究部】PCB產業-高階光模塊需求強勁，台系PCB業者大幅擴產增加市佔-2026.pdf
 Report source: line報告備份
@@ -13620,7 +13620,7 @@ PCB
 投資評等定義
 
 ---
-## Document 347: 【國泰證期研究部】祥碩 (5269 TT)-中立轉買進(+22.4%)-PC築底，祥迎轉機-20260721
+## Document 369: 【國泰證期研究部】祥碩 (5269 TT)-中立轉買進(+22.4%)-PC築底，祥迎轉機-20260721
 
 Source PDF: all report pdf/【國泰證期研究部】祥碩 (5269 TT)-中立轉買進(+22.4%)-PC築底，祥迎轉機-20260721.pdf
 Report source: line報告備份
@@ -14071,7 +14071,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 397: 一詮(2486,NR_未評等)-20260723
+## Document 421: 一詮(2486,NR_未評等)-20260723
 
 Source PDF: all report pdf/一詮(2486,NR_未評等)-20260723.pdf
 Report source: line報告備份
@@ -14497,7 +14497,7 @@ ESG 資訊-公司治理(Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 438: 凱基投顧_4755 三福化工_張育程_20260723
+## Document 466: 凱基投顧_4755 三福化工_張育程_20260723
 
 Source PDF: all report pdf/凱基投顧_4755 三福化工_張育程_20260723.pdf
 Report source: line報告備份
@@ -15063,7 +15063,7 @@ na
 資料來源：TEJ，凱基
 
 ---
-## Document 439: 凱基投顧_9921 巨大_莊政翰_20260722
+## Document 467: 凱基投顧_9921 巨大_莊政翰_20260722
 
 Source PDF: all report pdf/凱基投顧_9921 巨大_莊政翰_20260722.pdf
 Report source: line報告備份
@@ -15675,7 +15675,7 @@ Recommendations & Target Price
 資料來源：TEJ，凱基
 
 ---
-## Document 440: 凱基投顧__2327 國巨_鄭宇宏_20260722
+## Document 468: 凱基投顧__2327 國巨_鄭宇宏_20260722
 
 Source PDF: all report pdf/凱基投顧__2327 國巨_鄭宇宏_20260722.pdf
 Report source: line報告備份
@@ -16774,7 +16774,7 @@ Dec-24A Dec-25A Dec-26F Dec-27F Dec-28F
  泰國          曼谷
 
 ---
-## Document 441: 凱基投顧_BAC Bank of America Corporation_施志鴻_20260715
+## Document 469: 凱基投顧_BAC Bank of America Corporation_施志鴻_20260715
 
 Source PDF: all report pdf/凱基投顧_BAC Bank of America Corporation_施志鴻_20260715.pdf
 Report source: line報告備份
@@ -17549,7 +17549,7 @@ Jul-23 Jan-24 Jul-24 Jan-25 Jul-25 Jan-26 Jul-26
  泰國   曼谷
 
 ---
-## Document 449: 凱基投顧_Takeaway_4147 中裕_陳宣甫_20260722
+## Document 477: 凱基投顧_Takeaway_4147 中裕_陳宣甫_20260722
 
 Source PDF: all report pdf/凱基投顧_Takeaway_4147 中裕_陳宣甫_20260722.pdf
 Report source: line報告備份
@@ -17776,7 +17776,7 @@ CD4 細胞釋放，將大幅降低感染毒性，保有原有療效，達到最�
 七月 22, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 5
 
 ---
-## Document 460: 凱基投顧_美股投資策略_總經策略部_20260716
+## Document 488: 凱基投顧_美股投資策略_總經策略部_20260716
 
 Source PDF: all report pdf/凱基投顧_美股投資策略_總經策略部_20260716.pdf
 Report source: line報告備份
@@ -18300,7 +18300,7 @@ X
 免責聲明
 
 ---
-## Document 478: 台化(1326,OW_增加持股)-CTBC260723
+## Document 508: 台化(1326,OW_增加持股)-CTBC260723
 
 Source PDF: all report pdf/台化(1326,OW_增加持股)-CTBC260723.pdf
 Report source: line報告備份
@@ -18665,7 +18665,7 @@ ESG 資訊 ─公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 483: 台新投顧20260715個股報告-遠雄(5522)-買進
+## Document 513: 台新投顧20260715個股報告-遠雄(5522)-買進
 
 Source PDF: all report pdf/台新投顧20260715個股報告-遠雄(5522)-買進.pdf
 Report source: line報告備份
@@ -18854,7 +18854,7 @@ EPS(元) 4.19 2.40 2.42 3.89 4.86 7.78 7.04 4.76 4.32 7.45
 位不為使用者之資訊決策及結果負擔任何責任。
 
 ---
-## Document 659: 長廣(7795,B_買進)-CTBC260724
+## Document 695: 長廣(7795,B_買進)-CTBC260724
 
 Source PDF: all report pdf/長廣(7795,B_買進)-CTBC260724.pdf
 Report source: line報告備份
@@ -19195,7 +19195,7 @@ ESG 資訊 - 公司治理 (Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 660: 長興(1717,B_買進)-CTBC260723
+## Document 696: 長興(1717,B_買進)-CTBC260723
 
 Source PDF: all report pdf/長興(1717,B_買進)-CTBC260723.pdf
 Report source: line報告備份

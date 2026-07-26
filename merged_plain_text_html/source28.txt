@@ -12739,7 +12739,7 @@ PER= 股價 /2026 (F) EPS ； PBR= 股價 /2026 (F) 年 底 預 估 每 股 淨 
 資 來 得 少 的 情 形 。
 
 ---
-## Document 120: 3189景碩 兆豐
+## Document 121: 3189景碩 兆豐
 
 Source PDF: all report pdf/3189景碩 兆豐.pdf
 Report source: line報告備份
@@ -13160,7 +13160,7 @@ A
 交易所公司治理評鑑
 
 ---
-## Document 122: 3551 世禾丨中信丨20260715
+## Document 123: 3551 世禾丨中信丨20260715
 
 Source PDF: all report pdf/3551 世禾丨中信丨20260715.pdf
 Report source: line報告備份
@@ -13462,7 +13462,7 @@ ESG 資訊 - 公司治理 (Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 133: 6213聯茂 富邦
+## Document 135: 6213聯茂 富邦
 
 Source PDF: all report pdf/6213聯茂 富邦.pdf
 Report source: line報告備份
@@ -13856,7 +13856,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 143: 6782視陽 群益
+## Document 145: 6782視陽 群益
 
 Source PDF: all report pdf/6782視陽 群益.pdf
 Report source: line報告備份
@@ -14148,7 +14148,7 @@ YoY(%)
 情形。
 
 ---
-## Document 145: 6997博弘 群益
+## Document 147: 6997博弘 群益
 
 Source PDF: all report pdf/6997博弘 群益.pdf
 Report source: line報告備份
@@ -14467,7 +14467,7 @@ YoY(%)
 情形。
 
 ---
-## Document 150: 7799禾榮科 元富
+## Document 153: 7799禾榮科 元富
 
 Source PDF: all report pdf/7799禾榮科 元富.pdf
 Report source: line報告備份
@@ -14963,7 +14963,7 @@ Operating (3067.4) (20730.3) (4389.9) (3775.6) ROA -7.34 -4.10 8.89
 Net (1995.8) (19738.2) (4189.9) (3655.6) ROE -7.43 -4.14 8.95
 
 ---
-## Document 151: 7811民盛 宏遠
+## Document 154: 7811民盛 宏遠
 
 Source PDF: all report pdf/7811民盛 宏遠.pdf
 Report source: line報告備份
@@ -15478,7 +15478,7 @@ Company Report
 員工學歷分佈
 
 ---
-## Document 245: FC-BGA (ABF) substrate JPM 260721
+## Document 256: FC-BGA (ABF) substrate JPM 260721
 
 Source PDF: all report pdf/FC-BGA (ABF) substrate JPM 260721.pdf
 Report source: line報告備份
@@ -15654,7 +15654,7 @@ ACAU5S
 VFIFBQPW2NE#Z[O1	AGGY 734._D_
 
 ---
-## Document 341: 【國泰證期研究部】IC設計產業-AI互連需求升溫，PCIe迎成長週期-20260724
+## Document 363: 【國泰證期研究部】IC設計產業-AI互連需求升溫，PCIe迎成長週期-20260724
 
 Source PDF: all report pdf/【國泰證期研究部】IC設計產業-AI互連需求升溫，PCIe迎成長週期-20260724.pdf
 Report source: line報告備份
@@ -15860,7 +15860,7 @@ KY(4966 TT)則布局 PCIe Gen4／5 Retimer 及 Gen6 Linear Redriver，其中 Gen
 投資評等定義
 
 ---
-## Document 346: 【國泰證期研究部】特化產業-乾膜光阻市場受惠於PCB, IC載板和先進封裝正向趨勢-20260723
+## Document 368: 【國泰證期研究部】特化產業-乾膜光阻市場受惠於PCB, IC載板和先進封裝正向趨勢-20260723
 
 Source PDF: all report pdf/【國泰證期研究部】特化產業-乾膜光阻市場受惠於PCB, IC載板和先進封裝正向趨勢-20260723.pdf
 Report source: line報告備份
@@ -16029,7 +16029,7 @@ IC 封裝，且2026 年仍持續於 JPCA、CPCA 等展會推廣乾膜產品，�
 投資評等定義
 
 ---
-## Document 349: 【國泰證期研究部】網通產業-矽光發展新階段，多元入光眾家必爭-20260722
+## Document 371: 【國泰證期研究部】網通產業-矽光發展新階段，多元入光眾家必爭-20260722
 
 Source PDF: all report pdf/【國泰證期研究部】網通產業-矽光發展新階段，多元入光眾家必爭-20260722.pdf
 Report source: line報告備份
@@ -16171,7 +16171,7 @@ Optical Transceivers)。與前面板收發器不同，光引擎(Optical Engine)�
 投資評等定義
 
 ---
-## Document 413: 中磊(5388,B_買進)-CTBC260715
+## Document 439: 中磊(5388,B_買進)-CTBC260715
 
 Source PDF: all report pdf/中磊(5388,B_買進)-CTBC260715.pdf
 Report source: line報告備份
@@ -16456,7 +16456,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 427: 元大-1326 台化-20260720
+## Document 455: 元大-1326 台化-20260720
 
 Source PDF: all report pdf/元大-1326 台化-20260720.pdf
 Report source: line報告備份
@@ -17070,7 +17070,7 @@ ESG總分 25.6
 台灣臺北市 106仁愛路三段 157號 4樓
 
 ---
-## Document 447: 凱基投顧_Takeaway_1597 直得_莊政翰_20260716
+## Document 475: 凱基投顧_Takeaway_1597 直得_莊政翰_20260716
 
 Source PDF: all report pdf/凱基投顧_Takeaway_1597 直得_莊政翰_20260716.pdf
 Report source: line報告備份
@@ -17175,7 +17175,7 @@ eden.chang@kgi.com
 七月 16, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 3
 
 ---
-## Document 453: 凱基投顧_Takeaway_7942 東佑達_莊政翰_20260723
+## Document 481: 凱基投顧_Takeaway_7942 東佑達_莊政翰_20260723
 
 Source PDF: all report pdf/凱基投顧_Takeaway_7942 東佑達_莊政翰_20260723.pdf
 Report source: line報告備份
@@ -17290,7 +17290,7 @@ eden.chang@kgi.com
 七月 23, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R   3
 
 ---
-## Document 479: 台塑(1301,OW_增加持股 )-CTBC260721
+## Document 509: 台塑(1301,OW_增加持股 )-CTBC260721
 
 Source PDF: all report pdf/台塑(1301,OW_增加持股 )-CTBC260721.pdf
 Report source: line報告備份
@@ -17658,7 +17658,7 @@ ESG 資訊 ─公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 496: 大和 Google 2Q26法說摘要-1
+## Document 526: 大和 Google 2Q26法說摘要-1
 
 Source PDF: all report pdf/大和 Google 2Q26法說摘要-1.pdf
 Report source: line報告備份
@@ -17841,7 +17841,7 @@ Gemini 4, 目標是在 Gemini 4 推出時能在屆時的前沿水準上競爭; �
 發過程中 roadmap 的一部分.
 
 ---
-## Document 527: 巨有科技(8227,B_買進)-CTBC260722
+## Document 560: 巨有科技(8227,B_買進)-CTBC260722
 
 Source PDF: all report pdf/巨有科技(8227,B_買進)-CTBC260722.pdf
 Report source: line報告備份
@@ -18130,7 +18130,7 @@ ESG 資訊 -公 司 治 理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 620: 群益產業速報-台積電(2330 TT)將上調2027年報價-07222026
+## Document 655: 群益產業速報-台積電(2330 TT)將上調2027年報價-07222026
 
 Source PDF: all report pdf/群益產業速報-台積電(2330 TT)將上調2027年報價-07222026.pdf
 Report source: line報告備份

@@ -7448,7 +7448,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 123: 3605宏致 元大
+## Document 124: 3605宏致 元大
 
 Source PDF: all report pdf/3605宏致 元大.pdf
 Report source: line報告備份
@@ -8099,7 +8099,7 @@ Foxconn 6088 HK 未評等 5.6 5,021 6.1 9.7 12.3 2.9 3.2 3.6 1.9 1.8 1.6
 台灣臺北市 106仁愛路三段 157號 4樓
 
 ---
-## Document 124: 3605宏致 第一金
+## Document 125: 3605宏致 第一金
 
 Source PDF: all report pdf/3605宏致 第一金.pdf
 Report source: line報告備份
@@ -8341,7 +8341,7 @@ YoY(%)
 存貨週轉天數(天) 68.76 70.65 62.43 63.39
 
 ---
-## Document 125: 3665貿聯 元富
+## Document 126: 3665貿聯 元富
 
 Source PDF: all report pdf/3665貿聯 元富.pdf
 Report source: line報告備份
@@ -8656,7 +8656,7 @@ Operating 14.9 16.7 20.1 20.6 ROA 7.61 12.57 15.03 21.47
 Net 10.9 12.3 15.1 15.5 ROE 14.46 21.74 24.35 31.29
 
 ---
-## Document 126: 4566時碩 統一
+## Document 128: 4566時碩 統一
 
 Source PDF: all report pdf/4566時碩 統一.pdf
 Report source: line報告備份
@@ -9035,7 +9035,7 @@ ainReport/data/FileStream?id=7c88ae90-a7eb-
 請參見末頁重要批露及免責聲明  8
 
 ---
-## Document 134: 6239力成 群益
+## Document 136: 6239力成 群益
 
 Source PDF: all report pdf/6239力成 群益.pdf
 Report source: line報告備份
@@ -9335,7 +9335,7 @@ YoY(%)
 情形。
 
 ---
-## Document 148: 7751竑騰 宏遠
+## Document 151: 7751竑騰 宏遠
 
 Source PDF: all report pdf/7751竑騰 宏遠.pdf
 Report source: line報告備份
@@ -9796,7 +9796,7 @@ Company Report
 2025
 
 ---
-## Document 149: 7751竑騰 群益
+## Document 152: 7751竑騰 群益
 
 Source PDF: all report pdf/7751竑騰 群益.pdf
 Report source: line報告備份
@@ -10034,7 +10034,7 @@ YoY(%)
 情形。
 
 ---
-## Document 152: 8341日友 兆豐
+## Document 155: 8341日友 兆豐
 
 Source PDF: all report pdf/8341日友 兆豐.pdf
 Report source: line報告備份
@@ -10605,7 +10605,7 @@ B+B+
 交易所公司治理評鑑
 
 ---
-## Document 156: 9938百和 永豐
+## Document 159: 9938百和 永豐
 
 Source PDF: all report pdf/9938百和 永豐.pdf
 Report source: line報告備份
@@ -10913,7 +10913,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 8
 
 ---
-## Document 157: 9938百和 統一
+## Document 160: 9938百和 統一
 
 Source PDF: all report pdf/9938百和 統一.pdf
 Report source: line報告備份
@@ -11336,7 +11336,7 @@ ainReport/data/FileStream?id=22850907-e059-
 請參見末頁重要批露及免責聲明  9
 
 ---
-## Document 343: 【國泰證期研究部】中興電(1513 TT)-中立轉買進(+25%)-電網與民間案場同步翻揚-20260716
+## Document 365: 【國泰證期研究部】中興電(1513 TT)-中立轉買進(+25%)-電網與民間案場同步翻揚-20260716
 
 Source PDF: all report pdf/【國泰證期研究部】中興電(1513 TT)-中立轉買進(+25%)-電網與民間案場同步翻揚-20260716.pdf
 Report source: line報告備份
@@ -11703,7 +11703,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 350: 【國泰證期研究部】英業達(2356 TT)-中立(+3.2%)-2H26營運成長放緩-20260724
+## Document 372: 【國泰證期研究部】英業達(2356 TT)-中立(+3.2%)-2H26營運成長放緩-20260724
 
 Source PDF: all report pdf/【國泰證期研究部】英業達(2356 TT)-中立(+3.2%)-2H26營運成長放緩-20260724.pdf
 Report source: line報告備份
@@ -11990,7 +11990,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 351: 【國泰證期研究部】衛星產業-第三代星座申請大量衛星部屬，跨入超低衛星軌道-20260721
+## Document 373: 【國泰證期研究部】衛星產業-第三代星座申請大量衛星部屬，跨入超低衛星軌道-20260721
 
 Source PDF: all report pdf/【國泰證期研究部】衛星產業-第三代星座申請大量衛星部屬，跨入超低衛星軌道-20260721.pdf
 Report source: line報告備份
@@ -12127,7 +12127,7 @@ Starlink Amazon LEO
 投資評等定義
 
 ---
-## Document 428: 元大-6505 台塑化-20260720
+## Document 456: 元大-6505 台塑化-20260720
 
 Source PDF: all report pdf/元大-6505 台塑化-20260720.pdf
 Report source: line報告備份
@@ -12773,7 +12773,7 @@ ESG總分 37.1
 台灣臺北市 106仁愛路三段 157號 4樓
 
 ---
-## Document 442: 凱基投顧_GOOGL Alphabet_鄭傑懋_20260716
+## Document 470: 凱基投顧_GOOGL Alphabet_鄭傑懋_20260716
 
 Source PDF: all report pdf/凱基投顧_GOOGL Alphabet_鄭傑懋_20260716.pdf
 Report source: line報告備份
@@ -13388,7 +13388,7 @@ Jan-23 Apr-23 Jul -23 Oct-2 3 Jan-24 Apr-24 Jul -24 Oct-2 4 Jan-25 Apr-25 Jul -2
 電話 62 21 250 6337
 
 ---
-## Document 444: 凱基投顧_JPM PMorgan Chase _ Co. _施志鴻_20260715
+## Document 472: 凱基投顧_JPM PMorgan Chase _ Co. _施志鴻_20260715
 
 Source PDF: all report pdf/凱基投顧_JPM PMorgan Chase _ Co. _施志鴻_20260715.pdf
 Report source: line報告備份
@@ -14077,7 +14077,7 @@ Jul-23 Jan-24 Jul-24 Jan-25 Jul-25 Jan-26 Jul-26
  泰國   曼谷
 
 ---
-## Document 445: 凱基投顧_META Meta_鄭傑懋_20260716
+## Document 473: 凱基投顧_META Meta_鄭傑懋_20260716
 
 Source PDF: all report pdf/凱基投顧_META Meta_鄭傑懋_20260716.pdf
 Report source: line報告備份
@@ -14690,7 +14690,7 @@ Jan-23 Apr-23 Jul -23 Oct-2 3 Jan-24 Apr-24 Jul -24 Oct-2 4 Jan-25 Apr-25 Jul -2
 電話 62 21 250 6337
 
 ---
-## Document 446: 凱基投顧_Radar Monthly_電子硬體產業_余昀澄_20260715
+## Document 474: 凱基投顧_Radar Monthly_電子硬體產業_余昀澄_20260715
 
 Source PDF: all report pdf/凱基投顧_Radar Monthly_電子硬體產業_余昀澄_20260715.pdf
 Report source: line報告備份
@@ -17314,7 +17314,7 @@ AI 筆電滲透 率成長至 30-35%
 免責聲明
 
 ---
-## Document 448: 凱基投顧_Takeaway_3189 景碩 _林祐熙_20260722
+## Document 476: 凱基投顧_Takeaway_3189 景碩 _林祐熙_20260722
 
 Source PDF: all report pdf/凱基投顧_Takeaway_3189 景碩 _林祐熙_20260722.pdf
 Report source: line報告備份
@@ -17448,7 +17448,7 @@ MI400/450/ 500 放量）會有較明顯的量能提升。
 七月 22, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 4
 
 ---
-## Document 481: 台新-5522 遠雄-20260715
+## Document 511: 台新-5522 遠雄-20260715
 
 Source PDF: all report pdf/台新-5522 遠雄-20260715.pdf
 Report source: line報告備份
@@ -17637,7 +17637,7 @@ EPS(元) 4.19 2.40 2.42 3.89 4.86 7.78 7.04 4.76 4.32 7.45
 位不為使用者之資訊決策及結果負擔任何責任。
 
 ---
-## Document 482: 台新-6177 達麗-20260720
+## Document 512: 台新-6177 達麗-20260720
 
 Source PDF: all report pdf/台新-6177 達麗-20260720.pdf
 Report source: line報告備份
@@ -17826,7 +17826,7 @@ EPS(元) 1.79 5.17 0.19 3.26 0.49 4.03 2.94 4.83 4.76 3.84
 位不為使用者之資訊決策及結果負擔任何責任。
 
 ---
-## Document 487: 台積電(2330,B_買進)-CTBC260717
+## Document 517: 台積電(2330,B_買進)-CTBC260717
 
 Source PDF: all report pdf/台積電(2330,B_買進)-CTBC260717.pdf
 Report source: line報告備份
@@ -18163,7 +18163,7 @@ ESG 資訊 - 公司治理 (Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 500: 大樹(6469,N_中立)-CTBC260722
+## Document 530: 大樹(6469,N_中立)-CTBC260722
 
 Source PDF: all report pdf/大樹(6469,N_中立)-CTBC260722.pdf
 Report source: line報告備份
@@ -18418,7 +18418,7 @@ ESG 資訊 -公 司 治 理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 524: 富邦-7740 熙特爾-創-20260715
+## Document 556: 富邦-7740 熙特爾-創-20260715
 
 Source PDF: all report pdf/富邦-7740 熙特爾-創-20260715.pdf
 Report source: line報告備份
@@ -19070,7 +19070,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 539: 摩根士丹利-北美科技：进一步解析扩容升级网络：更新版扩容升级入门报告-Bringing More Ligh
+## Document 570: 摩根士丹利-北美科技：进一步解析扩容升级网络：更新版扩容升级入门报告-Bringing More Ligh
 
 Source PDF: all report pdf/摩根士丹利-北美科技：进一步解析扩容升级网络：更新版扩容升级入门报告-Bringing More Ligh.pdf
 Report source: line報告備份
@@ -21027,7 +21027,7 @@ More reports @wechat: Hillwood2024
 https://www.valuelist.cn
 
 ---
-## Document 640: 華南投顧-3665-貿聯-KY-1150723
+## Document 675: 華南投顧-3665-貿聯-KY-1150723
 
 Source PDF: all report pdf/華南投顧-3665-貿聯-KY-1150723.pdf
 Report source: line報告備份

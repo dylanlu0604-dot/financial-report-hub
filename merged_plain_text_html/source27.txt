@@ -9348,7 +9348,7 @@ PER= 股價 /2026 (F) EPS ； PBR= 股價 /2026 (F) 年 底 預 估 每 股 淨 
 資 來 得 少 的 情 形 。
 
 ---
-## Document 121: 3293鈊象 元大
+## Document 122: 3293鈊象 元大
 
 Source PDF: all report pdf/3293鈊象 元大.pdf
 Report source: line報告備份
@@ -10039,7 +10039,7 @@ ESG 總分 16.2
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 128: 4771望隼 永豐
+## Document 130: 4771望隼 永豐
 
 Source PDF: all report pdf/4771望隼 永豐.pdf
 Report source: line報告備份
@@ -10333,7 +10333,7 @@ S：Sell 賣出：未來 6 個月該股票表現將落後大盤
 7
 
 ---
-## Document 130: 5388中磊 康和
+## Document 132: 5388中磊 康和
 
 Source PDF: all report pdf/5388中磊 康和.pdf
 Report source: line報告備份
@@ -10636,7 +10636,7 @@ EPS以股本304.3百萬股計算
 投 資 結 果 自 行 負 責 。
 
 ---
-## Document 135: 6285啟碁 康和
+## Document 137: 6285啟碁 康和
 
 Source PDF: all report pdf/6285啟碁 康和.pdf
 Report source: line報告備份
@@ -10931,7 +10931,7 @@ EPS以股本483.7百萬股計算
 投 資 結 果 自 行 負 責 。
 
 ---
-## Document 136: 6414樺漢 永豐
+## Document 138: 6414樺漢 永豐
 
 Source PDF: all report pdf/6414樺漢 永豐.pdf
 Report source: line報告備份
@@ -11269,7 +11269,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 8
 
 ---
-## Document 140: 6670復盛應用 宏遠
+## Document 142: 6670復盛應用 宏遠
 
 Source PDF: all report pdf/6670復盛應用 宏遠.pdf
 Report source: line報告備份
@@ -11780,7 +11780,7 @@ B+B+B+B+B+
 2023 2024 2025
 
 ---
-## Document 147: 7734印能 宏遠
+## Document 150: 7734印能 宏遠
 
 Source PDF: all report pdf/7734印能 宏遠.pdf
 Report source: line報告備份
@@ -12252,7 +12252,7 @@ Company Report
 2025 2026
 
 ---
-## Document 268: Johnson_Johnson(JNJ,OW_增加持股)-CTBC260716
+## Document 281: Johnson_Johnson(JNJ,OW_增加持股)-CTBC260716
 
 Source PDF: all report pdf/Johnson_Johnson(JNJ,OW_增加持股)-CTBC260716.pdf
 Report source: line報告備份
@@ -12422,7 +12422,7 @@ PER Band                                  PBR Band
 未評等 Not Rated (NR)
 
 ---
-## Document 293: Samsung Electro-Mechanics GS 260723
+## Document 311: Samsung Electro-Mechanics GS 260723
 
 Source PDF: all report pdf/Samsung Electro-Mechanics GS 260723.pdf
 Report source: line報告備份
@@ -12433,7 +12433,7 @@ Extraction status: ok
 [No extractable text after boilerplate filtering.]
 
 ---
-## Document 296: Servers JPM 260723
+## Document 314: Servers JPM 260723
 
 Source PDF: all report pdf/Servers JPM 260723.pdf
 Report source: line報告備份
@@ -12986,7 +12986,7 @@ YNV?QG
 ACA
 
 ---
-## Document 322: Unimicron(3037TW) JPM 260723
+## Document 342: Unimicron(3037TW) JPM 260723
 
 Source PDF: all report pdf/Unimicron(3037TW) JPM 260723.pdf
 Report source: line報告備份
@@ -13904,7 +13904,7 @@ CYS
 KT?B?
 
 ---
-## Document 328: Wiwynn Corporation(6669TW) HSBC 260721
+## Document 348: Wiwynn Corporation(6669TW) HSBC 260721
 
 Source PDF: all report pdf/Wiwynn Corporation(6669TW) HSBC 260721.pdf
 Report source: line報告備份
@@ -14396,7 +14396,7 @@ https://www.research.hsbc.com/R/34/J29Ldwm
 [1283148]
 
 ---
-## Document 437: 凱基投顧_2612 中航_賴偉中_20260716
+## Document 465: 凱基投顧_2612 中航_賴偉中_20260716
 
 Source PDF: all report pdf/凱基投顧_2612 中航_賴偉中_20260716.pdf
 Report source: line報告備份
@@ -14964,7 +14964,7 @@ na
 2025-09-02 增加持股 67.00 52.20
 
 ---
-## Document 443: 凱基投顧_INTC Intel_潘俊宏_20260721
+## Document 471: 凱基投顧_INTC Intel_潘俊宏_20260721
 
 Source PDF: all report pdf/凱基投顧_INTC Intel_潘俊宏_20260721.pdf
 Report source: line報告備份
@@ -15478,7 +15478,7 @@ Jul-23 Jan-24 Jul-24 Jan-25 Jul-25 Jan-26 Jul-26
 電話 62 21 250 6337
 
 ---
-## Document 450: 凱基投顧_Takeaway_4532 瑞智_莊政翰_20260722
+## Document 478: 凱基投顧_Takeaway_4532 瑞智_莊政翰_20260722
 
 Source PDF: all report pdf/凱基投顧_Takeaway_4532 瑞智_莊政翰_20260722.pdf
 Report source: line報告備份
@@ -15593,7 +15593,7 @@ YoY 20% )；定頻空調壓縮機 614 萬台 (544 萬台, YoY 13%) 。
 七月 22, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R   3
 
 ---
-## Document 454: 凱基投顧_Takeaway_美國軟體產業_鄭傑懋_20260723
+## Document 482: 凱基投顧_Takeaway_美國軟體產業_鄭傑懋_20260723
 
 Source PDF: all report pdf/凱基投顧_Takeaway_美國軟體產業_鄭傑懋_20260723.pdf
 Report source: line報告備份
@@ -15876,7 +15876,7 @@ Net margin (%)
  泰國          曼谷
 
 ---
-## Document 455: 凱基投顧_TSLA Tesla_李承泰_20260723
+## Document 483: 凱基投顧_TSLA Tesla_李承泰_20260723
 
 Source PDF: all report pdf/凱基投顧_TSLA Tesla_李承泰_20260723.pdf
 Report source: line報告備份
@@ -16632,7 +16632,7 @@ Apr-23 Oct-23 Apr-24 Oct-24 Apr-25 Oct-25 Apr-26
 電話 62 21 250 6337
 
 ---
-## Document 458: 凱基投顧_台灣總體經濟_劉建志_20260721
+## Document 486: 凱基投顧_台灣總體經濟_劉建志_20260721
 
 Source PDF: all report pdf/凱基投顧_台灣總體經濟_劉建志_20260721.pdf
 Report source: line報告備份
@@ -17002,7 +17002,7 @@ M2貨幣供給 YoY % 8.0 7.1 5.3 5.5 3.4 4.8 5.4 5.0 5.1 5.0 5.2 5.4 5.8 6.5 7.8
 免責聲明
 
 ---
-## Document 463: 力積電(6770,Note)-CTBC260715
+## Document 491: 力積電(6770,Note)-CTBC260715
 
 Source PDF: all report pdf/力積電(6770,Note)-CTBC260715.pdf
 Report source: line報告備份
@@ -17311,7 +17311,7 @@ ESG 資訊 - 公司治理 (Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 523: 富邦-2308 台達電-20260720
+## Document 555: 富邦-2308 台達電-20260720
 
 Source PDF: all report pdf/富邦-2308 台達電-20260720.pdf
 Report source: line報告備份
@@ -17708,7 +17708,7 @@ Underweight  Sector expected to underperform the broader market indexes within t
 劣於大盤 預估該產業在未來6個月內會比大盤指數表現較差
 
 ---
-## Document 525: 富邦-台股盤後快訊-20260715
+## Document 557: 富邦-台股盤後快訊-20260715
 
 Source PDF: all report pdf/富邦-台股盤後快訊-20260715.pdf
 Report source: line報告備份
@@ -17976,7 +17976,7 @@ THE END
 盤後快訊
 
 ---
-## Document 573: 漢翔(2634,OW_增加持股)-CTBC260721
+## Document 606: 漢翔(2634,OW_增加持股)-CTBC260721
 
 Source PDF: all report pdf/漢翔(2634,OW_增加持股)-CTBC260721.pdf
 Report source: line報告備份
@@ -18287,7 +18287,7 @@ ESG 資訊 -公 司 治 理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 586: 矽格(6257,B_買進)-CTBC260720
+## Document 621: 矽格(6257,B_買進)-CTBC260720
 
 Source PDF: all report pdf/矽格(6257,B_買進)-CTBC260720.pdf
 Report source: line報告備份
@@ -18601,7 +18601,7 @@ ESG 資訊 - 環境保護 (Environmental)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 606: 統一(1216,OW_增加持股)-CTBC260716
+## Document 641: 統一(1216,OW_增加持股)-CTBC260716
 
 Source PDF: all report pdf/統一(1216,OW_增加持股)-CTBC260716.pdf
 Report source: line報告備份
@@ -18886,7 +18886,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 619: 群益投顧-3008-大立光-20260722
+## Document 654: 群益投顧-3008-大立光-20260722
 
 Source PDF: all report pdf/群益投顧-3008-大立光-20260722.pdf
 Report source: line報告備份
@@ -19005,7 +19005,7 @@ PER= 股價 /2026 (F) EPS ； PBR= 股價 /2026 (F) 年 底 預 估 每 股 淨 
 資 來 得 少 的 情 形 。
 
 ---
-## Document 637: 華南-2404 漢唐-20260715
+## Document 672: 華南-2404 漢唐-20260715
 
 Source PDF: all report pdf/華南-2404 漢唐-20260715.pdf
 Report source: line報告備份
@@ -19315,7 +19315,7 @@ YOY 76.2 76.3 49.1 53.6
 個股投資建議與目標價三年歷史趨勢：
 
 ---
-## Document 641: 華南投顧-6890-來億-KY-1150721
+## Document 676: 華南投顧-6890-來億-KY-1150721
 
 Source PDF: all report pdf/華南投顧-6890-來億-KY-1150721.pdf
 Report source: line報告備份
@@ -19612,7 +19612,7 @@ YOY -26.9 -4.4 12.1 5.2
 個股投資建議與目標價三年歷史趨勢：
 
 ---
-## Document 642: 萊德光電-KY(7717,B_買進)-CTBC260716
+## Document 677: 萊德光電-KY(7717,B_買進)-CTBC260716
 
 Source PDF: all report pdf/萊德光電-KY(7717,B_買進)-CTBC260716.pdf
 Report source: line報告備份
@@ -19984,7 +19984,7 @@ PBR Band
 未評等 Not Rated (NR)
 
 ---
-## Document 644: 萬旭(6134,B_買進)-CTBC260720
+## Document 679: 萬旭(6134,B_買進)-CTBC260720
 
 Source PDF: all report pdf/萬旭(6134,B_買進)-CTBC260720.pdf
 Report source: line報告備份
