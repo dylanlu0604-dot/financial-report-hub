@@ -247,7 +247,7 @@ ainReport/data/FileStream?id=e6bd9759-63c8-
 
 Source PDF: all report pdf/2327國巨 玉山.pdf
 Report source: line報告備份
-Date: 2026-07-29
+Date: 2026-07-28
 Pages: 2
 Extraction status: ok
 
@@ -1607,7 +1607,7 @@ YoY(%)
 存貨週轉天數(天) 81.44 86.14 76.38 67.86
 
 ---
-## Document 065: 2467志聖 玉山
+## Document 063: 2467志聖 玉山
 
 Source PDF: all report pdf/2467志聖 玉山.pdf
 Report source: line報告備份
@@ -1865,7 +1865,7 @@ Amkor 7~8K 10~15K 15~20K
 未評等：無。
 
 ---
-## Document 068: 2548華固 國票
+## Document 065: 2548華固 國票
 
 Source PDF: all report pdf/2548華固 國票.pdf
 Report source: line報告備份
@@ -2318,7 +2318,7 @@ $190
 • 國票可能與該公司進行業務而處於緘默期
 
 ---
-## Document 088: 260719_citi_kimi-k3
+## Document 072: 260719_citi_kimi-k3
 
 Source PDF: all report pdf/260719_citi_kimi-k3.pdf
 Report source: line報告備份
@@ -2813,7 +2813,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 092: 260721_daiwa_Airtac
+## Document 076: 260721_daiwa_Airtac
 
 Source PDF: all report pdf/260721_daiwa_Airtac.pdf
 Report source: line報告備份
@@ -3324,7 +3324,7 @@ the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 098: 260722_ms_cloud-semis
+## Document 082: 260722_ms_cloud-semis
 
 Source PDF: all report pdf/260722_ms_cloud-semis.pdf
 Report source: line報告備份
@@ -4666,7 +4666,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 100: 260723_citi_sinbon
+## Document 084: 260723_citi_sinbon
 
 Source PDF: all report pdf/260723_citi_sinbon.pdf
 Report source: line報告備份
@@ -5311,7 +5311,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 107: 260724_nmr_chroma
+## Document 091: 260724_nmr_chroma
 
 Source PDF: all report pdf/260724_nmr_chroma.pdf
 Report source: line報告備份
@@ -7371,7 +7371,7 @@ viruses. The sender therefore does not accept liability (in negligence or otherw
 contents of this document, which may arise as a result of electronic transmission. If verification is required, please request a hard-copy version.
 
 ---
-## Document 108: 260724_ubs_intel-implication
+## Document 092: 260724_ubs_intel-implication
 
 Source PDF: all report pdf/260724_ubs_intel-implication.pdf
 Report source: line報告備份
@@ -8422,7 +8422,7 @@ constitute, advice within the meaning of the Municipal Advisor Rule.  For inform
 ab
 
 ---
-## Document 110: 260726_ms_MTK
+## Document 094: 260726_ms_MTK
 
 Source PDF: all report pdf/260726_ms_MTK.pdf
 Report source: line報告備份
@@ -9306,7 +9306,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 113: 260727_daiwa_TUC
+## Document 097: 260727_daiwa_TUC
 
 Source PDF: all report pdf/260727_daiwa_TUC.pdf
 Report source: line報告備份
@@ -9778,7 +9778,7 @@ the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 114: 260727_daiwa_Wiwynn
+## Document 098: 260727_daiwa_Wiwynn
 
 Source PDF: all report pdf/260727_daiwa_Wiwynn.pdf
 Report source: line報告備份
@@ -10271,7 +10271,7 @@ the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 115: 260727_gs_MPI
+## Document 099: 260727_gs_MPI
 
 Source PDF: all report pdf/260727_gs_MPI.pdf
 Report source: line報告備份
@@ -10929,7 +10929,7 @@ Goldman Sachs MPI Corp. (6223.TWO)For the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 123: 260728_citi_chpt
+## Document 107: 260728_citi_chpt
 
 Source PDF: all report pdf/260728_citi_chpt.pdf
 Report source: line報告備份
@@ -11427,7 +11427,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 128: 260728_daiwa_unimicron
+## Document 112: 260728_daiwa_unimicron
 
 Source PDF: all report pdf/260728_daiwa_unimicron.pdf
 Report source: line報告備份
@@ -11646,7 +11646,7 @@ regarding the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 131: 260728_gs_lmoc
+## Document 115: 260728_gs_lmoc
 
 Source PDF: all report pdf/260728_gs_lmoc.pdf
 Report source: line報告備份
@@ -11995,7 +11995,7 @@ Goldman Sachs LandMark (3081.TWO)For the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 134: 260728_kgi_airtac
+## Document 118: 260728_kgi_airtac
 
 Source PDF: all report pdf/260728_kgi_airtac.pdf
 Report source: line報告備份
@@ -12777,7 +12777,7 @@ Jul-25 Sep-25 Nov-25 Jan-26 Apr-26 Jun-26
  泰國          曼谷
 
 ---
-## Document 138: 260728_ml_powertech
+## Document 122: 260728_ml_powertech
 
 Source PDF: all report pdf/260728_ml_powertech.pdf
 Report source: line報告備份
@@ -13980,7 +13980,7 @@ Neither BofA Securities nor any officer or employee of BofA Securities accepts a
 information.
 
 ---
-## Document 142: 260728_ms_CLS-implication
+## Document 126: 260728_ms_CLS-implication
 
 Source PDF: all report pdf/260728_ms_CLS-implication.pdf
 Report source: line報告備份
@@ -14500,7 +14500,7 @@ Update
 © 2026 Morgan Stanley
 
 ---
-## Document 150: 3105穩懋 兆豐
+## Document 133: 3105穩懋 兆豐
 
 Source PDF: all report pdf/3105穩懋 兆豐.pdf
 Report source: line報告備份
@@ -14888,7 +14888,7 @@ A+A+A+A+A+
 交易所公司治理評鑑
 
 ---
-## Document 151: 3105穩懋 宏遠
+## Document 134: 3105穩懋 宏遠
 
 Source PDF: all report pdf/3105穩懋 宏遠.pdf
 Report source: line報告備份
@@ -15413,7 +15413,7 @@ A+A+A+A+A+
 2024 2025 2026
 
 ---
-## Document 153: 3105穩懋 玉山
+## Document 136: 3105穩懋 玉山
 
 Source PDF: all report pdf/3105穩懋 玉山.pdf
 Report source: line報告備份
@@ -15633,7 +15633,7 @@ Murata、Qorvo
 未評等：無。
 
 ---
-## Document 179: 6947台鎔 永豐
+## Document 158: 6947台鎔 永豐
 
 Source PDF: all report pdf/6947台鎔 永豐.pdf
 Report source: line報告備份
@@ -15772,7 +15772,7 @@ S：Sell 賣出：未來 6 個月該股票表現將落後大盤
 5
 
 ---
-## Document 295: FC-BGA (ABF) substrate JPM 260721
+## Document 264: FC-BGA (ABF) substrate JPM 260721
 
 Source PDF: all report pdf/FC-BGA (ABF) substrate JPM 260721.pdf
 Report source: line報告備份
@@ -15948,7 +15948,7 @@ ACAU5S
 VFIFBQPW2NE#Z[O1	AGGY 734._D_
 
 ---
-## Document 406: 【國泰證期研究部】AI產業-Physical AI元年，機器人將成為下一個算力終端-20260727
+## Document 366: 【國泰證期研究部】AI產業-Physical AI元年，機器人將成為下一個算力終端-20260727
 
 Source PDF: all report pdf/【國泰證期研究部】AI產業-Physical AI元年，機器人將成為下一個算力終端-20260727.pdf
 Report source: line報告備份
@@ -16119,7 +16119,7 @@ Thor 機器人端運算平台，試圖建立機器人領域類似 CUDA 的軟硬
 投資評等定義
 
 ---
-## Document 410: 【國泰證期研究部】川湖(2059 TT)-初次評等買進(+22.3%)-算力奔流，川勢正盛-20260723
+## Document 369: 【國泰證期研究部】川湖(2059 TT)-初次評等買進(+22.3%)-算力奔流，川勢正盛-20260723
 
 Source PDF: all report pdf/【國泰證期研究部】川湖(2059 TT)-初次評等買進(+22.3%)-算力奔流，川勢正盛-20260723.pdf
 Report source: line報告備份
@@ -16606,7 +16606,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 411: 【國泰證期研究部】泓德(6873 TT)-買進(+21%)-轉型海外能源平台-20260722
+## Document 370: 【國泰證期研究部】泓德(6873 TT)-買進(+21%)-轉型海外能源平台-20260722
 
 Source PDF: all report pdf/【國泰證期研究部】泓德(6873 TT)-買進(+21%)-轉型海外能源平台-20260722.pdf
 Report source: line報告備份
@@ -16956,7 +16956,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 418: 【國泰證期研究部】融程電(3416 TT)-買進(+27.2%)-軍工蓄勢，融程萬里-20260728
+## Document 376: 【國泰證期研究部】融程電(3416 TT)-買進(+27.2%)-軍工蓄勢，融程萬里-20260728
 
 Source PDF: all report pdf/【國泰證期研究部】融程電(3416 TT)-買進(+27.2%)-軍工蓄勢，融程萬里-20260728.pdf
 Report source: line報告備份
@@ -17391,7 +17391,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 477: 元大-1326 台化-20260720
+## Document 436: 元大-1326 台化-20260720
 
 Source PDF: all report pdf/元大-1326 台化-20260720.pdf
 Report source: line報告備份
@@ -18005,7 +18005,7 @@ ESG總分 25.6
 台灣臺北市 106仁愛路三段 157號 4樓
 
 ---
-## Document 503: 凱基投顧_Takeaway_4147 中裕_陳宣甫_20260722
+## Document 459: 凱基投顧_Takeaway_4147 中裕_陳宣甫_20260722
 
 Source PDF: all report pdf/凱基投顧_Takeaway_4147 中裕_陳宣甫_20260722.pdf
 Report source: line報告備份
@@ -18232,7 +18232,7 @@ CD4 細胞釋放，將大幅降低感染毒性，保有原有療效，達到最�
 七月 22, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 5
 
 ---
-## Document 505: 凱基投顧_Takeaway_6461 益得_陳宣甫_20260723
+## Document 461: 凱基投顧_Takeaway_6461 益得_陳宣甫_20260723
 
 Source PDF: all report pdf/凱基投顧_Takeaway_6461 益得_陳宣甫_20260723.pdf
 Report source: line報告備份
@@ -18420,7 +18420,7 @@ QA
 七月 23, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 5
 
 ---
-## Document 506: 凱基投顧_Takeaway_7422 鴻林堂_陳宣甫_20260720
+## Document 462: 凱基投顧_Takeaway_7422 鴻林堂_陳宣甫_20260720
 
 Source PDF: all report pdf/凱基投顧_Takeaway_7422 鴻林堂_陳宣甫_20260720.pdf
 Report source: line報告備份
@@ -18579,7 +18579,7 @@ Modern a 疫苗的 mRNA 脂質（如 SM102 等） ，純度達 99%，產量
 七月 20, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 4
 
 ---
-## Document 570: 宏致(3605,Note)-CTBC260724
+## Document 519: 宏致(3605,Note)-CTBC260724
 
 Source PDF: all report pdf/宏致(3605,Note)-CTBC260724.pdf
 Report source: line報告備份
@@ -18821,7 +18821,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 NotRated(NR)
 
 ---
-## Document 590: 富邦投顧-1301-台塑-20260723
+## Document 537: 富邦投顧-1301-台塑-20260723
 
 Source PDF: all report pdf/富邦投顧-1301-台塑-20260723.pdf
 Report source: line報告備份
@@ -19222,7 +19222,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 652: 漢翔(2634,OW_增加持股)-CTBC260721
+## Document 605: 漢翔(2634,OW_增加持股)-CTBC260721
 
 Source PDF: all report pdf/漢翔(2634,OW_增加持股)-CTBC260721.pdf
 Report source: line報告備份
@@ -19533,7 +19533,7 @@ ESG 資訊 -公 司 治 理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 697: 聚陽(1477,OW_增加持股)-CTBC260723
+## Document 646: 聚陽(1477,OW_增加持股)-CTBC260723
 
 Source PDF: all report pdf/聚陽(1477,OW_增加持股)-CTBC260723.pdf
 Report source: line報告備份
@@ -19875,7 +19875,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 719: 萬旭(6134,B_買進)-CTBC260720
+## Document 665: 萬旭(6134,B_買進)-CTBC260720
 
 Source PDF: all report pdf/萬旭(6134,B_買進)-CTBC260720.pdf
 Report source: line報告備份

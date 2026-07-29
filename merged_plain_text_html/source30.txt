@@ -3,7 +3,7 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 008: 1558伸興 宏遠
+## Document 009: 1558伸興 宏遠
 
 Source PDF: all report pdf/1558伸興 宏遠.pdf
 Report source: line報告備份
@@ -568,7 +568,7 @@ AA
 2024 2025 2026
 
 ---
-## Document 010: 2002中鋼 群益
+## Document 011: 2002中鋼 群益
 
 Source PDF: all report pdf/2002中鋼 群益.pdf
 Report source: line報告備份
@@ -1782,7 +1782,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 064: 2454聯發科 富邦
+## Document 062: 2454聯發科 富邦
 
 Source PDF: all report pdf/2454聯發科 富邦.pdf
 Report source: line報告備份
@@ -2188,7 +2188,7 @@ Underweight  Sector expected to underperform the broader market indexes within t
 劣於大盤 預估該產業在未來6個月內會比大盤指數表現較差
 
 ---
-## Document 087: 260719_citi_dynapack
+## Document 071: 260719_citi_dynapack
 
 Source PDF: all report pdf/260719_citi_dynapack.pdf
 Report source: line報告備份
@@ -2719,7 +2719,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 090: 260720_ubs_HH
+## Document 074: 260720_ubs_HH
 
 Source PDF: all report pdf/260720_ubs_HH.pdf
 Report source: line報告備份
@@ -4204,7 +4204,7 @@ constitute, advice within the meaning of the Municipal Advisor Rule.  For inform
 ab
 
 ---
-## Document 091: 260720_ubs_quanta
+## Document 075: 260720_ubs_quanta
 
 Source PDF: all report pdf/260720_ubs_quanta.pdf
 Report source: line報告備份
@@ -5561,7 +5561,7 @@ constitute, advice within the meaning of the Municipal Advisor Rule.  For inform
 ab
 
 ---
-## Document 093: 260721_ms_2h-juil-panel-px
+## Document 077: 260721_ms_2h-juil-panel-px
 
 Source PDF: all report pdf/260721_ms_2h-juil-panel-px.pdf
 Report source: line報告備份
@@ -6634,7 +6634,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 094: 260721_ms_shanghai-WAIC
+## Document 078: 260721_ms_shanghai-WAIC
 
 Source PDF: all report pdf/260721_ms_shanghai-WAIC.pdf
 Report source: line報告備份
@@ -7582,7 +7582,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 096: 260722_daiwa_Taiwan Microloops
+## Document 080: 260722_daiwa_Taiwan Microloops
 
 Source PDF: all report pdf/260722_daiwa_Taiwan Microloops.pdf
 Report source: line報告備份
@@ -8082,7 +8082,7 @@ the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 097: 260722_jp_avc
+## Document 081: 260722_jp_avc
 
 Source PDF: all report pdf/260722_jp_avc.pdf
 Report source: line報告備份
@@ -8857,7 +8857,7 @@ artificial intelligence (“AI”) systems or models when such J.P. Morgan Data 
 Completed 23 Jul 2026 12:09 AM HKT Disseminated 23 Jul 2026 12:09 AM HKT
 
 ---
-## Document 103: 260724_daiwa_winsemi-UG
+## Document 087: 260724_daiwa_winsemi-UG
 
 Source PDF: all report pdf/260724_daiwa_winsemi-UG.pdf
 Report source: line報告備份
@@ -9396,7 +9396,7 @@ the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 106: 260724_ms_winsemi
+## Document 090: 260724_ms_winsemi
 
 Source PDF: all report pdf/260724_ms_winsemi.pdf
 Report source: line報告備份
@@ -9883,7 +9883,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 109: 260726_ms_glass-in-advanced-packaging
+## Document 093: 260726_ms_glass-in-advanced-packaging
 
 Source PDF: all report pdf/260726_ms_glass-in-advanced-packaging.pdf
 Report source: line報告備份
@@ -10310,7 +10310,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 112: 260727_daiwa_bizlink
+## Document 096: 260727_daiwa_bizlink
 
 Source PDF: all report pdf/260727_daiwa_bizlink.pdf
 Report source: line報告備份
@@ -10495,7 +10495,7 @@ regarding the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 124: 260728_daiwa_airtac
+## Document 108: 260728_daiwa_airtac
 
 Source PDF: all report pdf/260728_daiwa_airtac.pdf
 Report source: line報告備份
@@ -10698,7 +10698,7 @@ regarding the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 139: 260728_ml_umc
+## Document 123: 260728_ml_umc
 
 Source PDF: all report pdf/260728_ml_umc.pdf
 Report source: line報告備份
@@ -11366,7 +11366,7 @@ Neither BofA Securities nor any officer or employee of BofA Securities accepts a
 information.
 
 ---
-## Document 155: 3189景碩 兆豐
+## Document 138: 3189景碩 兆豐
 
 Source PDF: all report pdf/3189景碩 兆豐.pdf
 Report source: line報告備份
@@ -11787,7 +11787,7 @@ A
 交易所公司治理評鑑
 
 ---
-## Document 158: 3605宏致 元大
+## Document 141: 3605宏致 元大
 
 Source PDF: all report pdf/3605宏致 元大.pdf
 Report source: line報告備份
@@ -12438,7 +12438,7 @@ Foxconn 6088 HK 未評等 5.6 5,021 6.1 9.7 12.3 2.9 3.2 3.6 1.9 1.8 1.6
 台灣臺北市 106仁愛路三段 157號 4樓
 
 ---
-## Document 172: 6285啟碁 康和
+## Document 153: 6285啟碁 康和
 
 Source PDF: all report pdf/6285啟碁 康和.pdf
 Report source: line報告備份
@@ -12733,7 +12733,7 @@ EPS以股本483.7百萬股計算
 投 資 結 果 自 行 負 責 。
 
 ---
-## Document 174: 6446藥華藥 統一
+## Document 154: 6446藥華藥 統一
 
 Source PDF: all report pdf/6446藥華藥 統一.pdf
 Report source: line報告備份
@@ -12987,7 +12987,7 @@ ainReport/data/FileStream?id=85352a0f-31bd-
 請參見末頁重要批露及免責聲明  6
 
 ---
-## Document 184: 7734印能 宏遠
+## Document 162: 7734印能 宏遠
 
 Source PDF: all report pdf/7734印能 宏遠.pdf
 Report source: line報告備份
@@ -13459,7 +13459,7 @@ Company Report
 2025 2026
 
 ---
-## Document 187: 7751竑騰 群益
+## Document 164: 7751竑騰 群益
 
 Source PDF: all report pdf/7751竑騰 群益.pdf
 Report source: line報告備份
@@ -13697,7 +13697,7 @@ YoY(%)
 情形。
 
 ---
-## Document 191: 8938明安 宏遠
+## Document 168: 8938明安 宏遠
 
 Source PDF: all report pdf/8938明安 宏遠.pdf
 Report source: line報告備份
@@ -14171,7 +14171,7 @@ AAAAA
 2024 2025 2026
 
 ---
-## Document 341: MediaTek(2454TW) JPM 260722
+## Document 303: MediaTek(2454TW) JPM 260722
 
 Source PDF: all report pdf/MediaTek(2454TW) JPM 260722.pdf
 Report source: line報告備份
@@ -15469,7 +15469,7 @@ VF6&R4KR&V
 H	QVUZM0HL1UIA%A
 
 ---
-## Document 412: 【國泰證期研究部】特化產業-乾膜光阻市場受惠於PCB, IC載板和先進封裝正向趨勢-20260723
+## Document 371: 【國泰證期研究部】特化產業-乾膜光阻市場受惠於PCB, IC載板和先進封裝正向趨勢-20260723
 
 Source PDF: all report pdf/【國泰證期研究部】特化產業-乾膜光阻市場受惠於PCB, IC載板和先進封裝正向趨勢-20260723.pdf
 Report source: line報告備份
@@ -15638,7 +15638,7 @@ IC 封裝，且2026 年仍持續於 JPCA、CPCA 等展會推廣乾膜產品，�
 投資評等定義
 
 ---
-## Document 419: 【國泰證期研究部】衛星產業-第三代星座申請大量衛星部屬，跨入超低衛星軌道-20260721
+## Document 377: 【國泰證期研究部】衛星產業-第三代星座申請大量衛星部屬，跨入超低衛星軌道-20260721
 
 Source PDF: all report pdf/【國泰證期研究部】衛星產業-第三代星座申請大量衛星部屬，跨入超低衛星軌道-20260721.pdf
 Report source: line報告備份
@@ -15775,7 +15775,7 @@ Starlink Amazon LEO
 投資評等定義
 
 ---
-## Document 469: 亞德客(1590,UG,B_調升,買進)-CTBC260729
+## Document 430: 亞德客(1590,UG,B_調升,買進)-CTBC260729
 
 Source PDF: all report pdf/亞德客(1590,UG,B_調升,買進)-CTBC260729.pdf
 Report source: line報告備份
@@ -16043,7 +16043,7 @@ ESG 資訊 -公 司 治 理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 478: 元大-6505 台塑化-20260720
+## Document 437: 元大-6505 台塑化-20260720
 
 Source PDF: all report pdf/元大-6505 台塑化-20260720.pdf
 Report source: line報告備份
@@ -16689,7 +16689,7 @@ ESG總分 37.1
 台灣臺北市 106仁愛路三段 157號 4樓
 
 ---
-## Document 489: 凱基投顧_2337 旺宏_沈漢軒_20260728
+## Document 449: 凱基投顧_2337 旺宏_沈漢軒_20260728
 
 Source PDF: all report pdf/凱基投顧_2337 旺宏_沈漢軒_20260728.pdf
 Report source: line報告備份
@@ -17335,7 +17335,7 @@ na
 資料來源：TEJ，凱基
 
 ---
-## Document 499: 凱基投顧_INTC Intel_潘俊宏_20260721
+## Document 457: 凱基投顧_INTC Intel_潘俊宏_20260721
 
 Source PDF: all report pdf/凱基投顧_INTC Intel_潘俊宏_20260721.pdf
 Report source: line報告備份
@@ -17849,7 +17849,7 @@ Jul-23 Jan-24 Jul-24 Jan-25 Jul-25 Jan-26 Jul-26
 電話 62 21 250 6337
 
 ---
-## Document 508: 凱基投顧_Takeaway_美國軟體產業_鄭傑懋_20260723
+## Document 464: 凱基投顧_Takeaway_美國軟體產業_鄭傑懋_20260723
 
 Source PDF: all report pdf/凱基投顧_Takeaway_美國軟體產業_鄭傑懋_20260723.pdf
 Report source: line報告備份
@@ -18132,7 +18132,7 @@ Net margin (%)
  泰國          曼谷
 
 ---
-## Document 520: 力成(6239,B_買進)-CTBC260729
+## Document 473: 力成(6239,B_買進)-CTBC260729
 
 Source PDF: all report pdf/力成(6239,B_買進)-CTBC260729.pdf
 Report source: line報告備份
@@ -18439,7 +18439,7 @@ ESG 資訊 - 公司治理 (Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 537: 台化(1326,OW_增加持股)-CTBC260723
+## Document 488: 台化(1326,OW_增加持股)-CTBC260723
 
 Source PDF: all report pdf/台化(1326,OW_增加持股)-CTBC260723.pdf
 Report source: line報告備份
@@ -18804,7 +18804,7 @@ ESG 資訊 ─公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 541: 台新投顧20260723個股報告-興富發(2542)-買進
+## Document 491: 台新投顧20260723個股報告-興富發(2542)-買進
 
 Source PDF: all report pdf/台新投顧20260723個股報告-興富發(2542)-買進.pdf
 Report source: line報告備份
@@ -19008,7 +19008,7 @@ EPS(元) 5.57 1.69 6.01 2.42 2.11 5.77 2.08 1.21 2.98 2.10
 領息日期 2017/10/05 2018/10/05 2019/10/30 2020/10/30 2021/10/29 2022/10/31 2023/10/31 2024/11/01 2025/10/31
 
 ---
-## Document 542: 台新投顧20260727個股報告-穩懋(3105)-買進
+## Document 492: 台新投顧20260727個股報告-穩懋(3105)-買進
 
 Source PDF: all report pdf/台新投顧20260727個股報告-穩懋(3105)-買進.pdf
 Report source: line報告備份
@@ -19139,7 +19139,7 @@ Optical 業務處於前期 NRE，產能需求基期較低，伴隨 200G PD 進�
 位不為使用者之資訊決策及結果負擔任何責任。
 
 ---
-## Document 563: 大樹(6469,N_中立)-CTBC260722
+## Document 512: 大樹(6469,N_中立)-CTBC260722
 
 Source PDF: all report pdf/大樹(6469,N_中立)-CTBC260722.pdf
 Report source: line報告備份
@@ -19394,7 +19394,7 @@ ESG 資訊 -公 司 治 理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 632: 智原(3035,N_中立)-CTBC260729
+## Document 581: 智原(3035,N_中立)-CTBC260729
 
 Source PDF: all report pdf/智原(3035,N_中立)-CTBC260729.pdf
 Report source: line報告備份
@@ -19698,7 +19698,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 695: 群益產業速報-台積電(2330 TT)將上調2027年報價-07222026
+## Document 644: 群益產業速報-台積電(2330 TT)將上調2027年報價-07222026
 
 Source PDF: all report pdf/群益產業速報-台積電(2330 TT)將上調2027年報價-07222026.pdf
 Report source: line報告備份

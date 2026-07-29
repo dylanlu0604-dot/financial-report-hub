@@ -753,7 +753,7 @@ PER= 股價 /2026 (F) EPS ； PBR= 股價 /2026 (F) 年 底 預 估 每 股 淨 
 資 來 得 少 的 情 形 。
 
 ---
-## Document 086: 260718_gs_mitac
+## Document 070: 260718_gs_mitac
 
 Source PDF: all report pdf/260718_gs_mitac.pdf
 Report source: line報告備份
@@ -1217,7 +1217,7 @@ Goldman Sachs Mitac (3706.TW)For the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 101: 260723_citi_yageo
+## Document 085: 260723_citi_yageo
 
 Source PDF: all report pdf/260723_citi_yageo.pdf
 Report source: line報告備份
@@ -1762,7 +1762,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 102: 260723_ms_google-results-implication
+## Document 086: 260723_ms_google-results-implication
 
 Source PDF: all report pdf/260723_ms_google-results-implication.pdf
 Report source: line報告備份
@@ -2192,7 +2192,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 111: 260727_citi_poya
+## Document 095: 260727_citi_poya
 
 Source PDF: all report pdf/260727_citi_poya.pdf
 Report source: line報告備份
@@ -3100,7 +3100,7 @@ Extraction status: ok
 /53/65/65/63/66/63/73/74/53/75/i255/63/74/57/73/64/62/53/66/63/73/74/i255/63/76/i255/53/77/53/63/75/53/78/75/79/i255/80/56/73/74/i255/64/79/81/80/79/76/66
 
 ---
-## Document 118: 260727_ms_cloud-semis
+## Document 102: 260727_ms_cloud-semis
 
 Source PDF: all report pdf/260727_ms_cloud-semis.pdf
 Report source: line報告備份
@@ -3585,7 +3585,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 122: 260728_citi_airtac
+## Document 106: 260728_citi_airtac
 
 Source PDF: all report pdf/260728_citi_airtac.pdf
 Report source: line報告備份
@@ -4250,7 +4250,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 132: 260728_gs_umt
+## Document 116: 260728_gs_umt
 
 Source PDF: all report pdf/260728_gs_umt.pdf
 Report source: line報告備份
@@ -4694,7 +4694,7 @@ Goldman Sachs UMT (3491.TWO)For the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 137: 260728_ml_jentech
+## Document 121: 260728_ml_jentech
 
 Source PDF: all report pdf/260728_ml_jentech.pdf
 Report source: line報告備份
@@ -5257,7 +5257,7 @@ Neither BofA Securities nor any officer or employee of BofA Securities accepts a
 information.
 
 ---
-## Document 140: 260728_ml_vanguard
+## Document 124: 260728_ml_vanguard
 
 Source PDF: all report pdf/260728_ml_vanguard.pdf
 Report source: line報告備份
@@ -5786,7 +5786,7 @@ Neither BofA Securities nor any officer or employee of BofA Securities accepts a
 information.
 
 ---
-## Document 141: 260728_ms_airtac
+## Document 125: 260728_ms_airtac
 
 Source PDF: all report pdf/260728_ms_airtac.pdf
 Report source: line報告備份
@@ -6626,7 +6626,7 @@ Idea
 © 2026 Morgan Stanley
 
 ---
-## Document 145: 260728_ubs_powertech
+## Document 129: 260728_ubs_powertech
 
 Source PDF: all report pdf/260728_ubs_powertech.pdf
 Report source: line報告備份
@@ -7722,7 +7722,7 @@ constitute, advice within the meaning of the Municipal Advisor Rule.  For inform
 ab
 
 ---
-## Document 148: 3008大立光 群益
+## Document 131: 3008大立光 群益
 
 Source PDF: all report pdf/3008大立光 群益.pdf
 Report source: line報告備份
@@ -7841,11 +7841,11 @@ PER= 股價 /2026 (F) EPS ； PBR= 股價 /2026 (F) 年 底 預 估 每 股 淨 
 資 來 得 少 的 情 形 。
 
 ---
-## Document 149: 3037欣興 玉山
+## Document 132: 3037欣興 玉山
 
 Source PDF: all report pdf/3037欣興 玉山.pdf
 Report source: line報告備份
-Date: 2026-07-29
+Date: 2026-07-28
 Pages: 2
 Extraction status: ok
 
@@ -8002,7 +8002,7 @@ EPS(元) 4.36 3.28 4.16 5.01 6.33 18.78
 機密或任何其他智慧財產權。
 
 ---
-## Document 152: 3105穩懋 永豐
+## Document 135: 3105穩懋 永豐
 
 Source PDF: all report pdf/3105穩懋 永豐.pdf
 Report source: line報告備份
@@ -8513,7 +8513,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 10
 
 ---
-## Document 156: 3264欣銓 第一金
+## Document 139: 3264欣銓 第一金
 
 Source PDF: all report pdf/3264欣銓 第一金.pdf
 Report source: line報告備份
@@ -8780,7 +8780,7 @@ YoY(%)
 存貨週轉天數(天) - - - - - - - -
 
 ---
-## Document 157: 3264欣銓 群益
+## Document 140: 3264欣銓 群益
 
 Source PDF: all report pdf/3264欣銓 群益.pdf
 Report source: line報告備份
@@ -9217,7 +9217,7 @@ YoY(%)
 情形。
 
 ---
-## Document 160: 3605宏致 第一金
+## Document 143: 3605宏致 第一金
 
 Source PDF: all report pdf/3605宏致 第一金.pdf
 Report source: line報告備份
@@ -9459,7 +9459,7 @@ YoY(%)
 存貨週轉天數(天) 68.76 70.65 62.43 63.39
 
 ---
-## Document 167: 6139亞翔 宏遠
+## Document 149: 6139亞翔 宏遠
 
 Source PDF: all report pdf/6139亞翔 宏遠.pdf
 Report source: line報告備份
@@ -9959,7 +9959,7 @@ C
 2024 2025 2026
 
 ---
-## Document 171: 6239力成 群益
+## Document 152: 6239力成 群益
 
 Source PDF: all report pdf/6239力成 群益.pdf
 Report source: line報告備份
@@ -10259,7 +10259,7 @@ YoY(%)
 情形。
 
 ---
-## Document 176: 6683雍智 群益
+## Document 156: 6683雍智 群益
 
 Source PDF: all report pdf/6683雍智 群益.pdf
 Report source: line報告備份
@@ -10384,7 +10384,7 @@ PER= 股價 /2026 (F) EPS ； PBR= 股價 /2026 (F) 年 底 預 估 每 股 淨 
 情形。
 
 ---
-## Document 185: 7751竑騰 元富
+## Document 163: 7751竑騰 元富
 
 Source PDF: all report pdf/7751竑騰 元富.pdf
 Report source: line報告備份
@@ -10645,7 +10645,7 @@ Operating 36.1 35.7 38.7 38.7 ROA 15.09 17.05 24.70 31.80
 Net 30.4 29.1 31.3 31.3 ROE 26.01 28.34 38.48 47.56
 
 ---
-## Document 188: 7799禾榮科 元富
+## Document 165: 7799禾榮科 元富
 
 Source PDF: all report pdf/7799禾榮科 元富.pdf
 Report source: line報告備份
@@ -11141,7 +11141,7 @@ Operating (3067.4) (20730.3) (4389.9) (3775.6) ROA -7.34 -4.10 8.89
 Net (1995.8) (19738.2) (4189.9) (3655.6) ROE -7.43 -4.14 8.95
 
 ---
-## Document 193: 9938百和 宏遠
+## Document 170: 9938百和 宏遠
 
 Source PDF: all report pdf/9938百和 宏遠.pdf
 Report source: line報告備份
@@ -11755,7 +11755,7 @@ B
 2024 2025 2026
 
 ---
-## Document 407: 【國泰證期研究部】IC設計產業-AI互連需求升溫，PCIe迎成長週期-20260724
+## Document 367: 【國泰證期研究部】IC設計產業-AI互連需求升溫，PCIe迎成長週期-20260724
 
 Source PDF: all report pdf/【國泰證期研究部】IC設計產業-AI互連需求升溫，PCIe迎成長週期-20260724.pdf
 Report source: line報告備份
@@ -11961,7 +11961,7 @@ KY(4966 TT)則布局 PCIe Gen4／5 Retimer 及 Gen6 Linear Redriver，其中 Gen
 投資評等定義
 
 ---
-## Document 408: 【國泰證期研究部】PCB產業-高階光模塊需求強勁，台系PCB業者大幅擴產增加市佔-2026
+## Document 368: 【國泰證期研究部】PCB產業-高階光模塊需求強勁，台系PCB業者大幅擴產增加市佔-2026
 
 Source PDF: all report pdf/【國泰證期研究部】PCB產業-高階光模塊需求強勁，台系PCB業者大幅擴產增加市佔-2026.pdf
 Report source: line報告備份
@@ -12124,7 +12124,7 @@ PCB
 投資評等定義
 
 ---
-## Document 491: 凱基投顧_3035 智原_劉宇程_20260728
+## Document 450: 凱基投顧_3035 智原_劉宇程_20260728
 
 Source PDF: all report pdf/凱基投顧_3035 智原_劉宇程_20260728.pdf
 Report source: line報告備份
@@ -12902,7 +12902,7 @@ Jul-25 Sep-25 Nov-25 Jan-26 Apr-26 Jun-26
 資料來源：TEJ，凱基
 
 ---
-## Document 492: 凱基投顧_4755 三福化工_張育程_20260723
+## Document 451: 凱基投顧_4755 三福化工_張育程_20260723
 
 Source PDF: all report pdf/凱基投顧_4755 三福化工_張育程_20260723.pdf
 Report source: line報告備份
@@ -13468,7 +13468,7 @@ na
 資料來源：TEJ，凱基
 
 ---
-## Document 494: 凱基投顧_7909 鈺祥_研究部_20260728
+## Document 453: 凱基投顧_7909 鈺祥_研究部_20260728
 
 Source PDF: all report pdf/凱基投顧_7909 鈺祥_研究部_20260728.pdf
 Report source: line報告備份
@@ -13839,7 +13839,7 @@ Dec-21A Dec-22A Dec-23A Dec-24A Dec-25A
 七月 28, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 5
 
 ---
-## Document 496: 凱基投顧__2327 國巨_鄭宇宏_20260722
+## Document 455: 凱基投顧__2327 國巨_鄭宇宏_20260722
 
 Source PDF: all report pdf/凱基投顧__2327 國巨_鄭宇宏_20260722.pdf
 Report source: line報告備份
@@ -14938,7 +14938,7 @@ Dec-24A Dec-25A Dec-26F Dec-27F Dec-28F
  泰國          曼谷
 
 ---
-## Document 511: 凱基投顧_印刷電路板產業_林祐熙_20260720
+## Document 466: 凱基投顧_印刷電路板產業_林祐熙_20260720
 
 Source PDF: all report pdf/凱基投顧_印刷電路板產業_林祐熙_20260720.pdf
 Report source: line報告備份
@@ -17548,7 +17548,7 @@ Dec-24A Dec-25A Dec-26F Dec-27F Dec-28F
  泰國          曼谷
 
 ---
-## Document 512: 凱基投顧_台灣總體經濟_劉建志_20260721
+## Document 467: 凱基投顧_台灣總體經濟_劉建志_20260721
 
 Source PDF: all report pdf/凱基投顧_台灣總體經濟_劉建志_20260721.pdf
 Report source: line報告備份
@@ -17918,7 +17918,7 @@ M2貨幣供給 YoY % 8.0 7.1 5.3 5.5 3.4 4.8 5.4 5.0 5.1 5.0 5.2 5.4 5.8 6.5 7.8
 免責聲明
 
 ---
-## Document 513: 凱基投顧_美國衛星產業_張燾_20260727
+## Document 468: 凱基投顧_美國衛星產業_張燾_20260727
 
 Source PDF: all report pdf/凱基投顧_美國衛星產業_張燾_20260727.pdf
 Report source: line報告備份
@@ -18230,7 +18230,7 @@ Iridium 33 5
 電話 62 21 250 6337
 
 ---
-## Document 595: 巧新(1563,Note)-CTBC260722
+## Document 542: 巧新(1563,Note)-CTBC260722
 
 Source PDF: all report pdf/巧新(1563,Note)-CTBC260722.pdf
 Report source: line報告備份
@@ -18420,7 +18420,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 638: 欣銓(3264,B_買進)-CTBC260727
+## Document 588: 欣銓(3264,B_買進)-CTBC260727
 
 Source PDF: all report pdf/欣銓(3264,B_買進)-CTBC260727.pdf
 Report source: line報告備份
@@ -18797,7 +18797,7 @@ ESG 資訊 -公司治理 (Governance)
 營業執照字號：114金管投顧新字第 014號
 
 ---
-## Document 663: 矽格(6257,B_買進)-CTBC260720
+## Document 615: 矽格(6257,B_買進)-CTBC260720
 
 Source PDF: all report pdf/矽格(6257,B_買進)-CTBC260720.pdf
 Report source: line報告備份
@@ -19111,7 +19111,7 @@ ESG 資訊 - 環境保護 (Environmental)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 717: 華南投顧-3665-貿聯-KY-1150723
+## Document 663: 華南投顧-3665-貿聯-KY-1150723
 
 Source PDF: all report pdf/華南投顧-3665-貿聯-KY-1150723.pdf
 Report source: line報告備份
@@ -19411,7 +19411,7 @@ YOY 28.0 39.8 36.2 42.0
 個股投資建議與目標價三年歷史趨勢：
 
 ---
-## Document 718: 華南投顧-6890-來億-KY-1150721
+## Document 664: 華南投顧-6890-來億-KY-1150721
 
 Source PDF: all report pdf/華南投顧-6890-來億-KY-1150721.pdf
 Report source: line報告備份
@@ -19708,7 +19708,7 @@ YOY -26.9 -4.4 12.1 5.2
 個股投資建議與目標價三年歷史趨勢：
 
 ---
-## Document 739: 長興(1717,B_買進)-CTBC260723
+## Document 687: 長興(1717,B_買進)-CTBC260723
 
 Source PDF: all report pdf/長興(1717,B_買進)-CTBC260723.pdf
 Report source: line報告備份
