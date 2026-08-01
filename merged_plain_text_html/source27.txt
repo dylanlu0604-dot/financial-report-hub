@@ -3,7 +3,7 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 058: 2327國巨 永豐
+## Document 053: 2327國巨 永豐
 
 Source PDF: all report pdf/2327國巨 永豐.pdf
 Report source: line報告備份
@@ -349,7 +349,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 8
 
 ---
-## Document 062: 2454聯發科 富邦
+## Document 057: 2454聯發科 富邦
 
 Source PDF: all report pdf/2454聯發科 富邦.pdf
 Report source: line報告備份
@@ -755,7 +755,7 @@ Underweight  Sector expected to underperform the broader market indexes within t
 劣於大盤 預估該產業在未來6個月內會比大盤指數表現較差
 
 ---
-## Document 063: 2467志聖 玉山
+## Document 058: 2467志聖 玉山
 
 Source PDF: all report pdf/2467志聖 玉山.pdf
 Report source: line報告備份
@@ -1013,7 +1013,7 @@ Amkor 7~8K 10~15K 15~20K
 未評等：無。
 
 ---
-## Document 065: 260723_citi_sinbon
+## Document 060: 260723_citi_sinbon
 
 Source PDF: all report pdf/260723_citi_sinbon.pdf
 Report source: line報告備份
@@ -1658,7 +1658,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 066: 260723_citi_yageo
+## Document 061: 260723_citi_yageo
 
 Source PDF: all report pdf/260723_citi_yageo.pdf
 Report source: line報告備份
@@ -2203,7 +2203,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 074: 260726_ms_glass-in-advanced-packaging
+## Document 069: 260726_ms_glass-in-advanced-packaging
 
 Source PDF: all report pdf/260726_ms_glass-in-advanced-packaging.pdf
 Report source: line報告備份
@@ -2630,7 +2630,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 076: 260727_citi_poya
+## Document 071: 260727_citi_poya
 
 Source PDF: all report pdf/260727_citi_poya.pdf
 Report source: line報告備份
@@ -3538,7 +3538,7 @@ Extraction status: ok
 /53/65/65/63/66/63/73/74/53/75/i255/63/74/57/73/64/62/53/66/63/73/74/i255/63/76/i255/53/77/53/63/75/53/78/75/79/i255/80/56/73/74/i255/64/79/81/80/79/76/66
 
 ---
-## Document 077: 260727_daiwa_bizlink
+## Document 072: 260727_daiwa_bizlink
 
 Source PDF: all report pdf/260727_daiwa_bizlink.pdf
 Report source: line報告備份
@@ -3723,7 +3723,7 @@ regarding the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 078: 260727_daiwa_TUC
+## Document 073: 260727_daiwa_TUC
 
 Source PDF: all report pdf/260727_daiwa_TUC.pdf
 Report source: line報告備份
@@ -4195,7 +4195,7 @@ the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 080: 260727_gs_MPI
+## Document 075: 260727_gs_MPI
 
 Source PDF: all report pdf/260727_gs_MPI.pdf
 Report source: line報告備份
@@ -4853,7 +4853,7 @@ Goldman Sachs MPI Corp. (6223.TWO)For the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 083: 260727_ms_cloud-semis
+## Document 078: 260727_ms_cloud-semis
 
 Source PDF: all report pdf/260727_ms_cloud-semis.pdf
 Report source: line報告備份
@@ -5338,7 +5338,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 089: 260728_daiwa_airtac
+## Document 084: 260728_daiwa_airtac
 
 Source PDF: all report pdf/260728_daiwa_airtac.pdf
 Report source: line報告備份
@@ -5541,7 +5541,7 @@ regarding the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 092: 260728_daiwa_microloops
+## Document 087: 260728_daiwa_microloops
 
 Source PDF: all report pdf/260728_daiwa_microloops.pdf
 Report source: line報告備份
@@ -6029,7 +6029,7 @@ the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 093: 260728_daiwa_unimicron
+## Document 088: 260728_daiwa_unimicron
 
 Source PDF: all report pdf/260728_daiwa_unimicron.pdf
 Report source: line報告備份
@@ -6248,7 +6248,7 @@ regarding the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 095: 260728_gs_aspeed
+## Document 090: 260728_gs_aspeed
 
 Source PDF: all report pdf/260728_gs_aspeed.pdf
 Report source: line報告備份
@@ -6986,7 +6986,7 @@ Goldman Sachs Aspeed (5274.TWO)For the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 110: 260728_ubs_powertech
+## Document 105: 260728_ubs_powertech
 
 Source PDF: all report pdf/260728_ubs_powertech.pdf
 Report source: line報告備份
@@ -8082,7 +8082,7 @@ constitute, advice within the meaning of the Municipal Advisor Rule.  For inform
 ab
 
 ---
-## Document 114: 260729_citi_unimicron
+## Document 109: 260729_citi_unimicron
 
 Source PDF: all report pdf/260729_citi_unimicron.pdf
 Report source: line報告備份
@@ -8792,7 +8792,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 115: 260729_citi_yageo
+## Document 110: 260729_citi_yageo
 
 Source PDF: all report pdf/260729_citi_yageo.pdf
 Report source: line報告備份
@@ -9611,7 +9611,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 119: 260729_gs_CCL
+## Document 114: 260729_gs_CCL
 
 Source PDF: all report pdf/260729_gs_CCL.pdf
 Report source: line報告備份
@@ -10000,7 +10000,7 @@ Goldman Sachs Taiwan CCLFor the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 122: 260729_ml_hon-precision
+## Document 117: 260729_ml_hon-precision
 
 Source PDF: all report pdf/260729_ml_hon-precision.pdf
 Report source: line報告備份
@@ -10458,7 +10458,7 @@ Neither BofA Securities nor any officer or employee of BofA Securities accepts a
 information.
 
 ---
-## Document 124: 260729_ml_unimicron
+## Document 119: 260729_ml_unimicron
 
 Source PDF: all report pdf/260729_ml_unimicron.pdf
 Report source: line報告備份
@@ -10985,7 +10985,7 @@ Neither BofA Securities nor any officer or employee of BofA Securities accepts a
 information.
 
 ---
-## Document 126: 260729_ms_GWC
+## Document 121: 260729_ms_GWC
 
 Source PDF: all report pdf/260729_ms_GWC.pdf
 Report source: line報告備份
@@ -11955,7 +11955,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 154: 3037欣興 玉山
+## Document 149: 3037欣興 玉山
 
 Source PDF: all report pdf/3037欣興 玉山.pdf
 Report source: line報告備份
@@ -12116,7 +12116,7 @@ EPS(元) 4.36 3.28 4.16 5.01 6.33 18.78
 機密或任何其他智慧財產權。
 
 ---
-## Document 160: 3189景碩 兆豐
+## Document 155: 3189景碩 兆豐
 
 Source PDF: all report pdf/3189景碩 兆豐.pdf
 Report source: line報告備份
@@ -12537,7 +12537,7 @@ A
 交易所公司治理評鑑
 
 ---
-## Document 172: 6239力成 第一金
+## Document 167: 6239力成 第一金
 
 Source PDF: all report pdf/6239力成 第一金.pdf
 Report source: line報告備份
@@ -12847,7 +12847,7 @@ YoY(%)
 存貨週轉天數(天) 47.39 54.26 36.79 34.76
 
 ---
-## Document 178: 7734印能 宏遠
+## Document 173: 7734印能 宏遠
 
 Source PDF: all report pdf/7734印能 宏遠.pdf
 Report source: line報告備份
@@ -13319,7 +13319,7 @@ Company Report
 2025 2026
 
 ---
-## Document 390: Unimicron(3037TW) JPM 260723
+## Document 356: Unimicron(3037TW) JPM 260723
 
 Source PDF: all report pdf/Unimicron(3037TW) JPM 260723.pdf
 Report source: line報告備份
@@ -14237,7 +14237,7 @@ CYS
 KT?B?
 
 ---
-## Document 407: 【國泰證期研究部】AI產業-Physical AI元年，機器人將成為下一個算力終端-20260727
+## Document 372: 【國泰證期研究部】AI產業-Physical AI元年，機器人將成為下一個算力終端-20260727
 
 Source PDF: all report pdf/【國泰證期研究部】AI產業-Physical AI元年，機器人將成為下一個算力終端-20260727.pdf
 Report source: line報告備份
@@ -14408,7 +14408,7 @@ Thor 機器人端運算平台，試圖建立機器人領域類似 CUDA 的軟硬
 投資評等定義
 
 ---
-## Document 410: 【國泰證期研究部】台光電(2383 TT)-買進(+29.3%)-光芒不墜，電領群雄-20260730
+## Document 375: 【國泰證期研究部】台光電(2383 TT)-買進(+29.3%)-光芒不墜，電領群雄-20260730
 
 Source PDF: all report pdf/【國泰證期研究部】台光電(2383 TT)-買進(+29.3%)-光芒不墜，電領群雄-20260730.pdf
 Report source: line報告備份
@@ -14766,7 +14766,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 510: 凱基投顧_2337 旺宏_沈漢軒_20260728
+## Document 475: 凱基投顧_2337 旺宏_沈漢軒_20260728
 
 Source PDF: all report pdf/凱基投顧_2337 旺宏_沈漢軒_20260728.pdf
 Report source: line報告備份
@@ -15412,7 +15412,7 @@ na
 資料來源：TEJ，凱基
 
 ---
-## Document 512: 凱基投顧_2379 瑞昱_劉宇程_20260730
+## Document 477: 凱基投顧_2379 瑞昱_劉宇程_20260730
 
 Source PDF: all report pdf/凱基投顧_2379 瑞昱_劉宇程_20260730.pdf
 Report source: line報告備份
@@ -16202,7 +16202,7 @@ Recommendations & Target Price
 資料來源： TEJ，凱基
 
 ---
-## Document 513: 凱基投顧_2383 台光電_林祐熙_20260729
+## Document 478: 凱基投顧_2383 台光電_林祐熙_20260729
 
 Source PDF: all report pdf/凱基投顧_2383 台光電_林祐熙_20260729.pdf
 Report source: line報告備份
@@ -16980,7 +16980,7 @@ Jul-25 Sep-25 Nov-25 Jan-26 Apr-26 Jun-26
 資料來源：TEJ，凱基
 
 ---
-## Document 518: 凱基投顧_3711 日月光投控_潘俊宏_20260730
+## Document 483: 凱基投顧_3711 日月光投控_潘俊宏_20260730
 
 Source PDF: all report pdf/凱基投顧_3711 日月光投控_潘俊宏_20260730.pdf
 Report source: line報告備份
@@ -17826,7 +17826,7 @@ Recommendations & Target Price
 資料來源：TEJ，凱基
 
 ---
-## Document 533: 力成(6239,B_買進)-CTBC260729
+## Document 498: 力成(6239,B_買進)-CTBC260729
 
 Source PDF: all report pdf/力成(6239,B_買進)-CTBC260729.pdf
 Report source: line報告備份
@@ -18133,7 +18133,7 @@ ESG 資訊 - 公司治理 (Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 547: 友達(2409,N_中立)-CTBC260731
+## Document 514: 友達(2409,N_中立)-CTBC260731
 
 Source PDF: all report pdf/友達(2409,N_中立)-CTBC260731.pdf
 Report source: line報告備份
@@ -18434,7 +18434,7 @@ ESG 資訊 -公 司 治 理 (Governance )
 未評等 Not Rated (NR)
 
 ---
-## Document 575: 富邦-2308 台達電-20260731
+## Document 540: 富邦-2308 台達電-20260731
 
 Source PDF: all report pdf/富邦-2308 台達電-20260731.pdf
 Report source: line報告備份
@@ -18862,7 +18862,7 @@ Underweight  Sector expected to underperform the broader market indexes within t
 劣於大盤 預估該產業在未來6個月內會比大盤指數表現較差
 
 ---
-## Document 627: 智原(3035,N_中立)-CTBC260729
+## Document 587: 智原(3035,N_中立)-CTBC260729
 
 Source PDF: all report pdf/智原(3035,N_中立)-CTBC260729.pdf
 Report source: line報告備份
@@ -19166,7 +19166,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 658: 穩懋(3105,B_買進)-CTBC260727
+## Document 615: 穩懋(3105,B_買進)-CTBC260727
 
 Source PDF: all report pdf/穩懋(3105,B_買進)-CTBC260727.pdf
 Report source: line報告備份
@@ -19399,7 +19399,7 @@ ESG 資訊 - 公司治理 (Gov ernan ce) 資料來源 : 櫃買中心
 未評等 Not Rated (NR)
 
 ---
-## Document 711: 華南-1513 中興電-20260728
+## Document 666: 華南-1513 中興電-20260728
 
 Source PDF: all report pdf/華南-1513 中興電-20260728.pdf
 Report source: line報告備份
@@ -19688,7 +19688,7 @@ YOY 0.7 6.0 30.0 35.7
 個股投資建議與目標價三年歷史趨勢：
 
 ---
-## Document 720: 貿聯(3665,Note)-CTBC260730
+## Document 675: 貿聯(3665,Note)-CTBC260730
 
 Source PDF: all report pdf/貿聯(3665,Note)-CTBC260730.pdf
 Report source: line報告備份
