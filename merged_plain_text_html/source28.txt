@@ -3,11 +3,11 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 062: 2327國巨 元富
+## Document 055: 2327國巨 元富
 
 Source PDF: all report pdf/2327國巨 元富.pdf
 Report source: line報告備份
-Date: 2026-08-03
+Date: 2026-08-02
 Pages: 8
 Extraction status: ok
 
@@ -419,7 +419,7 @@ Operating 25.2 26.4 28.7 30.9 ROA 5.54 6.24 11.72 19.67
 Net 21.0 21.2 23.2 24.8 ROE 12.91 14.05 22.15 31.05
 
 ---
-## Document 064: 2327國巨 永豐
+## Document 057: 2327國巨 永豐
 
 Source PDF: all report pdf/2327國巨 永豐.pdf
 Report source: line報告備份
@@ -765,7 +765,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 8
 
 ---
-## Document 065: 2327國巨 玉山
+## Document 058: 2327國巨 玉山
 
 Source PDF: all report pdf/2327國巨 玉山.pdf
 Report source: line報告備份
@@ -909,11 +909,11 @@ EPS(元) 11.41 3.86 4.59 5.17 5.58 19.21
 機密或任何其他智慧財產權。
 
 ---
-## Document 069: 2360致茂 國票
+## Document 060: 2360致茂 國票
 
 Source PDF: all report pdf/2360致茂 國票.pdf
 Report source: line報告備份
-Date: 2026-08-03
+Date: 2026-08-02
 Pages: 9
 Extraction status: ok
 
@@ -1345,7 +1345,7 @@ $3,000
 • 國票可能與該公司進行業務而處於緘默期
 
 ---
-## Document 098: 260728_daiwa_delta
+## Document 064: 260728_daiwa_delta
 
 Source PDF: all report pdf/260728_daiwa_delta.pdf
 Report source: line報告備份
@@ -1575,7 +1575,7 @@ regarding the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 123: 260729_citi_yageo
+## Document 069: 260729_citi_yageo
 
 Source PDF: all report pdf/260729_citi_yageo.pdf
 Report source: line報告備份
@@ -2394,7 +2394,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 126: 260729_daiwa_unimicron
+## Document 072: 260729_daiwa_unimicron
 
 Source PDF: all report pdf/260729_daiwa_unimicron.pdf
 Report source: line報告備份
@@ -2890,7 +2890,7 @@ the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 135: 260729_ms_umc
+## Document 081: 260729_ms_umc
 
 Source PDF: all report pdf/260729_ms_umc.pdf
 Report source: line報告備份
@@ -3355,7 +3355,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 139: 260730_citi_chipbond
+## Document 085: 260730_citi_chipbond
 
 Source PDF: all report pdf/260730_citi_chipbond.pdf
 Report source: line報告備份
@@ -4042,7 +4042,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 145: 260730_daiwa_realtek
+## Document 091: 260730_daiwa_realtek
 
 Source PDF: all report pdf/260730_daiwa_realtek.pdf
 Report source: line報告備份
@@ -4245,7 +4245,7 @@ regarding the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 146: 260730_gs_delta
+## Document 092: 260730_gs_delta
 
 Source PDF: all report pdf/260730_gs_delta.pdf
 Report source: line報告備份
@@ -4740,7 +4740,7 @@ Goldman Sachs Delta Electronics (2308.TW)For the exclusive use of KEVINLU@LENOVO
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 153: 260730_ms_AUO
+## Document 099: 260730_ms_AUO
 
 Source PDF: all report pdf/260730_ms_AUO.pdf
 Report source: line報告備份
@@ -5261,7 +5261,7 @@ Update
 © 2026 Morgan Stanley
 
 ---
-## Document 155: 260730_ms_realtek
+## Document 101: 260730_ms_realtek
 
 Source PDF: all report pdf/260730_ms_realtek.pdf
 Report source: line報告備份
@@ -5888,7 +5888,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 156: 260730_tag_chroma
+## Document 102: 260730_tag_chroma
 
 Source PDF: all report pdf/260730_tag_chroma.pdf
 Report source: line報告備份
@@ -6083,7 +6083,7 @@ Extraction status: ok
 /i255
 
 ---
-## Document 159: 260730_ubs_realtek
+## Document 105: 260730_ubs_realtek
 
 Source PDF: all report pdf/260730_ubs_realtek.pdf
 Report source: line報告備份
@@ -7389,7 +7389,7 @@ constitute, advice within the meaning of the Municipal Advisor Rule.  For inform
 ab
 
 ---
-## Document 166: 260731_daiwa_Pegavision
+## Document 112: 260731_daiwa_Pegavision
 
 Source PDF: all report pdf/260731_daiwa_Pegavision.pdf
 Report source: line報告備份
@@ -7866,7 +7866,7 @@ the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 169: 260731_gs_MTK
+## Document 115: 260731_gs_MTK
 
 Source PDF: all report pdf/260731_gs_MTK.pdf
 Report source: line報告備份
@@ -8605,7 +8605,7 @@ Goldman Sachs MediaTek (2454.TW)For the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 177: 3037欣興 康和
+## Document 123: 3037欣興 康和
 
 Source PDF: all report pdf/3037欣興 康和.pdf
 Report source: line報告備份
@@ -8984,7 +8984,7 @@ Q1 Q2 Q3 Q4
 投 資 結 果 自 行 負 責。
 
 ---
-## Document 186: 3211順達 兆豐
+## Document 125: 3211順達 兆豐
 
 Source PDF: all report pdf/3211順達 兆豐.pdf
 Report source: line報告備份
@@ -9402,11 +9402,11 @@ AAAA
 交易所公司治理評鑑
 
 ---
-## Document 206: 7769鴻勁 元大
+## Document 132: 7769鴻勁 元大
 
 Source PDF: all report pdf/7769鴻勁 元大.pdf
 Report source: line報告備份
-Date: 2026-08-03
+Date: 2026-08-02
 Pages: 13
 Extraction status: ok
 
@@ -10127,7 +10127,7 @@ ESG總分 19.1
 台灣臺北市 106仁愛路三段 157號 4樓
 
 ---
-## Document 265: Advantest (6857,B_買進)-CTBC260730
+## Document 186: Advantest (6857,B_買進)-CTBC260730
 
 Source PDF: all report pdf/Advantest (6857,B_買進)-CTBC260730.pdf
 Report source: line報告備份
@@ -10345,7 +10345,7 @@ PER Band                   PBR Band
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 370: Lam Research(LRCX,UG,B_調升評等,買進)-CTBC260730
+## Document 267: Lam Research(LRCX,UG,B_調升評等,買進)-CTBC260730
 
 Source PDF: all report pdf/Lam Research(LRCX,UG,B_調升評等,買進)-CTBC260730.pdf
 Report source: line報告備份
@@ -10465,7 +10465,7 @@ WFE 市場 同樣再度 上修， 2027 年增速可期 ： 本次法說 公司�
 PER Band                                  PBR Band
 
 ---
-## Document 397: Prime Hedge Fund updates_ Asia Managers weather steep performance drawdowns amid Global AI unwind
+## Document 288: Prime Hedge Fund updates_ Asia Managers weather steep performance drawdowns amid Global AI unwind
 
 Source PDF: all report pdf/Prime Hedge Fund updates_ Asia Managers weather steep performance drawdowns amid Global AI unwind.pdf
 Report source: line報告備份
@@ -10685,7 +10685,7 @@ Notice to New Zealand Investors: When this document is disseminated in New Zeala
 https://marquee.gs.com/s/content/markets/08a64dc1-2cca-46d2-8ce3-237ac943f6c2 8/8
 
 ---
-## Document 398: Prime Perspective_ A mark-to-market on HF performance, Exposures, and Recent Tech Flows
+## Document 289: Prime Perspective_ A mark-to-market on HF performance, Exposures, and Recent Tech Flows
 
 Source PDF: all report pdf/Prime Perspective_ A mark-to-market on HF performance, Exposures, and Recent Tech Flows.pdf
 Report source: line報告備份
@@ -10952,7 +10952,7 @@ Goldman Sachs (Singapore) Pte (Company number 198602165W).
 https://marquee.gs.com/s/content/markets/a4468f28-214d-47c1-9c43-a349977b668e 9/9
 
 ---
-## Document 557: 凱基投顧_2327 國巨_鄭宇宏_20260729
+## Document 430: 凱基投顧_2327 國巨_鄭宇宏_20260729
 
 Source PDF: all report pdf/凱基投顧_2327 國巨_鄭宇宏_20260729.pdf
 Report source: line報告備份
@@ -11507,7 +11507,7 @@ Jul-25 Sep-25 Nov-25 Jan-26 Apr-26 Jun-26
 2026-07-22 增加持股 1,250 703
 
 ---
-## Document 564: 凱基投顧_2912 統一超_莊政翰_20260730
+## Document 436: 凱基投顧_2912 統一超_莊政翰_20260730
 
 Source PDF: all report pdf/凱基投顧_2912 統一超_莊政翰_20260730.pdf
 Report source: line報告備份
@@ -12318,7 +12318,7 @@ Jul-25 Sep-25 Dec-25 Feb-26 Apr-26 Jun-26
 資料來源：TEJ，凱基
 
 ---
-## Document 582: 凱基投顧_美國軟體產業_鄭傑懋_20260730
+## Document 449: 凱基投顧_美國軟體產業_鄭傑懋_20260730
 
 Source PDF: all report pdf/凱基投顧_美國軟體產業_鄭傑懋_20260730.pdf
 Report source: line報告備份
@@ -13039,7 +13039,7 @@ CO2 約當排放量營收比
 免責聲明
 
 ---
-## Document 609: 友達(2409,N_中立)-CTBC260731
+## Document 472: 友達(2409,N_中立)-CTBC260731
 
 Source PDF: all report pdf/友達(2409,N_中立)-CTBC260731.pdf
 Report source: line報告備份
@@ -13340,7 +13340,7 @@ ESG 資訊 -公 司 治 理 (Governance )
 未評等 Not Rated (NR)
 
 ---
-## Document 612: 合庫-2303 聯電-20260730
+## Document 474: 合庫-2303 聯電-20260730
 
 Source PDF: all report pdf/合庫-2303 聯電-20260730.pdf
 Report source: line報告備份
@@ -13654,7 +13654,7 @@ INVESTMENT CONSULTANT
 未評等 訊息不足或有相關業務往來
 
 ---
-## Document 628: 國票-3037 欣興-20260730
+## Document 486: 國票-3037 欣興-20260730
 
 Source PDF: all report pdf/國票-3037 欣興-20260730.pdf
 Report source: line報告備份
@@ -14056,7 +14056,7 @@ $1,500
 • 國票可能與該公司進行業務而處於緘默期
 
 ---
-## Document 631: 國票-8261 富鼎-20260730
+## Document 489: 國票-8261 富鼎-20260730
 
 Source PDF: all report pdf/國票-8261 富鼎-20260730.pdf
 Report source: line報告備份
@@ -14468,7 +14468,7 @@ $400
 • 國票可能與該公司進行業務而處於緘默期
 
 ---
-## Document 651: 宏遠-2303 聯電-20260730
+## Document 506: 宏遠-2303 聯電-20260730
 
 Source PDF: all report pdf/宏遠-2303 聯電-20260730.pdf
 Report source: line報告備份
@@ -14969,7 +14969,7 @@ A+A+A+A+A+
 2024 2025 2026
 
 ---
-## Document 652: 宏遠-3037 欣興-20260730
+## Document 507: 宏遠-3037 欣興-20260730
 
 Source PDF: all report pdf/宏遠-3037 欣興-20260730.pdf
 Report source: line報告備份
@@ -15316,7 +15316,7 @@ Company Report
 10
 
 ---
-## Document 653: 宏遠-3211 順達-20260730
+## Document 508: 宏遠-3211 順達-20260730
 
 Source PDF: all report pdf/宏遠-3211 順達-20260730.pdf
 Report source: line報告備份
@@ -15522,7 +15522,7 @@ Company Report
 6
 
 ---
-## Document 660: 富邦-2308 台達電-20260731
+## Document 515: 富邦-2308 台達電-20260731
 
 Source PDF: all report pdf/富邦-2308 台達電-20260731.pdf
 Report source: line報告備份
@@ -15950,7 +15950,7 @@ Underweight  Sector expected to underperform the broader market indexes within t
 劣於大盤 預估該產業在未來6個月內會比大盤指數表現較差
 
 ---
-## Document 662: 富邦-2360 致茂-20260731
+## Document 517: 富邦-2360 致茂-20260731
 
 Source PDF: all report pdf/富邦-2360 致茂-20260731.pdf
 Report source: line報告備份
@@ -16360,7 +16360,7 @@ Underweight  Sector expected to underperform the broader market indexes within t
 劣於大盤 預估該產業在未來6個月內會比大盤指數表現較差
 
 ---
-## Document 667: 富邦-3711 日月光投控-20260731
+## Document 522: 富邦-3711 日月光投控-20260731
 
 Source PDF: all report pdf/富邦-3711 日月光投控-20260731.pdf
 Report source: line報告備份
@@ -16783,7 +16783,7 @@ Underweight  Sector expected to underperform the broader market indexes within t
 劣於大盤 預估該產業在未來6個月內會比大盤指數表現較差
 
 ---
-## Document 798: 群益-2303 聯電-20260730
+## Document 639: 群益-2303 聯電-20260730
 
 Source PDF: all report pdf/群益-2303 聯電-20260730.pdf
 Report source: line報告備份
@@ -17300,11 +17300,11 @@ YoY(%)
 情形。
 
 ---
-## Document 820: 華南投顧-6944-兆聯實業-1150730
+## Document 660: 華南投顧-6944-兆聯實業-1150730
 
 Source PDF: all report pdf/華南投顧-6944-兆聯實業-1150730.pdf
 Report source: line報告備份
-Date: 2026-08-03
+Date: 2026-08-02
 Pages: 7
 Extraction status: ok
 
