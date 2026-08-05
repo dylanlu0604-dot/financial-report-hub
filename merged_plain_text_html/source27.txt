@@ -3,7 +3,7 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 054: 2301光寶科 元大
+## Document 049: 2301光寶科 元大
 
 Source PDF: all report pdf/2301光寶科 元大.pdf
 Report source: line報告備份
@@ -786,7 +786,7 @@ ESG 總分 16.2
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 058: 2301光寶科 統一
+## Document 053: 2301光寶科 統一
 
 Source PDF: all report pdf/2301光寶科 統一.pdf
 Report source: line報告備份
@@ -1024,7 +1024,7 @@ ainReport/data/FileStream?id=4ab79d1d-706e-
 請參見末頁重要批露及免責聲明  6
 
 ---
-## Document 061: 2327國巨 元富
+## Document 056: 2327國巨 元富
 
 Source PDF: all report pdf/2327國巨 元富.pdf
 Report source: line報告備份
@@ -1440,7 +1440,7 @@ Operating 25.2 26.4 28.7 30.9 ROA 5.54 6.24 11.72 19.67
 Net 21.0 21.2 23.2 24.8 ROE 12.91 14.05 22.15 31.05
 
 ---
-## Document 064: 2360致茂 元大
+## Document 059: 2360致茂 元大
 
 Source PDF: all report pdf/2360致茂 元大.pdf
 Report source: line報告備份
@@ -2086,7 +2086,7 @@ ESG 總分 10.9
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 080: 260730_citi_chroma
+## Document 067: 260730_citi_chroma
 
 Source PDF: all report pdf/260730_citi_chroma.pdf
 Report source: line報告備份
@@ -2707,7 +2707,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 081: 260730_citi_delta
+## Document 068: 260730_citi_delta
 
 Source PDF: all report pdf/260730_citi_delta.pdf
 Report source: line報告備份
@@ -3473,7 +3473,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 084: 260730_daiwa_delta
+## Document 071: 260730_daiwa_delta
 
 Source PDF: all report pdf/260730_daiwa_delta.pdf
 Report source: line報告備份
@@ -3959,7 +3959,7 @@ the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 091: 260730_ms_apmemory
+## Document 078: 260730_ms_apmemory
 
 Source PDF: all report pdf/260730_ms_apmemory.pdf
 Report source: line報告備份
@@ -4421,7 +4421,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 094: 260730_ms_nypcb
+## Document 081: 260730_ms_nypcb
 
 Source PDF: all report pdf/260730_ms_nypcb.pdf
 Report source: line報告備份
@@ -4958,7 +4958,7 @@ Morgan Stanley Research 13
 © 2026 Morgan Stanley
 
 ---
-## Document 096: 260730_tag_chroma
+## Document 083: 260730_tag_chroma
 
 Source PDF: all report pdf/260730_tag_chroma.pdf
 Report source: line報告備份
@@ -5153,7 +5153,7 @@ Extraction status: ok
 /i255
 
 ---
-## Document 101: 260731_daiwa_Advantech
+## Document 088: 260731_daiwa_Advantech
 
 Source PDF: all report pdf/260731_daiwa_Advantech.pdf
 Report source: line報告備份
@@ -5368,7 +5368,7 @@ regarding the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 108: 260731_gs_kinsus
+## Document 095: 260731_gs_kinsus
 
 Source PDF: all report pdf/260731_gs_kinsus.pdf
 Report source: line報告備份
@@ -5636,7 +5636,7 @@ Goldman Sachs Kinsus (3189.TW)For the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 115: 260731_ubs_mtk
+## Document 102: 260731_ubs_mtk
 
 Source PDF: all report pdf/260731_ubs_mtk.pdf
 Report source: line報告備份
@@ -6972,7 +6972,7 @@ constitute, advice within the meaning of the Municipal Advisor Rule.  For inform
 ab
 
 ---
-## Document 129: 260804_ms_airtac
+## Document 116: 260804_ms_airtac
 
 Source PDF: all report pdf/260804_ms_airtac.pdf
 Report source: line報告備份
@@ -7483,7 +7483,7 @@ Update
 © 2026 Morgan Stanley
 
 ---
-## Document 135: 260805_gs_gptc
+## Document 122: 260805_gs_gptc
 
 Source PDF: all report pdf/260805_gs_gptc.pdf
 Report source: line報告備份
@@ -8144,7 +8144,7 @@ Goldman Sachs Grand Process Technology Corp. (3131.TWO)For the exclusive use of 
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 138: 3037欣興 玉山(1)
+## Document 125: 3037欣興 玉山(1)
 
 Source PDF: all report pdf/3037欣興 玉山(1).pdf
 Report source: line報告備份
@@ -8348,7 +8348,7 @@ PCB/HDI 業務 1H26 AI 營收佔比為 60%以上，2H26 預計將提升至 65-70
 未評等：無。
 
 ---
-## Document 139: 3081聯亞 兆豐
+## Document 126: 3081聯亞 兆豐
 
 Source PDF: all report pdf/3081聯亞 兆豐.pdf
 Report source: line報告備份
@@ -8835,7 +8835,7 @@ A+A+A+A+
 交易所公司治理評鑑
 
 ---
-## Document 140: 3211順達 兆豐
+## Document 127: 3211順達 兆豐
 
 Source PDF: all report pdf/3211順達 兆豐.pdf
 Report source: line報告備份
@@ -9253,7 +9253,7 @@ AAAA
 交易所公司治理評鑑
 
 ---
-## Document 330: Palantir(PLTR,B_買進)-CTBC260804
+## Document 302: Palantir(PLTR,B_買進)-CTBC260804
 
 Source PDF: all report pdf/Palantir(PLTR,B_買進)-CTBC260804.pdf
 Report source: line報告備份
@@ -9454,7 +9454,7 @@ PSR Band
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 349: Tactical Trade_ Un-Foiled Potential Post Ibiden Beat - ABF Plays and Co-Tech Catch-Up Trade _ GSTW
+## Document 321: Tactical Trade_ Un-Foiled Potential Post Ibiden Beat - ABF Plays and Co-Tech Catch-Up Trade _ GSTW
 
 Source PDF: all report pdf/Tactical Trade_ Un-Foiled Potential Post Ibiden Beat - ABF Plays and Co-Tech Catch-Up Trade _ GSTW.pdf
 Report source: line報告備份
@@ -9880,7 +9880,7 @@ Services Regulatory Authority or any other relevant licensing authorities in the
 https://marquee.gs.com/s/content/markets/4d70ef75-5582-4877-b661-47d86dd89b62 11/11
 
 ---
-## Document 383: 【國泰證期研究部】伺服器產業-美系CSP資本支出年增幅度再擴張-20260731
+## Document 355: 【國泰證期研究部】伺服器產業-美系CSP資本支出年增幅度再擴張-20260731
 
 Source PDF: all report pdf/【國泰證期研究部】伺服器產業-美系CSP資本支出年增幅度再擴張-20260731.pdf
 Report source: line報告備份
@@ -10073,7 +10073,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 385: 【國泰證期研究部】台光電(2383 TT)-買進(+29.3%)-光芒不墜，電領群雄-20260730
+## Document 357: 【國泰證期研究部】台光電(2383 TT)-買進(+29.3%)-光芒不墜，電領群雄-20260730
 
 Source PDF: all report pdf/【國泰證期研究部】台光電(2383 TT)-買進(+29.3%)-光芒不墜，電領群雄-20260730.pdf
 Report source: line報告備份
@@ -10431,7 +10431,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 459: 元大-2303 聯電-20260730
+## Document 434: 元大-2303 聯電-20260730
 
 Source PDF: all report pdf/元大-2303 聯電-20260730.pdf
 Report source: line報告備份
@@ -11019,7 +11019,7 @@ ESG總分 17.4
 台灣臺北市 106仁愛路三段 157號 4樓
 
 ---
-## Document 467: 元大-美國FOMC會議評析-20260730
+## Document 442: 元大-美國FOMC會議評析-20260730
 
 Source PDF: all report pdf/元大-美國FOMC會議評析-20260730.pdf
 Report source: line報告備份
@@ -11140,7 +11140,7 @@ Warsh 對於市場在無前瞻指引下、能自行針對事件定價感到「�
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 476: 凱基投顧_2059 川湖_向子慧_20260730
+## Document 456: 凱基投顧_2059 川湖_向子慧_20260730
 
 Source PDF: all report pdf/凱基投顧_2059 川湖_向子慧_20260730.pdf
 Report source: line報告備份
@@ -11814,7 +11814,7 @@ Jul-25 Sep-25 Dec-25 Feb-26 Apr-26 Jun-26
 資料來源：TEJ；凱基
 
 ---
-## Document 487: 凱基投顧_3653 健策_向子慧_20260731
+## Document 467: 凱基投顧_3653 健策_向子慧_20260731
 
 Source PDF: all report pdf/凱基投顧_3653 健策_向子慧_20260731.pdf
 Report source: line報告備份
@@ -12415,7 +12415,7 @@ na
 資料來源：TEJ，凱基
 
 ---
-## Document 493: 凱基投顧_6515 穎崴科技_許芝瑄_20260803
+## Document 473: 凱基投顧_6515 穎崴科技_許芝瑄_20260803
 
 Source PDF: all report pdf/凱基投顧_6515 穎崴科技_許芝瑄_20260803.pdf
 Report source: line報告備份
@@ -13274,7 +13274,7 @@ Aug-25 Oct-25 Dec-25 Feb-26 Apr-26 Jun-26
 資料來源：TEJ，凱基
 
 ---
-## Document 495: 凱基投顧_6805 富世達_余昀澄_20260804
+## Document 475: 凱基投顧_6805 富世達_余昀澄_20260804
 
 Source PDF: all report pdf/凱基投顧_6805 富世達_余昀澄_20260804.pdf
 Report source: line報告備份
@@ -14006,7 +14006,7 @@ Recommendations & Target Price
 資料來源：TEJ，凱基
 
 ---
-## Document 529: 合庫-3037 欣興-20260730
+## Document 508: 合庫-3037 欣興-20260730
 
 Source PDF: all report pdf/合庫-3037 欣興-20260730.pdf
 Report source: line報告備份
@@ -14229,7 +14229,7 @@ INVESTMENT CONSULTANT
 未評等 訊息不足或有相關業務往來
 
 ---
-## Document 536: 國巨(2327,B_買進)-CTBC260730
+## Document 516: 國巨(2327,B_買進)-CTBC260730
 
 Source PDF: all report pdf/國巨(2327,B_買進)-CTBC260730.pdf
 Report source: line報告備份
@@ -14527,7 +14527,7 @@ ESG 資訊 -公司治理 (Governance)
 營業執照字號： 114 金管投顧新字第 014 號
 
 ---
-## Document 559: 宏遠-1537 廣隆-20260730
+## Document 538: 宏遠-1537 廣隆-20260730
 
 Source PDF: all report pdf/宏遠-1537 廣隆-20260730.pdf
 Report source: line報告備份
@@ -15055,7 +15055,7 @@ C+C+
 2024 2025 2026
 
 ---
-## Document 571: 富邦-2308 台達電-20260731
+## Document 543: 富邦-2308 台達電-20260731
 
 Source PDF: all report pdf/富邦-2308 台達電-20260731.pdf
 Report source: line報告備份
@@ -15483,7 +15483,7 @@ Underweight  Sector expected to underperform the broader market indexes within t
 劣於大盤 預估該產業在未來6個月內會比大盤指數表現較差
 
 ---
-## Document 573: 富邦-2360 致茂-20260731
+## Document 544: 富邦-2360 致茂-20260731
 
 Source PDF: all report pdf/富邦-2360 致茂-20260731.pdf
 Report source: line報告備份
@@ -15893,7 +15893,7 @@ Underweight  Sector expected to underperform the broader market indexes within t
 劣於大盤 預估該產業在未來6個月內會比大盤指數表現較差
 
 ---
-## Document 646: 瑞昱(2379,N_中立)-CTBC260731
+## Document 614: 瑞昱(2379,N_中立)-CTBC260731
 
 Source PDF: all report pdf/瑞昱(2379,N_中立)-CTBC260731.pdf
 Report source: line報告備份
@@ -16177,7 +16177,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 649: 盛群(6202,OW_增加持股)-CTBC260804
+## Document 617: 盛群(6202,OW_增加持股)-CTBC260804
 
 Source PDF: all report pdf/盛群(6202,OW_增加持股)-CTBC260804.pdf
 Report source: line報告備份
@@ -16507,7 +16507,7 @@ ESG 資訊 -公 司 治 理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 721: 致茂(2360,B_買進)-CTBC260803
+## Document 675: 致茂(2360,B_買進)-CTBC260803
 
 Source PDF: all report pdf/致茂(2360,B_買進)-CTBC260803.pdf
 Report source: line報告備份
@@ -16816,7 +16816,7 @@ ESG 資訊 - 公司治理 (Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 732: 華南投顧-2303-聯電-1150730
+## Document 684: 華南投顧-2303-聯電-1150730
 
 Source PDF: all report pdf/華南投顧-2303-聯電-1150730.pdf
 Report source: line報告備份
@@ -17173,11 +17173,11 @@ YOY 5.5 17.0 13.3 12.8
 個股投資建議與目標價三年歷史趨勢：
 
 ---
-## Document 738: 華南投顧-8042-金山電-1150804
+## Document 690: 華南投顧-8042-金山電-1150804
 
 Source PDF: all report pdf/華南投顧-8042-金山電-1150804.pdf
 Report source: line報告備份
-Date: 2026-08-05
+Date: 2026-08-04
 Pages: 7
 Extraction status: ok
 
