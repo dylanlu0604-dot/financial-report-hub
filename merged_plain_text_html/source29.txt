@@ -3,7 +3,7 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 017: 20260805-台新投顧複委託報告-CAT 2Q26財報Call memo
+## Document 015: 20260805-台新投顧複委託報告-CAT 2Q26財報Call memo
 
 Source PDF: all report pdf/20260805-台新投顧複委託報告-CAT 2Q26財報Call memo.pdf
 Report source: line報告備份
@@ -113,7 +113,7 @@ Caterpillar 是全球最大的營建與採礦設備製造商 ， 主要業務涵
 3
 
 ---
-## Document 066: 2458義隆電 宏遠
+## Document 061: 2458義隆電 宏遠
 
 Source PDF: all report pdf/2458義隆電 宏遠.pdf
 Report source: line報告備份
@@ -618,7 +618,7 @@ AAAAA
 2024 2025 2026
 
 ---
-## Document 068: 2458義隆電 統一
+## Document 063: 2458義隆電 統一
 
 Source PDF: all report pdf/2458義隆電 統一.pdf
 Report source: line報告備份
@@ -852,7 +852,7 @@ ainReport/data/FileStream?id=55a3c685-87a2-
 請參見末頁重要批露及免責聲明  6
 
 ---
-## Document 077: 260804_gs_airtac
+## Document 069: 260804_gs_airtac
 
 Source PDF: all report pdf/260804_gs_airtac.pdf
 Report source: line報告備份
@@ -1156,7 +1156,7 @@ Goldman Sachs Airtac International Group (1590.TW)For the exclusive use of KEVIN
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 079: 260804_ms_airtac
+## Document 071: 260804_ms_airtac
 
 Source PDF: all report pdf/260804_ms_airtac.pdf
 Report source: line報告備份
@@ -1667,7 +1667,7 @@ Update
 © 2026 Morgan Stanley
 
 ---
-## Document 083: 260804_ms_vanguard
+## Document 075: 260804_ms_vanguard
 
 Source PDF: all report pdf/260804_ms_vanguard.pdf
 Report source: line報告備份
@@ -2172,7 +2172,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 088: 260805_daiwa_ Eternal Precision Mechanics
+## Document 080: 260805_daiwa_ Eternal Precision Mechanics
 
 Source PDF: all report pdf/260805_daiwa_ Eternal Precision Mechanics.pdf
 Report source: line報告備份
@@ -2619,7 +2619,7 @@ the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 091: 260805_daiwa_guc
+## Document 083: 260805_daiwa_guc
 
 Source PDF: all report pdf/260805_daiwa_guc.pdf
 Report source: line報告備份
@@ -3173,7 +3173,7 @@ the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 100: 260805_ms_elan
+## Document 092: 260805_ms_elan
 
 Source PDF: all report pdf/260805_ms_elan.pdf
 Report source: line報告備份
@@ -3634,7 +3634,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 107: 260806_citi_novatek
+## Document 099: 260806_citi_novatek
 
 Source PDF: all report pdf/260806_citi_novatek.pdf
 Report source: line報告備份
@@ -4305,7 +4305,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 111: 260806_daiwa_accton
+## Document 103: 260806_daiwa_accton
 
 Source PDF: all report pdf/260806_daiwa_accton.pdf
 Report source: line報告備份
@@ -4576,7 +4576,7 @@ regarding the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 116: 260806_daiwa_novatek
+## Document 108: 260806_daiwa_novatek
 
 Source PDF: all report pdf/260806_daiwa_novatek.pdf
 Report source: line報告備份
@@ -5123,7 +5123,7 @@ the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 120: 260806_gs_nypcb
+## Document 112: 260806_gs_nypcb
 
 Source PDF: all report pdf/260806_gs_nypcb.pdf
 Report source: line報告備份
@@ -5611,7 +5611,7 @@ Goldman Sachs NYPCB (8046.TW)For the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 127: 260806_ms_advantech
+## Document 119: 260806_ms_advantech
 
 Source PDF: all report pdf/260806_ms_advantech.pdf
 Report source: line報告備份
@@ -6467,7 +6467,7 @@ Morgan Stanley Research 17
 © 2026 Morgan Stanley
 
 ---
-## Document 130: 260806_ms_hiwin
+## Document 122: 260806_ms_hiwin
 
 Source PDF: all report pdf/260806_ms_hiwin.pdf
 Report source: line報告備份
@@ -6970,7 +6970,7 @@ Update
 © 2026 Morgan Stanley
 
 ---
-## Document 134: 260806_ms_winway
+## Document 126: 260806_ms_winway
 
 Source PDF: all report pdf/260806_ms_winway.pdf
 Report source: line報告備份
@@ -7410,7 +7410,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 135: 260806_ms_wtmicro
+## Document 127: 260806_ms_wtmicro
 
 Source PDF: all report pdf/260806_ms_wtmicro.pdf
 Report source: line報告備份
@@ -7882,7 +7882,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 137: 260806_ubs_advantech
+## Document 129: 260806_ubs_advantech
 
 Source PDF: all report pdf/260806_ubs_advantech.pdf
 Report source: line報告備份
@@ -9082,7 +9082,7 @@ constitute, advice within the meaning of the Municipal Advisor Rule.  For inform
 ab
 
 ---
-## Document 150: 260807_ms_nvl72-racks
+## Document 142: 260807_ms_nvl72-racks
 
 Source PDF: all report pdf/260807_ms_nvl72-racks.pdf
 Report source: line報告備份
@@ -9658,7 +9658,7 @@ Morgan Stanley Research 13
 © 2026 Morgan Stanley
 
 ---
-## Document 156: 260808_ubs_giant
+## Document 148: 260808_ubs_giant
 
 Source PDF: all report pdf/260808_ubs_giant.pdf
 Report source: line報告備份
@@ -10633,7 +10633,7 @@ constitute, advice within the meaning of the Municipal Advisor Rule.  For inform
 ab
 
 ---
-## Document 160: 260809_ms_HK-investor-feedback
+## Document 152: 260809_ms_HK-investor-feedback
 
 Source PDF: all report pdf/260809_ms_HK-investor-feedback.pdf
 Report source: line報告備份
@@ -11336,7 +11336,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 172: 3491昇達科 玉山
+## Document 157: 3491昇達科 玉山
 
 Source PDF: all report pdf/3491昇達科 玉山.pdf
 Report source: line報告備份
@@ -11521,7 +11521,7 @@ Interconnect應用方面，公司積極開發太赫茲(220THz)解決方案，可
 未評等：無。
 
 ---
-## Document 173: 3491昇達科 第一金
+## Document 158: 3491昇達科 第一金
 
 Source PDF: all report pdf/3491昇達科 第一金.pdf
 Report source: line報告備份
@@ -11782,7 +11782,7 @@ YoY(%)
 9
 
 ---
-## Document 174: 3596智易 台新
+## Document 159: 3596智易 台新
 
 Source PDF: all report pdf/3596智易 台新.pdf
 Report source: line報告備份
@@ -11911,7 +11911,7 @@ QoQ+6.3%，YoY+6.9%，EPS 3.89 元。
 位不為使用者之資訊決策及結果負擔任何責任。
 
 ---
-## Document 192: 6488環球晶 兆豐
+## Document 175: 6488環球晶 兆豐
 
 Source PDF: all report pdf/6488環球晶 兆豐.pdf
 Report source: line報告備份
@@ -12378,7 +12378,7 @@ A+A+A+A+A+
 交易所公司治理評鑑
 
 ---
-## Document 197: 6526達發 宏遠
+## Document 180: 6526達發 宏遠
 
 Source PDF: all report pdf/6526達發 宏遠.pdf
 Report source: line報告備份
@@ -12651,7 +12651,7 @@ Company Report
 8
 
 ---
-## Document 200: 6805富世達 統一
+## Document 183: 6805富世達 統一
 
 Source PDF: all report pdf/6805富世達 統一.pdf
 Report source: line報告備份
@@ -12814,7 +12814,7 @@ YoY
 請參見末頁重要批露及免責聲明  5
 
 ---
-## Document 299: Eli Lilly(LLY,OW_增加持股)-CTBC260806
+## Document 272: Eli Lilly(LLY,OW_增加持股)-CTBC260806
 
 Source PDF: all report pdf/Eli Lilly(LLY,OW_增加持股)-CTBC260806.pdf
 Report source: line報告備份
@@ -12926,7 +12926,7 @@ PER Band                                  PBR Band
 未評等 Not Rated (NR)
 
 ---
-## Document 516: 仁大資訊(7767,B_買進)-CTBC260805
+## Document 451: 仁大資訊(7767,B_買進)-CTBC260805
 
 Source PDF: all report pdf/仁大資訊(7767,B_買進)-CTBC260805.pdf
 Report source: line報告備份
@@ -13461,7 +13461,7 @@ ESG 資訊 ─公司治理 (Governance)
  未評等 Not Rated (NR)
 
 ---
-## Document 539: 凱基投顧_2395 研華_沈漢軒_20260805
+## Document 473: 凱基投顧_2395 研華_沈漢軒_20260805
 
 Source PDF: all report pdf/凱基投顧_2395 研華_沈漢軒_20260805.pdf
 Report source: line報告備份
@@ -14276,7 +14276,7 @@ Aug-25 Oct-25 Dec-25 Feb-26 Apr-26 Jun-26
 資料來源：TEJ，凱基
 
 ---
-## Document 544: 凱基投顧_3324 雙鴻_向子慧_20260807
+## Document 477: 凱基投顧_3324 雙鴻_向子慧_20260807
 
 Source PDF: all report pdf/凱基投顧_3324 雙鴻_向子慧_20260807.pdf
 Report source: line報告備份
@@ -15002,7 +15002,7 @@ Aug-25 Oct-25 Dec-25 Feb-26 Apr-26 Jun-26
 電話 62 21 250 6337
 
 ---
-## Document 545: 凱基投顧_3515 華擎_余昀澄_20260806
+## Document 478: 凱基投顧_3515 華擎_余昀澄_20260806
 
 Source PDF: all report pdf/凱基投顧_3515 華擎_余昀澄_20260806.pdf
 Report source: line報告備份
@@ -15598,7 +15598,7 @@ Aug-25 Oct-25 Dec-25 Feb-26 Apr-26 Jun-26
 資料來源：TEJ，凱基
 
 ---
-## Document 554: 凱基投顧_6213 聯茂_林祐熙_20260807
+## Document 484: 凱基投顧_6213 聯茂_林祐熙_20260807
 
 Source PDF: all report pdf/凱基投顧_6213 聯茂_林祐熙_20260807.pdf
 Report source: line報告備份
@@ -16168,7 +16168,7 @@ Aug-25 Oct-25 Dec-25 Feb-26 Apr-26 Jun-26
 資料來源：TEJ，凱基
 
 ---
-## Document 558: 凱基投顧_6679 鈺太_劉宇程_20260806
+## Document 485: 凱基投顧_6679 鈺太_劉宇程_20260806
 
 Source PDF: all report pdf/凱基投顧_6679 鈺太_劉宇程_20260806.pdf
 Report source: line報告備份
@@ -16693,7 +16693,7 @@ Aug-25 Oct-25 Dec-25 Feb-26 Apr-26 Jun-26
 資料來源：TEJ，凱基
 
 ---
-## Document 633: 富邦媒(8454,UG,OW_調升,增加持股)-CTBC260805
+## Document 545: 富邦媒(8454,UG,OW_調升,增加持股)-CTBC260805
 
 Source PDF: all report pdf/富邦媒(8454,UG,OW_調升,增加持股)-CTBC260805.pdf
 Report source: line報告備份
@@ -16981,7 +16981,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 635: 川湖(2059,B_買進)-CTBC260810
+## Document 547: 川湖(2059,B_買進)-CTBC260810
 
 Source PDF: all report pdf/川湖(2059,B_買進)-CTBC260810.pdf
 Report source: line報告備份
@@ -17255,7 +17255,7 @@ ESG 資訊 -公司治理 (Governance)
 營業執照字號： 114 金管投顧新字第 014 號
 
 ---
-## Document 658: 文曄(3036,B_買進)-CTBC260807
+## Document 567: 文曄(3036,B_買進)-CTBC260807
 
 Source PDF: all report pdf/文曄(3036,B_買進)-CTBC260807.pdf
 Report source: line報告備份
@@ -17582,7 +17582,7 @@ ESG 資訊 -公 司 治 理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 700: 環宇(4991,B_買進)-CTBC260806
+## Document 605: 環宇(4991,B_買進)-CTBC260806
 
 Source PDF: all report pdf/環宇(4991,B_買進)-CTBC260806.pdf
 Report source: line報告備份
@@ -17850,7 +17850,7 @@ ESG 資訊 - 公司治理 (Gov ernan ce) 資料來源 : 櫃買中心
 未評等 Not Rated (NR)
 
 ---
-## Document 757: 義隆電(2458,DG,N_調降評等,中立)-CTBC260806
+## Document 651: 義隆電(2458,DG,N_調降評等,中立)-CTBC260806
 
 Source PDF: all report pdf/義隆電(2458,DG,N_調降評等,中立)-CTBC260806.pdf
 Report source: line報告備份
@@ -18158,7 +18158,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 777: 華邦電(2344,OW_增加持股)-CTBC260807
+## Document 668: 華邦電(2344,OW_增加持股)-CTBC260807
 
 Source PDF: all report pdf/華邦電(2344,OW_增加持股)-CTBC260807.pdf
 Report source: line報告備份
