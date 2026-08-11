@@ -3,7 +3,7 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 022: 20260805-台新投顧複委託報告-SPOT 2Q26財報Call memo
+## Document 021: 20260805-台新投顧複委託報告-SPOT 2Q26財報Call memo
 
 Source PDF: all report pdf/20260805-台新投顧複委託報告-SPOT 2Q26財報Call memo.pdf
 Report source: line報告備份
@@ -116,7 +116,7 @@ YouTube Music 對 Z 世代注意力的爭奪。Spotify 的核心優勢在於其�
 布。
 
 ---
-## Document 064: 2059川湖 元富
+## Document 062: 2059川湖 元富
 
 Source PDF: all report pdf/2059川湖 元富.pdf
 Report source: line報告備份
@@ -511,7 +511,7 @@ Operating 67.1 82.1 83.1 83.2 ROA 26.16 31.96 69.94 61.83
 Net 64.0 65.4 67.4 67.4 ROE 32.63 39.89 84.63 72.50
 
 ---
-## Document 097: 260805_daiwa_ Eternal Precision Mechanics
+## Document 082: 260805_daiwa_ Eternal Precision Mechanics
 
 Source PDF: all report pdf/260805_daiwa_ Eternal Precision Mechanics.pdf
 Report source: line報告備份
@@ -958,7 +958,7 @@ the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 098: 260805_daiwa_Advantech
+## Document 083: 260805_daiwa_Advantech
 
 Source PDF: all report pdf/260805_daiwa_Advantech.pdf
 Report source: line報告備份
@@ -1493,7 +1493,7 @@ the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 105: 260805_ms_1h-aug-panel-px
+## Document 090: 260805_ms_1h-aug-panel-px
 
 Source PDF: all report pdf/260805_ms_1h-aug-panel-px.pdf
 Report source: line報告備份
@@ -2559,7 +2559,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 106: 260805_ms_accton
+## Document 091: 260805_ms_accton
 
 Source PDF: all report pdf/260805_ms_accton.pdf
 Report source: line報告備份
@@ -3076,7 +3076,7 @@ Update
 © 2026 Morgan Stanley
 
 ---
-## Document 109: 260805_ms_elan
+## Document 094: 260805_ms_elan
 
 Source PDF: all report pdf/260805_ms_elan.pdf
 Report source: line報告備份
@@ -3537,7 +3537,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 110: 260805_ms_nuvoton
+## Document 095: 260805_ms_nuvoton
 
 Source PDF: all report pdf/260805_ms_nuvoton.pdf
 Report source: line報告備份
@@ -4023,7 +4023,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 113: 260806_citi_advantech
+## Document 098: 260806_citi_advantech
 
 Source PDF: all report pdf/260806_citi_advantech.pdf
 Report source: line報告備份
@@ -4657,7 +4657,7 @@ solely for the recipient and may not be further distributed by the recipient to 
 ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 
 ---
-## Document 121: 260806_daiwa_chenbro
+## Document 106: 260806_daiwa_chenbro
 
 Source PDF: all report pdf/260806_daiwa_chenbro.pdf
 Report source: line報告備份
@@ -4926,7 +4926,7 @@ regarding the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 131: 260806_ml_chroma
+## Document 116: 260806_ml_chroma
 
 Source PDF: all report pdf/260806_ml_chroma.pdf
 Report source: line報告備份
@@ -5364,7 +5364,7 @@ Neither BofA Securities nor any officer or employee of BofA Securities accepts a
 information.
 
 ---
-## Document 139: 260806_ms_hiwin
+## Document 124: 260806_ms_hiwin
 
 Source PDF: all report pdf/260806_ms_hiwin.pdf
 Report source: line報告備份
@@ -5867,7 +5867,7 @@ Update
 © 2026 Morgan Stanley
 
 ---
-## Document 143: 260806_ms_winway
+## Document 128: 260806_ms_winway
 
 Source PDF: all report pdf/260806_ms_winway.pdf
 Report source: line報告備份
@@ -6307,7 +6307,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 144: 260806_ms_wtmicro
+## Document 129: 260806_ms_wtmicro
 
 Source PDF: all report pdf/260806_ms_wtmicro.pdf
 Report source: line報告備份
@@ -6779,7 +6779,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 148: 260806_ubs_kingslide
+## Document 133: 260806_ubs_kingslide
 
 Source PDF: all report pdf/260806_ubs_kingslide.pdf
 Report source: line報告備份
@@ -8170,7 +8170,7 @@ constitute, advice within the meaning of the Municipal Advisor Rule.  For inform
 ab
 
 ---
-## Document 149: 260807_citi_auras
+## Document 134: 260807_citi_auras
 
 Source PDF: all report pdf/260807_citi_auras.pdf
 Report source: line報告備份
@@ -8882,7 +8882,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 168: 260809_ms_chenbro
+## Document 153: 260809_ms_chenbro
 
 Source PDF: all report pdf/260809_ms_chenbro.pdf
 Report source: line報告備份
@@ -9731,7 +9731,7 @@ Morgan Stanley Research 17
 © 2026 Morgan Stanley
 
 ---
-## Document 174: 260810_daiwa_Chenbro
+## Document 159: 260810_daiwa_Chenbro
 
 Source PDF: all report pdf/260810_daiwa_Chenbro.pdf
 Report source: line報告備份
@@ -10234,7 +10234,7 @@ the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 178: 260810_ms_ai-supply-chain
+## Document 163: 260810_ms_ai-supply-chain
 
 Source PDF: all report pdf/260810_ms_ai-supply-chain.pdf
 Report source: line報告備份
@@ -11458,7 +11458,7 @@ Morgan Stanley Research 21
 © 2026 Morgan Stanley
 
 ---
-## Document 181: 260811_gs_allring
+## Document 166: 260811_gs_allring
 
 Source PDF: all report pdf/260811_gs_allring.pdf
 Report source: line報告備份
@@ -12087,7 +12087,7 @@ Goldman Sachs All Ring Tech Co. (6187.TWO)For the exclusive use of KEVINLU@LENOV
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 183: 3017奇鋐 群益
+## Document 168: 3017奇鋐 群益
 
 Source PDF: all report pdf/3017奇鋐 群益.pdf
 Report source: line報告備份
@@ -12330,7 +12330,7 @@ YoY(%)
 情形。
 
 ---
-## Document 186: 3416融程電 元富
+## Document 171: 3416融程電 元富
 
 Source PDF: all report pdf/3416融程電 元富.pdf
 Report source: line報告備份
@@ -12558,7 +12558,7 @@ Operating 15.1 19.6 21.5 23.6 ROA 13.0 12.2 17.5 24.2
 Net 15.3 17.0 19.5 18.8 ROE 16.7 17.2 25.4 38.1
 
 ---
-## Document 189: 3596智易 台新
+## Document 174: 3596智易 台新
 
 Source PDF: all report pdf/3596智易 台新.pdf
 Report source: line報告備份
@@ -12687,7 +12687,7 @@ QoQ+6.3%，YoY+6.9%，EPS 3.89 元。
 位不為使用者之資訊決策及結果負擔任何責任。
 
 ---
-## Document 198: 4991環宇 兆豐
+## Document 183: 4991環宇 兆豐
 
 Source PDF: all report pdf/4991環宇 兆豐.pdf
 Report source: line報告備份
@@ -13144,7 +13144,7 @@ C
 公司未公告相關資訊
 
 ---
-## Document 203: 6271同欣電 第一金
+## Document 188: 6271同欣電 第一金
 
 Source PDF: all report pdf/6271同欣電 第一金.pdf
 Report source: line報告備份
@@ -13434,7 +13434,7 @@ YoY(%)
 存貨週轉天數(天) 71.96 69.3 68.29 73.21
 
 ---
-## Document 208: 6488環球晶 富邦
+## Document 193: 6488環球晶 富邦
 
 Source PDF: all report pdf/6488環球晶 富邦.pdf
 Report source: line報告備份
@@ -13929,7 +13929,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 213: 6719力智 玉山
+## Document 195: 6719力智 玉山
 
 Source PDF: all report pdf/6719力智 玉山.pdf
 Report source: line報告備份
@@ -14105,7 +14105,7 @@ SPS/LPS、converter等total solution方式持續擴大應用與客戶群，目�
 未評等：無。
 
 ---
-## Document 231: 8103瀚荃 群益
+## Document 210: 8103瀚荃 群益
 
 Source PDF: all report pdf/8103瀚荃 群益.pdf
 Report source: line報告備份
@@ -14409,7 +14409,7 @@ YoY(%)
 情形。
 
 ---
-## Document 400: Sandisk(SNDK,B_買進)-CTBC260806
+## Document 349: Sandisk(SNDK,B_買進)-CTBC260806
 
 Source PDF: all report pdf/Sandisk(SNDK,B_買進)-CTBC260806.pdf
 Report source: line報告備份
@@ -14666,7 +14666,7 @@ PER Band                                   PBR Band
 未評等 Not Rated (NR)
 
 ---
-## Document 446: 【國泰證期研究部】川湖(2059 TT)-買進(+28.3%)-需求續旺，川勢長紅-20260810
+## Document 391: 【國泰證期研究部】川湖(2059 TT)-買進(+28.3%)-需求續旺，川勢長紅-20260810
 
 Source PDF: all report pdf/【國泰證期研究部】川湖(2059 TT)-買進(+28.3%)-需求續旺，川勢長紅-20260810.pdf
 Report source: line報告備份
@@ -15053,7 +15053,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 448: 【國泰證期研究部】記憶體產業-晶圓鍵合與高密度QLC開啟3D NAND下一個階段-20260810
+## Document 393: 【國泰證期研究部】記憶體產業-晶圓鍵合與高密度QLC開啟3D NAND下一個階段-20260810
 
 Source PDF: all report pdf/【國泰證期研究部】記憶體產業-晶圓鍵合與高密度QLC開啟3D NAND下一個階段-20260810.pdf
 Report source: line報告備份
@@ -15272,7 +15272,7 @@ PCIe Gen5、最高 128TB 的 QLC 企業級 E3.L SSD，若資料中心與邊緣�
 投資評等定義
 
 ---
-## Document 554: 凱基投顧_2059 川湖_向子慧_20260807
+## Document 485: 凱基投顧_2059 川湖_向子慧_20260807
 
 Source PDF: all report pdf/凱基投顧_2059 川湖_向子慧_20260807.pdf
 Report source: line報告備份
@@ -15957,7 +15957,7 @@ Recommendations & Target Price
 資料來源：TEJ；凱基
 
 ---
-## Document 574: 凱基投顧_6781 AES-KY_向子慧_20260806
+## Document 499: 凱基投顧_6781 AES-KY_向子慧_20260806
 
 Source PDF: all report pdf/凱基投顧_6781 AES-KY_向子慧_20260806.pdf
 Report source: line報告備份
@@ -16608,7 +16608,7 @@ Aug-25 Oct-25 Dec-25 Feb-26 Apr-26 Jun-26
 資料來源：TEJ；凱基
 
 ---
-## Document 576: 凱基投顧_9921 巨大_莊政翰_20260807
+## Document 501: 凱基投顧_9921 巨大_莊政翰_20260807
 
 Source PDF: all report pdf/凱基投顧_9921 巨大_莊政翰_20260807.pdf
 Report source: line報告備份
@@ -17189,7 +17189,7 @@ Recommendations & Target Price
 資料來源：TEJ，凱基
 
 ---
-## Document 582: 凱基投顧_Takeaway_2344 華邦電_沈漢軒_20260806
+## Document 505: 凱基投顧_Takeaway_2344 華邦電_沈漢軒_20260806
 
 Source PDF: all report pdf/凱基投顧_Takeaway_2344 華邦電_沈漢軒_20260806.pdf
 Report source: line報告備份
@@ -17339,7 +17339,7 @@ DRAM 漲幅則跟著市場走 。
 八月 06, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R  4
 
 ---
-## Document 586: 凱基投顧_Takeaway_3592 瑞鼎_劉宇程_20260806
+## Document 508: 凱基投顧_Takeaway_3592 瑞鼎_劉宇程_20260806
 
 Source PDF: all report pdf/凱基投顧_Takeaway_3592 瑞鼎_劉宇程_20260806.pdf
 Report source: line報告備份
@@ -17590,7 +17590,7 @@ QoQ 及 YoY 成長排序為何?
 八月 06, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 6
 
 ---
-## Document 592: 凱基投顧_UAA Under Armour_劉昃恩_20260810
+## Document 514: 凱基投顧_UAA Under Armour_劉昃恩_20260810
 
 Source PDF: all report pdf/凱基投顧_UAA Under Armour_劉昃恩_20260810.pdf
 Report source: line報告備份
@@ -18029,7 +18029,7 @@ Aug-23 Feb-24 Aug-24 Feb-25 Aug-25 Feb-26 Aug-26
 免責聲明
 
 ---
-## Document 667: 愛普(6531,B_買進)-CTBC260807
+## Document 576: 愛普(6531,B_買進)-CTBC260807
 
 Source PDF: all report pdf/愛普(6531,B_買進)-CTBC260807.pdf
 Report source: line報告備份
@@ -18378,7 +18378,7 @@ ESG 資訊 -公 司 治 理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 812: 譜瑞-KY(4966,OW_增加持股)-CTBC260806
+## Document 692: 譜瑞-KY(4966,OW_增加持股)-CTBC260806
 
 Source PDF: all report pdf/譜瑞-KY(4966,OW_增加持股)-CTBC260806.pdf
 Report source: line報告備份
