@@ -6,8 +6,8 @@ NotebookLM import text with Markdown headings for each report, source PDF, and p
 ## Document 003: 114年「財政部性別統計年報」電子書出刊 (2026-07-28)
 
 Source PDF: all report pdf/114年「財政部性別統計年報」電子書出刊 (2026-07-28).pdf
-Report source: MOF
-Date: 2026-07-28
+Report source: Unknown
+Date: 未知日期
 Pages: 256
 Extraction status: ok
 
