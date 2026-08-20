@@ -3,7 +3,7 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 005: 1104環泥 宏遠
+## Document 004: 1104環泥 宏遠
 
 Source PDF: all report pdf/1104環泥 宏遠.pdf
 Report source: line報告備份
@@ -554,7 +554,7 @@ B
 2024 2025 2026
 
 ---
-## Document 012: 1476儒鴻 元大
+## Document 011: 1476儒鴻 元大
 
 Source PDF: all report pdf/1476儒鴻 元大.pdf
 Report source: line報告備份
@@ -725,7 +725,7 @@ charleschen24@yuanta.com
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 018: 1563巧新 元富
+## Document 015: 1563巧新 元富
 
 Source PDF: all report pdf/1563巧新 元富.pdf
 Report source: line報告備份
@@ -859,7 +859,7 @@ Net 7.0 3.6 10.0 10.7 10.1 4.6 7.9 8.7
 M / NTD Sales Sales YoY
 
 ---
-## Document 107: 260813_gs_HH
+## Document 079: 260813_gs_HH
 
 Source PDF: all report pdf/260813_gs_HH.pdf
 Report source: line報告備份
@@ -1219,7 +1219,7 @@ Goldman Sachs Hon Hai (2317.TW)For the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 110: 260813_gs_lotes
+## Document 082: 260813_gs_lotes
 
 Source PDF: all report pdf/260813_gs_lotes.pdf
 Report source: line報告備份
@@ -1594,7 +1594,7 @@ Goldman Sachs Lotes (3533.TW)For the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 112: 260813_ms_alchip
+## Document 084: 260813_ms_alchip
 
 Source PDF: all report pdf/260813_ms_alchip.pdf
 Report source: line報告備份
@@ -2520,7 +2520,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 119: 260814_citi_merida
+## Document 091: 260814_citi_merida
 
 Source PDF: all report pdf/260814_citi_merida.pdf
 Report source: line報告備份
@@ -3182,7 +3182,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 124: 260814_ms_alchip
+## Document 096: 260814_ms_alchip
 
 Source PDF: all report pdf/260814_ms_alchip.pdf
 Report source: line報告備份
@@ -3667,7 +3667,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 125: 260814_ms_inx
+## Document 097: 260814_ms_inx
 
 Source PDF: all report pdf/260814_ms_inx.pdf
 Report source: line報告備份
@@ -4194,7 +4194,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 142: 260819_mq_eclat
+## Document 114: 260819_mq_eclat
 
 Source PDF: all report pdf/260819_mq_eclat.pdf
 Report source: line報告備份
@@ -4755,7 +4755,7 @@ Investments in securities market are subject to market risks. Read all the relat
 19 August 2026 7
 
 ---
-## Document 143: 260820_gs_asustek
+## Document 115: 260820_gs_asustek
 
 Source PDF: all report pdf/260820_gs_asustek.pdf
 Report source: line報告備份
@@ -5192,7 +5192,7 @@ Goldman Sachs Asus (2357.TW)For the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 149: 3017奇宏 元富
+## Document 121: 3017奇宏 元富
 
 Source PDF: all report pdf/3017奇宏 元富.pdf
 Report source: line報告備份
@@ -5441,7 +5441,7 @@ Operating 24.5 27.4 27.8 28.3 ROA 10.72 16.11 25.74 33.96
 Net 16.1 19.5 19.4 19.9 ROE 30.99 49.86 60.50 56.73
 
 ---
-## Document 158: 3529力旺 元富
+## Document 130: 3529力旺 元富
 
 Source PDF: all report pdf/3529力旺 元富.pdf
 Report source: line報告備份
@@ -5540,7 +5540,7 @@ Net 54.5 52.9 53.1 53.4 50.9 49.7 53.5 53.8
 Sales (NT$mn) Sales YOY
 
 ---
-## Document 163: 3661世芯 元富
+## Document 134: 3661世芯 元富
 
 Source PDF: all report pdf/3661世芯 元富.pdf
 Report source: line報告備份
@@ -5643,7 +5643,7 @@ Net 34.1 21.4 14.8 14.8 12.4 18.1 17.1 14.8
 Sales (NT$mn) Sales YOY
 
 ---
-## Document 164: 3661世芯 第一金
+## Document 135: 3661世芯 第一金
 
 Source PDF: all report pdf/3661世芯 第一金.pdf
 Report source: line報告備份
@@ -5860,7 +5860,7 @@ YoY(%)
 存貨週轉天數(天) 197.16 157.59 87.37 123.36
 
 ---
-## Document 174: 5434崇越 永豐
+## Document 142: 5434崇越 永豐
 
 Source PDF: all report pdf/5434崇越 永豐.pdf
 Report source: line報告備份
@@ -6213,7 +6213,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 9
 
 ---
-## Document 176: 6206飛捷 永豐
+## Document 143: 6206飛捷 永豐
 
 Source PDF: all report pdf/6206飛捷 永豐.pdf
 Report source: line報告備份
@@ -6550,7 +6550,7 @@ S：Sell 賣出：未來 6 個月該股票表現將落後大盤
 8
 
 ---
-## Document 177: 6223旺矽 元富
+## Document 144: 6223旺矽 元富
 
 Source PDF: all report pdf/6223旺矽 元富.pdf
 Report source: line報告備份
@@ -6816,7 +6816,7 @@ Operating 32.4 34.4 33.8 34.0 ROA 13.56 19.33 19.02 22.37
 Net 31.2 29.1 30.3 30.2 ROE 4.51 6.79 8.05 11.39
 
 ---
-## Document 199: 8069元太 元富
+## Document 162: 8069元太 元富
 
 Source PDF: all report pdf/8069元太 元富.pdf
 Report source: line報告備份
@@ -7030,7 +7030,7 @@ Operating 32.6 34.7 33.6 37.0 ROA 10.71 10.60 12.43 12.69
 Net 32.3 36.5 33.8 34.5 ROE 16.53 16.47 19.09 19.91
 
 ---
-## Document 201: 8299群聯 兆豐
+## Document 164: 8299群聯 兆豐
 
 Source PDF: all report pdf/8299群聯 兆豐.pdf
 Report source: line報告備份
@@ -7506,7 +7506,7 @@ A
 交易所公司治理評鑑
 
 ---
-## Document 205: 9914美利達 元富
+## Document 168: 9914美利達 元富
 
 Source PDF: all report pdf/9914美利達 元富.pdf
 Report source: line報告備份
@@ -7638,7 +7638,7 @@ Net 6.2 4.9 9.5 4.0 -2.6 4.5 6.3 7.1
 M / NTD Sales Sales YoY
 
 ---
-## Document 208: 9958世紀鋼 統一
+## Document 171: 9958世紀鋼 統一
 
 Source PDF: all report pdf/9958世紀鋼 統一.pdf
 Report source: line報告備份
@@ -7919,7 +7919,7 @@ ainReport/data/FileStream?id=b1c0ab71-2d6d-
 請參見末頁重要批露及免責聲明  8
 
 ---
-## Document 249: Applied Materials(AMAT,B_買進)-CTBC260814
+## Document 205: Applied Materials(AMAT,B_買進)-CTBC260814
 
 Source PDF: all report pdf/Applied Materials(AMAT,B_買進)-CTBC260814.pdf
 Report source: line報告備份
@@ -8030,7 +8030,7 @@ ICAPS 展望同步上修 ：雖未提供具體數字，但公司持續看好 202
 PER Band                                  PBR Band
 
 ---
-## Document 346: Sales Trader Commentary_ Green Light for Risk-On with Potential Speed Bumps Ahead _ GSTW
+## Document 280: Sales Trader Commentary_ Green Light for Risk-On with Potential Speed Bumps Ahead _ GSTW
 
 Source PDF: all report pdf/Sales Trader Commentary_ Green Light for Risk-On with Potential Speed Bumps Ahead _ GSTW.pdf
 Report source: line報告備份
@@ -8442,7 +8442,7 @@ Services Regulatory Authority or any other relevant licensing authorities in the
 https://marquee.gs.com/s/content/markets/05401d62-3693-43f6-a723-db339abf1c6a 9/9
 
 ---
-## Document 393: 【國泰證期研究部】廣達(2382 TT)-買進(+23.1%)擴產因應AI訂單看到28年-20260814
+## Document 327: 【國泰證期研究部】廣達(2382 TT)-買進(+23.1%)擴產因應AI訂單看到28年-20260814
 
 Source PDF: all report pdf/【國泰證期研究部】廣達(2382 TT)-買進(+23.1%)擴產因應AI訂單看到28年-20260814.pdf
 Report source: line報告備份
@@ -8747,7 +8747,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 445: 世紀鋼(9958,OW_增加持股)-CTBC260814
+## Document 375: 世紀鋼(9958,OW_增加持股)-CTBC260814
 
 Source PDF: all report pdf/世紀鋼(9958,OW_增加持股)-CTBC260814.pdf
 Report source: line報告備份
@@ -9061,7 +9061,7 @@ ESG 資訊-公司治理(Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 496: 元大-6414 樺漢-20260817
+## Document 419: 元大-6414 樺漢-20260817
 
 Source PDF: all report pdf/元大-6414 樺漢-20260817.pdf
 Report source: line報告備份
@@ -9708,7 +9708,7 @@ ESG 總分 17.6
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 514: 凱基投顧_2474 可成_向子慧_20260818
+## Document 433: 凱基投顧_2474 可成_向子慧_20260818
 
 Source PDF: all report pdf/凱基投顧_2474 可成_向子慧_20260818.pdf
 Report source: line報告備份
@@ -10518,7 +10518,7 @@ Aug-25 Oct-25 Dec-25 Feb-26 Apr-26 Jun-26
 電話 62 21 250 6337
 
 ---
-## Document 518: 凱基投顧_3481 群創_林祐熙_20260818
+## Document 436: 凱基投顧_3481 群創_林祐熙_20260818
 
 Source PDF: all report pdf/凱基投顧_3481 群創_林祐熙_20260818.pdf
 Report source: line報告備份
@@ -11302,7 +11302,7 @@ Aug-25 Oct-25 Dec-25 Feb-26 Apr-26 Jun-26
 資料來源：TEJ，凱基
 
 ---
-## Document 522: 凱基投顧_6592 和潤_施志鴻_20260819
+## Document 438: 凱基投顧_6592 和潤_施志鴻_20260819
 
 Source PDF: all report pdf/凱基投顧_6592 和潤_施志鴻_20260819.pdf
 Report source: line報告備份
@@ -11942,7 +11942,7 @@ Aug-25 Oct-25 Dec-25 Feb-26 Apr-26 Jun-26
 資料來源：TEJ，凱基
 
 ---
-## Document 539: 凱基投顧_Takeaway_3374 精材_劉宇程_20260814
+## Document 448: 凱基投顧_Takeaway_3374 精材_劉宇程_20260814
 
 Source PDF: all report pdf/凱基投顧_Takeaway_3374 精材_劉宇程_20260814.pdf
 Report source: line報告備份
@@ -12234,7 +12234,7 @@ segment 無法清楚評論。
 八月 14, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 7
 
 ---
-## Document 543: 凱基投顧_Takeaway_4746 台耀_陳宣甫_20260814
+## Document 452: 凱基投顧_Takeaway_4746 台耀_陳宣甫_20260814
 
 Source PDF: all report pdf/凱基投顧_Takeaway_4746 台耀_陳宣甫_20260814.pdf
 Report source: line報告備份
@@ -12437,7 +12437,7 @@ QA
 八月 14, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 5
 
 ---
-## Document 552: 凱基投顧_金融產業_施志鴻_20260814
+## Document 460: 凱基投顧_金融產業_施志鴻_20260814
 
 Source PDF: all report pdf/凱基投顧_金融產業_施志鴻_20260814.pdf
 Report source: line報告備份
@@ -13521,7 +13521,7 @@ Aug-00 Aug-02 Aug-04 Aug-06 Aug-08 Aug-10 Aug-12 Aug-14 Aug-16 Aug-18 Aug-20 Aug
 免責聲明
 
 ---
-## Document 556: 劍麟(2228,N_中立) -CTBC260820
+## Document 461: 劍麟(2228,N_中立) -CTBC260820
 
 Source PDF: all report pdf/劍麟(2228,N_中立) -CTBC260820.pdf
 Report source: line報告備份
@@ -13883,7 +13883,7 @@ ESG 資訊 ─公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 584: 大學光(3218,N_中立)-CTBC260814
+## Document 483: 大學光(3218,N_中立)-CTBC260814
 
 Source PDF: all report pdf/大學光(3218,N_中立)-CTBC260814.pdf
 Report source: line報告備份
@@ -14145,7 +14145,7 @@ ESG 資訊 -公 司 治 理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 617: 宏遠-3081 聯亞-20260817
+## Document 506: 宏遠-3081 聯亞-20260817
 
 Source PDF: all report pdf/宏遠-3081 聯亞-20260817.pdf
 Report source: line報告備份
@@ -14696,7 +14696,7 @@ A+A+A+A+
 2024 2025 2026
 
 ---
-## Document 620: 宏遠-5903 全家-20260817
+## Document 509: 宏遠-5903 全家-20260817
 
 Source PDF: all report pdf/宏遠-5903 全家-20260817.pdf
 Report source: line報告備份
@@ -15221,7 +15221,7 @@ AAAAA
 2024 2025 2026
 
 ---
-## Document 623: 宏遠-7610 聯友金屬-創-20260817-
+## Document 512: 宏遠-7610 聯友金屬-創-20260817-
 
 Source PDF: all report pdf/宏遠-7610 聯友金屬-創-20260817-.pdf
 Report source: line報告備份
@@ -15628,7 +15628,7 @@ Company Report
 2025
 
 ---
-## Document 627: 富邦-3529 力旺-20260817
+## Document 516: 富邦-3529 力旺-20260817
 
 Source PDF: all report pdf/富邦-3529 力旺-20260817.pdf
 Report source: line報告備份
@@ -16031,7 +16031,7 @@ Underweight  Sector expected to underperform the broader market indexes within t
 劣於大盤 預估該產業在未來6個月內會比大盤指數表現較差
 
 ---
-## Document 628: 富邦-6472 保瑞-20260817
+## Document 517: 富邦-6472 保瑞-20260817
 
 Source PDF: all report pdf/富邦-6472 保瑞-20260817.pdf
 Report source: line報告備份
@@ -16482,7 +16482,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 703: 玉山-6472 保瑞-20260817
+## Document 576: 玉山-6472 保瑞-20260817
 
 Source PDF: all report pdf/玉山-6472 保瑞-20260817.pdf
 Report source: line報告備份
