@@ -3,7 +3,7 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 009: 115年6月18日央行理監事會後記者會參考資料
+## Document 008: 115年6月18日央行理監事會後記者會參考資料
 
 Source PDF: all report pdf/115年6月18日央行理監事會後記者會參考資料.pdf
 Report source: 中央銀行 (CBC)
@@ -5441,1281 +5441,282 @@ International Settlements, Jul. 11.
 穩定。
 
 ---
-## Document 060: 2026年8月17日匯率利率資訊
+## Document 137: 7月“血洗”后，对AI的信仰还在！高盛：对冲基金重押大科技，亚马逊连续11季最受宠
 
-Source PDF: all report pdf/2026年8月17日匯率利率資訊.pdf
-Report source: Mega Bank (匯率利率資訊)
-Date: 2026-08-17
-Pages: 7
+Source PDF: all report pdf/7月“血洗”后，对AI的信仰还在！高盛：对冲基金重押大科技，亚马逊连续11季最受宠.pdf
+Report source: WallstreetCN (Global)
+Date: 2026-08-21
+Pages: 2
 Extraction status: ok
 
 ### Page 1
 
-1  兆豐國際商業銀行http://www.megabank.com.tw/ 
- －兆豐國際商業銀行－ 
-匯率利率資訊週報 
-民國一一五年八月十七日 
-服務項目 
-(1)即期外匯交易 
-(2)遠期外匯交易 
-(3)外匯保證金交易 
-(4)外幣轉換 
-(5)匯率選擇權  
-(6)外匯定期存款 
-(7)優利投資 
-(8)利率交換 
-(9)換匯換利 
-(10)台幣票券買賣 
-上週美元兌新台幣及主要貨幣收盤價 
- USD/NTD USD/JPY EUR/USD USD/CNY 
-FIXING 
-Aug/10 (Mon) 32.241 159.30 1.1542 6.7884 
-Aug/11 (Tue) 32.229 159.27 1.1540 6.7900 
-Aug/12 (Wed) 32.217 159.41 1.1524 6.7882 
-Aug/13 (Thu) 32.127 159.48 1.1527 6.7888  
-Aug/14 (Fri) 32.046 159.30 1.1569 6.7878  
-HIGH 32.302 159.56 1.1585 6.7900 
-LOW 31.991 157.60 1.1510 6.7882
+⾼盛报告显⽰， 7 ⽉美股动荡引发对冲基⾦近⼗年最⼤规模去杠杆，前期领涨的 AI 仓位回调
+最深。但资⾦并未撤离主线，亚⻢逊连续 11 季蝉联头号重仓，前⼗⼤热⻔股九只与 AI 相
+关。同时，基⾦通过增配医疗、⾦融、能源等板块降低拥挤⻛险，并在数据中⼼、 AI 基础
+设施等产业链环节延伸布局。
+摘要：
+7 ⽉美股剧烈震荡并未动摇对冲基⾦对 AI 交易的信⼼。⾼盛最新报告显⽰，尽管经历⼤规模去杠
+杆和仓位清理，对冲基⾦依然重押⼤型科技股， AI 仍是最核⼼的投资主线。
+⾼盛对近 1000 只对冲基⾦、合计 5.4 万亿美元股票多空敞⼝的监测显⽰，截⾄ 8 ⽉ 19 ⽇，对冲基
+⾦今年以来整体回报率仍达到 10% 。不过， 7 ⽉剧烈回调也令⾏业遭遇近 20 年来相对标普 500 表
+现最差的单⽉之⼀，拥挤交易的脆弱性由此暴露。
+但资⾦并未因此⼤举撤离。⾼盛数据显⽰，亚⻢逊连续第 11 个季度成为对冲基⾦最受欢迎的个
+股；其最受⻘睐的前⼗⼤股票中，有 9 只与 AI 主题相关。
+与此同时，对冲基⾦开始通过降低整体杠杆、扩⼤板块配置来分散⻛险。医疗、⾦融和能源三
 
-上週公佈的經濟數據：                           本週將公佈的經濟數據： 
-8/10
+⼤板块的净配置均升⾄近⼗年⾼位，显⽰资⾦正在 AI 主线之外增加防御空间。
+7 ⽉⼤幅去杠杆，热⻔ AI 仓位跌得最深
+⾼盛投资组合策略研究团队负责⼈ Ben Snider 表⽰， 7 ⽉是 “ 过去⼗年中对冲基⾦去杠杆最为剧烈
+的时期之⼀ ” 。
+此次调整并⾮简单降低净敞⼝，⽽是对整个交易账簿进⾏收缩，基⾦不仅减少⽅向性押注，也
+同步压缩整体仓位规模。
+半导体板块⾛弱，以及超⼤规模云计算企业集中发布财报，是触发仓位清理的重要因素。市场
+⼀度开始质疑 AI 资本开⽀的⾼增⻓能否持续，前期涨幅较⼤的 AI 交易随之承压。
+⾼盛指出，⼆季度表现最好的 AI 相关仓位，恰恰也是基⾦当季加仓最多的⽅向，随后在 7 ⽉回调
+中跌幅最深。这意味着，资⾦越集中的热⻔交易，在市场波动放⼤时越容易出现踩踏。
+亚⻢逊连续 11 季霸榜，⼗⼤热⻔股九只与 AI 相关
+尽管 7 ⽉市场经历剧烈波动，对冲基⾦的整体投资⽅向并未因此发⽣根本性转变，对⼤型科技股
+的偏好依然稳固。
+根据⾼盛最新数据，亚⻢逊连续第 11 个季度蝉联最受欢迎个股，⽽在前⼗⼤热⻔持仓中，有九
 
-8/11
-
-8/12
-
-8/13
-
-8/14 
-中國7月社會融資規模 
-日本7月服務業景氣判斷指數 
-歐元區8月Sentix投資者信心指數 
-澳洲央行利率決議 
-日本8月製造業、非製造業景氣判斷
-指數 
-德國7月CPI終值 
-美國7月CPI、核心CPI 
-日本7月國內企業物價指數 
-英國6月GDP、工業生産、貿易收支 
-歐元區6月工業生産 
-美國上週初請失業金人數 
-美國7月最終需求PPI 
-歐元區6月貿易收支 
-美國7月零售銷售 
-美國密西根大學消費者信心指數8月
-初值 
-8/17
-
-8/18
-
-8/19
-
-8/20
-
-8/21 
-日本第二季GDP 
-中國7月工業生產指數、失業率 
-加拿大7月CPI 
-英國7月申請失業金人數 
-英國6月失業率 
-德國8月德國ZEW經濟現狀指數 
-美國7月工業生產指數 
-英國7月CPI 
-歐元區7月CPI 
-美國FOMC會議紀要 
-美國上週初請失業金人數 
-澳洲7月失業率 
-德國7月PPI 
-香港7月失業率、CPI 
-歐洲央行貨幣政策會議紀要   
-日本7月CPI 
-美國、歐元區、德國、法國8月製造
-業/服務業PMI
+只与⼈⼯智能主题密切相关，唯⼀的例外是 Visa 。这表明， AI 依旧是当前最核⼼的投资主线。
+与此同时，资⾦正沿着 AI 产业链进⼀步延伸布局。⼆季度数据显⽰，数据中⼼、 AI 基础设施以及
+相关电⼒设备公司的受欢迎程度显著提升，反映出机构正在从算⼒、应⽤等环节持续挖掘结构
+性机会。
+此外，部分此前未进⼊热⻔持仓前 50 名的成⻓股也开始获得关注，涵盖软件、电商、媒体和航
+空等领域，说明资⾦并⾮放弃成⻓⻛格，⽽是在 AI 主线之外适度拓宽配置范围。
+⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⽣活家 搜索
 
 ### Page 2
 
-2  兆豐國際商業銀行http://www.megabank.com.tw/
-上週重要市場資訊
- 澳洲央行（RBA）於8 /11貨幣政策會議宣佈維持現金利率目標於4.35%不變，
-為連續第二次會議按兵不動。此決議符合市場預期，主要為評估失業率上升及房
-市降溫對抑制通膨的效果，行長蜜雪兒·布洛克（Michelle Bullock）與委員會維
-持偏鷹派的指引，強調若通膨上行風險持續，不排除未來進一步升息的可能性。
- 美國上週密集公布的關鍵數據，徹底印證了通膨與消費雙雙降溫的宏觀趨勢。在
-通膨數據方面，7月份消費者物價指數（CPI）僅微增0.1%，核心CPI年增率降
-至2.5%；而生產者物價指數（PPI）更意外持平，核心PPI回落至4.7%，顯示
-整體物價上行壓力已獲得實質性的緩解。另一方面隨著大額退稅帶來的提振效
-應全面消退，7月零售銷售大減0.6%，不僅創下14個月以來的最大降幅，更凸
-顯出高物價對民眾購買力的嚴重侵蝕。疊加8月份密西根大學消費者信心指數
-重挫至51.0的慘淡表現，美國消費引擎顯然已陷入急凍狀態。通膨放緩與消費
-
-動能熄火的雙重打擊，導致芝商所（CME）FedWatch工具顯示，市場押注聯準
-會在9月會議上按兵不動的機率已逼近七成。
- 美伊針對荷姆茲海峽的控制權衝突持續升溫。伊朗宣稱與阿曼達成臨時通航方
-案，但強調海峽重啟取決於美國條件；美國總統川普則強硬宣稱美國已透過封鎖
-管控海峽，並揚言將其列為美國領土，引發德黑蘭當局強烈反擊與區域航運緊
-張。
-
-### Page 3
-
-3  兆豐國際商業銀行http://www.megabank.com.tw/ 
- 美元兌新台幣匯率走勢 
-Aug/17/2026
-
-＜上週走勢＞ 
-    上週台幣匯價高點為31.991，低點在32.302，以32.046作收，較前一周收盤價
-升值2角4.2分。 
-上週台幣震盪走升，周一早盤反映美國非農就業人數疲弱，美元指數僅小幅反
-彈，加以台股走揚、外資匯入之下，台幣走升，週二，市場等待美國通膨就業數據
-出爐，市場交投謹慎，台幣區間窄幅震盪；週間，由於美國通膨數據符合預期，淡
-化市場對於九月聯準會升息預期，外資連續買超台股，帶動台幣走升，惟逢低仍有
-進口商買盤抑制台幣升值速度，臨近周末，美國公布最新PPI數據持平，市場持續
-淡化聯準會升息預期，加以外資買超台股並匯入，台幣持續走升，最終在央行調節
-之下收在32.046。
-
-＜未來分析＞ 
-    預估本週台幣區間偏升。就國際市場而言，美國最新CPI及PPI皆未出現惡化，
-顯示通膨並未失控，淡化市場對於聯準會9月升息預期；就台灣市場來看，上周外
-資連續五日買超台股，台股持續走揚，加以投信亦匯入有利台幣表現，惟匯價逢低
-吸引不少進口商買美元，央行亦提供流動性，減緩台幣升值速度，綜合以上，預估
-本週台幣走勢區間偏升。
-
-＜預估本週＞ 美元兌台幣：31.800-32.200
-
-### Page 4
-
-4  兆豐國際商業銀行http://www.megabank.com.tw/
-
-美元兌人民幣匯率走勢 
-Aug/17/2026 
-＜上週走勢＞ 
-上週人民幣高檔震盪。周初，美國非農就業數據不及預期，國際美元僅小幅反
-彈，人民幣中間價6.7884升至近三年半新高，惟人民幣已升至年內高點附近，加以
-市場等待美國通膨數據出爐，市場觀望氣氛濃厚、成交清淡，日內波幅狹窄，匯價
-大致維持在6.7430-6.7500區間窄幅震盪；週間，美國陸續公布CPI及PPI數據，皆
-符合市場預期，市場淡化聯準會升息預期，人民幣最高升至6.7397，終場境外人民
-幣收在6.7443，週線貶值22點，境內人民幣則收在6.7422，週線升值40點。
-
-＜未來分析＞ 
-     預估本週人民幣高檔震盪。就國際市場來看，美國通膨數據大致符合預期，緩
-解市場對於聯準會九月升息的擔憂，目前FedWatch Tool顯示九月升息機率僅剩三
-成，美元指數於99.500附近震盪；就中國國內市場來看，出口商實質拋匯需求仍有
-望支撐人民幣表現，加以上週中間價走升，人行透過中間價釋放人民幣偏強信號，
-惟人民幣已升至年內高點，上漲動能趨緩；最後就技術面來看，USD/CNH小時圖
-中，均線趨平，顯示人民幣上漲至年內高點附近轉趨橫盤整理。綜合以上，預估本
-週人民幣高檔震盪。
-
-＜預估本週＞ 美元兌人民幣：6.7300-6.7550
-
-### Page 5
-
-5  兆豐國際商業銀行http://www.megabank.com.tw/ 
-美元兌日圓匯率走勢 
-         Aug/17/2026
-
-＜上週走勢＞ 
-    上週USD/JPY震盪偏升。週初因美伊不確定性再次升溫，油價上漲推升通膨預
-期，美元自近期的低點反彈，帶領USD/JPY上升到159上方；週間，匯市在CPI公
-布前以觀望為主，USD/JPY於159.40附近盤整，反映油價偏高對能源進口國日本仍
-構成壓力；臨近週末，美國公布CPI與PPI數據使市場對於聯準會9月升息的預期
-大幅減少，USD/JPY一度回落至158.58，終場收在159.30，週線上漲156點。 
-＜未來分析＞ 
-  預估本週USD/JPY區間震盪，主要原因如下：一、受通膨壓力、AI強勁需求
-及弱勢日圓影響，消息指出日本央行將於9月升息，並考慮加快後續緊縮節奏。因
-企業與家庭的通膨預期已逼近2%目標，決策層難以久候，目前市場押注日本央行9
-月升息機率已逼近八成 ， 預計將支撐日幣走勢 。 二 、 美國7月零售銷售意外下滑0.6%，
-創14個月最大降幅且為九個月來首降；核心零售亦跌0.4%，凸顯退稅效應消退與
-高物價導致消費急凍。同時，8月密西根大學消費者信心指數重挫至51.0。消費支
-出放緩促使機構下調Q3經濟預期，並使市場押注聯準會9月按兵不動的機率躍升
-至近七成，緊縮預期大幅降溫，短線不利USD/JPY走勢。三、就技術面而言，日線
-圖中，USD/JPY於美日聯合干預急跌後，匯價止跌回穩站上年線，有機會向上挑戰
-月線及季線壓力。綜合以上，預估USD/JPY本週呈現區間震盪的可能性較高。 
-＜預估本週＞ 美元兌日幣：158.50-160.20 
-前週交易區間 
-157.60 159.56
-
-### Page 6
-
-6  兆豐國際商業銀行http://www.megabank.com.tw/ 
-美元兌歐元匯率走勢 
-         Aug/17/2026
-
-＜上週走勢＞ 
-    上週EUR/USD震盪走升。週初，歐元延續前一週創高回落的走勢，在美伊不
-確定性再次升溫帶動避險需求下，EUR/USD弱勢整理；週間，市場在等待美國CPI
-數據公布，交投清淡，歐元在1.1530到1.1550之間窄幅震盪；臨近週末，美國經濟
-數據顯示聯準會9月升息預期降溫，加上歐元區經濟面好轉，帶動歐元最高來到
-1.1585，終場收在1.1569，週線上漲21點。 
-＜未來分析＞ 
-  預估本週EUR/USD區間偏多震盪，主要原因如下：一、歐元區8月投資者信
-心指數連續四個月走揚並創下今年2月以來新高，主要得益於市場對現況評估的顯
-著好轉，顯示美伊戰爭引發的衝擊已逐漸被消化。同時，核心經濟體德國的信心指
-數亦大幅回升，且第二季0.2%的微幅成長顯示整體經濟初顯企穩跡象。未來如果有
-更多正面經濟數據將有效抵禦高昂能源成本所帶來的逆風，使歐元走勢有望轉為築
-底反彈的偏多格局。二、美國7月CPI月增0.1%、核心CPI年增2.5%，主因汽油
-價格連兩月下跌，顯示中東油價衝擊尚未引發通膨螺旋。通膨降溫疊加疲軟的就業
-數據，促使市場對聯準會9月升息的預期大幅下降，短線上對歐元有利。三、技術
-面而言，在日線圖中，EUR/USD匯價在多次挑戰1.1540關鍵價位後終於有效突破，
-有望壓力轉為支撐，短天期均線上彎且原先下彎的中長天期均線趨平，顯示有近一
-步上漲的空間。綜合以上，預估EUR/USD本週呈現區間偏多震盪的可能性較高。 
-＜預估本週＞ 歐元兌美元：1.1500-1.1650 
-前週交易區間 
-1.1510 1.1585
-
-### Page 7
-
-7  兆豐國際商業銀行http://www.megabank.com.tw/ 
-新台幣利率走勢分析
-
-115.08.10-115.08.14 
-銀行隔夜拆款利率 0.805% ~ 0.830%  
-30天期短票利率   1.67% ~ 1.68% 
-  公債－10年期- A15106 1.96~1.968% 
-      － 5年期- A15108     1.84%
-
-一、 台幣貨幣市場部分，歷經上週較為密集的股利發放後，資金情勢稍有改善，不
-過隨著股市持續創新高，產生部分吸金效應，短率依然持穩於近期區間高位。 
-週五央行標售2年期定存單250億元，加權平均得標利率為1.663%，略高於
-市場預期區間1.63%-1.66%，較上期標售結果上升4.8個基本點。 
-週五隔夜拆款利率區間在0.805%~0.830%，30天期短票主要成交在
-1.67%~1.68%，利率低位較上週上揚約2個基本點。
-
-二、 本週台債殖利率續於高檔，10年期指標券A15106搓合成交區間為
-1.96%~1.968%，5年期指標券A15108週四成交在1.84%。 
-週五2年期乙類公債得標利率為1.725%，低於市場預期區間1.75%~1.78%，
-足額標售且投標倍數達2.28倍，顯示利率走升後吸引買盤進場，但在國內外
-債市偏空的情況下，得標利率創2007年以來新高。 
-連續兩次標債足額標售，且得標利率符合或低於預期，有助於緩解台債殖利率
-彈升壓力，不過美債利率仍處高位，加上台灣通膨持續高於2%，預期央行貨
-幣政策將維持緊縮基調，短線上台債殖利率將隨美債走勢呈高檔盤整格局，預
-估5年券交易區間在1.82%~1.86%、10年券交易區間在1.93%~1.98%。
+⻛险提⽰及免责条款
+市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
+56 收藏 分享到 :
+写评论
+图⽚
+从整体仓位看，尽管对冲基⾦的净杠杆率有所回落，但其市场总敞⼝仍⾼于历史均值。⾼盛指
+出， ETF 多头仓位占⽐已升⾄ 5.6% ，为 2008 年全球⾦融危机以来的最⾼⽔平。与此同时，医疗
+保健、⾦融和能源三⼤板块的净倾斜指标均升⾄近⼗年⾼位，显⽰资⾦正在系统性地向⾮科技
+领域分散⻛险。
+综合来看， 7 ⽉的市场动荡更多促使对冲基⾦优化组合结构，⽽⾮逆转投资⽅向。 AI 仍是压倒性
+的主线，但⾯对⾼度拥挤的科技股交易，机构正通过增加其他板块配置来平衡组合⻛险，整体
+策略在坚持核⼼主题的同时，呈现出更明显的多元化和防御性特征。
+限免
+请发表您的评论
+表情 发布评论
 
 ---
-## Document 147: 7月经济数据点评：静待数据改善
+## Document 182: AIは相場の「次の暴落」に人間より先に気づくのか ～ニュース解析で探る、相場予測の実力と落とし穴～
 
-Source PDF: all report pdf/7月经济数据点评：静待数据改善.pdf
-Report source: 东吴证券
-Date: 2026-08-18
-Pages: 4
-Extraction status: ok
-
-### Page 1
-
-证券研究报告·宏观报告·宏观点评
-
-东吴证券研究所
-
-2026 年 08 月 17 日
-
-证券分析师  芦哲 
-执业证书：S0600524110003 
- luzhe@dwzq.com.cn 
-证券分析师  占烁 
-执业证书：S0600524120005 
- zhansh@dwzq.com.cn
-
-相关研究  
-《推动日元升值的上策、中策与下策
-——海外周报 20260817 》 
-2026-08-17 
-《 价格因素对出口的支撑作用或逐
-步减弱》 
-2026-08-16
-
-[Table_Tag]    
-[Table_Summary] 
-◼ 8 月 17 日，国家统计局发布 7 月经济数据，受到极端天气等因素影响，
-供需均有小幅回落。供给端，7 月工业增加值同比+4.5%，前值+5.3%，
-Wind 一致预期+4.88%；服务业生产指数同比+4.3%，前值+4.7%。需求
-端，出口同比+23.9%，前值+27%，Wind 一致预期+22.89%；社零同比
-+0.6%， 前值+1.0%，Wind 一致预期+1.33%； 固投累计同比-6.7%， 前值
--5.7%，Wind 一致预期-6.06%。 
-◼ 1、在“去地产化增长”的大周期下，新旧动能分化仍然是理解当前经
-济状况的主线，对于宏观政策的理解也应基于新旧动能分化的大趋势。 
-◼ AI 等新兴产业仍然强劲，体现为高技术产业的生产、投资和出口维持
-强劲。生产端，7 月高技术制造业增加值同比增长 16.9%，增速较上月
-加快 2.8 个百分点， 其中集成电路制造同比增长109.3%， 电子工业专用
-设备制造、电子专用材料制造同比增长 34.8%、30.8%。 
-◼ 投资端，1-7 月份，高技术制造业投资同比增长3.3%，高技术服务业投
-资同比增长 8.4%， 相比前6 个月均在提速。 其中， 电子电路制造业投资
-累计同比增长 57.7%，集成电路制造业投资增长 11.5%，信息服务业投
-资增长 19.2%，相比前 6 个月增速分别提高 2.1、2.7、3.7 个百分点。 
-◼ 出口方面，7 月出口增长 23.9%，其中集成电路出口增长 116.6%、自动
-数据处理设备及其零部件增长 67.4%， 两种AI 相关产品合计拉动 10 个
-点的总出口增速。 
-◼ 而传统的房地产、基建等领域，动能相对不足。7 月商品房销售累计同
-比-13.1%，房地产投资累计同比-19.2%，基建投资累计同比-4.1%。 
-◼ 从政策层面来看， 让新动能惠及更多人、 而非削平差距， 是缩小温差的
-重要方式。早在 2025 年 10 月，钟才文在《人民日报》发文《科学客观
-看待我国当前经济发展态势》 ，就已经提出了“我国经济形有分化、势
-在向好、未来可期”的判断。2026 年 8 月 1 日， 《求是》发文《如何看
-待宏观数据与微观感受“温差” 》 ，提出： “缩小‘温差’ ，不在于削平差
-距， 而在于让新技术的积极效应更多一些、调整震荡更少一些， 让新动
-能更快惠及大多数人。 ” 
-◼ 2、在新旧动能分化的大势之下，具体到短期经济波动，主要受到三条
-线索的影响。 
-◼ 一是基数效应与政策预支的叠加扰动。受"以旧换新"政策脉冲形成的高
-基数影响，叠加政策红利退坡，近两个月社零压力较大。下半年两个因
-素反向作用，一方面，基数效应减退，有助于抬高社零同比读数；另一
-方面，"以旧换新"预支需求，持续影响消费动能。参考历史上几次耐用
-品补贴政策的影响， 我们预计，2027 年四季度前后， 预支需求对消费的
-影响将明显减弱，届时消费动能将有所修复。 
-◼ 二是极端天气冲击。 我们观察到， 除了基数效应和政策预支外， 不可忽
-视极端天气扰动。7 月社零同比+0.6%，增速高于 5 月、低于 6 月，主
-要缘于去年同期高基数回落， 属读数修复而非动能回升。 按两年平均口
-径计算，7 月仅为 2.1%，低于 5-6 月的 2.8%和 2.9%，背后主要是台风
-多发，居民减少外出消费。 
-◼ 由于服务消费比商品消费更依赖于线下活动， 受天气影响更大， 因此更
-能反映天气对消费的冲击。7 月服务零售累计同比从 5.3%降至 5%，而
-商品零售累计同比持平于 1.1%， 服务消费变动更大， 可见主要源于天气
-冲击。另一方面，7 月服务业 PMI 降至 49.3%，也是 2012 年以来首次
-降至 50%以下。 
-◼ 三是政策落地情况。7 月 30 日中央政治局会议明确要求加快财政支出
-进度， 提出 “宏观政策要发力提效， 加快财政支出和债券资金使用进度” ，
-
-### Page 2
-
-2 / 4 
-预计下半年加快专项债、 特别国债、政策性金融工具的使用进度，是重
-要的政策目标。 
-◼ 但从实际来看， 政策目标和经济运行仍存在差异， 优质项目储备不足仍
-然是制约当前财政政策加快进度的主要因素。 今年上半年， 国家统计局
-公布的 “本年施工项目计划总投资额” 同比下降4.3%， 该指标上次出现
-下降是 2020 年 2 月。因此，观察下半年的政策落地情况，不在于对财
-政资金的要求，而在于对项目的要求， 如果能补齐项目端短板， 政策落
-地会更加快速见效。 
-◼ 往后看，Q3 经济增速读数可能较 Q2 略有回升，但考虑到政策落地的
-滞后性，Q4 和明年 Q1 才会看到更大反弹。从生产端数据来看，7 月
-GDP 同比可能与 5 月持平， 略高于4 月，8 月台风对经济的影响可能仍
-然会持续，9 月开始可能看到改善，整体 Q3 经济增速读数略有回升，
-更大幅度的经济反弹可能在 Q4 或明年 Q1。大概率将顺利完成 2026 全
-年经济目标，上半年 GDP 增速为 4.7%，下半年单季度可能≥4.5%，全
-年也不会低于 4.5%。 
-◼ 风险提示：房地产市场如果进一步走弱可能出台其他政策； 出口如果下
-行可能引发其他稳增长政策；地缘政治变化影响物价和外贸。
-
-### Page 3
-
-3 / 4 
-表1：7 月经济数据概览
-
-数据来源：Wind，东吴证券研究所 
-图1：高技术制造业引领工业生产  图2：7 月社零增速小幅回落
-
-数据来源：Wind，东吴证券研究所  数据来源：Wind，东吴证券研究所
-
-图3：项目储备是当前投资的主要压力
-
-数据来源：Wind，东吴证券研究所
-
--5
-0
-5
-10
-15
-21/09
-21/12
-22/03
-22/06
-22/09
-22/12
-23/03
-23/06
-23/09
-23/12
-24/03
-24/06
-24/09
-24/12
-25/03
-25/06
-25/09
-25/12
-26/03
-26/06
-工业增加值 高技术制造业 采矿业
-制造业 公用事业(%)
--2.0
--1.0
-0.0
-1.0
-2.0
-3.0
-4.0
-5.0
-6.0
-7.0
-2025/2
-2025/3
-2025/4
-2025/5
-2025/6
-2025/7
-2025/8
-2025/9
-2025/10
-2025/11
-2025/12
-2026/1
-2026/2
-2026/3
-2026/4
-2026/5
-2026/6
-2026/7
-社零增速 % 商品零售 % 餐饮增速 %
--10.0
-0.0
-10.0
-20.0
-30.0
-40.0
-50.0
-60.0
-97/02
-98/05
-99/08
-00/11
-02/02
-03/05
-04/08
-05/11
-07/02
-08/05
-09/08
-10/11
-12/02
-13/05
-14/08
-15/11
-17/02
-18/05
-19/08
-20/11
-22/02
-23/05
-24/08
-25/11
-中国:固定资产投资本年施工项目计划总投资额:累计同比 %
-
-### Page 4
-
-免责及评级说明部分
-
-东吴证券投资评级标准 
-投资评级基于分析师对报告发布日后 6 至 12 个月内行业或公司回报潜力相对基准表现
-的预期（A 股市场基准为沪深 300 指数，香港市场基准为恒生指数，美国市场基准为标普 
-500 指数， 新三板基准指数为三板成指 （针对协议转让标的） 或三板做市指数 （针对做市转
-让标的），北交所基准指数为北证 50 指数），具体如下： 
-公司投资评级： 
-买入：预期未来 6 个月个股涨跌幅相对基准在 15%以上； 
-增持：预期未来 6 个月个股涨跌幅相对基准介于 5%与 15%之间； 
-中性：预期未来 6 个月个股涨跌幅相对基准介于-5%与 5%之间； 
-减持：预期未来 6 个月个股涨跌幅相对基准介于-15%与-5%之间； 
-卖出：预期未来 6 个月个股涨跌幅相对基准在-15%以下。 
-行业投资评级： 
-增持： 预期未来 6 个月内，行业指数相对强于基准 5%以上； 
-中性： 预期未来 6 个月内，行业指数相对基准-5%与 5%； 
-减持： 预期未来 6 个月内，行业指数相对弱于基准 5%以上。 
-我们在此提醒您， 不同证券研究机构采用不同的评级术语及评级标准。 我们采用的是相
-对评级体系， 表示投资的相对比重建议。 投资者买入或者卖出证券的决定应当充分考虑自身
-特定状况， 如具体投资目的、 财务状况以及特定需求等， 并完整理解和使用本报告内容， 不
-应视本报告为做出投资决策的唯一因素。 
-东吴证券研究所 
-苏州工业园区星阳街 5 号 
-邮政编码：215021 
-传真：（0512）62938527 
-公司网址： http://www.dwzq.com.cn
-
----
-## Document 186: [373220] LG에너지솔루션(373220) 경쟁력 확보 준비 과정LG에너지솔루션(373220) 경쟁력 확보 준비 과정경쟁력 확보 준비 과정 - 기업
-
-Source PDF: all report pdf/[373220] LG에너지솔루션(373220) 경쟁력 확보 준비 과정LG에너지솔루션(373220) 경쟁력 확보 준비 과정경쟁력 확보 준비 과정 - 기업.pdf
-Report source: Hankyung
-Date: 2026-07-31
+Source PDF: all report pdf/AIは相場の「次の暴落」に人間より先に気づくのか ～ニュース解析で探る、相場予測の実力と落とし穴～.pdf
+Report source: DLRI
+Date: 2026-08-10
 Pages: 6
 Extraction status: ok
 
 ### Page 1
 
-www.imeritz.com
+Research Report
 
-LG에너지솔루션 (373220)
+2026 年 8 月 10 日
 
-Company Brief 
-이차전지/석유화학 
-Analyst 노우호 
-wooho.rho@meritz.co.kr 
-RA 황현식 
-hyeonsig.hwang@meritz.co.kr 경쟁력 확보 준비 과정  
-2Q26 Review: 분기 영업이익 흑자전환 및 사업전략 공유 
-당월초 잠정실적을 발표한 LG에너지솔루션은 전일 실적 설명회를 통해 EV 및 ESS
-분야 사업 전략을 공유했다. 특이사항은 [EV] 유럽: 중저가 제품(LFP, 고전압 미드니
-켈 등)으로 저변 확보 중, 미국: 생산량 기저효과 및 2170/46시리즈 원통형 전지 전
-략/신규 고객사향 출하량 증가 중, [ESS] 단기 비용 발생 불가피하나, 생산 볼륨 확
-대(연말 50Gwh) 및 AI DC 수주 등 에너지 관리/전력 솔루션 역량 확보, [차세대] 소
-디움 이온, 전고체 등으로 라인업 확장을 준비 중이다.
+1/6 
+AI は相場の「次の暴落」に人間より先に気づくのか 
+～ニュース解析で探る、相場予測の実力と落とし穴～ 
+ 政策調査部 主席研究員  柏村 祐
 
-3Q26 Preview: 영업이익 4,110억원(AMPC 2,545억원 포함) 추정  
-차분기 영업실적 매출액 7.6조원/영업이익 4,110억원을 추정한다. 실적 개선 배경은 
-(1) 판매단가 래깅효과, (2) Mix: 원통형 전지 매출액 2.4조원, ESS 는 매출액 1.8조
-원 추정하며 ESS 매출액 기여도는 24%로 증가할 전망이다. 2H26 미국 GM JV 
-No.1, 2 생산라인 재가동은 최소 규모로 제한되나, 점진적 개선국면을 예상가능하다.
+（要旨） 
+○ AI がニュースから「危機の予兆」を体系的に抽出し、プロ投資家の行動の相当な部分まで先
+読みできるようになった今、金融市場は従前より安全になるという期待が高まっている。し
+かし、危機を予知するAIが普及すればするほど、市場はかえって「新たな暴落リスク」を抱
+え込むというパラドックスも生じている。 
+○ AI は、世界中の大量のニュースから金融市場を揺らす出来事の発生確率と深刻度を抽出し、
+危機の予兆を可視化する。また、ファンドマネジャーの過去の売買パターンから、次に取る
+行動を高い的中率（71％）で予測できる。 
+○ 一方で、危険を察知するAI は、同質的なアルゴリズムによって一斉に売りに走り、価格下落
+を増幅する破壊者にもなり得る。AIの速さは、危機を早く見つける強みであると同時に、価
+格下落を速める弱点にもなる。 
+○ AI 主導相場において、 投資家に求められるのはAIの予測を盲信することではない。AI の 「一
+斉売り」を流動性提供の機会とする逆張り戦略や、自身の投資行動がAIに予測されやすいパ
+ターンに陥っていないかを点検するメタ認知の視点が必要である。
 
-투자의견 Buy 유지, 적정주가는 44만원으로 하향   
-기대치를 하회한 북미 파우치 배터리 기반 EV 출하량, 단기 ESS부문 비용 부담 영
-향에 연간 실적 추정치를 하향, 적정주가는 44만원(27년 EBITDA 추정치, 
-EV/EBITDA 13배 적용)을 제시한다. 단, 동사의 비-중국산 배터리 기업의 시장 지배
-력, ESS 부문 성장 잠재력을 고려하면 최근 1달간의 주가 조정을 매수 기회로 활용 
-가능하다. 투자의견 Buy 유지한다.
-
-Meritz Research  2026. 7. 31
-
-Buy (20거래일 평균종가 대비 상승 여력 기준) 
-적정주가 (12개월) 440,000원 
-현재주가 (7.30) 320,000원 
-상승여력 37.5%
+1. AIは市場の救世主か、それとも破壊者か？  
+金融市場では、人工知能（AI）の活用が急速に広がっている。AIは、膨大なニュースや経済指
+標を短時間で分析し、市場のさまざまな動きのつながりを読み取ることができる。こうしたAIの
+活用は、もはや一部の高度なデータ分析を行う投資ファンドだけに限られたものではない。生成
+AIの普及により、あらゆる市場参加者が高度な分析ツールを手にしつつある。ここで一つの仮説
+が浮かび上がる。 「もし、市場参加者の多くが優秀なAIを活用し、リスクの兆しを早期に察知でき
+るようになれば、金融市場は従前より安全になるのではないか？」という期待だ。過去の金融危
+機は、人間の見落としや思い込み、あるいは根拠なき熱狂によって引き起こされてきた。そうで
+あれば、冷静かつ客観的に大量のデータを分析するAIが市場の監視役となることで、バブルの膨
+張や突然の暴落を未然に防げるのではないか。これは、AIを金融市場の「救世主」とみなす考え
+方である。
 
 ### Page 2
 
-2
+2/6 
+しかし、金融市場の歴史は、新しいテクノロジーが常に予期せぬ副作用をもたらしてきたこと
+を証明している。全員が同じように「賢いAI」を用いてリスクを回避しようとしたとき、市場に
+は何が起きるのか。 
+本稿では、 「AIは相場の『次の暴落』に人間より先に気づくのか？」というテーマのもと、最新
+の研究動向からAIの相場予測の実力を検証する。そして、AIがニュースから危機の予兆を見つけ
+出し、プロ投資家の行動さえ先読みする能力を持ちつつある現状を明らかにする。その上で、 「危
+機を予知するAIが普及すればするほど、なぜ市場はかえって『新たな暴落リスク』を抱えること
+になるのか」というパラドックスを読み解き、AIが相場を動かす時代において、投資家がどのよ
+うに備えるべきかを考えていきたい。
 
-표1  LG에너지솔루션 2Q26P Review Table 
-(십억원) 2Q26P 2Q25 (% YoY) 1Q26 (% QoQ) 컨센서스 (% diff.) 
-매출액 7,560.2  6,056.2  24.8  6,555.0  15.3  7,222.1  4.7 
-영업이익 113.3  492.2  -77.0  -207.8  흑자전환 188.3  -39.8 
-세전이익 -127.8  -27.0  적자지속 -858.6  적자지속 -14.8  적자지속 
-순이익(지배주주) -253.3  -297.4  적자지속 -676.0  적자지속 2.0  적자전환 
-영업이익률(%) 1.5  8.1   -3.2   2.6   
-세전이익률(%) -1.7  -0.4   -13.1   -0.2   
-순이익률(%) -3.3  -4.9   -10.3   0.0   
-자료: LG에너지솔루션, 메리츠증권 리서치센터
-
-표2 LG에너지솔루션 2026년  2027년 실적 추정치 변경 
- 2026E 2027E 
-(십억원) 신규 추정치 기존 추정치 (% diff.) 신규 추정치 기존 추정치 (% diff.) 
-매출액 29,897.6  28,916.6 3.4 33,056.2  32,856.0 0.6 
-영업이익 876.1  917.3 -4.5 2,777.5  3,412.3 -18.6 
-세전이익 -385.3  -245.7 56.8 1,630.3  2,289.0 -28.8 
-순이익(지배주주) -574.1  -433.3 32.5 955.1  962.6 -0.8 
-영업이익률(%) 2.9 3.2  8.4 10.4  
-세전이익률(%) -1.3 -0.8  4.9 7.0  
-순이익률(%) -1.9 -1.5  2.9 2.9  
-자료: LG에너지솔루션, 메리츠증권 리서치센터
-
-그림1  2Q26P 영업이익, 컨센서스 대비 40% 하회   그림2  2026E 영업이익, 컨센서스 대비 23% 하회 전망
-
-자료: Quantiwise, 메리츠증권 리서치센터  자료: Quantiwise, 메리츠증권 리서치센터
-
-0
-100
-200
-300
-400
-500
-600
-'26.1 '26.2 '26.3 '26.4 '26.5 '26.6 '26.7
-(십억원) 2Q26 OP 컨센서스
-잠정실적 발표치, 괴리율
-113.3, -39.8%
-800
-1,300
-1,800
-2,300
-2,800
-'26.1 '26.2 '26.3 '26.4 '26.5 '26.6 '26.7
-(십억원) 2026 OP 컨센서스
-메리츠 추정치, 괴리율
-876.1, -22.7%
+2. AIは市場の危機をどう捉え、どう動くのか 
+(1) AIはニュースに潜む「危機の予兆」を見つける 
+金融市場における「次の暴落」を予測することは、古くから市場参加者の悲願であった。しか
+し、ショックの発生タイミングをピンポイントで当てることは不可能に近い。そこで現在、AIを
+活用して試みられているのは、未来を予言することではなく、世界中の膨大なテキストデータか
+ら「危機の予兆（脆弱性とトリガー） 」を早期に抽出し、可視化することである。 
+欧州中央銀行（ECB）が2026 年に公表したレポートでは、大規模言語モデル（LLM）を用いて
+『Financial Times』紙の約110万本に及ぶ過去の記事を解析し、金融安定性を脅かす潜在的なト
+リガーの「深刻度」と「発生確率」を組み合わせた「SPOT（Severity and Probability of 
+Triggers）指標」を構築した。この指標の推移を見ると、AIがニュースの文脈から、金融安定を
+揺るがし得る潜在的なトリガーの高まりを捉えていることがわかる。資料1が示す通り、2008年
+の世界金融危機（GFC）、2011 年の欧州債務危機（SDC）、2020年のコロナ危機（C-19） 、そして
+2022 年のロシア・ウクライナ紛争（RUC）といった主要な危機イベントに先立つ局面でSPOT指標は
+上昇し、危機の発生時点付近で明確なピークを示している。AIは、人間が日々消化しきれない膨
+大なニュースの海から、市場を揺るがす材料の蓄積を継続的かつ客観的にスコアリングできる。
+危機の発生日を正確に特定できるわけではないものの、人間が見落としやすいリスクの蓄積を早
+期に警告する指標として、既存の定量指標を強力に補完する役割を果たし始めている。
 
 ### Page 3
 
-LG 에너지솔루션 (373220) 
- 3
+3/6 
+資料 1 基準 SPOT 指標の分解 
+（注）黒の破線は、世界金融危機（GFC）、欧州債務危機（SDC）、コロナ危機（C-19）、ロシア・ウクライナ紛争（RUC）を示す。 
+（出所）European Central Bank, “From dictionaries to AI: a new era in sentiment analysis for financial stability”より第一ライフ資
+産運用経済研究所作成
 
-표3  LG에너지솔루션 분기 및 연간 실적 Snapshot 
-(십억원) 1Q25 2Q25 3Q25 4Q25 1Q26 2Q26P 3Q26E 4Q26E 2025 2026E 2027E 
-매출액 6,722.7  6,056.2  6,065.4  6,474.3  6,555.0  7,560.2  7,674.1  8,108.3  25,318.6  29,897.6  33,056.2  
-소형 배터리 1,693.1  1,668.8  1,712.6  1,880.0  2,038.0  2,292.8  2,628.9  2,821.6  6,954.5  9,781.3  10,946.1  
-IT/기타 169.3  133.5  137.0  150.4  142.7  183.4  210.3  225.7  590.2  762.1  875.7  
-EV 원통형 1,523.8  1,535.3  1,575.6  1,729.6  1,895.3  2,109.4  2,418.6  2,595.9  6,364.3  9,019.2  10,070.4  
-중대형 배터리 4,468.2  3,896.6  3,889.7  3,463.7  3,791.8  4,208.7  4,700.0  4,855.6  15,718.2  17,556.0  20,161.8  
-EV 3,753.3  3,117.3  3,072.9  2,667.1  2,843.9  2,609.4  2,867.0  2,427.8  12,610.5  10,748.0  9,831.7  
-ESS 714.9  779.3  816.8  796.7  948.0  1,599.3  1,833.0  2,427.8  3,107.7  6,808.0  10,330.1  
-영업이익 374.7  492.2  601.3  -122.0  -207.8  113.3  411.0  559.5  1,346.2  876.1  2,777.5  
-AMPC 반영 457.7  490.8  365.5  332.8  189.7  228.4  345.2  431.1  1,646.8  1,194.4  1,948.3  
-%OP 5.6% 8.1% 9.9% -1.9% -3.2% 1.5% 5.4% 6.9% 5.3% 2.9% 8.4% 
-영업이익-AMPC -83.0  1.4  235.8  -454.8  -397.5  -115.1  65.8  128.5  -300.6  -318.3  829.2  
-세전이익 364.5  -27.0  552.8  -476.1  -858.6  -127.8  231.9  369.3  414.2  -385.3  1,630.3  
-순이익(지배주주) -145.7  -297.4  247.2  -876.8  -676.0  -253.3  145.9  209.2  -1,072.8  -574.1  955.1  
-%YoY            
-매출액 9.7  -1.7  -11.8  0.4  -2.5  24.8  26.5  25.2  -1.2  18.1  10.6  
-영업이익 138.1  152.0  34.1  적자축소 적자전환 -77.0  -31.6  흑자전환 133.9  -34.9  217.0  
-세전이익 63.7  적자전환 63.0  적자확대 적자전환 적자확대 -58.1  흑자전환 18.7  적자전환 흑자전환 
-순이익(지배) 적자확대 적자축소 85.6  적자확대 적자확대 적자축소 -41.0  흑자전환 적자확대 적자축소 흑자전환 
-%QoQ            
-매출액 4.2  -9.9  0.2  6.7  1.2  15.3  1.5  5.7     
-영업이익 흑자전환 31.4  22.2  적자전환 적자확대 흑자전환 262.8  36.1     
-세전이익 흑자전환 적자전환 흑자전환 적자전환 적자확대 적자축소 흑자전환 59.2     
-순이익(지배) 적자축소 적자확대 흑자전환 적자전환 적자축소 적자축소 흑자전환 43.4     
-자료: 메리츠증권 리서치센터
-
-표4  LG에너지솔루션 적정주가 44만원으로 하향  
-사업가치 (A) 27년 추정 EBITDA Fair Value Multiple(배) 
-(단위: 십억원) 10,094.8  131,232.6 13  
-순차입금 (B)  28,129.4  
-적정 시가총액(A-B)  103,103.2   
-발행 주식수(천주)  234,000   
-적정 주당 주주가치 (원)  440,000   
-자료: 메리츠증권 리서치센터
+(2) AIはプロ投資家の「売買の型」を見抜ける 
+相場の急変は、ニュースという「事実」そのものだけでなく、それを受けた投資家が「どう行
+動するか」によって引き起こされる。市場参加者の行動パターンを事前に読むことができれば、
+ニュースや市場環境の変化が実際の売買にどう波及するかを考える手掛かりになる。最新のAI
+は、この領域に踏み込みつつある。 
+全米経済研究所（NBER）が 2026 年に公表したワーキングペーパー“Mimicking Finance”は、
+AIがプロのファンドマネジャーの行動をいかに正確に模倣できるかを実証した。研究チームは、
+アクティブ株式ファンドマネジャーの過去の保有銘柄や売買履歴、市場環境などのデータを用い
+てAI（LSTMモデル）を訓練し、彼らが次の四半期に各銘柄を「買うか、売るか、保有し続ける
+か」を予測させた。結果は明確であった。過去に最も多かった行動をそのまま当てはめるだけの
+単純予測の的中率（予測が実際の売買と一致した割合）が平均52％であったのに対し、AIモデル
+は平均 71％の的中率でファンドマネジャーの売買方向を言い当てたのである。資料2を見ると、
+AIモデルによる的中率（青色）の分布が、単純予測（オレンジ色）に比べて右側（的中率が高い
+側）へ大きくシフトしていることがわかる。マネジャーによっては、四半期中のほぼすべての取
+引が予測可能であった。これは、AIがファンドマネジャーの「売買の型（クセ） 」を学習し、特定
+の市場環境下で彼らがどう動くかを先回りして推定できることを意味する。つまり、AIはニュー
+スから危機を察知するだけでなく、米国のアクティブ株式ファンドについては、ファンドマネジ
+ャーがどう反応し、ポジションをどのように変えるかを、相当程度まで事前に推定できる段階に
+入りつつある。
 
 ### Page 4
 
-4
+4/6
 
-KOSPI 5,593.56pt 
-시가총액 748,800억원 
-발행주식수 23,400만주 
-유동주식비율 20.29% 
-외국인비중 5.55% 
-52주 최고/최저가 514,000원/300,500원 
-평균거래대금 1,889.4억원
+資料 2 売買予測の的中率の分布：AI モデルと単純予測の比較 
+（注）縦の破線はそれぞれの平均値を示す。青色は AI モデル（加重平均正解率）、オレンジ色は単純予測（加重平均単純正解率）
+の分布。 
+（出所）Cohen, Lu and Nguyen, “Mimicking Finance, NBER Working Paper No. 34849”より第一ライフ資産運用経済研究所作成
 
-LG화학 79.38 
-국민연금공단 6.13
-
-1개월 6개월 12개월 
-절대주가 -11.6 -19.6 -18.6 
-상대주가 34.0 -24.9 -52.6
-
-(십억원) 
-매출액
-
-영업이익
-
-순이익 
-(지배주주) 
-EPS (원) 
-(지배주주) 
-증감률 
-(%) 
-BPS 
-(원) 
-PER 
-(배) 
-PBR 
-(배) 
-EV/EBITDA 
-(배) 
-ROE 
-(%) 
-부채비율 
-(%) 
-2024 25,619.6 575.4 -1,018.7 -4,354 -182.3 90,240 -79.9 3.86 28.7 -4.9 94.7 
-2025 23,671.8 1,346.1 -1,072.8 -4,585 5.3 86,391 -80.4 4.27 23.1 -5.2 129.0 
-2026E 29,897.6 876.0 -573.4 -2,450 -46.6 95,159 -130.6 3.36 15.1 -2.7 167.4 
-2027E 33,056.2 2,777.5 955.1 4,082 -266.6 99,241 78.4 3.22 11.0 4.2 183.5 
-2028E 36,346.4 4,110.2 1,723.6 7,366 80.5 106,607 43.4 3.00 9.5 7.2 186.8
-
-0
-2,700
-5,400
-8,100
-10,800
-0
-160
-320
-480
-640
-'25.7 '25.10 '26.1 '26.4 '26.7
-(pt)(천원)
-LG에너지솔루션 코스피지수(우)
+(3) 危険を察知するAIは「一斉に売るAI」にもなる 
+AIが危機の予兆を捉え、他者の行動を予測できるとすれば、市場はより安全になるのだろう
+か。現実はそう単純ではない。AIの圧倒的な情報処理能力と反応速度は、危機を早く見つける強
+みであると同時に、価格下落を瞬時に増幅させる弱点にもなり得るからだ。 
+ECBが2026年に公表した別のレポートでは、AIの意思決定アルゴリズムの違いが金融安定性に
+与える影響をシミュレーションしている。この実験では、投資信託の解約（売り）行動におい
+て、強化学習の一種である「Qラーニング型AI」と、文脈推論を行う「LLM型AI」の挙動を比較し
+た。資料3 が示す通り、Qラーニング型AI（緑線）は、経済ファンダメンタルズが良好で本来なら
+解約が正当化されない状況（資料3 の右側）であっても、すべてのAIが一斉に解約に走るとい
+う、極端な「取り付け騒ぎ（Bank run） 」のような動態を示した。これは、試行錯誤の中でデフォ
+ルトを経験するたびに、保有を続けることへの評価が低下し、小さくても確実なリターンを得ら
+れる解約を選びやすくなる学習パターン（Hot stove effect）によるものである。一方、LLM型AI
+（青線）は良好な局面での一斉解約は避けられたものの、ファンダメンタルズが中間的な局面で
+はAI同士の「信念」がばらつき、予測不可能なノイズを生み出した。この結果が示唆するのは、
+AIのアーキテクチャそのものが新たな金融不安の要因になり得るという事実である。似た設計を
+持ち、同じ目標（利益の最大化や損失の回避）を追求するAIが、同じ市場環境で広く利用されれ
+ば、あるネガティブなニュースに対して一斉に「売り」の判断を下すリスクが高まる。AIは「次
 
 ### Page 5
 
-LG 에너지솔루션 (373220) 
- 5
+5/6 
+の暴落」に人間より先に気づくかもしれないが、その気づきがAI同士の連鎖的な売りを誘発し、
+結果として、取り付け騒ぎ型の一斉解約を通じ、価格下落の引き金や増幅要因になり得る。
 
-(십억원) 2024 2025 2026E 2027E 2028E  (십억원) 2024 2025 2026E 2027E 2028E 
-매출액  25,619.6 23,671.8 29,897.6 33,056.2 36,346.4  영업활동 현금흐름  5,111.7 4,432.3 4,441.8 8,252.8 9,406.8 
-매출액증가율(%)  -24.1 -7.6 26.3 10.6 10.0  당기순이익(손실)  338.6 80.8 -838.9 1,173.8 2,118.8 
-매출원가  22,213.6 19,439.7 24,348.8 27,106.9 29,794.5  유형자산상각비  2,856.1 3,413.6 6,040.1 7,058.4 7,375.0 
-매출총이익  3,406.0 4,232.1 5,548.8 5,949.4 6,551.8  무형자산상각비  189.7 277.7 309.2 259.0 211.9 
-판매관리비  4,310.6 4,532.8 4,672.8 3,171.9 2,441.6  운전자본의 증감  691.4 -365.0 -1,919.4 -238.4 -298.9 
-영업이익  575.4 1,346.1 876.0 2,777.5 4,110.2  투자활동 현금흐름  -12,065.5 -10,881.3 -8,637.5 -9,713.8 -9,342.7 
-   영업이익률(%)  -3.5 -1.3 2.9 8.4 11.3  유형자산의증가(CAPEX)  -12,399.0 -10,833.9 -9,026.7 -9,600.0 -9,200.0 
-   금융손익  -212.2 -86.3 -742.3 -1,147.1 -1,167.4  투자자산의감소(증가)  -673.3 -251.8 -357.7 -113.8 -142.7 
-   종속/관계기업손익  -49.1 -1.9 -71.8 0.0 0.0  재무활동 현금흐름  5,381.5 6,285.9 6,280.4 5,600.5 3,240.6 
-기타영업외손익  34.8 -843.8 -449.2 0.0 0.0  차입금의 증감  5,383.6 8,530.2 7,722.2 5,600.5 3,240.6 
-세전계속사업이익  348.9 414.1 -387.3 1,630.3 2,942.8  자본의 증가  0.0 0.0 1,304.7 0.0 0.0 
-   법인세비용  10.3 333.3 49.8 456.5 824.0  현금의 증가(감소)  -1,170.1 -119.4 2,197.1 4,139.5 3,304.7 
-당기순이익  338.6 80.8 -838.9 1,173.8 2,118.8  기초현금  5,068.8 3,898.7 3,779.3 5,976.4 10,115.9 
-지배주주지분 순이익  -1,018.7 -1,072.8 -573.4 955.1 1,723.6  기말현금  3,898.7 3,779.3 5,976.4 10,115.9 13,420.6
+資料 3 経済ファンダメンタルズの水準と AI 投資家の解約率 
+（注）ピンクの点線は解約がなくてもファンドが破綻する債務超過危機の水準、黒の点線は全額解約があってもファンドは常に存
+続する危機なしの水準を示す。 
+（出所）European Central Bank, “Financial stability in the age of artificial intelligence: the role of algorithmic architecture, 
+Research Bulletin No. 143”より第一ライフ資産運用経済研究所作成
 
-(십억원) 2024 2025 2026E 2027E 2028E   2024 2025 2026E 2027E 2028E 
-유동자산  15,327.4 18,412.1 26,642.9 32,400.5 37,734.4  주당데이터(원)       
-   현금및현금성자산  3,898.7 3,779.3 5,976.4 10,115.9 13,420.6  SPS 109,485 101,161 127,767 141,266 155,326 
-   매출채권  4,944.0 4,311.2 6,378.7 6,878.1 7,504.4  EPS(지배주주)  -4,354 -4,585 -2,450 4,082 7,366 
-   재고자산  4,552.4 4,350.4 6,622.4 7,140.9 7,791.1  CFPS 22,748 23,951 30,940 42,286 49,133 
-비유동자산  44,979.4 48,735.8 53,645.3 56,041.7 57,797.4  EBITDAPS 15,475 21,527 30,877 43,140 49,988 
-   유형자산  38,349.6 40,794.8 44,864.4 47,406.0 49,231.0  BPS 90,240 86,391 95,159 99,241 106,607 
-   무형자산  1,284.6 1,591.6 1,425.4 1,166.4 954.5  DPS 0 0 0 0 0 
-   투자자산  1,272.4 1,522.3 1,808.2 1,921.9 2,064.6  배당수익률(%)  0.0 0.0 0.0 0.0 0.0 
-자산총계  60,306.8 67,148.0 80,288.2 88,442.2 95,531.8  Valuation(Multiple)      
-유동부채  12,054.9 16,785.4 26,172.0 31,462.0 35,348.9  PER -79.9 -80.4 -130.6 78.4 43.4 
-   매입채무  2,705.5 2,152.8 3,657.9 3,944.3 4,303.5  PCR 15.3 15.4 10.3 7.6 6.5 
-   단기차입금  1,291.0 2,680.6 5,661.9 7,061.9 8,181.9  PSR 3.2 3.6 2.5 2.3 2.1 
-   유동성장기부채  1,199.2 4,005.6 5,506.2 7,106.2 7,906.2  PBR 3.86 4.27 3.36 3.22 3.00 
-비유동부채  17,285.3 21,040.9 24,094.7 25,784.9 26,868.8  EBITDA(십억원) 3,621.2 5,037.4 7,225.2 10,094.8 11,697.2 
-   사채  7,775.5 10,778.3 11,278.7 11,878.7 12,198.7  EV/EBITDA 28.7 23.1 15.1 11.0 9.5 
-   장기차입금  4,865.8 4,735.1 5,960.6 6,760.6 7,160.6  Key Financial Ratio(%)      
-부채총계  29,340.3 37,826.3 50,266.7 57,246.9 62,217.7  자기자본이익률(ROE)  -4.9 -5.2 -2.7 4.2 7.2 
-자본금  117.0 117.0 117.0 117.0 117.0  EBITDA 이익률  14.1 21.3 24.2 30.5 32.2 
-자본잉여금  17,164.6 17,164.6 18,469.3 18,469.3 18,469.3  부채비율  94.7 129.0 167.4 183.5 186.8 
-기타포괄이익누계액  2,437.4 2,601.7 3,922.9 3,922.9 3,922.9  금융비용부담률  2.2 3.5 3.5 3.8 3.9 
-이익잉여금  1,397.2 332.2 -242.0 713.1 2,436.7  이자보상배율(x)  1.0 1.6 0.8 2.2 2.9 
-비지배주주지분  9,850.3 9,106.1 7,754.2 7,972.9 8,368.2  매출채권회전율(x)  5.1 5.1 5.6 5.0 5.1 
-자본총계  30,966.5 29,321.7 30,021.5 31,195.3 33,314.1  재고자산회전율(x)  5.2 5.3 5.4 4.8 4.9
+3. 投資家に求められるのはAIの盲信ではなく「一斉売り」の逆張り活用 
+ここまでの検討を踏まえると、 「AIは市場の救世主となるのか？」という問いに対する結論は、
+「救世主となり得る一方で、その能力が高まるほど、新たな暴落リスクを生み出す危険性も増
+す」というものである。第2 章で見たように、AIはニュースの文脈から潜在的なリスクを抽出
+し、市場参加者の行動パターンを高精度で予測する能力をすでに獲得しつつある。個別の投資家
+にとって、AI は間違いなく強力なリスク回避のツールである。しかし、市場全体を見渡すと評価
+は変わる。多くの投資家が似たようなアーキテクチャのAIを用い、同じニュースデータセットを
+解析して「売り」のシグナルを受け取った場合、AI は人間の恐怖やパニックとは無縁だが、アル
+ゴリズムの同質性ゆえに「冷徹かつ一斉に」売り注文を出す。つまり、次の暴落では、人間のパ
+ニックだけでなく、AIによる過剰なリスク回避行動の連鎖が、価格下落を増幅する可能性があ
+る。AIは危機を予知するがゆえに、自ら「破壊者」に転じ得るのである。 
+では、このようなAI 主導の市場において、人間の投資家はどのような戦略をとるべきか。AIと
+スピードや情報処理能力を競っても優位は得られない。求められるのは、AI が苦手とする領域
+と、AIの行動パターンを踏まえた対応である。 
+第一に、AIの「一斉売り（オーバーシュート） 」を流動性提供の機会とすることである。同質的
 
 ### Page 6
 
-6
+本資料は情報提供を目的として作成されたものであり、投資勧誘を目的としたものではありません。作成時点で、第一ライフ資産運用
+経済研究所が信ずるに足ると判断した情報に基づき作成していますが、その正確性、完全性に対する責任は負いません。見通しは予告
+なく変更されることがあります。また、記載された内容は、第一生命保険ないしはその関連会社の投資方針と常に整合的であるとは限
+りません。 
+6/6 
+なアルゴリズムを用いるAI が一斉に売りに走る局面では、価格下落が短期間に増幅され、価格が
+ファンダメンタルズから大きく乖離する可能性がある。投資家は、AI のシグナルに追随してパニ
+ック売りに参加するのではなく、あらかじめ十分なキャッシュポジションを確保しておき、AI に
+よる一斉売りで価格がファンダメンタルズから大きく乖離した場合には、買い機会として検討す
+るという逆張りの視点を持つことが重要である。 
+第二に、自身の投資行動の「予測可能性」を点検することである。AI は過去のパターンから人
+間の行動を高精度で予測する。もし自身の運用スタイルが、特定の指標やニュースに対して常に
+同じ反応を示す「ルーティン化」されたものであれば、その行動はAIに模倣されやすくなり、運
+用上の独自性や超過収益の源泉が薄れるおそれがある。そのため投資家は、自らのポートフォリ
+オや売買ルールが「AIにとって予測しやすいもの」になっていないかを定期的に点検する必要が
+ある。機械的な売買ルールに過度に依存せず、判断の前提を見直すとともに、AI では捉えにくい
+定性的な情報や、過去のパターンには当てはまりにくい変化にも目を向けることが重要である。 
+AI は市場の不確実性を排除するツールではない。AI が新たな市場のメインプレーヤーとなる時
+代において、投資家に真に求められるのは、AIの予測を盲信することではなく、 「AI がどのよう
+に間違え、どのように暴走するのか」を見極め、その先に生じる市場の歪みを収益機会へと変え
+ていく視点である。AIを使いこなす力だけでなく、AI そのものを一歩引いて捉える「メタ認知」
+の視点こそが、これからの投資家に求められるのである。
 
-투자등급 관련사항 (2023년 8월 4일부터 기준 변경 시행)  투자의견 비율 
-기업 향후 12 개월간 추천기준일 직전 1 개월간 평균종가대비 추천종목의 예상 목표수익률을 의미  투자의견 비율 
-추천기준일  
-직전 1 개월간 
-종가대비 3 등급 
-Buy 추천기준일 직전 1 개월(20 거래일)간 평균종가대비 +20% 이상  매수 89.7% 
-Hold 추천기준일 직전 1 개월(20 거래일)간 평균종가대비 -20% 이상 ~ +20% 미만  중립 10.3% 
-Sell 추천기준일 직전 1 개월(20 거래일)간 평균종가대비 -20% 미만  매도 0.0% 
-산업 시가총액기준 산업별 시장비중 대비 보유비중의 변화를 추천  2026년 6 월 30 일 기준으로  
-최근 1 년간 금융투자상품에 대하여 
-공표한 최근일 투자등급의 비율 추천기준일  
-시장지수대비 3 등급 
-Overweight (비중확대)  
-Neutral (중립)  
-Underweight (비중축소)
+以 上
 
-LG 에너지솔루션 (373220) 투자등급변경 내용 * 적정주가 대상시점 1 년이며, 투자등급변경 그래프는 수정주가로 작성됨 
-변경일  자료형식  투자의견  적정주가  담당자  괴리율 (%)*   
-주가  및 적정주가  변동추이  
-   (원)  평균 최고(최저)  
-2024.07.29  기업브리프  Buy 410,000  노우호 -11.0 1.0
-
-2024.09.25  기업브리프  Buy 470,000  노우호 -17.3 -7.1  
-2025.01.31  기업브리프  Buy 450,000  노우호 -27.9 -14.3  
-2025.07.28  기업브리프  Buy 400,000  노우호 0.6 28.5  
-2026.05.04  기업브리프  Buy 470,000  노우호 -18.4 2.8  
-2026.07.31  기업브리프  Buy 440,000  노우호 - -
-
-0
-200,000
-400,000
-600,000
-24.7 25.1 25.7 26.1 26.7
-(원) LG에너지솔루션 적정주가
+【参考文献】 
+・European Central Bank (2026) "From dictionaries to AI: a new era in sentiment 
+analysis for financial stability", Financial Stability Review, May 2026. 
+・Cohen, L., Lu, Y., and Nguyen, Q. H. (2026) "Mimicking Finance", NBER Working Paper 
+No. 34849. 
+・European Central Bank (2026) "Financial stability in the age of artificial 
+intelligence: the role of algorithmic architecture", Research Bulletin No. 143.
 
 ---
-## Document 208: Australia’s Trade in Goods Account, June (2026-08-22)
+## Document 183: AI算力红利持续释放，中际旭创上半年净利暴增241.7%，章建平新进成为第九大股东｜财报见闻
 
-Source PDF: all report pdf/Australia’s Trade in Goods Account, June (2026-08-22).pdf
-Report source: Westpac IQ
-Date: 2026-08-22
-Pages: 13
+Source PDF: all report pdf/AI算力红利持续释放，中际旭创上半年净利暴增241.7%，章建平新进成为第九大股东｜财报见闻.pdf
+Report source: WallstreetCN (Global)
+Date: 2026-08-21
+Pages: 1
 Extraction status: ok
 
 ### Page 1
 
-#trade #australia
-Australia’s Trade in Goods Account, June
-By Pat Bustamante
-Senior Economist, Westpac
-14:22 August 06 2026 Share
-Trade data volatile amid sizeable swings across a range of exports and imports. Trade
-balance: $1.9bn surplus. Export values: 9.6%mth. Import values: -0.2%mth. Balance on
-goods likely to detract around 0.5ppt from growth in Q2 2026.
-
-### Page 2
-
-The latest trade data surprised to the upside, with the headline goods trade balance increasing $4.3bn
-over the month of June, swinging from a revised deficit of $2.4bn in May to a surplus of $1.9bn. This
-was well above the $1.1bn deficit expected by the market and is the largest monthly surplus since
-February this year.
-(The detail suggests that several factors on both the export and import sides are pulling the goods
-trade balance in different directions with both prices and volumes contributing to the noise. These
-
-include sizeable swings in non-monetary gold flows, ongoing volatility in commodity exports and
-elevated but easing imports of fuel, motor vehicles and data centre equipment. Most of these
-influences are likely to persist for some time – in some cases into the medium term – suggesting that
-trade data are likely to remain volatile.
-
-### Page 3
-
-What does this mean for the June quarter? 
-Over the June quarter, our estimates have the trade balance on goods detracting around 0.5ppts from
-growth, with estimated export volumes growing at around 0.6%qtr, more than offset by an estimated
-3.2%qtr increase in import volumes. The impact of the external sector on domestic activity also
-includes the trade balance on services, which will become available in the ABS Balance of Payment
-publication due to be released on 1 September.
-
-Exports
-Export earnings rebounded strongly, the 9.6%mth rise in June more than fully retracing last month’s
-7.6% fall. In year-ended terms, export values are up a solid 8.6%. Over the June quarter, exports are
-up 4.2% with our estimates suggesting export volumes were up 0.5%qtr. 
-The monthly increase was largely driven by non-monetary gold, which jumped 60%mth, accounting for
-around three-quarters of the total pickup in exports. This reverses a large 35% decline last month, to be
-around 7.0% higher in year-ended terms. 
-Iron ore exports rebounded 6.2%mth following a 10% decline in May, to remain 5.5% higher in year-
-ended terms. ABS detail indicates that volumes drove the increase over the month and year, with
-prices slightly offsetting this pickup in volumes.
-
-### Page 4
-
-Among other major categories, coal and LNG exports rose by 4.6%mth and 4.0%mth, respectively.
-Given strong increases in preceding months, commodity (or non-rural) exports grew around 10.5% in
-the quarter, retracing the 5.2%qtr fall in Q1 2026.
-Imports
-Import values declined 0.2%mth but still grew strongly over the Q1 – up 8.1%qtr following a 2.2%qtr
-increase in Q1. The quarterly jump was driven by a sharp pick up in the imports of fuel. There was also
-
-a pickup in consumption goods which fell in Q1 but grew 4.4%qtr in Q2 driven by an almost 30%
-increase in the motor vehicle imports (non-industrial transport).
-
-### Page 5
-
-Looking at the monthly moves, non-monetary gold imports jumped almost 36%. Excluding gold,
-imports would have fallen 1.7% in the month, partly reflecting a pullback in fuel imports, which declined
-almost 12% but remained elevated. ABS estimates suggest that both fuel prices and volumes fell in
-June. With this effect likely to intensify, fuel import values should continue to ease.
-The March quarter national accounts highlighted a strong increase in data centre investment. As many
-
-fit-out components are imported, the trade data provide a partial guide to this activity. Automated data
-processing equipment imports fell almost 24% in June and around 26% over the June quarter.
-Telecommunications equipment imports, which are also likely to be used in data centres, fell almost 9%
-in June but were broadly flat over the quarter. Together, these moves point to an easing in data centre
-investment momentum in the June quarter. Even so, data centre-related imports remained above their
-
-previous peak in the September quarter of 2025.
-Elsewhere, civil aircraft imports, a volatile component of capital goods, fell by more than 30% in June
-following a surge of more than 160% in May.
-Consumption goods imports rose just 0.8% in the month but were strong over the quarter. Motor
-vehicle imports fell almost 6% after double-digit gains in April and May, with the earlier surge likely
-driven by EV demand as elevated fuel prices and a wider range of models encouraged uptake.
-
-Outside of vehicles, consumption imports remained soft, consistent with our forecast for
-subdued household consumption in Q2.
-
-### Page 6
-
-Related articles
-Looking ahead
-Outcomes for both exports and imports in coming months are likely to be shaped by developments in
-key commodity markets. With several major commodity prices having declined recently, we are likely to
-see softer outcomes in both commodity exports and fuel imports in July.
-The headline trade balance will also be influenced by the evolution of data centre investment. Our
-previous analysis has highlighted the sector's significant expansion potential and broader economic
-
-implications. However, the latest trade data suggest that this expansion is unlikely to be linear, with
-imports associated with data centre build-outs remaining lumpy from month to month.
-Importantly, imports of capital equipment used in data centre fit-outs provide only a partial view of the
-underlying activity. Construction, which relies more heavily on domestic labour and inputs, represents
-another major component of the investment cycle. The strength of this activity was evident in the June
-
-quarter non-residential building approvals data, which rose sharply and points to a robust pipeline of
-data centre construction activity ahead.
-Stay informed with Westpac IQ
-Get the latest reports straight to your inbox.
-Subscribe
-
-### Page 7
-
-Australia’s Trade in Goods Account, May
-July 02 2026 • 5 mins
-#trade
-By Mantas Vanagas
-Talking about trade: energy and data-centre investment
-June 05 2026 • 5 mins
-#trade
-By Mantas Vanagas & Elliot Clarke
-
-### Page 8
-
-Australia’s Trade in Goods Account, April
-June 04 2026 • 5 mins
-#trade
-By Mantas Vanagas
-#aud #australia #interestrates #nzd #usd #newzealand #rates #credit
-#yieldcurve #acgb #inflation #semigovernment#rba #basis #commodities
-#ustreasury #fx #jpy #rbnz #abs Show more tags
-Browse topics
-
-### Page 9
-
-Disclaimer
-©2026 Westpac Banking Corporation ABN 33 007 457 141 (including where acting under any of its
-Westpac, St George, Bank of Melbourne or BankSA brands, collectively, “Westpac”).  References to
-the “Westpac Group” are to Westpac and its subsidiaries and includes the directors, employees and
-representatives of Westpac and its subsidiaries.
-
-### Page 10
-
-Conflicts of Interest: In the normal course of offering banking products and services to its clients, the
-Westpac Group may act in several capacities (including issuer, market maker, underwriter,
-distributor, swap counterparty and calculation agent) simultaneously with respect to a financial
-instrument, giving rise to potential conflicts of interest which may impact the performance of a
-financial instrument. The Westpac Group may at any time transact or hold a position (including
-hedging and trading positions) for its own account or the account of a client in any financial
-instrument which may impact the performance of that financial instrument.
-
-Author(s) disclaimer and declaration: The author(s) confirms that (a) no part of his/her
-compensation was, is, or will be, directly or indirectly, related to any views or (if applicable)
-recommendations expressed in this material; (b) this material accurately reflects his/her personal
-views about the financial products, companies or issuers (if applicable) and is based on sources
-reasonably believed to be reliable and accurate; (c) to the best of the author’s knowledge, they are
-not in receipt of inside information and this material does not contain inside information; and (d) no
-other part of the Westpac Group has made any attempt to influence this material.
-
-### Page 11
-
-appropriateness of the advice.
-
-New Zealand: In New Zealand, Westpac Institutional Bank refers to the brand under which
-products and services are provided by either Westpac (NZ division) or Westpac New Zealand
-Limited (company number 1763882), the New Zealand incorporated subsidiary of Westpac
-("WNZL"). Any product or service made available by WNZL does not represent an offer from
-Westpac or any of its subsidiaries (other than WNZL). Neither Westpac nor its other subsidiaries
-guarantee or otherwise support the performance of WNZL in respect of any such product. WNZL is
-not an authorised deposit-taking institution for the purposes of Australian prudential standards. The
-current disclosure statements for the New Zealand branch of Westpac and WNZL can be obtained
-at the internet address www.westpac.co.nz.
-
-Fiji: Unless otherwise specified, the products and services for Westpac Fiji are available from
-www.westpac.com.fj © Westpac Banking Corporation ABN 33 007 457 141. This information does
-not take your personal circumstances into account and before acting on it you should consider the
-appropriateness of the information for your financial situation. Westpac Banking Corporation ABN
-33 007 457 141 is incorporated in NSW Australia and registered as a branch in Fiji. The liability of
-its members is limited.
-
-Papua New Guinea: Unless otherwise specified, the products and services for Westpac PNG are
-available from www.westpac.com.pg © Westpac Banking Corporation ABN 33 007 457 141. This
-information does not take your personal circumstances into account and before acting on it you
-should consider the appropriateness of the information for your financial situation. Westpac Banking
-Corporation ABN 33 007 457 141 is incorporated in NSW Australia. Westpac is represented in
-Papua New Guinea by Westpac Bank - PNG - Limited. The liability of its members is limited.
-
-### Page 12
-
-ceta  ega agee e ts betee  estpac ad C  a d obgato s o C  do ot epeset
-liabilities of Westpac.
-
-The author of this communication is employed by Westpac and is not registered or qualified as a
-research analyst, representative, or associated person of WCM or any other U.S. broker-dealer
-under the rules of FINRA, any other U.S. self-regulatory organisation, or the laws, rules or
-regulations of any State. Unless otherwise specifically stated, the views expressed herein are solely
-those of the author and may differ from the information, views or analysis expressed by Westpac
-and/or its affiliates.
-
-UK: The London branch of Westpac is authorised in the United Kingdom by the Prudential
-Regulation Authority (PRA) and is subject to regulation by the Financial Conduct Authority (FCA)
-and limited regulation by the PRA (Financial Services Register number: 124586).  The London
-branch of Westpac is registered at Companies House as a branch established in the United
-Kingdom (Branch No. BR000106). Details about the extent of the regulation of Westpac’s London
-branch by the PRA are available from us on request.
-
-This communication is not being made to or distributed to, and must not be passed on to, the
-general public in the United Kingdom. Rather, this communication is being made only to and is
-directed at (a) those persons falling within the definition of Investment Professionals (set out in
-Article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 (the
-“Order”)); (b) those persons falling within the definition of high net worth companies, unincorporated
-associations etc. (set out in Article 49(2)of the Order; (c) other persons to whom it may lawfully be
-communicated in accordance with the Order or (d) any persons to whom it may otherwise lawfully
-be made (all such persons together being referred to as “relevant persons”). Any person who is not
-a relevant person should not act or rely on this communication or any of its contents. In the same
-way, the information contained in this communication is intended for “eligible counterparties” and
-
-### Page 13
-
-“professional clients” as defined by the rules of the Financial Conduct Authority and is not intended
-for “retail clients”.  Westpac expressly prohibits you from passing on the information in this
-communication to any third party.
-
-European Economic Area (“EEA”): This material may be distributed to you by either: (i) Westpac
-directly, or (ii) Westpac Europe GmbH (“WEG”) under a sub-licensing arrangement.  WEG has not
-edited or otherwise modified the content of this material. WEG is authorised in Germany by the
-Federal Financial Supervision Authority (‘BaFin’) and subject to its regulation.  WEG’s supervisory
-authorities are BaFin and the German Federal Bank (‘Deutsche Bundesbank’).  WEG is registered
-with the commercial register (‘Handelsregister’) of the local court of Frankfurt am Main under
-registration number HRB 118483.  In accordance with APRA’s Prudential Standard 222 ‘Association
-with Related Entities’, Westpac does not stand behind WEG other than as provided for in certain
-legal agreements (a risk transfer, sub-participation and collateral agreement) between Westpac and
-WEG and obligations of WEG do not represent liabilities of Westpac.  Any product or service made
-available by WEG does not represent an offer from Westpac or any of its subsidiaries (other than
-WEG). All disclaimers set out with respect to Westpac apply equally to WEG.
-
-This communication is not intended for distribution to, or use by any person or entity in any
-jurisdiction or country where such distribution or use would be contrary to local law or regulation.
+⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⽣活家 搜索
 
 ---
-## Document 212: Buckle up for some short-term housing turbulence (2026-08-22)
-
-Source PDF: all report pdf/Buckle up for some short-term housing turbulence (2026-08-22).pdf
-Report source: Westpac IQ
-Date: 2026-08-22
-Pages: 11
-Extraction status: ok
-
-### Page 1
-
-#australia #luciellis #rba #housing
-Buckle up for some short-term housing turbulence
-By Luci Ellis
-Chief Economist Westpac Group, Westpac
-12:33 August 07 2026 Share
-The housing market might be entering a short-term ‘air pocket’ but greater turbulence does
-not imply a crash.
-Tight monetary policy plus tax changes add up to a powerful combination weighing on the housing
-market. Credit remains readily available, but demand is weak. The various indicators point to a
-
-weaker near-term outlook for prices than the base-case projections we published in late June.
-
-### Page 2
-
-Since the Federal Budget in May, alarmist predictions about the housing market consequences of the
-announced tax changes have become commonplace. Recent interest rate rises, together with these
-changes, are clearly weighing on housing turnover and prices, leaving both buyers and sellers more
-uncertain.
-As the pandemic experience made clear, when fiscal and monetary policy work together, they make for
-a powerful combination. The current situation is an example: a tightening of tax policy affecting housing
-
-coinciding with tight monetary policy. Given housing is a notably interest-sensitive sector, the conditions
-are therefore in place for a weaker housing market. Importantly, though, this is not the same kind of
-policy shock as the prudential policy changes and Royal Commission response of the 2010s. Credit
-supply is not directly affected and remains readily available.
-There are, however, signs that things are turning out a bit weaker than our projections, released in late
-
-June. Housing price growth has turned down across all cities, with outright declines for most in the
-latest month; while we expected prices to move lower, the momentum is running a little ahead of our
-projections.
-How people interpret this weakness is an open question. In recent times, when prices have been
-expected to fall, consumers have seen this as meaning it is a less bad time to buy a home. This
-contrasts with the usual historical pattern when strong price growth was seen as heralding a good time
-
-to buy.
-A slightly-less-bad view of affordability as prices decline is not currently translating to buyer interest,
-though. The uncertainty around the effects of the tax changes could be inducing some negativity, or at
-least some divergence of views across the household sector, especially between investors and
-prospective owner-occupiers. Timely industry data show home loan credit enquiries have declined to
-levels last seen in late 2022 and are falling at a monthly pace of around 4%. This is broadly consistent
-
-with our forecast for turnover to decline by around 20% this year.
-Indicators of conditions in the physical market are also weaker. Auction clearance rates have fallen to
-previous cycle lows in Sydney and Melbourne. Turnover has declined sharply in most jurisdictions, and
-while new listings are also starting to move lower, they are falling more slowly than sales. As a result,
-stock on market is rising relative to the flow of sales and turning established housing into more of a
-
-“buyer’s market”. That said, the data also show notable divergences across cities, highlighting that
-local market conditions matter, and often differ materially.
-The RBA is expected to keep the cash rate on hold at its August meeting. This is an outworking of
-the better inflation outlook; the RBA was never likely to overreact to the fourth housing downturn in a
-decade. Targeting housing prices is not part of the central bank’s remit, and most of the softness will
-
-be seen as normal policy transmission.
-Looking beyond this year, a lower path for interest rates and earlier timing of subsequent rate cuts
-mean that any housing market downturn is likely to be relatively short-lived – an “air pocket”, not a
-crash.
-
-### Page 3
-
-While things seem a bit softer than we earlier projected, consider the starting point. In all major cities
-other than Melbourne, housing prices had run up considerably in recent years. A moderate decline
-would still leave prices notably higher than a few years ago. As the RBA has pointed out recently, the
-number of people in negative equity (home value below mortgage balance) is very low, and even a
-moderate decline in prices will not add much to this figure. While unemployment is forecast to drift up
-
-from here, this is mostly a story of job growth failing to keep pace with strong population growth and
-rising participation, not outright job losses. “Fire sales” by distressed borrowers are therefore unlikely to
-add downward pressure to housing prices while job prospects for mortgagors remain reasonable.
-Meanwhile, the grandfathering of tax changes means that current owners of investment properties
-have little incentive to sell, while owner-occupiers are also likely to want to stand back and avoid
-
-catching the “falling knife”. A period of low turnover is likely; this kind of thin market can result in prices
-being volatile, but it typically lacks the wave of distressed selling that is needed to induce large, self-
-reinforcing downward price spirals.
-RBA will not take fright
-The question then becomes how the RBA will respond. Will it see a softer housing market as simply the
-normal channel of policy transmission, or an additional shock with the potential for a more alarming
-
-over-correction? Some of the more dovish perspectives we have heard from customers tilt to the “over-
-correction” story, but in our view, the RBA was never likely to react strongly to the fourth housing
-downturn in a decade.
-The RBA’s mandate relates to inflation and full employment; housing prices are not a policy objective –
-and in any case, it is not obvious what such an objective would entail. Would a financial stability lens
-favour gently rising prices to avoid negative equity and loan distress? Or would an affordability lens
-
-favour declining prices? There are good reasons why Parliament has not charged the RBA with
-targeting housing prices, and good reasons why the housing element in the RBNZ’s mandate was
-dropped after a few years.
-As RBA officials have been at pains to point out, the Bank does not target housing prices but instead
-gleans information from them. Weak prices tend to induce weak turnover, which contributes to softer
-economic activity. Lower housing prices can over time induce negative wealth effects on consumption –
-
-though any period of decline must be set against earlier run-ups. How the housing market is performing
-tells the RBA something about how monetary policy is playing through the economy. Some softness is
-expected when interest rates are high; the question is whether that softness is greater or less than
-expected. The experience of 2018–19 shows that soft housing markets and weak growth in household
-incomes can weigh on consumption – and so inflation – more than expected. But recall that was when
-
-inflation and interest rates were already subdued, fiscal policy was contractionary and there were no
-offsetting boosts to demand from infrastructure, data centres, or other forms of investment.
-
-### Page 4
-
-Related articles
-We also note that, since our last published release of housing price forecasts in the late-June Housing
-Pulse, we have taken out the two RBA rate hikes we previously expected and brought forward the
-timing of the subsequent rate cuts from February 2028 to August 2027. A period of stability for rates in
-the near term might be enough to temper the downside risks in housing or even allow for some
-stabilisation. Whether this plays out will become clearer as we head into the spring selling season.
-
-In addition, earlier rate cuts mean the outlook for 2027 is a bit brighter than before, further supporting
-the idea that weakness this year is an “air pocket”, not a lasting downturn. We will formally revise our
-housing price forecasts in next week’s Market Outlook, after the RBA decision. Directionally, though,
-the story is near-term weakness in 2026, not a downturn stretching into 2027.
-Stay informed with Westpac IQ
-Get the latest reports straight to your inbox.
-
-Subscribe
-#australia
-
-### Page 5
-
-Australia and NZ Weekly 24 August 2026
-August 21 2026 • 10 mins
-By Luci Ellis , Matthew Hassan , Elliot Clarke &10 more
-Higher long bond yields stem from more than just one thing
-August 21 2026 • 4 mins
-#australia
-By Luci Ellis
-
-### Page 6
-
-Australia and NZ Weekly 17 August 2026
-August 17 2026 • 10 mins
-#australia
-By Luci Ellis , Matthew Hassan , Elliot Clarke &10 more
-#aud #australia #interestrates #nzd #usd #newzealand #rates #credit
-#yieldcurve #acgb #inflation #semigovernment#rba #basis #commodities
-#ustreasury #fx #jpy #rbnz #abs Show more tags
-Browse topics
-
-### Page 7
-
-Disclaimer
-©2026 Westpac Banking Corporation ABN 33 007 457 141 (including where acting under any of its
-Westpac, St George, Bank of Melbourne or BankSA brands, collectively, “Westpac”).  References to
-the “Westpac Group” are to Westpac and its subsidiaries and includes the directors, employees and
-representatives of Westpac and its subsidiaries.
-
-### Page 8
-
-Conflicts of Interest: In the normal course of offering banking products and services to its clients, the
-Westpac Group may act in several capacities (including issuer, market maker, underwriter,
-distributor, swap counterparty and calculation agent) simultaneously with respect to a financial
-instrument, giving rise to potential conflicts of interest which may impact the performance of a
-financial instrument. The Westpac Group may at any time transact or hold a position (including
-hedging and trading positions) for its own account or the account of a client in any financial
-instrument which may impact the performance of that financial instrument.
-
-Author(s) disclaimer and declaration: The author(s) confirms that (a) no part of his/her
-compensation was, is, or will be, directly or indirectly, related to any views or (if applicable)
-recommendations expressed in this material; (b) this material accurately reflects his/her personal
-views about the financial products, companies or issuers (if applicable) and is based on sources
-reasonably believed to be reliable and accurate; (c) to the best of the author’s knowledge, they are
-not in receipt of inside information and this material does not contain inside information; and (d) no
-other part of the Westpac Group has made any attempt to influence this material.
-
-### Page 9
-
-appropriateness of the advice.
-
-New Zealand: In New Zealand, Westpac Institutional Bank refers to the brand under which
-products and services are provided by either Westpac (NZ division) or Westpac New Zealand
-Limited (company number 1763882), the New Zealand incorporated subsidiary of Westpac
-("WNZL"). Any product or service made available by WNZL does not represent an offer from
-Westpac or any of its subsidiaries (other than WNZL). Neither Westpac nor its other subsidiaries
-guarantee or otherwise support the performance of WNZL in respect of any such product. WNZL is
-not an authorised deposit-taking institution for the purposes of Australian prudential standards. The
-current disclosure statements for the New Zealand branch of Westpac and WNZL can be obtained
-at the internet address www.westpac.co.nz.
-
-Fiji: Unless otherwise specified, the products and services for Westpac Fiji are available from
-www.westpac.com.fj © Westpac Banking Corporation ABN 33 007 457 141. This information does
-not take your personal circumstances into account and before acting on it you should consider the
-appropriateness of the information for your financial situation. Westpac Banking Corporation ABN
-33 007 457 141 is incorporated in NSW Australia and registered as a branch in Fiji. The liability of
-its members is limited.
-
-Papua New Guinea: Unless otherwise specified, the products and services for Westpac PNG are
-available from www.westpac.com.pg © Westpac Banking Corporation ABN 33 007 457 141. This
-information does not take your personal circumstances into account and before acting on it you
-should consider the appropriateness of the information for your financial situation. Westpac Banking
-Corporation ABN 33 007 457 141 is incorporated in NSW Australia. Westpac is represented in
-Papua New Guinea by Westpac Bank - PNG - Limited. The liability of its members is limited.
-
-### Page 10
-
-ceta  ega agee e ts betee  estpac ad C  a d obgato s o C  do ot epeset
-liabilities of Westpac.
-
-The author of this communication is employed by Westpac and is not registered or qualified as a
-research analyst, representative, or associated person of WCM or any other U.S. broker-dealer
-under the rules of FINRA, any other U.S. self-regulatory organisation, or the laws, rules or
-regulations of any State. Unless otherwise specifically stated, the views expressed herein are solely
-those of the author and may differ from the information, views or analysis expressed by Westpac
-and/or its affiliates.
-
-UK: The London branch of Westpac is authorised in the United Kingdom by the Prudential
-Regulation Authority (PRA) and is subject to regulation by the Financial Conduct Authority (FCA)
-and limited regulation by the PRA (Financial Services Register number: 124586).  The London
-branch of Westpac is registered at Companies House as a branch established in the United
-Kingdom (Branch No. BR000106). Details about the extent of the regulation of Westpac’s London
-branch by the PRA are available from us on request.
-
-This communication is not being made to or distributed to, and must not be passed on to, the
-general public in the United Kingdom. Rather, this communication is being made only to and is
-directed at (a) those persons falling within the definition of Investment Professionals (set out in
-Article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 (the
-“Order”)); (b) those persons falling within the definition of high net worth companies, unincorporated
-associations etc. (set out in Article 49(2)of the Order; (c) other persons to whom it may lawfully be
-communicated in accordance with the Order or (d) any persons to whom it may otherwise lawfully
-be made (all such persons together being referred to as “relevant persons”). Any person who is not
-a relevant person should not act or rely on this communication or any of its contents. In the same
-way, the information contained in this communication is intended for “eligible counterparties” and
-
-### Page 11
-
-“professional clients” as defined by the rules of the Financial Conduct Authority and is not intended
-for “retail clients”.  Westpac expressly prohibits you from passing on the information in this
-communication to any third party.
-
-European Economic Area (“EEA”): This material may be distributed to you by either: (i) Westpac
-directly, or (ii) Westpac Europe GmbH (“WEG”) under a sub-licensing arrangement.  WEG has not
-edited or otherwise modified the content of this material. WEG is authorised in Germany by the
-Federal Financial Supervision Authority (‘BaFin’) and subject to its regulation.  WEG’s supervisory
-authorities are BaFin and the German Federal Bank (‘Deutsche Bundesbank’).  WEG is registered
-with the commercial register (‘Handelsregister’) of the local court of Frankfurt am Main under
-registration number HRB 118483.  In accordance with APRA’s Prudential Standard 222 ‘Association
-with Related Entities’, Westpac does not stand behind WEG other than as provided for in certain
-legal agreements (a risk transfer, sub-participation and collateral agreement) between Westpac and
-WEG and obligations of WEG do not represent liabilities of Westpac.  Any product or service made
-available by WEG does not represent an offer from Westpac or any of its subsidiaries (other than
-WEG). All disclaimers set out with respect to Westpac apply equally to WEG.
-
-This communication is not intended for distribution to, or use by any person or entity in any
-jurisdiction or country where such distribution or use would be contrary to local law or regulation.
-
----
-## Document 213: Bản tin tuần 03_08 - 07_08 (2026-08-10)
+## Document 198: Bản tin tuần 03_08 - 07_08 (2026-08-10)
 
 Source PDF: all report pdf/Bản tin tuần 03_08 - 07_08 (2026-08-10).pdf
 Report source: KBSV (Weekly)
@@ -7150,446 +6151,7 @@ Email: info@kbsec.com.vn
 Website: www.kbsec.com.vn
 
 ---
-## Document 240: Eurozone pulls level with the US (2026-07-30)
-
-Source PDF: all report pdf/Eurozone pulls level with the US (2026-07-30).pdf
-Report source: BNP Paribas
-Date: 2026-07-30
-Pages: 1
-Extraction status: ok
-
-### Page 1
-
-Classification : Internal 
-Paris, 30 July 2026
-
-EcoFlash
-
-Eurozone pulls level with the US
-
-Both the Eurozone and the US grew 0.4% q/q in Q2 2026. For Europe, that is a welcome upside surprise: 
-growth landed in line with expectations (France, Germany) or above them (Eurozone overall, Spain, Italy), 
-even as the Middle East conflict delivered an energy -driven inflation shock. It confirms that European 
-growth rests on foundations solid enough to absorb this kind of shock. Country-level detail was incomplete 
-on the day, but manufacturing business sentiment held firm across the board in H1, underwritten by a set 
-of drivers (AI, defence, electrification, aerospace). US growth, by contrast, undershot expectations. But it 
-remained robust, powered by AI investment and accelerating household consumption. Both, however, drew 
-in imports fast enough to weaken the headline growth figure.
-
-France: growth led by aerospace, electrification and healthcare. The rebound we had flagged duly occurred 
-in Q2, at 0.2% q/q, as anticipated by our nowcast of July 23 (see our analysis). The main driver was aerospace 
-exports, which surged 20% q/q (0.9pp contribution) and erased their Q1 fall. Capital -goods exports (3.5% q/q) 
-climbed to a record high, propelled in particular by electrification, with final-demand tied to AI, defen ce, EVs and 
-energy. Household consumption told a similar story, as its rebound (0.2% q/q after -0.3% in Q1) was driven by 
-autos, and by EVs and hybrids in particular. Public consumption, meanwhile, remained a constant contributor – 
-0.4% q/q in Q2, and a 0.3% quarterly average since early 2023 – driven above all by healthcare, where an ageing 
-population acts as a structural tailwind. We expect GDP growth to extend into H2, with business investment turning 
-into a driver again. It stabilized in Q2 (0.1% q/q) after two quarters of decline, and INSEE’s industry survey showed 
-a clear rebound in the balance of opinion on investment intentions (18; 9pp above the July norm of the past two 
-years).
-
-Eurozone: growth delivered. Elsewhere in the euro area, the releases arrived without a demand breakdown, but 
-the aggregate numbers were good. Euro area growth (0.4% q/q in Q2) was above our nowcast (0.3%), with 
-country-level figures either in line with or above expectations. As a result, growth excluding Ireland (whose 
-GDP is highly volatile) is set to reach at least 1% in 2026. Germany confirmed its rebound, expanding 0.2% q/q 
-as anticipated by our nowcast, supported, according to Destatis, by exports. This marked a third consecutive quarter 
-of growth (revised up by 0.1pp in Q1 to 0.4%) and the first such streak since 2022. Spanish growth came in above 
-expectations, growing 0.7% q/q (consensus: 0.4%) as the business climate improved (composite PMI at a six -
-month high of 53.3 in June ). Italy also defied expectations, at 0.2% q/q versus our 0.1% forecast, and followed 
-an already-firm Q1 (0.3% q/q), this time on resilient domestic demand.
-
-United States: a slight disappointment on the surface, solid underneath. Q2 GDP growth slowed to 0.4% q/q, 
-short of the steady 0.55% forecast. The headline figure, however, masked strong momentum in final sales to 
-private domestic purchasers – still AI-fuelled – which climbed to its fastest since 2024, at 1.0% q/q (up 0.4pp). 
-Household consumption proved resilient to higher inflation, accelerating to 0.8% q/q (up 0.7pp) on fiscal support 
-and wealth effects. Business investment held at a solid 2.0 q/q (-0.8pp) as the AI-adjacent categories and the other 
-components rose together for the first time since Q3 2024. As anticipated, net trade was a drag, owing to import 
-growth (2.8% q/q), and the change in inventories subtracted too. The overall picture thus remains positive, and full-
-year GDP growth should improve in 2026, to around 2.4% (up 0.3pp).
-
-Stéphane Colliac 
-Head of the Advanced Economies Team, France 
-stephane.colliac@bnpparibas.com
-
-Anis Bensaidani 
-Economist, United States 
-anis.bensaidani@bnpparibas.com
-
----
-## Document 242: Fed holds rate in 9-3 vote
-
-Source PDF: all report pdf/Fed holds rate in 9-3 vote.pdf
-Report source: 渣打銀行 (Market Watch)
-Date: 2026-07-30
-Pages: 8
-Extraction status: ok
-
-### Page 1
-
-Fed holds rate in 9-3 vote 
-Summary 
-Event: The Fed held rates, as we expected, with 9 out of 12 
-policymakers opting to review more incoming data before 
-assessing whether a rate hike is required. This compares 
-with a unanimous decision to hold rates at the June meeting, 
-the first under new Chair Kevin Warsh. Going into th is 
-meeting, markets were pricing c. 35% probability that the Fed 
-would deliver a surprise rate hike last night. 
-Market reaction: Money markets pared back expectations of 
-a Fed rate hike by year-end by about 10bps, now pricing 33 
-bps in hikes. Lower market pricing of hikes dragged the US 
-2-year bond yield towards 4.22%, from 4.33%, before the 
-yield recovered some lost ground with higher oil prices. The 
-USD dropped about 0.5% along with lower short-term yields. 
-However, longer-term bond yields rose amid concerns Warsh 
-may be not fully committed to fighting inflation. The 10 -year 
-yield rose 5bps, but failed to break above 4.7%, while the 30-
-year yield jumped 10bps to 5.22%, its highest since 2007. US 
-equity markets initially rose, before losing ground amid some 
-disappointing earnings and as oil prices rose.  
-Investment strategy:  The Fed decision supports our view 
-that the Warsh-led Fed would prefer to wait for more data and 
-the outcome of Warsh’s task forces (reports expected by year 
-end) on ‘AI and productivity’ and more real -time economic 
-indicators before deciding on the future path of rates. We 
-expect the Fed to hold rates for the rest of year. We continue 
-to prefer 3-5-year maturities in bonds, where yields are likely 
-to fall as rate hikes are priced out. Inflation-protected bonds 
-remain our preferred hedge against oil-driven inflation risks.  
-Lower short -term US yields may support EUR, CHF, AUD 
-and Asian currencies  against the USD , while higher long -
-term yields and renewed oil risks could limit USD downside . 
-While rising long -term yields remain a headwind , equity 
-markets are likely to turn their focus to earnings. We believe 
-continued earnings beats and acceleration in AI monetisation 
-are likely to drive equity market outperformance in the second 
-half of this year.   
- US equities and long-term bonds fell on Wednesday 
-amid a rebound in crude oil prices and concern the Fed 
-is less committed to fighting inflation  
-Asset performance: 28-July close to 29-July close
-
-Source: Bloomberg, Standard Chartered
-
-We expect the Fed to hold rates for the rest of the year 
-and cut in H1 2027 as inflation gradually returns 
-towards its 2% target with the pullback in oil prices 
-US crude oil price, 1-year and 5-year inflation expectations
-
-Source: Bloomberg, Standard Chartered
-
--4.0 -2.0 0.0 2.0 4.0 6.0 8.0
-Nasdaq 100 (16.7)
-S&P 500 (14.8)
-Euro Stoxx 50 futures (16.2)
-US Ultra long bond (-4.7)
-USD (2.0)
-US 10-year bond (-2.3)
-US 2-year bond (-0.7)
-JPY/USD (-9.1)
-CHF/USD (-0.9)
-EUR/USD (-0.7)
-Gold (22.3)
-WTI crude oil (22.0)
-*12m returns 
-in bracket (%)       Price return (%)
-1-day
-performance
-84.5
-2.0
-2.3
-1.8
-2.3
-2.8
-3.3
-3.8
-40
-60
-80
-100
-120
-Jul-25 Nov-25 Mar-26 Jul-26
-%
-USD/bbl
-WTI oil
-1-year inflation swap (RHS)
-5-year breakeven inflation (RHS)
-
-### Page 2
-
-Standard Chartered Bank 
-WS Global CIO Office | 30 July 2026
-
-A more data-dependent Fed 
-No hawkish surprise.  The Fed hold doesn’t come as a 
-surprise to us. Coming into the meeting, markets were getting 
-a little jittery — pricing in around a 35% chance of a surprise 
-rate hike. That's up from just 10% a couple weeks ago. The 
-narrative in a segment of the market was about new Fed 
-Chair Kevin Warsh wanting to cement his inflation -fighting 
-credentials. But in the end, he convinced his colleagues to sit 
-tight and wait for more data before deciding anything for now. 
-Nine out of the 12 Fed policymakers voted to keep the policy 
-rate on hold, while three policymakers - Dallas Fed President 
-Logan, Cleveland Fed President Hammack and Minneapolis 
-Fed President Kashkari - dissented, voting for a hike.  
-Fundamentals argue for a hold. The overwhelming majority 
-decision to hold rates makes sense. The job market isn't 
-overheating; it's balanced after softening a bit in June. Core 
-inflation has been well -behaved too; core CPI came in flat  
-m/m in June. Wage growth, the main determinant of medium-
-to-long-term inflation, is slowing. Oil prices, despite day -to-
-day volatility tied with Middle East headlines, have cooled off 
-back into that USD 70-90/bbl range. So there was no urgent 
-reason for the Fed to pull the trigger. 
-The post-meeting Fed statement noted: “Economic activity is 
-expanding at a solid pace despite elevated uncertainty that 
-owes, in part, to the conflict in the Middle East. Productivity 
-growth and capital investment are strong. Job gains have 
-kept pace with the workforce, and the unemployment rate has 
-changed little.” 
-Nevertheless, the Fed statement and Warsh in his post -
-meeting comments acknowledged still -elevated inflation, 
-which it partly ascribed to supply shocks, especially in the 
-energy sector. Warsh reiterated “the committee will deliver 
-price stability” and aim to get inflation back down to the 
-central bank’s 2% target. This is similar to Warsh's playbook 
-from his first meeting. That matters, because just talking 
-tough had already tightened financial conditions and pushed 
-up short-term bond yields: tighter financial conditions reduces 
-the need for the Fed to actually having to hike.  
-Nevertheless, this strategy can’t be pushed too far, as the 
-latest reaction from longer -term bonds shows. Ultimately, 
-incoming data will determine long-term inflation expectations. 
-While they remain anchored for now, the Fed will have to act 
-if incoming da ta show the job market (and wage growth) is 
-heating up again, or oil prices stay higher for longer, adding 
-to ‘techflation’ pressures. We remain sceptical, given the 
-impact of AI on job creation and our base scenario that oil 
-prices are likely to trade in the USD 70-90/bbl range.
-
-Money markets pushed up Fed rate hike expectations 
-ahead of the July policy meeting 
-Money market estimates of Fed rates by Dec 2026 and 
-June 2027
-
-Source: Bloomberg, Standard Chartered
-
-US job creation, core consumer inflation and wage 
-growth have slowed over the past couple of years, 
-reducing the urgency for Fed rate hikes 
-US monthly non-farm payrolls, core consumer inflation and 
-average hourly earnings growth
-
-Source: Bloomberg, Standard Chartered
-
-4.0
-4.1
-2.0
-2.5
-3.0
-3.5
-4.0
-4.5
-Jul-25 Oct-25 Jan-26 Apr-26 Jul-26
-%
-Expectations for Fed rate by Dec 26
-Expectations for Fed rate by Jun 27
-57
-2.6
-3.5
-0.0
-2.0
-4.0
-6.0
-8.0
-10.0
--200
-0
-200
-400
-600
-800
-1000
-Jun-21 Feb-23 Oct-24 Jun-26
-% y/y
-000s
-US nonfarm payrolls
-US core consumer price inflation (RHS)
-US average hourly earnings (RHS)
-
-### Page 3
-
-Standard Chartered Bank 
-WS Global CIO Office | 30 July 2026
-
-Investment implications  
-On equities: A straight-up hold is neutral -to-positive for 
-equities, as the initial reaction in equity markets showed. 
-Some (though not all) of those July rate -hike fears just g ot 
-pushed out to September or Q4 . Although rising long -term 
-bond yields remain a headwind, the spotlight is likely to swing 
-back to Q2 corporate earnings. So keep an eye on US 
-corporate earnings in the coming days  to see whether 
-earnings are broadening beyond the tech sector, as we 
-expect. That is likely to be the market’s fundamental support. 
-On bonds : T he Fed’s rate hold dragged short -term US 
-government bond yields lower as markets pared back rate 
-hike expectations by year -end. However, longer -term bond 
-yields rose after the meeting amid concerns Warsh is not fully 
-committed to fighting inflation. Nevertheless, investor 
-positioning is extremely bearish, which is likely to limit further 
-rise in yields.  
-The 10-year yield is likely to face strong resistance around 
-last year’s high of 4.8%. However, if Middle East tensions de-
-escalate and oil falls in the coming months, the 10-year yield 
-could break below 4.60%, triggering some short -covering, 
-potentially dragging the yield down to the 4.25 to 4.5% zone. 
-US inflation protected bonds are particularly attractive , 
-especially as a hedge against energy -price driven inflation, 
-with the real (inflation-adjusted) 10-year yield at 2.4%, close 
-to the highest since 2008. 
-On the dollar : The Fed’s clear 9 –3 decision to hold rates 
-reduced expectations of an immediate rate hike and 
-weakened the USD, but it did not mark a clear dovish policy 
-shift. Investor positioning on the USD has been super-bullish, 
-around the 85th percentile. So , a Fed hold sparked some 
-position-squaring. Lower short -term US yields may support 
-EUR, CHF, AUD and Asian currencies, while higher long -
-term yields and renewed oil risks could limit further USD 
-downside. The BoJ policy decision tomorrow is likely the next 
-major catalyst for global FX markets. 
-—  Rajat Bhattacharya, Senior Investment Strategist 
-US Q2 earnings growth estimates have been revised 
-sharply higher heading into the earnings season 
-Consensus estimates of MSCI US earnings growth y/y
-
-Source: Bloomberg, Standard Chartered
-
-US real yields are approaching their highest level in 
-almost two decades  
-US 10-year real (net-of-inflation) bond yield
-
-Source: Bloomberg, Standard Chartered
-
-US interest-rate differential vs its largest trade partners 
-has stalled around the five-year average; we see 
-modest downside risk in USD in the next 12 months 
-USD index (DXY), weighted interest rate differentials and 
-five-year average
-
-Source: Bloomberg, Standard Chartered
-
-0%
-5%
-10%
-15%
-20%
-25%
-30%
-35%
-Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4
-2025 2026 2027
-Earnings growth
-Actual Estimated 3-months ago
-2.4
-2.5
--2.0
--1.0
-0.0
-1.0
-2.0
-3.0
-4.0
-Jan-07 Mar-13 May-19 Jul-25
-%
-US 10-year real yield 2023 highs
-101.5
-101.9
-101.5
-99
-1.3
-1.5
-0.4
-0.9
-1.4
-1.9
-2.4
-88
-92
-96
-100
-104
-108
-112
-116
-Jul-21 Jul-23 Jul-25 Jul-27
-%
-DXY
-DXY
-DXY 5y average
-Forecast DXY
-DXY weighted interest rate differentials (RHS)
-5y average (rate)
-
-### Page 4
-
-Standard Chartered Bank 
-WS Global CIO Office | 30 July 2026
-
-4
-
-### Page 5
-
-Standard Chartered Bank 
-WS Global CIO Office | 30 July 2026
-
-5
-
-### Page 6
-
-Standard Chartered Bank 
-WS Global CIO Office | 30 July 2026
-
-6
-
-### Page 7
-
-Standard Chartered Bank 
-WS Global CIO Office | 30 July 2026
-
-7
-
-### Page 8
-
-Standard Chartered Bank 
-WS Global CIO Office | 30 July 2026
-
-8
-
-license to undertake such activities. For Islamic transactions, we are acting under the supervision of our Shariah Supervisor y 
-Committee. Relevant information on our Shariah Supervisory Committee is currently available on the Standard Chartered Bank 
-website in the Islamic banking section. For residents of the UAE – Standard Chartered UAE (“SC UAE”) is licensed by the Central 
-Bank of the U.A.E. SC UAE is licensed by Securities and Commodities Authority to practice Promotion Activity. SC UAE does 
-not provide financial analysis or consultation services in or into the UAE within the meaning of UAE Securities and Commodities 
-Authority Decision No. 48/r of 2008 concerning financial consultation and financial analysis. Uganda: Our Investment products 
-and services are distributed by Standard Chartered Bank Uganda Limited, which is licensed by the Capital Markets Authority as  
-an investment adviser. United Kingdom : In the UK, Standard Chartered Bank is authorised by the Prudential Regulation 
-Authority and regulated by the Financial Conduct Authority and Prudential Regulation Authority. This communication has been 
-approved by Standard Chartered Bank for the purposes of Section 21 (2) (b) of the United Kingdom’s Financial Services and 
-Markets Act 2000 (“FSMA”) as amended in 2010 and 2012 only. Standard Chartered Bank (trading as Standard Chartered Global 
-Private Bank) is also an authorised financial services provider (license number 45747) in terms of the South African Financia l 
-Advisory and Intermediary Services Act, 2002. The Materials have not been prepared in accordance with UK legal requirements 
-designed to promote the independence of investment research, and that it is not subject to any prohibition on dealing ahead o f 
-the dissemination of investment research. Vietnam: This document is being distributed in Vietnam by, and is attributable to, 
-Standard Chartered Bank (Vietnam) Limited which is mainly regulated by State Bank of Vietnam (SBV). Recipients in Vietnam 
-should contact Standard Chartered Bank (Vietnam) Limited for any queries regarding any content of this document. Zambia: This 
-document is distributed by Standard Chartered Bank Zambia Plc, a company incorporated in Zambia and registered as a 
-commercial bank and licensed by the Bank of Zambia under the Banking and Financial Services Act Chapter 387 of the Laws of 
-Zambia.
-
----
-## Document 248: Gen1.5 模型带来重要进展：物理 AI 正在接近 GPT3 时刻
+## Document 226: Gen1.5 模型带来重要进展：物理 AI 正在接近 GPT3 时刻
 
 Source PDF: all report pdf/Gen1.5 模型带来重要进展：物理 AI 正在接近 GPT3 时刻.pdf
 Report source: WallstreetCN (Global)
@@ -7819,685 +6381,727 @@ scaling 曲线，已经开始显现。
 表情 发布评论
 
 ---
-## Document 282: OPEC有志７ヵ国､９月の増産合意で自主減産の解除完了へ ～今後は協調減産の行方に注目も､結束維持と価格安定の間で難しい舵取りが続く～
+## Document 257: QE速報：2026年4-6月期の実質ＧＤＰは前期比0.3％（年率1.1％）－3四半期連続のプラス成長だが、内容は非常に悪い
 
-Source PDF: all report pdf/OPEC有志７ヵ国､９月の増産合意で自主減産の解除完了へ ～今後は協調減産の行方に注目も､結束維持と価格安定の間で難しい舵取りが続く～.pdf
-Report source: DLRI
-Date: 2026-08-03
-Pages: 3
-Extraction status: ok
-
-### Page 1
-
-World Trends
-
-2026 年 8 月 3 日
-
-1/3 
-OPEC 有志７ヵ国､９月の増産合意で自主減産の解除完了へ 
-～今後は協調減産の行方に注目も､結束維持と価格安定の間で難しい舵取りが続く～ 
- 経済調査部 主席エコノミスト  西濵 徹 
-（℡：050-5474-7495）
-
-（要旨） 
-○ OPEC プラスの有志７ヵ国は、８月２日に開催した閣僚会合で、９月も日量 18.8 万バレルの
-増産を続けることで合意した。 これにより、2023 年に決定した日量165 万バレルの自主減産
-は９月末で解除が完了する。ただし、イラン情勢やウクライナ戦争の激化に伴う輸出混乱に
-より、実際の生産量は生産枠を大幅に下回っており、増産の多くは名目上にとどまる。 
-○ ＵＡＥの OPEC 脱退後、OPEC プラスは世界の石油生産に占めるシェアや余剰生産能力を低下
-させたものの、サウジアラビアは小幅な増産を通じて価格形成への影響力を維持しようとし
-ている。一方、イラン情勢の再緊迫化に加え、フーシ派によるバブ・エル・マンデブ海峡封
-鎖のリスクも浮上しており、当面は供給懸念が原油価格の上昇圧力となる可能性が高い。 
-○ さらに、原油価格が多くの加盟国の財政均衡水準を上回るなか、イラクが生産枠の引き上げ
-を求めるなど、加盟国間では増産圧力が強まっている。イラン情勢が沈静化すれば供給過剰
-に転じる可能性もあり、OPEC プラスは枠組みの結束維持と原油価格の安定の両立という難し
-い対応を迫られている。
-
-【有志７ヵ国は９月も日量18.8 万バレルの増産合意､自主減産の解除が完了】 
-主要産油国の枠組みである OPEC プラスの有志７ヵ国（サウジアラビア、ロシア、イラク、クウ
-ェート、カザフスタン、アルジェリア、オマーン）は、８月２日にオンラインで閣僚会合を開催し
-た。有志国会合を巡っては、 その一角を担っていたＵＡＥ （アラブ首長国連邦）が５月１日付でOPEC
-（石油輸出国機構）を脱退しており、今回は同国を除く７ヵ国体制による４度目の会合となる。 
-イラン情勢の悪化による原油価格の急騰を受けて、 ＵＡＥを含む有志８ヵ国は４月、 ５月と２ヵ
-月連続で日量20.6 万バレルの増産で合意した。しかし、ＵＡＥのOPEC からの離脱により、世界の
-石油生産量に占める OPEC プラスのシェアは 45％となり、それ以前に比べて３pt 程度低下した。
-OPEC プラス全体としての余剰生産能力も約２割低下しており、需給調整能力の低下が懸念された。 
-このため、ＵＡＥを除く有志７ヵ国は、OPEC プラスとしての協調体制を維持すべく、 ６月から３
-ヵ月連続でＵＡＥの増産分を除いた分に相当する日量 18.8 万バレルの増産を実施してきた。足元
-では、 イラン情勢を巡る不透明感を理由に原油価格は高止まりしており、 一部の国にとっては財政
-
-### Page 2
-
-2/3 
-均衡水準を上回る水準で推移している。９月についても、過去３ヵ月と同じ日量 18.8 万バレルの
-増産で合意した。背景には、世界需要の 0.2％程度に相当する小幅増産を容認する一方で、枠内の
-盟主であるサウジ アラビアが主導する生産調整を通じて価格形成面で の影響力を維持したい思惑
-がうかがえる。
-
-【イラン情勢は見通せず､供給懸念が原油価格を押し上げる展開が続く】 
-今回の決定により、９月末には 2023 年に有志７ヵ国が合意した日量 165 万バレルの自主減産の
-段階的解除が完了することになる。しかし、地政学リスクの高まりに加え、ウクライナ戦争も激化
-するなか、足元では湾岸産油国のみならず、ロシアやカザフスタンの輸出も混乱しており、増産の
-大半は名目上のものにとどまる。６月時点における有志７ヵ国の産油量の合計は日量2,299 万バレ
-ルとイラン情勢の悪化前の２月時点（2,931 万バレル）を大きく下回るとともに、生産枠に対して
-も約 750 万バレル低い水準にとどまる。 一方、OPEC から脱退したＵＡＥによる増産のほか、 米国な
-ど湾岸以外の産油国も増産の動きを強めている。 しかし、 全体としての産油量はイラン情勢が悪化
-する前を下回っている。 
-さらに、足元ではイラン情勢が再びエ
-スカレートしているうえ、イエメンの親
-イラン勢力（フーシ派）が紅海とアデン
-湾をつなぐ海上輸送の要衝であるバブ・
-エル・マンデブ海峡の封鎖を示唆する動
-きもみられる （注１） 。 トランプ米大統領
-がイランに対する攻撃計画の見送りに
-加え、 イランと合意期限を設けず協議を
-行う方針を表明しており、 原油価格の上
-昇の動きに一服感が出ている （図１） 。 し
-かし、イラン情勢は見通しが立たない状
-況が続いているうえ、足元ではバブ・エル・マンデブ海峡が「第２のホルムズ海峡」と化すリスク
-も高まっており、当面の原油価格は供給懸念が上昇圧力につながる展開が予想される。
-
-【OPECプラスに綻びのリスクも、供給面で様々な懸念要因が残る展開】 
-OPEC プラス全体としては、2022 年に合意した日量200 万バレルの協調減産を2026 年末まで維持
-する方針を示しているが、 今後はその扱いに関する議論が活発化すると予想される。ＵＡＥによる
-OPEC 脱退と増産を受けて、 枠内の結束にほころびが生じるリスクは残る。報道によれば、 イラクが
-OPEC による生産枠の大幅引き上げを要望し、仮に受け入れられなければ脱退を検討していること
-
-注１ ７月28 日付レポート「米国の攻撃停止でトランプ氏の思惑通りイラン情勢は平常化するか」 
-  （https://www.dlri.co.jp/report/macro/634702.html） 
-図 1 原油価格の推移
-
-（出所）LSEG より第一ライフ資産運用経済研究所作成
-
-### Page 3
-
-経済研究所が信ずるに足ると判断した情報に基づき作成していますが、その正確性、完全性に対する責任は負いません。見通しは予告
-なく変更されることがあります。また、記載された内容は、第一生命保険ないしはその関連会社の投資方針と常に整合的であるとは限
-りません。
-3/3
-が明らかになっている。
-こうした動きの背景には、 加盟国間における原油価格の財政均衡水準が異なることがある。 足元
-の原油価格は多くの国で財政均衡水準を上回っており、各国が増産に動く誘因は高まっている。仮
-に増産に向けた圧力が一段と強まれば、 金融市場では原油の過剰供給を懸念する向きが強まること
-も予想される。閣僚会合前には、年末にかけて増産を停止するとの見方が出ていたものの、声明で
-は言及がなされておらず、 加盟国間の隔たりを理由に意見集約が困難であることが示唆される。 一
-方で、同日に開催された共同閣僚監視委員会（JMMC）では、イラン情勢の悪化以降におけるエネル
-ギー関連施設への攻撃への懸念があらためて示され、 修復に費用と時間を要するなど供給に影響が
-
-及ぶと指摘された。 仮にイラン情勢の沈静化が進めば、 一転して供給過剰状態となる可能性も考え
-られ、OPEC プラスとしては枠組みの結束と原油価格の安定の間で難しい舵取りを迫られる展開が
-続くであろう。
-以 上
-
----
-## Document 298: SK海力士首次赴日建厂，海外制造版图由中美拓展至日本
-
-Source PDF: all report pdf/SK海力士首次赴日建厂，海外制造版图由中美拓展至日本.pdf
-Report source: WallstreetCN (Global)
-Date: 2026-08-21
-Pages: 2
-Extraction status: ok
-
-### Page 1
-
-⻛险提⽰及免责条款
-市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
-SK 海⼒⼠拟投资数⼗万亿韩元在⽇本宫城县新建内存晶圆⼚，成为第三家赴⽇建⼚的外
-企。该计划系国内产能外的增量布局，旨在紧平衡下抢占先机，但⾯临美⽅要求加码与韩
-国国内政治舆论的双重考验。
-摘要：
-SK 海⼒⼠正寻求在⽇本宫城县建设内存半导体⼯⼚，投资规模达数⼗万亿韩元，将成为继美
-光、台积电之后在⽇本设⽴半导体制造基地的第三家外国企业。
-据韩国媒体《韩⺠族⽇报》 21 ⽇报道，SK 海⼒⼠正推进在本州岛东北地区宫城县建设内存半导
-体晶圆⼚计划。SK 集团会⻓崔泰源近期已亲赴该地区考察。宫城县是⽇本政府重点培育的三⼤
-半导体产业基地之⼀，另外两处为九州和北海道。
-此次⽇本投资计划⼀旦落地，将进⼀步复杂化 SK 海⼒⼠的全球资本分配格局。在此之前，美国
-已就本⼟内存晶圆⼚投资问题持续向韩国政府及企业施压，⽇本建⼚计划的推进预计将令美⽅
-
-要求进⼀步加码。与此同时，韩国国内舆论对战略性半导体产业向⽇本转移的警惕情绪，以及
-随之⽽来的政治不确定性，亦构成该计划⾯临的潜在阻⼒。
-数⼗万亿韩元投⼊，宫城县成⽇本⾸个制造据点
-据报道， SK 海⼒⼠此次在宫城县规划建设的晶圆⼚，投资规模为数⼗万亿韩元。与其在国内推
-进中的⽤仁、湖南半导体集群数百万亿韩元的投资体量相⽐，⽇本⼯⼚定位为规模相对较⼩的
-海外⽣产基地。
-值得注意的是，宫城县⼯⼚并⾮对国内投资计划的替代，⽽是在⽤仁、湖南集群项⽬按原计划
-推进的同时，额外增设的海外产能。外界普遍认为，此举旨在全球内存供需持续偏紧的背景
-下，通过超前投资扩⼤⽣产能⼒，抢占市场先机。
-若该计划最终落实， SK 海⼒⼠将成为继美光、台积电之后，第三家在⽇本建有半导体制造⼯⼚
-的外国企业。⽬前，三星电⼦在⽇本横滨仅设有⼀处次世代半导体封装研发中⼼，尚⽆本地量
-产布局。
-美国压⼒与国内政治构成双重变数
-⽇本投资计划的推进，正值美国加⼤⼒度游说韩国在本⼟建设内存晶圆⼚之际。分析⼈⼠指
-出，SK 海⼒⼠赴⽇建⼚的消息⼀旦坐实，可能进⼀步激化美⽅对韩国企业优先投向⽇本⽽⾮美
-
-国的不满情绪，并促使美国在双边谈判中提出更⾼要求。
-与此同时，韩国国内对于将半导体这⼀核⼼战略产业的⽣产能⼒向⽇本输出，历来存在较为敏
-感的舆论反应。围绕该议题的政治不确定性，将是 SK 海⼒⼠推进这⼀计划必须跨越的另⼀道⻔
-槛。
-如何在⽇本产能扩张、美国本⼟化压⼒与国内政治考量之间寻求平衡，将是 SK 海⼒⼠乃⾄整个
-韩国半导体⾏业在全球产能布局上⾯临的核⼼挑战。
-⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⽣活家 搜索
-
-### Page 2
-
-21 收藏 分享到 :
-写评论
-图⽚
-限免
-请发表您的评论
-表情 发布评论
-
----
-## Document 335: 【主要貨幣攻略】美日聯手干預匯市，美元回檔
-
-Source PDF: all report pdf/【主要貨幣攻略】美日聯手干預匯市，美元回檔.pdf
-Report source: CTBC
-Date: 2026-08-05
-Pages: 8
-Extraction status: ok
-
-### Page 1
-
-不做任何擔保，如有錯漏或疏忽，本行並不負任何法律責任。任何人因信賴此等資料而做出或改變投資決策，應審慎衡量本身之需求及投資之風險，並就投
-資結果自行負責。未經本公司許可，本資料及訊息不得逕行抄錄、翻印或另作派發。本行以上市場資訊與分析，不涉及特定投資標的之建議。
-分析師／邱日宏
-研究範疇／美元 /歐元 /日圓 /英鎊 /瑞郎 /台幣
-主要貨幣投資攻略
-出 刊 日 : 2026/8/5
-熱門議題 / 投資關鍵
-《聯準會貨幣政策從前瞻指引轉向聚焦數據，通膨放
-緩降低升息壓力》
-6月新任聯準會主席華許第一次主持會議，美國貨幣
-政策引導框架的變化帶動美元指數創1年新高，但隨
-後因數據轉弱而拉回。利率預估點陣圖有9位委員支
-持今年升息 ，聯準會政策討論方向從 「何時降息 」
-轉變為 「是否需要升息 」。7月30日利率會議罕見
-出現3位委員支持升息，加上華許會後記者會市場偏
-向鷹派解讀，市場重新調整政策預期。華許在會後
-市場投資展望
-資產 3Q26看法 投資展望
-美元指數 DXY 97 美日聯手干預匯市，加上通膨回落降低升息預期，美元走弱
-
-歐元 EURUSD 1.2 基本面支持ECB升息，美歐利差收斂提供歐元支撐(預期9月升息一碼)
-英鎊 GBPUSD 1.37 政府政策能見度低，數據面雖改善但不如歐元區，削弱英鎊投資吸引力
-瑞郎 USDCHF 0.8 瑞士總體經濟面有所改善，0利率環境繼續壓抑瑞郎
-日圓 USDJPY 158 財政擴張政策與持續刺激措施影響下，市場對債務負擔的疑慮升高。留
-意短線政府干預匯市動能
-• 全球：聯準會貨幣政策從前瞻指引轉
-向聚焦數據，通膨放緩降低升息壓力 P1
-• 歐洲：歐元區7月維持利率不變 P3
-• 英鎊：英國央行維持利率不變 P4
-• 瑞郎：美國新一輪關稅衝擊瑞郎 P5
-• 日圓：美日聯手阻貶帶動日圓反彈 P6
-重點摘要
-1
-美日聯手干預匯市，美元回檔
-本月關鍵圖表
-資料來源：Bloomberg，中國信託商業銀行整理，2026/8
-美元指數 & 美國隔夜指數交換利率隱含年底升降
-息碼數(1碼=0.25%)
-97
-98
-99
-100
-101
-102
--1
-0
-1
-2
-3
-2026/4 2026/5 2026/6 2026/7
-
-2026年12月 美元指數(右軸)
-
-### Page 2
-
-不做任何擔保，如有錯漏或疏忽，本行並不負任何法律責任。任何人因信賴此等資料而做出或改變投資決策，應審慎衡量本身之需求及投資之風險，並就投
-資結果自行負責。未經本公司許可，本資料及訊息不得逕行抄錄、翻印或另作派發。本行以上市場資訊與分析，不涉及特定投資標的之建議。
-強調2％即是唯一目標，不存在默許更高通膨的可能。
-同時，華許不支持量化寬鬆政策 ，並認為貨幣政策
-應回歸基本面 。華許推崇格林斯潘的數據驅動與戰
-略模糊溝通策略 ，主張放棄前幾任主席建立的詳細
-指引。政策框架轉變意味未來利率決策將更依賴經
-濟數據表現 ，而非依循明確前瞻指引 。貨幣政策實
-施方針的轉變代表雙率價格對數據的反應將加大 。
-美元方面，美元於6月反彈後轉弱 ，主因7月公布的
-PMI及就業數據不如預期，帶動美元回落，而7月底
-美元的弱勢則來自於日圓急升帶動非美貨幣反彈行
-情。短線市場將繼續消化美日聯手干預匯市動作 ，
-美元再度走弱。整體而言，美國基準利率3.5-3.75%
-已偏中性區間上緣 ，而通膨已隨油價從高檔回落而
-有所舒緩 ，本行預期美國貨幣政策持穩 。美元區間
-
-震盪環境下可留意非美貨幣投資契機。
-重點摘要
-• 短線市場將繼續消化美日聯手
-干預匯市動作
-• 美元區間震盪環境下可留意非
-美貨幣投資契機
-2
-0
-1
-2
-3
-09/16/2026
-10/28/2026
-12/09/2026
-01/27/2027
-03/17/2027
-04/28/2027
-06/09/2027
-8/3 7/3
-美國升息預期小幅上升
-美國隔夜指數交換利率隱含升降息碼數(1碼=0.25%)
-資料來源：Bloomberg，中國信託商業銀行整理，2026/8
-美國通膨疫情以來首度月比負值
-美國消費者物價指數月增率%
-資料來源：Bloomberg，2026/6，中國信託商業銀行整理，2026/8
--1
--0.5
-0
-0.5
-1
-1.5
-2020 2021 2022 2023 2024 2025 2026
-
-### Page 3
-
-不做任何擔保，如有錯漏或疏忽，本行並不負任何法律責任。任何人因信賴此等資料而做出或改變投資決策，應審慎衡量本身之需求及投資之風險，並就投
-資結果自行負責。未經本公司許可，本資料及訊息不得逕行抄錄、翻印或另作派發。本行以上市場資訊與分析，不涉及特定投資標的之建議。
-重點摘要
-備註:ECB(歐洲央行)
-• 歐元區數據優於市場預期
-• 7月23日ECB維持存款利率
-2.25%
-• 歐元年底目標價維持1.21
-3
-資料來源：ZEW、European Commission、2026/7，中國信託商業銀行整理，2026/8
-歐洲領先指標回升
-資料來源：Bloomberg，中國信託商業銀行整理，2026/8
-市場預期ECB升息1碼
-歐元區隔夜指數交換利率隱含升降息碼數(1碼=0.25%)
-《歐元投資關鍵-歐元區7月維持利率不變》
-歐元區6月升息一碼後7月23日維持利率不變。中東
-衝突對歐元區短期經濟成長前景構成壓力 ，不確定
-性削弱購買力和信心 。然而從近期數據可見 ，歐元
-區消費信心 、PMI、德國工廠訂單及工業生產數據
-
-均有所好轉 ，花旗經濟驚奇指數持續向上 ，代表歐
-元區公布之數據優於市場預期 ，歐元區景氣逐步回
-穩。整體而言，7月23日ECB利率會議維持存款利率
-2.25%，拉加德表示 ，通膨前景存在上行風險 ，貨
-幣政策決定聲明暗示9月將再次升息，ECB強調大宗
-商品價格飆升對通膨的間接影響 ，ECB仍傾向審慎
-應對通膨風險 。美伊地緣政治不確定性再度造成歐
-系貨幣回檔 ，但在基本面繼續支持 ECB升息的環境
-下，預計美歐利差收斂將提供歐元支撐 。年底目標
-價維持1.21。
-0
-1
-2
-3
-09/10/20
-26
-10/29/20
-26
-12/17/20
-26
-02/04/20
-27
-03/18/20
-27
-04/29/20
-27
-8/3 7/3
-德國ZEW經濟信心 &歐元區/歐盟消費者信心
--100
--50
-0
-50
-100
-2020
-2021
-2022
-2023
-2024
-2025
-2026
--150
--100
--50
-0
-50
-100
-2023/4 2024/4 2025/4 2026/4
-資料來源：Bloomberg、2026/8，中國信託商業銀
-
-行整理，2026/8
-歐洲花旗經濟驚奇指數
-
-### Page 4
-
-不做任何擔保，如有錯漏或疏忽，本行並不負任何法律責任。任何人因信賴此等資料而做出或改變投資決策，應審慎衡量本身之需求及投資之風險，並就投
-資結果自行負責。未經本公司許可，本資料及訊息不得逕行抄錄、翻印或另作派發。本行以上市場資訊與分析，不涉及特定投資標的之建議。
-重點摘要
-• 沒出現第二輪通膨效應
-• PMI創4個月低點
-• 維持英鎊中性評等，英鎊兌美
-元年底目標1.37
-4
-《英鎊投資關鍵-英國央行維持利率不變》
-7月30日英國央行以 6:3票數將利率維持在 3.75%不
-變，其中3票為支持升息 。利率期貨目前顯示 9月繼
-續維持利率不變 ，市場預期升息時點接近年底 。部
-分委員表示 ，有明顯跡象顯示國內通膨壓力正在緩
-解，目前沒有出現第二輪通膨效應的證據 。英國央
-行不急於升息 ，短線貨幣政策暫時不支持英鎊反彈 。
-經濟數據方面，英國7月製造業景氣持續擴張，製造
-業PMI由6月的52.5降至51.9，雖創4個月低點 ，但
-已連續9個月高於50榮枯線。製造業產出連續第4個
-月成長，且增速升至近兩年高點 。新訂單與出口訂
-
-單連續8個月增加。同時，投入成本通膨顯著降溫至
-5個月低點。然而，企業信心降至3個月低點，市場
-仍憂心全球貿易緊張 ，同時7月20日新首相正式就
-任，企業擔憂加稅及監管變動帶來的不確定性 。就
-業增長趨緩，但積壓訂單4年多來首次增加，顯示未
-來數月製造業招聘需求仍有回升空間 。整體而言，
-英國貨幣政策短線持穩 ，而經濟數據面則小幅改善 ，
-但財政政策不確定性風險大幅削弱英鎊的投資誘因 ，
-維持英鎊中性評等，英鎊兌美元年底目標1.37。
-市場升息預期小幅下降
-英國隔夜指數交換利率隱含升降息碼數(1碼=0.25%)
-資料來源：Bloomberg，中國信託商業銀行整理，2026/8
-英國PMI製造業指數
-資料來源：S&P Global，2026/8，中國信託商業銀行
-整理，2026/8
-0
-1
-2
-3
-09/17/2026
-11/05/2026
-12/17/2026
-02/04/2027
-03/18/2027
-04/29/2027
-06/17/2027
-8/3 7/3
-製造業活動擴張動能趨緩
-
-### Page 5
-
-不做任何擔保，如有錯漏或疏忽，本行並不負任何法律責任。任何人因信賴此等資料而做出或改變投資決策，應審慎衡量本身之需求及投資之風險，並就投
-資結果自行負責。未經本公司許可，本資料及訊息不得逕行抄錄、翻印或另作派發。本行以上市場資訊與分析，不涉及特定投資標的之建議。
-重點摘要
-• 美國對瑞士實施新一輪關稅
-• 瑞士CPI創4個月低點
-• 2H26美元兌瑞郎目標價0.8
-5
-瑞士經濟數據動能放緩
-《瑞郎投資關鍵-美國新一輪關稅衝擊瑞郎》
-瑞士製造業PMI於7月降1.1點至53.2。產出分項降至
-54.2，訂單需求回溫。受中東衝突及供應鏈壓力影響，
-採購價格與供應商交貨時間分別升至74.2及62.9。美
-國7月對瑞士出口商品實施新一輪關稅，平均稅率由
-10%升至12.5%，目前仍無法排除未來加徵額外關稅。
-7月PMI統計企業採購經理人數據顯示 ，32%製造業
-預期未來12個月保護主義措施帶來的負擔將增加 ，
-高於6月的23%。
-物價方面，瑞士消費者物價指數年增放緩至 0.4%，
-創4個月低點。平緩的物價繼續支持瑞士央行維持0%
-
-政策。7月瑞郎繼續走弱，瑞士央行表示，因地緣政
-治不確定性因素，瑞郎大幅升值風險依然存在。因此，
-如有必要，瑞士央行應繼續加大干預外匯市場的力度，
-以應對瑞士法郎快速過度升值，避免危及瑞士物價穩
-定。本行認為，瑞士信心面數據及採購經理人數據有
-所改善，經濟基本面維持溫和成長。歐元區及英國貨
-幣政策路徑傾向升息，利差繼續對瑞郎不利，2H26
-美元兌瑞郎目標價0.8。
-瑞士隔夜指數交換
-隱含升/降息碼數
-資料來源：Bloomberg，中國信託商業銀行整理，
-2026/8
-瑞士升息預期大幅降低
-資料來源：Bloomberg，2026/7/31，中國信託商業銀行整理，2026/8
-0
-1
-09/24/2026
-12/10/2026
-03/18/2027
-8/3 7/3
--200
--150
--100
--50
-0
-50
-100
-150
-2023/4 2024/4 2025/4 2026/4
-瑞士歐洲花旗經濟驚奇指數
-
-### Page 6
-
-不做任何擔保，如有錯漏或疏忽，本行並不負任何法律責任。任何人因信賴此等資料而做出或改變投資決策，應審慎衡量本身之需求及投資之風險，並就投
-資結果自行負責。未經本公司許可，本資料及訊息不得逕行抄錄、翻印或另作派發。本行以上市場資訊與分析，不涉及特定投資標的之建議。
-重點摘要
-• 8月3日美元對日圓最低來到
-155.23，創3個月低點
-• 日本持有1.1兆美元公債
-• 干預總額達12.5兆日圓
-• 淨空單平倉的消化可能讓價
-格面回到155
-《日圓投資關鍵-美日聯手阻貶帶動日圓反彈》
-美元兌日圓自6月以來站上160關卡，7月站上164後
-大幅拉回，8月3日最低來到155.23，創3個月低點。
-美國財長貝森特支持日本以美國公債作為抵押，讓日
-本在不出售美國公債的情況下買入日圓 (FIMA-外國
-與國際貨幣當局附買回機制)。目前日本持有1.1兆美
-元公債，同時加上美國政府表態支持干預弱勢日圓，
-美日聯手讓日圓短線貶勢暫時告一段落。根據野村證
-券數據統計，7月30日至8月3日日本政府累計干預總
-額可能已達到約12.5兆日圓(約780億美元)。雖仍不
-
-到FIMA的單日上限，但若短線聯準會上調FIMA每日
-6百億美元額度，對日圓短線可能帶來進一步的利多。
-此政策可留意是否於9月16日聯準會會議進行調整。
-本行認為，短線美日政府證實聯手干預匯市將帶動日
-圓套息交易平倉。日圓CFTC期貨淨多單部位從2025
-年5月高點以來一路下降至今轉為淨空單且創 2年最
-大淨空單部位 ，美元兌日圓價格則從 142一路升至
-164。 淨 空 單 平 倉 的 消 化 可 能 讓 價 格 面 回 到155
-(2026/5多空單平衡時價位)。然而，日圓貶值的基本
-成因並未因政府干預而有任何變化。美國財長貝森特
-6
-60
-70
-80
-90
-100
-110
-2021/8 2022/8 2023/8 2024/8 2025/8
-人民幣 日圓 韓圜 新台幣
-日本韓國政府阻貶尚未擺脫長期下行趨勢
-主要亞洲貨幣兌美元5年表現
-資料來源：Bloomberg，2026/8/3，中國信託商業銀行整理，2026/8
-
-### Page 7
-
-不做任何擔保，如有錯漏或疏忽，本行並不負任何法律責任。任何人因信賴此等資料而做出或改變投資決策，應審慎衡量本身之需求及投資之風險，並就投
-資結果自行負責。未經本公司許可，本資料及訊息不得逕行抄錄、翻印或另作派發。本行以上市場資訊與分析，不涉及特定投資標的之建議。
-重點摘要
-• 2027年利率水準與歐美差距
-仍過大
-證實協助日本政府干預日圓的同時也表態期望日本央
-行加快升息，但以目前日本利率1%水準再同時加入
-日圓隔夜指數交換利率隱含升息3碼，2027年利率水
-準與歐美差距仍有一段距離，利差持續不利日圓(本
-行預期下一次升息時點為1Q27)。除此之外，高市政
-府擴張性財政政策及新增支出計畫恐持續不利日圓。
-高市於7月30日宣布自2027年4月起，將現行8%食品
-消費稅率降至1%，實施期限為2年。兩年加總稅收將
-減少10兆日圓，以2025年總稅收而言，每年約擴大
-赤字-6%。除此之外，國防預算計畫每年以2%GDP
-7
-日本政府政策對收支的影響
-資料來源：內閣府，Nomura，2026/8，中國信
-
-託商業銀行整理，2026/8
-財政刺激計劃壓抑日圓表現
-政策 新增赤字
-(日圓)
-補充預算 3兆
-國防追加 1.7兆/每年
-2%GDP
-17大戰略 370兆/2040年
-消費稅 -10兆稅收
-市場預期日本央行2027年至少升息3碼
-日圓隔夜指數交換利率隱含升降息碼數(1碼=0.25%)
-資料來源：Bloomberg，2026/8，中國信託商業銀行整理，2026/8
-0
-1
-2
-3
-09/18/2026
-10/30/2026
-12/18/2026
-01/22/2027
-03/18/2027
-04/28/2027
-06/11/2027
-07/22/2027
-8/3 7/3
-日圓淨空單部位已創2年新高
-日圓利差交易、投機部位、美元兌日圓
-資料來源：Bloomberg，2026/8/3，中國信託商業銀行整理，2026/8
-125
-135
-145
-155
-165
--300000
--200000
--100000
-0
-100000
-200000
-2022/12 2023/12 2024/12 2025/12
-
-CFTC日圓投機部位淨空單 美元兌日圓
-
-### Page 8
-
-不做任何擔保，如有錯漏或疏忽，本行並不負任何法律責任。任何人因信賴此等資料而做出或改變投資決策，應審慎衡量本身之需求及投資之風險，並就投
-資結果自行負責。未經本公司許可，本資料及訊息不得逕行抄錄、翻印或另作派發。本行以上市場資訊與分析，不涉及特定投資標的之建議。
-重點摘要 編列，預估2027年將達14兆日圓。同時，國家級長
-期戰略投資計畫於 2040年前投入370兆日圓支持 17
-大戰略領域，整體財政方針不利日圓中長期表現。
-總結上述，美日政府聯合干預日圓短線尚未結束，留
-意9月聯準會FIMA額度是否進行調整，短線空方不宜
-挑戰政府作多日圓政策方針。以技術面及籌碼面觀察，
-CFTC空單回補至多空平衡價位約為155，可視為第一
-波技術面日圓多方關卡。就基本面而言，政府干預匯
-市無法改變貨幣政策與財政政策的路徑。若日本通膨
-無法帶動日本央行加速升息，日圓利率水準則無法形
-成資金流入的誘因。以日圓長期轉為多頭關鍵因子則
-將落在日本政府是否開始運用政策引導海外投資資金
-回流(日本財務省統計到2025年底，日本在海外的淨
-
-資產達近562兆日圓)，將是長期影響日圓走勢的最有
-效政策。美元兌日圓看法維持 2H26目標價158不變。
-8
-
----
-## Document 385: 一文读懂：市场焦点！下周的杰克逊霍尔大会，你该关注什么？
-
-Source PDF: all report pdf/一文读懂：市场焦点！下周的杰克逊霍尔大会，你该关注什么？.pdf
-Report source: WallstreetCN (Global)
-Date: 2026-08-22
+Source PDF: all report pdf/QE速報：2026年4-6月期の実質ＧＤＰは前期比0.3％（年率1.1％）－3四半期連続のプラス成長だが、内容は非常に悪い.pdf
+Report source: NLI
+Date: 2026-08-17
 Pages: 4
 Extraction status: ok
 
 ### Page 1
 
-沃什将于美东时间 8 ⽉ 28 ⽇在杰克逊霍尔⾸次发表主旨演讲，但尚未决定是谈宏观经济 “ ⼤
-局观 ” ，还是直接为 9 ⽉⾄ 12 ⽉政策路径提供指引。这种不确定性意味着，市场对措辞变化
-的敏感度可能明显提⾼。会议期间预计约有 5 名美联储官员接受媒体采访，需重点关注这些
-官员的连续表态。⾼盛认为，杰克逊霍尔历来会放⼤外汇波动，但美元并⽆稳定的单边⽅
-向。
+▲0.1
+▲0.1
+0.8
+0.4
+0.5
+0.2
+▲0.4
+0.2 0.5
+0.3(▲0.2)
+(▲0.5)
+(3.3)
+(1.6)
+(2.1)
+(0.7)
+(▲1.8)
+(1.0) (1.9)
+(1.1)
+▲1.5
+▲1.0
+▲0.5
+0.0
+0.5
+1.0
+1.5
+2401 2402 2403 2404 2501 2502 2503 2504 2601 2602
+（前期比、％）
+（年・四半期）
+実質ＧＤＰ成長率の推移
+民間最終消費支出 民間企業設備 その他民需 公需 外需
+（資料）内閣府経済社会総合研究所「四半期別ＧＤＰ速報」
+( )内は年率換算値
+
+１. 2026 年 4-6 月期の実質 GDP は、 前期比0.3％（年率 1.1％）と 3 四半期連続のプラス成長
+となった（当研究所予測 7 月 31 日：前期比 0.6％、年率 2.4％）。 
+２. 国内需要は前期比・寄与度▲0.2％と 3 四半期ぶりに減少したが、輸入の減少を主因とし
+て外需が同 0.5％と成長率を大きく押し上げたことから、3 四半期連続のプラス成長とな
+った。 
+３. 2026 年 4-6 月期は 3 四半期連続のプラス成長となったが、民間消費（前期比▲0.0％）、
+住宅投資（同▲0.5％）、設備投資（同▲1.2％）の民間最終需要がいずれも減少するなど、
+内容は非常に悪い。 
+４. 先行きは、消費者物価の上昇ペース加速に伴い実質購買力が低下する中、自動車、エア
+コンの特需が一巡することから、民間消費は低迷が続くことが予想される。また、設備
+投資は高水準の企業収益を背景に基調としては回復を続けているが、中東情勢の悪化を
+受けたコストの大幅上昇や不確実性の高まりから、回復ペースは緩やかなものにとどま
+るだろう。さらに、7/28 に発生した熊本地震の影響で、自動車、半導体関連を中心に工
+場の操業停止が相次いでおり、生産活動の停滞が最終需要にも悪影響を及ぼすことが懸
+念される。 現時点では、2026 年 7-9 月期の実質 GDP はほぼゼロ成長になると予想してい
+る。 
+ニッセイ基礎研究所 2026-08-17
+
+QE 速報：2026 年 4-6 月期の実質ＧＤＰは前
+期比 0.3％（年率 1.1％）－3 四半期連続のプ
+ラス成長だが、内容は非常に悪い
+
+経済研究部 経済調査部長 斎藤  太郎 
+(03)3512-1836  tsaito@nli-research.co.jp
+
+### Page 2
+
+名目 GDP は前期比 1.2％（前期比年率 4.8％）と 9 四半期連続で増加し、実質 GDP の伸びを上回
+った。GDP デフレーターは前期比 0.9％（1-3 月期：同 0.2％）、前年比 2.6％（1-3 月期：同 3.2％）
+となった。輸入デフレーターが前期比 4.9％となり、輸出デフレーターの伸び（同3.4％）を上回っ
+たことが GDP デフレーターを押し下げたが、国内需要デフレーターが前期比 1.2％（1-3 月期：同
+0.5％）と前期から伸びを高めた。
+
+＜需要項目別結果＞ （前期比、％）
+2026年1-3月期 2026年4-6月期
+改定値 2次速報値 差 1次速報値 当社予測 差
+(8/17) (6/8) (8/17) (7/31)
+実質ＧＤＰ 　0.5 　0.5 0.0 　0.3 　0.6 ▲0.3
+ 　　（前期比年率） (　1.9) (　1.8) (0.1) (　1.1) (　2.4) (▲1.3)
+内　需 　0.2 　0.1 0.0 ▲0.2 　0.4 ▲0.6
+（寄与度） (　0.2) (　0.2) (▲0.0) (▲0.2) (　0.4) (▲0.6)
+民　需 　0.0 　0.0 0.0 　0.0 　0.7 ▲0.7
+（寄与度） (　0.0) (　0.0) (0.0) (　0.0) (　0.5) (▲0.5)
+民間最終消費支出 　0.5 　0.3 0.1 ▲0.0 　0.5 ▲0.5
+民間住宅 　0.9 　0.9 0.0 ▲0.5 　0.4 ▲0.8
+民間企業設備 ▲1.0 ▲0.7 ▲0.3 ▲1.2 　0.7 ▲1.9
+民間在庫変動 （寄与度） (▲0.1) (▲0.1) (▲0.0) (　0.3) (　0.1) (0.2)
+公　需 　0.6 　0.5 0.0 ▲0.8 ▲0.4 ▲0.4
+（寄与度） (　0.1) (　0.1) (0.0) (▲0.2) (▲0.1) (▲0.1)
+政府最終消費支出 　0.4 　0.3 0.1 　1.6 　0.1 1.5
+公的固定資本形成 　1.5 　1.5 ▲0.0 ▲0.1 ▲0.0 ▲0.1
+財貨･ｻｰﾋﾞｽの純輸出 （寄与度） (　0.3) (　0.3) (0.0) (　0.5) (　0.2) (0.3)
+財貨･ｻｰﾋﾞｽの輸出 　1.7 　1.8 ▲0.1 　0.5 ▲1.0 1.5
+財貨･ｻｰﾋﾞｽの輸入 　0.3 　0.4 ▲0.1 ▲1.5 ▲2.0 0.5
+名目ＧＤＰ 　0.7 　0.6 0.1 　1.2 　1.3 ▲0.2
+(資料）内閣府 経済社会総合研究所「四半期別ＧＤＰ速報」
+
+### Page 3
+
+住宅投資は前期比▲0.5％と 3 四半期ぶりに減少した。新設住宅着工戸数 （季節調整済・年率換算
+値）は、建築物省エネ法・建築基準法改正前の駆け込み需要の反動で、2025 年 1-3 月の 86.7 万戸
+から 4-6 月期に 62.0 万戸へ急減した後、7-9 月が 71.9 万戸と持ち直し、その後は概ね 70 万戸台半
+ばで推移している。GDP 統計の住宅投資は工事の進捗ベースで計上され、 着工の動きがやや遅れて
+反映されるため、2025 年 7-9 月期に大幅に減少した後、10-12 月期、2026 年 1-3 月期と増加したが、
+4-6 月期以降は減少に転じた。
+
+設備投資は前期比▲1.2％と 2 四半期連続で減少した。日銀短観 2026 年 6 月調査では、2025 年度
+の設備投資実績（含むソフトウェア・研究開発投資額、除く土地投資額）が 3 月調査から 0.6％上
+方修正され、前年度比 8.5％（全規模・全産業）となった後、2026 年度の設備投資計画は 3 月調査
+から 6.6％上方修正され、前年度比 8.8％となった。 
+設備投資は、高水準の企業収益を背景に基調としては回復していると考えられるが、人手不足に
+よる工事の遅れ、資材価格の高騰、中東情勢を巡る不確実性の高まりなどから、足もとでは弱い動
+きとなっている。
+
+公的需要は前期比▲0.8％と 3 四半期ぶりに減少した。高校授業料無償化や公立小学校の給食費無
+償化に伴う家計消費支出の減少分が計上されたことなどから、政府消費が前期比 1.6％の高い伸び
+となったが、 公的固定資本形成が前期比▲0.1％の減少となったことに加え、原油輸入量の急減を受
+けて国家備蓄原油の放出により公的在庫変動が前期比・寄与度▲0.5％の大幅マイナスとなった。
+
+外需寄与度は前期比 0.5％（前期比年率 1.8％）と 3 四半期連続のプラスとなった。財輸出は欧米
+向けが堅調だったが、 内需を中心に景気が低迷している中国向けが大きく落ち込んだことから全体
+としては低調だった。輸入は財、サービスともに減少した。財輸入は、中東情勢悪化に伴う原油輸
+入量の急減が押し下げ要因となった。
+
+（2026 年 7-9 月期はほぼゼロ成長を予想） 
+2026 年 4-6 月期は 3 四半期連続のプラス成長となったが、民間消費、住宅投資、設備投資の民間
+
+### Page 4
+
+なお、4-6 月期は原油輸入量の減少が外需の押し上げ要因となったが、代替調達の進展などから
+すでに原油の輸入量は持ち直している。7-9 月期は輸入の増加が成長率の押し下げ要因となる可能
+性が高いが、国家備蓄原油の放出停止による公的在庫変動のプラス寄与が輸入の増加によるマイナ
+ス寄与を相殺するだろう。
+
+本資料記載のデータは各種の情報源から入手・加工したものであり、その正確性と完全性を保証するものではありません。 
+また、本資料は情報提供が目的であり、記載の意見や予測は、いかなる契約の締結や解約を勧誘するものではありません。
+
+---
+## Document 268: The Institute Employment Report_ July 2026 Lower-income households are seeing stronger job and after-tax wage growth in Bank of America data. 2 min read
+
+Source PDF: all report pdf/The Institute Employment Report_ July 2026 Lower-income households are seeing stronger job and after-tax wage growth in Bank of America data. 2 min read.pdf
+Report source: Bank of America
+Date: 2026-08-01
+Pages: 6
+Extraction status: ok
+
+### Page 1
+
+13003658     1
+
+Economy 
+The Institute Employment Report: July 2026 
+05 August 2026
+
+Key takeaways 
+• Bank of America customer deposit account data suggests labor market momentum strengthened further in July, with estimated 
+payroll growth accelerating to 2.0% year-over-year (YoY), up from 1.7% in June. 
+• Job growth was led by lower-income households, while unemployment payments into customer accounts remained subdued, 
+pointing to continued labor market resilience. 
+• Lower-income households saw after-tax wage growth accelerate to 5.2% YoY in July, surpassing higher-income households for 
+the first time since December 2024, potentially aided by increased job switching and lower tax withholdings. Still, despite the 
+strength in "regular" employment, the share of workers supplementing their income with gig work was up 0.4 percentage points 
+YoY in June.
+
+July’s job growth shows further acceleration 
+Our estimate of job growth – which uses Bank of America deposit data to track changes in the number of customer accounts 
+receiving a paycheck (see Methodology) showed an acceleration in job growth to 2.0% year-over-year (YoY) in July, up from 1.7% 
+in June. The data can be noisy, partly due to seasonal variation and differences in pay-period timing, but in our view, this 
+suggests the labor market has been faring very well over the summer (Exhibit 1).  
+Exhibit 1: July payroll growth accelerated further in Bank of 
+America deposit account data  
+Payroll estimates from Bank of America customer deposit account data 
+(three-month moving average, % YoY), the Bureau of Labor Statistics 
+(BLS) and Automatic Data Processing (ADP) (monthly, YoY)
+
+Source: Bank of America internal data, Haver Analytics 
+Note: BLS and ADP data are seasonally adjusted, Bank of America data is not seasonally 
+adjusted.  
+BANK OF AMERICA INSTITUTE
+
+Exhibit 2: The strongest job growth appears to be at the lower-
+income end of the income distribution  
+Payroll estimates from Bank of America customer deposit account data 
+by household income tercile (July 2026, three-month moving average, % 
+YoY)
+
+Source: Bank of America internal data 
+BANK OF AMERICA INSTITUTE
+
+When we split Bank of America job growth data by household income tercile, we find that job growth in July was strongest 
+among lower-income households. There was positive, but weaker, growth among higher-income households, but interestingly, 
+for middle-income households, we actually observed a small decline in jobs (Exhibit 2).  
+0.0%
+1.0%
+2.0%
+3.0%
+4.0%
+Jan-23 Aug-23 Mar-24 Oct-24 May-25 Dec-25 Jul-26
+BLS nonfarm payrolls
+ADP private payrolls
+Bank of America payrolls
+estimate
+-1.5%
+0.0%
+1.5%
+3.0%
+4.5%
+Lower Middle Higher
+I NSTI TUTE
+Accessible version
+
+### Page 2
+
+2 05 August 2026
+
+I NSTI TUTE
+
+That said, this picture of a fairly robust labor market overall is also supported by Bank of America data on unemployment 
+payments into customer accounts. In July the YoY growth of this measure was flat (Exhibit 3). 
+Exhibit 3: Unemployment payment growth was flat in July, according to Bank of America consumer deposit data 
+Number of households receiving unemployment payments (three-month moving average, YoY%, not seasonally adjusted (NSA)) and Bureau of Labor  
+Statistics (BLS) Continuing Claims (three-month moving average, YoY%, seasonally adjusted (SA))
+
+Source: Bank of America internal data, Bloomberg 
+BANK OF AMERICA INSTITUTE 
+ After-tax wage growth developments mirror the lower-income jobs story 
+The strength in lower-income households’ job growth appears consistent with Bank of America data showing a strong recovery 
+in after-tax wage growth among that cohort. In July lower-income households saw their after-tax wage growth accelerate to 
+5.2% YoY – the highest rate since March 2023 – and surpassing the 4.2% YoY growth among higher-income households for the 
+first time since December 2024. Meanwhile, middle-income households’ after-tax wage growth rose to 4.3% YoY, also slightly 
+ahead of higher-income households (Exhibit 4). 
+What’s driving the pick-up in after-tax wage growth among lower-income households? Alongside strong job growth, we have 
+also observed a rise in job-to-job movements (read: The Institute Employment Report: June 2026), which could be 
+disproportionately boosting lower-income pay growth. But beyond labor market dynamics, it is also possible that households 
+reduced their tax withholdings this year following the One Big Beautiful Bill Act (OBBA), boosting their take-home pay.  
+Exhibit 4: In July, after-tax wage growth among lower-income households surpassed that of higher-income households for the first time since 
+December 2024 
+After-tax wage and salary growth by household income terciles, based on Bank of America aggregated consumer deposit account data (three-month moving 
+average, YoY%, SA)
+
+Source: Bank of America internal data 
+BANK OF AMERICA INSTITUTE 
+-50%
+-25%
+0%
+25%
+50%
+2023 2024 2025 2026
+Unemployment payments into Bank of America accounts BLS Continuing Claims
+-2%
+0%
+2%
+4%
+6%
+8%
+10%
+2023 2024 2025 2026
+Lower Middle Higher Overall
+
+### Page 3
+
+05 August 2026    3
+
+I NSTI TUTE
+
+More people are taking on gig work as a second source of income 
+It’s also possible lower-income and middle-income households might have adjusted their tax withholdings due to cost-of-living 
+pressures, not least from rises in the price of gasoline. Interestingly in Bank of America deposit account data we see another 
+potential labor market manifestation of this pressure: the share of customers receiving gig income rose for the better part of 
+three years (Exhibit 5). Moreover, in June 2026 the share ticked back up, despite the strength in the “regular” labor market. 
+One explanation for this continued increase is that gig work tends to skew younger, and Gen Z has been facing a relatively 
+tougher job market for new entrants (read more on this in August’s publication: The Gen Z reality check). Also telling is that there 
+has been a broad-based increase in the share of customers already employed and receiving gig income (Exhibit 6). In our view, 
+this highlights that despite a solid labor market some households are using gig to “top up” their regular paycheck.  
+Exhibit 5: The share of gig workers has ticked back up in June after 
+moderating for five months 
+Share of customers with gig work (percent difference from previous year, 
+monthly, three-month moving average)
+
+Source: Bank of America internal data  
+BANK OF AMERICA INSTITUTE
+
+Exhibit 6: There has been an increase in the share of customers 
+already employed and receiving gig income  
+Share of customers receiving direct deposits and have gig income 
+(percent difference from previous year, monthly, three-month moving 
+average)
+
+Source: Bank of America internal data  
+BANK OF AMERICA INSTITUTE
+
+For many workers, gig may be a fairly infrequent recourse when things are tight. This use of gig work to “top up” regular primary 
+income is also consistent with Bank of America data showing that for June 2026 nearly half of gig workers only earned income 
+from this type of work one month in the past year, while almost 74% of gig workers did three months or less (Exhibit 7).  
+Exhibit 7: Nearly half of gig workers only received income one 
+month of the year, while almost 73% received income three months 
+or less in the past year 
+Percentage share of gig workers by number of months worked in the 
+past twelve months from June 2026 (count of months, %)
+
+Source: Bank of America internal data  
+BANK OF AMERICA INSTITUTE
+
+Exhibit 8: The number of customers participating in social 
+commerce gig work was up more than 30% from the 2024 average  
+Gig workers by type (monthly, three-month moving average, indexed, 
+2024 average = 100)
+
+Source: Bank of America internal data  
+BANK OF AMERICA INSTITUTE
+
+What type of gig work are people taking on? While the number of customers participating in food delivery has trended 
+downwards, social commerce has accelerated, up more than 30% from the 2024 average (Exhibit 8). In our view, this could be 
+due in part to strong consumer demand for thrifted items bought via social commerce sites (read more on this in April’s 
+publication: Secondhand fashion piece). 
+-0.4%
+-0.2%
+0.0%
+0.2%
+0.4%
+0.6%
+Jun-23 Dec-23 Jun-24 Dec-24 Jun-25 Dec-25 Jun-26
+-0.2%
+0.0%
+0.2%
+0.4%
+0.6%
+Jun-23 Dec-23 Jun-24 Dec-24 Jun-25 Dec-25 Jun-26
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+1 2 3 4 5 6 7 8 9 10 11 12
+73%
+ 80
+ 90
+ 100
+ 110
+ 120
+ 130
+ 140
+Oct-24 Jan-25 Apr-25 Jul-25 Oct-25 Jan-26 Apr-26
+ Deliveries  Ridesharing
+ Social Commerce  Vacation Rental
+ Content Creator
+
+### Page 4
+
+4 05 August 2026
+
+I NSTI TUTE
+
+Methodology  
+Selected Bank of America transaction data is used to inform the macroeconomic views expressed in this report and should be 
+considered in the context of other economic indicators and publicly available information. In certain instances, the data may 
+provide directional and/or predictive value. The data used is not comprehensive; it is based on aggregated and anonymized 
+selections of Bank of America data and may reflect a degree of selection bias and limitations on the data available. 
+Any payments data represents aggregated spend from US Retail, Preferred, Small Business and Wealth Management clients with 
+a deposit account or credit card. Aggregated spend include total credit card, debit card, ACH, wires, bill pay, business/peer-to-
+peer, cash, and checks.  
+Any Small Business payments data represents aggregate spend from Small Business clients with a deposit account or a Small 
+Business credit card. Payroll payments data include channels such as ACH (automated clearing house), bill pay, checks and wire. 
+Bank of America per Small Business client data represents activity spending from active Small Business clients with a deposit 
+account or a Small Business credit card and at least one transaction in each month. Small businesses in this report include 
+business clients within Bank of America and generally defined as under $5mm in annual sales revenue.  
+Unless otherwise stated, data is not adjusted for seasonality, processing days or portfolio changes, and may be subject to 
+periodic revisions.  
+Bank of America aggregated credit/debit card spending per household includes spending from active US households only. Only 
+consumer card holders making a minimum of five transactions a month are included in the dataset. Spending from corporate 
+cards are excluded. Data regarding merchants who receive payments are identified and classified by the Merchant Categorization 
+Code (MCC) defined by financial services companies. The data are mapped using proprietary methods from the MCCs to the 
+North American Industry Classification System (NAICS), which is also used by the Census Bureau, in order to classify spending 
+data by subsector. Spending data may also be classified by other proprietary methods not using MCCs.  
+Lower, middle and higher household income cuts in Bank of America credit and debit card spending per household, and consumer 
+deposit account data are based on quantitative estimates of each households’ income. These quantitative estimates are 
+bucketed according to terciles, with a third of households placed in each tercile periodically. The lowest tercile represents ‘lower 
+income’, the middle tercile represents ‘middle income’ and the highest tercile ‘higher income’. The income thresholds between 
+these terciles will move over time, reflecting any number of factors that impact income, including general wage inflation, 
+changes in social security payments and individual households’ income. The income and tercile in which a household is 
+categorised are periodically re-assessed.  
+Generations, if discussed, are defined as follows: Gen Z, born after 1995; Younger Millennials: born between 1989-1995; Older 
+Millennials: born between 1978-1988; Gen Xers: born between 1965-1977; Baby Boomer: 1946-1964; Traditionalists: pre-1946. 
+Estimate of payrolls growth from Bank of America internal data is based on the change in customer accounts receiving a 
+paycheck in the month. An adjustment is made for the difference between overall population growth and customer account 
+growth.  
+An estimate of bonus growth from Bank of America deposit data is calculated by looking at customers who have received an 
+inbound ACH payroll transaction in the last two years. From this sample an estimate of bonuses is derived by looking for payroll 
+transactions which are over 50% higher than the median regular payroll payments received by the customer. Of these payments 
+only those that were received around the same time in each of the last two years are selected.  
+Additional information about the methodology used to aggregate the data is available upon request.
+
+### Page 5
+
+05 August 2026    5
+
+I NSTI TUTE
+
+Contributors 
+David Michael Tinsley 
+Senior Economist, Bank of America Institute 
+Taylor Bowley 
+Economist, Bank of America Institute 
+Sources 
+Li Wei 
+Director, Global Risk Analytics 
+Dale Lin 
+Director, Global Risk Analytics 
+Yan Peng 
+Vice President, Global Risk Analytics 
+Elaine Li 
+Director, Global Risk Analytics
+
+### Page 6
+
+6 05 August 2026
+
+I NSTI TUTE
+
+---
+## Document 275: U.S. Economic Forecast
+
+Source PDF: all report pdf/U.S. Economic Forecast.pdf
+Report source: Wells Fargo (Economics)
+Date: 2026-08-13
+Pages: 1
+Extraction status: ok
+
+[No extractable text after boilerplate filtering.]
+
+---
+## Document 327: タイ景気に急ブレーキ､内需低迷が堅調な外需を相殺 ～4-6月GDPは前期比年率▲0.74％､政府は成長率見通しを引き上げも不透明要因は山積～
+
+Source PDF: all report pdf/タイ景気に急ブレーキ､内需低迷が堅調な外需を相殺 ～4-6月GDPは前期比年率▲0.74％､政府は成長率見通しを引き上げも不透明要因は山積～.pdf
+Report source: DLRI
+Date: 2026-08-17
+Pages: 4
+Extraction status: ok
+
+### Page 1
+
+Asia Trends
+
+2026 年 8 月 17 日
+
+1/4 
+タイ景気に急ブレーキ､内需低迷が堅調な外需を相殺 
+～4-6 月 GDP は前期比年率▲0.74％､政府は成長率見通しを引き上げも不透明要因は山積～ 
+ 経済調査部 主席エコノミスト  西濵 徹 
+（℡：050-5474-7495）
+
+（要旨） 
+○ イラン情勢の悪化により、原油・天然ガス依存度が高いタイは供給懸念と価格上昇に直面し
+た。政府は備蓄拡充や代替調達を進める一方、原油消費の抑制への取り組みを強化した。原
+油高は貿易収支の悪化、観光業、農業への悪影響が懸念される。さらに、2025 年半ば以降続
+いたデフレは一転し、足元でインフレ率はプラスに転じている。中銀は２月に利下げしたも
+のの、その後は物価動向やバーツ安を理由に４月と６月は様子見姿勢に転じている。 
+○ ４-６月の実質ＧＤＰ成長率は前期比年率▲0.74％と３四半期ぶりのマイナス成長となった。
+インフレによる実質購買力低下で個人消費が弱含み、政府消費や公共投資も下振れした。Ａ
+Ｉ・半導体関連の財輸出やデータセンター投資などは堅調だったが、輸入拡大により純輸出
+の成長率寄与度は大幅マイナスとなった。一方で、在庫投資の寄与度は大幅プラスとなるな
+ど、在庫積み上がりから景気実態は数字以上に厳しいとみられる。生産面では鉱業・公益部
+門は拡大した一方、サービス業・製造業・農林漁業は減少した。 
+○ 政府は家計向け補助金を決定して内需下支えを図るが、イラン情勢の長期化やエルニーニョ
+による高温・水不足が農業生産・食料インフレ・電力需給に悪影響を及ぼす懸念がある。Ａ
+Ｉ・半導体需要は輸出をけん引するものの、観光客数の見通しは不透明である。政府は2026
+年成長率見通しの下限を引き上げたものの、在庫調整リスクなど不確実性は残る。バーツ相
+場は米ドル高一服や金価格の持ち直しで下支えされる一方、原油高による対外収支悪化や資
+金流出圧力など、外部環境に左右される展開が続くと見込まれる。
+
+【イラン情勢により､デフレ状態が続いたタイは一転インフレに】 
+イラン情勢の悪化を受けて、タイ経済を取り巻く環境は急速に悪化している。タイは、一次エネ
+ルギーに占める原油の比率が４割強、天然ガスの比率が３割弱と、合わせて７割弱に達する。加え
+て、 原油輸入の６割を湾岸産油国に依存しており、 イラン情勢の悪化を受けた供給懸念や価格上昇
+に直面した。 
+同国政府は、90 日分の原油備蓄を確保しているほか、 その後も備蓄拡充や供給懸念への対応強化
+を明らかにした。具体的には、ロシア産原油のほか、米国やアフリカ、南米からの代替調達を活発
+
+### Page 2
+
+2/4 
+化させた。加えて、国民生活への悪影響を抑えるべく、原油高に伴うエネルギー価格の抑制を目的
+とする補助金による価格上限の設定を目指した。 しかし、 財政上の懸念から補助金政策は断念する
+一方、対象を低所得者層や公共交通機関に限定する対応を迫られた。 
+背景には、同国の原油や石油製品、天然ガスの貿易収支がＧＤＰ比▲5.4％に達すると試算され
+るなど、 原油高がマクロ経済の足を引っ張ることが懸念されたことがある。 原油高やジェット燃料
+の供給懸念を理由とする航空便の減便は、 ＧＤＰの１割以上を占める観光関連産業の足を引っ張る
+ことも懸念される。加えて、窒素系肥料の価格上昇は農業生産に悪影響を与えるほか、食料価格の
+上昇を通じてインフレ圧力を増幅させることも考えられる。 
+同国経済は、ＡＳＥＡＮ（東南アジア
+諸国連合） 主要国のなかでコロナ禍から
+の景気回復が最も遅れている。背景に
+は、 家計債務がＧＤＰ比で９割弱とアジ
+ア太平洋地域のなかで高水準であり、 債
+務負担が個人消費など内需の足かせと
+なっていることがある。こうしたなか、
+同国では 2025 年半ば以降、インフレ率
+がマイナスで推移するデフレが続いた。
+しかし、 エネルギーや食料品など生活必
+需品を中心とする物価上昇を受けて、 足
+元のインフレ率はプラスに転じるなど状況は大きく変化している（図１） 。足元では原油高の一服
+を受けて加速したインフレ率が鈍化しているものの、 イラン情勢の不透明感を理由に原油価格は高
+止まりしている。さらに、エルニーニョ現象の発生による高温・水不足は農業生産に悪影響を与え
+るほか、食料インフレを招くことも懸念される。 
+中銀は、イラン情勢が悪化する直前に開催した２月の定例会合において、 デフレ状態や景気回復
+の遅れを理由に利下げに舵を切った。しかし、その後の物価を巡る状況に加え、金融市場でのバー
+ツ安による輸入物価の上昇懸念も理由に、 ４月と６月の定例会合では様子見に転じている。 このよ
+うに、金融政策の舵取りも難しさを増していると捉えられる。
+
+【内需低迷で景気にブレーキも､景気の実態は数字以上に厳しいものに】 
+足元のタイ経済は、 インフレに直面するなど内需を取り巻く環境は厳しさを増す一方、 世界的な
+ＡＩ （人工知能） ・ 半導体投資の旺盛さを追い風に、これに関連する輸出のほか、 データセンター関
+連投資が活発化するなど、 好悪双方の材料が混在する動きがみられた。 しかし、 ４-６月の実質ＧＤ
+Ｐ成長率は前期比年率▲0.74％と３四半期ぶりのマイナス成長に転じるなど、 景気にブレーキが掛
+かっている（図２）。 中期的な基調を示す前年同期比ベースの成長率も＋1.9％と前期 （同＋2.9％）
+から鈍化して３四半期ぶりの低い伸びとなるなど、足元の景気は頭打ちの動きを強めている。 
+図 1 インフレ率の推移
+
+（出所）CEIC より第一ライフ資産運用経済研究所作成
+
+### Page 3
+
+3/4 
+インフレ加速により実質購買力に下押
+し圧力がかかったことを受けて、個人消
+費が弱含んだ。さらに、前述した原油消
+費抑制策の影響を受ける形で政府消費
+も下振れするとともに、 公共投資の進捗
+低迷も固定資本投資を下押しするなど、
+幅広く内需が弱含む動きが確認されて
+いる。なお、ＡＩ・半導体関連を中心に
+財輸出は堅調な動きをみせる一方、外国
+人観光客数の低迷を反映してサービス
+輸出の伸びは鈍化した（図３）。 また、 デ
+ータセンター関連をはじめとする投資
+の活発化を受けて民間部門の固定資本
+投資は拡大基調が続いた。なお、設備投
+資需要の堅調さを反映して輸入は輸出
+を上回るペースで拡大しており、 純輸出
+（輸出－輸入） の成長率寄与度は前期比
+年率ベースで▲15.15pt と大幅マイナス
+になったと試算される。一方で、在庫投
+資による成長率寄与度は前期比年率ベ
+ースで５四半期連続のプラスで推移し
+ているうえ、当期は＋21.01pt とプラス
+幅が大幅に拡大しており、在庫が積み上がっている様子がうかがえる。このため、足元の景気実態
+はＧＤＰの数字が示す以上に厳しい状況にある。 
+分野ごとの生産動向についても、 イラン情勢の悪化を受けた原油など商品市況の上昇が後押しす
+る形で鉱業部門の生産は拡大したほか、電力など公益関連の生産も堅調な動きをみせた。一方で、
+個人消費の低迷や観光関連の頭打ちも重なりサービス業の生産は減少するなど景気の足を引っ張
+っている。さらに、財輸出の堅調さがうかがえるにもかかわらず、製造業の生産も減少するととも
+に、農林漁業の生産も低迷するなど主力産業での生産低迷の動きが景気の重しとなっている。
+
+【国内外に景気の不透明要因は山積､バーツ相場は外部環境に左右される展開が続く】 
+政府は５月、 イラン情勢の悪化を受けたエネルギー危機への対応や、 エネルギー転換の促進など
+を目的に、総額 4,000 億バーツ（ＧＤＰ比2.1％）の緊急借り入れ枠を設けることを承認した。６
+月にはその一環として、 原油高の影響軽減と家計部門の生活費負担の軽減を目的とする1,760 億バ
+ーツ規模の家計部門向けの補助金政策を決定しており、 先行きはその効果が家計消費を下支えする
+ことが期待される。しかし、イラン情勢は依然として不透明な状況が続いており、原油をはじめと
+図 3 外国人来訪者数(季節調整値)の推移
+
+（出所）CEIC より第一ライフ資産運用経済研究所作成, 季節調整値は当社試算 
+図 2 実質 GDP 成長率(前期比年率)の推移
+
+（出所）CEIC より第一ライフ資産運用経済研究所作成
+
+### Page 4
+
+本資料は情報提供を目的として作成されたものであり、投資勧誘を目的としたものではありません。作成時点で、第一ライフ資産運用
+経済研究所が信ずるに足ると判断した情報に基づき作成していますが、その正確性、完全性に対する責任は負いません。見通しは予告
+なく変更されることがあります。また、記載された内容は、第一生命保険ないしはその関連会社の投資方針と常に整合的であるとは限
+りません。 
+4/4 
+するエネルギー資源価格は高止まりするなどエネルギーインフレが幅広い経済活動の足かせとな
+ることが懸念される。さらに、エルニーニョ現象の発生による高温と少雨が見込まれるなか、同国
+では農業生産の低迷が景気の足かせとなるとともに、 食料価格の上昇が新たなインフレ圧力を引き
+起こすことも考えられる。少雨による水不足は、生活用水のみならず、製造業など水を要する産業
+の生産にも悪影響を与えるほか、 高温による電力需給のひっ迫がエネルギー価格のさらなる上昇を
+招くスパイラルにつながる可能性もある。 
+一方で、世界的なＡＩ・半導体需要の旺盛な動きは引き続き輸出をけん引するとともに、設備投
+資需要も下支えすることが期待される。 ただし、 足元で頭打ちの動きをみせる外国人来訪者数につ
+いて、 同国政府は従来見通しを据え置く考えをみせているものの、 燃料価格の高止まりも影響して
+見通しが立ちにくい展開が続くことも考えられる。 このため、 農林漁業や観光業における生産低迷
+が関連部門の雇用環境の足かせになるとともに、 個人消費など内需の重しとなる可能性にも注意が
+必要である。年前半の経済成長率が＋2.4％となったことを受けて、政府（国家経済社会開発評議
+会）は 2026 年の経済成長率見通しを＋2.0～2.5％と従来見通し（＋1.5～2.5％）の下限を引き上
+げている。とはいえ、内・外需双方に不透明要因が山積しているうえ、先行きは在庫調整の動きが
+景気の足かせとなる可能性にも注意が必要である。 
+金融市場では、米国と日本による協調介入を受けて米ドル高の動きに一服感が出ていることを反
+映して、バーツ相場は持ち直しの動きを
+みせている （図４） 。 さらに、 足元では調
+整が続いた金の国際価格が持ち直しの動
+きをみせていることも、金取引の活発化
+を追い風にバーツ相場を下支えしている
+可能性はある。しかし、イラン情勢の不
+透明さを理由に原油をはじめとするエネ
+ルギー価格は高止まりしており、対外収
+支の悪化が懸念されるほか、実体経済の
+低迷が警戒される形で資金流出圧力が強
+まることも考えられる。前述したように
+中銀の政策運営も困難の度合いが増しており、 バーツ相場を取り巻く状況は外部環境に左右される
+展開が続くであろう。 
+以 上 
+図 4 バーツ相場(対ドル)の推移
+
+（出所）LSEG より第一ライフ資産運用経済研究所作成
+
+---
+## Document 364: 从买日元到增加美债回购，贝森特成数十年来最积极干预市场的美国财长
+
+Source PDF: all report pdf/从买日元到增加美债回购，贝森特成数十年来最积极干预市场的美国财长.pdf
+Report source: WallstreetCN (Global)
+Date: 2026-08-20
+Pages: 3
+Extraction status: ok
+
+### Page 1
+
+近⼀个⽉内，⻉森特主导了美国三⼗年来⾸次买⼊⽇元的操作，暗⽰削减⻓期债券发⾏规
+模，宣布将 " ⾄少翻倍 " 购回 10 年期⾄ 30 年期美国国债。这⼀连串举措，已令市场难以忽视
+其背后的政策意图。分析⼈⼠表⽰，⻉森特⾄少是 2000 年代初以来最为积极⼲预的财政部
+⻓，其试图阻⽌收益率上⾏的⽬的⾮常明确。
 摘要：
-下周，全球经济学家和央⾏官员将⻬聚怀俄明州杰克逊霍尔，参加美联储年度经济政策研讨
-会。在 8 ⽉央⾏沟通相对平静、秋季利率决策周期重新启动之际，这场全球央⾏年会将成为市场
-捕捉政策信号的重要窗⼝。
-今年市场关注的焦点⽆疑是美联储主席沃什。据追⻛交易台，美东时间 8 ⽉ 28 ⽇（周五）上午 10
-点，沃什将发表主旨演讲，这也是他出任美联储主席后⾸次亮相杰克逊霍尔。相⽐会议主题本
-⾝，沃什对于经济前景和未来利率路径的表态，更可能成为市场定价的核⼼。
-⾼盛报告指出，从历史表现看，杰克逊霍尔主旨演讲往往会显著放⼤外汇市场波动。尤其是在
+美国财政部⻓斯科特 · ⻉森特（ Scott Bessent ）正以⼀系列出⼈意料的市场操作，将⾃⾝信誉押
+注于压制美债收益率上⾏这⼀⽬标，成为数⼗年来对⾦融市场⼲预最为积极的财政部⻓。
+周三，财政部宣布将 " ⾄少翻倍 " 购回 10 年期⾄ 30 年期美国国债，距上次公布回购计划仅仅两
+周。
+此前本⽉，财政部已暗⽰可能削减⻓期债券发⾏规模； 7 ⽉ 31 ⽇，⻉森特还主导了美国当局三⼗
+年来⾸次买⼊⽇元的操作。这⼀连串举措，已令市场难以忽视其背后的政策意图。
+10 年期美债收益率当⽇收盘下⾏约 6 个基点， 30 年期收益率下跌约 9 个基点，彭博美元即期指数
+亦跌⾄三个⽉低点。
 
-沃什政策⽴场尚未完全明朗的情况下， EUR/USD 可能成为市场最敏感的交易窗⼝之⼀。不过，
-历史数据显⽰，演讲虽然容易放⼤波动，却并不存在稳定的美元单边⽅向。
-沃什⾸秀，演讲内容仍留悬念
-完整会议⽇程将于美东时间 8 ⽉ 27 ⽇（周四） 20 点公布，⽬前已确认的主要嘉宾包括欧洲央⾏管
-委施纳⻉尔、智利央⾏⾏⻓罗萨娜 · 科斯塔以及新西兰联储⾏⻓安娜 · 布雷曼。
-其中，沃什的主旨演讲是整个会议最受关注的环节，也是唯⼀进⾏电视直播的演讲。不过，演
-讲结束后并没有问答环节，其他会议演讲虽然不对外直播，但结束后均设有问答，相关内容将
-通过媒体报道传递给市场。
-今年的特殊之处在于，沃什本⼈此前已经明确表⽰，尚未决定此次演讲究竟侧重宏观经济 “ ⼤局
-观 ” ，还是像传统杰克逊霍尔演讲⼀样，为 9 ⽉⾄ 12 ⽉的政策路径提供指引。
-⾼盛认为，这种不确定性意味着，市场对措辞变化的敏感度可能明显提⾼。沃什曾表⽰，希望
-借助杰克逊霍尔的 “ ⾼⼭空⽓ ” （杰克逊霍尔位于美国怀俄明州的⼭区，海拔较⾼）厘清重⼤问
+然⽽多位市场⼈⼠和经济学家警告，在美国 2026 财年⾚字同⽐扩⼤ 5% ⾄ 1.8 万亿美元的背景
+下，推升收益率的结构性因素依然存在，⼲预效果恐难持续。
+⼲预逻辑：对⻓端收益率上⾏的深切忧虑
+⻉森特此轮⾏动的核⼼动机，在于遏制⻓期美债收益率持续攀升。此前， 10 年期美债收益率已
+升破特朗普重返⽩宫前的⽔平 —— ⽽这正是⻉森特⾃⼰设定的财经晴⾬表。
+前美国财政部官员、现任 OMFIF 研究机构成员 Mark Sobel 表⽰： " 他⽆疑是积极⼲预型的，这让
+⼈想起他对冲基⾦从业者的背景。 " 他补充道：
+⻓端收益率的持续⾛⾼，叠加通胀顾虑、美联储政策⾛向的不确定性以及巨额财政⾚字，已使
+美国抵押贷款利率维持在⾼位，并在距 11 ⽉国会选举仅数⽉之际给经济增⻓带来压⼒。
+彭博市场实时策略师 Brendan Fagan 在评论中指出： " 结合政府在其他领域的⼲预意愿，周三举
+措传递的信号已愈发清晰 —— 华盛顿对⻓端收益率越来越感到不安。市场现在知道这种不适感
+的存在，⽽痛点往往会被反复触碰。 "
 
-题，这也进⼀步增加了外界对其政策表态的关注。
-不只盯沃什演讲，官员场外表态同样关键
-如果说主旨演讲决定市场情绪，那么电视边会采访可能是判断近期政策⽅向更直接的渠道。
-杰克逊霍尔会议期间，各⼤财经媒体通常会安排美联储官员接受场外采访。从周三参会⼈员陆
-续抵达开始，相关采访将持续⾄周五，预计约有 5 名美联储官员在周五接受不同媒体采访，部分
-官员可能多次出镜。
-尤其值得注意的是，美联储理事会官员通常会等到沃什演讲结束后再接受采访，⽽承办本次会
-议的堪萨斯城联储⾏⻓则可能在周三会议正式开始前率先发声。
+操作⼿法：挑战 " 常规可预期 " 原则
+⻉森特的系列⾏动，已与财政部⻓期奉⾏的 " 常规可预期 " 债务管理原则产⽣摩擦。⻉森特本⼈去
+年 11 ⽉在⼀次财政市场会议的主旨演讲中，曾明确背书这⼀原则。
+然⽽在同⼀场演讲中，他也强调， " 我的职责是做这个国家最顶尖的债券推销员。国债收益率是
+衡量这⼀努⼒成效的有⼒指标。 "
+" 在我看来，他和这届政府对⻓端收益率的上⾏显然感到忧虑。 "
 ⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⽣活家 搜索
 
 ### Page 2
 
-⾼盛报告指出，由于沃什对于前瞻性指引的态度仍然偏谨慎，其他官员的场外表态可能承担更
-多政策信号传递功能。因此，相⽐单独等待沃什演讲，投资者或许更需要关注整个会议期间美
-联储官员的连续表态。
-⾦融创新成为今年主题
-今年杰克逊霍尔年会的主题是 “ ⾦融创新：对⽀付与政策的影响 ” 。
-从会议议题来看，讨论将更多围绕⾦融创新及其对货币政策的⻓期影响展开，潜在议题包括⼈
-⼯智能、数字资产以及⾦融市场变化等。
-不过，就短期市场交易⽽⾔，学术论⽂和会议讨论的重要性可能低于央⾏官员的公开表态。换
-⾔之，今年杰克逊霍尔真正值得市场盯住的，仍是沃什演讲以及会议期间央⾏官员释放的政策
-信号。
-此外，杰克逊霍尔虽然是全球央⾏年度盛会，但并⾮全年政策沟通中具有绝对特殊地位的唯⼀
-窗⼝。随着 9 ⽉美联储议息会议临近，市场最终仍将回到就业、通胀和经济增⻓等数据本⾝，并
-据此重新定价利率路径。
-~~~~~~~~~~~~~~~~~~~~~~~~
-以上精彩内容来⾃追⻛交易台。
-更详细的解读，包括实时解读、⼀线研究等内容，请加⼊【追⻛交易台 ▪ 年度会员】
+美国利率交易与策略主管 Gregory Faranello 表⽰：
+此外，⻉森特还在 7 ⽉ 31 ⽇主导了美国当局三⼗年来⾸次⼲预⽇元的⾏动，⽬的在于减少⽇本抛
+售美债的压⼒。更早之前，他还动⽤了所谓 " 汇率询价 " （ rate checks ）⼿段，向银⾏询问⽇元报
+价，此举甚⾄令⽇本前官员感到意外。
+对冲基⾦ Christofferson Robb & Co 的投资组合经理 Brad Golding 将周三的回购操作⽐作对冲基
+⾦的 " 全⾯扫盘 " ⼿法 —— 同时向多家主要交易商发出买⼊指令以推动市场⼤幅波动， " 这像极了
+过去那种在屏幕上全⾯拉抬的⽼把戏 " 。
+积极⼲预，没有突发危机的主动出击
+从历史视⻆来看，财政部在⾦融危机、新冠疫情、以及上世纪 90 年代多次新兴市场危机中均曾
+扮演关键⼲预⻆⾊。
+但⻉森特此轮⾏动的特殊之处，在于当前债券市场的下跌是有序且渐进的，并⾮由某⼀突发危
+机触发。
+Mark Sobel 表⽰，⻉森特⾄少是 2000 年代初以来最为积极⼲预的财政部⻓。
 
-### Page 4
+政治咨询公司 International Capital Strategies 管理合伙⼈ Douglas Rediker 亦指出： " ⻉森特让所
+有⼈都知道，他的⻛格是积极⼲预型的，即便没有近年惯常所需的那种危机导⽕索。 "
+可持续性存疑：结构性压⼒难以化解
+尽管市场在短期内有所反应，但多位分析⼈⼠对⼲预的持续效⼒持审慎态度。
+ABN Amro Bank 利率策略师 Larissa Fritz 及其同事 Jaap Teerhuis 在报告中写道，财政部的公告
+虽为债券市场提供了近期⽀撑，但推升利率的 " 结构性驱动因素 " 依然存在， " 考虑到持续攀升的
+融资需求，财政部维持⼤规模回购的能⼒令⼈存疑 " 。
+当前的财政图景同样不容乐观： 2026 财年⾄今⾚字已达 1.8 万亿美元，同⽐扩⼤ 5% ，⽀出主要
+由社会保障、医疗保险、医疗补助及债务利息驱动，国防⽀出亦将增加，共和党内部还在探讨
+进⼀步减税。
+苏黎世保险⾸席策略师 Guy Miller 表⽰： " 这种⽅式只能奏效⼀段时间。当财政部明确表⽰坚定承
+
+诺时，⼲预可以相当有⼒，但归根结底，如果不解决⽆节制的财政政策，这是不可持续的。 "
+Onepoint Bfg ⾸席投资官 Peter Boockvar 则简洁地点出⻛险所在： " 他同时在向两个巨⼤的市场
+—— 美债和外汇 —— 发起挑战，这是⼀场真正艰难的战役。 "
+政治争议：昔⽇批评者成为今⽇实践者
+⻉森特的⼲预路线颇具讽刺意味 —— 他本⼈曾批评前任财政部⻓珍妮特 · 耶伦于 2023 年以类似⽅
+式压制收益率上⾏，指其出于政治动机，意在为⼤选前经济营造利好环境。
+" 这确实背离了 ' 常规可预期 ' 的原则 —— 但这就是我们所处的现实。信号⾮常明确：阻⽌收益率上
+⾏。 "
+
+### Page 3
 
 ⻛险提⽰及免责条款
 市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
-15 收藏 分享到 :
+96 收藏 分享到 :
 写评论
 图⽚
-1 条评论
-限免
+2 条评论
+更值得关注的是，现任总统经济顾问、前美联储委员会成员 Stephen Miran 曾于 2024 年 7 ⽉与经
+济学家 Nouriel Roubini 联合发表论⽂，将类似的 " 积极⼲预式国债发⾏ " （ ATI ）⾏为定性为政治
+⼯具，并警告 " ⼀旦⼀个政党开始在选举季使⽤ ATI 刺激经济，未来所有政府都可能效仿 " 。
+对外关系委员会⾼级研究员 Brad Setser 则直⾔：" 这届政府并不是那种制定稳定规则然后让市场
+⾃⾏运作的政府。 "
+
 请发表您的评论
 表情 发布评论
-⻅闻⽤⼾23 分钟前中国上海
-0  回复
-卧室说啥还重要吗？
+MobileUser77313 ⼩时前中国天津
+ 0  回复
+情何以堪
+WB8 ⼩时前中国
+ 0  回复
+⾃诩的市场经济
 
 ---
-## Document 575: 日媒：日本新财年预算申请额或超130万亿日元
+## Document 368: 伊朗回应美国经济战威胁：美方“注定失败”，中国表态：反对非法单边制裁
 
-Source PDF: all report pdf/日媒：日本新财年预算申请额或超130万亿日元.pdf
+Source PDF: all report pdf/伊朗回应美国经济战威胁：美方“注定失败”，中国表态：反对非法单边制裁.pdf
 Report source: WallstreetCN (Global)
 Date: 2026-08-21
 Pages: 1
@@ -8505,735 +7109,1071 @@ Extraction status: ok
 
 ### Page 1
 
-⻛险提⽰及免责条款
-市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
-34 收藏 分享到 :
-写评论
-图⽚
-⽇本政府部⻔和机构 2027 财年预算申请总额预计将超 130 万亿⽇元（约 8176 亿美元），相
-⽐本财年的 122 万亿⽇元显著增加。⽇本政府预计 2026 财年税收收⼊仅约 83 万亿⽇元，庞
-⼤的预算请求可能导致政府发⾏更多国债。受财政状况恶化担忧等因素影响，⽇本国债收
-益率近期持续⾛⾼，国债利息负担加重，财政压⼒进⼀步加⼤。
-摘要：
-据⽇本共同社 21 ⽇报道，⽇本政府部⻔和机构 2027 财年（ 2027 年 4 ⽉⾄ 2028 年 3 ⽉）预算申请
-总额预计将超过 130 万亿⽇元（ 1 美元约合 159 ⽇元），相⽐本财年的 122 万亿⽇元显著增加。
-其中，⽇本防卫省计划申请约 8.9 万亿⽇元，⽤于部署拦截型⽆⼈机等，申请规模创历史新⾼。
-
-养⽼⾦、医疗等社会保障⽀出预计因⼈⼝⽼龄化增加约 3900 亿⽇元。
-⽇本政府各部⻔和机构需在 8 ⽉底前提交下⼀财年的预算申请，为财政部年底前编制预算做准
-备。此前，⽇本政府通过设置预算上限控制各部⻔⽀出规模，但⾼市政府计划调整预算编制⽅
-式，对其推动的部分投资项⽬不设统⼀额度上限，这成为预算申请规模异常增加的主要因素。
-报道指出，⽇本政府预计 2026 财年税收收⼊约为 83 万亿⽇元，超过 130 万亿⽇元的新财年预算
-请求可能导致政府发⾏更多国债，进⼀步加剧⽇本财政恶化状况。受财政状况恶化担忧等因素
-影响，⽇本国债收益率近期持续⾛⾼，国债利息负担加重，财政压⼒进⼀步加⼤。
-本⽂来源：新华社
-限免
-请发表您的评论
-表情 发布评论
 ⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⽣活家 搜索
 
 ---
-## Document 587: 最快8月底交表！Anthropic拟超越SpaceX，冲击史上最大IPO
+## Document 437: 博通拟筹集1000亿美元表外债务，违约风险指标CDS创下新高
 
-Source PDF: all report pdf/最快8月底交表！Anthropic拟超越SpaceX，冲击史上最大IPO.pdf
+Source PDF: all report pdf/博通拟筹集1000亿美元表外债务，违约风险指标CDS创下新高.pdf
 Report source: WallstreetCN (Global)
-Date: 2026-08-20
-Pages: 2
+Date: 2026-08-21
+Pages: 3
 Extraction status: ok
 
 ### Page 1
 
-据媒体报道， Anthropic 预计其 IPO 规模将追平甚⾄超越 SpaceX 创下的历史纪录；
-Anthropic 最快将于本⽉底公开递交 IPO ⽂件，公司⽬前正就募资规模进⾏测算。
+博通拟筹千亿美元表外巨债，刷新 AI 融资纪录剑指英伟达。然⽽这场 “ ⾦融⼯程 ” 引爆信⽤恐
+慌，致其 CDS 狂飙破纪录，更撕开了科技巨头 3 万亿美元 AI 隐性债务的冰⼭⼀⻆，市场警报
+已然拉响。
 摘要：
-Anthropic 正筹划⼀场可能改写资本市场历史的 IPO 。
-据彭博援引知情⼈⼠透露，Anthropic 预计其⾸次公开募股（ IPO ）的规模将追平甚⾄超越
-SpaceX 创下的历史纪录。
-Anthropic 最快将于本⽉底公开递交 IPO ⽂件，公司⽬前正就募资规模进⾏测算。⾸席财务官
-Krishna Rao 近期主持的投资者沟通会议刻意回避了估值问题。知情⼈⼠表⽰，相关讨论仍在进
-⾏中， IPO 规模等细节可能发⽣变化。
-SpaceX 此前以 750 亿美元的⾸发规模创下史上最⼤ IPO 纪录，若计⼊超额配售权，最终规模达
-862 亿美元。⼀旦 Anthropic 成功突破这⼀⻔槛， 2026 年将轻松成为美国 IPO 市场有史以来融资
-规模最⼤的年份。
-⽬前，今年已上市公司的累计募资额达 1606 亿美元，距 2021 年创下的 1952 亿美元峰值仍有差
+博通正寻求通过特殊⽬的载体发⾏史上最⼤规模 SPV 债务，试图在监管收紧前抢占 AI 融资窗⼝。
+这笔⾼达 1000 亿美元的表外交易，不仅将刷新 AI 基础设施融资纪录，更令市场对科技巨头隐性
+债务⻛险的担忧骤然升温，其信⽤违约掉期（ CDS ）随之飙升⾄历史新⾼。
+据彭博报道，博通正与⿊⽯集团和阿波罗全球管理（ Apollo Global Management ）洽谈，计划
+通过 SPV 为⼀项 AI 芯⽚融资交易筹集逾 600 亿美元优先担保债务，受益⽅包括 Anthropic 及其他企
+业。据知情⼈⼠透露，融资⽅案或还附带约 300 亿美元次级债务档，两部分合计总规模可能⾼达
+1000 亿美元，将成为迄今规模最⼤的 SPV 融资交易。上述⼈⼠因信息尚属私密要求匿名。
+消息公布后，博通股价盘后⼀度上涨逾 1% 。然⽽，债券和衍⽣品市场的反应截然相反 —— 博通
 
-距。
-营收爆发式增⻓，净亏损同步扩⼤
-Anthropic 的 IPO 雄⼼建⽴在亮眼的营收增速之上。该公司第⼆季度初步营收超过 115 亿美元，⽽
-2025 年同期仅为 7.87 亿美元；截⾄ 7 ⽉底，其年化营收运⾏率已达 650 亿美元。
-与此同时，公司盈利状况呈现明显分化。 Anthropic 第⼆季度经调整后营业利润转正，但 2025 年
-全年净亏损约 420 亿美元，较上年的 83 亿美元扩⼤约五倍。
-这⼀⽭盾折射出 AI 前沿公司的普遍困境 —— 收⼊⾼速增⻓的同时，构建更先进 AI 系统所需的巨额
-投⼊同步攀升。
-就在今年 5 ⽉， Anthropic 完成了⼀轮 650 亿美元融资，估值达 9650 亿美元，超越竞争对⼿
-OpenAI 今年 3 ⽉融资时的 8520 亿美元估值。
-算⼒成本⾼企，资本需求持续扩张
-Anthropic 及其竞争对⼿正⾯临训练前沿⼤模型所带来的极⾼成本压⼒。
-这类模型的训练需要消耗海量算⼒ —— 仅在与数据中⼼运营商签订的协议中， Anthropic 就与
+CDS 急速⾛阔，创下历史新⾼。彭博指出，这笔巨额债务交易不仅难以缓解市场压⼒，还可能
+进⼀步向其他芯⽚商和超⼤规模云计算商（ hyperscaler ）的信⽤利差传导。
+交易结构：表外设计压低融资成本
+根据⽬前讨论的⽅案，博通将为优先担保债务档的部分⾦额提供信⽤背书，并以 SPV 形式发⾏
+债务。这⼀安排与博通此前主导的 "AI XPV 合作 " 平台⾸笔 350 亿美元债务交易如出⼀辙 —— 博通
+承担担保，阿波罗和⿊⽯出资购买定制 AI 芯⽚，再租赁给 Anthropic 使⽤，使优先债务因此获得
+投资级评级，融资成本随之降低。
+三⽅此前已于今年 6 ⽉达成合作伙伴关系，共同为计算基础设施提供融资。根据彭博报道，该合
+作平台计划为逾 20 吉⽡算⼒提供融资，所需资⾦规模将达数千亿美元 —— 相当于约 20 座核电站
+的发电量。
+债务将由 SPV 发⾏，绝⼤部分不会出现在任何⼀⽅的资产负债表上。这种结构性安排使得博通
+的或有负债难以被市场完整定价，也令债券投资者愈发警惕。
+各⽅动机： Anthropic 锁定算⼒，博通挑战英伟达
 
-SpaceX 达成了⼀项算⼒采购协议，该协议未来三年的潜在价值可能⾼达数百亿美元。
-在 IPO 之前， Anthropic 还计划完成⼀笔循环信贷额度的最终签署，据悉融资规模将超过此前约
-100 亿美元的⽬标。此次 IPO 由摩根⼠丹利、⾼盛和摩根⼤通联合承销，后续可能有更多银⾏加
-⼊。
-治理架构与上市时间表
+此次交易背后，买卖双⽅各有诉求。
 ⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⽣活家 搜索
 
 ### Page 2
 
 ⻛险提⽰及免责条款
 市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
-221 收藏 分享到 :
+128 收藏 分享到 :
+对于 Anthropic ⽽⾔，这家 AI 公司正⽇益主动地参与算⼒基础设施建设，试图通过提前锁定芯⽚
+资源，确保在模型训练与推理端拥有充⾜计算能⼒。
+对于博通⽽⾔，此举意在扩⼤芯⽚及数据中⼼设备的销售规模，在这⼀利润丰厚的市场上强化
+对英伟达的竞争态势。博通⾸席执⾏官今年 3 ⽉表⽰，公司预计明年 AI 芯⽚销售额将突破 1000 亿
+美元。
+CDS 告警： AI 债务浪潮冲击信⽤市场
+CDS ⾛阔并⾮博通⼀家的个案。据彭博数据，超⼤规模云计算商的 CDS 已接近今年 7 ⽉的历史⾼
+位，近期有新债发⾏的公司均出现了明显的 CDS 上⾏，其违约⻛险正缓慢但持续地抬升。
+评级机构已公开表达关切。穆迪在报告中警告称，博通或有义务的⼤幅增加 " 即便其现有债务杠
+杆率保持较低⽔平，也将限制博通的财务灵活性，并可能对公司信⽤状况形成压制 " 。标普全球
+
+评级则将博通提供的残值⽀持定性为 " 或有债务类义务 " ，并明确表⽰将把这部分纳⼊调整后的债
+务计算。
+DoubleLine 投资组合经理 Mariya Entina 直⾔： " 这就像在钻系统的空⼦，试图从评级机构那⾥获
+得优待 …… 我们正在进⼊⾦融⼯程的时代。当你搞⾦融⼯程，你就是在掩盖财务现实。 "
+TCW 全球信贷联席主管 Brian Gelfand 则表⽰： " 这不是普通的投资级信贷承销，它远⽐那复杂得
+多。鉴于表外性质，尾部⻛险是偏⾼的。 "
+更⼤背景：科技巨头 3 万亿表外承诺隐忧浮现
+博通此次交易只是 AI 融资浪潮的⼀个缩影。
+据《华尔街⽇报》报道， Alphabet 、 Meta 、微软、亚⻢逊、甲⻣⽂、英伟达、博通、 SpaceX 及
+AMD 等九家顶级科技公司，在最新证券⽂件附注中披露的表外承诺合计约 3 万亿美元，其中绝⼤
+部分与 AI 基础设施建设直接相关。这⼀数字约为上述公司过去⼀年合计资本⽀出 6000 亿美元的 5
+倍，且在仅仅两个⽉内便较此前约 1.8 万亿美元的⽔平增⻓了约 50% 。
+
+这批隐性负债的核⼼构成，包括约 1.2 万亿美元的 " 未开始租约 " 以及约 1.9 万亿美元的 " 采购承
+诺 " 。根据现⾏会计准则，两类⽀出义务在交割或付租前均⽆需计⼊资产负债表。 Alphabet 和亚
+⻢逊近期已相继出现⾃由现⾦流为负的情况，意味着超⼤规模云计算商在可预⻅的未来将持续
+依赖资本市场融资。
+也有市场参与者持较为乐观的⽴场。 Janus Henderson Investors 全球多板块及企业信贷主管
+John Lloyd 认为，触发残值⽀持需要极端条件，并强调相关公司 " 并⾮试图隐藏或有负债，⽽是
+试图为其融资 " 。
+然⽽，悲观⼀⽅的担忧集中于时序错配：资本开⽀承诺已先于营收和⾃由现⾦流落地；⼤量折
+旧成本尚在递延，⼀旦在建⼯程陆续转固，将形成集中的利润压⼒；各公司在表外负债的披露
+标准参差不⻬，令投资者难以完整评估整体⻛险敞⼝。随着 AI 债务发⾏规模持续膨胀，债券市
+场能否持续消化这批供给，正成为悬在市场头顶的核⼼问题。
+
+### Page 3
+
 写评论
 图⽚
-2 条评论
-正在加载
-在公司治理层⾯， Anthropic 正考虑引⼊ " 超级投票权 " 股份架构，以赋予持股约 2% 的⾸席执⾏
-官 Dario Amodei 及其联合创始⼈对公司更强的控制权。该设计旨在确保创始⼈团队在公司上市
-后仍能主导关键决策。
-在上市节奏上， Anthropic 有望早于 OpenAI 完成公开上市 —— 据媒体报道， OpenAI ⽬前将上市
-时间窗⼝推迟⾄ 2027 年。两家公司均已完成机密递交。
-Anthropic 的上市计划为本已强劲的 2026 年 IPO 市场再添浓墨重彩的⼀笔。今年已有两笔史上最
-⼤规模上市交易落地，其中包括韩国芯⽚制造商 SK 海⼒⼠以 265 亿美元完成的美国存托凭证⾸
-发。
 请发表您的评论
 表情 发布评论
 
 ---
-## Document 660: 网易Q2营收同比增8%至301亿元，经调整每股ADS收益12.02元不及预期｜财报见闻
+## Document 441: 台湾･７月輸出受注､半導体などをけん引役に過去最高額に（Asia Weekly） ～世界的なAI・半導体関連投資の旺盛さが輸出受注を押し上げる展開が続く～
 
-Source PDF: all report pdf/网易Q2营收同比增8%至301亿元，经调整每股ADS收益12.02元不及预期｜财报见闻.pdf
-Report source: Unknown
-Date: 未知日期
+Source PDF: all report pdf/台湾･７月輸出受注､半導体などをけん引役に過去最高額に（Asia Weekly） ～世界的なAI・半導体関連投資の旺盛さが輸出受注を押し上げる展開が続く～.pdf
+Report source: DLRI
+Date: 2026-08-21
 Pages: 4
 Extraction status: ok
 
 ### Page 1
 
-⽹易 2026 年 Q2 营收 301.1 亿元，游戏收⼊ 250.2 亿元，均超市场预期；⽑利润 212.2 亿元，
-同⽐增 17.5% 。但经调整每股收益 12.02 元，远低于预期的 15.59 元，主因投资亏损近 30 亿
-元及有效税率升⾄ 25.5% 。财报后美股盘前跌超 6% 。游戏基本盘稳健，但利润受⾮经营因
-素拖累，市场关注新品能否转化为实质盈利增⻓。
-摘要：
-⽹易第⼆季度业绩喜忧参半：营收和核⼼游戏业务均超出市场预期，但经调整利润明显低于预
-期。
-2026 年第⼆季度，⽹易实现净收⼊ 301.1 亿元，同⽐增⻓ 7.9% ，⾼于彭博综合预期的 294.5 亿
-元；经调整每股 ADS 持续经营净收益为 12.02 元⼈⺠币，明显低于市场预期的 15.59 元。⽑利润
-则达到 212.2 亿元，也⾼于市场预估的 197.5 亿元。
-核⼼业务表现依然稳健。在线游戏服务净收⼊ 250.2 亿元，同⽐增⻓ 9.7% ，⾼于市场预估的
-242.8 亿元；创新及其他业务净收⼊ 16.4 亿元，基本符合预期。财报公布后，⽹易美股盘前跌超
+Asia Indicators
 
-6% 。
-营收、⽑利双双超预期，利润端却承压
-从经营表现来看，⽹易⼆季度延续了稳健增⻓态势。上半年公司实现净收⼊ 607 亿元，同⽐增⻓
-7.0% 。
-⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⽣活家 搜索
+2026 年 8 月 21 日
+
+1/4 
+台湾･７月輸出受注､半導体などをけん引役に過去最高額に（Asia Weekly） 
+～世界的な AI・半導体関連投資の旺盛さが輸出受注を押し上げる展開が続く～ 
+ 経済調査部 主席エコノミスト  西濵 徹 
+（℡：050-5474-7495）
+
+（経済指標の振り返り） 
+発表日 指標、イベントなど 結果 コンセンサス 前回 
+8/17（月） （シンガポール）7 月非石油輸出（前年比） 
+（中国）7 月小売売上高（前年比） 
+7 月鉱工業生産（前年比） 
+7 月固定資産投資（年初来前年比） 
+（タイ）4-6 月実質 GDP（前年比） 
+（マレーシア）7 月消費者物価（前年比） 
+＋24.2％ 
+＋0.6％ 
+＋4.5％ 
+▲6.7％ 
+＋1.9％ 
+＋1.8％ 
+＋26.5％ 
+＋1.5％ 
+＋4.8％ 
+▲6.0％ 
+＋1.7％ 
+＋1.9％ 
+＋24.4％ 
+＋1.0％ 
+＋5.3％ 
+▲5.7％ 
+＋2.8％ 
+＋1.9％ 
+8/19（水） （インドネシア）金融政策委員会（政策金利） 5.75％ 5.75％ 5.75％ 
+8/20（木） （オーストラリア）7 月失業率（季調済） 
+（マレーシア）7 月輸出（前年比） 
+7 月輸入（前年比） 
+（台湾）7 月輸出受注（前年比） 
+4.5％ 
+＋38.0％ 
+＋36.4％ 
+＋61.9％ 
+4.4％ 
+＋34.3％ 
+＋32.4％ 
+＋54.6％ 
+4.4％ 
+＋45.5％ 
+＋43.1％ 
+＋49.3％ 
+8/21（金） （ニュージーランド）7 月輸出（億 NZ ドル） 
+7 月輸入（億 NZ ドル） 
+73.9 
+93.4 
+- - 
+- - 
+78.3 
+80.7 
+（注）コンセンサスは Bloomberg 及び THOMSON REUTERS 調査。灰色で囲んでいる指標は本レポートで解説を行っています。 
+[台湾]～世界的なＡＩ･半導体関連投資の旺盛さを追い風に､７月の輸出受注額は過去最高を更新～ 
+20 日に発表された７月の輸出受注額は前年同月比＋61.9％となり、 前月 （同＋49.3％） から伸び
+が加速した。前月比も＋0.42％と３ヵ月連続で増加したものの、伸びは前月（同＋8.31％）から鈍
+化した。輸出受注額の水準は単月ベースで過去最高を更新した。財別では、主力の輸出財である半
+導体など電子部品関連の受注が引き続き拡大しているほか、 電気機械関連の受注にも底堅さがうか
+がえる一方、ＩＴ関連の受注はわずかに下振れしており、分野ごとにばらつきがみられる。国・地
+域別では、 最大の輸出相手である中国向けで拡大の動きに一服感が出ているほか、 欧州向けも下振
+れしているものの、米国向けは引き続き旺盛な動きをみせている。さらに、日本向けやASEAN など
+アジア新興国向けも堅調に推移しており、 世界的なＡＩ （人工知能） ・ 半導体関連需要の旺盛さが受
+注を後押ししている。
 
 ### Page 2
 
-⽑利表现尤其突出。⼆季度⽑利润达到 212.2 亿元，同⽐增⻓ 17.5% ，⾼于市场预估的 197.5 亿
-元；其中⽹络游戏服务⽑利润 190.5 亿元，同样明显⾼于市场预估的 175.5 亿元。
-上半年⽑利润达到 424 亿元，同⽐增⻓ 16.2%，⽑利率持续改善，主要受收⼊分成及产品成本下
-降推动。游戏业务⾃研产品占⽐提升，也进⼀步优化了成本结构。
-但利润端并未跟随⽑利同步增⻓。⼆季度归属于公司股东的净利润为 70 亿元，同⽐、环⽐均有
-所下降；上半年净利润 177 亿元，较去年同期的 189 亿元下降约 6.6% 。
-游戏主业稳健，核⼼产品持续贡献增⻓
-游戏及相关增值服务依然是⽹易最核⼼的增⻓引擎。
-⼆季度在线游戏服务净收⼊ 250.2 亿元，同⽐增⻓ 9.7% ，不仅占公司总收⼊约 83% ，也⾼于市场
-预估的 242.8 亿元；上半年该业务收⼊达到 507 亿元，同⽐增⻓ 8.3% 。
-增⻓主要来⾃多款⾃研⻓线产品。《梦幻西游》系列通过持续内容更新保持稳定表现；《燕云⼗
-六声》在国内市场延续较强表现，并通过新内容运营进⼀步拓展北美和欧洲市场；《蛋仔派对》
+2/4
 
-《第五⼈格》《逆⽔寒》⼿游等产品则继续依靠社区运营和内容更新维持⽤⼾黏性。
-盈利能⼒⽅⾯，游戏业务同样表现突出。上半年游戏及相关增值服务营业成本从去年同期的 143
-亿元降⾄ 125 亿元，⽑利润则由 326 亿元增⾄ 383 亿元，⽑利率从 69.5% 提升⾄约 75.4% 。
-⼆季度⽹络游戏服务⽑利润达到 190.5 亿元，⾼于市场预估的 175.5 亿元，进⼀步显⽰游戏业务
-的盈利质量正在改善。
-新品储备⽅⾯，《遗忘之海》已于 7 ⽉在中国市场上线，《⽆限⼤》《归唐》等产品仍在有序研发
-中。新品陆续进⼊兑现阶段，有望为后续游戏业务增⻓提供⽀撑。
-有道、云⾳乐增⻓温和， AI 布局持续推进
-有道⼆季度净收⼊ 15 亿元，同⽐增⻓ 3.5% ，环⽐增⻓约 8.8% ，主要由学习服务收⼊增⻓带动。
+[ニュージーランド]～原油・石油製品関連の拡大が輸入額を押し上げる一方､輸出額は拡大に一服感～ 
+21 日に発表された７月の輸出額は前年同月比＋13.5％となり、 前月 （同＋20.8％） から伸びが鈍
+化した。前月比は▲2.8％と前月（同＋3.1％）から５ヵ月ぶりの減少に転じており、持ち直しの動
+きに一服感が出ている。 財別では、 主力の輸出財である乳製品や食肉の輸出が軒並み下振れしたほ
+か、 機械製品関連や果物、 魚介類などの輸出も減少するなど、 幅広い分野で弱含む動きがみられる。
+国・地域別では、ASEAN 向けや欧州向けに底堅い動きがみられるものの、最大の輸出相手である中
+国向けが大幅に減少したほか、隣国オーストラリア向けや 米国向けも軒並み減少している。一方、
+輸入額は前年同月比＋28.4％となり、 前月 （同＋27.5％） から伸びが加速した。 前月比も＋2.9％と
+前月 （同▲1.3％） から２ヵ月ぶりの増加に転じるなど一進一退の動きをみせているものの、 中期的
+には拡大傾向で推移している。財別では、原油・石油製品関連の輸入が拡大しているほか、機械製
+品関連や縫製品など幅広い分野で輸入の増加がみられる。その結果、貿易収支は▲19.49 億ＮＺド
+ルとなり、前月（▲2.37 億ＮＺドル）から赤字幅が拡大した。
+
+[マレーシア]～生活必需品を中心に物価上昇圧力が後退し､全般的に物価は落ち着いた動きが続く～ 
+17 日に発表された７月の消費者物価は前年同月比＋1.8％となり、 前月 （同＋1.9％） からわずか
+に伸びが鈍化した。前月比も 0.0％と前月（同 0.0％）に続いて横ばいとなった。補助金政策の効
+果でエネルギー価格が抑えられているうえ、 生鮮品をはじめとする食料品価格も下落基調で推移す
+るなど、生活必需品を中心に物価上昇圧力が後退していることが影響している。なお、食料品とエ
+ネルギーを除いたコアインフレ率も前年同月比＋1.8％となり、前月（同＋1.9％）からわずかに伸
+図 1 TW 輸出受注の推移
+
+（出所）CEIC より第一ライフ資産運用経済研究所作成   
+図 2 NZ 貿易動向の推移
+
+（出所）CEIC より第一ライフ資産運用経済研究所作成
 
 ### Page 3
 
-AI 仍是有道的重要战略⽅向。本季度，有道推出 “ ⼦⽈ 4” （ Confucius 4 ）⼤模型，并进⼀步强化
-AI Agent 能⼒，推动产品向⾃主执⾏复杂学习和办公任务⽅向演进。上半年有道净收⼊ 28 亿元，
-同⽐增⻓ 3.6% ，学习服务和在线营销服务贡献增⻓，但部分被智能硬件收⼊下滑抵消。
-⽹易云⾳乐⼆季度净收⼊约 20 亿元，同⽐基本持平；上半年收⼊ 40 亿元，同⽐增⻓ 3.4% 。增⻓
-主要由会员订阅推动，在线⾳乐服务收⼊保持稳步提升。上半年云⾳乐⽑利润达到 14.7 亿元，⾼
-于去年同期的 13.9 亿元，盈利能⼒⼩幅改善。
-创新及其他业务⼆季度净收⼊ 16.4 亿元，基本符合市场预期。整体⽽⾔，有道和云⾳乐增⻓相对
-温和，当前对集团整体收⼊增速的贡献仍弱于游戏业务。
-投资亏损与税率上升，成为利润两⼤拖累
-⽹易利润端承压，主要并⾮来⾃主营业务，⽽是投资端波动和税率上升。
-⼆季度 “ 其他收⼊ / 费⽤ ” 项⽬录得约 29.5 亿元亏损，主要受到股票投资公允价值下降及计提减值准
+3/4 
+びが鈍化した。前月比も 0.0％と前月（同 0.0％）に続いて横ばいとなった。エネルギー価格の下
+落を受けて輸送コストに下押し圧力がかかるなか、 財価格の上昇圧力が抑えられているほか、 サー
+ビス物価の上昇も緩やかなものにとどまるなど、全般的に物価は落ち着いた動きをみせている。 
+20 日に発表された７月の輸出額は前年同月比＋38.0％となり、 前月 （同＋45.5％） から伸びが鈍
+化した。前月比は＋9.8％と前月（同▲8.8％）から２ヵ月ぶりの増加に転じるなど一進一退の動き
+をみせているものの、中期的には拡大傾向で推移している。財別では、主力の輸出財である半導体
+など電子部品・機械製品関連の輸出が旺盛な動きをみせているほか、 化学製品関連にも堅調さがう
+かがえる一方、 価格上昇の一服を受けて原油や天然ガスなどエネルギー資源関連の輸出には下押し
+圧力がかかっている。国・地域別では、最大の輸出相手である中国向けのほか、ASEAN など周辺国
+向けも堅調な動きをみせるとともに、 ＥＵ向けも底堅く推移する一方、 米国向けや中南米向けは下
+振れしている。一方、輸入額は前年同月比＋36.4％となり、前月（同＋43.1％）から伸びが鈍化し
+た。 ただし、 前月比は＋0.1％と、 伸びは前月 （同＋17.3％） から大幅に鈍化したものの、 ２ヵ月連
+続で増加した。 財別では、 原油高の一服を受けてエネルギー資源関連の輸入に下押し圧力がかかる
+一方、機械製品関連や化学製品関連、食料品関連の輸入には底堅い動きがみられる。その結果、貿
+易収支は＋224.60 億リンギとなり、前月（＋157.78 億リンギ）から黒字幅が拡大した。
 
-备影响，⽽去年同期该项⽬仍贡献约 3.3 亿元正收益，形成超过 30 亿元的同⽐负⾯冲击。
-上半年累计投资亏损同样接近 29.5 亿元，⽽去年同期该项⽬仍贡献约 10.2 亿元收益。
-税负上升进⼀步侵蚀利润。⼆季度有效税率达到 25.5% ，明显⾼于去年同期的 14.7% ；上半年有
-效税率也从 15.0% 升⾄ 21.7% 。
-上半年所得税费⽤由去年同期的 35 亿元增⾄ 50 亿元，增幅超过 40% 。公司表⽰，税率变化反映
-了集团对适⽤税务义务和权利的阶段性估计，但这⼀变化已经对最终净利润形成明显拖累。
-这也解释了为何⽹易出现 “ 营收、⽑利超预期，但每股收益不及预期 ” 的分化局⾯。
-研发投⼊增加，现⾦储备依然充裕
-⽹易继续保持较⾼的研发和市场投⼊。上半年经营费⽤合计 177 亿元，同⽐增⻓ 3.9% 。
-其中，研发费⽤由 87.4 亿元增⾄ 91.3 亿元，销售及市场费⽤由 62.7 亿元增⾄ 71.2 亿元，反映公司
-仍在加⼤新品研发和全球化推⼴⼒度。与此同时，⼀般及管理费⽤由 20.1 亿元降⾄ 14.4 亿元，显
+[シンガポール]～半導体など電子部品関連の輸出は引き続き堅調も､全体では持ち直しの動きに一服～ 
+17 日に発表された７月の非石油輸出額は前年同月比＋24.2％となり、 前月 （同＋24.4％） からわ
+ずかに伸びが鈍化した。前月比も▲0.31％と前月（同▲8.82％）から２ヵ月連続で減少しており、
+持ち直しの動きに一服感が出ている。 財別では、 主力の輸出財である半導体など電子部品関連や電
+気機械関連で堅調な動きがみられる一方、 医薬品など化学製品関連のほか、 金属関連の輸出が力強
+さを欠くとともに、 食料品関連の輸出にも下押し圧力がかかるなど、 分野ごとのばらつきが鮮明に
+なっている。原油関連をあわせた総輸出額も前年同月比＋40.6％となり、前月（同＋48.9％）から
+伸びが鈍化した。 前月比は0.0％と前月 （同＋3.4％） から横ばいに転じており、 持ち直しの動きに
+一服感が出ている。一方、輸入額は前年同月比**＋36.3％となり、前月（同＋49.7％）から伸びが
+鈍化した。ただし、前月比は＋4.4％と前月（同▲7.1％）から２ヵ月ぶりの増加**に転じるなど、
+一進一退の動きが続いている。財別では、機械製品や化学製品、原材料関連の輸入は堅調な動きを
+みせる一方、 価格下落を反映して原油や天然ガス、 石炭などエネルギー関連の輸入には下押し圧力
+図 3 MY インフレ率の推移      図 4 MY 貿易動向の推移
 
-⽰总部层⾯的费⽤控制有所改善。
-现⾦流仍然稳健。⼆季度经营活动净现⾦流⼊约 100 亿元，上半年合计约 237 亿元。
-截⾄ 2026 年 6 ⽉ 30 ⽇，⽹易净现⾦余额达到 1675 亿元，较年初的 1635 亿元进⼀步增加。充裕的
-现⾦储备为公司持续研发、产品投⼊以及股东回报提供了较强⽀撑。
-回购派息延续，港股完成 “ 双重主要上市 ”
-股东回报⽅⾯，⽹易继续推进回购与派息。
-报告期内，公司在纳斯达克累计回购约 1404 万股普通股，合计⽀付约 3.24 亿美元。截⾄ 6 ⽉底，
-在现有回购计划下累计回购⾦额约 23 亿美元，回购计划有效期已延⻓⾄ 2029 年 1 ⽉。
-股利⽅⾯，董事会批准 2026 年第⼆季度每股普通股派息 0.096 美元，对应每股美国存托股 0.480
-美元，预计于 9 ⽉⽀付。 2026 年上半年累计派息每股普通股 0.240 美元，与去年同期的 0.249 美元
-基本相当。
+（出所）CEIC より第一ライフ資産運用経済研究所作成  （出所）CEIC より第一ライフ資産運用経済研究所作成
 
 ### Page 4
 
-⻛险提⽰及免责条款
-市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
-225 收藏 分享到 :
-写评论
-图⽚
-此外， 6 ⽉ 30 ⽇，⽹易在⾹港联交所的上市地位正式由第⼆上市升级为 “ 双重主要上市 ” ，标志着
-公司在港资本市场布局进⼀步深化。
-整体来看，⽹易⼆季度业绩的核⼼特征是 “ 营收和游戏业务超预期，利润却受到⾮经营因素拖
-累 ” 。从主营业务看，游戏收⼊、⽑利润均明显⾼于市场预期，且游戏⽑利率持续改善，核⼼基
-本盘依然稳固。
-但投资亏损扩⼤、税率上升以及经调整利润不及预期，解释了财报公布后股价盘前跌超 6% 的市
-场反应。接下来，随着《遗忘之海》等新品陆续上线，以及《燕云⼗六声》等产品继续推进海
-外市场，⽹易能否将强劲的游戏盈利能⼒进⼀步转化为净利润增⻓，将成为市场关注的重点。
-请发表您的评论
-表情 发布评论
+本資料は情報提供を目的として作成されたものであり、投資勧誘を目的としたものではありません。作成時点で、第一ライフ資産運用
+経済研究所が信ずるに足ると判断した情報に基づき作成していますが、その正確性、完全性に対する責任は負いません。見通しは予告
+なく変更されることがあります。また、記載された内容は、第一生命保険ないしはその関連会社の投資方針と常に整合的であるとは限
+りません。 
+4/4 
+がかかっている。 この結果、 貿易収支は＋126.14 億ＳＧドルとなり、 前月 （＋128.86 億ＳＧドル）
+から黒字幅が縮小した。
+
+以 上 
+図 5 SG 貿易動向の推移
+
+（出所）CEIC より第一ライフ資産運用経済研究所作成
 
 ---
-## Document 694: 英国ＧＤＰ（2026年4-6月期）－1-3月期に続き高めの成長率を維持
+## Document 462: 宏观经济月报：寻找放缓中的结构性亮点
 
-Source PDF: all report pdf/英国ＧＤＰ（2026年4-6月期）－1-3月期に続き高めの成長率を維持.pdf
-Report source: Unknown
-Date: 未知日期
-Pages: 2
+Source PDF: all report pdf/宏观经济月报：寻找放缓中的结构性亮点.pdf
+Report source: 国信证券
+Date: 2026-08-18
+Pages: 14
 Extraction status: ok
 
 ### Page 1
 
-1． 結果の概要：前期比 0.4％増で高めの成長率を維持 
-8 月 14 日、英国国家統計局（ＯＮＳ）はＧＤＰの一次速報値（first quarterly estimate）およ
-び月次ＧＤＰを公表し、結果は以下の通りとなった。 
-【2026 年4-6 月期実質ＧＤＰ（季節調整値）】 
-・前期比は0.4％、予想1（0.4％）と一致、前期（0.6％）から低下した（図表 1） 
-・前年同期比は1.2％、予想（1.1％）より上振れ、前期（0.9％）から上昇した 
-【月次実質ＧＤＰ（4-6 月）】 
-・前月比は 4 月▲0.1％、5 月▲0.0％、6 月 0.3％となり、6 月は予想（▲0.1％）を上回った 
-（図表 1）
+宏观经济月报
+寻找放缓中的结构性亮点
+核心观点 经济研究·宏观月报
+证券分析师：田地 证券分析师：董德志
+0755-81982035 021-60933158
+tiandi2@guosen.com.cn dongdz@guosen.com.cn
+S0980524090003 S0980513100001
+基础数据
+固定资产投资累计同比 -6.70
+社零总额当月同比 0.60
+出口当月同比 23.90
+M2 7.70
+市场走势
+资料来源：Wind、国信证券经济研究所整理
+相关研究报告
+《宏观经济月报-“杠铃”政策应对“K 型”分化》——2026-07-16
+《宏观经济月报-内冷外热——经济修复的“温差”》 ——
+2026-06-16
+《宏观经济月报-3月更接近“真相”》 ——2026-04-17
+《宏观经济月报-经济回升的“地基”仍待夯实》——2026-03-16
+《宏观经济月报-冬日暖阳新意浓》 ——2026-01-19
+统计局数据显示，7 月工业增加值、固定资产投资、社零同比均有所回
+落，显示经济修复动能放缓。这背后并非简单的总量趋弱，而是新旧动
 
-（図表 2）
+能转换背景下的 K 型分化向生产和需求端的加速扩散。新动能仍在扩张，
+旧动能继续让位，二者之间的缺口进一步压低总量表现。换言之，经济
+并不缺少增长点，症结在于新动能的增量尚不足以完全对冲旧动能。
+一是生产端“硅基强、碳基弱”的格局更为鲜明。工业增加值同比回落
+0.8个百分点至 4.5%，服务业生产指数亦回落 0.4个百分点至 4.3%，显
+示生产边际放缓。一方面，硅基表现亮眼：高技术制造业增幅扩大至
+16.9%，创 2021年 8月以来新高；电子通信、专用设备领涨；工业机器
+人和集成电路产量增速仍在进一步走高。另一方面，碳基加速让位：水
+泥、乙烯、钢材等传统板块偏弱。
+二是投资端“硅碳分化”的趋势更加清晰。三大投资项虽同步走弱，但
+在“硅基景气”的带动下，制造业投资仍具韧性，尚不足启动趋势性下
+行。基建和地产投资降幅则进一步走扩：前者或受投资用专项债发行偏
+慢制约，财政资金向实物工作量转化仍是堵点；后者的销售额降幅收窄
+快于销售面积，反映“以价换量”格局改善，需求筑底、存量出清的边
+际企稳信号延续。
 
-2． 結果の詳細：4・5 月は停滞したが 6 月には高成長を記録 
-英国の4-6 月期の実質成長率は前期比0.4％（年率換算1.7％）となった。1-3 月期（前期比0.
-6％、年率2.5％）から低下したものの、やや高めの伸び率を維持し、前年同期比では1.2％と 1-3
-月期（同0.9％）から改善している。実質ＧＤＰの水準はコロナ禍前（19 年 10-12 月期）と比べ
-て6.3％ほど高い水準まで到達したが、ユーロ圏と比較すると回復はやや遅い（図表2）。 
-需要項目別に前期比成長率を確認すると、個人消費が0.3％（前期 0.6％）、政府消費が▲0.3％
-（前期 1.3％）、投資が 1.2％（前期 0.4％）、輸出が 0.5％（前期 0.2％）、輸入が 0.5％（前期
-1.4％）だった。前期比寄与度では在庫変動等が0.09％ポイント（前期0.37％ポイント）、純輸出
+三是消费端“新消费领跑、传统消费承压”的偏好更加显著。社零增速
+回落基本符合季节性；在今年国补托底、去年同期高基数逐步消退的共
+同作用下，通讯器材继续领涨且增幅扩大。与此同时，建筑装潢和体育
+娱乐、金银珠宝等品类领跌，且跌幅放大，表明内生消费需求仍待提振。
+四是外需“高技术产品支撑、劳动密集型产品承压”的特征进一步显性。
+高技术产品、船舶和汽车仍是出口增长的主要支撑，传统劳动密集型产
+品则持续承压；部分芯片、稀土出口高增更多由价格而非数量带动，出
+口结构性亮点对生产/GDP支撑的持续性仍需观察。
+综上，我们测算 7 月实际 GDP 同比约增 4.3%，低于 4.5%的目标下限。
+后续政策仍留有后手，变量在于发力的时、度、效。需要重点关注以下
+三方面指标：①生产端受外生冲击拖累的石化及煤炭板块是否逐步修
+复，不再拖累工业增加值增速；②财政资金是否加速支出。截至 7 月，
+新增投资用专项债发行进度仍偏慢，基建对经济的支撑滞后，8000亿元
+新型政策性金融工具亦未明确落地，财政存款余额处于高位，预算额度
 
-1 Bloomberg 集計の中央値。以下の予想も同様。 
-0.4
-1.2
-▲ 8
-▲ 6
-▲ 4
-▲ 2
-0
-2
-4
-6
-8
-10
-2018
-2019
-2020
-2021
-2022
-2023
-2024
-2025
-2026
-輸入 輸出 在庫変動等 投資
-政府消費 個人消費 ＧＤＰ（前期比） ＧＤＰ（前年同期比）
-英国の実質ＧＤＰ成長率（需要項目別寄与度）
-（四半期）
-（注）季節調整値、寄与度は前年同期比の寄与度
-（資料）ＯＮＳ
-（％）
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-アイルランド
-リトアニア
-ポルトガル
-スペイン
-オランダ
-ベルギー
-イタリア
-ユーロ圏（全体）
-フランス
-英国
-オーストリア
-フィンランド
-エストニア
-ドイツ
-欧州のＧＤＰ水準（コロナ禍前との比較）（コロナ禍前比、％）
-（注）2019年10-12月期比、一部の国は伸び率等から推計
-（資料）Eurostat
-33.7％
-18.6％
-ニッセイ基礎研究所 2026-08-14 
-英国ＧＤＰ（2026 年 4-6 月期） 
-－1-3 月期に続き高めの成長率を維持
+完成前，加码将较为困难；③海外资本开支二阶导拐点，叠加去年同期
+高基数，算力出口韧性是否会在 8-9月出现拐折。
+风险提示：政策刺激力度减弱，海外经济政策不确定性。
+2026年08月18日
 
 ### Page 2
 
-（図表 5）
+内容目录
+寻找放缓中的结构性亮点 ........................................................ 4
+就业：季节性走弱 ......................................................................5
+生产端：新旧动能分化加剧 ..............................................................6
+需求端：投资—整体承压 ................................................................8
+需求端：消费—内生动能仍弱 ............................................................9
+需求端：进出口—增速拐点将至 .........................................................10
 
-名目ＧＤＰは、4-6 月期の前期比で 0.8％（前期は 1.7％） 、前年同期比で 4.1％（前期 4.4％） 、
-デフレータは前期比 0.4％（前期 1.1％） 、前年同期比2.9％（前期 3.5％）となり、デフレータの
-伸びは前期比でも前年同期比でも低下した（図表5）。 
-名目ＧＤＰを所得別に見ると、 雇用者報酬が前期比0.2％ （前期2.1％） 、営業余剰は同 3.8％ （前
-期0.7％）となり、営業余剰が大幅に上昇した。 
-100.5
-106.8
-85
-90
-95
-100
-105
-110
-20/1
-20/4
-20/7
-20/10
-21/1
-21/4
-21/7
-21/10
-22/1
-22/4
-22/7
-22/10
-23/1
-23/4
-23/7
-23/10
-24/1
-24/4
-24/7
-24/10
-25/1
-25/4
-25/7
-25/10
-26/1
-26/4
-英国の月次ＧＤＰの推移（2019年＝100）
-（月次）
-（注）季節調整値。生産は鉱業・製造業・電気・ガス・水道
-（資料）ＯＮＳ
-生産
-サービス
-ＧＤＰ
-建設
-▲ 5
-▲ 4
-▲ 3
-▲ 2
-▲ 1
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-2018
-2019
-2020
-2021
-2022
-2023
-2024
-2025
-2026
-英国のＧＤＰとデフレータ伸び率（前年同期比、％）
-（四半期）
-（注）季節調整値
-（資料）ＯＮＳ
-名目ＧＤＰ伸び率
-実質ＧＤＰ伸び率 デフレータ伸び率（右軸）
-（前年同期比、％）
-（図表 3）
-
-本誌記載のデータは各種の情報源から入手・加工したものであり、その正確性と完全性を保証するものではありません。 
-また、本誌は情報提供が目的であり、記載の意見や予測は、いかなる契約の締結や解約を勧誘するものではありません。 
-▲ 6
-▲ 4
-▲ 2
-0
-2
-4
-6
-▲ 6
-▲ 4
-▲ 2
-0
-2
-4
-6
-ＧＤＰ
-〔100.0〕
-農林水産セクター
-〔0.7〕
-全体
-鉱業
-〔0.7〕
-製造業
-〔9.8〕
-電気・ガス
-〔1.3〕
-水道
-〔1.3〕
-建設セクター
-〔6.3〕
-全体
-卸・小売
-〔10.8〕
-輸送
-〔4.2〕
-住居・飲食
-〔2.9〕
-情報通信
-〔7.3〕
-金融・保険
-〔6.5〕
-不動産
-〔13.4〕
-専門サービス
-〔8.1〕
-管理・支援サービス
-〔5.4〕
-政府サービス
-〔4.8〕
-教育
-〔5.7〕
-医療
-〔7.4〕
-芸術・娯楽
-〔1.6〕
-その他サービス
-〔1.6〕
-生産セクター〔13.1〕 サービスセクター〔79.9〕
-業種別のＧＤＰ前期比伸び率、前年同期比伸び率
-4-6月期前年比（右軸）
-4-6月期前期比
-（注）カッコ内は2019年のＧＤＰ（厳密には総付加価値の意味）に占める各産業の割合、自家利用は記載していない
-（資料）ＯＮＳ、Datastream
-（前期比、％）
-1-3月期前期比
-（前年比、％）
-
----
-## Document 719: 这届机器人没有新故事，只有真问题
-
-Source PDF: all report pdf/这届机器人没有新故事，只有真问题.pdf
-Report source: WallstreetCN (Global)
-Date: 2026-08-21
-Pages: 10
-Extraction status: ok
-
-### Page 1
-
-距离 WAIC 闭幕仅⼀个⽉，机器⼈在 WRC 上继续 “ 卷 ” 场景应⽤，但叠⾐服、拣快递等展⽰与
-⼤众期待仍有差距。从业者认为具⾝智能的 “GPT 时刻 ” 未⾄，技术变化尚未被所有⼈感知。
-硬件成本下降、运控成熟，但⻓程任务与精度仍是⻔槛。
-摘要：
-距离 WAIC （ 2026 世界⼈⼯智能⼤会）闭幕才⼀个⽉，机器⼈们⼜从上海 “ 卷 ” 到了北京，开始在
-WRC （ 2026 世界机器⼈⼤会）上⼤显⾝⼿。
-与 WAIC 不同的是，在 WRC ， “ 看热闹 ” 的⼈和 “ 看⻔道 ” 的⼈聚到了⼀起。
-⼀些⽼⼈带着放暑假的孙辈来逛展，现场的机器⼈做完披萨后，⼀位⽼爷爷替孙⼥要来了这块
-披萨。⼯作⼈员递过去时，还特意叮嘱了⼀句： “ 不⼀定好吃。 ”
-银河通⽤的展位被围得⽔泄不通。⼀对⽼夫妻⽤东北⼝⾳聊了起来。⽼爷⼦问： “ 银河是哪个单
-位的？ ” 站在⼀旁的⽼伴⼉⼲脆利落地答道： “ 不知道。 ” ⼀问⼀答，带着东北话特有的爽利，惹得
-⼈忍俊不禁。但这丝毫不妨碍两⼈继续津津有味地看下去。
-
-与他们相反，另⼀拨⼈则⾏⾊匆匆，带着明确的⽬的，交流技术细节和机器⼈解决⽅案。
-因此，在 WRC 现场，我也听到了两种截然不同的声⾳。“ 吃⽠群众 ” 看到的是：机器⼈怎么还在
-叠⾐服、抓快递？和 2025 年相⽐，好像也没什么变化。⽽真正看⻔道的⼈，关注的却是另⼀类
-问题。他们两眼放光上前交流，追问机器⼈背后的实现⽅式：⽤了什么模型、积累了多少数
-据、能否完成⻓程任务，以及精度究竟达到了厘⽶级还是毫⽶级。
-星海图创始⼈兼 CEO ⾼继扬的⼀句话，为这种看似割裂的现象提供了解释。他认为，具⾝智能
-⾏业已经进⼊爆发期，但所谓具⾝智能的 “GPT 时刻 ” ，需要同时满⾜两个条件：⼀是技术真正达
-到临界点，⼆是所有⼈都在某个瞬间意识到，这个时刻已经到来。
-也就是说，技术上的变化可能已经发⽣，但这种变化还没有被所有⼈同时感知。
-⾃变量创始⼈、 CEO 王潜认为，具⾝模型 “ 在⾛语⾔模型 5 年前⾛过的路上 ” 。从腾讯科技与多位
-⾏业⼈⼠的交流来看，从业者之间已经形成了相当明显的共识：⼤家都在积极尝试解决具体问
-
-题，也相信那个时刻终将到来。与此同时，更偏 C 端的观众仍在⽤科幻电影中的想象，衡量当下
-具⾝智能的发展⽔平。
-⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⽣活家 搜索
-
-### Page 2
-
-在 WRC 现场，腾讯科技与星海图、墨奇智能、众擎机器⼈等多家头部企业创始⼈交流，试图寻
-找⼈形机器⼈⾏业正在发⽣的变化，以及属于这个⾏业的 “ 德尔塔 ” 。（注：德尔塔（ Δ ）是⼀个数
-学概念，表⽰变化量或差值。）
-场景，还是场景
-和上海 WAIC ⼀样，今年 WRC 上的机器⼈也都在 “ ⼲活 ” 。与 2025 年相⽐，这原本是⼀个相当显著
-的变化。但有了⼀个⽉前 WAIC 的铺垫，到了 WRC ，展⽰应⽤场景似乎已经成了机器⼈展会的
-必选项。
-它们都在⼲哪些活？腾讯科技在现场看到，⼤致可以分为以下⼏类。
-⾸先是叠⾐服。银河通⽤的机器⼈在现场叠⽩衬衫；星海图的双层展位中，⼀层专⻔留出了⼀
-块敞亮的空间⽤于展⽰叠⾐服。两只夹⽖共同夹起⼀件 T 恤，协同完成后续操作。
-眼前的画⾯，让⼈恍惚回到 2024 年。那⼀年，特斯拉曾发布擎天柱叠 T 恤的视频，不过⻢斯克随
-后承认，演⽰中存在遥控操作。也正因如此， “ 叠⾐服 ” 在很多⼈看来早已不算新鲜，却依然是
-WRC ⼏乎每年都会反复展⽰的经典场景。
-
-为什么⼤家都盯上了叠⾐服？星海图展位的⼯作⼈员告诉腾讯科技，⾐服属于柔性物体，形态
-会在操作过程中不断发⽣变化。对机器⼈来说，叠⾐服看似⽇常，实际上是⼀项颇为复杂的任
-务。墨奇智能联合创始⼈、 CTO ⻩⻘虬表⽰： “ 只有选择⾜够复杂的场景，才能获取⾜够丰富、
-多样的数据，进⽽训练出能⼒更强的基础模型。 ”
-另⼀类常⻅任务是物品拣选。在物品抓取上，乐聚和⾃变量瞄准物流场景，墨奇智能则把机器
-⼈放进⽇常环境，处理散落的杂物。
+风险提示 ..................................................................... 12
 
 ### Page 3
 
-（左：乐聚机器⼈  右：墨奇智能）
-此外，还有⼀些更贴近消费者的场景。例如，银河通⽤的 Galbot G1 进⼊便利店拿取物品，还有
-⼀些机器⼈尝试在现场泡咖啡、做披萨。
+图表目录
+图1： 中国实际 GDP月度同比增速测算 ........................................................ 5
+图2： 投资用专项债发行进度较慢 ............................................................ 5
+图3： 当前财政资金仍较为宽裕 .............................................................. 5
+图4： 7 月国内调查失业率上升，劳动力市场季节性承压 .........................................6
+图5： 中国工业增加值和高技术产业增加值同比一览 ............................................ 6
+图6： 中国工业增加值定基指数历年环比增速一览 .............................................. 6
+
+图7： 采矿业、制造业、公用事业增加值当月同比一览 .......................................... 7
+图8： 主要产品产量当月同比与前月同比的差值一览 ............................................ 7
+图9： 服务业生产指数同比走势一览 .......................................................... 8
+图10： 中国固定资产投资完成额同比增速一览 ................................................. 8
+图11： 中国固定资产投资完成额环比增速一览 ................................................. 8
+图12： 房地产开发、制造业、基建、其他投资同比增速一览 ..................................... 9
+图13： 房地产开发、制造业、基建、其他投资环比增速一览 ..................................... 9
+
+图14： 房地产销售面积和销售额同比增速一览 ................................................. 9
+图15： 中国社会消费品零售总额同比增速一览 ................................................ 10
+图16： 中国社会消费品零售总额环比增速一览 ................................................ 10
+图17： 商品销售金额同比变化幅度一览 ...................................................... 10
+图18： 出口金额同比增速 .................................................................. 11
+图19： 出口金额季节性变化 ................................................................ 11
+
+图20： 分商品出口金额当月同比情况 ........................................................ 12
+图21： 分国别出口金额当月同比 ............................................................ 12
 
 ### Page 4
 
-从机器⼈在这些场景的表现来看，与过去相⽐，今年的机器⼈展⽰有两点变化尤其明显。
-第⼀，机器⼈似乎开始会 “ 思考 ” 了。更准确地说，它们能够根据任务的执⾏结果作出判断，并
-进⾏⾃主纠错。
-⽐如，在星海图的叠⾐服演⽰中，如果其中⼀只夹⽖没有夹住⾐服，机器⼈不会停在原地，⽽
-是会重新判断并反复尝试，直到成功夹住为⽌。物流拣选也是如此。当⾃变量机器⼈发现物体
-没有被顺利移动到⽬标位置时，会主动调整动作、重新执⾏，直⾄完成任务。
+寻找放缓中的结构性亮点
+统计局数据显示，7 月工业增加值、固定资产投资、社零同比均有所回落，显示
+经济修复动能放缓。这背后并非简单的总量趋弱，而是新旧动能转换背景下的 K
+型分化向生产和需求端的加速扩散。新动能仍在扩张，旧动能继续让位，二者之
+间的缺口进一步压低总量表现。换言之，经济并不缺少增长点，症结在于新动能
+的增量尚不足以完全对冲旧动能。
+一是生产端“硅基强、碳基弱”的格局更为鲜明。工业增加值同比回落 0.8个百
+分点至 4.5%，服务业生产指数亦回落 0.4个百分点至 4.3%，显示生产边际放缓。
+一方面，硅基表现亮眼：高技术制造业增幅扩大至 16.9%，创 2021年 8 月以来新
+高；电子通信、专用设备领涨；工业机器人和集成电路产量增速仍在进一步走高。
+另一方面，碳基加速让位：水泥、乙烯、钢材等传统板块偏弱。
+二是投资端“硅碳分化”的趋势更加清晰。三大投资项虽同步走弱，但在“硅基
+景气”的带动下，制造业投资仍具韧性，尚不足启动趋势性下行。基建和地产投
+资降幅则进一步走扩：前者或受投资用专项债发行偏慢制约，财政资金向实物工
+
+作量转化仍是堵点；后者的销售额降幅收窄快于销售面积，反映“以价换量”格
+局改善，需求筑底、存量出清的边际企稳信号延续。
+三是消费端“新消费领跑、传统消费承压”的偏好更加显著。社零增速回落基本
+符合季节性；在今年国补托底、去年同期高基数逐步消退的共同作用下，通讯器
+材继续领涨且增幅扩大。与此同时，建筑装潢和体育娱乐、金银珠宝等品类领跌，
+且跌幅放大，表明内生消费需求仍待提振。
+四是外需“高技术产品支撑、劳动密集型产品承压”的特征进一步显性。高技术
+产品、船舶和汽车仍是出口增长的主要支撑，传统劳动密集型产品则持续承压；
+部分芯片、稀土出口高增更多由价格而非数量带动，出口结构性亮点对生产/GDP
+支撑的持续性仍需观察。
+综上，我们测算 7 月实际 GDP 同比约增 4.3%，低于 4.5%的目标下限。后续政策
+仍留有后手，变量在于发力的时、度、效。需要重点关注以下三方面指标：①生
+产端受外生冲击拖累的石化及煤炭板块是否逐步修复，不再拖累工业增加值增速；
+②财政资金是否加速支出。截至 7 月，新增投资用专项债发行进度仍偏慢，基建
+
+对经济的支撑滞后，8000亿元新型政策性金融工具亦未明确落地，财政存款余额
+处于高位，预算额度完成前，加码将较为困难；③海外资本开支二阶导拐点，叠
+加去年同期高基数，算力出口韧性是否会在 8-9月出现拐折。
 
 ### Page 5
 
-（左：⾃变量机器⼈展⽰物流拣选  右：星海图展⽰叠⾐服场景）
-第⼆，机器⼈能够完成的任务链条变得更⻓了。例如， UniX AI 尝试让机器⼈冲泡功夫茶。整个
-流程包括舀茶、投茶、注⽔、浸泡、出汤和过滤，机器⼈需要连续完成多个相互衔接的步骤。
-不过在逛展期间，没有看到它真实的完整演⽰。
-虽然，从这次 WRC 看来，机器⼈开始⾛进更多场景，也能完成更⻓的任务链条，但距离真正 “ 把
-活⼲好 ” ，还有⼀道最难迈过的⻔槛：最后⼏厘⽶，甚⾄⼏毫⽶。
-王兴兴在 WRC 上表⽰，如果⼀台机器⼈被带到任意陌⽣环境，甚⾄进⼊家庭后，能够完成 80%
-左右的任务，具⾝智能就接近了真正的临界点，产业也将迎来爆发。但现阶段依旧很难做到，
-“ ⽬前 AI 模型的输⼊和输出，与真实机器⼈的对⻬程度还不够。你让它移动、把东西装配在⼀
-起，或者把物体搬到某个位置，⼤⽅向没有问题，基本能够执⾏；但到了最后⼏厘⽶、最后⼏
-毫⽶，成功率和偏差还⽆法很好地与真实世界匹配。 ”
-硬件不再是难点
+图1：中国实际 GDP月度同比增速测算
+资料来源：Wind、国信证券经济研究所整理和测算
+图2：投资用专项债发行进度较慢 图3：当前财政资金仍较为宽裕
+资料来源：Wind、国信证券经济研究所整理 资料来源：Wind、国信证券经济研究所整理
+就业：季节性走弱
+7 月份全国城镇调查失业率录得 5.2%，较上月回升 0.2个百分点；31 个大城市调
+查失业率同步升至 5.2%。从历史季节性规律来看，近三年同期失业率均环比上行，
+本月数据的边际走弱符合季节性，表明当前劳动力市场总体平稳。
 
 ### Page 6
 
-应⽤场景之所以能成为今年 WRC 的展⽰重点，⼀个重要前提是，机器⼈本体和运动控制已经跨
-过了早期的技术⻔槛。对不少⼚商⽽⾔，让机器⼈稳定地⾛、跑、跳，已不再是最难的问题。
-这种变化主要体现在两个⽅⾯：⼀是技术⻔槛正在降低，⼆是硬件成本持续下降。
-⾸先，本体的运控技术已经收敛。
-今年 WRC 上，宇树 G1 ⼜跳起了团舞。加速进化把机器⼈送上台舞狮，还让它模仿迈克尔 · 杰克
-逊；另⼀边，众擎的机器⼈迈着颇为⾃然的步⼦⾛来，转⾝⼜打起了拳。
-机器⼈们把展台变成了舞台，围观的⼈举起⼿机，熟练地拍下⼀段段视频。虽然这样的场景在
-过去⼏年⼀直很常⻅，但不常⻅的是，和⼏年前相⽐，⼈群⾥的惊叹声似乎少了⼀些。
-⽽在两年前，⼀台机器⼈只要能稳稳站住、顺利⾛完⼀段路，就⾜以吸引所有⼈的⽬光。如
-今，伴随着运动控制能⼒逐渐成熟，⾛路、跑跳和完成⼀套预设动作，正在成为⼈形机器⼈的
-基本功。
-这也解释了为什么⼚商们开始争相展⽰叠⾐服、拣快递和泡功夫茶。
-但众擎机器⼈创始⼈、 CEO 赵同阳表⽰， “ 运控这件事，永远没有尽头。 ”
-
-虽然运控这⼏年进步很快，⽐如，众擎机器⼈已经可以参加拳击赛；在机器⼈运动会上，⼀些
-机器⼈⾼速奔跑，速度甚⾄已经超过⼈类。但如果以真正想达到的⽔平来衡量，现在可能也只
-有 60 分。
-其次，制造机器⼈的成本也在下降。
-赵同阳告诉腾讯科技，过去⼏年，⼈形机器⼈核⼼零部件已⼤幅降价：滚珠丝杠三年降价约⼗
-倍，减速器价格下降⼀半。随着供应链放量，整机成本还将继续下降。
-⼀位具⾝智能从业者以⼀体化关节模组为例， 2025 年，国内头部供应商开始迈⼊年出货量⼗万
-套级别。其中，意优科技全年交付约 9.5 万套，泉智博和因克斯披露的出货量均超过 10 万套。
-截⾄ 2026 年上半年，泉智博⼀体化关节模组的累计发货量已超过 12 万套，仅 6 ⽉单⽉出货量就超
-过 6 万套。出货规模扩⼤的同时，关节模组的价格也在下降。根据公开资料，泉智博披露的 2025
-年⼯业级关节模组平均价格约为每套 1500 元，并预计关节成本将保持每年约 10% 的降幅。
-⼀位关注机器⼈赛道的投资⼈也告诉腾讯科技，他所接触的⼀家关节模组⼚商，产品价格⼏乎
-
-每年都在下降。
-硬件当然不是没有⻔槛，但随着供应链逐渐成熟、核⼼零部件进⼊规模化出货阶段，它已经不
-再是限制具⾝智能发展的唯⼀瓶颈。
-宇树的上市，标志着机器⼈本体依靠供应链、规模化⽣产和零部件复⽤，把机器⼈卖得越来越
-便宜。⽽这也会带动整个硬件上下游产业链的成熟，未来，硬件的制造成本会越来越低。不
-过，创世伙伴创投创始主管合伙⼈周炜表⽰，降本只是第⼀步，只有快速跑通商业闭环、产⽣
-真实流动，上下游供应商才能共建，进⽽⽀撑下游发展。
-就像 15 年前，⼩⽶以 1999 元的价格让安卓⼿机迅速⾛向⼤众⼀样，机器⼈也正在经历⾃⼰的降
-价周期。
+图4：7 月国内调查失业率上升，劳动力市场季节性承压
+资料来源：WIND、国信证券经济研究所整理
+生产端：新旧动能分化加剧
+7 月规上工业增加值同比为 4.5%，较上月回落 0.8个百分点。从环比看，工业生
+产表现弱于季节性，生产活动整体承压。
+与此同时，高技术产业增加值增速仍明显高于整体水平，“K 型分化”加剧，7
+月录得 16.9%，较上月回升 2.8个百分点，延续工业生产向新向优发展态势。
+图5：中国工业增加值和高技术产业增加值同比一览 图6：中国工业增加值定基指数历年环比增速一览
+资料来源：Wind，国信证券经济研究所整理 资料来源：Wind，国信证券经济研究所整理
+分三大门类看，制造业同比增速边际回落，公用事业加速下行，采矿业负增长进
+一步加深。
 
 ### Page 7
 
-在 WRC 现场， vbot 机器狗的最低售价已经来到 11988 元，开始接近⼀台⾼配苹果⼿机。机器⼈
-还没有真正⾛进千家万⼾，但⾄少在价格上，它已经从遥远的实验室，⾛到了普通消费者可以
-认真考虑的范围内。
-但要让机器⼈真正⾛进⽣活，仅靠⼀家公司很难完成。于是，我们也看到，机器⼈⾏业出现 “ 抱
-团取暖 ” 的现象。
-机器⼈，投资机器⼈
-这种 “ 抱团 ” ，最直接的⽅式就是投资。
-机器⼈公司⼀边谨慎控制⼴告和市场开⽀，⼀边把有限的钱投向产业链上的同⾏，甚⾄与潜在
-的竞争对⼿共同投资⼀家公司。根据 IT 桔⼦统计， 2026 年 1 ⽉ 1 ⽇⾄ 8 ⽉ 19 ⽇，已有 18 家机器⼈
-相关企业对外投资，共涉及 36 笔投资事件。
-也就是说，机器⼈公司不再只埋头研发⾃⼰的产品，也开始化⾝ VC ，投资基础模型、场景数
-据、机器⼈关节、触觉⽅案和操作设备。周炜认为，这是⼀个积极信号，说明企业与技术正分
-布在产业链的不同环节，并逐步形成协同合⼒，有助于构建更为健康的产业⽣态和商业模式。
-这种现象不寻常之处在于，机器⼈公司普遍不算 “ 有钱 ” ，出⼿也并不⼤⽅。具⾝智能是⼀个极其
+图7：采矿业、制造业、公用事业增加值当月同比一览
+资料来源：Wind、国信证券经济研究所整理
+分产品看，7 月消费链相关的乙烯产量同比涨幅较上月大幅回落 5.4 个百分点至
+0.1%；投资相关的水泥产量同比降幅较上月扩大 6.0个百分点至-11.6%；高端工
+业品增速表现亮眼，其中汽车产量同比增速回升 0.1个百分点至-0.1%；工业机器
+人产量显著上升 2.1个百分点至 30.2%；集成电路回升 1.9个百分点至 20.7%。
+图8：主要产品产量当月同比与前月同比的差值一览
+资料来源：Wind、国信证券经济研究所整理
+服务业生产方面，7月国内服务业生产指数同比较 6月回落 0.4个百分点至 4.3%，
+与 7月失业率和工业生产数据共同指向传统生产活动承压。
 
-烧钱的⾏业，本体研发、模型训练、数据采集和产线建设，每⼀项都需要持续投⼊。对于融资
-规模只有千万元级别的企业⽽⾔，拿到的钱往往只够换来⼀张⼊场券。
-因此，不少机器⼈公司在⼴告和市场投放上相当克制。即使已经形成规模化收⼊的宇树，也没
-有⼤⼿笔 “ 烧⼴告 ” 。 2025 年，宇树科技实现营业收⼊ 16.99 亿元，⼴告与业务宣传费为 6053.39
-万元，占营收的 3.56% ；全部销售费⽤占营收的⽐例也只有 8.31% 。
-但它们省下来的钱，并没有全部留在账上。⼀部分流向了产业链⾥的其他机器⼈公司。
+### Page 8
+
+图9：服务业生产指数同比走势一览
+资料来源：Wind、国信证券经济研究所整理
+需求端：投资—整体承压
+7 月国内固定资产投资同比降幅为-12.8%，较 6 月扩大 2.8个百分点，在较低基
+数下表现依然偏弱。从环比看，7 月固定资产投资增速小幅低于近年同期季节性
+水平，表明投资活动整体承压。
+图10：中国固定资产投资完成额同比增速一览 图11：中国固定资产投资完成额环比增速一览
+资料来源：Wind，国信证券经济研究所整理 资料来源：Wind，国信证券经济研究所整理
+7 月房地产、制造业、基建投资同比增速较 6 月均走弱，分别回落 3.3 和 1.2、4.5
+个百分点。环比增速亦均低于近年同期水平，显示投资活动整体承压。
 
 ### Page 9
 
-⻛险提⽰及免责条款
-市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
-更有意思的是，同⼀个项⽬背后，经常站着多家同⾏。德塔智能获得智元机器⼈、星海图和乐
-聚机器⼈投资；艾欧智能背后聚集了众擎机器⼈、加速进化和因时机器⼈；智域基⽯的投资⽅
-中，则同时出现了灵初智能、穹彻智能、浙江⼈形和智平⽅。
-这些公司既是同⾏，也可能是潜在的竞争对⼿，如今却把钱投向了同⼀家公司。
-原因并不复杂。具⾝智能仍处在产业早期，⼀家公司很难独⾃解决本体、关节、模型、数据和
-场景中的所有问题。有限的钱，与其⽤来重复造轮⼦，不如投给能够补上⾃⼰短板的⼈。
-于是，有⼈造本体，有⼈做关节，有⼈训练模型，也有⼈收集数据、寻找场景。机器⼈还没有
-学会独⾃完成所有任务，它们背后的公司，已经先学会了抱团。
-结语
-今年 WRC 现场的机器⼈，⼤多在做 “ 成年⼈的事情 ” ：叠⾐服、搬快递、冲咖啡，努⼒证明⾃⼰
-
-已经能够⾛进家庭和职场。
-但在展馆的另⼀边，⼀些更偏消费端的⼩机器⼈，⼜给现场添了⼏分 “ 孩童感 ” 。它们体型不⼤，
-有的围着⼩围嘴，有的被打扮成⽑绒玩偶。傅利叶带来的 GR Nano ，以机器⼩宠物的形态出现
-在观众⾯前。
-这或许是今年 WRC 出现的另⼀个变化：⾯向普通消费者的⼩机器⼈变多了。它们未必需要承担
-复杂任务，但要⾜够亲切、⾜够有趣，也要让⼈愿意把它带回家。
-产品形态正在变得丰富，但这种丰富的另⼀⾯，是⾏业仍然相当分散。每家公司都在搭建⾃⼰
-的本体、模型、数据和零部件体系，机器⼈看起来越来越多，彼此之间却未必说着同⼀种 “ 语
-⾔ ” 。
-这有些像 Type-C 普及前的⼿机⾏业：每个品牌都有⾃⼰的接⼝，⼀根数据线很难通⽤。如今的
-机器⼈⾏业，也还没有完全找到那根可以连接彼此的 “Type-C” 。
-于是，围绕机器⼈的标准体系也在加速成形。截⾄ 2026 年 8 ⽉，在国家和部委层⾯，中国已经形
-成两套与机器⼈直接相关的标准化组织体系。⼀套负责制定国家标准，⼀套负责制定⼯业和信
-
-息化领域的⾏业标准。
-或许，具⾝智能真正的 “ 德尔塔时刻 ” ，并不只属于某⼀台突然变聪明的机器⼈。它也可能发⽣
-在某⼀天 —— 当这些形态各异的机器⼈，终于开始说同⼀种语⾔。
-本⽂来源：腾讯科技
+图12：房地产开发、制造业、基建、其他投资同比增速一览 图13：房地产开发、制造业、基建、其他投资环比增速一览
+资料来源：Wind，国信证券经济研究所整理 资料来源：Wind，国信证券经济研究所整理
+7 月国内商品房销售同比增速降幅收窄。销售额同比增速较上月回升 5.1 个百分
+点至-8.8%，销售面积回升 0.7个百分点至-13.5%，反映行业前期“以价换量”的
+格局持续改善。
+图14：房地产销售面积和销售额同比增速一览
+资料来源：Wind、国信证券经济研究所整理
+需求端：消费—内生动能仍弱
+7 月社会消费品零售总额当月同比为 0.6%，较 6 月同比增速小幅回落 0.4个百分
+点。其中商品零售为 0.5%，回落 0.4个百分点；餐饮为 1.4%，回升 0.2 个百分点。
+从环比来看，7 月社零同比弱于同期季节性水平，表明消费修复动能仍待巩固。
+在去年国补效应逐渐退坡的背景下，消费增长的内生动能仍有待进一步增强。
 
 ### Page 10
 
-5 收藏 分享到 :
-写评论
-图⽚
-限免
-请发表您的评论
-表情 发布评论
+图15：中国社会消费品零售总额同比增速一览 图16：中国社会消费品零售总额环比增速一览
+资料来源：Wind、国信证券经济研究所整理 资料来源：Wind、国信证券经济研究所整理
+7 月商品零售同比增速整体相较上月走弱。从不同类别商品的销售表现来看：耐
+用品方面，建筑装潢消费降幅扩大 3.7个百分点至-14.2%，汽车消费较上月降幅
+边际扩大 0.9 个百分点至-17.0%，家电音像消费降幅显著收窄 6.8 个百分点至
+-1.9%；消耗品方面，服装鞋帽、粮油食品、饮料类及日用品消费增速均回落，受
+中东地缘冲突反复下油价回升影响，石油及制品类零售额降幅进一步扩大。
+图17：商品销售金额同比变化幅度一览
+资料来源：Wind、国信证券经济研究所整理
+需求端：进出口—增速拐点将至
+7 月出口景气度延续，增速斜率放缓。7 月出口金额录得 3978.52亿美元，当月同
+比增长 23.9%，较 6月略回落 3.2个百分点，连续第四个月保持双位数高增。1-7
+月出口累计同比增长 18.5%，较 1-6 月的 17.6%继续走阔，累计扩张趋势稳固。横
+
+向看，23.9%的当月增速仍远高于近 12 个月 11.7%的均值，出口景气依旧处于高
+位区间，本月更多是高位边际放缓而非趋势转弱。
+
+### Page 11
+
+本月出口延续高景气，AI 产业链与全球制造业需求回暖共同托举。
+其一，集成电路出口同比大增 116.6%、自动数据处理设备增长 67.4%、船舶增长
+92.4%，科技与资本品链条全面放量，且与进口端自动数据处理设备（+193.8%）、
+自韩国进口（+97.8%）形成镜像呼应，AI算力投资沿半导体供应链双向扩张的脉
+络清晰；
+其二，7 月全球制造业 PMI 维持 52.1的扩张区间，美国 PMI进一步升至 55.6，外
+需总体环境对出口形成支撑。需特别关注的是，集成电路出口金额高增中价格贡
+献显著。数量同比仅+1.9%而价格同比高达+112.6%，本轮科技链出口高增有相当
+部分源自半导体价格周期，真实量能扩张相对温和。
+图18：出口金额同比增速 图19：出口金额季节性变化
+资料来源：Wind、国信证券经济研究所整理 资料来源：Wind、国信证券经济研究所整理
+区分商品看，K 型分化特征明显，科技与资本品类全面领跑，传统劳动密集型品
+类延续低迷。集成电路（+116.6%）、船舶（+92.4%，较上月 42.3%大幅跳升）、
+
+自动数据处理设备（+67.4%）、汽车含底盘（+60.4%）、未锻轧铝（+44.7%）、
+稀土（+43.0%）、通用机械（+31.4%，较上月 15.2%明显加速）位居增速前列，
+科技与高端制造链条集中爆发。与之对照，陶瓷产品（-41.8%）、玩具（-1.7%）
+延续负增长，鞋靴（+2.7%）、钢材（+4.9%）、家电（+6.6%）等传统品类增长疲
+弱，出口结构的 K型分化进一步凸显。
+区分国别看，对亚洲供应链伙伴出口普遍加速，对部分新兴市场增速明显回落。
+对韩国（+46.6%）、东盟（+38.4%）、俄罗斯（+34.9%）位居前列且多较上月提
+速，对日本出口增速亦从 6.9%升至 14.0%，反映亚洲电子与制造供应链的协同高
+景气。而对印度（由 39.4%降至 14.4%）、巴西（由 28.9%降至 15.8%）、非洲（由
+28.0%降至 18.2%）出口增速显著回落，前期新兴市场的拉动有所减弱；对美出口
+同比+17.0%、较上月 13.9%小幅回升，对欧盟+16.0%、较上月 18.5%略有放缓。
+
+### Page 12
+
+图20：分商品出口金额当月同比情况 图21：分国别出口金额当月同比
+资料来源：Wind、国信证券经济研究所整理 资料来源：Wind、国信证券经济研究所整理
+展望后续，出口高景气仍有支撑，但增速中枢或温和回落、结构性隐忧需正视。
+支撑端，AI资本开支周期尚未见顶，半导体与算力硬件需求有望延续，全球制造
+业 PMI维持扩张，外需基本盘尚稳。
+隐忧体现在三方面，一是集成电路等品类出口高增高度依赖价格、量能贡献有限，
+半导体价格周期一旦回落将拖累名义增速；二是中国出口新订单 PMI 重回 49.6
+的收缩区间，前瞻信号偏弱；三是贸易条件恶化，传统劳动密集型品类持续低迷。
+综合判断，预计 8、9 月出口同比增速中枢将回落至 15%-20%区间，进口回落至
+20%-25%区间。
+风险提示
+政策刺激力度减弱，海外经济政策的不确定性。
+
+### Page 13
+
+证券研究报告
+免责声明
+分析师声明
+作者保证报告所采用的数据均来自合规渠道；分析逻辑基于作者的职业理解，通过合理判断并得出结论，
+力求独立、客观、公正，结论不受任何第三方的授意或影响；作者在过去、现在或未来未就其研究报告
+所提供的具体建议或所表述的意见直接或间接收取任何报酬，特此声明。
+国信证券投资评级
+投资评级标准 类别 级别 说明
+报告中投资建议所涉及的评级（如有）分为股票评
+级和行业评级（另有说明的除外）。评级标准为报
+告发布日后6到 12个月内的相对市场表现，也即报
+告发布日后的6到12个月内公司股价（或行业指数）
+相对同期相关证券市场代表性指数的涨跌幅作为基
+准。A股市场以沪深 300指数（000300.SH）作为基
+准；新三板市场以三板成指（899001.CSI）为基准；
+香港市场以恒生指数(HSI.HI)作为基准；美国市场
+以标普 500指数(SPX.GI)或纳斯达克指数
+（IXIC.GI）为基准。
+股票
+投资评级
+优于大市 股价表现优于市场代表性指数 10%以上
+中性 股价表现介于市场代表性指数±10%之间
+弱于大市 股价表现弱于市场代表性指数 10%以上
+无评级 股价与市场代表性指数相比无明确观点
+行业
+投资评级
+优于大市 行业指数表现优于市场代表性指数 10%以上
+中性 行业指数表现介于市场代表性指数±10%之间
+弱于大市 行业指数表现弱于市场代表性指数 10%以上
+重要声明
+本报告由国信证券股份有限公司（已具备中国证监会许可的证券投资咨询业务资格）制作；报告版权归
+国信证券股份有限公司
+
+### Page 14
+
+证券研究报告
+国信证券经济研究所
+深圳
+深圳市福田区福华一路 125 号国信金融大厦 36 层
+邮编：518046 总机：0755-82130833
+上海
+上海浦东民生路 1199 弄证大五道口广场 1 号楼 12 层
+邮编：200135
+北京
+北京西城区金融大街兴盛街 6 号国信证券 9 层
+邮编：100032
 
 ---
-## Document 725: 阿里AI云进入利润释放期：AI业务利润翻倍激增、利润率升至12%，自研芯片覆盖650家客户
+## Document 482: 对冲基金不再“All in AI”：美股资金正转向医疗、金融和能源
 
-Source PDF: all report pdf/阿里AI云进入利润释放期：AI业务利润翻倍激增、利润率升至12%，自研芯片覆盖650家客户.pdf
+Source PDF: all report pdf/对冲基金不再“All in AI”：美股资金正转向医疗、金融和能源.pdf
 Report source: WallstreetCN (Global)
-Date: 2026-08-20
+Date: 2026-08-21
+Pages: 1
+Extraction status: ok
+
+### Page 1
+
+⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⽣活家 搜索
+
+---
+## Document 493: 报道：Anthropic招股书或把美国公众对AI的抵制情绪列为风险因素
+
+Source PDF: all report pdf/报道：Anthropic招股书或把美国公众对AI的抵制情绪列为风险因素.pdf
+Report source: WallstreetCN (Global)
+Date: 2026-08-21
+Pages: 1
+Extraction status: ok
+
+### Page 1
+
+⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⽣活家 搜索
+
+---
+## Document 498: 政府・中長期財政試算を読み解く ～「責任ある積極財政」で実際の予算編成に直結するように～
+
+Source PDF: all report pdf/政府・中長期財政試算を読み解く  ～「責任ある積極財政」で実際の予算編成に直結するように～.pdf
+Report source: DLRI
+Date: 2026-08-04
+Pages: 6
+Extraction status: ok
+
+### Page 1
+
+Economic Trends
+
+2026 年8 月 4 日
+
+1/6 
+政府・中長期財政試算を読み解く 
+～「責任ある積極財政」で実際の予算編成に直結するように～ 
+経済調査部 主席エコノミスト 星野 卓也 
+（℡：050-5474-7497）
+
+（要旨）
+
+○ 政府は7 月 30 日に中長期財政試算を公表した。年末の予算編成で「責任ある積極財政」を具
+体化する際の基準となる試算であり、 予算編成に直結する性格が強まったことで、 今後の財政
+政策をみるうえで重要性が格段に増している。
+
+○ 今年1 月との最大の違いは、高市政権の財政方針に基づき、毎年度「実質10 兆円」の追加歳
+出を将来にわたって織り込んだことである。プライマリーバランスは前回試算から全般に赤
+字方向へ修正されたが、税収の上振れも反映されたため、悪化幅は追加歳出10 兆円を単純換
+算したGDP 比 1.4％程度を下回る。
+
+○ 3 つのシナリオを比べると、 高成長ケースほど政府債務残高GDP 比も大きく低下している。背
+景には成長率上昇で長期金利が上昇しても実効金利が追い付くまで時間がかかり、その間の
+r-g が低く抑えられていることがある。高成長すれば債務比率の低下が保証されるわけではな
+く、金利がそれに応じてどの程度上昇するかも重要な要素である。
+
+○ 足元の財政指標が大きく改善する試算となっている。2025 年度の国・地方PB は、1 月試算の
+▲7.0 兆円から▲0.2 兆円へ上方修正され、ほぼ均衡。社会保障基金を含む一般政府の IS バ
+ランスはGDP 比＋0.2％の黒字の試算となっている。最終的な着地は年末公表の年次推計を待
+つ必要があるが、黒字化が実現すれば1991 年度以来34 年ぶりとなる。
+
+○ 「債務残高GDP 比の安定的な低下」 の定義はまだ曖昧である。 「直近実績の2024 年度より2040
+年度が低い」 という基準なら3 シナリオすべてが満たすが、 試算終盤に上昇経路へ入っていな
+いことまで求めれば、 条件を満たすのは最も楽観的なシナリオだけである。 債務残高GDP 比の
+安定的低下をどう定義するか、も年末予算編成における一つの焦点となる。
+
+### Page 2
+
+2/6 
+「責任ある積極財政」下での中長期試算：何が変わったのか？ 
+7 月 30 日に内閣府から「中長期の経済財政に関する試算」が示された。今回の試算は、2027～
+2040 年度の「中長期経済財政計画」を点検するための基礎資料である。骨太方針2026 では、この
+試算を、 「責任ある積極財政」 の前提や政策効果、 リスクを国民や市場に示す基盤と位置づけた。基
+本的な枠組みは6 月の政府会議で先行公表されていたが、 今回は足元の経済・財政状況を反映する
+とともに、詳細な計数が示されている。 
+1 月試算からの最大の変更点は、 「責任ある積極財政」 のフレームワークに基づく追加財政支出を
+将来の歳出も含めて上乗せし、明示的に織り込んだことである。 試算では、 「強く豊かな日本」 投資
+枠や、 補正予算で講じてきた恒常的施策の当初予算化などを念頭に、2027 年度以降、 通常の歳出に
+加えて毎年度実質 10 兆円の国の追加財政支出を想定する。2027 年度を 10 兆円とし、その後は物
+価・賃金上昇率に応じて増加させる。具体的な使途が確定していないため、公需と、企業の資本コ
+ストを引き下げる補助金に半分ずつ充てるという機械的な仮定も置かれている。 
+シナリオは、成長戦略実現ケース①（潜在成長率が 1％台後半程度まで高まる）、同②（1％台半
+ば）、現状投影ケース（0％台前半）の3 つが設定された。前回試算でも3 通りのシナリオに基づく
+試算が示されていた。細部の変更はあるが、経済前提はそれぞれ近い数値となっている。それぞれ
+1 月試算と比較すると、追加歳出の反映を受けてプライマリーバランスのパスが前回試算から全般
+に赤字方向へ修正されていることがわかる。一方、同時に将来にわたる税収の上振れ（土台増）も
+反映されたため、悪化幅は追加歳出10 兆円を単純換算したGDP 比 1.4％程度を下回っている。 
+図表１．国・地方財政：2026 年 1 月・7 月試算の比較
+
+（出所）内閣府より第一ライフ資産運用経済研究所が作成。
+
+### Page 3
+
+3/6 
+図表２．実質 GDP 成長率・CPI・長期金利：2026 年 1 月試算と 7 月試算の比較
+
+（出所）内閣府より第一ライフ資産運用経済研究所が作成。
+
+また、足元の金利上昇を背景に長期金利のパスが目先を中心に上方修正された（図表2 下段）こ
+とを受けて、 財政収支と公債等残高GDP 比のパスが全般的に悪化していることも目立つ。 中間シナ
+リオ（今回の成長戦略実現②と前回の成長移行ケース）について比較すると、従来は試算期間にお
+いて低下傾向が続いていた公債等残高GDP 比が、 試算期間の延長も相まって終盤には上昇傾向に転
+じている。
+
+債務残高GDP 比は「成長率の高さ」ではなく「成長と金利の関係」が左右 
+政府債務残高 GDP 比の変化は、大まかには①実効金利と名目 GDP 成長率の差（r-g）が既存債務
+の比率に与える効果と、②PB の赤字・黒字幅によって決まる。 名目成長率が実効金利を上回れば既
+存債務のGDP 比は押し下げられ、PB 黒字も債務比率を押し下げる。逆に、r-g がプラスとなり、PB
+も赤字であれば、債務比率にはより大きな上昇圧力がかかる。 
+今回、 政府は実効金利の経路を新たに明示した （図表3） 。 名目長期金利が新規発行時の市場金利
+であるのに対し、 実効金利は既発債を含む政府の実際の利払い負担を表す。 国債は満期を迎えたも
+のから順次借り換えられるため、実効金利は長期金利に遅れて上昇する。 
+ここで注意したいのは、 高成長シナリオでは実効金利の上昇と市場金利への収斂が、 試算終点の
+2040 年度時点でもなお過渡期にあることである（図表 3）。2040 年度の名目長期金利は、名目 GDP
+
+### Page 4
+
+4/6 
+成長率を成長戦略実現ケース①・②でともに 0.4％ポイント、現状投影ケースで 0.5％ポイント上
+回る。 成長ケースで実効金利と名目成長率の差がなお小さいのは、 実効金利が長期金利に完全には
+追い付いていないためである。この影響で2040 年度の r-g は、 成長戦略実現ケース①で0.0％ポイ
+ント、同②で＋0.2％ポイント、現状投影ケースで＋0.6％ポイントとなる。この違いが、政府債務
+残高 GDP 比のパスの差として表れている （図表4）。高成長ケースのr-g が抑えられているのは単に
+成長率が高いから、というわけではなく、「実効金利が均衡水準に収斂する時期が他シナリオより
+も遅く（試算期間中の市場金利が上昇過程にあるため）、実効金利でみた r-g が期間中抑えられて
+いる」ことが影響している。
+
+図表３．名目長期金利と実効金利（2026 年 7 月試算） 
+（出所）内閣府より第一ライフ資産運用経済研究所が作成。
+
+図表４．国・地方 PB、r-g、公債等残高 GDP 比の前年差（2026 年 7 月試算）
+
+（注）r：実効金利、g：名目GDP 成長率 
+（出所）内閣府より第一ライフ資産運用経済研究所が作成。
+
+### Page 5
+
+5/6 
+また、 成長ケースで政府債務残高GDP 比がより大きく低下するもう一つの理由は、PB 黒字がより
+大きく確保されるためである。2040 年度時点のPB 黒字対GDP 比は高成長シナリオから順に＋1.3％、
+＋1.0％、▲0.2％である。歳入は名目GDP に沿って増える一方、歳出は物価・賃金や高齢化に応じ
+て増えることが想定されている。 このため、 名目成長率のうち実質成長による部分が大きいシナリ
+オほど、歳入の伸びが歳出の伸びを上回りやすく、PB 黒字も大きくなっている。
+
+国の決算を織り込み：2025 年度国・地方PB は概ね均衡、一般政府収支は黒字化見込みに 
+今回試算のもう一つの注目点は、 足元の財政収支の改善である。2025 年度の国・地方PB は、1 月
+試算および 6 月の成長戦略試算では▲7.0 兆円だったが、今回は▲0.2 兆円へ 6.8 兆円改善した。
+内閣府の要因分解では、2025 年度決算による税収増等が＋4.9 兆円、不用・繰越等が＋1.9 兆円の
+改善要因となっている。足元の改善は「実質 10 兆円」の追加歳出を想定しても、各シナリオでＰ
+Ｂ黒字が続く理由にもなっている（成長 2 ケースでは期間中黒字、現状投影ケースでは 2038 年度
+まで黒字、以後赤字）。 
+過去の各時点で示された2025 年度PB 見通しを並べると、2021 年1 月試算のGDP 比▲2.1％から、
+今回の 0.0％まで改善してきた（図表5）。税収の上振れ、土台増などに伴って試算パスの修正が続
+いたことが背景だ。なお、主目標としている国・地方の基準ではないが、2025 年度の一般政府 IS
+バランス（国・地方に加えて社会保障基金：社会保障関連の特別会計などを含むベースの財政収支
+に相当）も示されており、2025 年度の値が＋0.2％になっている（1 月試算では▲0.8％） 。仮に一
+般政府収支が黒字化すれば1991 年度以来34 年ぶりの出来事となる。 
+いずれの指標についても、地方分の決算などがまだ反映されておらず、 最終実績は年末の年次推
+計公表を待つ必要があるが、従来の見立てよりも財政収支の改善が進んでいることは事実だろう。
+
+図表５．試算時点別：2025 年度の国・地方 PB 見通し値（GDP 比）
+
+（注）各試算時点の慎重シナリオを接続、名称・前提は同一ではない点に留意。 
+（出所）内閣府より第一ライフ資産運用経済研究所が作成。
+
+### Page 6
+
+経済研究所が信ずるに足ると判断した情報に基づき作成していますが、その正確性、完全性に対する責任は負いません。見通しは予告
+なく変更されることがあります。また、記載された内容は、第一生命保険ないしはその関連会社の投資方針と常に整合的であるとは限
+りません。
+6/6
+改めて「債務残高GDP 比」への目標切り替えをどうみるか
+先般の骨太方針で示されたように、政府は財政運営の中核目標を従来の PB 黒字化から債務残高
+GDP 比の安定的な低下へ移す。これは「積極財政のための目標変更」という文脈で語られがちであ
+る。しかし、従来の財政健全化目標も「まず PB を黒字化し、その後に債務残高 GDP 比を安定的に
+低下させる」という二段階の構成だった。足元で PB 黒字化が視野に入る中、債務残高 GDP 比へ重
+点が移ることは、従来の財政健全化路線の延長線上にあるともいえる。
+骨太方針では、PB について「一時的な悪化も許容する」ともされている。 ただし、 今回の政府試
+算では、2 つの成長ケースで PB 黒字が維持されることが前提となっている。金利上昇が進む下で
+
+は、債務残高GDP 比を低下させるためにも一定のPB 黒字が必要となり、PB を無視できるわけでは
+ない。 目標を債務残高GDP 比へ移すこと自体は、 金利を含めて財政規律を捉える観点から妥当と考
+えられる。
+一方、 「安定的な低下」 をどの期間で判定するのか、どの程度のペースで低下している状態を安定
+的低下と見做すのかなど、その解釈にはなお余白がある。 「直近実績の2024 年度と比べて 2040 年
+度の公債等残高GDP 比が低ければよい」という始点・終点の比較であれば、3 シナリオとも条件を
+満たす。しかし、実効金利が市場金利におおむね収斂する試算期間の終盤に、債務比率が上昇局面
+へ入ることを 「安定的な低下」 に反するとみなすなら、 評価は異なる。 成長戦略実現ケース②は2030
+年代後半、現状投影ケースは 2030 年度頃から債務比率が上昇へ転じるため、この基準では同②も
+条件を満たさず、成長戦略実現ケース①のみがクリアする。
+筆者は先のレポートで、 骨太方針の決定後も年末の予算編成に向けて見極めが必要な点・解釈の
+
+余地が残る点があると指摘した。 第一は、 「強く豊かな日本」 投資枠とつなぎ国債の規模、 償還の道
+筋が不透明なことである。第二は、歳出余力を規定する経済前提の置き方である。楽観的な前提を
+置けば歳出余力も大きく算出される。ここに第三の論点として、 「債務残高GDP 比の安定的な低下」
+をどう定義するかという点も重要になりそうだ。年末の予算編成に向けて市場もこれらに注目し、
+その内容次第では金利が反応することも予想される。
+ただし、いずれにせよ債務残高GDP 比を中核目標とする以上、r-g の動向は従来以上に重要にな
+る。実効金利が名目成長率を上回れば、財政指標の悪化や歳出余力の縮小に直結する。財政運営の
+中核指標が市場金利の影響を強く受けることで、 債券市場を無視した極端な財政拡張路線を採るこ
+とは難しくなる。 財政拡張への警戒はなお根強いほか、消費減税などを巡って紆余曲折も予想され
+るが、年末の予算編成は最終的にバランスを重視した内容に落ち着くとみている。
+以上
+
+---
+## Document 544: 环球时报社评：中国不会陪美国在伊朗问题上“胡闹”
+
+Source PDF: all report pdf/环球时报社评：中国不会陪美国在伊朗问题上“胡闹”.pdf
+Report source: WallstreetCN (Global)
+Date: 2026-08-22
 Pages: 2
 Extraction status: ok
 
 ### Page 1
 
-截⾄ 6 ⽉末的阿⾥第⼀财季，阿⾥云外部商业化收⼊同⽐增⻓ 45% 、创 22 个季度增速新⾼；
-阿⾥云 AI 相关产品收⼊连续 12 个季度保持三位数同⽐增⻓。 CEO 吴泳铭称， AI 商业化已从
-前⼀季的跨越拐点进⼊当季 “ 增⻓提速、利润率攀升 ” 的阶段；上⼀代平头哥芯⽚已⽣产超
-50 万颗并完成出货，最新⼀代芯⽚ 8 ⽉已部署在阿⾥云 AI 平台。
+美国所谓 “ 要么站在我们这边，要么与我们为敌 ” 的说法，某种意义上暴露出华盛顿 “ ⾃⼰已
+经搞不定这个烂摊⼦ ” 的战略窘迫。中⽅⼀贯反对单边霸凌和 “ ⻓臂管辖 ” ，不是因为中国是
+伊朗最⼤贸易伙伴并与伊朗保持⻓期友好关系，⽽是因为⼀旦接受美国这套逻辑，国际贸
+易就是由美国⾃⾏划设规则，所有商品流动都要经过美国拍板的荒唐局⾯。
 摘要：
-阿⾥ AI 业务上⼀财季取得 “ 增收⼜增利 ” 的成绩：阿⾥云外部商业化收⼊同⽐增⻓ 45% 、创 22 个季
-度增速新⾼， AI 云和算⼒业务的利润率同步升⾄ 12% ，⾃研芯⽚规模化商⽤与数据中⼼交付提速
-双线推进。这份成绩单显⽰， AI 投⼊正从规模扩张阶段转⼊利润释放阶段。
-财报显⽰，在截⾄⾃然年 2026 年 6 ⽉末的公司第⼀财季，阿⾥云 AI 相关产品收⼊达 123.76 亿元，
-连续第 12 个季度保持三位数同⽐增⻓；衡量盈利能⼒的指标显⽰， AI 云与及计算服务业务息税
-折旧摊销前利润（ EBITDA ）同⽐增⻓ 133% ，经调整 EBITDA 利润率升⾄ 12% 。
+导读：经济制裁可以把压⼒集中施加于⼀个国家，却很难把代价锁定在⼀个国家。战争解决不
+了问题，制裁更是⽕上浇油。只有摒弃冷战对抗迷思，放下极限施压的⼯具，回到对话谈判的
+正确轨道上来，华盛顿才能及时⽌损、体⾯退出。
+美国总统特朗普当地时间 19 ⽇宣布将对伊朗开展所谓的 “ 经济诺曼底登陆 ” ⾏动。美国财⻓⻉森特
+在介绍这⼀⾏动时，将其形容为 “ 历史上规模最⼤、协调⼀致的经济孤⽴ ” ，⽽其他国家 “ 要么站
+在我们这边，要么与我们为敌 ” 。当被问及新制裁是否涉及中国时，⻉森特敦促中国 “ 跟上脚
+步 ” ，宣称 “ 配合（美⽅）⾏动对他们有好处 ” 。
 
-在业绩电话会上，阿⾥管理层进⼀步披露， AI 相关产品年化收⼊（ ARR ）突破 495 亿元，占阿⾥
-云外部商业化收⼊的 35% 。
-利润率抬升的关键在于， AI 相关产品⽑利率显著⾼于云产品平均⽔平。这意味着 AI 收⼊的⾼增⻓
-开始转化为利润增量，⽽⾮ " 增收不增利 " 。阿⾥巴巴集团 CEO 吴泳铭表⽰， AI 商业化已从第四财
-季的 “ 跨越拐点 ” ，进⼊第⼀财季 “ 增⻓提速、利润率攀升 ” 的阶段。
-利润释放的底座是⾃研芯⽚与基建效率的跃升。平头哥⾃研芯⽚真武 M890 已覆盖超 650 家外部
-客⼾，超节点实例上线阿⾥云并运⾏超 2 万亿参数⼤模型推理；⼤规模 AI 数据中⼼交付周期压缩
-⾄ 100 天，管理层预计 AI 算⼒资产约三年即可回本。
-收⼊与利润同步抬升
-阿⾥云本季度外部商业化收⼊同⽐增⻓ 45% ，增速创 22 个季度以来新⾼。 AI 相关产品收⼊
-123.76 亿元，连续第 12 个季度实现三位数同⽐增⻓，是云业务加速增⻓的核⼼引擎。
-更值得关注的是盈利质量的同步改善。 AI 云与算⼒分部 EBITDA 同⽐⼤增 133% ，经调整 EBITDA
+美伊战事已经进⼊第六个⽉，双⽅⽬前处于打⼜打不下去、谈⼜谈不拢的僵持状态。所谓的 “ 经
+济诺曼底登陆 ” ⾏动，与其说是美⽅对伊朗发起的新⼀轮进攻，不如说是华盛顿想尽快⽌损、从
+中东这个战争泥潭抽⾝的⼜⼀次尝试，是军事⼿段⾏不通以后换⼀副牌接着赌。但它的⽅向恐
+怕⾛错了。
+⽆论是美国加油站不断增加的账单，还是全球市场不断攀升的能源和航运成本，都清楚地说明
+了⼀件事：经济制裁可以把压⼒集中施加于⼀个国家，却很难把代价锁定在⼀个国家。战争解
+决不了问题，制裁更是⽕上浇油。
+所谓 “ 要么站在我们这边，要么与我们为敌 ” 的说法，某种意义上暴露出华盛顿 “ ⾃⼰已经搞不定
+这个烂摊⼦ ” 的战略窘迫。微妙的是，华盛顿的 “ 豪⾔壮语 ” 倒是放出来了，但美国的盟友圈对此
+却⼀⽚沉默。
+实际上，⾃美伊战事开启以来，多数美国盟友因担忧冲突外溢和能源危机，对配合美国的激进
+战略持⾼度保留态度。原因很简单，对这些国家⽽⾔，伊朗问题牵动着能源供应、航运安全和
+通胀压⼒。
+美国⾃⼰把房⼦点着了，还要全世界帮着⼀起扇⻛，让⽕势变得更⼤，最后还要所有⼈替它买
 
-利润率升⾄ 12% ； AI 相关产品年化收⼊（ ARR ）突破 495 亿元，在阿⾥云外部商业化收⼊中的占
-⽐升⾄ 35% ，且⽑利率显著⾼于云产品平均⽔平。
-吴泳铭表⽰，越来越多客⼾开始采⽤覆盖 AI 智能体、模型、云基础设施及⾃研芯⽚的全栈 AI 产
-品，叠加业务规模扩⼤和算⼒供给偏紧带来的定价能⼒提升，推动 AI 从云业务的收⼊增⻓引擎进
-⼀步成为利润改善的重要驱动⼒。盈利拐点是否就此确⽴，尚需后续季度数据验证，但单季盈
-利的⼤幅改善，已让盈利拐点的信号显现。
-⾃研芯⽚规模化商⽤
-利润释放的底层⽀撑，是平头哥⾃研芯⽚的商业化落地。平头哥已建成覆盖 GPU 、 CPU 及⽹络
-芯⽚的全栈⾃研体系，最新⼀代 AI 处理器真武 M890 已通过阿⾥云，在⾃动驾驶、互联⽹、⾦融
-等 20 余个⾏业的超 650 家外部客⼾中实现商业化应⽤。
-商业化进程仍在加速。基于真武 M890 的超节点实例近⽇已上线阿⾥云并开始规模化销售，吴泳
-铭称下半年将持续放量。
+单，谁愿意当这个冤⼤头呢？美⽅多次因欧洲国家拒绝参战⽽指责他们是 “ 懦夫 ” ，进⼀步引发了
+欧洲盟友的强烈反弹，盟友体系出现了罕⻅的深刻裂隙。
+美国连⾃⼰的盟友都招呼不动，更别想对中国颐指⽓使。中⽅⼀贯反对单边霸凌和 “ ⻓臂管
+辖 ” ，不是因为中国是伊朗最⼤贸易伙伴并与伊朗保持⻓期友好关系，⽽是因为⼀旦接受美国这
+套逻辑，国际贸易就不再是国与国之间的正常交流往来，⽽是由美国⾃⾏划设规则，所有商品
+流动都要经过美国拍板的荒唐局⾯。
+如果今天美国可以逼着中国跟伊朗切割，明天是不是可以任意切断其他国家的所有对外贸易？
+如果这样的话，毫⽆疑问意味着世界退回到丛林法则，现代⽂明社会的基本规则将不复存在。
+霍尔⽊兹海峡是⽤于国际航⾏的海峡，尽早恢复海峡的安全⾃由通⾏，符合各⽅利益，也是国
+际社会的共同愿望。但如果以 “ 霍尔⽊兹海峡关乎某个国家利益 ” 为理由，反过来要求这个国家
 ⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⽣活家 搜索
 
 ### Page 2
 
 ⻛险提⽰及免责条款
 市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
-67 收藏 分享到 :
+116 收藏 分享到 :
 写评论
 图⽚
-吴泳铭在业绩电话会上透露，截⾄⽬前，上⼀代平头哥芯⽚已经⽣产超过 50 万颗并完成出货。
-最新⼀代芯⽚ 8 ⽉已经部署在阿⾥云 AI 云平台上，以 Supernode 形式提供服务。我认为，我们是
-⽬前少数能够⼤规模部署这类⾃研国产芯⽚的公司之⼀。
-据阿⾥云介绍，基于新⼀代平头哥芯⽚的 “ 臻 5 M890” 超节点能够运⾏超过 2 万亿参数的⼤模型推
-理， Kimi K3 、千问 3.8 Max 均已借助该实例提供服务。
-对阿⾥云⽽⾔，⾃研芯⽚覆盖 GPU 、 CPU 与⽹络芯⽚的全栈布局并实现规模化商⽤、对外销
-售，意味着平头哥算⼒正从内部⽀撑⾛向规模销售，成为云业务新的增⻓变量。
-数据中⼼交付提速
-算⼒供给侧的效率提升同样显著。阿⾥云已将⼤规模 AI 数据中⼼的交付周期压缩⾄ 100 天，并预
+1 条评论
+对美国的极限施压和贸易霸凌⽆条件配合，不仅本末倒置，更会不断透⽀美国的国际信誉，加
+剧全球能源动荡、通胀⾼企、市场失序。
+只有实现全⾯停⽕⽌战，才能从根本上为缓和局势创造条件，因为霍尔⽊兹海峡通航问题本⾝
+就是美伊战事的外溢表现。中国⼀贯⽀持⼀切有助于停⽕⽌战的努⼒，但最终解铃还须系铃
+⼈，这个结必须也只能由当事各⽅来解开。
+军事战争打不出结果就转向经济战，经济战再不奏效，下⼀步怎么办？美国的战略困局，恰恰
+源于对 “ 拳头 ” 的迷信，对于 “ 总有⼀招能打服那些不听话的⼈ ” 的迷之⾃信。美国继续任性施压只
+会让美国套得更久、陷得更深，⽽单纯加⼤经济压⼒，也只会把冲突拖得更⻓，让各⽅损失更
+⼤。
+这⼀点，全世界都看得很清楚。不仅中国不会陪着美国 “ 胡闹 ” ，国际社会同样不会站在美国⼀
 
-计 2026 年⾃研模块化数据中⼼的产能效率实现翻倍以上增⻓，以承接更强劲的 AI 算⼒需求。
-效率提升的背后是资本开⽀的前置投⼊。截⾄第⼀财季末，阿⾥⾃ 2025 年 2 ⽉公布的三年 3800
-亿元投资计划已累计投⼊约 1900 亿元。
-阿⾥⾸席财务官徐宏表⽰， AI 商业化建⽴在算⼒中⼼等基础设施之上， “ 必须是 capex 先⾏，才
-能获得后⾯的业务增⻓ ” 。
-按其测算， AI 算⼒资产约三年即可回收成本，随着 AI 相关产品⽑利率持续提升，回收周期有望进
-⼀步缩短。
-后续关注真武 M890 超节点的放量节奏，以及 AI 云与算⼒分部利润率能否在后续季度延续抬升。
+边。⽆论从道义、法律还是现实的⻆度，加码单边制裁都既⽆正当性，也没有可⾏性。
+⽴即停⽕⽌战、尽快开启和谈、恢复海峡通航、维护联合国宪章权威，这是中⽅⾃冲突爆发以
+来的⼀贯⽴场，也是有利于各⽅的解决之道。只有摒弃冷战对抗迷思，放下极限施压的⼯具，
+回到对话谈判的正确轨道上来，华盛顿才能及时⽌损、体⾯退出。
+本⽂来源：环球时报
 限免
 请发表您的评论
 表情 发布评论
+MobileUser82061 ⼩时前中国云南省
+0  回复
+伊朗都收拾不下，却指望唬两下⼈更⼤的敌⼈帮⾃⼰对付伊朗？真是脑⼦烧坏了
+
+---
+## Document 566: 米国：中間選挙アップデート（2026年8月） ～民主党のミシガン上院予備選で急進左派が勝利～
+
+Source PDF: all report pdf/米国：中間選挙アップデート（2026年8月） ～民主党のミシガン上院予備選で急進左派が勝利～.pdf
+Report source: DLRI
+Date: 2026-08-06
+Pages: 3
+Extraction status: ok
+
+### Page 1
+
+Economic Trends
+
+2026 年 8 月 6 日
+
+1/3 
+米国：中間選挙アップデート（2026 年 8 月） 
+～民主党のミシガン上院予備選で急進左派が勝利～ 
+ 経済調査部 主席エコノミスト  前田 和馬 
+（℡：050-5473-3888）
+
+（要旨） 
+○ 2026 年 11 月の中間選挙において、連邦下院は民主党が優勢だ。予測市場では民主党が過半
+数を奪取する確率が8 割を超える。 一般的に中間選挙は政権与党が苦戦する傾向にあるほか、
+ガソリン等の物価高に対するトランプ政権への不満は共和党への逆風となる。 
+○ 両党が下院における選挙区割りの恣意的な変更（ゲリマンダー）を進めた結果、従来と投票
+傾向が大きく変わらないならば、 共和党は最大16 議席、 民主党は最大6 議席を獲得できる可
+能性がある（6 月 4 日付け NBC ニュース）。共和党はこうした追い風の下、民主党に大敗す
+ることを回避し、下院における議席数の差は小幅に留まるかもしれない。 
+○ 上院は約3 分の1 が改選であり、 改選議席には共和党地盤の州が多いなど、 共和党が優勢だ。
+民主党は接戦であるアラスカ・メイン・ミシガン・オハイオ・の 4 州全てで勝利しなければ、
+上院の過半数には達しない。ただ、民主党はメイン州でスキャンダルを理由に上院候補の差
+し替えを強いられたほか、ミシガン州では急進左派のエルサイード氏が予備選で勝利するな
+ど、11 月の本選挙において無党派層を中心とした広範な支持を獲得できるのか不透明だ。 
+○ 中間選挙の最も重要な争点はアフォーダビリティ（生活のしやすさ）や物価高である。今後
+の選挙戦を占ううえでは、米イラン戦争の展開とガソリン価格の動向が注目される。また、
+6 割以上の有権者は投票先を決めるうえでトランプ大統領に対する評価を考慮しており、特
+に民主党支持者の8 割は中間選挙の投票を「大統領への反対票」と位置付けている。 
+○ トランプ大統領は6 月末時点で自身に近い政治活動委員会（MAGA Inc.）に約4 億ドルの現預
+金を有しており、こうした膨大な資金が徐々に接戦選挙区に投入される場合、選挙情勢を変
+えうる可能性がある。
+
+### Page 2
+
+2/3 
+図表 1：予測市場の見込む勝利政党 
+（上院）   
+（下院）
+
+図表 2：情勢分布 
+（上院：8 月5 日時点）   
+（下院：8 月3 日時点）
+
+図表 3：トランプ政権の支持率  図表 4：有権者による中間選挙投票の位置づけ
+
+（出所）Polymarket、270toWin、RealClearPolitics、Pew Research Centerより第一ライフ資産運用経済研究所作成 
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+25/11
+25/12
+26/1
+26/2
+26/3
+26/4
+26/5
+26/6
+26/7
+26/8
+共和党 民主党
+0%
+20%
+40%
+60%
+80%
+100%
+25/11
+25/12
+26/1
+26/2
+26/3
+26/4
+26/5
+26/6
+26/7
+26/8
+共和党 民主党
+34
+9
+1
+3
+4
+2
+5
+11
+31
+0 50 100
+民主・非改選
+民主・確実
+民主・優勢
+民主・やや優勢
+接戦
+共和・やや優勢
+共和・優勢
+共和・確実
+共和・非改選
+181
+15
+12
+18
+11
+38
+160
+0 218 435
+民主・確実
+民主・優勢
+民主・やや優勢
+接戦
+共和・やや優勢
+共和・優勢
+共和・確実
+35
+40
+45
+50
+55
+60
+25/01 25/05 25/09 26/01 26/05
+支持 不支持(%)
+81
+5
+42
+18
+50
+35
+1
+44
+22
+0 20 40 60 80 100
+民主党支持
+共和党支持
+全体
+トランプ氏への反対票
+トランプ氏はあまり関係ない
+トランプ氏への支持票
+
+### Page 3
+
+経済研究所が信ずるに足ると判断した情報に基づき作成していますが、その正確性、完全性に対する責任は負いません。見通しは予告
+なく変更されることがあります。また、記載された内容は、第一生命保険ないしはその関連会社の投資方針と常に整合的であるとは限
+りません。
+3/3
+以 上
+
+---
+## Document 594: 美银Hartnett：贝森特正通过“变相QE”，守住5%的30年期美债收益率“马奇诺防线_
+
+Source PDF: all report pdf/美银Hartnett：贝森特正通过“变相QE”，守住5%的30年期美债收益率“马奇诺防线_.pdf
+Report source: WallstreetCN (Global)
+Date: 2026-08-21
+Pages: 1
+Extraction status: ok
+
+### Page 1
+
+⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⽣活家 搜索
+
+---
+## Document 620: 贝森特扩大美债回购是做“玩火”！布鲁金斯学会：美国或重演日本式货币贬值
+
+Source PDF: all report pdf/贝森特扩大美债回购是做“玩火”！布鲁金斯学会：美国或重演日本式货币贬值.pdf
+Report source: WallstreetCN (Global)
+Date: 2026-08-21
+Pages: 1
+Extraction status: ok
+
+### Page 1
+
+⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⽣活家 搜索
+
+---
+## Document 632: 锌价创四年新高，现货升水扩至年内最大，市场供需矛盾加剧
+
+Source PDF: all report pdf/锌价创四年新高，现货升水扩至年内最大，市场供需矛盾加剧.pdf
+Report source: WallstreetCN (Global)
+Date: 2026-08-21
+Pages: 1
+Extraction status: ok
+
+### Page 1
+
+⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⽣活家 搜索
