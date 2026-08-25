@@ -981,7 +981,7 @@ $220
 • 國票可能與該公司進行業務而處於緘默期
 
 ---
-## Document 015: 1810和成 群益
+## Document 014: 1810和成 群益
 
 Source PDF: all report pdf/1810和成 群益.pdf
 Report source: line報告備份
@@ -1313,7 +1313,7 @@ YoY(%)
 情形。
 
 ---
-## Document 022: 20260822_JPM_Asian Hardware Technology
+## Document 020: 20260822_JPM_Asian Hardware Technology
 
 Source PDF: all report pdf/20260822_JPM_Asian Hardware Technology.pdf
 Report source: line報告備份
@@ -2114,7 +2114,7 @@ MERCHANTABILITY OR FITNESS) AS TO THE INFORMATION AND DISCLAIMS ALL LIABILITY TO
 constitutes investment advice, except for any applicable Information from MSCI ESG Research. Subject also to msci.com/disclaimer
 
 ---
-## Document 084: 260819_daiwa_Nan Juen
+## Document 076: 260819_daiwa_Nan Juen
 
 Source PDF: all report pdf/260819_daiwa_Nan Juen.pdf
 Report source: line報告備份
@@ -2621,7 +2621,7 @@ the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 086: 260820_citi_MTK
+## Document 078: 260820_citi_MTK
 
 Source PDF: all report pdf/260820_citi_MTK.pdf
 Report source: line報告備份
@@ -3281,7 +3281,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 089: 260821_daiwa_Bizlink
+## Document 081: 260821_daiwa_Bizlink
 
 Source PDF: all report pdf/260821_daiwa_Bizlink.pdf
 Report source: line報告備份
@@ -3669,7 +3669,7 @@ Note: Management score represents a company's ability to manage/benefit from cer
 Bizlink Holding (3665 TT): 21 August 2026
 
 ---
-## Document 092: 260822_ml_bizlink
+## Document 084: 260822_ml_bizlink
 
 Source PDF: all report pdf/260822_ml_bizlink.pdf
 Report source: line報告備份
@@ -4241,7 +4241,7 @@ Neither BofA Securities nor any officer or employee of BofA Securities accepts a
 information.
 
 ---
-## Document 096: 260824_ms_AI-supply-chain
+## Document 088: 260824_ms_AI-supply-chain
 
 Source PDF: all report pdf/260824_ms_AI-supply-chain.pdf
 Report source: line報告備份
@@ -6406,7 +6406,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 101: 2610華航 群益
+## Document 092: 2610華航 群益
 
 Source PDF: all report pdf/2610華航 群益.pdf
 Report source: line報告備份
@@ -6728,7 +6728,7 @@ YoY(%)
 情形。
 
 ---
-## Document 107: 3005神基 群益
+## Document 098: 3005神基 群益
 
 Source PDF: all report pdf/3005神基 群益.pdf
 Report source: line報告備份
@@ -7016,7 +7016,7 @@ YoY(%)
 情形。
 
 ---
-## Document 114: 3450聯鈞 第一金
+## Document 105: 3450聯鈞 第一金
 
 Source PDF: all report pdf/3450聯鈞 第一金.pdf
 Report source: line報告備份
@@ -7255,7 +7255,7 @@ YoY(%)
 8
 
 ---
-## Document 121: 3653健策 元大
+## Document 110: 3653健策 元大
 
 Source PDF: all report pdf/3653健策 元大.pdf
 Report source: line報告備份
@@ -7957,7 +7957,7 @@ ESG 總分 19.4
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 149: 6223旺矽 元富
+## Document 136: 6223旺矽 元富
 
 Source PDF: all report pdf/6223旺矽 元富.pdf
 Report source: line報告備份
@@ -8223,7 +8223,7 @@ Operating 32.4 34.4 33.8 34.0 ROA 13.56 19.33 19.02 22.37
 Net 31.2 29.1 30.3 30.2 ROE 4.51 6.79 8.05 11.39
 
 ---
-## Document 154: 6782視陽 國票
+## Document 141: 6782視陽 國票
 
 Source PDF: all report pdf/6782視陽 國票.pdf
 Report source: line報告備份
@@ -8627,7 +8627,7 @@ $300
 • 國票可能與該公司進行業務而處於緘默期
 
 ---
-## Document 155: 6782視陽 永豐
+## Document 142: 6782視陽 永豐
 
 Source PDF: all report pdf/6782視陽 永豐.pdf
 Report source: line報告備份
@@ -8925,7 +8925,7 @@ S：Sell 賣出：未來 6 個月該股票表現將落後大盤
 7
 
 ---
-## Document 168: 8021尖點 統一
+## Document 153: 8021尖點 統一
 
 Source PDF: all report pdf/8021尖點 統一.pdf
 Report source: line報告備份
@@ -9207,7 +9207,7 @@ ainReport/data/FileStream?id=bc4d8a41-6df7-
 請參見末頁重要批露及免責聲明  7
 
 ---
-## Document 179: 9914美利達 元富
+## Document 159: 9914美利達 元富
 
 Source PDF: all report pdf/9914美利達 元富.pdf
 Report source: line報告備份
@@ -9339,7 +9339,7 @@ Net 6.2 4.9 9.5 4.0 -2.6 4.5 6.3 7.1
 M / NTD Sales Sales YoY
 
 ---
-## Document 180: 9914美利達 統一
+## Document 160: 9914美利達 統一
 
 Source PDF: all report pdf/9914美利達 統一.pdf
 Report source: line報告備份
@@ -9864,7 +9864,7 @@ ainReport/data/FileStream?id=54015204-38d1-
 請參見末頁重要批露及免責聲明  10
 
 ---
-## Document 185: 9939宏全 統一
+## Document 165: 9939宏全 統一
 
 Source PDF: all report pdf/9939宏全 統一.pdf
 Report source: line報告備份
@@ -10166,7 +10166,7 @@ ainReport/data/FileStream?id=6a3fe93a-5b1d-
 請參見末頁重要批露及免責聲明  8
 
 ---
-## Document 209: AI融資格局顯示Anthropic算力需求面臨三路競逐
+## Document 182: AI融資格局顯示Anthropic算力需求面臨三路競逐
 
 Source PDF: all report pdf/AI融資格局顯示Anthropic算力需求面臨三路競逐.pdf
 Report source: line報告備份
@@ -10302,7 +10302,7 @@ instruments by BFLP, BLP or their affiliates.
 Bloomberg® 08/20/2026 01:27:34
 
 ---
-## Document 320: TXC Corporation Investor Conference-2026_0819_(En)
+## Document 274: TXC Corporation Investor Conference-2026_0819_(En)
 
 Source PDF: all report pdf/TXC Corporation Investor Conference-2026_0819_(En).pdf
 Report source: line報告備份
@@ -10749,7 +10749,7 @@ Cash Dividend(NTD) 2.5 2.8 2.5 2.0 2.5 3.8 7.5 7.0 4.5 5.2 4.8
 16
 
 ---
-## Document 344: 【國泰證期研究部】台特化(4772 TT)-買進(+17.6%)-隨先進製程共同成長之趨勢不變-20260818
+## Document 295: 【國泰證期研究部】台特化(4772 TT)-買進(+17.6%)-隨先進製程共同成長之趨勢不變-20260818
 
 Source PDF: all report pdf/【國泰證期研究部】台特化(4772 TT)-買進(+17.6%)-隨先進製程共同成長之趨勢不變-20260818.pdf
 Report source: line報告備份
@@ -11129,7 +11129,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 346: 【國泰證期研究部】衛星產業-SpaceX、NVIDIA共同合作，推動太空運算百萬規模-20260818
+## Document 297: 【國泰證期研究部】衛星產業-SpaceX、NVIDIA共同合作，推動太空運算百萬規模-20260818
 
 Source PDF: all report pdf/【國泰證期研究部】衛星產業-SpaceX、NVIDIA共同合作，推動太空運算百萬規模-20260818.pdf
 Report source: line報告備份
@@ -11269,7 +11269,7 @@ AI1 衛星設計關鍵在於太陽能與散熱系統，該衛星搭載了與太�
 投資評等定義
 
 ---
-## Document 432: 儒鴻(1476,B_買進)-CTBC260819
+## Document 371: 儒鴻(1476,B_買進)-CTBC260819
 
 Source PDF: all report pdf/儒鴻(1476,B_買進)-CTBC260819.pdf
 Report source: line報告備份
@@ -11527,7 +11527,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 435: 元大-6414 樺漢-20260817
+## Document 374: 元大-6414 樺漢-20260817
 
 Source PDF: all report pdf/元大-6414 樺漢-20260817.pdf
 Report source: line報告備份
@@ -12174,7 +12174,7 @@ ESG 總分 17.6
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 450: 凱基投顧_2645 長榮航太_賴偉中_20260817
+## Document 389: 凱基投顧_2645 長榮航太_賴偉中_20260817
 
 Source PDF: all report pdf/凱基投顧_2645 長榮航太_賴偉中_20260817.pdf
 Report source: line報告備份
@@ -12774,7 +12774,7 @@ Aug-25 Oct-25 Dec-25 Feb-26 Apr-26 Jun-26
 2023-10-23 增加持股 157.0 96.5
 
 ---
-## Document 458: 凱基投顧_6592 和潤_施志鴻_20260819
+## Document 397: 凱基投顧_6592 和潤_施志鴻_20260819
 
 Source PDF: all report pdf/凱基投顧_6592 和潤_施志鴻_20260819.pdf
 Report source: line報告備份
@@ -13414,7 +13414,7 @@ Aug-25 Oct-25 Dec-25 Feb-26 Apr-26 Jun-26
 資料來源：TEJ，凱基
 
 ---
-## Document 463: 凱基投顧_Takeaway_1102 亞泥_莊政翰_20260817
+## Document 402: 凱基投顧_Takeaway_1102 亞泥_莊政翰_20260817
 
 Source PDF: all report pdf/凱基投顧_Takeaway_1102 亞泥_莊政翰_20260817.pdf
 Report source: line報告備份
@@ -14273,7 +14273,7 @@ Sona Topas Tower Fl.11 Jl. Jend. Sudirman kav.26 JakartaSelatan 12920 Indonesia
 免責聲明
 
 ---
-## Document 467: 凱基投顧_Takeaway_2634 漢翔_賴偉中_20260820
+## Document 406: 凱基投顧_Takeaway_2634 漢翔_賴偉中_20260820
 
 Source PDF: all report pdf/凱基投顧_Takeaway_2634 漢翔_賴偉中_20260820.pdf
 Report source: line報告備份
@@ -14396,7 +14396,7 @@ Tommy.lai@kgi.com
 八月 20, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 3
 
 ---
-## Document 469: 凱基投顧_Takeaway_3450 聯鈞_涂憶君_20260818
+## Document 408: 凱基投顧_Takeaway_3450 聯鈞_涂憶君_20260818
 
 Source PDF: all report pdf/凱基投顧_Takeaway_3450 聯鈞_涂憶君_20260818.pdf
 Report source: line報告備份
@@ -14613,7 +14613,7 @@ AI 相關領域，標的與公司 match 才會進行
 八月 18, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 5
 
 ---
-## Document 475: 凱基投顧_Takeaway_6782 視陽_莊政翰_20260821
+## Document 414: 凱基投顧_Takeaway_6782 視陽_莊政翰_20260821
 
 Source PDF: all report pdf/凱基投顧_Takeaway_6782 視陽_莊政翰_20260821.pdf
 Report source: line報告備份
@@ -14735,7 +14735,7 @@ eden.chang@kgi.com
 八月 21, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 3
 
 ---
-## Document 484: 凱基投顧_貨櫃航運產業_賴偉中_20260819
+## Document 423: 凱基投顧_貨櫃航運產業_賴偉中_20260819
 
 Source PDF: all report pdf/凱基投顧_貨櫃航運產業_賴偉中_20260819.pdf
 Report source: line報告備份
@@ -15358,7 +15358,7 @@ EBITDA (6.7) (53.6) (74.1) (75.1) (54.5) 20.7 182.1 374.8 (60.0) 86.2 (41.4)
 八月 19, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 12
 
 ---
-## Document 500: 台新投顧20260820個股報告-聯發國際(2756)-強力買進
+## Document 441: 台新投顧20260820個股報告-聯發國際(2756)-強力買進
 
 Source PDF: all report pdf/台新投顧20260820個股報告-聯發國際(2756)-強力買進.pdf
 Report source: line報告備份
@@ -15620,7 +15620,7 @@ YoY(%)
 位不為使用者之資訊決策及結果負擔任何責任。
 
 ---
-## Document 504: 合庫-1736 喬山-20260817
+## Document 445: 合庫-1736 喬山-20260817
 
 Source PDF: all report pdf/合庫-1736 喬山-20260817.pdf
 Report source: line報告備份
@@ -15905,7 +15905,7 @@ INVESTMENT CONSULTANT
 未評等 訊息不足或有相關業務往來
 
 ---
-## Document 544: 宏遠-3081 聯亞-20260817
+## Document 483: 宏遠-3081 聯亞-20260817
 
 Source PDF: all report pdf/宏遠-3081 聯亞-20260817.pdf
 Report source: line報告備份
@@ -16456,7 +16456,7 @@ A+A+A+A+
 2024 2025 2026
 
 ---
-## Document 546: 宏遠-3661 世芯-KY-20260817
+## Document 485: 宏遠-3661 世芯-KY-20260817
 
 Source PDF: all report pdf/宏遠-3661 世芯-KY-20260817.pdf
 Report source: line報告備份
@@ -16934,7 +16934,7 @@ A
 2022 2023 2024
 
 ---
-## Document 586: 新代(7750,B_買進)-CTBC260825
+## Document 522: 新代(7750,B_買進)-CTBC260825
 
 Source PDF: all report pdf/新代(7750,B_買進)-CTBC260825.pdf
 Report source: line報告備份
@@ -17219,7 +17219,7 @@ ESG 資訊 -公 司 治 理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 621: 漢翔(2634,OW_增加持股)-CTBC260821
+## Document 556: 漢翔(2634,OW_增加持股)-CTBC260821
 
 Source PDF: all report pdf/漢翔(2634,OW_增加持股)-CTBC260821.pdf
 Report source: line報告備份
@@ -17501,7 +17501,7 @@ ESG 資訊 -公 司 治 理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 695: 群創(3481,DG,OW_調降評等,中立)-CTBC260819
+## Document 603: 群創(3481,DG,OW_調降評等,中立)-CTBC260819
 
 Source PDF: all report pdf/群創(3481,DG,OW_調降評等,中立)-CTBC260819.pdf
 Report source: line報告備份
