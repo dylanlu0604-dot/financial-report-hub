@@ -430,7 +430,7 @@ $220
 • 國票可能與該公司進行業務而處於緘默期
 
 ---
-## Document 064: 260817_gs_gigabyte
+## Document 062: 260817_gs_gigabyte
 
 Source PDF: all report pdf/260817_gs_gigabyte.pdf
 Report source: line報告備份
@@ -838,7 +838,7 @@ Goldman Sachs Gigabyte (2376.TW)For the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 066: 260817_ubs_chenbro-buy-initiation
+## Document 064: 260817_ubs_chenbro-buy-initiation
 
 Source PDF: all report pdf/260817_ubs_chenbro-buy-initiation.pdf
 Report source: line報告備份
@@ -3336,7 +3336,7 @@ constitute, advice within the meaning of the Municipal Advisor Rule.  For inform
 ab
 
 ---
-## Document 070: 260818_ml_TSMC
+## Document 068: 260818_ml_TSMC
 
 Source PDF: all report pdf/260818_ml_TSMC.pdf
 Report source: line報告備份
@@ -3944,7 +3944,7 @@ Neither BofA Securities nor any officer or employee of BofA Securities accepts a
 information.
 
 ---
-## Document 072: 260818_ms_wpg
+## Document 070: 260818_ms_wpg
 
 Source PDF: all report pdf/260818_ms_wpg.pdf
 Report source: line報告備份
@@ -4429,7 +4429,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 090: 2610華航 元富
+## Document 088: 2610華航 元富
 
 Source PDF: all report pdf/2610華航 元富.pdf
 Report source: line報告備份
@@ -4722,7 +4722,7 @@ Operating 11.3 4.2 7.4 9.3 ROA 6.23 5.88 5.29 5.81
 Net 9.1 2.2 4.6 6.1 ROE 4.61 4.19 3.58 3.58
 
 ---
-## Document 094: 2634漢翔 元富
+## Document 092: 2634漢翔 元富
 
 Source PDF: all report pdf/2634漢翔 元富.pdf
 Report source: line報告備份
@@ -4980,7 +4980,7 @@ Operating 3.6 15.2 7.6 7.0 ROA 5.96 1.88 5.45 4.46
 Net 3.4 10.5 5.5 4.9 ROE 3.07 1.02 3.17 2.61
 
 ---
-## Document 100: 3008大立光 群益
+## Document 098: 3008大立光 群益
 
 Source PDF: all report pdf/3008大立光 群益.pdf
 Report source: line報告備份
@@ -5097,7 +5097,7 @@ PER= 股價 /2026 (F) EPS ； PBR= 股價 /2026 (F) 年 底 預 估 每 股 淨 
 資 來 得 少 的 情 形 。
 
 ---
-## Document 102: 3042晶技 宏遠
+## Document 100: 3042晶技 宏遠
 
 Source PDF: all report pdf/3042晶技 宏遠.pdf
 Report source: line報告備份
@@ -5693,7 +5693,7 @@ AAAAA
 2024 2025 2026
 
 ---
-## Document 106: 3450聯鈞 第一金
+## Document 104: 3450聯鈞 第一金
 
 Source PDF: all report pdf/3450聯鈞 第一金.pdf
 Report source: line報告備份
@@ -5932,7 +5932,7 @@ YoY(%)
 8
 
 ---
-## Document 113: 3661世芯 第一金
+## Document 111: 3661世芯 第一金
 
 Source PDF: all report pdf/3661世芯 第一金.pdf
 Report source: line報告備份
@@ -6169,7 +6169,7 @@ YoY(%)
 存貨週轉天數(天) 197.16 157.59 87.37 123.36
 
 ---
-## Document 114: 3661世芯 群益
+## Document 112: 3661世芯 群益
 
 Source PDF: all report pdf/3661世芯 群益.pdf
 Report source: line報告備份
@@ -6663,7 +6663,7 @@ YoY(%)
 情形。
 
 ---
-## Document 119: 3665貿聯 統一
+## Document 117: 3665貿聯 統一
 
 Source PDF: all report pdf/3665貿聯 統一.pdf
 Report source: line報告備份
@@ -6965,7 +6965,7 @@ ainReport/data/FileStream?id=6a3fe93a-5b1d-
 請參見末頁重要批露及免責聲明  8
 
 ---
-## Document 120: 3665貿聯-KY20260824-元富投顧(台新新光金控)報告
+## Document 118: 3665貿聯-KY20260824-元富投顧(台新新光金控)報告
 
 Source PDF: all report pdf/3665貿聯-KY20260824-元富投顧(台新新光金控)報告.pdf
 Report source: line報告備份
@@ -7308,7 +7308,7 @@ Operating 14.9 17.2 17.8 19.8 ROA 7.61 12.57 15.35 22.12
 Net 10.9 12.8 13.3 14.9 ROE 14.46 21.74 24.93 32.42
 
 ---
-## Document 125: 4766南寶 宏遠
+## Document 123: 4766南寶 宏遠
 
 Source PDF: all report pdf/4766南寶 宏遠.pdf
 Report source: line報告備份
@@ -7882,7 +7882,7 @@ B+
 2023 2024 2025
 
 ---
-## Document 126: 4766南寶 群益
+## Document 124: 4766南寶 群益
 
 Source PDF: all report pdf/4766南寶 群益.pdf
 Report source: line報告備份
@@ -8157,7 +8157,7 @@ YoY(%)
 情形。
 
 ---
-## Document 127: 4953緯致 宏遠
+## Document 125: 4953緯致 宏遠
 
 Source PDF: all report pdf/4953緯致 宏遠.pdf
 Report source: line報告備份
@@ -8718,7 +8718,7 @@ A+A+A+A+A+
 2023 2024 2025
 
 ---
-## Document 137: 6206飛捷 宏遠
+## Document 135: 6206飛捷 宏遠
 
 Source PDF: all report pdf/6206飛捷 宏遠.pdf
 Report source: line報告備份
@@ -8966,7 +8966,7 @@ Company Report
 7
 
 ---
-## Document 141: 6414樺漢 元富
+## Document 139: 6414樺漢 元富
 
 Source PDF: all report pdf/6414樺漢 元富.pdf
 Report source: line報告備份
@@ -9197,7 +9197,7 @@ Operating 5.4 5.6 7.6 6.8 ROA 2.0 2.1 2.7 3.3
 Net 2.0 2.2 2.6 2.2 ROE 5.0 5.4 7.1 9.0
 
 ---
-## Document 160: 8103瀚荃 第一金
+## Document 157: 8103瀚荃 第一金
 
 Source PDF: all report pdf/8103瀚荃 第一金.pdf
 Report source: line報告備份
@@ -9460,7 +9460,7 @@ YoY(%)
 9
 
 ---
-## Document 161: 8103瀚荃 統一
+## Document 158: 8103瀚荃 統一
 
 Source PDF: all report pdf/8103瀚荃 統一.pdf
 Report source: line報告備份
@@ -9730,7 +9730,7 @@ ainReport/data/FileStream?id=fec6b56a-9dc2-
 請參見末頁重要批露及免責聲明  7
 
 ---
-## Document 165: 9914美利達 統一
+## Document 162: 9914美利達 統一
 
 Source PDF: all report pdf/9914美利達 統一.pdf
 Report source: line報告備份
@@ -10255,7 +10255,7 @@ ainReport/data/FileStream?id=54015204-38d1-
 請參見末頁重要批露及免責聲明  10
 
 ---
-## Document 237: GHHK - ASIC Outlook Wrap-up
+## Document 218: GHHK - ASIC Outlook Wrap-up
 
 Source PDF: all report pdf/GHHK - ASIC Outlook Wrap-up.pdf
 Report source: line報告備份
@@ -10498,7 +10498,7 @@ Sector Report | Semiconductor
 7
 
 ---
-## Document 328: 【國泰證期研究部】IC設計產業-AI連接由板至櫃，訊號補償價值提升-20260824
+## Document 298: 【國泰證期研究部】IC設計產業-AI連接由板至櫃，訊號補償價值提升-20260824
 
 Source PDF: all report pdf/【國泰證期研究部】IC設計產業-AI連接由板至櫃，訊號補償價值提升-20260824.pdf
 Report source: line報告備份
@@ -10689,7 +10689,7 @@ Controller，隨 AI Server 搭載的 GPU、NIC及 SSD數量增加，以及 USB4�
 投資評等定義
 
 ---
-## Document 382: 世芯-KY(3661,B_買進)-CTBC260817
+## Document 350: 世芯-KY(3661,B_買進)-CTBC260817
 
 Source PDF: all report pdf/世芯-KY(3661,B_買進)-CTBC260817.pdf
 Report source: line報告備份
@@ -10996,7 +10996,7 @@ ESG 資訊 -公 司 治 理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 416: 偉詮電(2436,Note)-CTBC260826
+## Document 382: 偉詮電(2436,Note)-CTBC260826
 
 Source PDF: all report pdf/偉詮電(2436,Note)-CTBC260826.pdf
 Report source: line報告備份
@@ -11181,7 +11181,7 @@ ESG 資訊 -公 司 治 理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 423: 元大-6414 樺漢-20260817
+## Document 389: 元大-6414 樺漢-20260817
 
 Source PDF: all report pdf/元大-6414 樺漢-20260817.pdf
 Report source: line報告備份
@@ -11828,7 +11828,7 @@ ESG 總分 17.6
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 424: 元大-6757 台灣虎航-20260817
+## Document 390: 元大-6757 台灣虎航-20260817
 
 Source PDF: all report pdf/元大-6757 台灣虎航-20260817.pdf
 Report source: line報告備份
@@ -13029,7 +13029,7 @@ ESG總分 29.8
 台灣臺北市 106仁愛路三段 157號 4樓
 
 ---
-## Document 439: 凱基投顧_2645 長榮航太_賴偉中_20260817
+## Document 405: 凱基投顧_2645 長榮航太_賴偉中_20260817
 
 Source PDF: all report pdf/凱基投顧_2645 長榮航太_賴偉中_20260817.pdf
 Report source: line報告備份
@@ -13629,7 +13629,7 @@ Aug-25 Oct-25 Dec-25 Feb-26 Apr-26 Jun-26
 2023-10-23 增加持股 157.0 96.5
 
 ---
-## Document 443: 凱基投顧_2891 中信金_施志鴻_20260818
+## Document 409: 凱基投顧_2891 中信金_施志鴻_20260818
 
 Source PDF: all report pdf/凱基投顧_2891 中信金_施志鴻_20260818.pdf
 Report source: line報告備份
@@ -14779,7 +14779,7 @@ Recommendations & Target Price
  泰國          曼谷
 
 ---
-## Document 447: 凱基投顧_3665 貿聯-KY_李承泰_20260821
+## Document 413: 凱基投顧_3665 貿聯-KY_李承泰_20260821
 
 Source PDF: all report pdf/凱基投顧_3665 貿聯-KY_李承泰_20260821.pdf
 Report source: line報告備份
@@ -15635,7 +15635,7 @@ Recommendations & Target Price
 資料來源：TEJ，凱基
 
 ---
-## Document 454: 凱基投顧_Takeaway_1102 亞泥_莊政翰_20260817
+## Document 420: 凱基投顧_Takeaway_1102 亞泥_莊政翰_20260817
 
 Source PDF: all report pdf/凱基投顧_Takeaway_1102 亞泥_莊政翰_20260817.pdf
 Report source: line報告備份
@@ -16494,7 +16494,7 @@ Sona Topas Tower Fl.11 Jl. Jend. Sudirman kav.26 JakartaSelatan 12920 Indonesia
 免責聲明
 
 ---
-## Document 455: 凱基投顧_Takeaway_2328 廣宇_張燾_20260818
+## Document 421: 凱基投顧_Takeaway_2328 廣宇_張燾_20260818
 
 Source PDF: all report pdf/凱基投顧_Takeaway_2328 廣宇_張燾_20260818.pdf
 Report source: line報告備份
@@ -16603,7 +16603,7 @@ AFM 可望在年底前開始貢獻營收，公司預期 2H26 營收逐季成長�
 八月 18, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 3
 
 ---
-## Document 456: 凱基投顧_Takeaway_2605 新興_賴偉中_20260821
+## Document 422: 凱基投顧_Takeaway_2605 新興_賴偉中_20260821
 
 Source PDF: all report pdf/凱基投顧_Takeaway_2605 新興_賴偉中_20260821.pdf
 Report source: line報告備份
@@ -16770,7 +16770,7 @@ Newcastlemax ，不過新造船都要 2031 年才會交船，VLCC 也有評估�
 八月 21, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R    4
 
 ---
-## Document 468: 凱基投顧_Takeaway_7750 新代_莊政翰_20260824
+## Document 434: 凱基投顧_Takeaway_7750 新代_莊政翰_20260824
 
 Source PDF: all report pdf/凱基投顧_Takeaway_7750 新代_莊政翰_20260824.pdf
 Report source: line報告備份
@@ -16872,7 +16872,7 @@ SynFactory 雲端 / MES 」的「機手一體 / 一站購足」模式，加上�
 八月 24, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R    3
 
 ---
-## Document 469: 凱基投顧_Takeaway_7822 倍利科_劉宇程_20260819
+## Document 435: 凱基投顧_Takeaway_7822 倍利科_劉宇程_20260819
 
 Source PDF: all report pdf/凱基投顧_Takeaway_7822 倍利科_劉宇程_20260819.pdf
 Report source: line報告備份
@@ -17012,7 +17012,7 @@ handling 翹曲問題亦需特殊設計
 八月 19, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 4
 
 ---
-## Document 474: 凱基投顧_台灣總體經濟_游家綺_20260820
+## Document 440: 凱基投顧_台灣總體經濟_游家綺_20260820
 
 Source PDF: all report pdf/凱基投顧_台灣總體經濟_游家綺_20260820.pdf
 Report source: line報告備份
@@ -17388,7 +17388,7 @@ M2貨幣供給 YoY % 8.0 7.1 5.3 5.5 4.8 5.4 5.0 5.1 5.0 5.2 5.4 5.8 6.5 7.8 8.1
 免責聲明
 
 ---
-## Document 496: 台新投顧20260826個股報告-海悅(2348)-買進
+## Document 462: 台新投顧20260826個股報告-海悅(2348)-買進
 
 Source PDF: all report pdf/台新投顧20260826個股報告-海悅(2348)-買進.pdf
 Report source: line報告備份
@@ -17585,7 +17585,7 @@ EPS(元) 0.12 2.13 5.39 6.59 13.73 14.16 7.88 10.68 14.43 6.85
 位不為使用者之資訊決策及結果負擔任何責任。
 
 ---
-## Document 696: 華南投顧-5347世界-1150814
+## Document 609: 華南投顧-5347世界-1150814
 
 Source PDF: all report pdf/華南投顧-5347世界-1150814.pdf
 Report source: line報告備份
@@ -17912,7 +17912,7 @@ YOY 4.9 21.8 19.0 18.3
 個股投資建議與目標價三年歷史趨勢：
 
 ---
-## Document 717: 鈺邦(6449,Note)-CTBC260826
+## Document 630: 鈺邦(6449,Note)-CTBC260826
 
 Source PDF: all report pdf/鈺邦(6449,Note)-CTBC260826.pdf
 Report source: line報告備份

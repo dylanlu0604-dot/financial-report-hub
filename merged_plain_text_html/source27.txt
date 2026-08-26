@@ -255,7 +255,7 @@ YoY(%)
 存貨週轉天數(天) 40.04 42.01 41.62 44.53
 
 ---
-## Document 058: 2049上銀 永豐
+## Document 056: 2049上銀 永豐
 
 Source PDF: all report pdf/2049上銀 永豐.pdf
 Report source: line報告備份
@@ -569,7 +569,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 8
 
 ---
-## Document 059: 2352佳世達 群益
+## Document 057: 2352佳世達 群益
 
 Source PDF: all report pdf/2352佳世達 群益.pdf
 Report source: line報告備份
@@ -871,7 +871,7 @@ YoY(%)
 情形。
 
 ---
-## Document 063: 260817_daiwa_Gigabyte
+## Document 061: 260817_daiwa_Gigabyte
 
 Source PDF: all report pdf/260817_daiwa_Gigabyte.pdf
 Report source: line報告備份
@@ -1407,7 +1407,7 @@ the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 071: 260818_ms_inx
+## Document 069: 260818_ms_inx
 
 Source PDF: all report pdf/260818_ms_inx.pdf
 Report source: line報告備份
@@ -1906,7 +1906,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 073: 260818_ubs_allring
+## Document 071: 260818_ubs_allring
 
 Source PDF: all report pdf/260818_ubs_allring.pdf
 Report source: line報告備份
@@ -3119,7 +3119,7 @@ constitute, advice within the meaning of the Municipal Advisor Rule.  For inform
 ab
 
 ---
-## Document 081: 260821_daiwa_MPI
+## Document 079: 260821_daiwa_MPI
 
 Source PDF: all report pdf/260821_daiwa_MPI.pdf
 Report source: line報告備份
@@ -4257,7 +4257,7 @@ the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 084: 260823_ms_allring
+## Document 082: 260823_ms_allring
 
 Source PDF: all report pdf/260823_ms_allring.pdf
 Report source: line報告備份
@@ -4691,7 +4691,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 096: 2645長榮航太 群益
+## Document 094: 2645長榮航太 群益
 
 Source PDF: all report pdf/2645長榮航太 群益.pdf
 Report source: line報告備份
@@ -4949,7 +4949,7 @@ YoY(%)
 情形。
 
 ---
-## Document 097: 2753八方雲集 宏遠
+## Document 095: 2753八方雲集 宏遠
 
 Source PDF: all report pdf/2753八方雲集 宏遠.pdf
 Report source: line報告備份
@@ -5512,7 +5512,7 @@ C+
 2024 2025 2026
 
 ---
-## Document 098: 3005神基 元富
+## Document 096: 3005神基 元富
 
 Source PDF: all report pdf/3005神基 元富.pdf
 Report source: line報告備份
@@ -5658,7 +5658,7 @@ Operating 13.5 16.8 17.0 17.0 15.71 16.19 17.14
 Net 11.7 13.7 13.9 13.9 13.3 13.4 14.0
 
 ---
-## Document 109: 3529力旺 元富
+## Document 107: 3529力旺 元富
 
 Source PDF: all report pdf/3529力旺 元富.pdf
 Report source: line報告備份
@@ -5757,7 +5757,7 @@ Net 54.5 52.9 53.1 53.4 50.9 49.7 53.5 53.8
 Sales (NT$mn) Sales YOY
 
 ---
-## Document 111: 3653健策 元大
+## Document 109: 3653健策 元大
 
 Source PDF: all report pdf/3653健策 元大.pdf
 Report source: line報告備份
@@ -6459,7 +6459,7 @@ ESG 總分 19.4
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 131: 5306桂盟 統一
+## Document 129: 5306桂盟 統一
 
 Source PDF: all report pdf/5306桂盟 統一.pdf
 Report source: line報告備份
@@ -6812,7 +6812,7 @@ ainReport/data/FileStream?id=c801e994-9ba6-
 請參見末頁重要批露及免責聲明  8
 
 ---
-## Document 132: 5434崇越 元大
+## Document 130: 5434崇越 元大
 
 Source PDF: all report pdf/5434崇越 元大.pdf
 Report source: line報告備份
@@ -7349,7 +7349,7 @@ ESG總分 19.1
 台灣臺北市 106仁愛路三段 157號 4樓
 
 ---
-## Document 135: 5904寶雅 第一金
+## Document 133: 5904寶雅 第一金
 
 Source PDF: all report pdf/5904寶雅 第一金.pdf
 Report source: line報告備份
@@ -7593,7 +7593,7 @@ YoY(%)
 存貨週轉天數(天) 152.63 150.28 157.03 165.93
 
 ---
-## Document 144: 6782視陽 國票
+## Document 142: 6782視陽 國票
 
 Source PDF: all report pdf/6782視陽 國票.pdf
 Report source: line報告備份
@@ -7997,7 +7997,7 @@ $300
 • 國票可能與該公司進行業務而處於緘默期
 
 ---
-## Document 167: 9921巨大 永豐
+## Document 164: 9921巨大 永豐
 
 Source PDF: all report pdf/9921巨大 永豐.pdf
 Report source: line報告備份
@@ -8313,7 +8313,7 @@ S：Sell 賣出：未來 6 個月該股票表現將落後大盤
 7
 
 ---
-## Document 304: TPK-KY(3673)-20260824-速報-元富投顧(台新新光金控)
+## Document 276: TPK-KY(3673)-20260824-速報-元富投顧(台新新光金控)
 
 Source PDF: all report pdf/TPK-KY(3673)-20260824-速報-元富投顧(台新新光金控).pdf
 Report source: line報告備份
@@ -8423,7 +8423,7 @@ Net 3.0 4.2 1.4 1.2 0.7 1.8 2.5 2.9
 公司拜訪快報
 
 ---
-## Document 329: 【國泰證期研究部】台特化(4772 TT)-買進(+17.6%)-隨先進製程共同成長之趨勢不變-20260818
+## Document 299: 【國泰證期研究部】台特化(4772 TT)-買進(+17.6%)-隨先進製程共同成長之趨勢不變-20260818
 
 Source PDF: all report pdf/【國泰證期研究部】台特化(4772 TT)-買進(+17.6%)-隨先進製程共同成長之趨勢不變-20260818.pdf
 Report source: line報告備份
@@ -8803,7 +8803,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 330: 【國泰證期研究部】東元(1504 TT)-中立轉買進(+20%)-方案配套開始布局-20260821
+## Document 300: 【國泰證期研究部】東元(1504 TT)-中立轉買進(+20%)-方案配套開始布局-20260821
 
 Source PDF: all report pdf/【國泰證期研究部】東元(1504 TT)-中立轉買進(+20%)-方案配套開始布局-20260821.pdf
 Report source: line報告備份
@@ -9200,7 +9200,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 331: 【國泰證期研究部】衛星產業-SpaceX、NVIDIA共同合作，推動太空運算百萬規模-20260818
+## Document 301: 【國泰證期研究部】衛星產業-SpaceX、NVIDIA共同合作，推動太空運算百萬規模-20260818
 
 Source PDF: all report pdf/【國泰證期研究部】衛星產業-SpaceX、NVIDIA共同合作，推動太空運算百萬規模-20260818.pdf
 Report source: line報告備份
@@ -9340,7 +9340,7 @@ AI1 衛星設計關鍵在於太陽能與散熱系統，該衛星搭載了與太�
 投資評等定義
 
 ---
-## Document 400: 亞泥(1102,N_中立)-CTBC260818
+## Document 368: 亞泥(1102,N_中立)-CTBC260818
 
 Source PDF: all report pdf/亞泥(1102,N_中立)-CTBC260818.pdf
 Report source: line報告備份
@@ -9637,7 +9637,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 437: 凱基投顧_1476 儒鴻_劉昃恩_20260818
+## Document 403: 凱基投顧_1476 儒鴻_劉昃恩_20260818
 
 Source PDF: all report pdf/凱基投顧_1476 儒鴻_劉昃恩_20260818.pdf
 Report source: line報告備份
@@ -10442,7 +10442,7 @@ Aug-25 Oct-25 Dec-25 Feb-26 Apr-26 Jun-26
 資料來源：TEJ，凱基
 
 ---
-## Document 442: 凱基投顧_2890 永豐金_施志鴻_20260825
+## Document 408: 凱基投顧_2890 永豐金_施志鴻_20260825
 
 Source PDF: all report pdf/凱基投顧_2890 永豐金_施志鴻_20260825.pdf
 Report source: line報告備份
@@ -11494,7 +11494,7 @@ na
  泰國          曼谷
 
 ---
-## Document 446: 凱基投顧_3653 健策_向子慧_20260819
+## Document 412: 凱基投顧_3653 健策_向子慧_20260819
 
 Source PDF: all report pdf/凱基投顧_3653 健策_向子慧_20260819.pdf
 Report source: line報告備份
@@ -12115,7 +12115,7 @@ Recommendations & Target Price
 資料來源：TEJ，凱基
 
 ---
-## Document 448: 凱基投顧_5871 中租-KY_施志鴻_20260825
+## Document 414: 凱基投顧_5871 中租-KY_施志鴻_20260825
 
 Source PDF: all report pdf/凱基投顧_5871 中租-KY_施志鴻_20260825.pdf
 Report source: line報告備份
@@ -13105,7 +13105,7 @@ Aug-25 Oct-25 Dec-25 Feb-26 Apr-26 Jul-26
 資料來源：TEJ，凱基
 
 ---
-## Document 449: 凱基投顧_6592 和潤_施志鴻_20260819
+## Document 415: 凱基投顧_6592 和潤_施志鴻_20260819
 
 Source PDF: all report pdf/凱基投顧_6592 和潤_施志鴻_20260819.pdf
 Report source: line報告備份
@@ -13745,7 +13745,7 @@ Aug-25 Oct-25 Dec-25 Feb-26 Apr-26 Jun-26
 資料來源：TEJ，凱基
 
 ---
-## Document 461: 凱基投顧_Takeaway_4583 台灣精銳_莊政翰_20260820
+## Document 427: 凱基投顧_Takeaway_4583 台灣精銳_莊政翰_20260820
 
 Source PDF: all report pdf/凱基投顧_Takeaway_4583 台灣精銳_莊政翰_20260820.pdf
 Report source: line報告備份
@@ -13938,7 +13938,7 @@ RD 階段、尚未正式市場應用；惟許多海外代理商已接觸人形�
 八月 20, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R   5
 
 ---
-## Document 462: 凱基投顧_Takeaway_4766 南寶_劉昃恩_20260819
+## Document 428: 凱基投顧_Takeaway_4766 南寶_劉昃恩_20260819
 
 Source PDF: all report pdf/凱基投顧_Takeaway_4766 南寶_劉昃恩_20260819.pdf
 Report source: line報告備份
@@ -14059,7 +14059,7 @@ eden.chang@kgi.com
 八月 19, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R  3
 
 ---
-## Document 471: 凱基投顧_TGT Target Corp_莊政翰_20260820
+## Document 437: 凱基投顧_TGT Target Corp_莊政翰_20260820
 
 Source PDF: all report pdf/凱基投顧_TGT Target Corp_莊政翰_20260820.pdf
 Report source: line報告備份
@@ -14639,7 +14639,7 @@ Aug-23 Feb-24 Aug-24 Feb-25 Aug-25 Feb-26 Aug-26
  泰國   曼谷
 
 ---
-## Document 472: 凱基投顧_WMT Walmart_莊政翰_20260821
+## Document 438: 凱基投顧_WMT Walmart_莊政翰_20260821
 
 Source PDF: all report pdf/凱基投顧_WMT Walmart_莊政翰_20260821.pdf
 Report source: line報告備份
@@ -15211,7 +15211,7 @@ Aug-23 Feb-24 Aug-24 Feb-25 Aug-25 Feb-26 Aug-26
 電話 62 21 250 6337
 
 ---
-## Document 473: 凱基投顧_台北國際自動化工業展 _莊政翰_20260820
+## Document 439: 凱基投顧_台北國際自動化工業展 _莊政翰_20260820
 
 Source PDF: all report pdf/凱基投顧_台北國際自動化工業展 _莊政翰_20260820.pdf
 Report source: line報告備份
@@ -15577,7 +15577,7 @@ NVIDIA 等運算平台，透過兩者串接完成機器人控制。
 八月 20, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 11
 
 ---
-## Document 494: 台新投顧20260820個股報告-聯發國際(2756)-強力買進
+## Document 460: 台新投顧20260820個股報告-聯發國際(2756)-強力買進
 
 Source PDF: all report pdf/台新投顧20260820個股報告-聯發國際(2756)-強力買進.pdf
 Report source: line報告備份
@@ -15839,7 +15839,7 @@ YoY(%)
 位不為使用者之資訊決策及結果負擔任何責任。
 
 ---
-## Document 495: 台新投顧20260826個股報告-儒鴻(1476)-買進
+## Document 461: 台新投顧20260826個股報告-儒鴻(1476)-買進
 
 Source PDF: all report pdf/台新投顧20260826個股報告-儒鴻(1476)-買進.pdf
 Report source: line報告備份
@@ -16033,7 +16033,7 @@ EPS(元) 13.40 11.12 15.96 15.67 15.51 18.77 24.75 18.87 24.20 20.10
 位不為使用者之資訊決策及結果負擔任何責任。
 
 ---
-## Document 566: 帆宣(6196,B_買進)-CTBC260826
+## Document 504: 帆宣(6196,B_買進)-CTBC260826
 
 Source PDF: all report pdf/帆宣(6196,B_買進)-CTBC260826.pdf
 Report source: line報告備份
@@ -16324,7 +16324,7 @@ ESG 資訊 - 公司治理 (Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 601: 朋億(6613,B_買進)-CTBC260820
+## Document 532: 朋億(6613,B_買進)-CTBC260820
 
 Source PDF: all report pdf/朋億(6613,B_買進)-CTBC260820.pdf
 Report source: line報告備份
@@ -16631,7 +16631,7 @@ ESG 資訊 - 公司治理 (Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 695: 華南投顧-4438-廣越-1150818
+## Document 608: 華南投顧-4438-廣越-1150818
 
 Source PDF: all report pdf/華南投顧-4438-廣越-1150818.pdf
 Report source: line報告備份
@@ -16946,7 +16946,7 @@ YOY 0.6 7.8 4.6 -3.0
 個股投資建議與目標價三年歷史趨勢：
 
 ---
-## Document 699: 萬旭(6134,B_買進)-CTBC260820
+## Document 612: 萬旭(6134,B_買進)-CTBC260820
 
 Source PDF: all report pdf/萬旭(6134,B_買進)-CTBC260820.pdf
 Report source: line報告備份
@@ -17359,7 +17359,7 @@ ESG 資訊 ─公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 705: 貿聯(3665,B_買進)-CTBC260824
+## Document 617: 貿聯(3665,B_買進)-CTBC260824
 
 Source PDF: all report pdf/貿聯(3665,B_買進)-CTBC260824.pdf
 Report source: line報告備份
