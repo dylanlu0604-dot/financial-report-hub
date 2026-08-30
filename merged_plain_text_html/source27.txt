@@ -275,7 +275,7 @@ YoY(%)
 情形。
 
 ---
-## Document 051: 2026年光模块行业蓝皮书
+## Document 047: 2026年光模块行业蓝皮书
 
 Source PDF: all report pdf/2026年光模块行业蓝皮书.pdf
 Report source: line報告備份
@@ -1857,7 +1857,7 @@ THANKS
 加入“小马财经”微信群。
 
 ---
-## Document 057: 2030彰源 統一
+## Document 053: 2030彰源 統一
 
 Source PDF: all report pdf/2030彰源 統一.pdf
 Report source: line報告備份
@@ -2122,7 +2122,7 @@ ainReport/data/FileStream?id=af32ecd1-3f66-
 請參見末頁重要批露及免責聲明  7
 
 ---
-## Document 065: 2606裕民 群益
+## Document 062: 2606裕民 群益
 
 Source PDF: all report pdf/2606裕民 群益.pdf
 Report source: line報告備份
@@ -2436,7 +2436,7 @@ YoY(%)
 情形。
 
 ---
-## Document 066: 260819_daiwa_Nan Juen
+## Document 063: 260819_daiwa_Nan Juen
 
 Source PDF: all report pdf/260819_daiwa_Nan Juen.pdf
 Report source: line報告備份
@@ -2943,7 +2943,7 @@ the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 072: 260821_daiwa_fulltech
+## Document 069: 260821_daiwa_fulltech
 
 Source PDF: all report pdf/260821_daiwa_fulltech.pdf
 Report source: line報告備份
@@ -3192,7 +3192,7 @@ E-glass
 Fulltech Fiber Glass (1815 TT): 21 August 2026
 
 ---
-## Document 073: 260821_daiwa_MPI
+## Document 070: 260821_daiwa_MPI
 
 Source PDF: all report pdf/260821_daiwa_MPI.pdf
 Report source: line報告備份
@@ -4330,7 +4330,7 @@ the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 084: 260827_citi_dynapack
+## Document 081: 260827_citi_dynapack
 
 Source PDF: all report pdf/260827_citi_dynapack.pdf
 Report source: line報告備份
@@ -5110,7 +5110,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 087: 260827_daiwa_mtk
+## Document 084: 260827_daiwa_mtk
 
 Source PDF: all report pdf/260827_daiwa_mtk.pdf
 Report source: line報告備份
@@ -5997,7 +5997,7 @@ London Research Centre 3/F, 5 King William Street, London, EC4N 7AX, United King
 Global Technology: 27 August 2026
 
 ---
-## Document 088: 260827_gs_inventec
+## Document 085: 260827_gs_inventec
 
 Source PDF: all report pdf/260827_gs_inventec.pdf
 Report source: line報告備份
@@ -6442,7 +6442,7 @@ Goldman Sachs Inventec (2356.TW)For the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 093: 2610華航 統一
+## Document 090: 2610華航 統一
 
 Source PDF: all report pdf/2610華航 統一.pdf
 Report source: line報告備份
@@ -6724,7 +6724,7 @@ ainReport/data/FileStream?id=8fda9774-b900-
 請參見末頁重要批露及免責聲明  7
 
 ---
-## Document 094: 2610華航 群益
+## Document 091: 2610華航 群益
 
 Source PDF: all report pdf/2610華航 群益.pdf
 Report source: line報告備份
@@ -7046,7 +7046,7 @@ YoY(%)
 情形。
 
 ---
-## Document 098: 3008大立光 群益(1)
+## Document 095: 3008大立光 群益(1)
 
 Source PDF: all report pdf/3008大立光 群益(1).pdf
 Report source: line報告備份
@@ -7165,7 +7165,7 @@ PER= 股價 /2026 (F) EPS ； PBR= 股價 /2026 (F) 年 底 預 估 每 股 淨 
 資 來 得 少 的 情 形 。
 
 ---
-## Document 107: 3479安勤 永豐
+## Document 104: 3479安勤 永豐
 
 Source PDF: all report pdf/3479安勤 永豐.pdf
 Report source: line報告備份
@@ -7499,7 +7499,7 @@ S：Sell 賣出：未來 6 個月該股票表現將落後大盤
 7
 
 ---
-## Document 109: 3653健策 元大
+## Document 106: 3653健策 元大
 
 Source PDF: all report pdf/3653健策 元大.pdf
 Report source: line報告備份
@@ -8201,7 +8201,7 @@ ESG 總分 19.4
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 115: 3665貿聯-KY20260824-元富投顧(台新新光金控)報告
+## Document 112: 3665貿聯-KY20260824-元富投顧(台新新光金控)報告
 
 Source PDF: all report pdf/3665貿聯-KY20260824-元富投顧(台新新光金控)報告.pdf
 Report source: line報告備份
@@ -8544,7 +8544,7 @@ Operating 14.9 17.2 17.8 19.8 ROA 7.61 12.57 15.35 22.12
 Net 10.9 12.8 13.3 14.9 ROE 14.46 21.74 24.93 32.42
 
 ---
-## Document 123: 4766南寶 宏遠
+## Document 118: 4766南寶 宏遠
 
 Source PDF: all report pdf/4766南寶 宏遠.pdf
 Report source: line報告備份
@@ -9118,7 +9118,7 @@ B+
 2023 2024 2025
 
 ---
-## Document 135: 6206飛捷20260826-元富投顧(台新新光金控)報告
+## Document 130: 6206飛捷20260826-元富投顧(台新新光金控)報告
 
 Source PDF: all report pdf/6206飛捷20260826-元富投顧(台新新光金控)報告.pdf
 Report source: line報告備份
@@ -9374,7 +9374,7 @@ this date and are subject to change without notice. MasterLink has produced this
 information and advice is given in good faith but without any warranty.
 
 ---
-## Document 140: 6670復盛應用 永豐
+## Document 135: 6670復盛應用 永豐
 
 Source PDF: all report pdf/6670復盛應用 永豐.pdf
 Report source: line報告備份
@@ -9728,7 +9728,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 8
 
 ---
-## Document 154: 8086宏捷科 永豐
+## Document 149: 8086宏捷科 永豐
 
 Source PDF: all report pdf/8086宏捷科 永豐.pdf
 Report source: line報告備份
@@ -10134,7 +10134,7 @@ S：Sell 賣出：未來 6 個月該股票表現將落後大盤
 8
 
 ---
-## Document 155: 8103瀚荃 永豐
+## Document 150: 8103瀚荃 永豐
 
 Source PDF: all report pdf/8103瀚荃 永豐.pdf
 Report source: line報告備份
@@ -10488,7 +10488,7 @@ S：Sell 賣出：未來 6 個月該股票表現將落後大盤
 8
 
 ---
-## Document 157: 8103瀚荃 統一
+## Document 152: 8103瀚荃 統一
 
 Source PDF: all report pdf/8103瀚荃 統一.pdf
 Report source: line報告備份
@@ -10758,7 +10758,7 @@ ainReport/data/FileStream?id=fec6b56a-9dc2-
 請參見末頁重要批露及免責聲明  7
 
 ---
-## Document 160: 9914美利達20260820-元富投顧(台新新光金控)報告
+## Document 155: 9914美利達20260820-元富投顧(台新新光金控)報告
 
 Source PDF: all report pdf/9914美利達20260820-元富投顧(台新新光金控)報告.pdf
 Report source: line報告備份
@@ -11030,7 +11030,7 @@ Operating 5.2 11.0 8.6 6.2 ROA -1.85 3.30 4.44 -1.85
 Net 6.1 4.6 9.4 3.8 ROE -3.34 5.99 7.60 -3.34
 
 ---
-## Document 218: GFHK - Nvidia F2Q review
+## Document 204: GFHK - Nvidia F2Q review
 
 Source PDF: all report pdf/GFHK - Nvidia F2Q review.pdf
 Report source: line報告備份
@@ -11352,7 +11352,7 @@ Without the prior written con sent obtained from GF Securities (Hong Kong) Broke
 reproduced or (ii) be re-disseminated.
 
 ---
-## Document 250: MLCC_UBS
+## Document 234: MLCC_UBS
 
 Source PDF: all report pdf/MLCC_UBS.pdf
 Report source: line報告備份
@@ -12543,7 +12543,7 @@ constitute, advice within the meaning of the Municipal Advisor Rule.  For inform
 ab
 
 ---
-## Document 281: Takeaway_6584_2026_08_27_C
+## Document 264: Takeaway_6584_2026_08_27_C
 
 Source PDF: all report pdf/Takeaway_6584_2026_08_27_C.pdf
 Report source: line報告備份
@@ -12683,7 +12683,7 @@ Stream 量產線 。目前越南廠處於滿載狀態 ，主因客戶要求優�
 八月 27, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 4
 
 ---
-## Document 293: TXC Corporation Investor Conference-2026_0819_(En)
+## Document 274: TXC Corporation Investor Conference-2026_0819_(En)
 
 Source PDF: all report pdf/TXC Corporation Investor Conference-2026_0819_(En).pdf
 Report source: line報告備份
@@ -13130,7 +13130,7 @@ Cash Dividend(NTD) 2.5 2.8 2.5 2.0 2.5 3.8 7.5 7.0 4.5 5.2 4.8
 16
 
 ---
-## Document 406: 偉詮電(2436,Note)-CTBC260826
+## Document 388: 偉詮電(2436,Note)-CTBC260826
 
 Source PDF: all report pdf/偉詮電(2436,Note)-CTBC260826.pdf
 Report source: line報告備份
@@ -13315,7 +13315,7 @@ ESG 資訊 -公 司 治 理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 423: 凱基投顧_2723 美食-KY_莊政翰_20260820
+## Document 409: 凱基投顧_2723 美食-KY_莊政翰_20260820
 
 Source PDF: all report pdf/凱基投顧_2723 美食-KY_莊政翰_20260820.pdf
 Report source: line報告備份
@@ -13905,7 +13905,7 @@ Recommendations & Target Price
 2024-05-09 持有 82.0 90.6
 
 ---
-## Document 428: 凱基投顧_3023 信邦_李承泰_20260827
+## Document 414: 凱基投顧_3023 信邦_李承泰_20260827
 
 Source PDF: all report pdf/凱基投顧_3023 信邦_李承泰_20260827.pdf
 Report source: line報告備份
@@ -14689,7 +14689,7 @@ Aug-25 Oct-25 Dec-25 Mar-26 May-26 Jul-26
 資料來源：TEJ，凱基
 
 ---
-## Document 436: 凱基投顧_DKS Dick’s Sporting Goods_劉昃恩_20260826
+## Document 422: 凱基投顧_DKS Dick’s Sporting Goods_劉昃恩_20260826
 
 Source PDF: all report pdf/凱基投顧_DKS Dick’s Sporting Goods_劉昃恩_20260826.pdf
 Report source: line報告備份
@@ -15096,7 +15096,7 @@ Aug-23 Feb-24 Aug-24 Feb-25 Aug-25 Feb-26 Aug-26
 免責聲明
 
 ---
-## Document 438: 凱基投顧_HP Inc. HPQ_張燾_20260827
+## Document 424: 凱基投顧_HP Inc. HPQ_張燾_20260827
 
 Source PDF: all report pdf/凱基投顧_HP Inc. HPQ_張燾_20260827.pdf
 Report source: line報告備份
@@ -15674,7 +15674,7 @@ Feb-23 Aug-23 Feb-24 Aug-24 Feb-25 Aug-25 Feb-26 Aug-26
 電話 62 21 250 6337
 
 ---
-## Document 444: 凱基投顧_Takeaway_2610 華航_賴偉中_20260820
+## Document 430: 凱基投顧_Takeaway_2610 華航_賴偉中_20260820
 
 Source PDF: all report pdf/凱基投顧_Takeaway_2610 華航_賴偉中_20260820.pdf
 Report source: line報告備份
@@ -15837,7 +15837,7 @@ Q&A
 八月 20, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 4
 
 ---
-## Document 452: 凱基投顧_Takeaway_6467 泰合_陳宣甫_20260824
+## Document 438: 凱基投顧_Takeaway_6467 泰合_陳宣甫_20260824
 
 Source PDF: all report pdf/凱基投顧_Takeaway_6467 泰合_陳宣甫_20260824.pdf
 Report source: line報告備份
@@ -16041,7 +16041,7 @@ Territory 、 年 營 業 額 、 既 有 藥 品 組 合 與 過 去 新 劑 �
 八月 24, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 5
 
 ---
-## Document 453: 凱基投顧_Takeaway_6499 益安_陳宣甫_20260827
+## Document 439: 凱基投顧_Takeaway_6499 益安_陳宣甫_20260827
 
 Source PDF: all report pdf/凱基投顧_Takeaway_6499 益安_陳宣甫_20260827.pdf
 Report source: line報告備份
@@ -16388,7 +16388,7 @@ Urocross ，此部分完全屬於醫生的臨床判斷
 八月 27, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 8
 
 ---
-## Document 459: 凱基投顧_TGT Target Corp_莊政翰_20260820
+## Document 445: 凱基投顧_TGT Target Corp_莊政翰_20260820
 
 Source PDF: all report pdf/凱基投顧_TGT Target Corp_莊政翰_20260820.pdf
 Report source: line報告備份
@@ -16968,7 +16968,7 @@ Aug-23 Feb-24 Aug-24 Feb-25 Aug-25 Feb-26 Aug-26
  泰國   曼谷
 
 ---
-## Document 485: 台新投顧20260826個股報告-儒鴻(1476)-買進
+## Document 472: 台新投顧20260826個股報告-儒鴻(1476)-買進
 
 Source PDF: all report pdf/台新投顧20260826個股報告-儒鴻(1476)-買進.pdf
 Report source: line報告備份
@@ -17162,7 +17162,7 @@ EPS(元) 13.40 11.12 15.96 15.67 15.51 18.77 24.75 18.87 24.20 20.10
 位不為使用者之資訊決策及結果負擔任何責任。
 
 ---
-## Document 546: 新代(7750,B_買進)-CTBC260825
+## Document 530: 新代(7750,B_買進)-CTBC260825
 
 Source PDF: all report pdf/新代(7750,B_買進)-CTBC260825.pdf
 Report source: line報告備份
@@ -17447,7 +17447,7 @@ ESG 資訊 -公 司 治 理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 670: 鈺邦(6449,Note)-CTBC260826
+## Document 646: 鈺邦(6449,Note)-CTBC260826
 
 Source PDF: all report pdf/鈺邦(6449,Note)-CTBC260826.pdf
 Report source: line報告備份
