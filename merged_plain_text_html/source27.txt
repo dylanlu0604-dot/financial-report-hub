@@ -3,7 +3,7 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 019: 20260827-台新投顧複委託報告-NVDA FY2Q27財報Call memo
+## Document 017: 20260827-台新投顧複委託報告-NVDA FY2Q27財報Call memo
 
 Source PDF: all report pdf/20260827-台新投顧複委託報告-NVDA FY2Q27財報Call memo.pdf
 Report source: line報告備份
@@ -110,7 +110,7 @@ design）。每吉瓦（GW）資料中心帶給 NVDA 的營收潛力已從 Hoppe
 布。
 
 ---
-## Document 049: 2026年光模块行业蓝皮书
+## Document 047: 2026年光模块行业蓝皮书
 
 Source PDF: all report pdf/2026年光模块行业蓝皮书.pdf
 Report source: line報告備份
@@ -1692,7 +1692,7 @@ THANKS
 加入“小马财经”微信群。
 
 ---
-## Document 053: 2030彰源 統一
+## Document 051: 2030彰源 統一
 
 Source PDF: all report pdf/2030彰源 統一.pdf
 Report source: line報告備份
@@ -1957,7 +1957,7 @@ ainReport/data/FileStream?id=af32ecd1-3f66-
 請參見末頁重要批露及免責聲明  7
 
 ---
-## Document 055: 2248華勝 群益
+## Document 053: 2248華勝 群益
 
 Source PDF: all report pdf/2248華勝 群益.pdf
 Report source: line報告備份
@@ -2281,7 +2281,7 @@ YoY(%)
 情形。
 
 ---
-## Document 075: 260826_citi_MPI
+## Document 072: 260826_citi_MPI
 
 Source PDF: all report pdf/260826_citi_MPI.pdf
 Report source: line報告備份
@@ -2752,7 +2752,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 077: 260827_citi_dynapack
+## Document 074: 260827_citi_dynapack
 
 Source PDF: all report pdf/260827_citi_dynapack.pdf
 Report source: line報告備份
@@ -3532,7 +3532,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 081: 260827_gs_inventec
+## Document 078: 260827_gs_inventec
 
 Source PDF: all report pdf/260827_gs_inventec.pdf
 Report source: line報告備份
@@ -3977,7 +3977,7 @@ Goldman Sachs Inventec (2356.TW)For the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 084: 260828_daiwa_ Sunonwealth Electric Machine Industry
+## Document 081: 260828_daiwa_ Sunonwealth Electric Machine Industry
 
 Source PDF: all report pdf/260828_daiwa_ Sunonwealth Electric Machine Industry.pdf
 Report source: line報告備份
@@ -4361,7 +4361,7 @@ Note: Management score represents a company's ability to manage/benefit from cer
 Sunonwealth Electric Machine Industry (2421 TT): 28 August 2026
 
 ---
-## Document 087: 260828_ms_silergy
+## Document 084: 260828_ms_silergy
 
 Source PDF: all report pdf/260828_ms_silergy.pdf
 Report source: line報告備份
@@ -4876,7 +4876,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 089: 260830_ms_automation
+## Document 086: 260830_ms_automation
 
 Source PDF: all report pdf/260830_ms_automation.pdf
 Report source: line報告備份
@@ -5342,7 +5342,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 093: 2610華航 統一
+## Document 090: 2610華航 統一
 
 Source PDF: all report pdf/2610華航 統一.pdf
 Report source: line報告備份
@@ -5624,7 +5624,7 @@ ainReport/data/FileStream?id=8fda9774-b900-
 請參見末頁重要批露及免責聲明  7
 
 ---
-## Document 099: 3008大立光 群益
+## Document 096: 3008大立光 群益
 
 Source PDF: all report pdf/3008大立光 群益.pdf
 Report source: line報告備份
@@ -5741,7 +5741,7 @@ PER= 股價 /2026 (F) EPS ； PBR= 股價 /2026 (F) 年 底 預 估 每 股 淨 
 資 來 得 少 的 情 形 。
 
 ---
-## Document 106: 3219倚強科 群益
+## Document 103: 3219倚強科 群益
 
 Source PDF: all report pdf/3219倚強科 群益.pdf
 Report source: line報告備份
@@ -6042,7 +6042,7 @@ YoY(%)
 情形。
 
 ---
-## Document 111: 3653健策 元大
+## Document 108: 3653健策 元大
 
 Source PDF: all report pdf/3653健策 元大.pdf
 Report source: line報告備份
@@ -6744,7 +6744,7 @@ ESG 總分 19.4
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 117: 3665貿聯-KY20260824-元富投顧(台新新光金控)報告
+## Document 114: 3665貿聯-KY20260824-元富投顧(台新新光金控)報告
 
 Source PDF: all report pdf/3665貿聯-KY20260824-元富投顧(台新新光金控)報告.pdf
 Report source: line報告備份
@@ -7087,7 +7087,7 @@ Operating 14.9 17.2 17.8 19.8 ROA 7.61 12.57 15.35 22.12
 Net 10.9 12.8 13.3 14.9 ROE 14.46 21.74 24.93 32.42
 
 ---
-## Document 120: 4583台灣精銳 第一金
+## Document 116: 4583台灣精銳 第一金
 
 Source PDF: all report pdf/4583台灣精銳 第一金.pdf
 Report source: line報告備份
@@ -7315,7 +7315,7 @@ YoY(%)
 存貨週轉天數(天) 308.38 469.67 456.84 439.79
 
 ---
-## Document 124: 4766南寶 群益
+## Document 120: 4766南寶 群益
 
 Source PDF: all report pdf/4766南寶 群益.pdf
 Report source: line報告備份
@@ -7590,7 +7590,7 @@ YoY(%)
 情形。
 
 ---
-## Document 125: 4973廣穎 元富
+## Document 121: 4973廣穎 元富
 
 Source PDF: all report pdf/4973廣穎 元富.pdf
 Report source: line報告備份
@@ -7895,7 +7895,7 @@ this date and are subject to change without notice. MasterLink has produced this
 information and advice is given in good faith but without any warranty.
 
 ---
-## Document 131: 5289宜鼎 康和
+## Document 127: 5289宜鼎 康和
 
 Source PDF: all report pdf/5289宜鼎 康和.pdf
 Report source: line報告備份
@@ -8249,7 +8249,7 @@ EPS以股本96.4百萬股計算
 投 資 結 果 自 行 負 責 。
 
 ---
-## Document 144: 6449鈺邦 兆豐
+## Document 140: 6449鈺邦 兆豐
 
 Source PDF: all report pdf/6449鈺邦 兆豐.pdf
 Report source: line報告備份
@@ -8730,7 +8730,7 @@ B
 交易所公司治理評鑑
 
 ---
-## Document 147: 6584南俊 國票
+## Document 143: 6584南俊 國票
 
 Source PDF: all report pdf/6584南俊 國票.pdf
 Report source: line報告備份
@@ -9115,7 +9115,7 @@ Y oY(%)
 • 國票可能與該公司進行業務而處於緘默期
 
 ---
-## Document 149: 6693廣閎科 兆豐
+## Document 145: 6693廣閎科 兆豐
 
 Source PDF: all report pdf/6693廣閎科 兆豐.pdf
 Report source: line報告備份
@@ -9750,7 +9750,7 @@ B
 交易所公司治理評鑑
 
 ---
-## Document 160: 8086宏捷科 永豐
+## Document 155: 8086宏捷科 永豐
 
 Source PDF: all report pdf/8086宏捷科 永豐.pdf
 Report source: line報告備份
@@ -10156,7 +10156,7 @@ S：Sell 賣出：未來 6 個月該股票表現將落後大盤
 8
 
 ---
-## Document 161: 8103瀚荃 永豐
+## Document 156: 8103瀚荃 永豐
 
 Source PDF: all report pdf/8103瀚荃 永豐.pdf
 Report source: line報告備份
@@ -10510,7 +10510,7 @@ S：Sell 賣出：未來 6 個月該股票表現將落後大盤
 8
 
 ---
-## Document 162: 8103瀚荃 第一金
+## Document 157: 8103瀚荃 第一金
 
 Source PDF: all report pdf/8103瀚荃 第一金.pdf
 Report source: line報告備份
@@ -10773,7 +10773,7 @@ YoY(%)
 9
 
 ---
-## Document 175: A Primer on AI Lab & AI Hyperscaler Unit Economics
+## Document 171: A Primer on AI Lab & AI Hyperscaler Unit Economics
 
 Source PDF: all report pdf/A Primer on AI Lab & AI Hyperscaler Unit Economics.pdf
 Report source: line報告備份
@@ -11754,7 +11754,7 @@ Barclays | U.S. Internet
 报告驿站 00003508
 
 ---
-## Document 219: GFHK - Nvidia F2Q review
+## Document 214: GFHK - Nvidia F2Q review
 
 Source PDF: all report pdf/GFHK - Nvidia F2Q review.pdf
 Report source: line報告備份
@@ -12076,7 +12076,7 @@ Without the prior written con sent obtained from GF Securities (Hong Kong) Broke
 reproduced or (ii) be re-disseminated.
 
 ---
-## Document 248: MLCC_UBS
+## Document 242: MLCC_UBS
 
 Source PDF: all report pdf/MLCC_UBS.pdf
 Report source: line報告備份
@@ -13267,7 +13267,7 @@ constitute, advice within the meaning of the Municipal Advisor Rule.  For inform
 ab
 
 ---
-## Document 260: PTFE Pushing Copper Further – SemiAnalysis
+## Document 251: PTFE Pushing Copper Further – SemiAnalysis
 
 Source PDF: all report pdf/PTFE Pushing Copper Further – SemiAnalysis.pdf
 Report source: line報告備份
@@ -13527,7 +13527,7 @@ By Myron Xie, Ivan Chiam, and Louis Lu
 https://semianalysis.com/institutional/ptfe-pushing-copper-further/ 8/8
 
 ---
-## Document 309: 【國泰證期研究部】半導體測試產業-Insertion 2啟動，雙面光電測試價值上移 -20260831
+## Document 291: 【國泰證期研究部】半導體測試產業-Insertion 2啟動，雙面光電測試價值上移 -20260831
 
 Source PDF: all report pdf/【國泰證期研究部】半導體測試產業-Insertion 2啟動，雙面光電測試價值上移 -20260831.pdf
 Report source: line報告備份
@@ -13668,7 +13668,7 @@ Insertion 2 的技術門檻不僅來自電性或光學量測規格，更在於�
 5
 
 ---
-## Document 311: 【國泰證期研究部】東元(1504 TT)-中立轉買進(+20%)-方案配套開始布局-20260821
+## Document 293: 【國泰證期研究部】東元(1504 TT)-中立轉買進(+20%)-方案配套開始布局-20260821
 
 Source PDF: all report pdf/【國泰證期研究部】東元(1504 TT)-中立轉買進(+20%)-方案配套開始布局-20260821.pdf
 Report source: line報告備份
@@ -14065,7 +14065,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 438: 凱基投顧_Takeaway_2605 新興_賴偉中_20260821
+## Document 403: 凱基投顧_Takeaway_2605 新興_賴偉中_20260821
 
 Source PDF: all report pdf/凱基投顧_Takeaway_2605 新興_賴偉中_20260821.pdf
 Report source: line報告備份
@@ -14232,7 +14232,7 @@ Newcastlemax ，不過新造船都要 2031 年才會交船，VLCC 也有評估�
 八月 21, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R    4
 
 ---
-## Document 442: 凱基投顧_Takeaway_4583 台灣精銳_莊政翰_20260820
+## Document 407: 凱基投顧_Takeaway_4583 台灣精銳_莊政翰_20260820
 
 Source PDF: all report pdf/凱基投顧_Takeaway_4583 台灣精銳_莊政翰_20260820.pdf
 Report source: line報告備份
@@ -14425,7 +14425,7 @@ RD 階段、尚未正式市場應用；惟許多海外代理商已接觸人形�
 八月 20, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R   5
 
 ---
-## Document 449: 凱基投顧_Takeaway_6782 視陽_莊政翰_20260821
+## Document 414: 凱基投顧_Takeaway_6782 視陽_莊政翰_20260821
 
 Source PDF: all report pdf/凱基投顧_Takeaway_6782 視陽_莊政翰_20260821.pdf
 Report source: line報告備份
@@ -14547,7 +14547,7 @@ eden.chang@kgi.com
 八月 21, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 3
 
 ---
-## Document 450: 凱基投顧_Takeaway_7686 捷立康_陳宣甫_20260826
+## Document 415: 凱基投顧_Takeaway_7686 捷立康_陳宣甫_20260826
 
 Source PDF: all report pdf/凱基投顧_Takeaway_7686 捷立康_陳宣甫_20260826.pdf
 Report source: line報告備份
@@ -14709,7 +14709,7 @@ HeliBarb 平台與 JOUVENCE 進展
 八月 26, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 4
 
 ---
-## Document 496: 國泰金(2882,OW_增加持股)-CTBC260831
+## Document 449: 國泰金(2882,OW_增加持股)-CTBC260831
 
 Source PDF: all report pdf/國泰金(2882,OW_增加持股)-CTBC260831.pdf
 Report source: line報告備份
@@ -14985,7 +14985,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 529: 帆宣(6196,B_買進)-CTBC260826
+## Document 474: 帆宣(6196,B_買進)-CTBC260826
 
 Source PDF: all report pdf/帆宣(6196,B_買進)-CTBC260826.pdf
 Report source: line報告備份
@@ -15276,7 +15276,7 @@ ESG 資訊 - 公司治理 (Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 549: 新代(7750,B_買進)-CTBC260825
+## Document 491: 新代(7750,B_買進)-CTBC260825
 
 Source PDF: all report pdf/新代(7750,B_買進)-CTBC260825.pdf
 Report source: line報告備份
@@ -15561,7 +15561,7 @@ ESG 資訊 -公 司 治 理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 552: 新興(2605)-20260824-速報-元富投顧(台新新光金控)
+## Document 494: 新興(2605)-20260824-速報-元富投顧(台新新光金控)
 
 Source PDF: all report pdf/新興(2605)-20260824-速報-元富投顧(台新新光金控).pdf
 Report source: line報告備份
@@ -15732,7 +15732,7 @@ NT$m
 Sales Sales YoY
 
 ---
-## Document 672: 萬潤(6187,B_買進)-CTBC260831
+## Document 586: 萬潤(6187,B_買進)-CTBC260831
 
 Source PDF: all report pdf/萬潤(6187,B_買進)-CTBC260831.pdf
 Report source: line報告備份

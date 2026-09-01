@@ -273,7 +273,7 @@ ainReport/data/FileStream?id=e20af719-7077-
 請參見末頁重要批露及免責聲明  7
 
 ---
-## Document 061: 260820_citi_MTK
+## Document 058: 260820_citi_MTK
 
 Source PDF: all report pdf/260820_citi_MTK.pdf
 Report source: line報告備份
@@ -933,7 +933,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 065: 260821_daiwa_fulltech
+## Document 062: 260821_daiwa_fulltech
 
 Source PDF: all report pdf/260821_daiwa_fulltech.pdf
 Report source: line報告備份
@@ -1182,7 +1182,7 @@ E-glass
 Fulltech Fiber Glass (1815 TT): 21 August 2026
 
 ---
-## Document 070: 260823_ms_bizlink
+## Document 067: 260823_ms_bizlink
 
 Source PDF: all report pdf/260823_ms_bizlink.pdf
 Report source: line報告備份
@@ -2076,7 +2076,7 @@ Idea
 © 2026 Morgan Stanley
 
 ---
-## Document 071: 260824_ms_AI-supply-chain
+## Document 068: 260824_ms_AI-supply-chain
 
 Source PDF: all report pdf/260824_ms_AI-supply-chain.pdf
 Report source: line報告備份
@@ -4241,7 +4241,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 073: 260825_citi_chroma
+## Document 070: 260825_citi_chroma
 
 Source PDF: all report pdf/260825_citi_chroma.pdf
 Report source: line報告備份
@@ -4738,7 +4738,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 091: 2610華航 元富
+## Document 088: 2610華航 元富
 
 Source PDF: all report pdf/2610華航 元富.pdf
 Report source: line報告備份
@@ -5031,7 +5031,7 @@ Operating 11.3 4.2 7.4 9.3 ROA 6.23 5.88 5.29 5.81
 Net 9.1 2.2 4.6 6.1 ROE 4.61 4.19 3.58 3.58
 
 ---
-## Document 092: 2610華航 永豐
+## Document 089: 2610華航 永豐
 
 Source PDF: all report pdf/2610華航 永豐.pdf
 Report source: line報告備份
@@ -5429,7 +5429,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 9
 
 ---
-## Document 094: 2610華航 群益
+## Document 091: 2610華航 群益
 
 Source PDF: all report pdf/2610華航 群益.pdf
 Report source: line報告備份
@@ -5751,7 +5751,7 @@ YoY(%)
 情形。
 
 ---
-## Document 096: 2645長榮航太 宏遠
+## Document 093: 2645長榮航太 宏遠
 
 Source PDF: all report pdf/2645長榮航太 宏遠.pdf
 Report source: line報告備份
@@ -6307,7 +6307,7 @@ B+
 2024 2025 2026
 
 ---
-## Document 114: 3665貿聯 永豐
+## Document 111: 3665貿聯 永豐
 
 Source PDF: all report pdf/3665貿聯 永豐.pdf
 Report source: line報告備份
@@ -6709,7 +6709,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 9
 
 ---
-## Document 123: 4766南寶 宏遠
+## Document 119: 4766南寶 宏遠
 
 Source PDF: all report pdf/4766南寶 宏遠.pdf
 Report source: line報告備份
@@ -7283,7 +7283,7 @@ B+
 2023 2024 2025
 
 ---
-## Document 130: 5289宜鼎 國票
+## Document 126: 5289宜鼎 國票
 
 Source PDF: all report pdf/5289宜鼎 國票.pdf
 Report source: line報告備份
@@ -7726,7 +7726,7 @@ Y oY(%)
 • 國票可能與該公司進行業務而處於緘默期
 
 ---
-## Document 134: 5871中租 統一
+## Document 130: 5871中租 統一
 
 Source PDF: all report pdf/5871中租 統一.pdf
 Report source: line報告備份
@@ -8096,7 +8096,7 @@ ainReport/data/FileStream?id=bfd340d7-a975-
 請參見末頁重要批露及免責聲明  8
 
 ---
-## Document 140: 6213聯茂 元大
+## Document 136: 6213聯茂 元大
 
 Source PDF: all report pdf/6213聯茂 元大.pdf
 Report source: line報告備份
@@ -8751,7 +8751,7 @@ ESG總分 21.9
 台灣臺北市 106仁愛路三段 157號 4樓
 
 ---
-## Document 143: 6409旭隼 宏遠
+## Document 139: 6409旭隼 宏遠
 
 Source PDF: all report pdf/6409旭隼 宏遠.pdf
 Report source: line報告備份
@@ -9325,7 +9325,7 @@ A+
 2024 2025 2026
 
 ---
-## Document 150: 6782視陽 國票
+## Document 146: 6782視陽 國票
 
 Source PDF: all report pdf/6782視陽 國票.pdf
 Report source: line報告備份
@@ -9729,7 +9729,7 @@ $300
 • 國票可能與該公司進行業務而處於緘默期
 
 ---
-## Document 152: 6862三集瑞-KY20260826-元富投顧(台新新光金控)報告
+## Document 148: 6862三集瑞-KY20260826-元富投顧(台新新光金控)報告
 
 Source PDF: all report pdf/6862三集瑞-KY20260826-元富投顧(台新新光金控)報告.pdf
 Report source: line報告備份
@@ -10106,7 +10106,7 @@ Operating 12.9 13.4 25.1 22.4 ROA 15.27 9.84 6.57 10.73
 Net 10.6 7.7 18.5 16.5 ROE 23.67 14.12 9.68 15.43
 
 ---
-## Document 153: 6890來億 永豐
+## Document 149: 6890來億 永豐
 
 Source PDF: all report pdf/6890來億 永豐.pdf
 Report source: line報告備份
@@ -10401,7 +10401,7 @@ S：Sell 賣出：未來 6 個月該股票表現將落後大盤
 7
 
 ---
-## Document 155: 7734印能 元富
+## Document 150: 7734印能 元富
 
 Source PDF: all report pdf/7734印能 元富.pdf
 Report source: line報告備份
@@ -10534,7 +10534,7 @@ Net 46.5 42.6 41.8 41.7 49.6 39.9 42.8 41.7
 NT$m Sales Sales YoY
 
 ---
-## Document 156: 7810捷創 永豐
+## Document 151: 7810捷創 永豐
 
 Source PDF: all report pdf/7810捷創 永豐.pdf
 Report source: line報告備份
@@ -10863,7 +10863,7 @@ S：Sell 賣出：未來 6 個月該股票表現將落後大盤
 7
 
 ---
-## Document 220: GHHK - ASIC Outlook Wrap-up
+## Document 215: GHHK - ASIC Outlook Wrap-up
 
 Source PDF: all report pdf/GHHK - ASIC Outlook Wrap-up.pdf
 Report source: line報告備份
@@ -11106,7 +11106,7 @@ Sector Report | Semiconductor
 7
 
 ---
-## Document 245: Lumentum(LITE,B_買進)-CTBC260826
+## Document 239: Lumentum(LITE,B_買進)-CTBC260826
 
 Source PDF: all report pdf/Lumentum(LITE,B_買進)-CTBC260826.pdf
 Report source: line報告備份
@@ -11250,7 +11250,7 @@ PER Band                                   PBR Band
 未評等 Not Rated (NR)
 
 ---
-## Document 247: MediaTek (2454.TW)_GS_0901
+## Document 241: MediaTek (2454.TW)_GS_0901
 
 Source PDF: all report pdf/MediaTek (2454.TW)_GS_0901.pdf
 Report source: line報告備份
@@ -11707,7 +11707,7 @@ For the exclusive use of ROBERT.Y.WANG@GS.COM
 80053318200000000000000000000000
 
 ---
-## Document 286: TW Market Sep'26 Preview_ Wake Me Up When September Hikes (_) - Catalysts, Flwos, and Some Ideas _ GSTW
+## Document 276: TW Market Sep'26 Preview_ Wake Me Up When September Hikes (_) - Catalysts, Flwos, and Some Ideas _ GSTW
 
 Source PDF: all report pdf/TW Market Sep'26 Preview_ Wake Me Up When September Hikes (_) - Catalysts, Flwos, and Some Ideas _ GSTW.pdf
 Report source: line報告備份
@@ -12292,7 +12292,7 @@ Services Regulatory Authority or any other relevant licensing authorities in the
 https://marquee.gs.com/s/content/markets/1d3c652c-5233-4a17-9459-b901fbff9f4a 14/14
 
 ---
-## Document 377: 中租(5871,B_買進)-CTBC260826
+## Document 355: 中租(5871,B_買進)-CTBC260826
 
 Source PDF: all report pdf/中租(5871,B_買進)-CTBC260826.pdf
 Report source: line報告備份
@@ -12587,7 +12587,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 391: 京元電子(2449,B_買進)-CTBC260831
+## Document 366: 京元電子(2449,B_買進)-CTBC260831
 
 Source PDF: all report pdf/京元電子(2449,B_買進)-CTBC260831.pdf
 Report source: line報告備份
@@ -12920,7 +12920,7 @@ ESG 資訊 - 公司治理 (Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 402: 偉詮電(2436,Note)-CTBC260826
+## Document 375: 偉詮電(2436,Note)-CTBC260826
 
 Source PDF: all report pdf/偉詮電(2436,Note)-CTBC260826.pdf
 Report source: line報告備份
@@ -13105,7 +13105,7 @@ ESG 資訊 -公 司 治 理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 426: 凱基投顧_2890 永豐金_施志鴻_20260825
+## Document 391: 凱基投顧_2890 永豐金_施志鴻_20260825
 
 Source PDF: all report pdf/凱基投顧_2890 永豐金_施志鴻_20260825.pdf
 Report source: line報告備份
@@ -14157,7 +14157,7 @@ na
  泰國          曼谷
 
 ---
-## Document 428: 凱基投顧_3023 信邦_李承泰_20260827
+## Document 393: 凱基投顧_3023 信邦_李承泰_20260827
 
 Source PDF: all report pdf/凱基投顧_3023 信邦_李承泰_20260827.pdf
 Report source: line報告備份
@@ -14941,7 +14941,7 @@ Aug-25 Oct-25 Dec-25 Mar-26 May-26 Jul-26
 資料來源：TEJ，凱基
 
 ---
-## Document 431: 凱基投顧_5871 中租-KY_施志鴻_20260825
+## Document 396: 凱基投顧_5871 中租-KY_施志鴻_20260825
 
 Source PDF: all report pdf/凱基投顧_5871 中租-KY_施志鴻_20260825.pdf
 Report source: line報告備份
@@ -15931,7 +15931,7 @@ Aug-25 Oct-25 Dec-25 Feb-26 Apr-26 Jul-26
 資料來源：TEJ，凱基
 
 ---
-## Document 432: 凱基投顧_9941 裕融_施志鴻_20260826
+## Document 397: 凱基投顧_9941 裕融_施志鴻_20260826
 
 Source PDF: all report pdf/凱基投顧_9941 裕融_施志鴻_20260826.pdf
 Report source: line報告備份
@@ -16636,7 +16636,7 @@ Aug-25 Oct-25 Dec-25 Feb-26 May-26 Jul-26
 資料來源：TEJ，凱基
 
 ---
-## Document 447: 凱基投顧_Takeaway_6467 泰合_陳宣甫_20260824
+## Document 412: 凱基投顧_Takeaway_6467 泰合_陳宣甫_20260824
 
 Source PDF: all report pdf/凱基投顧_Takeaway_6467 泰合_陳宣甫_20260824.pdf
 Report source: line報告備份
@@ -16840,7 +16840,7 @@ Territory 、 年 營 業 額 、 既 有 藥 品 組 合 與 過 去 新 劑 �
 八月 24, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 5
 
 ---
-## Document 480: 台新投顧20260826個股報告-儒鴻(1476)-買進
+## Document 438: 台新投顧20260826個股報告-儒鴻(1476)-買進
 
 Source PDF: all report pdf/台新投顧20260826個股報告-儒鴻(1476)-買進.pdf
 Report source: line報告備份
@@ -17034,7 +17034,7 @@ EPS(元) 13.40 11.12 15.96 15.67 15.51 18.77 24.75 18.87 24.20 20.10
 位不為使用者之資訊決策及結果負擔任何責任。
 
 ---
-## Document 533: 強茂(2481)-20260826-速報-元富投顧(台新新光金控)
+## Document 477: 強茂(2481)-20260826-速報-元富投顧(台新新光金控)
 
 Source PDF: all report pdf/強茂(2481)-20260826-速報-元富投顧(台新新光金控).pdf
 Report source: line報告備份
@@ -17193,7 +17193,7 @@ M / NTD Sales Sales YoY
 M / NTD Sales Sales YoY
 
 ---
-## Document 655: 群益-2880-2603華南金
+## Document 570: 群益-2880-2603華南金
 
 Source PDF: all report pdf/群益-2880-2603華南金.pdf
 Report source: line報告備份
@@ -17533,7 +17533,7 @@ QoQ(%)
 情形。
 
 ---
-## Document 673: 視陽(6782,OW_增加持股)-CTBC260827
+## Document 588: 視陽(6782,OW_增加持股)-CTBC260827
 
 Source PDF: all report pdf/視陽(6782,OW_增加持股)-CTBC260827.pdf
 Report source: line報告備份
@@ -17788,7 +17788,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 682: 貿聯(3665,B_買進)-CTBC260824
+## Document 596: 貿聯(3665,B_買進)-CTBC260824
 
 Source PDF: all report pdf/貿聯(3665,B_買進)-CTBC260824.pdf
 Report source: line報告備份
@@ -18048,7 +18048,7 @@ ESG 資訊 - 公司治理 (Gov ernan ce)
 未評等 Not Rated (NR)
 
 ---
-## Document 695: 鈺邦(6449,Note)-CTBC260826
+## Document 610: 鈺邦(6449,Note)-CTBC260826
 
 Source PDF: all report pdf/鈺邦(6449,Note)-CTBC260826.pdf
 Report source: line報告備份
