@@ -114,7 +114,7 @@ design）。每吉瓦（GW）資料中心帶給 NVDA 的營收潛力已從 Hoppe
 
 Source PDF: all report pdf/2308台達電 群益.pdf
 Report source: line報告備份
-Date: 2026-09-04
+Date: 2026-09-03
 Pages: 2
 Extraction status: ok
 
@@ -5065,7 +5065,7 @@ AAAAA
 
 Source PDF: all report pdf/4576大銀微 群益.pdf
 Report source: line報告備份
-Date: 2026-09-04
+Date: 2026-09-03
 Pages: 6
 Extraction status: ok
 
@@ -5313,7 +5313,7 @@ YoY(%)
 
 Source PDF: all report pdf/6510精測 群益.pdf
 Report source: line報告備份
-Date: 2026-09-04
+Date: 2026-09-03
 Pages: 7
 Extraction status: ok
 
@@ -6330,7 +6330,7 @@ YoY(%)
 8
 
 ---
-## Document 163: A Primer on AI Lab & AI Hyperscaler Unit Economics
+## Document 164: A Primer on AI Lab & AI Hyperscaler Unit Economics
 
 Source PDF: all report pdf/A Primer on AI Lab & AI Hyperscaler Unit Economics.pdf
 Report source: line報告備份
@@ -7311,7 +7311,7 @@ Barclays | U.S. Internet
 报告驿站 00003508
 
 ---
-## Document 255: Nvidia (NVDA.US)_1150902_JPM
+## Document 279: Nvidia (NVDA.US)_1150902_JPM
 
 Source PDF: all report pdf/Nvidia (NVDA.US)_1150902_JPM.pdf
 Report source: line報告備份
@@ -7766,7 +7766,7 @@ Completed 02 Sep 2026 12:24 AM EDT Disseminated 02 Sep 2026 02:00 AM EDT
 {[{JVxjt52Wd7w-7azT_vheXCUWyfiV8sQPeo5sSct1_pf8nV26_mCoPLeDvg0_GG7t-d5_Tr_gFeg8qs-GGZ4g-a6W4zFE4g}]}
 
 ---
-## Document 319: 【國泰證期研究部】半導體測試產業-Insertion 2啟動，雙面光電測試價值上移 -20260831
+## Document 347: 【國泰證期研究部】半導體測試產業-Insertion 2啟動，雙面光電測試價值上移 -20260831
 
 Source PDF: all report pdf/【國泰證期研究部】半導體測試產業-Insertion 2啟動，雙面光電測試價值上移 -20260831.pdf
 Report source: line報告備份
@@ -7907,7 +7907,7 @@ Insertion 2 的技術門檻不僅來自電性或光學量測規格，更在於�
 5
 
 ---
-## Document 323: 【國泰證期研究部】網通產業-Helios機櫃連網，ESUN拓展乙太版圖-20260828
+## Document 351: 【國泰證期研究部】網通產業-Helios機櫃連網，ESUN拓展乙太版圖-20260828
 
 Source PDF: all report pdf/【國泰證期研究部】網通產業-Helios機櫃連網，ESUN拓展乙太版圖-20260828.pdf
 Report source: line報告備份
@@ -8086,7 +8086,7 @@ Thor Ultra 則為業界首款 800G AI 乙太網卡，採 200G 或 100G PAM4 SerD
 投資評等定義
 
 ---
-## Document 398: 京元電子(2449,B_買進)-CTBC260831
+## Document 425: 京元電子(2449,B_買進)-CTBC260831
 
 Source PDF: all report pdf/京元電子(2449,B_買進)-CTBC260831.pdf
 Report source: line報告備份
@@ -8419,7 +8419,7 @@ ESG 資訊 - 公司治理 (Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 412: 元大-零售產業-20260903
+## Document 442: 元大-零售產業-20260903
 
 Source PDF: all report pdf/元大-零售產業-20260903.pdf
 Report source: line報告備份
@@ -8946,7 +8946,7 @@ NT$仟元 2023 2024 2025 1H26
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 425: 凱基投顧_2887 台新新光金_施志鴻_20260901
+## Document 455: 凱基投顧_2887 台新新光金_施志鴻_20260901
 
 Source PDF: all report pdf/凱基投顧_2887 台新新光金_施志鴻_20260901.pdf
 Report source: line報告備份
@@ -10119,7 +10119,7 @@ Sep-25 Nov-25 Jan-26 Mar-26 May-26 Jul-26
  泰國          曼谷
 
 ---
-## Document 426: 凱基投顧_2892 第一金_施志鴻_20260827
+## Document 456: 凱基投顧_2892 第一金_施志鴻_20260827
 
 Source PDF: all report pdf/凱基投顧_2892 第一金_施志鴻_20260827.pdf
 Report source: line報告備份
@@ -11048,7 +11048,7 @@ Recommendations & Target Price
  泰國          曼谷
 
 ---
-## Document 427: 凱基投顧_3023 信邦_李承泰_20260827
+## Document 457: 凱基投顧_3023 信邦_李承泰_20260827
 
 Source PDF: all report pdf/凱基投顧_3023 信邦_李承泰_20260827.pdf
 Report source: line報告備份
@@ -11832,7 +11832,7 @@ Aug-25 Oct-25 Dec-25 Mar-26 May-26 Jul-26
 資料來源：TEJ，凱基
 
 ---
-## Document 431: 凱基投顧_CRDO Credo_張燾_20260902
+## Document 461: 凱基投顧_CRDO Credo_張燾_20260902
 
 Source PDF: all report pdf/凱基投顧_CRDO Credo_張燾_20260902.pdf
 Report source: line報告備份
@@ -12289,7 +12289,7 @@ Sep-23 Mar-24 Sep-24 Mar-25 Sep-25 Mar-26 Sep-26
 電話 62 21 250 6337
 
 ---
-## Document 436: 凱基投顧_Takeaway_6499 益安_陳宣甫_20260827
+## Document 466: 凱基投顧_Takeaway_6499 益安_陳宣甫_20260827
 
 Source PDF: all report pdf/凱基投顧_Takeaway_6499 益安_陳宣甫_20260827.pdf
 Report source: line報告備份
@@ -12636,7 +12636,7 @@ Urocross ，此部分完全屬於醫生的臨床判斷
 八月 27, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 8
 
 ---
-## Document 440: 凱基金(2883,B_買進)-CTBC260901
+## Document 470: 凱基金(2883,B_買進)-CTBC260901
 
 Source PDF: all report pdf/凱基金(2883,B_買進)-CTBC260901.pdf
 Report source: line報告備份
@@ -12935,7 +12935,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 459: 台新投顧20260831個股報告-福貞-KY(8411)-買進
+## Document 493: 台新投顧20260831個股報告-福貞-KY(8411)-買進
 
 Source PDF: all report pdf/台新投顧20260831個股報告-福貞-KY(8411)-買進.pdf
 Report source: line報告備份
@@ -13149,7 +13149,7 @@ YoY(%)
 位不為使用者之資訊決策及結果負擔任何責任。
 
 ---
-## Document 492: 富邦-2882 國泰金-20260831
+## Document 527: 富邦-2882 國泰金-20260831
 
 Source PDF: all report pdf/富邦-2882 國泰金-20260831.pdf
 Report source: line報告備份
@@ -13583,7 +13583,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 495: 寶雅(5904,OW_增加持股)-CTBC260903
+## Document 530: 寶雅(5904,OW_增加持股)-CTBC260903
 
 Source PDF: all report pdf/寶雅(5904,OW_增加持股)-CTBC260903.pdf
 Report source: line報告備份
@@ -13844,7 +13844,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 499: 康和-4979 華星光-20260902
+## Document 534: 康和-4979 華星光-20260902
 
 Source PDF: all report pdf/康和-4979 華星光-20260902.pdf
 Report source: line報告備份
@@ -14262,7 +14262,7 @@ EPS以股本142.8百萬股計算
 投 資 結 果 自 行 負 責 。
 
 ---
-## Document 534: 朋程(8255)-20260831-速報-元富投顧(台新新光金控)
+## Document 572: 朋程(8255)-20260831-速報-元富投顧(台新新光金控)
 
 Source PDF: all report pdf/朋程(8255)-20260831-速報-元富投顧(台新新光金控).pdf
 Report source: line報告備份
@@ -14406,7 +14406,7 @@ Net 8.5 7.2 9.0 8.8 11.0 7.9 8.4 9.1
 M / NTD Sales Sales YoY
 
 ---
-## Document 571: 矽力-KY(6415,UG,B_調升,買進)-CTBC260831
+## Document 612: 矽力-KY(6415,UG,B_調升,買進)-CTBC260831
 
 Source PDF: all report pdf/矽力-KY(6415,UG,B_調升,買進)-CTBC260831.pdf
 Report source: line報告備份
@@ -14706,7 +14706,7 @@ ESG 資訊 -公 司 治 理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 576: 稜研科技(7812)創新板IPO報告
+## Document 617: 稜研科技(7812)創新板IPO報告
 
 Source PDF: all report pdf/稜研科技(7812)創新板IPO報告.pdf
 Report source: line報告備份
@@ -15200,7 +15200,7 @@ LEO 衛星憑藉低延遲與高頻寬特性，被視為下一代通訊的核心�
 15
 
 ---
-## Document 614: 群益-3008-2606大立光
+## Document 659: 群益-3008-2606大立光
 
 Source PDF: all report pdf/群益-3008-2606大立光.pdf
 Report source: line報告備份
@@ -15533,7 +15533,7 @@ YoY(%)
 情形。
 
 ---
-## Document 615: 群益-3081-2610聯亞
+## Document 660: 群益-3081-2610聯亞
 
 Source PDF: all report pdf/群益-3081-2610聯亞.pdf
 Report source: line報告備份
@@ -15850,7 +15850,7 @@ YoY(%)
 情形。
 
 ---
-## Document 616: 群益-4979-2603華星光
+## Document 661: 群益-4979-2603華星光
 
 Source PDF: all report pdf/群益-4979-2603華星光.pdf
 Report source: line報告備份
@@ -16193,7 +16193,7 @@ YoY(%)
 情形。
 
 ---
-## Document 633: 華南-6415 矽力-KY-20260901
+## Document 678: 華南-6415 矽力-KY-20260901
 
 Source PDF: all report pdf/華南-6415 矽力-KY-20260901.pdf
 Report source: line報告備份
@@ -16602,7 +16602,7 @@ YOY 18.7 32.5 33.8 26.8
 個股投資建議與目標價三年歷史趨勢：
 
 ---
-## Document 664: 雙鴻(3324,B_買進)-CTBC260903
+## Document 711: 雙鴻(3324,B_買進)-CTBC260903
 
 Source PDF: all report pdf/雙鴻(3324,B_買進)-CTBC260903.pdf
 Report source: line報告備份

@@ -863,7 +863,7 @@ YoY(%)
 
 Source PDF: all report pdf/2317鴻海 宏遠.pdf
 Report source: line報告備份
-Date: 2026-09-04
+Date: 2026-09-03
 Pages: 8
 Extraction status: ok
 
@@ -12377,7 +12377,7 @@ Y oY(%)
 
 Source PDF: all report pdf/8255朋程 統一.pdf
 Report source: line報告備份
-Date: 2026-09-04
+Date: 2026-09-03
 Pages: 8
 Extraction status: ok
 
@@ -12846,7 +12846,7 @@ ainReport/data/FileStream?id=cded8cf5-97cb-
 請參見末頁重要批露及免責聲明  8
 
 ---
-## Document 247: Marvell(MRVL,B_買進)-CTBC260901
+## Document 268: Marvell(MRVL,B_買進)-CTBC260901
 
 Source PDF: all report pdf/Marvell(MRVL,B_買進)-CTBC260901.pdf
 Report source: line報告備份
@@ -12990,7 +12990,7 @@ PER Band                                   PBR Band
 未評等 Not Rated (NR)
 
 ---
-## Document 270: SEMICON Taiwan 2026｜元大
+## Document 295: SEMICON Taiwan 2026｜元大
 
 Source PDF: all report pdf/SEMICON Taiwan 2026｜元大.pdf
 Report source: line報告備份
@@ -13335,7 +13335,7 @@ ROSA）提供設備與材料的完整解決方案。此外，在無塵室自動�
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 296: TW Market Sep'26 Preview_ Wake Me Up When September Hikes (_) - Catalysts, Flwos, and Some Ideas _ GSTW
+## Document 326: TW Market Sep'26 Preview_ Wake Me Up When September Hikes (_) - Catalysts, Flwos, and Some Ideas _ GSTW
 
 Source PDF: all report pdf/TW Market Sep'26 Preview_ Wake Me Up When September Hikes (_) - Catalysts, Flwos, and Some Ideas _ GSTW.pdf
 Report source: line報告備份
@@ -13920,7 +13920,7 @@ Services Regulatory Authority or any other relevant licensing authorities in the
 https://marquee.gs.com/s/content/markets/1d3c652c-5233-4a17-9459-b901fbff9f4a 14/14
 
 ---
-## Document 324: 【國泰證期研究部】鴻勁(7769 TT)-買進轉強力買進(+47.1%)-規格躍升，鴻勢再揚-20260903
+## Document 352: 【國泰證期研究部】鴻勁(7769 TT)-買進轉強力買進(+47.1%)-規格躍升，鴻勢再揚-20260903
 
 Source PDF: all report pdf/【國泰證期研究部】鴻勁(7769 TT)-買進轉強力買進(+47.1%)-規格躍升，鴻勢再揚-20260903.pdf
 Report source: line報告備份
@@ -14312,7 +14312,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 463: 合庫-5471 松翰-20260902
+## Document 497: 合庫-5471 松翰-20260902
 
 Source PDF: all report pdf/合庫-5471 松翰-20260902.pdf
 Report source: line報告備份
@@ -14546,7 +14546,7 @@ INVESTMENT CONSULTANT
 未評等 訊息不足或有相關業務往來
 
 ---
-## Document 493: 富邦-6415 矽力-KY-20260831
+## Document 528: 富邦-6415 矽力-KY-20260831
 
 Source PDF: all report pdf/富邦-6415 矽力-KY-20260831.pdf
 Report source: line報告備份
@@ -14993,7 +14993,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 494: 富邦-6944 兆聯實業-20260831
+## Document 529: 富邦-6944 兆聯實業-20260831
 
 Source PDF: all report pdf/富邦-6944 兆聯實業-20260831.pdf
 Report source: line報告備份
@@ -15392,7 +15392,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 592: 統一-4979 華星光-20260831
+## Document 633: 統一-4979 華星光-20260831
 
 Source PDF: all report pdf/統一-4979 華星光-20260831.pdf
 Report source: line報告備份
@@ -15793,7 +15793,7 @@ EBITDA 556 807 1,401 2,864   EBITDA 16.1 18.4 23.1 23.9
 請參見末頁重要披露及免責聲明 10
 
 ---
-## Document 618: 群益-6415-2605矽力-KY-1
+## Document 663: 群益-6415-2605矽力-KY-1
 
 Source PDF: all report pdf/群益-6415-2605矽力-KY-1.pdf
 Report source: line報告備份
@@ -16308,7 +16308,7 @@ YoY(%)
 情形。
 
 ---
-## Document 632: 華南-6197 佳必琪-20260902
+## Document 677: 華南-6197 佳必琪-20260902
 
 Source PDF: all report pdf/華南-6197 佳必琪-20260902.pdf
 Report source: line報告備份

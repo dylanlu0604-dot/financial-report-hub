@@ -6451,7 +6451,7 @@ S：Sell 賣出：未來 6 個月該股票表現將落後大盤
 
 Source PDF: all report pdf/5269祥碩 永豐.pdf
 Report source: line報告備份
-Date: 2026-09-04
+Date: 2026-09-03
 Pages: 9
 Extraction status: ok
 
@@ -9489,7 +9489,7 @@ B+B+B+
 
 Source PDF: all report pdf/6944兆聯 宏遠.pdf
 Report source: line報告備份
-Date: 2026-09-04
+Date: 2026-09-03
 Pages: 7
 Extraction status: ok
 
@@ -10358,7 +10358,7 @@ YoY
 請參見末頁重要批露及免責聲明  10
 
 ---
-## Document 195: Cathay Financial(2882TW) GS 260830
+## Document 201: Cathay Financial(2882TW) GS 260830
 
 Source PDF: all report pdf/Cathay Financial(2882TW) GS 260830.pdf
 Report source: line報告備份
@@ -10369,7 +10369,7 @@ Extraction status: ok
 [No extractable text after boilerplate filtering.]
 
 ---
-## Document 206: daily story_DELL_2026_09_02_C_US
+## Document 217: daily story_DELL_2026_09_02_C_US
 
 Source PDF: all report pdf/daily story_DELL_2026_09_02_C_US.pdf
 Report source: line報告備份
@@ -10972,7 +10972,7 @@ Sep-23 Jan-24 May-24 Sep-24 Jan-25 May-25 Sep-25 Jan-26 May-26 Sep-26
 電話 62 21 250 6337
 
 ---
-## Document 217: Financials_Taiwan：_Insurance_vs_bank：_Trading_based_on_historical
+## Document 229: Financials_Taiwan：_Insurance_vs_bank：_Trading_based_on_historical
 
 Source PDF: all report pdf/Financials_Taiwan：_Insurance_vs_bank：_Trading_based_on_historical.pdf
 Report source: line報告備份
@@ -11565,7 +11565,7 @@ Neither BofA Securities nor any officer or employee of BofA Securities accepts a
 information.
 
 ---
-## Document 271: SEMICON參展評析-260904
+## Document 296: SEMICON參展評析-260904
 
 Source PDF: all report pdf/SEMICON參展評析-260904.pdf
 Report source: line報告備份
@@ -12039,7 +12039,7 @@ MEMS探針擴產展望，預期旺矽2026-2028年營運增速依舊可期。
 21
 
 ---
-## Document 321: 【國泰證期研究部】矽力-KY(6415 TT)-買進(+19.0%)-資料中心接力，再啟成長動能-20260831
+## Document 349: 【國泰證期研究部】矽力-KY(6415 TT)-買進(+19.0%)-資料中心接力，再啟成長動能-20260831
 
 Source PDF: all report pdf/【國泰證期研究部】矽力-KY(6415 TT)-買進(+19.0%)-資料中心接力，再啟成長動能-20260831.pdf
 Report source: line報告備份
@@ -12418,7 +12418,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 322: 【國泰證期研究部】第一金 (2892 TT)-買進(+19.9%)-動能優於預期，配息可以期待-20260828
+## Document 350: 【國泰證期研究部】第一金 (2892 TT)-買進(+19.9%)-動能優於預期，配息可以期待-20260828
 
 Source PDF: all report pdf/【國泰證期研究部】第一金 (2892 TT)-買進(+19.9%)-動能優於預期，配息可以期待-20260828.pdf
 Report source: line報告備份
@@ -12844,7 +12844,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 410: 元大-4749 新應材-20260831
+## Document 440: 元大-4749 新應材-20260831
 
 Source PDF: all report pdf/元大-4749 新應材-20260831.pdf
 Report source: line報告備份
@@ -13460,7 +13460,7 @@ TOK 4186 JP 未評等 8609.0 6,903 14.3 17.1 18.1 1816.7 2094.6 2381.4 4.7 4.1 3
 台灣臺北市 106仁愛路三段 157號 4樓
 
 ---
-## Document 413: 兆聯實業(6944,B_買進)-CTBC260901
+## Document 443: 兆聯實業(6944,B_買進)-CTBC260901
 
 Source PDF: all report pdf/兆聯實業(6944,B_買進)-CTBC260901.pdf
 Report source: line報告備份
@@ -13781,7 +13781,7 @@ ESG 資訊 ─公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 432: 凱基投顧_HP Inc. HPQ_張燾_20260827
+## Document 462: 凱基投顧_HP Inc. HPQ_張燾_20260827
 
 Source PDF: all report pdf/凱基投顧_HP Inc. HPQ_張燾_20260827.pdf
 Report source: line報告備份
@@ -14359,7 +14359,7 @@ Feb-23 Aug-23 Feb-24 Aug-24 Feb-25 Aug-25 Feb-26 Aug-26
 電話 62 21 250 6337
 
 ---
-## Document 439: 凱基投顧_電子硬體產業_余昀澄_20260827
+## Document 469: 凱基投顧_電子硬體產業_余昀澄_20260827
 
 Source PDF: all report pdf/凱基投顧_電子硬體產業_余昀澄_20260827.pdf
 Report source: line報告備份
@@ -15174,7 +15174,7 @@ ROE (%)
 八月 27, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R   9
 
 ---
-## Document 457: 原相(3227,N_中立)-CTBC260902
+## Document 491: 原相(3227,N_中立)-CTBC260902
 
 Source PDF: all report pdf/原相(3227,N_中立)-CTBC260902.pdf
 Report source: line報告備份
@@ -15481,7 +15481,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 458: 台新投顧20260831個股報告-益張(8342)-強力買進
+## Document 492: 台新投顧20260831個股報告-益張(8342)-強力買進
 
 Source PDF: all report pdf/台新投顧20260831個股報告-益張(8342)-強力買進.pdf
 Report source: line報告備份
@@ -15666,7 +15666,7 @@ YoY(%)
 位不為使用者之資訊決策及結果負擔任何責任。
 
 ---
-## Document 471: 國泰金(2882,OW_增加持股)-CTBC260831
+## Document 505: 國泰金(2882,OW_增加持股)-CTBC260831
 
 Source PDF: all report pdf/國泰金(2882,OW_增加持股)-CTBC260831.pdf
 Report source: line報告備份
@@ -15942,7 +15942,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 491: 富邦-2723 美食-KY-20260831
+## Document 526: 富邦-2723 美食-KY-20260831
 
 Source PDF: all report pdf/富邦-2723 美食-KY-20260831.pdf
 Report source: line報告備份
@@ -16342,7 +16342,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 502: 康霈(6919,Note)-CTBC260901
+## Document 537: 康霈(6919,Note)-CTBC260901
 
 Source PDF: all report pdf/康霈(6919,Note)-CTBC260901.pdf
 Report source: line報告備份
@@ -16533,7 +16533,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 538: 欣興電事件主動式ETF基金經理團隊看法彙整_20260901
+## Document 578: 欣興電事件主動式ETF基金經理團隊看法彙整_20260901
 
 Source PDF: all report pdf/欣興電事件主動式ETF基金經理團隊看法彙整_20260901.pdf
 Report source: line報告備份
@@ -16665,7 +16665,7 @@ ETF看好AI趨勢下，受惠的相關科技硬體概念股。除了以美國為
 昨日仍有買進，預期將有助適度修復市場緊張情緒。現階段將續抱，待情緒面衝擊淡化再作調整。
 
 ---
-## Document 591: 統一-3044 健鼎-20260831
+## Document 632: 統一-3044 健鼎-20260831
 
 Source PDF: all report pdf/統一-3044 健鼎-20260831.pdf
 Report source: line報告備份
@@ -17030,7 +17030,7 @@ EBITDA 14,369  17,197  28,383  35,036    EBITDA  21.8   23.4   27.1   28.4
 請參見末頁重要披露及免責聲明 9
 
 ---
-## Document 635: 華星光(4979,Note)-CTBC260831
+## Document 680: 華星光(4979,Note)-CTBC260831
 
 Source PDF: all report pdf/華星光(4979,Note)-CTBC260831.pdf
 Report source: line報告備份
@@ -17199,7 +17199,7 @@ ESG 資訊 -公 司 治 理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 637: 視陽(6782,OW_增加持股)-CTBC260827
+## Document 682: 視陽(6782,OW_增加持股)-CTBC260827
 
 Source PDF: all report pdf/視陽(6782,OW_增加持股)-CTBC260827.pdf
 Report source: line報告備份
@@ -17454,7 +17454,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 660: 長榮航(2618,N_中立)-CTBC260904
+## Document 707: 長榮航(2618,N_中立)-CTBC260904
 
 Source PDF: all report pdf/長榮航(2618,N_中立)-CTBC260904.pdf
 Report source: line報告備份
