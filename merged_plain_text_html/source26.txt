@@ -535,7 +535,7 @@ YoY(%)
 情形。
 
 ---
-## Document 049: 2248華勝 群益
+## Document 050: 2248華勝 群益
 
 Source PDF: all report pdf/2248華勝 群益.pdf
 Report source: line報告備份
@@ -859,7 +859,7 @@ YoY(%)
 情形。
 
 ---
-## Document 051: 2317鴻海 宏遠
+## Document 052: 2317鴻海 宏遠
 
 Source PDF: all report pdf/2317鴻海 宏遠.pdf
 Report source: line報告備份
@@ -1132,7 +1132,7 @@ Company Report
 8
 
 ---
-## Document 058: 260826_ms_CXMT-OW-initiation
+## Document 059: 260826_ms_CXMT-OW-initiation
 
 Source PDF: all report pdf/260826_ms_CXMT-OW-initiation.pdf
 Report source: line報告備份
@@ -4656,7 +4656,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 066: 260828_daiwa_ Sunonwealth Electric Machine Industry
+## Document 067: 260828_daiwa_ Sunonwealth Electric Machine Industry
 
 Source PDF: all report pdf/260828_daiwa_ Sunonwealth Electric Machine Industry.pdf
 Report source: line報告備份
@@ -5040,7 +5040,7 @@ Note: Management score represents a company's ability to manage/benefit from cer
 Sunonwealth Electric Machine Industry (2421 TT): 28 August 2026
 
 ---
-## Document 067: 260828_gs_compal
+## Document 068: 260828_gs_compal
 
 Source PDF: all report pdf/260828_gs_compal.pdf
 Report source: line報告備份
@@ -5431,7 +5431,7 @@ Goldman Sachs Compal (2324.TW)For the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 072: 260830_ms_unimicron
+## Document 073: 260830_ms_unimicron
 
 Source PDF: all report pdf/260830_ms_unimicron.pdf
 Report source: line報告備份
@@ -5934,7 +5934,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 083: 260902_ms_semicon-TW-2026
+## Document 084: 260902_ms_semicon-TW-2026
 
 Source PDF: all report pdf/260902_ms_semicon-TW-2026.pdf
 Report source: line報告備份
@@ -6338,7 +6338,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 086: 260903_citi_unimicron
+## Document 087: 260903_citi_unimicron
 
 Source PDF: all report pdf/260903_citi_unimicron.pdf
 Report source: line報告備份
@@ -6825,7 +6825,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 090: 260904_gs_airtac
+## Document 091: 260904_gs_airtac
 
 Source PDF: all report pdf/260904_gs_airtac.pdf
 Report source: line報告備份
@@ -7166,7 +7166,7 @@ Goldman Sachs Airtac International Group (1590.TW)For the exclusive use of KEVIN
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 091: 2755揚秦 永豐
+## Document 092: 2755揚秦 永豐
 
 Source PDF: all report pdf/2755揚秦 永豐.pdf
 Report source: line報告備份
@@ -7511,7 +7511,7 @@ S：Sell 賣出：未來 6 個月該股票表現將落後大盤
 8
 
 ---
-## Document 093: 2887台新新光金 群益
+## Document 094: 2887台新新光金 群益
 
 Source PDF: all report pdf/2887台新新光金 群益.pdf
 Report source: line報告備份
@@ -7927,7 +7927,7 @@ QoQ(%)
 情形。
 
 ---
-## Document 094: 3008大立光 群益(1)
+## Document 095: 3008大立光 群益(1)
 
 Source PDF: all report pdf/3008大立光 群益(1).pdf
 Report source: line報告備份
@@ -8046,7 +8046,7 @@ PER= 股價 /2026 (F) EPS ； PBR= 股價 /2026 (F) 年 底 預 估 每 股 淨 
 資 來 得 少 的 情 形 。
 
 ---
-## Document 095: 3037欣興 宏遠
+## Document 096: 3037欣興 宏遠
 
 Source PDF: all report pdf/3037欣興 宏遠.pdf
 Report source: line報告備份
@@ -8131,7 +8131,7 @@ PCB/HDI、高階厚板製程供需也呈現緊俏、ABF載板受惠於承載晶�
 後 EPS+33.68元，對於欣興(3037)維持正向看法。
 
 ---
-## Document 099: 3131弘塑 永豐
+## Document 100: 3131弘塑 永豐
 
 Source PDF: all report pdf/3131弘塑 永豐.pdf
 Report source: line報告備份
@@ -8480,7 +8480,7 @@ S：Sell 賣出：未來 6 個月該股票表現將落後大盤
 8
 
 ---
-## Document 100: 3149正達20260831-元富投顧(台新新光金控)報告
+## Document 101: 3149正達20260831-元富投顧(台新新光金控)報告
 
 Source PDF: all report pdf/3149正達20260831-元富投顧(台新新光金控)報告.pdf
 Report source: line報告備份
@@ -8709,7 +8709,7 @@ Operating -15.8 -19.3 -16.3 -15.5 ROA -5.49 -12.65 3.52 0.37
 Net -14.3 -19.4 74.5 -18.5 ROE -14.47 -26.76 6.16 0.58
 
 ---
-## Document 102: 3219倚強科 群益
+## Document 103: 3219倚強科 群益
 
 Source PDF: all report pdf/3219倚強科 群益.pdf
 Report source: line報告備份
@@ -9010,7 +9010,7 @@ YoY(%)
 情形。
 
 ---
-## Document 105: 3583辛耘 永豐
+## Document 106: 3583辛耘 永豐
 
 Source PDF: all report pdf/3583辛耘 永豐.pdf
 Report source: line報告備份
@@ -9304,7 +9304,7 @@ S：Sell 賣出：未來 6 個月該股票表現將落後大盤
 7
 
 ---
-## Document 106: 3661世芯 群益
+## Document 107: 3661世芯 群益
 
 Source PDF: all report pdf/3661世芯 群益.pdf
 Report source: line報告備份
@@ -9570,7 +9570,7 @@ YoY(%)
 情形。
 
 ---
-## Document 107: 3665貿聯-KY_1150902_JPM
+## Document 108: 3665貿聯-KY_1150902_JPM
 
 Source PDF: all report pdf/3665貿聯-KY_1150902_JPM.pdf
 Report source: line報告備份
@@ -9987,7 +9987,7 @@ Completed 02 Sep 2026 11:03 AM HKT Disseminated 02 Sep 2026 11:03 AM HKT
 {[{P_YGwaVb0R8PP40GvwY8nQauN8mV6ZlqL2hmv6vTG7nOWck0irbsXD5Pta_JBAsEPSwD6h9mpJ_zE12FQ9rGm0AhWmogEQ}]}
 
 ---
-## Document 110: 4772台特化 元大
+## Document 111: 4772台特化 元大
 
 Source PDF: all report pdf/4772台特化 元大.pdf
 Report source: line報告備份
@@ -10676,7 +10676,7 @@ ESG 總分 23.7
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 112: 4979華星光 兆豐
+## Document 113: 4979華星光 兆豐
 
 Source PDF: all report pdf/4979華星光 兆豐.pdf
 Report source: line報告備份
@@ -11196,7 +11196,7 @@ AA
 交易所公司治理評鑑
 
 ---
-## Document 114: 4991環宇 群益
+## Document 115: 4991環宇 群益
 
 Source PDF: all report pdf/4991環宇 群益.pdf
 Report source: line報告備份
@@ -11437,7 +11437,7 @@ YoY(%)
 情形。
 
 ---
-## Document 121: 6197佳必琪 國票
+## Document 122: 6197佳必琪 國票
 
 Source PDF: all report pdf/6197佳必琪 國票.pdf
 Report source: line報告備份
@@ -11883,7 +11883,7 @@ $500
 • 國票可能與該公司進行業務而處於緘默期
 
 ---
-## Document 125: 6446藥華藥 群益
+## Document 126: 6446藥華藥 群益
 
 Source PDF: all report pdf/6446藥華藥 群益.pdf
 Report source: line報告備份
@@ -11988,7 +11988,7 @@ PER= 股價 /2026 (F) EPS ； PBR= 股價 /2026 (F) 年 底 預 估 每 股 淨 
 資 來 得 少 的 情 形 。
 
 ---
-## Document 130: 6584南俊 國票
+## Document 131: 6584南俊 國票
 
 Source PDF: all report pdf/6584南俊 國票.pdf
 Report source: line報告備份
@@ -12373,7 +12373,7 @@ Y oY(%)
 • 國票可能與該公司進行業務而處於緘默期
 
 ---
-## Document 147: 8255朋程 統一
+## Document 148: 8255朋程 統一
 
 Source PDF: all report pdf/8255朋程 統一.pdf
 Report source: line報告備份
@@ -12846,7 +12846,7 @@ ainReport/data/FileStream?id=cded8cf5-97cb-
 請參見末頁重要批露及免責聲明  8
 
 ---
-## Document 240: Marvell(MRVL,B_買進)-CTBC260901
+## Document 252: Marvell(MRVL,B_買進)-CTBC260901
 
 Source PDF: all report pdf/Marvell(MRVL,B_買進)-CTBC260901.pdf
 Report source: line報告備份
@@ -12990,7 +12990,7 @@ PER Band                                   PBR Band
 未評等 Not Rated (NR)
 
 ---
-## Document 263: SEMICON Taiwan 2026｜元大
+## Document 278: SEMICON Taiwan 2026｜元大
 
 Source PDF: all report pdf/SEMICON Taiwan 2026｜元大.pdf
 Report source: line報告備份
@@ -13335,7 +13335,7 @@ ROSA）提供設備與材料的完整解決方案。此外，在無塵室自動�
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 291: TW Market Sep'26 Preview_ Wake Me Up When September Hikes (_) - Catalysts, Flwos, and Some Ideas _ GSTW
+## Document 309: TW Market Sep'26 Preview_ Wake Me Up When September Hikes (_) - Catalysts, Flwos, and Some Ideas _ GSTW
 
 Source PDF: all report pdf/TW Market Sep'26 Preview_ Wake Me Up When September Hikes (_) - Catalysts, Flwos, and Some Ideas _ GSTW.pdf
 Report source: line報告備份
@@ -13920,7 +13920,7 @@ Services Regulatory Authority or any other relevant licensing authorities in the
 https://marquee.gs.com/s/content/markets/1d3c652c-5233-4a17-9459-b901fbff9f4a 14/14
 
 ---
-## Document 317: 【國泰證期研究部】鴻勁(7769 TT)-買進轉強力買進(+47.1%)-規格躍升，鴻勢再揚-20260903
+## Document 335: 【國泰證期研究部】鴻勁(7769 TT)-買進轉強力買進(+47.1%)-規格躍升，鴻勢再揚-20260903
 
 Source PDF: all report pdf/【國泰證期研究部】鴻勁(7769 TT)-買進轉強力買進(+47.1%)-規格躍升，鴻勢再揚-20260903.pdf
 Report source: line報告備份
@@ -14312,7 +14312,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 452: 合庫-5471 松翰-20260902
+## Document 460: 合庫-5471 松翰-20260902
 
 Source PDF: all report pdf/合庫-5471 松翰-20260902.pdf
 Report source: line報告備份
@@ -14546,7 +14546,7 @@ INVESTMENT CONSULTANT
 未評等 訊息不足或有相關業務往來
 
 ---
-## Document 480: 富邦-6415 矽力-KY-20260831
+## Document 488: 富邦-6415 矽力-KY-20260831
 
 Source PDF: all report pdf/富邦-6415 矽力-KY-20260831.pdf
 Report source: line報告備份
@@ -14993,7 +14993,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 481: 富邦-6944 兆聯實業-20260831
+## Document 489: 富邦-6944 兆聯實業-20260831
 
 Source PDF: all report pdf/富邦-6944 兆聯實業-20260831.pdf
 Report source: line報告備份
@@ -15392,7 +15392,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 576: 統一-4979 華星光-20260831
+## Document 582: 統一-4979 華星光-20260831
 
 Source PDF: all report pdf/統一-4979 華星光-20260831.pdf
 Report source: line報告備份
@@ -15793,7 +15793,7 @@ EBITDA 556 807 1,401 2,864   EBITDA 16.1 18.4 23.1 23.9
 請參見末頁重要披露及免責聲明 10
 
 ---
-## Document 601: 群益-6415-2605矽力-KY-1
+## Document 604: 群益-6415-2605矽力-KY-1
 
 Source PDF: all report pdf/群益-6415-2605矽力-KY-1.pdf
 Report source: line報告備份
@@ -16308,7 +16308,7 @@ YoY(%)
 情形。
 
 ---
-## Document 613: 華南-6197 佳必琪-20260902
+## Document 616: 華南-6197 佳必琪-20260902
 
 Source PDF: all report pdf/華南-6197 佳必琪-20260902.pdf
 Report source: line報告備份
