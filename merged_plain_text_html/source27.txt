@@ -3,7 +3,7 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 008: 1795美時 群益
+## Document 007: 1795美時 群益
 
 Source PDF: all report pdf/1795美時 群益.pdf
 Report source: line報告備份
@@ -291,7 +291,7 @@ YoY(%)
 情形。
 
 ---
-## Document 047: 2027大成鋼 兆豐
+## Document 046: 2027大成鋼 兆豐
 
 Source PDF: all report pdf/2027大成鋼 兆豐.pdf
 Report source: line報告備份
@@ -848,7 +848,7 @@ D
 交易所公司治理評鑑
 
 ---
-## Document 048: 2030彰源 統一
+## Document 047: 2030彰源 統一
 
 Source PDF: all report pdf/2030彰源 統一.pdf
 Report source: line報告備份
@@ -1113,7 +1113,7 @@ ainReport/data/FileStream?id=af32ecd1-3f66-
 請參見末頁重要批露及免責聲明  7
 
 ---
-## Document 055: 2454聯發科 群益
+## Document 054: 2454聯發科 群益
 
 Source PDF: all report pdf/2454聯發科 群益.pdf
 Report source: line報告備份
@@ -1399,7 +1399,7 @@ YoY(%)
 情形。
 
 ---
-## Document 057: 2467志聖 永豐
+## Document 056: 2467志聖 永豐
 
 Source PDF: all report pdf/2467志聖 永豐.pdf
 Report source: line報告備份
@@ -1949,7 +1949,7 @@ S：Sell 賣出：未來 6 個月該股票表現將落後大盤
 13
 
 ---
-## Document 065: 260827_ms_NVDA-implication
+## Document 064: 260827_ms_NVDA-implication
 
 Source PDF: all report pdf/260827_ms_NVDA-implication.pdf
 Report source: line報告備份
@@ -2771,7 +2771,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 066: 260828_citi_unimicron
+## Document 065: 260828_citi_unimicron
 
 Source PDF: all report pdf/260828_citi_unimicron.pdf
 Report source: line報告備份
@@ -3247,7 +3247,7 @@ solely for the recipient and may not be further distributed by the recipient to 
 ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 
 ---
-## Document 070: 260828_ms_silergy
+## Document 069: 260828_ms_silergy
 
 Source PDF: all report pdf/260828_ms_silergy.pdf
 Report source: line報告備份
@@ -3762,7 +3762,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 077: 260831_ms_MTK
+## Document 076: 260831_ms_MTK
 
 Source PDF: all report pdf/260831_ms_MTK.pdf
 Report source: line報告備份
@@ -4247,7 +4247,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 098: 3081聯亞 群益
+## Document 097: 3081聯亞 群益
 
 Source PDF: all report pdf/3081聯亞 群益.pdf
 Report source: line報告備份
@@ -4366,7 +4366,7 @@ PER= 股價 /2026 (F) EPS ； PBR= 股價 /2026 (F) 年 底 預 估 每 股 淨 
 資 來 得 少 的 情 形 。
 
 ---
-## Document 105: 3529力旺 康和
+## Document 104: 3529力旺 康和
 
 Source PDF: all report pdf/3529力旺 康和.pdf
 Report source: line報告備份
@@ -4763,7 +4763,7 @@ Q1 Q2 Q3 Q4
 投 資 結 果 自 行 負 責。
 
 ---
-## Document 120: 5289宜鼎 康和
+## Document 119: 5289宜鼎 康和
 
 Source PDF: all report pdf/5289宜鼎 康和.pdf
 Report source: line報告備份
@@ -5117,7 +5117,7 @@ EPS以股本96.4百萬股計算
 投 資 結 果 自 行 負 責 。
 
 ---
-## Document 124: 6213聯茂 永豐
+## Document 123: 6213聯茂 永豐
 
 Source PDF: all report pdf/6213聯茂 永豐.pdf
 Report source: line報告備份
@@ -5455,7 +5455,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 8
 
 ---
-## Document 127: 6449鈺邦 兆豐
+## Document 126: 6449鈺邦 兆豐
 
 Source PDF: all report pdf/6449鈺邦 兆豐.pdf
 Report source: line報告備份
@@ -5936,7 +5936,7 @@ B
 交易所公司治理評鑑
 
 ---
-## Document 129: 6584南俊 元大
+## Document 128: 6584南俊 元大
 
 Source PDF: all report pdf/6584南俊 元大.pdf
 Report source: line報告備份
@@ -6568,7 +6568,7 @@ Flex FLEX US 未評等 111.8 41,307 17.1 24.8 29.6 12.6 13.8 16.2 8.9 8.1 6.9
 台灣臺北市 106仁愛路三段 157號 4樓
 
 ---
-## Document 135: 6690安碁資訊 群益
+## Document 134: 6690安碁資訊 群益
 
 Source PDF: all report pdf/6690安碁資訊 群益.pdf
 Report source: line報告備份
@@ -6928,7 +6928,7 @@ YoY(%)
 情形。
 
 ---
-## Document 136: 6693廣閎科 兆豐
+## Document 135: 6693廣閎科 兆豐
 
 Source PDF: all report pdf/6693廣閎科 兆豐.pdf
 Report source: line報告備份
@@ -7563,7 +7563,7 @@ B
 交易所公司治理評鑑
 
 ---
-## Document 137: 6890來億 永豐
+## Document 136: 6890來億 永豐
 
 Source PDF: all report pdf/6890來億 永豐.pdf
 Report source: line報告備份
@@ -7858,7 +7858,7 @@ S：Sell 賣出：未來 6 個月該股票表現將落後大盤
 7
 
 ---
-## Document 142: 7734印能 元富
+## Document 141: 7734印能 元富
 
 Source PDF: all report pdf/7734印能 元富.pdf
 Report source: line報告備份
@@ -7991,7 +7991,7 @@ Net 46.5 42.6 41.8 41.7 49.6 39.9 42.8 41.7
 NT$m Sales Sales YoY
 
 ---
-## Document 147: 8109博大 宏遠
+## Document 146: 8109博大 宏遠
 
 Source PDF: all report pdf/8109博大 宏遠.pdf
 Report source: line報告備份
@@ -8509,7 +8509,7 @@ B+B+
 2024 2025 2026
 
 ---
-## Document 171: APAC_Consumer_The_Compass_The_Consumer_Is_More_Selective_We_Are
+## Document 170: APAC_Consumer_The_Compass_The_Consumer_Is_More_Selective_We_Are
 
 Source PDF: all report pdf/APAC_Consumer_The_Compass_The_Consumer_Is_More_Selective_We_Are.pdf
 Report source: line報告備份
@@ -11998,7 +11998,7 @@ Completed 02 Sep 2026 03:00 AM HKT Disseminated 02 Sep 2026 03:02 AM HKT
 {[{MKHU-Ly3iPjdXe8mFSbJy1W2OsihsUMr6uN6fMdjVUpwJHmjPuktHynLSgVmyLcZiadKxE8WwHiVZNCdRQEQbndH7JLhZA}]}
 
 ---
-## Document 253: MediaTek (2454.TW)_GS_0901
+## Document 237: MediaTek (2454.TW)_GS_0901
 
 Source PDF: all report pdf/MediaTek (2454.TW)_GS_0901.pdf
 Report source: line報告備份
@@ -12455,7 +12455,7 @@ For the exclusive use of ROBERT.Y.WANG@GS.COM
 80053318200000000000000000000000
 
 ---
-## Document 331: 【國泰證期研究部】奇鋐(3017 TT)-買進(+22.1%)-鋐圖再展，熱勢續揚-20260828
+## Document 309: 【國泰證期研究部】奇鋐(3017 TT)-買進(+22.1%)-鋐圖再展，熱勢續揚-20260828
 
 Source PDF: all report pdf/【國泰證期研究部】奇鋐(3017 TT)-買進(+22.1%)-鋐圖再展，熱勢續揚-20260828.pdf
 Report source: line報告備份
@@ -12847,7 +12847,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 381: 世界先進(5347,Note)-CTBC260827
+## Document 368: 世界先進(5347,Note)-CTBC260827
 
 Source PDF: all report pdf/世界先進(5347,Note)-CTBC260827.pdf
 Report source: line報告備份
@@ -13044,7 +13044,7 @@ ESG 資訊 - 公司治理 (Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 407: 元大-1102 亞泥-20260831
+## Document 396: 元大-1102 亞泥-20260831
 
 Source PDF: all report pdf/元大-1102 亞泥-20260831.pdf
 Report source: line報告備份
@@ -14171,7 +14171,7 @@ ESG 總分 26.4
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 408: 元大-3037 欣興-20260831
+## Document 397: 元大-3037 欣興-20260831
 
 Source PDF: all report pdf/元大-3037 欣興-20260831.pdf
 Report source: line報告備份
@@ -14304,7 +14304,7 @@ Transshipment Scam 》報告，將台灣與加拿大、歐盟、印度、日本�
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 410: 元大-6415 矽力-KY-20260831
+## Document 399: 元大-6415 矽力-KY-20260831
 
 Source PDF: all report pdf/元大-6415 矽力-KY-20260831.pdf
 Report source: line報告備份
@@ -15243,7 +15243,7 @@ ESG 總分 18.2
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 422: 凱基投顧_2886 兆豐金_施志鴻_20260827
+## Document 411: 凱基投顧_2886 兆豐金_施志鴻_20260827
 
 Source PDF: all report pdf/凱基投顧_2886 兆豐金_施志鴻_20260827.pdf
 Report source: line報告備份
@@ -16255,7 +16255,7 @@ Aug-25 Oct-25 Dec-25 Mar-26 May-26 Jul-26
  泰國          曼谷
 
 ---
-## Document 428: 凱基投顧_6177 達麗_賴偉中_20260902
+## Document 417: 凱基投顧_6177 達麗_賴偉中_20260902
 
 Source PDF: all report pdf/凱基投顧_6177 達麗_賴偉中_20260902.pdf
 Report source: line報告備份
@@ -16850,7 +16850,7 @@ na
 資料來源：TEJ，凱基
 
 ---
-## Document 431: 凱基投顧_NVDA Nvidia_潘俊宏_20260827
+## Document 420: 凱基投顧_NVDA Nvidia_潘俊宏_20260827
 
 Source PDF: all report pdf/凱基投顧_NVDA Nvidia_潘俊宏_20260827.pdf
 Report source: line報告備份
@@ -17583,7 +17583,7 @@ Aug-23 Dec-23 Apr-24 Aug-24 Dec-24 Apr-25 Aug-25 Dec-25 Apr-26 Aug-26
 電話 62 21 250 6337
 
 ---
-## Document 435: 凱基投顧_Takeaway_6838 台新藥_陳宣甫_20260902
+## Document 424: 凱基投顧_Takeaway_6838 台新藥_陳宣甫_20260902
 
 Source PDF: all report pdf/凱基投顧_Takeaway_6838 台新藥_陳宣甫_20260902.pdf
 Report source: line報告備份
@@ -17934,7 +17934,7 @@ FDA/EMA 明確承諾？
 九月 02, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 8
 
 ---
-## Document 436: 凱基投顧_Takeaway_Semicon 2026-Day1_劉宇程_20260902
+## Document 425: 凱基投顧_Takeaway_Semicon 2026-Day1_劉宇程_20260902
 
 Source PDF: all report pdf/凱基投顧_Takeaway_Semicon 2026-Day1_劉宇程_20260902.pdf
 Report source: line報告備份
@@ -18197,7 +18197,7 @@ cold plate ，封裝段仍須先完成 stiffener 及 lid 貼合，因此不會�
 九月 02, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 9
 
 ---
-## Document 494: 康和-6197 佳必琪-20260902
+## Document 485: 康和-6197 佳必琪-20260902
 
 Source PDF: all report pdf/康和-6197 佳必琪-20260902.pdf
 Report source: line報告備份
@@ -18500,7 +18500,7 @@ EPS以股本123.4百萬股計算
 投資結 果 自 行 負 責 。
 
 ---
-## Document 495: 康和-6449 鈺邦-20260902
+## Document 486: 康和-6449 鈺邦-20260902
 
 Source PDF: all report pdf/康和-6449 鈺邦-20260902.pdf
 Report source: line報告備份
@@ -18876,7 +18876,7 @@ EPS以股本91.9百萬股計算
 責。
 
 ---
-## Document 559: 玉山-3583 辛耘-20260902
+## Document 547: 玉山-3583 辛耘-20260902
 
 Source PDF: all report pdf/玉山-3583 辛耘-20260902.pdf
 Report source: line報告備份
@@ -19066,7 +19066,7 @@ troy-72243@esunsec.com.tw
 未評等：無。
 
 ---
-## Document 566: 福邦-6640 均華-20260902
+## Document 553: 福邦-6640 均華-20260902
 
 Source PDF: all report pdf/福邦-6640 均華-20260902.pdf
 Report source: line報告備份
@@ -19338,7 +19338,7 @@ G r a n d  F o r t u n e  S e c u r i t i e s                                   
 本報告係就內部參考用，純屬參考性質，並不具備任何法律效果，其正確性不做任何承諾或保證。
 
 ---
-## Document 614: 華南-2454 聯發科-20260901
+## Document 599: 華南-2454 聯發科-20260901
 
 Source PDF: all report pdf/華南-2454 聯發科-20260901.pdf
 Report source: line報告備份
@@ -19730,7 +19730,7 @@ YOY -2.7 1.2 8.5 43.8
 個股投資建議與目標價三年歷史趨勢：
 
 ---
-## Document 615: 華南-6190 萬泰科-20260902
+## Document 600: 華南-6190 萬泰科-20260902
 
 Source PDF: all report pdf/華南-6190 萬泰科-20260902.pdf
 Report source: line報告備份
@@ -20052,7 +20052,7 @@ YOY 10.1 32.8 40.7 17.3
 個股投資建議與目標價三年歷史趨勢：
 
 ---
-## Document 640: 鈞興-KY(4571,B_買進)-CTBC260904
+## Document 629: 鈞興-KY(4571,B_買進)-CTBC260904
 
 Source PDF: all report pdf/鈞興-KY(4571,B_買進)-CTBC260904.pdf
 Report source: line報告備份
