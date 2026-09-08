@@ -407,7 +407,7 @@ $140
 • 國票可能與該公司進行業務而處於緘默期
 
 ---
-## Document 064: 260828_citi_unimicron
+## Document 056: 260828_citi_unimicron
 
 Source PDF: all report pdf/260828_citi_unimicron.pdf
 Report source: line報告備份
@@ -883,7 +883,7 @@ solely for the recipient and may not be further distributed by the recipient to 
 ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 
 ---
-## Document 065: 260828_daiwa_ Sunonwealth Electric Machine Industry
+## Document 057: 260828_daiwa_ Sunonwealth Electric Machine Industry
 
 Source PDF: all report pdf/260828_daiwa_ Sunonwealth Electric Machine Industry.pdf
 Report source: line報告備份
@@ -1267,7 +1267,7 @@ Note: Management score represents a company's ability to manage/benefit from cer
 Sunonwealth Electric Machine Industry (2421 TT): 28 August 2026
 
 ---
-## Document 072: 260831_citi_MTK
+## Document 060: 260831_citi_MTK
 
 Source PDF: all report pdf/260831_citi_MTK.pdf
 Report source: line報告備份
@@ -1818,7 +1818,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 089: 260904_citi_EMC
+## Document 077: 260904_citi_EMC
 
 Source PDF: all report pdf/260904_citi_EMC.pdf
 Report source: line報告備份
@@ -2312,7 +2312,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 101: 260907_ms_accton
+## Document 089: 260907_ms_accton
 
 Source PDF: all report pdf/260907_ms_accton.pdf
 Report source: line報告備份
@@ -2821,7 +2821,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 103: 260907_ms_chroma
+## Document 091: 260907_ms_chroma
 
 Source PDF: all report pdf/260907_ms_chroma.pdf
 Report source: line報告備份
@@ -3336,7 +3336,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 106: 260908_gs_enlitech
+## Document 094: 260908_gs_enlitech
 
 Source PDF: all report pdf/260908_gs_enlitech.pdf
 Report source: line報告備份
@@ -3527,7 +3527,7 @@ Goldman Sachs Semicon TaiwanFor the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 107: 260908_gs_foci
+## Document 095: 260908_gs_foci
 
 Source PDF: all report pdf/260908_gs_foci.pdf
 Report source: line報告備份
@@ -3704,7 +3704,7 @@ Goldman Sachs FOCI (3363.TWO)For the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 109: 2887台新新光金 統一
+## Document 096: 2887台新新光金 統一
 
 Source PDF: all report pdf/2887台新新光金 統一.pdf
 Report source: line報告備份
@@ -4140,7 +4140,7 @@ aca2-cd4c4ebd5c6b
 請參見末頁重要批露及免責聲明  10
 
 ---
-## Document 110: 2887台新新光金 群益
+## Document 097: 2887台新新光金 群益
 
 Source PDF: all report pdf/2887台新新光金 群益.pdf
 Report source: line報告備份
@@ -4556,7 +4556,7 @@ QoQ(%)
 情形。
 
 ---
-## Document 112: 3037欣興_1150831_BofA
+## Document 099: 3037欣興_1150831_BofA
 
 Source PDF: all report pdf/3037欣興_1150831_BofA.pdf
 Report source: line報告備份
@@ -4963,7 +4963,7 @@ Neither BofA Securities nor any officer or employee of BofA Securities accepts a
 information.
 
 ---
-## Document 113: 3081聯亞 群益
+## Document 100: 3081聯亞 群益
 
 Source PDF: all report pdf/3081聯亞 群益.pdf
 Report source: line報告備份
@@ -5082,7 +5082,7 @@ PER= 股價 /2026 (F) EPS ； PBR= 股價 /2026 (F) 年 底 預 估 每 股 淨 
 資 來 得 少 的 情 形 。
 
 ---
-## Document 119: 3529力旺 康和
+## Document 106: 3529力旺 康和
 
 Source PDF: all report pdf/3529力旺 康和.pdf
 Report source: line報告備份
@@ -5479,7 +5479,7 @@ Q1 Q2 Q3 Q4
 投 資 結 果 自 行 負 責。
 
 ---
-## Document 124: 4571鈞興 永豐
+## Document 111: 4571鈞興 永豐
 
 Source PDF: all report pdf/4571鈞興 永豐.pdf
 Report source: line報告備份
@@ -5795,7 +5795,7 @@ S：Sell 賣出：未來 6 個月該股票表現將落後大盤
 7
 
 ---
-## Document 130: 4979華星光 第一金
+## Document 117: 4979華星光 第一金
 
 Source PDF: all report pdf/4979華星光 第一金.pdf
 Report source: line報告備份
@@ -6053,7 +6053,7 @@ YoY(%)
 9
 
 ---
-## Document 138: 6190萬泰科 國票
+## Document 125: 6190萬泰科 國票
 
 Source PDF: all report pdf/6190萬泰科 國票.pdf
 Report source: line報告備份
@@ -6494,7 +6494,7 @@ $120
 • 國票可能與該公司進行業務而處於緘默期
 
 ---
-## Document 139: 6197佳必琪 國票
+## Document 126: 6197佳必琪 國票
 
 Source PDF: all report pdf/6197佳必琪 國票.pdf
 Report source: line報告備份
@@ -6940,7 +6940,7 @@ $500
 • 國票可能與該公司進行業務而處於緘默期
 
 ---
-## Document 146: 6584南俊 元大
+## Document 131: 6584南俊 元大
 
 Source PDF: all report pdf/6584南俊 元大.pdf
 Report source: line報告備份
@@ -7572,7 +7572,7 @@ Flex FLEX US 未評等 111.8 41,307 17.1 24.8 29.6 12.6 13.8 16.2 8.9 8.1 6.9
 台灣臺北市 106仁愛路三段 157號 4樓
 
 ---
-## Document 161: 7795長廣 統一
+## Document 144: 7795長廣 統一
 
 Source PDF: all report pdf/7795長廣 統一.pdf
 Report source: line報告備份
@@ -7973,7 +7973,7 @@ YoY
 請參見末頁重要批露及免責聲明  10
 
 ---
-## Document 162: 8103瀚荃 群益
+## Document 145: 8103瀚荃 群益
 
 Source PDF: all report pdf/8103瀚荃 群益.pdf
 Report source: line報告備份
@@ -8282,7 +8282,7 @@ YoY(%)
 情形。
 
 ---
-## Document 239: Financials_Taiwan：_Insurance_vs_bank：_Trading_based_on_historical
+## Document 209: Financials_Taiwan：_Insurance_vs_bank：_Trading_based_on_historical
 
 Source PDF: all report pdf/Financials_Taiwan：_Insurance_vs_bank：_Trading_based_on_historical.pdf
 Report source: line報告備份
@@ -8875,7 +8875,7 @@ Neither BofA Securities nor any officer or employee of BofA Securities accepts a
 information.
 
 ---
-## Document 309: SEMICON Taiwan_Optical and PLP takeaways
+## Document 265: SEMICON Taiwan_Optical and PLP takeaways
 
 Source PDF: all report pdf/SEMICON Taiwan_Optical and PLP takeaways.pdf
 Report source: line報告備份
@@ -10005,7 +10005,7 @@ rlo@ polymercapital.com
 rlo@ polymercapital.com
 
 ---
-## Document 316: TAG Tech Update Sep 2026 FINAL
+## Document 271: TAG Tech Update Sep 2026 FINAL
 
 Source PDF: all report pdf/TAG Tech Update Sep 2026 FINAL.pdf
 Report source: line報告備份
@@ -11071,7 +11071,7 @@ This report is distributed by Aletheia Analyst Network Ltd, which is authorized 
 41
 
 ---
-## Document 467: 兆豐-6446 藥華藥-20260907
+## Document 417: 兆豐-6446 藥華藥-20260907
 
 Source PDF: all report pdf/兆豐-6446 藥華藥-20260907.pdf
 Report source: line報告備份
@@ -11533,7 +11533,7 @@ B+B+B+
 交易所公司治理評鑑
 
 ---
-## Document 490: 凱基投顧_Takeaway_6838 台新藥_陳宣甫_20260902
+## Document 437: 凱基投顧_Takeaway_6838 台新藥_陳宣甫_20260902
 
 Source PDF: all report pdf/凱基投顧_Takeaway_6838 台新藥_陳宣甫_20260902.pdf
 Report source: line報告備份
@@ -11884,7 +11884,7 @@ FDA/EMA 明確承諾？
 九月 02, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 8
 
 ---
-## Document 491: 凱基投顧_Takeaway_Semicon 2026-Day1_劉宇程_20260902
+## Document 438: 凱基投顧_Takeaway_Semicon 2026-Day1_劉宇程_20260902
 
 Source PDF: all report pdf/凱基投顧_Takeaway_Semicon 2026-Day1_劉宇程_20260902.pdf
 Report source: line報告備份
@@ -12147,7 +12147,7 @@ cold plate ，封裝段仍須先完成 stiffener 及 lid 貼合，因此不會�
 九月 02, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 9
 
 ---
-## Document 514: 台新投顧20260908個股報告-華固(2548)-買進
+## Document 457: 台新投顧20260908個股報告-華固(2548)-買進
 
 Source PDF: all report pdf/台新投顧20260908個股報告-華固(2548)-買進.pdf
 Report source: line報告備份
@@ -12336,7 +12336,7 @@ EPS(元) 8.73 7.87 3.12 11.35 10.05 10.56 10.69 11.77 4.36 10.15
 位不為使用者之資訊決策及結果負擔任何責任。
 
 ---
-## Document 519: 合庫-8255 朋程-20260907
+## Document 462: 合庫-8255 朋程-20260907
 
 Source PDF: all report pdf/合庫-8255 朋程-20260907.pdf
 Report source: line報告備份
@@ -12573,7 +12573,7 @@ INVESTMENT CONSULTANT
 未評等 訊息不足或有相關業務往來
 
 ---
-## Document 527: 國泰金(2882)-20260831-速報-元富投顧(台新新光金控)
+## Document 467: 國泰金(2882)-20260831-速報-元富投顧(台新新光金控)
 
 Source PDF: all report pdf/國泰金(2882)-20260831-速報-元富投顧(台新新光金控).pdf
 Report source: line報告備份
@@ -12720,7 +12720,7 @@ Net 28.7 40.3 35.2 16.8 30.8 31.5 30.8 29.4
 NT$mn Net Income
 
 ---
-## Document 555: 富邦-6415 矽力-KY-20260831
+## Document 491: 富邦-6415 矽力-KY-20260831
 
 Source PDF: all report pdf/富邦-6415 矽力-KY-20260831.pdf
 Report source: line報告備份
@@ -13167,7 +13167,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 565: 康霈(6919,Note)-CTBC260901
+## Document 503: 康霈(6919,Note)-CTBC260901
 
 Source PDF: all report pdf/康霈(6919,Note)-CTBC260901.pdf
 Report source: line報告備份
@@ -13358,7 +13358,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 623: 海通證券分享會_矽光子與CPO發展趨勢 與 台灣供應鏈發展現況分析_v2.3
+## Document 556: 海通證券分享會_矽光子與CPO發展趨勢 與 台灣供應鏈發展現況分析_v2.3
 
 Source PDF: all report pdf/海通證券分享會_矽光子與CPO發展趨勢 與 台灣供應鏈發展現況分析_v2.3.pdf
 Report source: line報告備份
@@ -14988,7 +14988,7 @@ CPO vs 可插拔光模組的關鍵差異
 Glass Bridge / FAU供應鏈相互關係
 
 ---
-## Document 665: 統一-6213 聯茂-20260907
+## Document 598: 統一-6213 聯茂-20260907
 
 Source PDF: all report pdf/統一-6213 聯茂-20260907.pdf
 Report source: line報告備份
@@ -15291,7 +15291,7 @@ ainReport/data/FileStream?id=1e93bfbd-e318-
 請參見末頁重要批露及免責聲明  8
 
 ---
-## Document 685: 群益-4979-2603華星光
+## Document 610: 群益-4979-2603華星光
 
 Source PDF: all report pdf/群益-4979-2603華星光.pdf
 Report source: line報告備份
@@ -15634,7 +15634,7 @@ YoY(%)
 情形。
 
 ---
-## Document 689: 聖暉(5536,B_買進)-CTBC260908
+## Document 614: 聖暉(5536,B_買進)-CTBC260908
 
 Source PDF: all report pdf/聖暉(5536,B_買進)-CTBC260908.pdf
 Report source: line報告備份
@@ -15945,7 +15945,7 @@ ESG 資訊 ─公司治理 (Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 701: 華南-6197 佳必琪-20260902
+## Document 626: 華南-6197 佳必琪-20260902
 
 Source PDF: all report pdf/華南-6197 佳必琪-20260902.pdf
 Report source: line報告備份
@@ -16237,7 +16237,7 @@ YOY 21.0 28.5 5.2 0.0
 個股投資建議與目標價三年歷史趨勢：
 
 ---
-## Document 705: 萬潤(6187,B_買進)-CTBC260831
+## Document 630: 萬潤(6187,B_買進)-CTBC260831
 
 Source PDF: all report pdf/萬潤(6187,B_買進)-CTBC260831.pdf
 Report source: line報告備份
@@ -16647,7 +16647,7 @@ ESG 資訊-公司治理(Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 726: 鈞興-KY(4571,B_買進)-CTBC260904
+## Document 649: 鈞興-KY(4571,B_買進)-CTBC260904
 
 Source PDF: all report pdf/鈞興-KY(4571,B_買進)-CTBC260904.pdf
 Report source: line報告備份

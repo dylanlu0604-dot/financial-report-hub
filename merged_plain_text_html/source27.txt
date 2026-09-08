@@ -3,7 +3,7 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 071: 260830_ms_unimicron
+## Document 059: 260830_ms_unimicron
 
 Source PDF: all report pdf/260830_ms_unimicron.pdf
 Report source: line報告備份
@@ -506,7 +506,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 085: 260903_citi_unimicron
+## Document 073: 260903_citi_unimicron
 
 Source PDF: all report pdf/260903_citi_unimicron.pdf
 Report source: line報告備份
@@ -993,7 +993,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 088: 260903_ms_airtac
+## Document 076: 260903_ms_airtac
 
 Source PDF: all report pdf/260903_ms_airtac.pdf
 Report source: line報告備份
@@ -1512,7 +1512,7 @@ Update
 © 2026 Morgan Stanley
 
 ---
-## Document 091: 260904_gs_airtac
+## Document 079: 260904_gs_airtac
 
 Source PDF: all report pdf/260904_gs_airtac.pdf
 Report source: line報告備份
@@ -1853,7 +1853,7 @@ Goldman Sachs Airtac International Group (1590.TW)For the exclusive use of KEVIN
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 092: 260906_ms_ABF
+## Document 080: 260906_ms_ABF
 
 Source PDF: all report pdf/260906_ms_ABF.pdf
 Report source: line報告備份
@@ -2309,7 +2309,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 095: 260906_ubs_largan-DG
+## Document 083: 260906_ubs_largan-DG
 
 Source PDF: all report pdf/260906_ubs_largan-DG.pdf
 Report source: line報告備份
@@ -4129,7 +4129,7 @@ constitute, advice within the meaning of the Municipal Advisor Rule.  For inform
 ab
 
 ---
-## Document 099: 260907_gs_TW-PCB-CCL
+## Document 087: 260907_gs_TW-PCB-CCL
 
 Source PDF: all report pdf/260907_gs_TW-PCB-CCL.pdf
 Report source: line報告備份
@@ -4475,7 +4475,7 @@ Goldman Sachs Taiwan PCB/CCLFor the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 115: 3149正達20260831-元富投顧(台新新光金控)報告
+## Document 102: 3149正達20260831-元富投顧(台新新光金控)報告
 
 Source PDF: all report pdf/3149正達20260831-元富投顧(台新新光金控)報告.pdf
 Report source: line報告備份
@@ -4704,7 +4704,7 @@ Operating -15.8 -19.3 -16.3 -15.5 ROA -5.49 -12.65 3.52 0.37
 Net -14.3 -19.4 74.5 -18.5 ROE -14.47 -26.76 6.16 0.58
 
 ---
-## Document 117: 3219倚強科 群益
+## Document 104: 3219倚強科 群益
 
 Source PDF: all report pdf/3219倚強科 群益.pdf
 Report source: line報告備份
@@ -5005,7 +5005,7 @@ YoY(%)
 情形。
 
 ---
-## Document 122: 3665貿聯-KY_1150902_JPM
+## Document 109: 3665貿聯-KY_1150902_JPM
 
 Source PDF: all report pdf/3665貿聯-KY_1150902_JPM.pdf
 Report source: line報告備份
@@ -5422,7 +5422,7 @@ Completed 02 Sep 2026 11:03 AM HKT Disseminated 02 Sep 2026 11:03 AM HKT
 {[{P_YGwaVb0R8PP40GvwY8nQauN8mV6ZlqL2hmv6vTG7nOWck0irbsXD5Pta_JBAsEPSwD6h9mpJ_zE12FQ9rGm0AhWmogEQ}]}
 
 ---
-## Document 126: 4576大銀微 群益
+## Document 113: 4576大銀微 群益
 
 Source PDF: all report pdf/4576大銀微 群益.pdf
 Report source: line報告備份
@@ -5670,7 +5670,7 @@ YoY(%)
 情形。
 
 ---
-## Document 131: 4991環宇 群益
+## Document 118: 4991環宇 群益
 
 Source PDF: all report pdf/4991環宇 群益.pdf
 Report source: line報告備份
@@ -5911,7 +5911,7 @@ YoY(%)
 情形。
 
 ---
-## Document 136: 5289宜鼎 國票
+## Document 123: 5289宜鼎 國票
 
 Source PDF: all report pdf/5289宜鼎 國票.pdf
 Report source: line報告備份
@@ -6354,7 +6354,7 @@ Y oY(%)
 • 國票可能與該公司進行業務而處於緘默期
 
 ---
-## Document 142: 6415矽力 富邦
+## Document 127: 6415矽力 富邦
 
 Source PDF: all report pdf/6415矽力 富邦.pdf
 Report source: line報告備份
@@ -6801,7 +6801,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 144: 6449鈺邦 兆豐
+## Document 129: 6449鈺邦 兆豐
 
 Source PDF: all report pdf/6449鈺邦 兆豐.pdf
 Report source: line報告備份
@@ -7282,7 +7282,7 @@ B
 交易所公司治理評鑑
 
 ---
-## Document 149: 6609瀧澤科 宏遠
+## Document 134: 6609瀧澤科 宏遠
 
 Source PDF: all report pdf/6609瀧澤科 宏遠.pdf
 Report source: line報告備份
@@ -7781,7 +7781,7 @@ C+
 2024 2025 2026
 
 ---
-## Document 156: 6944兆聯 富邦
+## Document 138: 6944兆聯 富邦
 
 Source PDF: all report pdf/6944兆聯 富邦.pdf
 Report source: line報告備份
@@ -8180,7 +8180,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 158: 7689大鵬科 宏遠
+## Document 141: 7689大鵬科 宏遠
 
 Source PDF: all report pdf/7689大鵬科 宏遠.pdf
 Report source: line報告備份
@@ -8443,7 +8443,7 @@ Company Report
 稅後純益率 % 3.73 8.56 11.85 13.42 10.40 13.31 14.61 12.63 12.51 13.73 13.28 13.91 13.35
 
 ---
-## Document 159: 7734印能 元富
+## Document 142: 7734印能 元富
 
 Source PDF: all report pdf/7734印能 元富.pdf
 Report source: line報告備份
@@ -8576,7 +8576,7 @@ Net 46.5 42.6 41.8 41.7 49.6 39.9 42.8 41.7
 NT$m Sales Sales YoY
 
 ---
-## Document 160: 7792安葆 第一金
+## Document 143: 7792安葆 第一金
 
 Source PDF: all report pdf/7792安葆 第一金.pdf
 Report source: line報告備份
@@ -8821,7 +8821,7 @@ YoY(%)
 8
 
 ---
-## Document 165: 8916光隆 宏遠
+## Document 148: 8916光隆 宏遠
 
 Source PDF: all report pdf/8916光隆 宏遠.pdf
 Report source: line報告備份
@@ -9382,7 +9382,7 @@ A
 2024 2025 2026
 
 ---
-## Document 214: Cathay Financial(2882TW) GS 260830
+## Document 186: Cathay Financial(2882TW) GS 260830
 
 Source PDF: all report pdf/Cathay Financial(2882TW) GS 260830.pdf
 Report source: line報告備份
@@ -9393,7 +9393,7 @@ Extraction status: ok
 [No extractable text after boilerplate filtering.]
 
 ---
-## Document 248: GLOBAL OPTICAL GS 260907
+## Document 216: GLOBAL OPTICAL GS 260907
 
 Source PDF: all report pdf/GLOBAL OPTICAL GS 260907.pdf
 Report source: line報告備份
@@ -9404,7 +9404,7 @@ Extraction status: ok
 [No extractable text after boilerplate filtering.]
 
 ---
-## Document 276: Marvell(MRVL,B_買進)-CTBC260901
+## Document 238: Marvell(MRVL,B_買進)-CTBC260901
 
 Source PDF: all report pdf/Marvell(MRVL,B_買進)-CTBC260901.pdf
 Report source: line報告備份
@@ -9548,7 +9548,7 @@ PER Band                                   PBR Band
 未評等 Not Rated (NR)
 
 ---
-## Document 286: Nvidia (NVDA.US)_1150902_JPM
+## Document 245: Nvidia (NVDA.US)_1150902_JPM
 
 Source PDF: all report pdf/Nvidia (NVDA.US)_1150902_JPM.pdf
 Report source: line報告備份
@@ -10003,7 +10003,7 @@ Completed 02 Sep 2026 12:24 AM EDT Disseminated 02 Sep 2026 02:00 AM EDT
 {[{JVxjt52Wd7w-7azT_vheXCUWyfiV8sQPeo5sSct1_pf8nV26_mCoPLeDvg0_GG7t-d5_Tr_gFeg8qs-GGZ4g-a6W4zFE4g}]}
 
 ---
-## Document 340: TW Market Sep'26 Preview_ Wake Me Up When September Hikes (_) - Catalysts, Flwos, and Some Ideas _ GSTW
+## Document 292: TW Market Sep'26 Preview_ Wake Me Up When September Hikes (_) - Catalysts, Flwos, and Some Ideas _ GSTW
 
 Source PDF: all report pdf/TW Market Sep'26 Preview_ Wake Me Up When September Hikes (_) - Catalysts, Flwos, and Some Ideas _ GSTW.pdf
 Report source: line報告備份
@@ -10588,7 +10588,7 @@ Services Regulatory Authority or any other relevant licensing authorities in the
 https://marquee.gs.com/s/content/markets/1d3c652c-5233-4a17-9459-b901fbff9f4a 14/14
 
 ---
-## Document 438: 京元電子(2449,B_買進)-CTBC260831
+## Document 388: 京元電子(2449,B_買進)-CTBC260831
 
 Source PDF: all report pdf/京元電子(2449,B_買進)-CTBC260831.pdf
 Report source: line報告備份
@@ -10921,7 +10921,7 @@ ESG 資訊 - 公司治理 (Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 460: 元大-4749 新應材-20260831
+## Document 410: 元大-4749 新應材-20260831
 
 Source PDF: all report pdf/元大-4749 新應材-20260831.pdf
 Report source: line報告備份
@@ -11537,7 +11537,7 @@ TOK 4186 JP 未評等 8609.0 6,903 14.3 17.1 18.1 1816.7 2094.6 2381.4 4.7 4.1 3
 台灣臺北市 106仁愛路三段 157號 4樓
 
 ---
-## Document 463: 元大-零售產業-20260903
+## Document 413: 元大-零售產業-20260903
 
 Source PDF: all report pdf/元大-零售產業-20260903.pdf
 Report source: line報告備份
@@ -12064,7 +12064,7 @@ NT$仟元 2023 2024 2025 1H26
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 465: 元富-自行車產業-20260904
+## Document 415: 元富-自行車產業-20260904
 
 Source PDF: all report pdf/元富-自行車產業-20260904.pdf
 Report source: line報告備份
@@ -12686,7 +12686,7 @@ Net 18.5 20.6 19.8 22.4
 報告完畢 ‧ 謝謝指教
 
 ---
-## Document 486: 凱基投顧_6805 富世達_余昀澄_20260907
+## Document 434: 凱基投顧_6805 富世達_余昀澄_20260907
 
 Source PDF: all report pdf/凱基投顧_6805 富世達_余昀澄_20260907.pdf
 Report source: line報告備份
@@ -13340,7 +13340,7 @@ Sep-25 Nov-25 Jan-26 Mar-26 May-26 Jul-26
 資料來源：TEJ，凱基
 
 ---
-## Document 488: 凱基投顧_Takeaway_1795 美時_陳宣甫_20260901
+## Document 436: 凱基投顧_Takeaway_1795 美時_陳宣甫_20260901
 
 Source PDF: all report pdf/凱基投顧_Takeaway_1795 美時_陳宣甫_20260901.pdf
 Report source: line報告備份
@@ -13572,7 +13572,7 @@ QA
 九月 01, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 6
 
 ---
-## Document 513: 台新投顧20260831個股報告-福貞-KY(8411)-買進
+## Document 456: 台新投顧20260831個股報告-福貞-KY(8411)-買進
 
 Source PDF: all report pdf/台新投顧20260831個股報告-福貞-KY(8411)-買進.pdf
 Report source: line報告備份
@@ -13786,7 +13786,7 @@ YoY(%)
 位不為使用者之資訊決策及結果負擔任何責任。
 
 ---
-## Document 560: 康和-3680 家登-20260902
+## Document 498: 康和-3680 家登-20260902
 
 Source PDF: all report pdf/康和-3680 家登-20260902.pdf
 Report source: line報告備份
@@ -14123,7 +14123,7 @@ EPS以股本96.3百萬股計算
 投 資 結 果 自 行 負 責 。
 
 ---
-## Document 561: 康和-4979 華星光-20260902
+## Document 499: 康和-4979 華星光-20260902
 
 Source PDF: all report pdf/康和-4979 華星光-20260902.pdf
 Report source: line報告備份
@@ -14541,7 +14541,7 @@ EPS以股本142.8百萬股計算
 投 資 結 果 自 行 負 責 。
 
 ---
-## Document 562: 康和-6197 佳必琪-20260902
+## Document 500: 康和-6197 佳必琪-20260902
 
 Source PDF: all report pdf/康和-6197 佳必琪-20260902.pdf
 Report source: line報告備份
@@ -14844,7 +14844,7 @@ EPS以股本123.4百萬股計算
 投資結 果 自 行 負 責 。
 
 ---
-## Document 564: 康和-7610 聯友金屬-創-20260907 initiation
+## Document 502: 康和-7610 聯友金屬-創-20260907 initiation
 
 Source PDF: all report pdf/康和-7610 聯友金屬-創-20260907 initiation.pdf
 Report source: line報告備份
@@ -15134,7 +15134,7 @@ EPS以股本58.3百萬股計算
 投 資 結 果 自 行 負 責 。
 
 ---
-## Document 608: 欣興電事件主動式ETF基金經理團隊看法彙整_20260901
+## Document 540: 欣興電事件主動式ETF基金經理團隊看法彙整_20260901
 
 Source PDF: all report pdf/欣興電事件主動式ETF基金經理團隊看法彙整_20260901.pdf
 Report source: line報告備份
@@ -15266,7 +15266,7 @@ ETF看好AI趨勢下，受惠的相關科技硬體概念股。除了以美國為
 昨日仍有買進，預期將有助適度修復市場緊張情緒。現階段將續抱，待情緒面衝擊淡化再作調整。
 
 ---
-## Document 644: 稜研科技(7812)創新板IPO報告
+## Document 576: 稜研科技(7812)創新板IPO報告
 
 Source PDF: all report pdf/稜研科技(7812)創新板IPO報告.pdf
 Report source: line報告備份
@@ -15760,7 +15760,7 @@ LEO 衛星憑藉低延遲與高頻寬特性，被視為下一代通訊的核心�
 15
 
 ---
-## Document 702: 華南-6415 矽力-KY-20260901
+## Document 627: 華南-6415 矽力-KY-20260901
 
 Source PDF: all report pdf/華南-6415 矽力-KY-20260901.pdf
 Report source: line報告備份
