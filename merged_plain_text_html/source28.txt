@@ -265,7 +265,7 @@ YoY(%)
 情形。
 
 ---
-## Document 051: 2049上銀 統一
+## Document 050: 2049上銀 統一
 
 Source PDF: all report pdf/2049上銀 統一.pdf
 Report source: line報告備份
@@ -717,7 +717,7 @@ EBITDA 4,393 4,001 4,481 5,342   EBITDA 18.0 16.5 14.9 15.9
 請參見末頁重要披露及免責聲明 13
 
 ---
-## Document 059: 2455全新 群益
+## Document 058: 2455全新 群益
 
 Source PDF: all report pdf/2455全新 群益.pdf
 Report source: line報告備份
@@ -958,7 +958,7 @@ YoY(%)
 情形。
 
 ---
-## Document 064: 260831_ms_MTK
+## Document 063: 260831_ms_MTK
 
 Source PDF: all report pdf/260831_ms_MTK.pdf
 Report source: line報告備份
@@ -1443,7 +1443,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 066: 260901_gs_MTK
+## Document 065: 260901_gs_MTK
 
 Source PDF: all report pdf/260901_gs_MTK.pdf
 Report source: line報告備份
@@ -1892,7 +1892,7 @@ Goldman Sachs MediaTek (2454.TW)For the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 071: 260902_ms_semicon-TW-2026
+## Document 070: 260902_ms_semicon-TW-2026
 
 Source PDF: all report pdf/260902_ms_semicon-TW-2026.pdf
 Report source: line報告備份
@@ -2296,7 +2296,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 078: 260904_citi_EMC
+## Document 077: 260904_citi_EMC
 
 Source PDF: all report pdf/260904_citi_EMC.pdf
 Report source: line報告備份
@@ -2790,7 +2790,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 090: 260907_ms_accton
+## Document 089: 260907_ms_accton
 
 Source PDF: all report pdf/260907_ms_accton.pdf
 Report source: line報告備份
@@ -3299,7 +3299,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 103: 260908_ms_ememory
+## Document 102: 260908_ms_ememory
 
 Source PDF: all report pdf/260908_ms_ememory.pdf
 Report source: line報告備份
@@ -3875,7 +3875,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 106: 260909_daiwa_ardentec-buy-initiation
+## Document 105: 260909_daiwa_ardentec-buy-initiation
 
 Source PDF: all report pdf/260909_daiwa_ardentec-buy-initiation.pdf
 Report source: line報告備份
@@ -5104,7 +5104,7 @@ London Research Centre 3/F, 5 King William Street, London, EC4N 7AX, United King
 Ardentec (3264 TT): 9 September 2026
 
 ---
-## Document 111: 260910_gs_foldable
+## Document 110: 260910_gs_foldable
 
 Source PDF: all report pdf/260910_gs_foldable.pdf
 Report source: line報告備份
@@ -9262,7 +9262,7 @@ B+B+B+
 2024 2025 2026
 
 ---
-## Document 157: 7792安葆 第一金
+## Document 156: 7792安葆 第一金
 
 Source PDF: all report pdf/7792安葆 第一金.pdf
 Report source: line報告備份
@@ -9507,7 +9507,7 @@ YoY(%)
 8
 
 ---
-## Document 163: 8299群聯 宏遠
+## Document 162: 8299群聯 宏遠
 
 Source PDF: all report pdf/8299群聯 宏遠.pdf
 Report source: line報告備份
@@ -9741,7 +9741,7 @@ Company Report
 7
 
 ---
-## Document 248: Financials_Taiwan：_Insurance_vs_bank：_Trading_based_on_historical
+## Document 231: Financials_Taiwan：_Insurance_vs_bank：_Trading_based_on_historical
 
 Source PDF: all report pdf/Financials_Taiwan：_Insurance_vs_bank：_Trading_based_on_historical.pdf
 Report source: line報告備份
@@ -10334,7 +10334,7 @@ Neither BofA Securities nor any officer or employee of BofA Securities accepts a
 information.
 
 ---
-## Document 324: SEMICON Taiwan - AI Infra Research Positions 2026 (final2)
+## Document 294: SEMICON Taiwan - AI Infra Research Positions 2026 (final2)
 
 Source PDF: all report pdf/SEMICON Taiwan - AI Infra Research Positions 2026 (final2).pdf
 Report source: line報告備份
@@ -10657,7 +10657,7 @@ Disruptors in 2026
 Emerging Market Dynamics T eam, HTI Research
 
 ---
-## Document 326: SEMICON Taiwan_Optical and PLP takeaways
+## Document 296: SEMICON Taiwan_Optical and PLP takeaways
 
 Source PDF: all report pdf/SEMICON Taiwan_Optical and PLP takeaways.pdf
 Report source: line報告備份
@@ -11787,7 +11787,7 @@ rlo@ polymercapital.com
 rlo@ polymercapital.com
 
 ---
-## Document 336: TAG Tech Update Sep 2026 FINAL
+## Document 304: TAG Tech Update Sep 2026 FINAL
 
 Source PDF: all report pdf/TAG Tech Update Sep 2026 FINAL.pdf
 Report source: line報告備份
@@ -12853,7 +12853,7 @@ This report is distributed by Aletheia Analyst Network Ltd, which is authorized 
 41
 
 ---
-## Document 480: 元大-1504 東元-20260908
+## Document 424: 元大-1504 東元-20260908
 
 Source PDF: all report pdf/元大-1504 東元-20260908.pdf
 Report source: line報告備份
@@ -13420,7 +13420,7 @@ ESG 總分 23.6
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 485: 元大-零售產業-20260903
+## Document 426: 元大-零售產業-20260903
 
 Source PDF: all report pdf/元大-零售產業-20260903.pdf
 Report source: line報告備份
@@ -13947,7 +13947,7 @@ NT$仟元 2023 2024 2025 1H26
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 502: 凱基投顧_3026 禾伸堂_鄭宇宏_20260908
+## Document 439: 凱基投顧_3026 禾伸堂_鄭宇宏_20260908
 
 Source PDF: all report pdf/凱基投顧_3026 禾伸堂_鄭宇宏_20260908.pdf
 Report source: line報告備份
@@ -14544,7 +14544,7 @@ Recommendations & Target Price
 2026-05-22 增加持股 650 477
 
 ---
-## Document 503: 凱基投顧_5607 遠雄港_賴偉中_20260901
+## Document 440: 凱基投顧_5607 遠雄港_賴偉中_20260901
 
 Source PDF: all report pdf/凱基投顧_5607 遠雄港_賴偉中_20260901.pdf
 Report source: line報告備份
@@ -15125,7 +15125,7 @@ na
 2026-05-07 增加持股 64.00 48.30
 
 ---
-## Document 511: 凱基投顧_Takeaway_6838 台新藥_陳宣甫_20260902
+## Document 447: 凱基投顧_Takeaway_6838 台新藥_陳宣甫_20260902
 
 Source PDF: all report pdf/凱基投顧_Takeaway_6838 台新藥_陳宣甫_20260902.pdf
 Report source: line報告備份
@@ -15476,7 +15476,7 @@ FDA/EMA 明確承諾？
 九月 02, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 8
 
 ---
-## Document 516: 凱基金(2883,B_買進)-CTBC260901
+## Document 452: 凱基金(2883,B_買進)-CTBC260901
 
 Source PDF: all report pdf/凱基金(2883,B_買進)-CTBC260901.pdf
 Report source: line報告備份
@@ -15775,7 +15775,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 521: 創意(3443,B_買進)-CTBC260907
+## Document 454: 創意(3443,B_買進)-CTBC260907
 
 Source PDF: all report pdf/創意(3443,B_買進)-CTBC260907.pdf
 Report source: line報告備份
@@ -16099,7 +16099,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 533: 台新投顧20260908個股報告-華固(2548)-買進
+## Document 463: 台新投顧20260908個股報告-華固(2548)-買進
 
 Source PDF: all report pdf/台新投顧20260908個股報告-華固(2548)-買進.pdf
 Report source: line報告備份
@@ -16288,7 +16288,7 @@ EPS(元) 8.73 7.87 3.12 11.35 10.05 10.56 10.69 11.77 4.36 10.15
 位不為使用者之資訊決策及結果負擔任何責任。
 
 ---
-## Document 570: 富邦-3444 利機-20260907
+## Document 493: 富邦-3444 利機-20260907
 
 Source PDF: all report pdf/富邦-3444 利機-20260907.pdf
 Report source: line報告備份
@@ -16571,7 +16571,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 583: 康和-7610 聯友金屬-創-20260907 initiation
+## Document 502: 康和-7610 聯友金屬-創-20260907 initiation
 
 Source PDF: all report pdf/康和-7610 聯友金屬-創-20260907 initiation.pdf
 Report source: line報告備份
@@ -16861,7 +16861,7 @@ EPS以股本58.3百萬股計算
 投 資 結 果 自 行 負 責 。
 
 ---
-## Document 585: 康霈(6919,Note)-CTBC260901
+## Document 503: 康霈(6919,Note)-CTBC260901
 
 Source PDF: all report pdf/康霈(6919,Note)-CTBC260901.pdf
 Report source: line報告備份
@@ -17052,7 +17052,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 640: 浮水[元大]TSMC CoPoS供應鏈進展_高精細TGV 玻璃芯基板打破 AI 算力瓶頸量產供應鏈組合_2026090
+## Document 550: 浮水[元大]TSMC CoPoS供應鏈進展_高精細TGV 玻璃芯基板打破 AI 算力瓶頸量產供應鏈組合_2026090
 
 Source PDF: all report pdf/浮水[元大]TSMC CoPoS供應鏈進展_高精細TGV 玻璃芯基板打破 AI 算力瓶頸量產供應鏈組合_2026090.pdf
 Report source: line報告備份
@@ -17875,7 +17875,7 @@ Glass Interposer 晶圓級測試與已知優良晶粒（KGD）篩選
 AI 算力新視界：Meta lens 、Micro-Led、TSMC COUPE 3技術與供應鏈 課程內容未經許可不得轉載或分享Confidential Yi-Hau, Shiau
 
 ---
-## Document 707: 群益-2408-2615南亞科
+## Document 606: 群益-2408-2615南亞科
 
 Source PDF: all report pdf/群益-2408-2615南亞科.pdf
 Report source: line報告備份
@@ -18133,7 +18133,7 @@ YoY(%)
 情形。
 
 ---
-## Document 709: 群益-6415-2605矽力-KY-1
+## Document 608: 群益-6415-2605矽力-KY-1
 
 Source PDF: all report pdf/群益-6415-2605矽力-KY-1.pdf
 Report source: line報告備份

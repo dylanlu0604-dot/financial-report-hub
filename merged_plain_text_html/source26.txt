@@ -3,7 +3,7 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 052: 2303聯電 群益
+## Document 051: 2303聯電 群益
 
 Source PDF: all report pdf/2303聯電 群益.pdf
 Report source: line報告備份
@@ -256,7 +256,7 @@ YoY(%)
 情形。
 
 ---
-## Document 053: 2308台達電 群益
+## Document 052: 2308台達電 群益
 
 Source PDF: all report pdf/2308台達電 群益.pdf
 Report source: line報告備份
@@ -353,7 +353,7 @@ PER= 股價 /2027 (F) EPS ； PBR= 股價 /2027 (F) 年 底 預 估 每 股 淨 
 情形。
 
 ---
-## Document 055: 2330台積電 群益
+## Document 054: 2330台積電 群益
 
 Source PDF: all report pdf/2330台積電 群益.pdf
 Report source: line報告備份
@@ -501,7 +501,7 @@ PER= 股價 /2027 (F) EPS ； PBR= 股價 /2027 (F) 年 底 預 估 每 股 淨 
 情形。
 
 ---
-## Document 060: 2467志聖 永豐
+## Document 059: 2467志聖 永豐
 
 Source PDF: all report pdf/2467志聖 永豐.pdf
 Report source: line報告備份
@@ -1051,7 +1051,7 @@ S：Sell 賣出：未來 6 個月該股票表現將落後大盤
 13
 
 ---
-## Document 061: 260831_citi_MTK
+## Document 060: 260831_citi_MTK
 
 Source PDF: all report pdf/260831_citi_MTK.pdf
 Report source: line報告備份
@@ -1602,7 +1602,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 067: 260901_ml_MTK NV ECB
+## Document 066: 260901_ml_MTK NV ECB
 
 Source PDF: all report pdf/260901_ml_MTK NV ECB.pdf
 Report source: line報告備份
@@ -2007,7 +2007,7 @@ Neither BofA Securities nor any officer or employee of BofA Securities accepts a
 information.
 
 ---
-## Document 069: 260902_daiwa_NYPCB
+## Document 068: 260902_daiwa_NYPCB
 
 Source PDF: all report pdf/260902_daiwa_NYPCB.pdf
 Report source: line報告備份
@@ -2433,7 +2433,7 @@ Note: Management score represents a company's ability to manage/benefit from cer
 Nan Ya Printed Circuit Board Corp (8046 TT): 2 September 2026
 
 ---
-## Document 074: 260903_citi_unimicron
+## Document 073: 260903_citi_unimicron
 
 Source PDF: all report pdf/260903_citi_unimicron.pdf
 Report source: line報告備份
@@ -2920,7 +2920,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 081: 260906_ms_ABF
+## Document 080: 260906_ms_ABF
 
 Source PDF: all report pdf/260906_ms_ABF.pdf
 Report source: line報告備份
@@ -3376,7 +3376,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 089: 260907_gs_vpec
+## Document 088: 260907_gs_vpec
 
 Source PDF: all report pdf/260907_gs_vpec.pdf
 Report source: line報告備份
@@ -4099,7 +4099,7 @@ Goldman Sachs VPEC (2455.TW)For the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 093: 260907_ms_hiwin
+## Document 092: 260907_ms_hiwin
 
 Source PDF: all report pdf/260907_ms_hiwin.pdf
 Report source: line報告備份
@@ -4610,7 +4610,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 098: 260908_gs_GMT
+## Document 097: 260908_gs_GMT
 
 Source PDF: all report pdf/260908_gs_GMT.pdf
 Report source: line報告備份
@@ -4830,7 +4830,7 @@ Goldman SachsFor the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 102: 260908_ms_eink
+## Document 101: 260908_ms_eink
 
 Source PDF: all report pdf/260908_ms_eink.pdf
 Report source: line報告備份
@@ -5345,7 +5345,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 114: 2887台新新光金 群益
+## Document 113: 2887台新新光金 群益
 
 Source PDF: all report pdf/2887台新新光金 群益.pdf
 Report source: line報告備份
@@ -5761,7 +5761,7 @@ QoQ(%)
 情形。
 
 ---
-## Document 115: 3037欣興 宏遠
+## Document 114: 3037欣興 宏遠
 
 Source PDF: all report pdf/3037欣興 宏遠.pdf
 Report source: line報告備份
@@ -8852,7 +8852,7 @@ YoY(%)
 8
 
 ---
-## Document 164: 8916光隆 宏遠
+## Document 163: 8916光隆 宏遠
 
 Source PDF: all report pdf/8916光隆 宏遠.pdf
 Report source: line報告備份
@@ -9413,7 +9413,7 @@ A
 2024 2025 2026
 
 ---
-## Document 194: APAC_Consumer_The_Compass_The_Consumer_Is_More_Selective_We_Are
+## Document 189: APAC_Consumer_The_Compass_The_Consumer_Is_More_Selective_We_Are
 
 Source PDF: all report pdf/APAC_Consumer_The_Compass_The_Consumer_Is_More_Selective_We_Are.pdf
 Report source: line報告備份
@@ -12902,7 +12902,7 @@ Completed 02 Sep 2026 03:00 AM HKT Disseminated 02 Sep 2026 03:02 AM HKT
 {[{MKHU-Ly3iPjdXe8mFSbJy1W2OsihsUMr6uN6fMdjVUpwJHmjPuktHynLSgVmyLcZiadKxE8WwHiVZNCdRQEQbndH7JLhZA}]}
 
 ---
-## Document 228: daily story_DELL_2026_09_02_C_US
+## Document 214: daily story_DELL_2026_09_02_C_US
 
 Source PDF: all report pdf/daily story_DELL_2026_09_02_C_US.pdf
 Report source: line報告備份
@@ -13505,7 +13505,7 @@ Sep-23 Jan-24 May-24 Sep-24 Jan-25 May-25 Sep-25 Jan-26 May-26 Sep-26
 電話 62 21 250 6337
 
 ---
-## Document 294: Nvidia (NVDA.US)_1150902_JPM
+## Document 268: Nvidia (NVDA.US)_1150902_JPM
 
 Source PDF: all report pdf/Nvidia (NVDA.US)_1150902_JPM.pdf
 Report source: line報告備份
@@ -13960,7 +13960,7 @@ Completed 02 Sep 2026 12:24 AM EDT Disseminated 02 Sep 2026 02:00 AM EDT
 {[{JVxjt52Wd7w-7azT_vheXCUWyfiV8sQPeo5sSct1_pf8nV26_mCoPLeDvg0_GG7t-d5_Tr_gFeg8qs-GGZ4g-a6W4zFE4g}]}
 
 ---
-## Document 325: SEMICON Taiwan 2026｜元大
+## Document 295: SEMICON Taiwan 2026｜元大
 
 Source PDF: all report pdf/SEMICON Taiwan 2026｜元大.pdf
 Report source: line報告備份
@@ -14305,7 +14305,7 @@ ROSA）提供設備與材料的完整解決方案。此外，在無塵室自動�
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 327: SEMICON參展評析-260904
+## Document 297: SEMICON參展評析-260904
 
 Source PDF: all report pdf/SEMICON參展評析-260904.pdf
 Report source: line報告備份
@@ -14779,7 +14779,7 @@ MEMS探針擴產展望，預期旺矽2026-2028年營運增速依舊可期。
 21
 
 ---
-## Document 387: 【國泰證期研究部】富世達(6805 TT)-買進(+27.6%)-液冷升級，富勢續揚-20260909
+## Document 348: 【國泰證期研究部】富世達(6805 TT)-買進(+27.6%)-液冷升級，富勢續揚-20260909
 
 Source PDF: all report pdf/【國泰證期研究部】富世達(6805 TT)-買進(+27.6%)-液冷升級，富勢續揚-20260909.pdf
 Report source: line報告備份
@@ -15185,7 +15185,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 466: 京鼎(3413,B_買進)-CTBC260910
+## Document 412: 京鼎(3413,B_買進)-CTBC260910
 
 Source PDF: all report pdf/京鼎(3413,B_買進)-CTBC260910.pdf
 Report source: line報告備份
@@ -15448,7 +15448,7 @@ ESG 資訊 - 公司治理 (Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 484: 元大-重電產業-20260908
+## Document 425: 元大-重電產業-20260908
 
 Source PDF: all report pdf/元大-重電產業-20260908.pdf
 Report source: line報告備份
@@ -15788,7 +15788,7 @@ YOY+15%。
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 513: 凱基投顧_Takeaway_Semicon 2026-Day1_劉宇程_20260902
+## Document 449: 凱基投顧_Takeaway_Semicon 2026-Day1_劉宇程_20260902
 
 Source PDF: all report pdf/凱基投顧_Takeaway_Semicon 2026-Day1_劉宇程_20260902.pdf
 Report source: line報告備份
@@ -16051,7 +16051,7 @@ cold plate ，封裝段仍須先完成 stiffener 及 lid 貼合，因此不會�
 九月 02, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 9
 
 ---
-## Document 514: 凱基投顧_美國運動休閒產業_劉昃恩_20260909
+## Document 450: 凱基投顧_美國運動休閒產業_劉昃恩_20260909
 
 Source PDF: all report pdf/凱基投顧_美國運動休閒產業_劉昃恩_20260909.pdf
 Report source: line報告備份
@@ -16711,7 +16711,7 @@ Dick's Sporting Goods
 免責聲明
 
 ---
-## Document 530: 原相(3227,N_中立)-CTBC260902
+## Document 462: 原相(3227,N_中立)-CTBC260902
 
 Source PDF: all report pdf/原相(3227,N_中立)-CTBC260902.pdf
 Report source: line報告備份
@@ -17018,7 +17018,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 540: 合庫-8255 朋程-20260907
+## Document 470: 合庫-8255 朋程-20260907
 
 Source PDF: all report pdf/合庫-8255 朋程-20260907.pdf
 Report source: line報告備份
@@ -17255,7 +17255,7 @@ INVESTMENT CONSULTANT
 未評等 訊息不足或有相關業務往來
 
 ---
-## Document 579: 康和-3680 家登-20260902
+## Document 498: 康和-3680 家登-20260902
 
 Source PDF: all report pdf/康和-3680 家登-20260902.pdf
 Report source: line報告備份
@@ -17592,7 +17592,7 @@ EPS以股本96.3百萬股計算
 投 資 結 果 自 行 負 責 。
 
 ---
-## Document 694: 統一-6213 聯茂-20260907
+## Document 595: 統一-6213 聯茂-20260907
 
 Source PDF: all report pdf/統一-6213 聯茂-20260907.pdf
 Report source: line報告備份
@@ -17895,7 +17895,7 @@ ainReport/data/FileStream?id=1e93bfbd-e318-
 請參見末頁重要批露及免責聲明  8
 
 ---
-## Document 726: 華南-6197 佳必琪-20260902
+## Document 624: 華南-6197 佳必琪-20260902
 
 Source PDF: all report pdf/華南-6197 佳必琪-20260902.pdf
 Report source: line報告備份

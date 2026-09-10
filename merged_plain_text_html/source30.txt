@@ -3,7 +3,7 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 054: 2317鴻海 宏遠
+## Document 053: 2317鴻海 宏遠
 
 Source PDF: all report pdf/2317鴻海 宏遠.pdf
 Report source: line報告備份
@@ -276,7 +276,7 @@ Company Report
 8
 
 ---
-## Document 056: 2330台積電_1150831_BofA
+## Document 055: 2330台積電_1150831_BofA
 
 Source PDF: all report pdf/2330台積電_1150831_BofA.pdf
 Report source: line報告備份
@@ -743,7 +743,7 @@ Neither BofA Securities nor any officer or employee of BofA Securities accepts a
 information.
 
 ---
-## Document 062: 260831_daiwa_ Kinsus
+## Document 061: 260831_daiwa_ Kinsus
 
 Source PDF: all report pdf/260831_daiwa_ Kinsus.pdf
 Report source: line報告備份
@@ -892,7 +892,7 @@ regarding the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 070: 260902_ms_bizlink
+## Document 069: 260902_ms_bizlink
 
 Source PDF: all report pdf/260902_ms_bizlink.pdf
 Report source: line報告備份
@@ -1397,7 +1397,7 @@ Update
 © 2026 Morgan Stanley
 
 ---
-## Document 073: 260903_citi_chpt
+## Document 072: 260903_citi_chpt
 
 Source PDF: all report pdf/260903_citi_chpt.pdf
 Report source: line報告備份
@@ -1887,7 +1887,7 @@ solely for the recipient and may not be further distributed by the recipient to 
 ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 
 ---
-## Document 075: 260903_daiwa_ Laiyi
+## Document 074: 260903_daiwa_ Laiyi
 
 Source PDF: all report pdf/260903_daiwa_ Laiyi.pdf
 Report source: line報告備份
@@ -2270,7 +2270,7 @@ Note: Management score represents a company's ability to manage/benefit from cer
 Lai Yih Footwear (6890 TT): 3 September 2026
 
 ---
-## Document 080: 260904_gs_airtac
+## Document 079: 260904_gs_airtac
 
 Source PDF: all report pdf/260904_gs_airtac.pdf
 Report source: line報告備份
@@ -2611,7 +2611,7 @@ Goldman Sachs Airtac International Group (1590.TW)For the exclusive use of KEVIN
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 086: 260907_citi_winway
+## Document 085: 260907_citi_winway
 
 Source PDF: all report pdf/260907_citi_winway.pdf
 Report source: line報告備份
@@ -3101,7 +3101,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 088: 260907_gs_TW-PCB-CCL
+## Document 087: 260907_gs_TW-PCB-CCL
 
 Source PDF: all report pdf/260907_gs_TW-PCB-CCL.pdf
 Report source: line報告備份
@@ -3447,7 +3447,7 @@ Goldman Sachs Taiwan PCB/CCLFor the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 091: 260907_ms_advantech
+## Document 090: 260907_ms_advantech
 
 Source PDF: all report pdf/260907_ms_advantech.pdf
 Report source: line報告備份
@@ -3961,7 +3961,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 100: 260908_ms_1h-sep-panel-px
+## Document 099: 260908_ms_1h-sep-panel-px
 
 Source PDF: all report pdf/260908_ms_1h-sep-panel-px.pdf
 Report source: line報告備份
@@ -5018,7 +5018,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 105: 260909_citi_aspeed
+## Document 104: 260909_citi_aspeed
 
 Source PDF: all report pdf/260909_citi_aspeed.pdf
 Report source: line報告備份
@@ -5732,7 +5732,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 107: 260909_daiwa_EPM
+## Document 106: 260909_daiwa_EPM
 
 Source PDF: all report pdf/260909_daiwa_EPM.pdf
 Report source: line報告備份
@@ -6090,7 +6090,7 @@ Note: Management score represents a company's ability to manage/benefit from cer
 Eternal Precision Mechanics (7795 TT): 9 September 2026
 
 ---
-## Document 109: 260909_ml_wistron
+## Document 108: 260909_ml_wistron
 
 Source PDF: all report pdf/260909_ml_wistron.pdf
 Report source: line報告備份
@@ -6838,7 +6838,7 @@ Neither BofA Securities nor any officer or employee of BofA Securities accepts a
 information.
 
 ---
-## Document 110: 260909_ms_nvl72-racks
+## Document 109: 260909_ms_nvl72-racks
 
 Source PDF: all report pdf/260909_ms_nvl72-racks.pdf
 Report source: line報告備份
@@ -10483,7 +10483,7 @@ YoY(%)
 情形。
 
 ---
-## Document 160: 8103瀚荃 群益
+## Document 159: 8103瀚荃 群益
 
 Source PDF: all report pdf/8103瀚荃 群益.pdf
 Report source: line報告備份
@@ -10792,7 +10792,7 @@ YoY(%)
 情形。
 
 ---
-## Document 161: 8109博大 宏遠
+## Document 160: 8109博大 宏遠
 
 Source PDF: all report pdf/8109博大 宏遠.pdf
 Report source: line報告備份
@@ -11310,7 +11310,7 @@ B+B+
 2024 2025 2026
 
 ---
-## Document 162: 8255朋程 統一
+## Document 161: 8255朋程 統一
 
 Source PDF: all report pdf/8255朋程 統一.pdf
 Report source: line報告備份
@@ -11783,7 +11783,7 @@ ainReport/data/FileStream?id=cded8cf5-97cb-
 請參見末頁重要批露及免責聲明  8
 
 ---
-## Document 183: A Primer on AI Lab & AI Hyperscaler Unit Economics
+## Document 178: A Primer on AI Lab & AI Hyperscaler Unit Economics
 
 Source PDF: all report pdf/A Primer on AI Lab & AI Hyperscaler Unit Economics.pdf
 Report source: line報告備份
@@ -12764,7 +12764,7 @@ Barclays | U.S. Internet
 报告驿站 00003508
 
 ---
-## Document 390: 【國泰證期研究部】鴻勁(7769 TT)-買進轉強力買進(+47.1%)-規格躍升，鴻勢再揚-20260903
+## Document 350: 【國泰證期研究部】鴻勁(7769 TT)-買進轉強力買進(+47.1%)-規格躍升，鴻勢再揚-20260903
 
 Source PDF: all report pdf/【國泰證期研究部】鴻勁(7769 TT)-買進轉強力買進(+47.1%)-規格躍升，鴻勢再揚-20260903.pdf
 Report source: line報告備份
@@ -13156,7 +13156,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 486: 元富-CCL產業-20260904
+## Document 427: 元富-CCL產業-20260904
 
 Source PDF: all report pdf/元富-CCL產業-20260904.pdf
 Report source: line報告備份
@@ -13634,7 +13634,7 @@ Net 8.4 8.1 14.8 16.5
 報告完畢 ‧ 謝謝指教
 
 ---
-## Document 508: 凱基投顧_CRDO Credo_張燾_20260902
+## Document 444: 凱基投顧_CRDO Credo_張燾_20260902
 
 Source PDF: all report pdf/凱基投顧_CRDO Credo_張燾_20260902.pdf
 Report source: line報告備份
@@ -14091,7 +14091,7 @@ Sep-23 Mar-24 Sep-24 Mar-25 Sep-25 Mar-26 Sep-26
 電話 62 21 250 6337
 
 ---
-## Document 509: 凱基投顧_Takeaway_1795 美時_陳宣甫_20260901
+## Document 445: 凱基投顧_Takeaway_1795 美時_陳宣甫_20260901
 
 Source PDF: all report pdf/凱基投顧_Takeaway_1795 美時_陳宣甫_20260901.pdf
 Report source: line報告備份
@@ -14323,7 +14323,7 @@ QA
 九月 01, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 6
 
 ---
-## Document 510: 凱基投顧_Takeaway_4585 達明_莊政翰_20260908
+## Document 446: 凱基投顧_Takeaway_4585 達明_莊政翰_20260908
 
 Source PDF: all report pdf/凱基投顧_Takeaway_4585 達明_莊政翰_20260908.pdf
 Report source: line報告備份
@@ -14437,7 +14437,7 @@ Omron 15 -20%、Quanta 10 -15%。
 九月 08, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 3
 
 ---
-## Document 512: 凱基投顧_Takeaway_7947 補丁科_沈漢軒_20260908
+## Document 448: 凱基投顧_Takeaway_7947 補丁科_沈漢軒_20260908
 
 Source PDF: all report pdf/凱基投顧_Takeaway_7947 補丁科_沈漢軒_20260908.pdf
 Report source: line報告備份
@@ -14749,7 +14749,7 @@ A: 公司目前持續朝上市方向準備，並與會計師及券商共同推�
 九月 08, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R  7
 
 ---
-## Document 515: 凱基投顧_記憶體產業_沈漢軒_20260907
+## Document 451: 凱基投顧_記憶體產業_沈漢軒_20260907
 
 Source PDF: all report pdf/凱基投顧_記憶體產業_沈漢軒_20260907.pdf
 Report source: line報告備份
@@ -15002,7 +15002,7 @@ HBM4 HBM3e HBM4e
 免責聲明
 
 ---
-## Document 539: 合庫-6491 晶碩-20260907
+## Document 469: 合庫-6491 晶碩-20260907
 
 Source PDF: all report pdf/合庫-6491 晶碩-20260907.pdf
 Report source: line報告備份
@@ -15277,7 +15277,7 @@ INVESTMENT CONSULTANT
 未評等 訊息不足或有相關業務往來
 
 ---
-## Document 668: 福邦-6640 均華-20260902
+## Document 573: 福邦-6640 均華-20260902
 
 Source PDF: all report pdf/福邦-6640 均華-20260902.pdf
 Report source: line報告備份
@@ -15549,7 +15549,7 @@ G r a n d  F o r t u n e  S e c u r i t i e s                                   
 本報告係就內部參考用，純屬參考性質，並不具備任何法律效果，其正確性不做任何承諾或保證。
 
 ---
-## Document 670: 稜研科技(7812)創新板IPO報告
+## Document 574: 稜研科技(7812)創新板IPO報告
 
 Source PDF: all report pdf/稜研科技(7812)創新板IPO報告.pdf
 Report source: line報告備份
@@ -16043,7 +16043,7 @@ LEO 衛星憑藉低延遲與高頻寬特性，被視為下一代通訊的核心�
 15
 
 ---
-## Document 692: 統一-3443 創意-20260907
+## Document 594: 統一-3443 創意-20260907
 
 Source PDF: all report pdf/統一-3443 創意-20260907.pdf
 Report source: line報告備份
@@ -16388,7 +16388,7 @@ ainReport/data/FileStream?id=bd23d954-c8f4-
 請參見末頁重要批露及免責聲明  9
 
 ---
-## Document 749: 鈞興-KY(4571,B_買進)-CTBC260904
+## Document 651: 鈞興-KY(4571,B_買進)-CTBC260904
 
 Source PDF: all report pdf/鈞興-KY(4571,B_買進)-CTBC260904.pdf
 Report source: line報告備份
@@ -16670,7 +16670,7 @@ ESG 資訊 -公 司 治 理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 755: 長榮航(2618,N_中立)-CTBC260904
+## Document 656: 長榮航(2618,N_中立)-CTBC260904
 
 Source PDF: all report pdf/長榮航(2618,N_中立)-CTBC260904.pdf
 Report source: line報告備份
