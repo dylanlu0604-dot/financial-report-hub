@@ -13,6 +13,9 @@ SOURCE_NAME = "Notifier RSS"
 # 篩選關鍵字（不分大小寫比對）
 FILTER_KEYWORDS = ["yardeni", "陸行之"]
 
+# 排除條件（不分大小寫，命中任一則跳過該筆）
+EXCLUDE_KEYWORDS = ["verification code", "請複製連結並貼到新的瀏覽器視窗中"]
+
 
 def _matches_filter(text):
     """檢查文字是否包含任一篩選關鍵字（不分大小寫）"""
@@ -20,6 +23,14 @@ def _matches_filter(text):
         return False
     text_lower = text.lower()
     return any(kw.lower() in text_lower for kw in FILTER_KEYWORDS)
+
+
+def _matches_exclude(text):
+    """檢查文字是否命中任一排除關鍵字（不分大小寫）"""
+    if not text:
+        return False
+    text_lower = text.lower()
+    return any(kw.lower() in text_lower for kw in EXCLUDE_KEYWORDS)
 
 
 def _parse_rss_date(pub_date_str):
@@ -85,6 +96,11 @@ def scrape():
         # 合併所有文字欄位做篩選
         searchable_text = f"{title} {_strip_html(description)} {_strip_html(content_encoded)}"
 
+        # 排除條件：命中則跳過
+        if _matches_exclude(searchable_text):
+            continue
+
+        # 篩選條件：未命中則跳過
         if not _matches_filter(searchable_text):
             continue
 
