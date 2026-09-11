@@ -8,7 +8,7 @@ from scrapers.utils import HEADERS
 # RSS 來源設定
 # ==========================================
 RSS_URL = "https://notifier.in/rss/k8nfj5wzwfnaa53nf495lfevyxedsrco.xml"
-SOURCE_NAME = "Notifier RSS"
+SOURCE_NAME = "Substack Reports"
 
 # 篩選關鍵字（不分大小寫比對）
 FILTER_KEYWORDS = ["yardeni", "陸行之"]
