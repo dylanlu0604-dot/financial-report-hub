@@ -821,7 +821,7 @@ Company Report
 
 Source PDF: all report pdf/2606裕民 宏遠.pdf
 Report source: line報告備份
-Date: 2026-09-11
+Date: 2026-09-10
 Pages: 8
 Extraction status: ok
 
@@ -10034,7 +10034,7 @@ YoY(%)
 
 Source PDF: all report pdf/4585達明 玉山.pdf
 Report source: line報告備份
-Date: 2026-09-11
+Date: 2026-09-10
 Pages: 10
 Extraction status: ok
 
@@ -11414,7 +11414,7 @@ YoY(%)
 情形。
 
 ---
-## Document 155: 6510精測 群益
+## Document 153: 6510精測 群益
 
 Source PDF: all report pdf/6510精測 群益.pdf
 Report source: line報告備份
@@ -11530,7 +11530,7 @@ PER= 股價 /2026 (F) EPS ； PBR= 股價 /2026 (F) 年 底 預 估 每 股 淨 
 情形。
 
 ---
-## Document 160: 6944兆聯 第一金
+## Document 158: 6944兆聯 第一金
 
 Source PDF: all report pdf/6944兆聯 第一金.pdf
 Report source: line報告備份
@@ -11767,7 +11767,7 @@ YoY(%)
 8
 
 ---
-## Document 161: 7689大鵬科 宏遠
+## Document 159: 7689大鵬科 宏遠
 
 Source PDF: all report pdf/7689大鵬科 宏遠.pdf
 Report source: line報告備份
@@ -12030,7 +12030,7 @@ Company Report
 稅後純益率 % 3.73 8.56 11.85 13.42 10.40 13.31 14.61 12.63 12.51 13.73 13.28 13.91 13.35
 
 ---
-## Document 163: 7792安葆 第一金
+## Document 161: 7792安葆 第一金
 
 Source PDF: all report pdf/7792安葆 第一金.pdf
 Report source: line報告備份
@@ -12275,11 +12275,11 @@ YoY(%)
 8
 
 ---
-## Document 166: 8103瀚荃 國票
+## Document 164: 8103瀚荃 國票
 
 Source PDF: all report pdf/8103瀚荃 國票.pdf
 Report source: line報告備份
-Date: 2026-09-11
+Date: 2026-09-10
 Pages: 9
 Extraction status: ok
 
@@ -12664,11 +12664,11 @@ $170
 • 國票可能與該公司進行業務而處於緘默期
 
 ---
-## Document 169: 8255朋程 群益
+## Document 167: 8255朋程 群益
 
 Source PDF: all report pdf/8255朋程 群益.pdf
 Report source: line報告備份
-Date: 2026-09-11
+Date: 2026-09-10
 Pages: 8
 Extraction status: ok
 
@@ -12994,7 +12994,7 @@ YoY(%)
 情形。
 
 ---
-## Document 276: Nvidia (NVDA.US)_1150902_JPM
+## Document 285: Nvidia (NVDA.US)_1150902_JPM
 
 Source PDF: all report pdf/Nvidia (NVDA.US)_1150902_JPM.pdf
 Report source: line報告備份
@@ -13449,7 +13449,7 @@ Completed 02 Sep 2026 12:24 AM EDT Disseminated 02 Sep 2026 02:00 AM EDT
 {[{JVxjt52Wd7w-7azT_vheXCUWyfiV8sQPeo5sSct1_pf8nV26_mCoPLeDvg0_GG7t-d5_Tr_gFeg8qs-GGZ4g-a6W4zFE4g}]}
 
 ---
-## Document 297: SEMICON Taiwan - AI Infra Research Positions 2026 (final2)
+## Document 306: SEMICON Taiwan - AI Infra Research Positions 2026 (final2)
 
 Source PDF: all report pdf/SEMICON Taiwan - AI Infra Research Positions 2026 (final2).pdf
 Report source: line報告備份
@@ -13772,7 +13772,7 @@ Disruptors in 2026
 Emerging Market Dynamics T eam, HTI Research
 
 ---
-## Document 348: 【國泰證期研究部】4Q26 半導體產業展望-BSPDN與VPD是供電架構升級主軸-20260908
+## Document 361: 【國泰證期研究部】4Q26 半導體產業展望-BSPDN與VPD是供電架構升級主軸-20260908
 
 Source PDF: all report pdf/【國泰證期研究部】4Q26 半導體產業展望-BSPDN與VPD是供電架構升級主軸-20260908.pdf
 Report source: line報告備份
@@ -14019,7 +14019,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 351: 【國泰證期研究部】富世達(6805 TT)-買進(+27.6%)-液冷升級，富勢續揚-20260909
+## Document 364: 【國泰證期研究部】富世達(6805 TT)-買進(+27.6%)-液冷升級，富勢續揚-20260909
 
 Source PDF: all report pdf/【國泰證期研究部】富世達(6805 TT)-買進(+27.6%)-液冷升級，富勢續揚-20260909.pdf
 Report source: line報告備份
@@ -14425,7 +14425,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 352: 【國泰證期研究部】華邦電(2344 TT)-買進(+27.8%)-華開盛景，節節登巔-20260908
+## Document 365: 【國泰證期研究部】華邦電(2344 TT)-買進(+27.8%)-華開盛景，節節登巔-20260908
 
 Source PDF: all report pdf/【國泰證期研究部】華邦電(2344 TT)-買進(+27.8%)-華開盛景，節節登巔-20260908.pdf
 Report source: line報告備份
@@ -14859,7 +14859,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 440: 元大-零售產業-20260903
+## Document 458: 元大-零售產業-20260903
 
 Source PDF: all report pdf/元大-零售產業-20260903.pdf
 Report source: line報告備份
@@ -15386,7 +15386,7 @@ NT$仟元 2023 2024 2025 1H26
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 452: 凱基投顧_6510 精測_許芝瑄_20260908
+## Document 471: 凱基投顧_6510 精測_許芝瑄_20260908
 
 Source PDF: all report pdf/凱基投顧_6510 精測_許芝瑄_20260908.pdf
 Report source: line報告備份
@@ -16059,7 +16059,7 @@ Sep-25 Nov-25 Jan-26 Mar-26 May-26 Jul-26
 資料來源：TEJ，凱基
 
 ---
-## Document 457: 凱基投顧_Takeaway_5306 桂盟_莊政翰_20260910
+## Document 476: 凱基投顧_Takeaway_5306 桂盟_莊政翰_20260910
 
 Source PDF: all report pdf/凱基投顧_Takeaway_5306 桂盟_莊政翰_20260910.pdf
 Report source: line報告備份
@@ -16155,7 +16155,7 @@ eden.chang@kgi.com
 九月 10, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 3
 
 ---
-## Document 462: 凱基投顧_Takeaway_7942 東佑達_莊政翰_20260910
+## Document 481: 凱基投顧_Takeaway_7942 東佑達_莊政翰_20260910
 
 Source PDF: all report pdf/凱基投顧_Takeaway_7942 東佑達_莊政翰_20260910.pdf
 Report source: line報告備份
@@ -16290,7 +16290,7 @@ Apple 供應鏈轉移、 泰國則服務當地日系車廠、瑞典以供應零�
 九月 10, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R   4
 
 ---
-## Document 482: 原相(3227,N_中立)-CTBC260902
+## Document 499: 原相(3227,N_中立)-CTBC260902
 
 Source PDF: all report pdf/原相(3227,N_中立)-CTBC260902.pdf
 Report source: line報告備份
@@ -16597,7 +16597,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 513: 宏遠-4770 上品-20260907
+## Document 531: 宏遠-4770 上品-20260907
 
 Source PDF: all report pdf/宏遠-4770 上品-20260907.pdf
 Report source: line報告備份
@@ -17169,7 +17169,7 @@ C+
 2024 2025 2026
 
 ---
-## Document 574: 海通證券分享會_矽光子與CPO發展趨勢 與 台灣供應鏈發展現況分析_v2.3
+## Document 598: 海通證券分享會_矽光子與CPO發展趨勢 與 台灣供應鏈發展現況分析_v2.3
 
 Source PDF: all report pdf/海通證券分享會_矽光子與CPO發展趨勢 與 台灣供應鏈發展現況分析_v2.3.pdf
 Report source: line報告備份
@@ -18799,7 +18799,7 @@ CPO vs 可插拔光模組的關鍵差異
 Glass Bridge / FAU供應鏈相互關係
 
 ---
-## Document 614: 統一-2548 華固-20260907
+## Document 639: 統一-2548 華固-20260907
 
 Source PDF: all report pdf/統一-2548 華固-20260907.pdf
 Report source: line報告備份
@@ -19122,7 +19122,7 @@ ainReport/data/FileStream?id=5b579ed8-bf78-
 請參見末頁重要批露及免責聲明  8
 
 ---
-## Document 673: 鈞興-KY(4571,B_買進)-CTBC260904
+## Document 700: 鈞興-KY(4571,B_買進)-CTBC260904
 
 Source PDF: all report pdf/鈞興-KY(4571,B_買進)-CTBC260904.pdf
 Report source: line報告備份
