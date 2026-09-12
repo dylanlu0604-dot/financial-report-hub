@@ -3,7 +3,7 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 009: 1795美時 群益
+## Document 008: 1795美時 群益
 
 Source PDF: all report pdf/1795美時 群益.pdf
 Report source: line報告備份
@@ -291,7 +291,7 @@ YoY(%)
 情形。
 
 ---
-## Document 056: 2303聯電 群益
+## Document 052: 2303聯電 群益
 
 Source PDF: all report pdf/2303聯電 群益.pdf
 Report source: line報告備份
@@ -544,7 +544,7 @@ YoY(%)
 情形。
 
 ---
-## Document 058: 2317鴻海 宏遠
+## Document 054: 2317鴻海 宏遠
 
 Source PDF: all report pdf/2317鴻海 宏遠.pdf
 Report source: line報告備份
@@ -817,7 +817,7 @@ Company Report
 8
 
 ---
-## Document 067: 2606裕民 宏遠
+## Document 063: 2606裕民 宏遠
 
 Source PDF: all report pdf/2606裕民 宏遠.pdf
 Report source: line報告備份
@@ -1444,7 +1444,7 @@ AAAAA
 2024 2025 2026
 
 ---
-## Document 070: 260901_ms_memory-innovation
+## Document 066: 260901_ms_memory-innovation
 
 Source PDF: all report pdf/260901_ms_memory-innovation.pdf
 Report source: line報告備份
@@ -2084,7 +2084,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 071: 260902_daiwa_NYPCB
+## Document 067: 260902_daiwa_NYPCB
 
 Source PDF: all report pdf/260902_daiwa_NYPCB.pdf
 Report source: line報告備份
@@ -2510,7 +2510,7 @@ Note: Management score represents a company's ability to manage/benefit from cer
 Nan Ya Printed Circuit Board Corp (8046 TT): 2 September 2026
 
 ---
-## Document 076: 260903_citi_unimicron
+## Document 072: 260903_citi_unimicron
 
 Source PDF: all report pdf/260903_citi_unimicron.pdf
 Report source: line報告備份
@@ -2997,7 +2997,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 082: 260904_gs_airtac
+## Document 078: 260904_gs_airtac
 
 Source PDF: all report pdf/260904_gs_airtac.pdf
 Report source: line報告備份
@@ -3338,7 +3338,7 @@ Goldman Sachs Airtac International Group (1590.TW)For the exclusive use of KEVIN
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 083: 260906_ms_ABF
+## Document 079: 260906_ms_ABF
 
 Source PDF: all report pdf/260906_ms_ABF.pdf
 Report source: line報告備份
@@ -3794,7 +3794,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 085: 260906_ms_semicon-TW
+## Document 081: 260906_ms_semicon-TW
 
 Source PDF: all report pdf/260906_ms_semicon-TW.pdf
 Report source: line報告備份
@@ -4304,7 +4304,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 090: 260907_gs_TW-PCB-CCL
+## Document 086: 260907_gs_TW-PCB-CCL
 
 Source PDF: all report pdf/260907_gs_TW-PCB-CCL.pdf
 Report source: line報告備份
@@ -4650,7 +4650,7 @@ Goldman Sachs Taiwan PCB/CCLFor the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 095: 260907_ms_hiwin
+## Document 091: 260907_ms_hiwin
 
 Source PDF: all report pdf/260907_ms_hiwin.pdf
 Report source: line報告備份
@@ -5161,7 +5161,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 096: 260907_ms_winway
+## Document 092: 260907_ms_winway
 
 Source PDF: all report pdf/260907_ms_winway.pdf
 Report source: line報告備份
@@ -5676,7 +5676,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 117: 260910_ms_iphone-18-optical
+## Document 113: 260910_ms_iphone-18-optical
 
 Source PDF: all report pdf/260910_ms_iphone-18-optical.pdf
 Report source: line報告備份
@@ -9778,7 +9778,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 131: 4571鈞興 第一金
+## Document 126: 4571鈞興 第一金
 
 Source PDF: all report pdf/4571鈞興 第一金.pdf
 Report source: line報告備份
@@ -10030,7 +10030,7 @@ YoY(%)
 存貨週轉天數(天) 144.84 146.63 109.88 104.99
 
 ---
-## Document 133: 4585達明 玉山
+## Document 128: 4585達明 玉山
 
 Source PDF: all report pdf/4585達明 玉山.pdf
 Report source: line報告備份
@@ -10338,7 +10338,7 @@ AI時代控制器更形重要
 未評等：無。
 
 ---
-## Document 135: 4772台特化 元大
+## Document 130: 4772台特化 元大
 
 Source PDF: all report pdf/4772台特化 元大.pdf
 Report source: line報告備份
@@ -11027,7 +11027,7 @@ ESG 總分 23.7
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 142: 5234達興材 群益
+## Document 137: 5234達興材 群益
 
 Source PDF: all report pdf/5234達興材 群益.pdf
 Report source: line報告備份
@@ -11151,7 +11151,7 @@ PER= 股價 /2027 (F) EPS ； PBR= 股價 /2027 (F) 年 底 預 估 每 股 淨 
 情形。
 
 ---
-## Document 145: 6187萬潤 群益
+## Document 140: 6187萬潤 群益
 
 Source PDF: all report pdf/6187萬潤 群益.pdf
 Report source: line報告備份
@@ -11414,7 +11414,7 @@ YoY(%)
 情形。
 
 ---
-## Document 153: 6510精測 群益
+## Document 148: 6510精測 群益
 
 Source PDF: all report pdf/6510精測 群益.pdf
 Report source: line報告備份
@@ -11530,7 +11530,7 @@ PER= 股價 /2026 (F) EPS ； PBR= 股價 /2026 (F) 年 底 預 估 每 股 淨 
 情形。
 
 ---
-## Document 158: 6944兆聯 第一金
+## Document 153: 6944兆聯 第一金
 
 Source PDF: all report pdf/6944兆聯 第一金.pdf
 Report source: line報告備份
@@ -11767,7 +11767,7 @@ YoY(%)
 8
 
 ---
-## Document 159: 7689大鵬科 宏遠
+## Document 154: 7689大鵬科 宏遠
 
 Source PDF: all report pdf/7689大鵬科 宏遠.pdf
 Report source: line報告備份
@@ -12030,7 +12030,7 @@ Company Report
 稅後純益率 % 3.73 8.56 11.85 13.42 10.40 13.31 14.61 12.63 12.51 13.73 13.28 13.91 13.35
 
 ---
-## Document 161: 7792安葆 第一金
+## Document 156: 7792安葆 第一金
 
 Source PDF: all report pdf/7792安葆 第一金.pdf
 Report source: line報告備份
@@ -12275,7 +12275,7 @@ YoY(%)
 8
 
 ---
-## Document 164: 8103瀚荃 國票
+## Document 159: 8103瀚荃 國票
 
 Source PDF: all report pdf/8103瀚荃 國票.pdf
 Report source: line報告備份
@@ -12664,7 +12664,7 @@ $170
 • 國票可能與該公司進行業務而處於緘默期
 
 ---
-## Document 167: 8255朋程 群益
+## Document 162: 8255朋程 群益
 
 Source PDF: all report pdf/8255朋程 群益.pdf
 Report source: line報告備份
@@ -12994,7 +12994,7 @@ YoY(%)
 情形。
 
 ---
-## Document 285: Nvidia (NVDA.US)_1150902_JPM
+## Document 258: Nvidia (NVDA.US)_1150902_JPM
 
 Source PDF: all report pdf/Nvidia (NVDA.US)_1150902_JPM.pdf
 Report source: line報告備份
@@ -13449,7 +13449,7 @@ Completed 02 Sep 2026 12:24 AM EDT Disseminated 02 Sep 2026 02:00 AM EDT
 {[{JVxjt52Wd7w-7azT_vheXCUWyfiV8sQPeo5sSct1_pf8nV26_mCoPLeDvg0_GG7t-d5_Tr_gFeg8qs-GGZ4g-a6W4zFE4g}]}
 
 ---
-## Document 306: SEMICON Taiwan - AI Infra Research Positions 2026 (final2)
+## Document 277: SEMICON Taiwan - AI Infra Research Positions 2026 (final2)
 
 Source PDF: all report pdf/SEMICON Taiwan - AI Infra Research Positions 2026 (final2).pdf
 Report source: line報告備份
@@ -13772,7 +13772,7 @@ Disruptors in 2026
 Emerging Market Dynamics T eam, HTI Research
 
 ---
-## Document 361: 【國泰證期研究部】4Q26 半導體產業展望-BSPDN與VPD是供電架構升級主軸-20260908
+## Document 328: 【國泰證期研究部】4Q26 半導體產業展望-BSPDN與VPD是供電架構升級主軸-20260908
 
 Source PDF: all report pdf/【國泰證期研究部】4Q26 半導體產業展望-BSPDN與VPD是供電架構升級主軸-20260908.pdf
 Report source: line報告備份
@@ -14019,7 +14019,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 364: 【國泰證期研究部】富世達(6805 TT)-買進(+27.6%)-液冷升級，富勢續揚-20260909
+## Document 331: 【國泰證期研究部】富世達(6805 TT)-買進(+27.6%)-液冷升級，富勢續揚-20260909
 
 Source PDF: all report pdf/【國泰證期研究部】富世達(6805 TT)-買進(+27.6%)-液冷升級，富勢續揚-20260909.pdf
 Report source: line報告備份
@@ -14425,7 +14425,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 365: 【國泰證期研究部】華邦電(2344 TT)-買進(+27.8%)-華開盛景，節節登巔-20260908
+## Document 332: 【國泰證期研究部】華邦電(2344 TT)-買進(+27.8%)-華開盛景，節節登巔-20260908
 
 Source PDF: all report pdf/【國泰證期研究部】華邦電(2344 TT)-買進(+27.8%)-華開盛景，節節登巔-20260908.pdf
 Report source: line報告備份
@@ -14859,7 +14859,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 458: 元大-零售產業-20260903
+## Document 425: 元大-零售產業-20260903
 
 Source PDF: all report pdf/元大-零售產業-20260903.pdf
 Report source: line報告備份
@@ -15386,7 +15386,7 @@ NT$仟元 2023 2024 2025 1H26
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 471: 凱基投顧_6510 精測_許芝瑄_20260908
+## Document 438: 凱基投顧_6510 精測_許芝瑄_20260908
 
 Source PDF: all report pdf/凱基投顧_6510 精測_許芝瑄_20260908.pdf
 Report source: line報告備份
@@ -16059,7 +16059,7 @@ Sep-25 Nov-25 Jan-26 Mar-26 May-26 Jul-26
 資料來源：TEJ，凱基
 
 ---
-## Document 476: 凱基投顧_Takeaway_5306 桂盟_莊政翰_20260910
+## Document 443: 凱基投顧_Takeaway_5306 桂盟_莊政翰_20260910
 
 Source PDF: all report pdf/凱基投顧_Takeaway_5306 桂盟_莊政翰_20260910.pdf
 Report source: line報告備份
@@ -16155,7 +16155,7 @@ eden.chang@kgi.com
 九月 10, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 3
 
 ---
-## Document 481: 凱基投顧_Takeaway_7942 東佑達_莊政翰_20260910
+## Document 448: 凱基投顧_Takeaway_7942 東佑達_莊政翰_20260910
 
 Source PDF: all report pdf/凱基投顧_Takeaway_7942 東佑達_莊政翰_20260910.pdf
 Report source: line報告備份
@@ -16290,7 +16290,7 @@ Apple 供應鏈轉移、 泰國則服務當地日系車廠、瑞典以供應零�
 九月 10, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R   4
 
 ---
-## Document 499: 原相(3227,N_中立)-CTBC260902
+## Document 467: 原相(3227,N_中立)-CTBC260902
 
 Source PDF: all report pdf/原相(3227,N_中立)-CTBC260902.pdf
 Report source: line報告備份
@@ -16597,7 +16597,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 531: 宏遠-4770 上品-20260907
+## Document 496: 宏遠-4770 上品-20260907
 
 Source PDF: all report pdf/宏遠-4770 上品-20260907.pdf
 Report source: line報告備份
@@ -17169,7 +17169,7 @@ C+
 2024 2025 2026
 
 ---
-## Document 598: 海通證券分享會_矽光子與CPO發展趨勢 與 台灣供應鏈發展現況分析_v2.3
+## Document 555: 海通證券分享會_矽光子與CPO發展趨勢 與 台灣供應鏈發展現況分析_v2.3
 
 Source PDF: all report pdf/海通證券分享會_矽光子與CPO發展趨勢 與 台灣供應鏈發展現況分析_v2.3.pdf
 Report source: line報告備份
@@ -18799,7 +18799,7 @@ CPO vs 可插拔光模組的關鍵差異
 Glass Bridge / FAU供應鏈相互關係
 
 ---
-## Document 639: 統一-2548 華固-20260907
+## Document 596: 統一-2548 華固-20260907
 
 Source PDF: all report pdf/統一-2548 華固-20260907.pdf
 Report source: line報告備份
@@ -19122,7 +19122,7 @@ ainReport/data/FileStream?id=5b579ed8-bf78-
 請參見末頁重要批露及免責聲明  8
 
 ---
-## Document 700: 鈞興-KY(4571,B_買進)-CTBC260904
+## Document 648: 鈞興-KY(4571,B_買進)-CTBC260904
 
 Source PDF: all report pdf/鈞興-KY(4571,B_買進)-CTBC260904.pdf
 Report source: line報告備份
