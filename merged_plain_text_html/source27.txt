@@ -248,7 +248,7 @@ AAPL
 12
 
 ---
-## Document 056: 2330台積電 群益
+## Document 055: 2330台積電 群益
 
 Source PDF: all report pdf/2330台積電 群益.pdf
 Report source: line報告備份
@@ -396,7 +396,7 @@ PER= 股價 /2027 (F) EPS ； PBR= 股價 /2027 (F) 年 底 預 估 每 股 淨 
 情形。
 
 ---
-## Document 058: 2351順德 兆豐
+## Document 057: 2351順德 兆豐
 
 Source PDF: all report pdf/2351順德 兆豐.pdf
 Report source: line報告備份
@@ -843,7 +843,7 @@ A
 交易所公司治理評鑑
 
 ---
-## Document 062: 2455全新 群益
+## Document 061: 2455全新 群益
 
 Source PDF: all report pdf/2455全新 群益.pdf
 Report source: line報告備份
@@ -10757,7 +10757,7 @@ YoY
 請參見末頁重要批露及免責聲明  8
 
 ---
-## Document 285: Sales Trader Commentary_ What's Next after Taiwan SEMICON _ GSTW
+## Document 276: Sales Trader Commentary_ What's Next after Taiwan SEMICON _ GSTW
 
 Source PDF: all report pdf/Sales Trader Commentary_ What's Next after Taiwan SEMICON _ GSTW.pdf
 Report source: line報告備份
@@ -11171,7 +11171,7 @@ Services Regulatory Authority or any other relevant licensing authorities in the
 https://marquee.gs.com/s/content/markets/5a2b9a54-bca4-4963-8107-99cad1949ac0 9/9
 
 ---
-## Document 297: TAG Tech Update Sep 2026 FINAL
+## Document 288: TAG Tech Update Sep 2026 FINAL
 
 Source PDF: all report pdf/TAG Tech Update Sep 2026 FINAL.pdf
 Report source: line報告備份
@@ -12237,7 +12237,7 @@ This report is distributed by Aletheia Analyst Network Ltd, which is authorized 
 41
 
 ---
-## Document 319: UBS APAC Focus China Internet Sector How China's AI mode
+## Document 309: UBS APAC Focus China Internet Sector How China's AI mode
 
 Source PDF: all report pdf/UBS APAC Focus China Internet Sector How China's AI mode.pdf
 Report source: line報告備份
@@ -14995,7 +14995,7 @@ ab
 This document is being provided for the exclusive use of RACHEL CHEN at MOUNTAIN HILL LTD.
 
 ---
-## Document 344: 【國泰證期研究部】鴻勁(7769 TT)-買進轉強力買進(+47.1%)-規格躍升，鴻勢再揚-20260903
+## Document 336: 【國泰證期研究部】鴻勁(7769 TT)-買進轉強力買進(+47.1%)-規格躍升，鴻勢再揚-20260903
 
 Source PDF: all report pdf/【國泰證期研究部】鴻勁(7769 TT)-買進轉強力買進(+47.1%)-規格躍升，鴻勢再揚-20260903.pdf
 Report source: line報告備份
@@ -15387,7 +15387,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 440: 元富-自行車產業-20260904
+## Document 432: 元富-自行車產業-20260904
 
 Source PDF: all report pdf/元富-自行車產業-20260904.pdf
 Report source: line報告備份
@@ -16009,7 +16009,7 @@ Net 18.5 20.6 19.8 22.4
 報告完畢 ‧ 謝謝指教
 
 ---
-## Document 450: 凱基投顧_6177 達麗_賴偉中_20260902
+## Document 442: 凱基投顧_6177 達麗_賴偉中_20260902
 
 Source PDF: all report pdf/凱基投顧_6177 達麗_賴偉中_20260902.pdf
 Report source: line報告備份
@@ -16604,7 +16604,7 @@ na
 資料來源：TEJ，凱基
 
 ---
-## Document 455: 凱基投顧_Takeaway_4585 達明_莊政翰_20260908
+## Document 447: 凱基投顧_Takeaway_4585 達明_莊政翰_20260908
 
 Source PDF: all report pdf/凱基投顧_Takeaway_4585 達明_莊政翰_20260908.pdf
 Report source: line報告備份
@@ -16718,7 +16718,7 @@ Omron 15 -20%、Quanta 10 -15%。
 九月 08, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 3
 
 ---
-## Document 457: 凱基投顧_Takeaway_6442 光聖_涂憶君_20260910
+## Document 449: 凱基投顧_Takeaway_6442 光聖_涂憶君_20260910
 
 Source PDF: all report pdf/凱基投顧_Takeaway_6442 光聖_涂憶君_20260910.pdf
 Report source: line報告備份
@@ -16888,7 +16888,7 @@ QA
 九月 10, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 4
 
 ---
-## Document 462: 凱基投顧_Takeaway_7947 補丁科_沈漢軒_20260908
+## Document 454: 凱基投顧_Takeaway_7947 補丁科_沈漢軒_20260908
 
 Source PDF: all report pdf/凱基投顧_Takeaway_7947 補丁科_沈漢軒_20260908.pdf
 Report source: line報告備份
@@ -17200,7 +17200,7 @@ A: 公司目前持續朝上市方向準備，並與會計師及券商共同推�
 九月 08, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R  7
 
 ---
-## Document 519: 康和-6197 佳必琪-20260902
+## Document 514: 康和-6197 佳必琪-20260902
 
 Source PDF: all report pdf/康和-6197 佳必琪-20260902.pdf
 Report source: line報告備份
@@ -17503,7 +17503,7 @@ EPS以股本123.4百萬股計算
 投資結 果 自 行 負 責 。
 
 ---
-## Document 630: 群益-7856 漢測-20260907
+## Document 625: 群益-7856 漢測-20260907
 
 Source PDF: all report pdf/群益-7856 漢測-20260907.pdf
 Report source: line報告備份
@@ -17715,7 +17715,7 @@ OEM\ODM 。 Insertion 3 部分，漢測也是與 ficontec 合作，提供技術�
 情形。
 
 ---
-## Document 642: 華南-6197 佳必琪-20260902
+## Document 637: 華南-6197 佳必琪-20260902
 
 Source PDF: all report pdf/華南-6197 佳必琪-20260902.pdf
 Report source: line報告備份
@@ -18007,7 +18007,7 @@ YOY 21.0 28.5 5.2 0.0
 個股投資建議與目標價三年歷史趨勢：
 
 ---
-## Document 643: 華南-銅價分析-20260903 pdf
+## Document 638: 華南-銅價分析-20260903 pdf
 
 Source PDF: all report pdf/華南-銅價分析-20260903 pdf.pdf
 Report source: line報告備份
@@ -18130,7 +18130,7 @@ COMEX 庫存佔比在 2026 年的迅速攀升，美洲市場
 7
 
 ---
-## Document 669: 長榮航(2618,N_中立)-CTBC260904
+## Document 663: 長榮航(2618,N_中立)-CTBC260904
 
 Source PDF: all report pdf/長榮航(2618,N_中立)-CTBC260904.pdf
 Report source: line報告備份

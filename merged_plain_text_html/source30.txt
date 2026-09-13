@@ -511,7 +511,7 @@ YoY(%)
 情形。
 
 ---
-## Document 052: 2049上銀 統一
+## Document 051: 2049上銀 統一
 
 Source PDF: all report pdf/2049上銀 統一.pdf
 Report source: line報告備份
@@ -963,7 +963,7 @@ EBITDA 4,393 4,001 4,481 5,342   EBITDA 18.0 16.5 14.9 15.9
 請參見末頁重要披露及免責聲明 13
 
 ---
-## Document 063: 2467志聖 永豐
+## Document 062: 2467志聖 永豐
 
 Source PDF: all report pdf/2467志聖 永豐.pdf
 Report source: line報告備份
@@ -9780,7 +9780,7 @@ Company Report
 7
 
 ---
-## Document 238: Financials_Taiwan：_Insurance_vs_bank：_Trading_based_on_historical
+## Document 231: Financials_Taiwan：_Insurance_vs_bank：_Trading_based_on_historical
 
 Source PDF: all report pdf/Financials_Taiwan：_Insurance_vs_bank：_Trading_based_on_historical.pdf
 Report source: line報告備份
@@ -10373,7 +10373,7 @@ Neither BofA Securities nor any officer or employee of BofA Securities accepts a
 information.
 
 ---
-## Document 242: GLOBAL OPTICAL GS 260907
+## Document 237: GLOBAL OPTICAL GS 260907
 
 Source PDF: all report pdf/GLOBAL OPTICAL GS 260907.pdf
 Report source: line報告備份
@@ -10384,7 +10384,7 @@ Extraction status: ok
 [No extractable text after boilerplate filtering.]
 
 ---
-## Document 253: JPM_Gokul Hariharan_Semicon2026_withspkrnotes_Aug_31_2026
+## Document 247: JPM_Gokul Hariharan_Semicon2026_withspkrnotes_Aug_31_2026
 
 Source PDF: all report pdf/JPM_Gokul Hariharan_Semicon2026_withspkrnotes_Aug_31_2026.pdf
 Report source: line報告備份
@@ -11025,7 +11025,7 @@ authorized third-party (“J.P. Morgan Data”) in any third-party artificial in
 third-party. #$J&098$#*P
 
 ---
-## Document 288: SEMICON Taiwan 2026｜元大
+## Document 279: SEMICON Taiwan 2026｜元大
 
 Source PDF: all report pdf/SEMICON Taiwan 2026｜元大.pdf
 Report source: line報告備份
@@ -11370,7 +11370,7 @@ ROSA）提供設備與材料的完整解決方案。此外，在無塵室自動�
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 289: SEMICON Taiwan_Optical and PLP takeaways
+## Document 280: SEMICON Taiwan_Optical and PLP takeaways
 
 Source PDF: all report pdf/SEMICON Taiwan_Optical and PLP takeaways.pdf
 Report source: line報告備份
@@ -12500,7 +12500,7 @@ rlo@ polymercapital.com
 rlo@ polymercapital.com
 
 ---
-## Document 290: SEMICON參展評析-260904
+## Document 281: SEMICON參展評析-260904
 
 Source PDF: all report pdf/SEMICON參展評析-260904.pdf
 Report source: line報告備份
@@ -12974,7 +12974,7 @@ MEMS探針擴產展望，預期旺矽2026-2028年營運增速依舊可期。
 21
 
 ---
-## Document 340: 【國泰證期研究部】4Q26特化產業展望-先進封裝材料隱含價值持續提升-20260909
+## Document 332: 【國泰證期研究部】4Q26特化產業展望-先進封裝材料隱含價值持續提升-20260909
 
 Source PDF: all report pdf/【國泰證期研究部】4Q26特化產業展望-先進封裝材料隱含價值持續提升-20260909.pdf
 Report source: line報告備份
@@ -13144,7 +13144,7 @@ Ta p e則利用UV照射後降低黏著力，兼顧切割時固定與挑晶時低
 投資評等定義
 
 ---
-## Document 341: 【國泰證期研究部】中碳(1723TT)-買進轉中立(+8.0%)-碳材料成長仍待觀察-20260910
+## Document 333: 【國泰證期研究部】中碳(1723TT)-買進轉中立(+8.0%)-碳材料成長仍待觀察-20260910
 
 Source PDF: all report pdf/【國泰證期研究部】中碳(1723TT)-買進轉中立(+8.0%)-碳材料成長仍待觀察-20260910.pdf
 Report source: line報告備份
@@ -13524,7 +13524,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 448: 凱基投顧_1560 中砂_潘俊宏_20260910
+## Document 440: 凱基投顧_1560 中砂_潘俊宏_20260910
 
 Source PDF: all report pdf/凱基投顧_1560 中砂_潘俊宏_20260910.pdf
 Report source: line報告備份
@@ -14121,7 +14121,7 @@ Recommendations & Target Price
 資料來源：TEJ，凱基
 
 ---
-## Document 449: 凱基投顧_3026 禾伸堂_鄭宇宏_20260908
+## Document 441: 凱基投顧_3026 禾伸堂_鄭宇宏_20260908
 
 Source PDF: all report pdf/凱基投顧_3026 禾伸堂_鄭宇宏_20260908.pdf
 Report source: line報告備份
@@ -14718,7 +14718,7 @@ Recommendations & Target Price
 2026-05-22 增加持股 650 477
 
 ---
-## Document 452: 凱基投顧_6805 富世達_余昀澄_20260907
+## Document 444: 凱基投顧_6805 富世達_余昀澄_20260907
 
 Source PDF: all report pdf/凱基投顧_6805 富世達_余昀澄_20260907.pdf
 Report source: line報告備份
@@ -15372,7 +15372,7 @@ Sep-25 Nov-25 Jan-26 Mar-26 May-26 Jul-26
 資料來源：TEJ，凱基
 
 ---
-## Document 466: 凱基投顧_記憶體產業_沈漢軒_20260907
+## Document 458: 凱基投顧_記憶體產業_沈漢軒_20260907
 
 Source PDF: all report pdf/凱基投顧_記憶體產業_沈漢軒_20260907.pdf
 Report source: line報告備份
@@ -15625,7 +15625,7 @@ HBM4 HBM3e HBM4e
 免責聲明
 
 ---
-## Document 512: 富邦-3444 利機-20260907
+## Document 507: 富邦-3444 利機-20260907
 
 Source PDF: all report pdf/富邦-3444 利機-20260907.pdf
 Report source: line報告備份
@@ -15908,7 +15908,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 513: 富邦-4749 新應材-20260907
+## Document 508: 富邦-4749 新應材-20260907
 
 Source PDF: all report pdf/富邦-4749 新應材-20260907.pdf
 Report source: line報告備份
@@ -16501,7 +16501,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 520: 康和-6449 鈺邦-20260902
+## Document 515: 康和-6449 鈺邦-20260902
 
 Source PDF: all report pdf/康和-6449 鈺邦-20260902.pdf
 Report source: line報告備份
@@ -16877,7 +16877,7 @@ EPS以股本91.9百萬股計算
 責。
 
 ---
-## Document 521: 康和-7610 聯友金屬-創-20260907 initiation
+## Document 516: 康和-7610 聯友金屬-創-20260907 initiation
 
 Source PDF: all report pdf/康和-7610 聯友金屬-創-20260907 initiation.pdf
 Report source: line報告備份
@@ -17167,7 +17167,7 @@ EPS以股本58.3百萬股計算
 投 資 結 果 自 行 負 責 。
 
 ---
-## Document 567: 浮水[元大]TSMC CoPoS供應鏈進展_高精細TGV 玻璃芯基板打破 AI 算力瓶頸量產供應鏈組合_2026090
+## Document 564: 浮水[元大]TSMC CoPoS供應鏈進展_高精細TGV 玻璃芯基板打破 AI 算力瓶頸量產供應鏈組合_2026090
 
 Source PDF: all report pdf/浮水[元大]TSMC CoPoS供應鏈進展_高精細TGV 玻璃芯基板打破 AI 算力瓶頸量產供應鏈組合_2026090.pdf
 Report source: line報告備份
@@ -17990,7 +17990,7 @@ Glass Interposer 晶圓級測試與已知優良晶粒（KGD）篩選
 AI 算力新視界：Meta lens 、Micro-Led、TSMC COUPE 3技術與供應鏈 課程內容未經許可不得轉載或分享Confidential Yi-Hau, Shiau
 
 ---
-## Document 611: 統一-3443 創意-20260907
+## Document 608: 統一-3443 創意-20260907
 
 Source PDF: all report pdf/統一-3443 創意-20260907.pdf
 Report source: line報告備份
@@ -18335,7 +18335,7 @@ ainReport/data/FileStream?id=bd23d954-c8f4-
 請參見末頁重要批露及免責聲明  9
 
 ---
-## Document 631: 聖暉(5536,B_買進)-CTBC260908
+## Document 626: 聖暉(5536,B_買進)-CTBC260908
 
 Source PDF: all report pdf/聖暉(5536,B_買進)-CTBC260908.pdf
 Report source: line報告備份
@@ -18646,7 +18646,7 @@ ESG 資訊 ─公司治理 (Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 641: 華南-6190 萬泰科-20260902
+## Document 636: 華南-6190 萬泰科-20260902
 
 Source PDF: all report pdf/華南-6190 萬泰科-20260902.pdf
 Report source: line報告備份

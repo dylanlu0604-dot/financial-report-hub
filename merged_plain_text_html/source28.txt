@@ -1491,7 +1491,7 @@ SEMICON TAIWAN 2026 | MARKET AND INDUSTRY TREND FORUM
 September 1, 2026 Rolf Bulk | ETR, a Futurum Group Company 17
 
 ---
-## Document 054: 2308台達電 群益
+## Document 053: 2308台達電 群益
 
 Source PDF: all report pdf/2308台達電 群益.pdf
 Report source: line報告備份
@@ -1588,7 +1588,7 @@ PER= 股價 /2027 (F) EPS ； PBR= 股價 /2027 (F) 年 底 預 估 每 股 淨 
 情形。
 
 ---
-## Document 060: 2382廣達 宏遠
+## Document 059: 2382廣達 宏遠
 
 Source PDF: all report pdf/2382廣達 宏遠.pdf
 Report source: line報告備份
@@ -11818,7 +11818,7 @@ A
 2024 2025 2026
 
 ---
-## Document 193: APAC_Consumer_The_Compass_The_Consumer_Is_More_Selective_We_Are
+## Document 192: APAC_Consumer_The_Compass_The_Consumer_Is_More_Selective_We_Are
 
 Source PDF: all report pdf/APAC_Consumer_The_Compass_The_Consumer_Is_More_Selective_We_Are.pdf
 Report source: line報告備份
@@ -15307,7 +15307,7 @@ Completed 02 Sep 2026 03:00 AM HKT Disseminated 02 Sep 2026 03:02 AM HKT
 {[{MKHU-Ly3iPjdXe8mFSbJy1W2OsihsUMr6uN6fMdjVUpwJHmjPuktHynLSgVmyLcZiadKxE8WwHiVZNCdRQEQbndH7JLhZA}]}
 
 ---
-## Document 424: 京鼎(3413,B_買進)-CTBC260910
+## Document 415: 京鼎(3413,B_買進)-CTBC260910
 
 Source PDF: all report pdf/京鼎(3413,B_買進)-CTBC260910.pdf
 Report source: line報告備份
@@ -15570,7 +15570,7 @@ ESG 資訊 - 公司治理 (Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 433: 信昌電(6173,Note)-CTBC260911
+## Document 425: 信昌電(6173,Note)-CTBC260911
 
 Source PDF: all report pdf/信昌電(6173,Note)-CTBC260911.pdf
 Report source: line報告備份
@@ -15850,7 +15850,7 @@ ESG 資訊-公司治理(Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 436: 元大-1504 東元-20260908
+## Document 428: 元大-1504 東元-20260908
 
 Source PDF: all report pdf/元大-1504 東元-20260908.pdf
 Report source: line報告備份
@@ -16417,7 +16417,7 @@ ESG 總分 23.6
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 439: 元富-CCL產業-20260904
+## Document 431: 元富-CCL產業-20260904
 
 Source PDF: all report pdf/元富-CCL產業-20260904.pdf
 Report source: line報告備份
@@ -16895,7 +16895,7 @@ Net 8.4 8.1 14.8 16.5
 報告完畢 ‧ 謝謝指教
 
 ---
-## Document 453: 凱基投顧_CRDO Credo_張燾_20260902
+## Document 445: 凱基投顧_CRDO Credo_張燾_20260902
 
 Source PDF: all report pdf/凱基投顧_CRDO Credo_張燾_20260902.pdf
 Report source: line報告備份
@@ -17352,7 +17352,7 @@ Sep-23 Mar-24 Sep-24 Mar-25 Sep-25 Mar-26 Sep-26
 電話 62 21 250 6337
 
 ---
-## Document 454: 凱基投顧_Takeaway_1477 聚陽_劉昃恩_20260910
+## Document 446: 凱基投顧_Takeaway_1477 聚陽_劉昃恩_20260910
 
 Source PDF: all report pdf/凱基投顧_Takeaway_1477 聚陽_劉昃恩_20260910.pdf
 Report source: line報告備份
@@ -17451,7 +17451,7 @@ eden.chang@kgi.com
 九月 10, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 3
 
 ---
-## Document 463: 凱基投顧_Takeaway_9921 巨大_莊政翰_20260910
+## Document 455: 凱基投顧_Takeaway_9921 巨大_莊政翰_20260910
 
 Source PDF: all report pdf/凱基投顧_Takeaway_9921 巨大_莊政翰_20260910.pdf
 Report source: line報告備份
@@ -17587,7 +17587,7 @@ bike 滲透率僅 10-30%，歐洲整體仍有龐大長線增長空間。
 九月 10, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 4
 
 ---
-## Document 468: 創意(3443,B_買進)-CTBC260907
+## Document 461: 創意(3443,B_買進)-CTBC260907
 
 Source PDF: all report pdf/創意(3443,B_買進)-CTBC260907.pdf
 Report source: line報告備份
@@ -17911,7 +17911,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 514: 寶雅(5904,OW_增加持股)-CTBC260903
+## Document 509: 寶雅(5904,OW_增加持股)-CTBC260903
 
 Source PDF: all report pdf/寶雅(5904,OW_增加持股)-CTBC260903.pdf
 Report source: line報告備份
@@ -18172,7 +18172,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 517: 康和-3680 家登-20260902
+## Document 512: 康和-3680 家登-20260902
 
 Source PDF: all report pdf/康和-3680 家登-20260902.pdf
 Report source: line報告備份
@@ -18509,7 +18509,7 @@ EPS以股本96.3百萬股計算
 投 資 結 果 自 行 負 責 。
 
 ---
-## Document 578: 玉山-3583 辛耘-20260902
+## Document 575: 玉山-3583 辛耘-20260902
 
 Source PDF: all report pdf/玉山-3583 辛耘-20260902.pdf
 Report source: line報告備份
@@ -18699,7 +18699,7 @@ troy-72243@esunsec.com.tw
 未評等：無。
 
 ---
-## Document 592: 福邦-6640 均華-20260902
+## Document 589: 福邦-6640 均華-20260902
 
 Source PDF: all report pdf/福邦-6640 均華-20260902.pdf
 Report source: line報告備份
@@ -18971,7 +18971,7 @@ G r a n d  F o r t u n e  S e c u r i t i e s                                   
 本報告係就內部參考用，純屬參考性質，並不具備任何法律效果，其正確性不做任何承諾或保證。
 
 ---
-## Document 593: 稜研科技(7812)創新板IPO報告
+## Document 590: 稜研科技(7812)創新板IPO報告
 
 Source PDF: all report pdf/稜研科技(7812)創新板IPO報告.pdf
 Report source: line報告備份
@@ -19465,7 +19465,7 @@ LEO 衛星憑藉低延遲與高頻寬特性，被視為下一代通訊的核心�
 15
 
 ---
-## Document 672: 雙鴻(3324,B_買進)-CTBC260903
+## Document 665: 雙鴻(3324,B_買進)-CTBC260903
 
 Source PDF: all report pdf/雙鴻(3324,B_買進)-CTBC260903.pdf
 Report source: line報告備份
