@@ -3,7 +3,7 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 007: 1503士電 台新
+## Document 009: 1503士電 台新
 
 Source PDF: all report pdf/1503士電 台新.pdf
 Report source: line報告備份
@@ -189,7 +189,7 @@ YoY(%)
 位不為使用者之資訊決策及結果負擔任何責任。
 
 ---
-## Document 055: 2303聯電 群益
+## Document 056: 2303聯電 群益
 
 Source PDF: all report pdf/2303聯電 群益.pdf
 Report source: line報告備份
@@ -442,7 +442,7 @@ YoY(%)
 情形。
 
 ---
-## Document 069: 260903_citi_chpt
+## Document 067: 260903_citi_chpt
 
 Source PDF: all report pdf/260903_citi_chpt.pdf
 Report source: line報告備份
@@ -932,7 +932,7 @@ solely for the recipient and may not be further distributed by the recipient to 
 ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 
 ---
-## Document 082: 260907_citi_winway
+## Document 080: 260907_citi_winway
 
 Source PDF: all report pdf/260907_citi_winway.pdf
 Report source: line報告備份
@@ -1422,7 +1422,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 083: 260907_gs_HH
+## Document 081: 260907_gs_HH
 
 Source PDF: all report pdf/260907_gs_HH.pdf
 Report source: line報告備份
@@ -1833,7 +1833,7 @@ Goldman Sachs Hon Hai (2317.TW)For the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 087: 260907_ms_advantech
+## Document 085: 260907_ms_advantech
 
 Source PDF: all report pdf/260907_ms_advantech.pdf
 Report source: line報告備份
@@ -2347,7 +2347,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 099: 260908_ms_ememory
+## Document 097: 260908_ms_ememory
 
 Source PDF: all report pdf/260908_ms_ememory.pdf
 Report source: line報告備份
@@ -2923,7 +2923,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 102: 260909_daiwa_ardentec-buy-initiation
+## Document 100: 260909_daiwa_ardentec-buy-initiation
 
 Source PDF: all report pdf/260909_daiwa_ardentec-buy-initiation.pdf
 Report source: line報告備份
@@ -4152,7 +4152,7 @@ London Research Centre 3/F, 5 King William Street, London, EC4N 7AX, United King
 Ardentec (3264 TT): 9 September 2026
 
 ---
-## Document 105: 260909_ml_wistron
+## Document 103: 260909_ml_wistron
 
 Source PDF: all report pdf/260909_ml_wistron.pdf
 Report source: line報告備份
@@ -4900,7 +4900,7 @@ Neither BofA Securities nor any officer or employee of BofA Securities accepts a
 information.
 
 ---
-## Document 110: 260910_ms_AI-supply-chain
+## Document 108: 260910_ms_AI-supply-chain
 
 Source PDF: all report pdf/260910_ms_AI-supply-chain.pdf
 Report source: line報告備份
@@ -6060,7 +6060,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 121: 260914_gs_umt
+## Document 119: 260914_gs_umt
 
 Source PDF: all report pdf/260914_gs_umt.pdf
 Report source: line報告備份
@@ -6655,7 +6655,7 @@ Goldman Sachs UMT (3491.TWO)For the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 123: 260914_ms_monthly-databook-NB
+## Document 121: 260914_ms_monthly-databook-NB
 
 Source PDF: all report pdf/260914_ms_monthly-databook-NB.pdf
 Report source: line報告備份
@@ -7143,7 +7143,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 124: 260914_ubs_parade
+## Document 122: 260914_ubs_parade
 
 Source PDF: all report pdf/260914_ubs_parade.pdf
 Report source: line報告備份
@@ -8119,7 +8119,7 @@ constitute, advice within the meaning of the Municipal Advisor Rule.  For inform
 ab
 
 ---
-## Document 131: 3044健鼎 康和
+## Document 127: 3044健鼎 康和
 
 Source PDF: all report pdf/3044健鼎 康和.pdf
 Report source: line報告備份
@@ -8488,7 +8488,7 @@ Q1 Q2 Q3 Q4
 投 資 結 果 自 行 負 責。
 
 ---
-## Document 132: 3105穩懋 群益
+## Document 128: 3105穩懋 群益
 
 Source PDF: all report pdf/3105穩懋 群益.pdf
 Report source: line報告備份
@@ -8578,7 +8578,7 @@ PER= 股價 /2027 (F) EPS ； PBR= 股價 /2027 (F) 年 底 預 估 每 股 淨 
 情形。
 
 ---
-## Document 133: 3231緯創 宏遠
+## Document 129: 3231緯創 宏遠
 
 Source PDF: all report pdf/3231緯創 宏遠.pdf
 Report source: line報告備份
@@ -9103,7 +9103,7 @@ A+A+A+A+A+
 2024 2025 2026
 
 ---
-## Document 135: 3413京鼎 元大
+## Document 131: 3413京鼎 元大
 
 Source PDF: all report pdf/3413京鼎 元大.pdf
 Report source: line報告備份
@@ -9640,7 +9640,7 @@ ESG 總分 18.5
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 145: 4585達明 玉山
+## Document 139: 4585達明 玉山
 
 Source PDF: all report pdf/4585達明 玉山.pdf
 Report source: line報告備份
@@ -9948,7 +9948,7 @@ AI時代控制器更形重要
 未評等：無。
 
 ---
-## Document 159: 6213聯茂 兆豐
+## Document 149: 6213聯茂 兆豐
 
 Source PDF: all report pdf/6213聯茂 兆豐.pdf
 Report source: line報告備份
@@ -10394,7 +10394,7 @@ B+B+B+
 交易所公司治理評鑑
 
 ---
-## Document 162: 6472保瑞 永豐
+## Document 152: 6472保瑞 永豐
 
 Source PDF: all report pdf/6472保瑞 永豐.pdf
 Report source: line報告備份
@@ -10739,7 +10739,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 8
 
 ---
-## Document 163: 6491晶碩 統一
+## Document 153: 6491晶碩 統一
 
 Source PDF: all report pdf/6491晶碩 統一.pdf
 Report source: line報告備份
@@ -10991,7 +10991,7 @@ ainReport/data/FileStream?id=95665ad3-1546-
 請參見末頁重要批露及免責聲明  6
 
 ---
-## Document 165: 6510精測 群益
+## Document 155: 6510精測 群益
 
 Source PDF: all report pdf/6510精測 群益.pdf
 Report source: line報告備份
@@ -11107,7 +11107,7 @@ PER= 股價 /2026 (F) EPS ； PBR= 股價 /2026 (F) 年 底 預 估 每 股 淨 
 情形。
 
 ---
-## Document 173: 7689大鵬科 宏遠
+## Document 159: 7689大鵬科 宏遠
 
 Source PDF: all report pdf/7689大鵬科 宏遠.pdf
 Report source: line報告備份
@@ -11370,7 +11370,7 @@ Company Report
 稅後純益率 % 3.73 8.56 11.85 13.42 10.40 13.31 14.61 12.63 12.51 13.73 13.28 13.91 13.35
 
 ---
-## Document 340: SEMICON Taiwan_Optical and PLP takeaways
+## Document 298: SEMICON Taiwan_Optical and PLP takeaways
 
 Source PDF: all report pdf/SEMICON Taiwan_Optical and PLP takeaways.pdf
 Report source: line報告備份
@@ -12500,7 +12500,7 @@ rlo@ polymercapital.com
 rlo@ polymercapital.com
 
 ---
-## Document 379: Value Play_ High Voltage Setup at Discounted Sentiment _ GSTW
+## Document 330: Value Play_ High Voltage Setup at Discounted Sentiment _ GSTW
 
 Source PDF: all report pdf/Value Play_ High Voltage Setup at Discounted Sentiment _ GSTW.pdf
 Report source: line報告備份
@@ -12901,7 +12901,7 @@ Services Regulatory Authority or any other relevant licensing authorities in the
 https://marquee.gs.com/s/content/markets/35bae1fe-db83-439c-8eb7-85f11995a54f 10/10
 
 ---
-## Document 403: 【國泰證期研究部】4Q26特化產業展望-先進封裝材料隱含價值持續提升-20260909
+## Document 350: 【國泰證期研究部】4Q26特化產業展望-先進封裝材料隱含價值持續提升-20260909
 
 Source PDF: all report pdf/【國泰證期研究部】4Q26特化產業展望-先進封裝材料隱含價值持續提升-20260909.pdf
 Report source: line報告備份
@@ -13071,7 +13071,7 @@ Ta p e則利用UV照射後降低黏著力，兼顧切割時固定與挑晶時低
 投資評等定義
 
 ---
-## Document 405: 【國泰證期研究部】富世達(6805 TT)-買進(+27.6%)-液冷升級，富勢續揚-20260909
+## Document 352: 【國泰證期研究部】富世達(6805 TT)-買進(+27.6%)-液冷升級，富勢續揚-20260909
 
 Source PDF: all report pdf/【國泰證期研究部】富世達(6805 TT)-買進(+27.6%)-液冷升級，富勢續揚-20260909.pdf
 Report source: line報告備份
@@ -13477,7 +13477,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 407: 【國泰證期研究部】旭隼(6409 TT)-中立(+12%)-UPS本業仍具挑戰-20260915
+## Document 354: 【國泰證期研究部】旭隼(6409 TT)-中立(+12%)-UPS本業仍具挑戰-20260915
 
 Source PDF: all report pdf/【國泰證期研究部】旭隼(6409 TT)-中立(+12%)-UPS本業仍具挑戰-20260915.pdf
 Report source: line報告備份
@@ -13847,7 +13847,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 511: 元大-1504 東元-20260908
+## Document 450: 元大-1504 東元-20260908
 
 Source PDF: all report pdf/元大-1504 東元-20260908.pdf
 Report source: line報告備份
@@ -14414,7 +14414,7 @@ ESG 總分 23.6
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 512: 元大-重電產業-20260908
+## Document 451: 元大-重電產業-20260908
 
 Source PDF: all report pdf/元大-重電產業-20260908.pdf
 Report source: line報告備份
@@ -14754,7 +14754,7 @@ YOY+15%。
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 516: 元富-自行車產業-20260904
+## Document 454: 元富-自行車產業-20260904
 
 Source PDF: all report pdf/元富-自行車產業-20260904.pdf
 Report source: line報告備份
@@ -15376,7 +15376,7 @@ Net 18.5 20.6 19.8 22.4
 報告完畢 ‧ 謝謝指教
 
 ---
-## Document 545: 凱基投顧_Takeaway_7947 補丁科_沈漢軒_20260908
+## Document 480: 凱基投顧_Takeaway_7947 補丁科_沈漢軒_20260908
 
 Source PDF: all report pdf/凱基投顧_Takeaway_7947 補丁科_沈漢軒_20260908.pdf
 Report source: line報告備份
@@ -15688,7 +15688,7 @@ A: 公司目前持續朝上市方向準備，並與會計師及券商共同推�
 九月 08, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R  7
 
 ---
-## Document 548: 凱基投顧_美國運動休閒產業_劉昃恩_20260909
+## Document 482: 凱基投顧_美國運動休閒產業_劉昃恩_20260909
 
 Source PDF: all report pdf/凱基投顧_美國運動休閒產業_劉昃恩_20260909.pdf
 Report source: line報告備份
@@ -16348,7 +16348,7 @@ Dick's Sporting Goods
 免責聲明
 
 ---
-## Document 579: 啟碁(6285,OW_增加持股)-CTBC260915
+## Document 509: 啟碁(6285,OW_增加持股)-CTBC260915
 
 Source PDF: all report pdf/啟碁(6285,OW_增加持股)-CTBC260915.pdf
 Report source: line報告備份
@@ -16630,7 +16630,7 @@ ESG 資訊 - 公司治理 (Governance) 資 料 來 源 ： 證 交 所
 未評等 Not Rated (NR)
 
 ---
-## Document 587: 國票-2605 新興-20260914
+## Document 514: 國票-2605 新興-20260914
 
 Source PDF: all report pdf/國票-2605 新興-20260914.pdf
 Report source: line報告備份
@@ -17042,7 +17042,7 @@ $45
 • 國票可能與該公司進行業務而處於緘默期
 
 ---
-## Document 610: 富邦-2762 世界健身-KY-20260914
+## Document 537: 富邦-2762 世界健身-KY-20260914
 
 Source PDF: all report pdf/富邦-2762 世界健身-KY-20260914.pdf
 Report source: line報告備份
@@ -17329,7 +17329,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 612: 富邦-4749 新應材-20260907
+## Document 539: 富邦-4749 新應材-20260907
 
 Source PDF: all report pdf/富邦-4749 新應材-20260907.pdf
 Report source: line報告備份
@@ -17922,7 +17922,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 623: 康和-5243 乙盛-KY-20260914
+## Document 548: 康和-5243 乙盛-KY-20260914
 
 Source PDF: all report pdf/康和-5243 乙盛-KY-20260914.pdf
 Report source: line報告備份
@@ -18216,7 +18216,7 @@ EPS以股本168.5百萬股計算
 投 資 結 果 自 行 負 責 。
 
 ---
-## Document 676: 浮水[元大]TSMC CoPoS供應鏈進展_高精細TGV 玻璃芯基板打破 AI 算力瓶頸量產供應鏈組合_2026090
+## Document 587: 浮水[元大]TSMC CoPoS供應鏈進展_高精細TGV 玻璃芯基板打破 AI 算力瓶頸量產供應鏈組合_2026090
 
 Source PDF: all report pdf/浮水[元大]TSMC CoPoS供應鏈進展_高精細TGV 玻璃芯基板打破 AI 算力瓶頸量產供應鏈組合_2026090.pdf
 Report source: line報告備份
@@ -19039,7 +19039,7 @@ Glass Interposer 晶圓級測試與已知優良晶粒（KGD）篩選
 AI 算力新視界：Meta lens 、Micro-Led、TSMC COUPE 3技術與供應鏈 課程內容未經許可不得轉載或分享Confidential Yi-Hau, Shiau
 
 ---
-## Document 723: 統一-2548 華固-20260907
+## Document 627: 統一-2548 華固-20260907
 
 Source PDF: all report pdf/統一-2548 華固-20260907.pdf
 Report source: line報告備份
