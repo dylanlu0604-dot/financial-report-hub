@@ -189,7 +189,7 @@ YoY(%)
 位不為使用者之資訊決策及結果負擔任何責任。
 
 ---
-## Document 056: 2303聯電 群益
+## Document 052: 2303聯電 群益
 
 Source PDF: all report pdf/2303聯電 群益.pdf
 Report source: line報告備份
@@ -442,7 +442,7 @@ YoY(%)
 情形。
 
 ---
-## Document 060: 2357華碩 國票
+## Document 056: 2357華碩 國票
 
 Source PDF: all report pdf/2357華碩 國票.pdf
 Report source: line報告備份
@@ -842,7 +842,7 @@ $1,200
 • 國票可能與該公司進行業務而處於緘默期
 
 ---
-## Document 066: 260906_ms_ABF
+## Document 059: 260906_ms_ABF
 
 Source PDF: all report pdf/260906_ms_ABF.pdf
 Report source: line報告備份
@@ -1298,7 +1298,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 071: 260907_citi_winway
+## Document 061: 260907_citi_winway
 
 Source PDF: all report pdf/260907_citi_winway.pdf
 Report source: line報告備份
@@ -1788,7 +1788,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 072: 260907_gs_HH
+## Document 062: 260907_gs_HH
 
 Source PDF: all report pdf/260907_gs_HH.pdf
 Report source: line報告備份
@@ -2199,7 +2199,7 @@ Goldman Sachs Hon Hai (2317.TW)For the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 073: 260907_gs_TW-PCB-CCL
+## Document 063: 260907_gs_TW-PCB-CCL
 
 Source PDF: all report pdf/260907_gs_TW-PCB-CCL.pdf
 Report source: line報告備份
@@ -2545,7 +2545,7 @@ Goldman Sachs Taiwan PCB/CCLFor the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 085: 260908_ms_1h-sep-panel-px
+## Document 075: 260908_ms_1h-sep-panel-px
 
 Source PDF: all report pdf/260908_ms_1h-sep-panel-px.pdf
 Report source: line報告備份
@@ -3602,7 +3602,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 090: 260909_citi_aspeed
+## Document 080: 260909_citi_aspeed
 
 Source PDF: all report pdf/260909_citi_aspeed.pdf
 Report source: line報告備份
@@ -4316,7 +4316,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 093: 260909_daiwa_testing-interface
+## Document 083: 260909_daiwa_testing-interface
 
 Source PDF: all report pdf/260909_daiwa_testing-interface.pdf
 Report source: line報告備份
@@ -4546,7 +4546,7 @@ regarding the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 102: 260911_nmr_SDI
+## Document 092: 260911_nmr_SDI
 
 Source PDF: all report pdf/260911_nmr_SDI.pdf
 Report source: line報告備份
@@ -5039,7 +5039,7 @@ Nomura | SDI Corporation 11 September 2026
 10
 
 ---
-## Document 107: 260914_gs_optical-tour
+## Document 097: 260914_gs_optical-tour
 
 Source PDF: all report pdf/260914_gs_optical-tour.pdf
 Report source: line報告備份
@@ -5502,7 +5502,7 @@ Goldman SachsFor the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 111: 260914_ms_cotech 8358
+## Document 101: 260914_ms_cotech 8358
 
 Source PDF: all report pdf/260914_ms_cotech 8358.pdf
 Report source: line報告備份
@@ -5987,7 +5987,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 115: 260914_ubs_parade
+## Document 105: 260914_ubs_parade
 
 Source PDF: all report pdf/260914_ubs_parade.pdf
 Report source: line報告備份
@@ -6963,7 +6963,7 @@ constitute, advice within the meaning of the Municipal Advisor Rule.  For inform
 ab
 
 ---
-## Document 118: 260915_ms_china-advanced-packaging
+## Document 108: 260915_ms_china-advanced-packaging
 
 Source PDF: all report pdf/260915_ms_china-advanced-packaging.pdf
 Report source: line報告備份
@@ -10278,7 +10278,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 122: 260915_ubs_guc
+## Document 112: 260915_ubs_guc
 
 Source PDF: all report pdf/260915_ubs_guc.pdf
 Report source: line報告備份
@@ -11249,7 +11249,7 @@ constitute, advice within the meaning of the Municipal Advisor Rule.  For inform
 ab
 
 ---
-## Document 128: 260916_ms_cotech
+## Document 118: 260916_ms_cotech
 
 Source PDF: all report pdf/260916_ms_cotech.pdf
 Report source: line報告備份
@@ -11772,7 +11772,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 146: 4770上品 宏遠
+## Document 133: 4770上品 宏遠
 
 Source PDF: all report pdf/4770上品 宏遠.pdf
 Report source: line報告備份
@@ -12344,7 +12344,7 @@ C+
 2024 2025 2026
 
 ---
-## Document 157: 6213聯茂 第一金
+## Document 142: 6213聯茂 第一金
 
 Source PDF: all report pdf/6213聯茂 第一金.pdf
 Report source: line報告備份
@@ -12651,7 +12651,7 @@ YoY(%)
 存貨週轉天數(天) 56.44 47.07 47.49 55.01
 
 ---
-## Document 158: 6279胡連 永豐
+## Document 143: 6279胡連 永豐
 
 Source PDF: all report pdf/6279胡連 永豐.pdf
 Report source: line報告備份
@@ -12982,7 +12982,7 @@ S：Sell 賣出：未來 6 個月該股票表現將落後大盤
 7
 
 ---
-## Document 160: 6491晶碩 統一
+## Document 145: 6491晶碩 統一
 
 Source PDF: all report pdf/6491晶碩 統一.pdf
 Report source: line報告備份
@@ -13234,7 +13234,7 @@ ainReport/data/FileStream?id=95665ad3-1546-
 請參見末頁重要批露及免責聲明  6
 
 ---
-## Document 161: 6510精測 元大
+## Document 146: 6510精測 元大
 
 Source PDF: all report pdf/6510精測 元大.pdf
 Report source: line報告備份
@@ -13863,7 +13863,7 @@ ESG 總分 19.9
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 165: 6965中傑 統一
+## Document 149: 6965中傑 統一
 
 Source PDF: all report pdf/6965中傑 統一.pdf
 Report source: line報告備份
@@ -14275,7 +14275,7 @@ ainReport/data/FileStream?id=d2a85a90-85dc-
 請參見末頁重要批露及免責聲明  9
 
 ---
-## Document 271: GFHK - Apple update
+## Document 241: GFHK - Apple update
 
 Source PDF: all report pdf/GFHK - Apple update.pdf
 Report source: line報告備份
@@ -14531,7 +14531,7 @@ Without the prior written con sent obtained from GF Securities (Hong Kong) Broke
 reproduced or (ii) be re-disseminated.
 
 ---
-## Document 272: GFHK - Intel update
+## Document 242: GFHK - Intel update
 
 Source PDF: all report pdf/GFHK - Intel update.pdf
 Report source: line報告備份
@@ -14879,7 +14879,7 @@ Without the prior written consent obtained from GF Securities (Hong Kong) Broker
 reproduced or (ii) be re-disseminated.
 
 ---
-## Document 275: GLOBAL OPTICAL GS 260907
+## Document 245: GLOBAL OPTICAL GS 260907
 
 Source PDF: all report pdf/GLOBAL OPTICAL GS 260907.pdf
 Report source: line報告備份
@@ -14890,7 +14890,7 @@ Extraction status: ok
 [No extractable text after boilerplate filtering.]
 
 ---
-## Document 391: 【國泰證期研究部】4Q26 半導體產業展望-BSPDN與VPD是供電架構升級主軸-20260908
+## Document 343: 【國泰證期研究部】4Q26 半導體產業展望-BSPDN與VPD是供電架構升級主軸-20260908
 
 Source PDF: all report pdf/【國泰證期研究部】4Q26 半導體產業展望-BSPDN與VPD是供電架構升級主軸-20260908.pdf
 Report source: line報告備份
@@ -15137,7 +15137,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 394: 【國泰證期研究部】中碳(1723TT)-買進轉中立(+8.0%)-碳材料成長仍待觀察-20260910
+## Document 346: 【國泰證期研究部】中碳(1723TT)-買進轉中立(+8.0%)-碳材料成長仍待觀察-20260910
 
 Source PDF: all report pdf/【國泰證期研究部】中碳(1723TT)-買進轉中立(+8.0%)-碳材料成長仍待觀察-20260910.pdf
 Report source: line報告備份
@@ -15517,7 +15517,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 531: 凱基投顧_Takeaway_6442 光聖_涂憶君_20260910
+## Document 463: 凱基投顧_Takeaway_6442 光聖_涂憶君_20260910
 
 Source PDF: all report pdf/凱基投顧_Takeaway_6442 光聖_涂憶君_20260910.pdf
 Report source: line報告備份
@@ -15687,7 +15687,7 @@ QA
 九月 10, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 4
 
 ---
-## Document 534: 凱基投顧_Takeaway_7942 東佑達_莊政翰_20260910
+## Document 466: 凱基投顧_Takeaway_7942 東佑達_莊政翰_20260910
 
 Source PDF: all report pdf/凱基投顧_Takeaway_7942 東佑達_莊政翰_20260910.pdf
 Report source: line報告備份
@@ -15822,7 +15822,7 @@ Apple 供應鏈轉移、 泰國則服務當地日系車廠、瑞典以供應零�
 九月 10, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R   4
 
 ---
-## Document 537: 凱基投顧_半導體產業_潘俊宏_20260915
+## Document 469: 凱基投顧_半導體產業_潘俊宏_20260915
 
 Source PDF: all report pdf/凱基投顧_半導體產業_潘俊宏_20260915.pdf
 Report source: line報告備份
@@ -16301,7 +16301,7 @@ Dividend yield (%)Company Code EPS (LCY) PER (x) PBR (x) ROE (%)
 免責聲明
 
 ---
-## Document 538: 凱基投顧_美國運動休閒產業_劉昃恩_20260909
+## Document 470: 凱基投顧_美國運動休閒產業_劉昃恩_20260909
 
 Source PDF: all report pdf/凱基投顧_美國運動休閒產業_劉昃恩_20260909.pdf
 Report source: line報告備份
@@ -16961,7 +16961,7 @@ Dick's Sporting Goods
 免責聲明
 
 ---
-## Document 562: 台新投顧20260917個股報告-全新(2455)-買進
+## Document 489: 台新投顧20260917個股報告-全新(2455)-買進
 
 Source PDF: all report pdf/台新投顧20260917個股報告-全新(2455)-買進.pdf
 Report source: line報告備份
@@ -17089,7 +17089,7 @@ MOCVD 新機台預計今年陸續進廠裝機，因應光電子業務明年之�
 位不為使用者之資訊決策及結果負擔任何責任。
 
 ---
-## Document 566: 合庫-6491 晶碩-20260907
+## Document 492: 合庫-6491 晶碩-20260907
 
 Source PDF: all report pdf/合庫-6491 晶碩-20260907.pdf
 Report source: line報告備份
@@ -17364,7 +17364,7 @@ INVESTMENT CONSULTANT
 未評等 訊息不足或有相關業務往來
 
 ---
-## Document 567: 合庫-8086 宏捷科-20260914
+## Document 493: 合庫-8086 宏捷科-20260914
 
 Source PDF: all report pdf/合庫-8086 宏捷科-20260914.pdf
 Report source: line報告備份
@@ -17578,7 +17578,7 @@ INVESTMENT CONSULTANT
 未評等 訊息不足或有相關業務往來
 
 ---
-## Document 580: 國票-2605 新興-20260914
+## Document 504: 國票-2605 新興-20260914
 
 Source PDF: all report pdf/國票-2605 新興-20260914.pdf
 Report source: line報告備份
@@ -17990,7 +17990,7 @@ $45
 • 國票可能與該公司進行業務而處於緘默期
 
 ---
-## Document 613: 富邦-4749 新應材-20260907
+## Document 526: 富邦-4749 新應材-20260907
 
 Source PDF: all report pdf/富邦-4749 新應材-20260907.pdf
 Report source: line報告備份
@@ -18583,7 +18583,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 724: 統一-3443 創意-20260907
+## Document 621: 統一-3443 創意-20260907
 
 Source PDF: all report pdf/統一-3443 創意-20260907.pdf
 Report source: line報告備份
@@ -18928,7 +18928,7 @@ ainReport/data/FileStream?id=bd23d954-c8f4-
 請參見末頁重要批露及免責聲明  9
 
 ---
-## Document 751: 群益-6279 胡連-20260914
+## Document 645: 群益-6279 胡連-20260914
 
 Source PDF: all report pdf/群益-6279 胡連-20260914.pdf
 Report source: line報告備份
@@ -19245,7 +19245,7 @@ YoY(%)
 情形。
 
 ---
-## Document 752: 群益-6690 安碁資訊-20260914
+## Document 646: 群益-6690 安碁資訊-20260914
 
 Source PDF: all report pdf/群益-6690 安碁資訊-20260914.pdf
 Report source: line報告備份

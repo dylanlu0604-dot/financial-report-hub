@@ -3,7 +3,7 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 011: 20260910-AAPL新品發表會
+## Document 009: 20260910-AAPL新品發表會
 
 Source PDF: all report pdf/20260910-AAPL新品發表會.pdf
 Report source: line報告備份
@@ -248,7 +248,7 @@ AAPL
 12
 
 ---
-## Document 059: 2351順德 兆豐
+## Document 055: 2351順德 兆豐
 
 Source PDF: all report pdf/2351順德 兆豐.pdf
 Report source: line報告備份
@@ -695,7 +695,7 @@ A
 交易所公司治理評鑑
 
 ---
-## Document 061: 2382廣達 宏遠
+## Document 057: 2382廣達 宏遠
 
 Source PDF: all report pdf/2382廣達 宏遠.pdf
 Report source: line報告備份
@@ -1229,7 +1229,7 @@ AAAA
 2024 2025 2026
 
 ---
-## Document 076: 260907_ms_advantech
+## Document 066: 260907_ms_advantech
 
 Source PDF: all report pdf/260907_ms_advantech.pdf
 Report source: line報告備份
@@ -1743,7 +1743,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 086: 260908_ms_chenbro
+## Document 076: 260908_ms_chenbro
 
 Source PDF: all report pdf/260908_ms_chenbro.pdf
 Report source: line報告備份
@@ -2267,7 +2267,7 @@ Update
 © 2026 Morgan Stanley
 
 ---
-## Document 089: 260908_ms_mpi
+## Document 079: 260908_ms_mpi
 
 Source PDF: all report pdf/260908_ms_mpi.pdf
 Report source: line報告備份
@@ -2741,7 +2741,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 091: 260909_daiwa_ardentec-buy-initiation
+## Document 081: 260909_daiwa_ardentec-buy-initiation
 
 Source PDF: all report pdf/260909_daiwa_ardentec-buy-initiation.pdf
 Report source: line報告備份
@@ -3970,7 +3970,7 @@ London Research Centre 3/F, 5 King William Street, London, EC4N 7AX, United King
 Ardentec (3264 TT): 9 September 2026
 
 ---
-## Document 092: 260909_daiwa_EPM
+## Document 082: 260909_daiwa_EPM
 
 Source PDF: all report pdf/260909_daiwa_EPM.pdf
 Report source: line報告備份
@@ -4328,7 +4328,7 @@ Note: Management score represents a company's ability to manage/benefit from cer
 Eternal Precision Mechanics (7795 TT): 9 September 2026
 
 ---
-## Document 095: 260909_ms_nvl72-racks
+## Document 085: 260909_ms_nvl72-racks
 
 Source PDF: all report pdf/260909_ms_nvl72-racks.pdf
 Report source: line報告備份
@@ -4905,7 +4905,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 097: 260910_gs_foldable
+## Document 087: 260910_gs_foldable
 
 Source PDF: all report pdf/260910_gs_foldable.pdf
 Report source: line報告備份
@@ -5360,7 +5360,7 @@ Goldman Sachs GC TechFor the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 098: 260910_gs_TSMC
+## Document 088: 260910_gs_TSMC
 
 Source PDF: all report pdf/260910_gs_TSMC.pdf
 Report source: line報告備份
@@ -5807,7 +5807,7 @@ Goldman Sachs TSMC (2330.TW)For the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 104: 260913_ms_AI-hidden-backbone
+## Document 094: 260913_ms_AI-hidden-backbone
 
 Source PDF: all report pdf/260913_ms_AI-hidden-backbone.pdf
 Report source: line報告備份
@@ -12343,7 +12343,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 114: 260914_nmr_chipbond-UG
+## Document 104: 260914_nmr_chipbond-UG
 
 Source PDF: all report pdf/260914_nmr_chipbond-UG.pdf
 Report source: line報告備份
@@ -12804,7 +12804,7 @@ Nomura | Chipbond Technology Corporation 14 September 2026
 9
 
 ---
-## Document 116: 260914_ubs_TW-summit-day-I-hardware
+## Document 106: 260914_ubs_TW-summit-day-I-hardware
 
 Source PDF: all report pdf/260914_ubs_TW-summit-day-I-hardware.pdf
 Report source: line報告備份
@@ -13674,7 +13674,7 @@ constitute, advice within the meaning of the Municipal Advisor Rule.  For inform
 ab
 
 ---
-## Document 129: 3014聯陽 宏遠
+## Document 119: 3014聯陽 宏遠
 
 Source PDF: all report pdf/3014聯陽 宏遠.pdf
 Report source: line報告備份
@@ -14170,7 +14170,7 @@ B
 2024 2025 2026
 
 ---
-## Document 133: 3231緯創 宏遠
+## Document 123: 3231緯創 宏遠
 
 Source PDF: all report pdf/3231緯創 宏遠.pdf
 Report source: line報告備份
@@ -14695,7 +14695,7 @@ A+A+A+A+A+
 2024 2025 2026
 
 ---
-## Document 149: 4961天鈺 玉山
+## Document 136: 4961天鈺 玉山
 
 Source PDF: all report pdf/4961天鈺 玉山.pdf
 Report source: line報告備份
@@ -14904,7 +14904,7 @@ LCD 顯示器驅動 IC 市占率約 5~8%。小尺寸驅動 IC 廣泛應用於智
 未評等：無。
 
 ---
-## Document 150: 4991環宇 富邦
+## Document 137: 4991環宇 富邦
 
 Source PDF: all report pdf/4991環宇 富邦.pdf
 Report source: line報告備份
@@ -15596,7 +15596,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 154: 6173信昌電 宏遠
+## Document 139: 6173信昌電 宏遠
 
 Source PDF: all report pdf/6173信昌電 宏遠.pdf
 Report source: line報告備份
@@ -16186,7 +16186,7 @@ AAAAA
 2024 2025 2026
 
 ---
-## Document 156: 6213聯茂 兆豐
+## Document 141: 6213聯茂 兆豐
 
 Source PDF: all report pdf/6213聯茂 兆豐.pdf
 Report source: line報告備份
@@ -16632,7 +16632,7 @@ B+B+B+
 交易所公司治理評鑑
 
 ---
-## Document 159: 6472保瑞 永豐
+## Document 144: 6472保瑞 永豐
 
 Source PDF: all report pdf/6472保瑞 永豐.pdf
 Report source: line報告備份
@@ -16977,7 +16977,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 8
 
 ---
-## Document 163: 6739竹陞科技 康和
+## Document 147: 6739竹陞科技 康和
 
 Source PDF: all report pdf/6739竹陞科技 康和.pdf
 Report source: line報告備份
@@ -17373,7 +17373,7 @@ EPS以股本23.4百萬股計算
 投 資 結 果 自 行 負 責 。
 
 ---
-## Document 168: 7799禾榮科 永豐
+## Document 152: 7799禾榮科 永豐
 
 Source PDF: all report pdf/7799禾榮科 永豐.pdf
 Report source: line報告備份
@@ -17508,7 +17508,7 @@ S：Sell 賣出：未來 6 個月該股票表現將落後大盤
 5
 
 ---
-## Document 172: 8415大國鋼 第一金
+## Document 156: 8415大國鋼 第一金
 
 Source PDF: all report pdf/8415大國鋼 第一金.pdf
 Report source: line報告備份
@@ -17780,7 +17780,7 @@ YoY(%)
 存貨週轉天數(天) 289.26 357.27 358.01 385.72
 
 ---
-## Document 390: 【國泰證期研究部】4Q26 AI產業展望-AI驅動SaaS開啟第二條成長曲線-20260917
+## Document 342: 【國泰證期研究部】4Q26 AI產業展望-AI驅動SaaS開啟第二條成長曲線-20260917
 
 Source PDF: all report pdf/【國泰證期研究部】4Q26 AI產業展望-AI驅動SaaS開啟第二條成長曲線-20260917.pdf
 Report source: line報告備份
@@ -17934,7 +17934,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 392: 【國泰證期研究部】4Q26 記憶體產業展望-擴產速度落後需求成長，記憶體賣方市場延續-20260914
+## Document 344: 【國泰證期研究部】4Q26 記憶體產業展望-擴產速度落後需求成長，記憶體賣方市場延續-20260914
 
 Source PDF: all report pdf/【國泰證期研究部】4Q26 記憶體產業展望-擴產速度落後需求成長，記憶體賣方市場延續-20260914.pdf
 Report source: line報告備份
@@ -18304,7 +18304,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 519: 凱基投顧_2345 智邦_涂憶君_20260911 initiation
+## Document 451: 凱基投顧_2345 智邦_涂憶君_20260911 initiation
 
 Source PDF: all report pdf/凱基投顧_2345 智邦_涂憶君_20260911 initiation.pdf
 Report source: line報告備份
@@ -19642,7 +19642,7 @@ Recommendations & Target Price
 資料來源： TEJ，凱基
 
 ---
-## Document 520: 凱基投顧_2637 慧洋-KY_賴偉中_20260915
+## Document 452: 凱基投顧_2637 慧洋-KY_賴偉中_20260915
 
 Source PDF: all report pdf/凱基投顧_2637 慧洋-KY_賴偉中_20260915.pdf
 Report source: line報告備份
@@ -20335,7 +20335,7 @@ Sep-25 Nov-25 Jan-26 Mar-26 May-26 Jul-26
 資料來源：TEJ，凱基
 
 ---
-## Document 524: 凱基投顧_8046 南電_林祐熙_20260914
+## Document 456: 凱基投顧_8046 南電_林祐熙_20260914
 
 Source PDF: all report pdf/凱基投顧_8046 南電_林祐熙_20260914.pdf
 Report source: line報告備份
@@ -21116,7 +21116,7 @@ Recommendations & Target Price
 資料來源：TEJ，凱基
 
 ---
-## Document 526: 凱基投顧_Takeaway_2006 東和鋼鐵_劉昃恩_20260916
+## Document 458: 凱基投顧_Takeaway_2006 東和鋼鐵_劉昃恩_20260916
 
 Source PDF: all report pdf/凱基投顧_Takeaway_2006 東和鋼鐵_劉昃恩_20260916.pdf
 Report source: line報告備份
@@ -21223,7 +21223,7 @@ eden.chang@kgi.com
 九月 16, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 3
 
 ---
-## Document 528: 凱基投顧_Takeaway_4585 達明_莊政翰_20260908
+## Document 460: 凱基投顧_Takeaway_4585 達明_莊政翰_20260908
 
 Source PDF: all report pdf/凱基投顧_Takeaway_4585 達明_莊政翰_20260908.pdf
 Report source: line報告備份
@@ -21337,7 +21337,7 @@ Omron 15 -20%、Quanta 10 -15%。
 九月 08, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 3
 
 ---
-## Document 606: 宏遠-4770 上品-20260907
+## Document 519: 宏遠-4770 上品-20260907
 
 Source PDF: all report pdf/宏遠-4770 上品-20260907.pdf
 Report source: line報告備份
@@ -21909,7 +21909,7 @@ C+
 2024 2025 2026
 
 ---
-## Document 607: 宏遠-4772 台特化-20260914
+## Document 520: 宏遠-4772 台特化-20260914
 
 Source PDF: all report pdf/宏遠-4772 台特化-20260914.pdf
 Report source: line報告備份
@@ -22318,7 +22318,7 @@ A
 2024 2025 2026
 
 ---
-## Document 614: 富邦-半導體耗材產業-20260914
+## Document 527: 富邦-半導體耗材產業-20260914
 
 Source PDF: all report pdf/富邦-半導體耗材產業-20260914.pdf
 Report source: line報告備份
@@ -22715,7 +22715,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 678: 浮水[元大]TSMC CoPoS供應鏈進展_高精細TGV 玻璃芯基板打破 AI 算力瓶頸量產供應鏈組合_2026090
+## Document 579: 浮水[元大]TSMC CoPoS供應鏈進展_高精細TGV 玻璃芯基板打破 AI 算力瓶頸量產供應鏈組合_2026090
 
 Source PDF: all report pdf/浮水[元大]TSMC CoPoS供應鏈進展_高精細TGV 玻璃芯基板打破 AI 算力瓶頸量產供應鏈組合_2026090.pdf
 Report source: line報告備份
@@ -23538,7 +23538,7 @@ Glass Interposer 晶圓級測試與已知優良晶粒（KGD）篩選
 AI 算力新視界：Meta lens 、Micro-Led、TSMC COUPE 3技術與供應鏈 課程內容未經許可不得轉載或分享Confidential Yi-Hau, Shiau
 
 ---
-## Document 694: 玉山-8086 宏捷科-20260914
+## Document 595: 玉山-8086 宏捷科-20260914
 
 Source PDF: all report pdf/玉山-8086 宏捷科-20260914.pdf
 Report source: line報告備份
@@ -23767,7 +23767,7 @@ Murata、Qorvo
 未評等：無。
 
 ---
-## Document 723: 統一-2548 華固-20260907
+## Document 620: 統一-2548 華固-20260907
 
 Source PDF: all report pdf/統一-2548 華固-20260907.pdf
 Report source: line報告備份
@@ -24090,7 +24090,7 @@ ainReport/data/FileStream?id=5b579ed8-bf78-
 請參見末頁重要批露及免責聲明  8
 
 ---
-## Document 767: 華南-2455 全新-20260914
+## Document 663: 華南-2455 全新-20260914
 
 Source PDF: all report pdf/華南-2455 全新-20260914.pdf
 Report source: line報告備份
@@ -24436,7 +24436,7 @@ YOY 20.9 35.2 37.4 9.1
 個股投資建議與目標價三年歷史趨勢：
 
 ---
-## Document 780: 近期旗艦新機鏡頭設計趨勢彙整_元富投顧(台新新光金控)
+## Document 674: 近期旗艦新機鏡頭設計趨勢彙整_元富投顧(台新新光金控)
 
 Source PDF: all report pdf/近期旗艦新機鏡頭設計趨勢彙整_元富投顧(台新新光金控).pdf
 Report source: line報告備份
