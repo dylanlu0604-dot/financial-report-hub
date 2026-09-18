@@ -3,7 +3,7 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 006: 1503士電 台新
+## Document 007: 1503士電 台新
 
 Source PDF: all report pdf/1503士電 台新.pdf
 Report source: line報告備份
@@ -189,7 +189,7 @@ YoY(%)
 位不為使用者之資訊決策及結果負擔任何責任。
 
 ---
-## Document 007: 1590亞德客 永豐
+## Document 008: 1590亞德客 永豐
 
 Source PDF: all report pdf/1590亞德客 永豐.pdf
 Report source: line報告備份
@@ -525,7 +525,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 8
 
 ---
-## Document 012: 20260910-AAPL新品發表會
+## Document 013: 20260910-AAPL新品發表會
 
 Source PDF: all report pdf/20260910-AAPL新品發表會.pdf
 Report source: line報告備份
@@ -770,7 +770,7 @@ AAPL
 12
 
 ---
-## Document 013: 20260914114110_CLSA_TW_Gold_Circuit_Electronics_Ltd_20260914_20
+## Document 014: 20260914114110_CLSA_TW_Gold_Circuit_Electronics_Ltd_20260914_20
 
 Source PDF: all report pdf/20260914114110_CLSA_TW_Gold_Circuit_Electronics_Ltd_20260914_20.pdf
 Report source: line報告備份
@@ -13447,7 +13447,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 136: 4585達明 玉山
+## Document 135: 4585達明 玉山
 
 Source PDF: all report pdf/4585達明 玉山.pdf
 Report source: line報告備份
@@ -13755,7 +13755,7 @@ AI時代控制器更形重要
 未評等：無。
 
 ---
-## Document 138: 4771望隼 中信託
+## Document 137: 4771望隼 中信託
 
 Source PDF: all report pdf/4771望隼 中信託.pdf
 Report source: line報告備份
@@ -14039,7 +14039,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 139: 4958臻鼎 元大
+## Document 138: 4958臻鼎 元大
 
 Source PDF: all report pdf/4958臻鼎 元大.pdf
 Report source: line報告備份
@@ -14743,7 +14743,7 @@ ESG 總分 16.1
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 145: 6187萬潤 群益
+## Document 144: 6187萬潤 群益
 
 Source PDF: all report pdf/6187萬潤 群益.pdf
 Report source: line報告備份
@@ -15006,7 +15006,7 @@ YoY(%)
 情形。
 
 ---
-## Document 152: 6446藥華藥 群益
+## Document 151: 6446藥華藥 群益
 
 Source PDF: all report pdf/6446藥華藥 群益.pdf
 Report source: line報告備份
@@ -15123,7 +15123,7 @@ PER= 股價 /2027 (F) EPS ； PBR= 股價 /2027 (F) 年 底 預 估 每 股 淨 
 資 來 得 少 的 情 形 。
 
 ---
-## Document 155: 6510精測 元大
+## Document 154: 6510精測 元大
 
 Source PDF: all report pdf/6510精測 元大.pdf
 Report source: line報告備份
@@ -15752,7 +15752,7 @@ ESG 總分 19.9
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 158: 6739竹陞科技 康和
+## Document 157: 6739竹陞科技 康和
 
 Source PDF: all report pdf/6739竹陞科技 康和.pdf
 Report source: line報告備份
@@ -16148,7 +16148,7 @@ EPS以股本23.4百萬股計算
 投 資 結 果 自 行 負 責 。
 
 ---
-## Document 159: 6907亞特力 宏遠
+## Document 158: 6907亞特力 宏遠
 
 Source PDF: all report pdf/6907亞特力 宏遠.pdf
 Report source: line報告備份
@@ -16486,7 +16486,7 @@ Company Report
 10
 
 ---
-## Document 163: 8103瀚荃 國票
+## Document 162: 8103瀚荃 國票
 
 Source PDF: all report pdf/8103瀚荃 國票.pdf
 Report source: line報告備份
@@ -16875,7 +16875,7 @@ $170
 • 國票可能與該公司進行業務而處於緘默期
 
 ---
-## Document 164: 8255朋程 群益
+## Document 163: 8255朋程 群益
 
 Source PDF: all report pdf/8255朋程 群益.pdf
 Report source: line報告備份
@@ -17205,7 +17205,7 @@ YoY(%)
 情形。
 
 ---
-## Document 289: Radar Monthly_消費產業_賴偉中_20260914
+## Document 295: Radar Monthly_消費產業_賴偉中_20260914
 
 Source PDF: all report pdf/Radar Monthly_消費產業_賴偉中_20260914.pdf
 Report source: line報告備份
@@ -19467,7 +19467,7 @@ Jul-23 Nov-23 Mar-24 Jul-24 Nov-24 Mar-25 Jul-25 Nov-25 Mar-26 Jul-26
 免責聲明
 
 ---
-## Document 329: Value Play_ High Voltage Setup at Discounted Sentiment _ GSTW
+## Document 335: Value Play_ High Voltage Setup at Discounted Sentiment _ GSTW
 
 Source PDF: all report pdf/Value Play_ High Voltage Setup at Discounted Sentiment _ GSTW.pdf
 Report source: line報告備份
@@ -19868,7 +19868,7 @@ Services Regulatory Authority or any other relevant licensing authorities in the
 https://marquee.gs.com/s/content/markets/35bae1fe-db83-439c-8eb7-85f11995a54f 10/10
 
 ---
-## Document 350: 【國泰證期研究部】4Q26特化產業展望-先進封裝材料隱含價值持續提升-20260909
+## Document 358: 【國泰證期研究部】4Q26特化產業展望-先進封裝材料隱含價值持續提升-20260909
 
 Source PDF: all report pdf/【國泰證期研究部】4Q26特化產業展望-先進封裝材料隱含價值持續提升-20260909.pdf
 Report source: line報告備份
@@ -20038,7 +20038,7 @@ Ta p e則利用UV照射後降低黏著力，兼顧切割時固定與挑晶時低
 投資評等定義
 
 ---
-## Document 354: 【國泰證期研究部】旭隼(6409 TT)-中立(+12%)-UPS本業仍具挑戰-20260915
+## Document 362: 【國泰證期研究部】旭隼(6409 TT)-中立(+12%)-UPS本業仍具挑戰-20260915
 
 Source PDF: all report pdf/【國泰證期研究部】旭隼(6409 TT)-中立(+12%)-UPS本業仍具挑戰-20260915.pdf
 Report source: line報告備份
@@ -20408,7 +20408,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 357: 【國泰證期研究部】華邦電(2344 TT)-買進(+27.8%)-華開盛景，節節登巔-20260908
+## Document 365: 【國泰證期研究部】華邦電(2344 TT)-買進(+27.8%)-華開盛景，節節登巔-20260908
 
 Source PDF: all report pdf/【國泰證期研究部】華邦電(2344 TT)-買進(+27.8%)-華開盛景，節節登巔-20260908.pdf
 Report source: line報告備份
@@ -20842,7 +20842,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 468: 凱基投顧_Takeaway_7828 創新服務_許芝瑄_20260910
+## Document 480: 凱基投顧_Takeaway_7828 創新服務_許芝瑄_20260910
 
 Source PDF: all report pdf/凱基投顧_Takeaway_7828 創新服務_許芝瑄_20260910.pdf
 Report source: line報告備份
@@ -20972,7 +20972,7 @@ CapEx 負擔不高
 九月 10, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 4
 
 ---
-## Document 470: 凱基投顧_Takeaway_7942 東佑達_莊政翰_20260910
+## Document 482: 凱基投顧_Takeaway_7942 東佑達_莊政翰_20260910
 
 Source PDF: all report pdf/凱基投顧_Takeaway_7942 東佑達_莊政翰_20260910.pdf
 Report source: line報告備份
@@ -21107,7 +21107,7 @@ Apple 供應鏈轉移、 泰國則服務當地日系車廠、瑞典以供應零�
 九月 10, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R   4
 
 ---
-## Document 474: 凱基投顧_半導體產業_潘俊宏_20260915
+## Document 486: 凱基投顧_半導體產業_潘俊宏_20260915
 
 Source PDF: all report pdf/凱基投顧_半導體產業_潘俊宏_20260915.pdf
 Report source: line報告備份
@@ -21586,7 +21586,7 @@ Dividend yield (%)Company Code EPS (LCY) PER (x) PBR (x) ROE (%)
 免責聲明
 
 ---
-## Document 530: 富邦-2762 世界健身-KY-20260914
+## Document 542: 富邦-2762 世界健身-KY-20260914
 
 Source PDF: all report pdf/富邦-2762 世界健身-KY-20260914.pdf
 Report source: line報告備份
@@ -21873,7 +21873,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 538: 康和-5243 乙盛-KY-20260914
+## Document 550: 康和-5243 乙盛-KY-20260914
 
 Source PDF: all report pdf/康和-5243 乙盛-KY-20260914.pdf
 Report source: line報告備份
@@ -22167,7 +22167,7 @@ EPS以股本168.5百萬股計算
 投 資 結 果 自 行 負 責 。
 
 ---
-## Document 630: 統一-2034 允強-20260914
+## Document 649: 統一-2034 允強-20260914
 
 Source PDF: all report pdf/統一-2034 允強-20260914.pdf
 Report source: line報告備份
@@ -22435,7 +22435,7 @@ ainReport/data/FileStream?id=c38172c5-0c9d-
 請參見末頁重要批露及免責聲明  7
 
 ---
-## Document 653: 聖暉(5536,B_買進)-CTBC260908
+## Document 672: 聖暉(5536,B_買進)-CTBC260908
 
 Source PDF: all report pdf/聖暉(5536,B_買進)-CTBC260908.pdf
 Report source: line報告備份

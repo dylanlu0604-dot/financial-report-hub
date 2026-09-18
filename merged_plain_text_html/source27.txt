@@ -14208,7 +14208,7 @@ A
 2024 2025 2026
 
 ---
-## Document 148: 6279胡連 永豐
+## Document 147: 6279胡連 永豐
 
 Source PDF: all report pdf/6279胡連 永豐.pdf
 Report source: line報告備份
@@ -14539,7 +14539,7 @@ S：Sell 賣出：未來 6 個月該股票表現將落後大盤
 7
 
 ---
-## Document 161: 7788松川 統一
+## Document 160: 7788松川 統一
 
 Source PDF: all report pdf/7788松川 統一.pdf
 Report source: line報告備份
@@ -14830,7 +14830,7 @@ YoY
 請參見末頁重要批露及免責聲明  8
 
 ---
-## Document 166: 8358金居 群益
+## Document 165: 8358金居 群益
 
 Source PDF: all report pdf/8358金居 群益.pdf
 Report source: line報告備份
@@ -15463,7 +15463,7 @@ B+
 2024 2025 2026
 
 ---
-## Document 252: GFHK - Apple update
+## Document 256: GFHK - Apple update
 
 Source PDF: all report pdf/GFHK - Apple update.pdf
 Report source: line報告備份
@@ -15719,7 +15719,7 @@ Without the prior written con sent obtained from GF Securities (Hong Kong) Broke
 reproduced or (ii) be re-disseminated.
 
 ---
-## Document 348: 【國泰證期研究部】4Q26 半導體產業展望-BSPDN與VPD是供電架構升級主軸-20260908
+## Document 356: 【國泰證期研究部】4Q26 半導體產業展望-BSPDN與VPD是供電架構升級主軸-20260908
 
 Source PDF: all report pdf/【國泰證期研究部】4Q26 半導體產業展望-BSPDN與VPD是供電架構升級主軸-20260908.pdf
 Report source: line報告備份
@@ -15966,7 +15966,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 351: 【國泰證期研究部】中碳(1723TT)-買進轉中立(+8.0%)-碳材料成長仍待觀察-20260910
+## Document 359: 【國泰證期研究部】中碳(1723TT)-買進轉中立(+8.0%)-碳材料成長仍待觀察-20260910
 
 Source PDF: all report pdf/【國泰證期研究部】中碳(1723TT)-買進轉中立(+8.0%)-碳材料成長仍待觀察-20260910.pdf
 Report source: line報告備份
@@ -16346,7 +16346,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 352: 【國泰證期研究部】富世達(6805 TT)-買進(+27.6%)-液冷升級，富勢續揚-20260909
+## Document 360: 【國泰證期研究部】富世達(6805 TT)-買進(+27.6%)-液冷升級，富勢續揚-20260909
 
 Source PDF: all report pdf/【國泰證期研究部】富世達(6805 TT)-買進(+27.6%)-液冷升級，富勢續揚-20260909.pdf
 Report source: line報告備份
@@ -16752,7 +16752,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 446: 元富-9910 豐泰-20260914-公司拜訪
+## Document 457: 元富-9910 豐泰-20260914-公司拜訪
 
 Source PDF: all report pdf/元富-9910 豐泰-20260914-公司拜訪.pdf
 Report source: line報告備份
@@ -16909,7 +16909,7 @@ Operating 4.0 5.9 7.2 7.6 8.4 8.9 6.2 7.4
 Net 3.5 5.0 4.8 5.7 6.7 6.0 4.8 5.6
 
 ---
-## Document 452: 凱基投顧_1504 東元_鄭宇宏_20260911
+## Document 464: 凱基投顧_1504 東元_鄭宇宏_20260911
 
 Source PDF: all report pdf/凱基投顧_1504 東元_鄭宇宏_20260911.pdf
 Report source: line報告備份
@@ -17695,7 +17695,7 @@ Recommendations & Target Price
 資料來源：TEJ，凱基
 
 ---
-## Document 459: 凱基投顧_8046 南電_林祐熙_20260914
+## Document 471: 凱基投顧_8046 南電_林祐熙_20260914
 
 Source PDF: all report pdf/凱基投顧_8046 南電_林祐熙_20260914.pdf
 Report source: line報告備份
@@ -18476,7 +18476,7 @@ Recommendations & Target Price
 資料來源：TEJ，凱基
 
 ---
-## Document 463: 凱基投顧_Takeaway_3605 宏致_張燾_20260917
+## Document 475: 凱基投顧_Takeaway_3605 宏致_張燾_20260917
 
 Source PDF: all report pdf/凱基投顧_Takeaway_3605 宏致_張燾_20260917.pdf
 Report source: line報告備份
@@ -18588,7 +18588,7 @@ Energy (美)。
 九月 17, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 3
 
 ---
-## Document 465: 凱基投顧_Takeaway_5306 桂盟_莊政翰_20260910
+## Document 477: 凱基投顧_Takeaway_5306 桂盟_莊政翰_20260910
 
 Source PDF: all report pdf/凱基投顧_Takeaway_5306 桂盟_莊政翰_20260910.pdf
 Report source: line報告備份
@@ -18684,7 +18684,7 @@ eden.chang@kgi.com
 九月 10, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 3
 
 ---
-## Document 473: 凱基投顧_Takeaway_9921 巨大_莊政翰_20260910
+## Document 485: 凱基投顧_Takeaway_9921 巨大_莊政翰_20260910
 
 Source PDF: all report pdf/凱基投顧_Takeaway_9921 巨大_莊政翰_20260910.pdf
 Report source: line報告備份
@@ -18820,7 +18820,7 @@ bike 滲透率僅 10-30%，歐洲整體仍有龐大長線增長空間。
 九月 10, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 4
 
 ---
-## Document 475: 凱基投顧_美國運動休閒產業_劉昃恩_20260909
+## Document 487: 凱基投顧_美國運動休閒產業_劉昃恩_20260909
 
 Source PDF: all report pdf/凱基投顧_美國運動休閒產業_劉昃恩_20260909.pdf
 Report source: line報告備份
@@ -19480,7 +19480,7 @@ Dick's Sporting Goods
 免責聲明
 
 ---
-## Document 490: 南亞(1303,B_買進)-CTBC260918
+## Document 501: 南亞(1303,B_買進)-CTBC260918
 
 Source PDF: all report pdf/南亞(1303,B_買進)-CTBC260918.pdf
 Report source: line報告備份
@@ -19886,7 +19886,7 @@ ESG 資訊 ─公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 508: 國票-2605 新興-20260914
+## Document 520: 國票-2605 新興-20260914
 
 Source PDF: all report pdf/國票-2605 新興-20260914.pdf
 Report source: line報告備份
@@ -20298,7 +20298,7 @@ $45
 • 國票可能與該公司進行業務而處於緘默期
 
 ---
-## Document 567: 昇陽半(8028,B_買進)-CTBC260915
+## Document 582: 昇陽半(8028,B_買進)-CTBC260915
 
 Source PDF: all report pdf/昇陽半(8028,B_買進)-CTBC260915.pdf
 Report source: line報告備份
@@ -20566,7 +20566,7 @@ ESG 資訊 - 公司治理 (Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 578: 欣銓(3264,B_買進)-CTBC260918
+## Document 594: 欣銓(3264,B_買進)-CTBC260918
 
 Source PDF: all report pdf/欣銓(3264,B_買進)-CTBC260918.pdf
 Report source: line報告備份
@@ -20869,7 +20869,7 @@ ESG 資訊 - 公司治理 (Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 590: 浮水[元大]TSMC CoPoS供應鏈進展_高精細TGV 玻璃芯基板打破 AI 算力瓶頸量產供應鏈組合_2026090
+## Document 608: 浮水[元大]TSMC CoPoS供應鏈進展_高精細TGV 玻璃芯基板打破 AI 算力瓶頸量產供應鏈組合_2026090
 
 Source PDF: all report pdf/浮水[元大]TSMC CoPoS供應鏈進展_高精細TGV 玻璃芯基板打破 AI 算力瓶頸量產供應鏈組合_2026090.pdf
 Report source: line報告備份
