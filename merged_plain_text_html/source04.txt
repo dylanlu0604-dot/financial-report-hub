@@ -3,91 +3,1061 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 216: Cliff Notes_ frayed nerves unsettle expectations (2026-09-18)
+## Document 035: 2026年8月经济数据点评：存量政策效果显现，经济运行总体平稳
 
-Source PDF: all report pdf/Cliff Notes_ frayed nerves unsettle expectations (2026-09-18).pdf
-Report source: Westpac IQ
-Date: 2026-09-18
+Source PDF: all report pdf/2026年8月经济数据点评：存量政策效果显现，经济运行总体平稳.pdf
+Report source: 诚通证券
+Date: 2026-09-16
+Pages: 10
+Extraction status: ok
+
+### Page 1
+
+宏观经济
+存量政策效果显现，经济运行总体平稳
+——2026 年 8 月经济数据点评 宏观点评
+ 摘要：
+8 月，存量政策加快落地，稳增长效果逐渐显现，经济运行总体平稳。
+工业生产加速扩张，当月基建投资降幅收窄。不过，消费、制造业投资、房
+地产投资仍待进一步提振。
+多因素共振下，工业生产加速扩张。8 月，工业生产同比增速 5.2%，高
+于前值 4.5%。其原因有三方面。一是高温多雨天气的干扰消退。二是出口
+同比增长 25%，有效支撑了工业生产。三是“六张网”等存量政策加快落地，
+带动相关制造业生产扩张。其中，出口高增长主要有两方面原因。一方面，
+全球制造业景气度仍比较高。全球制造业 PMI 52.3%，连续 13 个月维持在
+50%以上，中国对主要经济体出口保持较高增速。另一方面，AI 产业链需求
+旺盛。与 AI 产业链相关的高新技术产品、机电产品出口同比增速较高，分
+别为 56.9%、32.8%。年内，全球信用脉冲仍处在向上阶段，全球制造业或
+将保持较高景气度，同时 AI 基建尚未完成，资本开支有望继续扩张，中国
+
+出口或仍保持韧性。加之，存量政策加快落地，我们预计工业生产将基本保
+持稳定。
+存量政策效果显现，当月投资同比降幅收窄。8 月，固定资产投资累计
+同比下降 7.2%，降幅扩大 0.5 个百分点，但当月同比降幅从 13%收窄至 11%，
+主要是因为存量政策效果显现，基建投资当月同比降幅从 11.2%收窄至
+6.9%。由于内需仍待提振，产能利用率处于低位，以及部分行业加强“反内
+卷”，企业经营预期有待改善，暂缓扩张投资，制造业投资累计同比增速从
+-1.7%下降至-2.3%。虽然房地产市场需求结构性改善，但整体商品房销售面
+积累计同比下降 12.1%，降幅扩大 0.3 个百分点。整体库存压力较大，房企
+资金压力仍存，房地产投资累计同比下降 19.9%，降幅扩大 0.7 个百分点。
+消费者信心有待提振，消费修复放缓。8 月，社会消费品零售总额同比
+增速从 0.6%下降至 0.4%，季调环比增速-0.13%，均处于低位。消费修复放
+缓有两方面原因。一方面，居民消费信心有待提振。城镇调查失业率从 5.2%
+
+上升至 5.3%，消费者就业信心指数、收入信心指数均处于低位。另一方面，
+2026 年以旧换新补贴增幅下降，特别是汽车消费补贴退坡幅度较大，加上上
+年以旧换新形成高基数，拖累了以旧换新相关消费同比增速。汽车消费同比
+下降 18.5%。受房地产市场低迷以及高基数影响，建筑及装潢材料消费同比
+下降 11.8%、家具消费同比下降 7.9%。
+ 风险提示：存量政策效果有待增强；房地产市场止跌回稳难度超预期；
+信用创造有待进一步增强；物价改善内生动力仍不足；全球贸易摩擦加剧，
+海外需求出现拐点，出口增速下滑；美联储加息次数高于预期。
+邢曙光（分析师）
+xingshuguang@cctgsc.com.cn
+登记编号：S0280520050003
+相关报告
+《存量政策加快落地，保障经济平稳运
+行》2026-08-18
+《经济运行在合理区间，高质量发展向新
+向优》2026-07-16
+《经济分化，向优向新》2026-06-17
+
+### Page 2
+
+目 录
+1、 多因素共振下，工业生产加速扩张 .................................................................................................................................3
+2、 存量政策效果显现，当月投资同比降幅收窄 .................................................................................................................5
+3、 消费者信心有待提振，消费修复放缓 .............................................................................................................................6
+图表目录
+图 1： 工业生产增速回升 ........................................................................................................................................................ 3
+
+图 2： 出口维持高增长 ............................................................................................................................................................ 3
+图 3： 全球制造业景气度仍较高 ............................................................................................................................................ 4
+图 4： 中国对主要经济体出口保持较高增速 ........................................................................................................................4
+
+图 5： 装备制造业和高技术制造业生产扩张较快 ................................................................................................................4
+图 6： 当月投资同比降幅收窄 ................................................................................................................................................ 5
+图 7： 当月基建投资同比降幅收窄 ........................................................................................................................................ 5
+
+图 8： 制造业投资增速下滑 .................................................................................................................................................... 6
+图 9： 设备工器具购置投资增速较高 .................................................................................................................................... 6
+图 10： 房地产投资降幅扩大 .................................................................................................................................................. 6
+
+图 11： 房价分化 ...................................................................................................................................................................... 6
+图 12： 消费修复放缓 .............................................................................................................................................................. 7
+图 13： 汽车、地产链等消费增速较低 .................................................................................................................................. 7
+
+### Page 3
+
+8 月，存量政策加快落地，稳增长效果逐渐显现，加上出口韧性，经济运行总
+体平稳。工业生产同比增长 5.2%，增速上升 0.7 个百分点。基建投资当月同比降幅
+从 11.2%收窄至 6.9%，整体固定资产投资当月同比降幅从 13%收窄至 11%。不过，
+消费、制造业投资、房地产投资仍待进一步提振。
+1、 多因素共振下，工业生产加速扩张
+8 月，工业生产同比增速 5.2%，高于前值 4.5%。其原因有三方面。一是高温
+多雨天气的干扰消退。二是出口同比增长 25%，有效支撑了工业生产。三是“六张
+网”等存量政策加快落地，带动相关制造业生产扩张。
+图 1： 工业生产增速回升 图 2： 出口维持高增长
+资料来源：Wind，诚通证券研究所 资料来源：Wind，诚通证券研究所
+其中，出口高增长主要有两方面原因。一是全球制造业景气度仍比较高。2023
+年年中以来，海外经济进入疫情后第二个短周期，全球制造业景气度改善，中国出
+口增速触底回升。2026 年 8 月，全球制造业 PMI 52.3%，连续 13 个月维持在 50%
+
+以上。其中，美国 ISM 制造业 PMI 保持在 54.6%的较高水平，欧元区 Markit 制造
+业 PMI 从 51.9%上升至 52.7%，日本 Markit 制造业 PMI 从 54.5%上升至 54.9%。中
+国对主要经济体出口保持较高增速，对美国、韩国、拉美、非洲出口同比增速分别
+从 17.1%、46.6%、13.9%、18.2%上升至 34.4%、49.3%、17.5%、30.9%；对东盟、
+欧盟、日本出口同比增速分别为 30.2%、6.6%、8.2%。
+二是 AI 产业链需求旺盛。与 AI 产业链相关的高新技术产品、机电产品出口同
+比增速较高，分别为 56.9%、32.8%，其中，集成电路出口同比增速更是高达 116.8%。
+半导体重要产地韩国、中国台湾出口同比增速也较高，分别为 68.7%、41%。
+
+### Page 4
+
+图 3： 全球制造业景气度仍较高 图 4： 中国对主要经济体出口保持较高增速
+资料来源：Wind，诚通证券研究所 资料来源：Wind，诚通证券研究所
+分行业看，装备制造业和高技术制造业生产扩张较快。计算机、通信和其他电
+子设备制造业，铁路、船舶、航空航天和其他运输设备制造业，专用设备制造业，
+电气机械及器材制造业，通用设备制造业，汽车制造业生产同比增速较高，分别为
+17.2%、13.4%、11.4%、9.9%、9.8%、8.7%。
+此外，受山西煤矿停产整顿影响，煤炭开采和洗选业生产同比下降 5.6%，降
+幅较大。受房地产投资、基建投资低迷拖累，非金属矿物制品业生产同比下降 4.1%。
+受供给端约束及产能治理影响，有色金属冶炼及压延加工业生产同比下降 4.1%。
+年内，全球信用脉冲仍处在向上阶段，全球制造业或将保持较高景气度，同时
+AI 基建尚未完成，资本开支有望继续扩张，中国出口或仍保持韧性。加之，存量
+政策加快落地，我们预计工业生产将基本保持稳定。
+图 5： 装备制造业和高技术制造业生产扩张较快
+
+资料来源：Wind，诚通证券研究所
+
+### Page 5
+
+2、 存量政策效果显现，当月投资同比降幅收窄
+8 月，固定资产投资累计同比下降 7.2%，降幅扩大 0.5 个百分点，但当月同比
+降幅从 13%收窄至 11%，主要是因为当月基建投资同比降幅收窄。
+存量政策效果显现，基建投资降幅收窄。8 月以来，存量政策加快落地。8 月
+17 日，国务院第十二次全体会议强调，加快落实“六张网”建设实施方案；协同
+推动投资于人和促进消费，加大政策资源倾斜；加快各类政策资金使用进度，尽早
+形成实物工作量。8 月政府债券净融资 1 万亿元。2026 年新型政策性金融工具相关
+实施方案已印发到地方，资金规模达 8000 亿元，较去年增加 3000 亿元。受此影响，
+基建投资当月同比降幅从 11.2%收窄至 6.9%。
+图 6： 当月投资同比降幅收窄 图 7： 当月基建投资同比降幅收窄
+资料来源：Wind，诚通证券研究所 资料来源：Wind，诚通证券研究所
+产能利用率处于低位，制造业投资扩张动力不足。由于内需仍待提振，产能利
+用率处于低位，以及部分行业加强“反内卷”，企业经营预期有待改善，暂缓扩张
+
+投资，制造业投资累计同比增速从-1.7%下降至-2.3%。不过，“两新”政策持续发
+力显效，设备工器具购置投资累计同比增速从 9%上升至 9.3%。新兴产业加快培育
+壮大，高技术产业投资累计同比增长 5.2%，其中信息服务业，航空、航天器及设
+备制造业，电子及通信设备制造业投资分别累计同比增长 22.7%、14.9%、6.9%。
+
+### Page 6
+
+图 8： 制造业投资增速下滑 图 9： 设备工器具购置投资增速较高
+资料来源：Wind，诚通证券研究所 资料来源：Wind，诚通证券研究所
+房地产市场止跌回稳难度较大。虽然房地产市场需求结构性改善，但整体商品
+房销售面积累计同比下降 12.1%，降幅扩大 0.3 个百分点。整体库存压力较大，房
+企资金压力仍存，房地产投资累计同比下降 19.9%，降幅扩大 0.7 个百分点。与此
+同时，房屋新开工面积累计同比下降 24.8%，降幅扩大 0.8 个百分点；房屋施工面
+积累计同比下降 12.8%，降幅扩大 0.1 个百分点。
+房价分化。一线城市房地产价格有所改善，但持续性仍待观察。一线城市二手
+住宅销售价格环比上涨 0.1%，连续 6 个月上涨，不过涨幅收窄 0.1 个百分点。二线
+城市二手住宅销售价格环比下降 0.3%，降幅与 7 月相同。三线城市二手住宅销售
+价格环比下降 0.3%，降幅较 7 月收窄 0.1 个百分点。
+图 10： 房地产投资降幅扩大 图 11： 房价分化
+资料来源：Wind，诚通证券研究所 资料来源：Wind，诚通证券研究所
+
+3、 消费者信心有待提振，消费修复放缓
+8 月，社会消费品零售总额同比增速从 0.6%下降至 0.4%，季调环比增速-0.13%，
+均处于低位。消费修复放缓有两方面原因。一方面，居民消费信心有待提振。8 月
+
+### Page 7
+
+城镇调查失业率从 5.2%上升至 5.3%，消费者就业信心指数、收入信心指数均处于
+低位。另一方面，2026 年以旧换新补贴增幅下降，特别是汽车消费补贴退坡幅度
+较大，加上上年以旧换新形成高基数，拖累了以旧换新相关消费同比增速。
+图 12： 消费修复放缓
+资料来源：Wind，诚通证券研究所
+商品零售总额增长 0.3%，增速下降 0.2 个百分点。其中，汽车消费补贴退坡加
+之高基数，汽车消费同比下降 18.5%。受房地产市场低迷以及高基数影响，建筑及
+装潢材料消费同比下降 11.8%、家具消费同比下降 7.9%。黄金价格波动加大，金银
+珠宝消费同比下降 17.5%。通讯器材消费同比增长 27.3%，是为数不多的高增长商
+品消费，主要是因为以旧换新政策优化实施，加上新一批补贴资金下发，以及学生
+需求集中释放。
+图 13： 汽车、地产链等消费增速较低
+资料来源：Wind，诚通证券研究所
+
+### Page 8
+
+与此同时，服务消费也有所放缓。餐饮消费当月同比增长 1.1%，增速下降 0.3
+个百分点。服务零售额累计增长 4.9%，增速下降 0.1 个百分点，整体稳健，其中通
+讯信息服务类、旅游咨询租赁服务类、文体休闲服务类零售额较快增长。
+
+### Page 9
+
+特别声明
+根据《证券期货投资者适当性管理办法》、《证券经营机构投资者适当性管理实施指引（试行）》规定，诚通
+证券评定此研报的风险等级为 R3（中风险），适用的投资者类别仅限定为专业投资者及风险承受能力为 C3、C4、
+C5 的普通投资者。若您为非专业投资者及风险承受能力低于 C3 的普通投资者，请勿阅读、收藏、接收或使用本研
+报中的任何信息。
+若因适当性不匹配，给您造成不便，烦请见谅！感谢您给予的理解与配合。
+分析师声明
+本报告署名分析师具有中国证券业协会授予的证券投资咨询执业资格并登记为注册分析师，认真审慎、专业严
+谨、独立客观的出具本报告并对报告内容和观点负责。
+分析师的薪酬的任何组成部分无论是在过去、现在及将来均不会与本报告中具体的推荐意见或观点有直接或间
+接的联系。
+投资评级说明
+诚通证券行业评级体系：推荐、中性、回避
+推荐： 未来6－12个月，预计该行业指数表现强于同期市场基准指数。
+中性： 未来6－12个月，预计该行业指数表现基本与同期市场基准指数持平。
+回避： 未来6－12个月，预计该行业指数表现弱于同期市场基准指数。
+
+市场基准指数为沪深 300 指数。
+诚通证券公司评级体系：强烈推荐、推荐、中性、回避
+强烈推荐：未来 6－12 个月，预计该公司股价相对同期市场基准指数涨幅在 20%以上。该评级由分析师给出。
+推荐：未来 6－12 个月，预计该公司股价相对同期市场基准指数涨幅介于 5%－20%。该评级由分析师给出。
+中性：未来 6－12 个月，预计该公司股价相对同期市场基准指数变动幅度介于-5%－5%。该评级由分析师给出。
+回避：未来 6－12 个月，预计该公司股价相对同期市场基准指数跌幅在 5%以上。该评级由分析师给出。
+市场基准指数为沪深 300 指数。
+分析、估值方法的局限性说明
+本报告所包含的分析基于各种假设，不同假设可能导致分析结果出现重大不同。本报告采用的各种估值方法及
+模型均有其局限性，估值结果不保证所涉及证券能够在该价格交易。
+免责声明
+诚通证券股份有限公司经中国证券监督管理委员会批复，已具备证券投资咨询业务资格。
+本报告由诚通证券股份有限公司（以下简称诚通证券）供其机构或个人客户（以下简称客户）使用，诚通证券
+
+本报告所载内容反映的是诚通证券在发表本报告当日的判断，诚通证券可能发出其它与本报告所载内容不一致
+或有不同结论的报告，但诚通证券没有义务和责任去及时更新本报告涉及的内容并通知客户。诚通证券不对因客户
+使用本报告而导致的损失负任何责任。
+对于浏览过程中可能涉及的诚通证券网站以外的地址或超级链接，诚通证券不对其内容负责。链接网站的内容
+不构成本报告的任何部分，客户需自行承担浏览这些网站的费用或风险。
+
+### Page 10
+
+邮编：100020
+公司网址：http://www.cctgsc.com.cn/
+
+---
+## Document 043: 2026年9月7日匯率利率資訊
+
+Source PDF: all report pdf/2026年9月7日匯率利率資訊.pdf
+Report source: Mega Bank (匯率利率資訊)
+Date: 2026-09-07
+Pages: 7
+Extraction status: ok
+
+### Page 1
+
+1  兆豐國際商業銀行 http://www.megabank.com.tw/ 
+ －兆豐國際商業銀行－ 
+匯率利率資訊週報 
+民國一一五年九月七日 
+服務項目 
+(1)即期外匯交易 
+(2)遠期外匯交易 
+(3)外匯保證金交易 
+(4)外幣轉換 
+(5)匯率選擇權  
+(6)外匯定期存款 
+(7)優利投資 
+(8)利率交換 
+(9)換匯換利 
+(10)台幣票券買賣 
+上週美元兌新台幣及主要貨幣收盤價 
+ USD/NTD USD/JPY EUR/USD USD/CNY 
+FIXING 
+Aug/31(Mon) 31.666 159.73 1.1616 6.7828 
+Sep/1(Tue) 31.633 160.17 1.1592 6.7809 
+Sep/2(Wed) 31.728 158.70 1.1587 6.7829 
+Sep/3(Thu) 31.755 155.79 1.1624 6.7807 
+Sep/4(Fri) 31.630 156.24 1.1613 6.7787 
+HIGH 31.827 160.39 1.1641 6.7829 
+LOW 31.590 155.27 1.1565 6.7787
+
+上週公佈的經濟數據：                           本週將公佈的經濟數據： 
+8/31
+
+9/1
+
+9/2
+
+9/3
+
+9/4 
+日本 7 月工業生產指數、零售銷售 
+中國 8 月製造業及非製造業 PMI 
+德國 8 月 CPI 
+日本 8 月製造業 PMI 
+德國 7 月零售銷售 
+法國、德國、英國、歐元區 8 月製造
+業 PMI 
+歐元區 8 月 CPI、7 月失業率 
+美國 8 月 ISM 製造業 PMI、7 月
+JOLTS 職位空缺數 
+澳洲第二季 GDP 
+紐西蘭利率決議 
+美國 8 月非農就業人數 
+法國、德國、英國、歐元區 8 月服務
+業、綜合 PMI、歐元區 7 月 PPI 
+美國 8 月 ISM 非製造業 PMI 
+德國 7 月工廠訂單 
+9/7
+
+9/8
+
+9/9
+
+9/10
+
+9/11 
+德國 7 月工業生產 
+歐元區 9 月投資者信心指數 
+歐元區第二季 GDP  
+英國 8 月 BRC 零售銷售 
+日本第二季 GDP、7 月經常帳、 
+澳洲 9 月消費者信心指數 
+德國 7 月進出口和貿易收支 
+臺灣 8 月 CPI 和 PPI 
+日本 9 月短觀製造業景氣判斷指數 
+韓國 8 月失業率 
+中國 8 月 CPI 和 PPI 
+臺灣 8 月貿易收支 
+德國 8 月 CPI 和 HICP 終值 
+日本 8 月國內企業物價指數 
+美國 8 月 CPI 
+美國 9 月密西根大學消費者信心指數
+
+### Page 2
+
+2  兆豐國際商業銀行 http://www.megabank.com.tw/
+上週重要市場資訊
+⚫ 上周三美國公布 8 月民間就業人數僅增加 3.8 萬人，低於市場預期的 4.8 萬人。
+教育與醫療服務業新增 4.5 萬人，但製造業減少 1.7 萬人，專業與商業服務業
+也出現萎縮 。 這反映出民間部門招聘動能放緩 ， 尤其是製造業與專業服務業的疲
+弱。美元指數至高點回落 ， 惟上周五美國公布8 月非農就業人數新增 16.2 萬人 ，
+遠超預期的 5.6 萬人 ，失業率維持在4.1%；勞動參與率回升至 61.6%， 平均工時
+延長至 34.4 小時 ， 顯示勞動市場的韌性 。 雖然薪資增幅僅3.1%， 通膨壓力有限 ，
+但強勁的就業數據仍強化了市場對美聯儲加息的預期 。 芝商所 FedWatch 工具顯
+示，9 月加息機率已升至 62%，美元指數止跌回穩。
+⚫ 紐西蘭央行上週三將官方隔夜拆款利率調升 25bps 至 2.75%， 並釋出緩步緊縮訊
+號。央行聲明指出，逐步撤回貨幣政策刺激有助於通膨回到 2%目標中點，同時
+
+降低未來大幅升息的必要性 。 總裁佈雷曼強調 ， 升息時機仍高度不確定 ， 短期核
+心通膨可能續升 ， 但逐步退出寬鬆政策仍屬合宜 。 央行亦提醒經濟存在顯著下行
+風險，政策將保持漸；然而消息公布後紐幣大跌，主因 2027 年利率預測較原先
+預期低。
+⚫ 加拿大央行上週三維持政策利率在 2.25%不變 ， 但警告通膨風險升高 。 美國新關
+稅增加經濟不確定性 ， 或使企業延後投資與招聘 。 總裁麥克勒姆表示 ， 關稅對整
+體經濟影響有限 ， 但中東戰事與高油價可能推升物價壓力 。 央行強調需警惕外部
+因素對通膨的擴散效應，加拿大幣止跌回穩。
+
+### Page 3
+
+3  兆豐國際商業銀行 http://www.megabank.com.tw/
+美元兌新台幣匯率走勢
+Sep/7/2026
+＜上週走勢＞
+上週台幣匯價高點為 31.590，低點在 31.827，以 31.630 作收，較前一週收盤價
+貶值 0.2 分。
+上週台幣先貶後升，週初，聯準會主席華許於全球央行年會發表的鷹派言論強
+化市場對聯準會升息的預期，引發台灣市場股匯雙殺，外資匯出令台幣走貶；週二
+早盤由於台股走升外資匯入，台幣一度走升，惟逢低進口商買美金力道強勁，加以
+投信亦匯出，台幣由升轉貶，不過逢高出口商拋匯，台幣貶幅收斂；週三、周四，
+中東戰事升溫，帶動美元指數走升，外資連續兩日賣超台股共計1390 億，匯出力道
+強勁，台幣貶至周內低點 31.827，惟出口商拋匯需求及央行進場調節，抑制台幣貶
+值空間；臨近周末，受益於美元指數走跌、亞幣走升，台幣止跌回穩，加以外資轉
+向匯入，台幣收復上周大部分跌幅，終場在央行調節之下收在 31.630。
+＜未來分析＞
+預估本週台幣區間震盪。就國際市場而言，美國勞動力市場尚屬穩健，非農就
+
+業人數遠超預期，勞動參與率回升，令市場對於聯準會升息的預期有所回溫，將給
+予美元指數支撐；就台灣市場來看，台灣 8 月製造業 PMI 54.7，顯示台灣製造業景
+氣續呈大幅擴張，新增訂單持續暢旺，有利台幣表現，惟上週外資賣超台股並於外
+匯市場匯出，將為台幣帶來貶值的壓力。綜合以上，預估本週台幣走勢區間震盪。
+＜預估本週＞ 美元兌台幣：31.500-31.850
+
+### Page 4
+
+4  兆豐國際商業銀行 http://www.megabank.com.tw/ 
+美元兌人民幣匯率走勢  
+Sep/7/2026 
+＜上週走勢＞ 
+    上週人民幣震盪走升。週初，儘管華許鷹派言論提振美元指數，然而中國出口
+商逢匯價反彈結售美金，帶動人民幣震盪走升，惟人民幣中間價升值速度放緩，顯
+示監管單位在地緣政治風險再起的情況下，允許人民幣升值的意願有所降低，抑制
+人民幣升值速度；周間由於人民幣已走升至年內高點附近，升值空間有限，日內人
+民幣整體維持高檔窄幅盤整的格局 ， 週三晚間美國公布ADP 就業人數低於預期 ， 美
+元指數走弱，人民幣受益走升；臨近周末人民幣開出中間價格為 6.7787，升破 6.78
+整數大關並創三年半新高，加以日幣延續升值的態勢，同為亞幣的人民幣亦持續走
+升，終場境外人民幣收在 6.7048，週線升值 264 點，境內人民幣則收在 6.7108，週
+線升值 161 點。  
+＜未來分析＞ 
+     預估本週人民幣區間偏升。國際市場方面，美國非農就業人數遠高預期，顯示
+美國勞動力市場仍具韌性，加以美伊地緣政治風險近來有升溫的現象，油價上彈再
+度引發通膨升溫的擔憂，市場仍持續定價聯準會九月升息的可能性，美元指數有望
+獲得支撐。中國國內方面，人行中間價格接連兩日創近三年新高，釋放人民幣偏強
+信號， 支撐人民幣延續升值的方向 。 技術面方面，USD/CNH 匯價居於各天期均線下
+方，且均線向下發散，加以匯價有效跌破 6.7150 關鍵支撐位，空方動能較盛，顯示
+人民幣將延續升值的態勢。綜合以上，預估本週人民幣走勢偏升。
+
+＜預估本週＞ 美元兌人民幣：6.6800-6.7300
+
+### Page 5
+
+5  兆豐國際商業銀行 http://www.megabank.com.tw/
+
+美元兌日圓匯率走勢  
+         Sep/7/2026
+
+＜上週走勢＞ 
+    上週 USD/JPY 先上後下。週初，因美伊不確定性再次升溫，油價上漲推升通膨
+預期，美元自近期的低點反彈，帶領 USD/JPY 上升到 160 上方；週間，市場對日本
+官方可能採取支撐匯率措施的預期升溫，且傳出日本央行可能在近期會議上宣布升
+息及加快正常化步伐，帶動日圓連續兩天大幅走升；臨近週末，美元指數止穩於年
+線附近，USD/JPY 跌深反彈，終場收在 156.24，週線大跌 381 點。 
+＜未來分析＞ 
+  預估本週 USD/JPY 區間偏空震盪，主要原因如下：一、日圓上週飆升，數據證
+實非官方干預，主因日銀審議委員高田創釋出鷹派信號，市場押注 9 月升息機率達
+75%，疊加聯準會理事沃勒釋放按兵不動傾向 ，美日利差有望縮窄推升日圓。二 、美
+國 8 月非農新增就業達 16.2 萬人遠超預期，帶動9 月升息機率上升至 62%，並強化
+年底前升息兩次之押注。儘管川普發出中斷貿易威脅強推降息，但在就業穩健與主
+席華許偏鷹派立場下，決策焦點全面轉向本週即將公布 CPI 數據，美日利差及油價
+壓力預計將限縮 USD/JPY 下行空間。三、就技術面而言，日線圖中，USD/JPY 在日
+央加速升息的預期下急跌，然匯價於 155 整數關卡止跌，若能有效跌破則可能還有
+一波較大的跌幅。綜合以上，預估USD/JPY 本週呈現區間偏空震盪的可能性較高。 
+＜預估本週＞ 美元兌日幣：154.00-158.00 
+前週交易區間 
+155.27 160.39
+
+### Page 6
+
+6  兆豐國際商業銀行 http://www.megabank.com.tw/
+
+美元兌歐元匯率走勢  
+         Sep/7/2026
+
+＜上週走勢＞ 
+    上週 EUR/USD 震盪走升。週初，歐元跌深反彈，不過在美伊不確定性再次升
+溫及美國利率維持偏高路徑的定價支撐美元需求下，EUR/USD 弱勢整理；週間，市
+場在等待美國就業相關數據公布，歐元持續走落，最低來到 1.1565；臨近週末，美
+國就業數據好於預期，但聯準會官員鴿派言論，加上川普發言使升息預期受抑制，
+帶動歐元先下後上，終場收在 1.1613，週線上漲 33 點。 
+＜未來分析＞ 
+  預估本週 EUR/USD 區間震盪，主要原因如下：一、美國 8 月非農就業增長超
+預期，帶動交易員對聯準會本月重啟升息的押注顯著升溫。對此，美國總統川普上
+週五強烈抨擊高利率使美國陷入劣勢，揚言若聯準會不調降借貸成本，美國將直接
+停止與對美享有貿易順差的國家進行貿易 ， 意圖以極端貿易禁令迫使央行寬鬆。二、
+受能源推動，歐元區 8 月通膨升至 3.3%，但核心通膨降至 2.4%，顯示油價上漲未
+出現進一步滲透至工資、終端服務定價等長期通膨預期的二輪效應。歐洲央行管委
+科赫示警通膨上行風險，強化 9 月升息預期，短線上為歐元提供支撐。三、技術面
+而言 ， 在日線圖中 ，EUR/USD 匯價在多次向下測試 1.1550 的關鍵價位均獲得支撐 ，
+目前承壓於年線但獲得月線支撐。綜合以上，預估 EUR/USD 本週呈現區間震盪的
+可能性較高。 
+＜預估本週＞ 歐元兌美元：1.1540-1.1680 
+前週交易區間 
+1.1565 1.1641
+
+### Page 7
+
+7  兆豐國際商業銀行 http://www.megabank.com.tw/ 
+                         新台幣利率走勢分析
+
+115.08.31-115.09.04 
+銀行隔夜拆款利率 0.805% ~ 0.830%  
+30 天期短票利率   1.66% ~ 1.68% 
+公債－10 年期-A15106   1.90% 
+－ 5 年期- A15108   1.82%
+
+一、 台幣貨幣市場部分，本週邁入新的提存期，因應 9 月有升息預期及季節性用
+款因素 ， 銀行間調度偏保守 ，惟整體市場資金供需仍屬平穩， 令短率持穩於近期
+區間。 
+週四央行標售 364 天期定存單 1200 億元 ， 加權平均得標利率為1.643%， 符合
+市場預期區間 1.64%-1.66%，較上期標售結果上升 1.7 個基本點。 
+週 五 隔 夜 拆 款 利 率 區 間 在 0.805%~0.830% ， 30 天 期 短 票 主 要 成 交 在
+1.66%~1.68%，利率大致持平於上週。 
+二、 本週市場交投清淡，5 年期指標券 A15108 週二搓合成交在 1.82%，10 年期指
+標券 A15106 則未成交，最近成交利率為 1.90%。 
+週二標售 5 年期公債得標利率 1.82%， 落在市場預期區間1.80%~1.82%上緣 ，
+投標倍數 1.57 倍為 2024 年 11 月以來最低 ， 顯示在國際債市氣氛偏空影響下 ，
+市場投標態度謹慎。 
+韓國、日本央行處於升息循環階段、聯準會主席 Warsh 暗示若 PCE 未往 2%
+目標邁進將有升息可能 ， 在台灣經濟成長與通膨維持高位下 ， 台灣央行面臨緊
+縮壓力 ， 加上美伊戰事再度升溫 ， 美債殖利率將呈震盪偏升格局 ， 預期台債殖
+利率將隨美債走勢維持高檔盤整，預估 5 年券區間為 1.80%~1.85%，10 年券
+區間為 1.90%至 1.95%。
+
+---
+## Document 045: 2026年9月FOMCプレビュー ～利上げと据え置きそれぞれのメリット・デメリット～
+
+Source PDF: all report pdf/2026年9月FOMCプレビュー ～利上げと据え置きそれぞれのメリット・デメリット～.pdf
+Report source: DLRI
+Date: 2026-09-08
+Pages: 6
+Extraction status: ok
+
+### Page 1
+
+US Trends
+
+2026 年 9 月 8 日
+
+1/6 
+2026 年 9 月 FOMC プレビュー 
+～利上げと据え置きそれぞれのメリット・デメリット～ 
+ 経済調査部 主席エコノミスト  前田 和馬 
+（℡：050-5473-3888）
+
+（要旨） 
+○ 9 月 FOMC（9/15～16 開催）に関して、9 月 7 日時点の FF 金利先物市場では約 6 割の確率で
+0.25%pt の利上げ、4 割の確率で金利据え置きが織り込まれている。9 月 FOMC における政策
+判断は、9/11 公表の8 月 CPI でインフレの減速傾向が保たれるかに大きく依存する。 
+○ ウォーシュ議長は8 月28 日のジャクソンホール講演において、 「インフレが明確かつ十分な
+速度で2%へ向かわなければ、 やるべき仕事がある」 と述べるなど、9 月FOMC における利上げ
+の可能性を示唆した。一方、ウォラー理事やニューヨーク連銀・ウィリアムズ総裁は利上げ
+に慎重な姿勢を示すなど、現時点において主要メンバー間の見解は統一されていない。 
+○ 8 月 CPI が市場予想通りに着地し FRB が利上げを決定する場合、ウォーシュ議長は「インフ
+レ抑制に向けた強い姿勢」や「金融政策の政治からの独立性」を示すことができよう。しか
+し、11 月に中間選挙を控えるなか、トランプ大統領は利上げ判断を非難する可能性が高い。 
+○ 一方、ウォーシュ発言後に利上げ観測が高まったにもかかわらず政策金利を据え置けば、金
+融市場では FRB のコミュニケーション不信を巡る懸念が強まるだろう。とはいえ、こうした
+言動不一致は FRB 高官発言の重要性を低下させ、ウォーシュ議長の望む「金融市場が自ら景
+気動向を評価する（経済指標を注視する）」状態を形成するのに役立つ可能性もある。 
+○ 今後の政策金利パスを見極めるうえでは、同時に公表されるドットチャートが注目される。
+9 月に利上げに踏み切る場合には今後の利上げペース、金利が据え置かれる場合には 2026～
+27 年における利上げの可能性が意識されるだろう。なお、ウォーシュ議長は 6 月 FOMC と同
+様に自身の予測を提出しない可能性が高い。
+
+### Page 2
+
+2/6 
+・予想が割れる 9 月FOMC 
+9 月FOMC（9/15～16 開催）における政策金利判断は、金融市場の予想が大きく割れている。過
+去 2 か月における9 月FOMCの政策予想をみると（資料 1）、7 月分の雇用統計（8/7 公表）や消費者
+物価指数（8/12）が軟調だったことで据え置き予想が優勢だった一方、ウォーシュ議長のジャク
+ソンホール会議講演（8/28）が予想に反してタカ派だったことで0.25%の利上げ予想が強まった。
+その後、ウォラー理事など他のFRB高官がタカ派の見方に追随しなかったため、利上げ織り込みが
+幾分剥落したものの、8 月雇用統計（9/4）が市場予想を上回ったことで再び利上げ予想が優勢と
+なった。この結果、本稿執筆時点におけるFF金利先物市場（Fed Watch）において、約 6 割の確率
+で 0.25%ptの利上げ、4 割の確率で金利据え置きが織り込まれている。なお、利上げとなれば2023
+年 7 月以来、据え置きとなれば6 会合連続となる。
+
+資料 1： 9 月 FOMC における利上げ織り込み 
+  資料 2：市場が予想する各FOMC における政策金利
+の確率分布（9/7 時点）
+
+出所: CME、FRB、EIA より第一ライフ資産運用経済研究所が作成
+
+8 月地区連銀経済報告（9 月2 日公表：8 月 24 日までの情報に基づく）では前回報告の評価が概
+ね据え置かれた。すなわち「12 地区中10 地区で経済活動は小幅から緩やかに成長した」とまとめ
+られ、消費では高級品や観光、製造業では防衛やデータセンター関連の堅調さがそれぞれ指摘さ
+れた。一方、インフレのペースは「前回報告から8 地区で横ばい、3 地区で減少、1 地区で増加」
+と述べられた。また、雇用は「ごく僅かに増加」と前回表現の「総じて増加」から下方修正され
+た。ただ、これは8 月雇用統計公表前の評価であることに留意が必要だ。8 月の非農業部門雇用者
+数は前月差+16.2 万人と市場予想（+5.5 万人）を大幅に上回ったほか、過去2 か月分も上方修正
+された。この結果、3 か月移動平均では+7.1 万人となるなど、高齢化やデータセンター需要を背
+景に、医療・介護や卸・小売、建設業などで回復の動きが続いている。 
+0
+20
+40
+60
+80
+7/01 8/01 9/01
+据え置き
+利上げ
+(%) ① ② ③ ④ ⑤⑥
+①7月FOMC ②7月雇用統計 ③7月CPI
+④ウォーシュ講演 ⑤ウォラー講演 ⑥8月雇用統計
+42
+31
+16 12 8 6
+58
+54
+43
+36
+27 24
+16
+34
+36
+36
+35
+8
+14
+22
+24
+6 9
+0
+20
+40
+60
+80
+100
+9/16 10/28 12/9 1/27 3/17 4/28
+4.75-5.00%
+4.50-4.75%
+4.25-4.50%
+4.00-4.25%
+3.75-4.00%
+3.50-3.75%
+(%)
+
+### Page 3
+
+3/6 
+9 月FOMCまでには9/10 に 8 月生産者物価指数（PPI）、9/11 に8 月消費者物価指数（CPI）、9/16
+に 8 月小売売上高が公表される。最大の注目は8 月CPIであり、市場予想は総合指数が前月比
++0.4%（7 月実績：+0.1%）とガソリン価格を中心に加速する一方、食料とエネルギーを除くコア指
+数は+0.2%（同+0.2%）と横ばい圏の推移が見込まれている。コアCPIが市場予想を上回り8 月コア
+PCE（9/30 公表）においてもインフレ加速が見込まれる場合、9 月FOMCにおける利上げ織り込みが
+進むだろう。一方、過去2 か月と同様にインフレの減速傾向が確認されれば、据え置き予想がや
+や強まる可能性がある。
+
+・ウォーシュ議長のタカ派シフト 
+7 月FOMCは 5 会合連続で政策金利が据え置かれ、声明文における景気・物価判断は前回から変更
+がなかった。すなわち、経済活動は「中東紛争による不確実性の高まりにも関わらず、経済活動は
+堅調なペースで拡大」 、 労働市場は 「雇用増は労働力人口の拡大と歩調を合わせており、 失業率はほ
+ぼ変化していない」 、物価は「インフレ率は+2%目標と比べて高止まりしている。この背景には供給
+ショックがエネルギーを含む一部のセクターの物価を押し上げていることがある」 と、 それぞれま
+とめられた。本稿執筆時点において、こうした評価を大幅に変えうる材料は特段見当たらない。 
+一方、ウォーシュ議長はジャクソンホール講演（8/28）において、8 月分の物価指標の結果が良
+好でなければ9 月FOMCで利上げに踏み切る可能性を示唆した。 具体的には、自身の発言がフォワー
+ドガイダンスではないと前置きしたうえで、 「今夏のPCEとCPIは予想よりも良好だった一方、基調
+的なインフレが大きく改善したとは思えない」や「基調的なインフレが目標に向かって明確かつ十
+分なスピードで進展しないならば、やるべきことがある」と述べた。ウォーシュ議長が利上げを提
+案する場合、7 月FOMCでも利上げを主張した3 名の地区連銀総裁のほか（クリーブランド連銀のハ
+マック総裁、 ミネアポリス連銀のカシュカリ総裁、 ダラス連銀のローガン総裁） 、 バー理事やクック
+理事などの多くの執行部メンバーがこれに同調する可能性が高い。 
+一方、利上げに慎重な向きも残る。9/2 にニューヨーク連銀のウィリアムズ総裁はインフレの緩
+やかな鈍化傾向がみられるとし、現状の政策金利が適切な水準にあると指摘した。また、9/3 には
+ウォラー理事が、一部品目の推計手法変更がコアPCEインフレ率の下方修正に繋がる可能性を指摘
+したうえで、「インフレ率が目標に向けて進展していることを確認できれば、政策金利の据え置き
+を支持する」と主張した。仮に 9 月FOMCにて利上げが決定される場合においても、ウォラー理事や
+ボウマン理事は据え置きを主張し反対票を投じる可能性がある。
+
+・それぞれの判断に対するメリデメ 
+9 月FOMCの政策判断は今後公表される8 月分の物価指標に大きく依存する。一方、仮に物価動向
+が概ね市場予想と一致する場合、9 月の政策判断は次のような意味合いを持つだろう。 
+まず、利上げへと踏み切る場合、FRBは物価安定を重視する姿勢を改めて示すことができる。特に
+足下でインフレ減速の兆しがみられるなか、基調的なインフレトレンドの低下が十分でないとして
+利上げに踏み切ることは、FRBがインフレ抑制を重視する姿勢を鮮明にする。 また、 ウォーシュ議長
+
+### Page 4
+
+4/6 
+は利下げを求めるトランプ政権への配慮から利上げに否定的との見方 が就任以前からあるものの、
+9 月FOMCでの利上げはこうした見方を払しょくし、金融政策判断の政治的独立性を示すだろう。も
+っとも、11 月の中間選挙を控えるなかでの利上げはトランプ政権の批判を招く可能性が高い。実
+際、9/4 にトランプ大統領は 「米国の金利はどの国よりも低くあるべき」 、 バンス副大統領は 「イン
+フレ指標は利下げを正当化する内容」とそれぞれ主張している。 
+一方、政策金利を据え置く場合、 ウォーシュ議長のジャクソンホール講演を受けて利上げ観測が
+高まっただけに、金融市場ではFRBのコミュニケーション手法に対する不信感を強めるだろう。ウ
+ォーシュ議長は「インフレの明確かつ十分な進展」の基準を明言したわけではないが、一般論とし
+て考えると、8 月分の物価指標がインフレ鈍化を明確に示す内容でなければ、据え置き判断との整
+合性は取りにくい。また、金利据え置きは「ウォーシュ議長がトランプ政権に配慮し利上げに踏み
+切れない」との見方を強めることになる。とはいえ、 据え置きの場合には金融市場がFRB高官発言へ
+の注目度を低下させるとみられ、これはウォーシュ議長が望む「金融市場がFRB高官の発言を過度
+に気にするのではなく、自ら景気・物価動向を判断する」状態に近づける効果を持つ。
+
+・ドットチャートの示す政策パス 
+ 9 月FOMC後には四半期経済見通し （SEP）が公表される。 前回6 月時点の政策金利見通し （ドット
+チャートの中央値）は、2026 年が 3.75%（0.5 回の利上げ） 、27 年は 3.625%（0.5 回の利下げ；現
+在の金利水準）、28 年は3.375%（1 回の利下げ）となり、前回 3 月FOMC（2026～27 年にそれぞれ1
+回ずつの利下げを予想）から上方修正された。仮に9 月FOMCで利上げへと踏み切る場合、今後の焦
+点は追加的な利上げの有無やその回数に移行する。例えば、7 月FOMCで利上げを主張したダラス連
+銀のローガン総裁は「短期的に控えめな利上げ」に言及する一方、ミネアポリス連銀のカシュカリ
+総裁は複数回の利上げの可能性を指摘している。 このため、新たなドットチャートでは、26～27 年
+における追加の利上げ回数、28 年に利下げサイクルへ戻るのか否か、さらに旺盛なAI投資を背景に
+中立金利（longer run）の上昇が示唆されるのか、などが注目される。一方、9 月FOMCが据え置き
+判断となる場合、26～27 年において利上げを予想するタカ派と据え置きを見込むハト派の分布が
+焦点となるだろう。
+
+### Page 5
+
+5/6 
+資料 3： FOMC メンバーの経済見通し  資料4：6 月時点のドットチャート
+
+出所: FRB、フィラデルフィア連銀より第一ライフ資産運用経済研究所作成
+
+・FRB高官発言 
+講演日 高官 内容 
+7/31
+
+ダラス連銀 
+ローガン総裁* 
+7月FOMCで利上げを主張した理由として、インフレ率が+2%に回帰す
+る軌道にはなく、金融引締めなしではインフレ高止まりが続くと主
+張し、短期的に控えめな利上げを求めた 。また、現在の緩やかな引
+き締めが、将来の急激な引き締めの可能性を低下させると述べた
+
+ミネアポリス連銀 
+カシュカリ総裁* 
+7月FOMCで利上げを主張した背景として、 「供給ショックは見過ごす
+べきとの考えに概ね賛同する一方、インフレ長期化に繋がりうる一
+連の供給ショックに対して、金融政策は重要な役割を果たす」と主
+張した。また、インフレが高止まりする場合、複数回の利上げを実
+施すべきとの見解を示した 
+8/27 
+クリーブランド連銀 
+ハマック総裁* 
+インフレの高止まりが続いており、2027年もインフレ率が良くても
+2%台半ばまでしか低下しないとの自身の予測に基づくと、現時点で
+利上げを実施すべきとの考えを示した 
+2026 2027 2028 長期 2026 2027 2028
+2.2 2.3 2.2 2.0 2.1 2.2 2.1
+(2.4) (2.3) (2.1) (2.0) (2.2) (1.9) (2.2)
+4.3 4.3 4.2 4.2 4.3 4.3 4.2
+(4.4) (4.3) (4.2) (4.2) (4.4) (4.5) (4.4)
+3.6 2.3 2.0 2.0 3.6 2.3 2.1
+(2.7) (2.2) (2.0) (2.0) (3.6) (2.3) (2.2)
+3.3 2.5 2.1 - 3.3 2.4 2.2
+(2.7) (2.2) (2.0) - (3.3) (2.4) (2.1)
+3.8 3.6 3.4 3.1 - - -
+(3.4) (3.1) (3.1) (3.1) - - -
+政策金利
+PCE
+インフレ
+F O M C メ ン バ ー 民間予測
+実質GDP
+成長率
+失業率
+コアPCE
+インフレ
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+2026 2027 2028 Longer
+run
+(%)
+
+### Page 6
+
+本資料は情報提供を目的として作成されたものであり、投資勧誘を目的としたものではありません。作成時点で、第一ライフ資産運用
+経済研究所が信ずるに足ると判断した情報に基づき作成していますが、その正確性、完全性に対する責任は負いません。見通しは予告
+なく変更されることがあります。また、記載された内容は、第一生命保険ないしはその関連会社の投資方針と常に整合的であるとは限
+りません。 
+6/6
+
+ボストン連銀 
+コリンズ総裁 
+足下のインフレ指標は利上げを促すものではないと指摘したほか、
+ベースシナリオとしてインフレの緩やかな低下を予想すると述べ
+た。一方、インフレに進展が見られない場合は利上げが適切との考
+えを示した
+
+カンザスシティ連銀 
+シュミッド総裁 
+「インフレは頑固で粘着的」とし、現行の政策金利は抑制的ではな
+いと指摘した。 一方、9月で利上げを支持するかを巡っては 「もう少
+し情報が必要」と述べるなど、データを注視する姿勢を示した 
+8/28 ウォーシュ議長* 
+「今夏のPCEとCPIは予想よりも良好だった一方、基調的なインフレ
+が大きく改善したとは思えない」 や「総合的にみて、広範な金融環
+境を制約的とみるのは難しい」 と述べるなど、現行の政策金利がイ
+ンフレ抑制に適切ではない可能性を示唆した。また、コミュニケー
+ション手法を巡っては「平時において、フォワードガイダンスの役
+割は限定的かつ制限されるべき」と従来の主張を繰り返した 
+9/1 バー理事* 
+「インフレは5年以上にわたり高止まりしている」と述べ、9月FOMC
+において「インフレ率が十分に鈍化しているようにみえない場合、
+断固として利上げを行うべき」と明言した 
+9/2 
+ニューヨーク連銀 
+ウィリアムズ総裁* 
+インフレは緩やかな低下傾向にあり、現行の政策金利は「適切な水
+準」と述べるなど、9月FOMCで様子見姿勢をとる可能性を示唆した。
+また、足下の長期金利上昇はAI投資需要などの強い経済を反映して
+いるとの見方を示した 
+9/3 ウォラー理事* 
+9月FOMCにおける政策判断は 8月のインフレ動向に強く依存すると
+し、「2%目標への進展が継続するならば、現状維持を支持する」と
+述べた。 また、FRBの政策反応関数をどのようにコミュニケーション
+するかを巡って、野球の球審のように完璧なストライクゾーンでは
+なく「大まかな目安」を示す必要性を主張した 
+注：*は 2026 年に投票権を持つFOMC メンバー。 
+出所: FRB、各地区連銀HP、各種報道より第一ライフ資産運用経済研究所作成 
+以 上
+
+---
+## Document 048: 2026年9月日銀短観予想
+
+Source PDF: all report pdf/2026年9月日銀短観予想.pdf
+Report source: Unknown
+Date: 未知日期
+Pages: 3
+Extraction status: ok
+
+### Page 1
+
+日本
+
+株式会社大和総研 丸の内オフィス 〒100-6756 東京都千代田区丸の内一丁目 9 番1 号 グラントウキョウ ノースタワー 
+このレポートは投資勧誘を意図して提供するものではありません。このレポートの掲載情報は信頼できると考えられる情報源から作成しておりますが、その正確性、完全
+性を保証するものではありません。また、記載された意見や予測等は作成時点のものであり今後予告なく変更されることがあります。㈱大和総研と大和証券㈱は、㈱大和
+証券グループ本社を親会社とする大和証券グループの会社です。内容に関する一切の権利は㈱大和総研にあります。無断での複製・転載・転送等はご遠慮ください。
+
+2026 年9 月9 日 全 3 頁
+
+2026 年 9月日銀短観予想 
+AI・半導体需要で製造業は改善、非製造業はコスト増で悪化を予想
+
+経済調査部 エコノミスト 中村 華奈子
+
+[要約] 
+ 2026 年10 月1 日に公表予定の9 月日銀短観において、大企業製造業の業況判断DI（最
+近）は＋25％pt（前回調査からの変化幅：＋3％pt）、同非製造業では＋34％pt（同：
+▲3％pt）を予想する。 
+ 大企業製造業では、半導体・AI 関連需要の好調さなどを背景に、素材・加工業種とも
+に景況感が改善するとみられる。 「化学」 「非鉄金属」 「電気機械」など多くの業種で業
+況判断 DI（最近）の上昇を予想する。他方、 「自動車」など一部業種は低下を見込む。 
+ 大企業非製造業では、 幅広い業種で景況感の悪化を予想する。「小売」 「宿泊・飲食サ
+ービス」などでは、仕入価格やエネルギーコストの増加などが、 「建設」 「不動産」で
+は金利上昇に伴う資金調達コストの増加などが、景況感を下押ししたとみている。 
+ 2026 年度の設備投資計画（全規模全産業、含む土地、ソフトウェアと研究開発投資額
+は含まない）は前年度比＋7.9％と、前回調査からの上方修正を予想する。省力化投資
+や更新投資に加え、能力増強や半導体関連投資の需要は引き続き強く、企業の設備投
+資意欲は堅調さを維持するだろう。
+
+図表 1：業況判断 DI の予想
+
+変化幅 変化幅 変化幅
+ 大企業 製造業 17　 22　 5　 17　 25　 3　 26　 1　
+非製造業 36　 37　 1　 28　 34　 ▲3　 32　 ▲2　
+ 中小企業 製造業 7　 9　 2　 2　 10　 1　 10　 0　
+非製造業 16　 15　 ▲1　 8　 11　 ▲4　 9　 ▲2　
+（注）先行き（予想）の変化幅は、業況判断DI（最近、予想）からの変化幅。
+（出所）日本銀行統計より大和総研作成
+（DI、％pt）
+2026年
+3月調査
+（最近）
+2026年6月調査 2026年9月調査（予想）
+最近 先行き 最近 先行き
+(注)
+
+### Page 2
+
+1
+
+2 / 3
+
+【業況判断 DI（最近） 】AI需要で製造業は改善/コスト増で非製は悪化を予想 
+2026 年 10 月 1 日に公表予定の 9 月日銀短観において、大企業製造業の業況判断DI（最近）
+は＋25％pt（前回調査からの変化幅：＋3％pt）、同非製造業では＋34％pt（同：▲3％pt）を
+予想する（図表1）。 
+製造業では、半導体・AI 関連需要の好調さを背景に、素材・加工業種ともに景況感の改善を
+予想する。他方、非製造業では、中東情勢を背景としたコスト増の継続に加え、6 月の利上げ
+の影響もあり資金調達コストの増加が景況感の重石となったとみている。 
+大企業製造業のうち「素材業種」では、半導体・AI関連需要の拡大や価格転嫁の進展を背景
+に「化学」や「非鉄金属」で業況判断 DI（最近）の上昇を見込む。 「繊維」や「紙・パルプ」
+でも景況感の改善を予想する。他方、 「窯業・土石製品」ではエネルギーコストの増大が収益
+を圧迫し、景況感を下押ししたとみている。 「加工業種」では、AI・半導体関連需要を受けて
+「電気機械」で業況判断 DI（最近）の上昇を見込む。また「食料品」では、原材料価格や物流
+費が上昇する中でも価格転嫁の進展や底堅い需要を背景に、景況感が改善したと予想する。他
+方、輸出台数や国内販売台数の伸び悩みから、 「自動車」は業況判断DI（最近）の低下を見込
+む。 
+大企業非製造業では、 「小売」や「対個人サービス」、 「宿泊・飲食サービス」などで景況感
+の悪化を予想する。中東情勢を背景とした仕入価格やエネルギーコストの増加が収益を一段と
+圧迫したほか、物価高を背景とした節約志向が販売の重石となったとみている。また、 「建設」
+や「不動産」でも業況判断 DI（最近）の低下を見込む。労務費や建設資材価格の上昇に加えて、
+6 月の利上げの影響もあり、金利上昇に伴う資金調達コストの増加が事業環境の重石となった
+とみられる。
+
+図表2：日銀短観業況判断DI（大企業）とロイター短観
+
+（注）白抜きは大和総研予想。シャドーは景気後退期。
+（出所）日本銀行、内閣府、LSEGより大和総研作成
+-80
+-60
+-40
+-20
+0
+20
+40
+05 10 15 20 25
+ロイター短観 日銀短観
+（DI、％pt） 【製造業】
+（年）
+-80
+-60
+-40
+-20
+0
+20
+40
+05 10 15 20 25
+ロイター短観 日銀短観
+（DI、％pt） 【非製造業】
+（年）
+
+### Page 3
+
+1
+
+3 / 3
+
+【業況判断 DI（先行き） 】製造業の改善、非製造業の悪化は継続する見込み 
+9 月日銀短観では、大企業製造業の業況判断 DI（先行き）は＋26％pt（最近からの変化幅：
+＋1％pt）、同非製造業は＋32％pt（同：▲2％pt）を予想する（前掲図表 1） 。 
+大企業製造業では、AI・半導体関連需要が引き続き企業の景況感を押し上げるとみている。
+加工業種では「電気機械」や「はん用機械」 、 「金属製品」などで業況判断DI（先行き）の上昇
+を見込むほか、 「食料品」でも価格転嫁の進展などを背景に改善を予想する。素材業種では、
+「石油・石炭製品」や「窯業・土石製品」 、 「繊維」などの業種で景況感の改善を見込む。大企
+業非製造業では、各種コストの高止まりや金利上昇観測 1が重石となり、幅広い業種で業況判
+断 DI（先行き）が低下するとみられる。 「建設」や「不動産」で業況判断DI（先行き）の低下
+を見込むほか、 「小売」や「運輸・郵便」などの業種でも、先行きの悪化を予想する。
+
+【設備投資計画】2026 年度計画：前年度比＋7.9％と予想 
+2026 年度の設備投資計画（全規模全産業、含む土地、ソフトウェアと研究開発投資額は含ま
+ない）は前年度比＋7.9％と、前回調査からの上方修正を予想する（図表 3） 。人手不足対応の
+ための省力化投資や更新投資に加え、能力増強や半導体関連投資の需要が引き続き強く、企業
+の設備投資意欲は堅調さを維持していると見込まれる。中東情勢の悪化等に伴う原材料価格の
+高騰は企業の投資判断を慎重化させ得るが、価格転嫁の進展から、コスト増による収益への影
+響は限定的なものにとどまるだろう（図表4） 。 
+図表3：設備投資計画
+
+（注）含む土地投資額、ソフトウェア投資額と研究開
+発投資額は含まない。 
+（出所）日本銀行統計より大和総研作成
+
+図表 4：設備投資計画の修正過程（全規模全
+産業）
+
+（注）26 年度の直近値は大和総研予想。含む土地投資
+額、ソフトウェア投資額と研究開発投資額は含まな
+い。 
+（出所）日本銀行統計より大和総研作成
+
+1 2026年9月短観の回収基準日は9月9日であり、9月会合での利上げ観測が織り込まれるとみられる。 
+3月調査 6月調査 9月調査
+（予想）
+ 全規模　全産業 1.3 6.8 7.9 
+ 大企業  全産業 3.3 11.5 11.9 
+製造業 2.7 10.1 11.3 
+非製造業 3.6 12.3 12.2 
+ 中小企業  全産業 ▲8.1 ▲8.3 ▲4.8 
+製造業 ▲1.4 2.6 3.3 
+非製造業 ▲11.3 ▲13.0 ▲8.3 
+（前年度比、％）
+2026年度
+-2
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+3月 6月 9月 12月 見込み
+（3月）
+実績
+（6月）
+22年度 23年度(旧ベース)
+23年度(新ベース) 24年度
+25年度(旧ベース) 25年度（新ベース）
+26年度
+（前年度比、％）
+予想
+
+---
+## Document 219: Cliff Notes_ balancing risks to growth and inflation, a worthwhile pursuit (2026-09-18)
+
+Source PDF: all report pdf/Cliff Notes_ balancing risks to growth and inflation, a worthwhile pursuit (2026-09-18).pdf
+Report source: Unknown
+Date: 未知日期
 Pages: 11
 Extraction status: ok
 
 ### Page 1
 
 #cliffnotes #rba #australia #inflation #us #fomc #ecb #aud #usd
-Cliff Notes: frayed nerves unsettle expectations
-By Elliot Clarke & Ryan Wells
-09:53 September 11 2026 Share
+Cliff Notes: balancing risks to growth and inflation, a worthwhile
+pursuit
+By Elliot Clarke, Ryan Wells & Illiana Jain
+07:43 September 04 2026 Share
 Key insights from the week that was.
-After reviewing last week’s National Accounts, we revised our RBA call, reinstating a 25bp November
-rate hike. Domestic demand is proving more resilient than we had anticipated, buoyed by stronger
-household incomes and a large pipeline of data centre and renewable energy investment, limiting the
-
-pace of disinflation.
+Australia’s Q2 GDP came in slightly above expectations at 0.4%, 2.1%yr. Upward revisions to earlier
+data notwithstanding, there has been a clear loss of momentum from H2 2025 to H1 2026, from an
+annualised pace of 2.8% to 1.5%.
 
 ### Page 2
 
-Markets are pricing in a circa 80% chance of a September rate hike, but we believe the Board will
-prefer to wait for confirmation from the full quarterly inflation data and its revised forecasts. Our own
-forecast updates will be published in our September Market Outlook later today on Westpac IQ.
-This week’s sentiment surveys also served as a reminder that downside risks to growth are still present
-in Australia.
-Westpac-MI Consumer Sentiment buckled in September, the 5.2% decline to 84.4 unwinding much of
+Household consumption grew just 0.4% in Q2, and this gain was principally due to a surge in EV sales
+(0.27ppts of the 0.4% gain) in response to the Middle East conflict’s energy price spike. Highlighting the
+financial resilience of the consumer, however, a stronger-than-expected lift in real disposable incomes
+allowed the savings ratio to edge higher in the quarter despite higher interest and tax payments.
+Public demand was also soft in Q2, up just 0.2% as cost-of-living support rolled off and the
 
-August’s gain and leaving sentiment near the pessimistic lows of early-2026.
-Cost-of-living pressures clearly remain front of mind, highlighted by the 9.2% drop in ‘family finances vs
-a year ago’. The recent rebound in fuel prices, renewed concerns about inflation's persistence and
-anxiety over the need for additional monetary tightening all weighed heavily in the month. These
-concerns, alongside the downbeat assessment on housing markets, also produced a more pessimistic
+infrastructure work program, most notably in NSW and Victoria, passed its peak. Business investment
+meanwhile edged lower, though solid non-residential construction tied to data centres, renewables and
+related infrastructure implies the pipeline of work remains in an uptrend.
+On housing, Cotality home prices fell 0.9% in August after downwardly revised 1.2% and 0.9% declines
+in June and July. Prices are now 3.6% below their March peak nationally, and down 4.6%/4.7% in
 
-reading on broader economic conditions, with both the one-year and five-year ahead measures down
-4.0% and 4.5% in the month.
-Businesses are hardly brimming with optimism either, the August NAB business survey reporting that
-business confidence slipped further into negative territory to –8 in August. Conditions also fell 5pts to –
-1, the weakest reading since the pandemic.
-Weaker profitability was the chief culprit behind the decline, slumping to its lowest level in years as
+Sydney/ Melbourne. On a rolling 3-month basis, the volume of sales is 15% lower over the year.
+Unsurprisingly, the moderation in housing credit growth is gathering pace. That said, a substantial
+pipeline of approved projects means housing construction should remain a positive force for GDP for
+the foreseeable future. Towards the end of the forecast horizon in 2028 though, risks are growing, with
+dwelling approvalsdeclining 3.6% in July.
+On external trade, Q2 was not as weak as initially feared. The current account deficit widened by just
 
-firms grapple with softer demand, higher interest rates and elevated input costs. Indeed, gauges of
-purchase costs and labour cost growth continue to run at above-average levels, and trading conditions
-have weakened to cycle lows. As for the consumer, downside risks persist for business.
-Offshore, the flow of data was light ahead of last night’s ECB meeting and tonight’s US CPI update.
-Data for the Euro Area was constructive early in the week, GDP growth revised up from 0.4% to 0.6%
+$1.8bn to $27.2bn and net exports added 0.1ppts to GDP. Resource exports rebounded after
+disruptions from cyclones, but there was also a significant pull-back in tourism spend by Australians
+overseas due to flight cancellations related to the Middle East conflict.
+Talking About Trade
+provides further detail on these sub-plots and the implications. Those with a particular interest in
+agriculture and related trade should also dig into our latest Quarterly Agriculture Report.
 
-in the third estimate for Q2, taking the annual rate up to 1.2%yr. In the quarter, household consumption
-showed strength, up 0.4%, and government expenditure lifted 0.2%. Business investment was a partial
-offset, edging down 0.1%. Employment also continued to edge up in Q2, maintaining full employment
-and indicating marginal labour supply is available to meet demand.
-The US PPI subsequently met expectations in August, growth accelerating from a revised 0.1% (prev
+Across the Tasman, at its September meeting, the RBNZ lifted the OCR by 25bps to 2.75% as
+expected. The RBNZ’s revised OCR forecasts are little changed from May and signal a pause in
+October before a 25bp hike to 3.00% in December. Justifying this cautious approach, a majority of
+MPC members see upside risks to inflation, but all see downside risks to growth. Westpac continues to
+expect a steady but determined tightening cycle, with the next 25bp hike not forecast until December
 
-0.0%) in July to 0.4%. Excluding food and energy, growth was a touch weaker than expected at 0.2%,
-offset by a 0.1ppt upward revision to July to 0.3%. Annual PPI inflation accelerated to 5.4%, or 4.6%
-excluding food and energy.
-Coming after last Friday’s above expectations August nonfarm payroll release, in which 162k new
-positions were reported along with 55k in back revisions to June and July, and given the latest surge in
-the price of oil, the August PPI result further solidified the market’s concerns over inflation risks, the US
+but a peak of 4.00% seen in Q3 2027.
+Over in the US, during his address to the Jackson Hole Symposium last weekend, Chair Warsh
+emphasised the Committee’s focus on inflation risks and willingness to tighten further if necessary.
+To make his point, Chair Warsh focused attention on the most elevated of the US’ major inflation
+benchmarks, headline PCE inflation at 3.7%yr and 4.1% on a six-month annualised basis, as well as
+the breadth of price gains, which remains well above pre-pandemic levels. Chair Warsh then made
 
-10-year ranging up to just below 5.0% as a result. At the short end, participants are now debating
-whether to price in a fourth hike by the FOMC over the coming year, with three 25bp increases fully
-priced by April.
+clear that the Committee “must be confident that underlying inflation is moving to our objective, clearly
+and at sufficient speed”…. “Otherwise, we have work to do.” The FOMC remaining on hold from here
+requires evidence of sequential disinflation month-on-month from next week’s August report. Without
+this, the market will likely fully price a hike for the September meeting, and a follow-up come
+November. Overnight Federal Governor Waller made a similar point, noting that: if "there is continued
+
+progress toward our 2% goal, then I am willing to support holding the policy rate at its current level"; but
 
 ### Page 3
 
 Related articles
-As expected, and unsurprisingly given the above data and market developments, the ECB then
-delivered a 25bp hike at their September meeting. The risks were characterised as skewed towards
-prices, with inflation "to remain well above target for an extended period" primarily as a result of the
-effect on energy prices of the Middle East conflict and the Russia / Ukraine war.
-The "new ECB staff projections sees headline inflation averaging 3.0% in 2026, 2.5% in 2027 and 2.1%
+"if inflation comes in hot, I would consider a rate hike".
+While qualitative in nature, the Beige Book was arguably the most informative US release of the week.
+Since July, employment growth has remained subdued, with seven districts reporting only "slight" or
+"modest" growth and five no change. Upstream price pressures persist, with "input price pressures
+notably elevated in manufacturing and construction"; that said, "heightened price sensitivity among
 
-in 2028". "For inflation excluding energy and food, the baseline foresees 2.5% in 2026, 2.6% in 2027
-and 2.3% in 2028." These forecasts are unchanged for 2026, but higher in 2027 and 2028 than in
-June. Despite the persistence in inflation and need for tighter policy, the ECB remains constructive on
-the growth outlook. "The baseline projection for economic growth is 0.9% for 2026, 1.4% for 2027 and
-1.5% for 2028. This is an upward revision for both 2026 and 2027, mainly reflecting the greater than
+customers" continued to limit firms' ability to pass through these higher costs.
+It is one thing for producer price inflation and capacity constraints to bolster input prices, but to hold up
+the CPI/PCE, these pressures must be passed through to the consumer basket. Along with stability in
+the labour market, consumers unwillingness to accept full passthrough is why we continue to believe
+the FOMC can remain on hold through 2028 if they can weather the immediate angst over recent
 
-expected resilience of the euro area economy."
-The Governing Council is acutely aware of the uncertainty and risks ahead, and are committed to
-determining policy meeting by meeting. From their guidance, it is clear the Council are comfortable with
-their current position and capacity to adjust policy in real time to meet their medium-term mandate.
+inflation data. If the Committee instead choose to hike in September and/or November, corrective cuts
+may be required in late-2027 or into 2028.
+A prudent approach to policy was apparent in Canada this week, the Bank of Canada’s Governing
+Council voting to remain on hold. In their words, the global economy has shown resilience and
+"Canadian economic activity strengthened in the second quarter”. But "demand for labour remains
+subdued and indicators point to continued excess supply ". Also, like in the US and Australia, "there
+
+has been little evidence of higher energy prices spreading to other components of inflation". As for the
+RBNZ and other developed-world central banks, balancing the risks around growth as well as inflation
+is a challenge for the Bank of Canada, but one worth pursuing.
 Stay informed with Westpac IQ
 Get the latest reports straight to your inbox.
 Subscribe
@@ -98,25 +1068,24 @@ Cliff Notes: seeking to instil trust
 September 18 2026 • 5 mins
 #cliffnotes
 By Elliot Clarke , Ryan Wells & Illiana Jain
+#cliffnotes
 
 ### Page 5
 
-Cliff Notes: balancing risks to growth and inflation, a worthwhile
-pursuit
-September 04 2026 • 5 mins
-#cliffnotes
-By Elliot Clarke , Ryan Wells & Illiana Jain
-
-### Page 6
-
+Cliff Notes: frayed nerves unsettle expectations
+September 11 2026 • 5 mins
+By Elliot Clarke & Ryan Wells
 Cliff Notes: deciphering signal from noise in real time
 August 28 2026 • 5 mins
 #cliffnotes
 By Elliot Clarke & Ryan Wells
 #aud #australia #interestrates #nzd #usd #newzealand #rates #credit
 #yieldcurve #acgb #inflation #semigovernment #rba #basis #commodities
-#ustreasury #fx #jpy #rbnz #abs Show more tags
 Browse topics
+
+### Page 6
+
+#ustreasury #fx #jpy #rbnz #abs Show more tags
 
 ### Page 7
 
@@ -225,218 +1194,202 @@ This communication is not intended for distribution to, or use by any person or 
 jurisdiction or country where such distribution or use would be contrary to local law or regulation.
 
 ---
-## Document 252: GLOBAL MARKETS CALL_ Will The Bull Market Survive Higher Oil Prices & Bond Yields_
+## Document 237: Emerging economies_ Good resilience, especially regarding financing conditions (2026-09-03)
 
-Source PDF: all report pdf/GLOBAL MARKETS CALL_ Will The Bull Market Survive Higher Oil Prices & Bond Yields_.pdf
-Report source: Substack Reports
-Date: 2026-09-13
-Pages: 9
+Source PDF: all report pdf/Emerging economies_ Good resilience, especially regarding financing conditions (2026-09-03).pdf
+Report source: BNP Paribas
+Date: 2026-09-03
+Pages: 1
 Extraction status: ok
 
 ### Page 1
 
-From:    Yardeni QuickTakes <yardeni-research@ghost.io>
-Subject: GLOBAL MARKETS CALL: Will The Bull Market Survive Higher Oil Prices & Bond Yields?
-Date:    9 hours ago
+03/09/2026 5
+July 2026: …… and upstream prices
+July 2026: A painful recovery in economic
+activity
+July 2026: A rapid and massive return of foreign
+investors to the bond markets
+Source: National Statistical Offices, IIF, S&P Global, BNP Paribas
+ECONOMIC RESEARCH
+Change since m = 0 = February 2026 / February 2022.
+Unit: inflation change in percentage point, point for confidence surveys.
+July 2026: A slowdown for consumer price
+inflation …
+Inflation eased in June and July. The average CPI inflation rate across the fifteen leading emerging economies fell to 4.3%
 
-YARDENI QUICKTAKES
-GLOBAL MARKETS CALL: Will
-The Bull Market Survive Higher
-Oil Prices & Bond Yields?
-By Ed Yardeni & Toby Hearst • 13 Sept 2026
-View in browser
-Photo by Elena Mozhvilo / Unsplash
+year-on-year in July, down from 4.8% in April. The inflationary impact remains weaker than in 2022, due in particular to
+reduced spillover effects on agricultural and food prices. Manufacturers’ views on the trend in input and finished product
+prices have returned to their pre-conflict levels. However, against a backdrop of increasingly frequent and destructive
+extreme weather events, pressure on agricultural and food prices is likely to continue.
 
-The price of Brent crude is back above $100 a barrel. Government bond
-yields are rising nearly everywhere, with the 10-year yields of Australia
+Furthermore, the manufacturing PMI index deteriorated slightly in July and remains below its February 2026 level. The
+decline in activity was less severe than in 2022, but the recovery is sluggish.
+According to estimates by the Institute for International Finance (IIF), non-resident portfolio investment flows into
+emerging markets have been particularly volatile since the start of the armed conflict, reflecting investor nervousness.
+Looking at cumulative figures since February provides a clearer picture of the trends. In the equity markets, outflows
+
+persisted until July. By contrast, investors have returned to the local bond markets (an average of USD 30 billion per month
+since April). Domestic interest rates and risk premiums have performed very well.
+Emerging economies: Good resilience, especially regarding financing conditions
+Cumulative change since m = 0 = February 2026 / February 2022
+
+---
+## Document 244: Federal Reserve hikes 25bp, suggests another to come
+
+Source PDF: all report pdf/Federal Reserve hikes 25bp, suggests another to come.pdf
+Report source: Unknown
+Date: 未知日期
+Pages: 5
+Extraction status: ok
+
+### Page 1
+
+Article | 16 September 2026 1
+THINK Economic and financial analysis
+Article  |  16 September 2026   FX   RATES   UNITED STATES
+Federal Reserve hikes 25bp, suggests
+another to come
+The Federal Reserve raised the policy rate 25bp and signalled they may
+raise rates a second time before a long hold throughout 2027.
+Nonetheless, we see more labour slack than the Fed and remain a little
+more optimistic on the inflation backdrop. If we see a resumption of
+
+energy flows from the Persian Gulf, the situation would favour a "one
+and done" outcome
+Fed Chair Warsh at today's press conference in which interest rates were raised by 25bp
+Fed hike to "support a timelier return" of inflation to target
+The Federal Reserve has hiked rates 25bp to a target range of 3.75–4%, as widely expected.
+Markets had moved to swiftly price such an outcome in the wake of Chair Kevin Warsh’s
+hawkish Jackson Hole address, with subsequent hotter-than-anticipated jobs and core inflation
+
+data merely making it a formality.
+The decision was unanimous and the press release was brief, as it has been after all three
+decisions under Warsh’s leadership. Economic activity is “solid”, but uncertainty and inflation
+remain “elevated”. Nonetheless, today’s decisions will “support a timelier return to the
+Committee's 2 percent goal”.
 
 ### Page 2
 
-and the UK both above 5.00% and the US’s at 4.97%. Either development
-would normally be enough to break a global bull market in stocks. Neither
-has so far. That's because corporate earnings keep climbing.
-The Fed, the Bank of England (BOE), and the Bank of Japan (BOJ) all
-meet this week. The Fed's decision matters the most to investors’ appetite
-for global risk. The BOJ's decision matters the most for the yen carry
-trade, which seems to be unwinding now that the yen is back up to 153.47
+THINK Economic and financial analysis
+Article | 16 September 2026 2
+Fed funds ceiling rate (%)
+Source: Macrobond, ING
+Fed points to one more hike followed by a long hold
+In terms of the guidance, the central projection within the Fed’s summary of economic
+projections has one more rate hike this year, in line with market pricing, with the central range
+holding at 4.125% through 2027. They then have the mid-point of the Fed’s funds target range
+at 3.875% for 2028 and 3.625% for end-2029 and 3.25% for the “longer run”. This is a higher
 
-per dollar and short-term interest rates are rising in Japan. That unwinding
-might partly explain the global bond market selloff.
-Here's more:
-I. Stay Home vs Go Global
-The Go Global investment strategy is still working, and September has
-done nothing to change that so far. Brazil leads the country ETF rankings
-mtd at 6.0% in dollar terms, with South Korea at 4.3% and Poland at 3.3%
-(chart). The US ETF is down 0.4% mtd.
-The ytd performance derby shows similar leadership, with a much wider
+profile range than they projected in June, but is below the market pricing of three additional
+25bp hikes.
+Federal Reserve's economic projections
+Source: Federal Reserve, ING
+Within the actual dot plot there are only 18 submissions, suggesting Kevin Warsh again
+declined to offer a view. Only 2 of the 18 FOMC submissions had no further rate hike this year,
+suggesting strong backing for another move, and similarly, there are only 4 of 18 that expect
 
-spread. The South Korea and Taiwan ETFs are in the lead, up 94.1% and
+to see any sort of rate cut next year. There are 8 of 18 expecting the policy rate mid-point to
+be 4.375% (2 additional hikes) by end-2027. So this is a more hawkish Fed than in June with
+them revising up inflation and growth and revising lower unemployment projections despite
 
 ### Page 3
 
-74.6% ytd, respectively (chart). The US ETF is up 12.1%, behind both the
-All Country World (ACW) ex-US ETF at 15.1% and ACW ETF at 13.3%.
-Within emerging markets, the Emerging Markets ex China ETF has pulled
-decisively ahead of the broader Emerging Markets one. The ratio of the
-two is just short of the record set earlier this year (chart). We have
-preferred the former to the latter for some time.
-II. Earnings & Valuation
+THINK Economic and financial analysis
+Article | 16 September 2026 3
+the data trends suggesting it should be the other way round - in our view.
+Indeed, our growth, inflation and jobs forecasts suggest little need for further rate hikes, and it
+may well be that the Fed are striking a hawkish line in order to build more credibility with bond
+markets as they look to support Treasury efforts to anchor the long end of the curve.
+One and done remains our call
+
+Ordinarily the assumption is that if the Fed hikes, they don’t move just once, and indeed their
+forecast table does have a further hike pencilled in. However, this time around we think it may
+end up being a one-off. While August’s jobs number was a healthy 162,000, between January
+2025 and July 2026 the monthly average increase was a measly 31k with hiring indicators
+suggesting a reversion to that far slower growth rate is likely. Furthermore, while the
+
+unemployment rate is low at just 4.1%, the worker participation rate has plunged a full
+percentage point since early 2025. This suggests there is worker disengagement and more
+slack in the jobs market than looking at the unemployment rate alone indicates. It is hard to
+argue against that when wage growth is running at just 3%.
+That weak wage growth will be helpful in keeping inflation in check and with the inflationary
+impulse from tariffs largely incorporated – and IEEPA tariff refunds being a cash flow boost –
+
+lower cost pressures here help mitigate higher energy and fuel costs. Furthermore, the shelter
+component, with a 35% weighting in the CPI basket, should continue to moderate given the
+stagnant property market and cooling private sector rents. The key uncertainty is energy and
+the lack of progress surrounding oil and gas flows from the Strait of Hormuz, which has meant
+headline disinflation has stalled. Nonetheless, our geopolitical assessment is that the situation
+
+will improve, and oil prices will resume their declines later in the year, which will rapidly
+improve the inflation backdrop.
+Given market and consumer inflation expectations remain in check, we see parallels with the
+late 1990s – cuts in early 1996 before a pause, then a one-off 'risk management' hike enacted
+by Alan Greenspan’s Fed in March 1997 before a long pause through late 1998.
+The Fed calms the back end, but we’d not be getting too
+comfortable on it ahead
+
+Ahead, we maintain a bearish stance on long rates despite the calmness post the decision, as
+a 25bp hike does not materially change the dynamics that have hampered long rates in recent
+months. Inflation remains high, as does the fiscal deficit, as is wider issuance. And the AI
+productivity-driven narrative remains in place. The odds see the 10yr yield breaking back
+above 5% in the days and weeks ahead. If so, the market will begin to settle at above 5%, and
+
+ponder the 5.25% to 5.5% range as an area that is perfectly attainable in light of the still quite
+loud mood music that has been driving long-end yields.
 
 ### Page 4
 
-Overseas earnings are soaring, while overseas valuations have dropped.
-The ACW ex-US MSCI’s forward earnings is up 40.4% y/y, while its
-forward revenue is up 10.5% y/y (chart). This is reflected in the index's
-forward profit margin, which is at a record-high 12.6%.
-The US MSCI accounts for 54.0% of the ACW MSCI’s forward earnings
-but a heftier 63.8% of its market capitalization (chart). The Emerging
-Markets MSCI holds mirror-image shares: 20.1% of forward earnings but
+THINK Economic and financial analysis
+Article | 16 September 2026 4
+Delivery of the anticipated 25bp hike, by definition, should not have a material effect. The back
+end initially took the decision very fine, with yields steady in the 4.95% area, although it had
+shown a mild bias to test lower, as had been the theme through the morning into the decision.
+What helped here was the price action of previous days that saw the 10yr yield get above 5%,
+and indeed close above 5%, thus ticking off the need to necessarily have that reaction post
 
-just 12.0% of market cap. Its earnings share is up sharply from 15.4% at
-the end of 2025, while Europe’s and Japan's earnings shares have fallen.
-Meanwhile, the ACW ex-US MSCI trades at a 13.0 forward P/E, well
-below its 2021 peak of 17.2 (chart). Investors have resisted paying more
-for stocks that are delivering better earnings.
+this decision. Chair Warsh will be pleased that the breakout of the 10yr yield shows a
+moderate fall in inflation expectations, which telegraphs a nod of approval from the market to
+the hike as an inflation containment one. The 10yr real yield is a tad higher as an offset.
+Also, the 30yr yield is a tad richer vs SOFR, although not by much. Even though the 30yr yield
+is still higher than it was before Treasury Secretary Bessent's buyback announcement, it’s well
+
+below the subsequent highs. And it’s clinging on to a 4bp richening versus SOFR compared with
+the pre-buyback announcement level. At the other end of the curve, the 2yr was a tad
+spooked by the unanimity shown by the committee on the hike (Chair Warsh voted for the
+hike too), and the implied priming for another hike from the dot plot. So, the 2yr yield is up
+10bp to almost 4.7% post the decision. And the curve is flatter, mostly from the front end, and
+
+the 2/10yr Treasury yield curve is back below 30bp. The 5yr is flat on the 2/5/10yr fly though,
+suggesting that if there are more hikes, it should not be many.
+Nothing of note on the plumbing, apart from noting ample bank reserves, suggesting a degree
+of comfort with balance sheet circumstances. Which is fair. We await the outcome of further
+deliberations in this space by the end of 2026, with the yet-to-come prescribed action to be
+taken from 2027.
+
+FX: Hawkish hike reinforces dollar momentum
+The Fed’s message of policy discipline is likely to raise the bar for de-basement trades to re-
+emerge anytime soon. That should limit downside risks for the dollar, leaving it better placed
+to benefit from supportive external drivers. As long as energy prices remain firm, we see little
+reason to fade the current USD appreciation trend.
+With the door still open to additional tightening, the dollar also retains upside risk around
+
+upcoming data releases. Strong prints could bring hike expectations forward to October, where
+markets currently price 11bp.
+EUR/USD broke below 1.150 after the announcement, and there is little in the way of obvious
+support before the 1.1330-1.1360 area, where the June decline found a floor. That is likely the
+extent of near-term downside risk. Our forecast remains more optimistic, albeit heavily reliant
+on an improvement in the Gulf situation and rapid oil decline by year-end. We target 1.150 for
+
+end-September and a modest bump to 1.160 by year-end.
 
 ### Page 5
 
-III. Global Bonds
-Bond yields are rising nearly everywhere, and equities seem to be reading
-this development as mostly reflecting resilient economic and earnings
-growth. Australia's 10-year government bond yield is 5.37%, and the UK's
-is 5.35%, both above 5.00% (chart). The US’s, at 4.97%, is at the top end
-of the 4.00%-5.00% range we call the "old normal."
-Over in Asia, South Korea's 10-year yield has climbed to 4.57%, the
-highest since 2022, while China's is 1.69% and still falling (chart). China
-
-remains the world's exception to the rising trend, reflecting that economy’s
-deflation.
-
-### Page 6
-
-IV. Commodities
-With the war's re-escalation, the price of Brent crude is back up to
-$104.61 a barrel. But that hasn’t stopped the Emerging Markets ETF from
-rising as well, to $67.8 as of September 11 (chart). So far, higher energy
-prices have not derailed the emerging markets trade the way they did in
-2022.
-The FIBER Metals Spot Price Index is at 377, up sharply since late 2024,
-and the Emerging Markets ex China ETF is tracking it closely (chart).
-
-Industrial metals demand is holding up, a sign that the global economy is
-absorbing the shock oil and bond shocks.
-
-### Page 7
-
-V. Japan
-Japan has been at the epicenter of the global yield rout, with the BOJ set
-to hike rates this week. The Japanese government bond yield curve has
-steepened dramatically. The 40-year yield is 4.11%, the 30-year 4.06%,
-and the 10-year 2.99%, all against a policy rate of just 1.00% (chart). The
-long end has priced in considerably more tightening than the BOJ has
-delivered.
-In recent years, the rising Nikkei and the weakening yen have been
-closely correlated (chart). This can be explained by exporters. A weaker
-
-yen lifts the translated earnings of Japan's large overseas revenue base,
-and the equity market rally has traded off the weakening currency for
-three years.
-
-### Page 8
-
-That relationship has reversed over the past month. The yen is up 3.72%,
-and the Nikkei is down 4.75%. Investors are now pricing in action by the
-BOJ, not the exporters.
-Despite concerns about rising interest rates and a strengthening currency,
-Japanese earnings keep climbing. Forward earnings per share is 160.34
-yen, a record high (chart). Record earnings against a 15.5 forward P/E is
-not what a market looks like when monetary policy is about to break it.
-
-💡Join the discussion with Ed below! To leave comments or
-questions, log in to the Yardeni QuickTakes website and post
-them at the end of the QuickTakes article. Paid members'
-contributions may be featured in our segment, "Ed Answers
-Your Questions".
-
-### Page 9
-
-clause.
-Yardeni QuickTakes © 2026 – Unsubscribe
-
----
-## Document 285: Rates Spark_ Global long-end gets some relief from the BoE
-
-Source PDF: all report pdf/Rates Spark_ Global long-end gets some relief from the BoE.pdf
-Report source: ING Think
-Date: 未知日期
-Pages: 3
-Extraction status: ok
-
-### Page 1
-
-Article | 17 September 2026 1
-THINK Economic and financial analysis
-Article  |  17 September 2026   RATES SPARK
-Rates Spark: Global long-end gets some
-relief from the BoE
-Energy concerns eased somewhat, but long-end rates reacted more
-strongly to the Bank of England s decision to halt long-end gilt sales. In
-Europe, eyes also remain on France as the 2027 budget takes shape
-along with upcoming rating reviews
-The Bank of England has decided to halt long-end gilt sales, leading to 30Y gilt yields dropping 30bp on
-
-the day
-Bank of England getting creative with the very long end
-The Bank of England surprised us with a big revamp of their quantitative tightening (QT)
-framework, helping 30Y gilt yields to go down 12bp on the day. Headlines first focused on the
-Bank’s ambition to bring the entire bond portfolio down to zero over the coming years, which
-would add significant supply for the market to absorb. But the changes to the framework are
-more nuanced. For one, around £120bn gilts with the longest maturities will remain on the
-
-central bank’s balance sheet, which means bonds maturing after 2049 will not be part of the
-active sales.
-But perhaps a stronger signal to markets was the decision to pause active sales until April 2027
-and explore a mechanism to transfer gilts from the Bank of England to the UK government
-treasury. Government-funded QT does not impact the total supply for the market to absorb,
-
-### Page 2
-
-THINK Economic and financial analysis
-Article | 17 September 2026 2
-since any purchases would have to be financed by new issuance. But it can help transform the
-maturity profile, and this is why 30Y gilts are taking a liking to the announcement. Longer-
-dated gilts will de facto be replaced by shorter gilt issuance.
-Friday’s events and market view
-We will get the eurozone current account for July and the European Central Bank will
-release results of its inflation survey, where longer-run consumer expectations are
-
-expected to have nudged up on the back of energy prices. ECB President Lagarde will
-join the press conference following the ECOFIN meetings.
-The US will release industrial production data for August. Fed officials scheduled to
-speak are Bowman and Schmid.
-Some more attention will fall on France in the evening as DBRS (AA/Stable) and Scope
-(AA+/Negative) have scheduled potential rating reviews. Both ratings are higher
-compared to the three larger agencies (A+/Aa3/A+), but without a final budget yet, it
-
-might be premature to make any changes just now, especially more than just an
-outlook change. That said, PM Lecornu presented plans on Thursday to contain
-spending and keep the 2027 deficit at 5%. At 96bp, the 10y OAT/Bund spread remains
-at its highest levels since 2012, reflecting unease ahead of next year's presidential
-elections.
-Other scheduled rating reviews from the three major agencies are for Ireland (S&P
-AA+/Stable), Germany (Moody’s Aaa/Stable) and Greece (Moody’s Baa/Stable).
-
-This publication has been prepared by the Economic and Financial Analysis Division of ING Bank N.V. (“ING”) solely for
 information purposes without regard to any particular user's investment objectives, financial situation, or means. ING forms
-
-### Page 3
-
-THINK Economic and financial analysis
-Article | 17 September 2026 3
 part of ING Group (being for this purpose ING Group N.V. and its subsidiary and affiliated companies). The information in the
 publication is not an investment recommendation and it is not investment, legal or tax advice or an offer or solicitation to
 purchase or sell any financial instrument. Reasonable care has been taken to ensure that this publication is not untrue or
-misleading when published, but ING does not represent that it is accurate or complete. ING does not accept any liability for
 
 person for any purpose without the prior express consent of ING. All rights are reserved. ING Bank N.V. is authorised by the
 Dutch Central Bank and supervised by the European Central Bank (ECB), the Dutch Central Bank (DNB) and the Dutch Authority
@@ -452,251 +1405,80 @@ States under applicable requirements.
 Additional information is available on request. For more information about ING Group, please visit www.ing.com.
 
 ---
-## Document 302: The Institute Employment Report_ August 2026 Growth in jobs and after-tax wages softened in August, but both continue to suggest a broadly resilient labor market. 2 min read
+## Document 280: Oil and gas_ A fragile market equilibrium maintains elevated price levels (2026-09-03)
 
-Source PDF: all report pdf/The Institute Employment Report_ August 2026 Growth in jobs and after-tax wages softened in August, but both continue to suggest a broadly resilient labor market. 2 min read.pdf
-Report source: Bank of America
-Date: 2026-09-01
-Pages: 6
+Source PDF: all report pdf/Oil and gas_ A fragile market equilibrium maintains elevated price levels (2026-09-03).pdf
+Report source: BNP Paribas
+Date: 2026-09-03
+Pages: 1
 Extraction status: ok
 
 ### Page 1
 
-13014895     1
+Oil & gas: A fragile market equilibrium maintains elevated price levels
+03/09/2026 6
+August 2026: Crude oil prices stabilize at a
+high level
+August 2026: Persisting tensions on the
+European gas market
+August 2026: Heatwaves fuel wholesale
+electricity prices inflation in Europe
+Oil and gas markets remain volatile and followed different trajectories during August. The gas market does not benefit
+from the buffers in place in the crude oil market. Oil prices have stabilised at a high level, widening the gap compared to
 
-Economy 
-The Institute Employment Report: August 2026 
-03 September 2026
+the 2022 crisis. While the increase in gas prices remains lower than that seen following Russia's invasion of Ukraine, the
+pace of the price increase is high.
+Oil: Brent oil prices stabilised at a high level during August, in the absence of further military escalation and supported by
+increased flows passing through the Strait (bypass pipelines and trade shuttle (tanker convoy escorted by US navy)). The
+spread between the Brent futures price and the physical price (Dated Brent) has remained narrow since early June, driven
 
-Key takeaways 
-• Bank of America customer deposit account data suggests labor market momentum cooled in August, with estimated payroll 
-growth of 1.5% year-over-year (YoY), down from 1.8% in July. 
-• The long-standing "K" shape between higher- and lower-income households' after-tax wage growth has reversed: August saw 
-lower-income households' after-tax wage growth of 4.7% YoY, while higher-income households' after-tax wage growth was 
-3.5% YoY. 
-• Recently, there has been an increase in job switching, and the pay change associated with a job change reached the highest 
-level in more than three years in July. This acceleration is most notable among weekly-paid employees, suggesting rising 
-mobility among hourly and lower-income workers may be contributing to the narrowing of wage growth differences.
+by the use of bypass, the accelerated drawdown on OECD inventories (notably US SPRs), and declining Chinese oil
+imports.
+Gas: European spot gas prices (TTF) have risen significantly over the past month for two main reasons: 1/ the lack of
+recovery in LNG flows exiting the Gulf (unlike crude oil), and 2/ increased competition in the LNG market between Europe,
+which is replenishing its pre-winter stocks, and Asia, where demand remains high during the summer months.
 
-Jobs growth slowed in August 
-Our estimate of job growth – which uses Bank of America deposit data to track changes in the number of customer accounts 
-receiving a paycheck (see Methodology) – slowed to 1.5% year-over-year (YoY) in August, down from 1.8% YoY in July. The data 
-can be noisy, partly due to seasonal variation and differences in pay-period timing, but in our view, this suggests labor market 
-momentum may have ebbed a little (Exhibit 1).  
-Still, the overall picture from the Bank of America jobs estimate is one of a relatively healthy labor market. This is also the case 
-in Bank of America data on unemployment payments into customer accounts, which showed very little YoY change in August 
-(Exhibit 2). 
-Exhibit 1: August payroll growth slowed in Bank of America deposit 
-account data  
-Payroll estimates from Bank of America customer deposit account data 
-(three-month moving average, % YoY), the Bureau of Labor Statistics 
-(BLS) and Automatic Data Processing (ADP) (monthly, YoY)
+Electricity: The rise in European wholesale electricity prices accelerated during the summer due to successive heatwaves.
+These heatwaves increased electricity demand and, furthermore, nuclear power production was constrained by
+heatwaves and drought conditions in certain Central European countries and in France to a lesser extent. In this context,
+the reliance on more expensive resources (gas) is driving electricity prices upward.
+Source: Bloomberg, Ember, BNP Paribas
 
-Source: Bank of America internal data, Haver Analytics 
-Note: BLS and ADP data are seasonally adjusted, Bank of America data is not seasonally 
-adjusted.  
-BANK OF AMERICA INSTITUTE
+Note: change % since 02/27/2026 - 02/23/2022; last price 08/31/2026
+ECONOMIC RESEARCH
+Note: change % since 02/27/2026 - 02/23/2022; last price 08/31/2026 Note: change % since 02/2026 - 02/2022, last price 08/31/2026
+-50
+0
+50
+100
+Brent - MidEast war
+Dated Brent - MidEast war
+Brent - Ukraine war
+Dated Brent - Ukraine war
+-50
+0
+50
+100
+150
+200
+European gas TTF -
+MidEast war
+European gas TTF -
+Ukraine war
+-50
+0
+50
+100
+150
+200
+Electricity price - MidEast
 
-Exhibit 2: Unemployment payments showed little YoY change in 
-August, according to Bank of America consumer deposit data 
-Number of households receiving unemployment payments (three-month 
-moving average, YoY%, not seasonally adjusted (NSA)) and Bureau of 
-Labor Statistics (BLS) Continuing Claims (three-month moving average, 
-YoY%, seasonally adjusted (SA))
-
-Source: Bank of America internal data 
-BANK OF AMERICA INSTITUTE
-
-0.0%
-1.0%
-2.0%
-3.0%
-4.0%
-Jan-23 Aug-23 Mar-24 Oct-24 May-25 Dec-25 Jul-26
-BLS nonfarm payrolls
-ADP private payrolls
-Bank of America payrolls
-estimate
--50%
--25%
-0%
-25%
-50%
-2023 2024 2025 2026
-Unemployment payments into Bank of America
-accounts
-BLS Continuing Claims
-I NSTI TUTE
-Accessible version
-
-### Page 2
-
-2 03 September 2026
-
-I NSTI TUTE
-
-August wage growth cooled, but lower-income households’ relative gains continued  
-August saw some modest cooling in overall after-tax wage growth, according to Bank of America internal data, but the recent 
-closing of the gap between higher- and lower-income households’ wage growth remains. In fact, the long-standing “K” has now 
-reversed: August saw lower-income households’ after-tax wage growth of 4.7% YoY, while higher-income households’ after-tax 
-wage growth was 3.5% YoY (Exhibit 3).  
-Exhibit 3: After-tax wage growth cooled across income cohorts in August 
-After-tax wage and salary growth by household income terciles, based on Bank of America aggregated consumer deposit account data (three-month moving 
-average, YoY%, SA)
-
-Source: Bank of America internal data 
-BANK OF AMERICA INSTITUTE 
-Job change rates have improved, especially for weekly-paid workers 
-As we have discussed before, one potential explanation for the reversal in after-tax wage growth is lower tax withholding as a 
-result of the One Big Beautiful Bill Act (OBBBA) stimulus (for more, read The Institute Employment Report: July 2026).  
-But in our view, a relative improvement in the labor market for lower-income workers may also be part of the story. In particular, 
-Bank of America deposit account data indicates that the job change rate in July 2026 was significantly higher than in 2025, 
-though falling a little short of the Great Resignation period of 2022 (Exhibit 4).  
-And when we look across customers with different pay frequencies, we find the largest YoY increases in the job change rate 
-have come from those who are paid weekly (Exhibit 5). People paid weekly are often hourly workers and this corresponds with an 
-increase in job switching seen among lower-income households (read more on this in May’s Should I stay or should I go? The pay 
-tradeoff).  
-Exhibit 4: The job change rate in July has climbed since 2024, 
-although falls short of 2022 
-Job change rate in July (%, three-month average)
-
-Source: Bank of America internal data  
-BANK OF AMERICA INSTITUTE
-
-Exhibit 5: The job change rate has risen the most for weekly-paid 
-customers  
-Job change rate by pay frequency in July (three-month average, YoY 
-percentage point change)
-
-Source: Bank of America internal data 
-BANK OF AMERICA INSTITUTE
-
--2%
-0%
-2%
-4%
-6%
-8%
-10%
-2023 2024 2025 2026
-Lower Middle Higher Overall
-2.40%
-2.70%
-3.00%
-3.30%
-3.60%
-2022 2023 2024 2025 2026 0.00%
-0.25%
-0.50%
-0.75%
-Weekly Bi-Weekly Semi-Monthly Monthly
-
-### Page 3
-
-03 September 2026    3
-
-I NSTI TUTE
-
-Raises accelerate for weekly-paid job switchers 
-Job changes often come with a pay increase and in Bank of America customer account data, the pay change associated with a 
-job change reached the highest level in more than three years in July 2026: 12.5% on a three-month moving average. 
-Interestingly, we also find a deviation across customers with different pay frequencies in the raises they get as a result of a job 
-move. Those paid weekly have seen the strongest increase compared to last year, consistent with the increase in the rate of this 
-group’s job switching. On the other hand, those paid monthly have seen the smallest rate of increase year-to-date, though raises 
-for this group remain at just over 15% (Exhibit 6).  
-So, in our view, because job switchers generally receive larger pay increases than workers who remain with their current 
-employer, the rising rate of job switching amongst hourly and lower-income workers and the improved raises they get when they 
-make a move is likely contributing to the recent narrowing of wage growth differences across income groups. 
-Exhibit 6: The jump in pay associated with a job change has been strongest year-to-date in jobs with weekly paychecks 
-Pay change associated with a job change by pay frequency (%, annual average)
-
-Source: Bank of America internal data  
-BANK OF AMERICA INSTITUTE
-
-0%
-10%
-20%
-30%
-2018 2019 2020 2021 2022 2023 2024 2025 2026
-Weekly
-Bi-Weekly
-Semi-Monthly
-Monthly
-
-### Page 4
-
-4 03 September 2026
-
-I NSTI TUTE
-
-Methodology  
-Selected Bank of America transaction data is used to inform the macroeconomic views expressed in this report and should be considered in the 
-context of other economic indicators and publicly available information. In certain instances, the data may provide directional and/or predictive 
-value. The data used is not comprehensive; it is based on aggregated and anonymized selections of Bank of America data and may reflect a 
-degree of selection bias and limitations on the data available. 
-Any payments data represents aggregated spend from US Retail, Preferred, Small Business and Wealth Management clients with a deposit 
-account or credit card. Aggregated spend include total credit card, debit card, ACH, wires, bill pay, business/peer-to-peer, cash, and checks.  
-Any Small Business payments data represents aggregate spend from Small Business clients with a deposit account or a Small Business credit 
-card. Payroll payments data include channels such as ACH (automated clearing house), bill pay, checks and wire. Bank of America per Small 
-Business client data represents activity spending from active Small Business clients with a deposit account or a Small Business credit card and 
-at least one transaction in each month. Small businesses in this report include business clients within Bank of America and generally defined as 
-under $5mm in annual sales revenue.  
-Unless otherwise stated, data is not adjusted for seasonality, processing days or portfolio changes, and may be subject to periodic revisions.  
-Bank of America aggregated credit/debit card spending per household includes spending from active US households only. Only consumer card 
-holders making a minimum of five transactions a month are included in the dataset. Spending from corporate cards are excluded. Data 
-regarding merchants who receive payments are identified and classified by the Merchant Categorization Code (MCC) defined by financial 
-services companies. The data are mapped using proprietary methods from the MCCs to the North American Industry Classification System 
-(NAICS), which is also used by the Census Bureau, in order to classify spending data by subsector. Spending data may also be classified by other 
-proprietary methods not using MCCs.  
-Lower, middle and higher household income cuts in Bank of America credit and debit card spending per household, and consumer deposit 
-account data are based on quantitative estimates of each households’ income. These quantitative estimates are bucketed according to terciles, 
-with a third of households placed in each tercile periodically. The lowest tercile represents ‘lower income’, the middle tercile represents ‘middle 
-income’ and the highest tercile ‘higher income’. The income thresholds between these terciles will move over time, reflecting any number of 
-factors that impact income, including general wage inflation, changes in social security payments and individual households’ income. The 
-income and tercile in which a household is categorised are periodically re-assessed.  
-Generations, if discussed, are defined as follows: Gen Z, born after 1995; Younger Millennials: born between 1989-1995; Older Millennials: born 
-between 1978-1988; Gen Xers: born between 1965-1977; Baby Boomer: 1946-1964; Traditionalists: pre-1946. 
-Estimate of payroll growth from Bank of America internal data is based on the change in customer accounts receiving a paycheck in the month. 
-An adjustment is made for the difference between overall population growth and customer account growth. Occasionally historic payments can 
-be reclassified, leading to revisions in the series.  
-An estimate of bonus growth from Bank of America deposit data is calculated by looking at customers who have received an inbound ACH 
-payroll transaction in the last two years. From this sample an estimate of bonuses is derived by looking for payroll transactions which are over 
-50% higher than the median regular payroll payments received by the customer. Of these payments only those that were received around the 
-same time in each of the last two years are selected.  
-The job-to-job change rate (j2j rate) is defined as the proportion of customers with an identified change in their employer as a proportion of 
-the total number of customers with employment income. We estimate the median pay rise associated with a j2j change using the pay in the 
-first three months of the new job compared to the same three months a year ago. 
-Additional information about the methodology used to aggregate the data is available upon request.
-
-### Page 5
-
-03 September 2026    5
-
-I NSTI TUTE
-
-Contributors 
-David Michael Tinsley 
-Senior Economist, Bank of America Institute 
-Taylor Bowley 
-Economist, Bank of America Institute 
-Sources 
-Li Wei 
-Director, Global Risk Analytics 
-Dale Lin 
-Director, Global Risk Analytics 
-Yan Peng 
-Vice President, Global Risk Analytics 
-Adam Zeid 
-Vice President, Global Risk Analytics
-
-### Page 6
-
-6 03 September 2026
-
-I NSTI TUTE
+war
+Electricity price - Ukraine
+war
 
 ---
-## Document 311: Top of Mind - An AI Job Apocalypse_
+## Document 317: Top of Mind - An AI Job Apocalypse_
 
 Source PDF: all report pdf/Top of Mind - An AI Job Apocalypse_.pdf
 Report source: Goldman Sachs (Top of Mind)
@@ -3364,1853 +4146,612 @@ artificial intelligence system, or to provide or reproduce this information, in 
 system.
 
 ---
-## Document 334: “木头姐”预测SpaceX星舰发射将创造10万亿美元收入，马斯克回应：并非不可能
-
-Source PDF: all report pdf/“木头姐”预测SpaceX星舰发射将创造10万亿美元收入，马斯克回应：并非不可能.pdf
-Report source: WallstreetCN (Global)
-Date: 2026-09-17
-Pages: 4
-Extraction status: ok
-
-### Page 1
-
-“ ⽊头姐 ”Cathie Wood 预测，星舰单次发射或对应约 10 亿美元年收⼊，若按⻢斯克 2030 年
-年发射 1 万次的⽬标推算，年收⼊规模可能达 10 万亿美元，⻢斯克回应 “ 并⾮不可能 ” 。这⼀
-测算基于 Starlink V3 的带宽变现潜⼒，星舰第 14 次⻜⾏将搭载量产版 V3 卫星，并成为⾸次
-产⽣收⼊的⻜⾏。
-摘要：
-SpaceX 星舰的商业化想象空间正在被进⼀步放⼤。 ARK Invest ⾸席执⾏官 Cathie Wood （ “ ⽊头
-姐 ” ）最新预测称，星舰每次发射或可带来约 10 亿美元年度收⼊，若按照⻢斯克提出的年发射⽬
-标推算，到 2030 年星舰年收⼊规模甚⾄可能达到 10 万亿美元。
-这⼀预测迅速引发市场关注。⻢斯克本⼈在社交平台 X 上回应 Wood 的相关帖⽂，仅⽤三个英⽂
-单词表⽰ “It's not impossible” （并⾮不可能），为这⼀极具争议的收⼊预测增添了讨论热度。
-Wood 的判断，很⼤程度上建⽴在⻢斯克对星舰发射频率的激进⽬标之上。此前，⻢斯克在 X 平
-
-台表⽰，SpaceX 的⽬标是到 2030 年实现每天 30 次以上的星舰发射，年化发射次数达到约 1 万
-次，并称与⻜机航班相⽐，这仍然是⼀个很⼩的数字。
-Wood 进⼀步将这⼀发射能⼒与 Starlink 的商业化潜⼒联系起来。 ARK Invest 数据显⽰， Starlink
-近年来在轨累计带宽持续增⻓，⽽ SpaceX 下⼀代 V3 卫星拥有更⾼的单星带宽，叠加星舰远超现
-⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⽣活家 搜索
-
-### Page 2
-
-有⽕箭的运⼒，有望⼤幅提升单次发射所能部署的⽹络容量，从⽽扩⼤ Starlink 的服务能⼒和收
-⼊空间。
-与此同时， SpaceX 即将开始部署 V3 卫星，星舰的商业化能⼒也将迎来实际验证。公司⾸席财务
-官 Bret Johnsen 表⽰，星舰第 14 次⻜⾏将搭载量产版 V3 卫星，并将成为星舰 “ ⾸次产⽣收⼊的⻜
-⾏ ”。这意味着，星舰能否从⾼频测试逐步⾛向可持续的商业发射，将开始有实际收⼊数据作为
-验证。
-从 Starlink 带宽到单次发射 10 亿美元收⼊
-Wood 的预测源于 ARK Invest 战略与投资总监 Sam Korus 的分析框架。 Korus 根据 2023 年⾄ 2025
-年的数据测算， Starlink 在轨累计带宽分别达到 190 、 335 和 606 Tbps ，对应通信收⼊分别为 39
-亿、 76 亿和 114 亿美元。
-由此计算，每 Tbps 带宽对应的年度收⼊分别约为 2100 万、 2300 万和 1900 万美元。Korus 以最新
-的 1900 万美元作为单位带宽收⼊，再乘以星舰单次发射可部署的约 61 Tbps 带宽容量，得出 “ 每
-
-次星舰发射约带来 10 亿美元年度收⼊ ” 的结论。
-这⼀测算的核⼼在于 V3 卫星的容量。 SpaceX 披露，每颗 V3 卫星的下⾏带宽设计为 1 Tbps ，星
-舰单次最多可部署约 60 颗 V3 卫星，对应超过 60 Tbps 的新增带宽，整体带宽吞吐量超过猎鹰 9 号
-发射任务的 20 倍。
-Korus 同时指出，随着 Starlink 带宽供给不断扩⼤，单位 Tbps 收⼊可能逐步下降，这意味着上述
-10 亿美元并不是固定不变的收⼊⽔平。不过，即便单位带宽收⼊下降，更⼤的卫星部署规模仍
-可能推动 Starlink 通信收⼊持续增⻓。
-星舰⾼频发射，能否⽀撑 10 万亿美元收⼊？
-在 Korus 测算基础上， Wood 进⼀步将单次发射的收⼊潜⼒与⻢斯克的⻓期发射⽬标联系起来。
-她在 X 平台表⽰，⻢斯克计划到 2030 年实现每年 1 万次星舰发射，据此推算，星舰年度收⼊规模
-可能达到 10 万亿美元。
-这⼀数字与⻢斯克此前提出的收⼊⽬标存在明显差距。今年 6 ⽉，⻢斯克曾表⽰， SpaceX“ 或
-
-许 ” 能在 2030 年实现约 1 万亿美元收⼊；⽽公司 2025 年收⼊为 186.7 亿美元。因此， 10 万亿美元
-⽬前仍是基于发射频次和带宽变现能⼒的外部推演，并⾮ SpaceX 官⽅指引。
-不过，这⼀收⼊逻辑正进⼊现实验证阶段。⻢斯克本周⼆确认， SpaceX 将于本⽉开始部署下⼀
-代 Starlink V3 星座，并称其最终带宽将超过现有约 1.1 万颗卫星⽹络的 100 倍。 SpaceX ⽬前计划
-于 9 ⽉ 22 ⽇执⾏星舰第 14 次⻜⾏任务，待监管审批后启动。
-要实现每年 1 万次发射，星舰⾃⾝的制造能⼒也是关键约束。⻢斯克近⽇谈及猛禽 3 （ Raptor 3 ）
-时表⽰，会建议初创公司不要尝试制造这款发动机，因为其内部结构极为复杂，只有经过⾼度
-改装的⾦属 3D 打印技术才能制造。
-更重要的是，第 14 次⻜⾏将搭载量产版 V3 卫星。 SpaceX ⾸席财务官 Bret Johnsen 此前表⽰，这
-将成为星舰 “ ⾸次产⽣收⼊的⻜⾏ ” 。随着 V3 开始部署，星舰的发射频次、 Starlink 容量增量以及
-
-单次发射的收⼊转化能⼒，也将从纸⾯测算逐步进⼊实际验证。
-
-### Page 3
-
-⻛险提⽰及免责条款
-市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂
-中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
-172 收藏 分享到 :
-写评论
-图⽚
-3 条评论
-限免
-请发表您的评论
-表情 发布评论
-wscn3714631560
-2 ⼩时前 中国北京
-0  回复
-现在不画个⼗万亿级别的饼都不好意思开⼝。
-⻅闻⽤⼾
-2 ⼩时前 中国⼭西省
-0  回复
-放这么多卫星⼲嘛呢？
-爱学习的佳臻 2 ⼩时前 中国陕西省
-
-### Page 4
-
-0  回复
-回复  ⻅闻⽤⼾：
-主要是占位置，太空资源先到先得，谁先把位置占上就是谁的。
-
----
-## Document 337: 「資本コストや株価を意識した経営」要請から3年の現在地（後編） ～投資家の評価と会社の行動からみる次の課題～
-
-Source PDF: all report pdf/「資本コストや株価を意識した経営」要請から3年の現在地（後編） ～投資家の評価と会社の行動からみる次の課題～.pdf
-Report source: DLRI
-Date: 2026-09-17
-Pages: 7
-Extraction status: ok
-
-### Page 1
-
-Research Report
-
-2026 年 9 月 17 日
-
-1/7 
-「資本コストや株価を意識した経営」要請から 3 年の現在地（後編） 
-～投資家の評価と会社の行動からみる次の課題～ 
- 政策調査部 シニア研究員  河谷 善夫
-
-（要旨） 
-○ 前編では、東証の「資本コストや株価を意識した経営」要請後のPBR・ROE の変化を確認し、
-改善が会社全体に一様に広がったわけではない一方、投資家から取組みの進展を評価された
-会社では、とりわけ PBR 改善との対応が比較的明瞭であることを示した。後編では、投資家
-が会社の何を評価しているのか、会社が投資家との対話をどのように経営行動に結びつけて
-いるのかを分析する。 
-○ まず、投資家から取組みの進展を評価された 295 社へのコメントを「資本配分」「事業ポー
-トフォリオ改革」 「資本効率経営」 「経営陣のリーダーシップ」 「開示・対話の内容、姿勢」
-の 5 カテゴリーに分類し、各カテゴリーの該当・非該当会社で PBR・ROE 改善率を比較した。 
-○ その結果、事業ポートフォリオ改革やリーダーシップではPBR 改善率の差が比較的大きい一
-方、資本配分や資本効率経営ではROE 改善率の差が大きいなど、評価された取組みによって
-改善の現れ方に違いがみられた。開示・対話の内容、姿勢では単独での改善率差は小さく、
-個別施策の効果を単純に切り分けることは難しい。 
-○ 一方、投資家の評価は複数の取組みにまたがるケースが多い。例えば、事業ポートフォリオ
-改革を評価された会社の63.2％は資本効率経営でも評価され、 資本配分を評価された会社の
-66.0％も資本効率経営で評価されていた。また、単一カテゴリーのみの会社に比べ、複数カ
-テゴリーで評価された会社では PBR・ROE 改善率が高い傾向もみられた。 
-○ さらに会社側 682 社へのアンケートをみると、会社が認識する投資家の関心と実際の取組み
-との関係は、PBR・ROE によるグループによって異なる。全体では、事業戦略・成長戦略や成
-長分野への投資について、投資家の関心率が会社の実施率を大きく上回る一方、株主・投資
-家との対話では会社の実施率が関心率を上回っていた。 
-○ これらから、資本コストを意識し、開示や対話を行うこと自体にとどまらず、そこで得られ
-た示唆を事業ポートフォリオ、資本配分、成長投資など具体的な経営判断に落とし込み、持
-続的な収益性と市場評価の向上につなげることが次の課題と考えられる。「対話すること」
-から「経営に実装すること」へ、取組みの実効性がより問われている。
-
-### Page 2
-
-2/7 
-1. はじめに 
-今回、河谷（2026）の分析枠組みを踏襲しつつ、対象をプライム市場からスタンダード市場ま
-で広げた2,903 社について、 「資本コストや株価を意識した経営」の現在地を前後編の2 回にわた
-って考察している（注1）。前編では、東証要請後の改善が市場全体に一様に広がったわけではな
-い一方、投資家から取組みの進展を評価された会社では、とりわけPBR改善との対応が比較的明瞭
-であることを示した。ただし、投資家からの評価とPBR改善との因果関係を示すものではない。 
-後編となる本稿では、2026 年8 月に東証が公表した、投資家が取組みの進展を評価した会社リ
-ストとその評価内容、ならびに会社向けアンケート調査結果を用いて分析を深める。投資家が何
-を評価しているのか、会社が投資家との対話をどのように経営行動に結びつけているのかを考察
-し、取組みの現在地と今後の課題を確認する。
-
-2. 投資家は何を評価しているのか 
-本章の分析では、投資家から取組みの進展を評価された各会社（295 社、注2）に関するコメン
-トについて、生成AIを補助的に用いて内容を整理し、投資家の評価観点を「資本配分」 「事業ポー
-トフォリオ改革」 「資本効率経営」 「経営陣のリーダーシップ」 「開示・対話の内容、姿勢」の5 つ
-のカテゴリーに分類した（以下、本文及び図表では「開示・対話」と略記する。注3）。各カテゴ
-リーに該当する会社と該当しない会社について、2023 年2 月末から2026 年 3 月末までのPBR・ROE
-改善率を比較したものが資料1 である（注4）。
-
-資料 1 各カテゴリーに該当する会社と該当しない会社のPBRとROEの改善率の比較 
-<PBR>
-
-<ROE>
-
-（出所）東証公表資料及びBloombergデータより第一ライフ資産運用経済研究所作成
-
-### Page 3
-
-3/7 
-この比較で注目されるのは、投資家が評価した取組みによって、PBRとROEの改善の現れ方が異
-なる点である。事業ポートフォリオ改革や経営陣のリーダーシップではPBR改善率の差が相対的に
-大きい一方、資本配分や資本効率経営ではROE改善率の差が大きい。これに対し、開示・対話では
-単独での改善率差は小さい。こうした結果からは、投資家が評価する取組みによって、収益性の
-改善と市場からの再評価との対応の仕方が異なる傾向がうかがえる。 
-もっとも、各会社の評価コメントには複数の取組みが同時に含まれており、この比較から個々
-の施策の独立した効果を識別することはできない。そこで次章では、個別の取組みを切り分ける
-のではなく、複数の取組みがどのように併せて評価されているかを確認する。
-
-3. 投資家評価にみられる取組みの複合性 
-資料 2 左は、各カテゴリーが他のカテゴリーとどの程度重複して評価されているかを示す共起
-表である。
-
-資料 2 5 つのカテゴリーの共起表と投資家評価カテゴリー数別PBR・ROEの改善率の比較 
-<共起表>     <投資家評価カテゴリー数別PBR・ROEの改善率の比較>
-
-（出所）資料 1 と同じ
-
-例えば、事業ポートフォリオ改革について評価された会社68 社のうち、63.2％にあたる43 社
-は資本効率経営についても評価されている。また、資本配分について評価されている188 社のう
-ち、66.0％にあたる124 社は資本効率経営でも評価されているということがわかる。リーダーシ
-ップが評価されている会社の60.4％が開示・対話でも評価されている。 
-次に、単一カテゴリーのみで評価された会社に比べ、複数カテゴリーで評価された会社では、
-PBR・ROEの改善率が高い傾向がみられる。また、獲得票数が1 票の会社より、2 票以上の会社の方
-が改善率は高い（資料3）。
-
-### Page 4
-
-4/7 
-資料 3 評価された投資家数(票数)別PBR・ROEの改善率の比較
-
-（出所）資料 1 と同じ
-
-これらの結果は、投資家が会社の取組みを単一の施策ではなく、複数の経営課題への対応の組
-み合わせとして評価していることを示唆している。また、単一カテゴリーのみで評価された会社
-より、複数カテゴリーで評価された会社の方がPBR・ROEの改善率は高い傾向にある。 
-ただし、この結果を「評価される取組みの数が多いほどPBR・ROEが改善する」と直ちに解釈す
-ることには注意が必要である。複数の投資家から評価された会社では、評価コメントに含まれる
-論点も増え、結果として該当カテゴリー数が多くなる可能性があるためである。今回のデータだ
-けでは、取組みの多様さと投資家からの評価の強さ（票数）の影響を切り分けることはできな
-い。したがって、ここでは、複数の取組みを併せて評価された会社では、PBR・ROEの改善率が相
-対的に高い傾向がみられると捉えるのが適切であろう。
-
-4.  対話を企業価値向上につなげるための課題 
-ここまでは投資家側から評価された会社の特徴をみてきた。次に視点を会社側に移し、東証が
-実施した会社向けアンケートから、会社が認識する投資家の関心と実際の取組みとの関係を確認
-する。アンケート回答会社は 682 社であり、個社名は示されていないものの、それぞれが属する
-PBR・ROEのグループは示されている。第1 グループ 294 社、第2 グループ106 社、第3 グループ
-215 社、第4 グループ67 社となっている。 
-このアンケートでは、 「投資家の自社の取組みに対する関心事項」と「対話で得られた意見を踏
-まえて実施した取組み」に共通する14 項目がある（注5） 。本稿では、そのうち、事業戦略、収益
-性、成長投資、資本政策、対話という主要な経営課題をカバーする5 項目を取り上げる。 
-資料 4 は、投資家がその事項に対して関心を持っていると認識した会社のうち、実際に同じ事
-項について取組みを実施した会社の割合（対応率）である。
-
-### Page 5
-
-5/7 
-資料 4 5 つの事項についての対応率の状況
-
-（出所）東証公表データより第一ライフ資産運用経済研究所作成
-
-例えば、低PBR・低ROE会社では「既存事業の収益性向上」の対応率が相対的に高い一方、高
-PBR・高ROE会社では「成長分野への投資」の対応率が比較的高い。すべての項目で第1 グルー
-プ会社の対応率が高いわけではなく、会社が置かれた状況によって投資家との対話を踏まえて
-重点を置く取組みも異なっていることがうかがえる。 
-次に、同じ5 つの事項について、投資家がその事項に関心を持った割合と、会社が実施した
-割合の差（関心率－実施率）を示したのが資料5 である。
-
-資料 5 5 つの事項についての投資家の関心率と会社の実施率の差
-
-（出所）資料 4 と同じ
-
-資料5 からは、全体では、 「事業戦略・成長戦略」で関心率が実施率を44.0％Pt、 「成長分野
-への投資」でも35.5％Pt上回る。一方、 「株主・投資家との対話」は-19.2％Ptで、会社の実施
-率が関心率を上回っている。これは、株主・投資家との対話自体には会社側が幅広く取り組ん
-でいる一方、会社が認識する投資家の関心を踏まえ、事業戦略や成長投資など具体的な経営行
-動につなげる余地はなお大きいことを示唆している。
-
-5.  最後に～対話から実装へ 
-本シリーズでは、東証が公表したデータを用いて、 「資本コストや株価を意識した経営」の現
-
-### Page 6
-
-6/7 
-在地を確認してきた。前編では、東証要請後のPBR・ROEの変化を確認し、改善が会社全体に一
-様に広がったわけではない一方、投資家から取組みの進展を評価された会社では、PBR・ROEの
-改善も相対的に進んでいることを確認した。特にプライム市場上場会社に限定して比較して
-も、PBR1 倍割れからの脱却との対応は比較的明瞭であった。 
-後編ではさらに、投資家が評価する内容と会社側の対応をみた。投資家の評価は、資本配
-分、事業ポートフォリオ改革、資本効率経営、経営陣のリーダーシップ、開示・対話など複数
-の取組みにまたがっており、PBRとROEの改善の現れ方にも違いがみられた。 
-一方、会社側アンケートからは、投資家との対話を踏まえた取組みがみられる一方、事業戦
-略・成長戦略や成長分野への投資などでは、投資家の関心と会社の実施との間になおギャップ
-があることも確認された。 
-これらを踏まえると、東証の要請後の次の課題は、資本コストを意識して開示や投資家との
-対話を行うことに加え、そこで得られた示唆を具体的な経営判断へ落とし込むことにあると考
-えられる。事業ポートフォリオの見直し、資本配分、成長投資などを自社の経営課題に応じて
-実行し、それらを持続的な収益性と市場評価の向上につなげられるか。 「対話すること」から
-「経営に実装すること」へ、取組みの実効性がこれまで以上に問われるようになっているとい
-えよう。 
-以 上
-
-【注釈】 
-1) 本稿の分析では、前編と同様、2023 年2 月末および2026 年 7 月末の双方で東証プライム市場
-またはスタンダード市場に属する会社のうち、分析に必要なPBR・ROEデータを取得できた
-2,903 社を対象としている。 
-2) 前編で示したとおり、投資家により取組みの進展を評価された会社は300 社であるが、今回の
-分析対象会社とした2,903 社に含まれるのは295 社である。 
-3) 投資家が各会社について評価したコメントを生成AIに読み込ませ、コメントに共通してみられ
-る論点や用語を基に評価観点を整理した。その上で、生成AIによる整理を参考に筆者が「資本
-配分」 「事業ポートフォリオ改革」 「資本効率経営」 「経営陣のリーダーシップ」 「開示・対話の
-内容、姿勢」の5 カテゴリーを設定し、各コメントについて該当するカテゴリーを分類した。
-なお、一つのコメントが複数の論点を含む場合には複数カテゴリーへの該当を認め、生成AIに
-よる判定が困難または曖昧なものについては、筆者が原文を確認して最終的に判断した。 
-4) なお、各カテゴリーの該当・非該当間の改善率について二群の比率差検定を行ったところ、5％
-水準で有意な差は確認されなかった。このため、以下では改善率の違いを傾向として捉えてい
-る。 
-5) この 2 つの質問に含まれる回答事項は「投資家の自社の取組みに対する関心事項」が15 個、 「対
-話で得られた意見を踏まえて実施した取組み」が14 個である。前者の中の「短期的業績見通し」だ
-けが後者の回答事項に含まれていない。その他はすべて対応している。
-
-### Page 7
-
-経済研究所が信ずるに足ると判断した情報に基づき作成していますが、その正確性、完全性に対する責任は負いません。見通しは予告
-なく変更されることがあります。また、記載された内容は、第一生命保険ないしはその関連会社の投資方針と常に整合的であるとは限
-りません。
-7/7
-【参考文献】
-・河谷善夫（2026）「東証の『資本コストや株価を意識した経営』要請から3 年～ROE・PBRの 4 象
-限でみるプライム市場企業の変化～」（https://www.dlri.co.jp/report/ld/588240.html）
-・河谷善夫（2026）「『資本コストや株価を意識した経営』要請から3 年の現在地（前編）～PBR・
-ROEの変化と投資家が評価した会社の特徴～」
-（https://www.dlri.co.jp/report/asset/665828.html）
-
----
-## Document 422: 从Walsh到Warsh：美联储加息的逻辑
-
-Source PDF: all report pdf/从Walsh到Warsh：美联储加息的逻辑.pdf
-Report source: 诚通证券
-Date: 2026-09-18
-Pages: 10
-Extraction status: ok
-
-### Page 1
-
-宏观经济
-从 Walsh 到 Warsh：美联储加息的逻辑
-宏观深度
-美东时间9 月16 日，美联储加息25 个基点，根本原因是美国经济周期
-（一阶）和经济动量（二阶）均处于扩张阶段，通胀呈现较强的黏性。美联
-储主席Warsh 强调货币政策反应函数在盯住失业率、通胀偏离均衡程度的同
-时，还应考虑这些指标变化速度。这进一步增强了加息必要性，其学术思想
-可追溯到货币经济学家Walsh（2003，AER）提出的SpeedLimitPolicy。我
-们认为美联储可能继续加息。
-美联储货币政策的限制性不足。货币政策利率的基准应是短期中性利
-率，虽然美国政策利率高于长期中性利率，但相对于短期中性利率，货币政
-策的限制性并不强。疫情后，美国政府加大财政支出，同时人工智能产业链
-加大资本开支，短期中性利率上升。当前政策利率可能并未明显高于短期中
-性利率，美国经济周期（一阶，产出缺口）和经济动量（二阶，经济短周期）
-均处于扩张阶段。一方面，经济增速整体高于潜在增速，产出缺口长期为正，
-并未收窄。这使得失业率持续低于自然失业率，通胀呈现较强黏性，特别是
-
-PCE、核心PCE 通胀仍在3.7%、3.3%的高位，离2%的目标较远。另一方面，
-在AI 资本开支、金融条件等拉动下，经济动量（经济短周期）也处于疫情
-后的第二个上升阶段。美国经济周期、经济动量均处于扩张阶段，如果持续
-下去，通胀可能从AI 产业链扩散至其他产品，周期性通胀存在上升风险。
-美联储货币政策反应函数变化。长期以来，美联储政策反应函数以盯住
-产出缺口（失业率缺口）、通胀缺口（通胀率与目标值之差）为主，比如泰
-勒规则及其各种变形。沃什强调“美联储必须确保通胀趋势朝着目标方向发
-展，且速度足够快，否则，美联储就需采取行动”。这意味着美联储政策利
-率不仅要盯住产出缺口（失业率缺口）、通胀缺口，还要关注这些指标的变
-化速度。其学术思想可追溯到货币经济学家Walsh（2003，AER）提出Speed
-LimitPolicy。目前尚无法确定通胀是否会趋势性回落，更别提回落的速度是
-否够快。自2021 年3 月以来，核心PCE 通胀持续高于2%目标，特别是2024
-年年中之后停止了下滑。这种情况下，美联储有必要重启加息周期，重塑美
-
-联储信誉，使通胀尽快回到2%目标。
-美联储货币政策利率未来路径。短期中性利率很难估算，但根据失业率
-处于低位、核心通胀黏性较强判断，政策利率可能在短期中性利率附近，可
-以逐渐提升政策利率。如果财政支出、人工智能资本开支维持较高增速，那
-么短期中性利率将难以下滑，美联储可能继续加息。未来，政府开支、人工
-智能资本开支增速下滑，拉低短期中性利率。为了避免经济增速过快下滑、
-产出缺口过快收窄，政策利率可缓慢下调，进行预防性降息。如果经济衰退，
-就需要连续多次降息。
- 风险提示：中性利率、潜在经济增速、产出缺口等指标难以衡量；通胀
-影响因素较多，美国通胀趋势存在不确定性；美联储独立性受到影响；美联
-储加息路径存在不确定性。
-邢曙光（分析师）
-xingshuguang@cctgsc.com.cn
-登记编号：S0280520050003
-相关报告
-《人工智能影响利率的四个层面》
-2026-08-23
-《利率二象性：美债利率展望》
-2026-07-19
-《从上市公司财报看经济周期位置及估
-值》2026-05-25
-
-《股票合理估值的微观基础》2026-05-06
-《开局之年，周期向何处去》2025-12-29
-
-### Page 2
-
-目 录
-1、 美联储货币政策的限制性不足.........................................................................................................................................3
-2、 美联储货币政策反应函数变化.........................................................................................................................................5
-3、 美联储货币政策利率未来路径.........................................................................................................................................7
-
-图表目录
-图1： 财政扩张、人工智能相关投资提升短期中性利率，货币政策限制性没那么强...................................................4
-图2： 美国经济周期、经济动量均处于扩张阶段................................................................................................................4
-图3： 美国产出缺口为正，通胀黏性较强............................................................................................................................4
-图4： 美国产出缺口为正，失业率处于低位........................................................................................................................4
-
-图5： 不同经济周期阶段的货币政策....................................................................................................................................5
-图6： 产出增速（二阶，经济动量）达到目标时，产出缺口（一阶，经济周期）未必达到目标...............................6
-图7： 美国产出缺口长期为正且不收敛，是美联储重启加息的根本原因.......................................................................7
-图8： 美联储上调经济增长及通胀预期................................................................................................................................8
-
-图9： FOMC 与会者预期2026 年共加息两次......................................................................................................................8
-
-### Page 3
-
-美东时间9 月16 日，美联储加息25 个基点，将联邦基金利率的目标区间从
-3.5%至3.75%提高到3.75%至4%。美联储收紧货币政策的根本原因是在财政政策
-扩张、资本开支等拉动下，短期中性利率上升，货币政策利率限制性不足，美国经
-济周期（一阶）和经济动量（二阶）均处于扩张阶段，通胀呈现较强的黏性。美联
-储主席Warsh 强调货币政策反应函数在盯住失业率、通胀偏离均衡程度的同时，还
-应考虑这些指标变化速度。这进一步增强了加息必要性，其学术思想可追溯到货币
-经济学家Walsh（2003，AER）提出的SpeedLimitPolicy。鉴于美国经济周期、经
-济动量均处于扩张阶段，我们认为美联储可能继续加息。
-1、 美联储货币政策的限制性不足
-当前，美联储等机构认为美国长期名义中性利率在3%左右，政策利率高于长
-期中性利率，具有一定限制性。但现实是美国经济增速仍较高，失业率处于低位，
-通胀黏性较强。2026 年上半年GDP 实际同比增速2.4%；8 月失业率4.1%，低于自
-然失业率；7 月PCE、核心PCE 通胀仍在3.7%、3.3%的高位。那么，美国货币政
-
-策立场（monetarypolicystance）到底是什么？即美国货币政策利率是限制性的，
-还是扩张性的，抑或中性的？
-实际上，货币政策利率的基准应是短期中性利率，虽然美国政策利率高于长期
-中性利率，但相对于短期中性利率，货币政策的限制性并不是很强，这是美联储重
-启加息的根本原因。
-IS 曲线可以反映政策利率和经济的关系。一个符合现实且含有理性及适应性预
-期的新凯恩斯IS 曲线可以表示为：
-y=θy(−1)+(1−θ)y(+1)−σ(r−r^)+s
-为了更直观地说明政策利率立场，IS 曲线只保留适应性预期且采取下面的简单
-形式：
-y=y(−1)−σ(r−r^)+s
-进一步写为：
-Δy=g−g*=−σ(r−r^)+s=−σ(r−r^−s/σ)=−σ(r−r*)
-其中，y 是产出缺口，Δy 为产出缺口变化，g 是产出增速，g*是潜在产出增
-速，s 是需求冲击，r 是实际政策利率，r*是短期中性利率，r^为长期中性利率，
-r*=r^+s/σ，系数σ>0。
-如果不存在需求冲击，s=0，短期中性利率等于长期中性利率。政策利率高于
-
-中性利率r^时，政策利率是限制性的，产出缺口增速为负，产出增速低于潜在增速，
-产出缺口将逐渐缩小。政策利率等于中性利率r^时，即不刺激经济也不抑制经济，
-产出缺口增速为0，产出增速等于潜在增速，产出缺口保持不变。政策利率低于中
-性利率r^时，将刺激经济，产出缺口增速大于0，产出增速大于潜在增速，产出缺
-口将持续扩张。
-但如果存在需求冲击，比如政府增加支出、企业增加资本开支，短期中性利率
-高于长期中性利率。当负的需求冲击发生时，短期中性利率可能低于长期中性利率，
-比如疫情期间。政策利率对经济的影响，取决于其相对于短期中性利率的位置。如
-果政策利率高于长期中性利率但低于短期中性利率，政策利率仍不能抑制经济。反
-之亦然。
-
-### Page 4
-
-疫情后，美国政府加大财政支出，同时人工智能产业链加大资本开支，短期中
-性利率上升。当前政策利率可能并未明显高于短期中性利率，对经济的抑制不是很
-强，美国经济周期（一阶，产出缺口）和经济动量（二阶，经济短周期）均处于扩
-张阶段。一方面，经济增速整体高于潜在增速，产出缺口长期为正，并未收窄。这
-使得失业率持续低于自然失业率，通胀呈现较强黏性，特别是PCE、核心PCE 通
-胀仍在3.7%、3.3%的高位，离2%的目标较远。另一方面，在AI 资本开支、金融
-条件等拉动下，经济动量（经济短周期）也处于疫情后的第二个上升阶段。美国经
-济周期、经济动量均处于扩张阶段，如果持续下去，通胀可能从AI 产业链扩散至
-其他产品，周期性通胀存在上升风险。
-图 1： 财政扩张、人工智能相关投资提升短期中性利
-率，货币政策限制性不强
-图 2： 美国经济周期、经济动量均处于扩张阶段
-资料来源：Wind，诚通证券研究所 资料来源：Wind，诚通证券研究所
-图 3： 美国产出缺口为正，通胀黏性较强 图 4： 美国产出缺口为正，失业率处于低位
-
-资料来源：Wind，诚通证券研究所 资料来源：Wind，诚通证券研究所
-通胀迟迟无法回到目标值的根本原因是经济周期处于扩张阶段，并不完全因为
-供给因素。即使未来美伊冲突缓和、油价下跌，带来总体通胀下滑，但也会增加经
-济主体信心，核心通胀并不一定会下滑，反而可能回升。
-由于政策利率并未明显高于短期中性利率，为了使核心通胀向目标收敛，美联
-储再次加息。对于再次加息，我们理解为“过热式加息”，而非“预防性加息”。
-“预防性加息”是指产出缺口为负即将转正、通胀风险增加但通胀仍较低时的加息，
-
-### Page 5
-
-而这次是美联储在没有完全控制通胀的情况下降息，导致经济二次加速、核心通胀
-没有继续下滑。
-图 5： 不同经济周期阶段的货币政策
-资料来源：诚通证券研究所
-2、 美联储货币政策反应函数变化
-长期以来，美联储政策反应函数以盯住产出缺口（失业率缺口）、通胀缺口（通
-胀率与目标值之差）为主，比如泰勒规则及其各种变形。8 月28 日，凯文·沃什
-首次以美联储主席身份在杰克逊霍尔全球央行年会发表演讲，强调“美联储必须确
-保通胀趋势朝着目标方向发展，且速度足够快，否则，美联储就需采取行动”。这
-意味着美联储政策利率不仅要盯住产出缺口（失业率缺口）、通胀缺口，还要关注
-这些指标的变化速度。
-在基准新凯恩斯模型中，社会福利损失函数由产出缺口及通胀决定，货币政策
-规则也盯住产出缺口和通胀，但这会导致产出缺口剧烈变化，进而产生社会福利损
-失。著名货币经济学家Walsh（2003，AER）提出SpeedLimitPolicy，主张货币政
-策规则不仅应关注通胀和产出缺口水平，还应关注产出缺口的变化速度，通过使产
-出缺口更加平缓地收敛，提高社会福利。后续有学者通过引入习惯形成、投资调整
-
-成本等机制，从微观基础上推导出社会福利损失函数应包括通胀、产出缺口及产出
-缺口的变化，从而为SpeedLimitPolicy 提供了更坚实的理论依据。
-在能说明问题前提下，简单假设通胀和产出缺口不存在权衡关系，SpeedLimit
-Policy 规则可以写为：
-r=r*+βy+γΔy=r*+βy+γ(g−g*)
-其中，β>0，γ>0。SpeedLimitPolicy 不是单纯控制经济偏离均衡的程度，也考
-虑经济向均衡收敛的速度。当经济过热、失业率较低、通胀较高时，货币政策需要
-收紧，如果经济增速只是略低于潜在增速，正的产出缺口下降速度较慢，那么货币
-政策要加大收紧力度；如果经济增速下降幅度较大，正的产出缺口收窄过快，那么
-产出增速
-产出缺口
-预防性
-加息
-预防性
-降息
-衰退式
-降息
-过热式
-加息
-
-### Page 6
-
-应适度放松货币政策的收紧力度，避免经济过度减速，降低产出缺口下降速度，此
-阶段的降息为预防性降息。
-反之，当经济衰退、失业率较高、通胀低迷时，货币政策需要放松，如果经济
-增速只是略高于潜在增速，负的产出缺口回升速度较慢，那么货币政策要加大宽松
-力度；如果经济增速上升幅度较大，负的产出缺口回升过快，那么应适度收紧货币
-政策的宽松力度，避免经济过度加速，降低产出缺口回升速度，此阶段的加息为预
-防性加息。
-SpeedLimitPolicy 同时关注产出缺口和产出增速缺口（产出增速和潜在增速之
-差，也是产出缺口变化），货币政策规则不宜用产出增速缺口完全替代产出缺口。
-有很多学者提出，由于产出缺口难以衡量，而潜在产出增速相对容易判断，货币政
-策反应函数应用产出增速缺口取代产出缺口本身，比如单一的GDP 增速目标制。
-我们认为这种货币政策规则可能会导致经济较难回到均衡状态。产出增速（二阶，
-经济动量）达到目标时，产出缺口（一阶，经济周期）未必达到目标。
-若只盯住产出增速，当经济衰退、产出缺口为负时，在货币宽松下，产出增速
-
-上升至潜在增速，如果此时停止货币宽松，将政策利率调升至中性利率，那么产出
-缺口仍为负且停止回升。只有产出增速持续高于潜在增速，产出缺口才会不断上升。
-当经济过热、产出缺口为正时，在货币收紧下，产出增速下降至潜在增速，如果此
-时停止货币紧缩，将政策利率调降至中性利率，那么产出缺口仍为正且停止下降。
-只有产出增速持续低于潜在增速，产出缺口才会不断下降。
-图 6： 产出增速（二阶，经济动量）达到目标时，产出缺口（一阶，经济周期）
-未必达到目标
-资料来源：诚通证券研究所
-沃什的货币政策思想与SpeedLimitPolicy 存在深刻的理论共鸣。鲍威尔时代
-的美联储更强调“数据依赖”，本身是对产出缺口和通胀的滞后反应。而沃什强调
-货币政策应具有前瞻性，不仅要根据经济变量偏离目标的方向进行反应，还应关注
-经济向目标收敛的速度。目前尚无法确定通胀是否会趋势性回落，更别提回落的速
-度是否够快。自2021 年3 月以来，核心PCE 通胀持续高于2%目标，特别是2024
-年年中之后停止了下滑。这种情况下，美联储有必要重启加息周期，重塑美联储信
-
-### Page 7
-
-誉，加快产出缺口的收敛速度，使核心通胀尽快回到2%目标。
-图 7： 美国产出缺口长期为正且不收敛，是美联储重启加息的根本原因
-资料来源：Wind，诚通证券研究所
-3、 美联储货币政策利率未来路径
-如何看待未来美联储的政策利率路径？对经济有何影响？经济和政策利率相
-互影响，未来美联储政策利率如何走，取决于要实现怎样的经济效果。
-再回到IS 曲线及SpeedLimitPolicy 规则：
-g−g*=−σ(r−r*)
-r=r*+βy+γ(g−g*)
-短期中性利率很难估算，但根据失业率处于低位、核心通胀黏性较强判断，政
-策利率可能在短期中性利率附近，可以逐渐提升政策利率。政策利率较大幅度提升
-至中性利率之上后，经济增速g 将下降至潜在经济增速g*（约 2.3%）之下，比如
-2%左右，同时产出缺口将开始收窄，失业率温和上升，向自然失业率收敛，通胀逐
-渐降温。如果通胀回落速度仍较慢，可进一步收紧货币政策，使经济增速降至1.5%
-左右。为了使产出缺口下降，重要的是经济增速偏离潜在增速的程度，如果潜在经
-
-济增速提升了，那么实际经济增速不需大幅下降。比如，潜在经济增速上升至3%，
-实际经济增速只要低于3%，即可使产出缺口收窄、通胀回落。
-短期中性利率也是变化的。如果财政支出、人工智能资本开支维持较高增速，
-那么短期中性利率将难以下滑。鉴于当前产出缺口为正，失业率处于低位，核心PCE
-通胀远高于2%目标，且无明显回落趋势，政策利率的限制性不足，美联储可能继
-续加息。
-美联储加息可以通过多个渠道使通胀回落。我们认为核心通胀保持黏性的根本
-原因是经济周期长期处于扩张阶段，而非单纯供给因素，加息通过收紧金融条件，
-使经济适当放缓扩张速度，可以加快通胀向2%目标收敛。此外，适度加息有助于
-
-### Page 8
-
-重塑美联储信誉、降低通胀预期，以及稳定美元汇率、降低进口价格，也有利于降
-低通胀。
-至于未来何时再次降息，分两种情景。一种情景是从短期来看，政府开支、人
-工智能资本开支增速下滑，拉低短期中性利率。为了避免经济增速过快下滑、产出
-缺口过快收窄，政策利率可缓慢下调，进行预防性降息。如果经济衰退，就需要连
-续多次降息。
-另一种情景是从中长期来看，人工智能通过提升全要素生产率，改善有效供给，
-缩小产出缺口，进而拉低通胀，为降息提供空间。但实际中性利率中枢或也上移，
-经济均衡状态下的名义政策利率可能无法回到之前的水平。当然，人工智能革命和
-中性利率的关系很复杂。未来人工智能基建完成，叠加市场集中度提升，资本需求
-也可能降低，进而拉低中性利率。此外，人工智能可能带来劳动力替代风险以及加
-剧收入不平等，这些都会导致储蓄率上升，进而拉低中性利率，届时美联储可以大
-幅度地降息。
-总之，我们认为美国经济周期、经济动量均处于扩张阶段，这是通胀呈现较强
-黏性的根本原因。当前无法确定通胀未来趋势，更不用说收敛速度。为了使通胀加
-
-快向2%目标收敛，我们认为美联储可能继续加息。
-图 8： 美联储上调经济增长及通胀预期 图 9： FOMC 与会者预期 2026 年共加息两次
-资料来源：Fed，诚通证券研究所 资料来源：Fed，诚通证券研究所
-
-### Page 9
-
-特别声明
-根据《证券期货投资者适当性管理办法》、《证券经营机构投资者适当性管理实施指引（试行）》规定，诚通
-证券评定此研报的风险等级为R3（中风险），适用的投资者类别仅限定为专业投资者及风险承受能力为C3、C4、
-C5 的普通投资者。若您为非专业投资者及风险承受能力低于C3 的普通投资者，请勿阅读、收藏、接收或使用本研
-报中的任何信息。
-若因适当性不匹配，给您造成不便，烦请见谅！感谢您给予的理解与配合。
-分析师声明
-本报告署名分析师具有中国证券业协会授予的证券投资咨询执业资格并登记为注册分析师，认真审慎、专业严
-谨、独立客观的出具本报告并对报告内容和观点负责。
-分析师的薪酬的任何组成部分无论是在过去、现在及将来均不会与本报告中具体的推荐意见或观点有直接或间
-接的联系。
-投资评级说明
-诚通证券行业评级体系：推荐、中性、回避
-推荐： 未来6－12个月，预计该行业指数表现强于同期市场基准指数。
-中性： 未来6－12个月，预计该行业指数表现基本与同期市场基准指数持平。
-回避： 未来6－12个月，预计该行业指数表现弱于同期市场基准指数。
-
-市场基准指数为沪深 300 指数。
-诚通证券公司评级体系：强烈推荐、推荐、中性、回避
-强烈推荐：未来6－12 个月，预计该公司股价相对同期市场基准指数涨幅在20%以上。该评级由分析师给出。
-推荐：未来6－12 个月，预计该公司股价相对同期市场基准指数涨幅介于5%－20%。该评级由分析师给出。
-中性：未来6－12 个月，预计该公司股价相对同期市场基准指数变动幅度介于-5%－5%。该评级由分析师给出。
-回避：未来6－12 个月，预计该公司股价相对同期市场基准指数跌幅在5%以上。该评级由分析师给出。
-市场基准指数为沪深 300 指数。
-分析、估值方法的局限性说明
-本报告所包含的分析基于各种假设，不同假设可能导致分析结果出现重大不同。本报告采用的各种估值方法及
-模型均有其局限性，估值结果不保证所涉及证券能够在该价格交易。
-免责声明
-诚通证券股份有限公司经中国证券监督管理委员会批复，已具备证券投资咨询业务资格。
-本报告由诚通证券股份有限公司（以下简称诚通证券）供其机构或个人客户（以下简称客户）使用，诚通证券
-
-本报告所载内容反映的是诚通证券在发表本报告当日的判断，诚通证券可能发出其它与本报告所载内容不一致
-或有不同结论的报告，但诚通证券没有义务和责任去及时更新本报告涉及的内容并通知客户。诚通证券不对因客户
-使用本报告而导致的损失负任何责任。
-对于浏览过程中可能涉及的诚通证券网站以外的地址或超级链接，诚通证券不对其内容负责。链接网站的内容
-不构成本报告的任何部分，客户需自行承担浏览这些网站的费用或风险。
-
-### Page 10
-
-邮编：100020
-公司网址：http://www.cctgsc.com.cn/
-
----
-## Document 492: 四半期見通し『米国～地政学リスクを跳ね返す力強い米国経済～』(2026年10月号)
-
-Source PDF: all report pdf/四半期見通し『米国～地政学リスクを跳ね返す力強い米国経済～』(2026年10月号).pdf
-Report source: DLRI
-Date: 2026-09-17
-Pages: 2
-Extraction status: ok
-
-### Page 1
-
-米国
-～地政学リスクを跳ね返す力強い米国経済～
-トランプ政権の 「米国第一主義」 に基づく貿易 ・ 安全保障
-政策の再構築が進み、 関税強化や不法移民の取り締まり
-厳格化を通じて、 国内外の政策的 ・ 地政学的不確実性は極
-めて高い水準にある。 特に中東情勢の緊迫化に伴うホル
-ムズ海峡の事実上の封鎖は、 サプライチェーンの混乱や
-原油価格の高騰 ・ 乱高下を招いている。 しかし、 足元の米
-経済はAI関連を中心とするIT投資の急速な拡大がこれら
-の下押し圧力を相殺し、 強い底堅さを維持している。
-4-6月期の米国実質GDP成長率 （2次推計） は前期比年
-率＋1.5％と、 1-3月期の同＋2.1％から減速した。 しかし、 成
-長の中身をみると、 実質民間国内最終需要が前期比年率
-＋4.2％ （1-3月期:同＋1.7％） 、 実質国内最終需要が同＋
-3.3％ （同＋2.2％） へとそれぞれ大幅に加速しており、 米国
-経済の内需は力強さを増している。
-7-9月期に入っても景気の底堅さは健在である。 8月の
-
-ISM製造業景気指数は54.6 （7月 ： 55.6） と小幅に低下した
-ものの、 ISM非製造業景気指数は55.4 （7月 ： 54.1） へと上
-昇し、 サービスセクターを中心とした景気の加速を示した。
-労働市場においても安定した推移が続いている。 8月
-の非農業部門雇用者数 （事業所調査） は、 前月差＋16.2万
-人 （7月:同＋2.1万人） と大幅に加速した。 内訳をみると、 7
-月に季節調整の歪み等から地方教員が大幅減少した反
-動で、 政府部門が前月差＋3.5万人 （7月:同▲5.0万人） と
-増加に転じた。 加えて、 イベン ト特需による減速からの持
-地政学リ スク高まるなか内需とAI投資が下支え
-ち直しによって民間部門は同＋12.7万人 （7月:同＋7.1万
-人） と伸びを高めた。 雇用の基調を示す移動平均をみる
-と、 非農業部門雇用者数の3カ月移動平均は前月差＋7.1
-万人 （7月:同＋3.8万人） へと加速した。 民間部門に限って
-も、 3カ月移動平均は前月差＋7.5万人 （7月:同＋5.3万人）
-
-と加速した。 失業率 （家計調査） が4.1％と横ばいで推移し
-たことなどを踏まえれば、 労働市場の安定基調が継続し
-ていると判断される。
-インフレ環境をみると、 7月のコアCPIは前年同月比＋
-2.5％ （6月 ： ＋2.6％） と高水準で下げ渋っているものの、 3
-カ月前対比年率で＋1.6％ （6月 ： ＋2.3％） 、 6カ月前対比年
-率で＋2.4％ （6月 ： ＋2.6％） へと低下している。 これは、
-FRBが目標とする2％に向けて基調的なインフレ率の低
-下が再開していることを示唆している。
-このような中、 7月のFOMCにおいて、 FRBはFFレー ト
-誘導目標レンジを3.50～3.75％に5会合連続で据え置く
-ことを決定した。 しかし、 採決結果は賛成9 ・ 反対3とタカ
-派的な分裂が浮き彫り となった。 ハマッ ク （クリーブラン ド
-連銀） 、 カシュカリ （ミネアポリス連銀） 、 ローガン （ダラス
-連銀） の地区連銀総裁3名が、 即時の0.25％ （25bp） の利
-
-上げを求めて据え置きに反対した。
-今後の米国経済は、 関税政策による下押し圧力を積極
-的な財政政策やAI投資が相殺し、 成長を後押しする構図
-となる見込みである。 2026年2月の最高裁判決により国
-積極財政が関税の押し下げ効果を相殺し堅調
-経済調査部　主任エコノミス ト　桂畑 誠治（かつらはた せいじ）
-資料1 米国労働情勢
-（出所） 米労働省より第一ライフ資産運用経済研究所作成
-2.0
-2.5
-3.0
-3.5
-4.0
-4.5
-5.0
-5.5
-6.0
-6.5
-7.0
--400
--200
-0
-200
-400
-600
-800
-1000
-21 22 23 24 25 26
-（％）
-非農業部門雇用者数(前月差、左)
-民間部門雇用者数(前月差、左)
-失業率(右)
-（千人）
-資料2 コアCPIの推移
-（出所） 米労働省より第一ライフ資産運用経済研究所作成
--4
--2
-0
-2
-4
-6
-8
-10
-12
-18 20 22 24 26
-（％）
-３ヵ月前対比年率
-６ヵ月前対比年率
-前年比
-5 第一ライフ研レポー ト 2026.10
-
-四半期見通し四半期見通し
-四半期見通し
-
-### Page 2
-
-際緊急経済権限法 （IEEPA） に基づく関税が違法とされた
-ことを受け、 政府は通商法122条 （一律10％の追加関税）
-へ移行した。 その後、 2026年7月24日の通商法122条の
-期限切れに伴い1974年通商法301条に基づく新関税枠
-組みへと切り替わったことで、 実効関税率は7月時点で約
-7.1～7.4％まで低下している （2025年の約14.4％から
-大幅に低下。 なお、 2024年は2.4％） 。 これにより、 実質
-GDP成長率への下押し効果は0.1～0.2％ポイン ト
-（2025年は約0.5％ポイン トの押し下げ） にとどまる試算
-である。
-一方で、 2025年7月4日に成立した財政調整法
-｢OBBBA(One Big Beautiful Bill Act)｣が経済成長を
-強く後押しする。 同法は、 2017年の 「減税 ・ 雇用法
-（TCJA） 」 の主要条項の延長や所得税 ・ 法人税の新たな減
-税措置を含む一方で、 社会保障網プログラムの削減、 国
-防 ・ 国境警備への支出増額などの歳出調整を盛り込んだ
-
-法律である。 2025年から一部の措置が開始されている
-が、 2026年に減税効果が最大化するため、 中間所得層を
-中心に家計の実質所得を押し上げて個人消費の拡大を
-支えると予想される。 さらに、 即時償却制度の拡大など投
-資減税の恩恵によって設備投資の拡大も期待され、 これ
-らが実質GDPを0.4～0.8％ポイン ト程度押し上げると見
-込まれる。 結果と して、 関税による下押し圧力を上回る経
-済の押し上げ効果が期待される。
-財政調整法 （OBBBA） による経済牽引
-2026年通期でみれば、 政府機関の活動再開による押
-し上げや前述した減税効果、 AI投資によって、 米経済は堅
-調な成長を維持する見通しである。 個人消費は、 物価高
-の影響を受けつつも、 株価や不動産価格の上昇に伴う資
-産効果、 および減税による手取り収入の増加に支えられ、
-底堅く推移すると見込まれる。 設備投資は、 減税効果に加
-え、 生成AIの急速な普及に伴うデータセンター整備や半
-導体などのIT需要の拡大、 通商合意の進展による不確実
-
-性の緩和、 製造業の国内回帰に向けた直接投資の増加な
-どを背景に伸び率が加速すると見込まれる。 さらに、 主要
-国とのパー トナーシ ップ再構築や通商合意を受けた農作
-物やエネルギーの輸出拡大も期待される。
-以上の要因から、 2026年の米国経済は潜在成長率
-（約1.8～2.0％） を上回るペースを維持し、 通期で実質
-GDP成長率＋2.2％と堅調さを維持する公算が大きい。
-引き締め的な金融環境が残るなかでも、 労働市場は失業
-率4.5％未満の歴史的にも安定した状態が続く と見込ま
-れる。
-他方、 インフレに関しては、 住宅関連費用の低下が続く
-ものの、 原油価格の上昇や関税賦課の影響が徐々に川下
-へ波及し、 緩やかに上昇する可能性が高い。 こう した底堅
-い成長と根強いインフレが同居する環境下、 FRBは2026
-年を通じてタカ派的な政策金利の据え置きを継続すると
-予想される。
-2026年は潜在成長率を上回りFRBの慎重姿勢持続
-資料3 米国経済見通し （前年比、 ％）
-（注） 図中カ ッコ内は寄与度
-
-（出所） 米商務省、 予測は第一ライフ資産運用経済研究所
-資料4 米国実質GDP成長率 （前期比年率）
-（出所） 米商務省、 予測は第一ライフ資産運用経済研究所
-6第一ライフ研レポー ト 2026.10
-四半期見通し
-四半期見通し
-
----
-## Document 494: 固本收利：公債殖利率全線走高，非投等債優勢盡顯
-
-Source PDF: all report pdf/固本收利：公債殖利率全線走高，非投等債優勢盡顯.pdf
-Report source: Fubon
-Date: 2026-09-18
-Pages: 5
-Extraction status: ok
-
-### Page 1
-
-2026
-
-02-8751-6665 
- www.fubon.com 
-臺北市大安區仁愛路四段 169 號
-
-公債殖利率全線走高，非投等債優勢盡顯 
-全球長債殖利率因財政赤字及債務問題而逐步走高，而短天期公債殖利率也受
-到升息預期影響而上揚， 使公債 、 投等債表現相對壓抑 。 建議應逢利率高位布局
-非投等債 ETF 或基金，因存續期間短及票面利率高而有望獲得較佳表現。 
-出刊日：2026/09/18 
-221 期
-
-### Page 2
-
-2026
-
-02-8751-6665 
- www.fubon.com 
-臺北市大安區仁愛路四段 169 號 
-固本收利
-
-本期內容： 
-⚫ 長天期公債反映赤
-字問題 
-⚫ 短天期公債聚焦
-FED 官員態度 
-⚫ 非投等債表現優於
-公債、投等債
-
-重摘要
-
-■ 近期全球長天期公債殖利率攀升，主
-因各國財政赤字與債務規模持續惡化。
-CBO 預估美國未來十年公共債務占
-GDP 比率將由 99%升至 120%，財政
-疑慮成為長端利率的重要推升力量。
-
-■ Fed 主席 Warsh 釋出偏鷹訊號，市場
-重新提高升息機率，使 2 年期公債殖
-利率快速上揚。短端利率漲幅大於長
-端，殖利率曲線再度趨平。
-
-■ 在利率全面走高環境下，非投等債憑
-藉較短存續期間與較高票息維持相對
-優勢 。 非投等債信用利差小幅收斂 ， 反
-映市場仍看好全球經濟韌性，其中能
-源產業表現尤為突出。
-
-美國公債殖利率全線走升
-
-資料來源：Bloomberg/北富銀整理, 2026/9/9
-
-重點摘要 
-公債殖利率全線走高，非投等債優勢盡顯
-
-### Page 3
-
-2026
-
-02-8751-6665 
- www.fubon.com 
-臺北市大安區仁愛路四段 169 號
-
-▋ 長天期公債反映赤字問題 
-近期全球長天期公債殖利率再次飆升 ， 主要
-反應各國財政赤字及債務總額持續飆高等
-負面因素。媒體多以「美國總債務站上 40
-兆美元」 等標題發稿 ， 引發市場對美國財政
-問題的擔憂。
-
-圖一：美國公共債務佔 GDP 比率持續上升
-
-資料來源：美國國會預算辦公室(CBO), 2026/02
-
-以美國國會預算辦公室最新(2026 年 2 月)
-估計來看，未來 10 年美國財政赤字率不僅
-沒有縮小 ， 反而預期在2032 年後持續擴大
-至 6%以上，而名目經濟成長率卻預期在
-2028 年後長期維持在 3.8%的水準，一來
-一往將使美國公共債務佔 GDP 比率持續上
-升，由 99.4% (2025 年 ) 一路上揚至
-120.2%(2036 年)。
-
-▋ 短天期公債聚焦 FED 官員態度 
-美國短天期公債也自 8/28 開始快速飆升，
-2 年期公債殖利率由 4.23%上升至 4.40%
-水準，主要反應聯準會主席 Warsh 在全球
-央行年會的鷹派發言(內容概括認為通膨仍
-過高、重申 2%通膨目標，並暗示若通膨未
-明顯改善 ， 必要時將支持升息)， 即便後續有
-過去相對鷹派的 FED 理事 Waller 出面緩和
-情緒並表示 「若通膨持續降溫，他傾向在9
-月的政策會議上維持利率不變」 ， 但市場仍
-持續押注 9 月聯準會會議升息的預期。
-
-圖二 ： 升息預期扭轉 ， 殖利率曲線再次趨平
-
-資料來源：Bloomberg/北富銀整理, 2026/9/9
-
-即便美國公債殖利率走勢呈現全線上揚 ， 但
-因市場對升息預期押注變化 ， 美國短天期殖
-利率上揚幅度更加劇烈 ， 使殖利率曲線再次
-呈現「趨平」(長、短天期利差縮窄)，雖然
-和緩先前市場對成長股未來估值折價的影
-響 ， 但卻不利利率類產品價格 ， 尤其是希望
-透過買、賣債券獲取資本利得的交易者。
-
-▋ 非投等債表現優於公債、投等債 
-在殖利率曲線全線上揚下 ， 各類債券產品在
-2026 年的表現自然趨於弱勢，不僅與股權
-類商品有明顯差距 ， 甚至多數類別全年呈現
-下跌 ， 僅有非投等債維持上漲 ， 反映其相對
-公債及投等債存續期間短(對利率風險的敏
-感度相對低 )以及票面利率相對高 (基礎收
-益率相對高)的特性 。 而在利差表現上 ， 非投
-等債利差持續縮窄 ， 不僅挹注全年表現 ， 也
-印證全球經濟仍維持相對樂觀及強勁 ， 短期
-不太會出現萎縮 ， 甚至處在 「No Landing」。
-
-### Page 4
-
-2026
-
-02-8751-6665 
- www.fubon.com 
-臺北市大安區仁愛路四段 169 號
-
-圖三 ： 非投等債表現明顯優於公債及投等債
-
-資料來源：Bloomberg/北富銀整理, 2026/9/9
-
-圖四：非投等債天期短、殖利率高
-
-資料來源：Bloomberg/北富銀整理, 2026/9/9
-
-然而 ， 非投等債利差也非全面性地縮窄 ， 而
-是依產業獲利及財務狀態而有所差異 。 以北
-美非投等債為例 ， 全年表現最好的產業是能
-源及非必需消費，信用利差 (OAS)皆縮窄
-199bps，尤其能源業在今年油價高漲帶動
-裂解價差創新高下 ， 信用利差已來到低於整
-體平均(265bps)的 182bps。 而全年表現最
-差 的 則是 運 輸產 業， 全年 信 用利 差 放寬
-434bps 來到 857bps，已高達非投等債平
-均的 3.23 倍。與之相比，北美投等債的信
-用利差在去年來到相對低位後 ， 即便今年美
-國經濟相對強勢 ， 短期再次大幅縮窄的空間
-也相對有限，整體平均由 77bps 微幅上升
-至 79bps。 產業同樣以能源產業表現最佳 ，
-全年信用利差縮窄 13bps 至 79bps(去年年
-底為 92bps)，而表現最差的產業則為資訊
-科技 ， 全年信用利差放寬10bps 至 83bps，
-充分反映大型科技巨頭為籌措 AI 基礎建設
-資金而在今年大量發債 ， 為企業本身財務體
-質帶來的負面效應。
-
-▋ 總結 
-短期美國政府或難快速解決長期財政赤字
-及債務持續擴張的問題 ， 長天期公債殖利率
-有逐步走高的風險 。 而目前美國通膨數據即
-便有放緩的跡象 ， 但位階仍遠遠高於長期中
-性的 2%水準 ， 故即便9 月聯準會利率決議
-維持利率不變 ， 市場仍可能維持2026 年內
-將升息一碼的預期 ， 將使短期公債殖利率維
-持在 4%更長期間。
-
-投資人若希望透過買入債券賺取資本利得 ，
-將高度仰賴利差縮窄 ， 而目前北美信用債利
-差已在長期相對低位 ， 短期或難再次大幅下
-行 ， 故全年收益仍預期以息收為主 。 建議投
-資人可買進非投等債 ETF 或基金，將資金
-交給專業投資機構布局 ， 分散個別企業風險 ，
-鎖定較高的殖利率 ， 即便短期仍有利率風險
-干擾 ， 但整體報酬預期將比公債及投等債佳 。
-
-### Page 5
-
-2026
-
----
-## Document 578: 港交所拟年内推出首只离岸人民币债券指数，剑指全球最大点心债市场
-
-Source PDF: all report pdf/港交所拟年内推出首只离岸人民币债券指数，剑指全球最大点心债市场.pdf
-Report source: WallstreetCN (Global)
-Date: 2026-09-17
-Pages: 2
-Extraction status: ok
-
-### Page 1
-
-港交所拟于 2026 年底前推出⾸只离岸⼈⺠币债券指数，追踪发⾏规模不低于 10 亿元的点⼼
-债，并与 ETF 产品深度挂钩。恰逢点⼼债今年发⾏量同⽐激增 34% ⾄ 8760 亿元的历史⾼
-位，叠加南向债券通额度⼤幅扩容及去美元化浪潮提振，⾹港离岸⼈⺠币枢纽地位或将进
-⼀步夯实。
-摘要：
-⾹港交易所正考虑在 2026 年底前推出其历史上⾸只债券指数，以追踪离岸⼈⺠币计价债券表
-现，此举旨在提振全球最⼤离岸⼈⺠币市场的交易活跃度，并为相关 ETF 产品提供基准参照。
-周四，据彭博社援引知情⼈⼠消息，该指数预计将追踪发⾏规模不低于 10 亿元⼈⺠币的点⼼
-债，且标的证券须在港交所上市并使⽤其基础设施。
-港交所发⾔⼈表⽰，期待适时分享更多关于⾸只债券指数的细节，以⽀持⼈⺠币国际化进程及
-⾹港多资产⽣态系统的持续发展。⾹港⾏政⻓官李家超昨⽇在施政报告中亦明确提及，港交所
-离岸⼈⺠币债券指数将作为 " 市场趋势参考及交易所买卖基⾦的相关指数 " 。
-此举落地于点⼼债市场势头强劲之际。据彭博汇编数据，今年迄今主权及企业发⾏⼈合计发⾏
-
-离岸⼈⺠币债券 8760 亿元，同⽐增⻓ 34% ，创同期历史新⾼。与此同时，中国当局正持续加码
-巩固⾹港离岸⼈⺠币枢纽地位，地缘政治紧张局势引发的去美元化讨论，亦为⼈⺠币资产吸引
-⼒提供了额外⽀撑。
-指数设计：⻔槛清晰，基础设施绑定港交所
-据知情⼈⼠透露，拟推出的离岸⼈⺠币债券指数将设定明确的纳⼊⻔槛：标的债券发⾏规模须
-达到 10 亿元⼈⺠币（约合 1.49 亿美元）以上，且须在港交所上市并使⽤其配套基础设施。
-上述设计思路意在筛选流动性较强的债券品种，同时将指数⽣态与港交所平台深度绑定，有助
-于引导发⾏⼈选择⾹港作为点⼼债上市地，进⼀步强化⾹港在离岸⼈⺠币债券市场的基础设施
-优势。
-港交所发⾔⼈在回应置评请求时表⽰， " 期待适时分享更多关于港交所⾸只债券指数的细节，以
-⽀持⼈⺠币国际化进程，以及⾹港多资产⽣态系统的持续发展。 "
-政策背书：当局多管⻬下巩固离岸⼈⺠币枢纽地位
-此次债券指数计划获得⾹港最⾼层的明确背书。李家超在施政报告中点名提及港交所离岸⼈⺠
-币债券指数，将其定位为市场趋势参考⼯具及 ETF 相关指数，显⽰该指数已被纳⼊⾹港强化离岸
-
-者通过⾹港购买离岸债券，年度额度从 5000 亿元⼈⺠币上调⾄ 8000 亿元⼈⺠币，增幅达 60% 。
-与此同时，伊朗战争等地缘政治紧张局势引发市场对美元地位的质疑，投资者对⼈⺠币资产的
-兴趣持续升温，为上述政策措施提供了有利的外部环境。
-市场背景：点⼼债发⾏创历史同期纪录
-⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⽣活家 搜索
-
-### Page 2
-
-⻛险提⽰及免责条款
-市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂
-中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
-35 收藏 分享到 :
-写评论
-图⽚
-债券指数计划的提出，恰逢点⼼债市场进⼊⾼速扩张阶段。今年 1 ⽉ 1 ⽇⾄ 9 ⽉ 16 ⽇期间，主权及
-企业发⾏⼈合计发⾏离岸⼈⺠币债券 8760 亿元，较去年同期增⻓ 34% ，创该统计区间历史新
-⾼。
-发⾏量的快速攀升，既反映出发⾏⼈对⾹港离岸⼈⺠币融资渠道的倚重加深，也折射出全球投
-资者对⼈⺠币计价资产配置需求的上升。⼀旦港交所债券指数正式落地，市场将获得⼀个标准
-化的业绩基准，有望进⼀步催化被动投资产品的开发，并吸引更多机构资⾦流⼊点⼼债市场。
-请发表您的评论
-表情 发布评论
-
----
-## Document 581: 為替相場展望2026年９月号：◆ドル円：緩やかな円高へ◆ユーロ：対ドルは緩やかなユーロ高へ（PDF：894KB）
-
-Source PDF: all report pdf/為替相場展望2026年９月号：◆ドル円：緩やかな円高へ◆ユーロ：対ドルは緩やかなユーロ高へ（PDF：894KB）.pdf
-Report source: JRI
-Date: 2026-09-02
+## Document 330: Warsh & Bessent Share A Credibility Problem
+
+Source PDF: all report pdf/Warsh & Bessent Share A Credibility Problem.pdf
+Report source: Substack Reports
+Date: 2026-09-14
 Pages: 6
 Extraction status: ok
 
 ### Page 1
 
-為 替 相 場 展 望
-2026年９月
-調査部 マクロ経済研究センター
-https://www.jri.co.jp/report/medium/exchange/
+From:    Yardeni QuickTakes <yardeni-research@ghost.io>
+Subject: Warsh & Bessent Share A Credibility Problem
+Date:    13 hours ago
+
+YARDENI QUICKTAKES
+Warsh & Bessent Share A
+Credibility Problem
+By Ed Yardeni • 14 Sept 2026
+View in browser
 
 ### Page 2
 
-性・完全性を保証するものではありません。また、情報の内容は、経済情勢等の変化により変更されることがあります。本資料の情報に起因してご閲覧者様及び第三者に損害が発生したとしても執筆者、執筆にあたっての取材先及び
-弊社は一切責任を負わないものとします。
-メルマガ X（旧Twitter） YouTube
+Photo by Neil and Zulma Scott / Unsplash
+President Donald Trump has some advice for the Fed. Speaking to
+reporters at the Irish Open golf tournament today, he said he did not know
+whether Fed policymakers will raise interest rates at their meeting this
+week. But he said the US "should be paying the  lowest interest rate in the
+world" even though economic growth is robust and inflation remains sticky
+above the Fed's 2.0% target.
 
 ### Page 3
 
-為替
-(株)日本総合研究所 為替相場展望 2026年９月
-140
-145
-150
-155
-160
-165
-170
-2025/6 9 12 26/3 6 9 12 27/3 6
-(円)
-(年/月末)
-予測
-（資料）Bloomberg L.P.を基に日本総研作成
-2
-◆ドル円相場回顧
-８月のドル円相場は、月初に日米政府高官の発
-言を受けて、追加の円買い介入への警戒感が高ま
-り、一時155円台前半へ円が急伸。
-その後、介入警戒感の後退などから 、中旬にかけ
-て159円台後半へドル高・円安が進行。
-下旬にかけては 、159円台前半を中心に一進一
-退。米財務省による長期国債の買い戻し拡大の発
-表を受け、米長期金利が低下したことがドル安要因
-に。一方、米政府による対イラン制裁の拡大を受け
-て、紛争長期化への警戒感が高まり、原油高を通じ
-たわが国の貿易赤字拡大への懸念が円安要因に。
-月末には 、一時160円台前半へドル高 ・円安が
-進行。ウォーシュＦＲＢ議長によるタカ派的な発言
-を受け、早期利上げ観測が高まったことが背景。
+The President was a frequent critic of former Fed Chair Jay Powell. He
+has been more supportive of the new Fed Chair Kevin Warsh. But Trump
+recently made his demands clear. "LOWER THE RATE OR I'LL STOP
+TRADING WITH COUNTRIES WITH WHICH WE HAVE A DEFICIT,"
+Trump posted on  social media two weeks ago.
+Warsh is likely to displease Trump on Wednesday, when the FOMC is
+widely expected to hike the federal funds rate by 25bps to a range of
+3.75%-4.00%. A couple of dissenters may emerge, but Warsh won't be
 
-◆今後の見通し
-先行きのドル円相場は 、徐々にドル安・円高が進
-行する見通し。ＦＲＢは資源高によるインフレ再燃
-懸念から当面政策金利を据え置く一方 、日銀はわ
-が国の物価や経済動向を踏まえながら、利上げペー
-スを四半期に１回程度へ加速させ、日米金利差が
-縮小することが背景。
-ただし、中東危機を背景とした資源価格の高止ま
-りによるわが国の貿易赤字の拡大 に加え、財政悪
-化懸念などを背景に、ドル安・円高進行ペースは緩
-やかにとどまる見込み。
-ドル円相場見通し：緩やかな円高へ
-予測
-ドル円相場見通し
-（円）
-2026年 2027年
-4～6 7～9 10～12 1～3 4～6
-期中平均 159 160 159 158 157
-（高値） 162.55 165 164 163 162
-レンジ ～ ～ ～ ～ ～
-（安値） 156.39 155 154 153 152
-ジャクソンホール会議でのウォーシュ議長講演要旨
-（資料）FRBを基に日本総研作成
-▲ 15
-▲ 10
-▲ 5
-0
-5
-10
-15
-20
+one of them. Furthermore, he is likely to be quite hawkish during his press
+conference after the FOMC meeting on Wednesday. While he has
+foresworn providing any forward guidance, we expect that his comments
+will convince financial market participants that this may be the beginning
+of a rate-hiking cycle.
+That won't come as a surprise. The federal funds futures market is already
+anticipating three to four rate hikes over the next 12 months (chart).
 
-25
-30
-35
-2024 25 26
-為替要因
-資源要因
-その他
-輸入物価指数（円ベース）
-日本の輸入物価指数（前年比）
-（年/月）
-（％）
-（資料）CEICを基に日本総研作成
-（注）為替要因は、円ベース前年比と契約通貨ベース前年比の差として算出。
-資源要因は、契約通貨ベースの石炭・原油・天然ガスの寄与度。
+The same can be said for the two-year Treasury yield, which closely
+tracks the 12-month federal funds futures (chart).
 
 ### Page 4
 
-為替
-(株)日本総合研究所 為替相場展望 2026年９月
-1.10
-1.12
-1.14
-1.16
-1.18
-1.20
-1.22
-2025/6 9 12 26/3 6 9 12 27/3 6
-(ﾄﾞﾙ)
-(年/月末)
-予測
-◆ユーロ相場回顧
-８月のユーロドル相場は 、中旬にかけて1.17ドル
-台へユーロ高 ・ドル安が進行 。米雇用統計が市場
-予想を下回ったことなどから、ＦＲＢによる早期利上
-げ観測が後退したことが背景。
-その後、月末にかけて1.16ドル台半ばを中心に横
-ばい圏で推移。米物価指標が市場予想を上回った
-一方、製造業を中心としたユーロ圏の景況感改善
-がユーロの下支えに。
-対円では、米国政府・連銀によるユーロ売り・円買
-いの為替介入を受けて、月初に一時179円台半ば
-まで円高が進行。その後、下旬にかけて185円台後
-半へユーロ高・円安が進行。ユーロ圏の堅調な経済
-指標を受けて、ＥＣＢによる追加利上げ観測が強
-まったことなどが背景。
-◆今後の見通し
-ユーロドル相場は 、緩やかなユーロ高基調で推移
+The Fed had a credibility problem before Warsh replaced Powell. The
+FOMC cut the federal funds rate (FFR) four times in late 2024 by a total of
+100bps to ease financial conditions on concerns that the labor market
+might weaken. The bond market dissented, as the 10-year yield rose
+100bps (chart). The FOMC cut the FFR three times by a total of 75bps in
+late 2025. The bond yield diverged again, rising to 5.00% intraday today.
+Now, Warsh owns the Fed's credibility problem. He has been talking
 
-する見込み。中東情勢の混乱を受けた資源価格の
-高止まりはユーロ圏景気の下押し要因となるものの 、
-インフレ率は政策目標を上回って推移しており 、Ｅ
-ＣＢは追加利上げを実施すると予想。一方、ＦＲ
-Ｂは当面政策金利を据え置くとみられ 、欧米金利
-差の縮小がユーロを押し上げる公算。
-対円では、横ばい圏で推移する見通し。日銀の利
-上げペース加速に伴う日欧金利差の縮小が円高圧
-力となるものの、ユーロ圏景気の底堅さがユーロの下
-値を支える見込み。
-ユーロ相場見通し：対ドルは緩やかなユーロ高へ
-3
-予測
-（ドル）
-（円）
-予測
-ユーロ相場見通し
-2026年 2027年
-4～6 7～9 10～12 1～3 4～6
-期中平均 1.16 1.16 1.17 1.17 1.18
-（高値） 1.180 1.18 1.19 1.19 1.20
-レンジ ～ ～ ～ ～ ～
-（安値） 1.136 1.13 1.14 1.14 1.15
-▲ 1
-0
-1
-2
-3
-4
-5
-6
-2023 24 25 26 27
-日銀 FRB ECB
-
-各国中銀の政策金利見通し
-（％）
-（資料）Bloomberg L.P.を基に日本総研作成
-（年/月）
-日本総研予測
-44
-46
-48
-50
-52
-54
-2024 25 26
-製造業 サービス業
-（資料）Bloomberg L.P.を基に日本総研作成
-（年）
-（ポイント）
-ユーロ圏のPMI
-2026年 2027年
-4～6 7～9 10～12 1～3 4～6
-期中平均 185.33 186 186 185 185
-（高値） 187.60 191 191 190 190
-レンジ ～ ～ ～ ～ ～
-（安値） 183.70 183 183 182 182 165
-170
-175
-180
-185
-190
-195
-2025/6 9 12 26/3 6 9 12 27/3 6
-(円)
-(年/月末)
-予測
-（資料）Bloomberg L.P.を基に日本総研作成
+hawkishly since June. Now, he has to deliver a rate hike. After all, he
+promised to follow the financial markets' lead. The 2-year and 10-year
+yields are clearly calling for a rate hike. If they keep rising after Warsh's
+presser on Wednesday, then he will still have a credibility problem.
 
 ### Page 5
 
-為替
-(株)日本総合研究所 為替相場展望 2026年９月4
-◆ＦＩＭＡレポ活用は新たなドル調達手段に
-今夏の円相場では、円安そのものに加え、日米通
-貨当局の連携が市場の焦点に。７月末のドル売り・
-円買い協調介入後に公表された片山財務大臣談
-話で、今後の「外国・国際通貨当局向け（ＦＩＭ
-Ａ）レポ・ファシリティ 」活用が示唆されたことで 、追
-加介入への警戒感から円高が加速。
-従来のドル売り・円買い介入では、ドルを調達すべ
-く、外国為替資金特別会計が保有する米国債など
-のドル資産を売却してドルを調達 。もっとも、大規模
-な米国債の売却は米長期金利の上昇圧力となる
-ほか、即座に利用可能な外貨預金残高も限定的
-であり、市場では追加介入に上限があるとの見方も。
-今回示唆されたＦＩＭＡレポは 、保有する米国
-債をＦＲＢに一時的に売却し、後で買い戻すことで
-ドルを調達する枠組み 。これを利用すれば 、わが国
-は米国債を市場で売却することなく介入原資を確
-保できることから 、米国債市場への影響を回避しな
+US Treasury Secretary Scott Bessent also has a credibility problem. In his
+early confirmation hearings and initial media rounds in January and
+February 2025, Bessent argued that the administration’s strategy of
+promoting "deregulation, energy dominance, and fiscal restraint" would
+naturally anchor long-term interest rates. He positioned a stabilizing 10-
+year yield as a direct vote of confidence in the new economic agenda.
+When yields tested key thresholds early in 2025, Bessent consistently
 
-がら機動的なドル調達が可能に。
-◆米金利上昇を防ぐも円安是正には限界も
-一方、ＦＩＭＡレポによる外貨調達は一時的な
-資金の借り入れであり、最終的にはレポ金利の支払
-いと米国債の買い戻しが必要 。したがって 、実際に
-ＦＩＭＡレポを用いた介入を実施した場合も 、円
-安是正効果は一時的なものに留まる公算 。円高ト
-レンドへの転換には、日米金利差などの円安の背景
-にある要因の変化が必要。
-トピック：FIMAレポ活用による円相場への影響は一時的
-0.0
-0.2
-0.4
-0.6
-0.8
-1.0
-1.2
-1.4
-1.6
-2000 05 10 15 20 25
-証券 預金 その他
-わが国の外貨準備残高
-（兆ドル）
-（年度/月）（資料）財務省を基に日本総研作成
-（資料）Choi et al. (2021) The Fed's Central Bank Swap Lines
-and FIMA Repo Facility. Federal Reserve Bank of New
-York Staff Reports. 983を基に日本総研作成
+pushed back against market narrative-spinning, arguing that short-term
+moves in the 10-year were often exaggerated by market participants. He
+stressed that the Treasury's primary focus was orderly debt management
+and predictable issuance schedules, not micromanaging daily yield ticks.
+Bessent recently described his role as the nation’s "top bond salesman"
+and said Treasury yields serve as a key economic barometer. As yields
+climbed—even amid Treasury interventions like targeted buyback
 
-FIMAレポを使用した為替介入のスキーム
-財務省
-（外為特会）
-日本銀行
-①介入指示・
-米国債拠出
-③ドル売り・円買い
-（為替介入）
-外国為替市場
-FRB
-②米国債を一時売却
-（担保）
-ドル貸出
-④米国債買戻し
-（金利分上乗せ）
-|
-7/30
-21:00
-|
-31
-9:00
-|
-8/1
-5:00
-|
-3
-9:00
-155
-156
-157
-158
-159
-160
-161
-162
-163 日本 単独介入
-介入観測報道
-（米国 レートチェック）
-財務大臣
-談話公表
-（日米協調介入）
-トランプ大統領 記者会見
-介入後のドル円相場と主な出来事
-（円）
-（年/月/日/時）
-（資料）Bloomberg L.P.、各種報道を基に日本総研作成
-（注）日本時間。●は実弾介入。●は報道や高官発言。●はその他。
-ベッセント米財務相 X投稿
-2.0
-2.2
-2.4
-2.6
-2.8
-3.0
-150
-155
-160
-165
-2026/1 2 3 4 5 6 7 8
-ドル円（左目盛）
-米日２年債金利差（米ー日）（右目盛）
+operations—he took a confident, combative stance against skeptics,
+saying the US economy and its debt management were in "good shape."
+The backup in bond yields since Bessent propped up the yen at the end of
+July suggests that he needs to be a more persuasive bond salesman
+(chart).
+Then again, Bessent is also a bond issuer. If his goal is to keep the 10-
+year yield below 5.00%, as we believe, then he might have to significantly
+increase the Treasury's bond buybacks and finance them with more
 
-ドル円と米日金利差
-（円） （％）
-（資料）Bloomberg L.P.を基に日本総研作成
-（年/月）
+Treasury bills.
 
 ### Page 6
 
-長期化する米国の住宅市場の低迷 ― アフォーダビリティ改善の遅れと世帯数の増勢鈍化が
-需要を下押し ― 森田一至 8月26日
-備蓄放出主導で急増する米国の原油輸出 ― 現行ペースの供給増は維持困難、減少に
-転じれば価格押し上げも ― 栂野裕貴 7月31日
-欧州経済見通し 立石宗一郎
-栂野裕貴 7月31日
-アメリカ経済見通し 森田一至 7月31日
-世界経済見通し 若林厚仁 7月31日
-人材と財政の制約に直面する英国のバーナム次期政権 ― 若年層の就業促進がカギも、時
-間を要する公算 ―
-ジェイムズ・パ
-ターソン 7月17日
-米国中間選挙プレビュー① ― 議会制約の強まりと大統領単独行動への傾斜 ―
-福田直之
-ジェイムズ・パ
-ターソン
-野木森稔
-7月15日
-【2026～27年欧州経済見通し】レジリエンスを高め、持ち直す欧州経済 ～ 対米関係・域
-内政治の混乱による政策停滞がリスク ～
-栂野裕貴
-立石宗一郎 6月30日
-公表済みのレポート（欧米経済関連）
-詳細は、以下のリンクからPDF形式でご覧いただけます。
+Alternatively, after voting for a rate hike this week, as we expect, Warsh
+could rebuild the Fed's inflation-fighting credibility with a hawkish press
+conference. By backing his rhetoric with policy action, he might persuade
+financial markets to have more confidence in the Fed. That could reduce
+the burden on Bessent to bolster his credibility with the Bond Vigilantes.
+💡Join the discussion with Ed below! To leave comments or
+questions, log in to the Yardeni QuickTakes website and post
+
+clause.
+Yardeni QuickTakes © 2026 – Unsubscribe
 
 ---
-## Document 600: 米国の「リフレ脱却」要請と日米経済政策の逆説的実態 〜日米経済政策の実態比較〜
+## Document 346: 【公用事業產業投資攻略】高利率不利評價，資料中心建設遇逆風
 
-Source PDF: all report pdf/米国の「リフレ脱却」要請と日米経済政策の逆説的実態  〜日米経済政策の実態比較〜.pdf
-Report source: DLRI
-Date: 2026-09-16
-Pages: 5
+Source PDF: all report pdf/【公用事業產業投資攻略】高利率不利評價，資料中心建設遇逆風.pdf
+Report source: CTBC
+Date: 2026-08-27
+Pages: 2
 Extraction status: ok
 
 ### Page 1
 
-Economic Trends
+不做任何擔保，如有錯漏或疏忽，本行並不負任何法律責任。任何人因信賴此等資料而做出或改變投資決策，應審慎衡量本身之需求及投資之風險，並就投
+資結果自行負責。未經本公司許可，本資料及訊息不得逕行抄錄、翻印或另作派發。本行以上市場資訊與分析，不涉及特定投資標的之建議。
+高利率不利評價，資料中心建設遇
+逆風
+分析師／謝孟璇
+研究範疇／公用事業/汽車/科技
+熱門議題 / 投資關鍵
+《通膨壓力仍存 ，高利率環境對公用事業評價相對
+不利》
+美國聯準會( Fed )偏好參考的通膨指標，7月個人消
+費支出物價指數( PCE )月增0.2%、年增3.7%，皆較
+市場預期高出0.1個百分點，顯示通膨壓力仍高，因
+美伊衝突遲未解決 ，也加劇市場對聯準會將升息或
+維持現況的爭論 。7月PCE公布後，市場推估Fed在
+9月例會升息1碼的機率由33%上升至40%，並認為
+12月升息機率最高 。目前美國目標利率仍維持在
+3.50%至3.75%區間，處於穩定的高利率高原期 ，
+且市場預期今年年底前聯準會將升息 0~2碼不等，
 
-2026 年 9 月 16 日
+仍對公用事業評價相對不利 ，因發債融資的利息負
+擔將直接侵蝕淨利潤。
+另外，過去兩、三年市場為電力公用事業公司注入
+AI溢價，導致板塊估值偏高 ，預估短期內公用事業
+股價較為震盪。
+重點摘要
+https://marquee.gs.com/content
+/research/en/reports/2023/10/1
+1/c94787d6-5f68-47dc-b238-
+da4d1f42ea85.html
+本月關鍵圖表
+資料來源：高盛，2026/8/7，中國信託商業銀行彙整，2026/8/27
+• 通膨壓力與升息機會仍存 ，對
+公用事業評價相對不利。
+• 過去兩 、三年市場為電力公用
+事業公司注入 AI溢價 ，導致板
+塊估值偏高。
+市場投資展望
+資產 3Q26看法 投資展望
+公用事業 中立 通膨壓力與升息機會仍存，高利率環境對公用事業評價不利
+公用事業產業投資攻略
+出 刊 日 : 2026/8/27
+1
+公用事業在3.5%利率下評價較高
+不同10年期美國公債殖利率
+• 通膨壓力仍存，高利率環境對公
 
-1/5 
-米国の「リフレ脱却」要請と日米経済政策の逆説的実態 
-〜日米経済政策の実態比較〜 
- 経済調査部 首席エコノミスト  永濱 利廣 
-（℡：050-5474-7492）
+用事業評價相對不利 Pg1
+• 美國各州相繼提出資料中心禁令，
+未來部份需求轉向分散式能源 Pg2
+相
+較
+標
+普500
+的
+本
+益
+比
+溢
+價\
+折
+價
+過去5年
+過去20年
+
+### Page 2
+
+不做任何擔保，如有錯漏或疏忽，本行並不負任何法律責任。任何人因信賴此等資料而做出或改變投資決策，應審慎衡量本身之需求及投資之風險，並就投
+資結果自行負責。未經本公司許可，本資料及訊息不得逕行抄錄、翻印或另作派發。本行以上市場資訊與分析，不涉及特定投資標的之建議。
+零售客流量表
+重點摘要
+• 紐約州 、德州 、賓州相繼推出
+資料中心建設限制。
+• 未來資料中心將傾向導入分散
+式能源 ，個別公用事業公司將
+受惠。
+《美國各州相繼提出資料中心禁令 ，未來部份需求
+轉向分散式能源》
+AI資料中心快速擴張 ，其大量用電推升電價導致民
+眾反彈，相關議題已成為今年美國期中選舉的重要
+變數。繼紐約州州長霍楚( Kathy Hochul )在7月簽
+署行政命令 ，宣布針對耗電量達 50MW以上的大型
+資料中心實施最長一年的建設禁令後 ，德州州長亞
+伯特 ( Greg Abbott ) 和賓州州長夏皮羅 ( Josh
+Shapiro )也在8月相繼宣布資料中心建設限制 。德
+州州長在8/3宣布暫停核准新的資料中心接入州內電
+
+網，而賓州州長夏皮羅則在 8/18簽署行政命令 ，推
+出被形容為全美最嚴格的資料中心監管規則 ，要求
+業者自行解決電力供應 、承擔相關電力成本 ，並提
+高潔淨能源使用比例。
+上述政策變化也開始改變市場對 AI基礎建設供應鏈
+的評價，過去資料中心興建直接帶動發電設備 、電
+網、變壓器及相關基礎建設需求 ，但監管方向逐漸
+要求新建資料中心採取自備發電模式 ，受惠族群可
+能由傳統公用事業公司轉向具備分散式發電能力的
+企業。未來美國資料中心將越來越傾向導入分散式
+能源(Distributed Energy Resources, DERs )，其中
+技術組合包含BESS儲能、天然氣發電、太陽能、燃
+料電池 、 微 電 網 控 制 系 統 等， 儘 管 工 業 股 如GE
+Vernova、Eaton的受益程度提高，但個別公用事業
+公司如NextEra Energy、Duke Energy也將因具備
+太陽能、電池儲能 、支援客戶建置現場發電等技術
+而受惠。
+2
+
+---
+## Document 378: 【非核心消費產業攻略】美電商搶佔荷包，運動服飾與居家裝修消費雙放緩
+
+Source PDF: all report pdf/【非核心消費產業攻略】美電商搶佔荷包，運動服飾與居家裝修消費雙放緩.pdf
+Report source: CTBC
+Date: 2026-09-08
+Pages: 3
+Extraction status: ok
+
+### Page 1
+
+不做任何擔保，如有錯漏或疏忽，本行並不負任何法律責任。任何人因信賴此等資料而做出或改變投資決策，應審慎衡量本身之需求及投資之風險，並就投
+資結果自行負責。未經本公司許可，本資料及訊息不得逕行抄錄、翻印或另作派發。本行以上市場資訊與分析，不涉及特定投資標的之建議。
+美電商搶佔荷包，運動服飾與
+居家裝修消費雙放緩
+熱門議題 / 投資關鍵
+• 電子商務與數位轉型的長期趨勢，
+正為非核心消費板塊內的領頭羊
+提供結構性支撐
+pg1
+• 美國人在房市相關消費支出縮手，
+企業端與研調機構皆表示房市仍
+未見起色
+pg2
+• 全球運動服裝與鞋類市場正日益
+顯現出成熟品類的特徵 pg2
+重點摘要
+本月關鍵圖表
+資料來源：JPM，2026/8/20，中國信託商業銀行整理，2026/9/8
+市場投資展望
+資產 4Q26看法 投資展望
+非核心消費 中立 美電商營收多元、利潤具韌性獲市場肯定，運動服飾與居家裝修面臨需求放緩挑戰
+1
+分析師／陳嘉琳／謝孟璇
+研究範疇 非核心消費 / 金融
+非核心消費產業投資攻略
+出 刊 日 : 2026/9/8
+
+• 摩根大通預期 3Q26 美電商
+增速放緩(因亞馬遜會員日提
+前)，但預期 4Q會再加速成
+長，並上調全年成長至 9.7%。
+隨著廣告 、訂閱、物流等高
+利潤收入來源日益增加 ，電
+商產業收入結構變得更加多
+元化，利潤率更具韌性。
+• 美國人在房市相關消費支出
+縮手，尤其對高預算的大型
+裝修普遍持猶豫態度 ，企業
+端與研調機構皆表示房市仍
+未見起色 。另，全球運動服
+裝與鞋類市場正顯現出成熟
+品類的特徵 ，研調機構預測 ，
+2025~2028財年的成長率將
+放緩。
+《電子商務與數位轉型的長期趨勢 ，正為非核心消
+費板塊內的領頭羊提供結構性支撐》
+2Q26美國電子商務銷售年增率加速至 12.4%(高於
+1Q26的9.3%)，部份歸因於亞馬遜Prime Day檔期
+提前至 2Q26，以及在消費者情緒分歧的情況下依
+然保持強勁的消費需求 。摩根大通預估 3Q26美國
+電子商務年增率將成長 6.6%，3Q明顯的季增放緩
+歸因於亞馬遜會員日檔期提前 (亞馬遜在美國電商
+市場的市佔率約 47%)，但預期4Q會再加速成長 。
+
+預期全年成長9.7%(高於2025年的年增5.4%)。
+成熟的電商企業已從零售業務轉型為消費者生態系
+統業務。隨著廣告、訂閱、物流等高利潤輔助收入
+來源的日益增長 ，電商產業正從 1.0時代轉向3.0時
+代。隨著這些企業在消費者和商家旅程中不斷深化
+互動，收入結構變得更加多元化，利潤率更具韌性，
+成長對基礎商品銷售的依賴也降低。
+摩根大通預期3Q零售暫放緩、4Q再加速成長
+0%
+10%
+20%
+1Q26 2Q26 3Q26E 4Q26E
+美零售銷售年增率 美電商銷售年增率
+
+### Page 2
+
+不做任何擔保，如有錯漏或疏忽，本行並不負任何法律責任。任何人因信賴此等資料而做出或改變投資決策，應審慎衡量本身之需求及投資之風險，並就投
+資結果自行負責。未經本公司許可，本資料及訊息不得逕行抄錄、翻印或另作派發。本行以上市場資訊與分析，不涉及特定投資標的之建議。
+吸納量
+重點摘要
+2
+《美國人在房市相關消費支出縮手 ，企業端與研調
+機構皆表示房市仍未見起色》
+8月中家居建材商家得寶公佈2Q26財年業績成長並
+優於預期，主要得益於客戶繼續進行較小型的家庭
+居家修繕項目 ，營收年增 5.7%，調整後每股盈餘
+年增5.1%，同店銷售年增 1.7%，成長主要來自平
+均客單價成長抵銷了客流量下滑的不利影響 。儘管
+財報數據不錯，公司也預期關稅退款帶來的收益可
+以完全抵銷今年燃料、能源和其他產品投入成本帶
+來的意外壓力，但低迷的房市未見轉折跡象 ，加上
+消費者對高預算的大型裝修專案普遍持猶豫觀望態
+度，使家得寶僅能重申2026財年財測。
+相關研調機構也顯示美國房市尚未見起色 。如哈佛
+大學住房研究聯合中心每季發布未來一年展望顯示
+
+(改造活動領先指標LIRA)，預計到2027年年中，房
+屋改造和維修的年度支出成長勢頭將持續放緩 ，預
+計到2027年第二季度 ，房屋改造和維修支出的年
+增率將會由2Q26的2%放緩至僅剩0.5%。
+資料來源：JCHS， 2026/7，中國信託商業銀行整理，2026/9/8
+房屋改造支出或將進一步放緩
+美房屋改造活動領先指標 (LIRA)
+金額(10億美元) 成長率(%)
+預期值歷史值
+《全球運動服裝與鞋類市場正日益顯現出成熟品類
+的特徵》
+9月初運動休閒服飾與配件商 Lululemon交出了疲
+軟的 2Q財年業績 (截至 2026/8/2)，同店銷售額年
+減10%，管理層指出 ，2Q各個主要業務部門的表
+現皆呈惡化趨勢，並表示8月份開局緩慢，關鍵舉
+
+### Page 3
+
+不做任何擔保，如有錯漏或疏忽，本行並不負任何法律責任。任何人因信賴此等資料而做出或改變投資決策，應審慎衡量本身之需求及投資之風險，並就投
+資結果自行負責。未經本公司許可，本資料及訊息不得逕行抄錄、翻印或另作派發。本行以上市場資訊與分析，不涉及特定投資標的之建議。
+吸納量
+重點摘要
+3
+措帶來的效益也低於原先預期 ，對下半年的展望仍
+持謹慎態度。儘管投資人對此次財報的預期已經轉
+趨保守，但中國市場的放緩速度遠快於預期 ，北美
+市場仍然是重大壓力區 (2Q營收衰退8%)，儘管2Q
+的表現比預期略好，但這種優於預期的表現主要歸
+因於更高的促銷折扣 ，管理層預期北美 3Q的趨勢
+將較2Q下滑。該公司管理層也大幅下調了 2026財
+年財測 ， 每 股 盈 餘 較 先 前 預 期 大 幅 下 調 了 逾
+20%(若計入關稅收益則是下調 13%)，全年銷售額
+預期中位數也較先前預期下調了約6%。
+其實全球運動服裝與鞋類市場正日益顯現出成熟品
+類的特徵，該品類在消費者荷包中的「飽和度」已
+顯著提升，目前運動服裝與鞋類已佔整體服裝與鞋
+
+類總支出的24%左右，相較於 2015年的約16%增
+長了近800個基點，這主要得益於機能服飾的應用
+場 景 已 擴 展 至 日 常 穿 搭 。 根 據 研 調 機 構
+Euromonitor預測 ，2025~2028財年的成長率將
+放緩至4.5%，低於疫情前的 6.2%，且較一年前的
+預測值下調，下調的最大驅動因素是北美市場 ，預
+估2026/2027財年將成長 3%(低於一年前預估的
+5.1%)，成長速度也較 2015~2019年的 6.5%放緩 。
+資料來源：JPM，2026/8/31，中國信託商業銀行整理，2026/9/8
+滲透率已高，運動服裝與鞋類成長率將趨緩
+研調機構預測，到2028年
+運動服飾和鞋類僅比服飾
+整體增速高出130個基點
+(疫情前差距為410個基點）
+
+---
+## Document 385: インドネシア･プルバヤ財務相､就任１年で更迭 ～スアハシル新財務相は財政規律を重視､市場の信認回復につながるか､政策運営に注目～
+
+Source PDF: all report pdf/インドネシア･プルバヤ財務相､就任１年で更迭 ～スアハシル新財務相は財政規律を重視､市場の信認回復につながるか､政策運営に注目～.pdf
+Report source: DLRI
+Date: 2026-09-15
+Pages: 3
+Extraction status: ok
+
+### Page 1
+
+Asia Trends
+
+2026 年 9 月 15 日
+
+1/3 
+インドネシア･プルバヤ財務相､就任１年で更迭 
+～スアハシル新財務相は財政規律を重視､市場の信認回復につながるか､政策運営に注目～ 
+ 経済調査部 主席エコノミスト  西濵 徹 
+（℡：050-5474-7495）
 
 （要旨） 
-○ 2026 年 9 月、ベッセント米財務長官は日本に対し「アベノミクス的リフレ政策からの脱却」を求めた。表
-面上は円安・インフレ抑制を掲げるが、真の狙いは日本の金利上昇に伴う「日本勢の米国債売却と米
-長期金利の急騰」の阻止にあると見られる。 
-○ 日本の財政赤字（対 GDP 比）は G7 最小水準に収縮。純債務残高対 GDP 比も低下傾向にあり、日銀
-は段階的利上げと QT（資産縮小）を進め、「リフレからの出口（正常化）」へ足早に向かっている。 
-○ 米国は景気拡大期でありながら対 GDP 比 6〜7%の巨額な財政赤字を継続。需要超過（ディマンドプル
-型）のインフレを政府自らが引き起こし、FRB のバランスシート維持も相まって「実質的なリフレ政策」を
-強く推進している。 
-○ 批判されるべきは日本の政策ではなく、巨額の財政赤字を続ける米国自身の「構造的リフレ依存」であ
-る。日本政府・日銀は米国の外圧に惑わされず、自国の経済状況に基づいた主体的かつ着実な政策を
-進めることが求められる。
+○ インドネシアのプラボウォ大統領は９月 14 日に内閣改造を実施し、プルバヤ財務相を更迭
+して、2019 年から財務副大臣を務めてきたスアハシル・ナザル氏を後任に任命した。プルバ
+ヤ氏は、反政府デモの拡大を受けて 2025 年９月に事実上更迭されたスリ＝ムルヤニ氏の後
+任として就任したものの、在任１年で退任することとなった。 
+○ プルバヤ氏の下では、プラボウォ政権が掲げる学校給食無償化事業などを後押しした一方、
+巨額歳出により 2025 年の財政赤字はＧＤＰ比▲2.92％と法定上限の３％に接近した。財政
+悪化への懸念からルピア相場も最安値を更新したほか、 景気下支えを重視するプルバヤ氏と、
+物価・為替の安定を重視する中銀との対立も表面化した。足元のルピア相場は落ち着きを取
+り戻す動きがみられるものの、原油高による物価や対外収支への悪影響も懸念されるなど、
+政策運営を巡る不透明感は残る。 
+○ 後任のスアハシル氏は、財政赤字を法定上限内に抑え、「信頼できる予算運営」を最優先す
+る方針を表明した。同氏は約７年にわたり財務副大臣として財政運営に携わってきたことか
+ら、市場では財政規律の回復と政策への信認向上につながるとの期待がある。今後は、政権
+の重点施策を支えつつ規律ある財政運営へ転換し、ルピアや金融市場の信認を取り戻せるか
+が焦点となる。
 
-１．はじめに 
-2026 年9 月、米国のスコット・ベッセント財務長官が日本政府および日本銀行に対し、「アベノミ
-クス的リフレ政策からの脱却」および「利上げ・積極財政の抑制」を要請した発言は、日米の金融・
-財政当局に大きな波紋を広げた。 
-しかし、日米両国の財政赤字・金利体系・インフレ動向・通貨価値の変遷を客観的に比較・分析す
-ると、「リフレ政策」を真に推進しているのは日本ではなく、むしろ米国自身であるという逆説的な
-構造が浮き彫りとなる。 
-そこで本稿では、ベッセント発言の背景を整理した上で、米国の財政・金融構造がなぜ「本家リフ
-レ」と呼ぶにふさわしいのか、定量的かつ多角的な視点から実態を検証する。
+インドネシアのプラボウォ大統領は９月14 日、 内閣改造を実施してプルバヤ財務相を更迭した。
+後任には、2019 年から財務副大臣を務め、 財政政策や予算運営に携わってきたスアハシル・ナザル
+氏を任命した。プルバヤ氏は 2025 年９月、ユドヨノ元政権、ジョコ・ウィドド前政権で長年にわ
+たり財務相を務めたスリ＝ムルヤニ氏の後任として就任したものの、 １年で退任することとなった。 
+スリ＝ムルヤニ氏の更迭に至る背景には、 国会議員に対する高額手当への反発に加え、 財政健全
+化を目的に実施された歳出削減のしわ寄せが幅広く国民生活に及び、 不満が蓄積していたことがあ
+る。こうしたなかで反政府デモが広がり、政府がデモ鎮圧に向けて強硬姿勢に出た結果、多数の死
+傷者が出たほか、当局による情報統制を巡る懸念も強まり、国民の反発は一段と高まった。一連の
+デモでは、地方議会の建物が放火されたほか、議員個人も標的となるなか、歳出削減への不満が強
 
 ### Page 2
 
-2/5 
-２．ベッセント発言の背景と波紋 
-2026 年9 月初旬、ベッセント米財務長官はＧ20 等の機会を通じて「日本はアベノミクス期の過度な
-リフレ政策を終えるべきだ」と指摘し、日銀による利上げ推進や政府の財政拡大抑制を遠回しに迫っ
-た。  
-【ベッセント氏の主張】 
-日本の低金利・財政拡張→円安の進行・輸入インフレ加速→市場の不確実性増大 
-↓ 
-【米国側の真の警戒要因】 
-円安是正等のための日本の米国債売却リスク、および世界的な金利高への波及
+2/3 
+まるなかで財務相を務めていたスリ＝ムルヤニ氏の私邸も襲撃された。 その後、プラボウォ氏は内
+閣改造を実施し、反政府デモの標的のひとりとなったスリ＝ムルヤニ氏を解任した。 
+市場からの信認が厚かったスリ＝ムルヤニ氏の辞任は、 同国に対する評価を低下させる一因とな
+った。プラボウォ政権では、財務省は経済担当調整相の管轄から外れて大統領直属とされるなど、
+財政運営に対する大統領の関与が強まったことで、 市場では財政規律を巡る懸念が高まった。この
+ため、プラボウォ政権は市場から財政運営への懸念払拭を目的に大幅な歳出削減に動いたものの、
+政権肝煎りの政策を重点化する一方、 教育 ・ 福祉やインフラ整備など幅広い分野を削減対象とした。
+こうした予算配分にはプラボウォ氏の意向が強く反映されていたものの、 一連のデモでは財務相で
+あるスリ＝ムルヤニ氏が批判の標的のひとりとされた。その結果、プラボウォ氏は、財政運営を巡
+って度々対立してきたスリ＝ムルヤニ氏を、この機に乗じる形で事実上更迭したとの見方もあった
+（注１）。 
+プルバヤ氏の下では、プラボウォ政権の肝煎りである学校給食無償化事業を後押ししたものの、
+同事業では大量の食中毒が発生するなど、かえって政権への反発が強まった。そのうえ、こうした
+巨額歳出が財政を圧迫し、2025 年の財政赤字は 695.1 兆ルピア（ＧＤＰ比▲2.92％）と政府想定
+（同▲2.78％）を上回り、法定上限（３％）に近付くなど財政悪化が進んだことが確認された。金
+融市場においては、通貨ルピア相場が調
+整の動きを強めて最安値を更新する事
+態となった。さらに、プルバヤ氏は景気
+下支えを重視して中銀に市場への潤沢
+な流動性供給を求める一方、 物価と為替
+の安定を目的に慎重な金融政策運営を
+行ってきた中銀のペリー前総裁と対立
+する場面が散見された。７月にペリー氏
+が任期を２年弱残して突然辞任（注２）、
+後任の中銀総裁には 上級副総裁であっ
+たデストリ氏が昇格したことで ルピア
+相場は落ち着きを取り戻す動きをみせている （図１）。しかし、足元ではイラン情勢の不透明感が高
+まり原油価格が再び上昇しており、 原油を輸入に依存するなかで物価や対外収支への悪影響が懸念
+されるなど、中銀の政策運営の舵取りは難しさを増している。 
+スアハシル氏は就任会見において、 信頼できる予算運営が最優先課題になると述べるなど、 財政
+赤字を法定上限（ＧＤＰ比▲３％未満）に抑える方針を示した。そのうえで、その実現に努めると
 
-米国が日本にリフレ脱却を求める表面的な理由は「円安是正とインフレ抑制」だが、実質的には日
-本の利回り上昇に伴い、日本勢の資金が米債市場から逃避し、米長期金利が跳ね上がる事態を恐れて
-いる側面を指摘する向きもある。しかし、「骨太ショック」と言われた骨太原案が公表された6 月30
-日以降のG7 諸国の長期金利の動向を確認すると、最も上昇幅が少ないのは日本となっている（図表
-１）。
+注１ 2025 年９月９日付レポート「インドネシア財務相解任､デモ収束への｢生け贄｣か､財政運営に懸念」 
+  （https://www.dlri.co.jp/report/macro/512575.html） 
+注２ ７月27 日付レポート「インドネシア中銀のペリー総裁が突然の辞任発表」 
+  （https://www.dlri.co.jp/report/macro/634678.html） 
+図 1 ルピア相場(対ドル)の推移
 
-３. 日米リフレ政策の実態比較 
-「膨大な財政赤字の垂れ流し」と「インフレ」を主導している主体が日米どちらにあるのか、金
-融・財政の主要指標で両国を比較する（図表２）。
+（出所）LSEG より第一ライフ資産運用経済研究所作成 
+16000
+16200
+16400
+16600
+16800
+17000
+17200
+17400
+17600
+17800
+18000
+18200
+18400
+25/1 25/5 25/9 26/1 26/5 26/9
+(ドル/ルピア) ルピア高↑
+ルピア安↓
 
 ### Page 3
 
-3/5 
-図表２ 日米のリフレ政策比較 
-比較項目 日本の実態 米国の実態 帰結と評価 
-財政赤字
-（対GDP
-比） 
-Ｇ７諸国で最小となる
-中、税収増による財政
-の持続可能性模索 
-ＧＤＰ比６〜７％水準の
-巨額赤字を継続 
-米国は平時としては極め
-て特異な巨額財政出動を
-継続。 
-政策金利 
-and 長期
-金利 
-政策金利を中立水準に
-向けて引き上げ、量的
-引き締めも実施。 
-ＦＲＢのバランスシート
-規模を維持しながら政策
-金利の引き上げ模索 
-米国は膨大な政府債務の
-利払い負担から長期金利
-引き下げ意向が強い。 
-インフレ
-の質（図
-表３） 
-財中心（コストプッシ
-ュ型）＋ 賃金転嫁の
-途上 
-強固なディマンドプル型
-（サービス中心） 
-米国は巨大な財政刺激が
-民間需要を押し上げ続け
-ている。 
-中央銀行
-の姿勢 
-段階的利上げとＱＴ
-（資産縮小）を推進中 
-膨大な資金需要を金融市
-場が消化しきれず 
-米国政府の国債増発と
-FRB のバランスシート維
-持が通貨供給量下支え。 
-（出所）各種データを基に筆者作成
-
-図表３　日米のCPIインフレ率比較
--5
-0
-5
-10
-15
-20
-2010/5/1
-2011/5/1
-2012/5/1
-2013/5/1
-2014/5/1
-2015/5/1
-2016/5/1
-2017/5/1
-2018/5/1
-2019/5/1
-2020/5/1
-2021/5/1
-2022/5/1
-2023/5/1
-2024/5/1
-2025/5/1
-2026/5/1
-前年比％
-（出所）各国統計
-CPIサービス
-～米インフレはサービス価格中心～
-日本 米国
--5
-0
-5
-10
-15
-20
-2010/1/1
-2011/2/1
-2012/3/1
-2013/4/1
-2014/5/1
-2015/6/1
-2016/7/1
-2017/8/1
-2018/9/1
-2019/10/1
-2020/11/1
-2021/12/1
-2023/1/1
-2024/2/1
-2025/3/1
-2026/4/1
-前年比％
-（出所）各国統計
-CPI財
-～日本は物価高対策で財インフレ抑制～
-日本 米国
-
-### Page 4
-
-4/5 
-４．なぜ米国のほうが「リフレ推進度合いが強い」と言えるのか？ 
-① 「財政赤字」による需要刺激 
-米国はパンデミック以降も、IRA（インフレ削減法）やCHIPS 法、そして減税策の恒久化などを背景
-に、景気拡大局面にもかかわらず対GDP 比6％超という戦時並みの財政赤字を続けている（図表４）。
-これこそがリフレ政策の本質である「政府が借金をして民間に需要を創出する仕組み」そのものであ
-る。一方、日本の財政赤字／GDP 比は 2025 年時点でG7 諸国最小水準となっている。
-
-② 純債務残高／GDP 比の悪化 
-米国の一般政府純債務残高対GDP 比は100％に近づいており、上昇トレンドとなっている（図表
-５）。AI ブームとトランプ減税が相まって、国内の資金需給がひっ迫しており、米長期金利の上昇が
-構造的な財政悪化をもたらしている。対して日本の一般政府純債務残高対GDP 比は、インフレ経済が
-定着した2023 年以降に急速に低下しており、2025 年時点では80％を下回っている。  
-③日本の政策正常化との対比 
-日本側はアベノミクス期の異次元緩和から離脱し、日銀は政策金利を段階的に引き上げ、保有国債
-残高も年間40～50 兆円ペースで縮小させている（図表６）。すなわち、日本が「リフレ出口」に向か
-って足早に動いている一方で、米国は伝統的金融政策面では利上げスタンスにシフトしつつ、量的金
-融政策面ではバランスシートの縮小をストップしているのが実態である。
-
-### Page 5
-
-本資料は情報提供を目的として作成されたものであり、投資勧誘を目的としたものではありません。作成時点で、第一ライフ資産運用
 経済研究所が信ずるに足ると判断した情報に基づき作成していますが、その正確性、完全性に対する責任は負いません。見通しは予告
 なく変更されることがあります。また、記載された内容は、第一生命保険ないしはその関連会社の投資方針と常に整合的であるとは限
-りません。 
-5/5
-
-５. 結論と示唆  
-ベッセント財務長官による日本への「リフレをやめよ」という言明は、自国の財政膨張が招いてい
-る米長期金利の上昇やドル高・円安の歪みを、他国の政策変更によって補正しようとする「責任転嫁
-のレトリック」という側面を拭えない。本当にグローバル経済の安定化を目指すのであれば、批判さ
-れるべきは日本の金融・財政政策というよりも、景気回復期にあっても巨額の財政赤字を続ける米国
-自身の「構造的リフレ依存」であると言える。日本政府・日銀としては、米国からの外圧に過剰に動
-揺することなく、自国の自律的な賃金・物価循環に基づいた主体的かつ着実な政策を推進することが
-求められる。
+りません。
+3/3
+ともに、 国民との対話でも信頼を得つつ、 予算を通じて政府の重点施策を支えるとの考えを示した。
+同氏が『信頼できる予算運営』を重視する考えを示したことは、プルバヤ氏の下で財政状況が悪化
+するとともに、 中銀の独立性に対する懸念が高まった状況からの転換を目指していると捉えられる。
+同氏はスリ＝ムルヤニ、 プルバヤの両財務相の下で７年弱にわたって財務副大臣を務めており、 財
+政規律の重要性がルピアの信認に影響を与える状況を認識しているとみられる。このため、 同氏の
+下で市場の信認向上に向けて規律ある財政運営へ転換できるか、 市場は期待を寄せつつ、 その動向
+を見極める展開が続くと予想される。
+以 上
 
 ---
-## Document 618: 美国8月通胀数据跟踪：美国核心通胀高于预期，加息必要性上升
+## Document 405: ホルムズ海峡開放は近づいているか ～中間選挙が近づく米国の対応次第だが、航行再開は困難か～
 
-Source PDF: all report pdf/美国8月通胀数据跟踪：美国核心通胀高于预期，加息必要性上升.pdf
-Report source: 万联证券
-Date: 2026-09-16
-Pages: 9
+Source PDF: all report pdf/ホルムズ海峡開放は近づいているか ～中間選挙が近づく米国の対応次第だが、航行再開は困難か～.pdf
+Report source: DLRI
+Date: 2026-09-09
+Pages: 6
 Extraction status: ok
 
 ### Page 1
 
-[Table_RightTitle] 
-宏观研究|宏观跟踪报告
+Global Trends
 
-[Table_Title] 
-美国核心通胀高于预期，加息必要性上升
+2026 年9 月 9 日
 
-[Table_ReportType] 
-——美国 8 月通胀数据跟踪
+1/6 
+ホルムズ海峡開放は近づいているか 
+～中間選挙が近づく米国の対応次第だが、航行再開は困難か～ 
+ 経済調査部 シニア・フェロー  嶌峰 義清 
+（℡：050-5474-7489）
 
-[Table_ReportDate] 2026 年 09 月 15 日
+（要旨） 
+○ 米国とイラン、それにフーシ派も加わってそれぞれが軍事攻撃を行ったことで、原油価格は
+90 ドル台半ばに上昇した。イラン外務省は7 日、 ホルムズ海峡の船舶航行などに関して数日
+中にもオマーンとの合意が成立する可能性があると発表したが、海峡航行に関しては実質的
+な通行料を課すことを条件にすることは確実とみられる。一方、米国はこれに強く反対して
+おり、航行が再開するかどうかは不透明だ。 
+○ 米政府は 8 月半ば以降、機雷の撤去やイランのレーダー破壊などによって、多くの船舶が海
+峡を通過しているとしているが、データからはそうした実態は確認されていない。一時的に
+多くの船舶が海峡外に出たこともあり、原油需給逼迫懸念はやや和らいでいるものの、海峡
+封鎖が長期化すれば、再び原油価格の上昇が見込まれるうえ、アジアを中心に原油不足が経
+済活動に影響を及ぼすリスクが高まる。 
+○ 注目される米国の対応だが、11 月の中間選挙が近づいていることもあり、 トランプ政権は選
+挙前のガソリンをはじめとした燃料価格の引き下げと、外交上の成果を急ぐ可能性がある。
+そのため、イラン側が出した条件を黙認する可能性は否定できない。その場合、原油市況は
+下落するものの、ホルムズ海峡を通過する原油価格は実質的に高止まりするリスクもある。
 
-[T able_Summary] 
-⚫ 事件：8 月美国CPI 同比持平于 3.4%，环比 0.4%；核心CPI
-同比2.4%，前值2.5%。PPI 同比5.4%，前值4.8%。 
-⚫ 核心 CPI 同比边际回落，环比高于预期。总体CPI 同比增速
-与上月持平，符合市场预期。食品分项同、环比增速均较上
-月放缓，能源分项同、环比上行。核心 CPI 同比持续小幅回
-落，主要受核心商品拖累，环比延续正增， 且高于市场预期。 
-⚫ 油价攀升拉动能源分项走高，中东地缘风险扩大。能源分项
-同比由 14.7%回升至 16.3%；环比 2.1%，前值-1.5%。8 月中
-东局势反复，美伊军事冲突持续，原油价格居高不下，能源
-CPI 边际回升。战略石油储备 （SPR） 投放实际可用余量减少，
-安全垫变薄，油价上行风险依然较大。 
-⚫ 核心商品 CPI 同、环比回落，汽车环比仍具韧性。本月多数
-核心商品分项环比增速回落，但汽车分项环比增速较高。新
-汽车表现出较强韧性，从二手车价格指数来看该分项不会维
-持高增长。仅新汽车同比增速上行，二手车同比增速放缓，
-酒精饮料同比回落幅度较大。 
-⚫ 核心服务分项走势分化，运输服务、教育与通信服务为主要
-拉动。住房租金同比增速回落，环比上行，近期市场租金增
-速上行，主要受 CPI 对房租统计方法存在明显时滞影响，反
-映的是存量租约的粘性。当前高利率环境已经给房价和新签
-租金带来了实质性压制， 中期来看， 住房租金预期延续回落。
-运输服务同比放缓，环比上行，高油价拉动公共服务分项增
-速上升，机动车保险分项持续放缓，企业竞争性降价带来一
-定影响。电话服务环比快速拉升，主要受到运营商提价和统
-计方式变动影响，给服务分项带来拉动。 
-⚫ PPI 略高于预期，影响 PCE 的分项表现分化。PPI 同比上行，
-商品、服务均同比上涨。在影响 PCE 价格指数的分项中，航
-空服务、住院服务本月环比较高，其余医疗相关分项表现温
-和，资产管理服务环比增速则回落。 
-⚫ 美国核心通胀高于预期，加息必要性上升。8 月美国通胀仍
-有较强粘性， 回落进度慢于预期。 沙特-胡赛冲突加剧， 中东
-地缘风险存在扩大迹象，预计能源以及公共交通等油价敏感
-的CPI 分项将持续面临压力。 通胀粘性较强、 就业市场稳固、
-AI 投资热度不减，近期数据显示美联储加息的必要性上升。
-9 月FOMC 会议无法排除加息可能性，建议维持谨慎。 
-⚫ 风险因素：地缘政治风险发展超预期，海外政策超预期转鹰。     
-[Table_Authors] 分析师: 于天旭 
-执业证书编号： S0270522110001 
-电话： 17717422697 
-邮箱： yutx@wlzq.com.cn
-
-[Table_ReportList] 相关研究 
-输入性通胀再升温，内生动能有待改善 
-非农就业超预期，利率决策仍以通胀为主 
-出口增速回升，AI 支撑仍强
-
-证
-券
-研
-究
-报
-告 
-宏
-观
-跟
-踪
-报
-告 
-宏
-观
-研
-究 
-3048
+1. 注目されるイランが提示するホルムズ海峡航行条件と米国の対応 
+イラン外務省報道官は7 日、ホルムズ海峡を挟んだ対岸にあるオマーンとの間で、数日中にも
+暫定航路についての合意が国際海事機関（IMO：海上の安全確保や船舶による海洋汚染の防止など
+を目的として設立された、国連の専門機関のひとつ）に登録されるだろうと述べた。 
+詳細は発表を待つしか無いが、これまでイランが様々な場で主張してきたことを勘案すれば、
+①少なくともペルシア湾内から湾外に向けてホルムズ海峡を通過する際には、イラン寄りの航路
+を通過することで、イランによる船舶管理を徹底する、②湾内の安全な航行を保証するための海
+事サービス料などの名目で、実質的な通行料を徴収する――といった条件が課せられるものと見
+込まれる。 
+イランとオマーンがホルムズ海峡の暫定航路や航路条件について合意に至ることは、ホルムズ
 
 ### Page 2
 
-[Table_Pagehead]  
-证券研究报告|宏观报告
+2/6 
+海峡の航行再開に向けた第一歩であるものの、同海峡の航行に条件がつくこと自体を米国は問題
+視しており、世界の多くの国も実質的な通行料を課すことに強く反対している（人工的に開削さ
+れた運河とは異なり、自然の海峡の航行は国連海洋法条約などで自由に通航する権利である「通
+過通航権」が認められており、原則として通行料を徴収することは国際法違反に該当する） 。 
+一方、8 日には米国とイランが再び軍事攻撃を行ったうえ、イエメンの親イラン組織フーシ派
+がサウジアラビアの石油関連施設などを攻撃し、再び緊張が高まっている。これを受け、8 日の原
+油価格（WTI）は1 バレル＝94 ドル台にまで上昇した（図表1）。原油価格は覚書の内容を無視し
+た両国の軍事攻撃が続く中で、同80～90 ドル台を中心とした推移が続いていた。今回、イランと
+オマーンの合意が近づいているという報道にも大きな反応は見せず、そもそも両国の合意による
+ホルムズ海峡解放への期待は低かったことが見て取れる。実際、8 日の攻撃激化により、原油価格
+は覚書締結後の最高値を更新しており、むしろホルムズ海峡封鎖の長期化を警戒しているように
+も見られる。
 
-万联证券研究所 www.wlzq.cn 第 2 页 共 9 页  
-$$start$$ 
-正文目录 
-事件 ....................................................................................................................................... 3 
-1 CPI 同比与上月持平，环比持续回升 ............................................................................ 3 
-1.1 油价攀升拉动能源分项走高 ................................................................................ 4 
-1.2 核心商品为主要拖累，二手车同比放缓 ............................................................ 5 
-1.3 核心服务分项走势分化，运输服务、教育与通信服务为主要拉动 ................ 6 
-2 PPI 略高于预期，影响 PCE 的分项表现分化 .............................................................. 7 
-3 总结与展望 ....................................................................................................................... 7 
-4 风险提示 ........................................................................................................................... 8
-
-图表 1： 美国 CPI 主要分项同、环比增速（%） ........................................................... 3 
-图表 2： 核心 CPI 同比增速边际回落（%） ................................................................... 4 
-图表 3： CPI 环比增速继续回升（%）............................................................................ 4 
-图表 4： 四大分项对 CPI 同比拉动（%）....................................................................... 4 
-图表 5： 能源 CPI 跟随原油价格回升（美元/桶） ......................................................... 5 
-图表 6： 布伦特-WTI 价差再次走扩（美元/桶） ........................................................... 5 
-图表 7： SPR 储量持续减少，逐步接近限量释放下限（千桶） .................................. 5 
-图表 8： Manheim 二手车批发价格指数领先二手汽车 CPI（%） ............................... 6 
-图表 9： 本月多数核心商品分项环比增速回落，汽车环比仍处高位（%） ............... 6 
-图表 10： 市场租金数据指向住房通胀将维持温和（%） ............................................. 7 
-图表 11： Zillow 住房租金增速趋于回升（%） ............................................................. 7 
-图表 12： 航空服务 PPI 分项环比增速较高（%） ......................................................... 7 
-图表 13： 截尾均值通胀同比增速相对温和（%） ......................................................... 8 
-图表 14： 利率期货市场对 9 月会议加息预期大幅升温 ................................................ 8
+2. ホルムズ海峡は実質封鎖状態が続いており、原油不足状態は続いている 
+米政府は8 月半ば以降、イランのレーダーや機雷などを破壊したことで、米軍護衛の下多くの
+タンカーがホルムズ海峡を航行しているとしている。しかし、データからはそうした姿は確認さ
+れていない。 
+ホルムズ海峡通過船舶数の日次データを見ると（図表2）、6 月半ばに米国とイランが「14 項目
+の覚書」を締結して以降暫くは通過船舶数が増えたものの、その後イランが船舶に対する攻撃を
+開始したことで、7 月半ば以降の通過船舶数は1 日あたり10 隻以下にとどまっている。これは、
+イスラエルと米国がイランへの空爆を開始し、イランが同海峡の封鎖を宣言した3 月～6 月半ばと
+同水準だ。 
+出所：Bloomberg
+（図表1）WTI原油先物価格の推移（日次）
+60
+70
+80
+90
+100
+110
+120
+130
+2/16 3/9 3/30 4/20 5/11 6/1 6/22 7/13 8/3 8/24
+（ドル）
+空爆開始 攻撃激化
+覚書公表
 
 ### Page 3
 
-[Table_Pagehead]  
-证券研究报告|宏观报告
+3/6
+さらに、フーシ派がイランの行動に呼応してサウジアラビアの石油施設への攻撃や、アラビア
+半島を挟んでペルシア湾と反対側に位置する紅海の出口となるバブエルマンデブ海峡の封鎖を示
+唆して以降、同海峡を通過する船舶も減少傾向にある（図表3） 。これにより、アラビア半島周辺
+産の原油については、東回りの供給量は3～6 月よりも少なくなっていると考えられる。
+覚書締結により、一時的に多くのタンカーがホルムズ海峡を通過したこともあり、アジア諸国
+を中心に世界の原油需給逼迫懸念はやや緩和した。しかし、同海峡が航行可能となったのは半月
+程度に過ぎないため、世界の石油備蓄量はほとんど回復していないと考えられる。
+一方、OPECプラス（OPEC加盟国と主要石油生産国：米国、カナダ、中国、UAEなどは参加してい
+ない）の原油生産量は、5 月を底に持ち直し傾向にあるものの、空爆前の今年2 月の生産量に比べ
+て12％少ない量にとどまっている（図表4）。国別に見ると紛争当事国であるイランをはじめ、サ
+ウジアラビア、クウェート、イラクの他、ウクライナとの戦争が続くロシアの生産量の落ち込み
 
-万联证券研究所 www.wlzq.cn 第 3 页 共 9 页  
-事件 
-2026年8月， 美国CPI同比增速持平于7月的3.4%， 市场预期3.4%；季调环比增速0.40%，
-预期0.4%， 前值0.07%。核心CPI同比增速2.4%， 预期2.4%， 前值2.5%； 季调环比增速
-0.29%，预期0.2%，前值0.22%。PPI同比5.4%，前值4.8%。
-
-1    CPI 同比与上月持平，环比持续回升 
-美国核心CPI同比边际回落，环比高于预期。2026年8月，总体CPI同比增速3.4%，市
-场预期3.4%，前值3.4%；季调环比增速0.40%，预期0.4%，前值0.07%。食品分项同、
-环比增速均较上月放缓， 能源分项同、 环比上行。核心CPI同比增速2.4%， 预期2.4%，
-前值2.5%；季调环比增速0.29%，预期0.2%，前值0.22%。核心CPI回落主要受核心商
-品拖累， 其中，二手车和酒精饮料同比回落幅度较大。 核心服务同比增速与上月持平，
-环比上行，其中住房租金和运输服务环比上行较快，而医疗护理服务环比下跌。
-
-图表1：美国CPI主要分项同、环比增速（%）
-
-资料来源：iFind，万联证券研究所
-
-### Page 4
-
-[Table_Pagehead]  
-证券研究报告|宏观报告
-
-万联证券研究所 www.wlzq.cn 第 4 页 共 9 页  
-图表2：核心CPI同比增速边际回落（%） 图表3：CPI环比增速继续回升（%）
-
-资料来源：iFind，万联证券研究所 资料来源：iFind，万联证券研究所
-
-能源同比拉动增强，核心商品、核心服务边际减弱。食品、能源、 核心商品、 核心服
-务对CPI同比增速分别拉动0.37%、1.04%、0.13%、1.82%， 前值为0.41%、0.94%、0.16%、
-1.83%。 其中， 住房租金、 运输服务、 医疗护理服务、 核心商品对核心CPI同比贡献比
-例分别达到54.2%、7.6%、8.6%，6.7%。
-
-图表4：四大分项对CPI同比拉动（%）
-
-资料来源：iFind，万联证券研究所
-
-1.1  油价攀升拉动能源分项走高 
-能源CPI随油价上行，中东地缘风险扩大。能源分项同比由14.7%回升至16.3%；环比
-2.1%，前值-1.5%。8月中东局势反复，美伊军事冲突持续，原油价格居高不下。WTI
-原油现货平均价格从80.5升至83.9美元/桶，带动能源CPI边际回升。近期中东冲突有
-所加剧，美伊双方袭击油轮规模显著增加，沙特-胡赛武装冲突升温，沙特输油管道
-遭袭，红海曼德海峡有被封锁风险，布伦特-WTI价差再次走扩。此外，冲突爆发后特
-朗普政府持续释放战略石油储备（SPR）以抑制油价上涨速度，当前储量只剩不到一
-半，由于技术原因，SPR无法完全释放 ，实际可 用 余量更少 。 若冲突持续 ， 原油 政策 
-储备投放的安全垫变薄，油价上行风险依然较大。
-
--2%
-0%
-2%
-4%
-6%
-8%
-10%
-2019-1 2021-1 2023-1 2025-1
-CPI 核心CPI
--1.0%
--0.5%
-0.0%
-0.5%
-1.0%
-1.5%
-2019-1 2021-1 2023-1 2025-1
-CPI 核心CPI
--3%
--1%
-1%
-3%
-5%
-7%
-9%
-2019-1 2020-1 2021-1 2022-1 2023-1 2024-1 2025-1 2026-1
-食品 能源 核心商品 核心服务 CPI 核心CPI
-
-### Page 5
-
-[Table_Pagehead]  
-证券研究报告|宏观报告
-
-万联证券研究所 www.wlzq.cn 第 5 页 共 9 页  
-图表5：能源CPI跟随原油价格回升（美元/桶） 图表6：布伦特-WTI价差再次走扩（美元/桶）
-
-资料来源：iFind，万联证券研究所 资料来源：EIA，万联证券研究所
-
-图表7：SPR储量持续减少，逐步接近限量释放下限（千桶）
-
-资料来源：EIA，万联证券研究所
-
-1.2  核心商品为主要拖累，二手车同比放缓 
-核心商品CPI同、环比回落，汽车环比增速仍处高位，而二手车同比放缓。核心商品
-CPI同比0.7%，前值0.8%； 环比0.11%， 前值0.2%。在上月环比转为正增后， 本月多数
-核心商品分项环比增速回落，且低于前6个月环比均值，但新汽车和二手车分项环比
-增速依然较高。仅新汽车同比增速上行，环比由0.03%升至0.29%，表现出较强韧性。
-二手汽车与卡车同比从-1.9%降至-2.3%，环比由0.4%小幅下行至0.37%，而前6个月均
-值为-0.09%。历史经验显示Manheim二手车价格指数对该分项有领先关系，近期有所
-回落，预期二手车CPI不会长期维持高增长。酒精饮料同比回落幅度较大。
-
+が激しい。OPECプラスのうち有志7 カ国（サウジアラビア、ロシア、イラク、クウェート、カザ
+出所：IEA「PORTWATCH」
+（図表2）ホルムズ海峡通過船舶数の推移（日次）
 0
 20
 40
@@ -5219,6 +4760,812 @@ CPI同比0.7%，前值0.8%； 环比0.11%， 前值0.2%。在上月环比转为�
 100
 120
 140
+1/1 2/1 3/1 4/1 5/1 6/1 7/1 8/1
+（隻）
+出所：IEA「PORTWATCH」
+（図表3）バブエルマンデブ海峡通過船舶数の推移（日次）
+0
+10
+20
+30
+40
+50
+60
+1/1 2/1 3/1 4/1 5/1 6/1 7/1 8/1
+通過船舶数
+7日移動平均
+（隻）
+
+### Page 4
+
+4/6
+フスタン、アルジェリア、オマーン）は4 月以降、それまで行ってきた自主減産（日量165 万バ
+レル）を縮小させてきたものの、紛争による石油関連施設への攻撃などにより生産能力自体が減
+少しており、十分な生産ができていない。
+OPECは、2026 年の世界の石油需要は日量1 億570 万バレルと見積もっているのに対し、今年4
+～6 月期時点での生産量はOPECプラスと非OPECプラス諸国を合わせて同9,730 万バレルにとどまっ
+ており、需要超過となっている。このことは、このままの状態が続けば世界の石油在庫は日量840
+万バレル減少していくことを示している。
+こうした影響は、ホルムズ海峡やバブエルマンデブ海峡経由への原油依存度が高いアジア諸国
+を中心に、原油不足が経済活動に影響を及ぼすという形で再び強まる可能性がある。原油純輸入
+量の 90 日分の備蓄義務を負うIEA（国際エネルギー機関）加盟国の石油備蓄量は、5 月時点で136
+日分と、2 月時点の141 日分から僅かな減少にとどまっている。一方で、アジア太平洋地域に絞る
+
+と、5 月の備蓄量は150 日分と、2 月時点（165 日分）から10％近く減少している（図表5）。
+出所：OPEC
+（図表4）OPECプラスの原油生産量の推移
+30
+32
+34
+36
+38
+40
+42
+44
+2024 2025 1 2 3 4 5 6 7
+2026
+（百万バレル／日）
+出所：IEA
+（図表5）IEA加盟国の政府・民間石油備蓄量
+201
+165
+131
+141
+177
+150
+130 136
+100
+120
+140
+160
+180
+200
+220
+日本 IEAアジア太平洋
+地域合計
+IEAヨーロッパ
+合計
+IEA加盟国全体
+の純輸入国
+2026年2月
+2026年5月
+（日分）
+
+### Page 5
+
+5/6 
+中東産原油の需給逼迫は、原油市況にも現れている。世界の主な原油指標であるWTI、北海ブレ
+ント、ドバイ原油価格は、平時であれば大きな差はない。しかし、ホルムズ海峡が封鎖されたこ
+とをきっかけに3 月にはドバイ原油が際立って上昇した。その後は再び価格差は縮小したもの
+の、ここへ来て再びドバイ原油の上昇が目立ち、WTIなどとの乖離が徐々に拡大している（図表
+6）。 
+各国は、中東産原油についてはホルムズ海峡など東回りの輸送の代わりに、喜望峰を経由する
+西回りの輸送や、米州大陸産の原油へ供給先をシフトしている。ホルムズ海峡の実質封鎖期間が
+長期化するにつれ、中東以外の地域産の原油の需給も逼迫し、原油市況全体の上昇圧力を高める
+こととなろう。
+
+3. 中間選挙を控え、トランプ大統領が功を焦れば事態が動く可能性も 
+イランに対して強硬な姿勢を崩していないトランプ大統領だが、11 月3 日に控える中間選挙を
+前に、批判が多いイランへの関与や、高止まりするエネルギー価格といった問題の早期解決を図
+りたいのが本音だろう。そのため、ホルムズ海峡の開放だけでも実現させようとする可能性は否
+定できない。その場合、イランが主張する実質的な通航料がホルムズ海峡を通過する船舶にかけ
+出所：Datastream
+（図表）主要原油価格の推移（日次）
+40
+60
+80
+100
+120
+140
+160
+180
+1/1 2/1 3/1 4/1 5/1 6/1 7/1 8/1 9/1
+ドバイ
+WTI
+ブレント
+（ドル）
+-20
+0
+20
+40
+60
+80
+1/1 2/1 3/1 4/1 5/1 6/1 7/1 8/1 9/1
+価格差（ドバイ－WTI）
+（ドル）
+
+### Page 6
+
+本資料は情報提供を目的として作成されたものであり、投資勧誘を目的としたものではありません。作成時点で、第一ライフ資産運用
+経済研究所が信ずるに足ると判断した情報に基づき作成していますが、その正確性、完全性に対する責任は負いません。見通しは予告
+なく変更されることがあります。また、記載された内容は、第一生命保険ないしはその関連会社の投資方針と常に整合的であるとは限
+りません。 
+6/6 
+られることを黙認することになる。6 月の覚書締結後に通過船舶が増加した際には、WTI原油先物
+価格は 1 バレル＝60 ドル台へと下落した。これは、イランへの空爆開始前の水準となる。したが
+って、再びホルムズ海峡の通過が可能となれば、原油価格は同程度まで下落する可能性がある。 
+ただし、同海峡を通過する原油には通航料が課せられるため、これらの原油を輸入する国の原
+油入着価格はその分が上乗せされることになる。その影響はホルムズ海峡を経由する中東産原油
+への依存度が大きいアジアに大きく出る一方で、自国産原油で需要を賄っている米国には影響し
+ない。したがって、原油市況が下落する分だけ、米国は物価下落という恩恵を得られる。 
+もっとも、イラン攻撃に際して共同歩調を取ったイスラエルの手前、米国がイランへの軍事的
+な圧力を軽減することや、経済制裁を解除するといった譲歩までも一方的に行うことは考えにく
+い。逆に、イランは周辺地域からの米軍の撤退や、経済制裁の解除などを、ホルムズ海峡の通航
+料付き開放の条件とした交渉を行う可能性がある。こうした点を踏まえれば、やはりホルムズ海
+峡の開放には時間を要する可能性が高い。冬場にかけて、世界的なインフレ圧力の増大や、アジ
+ア地域での経済活動下振れリスクは十分にあると言える。
+
+以 上
+
+---
+## Document 433: 付鹏点评9月美联储加息：沃什释放鹰派信号，能源裂解价差成为通胀关注点，美债熊平确认【付鹏说图表】
+
+Source PDF: all report pdf/付鹏点评9月美联储加息：沃什释放鹰派信号，能源裂解价差成为通胀关注点，美债熊平确认【付鹏说图表】.pdf
+Report source: WallstreetCN (Global)
+Date: 2026-09-17
+Pages: 2
+Extraction status: ok
+
+### Page 1
+
+⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⽣活家 搜索
+《付鹏说 · 第七季》全新升级上线！⽴即订阅
+凯⽂沃什对于通胀的关注排在了⾸位，态度⾮常的坚决，加息被他表述成 “ 去掉⼀剂宽
+松 ” ，⽽不是承认⾦融条件本来就已经紧 —— 这句话很关键，等于提前堵住了 “ 现在已经够
+紧、不该再动 ” 的反对意⻅。
+市场给出的可能年内还有⼀次加息（ 12 ⽉），以及明年可能还有⼀次加息（季柴油 / 取暖油
+和裂解价差会不会把那 29% 的 “ 再加两次 ” 打满），才可能结束
+凯⽂沃什不认为会带来就业的问题，刻意切断菲利普斯曲线式的权衡，他连续⽤了否定
+句：不认为必须伤害劳动⼒市场才能完成⽬标；不认为双重使命在中期相互打架，这不是
+“ 就业不重要 ” ，⽽是 “ 就业眼下不是约束 ” ，他倾向于认为⽣产率的提升（包括新技术应⽤）
+能够在⼀定程度上吸收名义成本冲击。如果放任能源端推⾼通胀预期，企业⻓期资本开⽀
+被侵蚀，最终带来的全⾯衰退对就业的破坏，远⽐短期加息降温要惨烈得多。
+凯⽂沃什对于通胀前景提及到了能源与裂解价差这个变量，这也是我们之前特别关注的环
+
+节之⼀ ......
+投资全球更要投资⾃⼰
+
+### Page 2
+
+⻛险提⽰及免责条款
+市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考
+虑本⽂中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
+写评论
+图⽚
+《付鹏说》第七季已经正式上线，⼤家点击订阅加⼊。第七季我们也做出了全新的更新，
+权益的升级。付鹏说第七季⼀共包括五⼤主要的模块，分别是视频专栏、专属社群、深度
+⽂章、图表解答以及专属的问答。已经购买参加付鹏说第七季的⼩伙伴，⼤家不要忘记扫
+码图中的⼆维码，找到我们的客服⼩助⼿领取专栏资料。
+付鹏说第七季，期待⼤家的加⼊。
+
+新⽤⼾注册，免费解锁  3 篇付费⽂章
+请发表您的评论
+表情 发布评论
+
+---
+## Document 499: 四半期特集寄稿『ウェルビーイング視点でみるカスタマーエクスペリエンス～ライフデザインの伴走者としての企業～』
+
+Source PDF: all report pdf/四半期特集寄稿『ウェルビーイング視点でみるカスタマーエクスペリエンス～ライフデザインの伴走者としての企業～』.pdf
+Report source: DLRI
+Date: 2026-09-17
+Pages: 2
+Extraction status: ok
+
+### Page 1
+
+ウェルビーイング視点でみるカスタマーエクスペリエンス
+―ライフデザインの伴走者としての企業
+近年、 多くの企業がカスタマーエクスペリエンス （顧客
+体験 ： CX） の向上を経営課題と して掲げている。 デジタル
+技術の進化により、 手続きの簡便化やパーソナライズさ
+れたサービスが広がり、 利便性の面では多くの企業が高
+い水準に到達しつつある。 その結果 「便利であること」 だ
+けでは差別化が難しくなり、 顧客が企業に求める価値は、
+商品やサービスそのものから、 体験価値へ、 さらに人生に
+おける意味や意義へと変化している。
+ウェルビーイング研究では、 人間の幸福は大きく二つに
+分類される。 一つは快楽的幸福を意味する 「ヘ ドニア」 であ
+り、 便利だった ・ 得をした ・ 楽しかったといった、 短期的な満
+足を指す。 もう一つは 「ユーダイモニア」 と呼ばれる実現
+的幸福であり、 自分らしく生きている ・ 成長している ・ 人生
+に意味を感じているといった、 持続的な幸福感である。
+従来の顧客満足 （CS） は、 どちらかといえばヘ ドニア的
+
+価値の向上を重視してきた。 しかし、 感動や驚きは時間と
+ともに薄れ、 顧客はより強い刺激を求めるようになる。 一
+方で、 人生に寄り添い、 自分ら しい生き方を支援してくれ
+るような顧客体験と しての価値を提供する企業への信頼
+は長く続く。 CXが目指すべき最終的なゴールは、 顧客の
+人生そのものに価値をもたらすことであり、 顧客のウェル
+ビーイングであるといえる。
+こう した変化の背景には、 社会構造そのものの変化が
+ある。 日本は人口減少と高齢化が急速に進行しており、 単
+身世帯や未婚者も増加している。 多様化が進んだ社会に
+おいて、 人々はこれまで以上に主体的に人生を選択しな
+ければならない時代を迎えている。
+世代別に見ると、 その課題はさらに明確である。 高齢世
+代は健康や孤独への不安を抱え、 ミ ドル世代は仕事 ・ 子育
+て ・ 介護が重なる多重負担に直面する。 若年世代は選択
+肢が増えた一方で、 将来の経済的不安やキャ リア形成へ
+CXが目指すゴールと してのウ ェルビーイング
+
+人口減少社会と 「イミ消費」
+の迷いを抱えている。 人生の正解が存在しない社会にお
+いて、 個人は自らのライフスタイルや価値観に合わせた
+選択を求められるようになり、 その結果 「何を選ぶか」 の
+根拠と して 「なぜそれを選ぶのか」 というイミを求めるよ
+うになっている。
+こう した変化は消費行動にも表れている。 かつては所
+有することが価値とされる 「モノ消費」 だった。 この時代、
+「価値があるもの」 は社会で認識されており、 人々は最先
+端の家電や不動産、 車を当たり前のように求め、 自分に
+と っての価値や必要性を再考する機会は多くなかった。
+その後、 旅行やレジャーなどの体験を重視する 「コ ト消費」
+が広がったが、 価値の有無や高低はやはり社会で共有さ
+れていたといえる。 これに対し、 現在はその商品やサービ
+スが 「自分にとって」 どのような意味を持つのかを重視する
+「イミ消費」 が拡大している。
+生命保険も、 「大人になったので加入する」 という 「当た
+り前消費」 から、 家族への責任を果たしたい ・ 自分ら しい人
+
+生を送りたい ・ 将来への安心を得たいという、 人それぞれ
+の目的を実現するための手段と して、 「イミ」 がより追求さ
+れるようになった。 保険に限らず、 人々は商品やサービス
+そのものではなく、 その先にある人生価値を求めている。
+企業が提供するものもまた、 単なる商品機能ではなく、 そ
+の商品 ・ サービスが顧客にもたらす意味の追求へと変化
+しているといえる。
+こう した変化を受け、 近年はライフデザイン支援への
+関心が高まっている。 ライフデザインとは、 自らの価値観
+や目指す生き方を踏まえながら、 キャリア、 家族、 健康、 資
+産形成など人生全体を主体的に設計する考え方である。
+行政でも取り組みが進む。 経済産業省では、 ライフデ
+ザインサービスの社会実装に向けた実証や調査が進め
+られ、 個人の自律的な意思決定を支援する仕組みづく り
+が行われている。 これに伴い、 社員のライフとキャ リアの
+両立を支援する 「ライフデザイン経営」 の考え方も広がり
+ウェルビーイングのインフラとなるライフデザイン
+
+（株） 第一ライフグループ カスタマーエクスペリエンスユニッ ト フェロー　宮木 由貴子（みやき ゆきこ）
+11 第一ライフ研レポー ト 2026.10
+四半期特集
+四半期特集
+
+### Page 2
+
+つつある。 また、 こども家庭庁でも、 若い世代が結婚や出
+産、 キャ リア形成などについて主体的に考えられるような
+ライフデザイン支援の検討を進めてきた。 さらに2026年
+度には企業横断型コミュニティ 「Life Design Junction!」
+が発足し、 企業 ・ 行政 ・ 有識者が連携しながらライフデザ
+イン支援の社会実装を目指している。 企業が顧客や従業
+員のライフデザイン支援を行うことは、 自社の長期顧客
+やファンが増加するとともに、 人材不足が深刻化する中
+で従業員の安定確保にもつながると期待される。
+大学教育においても、 ライフデザインを冠した学部や
+学科が目立つ。 こう した動きは、 人生を主体的に設計する
+力そのものが、 これからの社会において重要な価値であ
+ることを示している。
+Daiichi Lifeグループもまた、 30年以上前からライフ
+デザインと生活満足度との関係に着目し、 人々の人生設
+計を支援することの重要性を提唱してきた。 現在広がり
+つつあるライフデザイン支援の潮流は、 当グループが長
+
+年取り組んできた理念とも重なるものである。
+では、 企業はどのようなCXを設計すべきなのだろう
+か。 ウェルビーイングを高めるメカニズムとしての自己決
+定理論では、 三つの要素 （自律性、 有能感、 関係性） が幸福
+を支えるとされる。 CXの観点から見れば、 自律性とは 「自
+分で選んだ」 という納得感、 有能感とは 「理解できている ・
+使いこなせている」 という実感、 関係性とは 「支えてくれる
+存在がいる」 という安心感である。
+たとえば顧客が複雑な選択肢の中から納得感を持って
+選べる状態を整えることは、 自律性の向上につながる。 商
+品やサービスの内容を理解し、 自らそれらをコン トロール
+できる状態をつくることは有能感を高める。 また、 担当者
+やコミュニティ との継続的な接点を持つことは関係性の
+形成につながる。
+このように考えると、 CXとは顧客を購買へ誘導するた
+めの技術ではない。 顧客が自分ら しい人生を選択し、 納得
+ウェルビーイングを高めるCXとは何か
+して生きることを支援するための設計思想である。 企業
+
+が目指すべきは、 一時的な満足度向上ではなく、 顧客の
+ウェルビーイングに貢献する体験設計なのである。
+生命保険会社の本質的な価値は、 有事における保障の
+提供である。 しかし人生100年時代を迎え、 人口減少と単
+身化が進む社会では、 人々が求める価値は保障だけでは
+なくなっている。 健康、 働き方、 資産形成、 人とのつながり
+など、 人生全体を支えてくれる存在、 いわば、 ライフデザ
+インの伴走者と しての期待が高まっている。
+生命保険は将来への安心や家族への責任、 自分ら しい
+人生への納得感といった長期的価値を提供する商品であ
+る。 その意味で生命保険会社は、 ライフデザイン支援を通
+じたウェルビーイング支援企業へ進化する潜在力を持っ
+ている。 保障を提供するだけでなく、 顧客が人生を主体的
+に設計し、 より良く生きることを支援する存在になること
+が求められている。
+特に、 生命保険は一般的な消費財とは異なる特徴を持
+つ。 多くの商品やサービスは購入時に価値を実感し、 その
+後徐々に満足度が低下していく。 しかし生命保険は、 購入
+
+直後に大きな効用を感じる商品ではない。 むしろ将来の
+安心や家族への責任、 自分ら しい人生設計への納得感と
+いった長期的価値によって支えられている。 生命保険は
+本質的にユーダイモニア型の価値を提供する商品であ
+り、 その価値を顧客が日常の中で実感できるCX設計が
+重要になる。
+人口減少社会では、 結婚、 出産、 就業、 介護、 資産形成な
+ど、 あらゆる人生選択に唯一の正解は存在しない。 だから
+こそ企業に求められるのは正解を提示することではなく、
+一人ひと りが納得できるライフデザインに伴走すること
+である。 これからのCXは、 顧客のライフデザインに伴走し
+て自　社商品 ・ サービスがもたらす 「イミ」 を提案し、 その
+価値を体感してもらう活動へと進化していく。 その先にあ
+るのが、 顧客のウェルビーイングの実現であろう。
+生命保険会社は 「保障会社」 から 「人生支援企業」 へ
+12第一ライフ研レポー ト 2026.10
+四半期特集
+四半期特集
+
+---
+## Document 544: 投資策略週報：全球長債殖利率飆，股債擇優佈局
+
+Source PDF: all report pdf/投資策略週報：全球長債殖利率飆，股債擇優佈局.pdf
+Report source: Fubon
+Date: 2026-08-24
+Pages: 22
+Extraction status: ok
+
+### Page 1
+
+1
+投資策略週報
+全球長債殖利率飆，股債擇優佈局
+投資研究部
+2026/8/24-2026/8/28
+
+### Page 2
+
+報告大綱
+2
+投資策略
+市場訊息
+總體經濟
+外匯市場
+3
+6
+債券市場
+股票市場
+機會市場與總結
+商品地圖與產品
+19
+24
+7
+4
+9
+11
+
+### Page 3
+
+3
+震盪中逢低承接，分散配置產業和市場
+投
+資
+策
+略
+市場展望投資策略
+ 佈局投等債，鎖定高債息：全球長期公債利率趨勢走升，
+但今年債券型基金資金加速流入投等債，受惠發行公司
+財務狀況良好、違約率低，即便短期價格波動，長期領
+息依舊為安全標的且目前殖利率仍高。(詳見Page 10 )
+ 佈局宜分批，產業宜多元：企業持續投入AI與基礎設施，
+科技具長線投資價值但波動度高，震盪中資金轉向健護、
+能源、消費與原物料等防禦族群或戰事升溫受惠類股，
+留意類股輪動機會進行分散配置。(詳見Page 15-18)
+ 市場宜分散，看好台日韓：台日韓廠商參與全球基礎建
+設挹注產業成長動能 ，前波低點未破可分散佈局至長線
+AI題材，亞洲供應鏈如基礎設施 (晶片、伺服器)、資料
+中心(電力、散熱)、國防軍工等。(詳見Page 12-14)
+ 匯市展望：美國財政部加大公債回購規模拉低殖利率 ，
+美元指數回落至近月低 ，然中東局勢未定，油價不時反
+彈，帶動美元等避險資產需求 ，加上通膨仍具僵固性將
+使美元獲得支撐 ，預期美元指數在 98.5至99.5區間波動。
+
+ 債市展望：美國30年期公債殖利率觸及多年高點，財政
+部長債流動性支持回購操作僅當日殖利率走低。近期數
+據走緩使市場升息預期降溫 ，但年內仍具 1碼升息空間
+支持利率在高檔 ，10年美債殖利率預期 4.60至4.80%間。
+ 股市展望：財報顯示晶片製造 、雲端服務等基礎設施類
+股獲利亮眼，且隨AI應用層面擴大亦將有利於產業類股
+輪動。美伊諒解備忘錄到期不延長 ，戰事具惡化隱憂，
+或將增添股市震盪，預期標普指數在7,600至7,800間。
+
+### Page 4
+
+高殖利率，對高估值資產構成壓力
+4
+市
+場
+訊
+息
+頭條新聞
+1. 受中東衝突升級疑慮 ，加上主要經濟體預算赤字展望惡
+化、AI業者大舉發債加重債市賣壓 ，美國30年期公債殖
+利率觸及多年高點 、10年期重返 4.7%。美財政部 8/19
+意外宣佈支持長債流動性回購規模加倍。(詳見Page 5)
+2. 美伊60天停火與談判期限8/17屆滿，白宮不尋求延長協
+議也停止特使對話 ，改以長期經濟制裁施壓 ，伊朗則要
+求美方先解除封鎖，雙方重回對峙僵局。加上以黎衝突
+升高，推升油價至近期新高 ，添能源供應與再通膨疑慮 。
+3. 全球人形機器人製造大廠宇樹科技 8/19上海科創板掛牌，
+首日股價飆逾 460%。公司產品涵蓋感測器 、自動化機
+械手臂、四足及人形機器人 ，去年出貨逾 5,500台人形
+機器人，淨利2.78億元人民幣，是少數已實現獲利的機
+器人企業之一。
+產業訊息
+1. 莫德納與美國製藥巨頭 Merck共同開發的個人化 mRNA
+癌症疫苗搭配免疫療法 Keytruda，在治療高風險黑色素
+
+瘤的第三期臨床試驗中成功達標 ，為全球 mRNA癌症療
+法首度三期告捷，提高市場對皮膚癌治療的期待。
+2. 塔加資源與艾克森美孚子公司簽署 20年期合約 ，提供天
+然氣集輸處理及運輸分餾服務 、2028年上半年新建三座
+氣體處理廠 。戴文能源 、響尾蛇能源等公司合作修建二
+疊紀盆地天然氣管道，於2029年後分階段投入營運。
+3. Anthropic公告Q2營收年增超過 14倍，顯示企業端對生
+成式AI與程式開發工具需求強勁 ，推動AI基礎設施與算
+力規模持續擴張 ，且調整後營業獲利轉正 ，顯示規模擴
+張同時具備變現能力 。公司籌備上市預計最快秋季掛牌 。
+*本頁面公司、ETF名稱僅為列示，非代表單一個股推薦
+
+### Page 5
+
+全球債市長債殖利率攀升至近年高點
+5
+圖表解讀
+資料來源：Bloomberg，2026/8/19
+圖表解讀
+➢ 美歐日長天期公債殖利率走高 ，全球債市承壓是受美 、
+日、英、歐各國普遍存在政府財政紀律惡化隱患 (美國
+國債規模8/18達40兆美元、年付息逾 1兆美元)、AI熱
+潮帶動企業發債 ，加上全球債市聯動 ，海外長債重定
+價會外溢至其他國家，使投資人要求更高期限溢價。
+➢ 美國財政部8/19意外宣布將上調 10至30年期公債回購
+規模(原訂9/9至11/4最多回購 140億美元)，且每次流
+動性支持回購操作上限 ，從20億美元提高到至少 40億
+美元，美債殖利率聞訊應聲下跌 ，或將舒緩短期市場
+長債賣壓 ，然後續長債利率能否持續回落仍需視中東
+戰爭、各國政府財政紀律等推升利率因素能否緩解。
+➢ 建議轉向投入存續期間短或高息資產 ，降低長期通膨
+和政策不確定性 。此外，殖利率與債券價格呈反向走
+勢，高殖利率反映此時債券具極佳收息價值 ，可分批
+佈局投等級企業債。
+各國30年期公債殖利率連袂走高
+
+日本
+美國
+市
+場
+訊
+息
+德國
+英國
+法國
+
+### Page 6
+
+關注本週消費相關數據表現
+6
+重點提醒
+➢ 南韓經濟強勁推高潛在通膨 ，央行副總裁強調預防性升
+息的重要性，但並未明確暗示將連續升息 ，未來進一步
+升息時機和速度取決於公布的數據，本週估利率不變。
+➢ 消費者未來 6個月勞動市場略有改善但仍處負值區間 ，
+家庭收入預期略減但仍保持健康水平 ，消費者情緒謹慎 ，
+預期8月消費者信心較7月略微降低。
+➢ 隨世界盃對旅遊業提振效應消退 ，包含酒店、汽車租賃、
+機票或體育賽事等旅遊相關支出放緩 ，預計7月個人消
+費支出年增幅度將比6月增幅減緩。
+➢ 企業擴大AI投資，電腦、電子產品、金屬和電器設備等
+挹注資本品訂單動能，7月耐久財訂單月增0.5%續強。
+➢ 8月初油價走弱且日圓走強使進口成本壓力放緩 ，8月東
+京CPI漲勢收斂至 1.9%，而7月失業率預計將維持 2.5%。
+央行利率政策及談話
+重要經濟數據
+日期 國家 數據 前期 預期
+8/25 美國 8月經濟諮詢局消費者信心 90.8 90.2
+8/26 美國 7月個人消費支出(年增) 3.7% 3.6%
+
+8/26 美國 7月耐久財訂單(月增) 0.5% 0.5%
+8/27 美國 8/22首次申請失業金人數 - -
+8/28 美國 8月芝加哥採購經理人指數 57.6 -
+8/28 日本 8月東京CPI(年比) 2.0% 1.9%
+8/28 日本 7月失業率 2.5% 2.5%
+資料來源：Bloomberg， 2026/8/20
+總
+體
+經
+濟
+日期 國家 事件 前期 預期
+8/25 澳洲 8月利率決策會議紀錄發佈
+8/27 南韓 利率決策會議 2.75% 2.75%
+*本頁面公司、ETF名稱僅為列示，非代表單一個股推薦
+
+### Page 7
+
+7
+市場對聯準會升息預期降，美元下跌
+匯市表現說明
+➢ WTI原油：伊朗將轉向更具攻勢的軍事行動 ，並將將持
+續關閉荷姆茲海峽，同時美國總統川普排除延長停火協
+議的可能，美伊和平協議前景轉淡，短期內局勢可能進
+一步惡化，推升原油供應中斷風險，油價面臨上行壓力。
+➢ 美元指數：美國政府出手為債券市場提供支撐 ，美債殖
+利率隨之下滑。近期美國物價、就業、零售銷售等經濟
+數據疲弱，顯示聯準會無立即收緊貨幣政策的迫切性 ，
+市場對聯準會近期升息預期下滑。
+➢ 黃金：受美國政府可能擴大長天期國債回購的預期支撐 ，
+抵銷油價上漲與聯準會偏鷹派會議紀要帶來的通膨及利
+率壓力。瑞銀設定 2027年9月目標價每盎司 5,400美元。
+➢ 歐元：美國財政部突宣布干預措施以壓制長端債券殖利
+率，提振全球市場風險偏好 。歐洲央行 8/19數據顯示 ，
+過去12個月外國投資者購入約 1.1萬億歐元的歐元區證
+券，市場資金撤離美元資產、轉向多元化配置。
+資料來源：Bloomberg，2026/8/24
+單位：%
+外
+
+匯
+市
+場
+外匯市場回顧
+
+### Page 8
+
+改革措施改善市場信心，短期或支持歐元
+8
+圖表解讀
+外
+匯
+市
+場
+資料來源：Bloomberg，2026/8/19
+圖表解讀
+➢ 8/18德國8月ZEW經濟信心指數攀升至 34.2，為近五
+個月高點且高於市場預期值 30.0，德國總理Merz推出
+旨在提振經濟增長 、減輕中低收入負擔並提高國家長
+期競爭力的經濟改革方案 ，提振市場對未來經濟前景 。
+➢ 歐元區受極端高溫 、乾旱和河流水位異常低迷影響 ，
+萊茵河水位過低已導致運輸中斷 ，衝擊德國農業 、能
+源、化學和交通運輸等行業正常運作 。過去研究顯示 ，
+若萊茵河水位持續 30天處於極低水準 ，德國工業生產
+將下降1%，國內生產毛額將下降0.4%，增添前景隱憂。
+➢ 8/19歐元區7月CPI年增2.9%，通膨持續高於目標水準 ，
+期貨市場預期 9月再升息1碼。美伊戰事短期和平無望
+支撐原油價格 ，增添短期經濟前景不確定性 ，為歐元
+上行帶來壓力，預期短期歐元在 1.155-1.165區間震盪。
+經濟具韌性，美實質利率處高檔
+美德利差(L)
+
+歐元走勢(R)
+
+### Page 9
+
+9
+債市表現說明
+➢ 美國公債：美國發行 160億美元20年期和80億美元30年
+期國債，新債標售投標倍數分別為2.53倍和2.82倍。雖美
+國財政部宣布提高 10年至30年期國債流動性支持回購操
+作規模至少一倍 ，然油價走強、市場估至9月底美國預算
+赤字或達2兆美元，使公債殖利率居高不下。
+➢ 美國投等債：8月美國投等債發行規模已逾1450億美元，
+創歷年同期最高紀錄 。各產業債報酬普遍下跌 。目前美
+國投等債殖利率超過 5%，其中通訊、金融公司、保險、
+科技等產業殖利率較高 ，建議逢利率回彈進行分批配置 。
+➢ 美國非投等債：美國非投等在各產業報酬漲跌互見 ，其
+中能源 、金融交易所產業債逆勢上漲 ，能源債因利差收
+斂9bps而漲勢領先 。目前美國整體非投等債殖利率超過
+7%，而在通訊、運輸和科技產業殖利率較高逾8%。
+資料來源：Bloomberg，2026/8/24
+債券市場回顧 單位：%
+債
+券
+市
+場
+財政部提高國債回購，作用僅曇花一現
+
+### Page 10
+
+投等債具高殖利率，獲資金青睞
+10
+今年資金明顯流入投資等級債基金
+圖表解讀
+➢ 小摩統計至8/12債券型基金合計流入金額規模達 2025
+年77%，其中資金加速流入投資等級債且規模已達
+2025年的85%，資金對投等債配置顯著高於非投等債
+和新興市場債，兩者分別達2025年的50%和37%。
+➢ 今年至8/20美國投資等級債報酬率為 -0.47%，因存續
+期間多為中長天期 ，利率敏感度較高 ，當市場殖利率
+震盪或走高，債券價格受壓面臨回檔。
+➢ 投資等級債的發行公司財務狀況良好 、違約率低 ，即
+便短期價格波動 ，長期領息依舊為安全標的 。雖今年
+投等債價格微幅下跌 ，但同時也代表實質殖利率變高
+了，可趁目前超過5%收益率的甜甜價佈局鎖住高利息 。
+➢ 今年美國投等債發債量提升 ，反映科技投入 AI發展增
+發債，另AI基建題材還有能源 、公用事業和金融產業
+亦帶動基本面改善，或可佈局iShares投等債ETF(LQD)。
+資料來源：JPM, 2026/8/17、摩根資產管理, 2026/8/10
+
+債
+券
+市
+場
+五大科技巨頭持續投入AI，發債量看增
+-1000
+0
+1000
+2000
+3000
+4000
+5000
+6000
+2023 2024 2025 YTD(8/12)
+債券型基金資金流向
+非投資等級債 新興市場債 投資等級債
+億美元
+億美元
+0
+5000
+2023 2024 2025 2026 2027
+五大科技巨頭發債規模 潛在發債規模
+*本頁面公司、ETF名稱僅為列示，非代表單一個股推薦
+*五大科技巨頭為亞馬遜、Alphabet、微軟、Meta和甲骨文
+
+### Page 11
+
+11
+股市表現說明
+➢ 標普：美伊和平協議到期，戰事短期內難以結束，中東
+衝突升級疑慮推高國際油價。美國財政部加碼回購長天
+期公債，僅暫緩高殖利率對股市估值壓力，半導體類股
+持續走弱，資金流向防禦性類股。
+➢ 標普健護指數：莫德納與美國製藥巨頭 Merck共同開發
+的個人化mRNA癌症疫苗，在大型後期試驗取得正面結
+果，成功降低黑色素瘤復發與擴散風險 ，當日股價大漲。
+➢ 標普能源指數：中東戰事升級疑慮支持油價走勢 ，嘉惠
+上游勘探與開採業務，西方石油、戴文能源、響尾蛇能
+源受惠，標普油氣燃料指數上漲支持能源指數表現。
+➢ 恆生指數：各類指數普遍上漲，其中金融與公用事業指
+數漲勢將對強勁，銀行股、交易所和煤氣業獲投資人青
+睞。地緣衝突推高貨櫃運價，東方海外股價強勢。
+股
+票
+市
+場
+資料來源：Bloomberg，2026/8/24
+股票市場回顧 單位：%
+殖利率飆高，標普下跌
+*本頁面公司名稱僅為列示，非代表單一個股推薦
+
+### Page 12
+
+彭博：機器人是下一個AI Supercycle
+12
+股
+票
+市
+場
+圖表解讀
+➢ 彭博分析隨 AI部署開始轉向至具有商業價值 、可大規
+模發展的領域 ，亞洲市場的實體 AI受益於先進製造 、
+數位基礎設施等製造實力 ，成為發展機器人技術的關
+鍵驅動因素 ，而其中日本機器人廠商基本面最為強勁 。
+➢ 機器人價值鏈涵蓋感測(光達、觸覺感測器、攝影機與
+視覺感知晶片)、執行(馬達、軸承、螺桿和減速器)、
+線束和鋰離子電池等。過去5年日本機器人產業因高價
+值自動化軟體應用增加帶動獲利性優於亞太，中國受
+價格競爭和產能過剩使獲利承壓，韓廠將AI收益投入
+機器人領域，然商業化初期研發成本拖累獲利表現。
+➢ 受人口老化 、勞動力短缺和亞洲推動再工業化 ，日本
+機器人出口可望維持高位 。機器人技術應用範圍從工
+廠擴展到物流 、醫療保健和服務等領域 ，強勁需求支
+撐發那科 、安川電機和其他日本機器人製造商發展 。
+相關標的參考Global X機器人與AI ETF(BOTZ)。
+資料來源：BI，2026/8/12
+
+日本是亞太機器人產業的獲利支柱
+日本機器人出口額趨勢成長
+-10
+0
+10
+20
+30
+40
+亞太 中國 日本 韓國
+平均銷售成長(%) 平均毛利(%) 平均淨利(%)
+0
+10
+20
+30
+1/2024 4/2024 7/202410/20241/2025 4/2025 7/202510/20251/2026 4/2026
+10億日圓
+中國 美國 盧森堡 韓國 印度 德國 台灣 泰國 新加坡 香港 其他
+*本頁面公司、ETF名稱僅為列示，非代表單一個股推薦
+
+### Page 13
+
+韓國科技與重工業，受惠全球建設熱潮
+13
+圖表解讀
+➢ JPM全球製造業 PMI持續落在擴張區 ，特別是韓國 ，
+三星電子與SK海力士高頻寬記憶體HBM與先進晶片，
+為全球AI基礎設施 、高階硬體供應鏈與實體 AI應用
+注入關鍵動能 ，近期經濟學人指出除科技廠 ，韓國
+重工業也推動Kospi指數上漲，尤其在西方國家最匱
+乏的國防和電力基礎設施 ，這波全球建設熱潮有望
+持續數年且受惠國家剛性支出而極具防禦性。
+➢ 韓國造船與重工業供應鏈成熟 ，歐美產能不足時能
+快速交貨 。部分裝備具高性價比 ，如天弓二型防空
+飛彈成本僅美國愛國者飛彈的三分之一 。政府支援
+融資、外交到技術研發 ，力求躋身全球四大國防工
+業國，產業已獲波蘭及中東等國大型軍售合約挹注 。
+➢ 在歐美電網老舊化及全球超高壓變壓器供需失衡之
+際，韓國重電企業具快速交貨與高品質技術 ，成功
+切入北美及全球大廠供應鏈 ，取得長期且高毛利訂
+單。相關標的可關注iShares MSCI韓國ETF(EWY)。
+資料來源：Bloomberg, 2026/8/18、Decisions Advisors, 2026/6/8
+
+股
+票
+市
+場
+韓國參與全球基建成長，挹注股價動能
+韓國出口YoY(L)
+Kospi指數(R)
+YoY
+0
+500
+1000
+2025 2035
+韓國國防市場規模(億美元) 韓國電力設備市場規模(億美元)
+億美元
+除科技，韓國國防和重電類股亦推動韓股上漲
+*本頁面公司、ETF名稱僅為列示，非代表單一個股推薦
+JPM全球製造業PMI(R)
+
+### Page 14
+
+台積電先進封裝迎爆炸性成長
+14
+圖表解讀
+➢ 全球半導體市場預估至 2030年突破 1.5兆美元 ，其
+中高效能運算 HPC與AI的占比更達 55%，台積電藉
+由CoWoS與SoIC等3D IC先進封裝技術鎖定商機 。
+先進封裝已從過去晶圓製造的後段輔助角色 ，成為
+支撐AI算力擴充以及台積電營運成長的動能 。先進
+封裝不但突破單一晶片光罩尺寸限制 ，更提升經濟
+效益與性能，以N3邏輯裸晶搭配N7 I/O晶片的小晶
+片設計與單一N3大晶片相比，裸晶成本降24%。
+➢ 台積電 2026年已量產全球最大的 5.5倍光罩尺寸
+CoWoS封裝且良率穩定維持逾 98%，高層估 2022
+年至2027年CoWoS和SoIC產能年複合成長率將分
+別超過80%和90%，預計2029年將達14倍光罩尺寸
+以上並可容納 24顆HBM5E，同時SoIC垂直堆疊技
+術將間距縮小至 4.5微米，實現A14晶片極限堆疊。
+台積電技術佈局領先對手 ，市場霸主地位穩固 。相
+關標的參考富邦台灣核心半導體ETF(00892)。
+
+資料來源：GS、JPM, 2026/7/16
+股
+票
+市
+場
+台積電CoWoS和SoIC產能持續爬坡
+千片晶圓／每月
+*CoWoS和SoIC皆為台積電開發的先進封裝技術。
+CoWoS 是2.5D水平並排技術，把運算晶片和記憶體放在同一層；
+SoIC 是3D垂直堆疊技術，把晶片直接上下疊在一起。
 0
 50
 100
@@ -5227,391 +5574,358 @@ CPI同比0.7%，前值0.8%； 环比0.11%， 前值0.2%。在上月环比转为�
 250
 300
 350
-400
-18-01
-18-08
-19-03
-19-10
-20-05
-20-12
-21-07
-22-02
-22-09
-23-04
-23-11
-24-06
-25-01
-25-08
-26-03
-美国:CPI:能源:当月值 WTI原油现货价:月:平均值（右轴）
+24Q1 24Q3 25Q1 25Q3 26Q1 26Q3 27Q1 27Q3 28Q1 28Q3
+CoWoS產能 SoIC產能
+*本頁面公司、ETF名稱僅為列示，非代表單一個股推薦
 
-### Page 6
+### Page 15
 
-[Table_Pagehead]  
-证券研究报告|宏观报告
-
-万联证券研究所 www.wlzq.cn 第 6 页 共 9 页  
-图表8：Manheim二手车批发价格指数领先二手汽车CPI（%）
-
-资料来源：iFind，Manheim，万联证券研究所
-
-图表9：本月多数核心商品分项环比增速回落，汽车环比仍处高位（%）
-
-资料来源：iFind，万联证券研究所
-
-1.3  核心服务分项走势分化，运输服务、教育与通信服务为主要拉动 
-住房租金延续缓慢下降趋势，市场租金数据指向该项仍有回落空间。8月核心服务项
-同比持平于3.0%，环比由0.23%上行至0.33%。其中，住房租金同比增速3.02%，前值
-为3.15%，环比增速上升0.11个百分点至0.25%。 市场租金数据方面，Zillow住房租金
-指数环比从0.3%进一步升至0.31%，延续上行趋势；Apartment List数据则显示公寓
-租金同比跌幅持续收窄。近期市场租金增速上行，主要受CPI对房租统计方法存在明
-显时滞影响， 反映的是存量租约的粘性。 当前高利率环境已经给房价和新签租金带来
-了实质性压制，中期来看，住房租金预期延续回落。 
-公共交通为运输服务主要拉动项，教育与通信分项异常高增速也给服务增速带来拉
-动。运输服务同比2.4%，前值2.9%；季调环比0.45%，前值0.28%。其中，机动车维修
-保养同比5.2%，前值6.6%，环比由0.63%回升至1.08%。机动车保险分项同比-5.1%，
-前值-4.5%，环比增速由-0.29%进一步降至-0.75%，经历大幅补涨周期后，美国个人
-车险行业承保盈利水平已显著修复， 主要险企为抢占市场份额， 开启竞争性降价策略
-带动环比增速转负。对油价敏感的公共交通分项同比15.4%， 前值16.1%， 环比则录得
-2.26%的高增速，前值1.65%，是拉动运输服务环比上行的重要因素。8月教育和通信
-服务分项环比增速较高，录得1.9%，前值0.7%；同比2.1%，前值0.5%。其中，电话服
-务环比增速5.4%，前值0.6%，一方面是头部运营商旧套餐强制迁移与提价， 另一方面，
-统计局统计方式变动，带来数据统计异常，推高该分项乃至核心服务整体增速。
-
--20
--10
-0
-10
-20
-30
-40
-50
-60
-2019-1 2020-1 2021-1 2022-1 2023-1 2024-1 2025-1 2026-1
-CPI:新汽车:同比 CPI:二手汽车和卡车:同比 Manheim二手车批发价格指数:同比
-
-### Page 7
-
-[Table_Pagehead]  
-证券研究报告|宏观报告
-
-万联证券研究所 www.wlzq.cn 第 7 页 共 9 页  
-图表10：市场租金数据指向住房通胀将维持温和（%） 图表11：Zillow住房租金增速趋于回升（%）
-
-资料来源：iFind，Zillow，Apartment List，万联证券研究所 资料来源：Zillow，万联证券研究所
-
-2    PPI 略高于预期，影响 PCE 的分项表现分化 
-PPI同比略高于预期。8月，PPI同比5.4%，预期5.3%，前值4.8%； 环比0.4%， 前值0.1%。
-其中，商品、核心商品、服务分项同比增速分别从6.8%、5%、4%上行至7.7%、5.1%、
-4.5%。影响PCE价格指数的主要分项中，航空服务、医院住院服务本月环比较高，其
-余医疗相关分项表现温和，资产管理服务环比跌幅较大。由于美国经济研究局 （BEA）
-选取了PPI的航空服务、辅助诊断、住院与护理子项等编制PCE价格指数，预计航空、
-住院服务将对本月PCE起向上拉动作用。 
-图表12：航空服务PPI分项环比增速较高（%）
-
-资料来源：iFind，万联证券研究所
-
-3    总结与展望 
-美国核心通胀高于预期，加息必要性上升。本月数据显示美国通胀仍有较强粘性，回
-落进度慢于预期。沙特-胡赛冲突加剧，中东地缘风险存在扩大迹象，预计能源以及
--5
-0
-5
-10
+美國AI領頭羊，雲端業務動能續揚
 15
-20
-2019-1 2020-1 2021-1 2022-1 2023-1 2024-1 2025-1 2026-1
-CPI:住房租金:同比 Zillow住房租金指数:同比
-Apartment List租金指数:同比
--0.5
-0
-0.5
-1
-1.5
-2
-0
-2
-4
-6
-8
-10
-12
-14
+美國科技大廠雲端收入動能猶存
+股
+票
+市
+場
+資料來源：BCA，2026/8/11
+圖表解讀
+➢ 美國科技大廠Google、亞馬遜與微軟的雲端業務訂單 ，
+涵蓋基礎架構 IaaS、平台服務 PaaS、資料庫與大數據
+分析以及人工智慧 AI與機器學習 ML等IT資源服務項目 。
+近六季微軟、Google和亞馬遜雲端業務收入趨勢增加 ，
+顯示市場需求成長。
+➢ 與此同時 ，科技巨頭雲端業務的積壓訂單也呈現快速
+成長，通常雲端業務訂單於簽約後並不會在下一季度
+內完全變現成營收 ，而是隨著客戶實際部屬 、上線與
+運算資源消耗，可能貢獻未來1至3年內財報營收。
+➢ Google和亞馬遜近期上調2026年資本支出指引，亞馬
+遜、微軟和Google三家今年AI資本支出達6000億美元。
+今明年標普盈餘成長動能最佳仍是科技類股 ，科技廠
+目前佈局投資以提振未來獲利能力 ，投資人須持續檢
+視投入規模擴大的同時能否轉換為相應的收入成長。
+累積雲端業務訂單增加，挹注未來營運動能
+
+10億美元 YoY %
+10億美元 10億美元
+*本頁面公司、ETF名稱僅為列示，非代表單一個股推薦
+
+### Page 16
+
+瑞銀估今年美國金融業股東殖利率達5%
 16
-2016-1 2018-1 2020-1 2022-1 2024-1 2026-1
-Zillow住房租金指数:同比
-Zillow住房租金指数:环比（右轴）
--20
--10
-0
-10
-20
-30
-40
-50
-60
-2019-1 2020-1 2021-1 2022-1 2023-1 2024-1 2025-1 2026-1
-CPI:新汽车:同比 CPI:二手汽车和卡车:同比 Manheim二手车批发价格指数:同比
+美國銀行業Q3起普遍調升股息發放水準
+股
+票
+市
+場
+圖表解讀
+➢ 企業透過股票回購減少流通總股數進而推升 EPS和股價，
+美國銀行業每季穩定進行股票回購 ，高盛估今年金融
+業在標普股票回購中佔比27%。
+➢ 從Q3開始銀行業普遍調升股息發放水準 ，這是受益於
+AI熱潮帶動資本市場活躍，IPO案為投資銀行挹注顧問
+和承銷手續費 。市場動盪使客戶頻繁調整資產配置推
+升股債交易收入 ，銀行股財報佳 ，增添股息上調底氣 。
+➢ 此外聯準會年度壓力測試中美國銀行展現強健資本適
+足率，使銀行業擁有資本操作空間用於擴大股東回報 ，
+包括摩根大通 、高盛與花旗集團宣佈調升股息約 10%，
+而大小摩新增普通股回購金額 200億和500億美元計畫。
+➢ 瑞銀估受惠監管放寬和獲利成長將使今年銀行業股票
+回購加上股息總額年增近 50%，現金回報大增 。整體
+美國銀行業股東殖利率 (現金股息 +股票回購 ，衡量將
+利潤返還股東回報)將達5%，可望吸引投資買盤進駐。
+資料來源： GS, 2026/8/7、JPM, 2026/6/16
 
-### Page 8
-
-[Table_Pagehead] 
-证券研究报告|宏观报告
-
-万联证券研究所 www.wlzq.cn 第 8 页 共 9 页  
-公共交通等油价敏感的CPI分项将持续面临压力。通胀粘性较强、就业市场稳固、AI
-投资热度不减，近期数据显示美联储加息的必要性上升。9月FOMC会议，无法排除加
-息可能性，建议维持谨慎。 
-图表13：截尾均值通胀同比增速相对温和（%） 图表14：利率期货市场对9月会议加息预期大幅升温
-
-资料来源：FRED，万联证券研究所 资料来源：iFind，万联证券研究所
-
-4    风险提示 
-地缘政治风险发展超预期，海外货币政策超预期鹰派。 
--2
+美元
 0
 2
 4
 6
-8
-10
-2019-1 2020-1 2021-1 2022-1 2023-1 2024-1 2025-1 2026-1
-16%截尾均值CPI 截尾均值PCE
-0%
-10%
-20%
-30%
-40%
-50%
-60%
-70%
-80%
-90%
-100%
-7/30/26 8/6/26 8/13/26 8/20/26 8/27/26 9/3/26 9/10/26
-美联储9月会议行动预期
-维持不变 +25bp
+高盛 摩根大通 摩根士丹利 花旗 富國銀行 美銀 PNC Regions
+Financial
+原發放股利金額 調整後股利金額
+*本頁面公司、ETF名稱僅為列示，非代表單一個股推薦
+高盛估2026年標普股票回購，金融業佔27%
+0
+500
+1000
+1500
+2024 2025 2026
+標普500股票回購 金融業
+27%
+小摩估今年美國IPO金額與2021年相當
+10億美元
 
-### Page 9
+### Page 17
 
-[Table_Pagehead] 
-证券研究报告|宏观报告
+美國不動產需求穩健增長
+17
+圖表解讀
+➢ 隨著電商在零售銷售比重逐漸攀升 ，加上供應鏈重
+組帶動長期工業物流需求的結構性支撐 ，近期受惠
+於新增供給有限 、優質空間仍享有租金議價 ，支持
+工業物流不動產價格維持高檔。
+➢ AI雖持續滲透企業工作流程，但仍尚未實現完全取
+代人力且無須監督的自動化情境，辦公室雇員以及
+辦公室占用存量仍將呈現增長趨勢。
+➢ 近年多戶公寓住宅完工量收縮速度快於需求趨緩速
+度，超額供給比率下滑，往至疫情前常態區間靠攏，
+供給過剩逐步消退也帶動全美上半年公寓租金年增
+1.4%，近2001-19年長期平均，市場回歸常態。
+➢ 美國不動產市場部分領域穩健，參考投資標的
+Vanguard美國不動產REITs(VNQ)或iShares美國房
+地產指數ETF(IYR)。
+資料來源：Moody’s, 2026/8
+股
+票
+市
+場
+工業不動產價格維持高檔
+*本頁面公司、ETF名稱僅為列示，非代表單一個股推薦
+2019Q3=100
+機構/中型/小型資本物流價格指數
+2000=100
 
-万联证券研究所 www.wlzq.cn 第 9 页 共 9 页  
-$$end$$ 
-[Table_InudstryRankInfo] 行业投资评级 
-强于大市：未来6个月内行业指数相对大盘涨幅10％以上； 
-同步大市：未来6个月内行业指数相对大盘涨幅10％至-10％之间； 
-弱于大市：未来6个月内行业指数相对大盘跌幅10％以上。
+辦公室雇員基本情境
+辦公室占用存量基本情境
+辦公室占用存量隨雇員量趨勢增加
+多戶住宅市場超額供給比率收斂
+千戶 年度完工量  年度去化量 超額供給比率
 
-[Table_StockRankInfo] 公司投资评级 
-买入：未来6个月内公司相对大盘涨幅15％以上； 
-增持：未来6个月内公司相对大盘涨幅5％至15％； 
-观望：未来6个月内公司相对大盘涨幅-5％至5％； 
-卖出：未来6个月内公司相对大盘跌幅5％以上。 
-基准指数 ：沪深300指数
+### Page 18
 
-[Table_RiskInfo] 风险提示 
-我们在此提醒您， 不同证券研究机构采用不同的评级术语及评级标准。 我们采用的是相对评级体系， 表示投资的
-相对比重建议；投资者买入或者卖出证券的决定取决于个人的实际情况，比如当前的持仓结构以及其他需要考
-虑的因素。投资者应阅读整篇报告，以获取比较完整的观点与信息，不应仅仅依靠投资评级来推断结论。
+氮肥供應鏈緊張，加劇全球糧食危機
+18資料來源：CF, 2026/8/5、2026/5/7
+股
+票
+市
+場
+2027年前全球氮肥供應持續緊張
+2026年美國墨西哥灣尿素每月到岸成本
+中國下半年出口持平 印度進口增加 巴西進口減少
+脆弱且易受衝擊 中國產能低度風險
+美元/短噸
+南
+非
+北美 中東
+北非
+俄羅斯 印尼
+南亞
+中國
+內陸 拉美
+中國無煙煤
+&天然氣
+中國內陸
+&天然氣
+95%開工率下月產能(百萬短噸)
+東
+南
+亞
+印度 東西歐
+烏克蘭
+圖表解讀
+➢ 全球氮肥市場供應持續緊張 ，中國實施尿素出口配額 ，
+僅年中釋出特定淡季配額 ，而俄羅斯和伊朗地緣政治
+衝突持續，導致俄羅斯和波斯灣地區 (特別是伊朗和卡
+達)兩大氮肥出口的物流與貿易受阻 ，且部分歐洲工廠
+因成本高企而減產或停產等因素。
+➢ 雖巴西推動國家肥料計畫已降低對海外化肥依賴 ，然
+因產能不足且下半年逢玉米和甘蔗作物播種旺季而積
+極補庫氮肥 ，同時印度國內老舊廠房產出下滑而增加
+向國際市場採購量 ，加上今年美國高耗氮作物玉米種
 
-[Table_PromiseInfo] 证券分析师承诺 
-本人具有中国证券业协会授予的证券投资咨询执业资格并登记为证券分析师， 以勤勉的执业态度， 独立、 客观地
-出具本报告。 本报告清晰准确地反映了本人的研究观点。 本人不曾因， 不因， 也将不会因本报告中的具体推荐意
-见或观点而直接或间接收到任何形式的补偿。
+植高於歷史平均，短期內為氮肥市場提供需求支撐。
+➢ 觀察2026年美國墨西哥灣尿素每月到岸成本 ，全球成
+本最低的四分之一尿素產能約 50%面臨地緣政治衝突
+風險。中國產能生產無虞 ，但受政府出口政策影響全
+球供應量有限 。氮肥供應鏈不穩定威脅全球糧食安全 ，
+標的可關注CF工業或Vanguard原物料ETF(VAW)。
+百萬公噸
+*本頁面公司、ETF名稱僅為列示，非代表單一個股推薦
 
-[Table_AdressInfo] 万联证券股份有限公司 研究所 
-上海浦东新区世纪大道 1528 号陆家嘴基金大厦 
-北京西城区平安里西大街 28 号中海国际中心 
-深圳福田区深南大道 2007 号金地中心 
-广州天河区珠江东路 11 号高德置地广场
+### Page 19
+
+8月機會市場亮點
+19
+機
+會
+市
+場
+資產別 市場 亮點
+股票
+市場
+美國 美國經濟展現韌性，AI資本支出延續使投資主題從核心晶片擴展至基礎建設、先進製造及應用端，
+同時也擴散至具低價潛力股的非科技板塊。留意隨著選舉將至，市場波動性或在下半年加劇。
+日本 東證持續推動提升股價淨值比與資本效率改革，吸引國際與本地資金流入。日本薪資增長，使非必
+需消費與內需企業基本面改善。AI與全球半導體供應鏈需求旺盛，挹注相關科技類股營運動能。
+新亞 全球人工智慧、先進封裝及記憶體晶片需求持續暢旺，帶動台、韓等科技供應鏈出口動能，科技廠
+獲利普遍上修。韓國今年實質GDP成長上調至3.0%、台灣則上調至10%以上，均創近年之最。
+科技 AI投資主題廣泛涵蓋科技巨頭至基礎建設、光通訊及先進製造等領域，並逐漸往機器人、自駕車、
+太空產業等應用端擴散，AI業能依舊提供高產見度，且科技廠投資已從題材面走向具體營收貢獻。
+地產 人工智慧與資料中心建置熱潮擴散至不動產，支撐特定商業與工業地產收益。供應鏈重組與在地化
+生產帶動工業廠房、倉儲及周邊住宅剛性需求。高齡化趨勢使得近期銀髮住宅市場交易熱絡。
+
+金融 AI應用與資本支出延伸至金融領域，大型機構參與算力融資與專案貸款，推升商業銀行與私募信貸
+的業務機會。美國數據顯示降溫訊號，降低央行升息急迫性，對金融機構資金成本帶來暫時喘息。
+原物料 AI投資浪潮由純軟硬體擴散至基礎建設、重工業與先進製造，推升對相關化學、金屬、電力與基礎
+材料的需求。地緣政治衝突影響能源和化工等部分關鍵戰略原物料的生產與運輸，支撐報價走勢。
+債券
+市場 投等債 發債企業多為財務體質優良的大型企業，信用評級高，違約風險低，提供投資人降低整體投資組合
+波動的選擇。目前利差相對有限，不過殖利率處歷史相對高位，債息為投等債投資主要報酬來源。
+匯率
+市場 美元 美國CPI和PPI數據令聯準會升息壓力趨緩，油價不若先前高點但仍處高檔震盪，支撐美國公債殖利
+率維持相對高檔，加上避險需求仍存吸引國際資金停泊美元資產，Fedwatch顯示年內具升息可能。
+看好減碼 中立
+
+### Page 20
+
+20
+資產別 市場 評論
+股票
+市場
+歐洲 德國政府針對中產階級推出百億歐元規模減稅計畫，明年經濟成長率可望突破1%。股市受惠政策利
+多、企業獲利穩健與評價面相對便宜，中東局勢牽動油價成本，地緣政治不確定性添能源危機。。
+中國 網路平台企業加大AI投入並逐步轉向商業化變現與企業獲利。美中再度互祭制裁，為川習會添變數。
+健護
+醫療
+高齡化社會推動長期慢性病、癌症治療及長照等剛性需求。減肥藥市場需求超預期，帶動大型藥廠
+獲利成長。政策推動藥價監管，製藥廠獲利率承壓。大廠暢銷藥品專利到期，將面臨競爭加劇風險。
+能源 AI資料中心、電力基建及工業帶動能源需求。地緣政治風險猶存、關鍵運輸要道尚未恢復、能源生
+產設施短期內不易復產使得供給瓶頸仍存。能源企業現金流及ROE具吸引力，能源股策略配置。
+工業 美國企業存貨銷售比創四年多新低，後續製造業庫存回補、供應鏈重整或資本支出擴張，類股可望
+受惠。包含基礎建設、國防航太、工業自動化與電氣化的發展，將支撐工業類股的表現。
+公用
+事業
+電網、設備與融資成本上升影響資本支出回報，高利率環境下估值易被壓縮。受惠於數據中心帶動
+
+的強勁電力需求，公用事業類股已從傳統的防禦型資產轉型為兼具穩健配息與成長潛力標的。
+消費 美國消費具韌性，高所得族群支出穩健，消費朝服務、旅遊及體驗經濟移轉，聚焦穩定現金流企業。
+債券
+市場
+公債 公債具降低投組波動風險並提高防禦力功能，建議配置於中短天期流動性佳且免除利率彈升時波動。
+非投 非投等債具高殖利率且通常存續期相對較短利率敏感性低，惟市場恐慌時市場將要求高風險補貼。
+新興
+市場 殖利率具吸引力，配置主權信用品質改善部位可分散投組風險，迴避低信評、具政治/匯率風險國家。
+市
+場
+評
+論
+看好減碼 中立
+其它市場評論
+
+### Page 21
+
+股市分散市場與產業配置、債市分批佈IG
+21
+總
+結
+貨幣 負向 中立 正向
+美元 ●
+歐元 ●
+日圓 ●
+人民幣 ●
+澳幣 ●
+黃金 ●
+原油 ●
+全球外匯&商品展望 全球債市展望 全球股市展望 標普產業展望
+債種 負向 中立 正向
+美國債 ●
+全球債 ●
+公債 ●
+投資
+等級債 ●
+非投資
+等級債 ●
+新興
+市場債 ●
+國家 負向 中立 正向
+美國 ●
+新亞 ●
+日本 ●
+新歐 ●
+歐洲 ●
+中國 ●
+產業 負向 中立 正向
+科技 ●
+消費 ●
+工業 ●
+金融 ●
+健護 ●
+公用事業 ●
+房地產 ●
+原物料 ●
+• AI趨勢不變股價落底宜長線佈局，指數高檔震盪或有
+類股輪動機會，分散配置於基本面良好且具題材類股。
+• 全球長期公債殖利率飆升，擇優佈局高殖利率且基本
+面佳的投資等級債，可配置具AI長線題材相關產業債。
+• 地緣政治持續挹注避險需求，聯準會9月利率預期不
+變但年內升息1碼機會猶存，美元獲美債殖利率支撐。
+• 輝達8/26發布財報，焦點在驗證AI資本支出週期的延續
+性，新一代晶片出貨和產能爬坡狀況以及下一季指引。
+
+• 全球央行年會8/27-29舉行，聚焦Warsh演說聯準會未
+來改革方向或相關宏觀議題。
+• 美伊60天停火期限8/17正式破局，觀察中東戰事變化。
+• 9月博通、甲骨文、美光財報接棒登場。
+後市觀察重點Key Notes
+
+### Page 22
+
+信賴該等資料做出投資決策為由，向本行主張任何權利。未經本行授權，禁止以任何形式引
+用、抄襲、重製或轉寄本研究報告。
+警語
 
 ---
-## Document 669: 问界将撤出华为专卖店？知情人：表述不准确，华为专营店将划分成专卖问界+混卖其他“四界”两种，明年元旦正式划分完成
+## Document 549: 摩根大通资管：美债跌至_最大痛苦点_，是时候抄底长端国债了
 
-Source PDF: all report pdf/问界将撤出华为专卖店？知情人：表述不准确，华为专营店将划分成专卖问界+混卖其他“四界”两种，明年元旦正式划分完成.pdf
+Source PDF: all report pdf/摩根大通资管：美债跌至_最大痛苦点_，是时候抄底长端国债了.pdf
 Report source: WallstreetCN (Global)
 Date: 2026-09-17
-Pages: 1
-Extraction status: ok
-
-### Page 1
-
-⻛险提⽰及免责条款
-市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂
-中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
-31 收藏 分享到 :
-写评论
-图⽚
-消息称，明年 1 ⽉ 1 ⽇起问界正式撤出鸿蒙智⾏和华为专卖店。接近赛⼒斯的知情⼈⼠表⽰
-该表述不准确，并⾮ 2027 年 1 ⽉ 1 ⽇起问界撤出，⽽是明年 1 ⽉ 1 ⽇起华为专营店将分成两
-种：⼀种专卖问界⻋型，⼀种混卖其他 “ 四界 ” ⻋型。
-摘要：
-9 ⽉ 17 ⽇，有消息称，已有多位经销商接到华为⽅⾯告知，明年 1 ⽉ 1 ⽇开始，问界正式撤出鸿蒙
-智⾏和华为专卖店。
-⼀位接近赛⼒斯的知情⼈⼠在接受《每⽇经济新闻》记者采访时指表⽰，上述表述不准确，并
-不是 2027 年 1 ⽉ 1 ⽇起问界撤出鸿蒙智⾏和华为专卖店，⽽是明年1⽉1⽇起，华为专营店将正式
-分成两种:⼀种专卖问界⻋型，⼀种混卖其他 “ 四界 ” ⻋型。 “2027年1⽉1⽇将正式划分完成。该
-
-知情⼈⼠称。
-本⽂来源：每⽇经济新闻
-请发表您的评论
-表情 发布评论
-⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⽣活家 搜索
-
----
-## Document 676: 高盛交易员快评沃什表态：若“Q4通胀趋势不变”，那就不止“再加一次”了
-
-Source PDF: all report pdf/高盛交易员快评沃什表态：若“Q4通胀趋势不变”，那就不止“再加一次”了.pdf
-Report source: WallstreetCN (Global)
-Date: 2026-09-17
-Pages: 4
-Extraction status: ok
-
-### Page 1
-
-⾼盛特别警⽰，沃什鹰派表态与 SEP 显⽰通胀直⾄ 2029 年才回落⾄ 2% 之间存在明显的内
-在⽭盾。若四季度通胀趋势未能出现实质性改变，美联储或将采取⽐当前点阵图更为激进
-的前置加息路径， " 再加⼀次 " 的基准预期或⾯临上修压⼒。
-摘要：
-美联储时隔三年重启加息，但点阵图释放的鹰派信号令市场措⼿不及。⾼盛交易员快评直⾔，
-这次远⾮ " 鸽式加息 " 。
-华尔街⻅闻提及，美联储 9 ⽉会议全票通过，将基准利率上调 25 个基点⾄ 3.75%-4.00% 区间，为
-2023 年 7 ⽉以来⾸次加息。
-会后公布的经济预测摘要（ SEP ）显⽰，委员会中值预测暗⽰ 2026 年内还将再加息⼀次，且
-2027 年不降息，整体⽴场明显强于市场此前预期。
-追⻛交易台消息， 9 ⽉ 16 ⽇，⾼盛固定收益与股票部⻔ Giulio Esposito 在会后快评中指出，此次
-结果⽐⾼盛预期更为鹰派。⾼盛原本预期此次为 " 鸽式加息 " ，即加息的同时释放后续空间有限的
-信号。
-⾼盛认为市场接下来需要重点关注，若通胀⾛势在四季度未能出现实质性改变，更具进攻性的
-
-前置加息路径或将取代当前 " 再加⼀次 " 的基准预期。
-点阵图⽐预期更鹰， " 两次加息 " 成为主流
-本次点阵图结果明显超出市场及⾼盛⾃⾝预判。
-在 18 名委员中， 12 名委员预计 2026 年全年共加息两次（含本次）， 4 名委员预计加息三次，仅 2
-名委员维持 " 全年仅加息⼀次 " 的较为温和⽴场。
-⾼盛会前预期的基准情景为 10 ⽐ 8 多数⽀持 " 仅加息⼀次 " ，实际结果与此出⼊显著。
-从利率路径中值来看， 2026 年末利率预计落于 4.00%-4.25% 区间， 2027 年维持不变， 2028 年回
-落⾄ 3.75%-4.00% ， 2029 年进⼀步降⾄ 3.50%-3.75% 。
-中性利率中值⼩幅上调，从 3.06% 升⾄ 3.25% 。值得注意的是，沃什本⼈与 6 ⽉会议相同，再次
-未提交点阵图预测。
-⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⽣活家 搜索
-
-### Page 2
-
-与点阵图的鹰派基调相呼应，本次 SEP 对经济基本⾯的预测同步上调：
-华尔街⻅闻提及， FOMC 声明在措辞上仍较为简短，未提供明确的前瞻指引。新增了 " 国内⽀出
-具有韧性 " 的表述，并将本次加息定性为 " ⽀持更及时地回归委员会 2% ⽬标 " 。
-沃什措辞鹰派，通胀容忍度下降
-发布会上，沃什的表态是市场最为关注的焦点。
-他明确将当前⾦融条件定性为 " 远未达到限制性⽔平 " ，并将本次加息描述为仅是 " 去除了⼀剂宽
-松 " ，暗⽰货币政策收紧空间仍然充⾜。
-他对通胀的措辞尤为强硬，直⾔ " 通胀过⾼且持续时间过⻓ " ，指出当前 PCE 预计达 3.7% ，仍有
-过多分项超过 3% ，同时对⼤宗商品价格上涨表⽰担忧，认为通胀⻛险整体偏向上⾏。
-Esposito 在快评中特别点出⼀个值得警惕的信号：沃什鹰派表态与 SEP 显⽰通胀直⾄ 2029 年才
-回落⾄ 2% 之间存在明显的内在⽭盾。
-这⼀背离意味着，若四季度通胀趋势⽆法出现实质性转变，美联储可能⾛向⽐当前点阵图所⽰
-更为激进的前置加息路径，⽽⾮仅再加息⼀次即告⼀段落。
-
-~~~~~~~~~~~~~~~~~~~~~~~~
-以上精彩内容来⾃追⻛交易台。
-更详细的解读，包括实时解读、⼀线研究等内容，请加⼊【追⻛交易台 ▪ 年度会员】
-整体 PCE 通胀（ 2026 年）：上调 0.1 个百分点⾄ 3.7% ；
-核⼼ PCE 通胀（ 2026 年）：上调 0.1 个百分点⾄ 3.4% ；
-GDP 增速（ 2026 年）：上调 0.1 个百分点⾄ 2.3% ；（ 2027 年）：上调 0.1 个百分点⾄ 2.4% ；
-失业率（ 2026 年）：下调 0.2 个百分点⾄ 4.1% ；（ 2027 年）：同样下调 0.2 个百分点⾄ 4.1% 。
-
-### Page 4
-
-⻛险提⽰及免责条款
-市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂
-中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
-368 收藏 分享到 :
-写评论
-图⽚
-1 条评论
-限免
-请发表您的评论
-表情 发布评论
-海阔天空
-6 ⼩时前 中国湖北省
-0  回复
-懂王⽓死了
-
----
-## Document 680: ５円を超える円高の背景にあるもの
-
-Source PDF: all report pdf/５円を超える円高の背景にあるもの.pdf
-Report source: DLRI
-Date: 2026-09-04
 Pages: 2
 Extraction status: ok
 
 ### Page 1
 
-2026 年 9 月 4 日(金)
+摩根⼤通资产管理⾸席投资官 Bob Michele 表⽰，其团队已开始买⼊美国、⽇本及澳⼤利亚
+⻓端国债，认为当前价格 " 极度便宜 " 。他指出，欧洲央⾏、美联储及⽇本央⾏的政策联动将
+形成债市⽀撑链条，⻉森特启动的⻓期国债回购计划亦被视为关键稳定⼒量，政策⼯具箱
+仍有加码空间。
+摘要：
+摩根⼤通资产管理公司⾸席投资官 Bob Michele 表⽰，其团队已开始买⼊美国、⽇本及澳⼤利亚
+⻓端国债，认为当前价格 " 实在太便宜 " ，债市已触及 " 极度痛苦 " 的临界点。
+周三， Michele 接受彭博电视采访时称，多重利多因素正在汇聚：从上周欧洲央⾏加息起步，经
+由美联储，直⾄本周五⽇本央⾏的政策⾏动，⼀系列央⾏动作将构成对债市的重要⽀撑。
+与此同时，随着中期选举临近，中东局势有望趋于稳定，地缘政治⻛险或逐步降温。
+美国财政部⻓斯科特 · ⻉森特针对⻓期国债的回购计划已于上⽉启动， Michele 将其视为稳定市场
+的关键⼒量，并指出⻉森特 " 若有意愿，仍有充⾜弹药可以加码 " 。
 
-1/2 
-５円を超える円高の背景にあるもの 
- 経済調査部主席エコノミスト藤代宏一 
-（℡：050-5474-6123）
-
-・ドル円は９月２日から４日にかけて５円を超える幅で円高方向に推移した。この間に材料視
-された発言等を以下で整理する。なお、報道などから判断すると、為替介入やレートチェッ
-クが実施された可能性は低い。数分で急落するのではなく、数時間にわたって断続的に円高
-が進行した値動きから判断しても、為替介入とは考えにくい。
-
-・円高の背景として、その起点になったのはG20会合に絡めた話題でベッセント財務長官が複数
-回にわたり、日本の金融政策や財政政策に言及したことがあろう。ベッセント財務長官は８
-月30日に「円の大幅な過小評価に対処するための日本の断固とした市場介入および金融政策
-上の措置を強く支持する」、８月31日に「日本政府や日銀が、より円高につながるような措
-置をとるだろうと確信している」と２日連続で為替に言及した。また、ドル円が再度160円を
-超えていた９月１日時点では「再度の為替介入が必要なほど無秩序な円安ではない」とした
-うえで、「日銀は正しい行動を取るだろう」と発言した。ベッセント財務長官の発言もあっ
-て９月の金融政策決定会合における利上げ確率は９割程度まで上昇した。
-
-・この間、Ｆｅｄからもドル安・米金利低下を促す材料が２つあった。一つは、ウィリアム
-ズ・ＮＹ連銀総裁が「利回りを押し上げているのは、米国経済の力強さと、ＡＩやデータセ
-・日経平均株価は先行き12 ヶ月72,000 円程度で推移するだろう 
-・USD/JPY は先行き12 ヶ月 155 円程度で推移するだろう 
-・日銀は政策金利を９月に1.25％とした後、27 年末までに2.25％とするだろう 
-・FED はFF 金利を、年内は3.75％で据え置くだろう
+⻓端抛售过度，收益率⻅顶信号浮现
+美国国债近期遭遇⼤规模抛售， 10 年期和 30 年期收益率在美联储周三宣布加息前已攀升⾄多年
+⾼位。此次加息是美联储⾃ 2023 年以来的⾸次⾏动。
+Michele 认为，收益率曲线⻓端的抛售幅度已严重超调。他指出，⻓端收益率的快速飙升 " 凸显了
+市场对美联储当前失控感的担忧 " ，⽽此次加息有助于美联储决策者 " 重申对局势的掌控 " 。
+在他看来， " 多⽶诺⻣牌已开始倒下 " ，从欧洲央⾏到美联储再到⽇本央⾏的政策联动，将形成⼀
+条⽀撑债市的完整逻辑链条。
+⻉森特回购计划成为稳定锚
+财政部⻓⻉森特上⽉启动的⻓期国债回购计划，被 Michele 视为此轮市场波动中不可忽视的稳定
+⼒量。
+⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⽣活家 搜索
 
 ### Page 2
 
-本資料は情報提供を目的として作成されたものであり、投資勧誘を目的としたものではありません。作成時点で、第一ライフ資産運用
-経済研究所が信ずるに足ると判断した情報に基づき作成していますが、その正確性、完全性に対する責任は負いません。見通しは予告
-なく変更されることがあります。また、記載された内容は、第一生命保険ないしはその関連会社の投資方針と常に整合的であるとは限
-りません。 
-2/2 
-ンター、テクノロジー全般への大型投資に支えられた堅調な経済見通しだ。したがって、私
-はこれを経済の強さを反映したものだと捉えている」として、そのうえでインフレ予想は
-「しっかりとアンカーされている（well anchored）」との見解を示したことである。長期金
-利は上昇しているものの、人々のインフレ予想が上放れていない以上、慌てて金融引き締め
-に動く必要はないとの含意があったように思える。同総裁はインフレ率が２％を上回ってい
-る主因は、⁠関税と原油高であるとの見解を示した。飽くまで一時的との見解であろう。事
-実、ＮＹ連銀やミシガン大学が調査する消費者の中長期的なインフレ予想は安定している。
-
-・もうひとつは、９月３日のウォーラー理事の発言で、これもまたドル安と米金利低下の材料
-となった。同理事は「エネルギー価格の上昇や関税は、現時点では持続的なインフレ圧力の
-重要な源泉とは見ていない」とし、いわゆる「二次的波及」が観察されていないことに触
-れ、「適切な政策スタンスに関する自分自身の判断は、８月のインフレ動向から得られる情
-報に大きく左右される」とした。金融政策とインフレを巡っては「来年まで待とうとは言わ
-ないが、多少なりとも改善が見られるかどうか、様子を見よう」として、早期の利上げにや
-や慎重な見解を示した。これを受けてＦＦ金利先物が織り込む９月の利上げ確率は６割程度
-から５割程度へと低下した。
-
-・この間、日本側の要因としては９月２日の高田委員の講演で利上げペース加速がより強く意
-識されたことがあった。講演原稿では、従来通りのタカ派的な見解を示したうえで「日本は
-機動的な利上げが必要な新たな局面に入った」と示し、その後の質疑応答では「単にこれま
-では0.25％というような状況で、24、25年ときましたけれども、そういうものだけではなく
-て、幅広い選択肢の中で、環境の変化に応じた、内外の環境変化に応じた対応をしていく必
-要があるのではないか」として、25bp刻み以外の選択肢を仄めすかような発言をした。現時
-点で50bp利上げの可能性はゼロに近いと判断されるが、高田委員の講演を経てＯＩＳ金利か
-ら逆算した日銀の利上げ確率は高まっており、９月会合は105％（0.263％相当）の利上げが
-織り込まれている。12月会合まで拡張すると、累積1.96回分（0.489％相当）となっており、
-これが為替市場で相応に意識されていると考えられる。
-
-・筆者は９月ＦＯＭＣで利上げが見送られると予想している。日銀については９月に利上げを
-決定した後、12月会合における追加利上げを予想する。
+⻛险提⽰及免责条款
+市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂
+中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
+92 收藏 分享到 :
+写评论
+图⽚
+1 条评论
+正在加载 .
+Michele 强调，⻉森特 " 拥有充⾜的弹药，若有意愿可进⼀步加码 " ，暗⽰政策⼯具箱仍有空间。
+回购计划的存在，在供需层⾯为⻓端国债提供了技术性⽀撑，有助于缓解此前抛售压⼒。结合
+央⾏政策路径逐渐明朗的背景， Michele 认为⻓端债券当前的配置价值已显著凸显。
+与市场上许多观望者不同， Michele 表⽰其团队已付诸⾏动，开始买⼊美国、⽇本和澳⼤利亚的
+⻓端国债。在他看来，当前价格 " 实在太便宜 " ，市场已到达 " 极度痛苦 " 的节点。
+这⼀表述通常意味着悲观情绪的集中释放，以及潜在的转折时机。
+请发表您的评论
+表情 发布评论
