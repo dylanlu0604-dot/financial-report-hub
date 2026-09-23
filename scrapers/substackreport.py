@@ -11,7 +11,7 @@ RSS_URL = "https://notifier.in/rss/k8nfj5wzwfnaa53nf495lfevyxedsrco.xml"
 SOURCE_NAME = "Substack Reports"
 
 # 篩選關鍵字（不分大小寫比對）
-FILTER_KEYWORDS = ["yardeni", "Andrew Lu on global"]
+FILTER_KEYWORDS = ["yardeni", "Andrew Lu on global","FOMO研究院"]
 
 # 排除條件（不分大小寫，命中任一則跳過該筆）
 EXCLUDE_KEYWORDS = ["verification code", "請複製連結並貼到新的瀏覽器視窗中"]
