@@ -339,7 +339,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 8
 
 ---
-## Document 070: 2606裕民 宏遠
+## Document 067: 2606裕民 宏遠
 
 Source PDF: all report pdf/2606裕民 宏遠.pdf
 Report source: line報告備份
@@ -966,7 +966,7 @@ AAAAA
 2024 2025 2026
 
 ---
-## Document 076: 260910_gs_foldable
+## Document 069: 260910_gs_foldable
 
 Source PDF: all report pdf/260910_gs_foldable.pdf
 Report source: line報告備份
@@ -1421,7 +1421,7 @@ Goldman Sachs GC TechFor the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 080: 260911_nmr_panjit
+## Document 073: 260911_nmr_panjit
 
 Source PDF: all report pdf/260911_nmr_panjit.pdf
 Report source: line報告備份
@@ -1950,7 +1950,7 @@ Nomura | Panjit International 11 September 2026
 10
 
 ---
-## Document 081: 260911_nmr_SDI
+## Document 074: 260911_nmr_SDI
 
 Source PDF: all report pdf/260911_nmr_SDI.pdf
 Report source: line報告備份
@@ -2443,7 +2443,7 @@ Nomura | SDI Corporation 11 September 2026
 10
 
 ---
-## Document 084: 260913_ms_CIOE-key-takeaway
+## Document 077: 260913_ms_CIOE-key-takeaway
 
 Source PDF: all report pdf/260913_ms_CIOE-key-takeaway.pdf
 Report source: line報告備份
@@ -2959,7 +2959,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 091: 260914_ms_monthly-databook-iOS
+## Document 084: 260914_ms_monthly-databook-iOS
 
 Source PDF: all report pdf/260914_ms_monthly-databook-iOS.pdf
 Report source: line報告備份
@@ -3489,7 +3489,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 095: 260914_ubs_TW-summit-day-I-hardware
+## Document 088: 260914_ubs_TW-summit-day-I-hardware
 
 Source PDF: all report pdf/260914_ubs_TW-summit-day-I-hardware.pdf
 Report source: line報告備份
@@ -4359,7 +4359,7 @@ constitute, advice within the meaning of the Municipal Advisor Rule.  For inform
 ab
 
 ---
-## Document 096: 260914_ubs_winsemi
+## Document 089: 260914_ubs_winsemi
 
 Source PDF: all report pdf/260914_ubs_winsemi.pdf
 Report source: line報告備份
@@ -5325,7 +5325,7 @@ constitute, advice within the meaning of the Municipal Advisor Rule.  For inform
 ab
 
 ---
-## Document 097: 260915_ms_china-advanced-packaging
+## Document 090: 260915_ms_china-advanced-packaging
 
 Source PDF: all report pdf/260915_ms_china-advanced-packaging.pdf
 Report source: line報告備份
@@ -8640,7 +8640,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 111: 260917_yt_kinik
+## Document 104: 260917_yt_kinik
 
 Source PDF: all report pdf/260917_yt_kinik.pdf
 Report source: line報告備份
@@ -9305,7 +9305,7 @@ ESG 總分 29.3
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 123: 260921_ms_bizlink
+## Document 116: 260921_ms_bizlink
 
 Source PDF: all report pdf/260921_ms_bizlink.pdf
 Report source: line報告備份
@@ -9787,7 +9787,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 128: 260922_ubs_memory smartphone
+## Document 121: 260922_ubs_memory smartphone
 
 Source PDF: all report pdf/260922_ubs_memory smartphone.pdf
 Report source: line報告備份
@@ -10897,7 +10897,7 @@ constitute, advice within the meaning of the Municipal Advisor Rule.  For inform
 ab
 
 ---
-## Document 131: 3014聯陽 宏遠
+## Document 124: 3014聯陽 宏遠
 
 Source PDF: all report pdf/3014聯陽 宏遠.pdf
 Report source: line報告備份
@@ -11393,7 +11393,7 @@ B
 2024 2025 2026
 
 ---
-## Document 132: 3037欣興 永豐
+## Document 125: 3037欣興 永豐
 
 Source PDF: all report pdf/3037欣興 永豐.pdf
 Report source: line報告備份
@@ -11756,7 +11756,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 9
 
 ---
-## Document 138: 3324雙鴻 第一金
+## Document 131: 3324雙鴻 第一金
 
 Source PDF: all report pdf/3324雙鴻 第一金.pdf
 Report source: line報告備份
@@ -12019,11 +12019,11 @@ YoY(%)
 存貨週轉天數(天) 70.54 81.19 78.36 94.42
 
 ---
-## Document 139: 3376新日興 群益
+## Document 132: 3376新日興 群益
 
 Source PDF: all report pdf/3376新日興 群益.pdf
 Report source: line報告備份
-Date: 2026-09-23
+Date: 2026-09-22
 Pages: 6
 Extraction status: ok
 
@@ -12260,7 +12260,7 @@ YoY(%)
 情形。
 
 ---
-## Document 141: 3413京鼎 永豐
+## Document 134: 3413京鼎 永豐
 
 Source PDF: all report pdf/3413京鼎 永豐.pdf
 Report source: line報告備份
@@ -12623,7 +12623,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 9
 
 ---
-## Document 144: 3605宏致 宏遠
+## Document 137: 3605宏致 宏遠
 
 Source PDF: all report pdf/3605宏致 宏遠.pdf
 Report source: line報告備份
@@ -13425,7 +13425,7 @@ BBBB
 2024 2025 2026
 
 ---
-## Document 150: 4961天鈺 玉山
+## Document 143: 4961天鈺 玉山
 
 Source PDF: all report pdf/4961天鈺 玉山.pdf
 Report source: line報告備份
@@ -13634,11 +13634,11 @@ LCD 顯示器驅動 IC 市占率約 5~8%。小尺寸驅動 IC 廣泛應用於智
 未評等：無。
 
 ---
-## Document 151: 4979華星光 群益
+## Document 144: 4979華星光 群益
 
 Source PDF: all report pdf/4979華星光 群益.pdf
 Report source: line報告備份
-Date: 2026-09-23
+Date: 2026-09-22
 Pages: 3
 Extraction status: ok
 
@@ -13762,7 +13762,7 @@ PER= 股價 /2027 (F) EPS ； PBR= 股價 /2027 (F) 年 底 預 估 每 股 淨 
 資 來 得 少 的 情 形 。
 
 ---
-## Document 152: 6143振曜 統一
+## Document 146: 6143振曜 統一
 
 Source PDF: all report pdf/6143振曜 統一.pdf
 Report source: line報告備份
@@ -14030,7 +14030,7 @@ ainReport/data/FileStream?id=9fee63b5-7b05-
 請參見末頁重要批露及免責聲明  7
 
 ---
-## Document 154: 6173信昌電 宏遠
+## Document 147: 6173信昌電 宏遠
 
 Source PDF: all report pdf/6173信昌電 宏遠.pdf
 Report source: line報告備份
@@ -14620,7 +14620,7 @@ AAAAA
 2024 2025 2026
 
 ---
-## Document 166: 6739竹陞科技 康和
+## Document 158: 6739竹陞科技 康和
 
 Source PDF: all report pdf/6739竹陞科技 康和.pdf
 Report source: line報告備份
@@ -15016,7 +15016,7 @@ EPS以股本23.4百萬股計算
 投 資 結 果 自 行 負 責 。
 
 ---
-## Document 167: 6907亞特力 宏遠
+## Document 159: 6907亞特力 宏遠
 
 Source PDF: all report pdf/6907亞特力 宏遠.pdf
 Report source: line報告備份
@@ -15354,7 +15354,7 @@ Company Report
 10
 
 ---
-## Document 168: 6965中傑 統一
+## Document 160: 6965中傑 統一
 
 Source PDF: all report pdf/6965中傑 統一.pdf
 Report source: line報告備份
@@ -15766,11 +15766,11 @@ ainReport/data/FileStream?id=d2a85a90-85dc-
 請參見末頁重要批露及免責聲明  9
 
 ---
-## Document 171: 7856漢測 富邦
+## Document 162: 7856漢測 富邦
 
 Source PDF: all report pdf/7856漢測 富邦.pdf
 Report source: line報告備份
-Date: 2026-09-23
+Date: 2026-09-22
 Pages: 4
 Extraction status: ok
 
@@ -15964,7 +15964,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 187: 9921巨大 宏遠
+## Document 175: 9921巨大 宏遠
 
 Source PDF: all report pdf/9921巨大 宏遠.pdf
 Report source: line報告備份
@@ -16501,7 +16501,7 @@ B+
 2024 2025 2026
 
 ---
-## Document 211: AI功耗突破極限，散熱材料與架構等同步演進-CTBC260917-OK
+## Document 194: AI功耗突破極限，散熱材料與架構等同步演進-CTBC260917-OK
 
 Source PDF: all report pdf/AI功耗突破極限，散熱材料與架構等同步演進-CTBC260917-OK.pdf
 Report source: line報告備份
@@ -16686,7 +16686,7 @@ Chip 放量，長期則需持續觀察 TIM -less 在製程整合與可靠度上�
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 287: GFHK - Apple update
+## Document 259: GFHK - Apple update
 
 Source PDF: all report pdf/GFHK - Apple update.pdf
 Report source: line報告備份
@@ -16942,7 +16942,7 @@ Without the prior written con sent obtained from GF Securities (Hong Kong) Broke
 reproduced or (ii) be re-disseminated.
 
 ---
-## Document 383: UBS_Global_I／O_Silicon_Wafers_＂Silicon_wafers：_Meaningful_price
+## Document 340: UBS_Global_I／O_Silicon_Wafers_＂Silicon_wafers：_Meaningful_price
 
 Source PDF: all report pdf/UBS_Global_I／O_Silicon_Wafers_＂Silicon_wafers：_Meaningful_price.pdf
 Report source: line報告備份
@@ -18830,7 +18830,7 @@ constitute, advice within the meaning of the Municipal Advisor Rule.  For inform
 ab
 
 ---
-## Document 414: 【國泰證期研究部】旭隼(6409 TT)-中立(+12%)-UPS本業仍具挑戰-20260915
+## Document 368: 【國泰證期研究部】旭隼(6409 TT)-中立(+12%)-UPS本業仍具挑戰-20260915
 
 Source PDF: all report pdf/【國泰證期研究部】旭隼(6409 TT)-中立(+12%)-UPS本業仍具挑戰-20260915.pdf
 Report source: line報告備份
@@ -19200,7 +19200,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 497: 光焱(7728,Note)-CTBC260918
+## Document 453: 光焱(7728,Note)-CTBC260918
 
 Source PDF: all report pdf/光焱(7728,Note)-CTBC260918.pdf
 Report source: line報告備份
@@ -19488,7 +19488,7 @@ ESG 資訊 -公 司 治 理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 508: 凱基投顧_6488 環球晶_沈漢軒_20260921
+## Document 462: 凱基投顧_6488 環球晶_沈漢軒_20260921
 
 Source PDF: all report pdf/凱基投顧_6488 環球晶_沈漢軒_20260921.pdf
 Report source: line報告備份
@@ -20079,7 +20079,7 @@ Sep-25 Nov-25 Jan-26 Mar-26 May-26 Jul-26
 2023-11-07 持有 488 521
 
 ---
-## Document 509: 凱基投顧_6526 達發科技_劉宇程_20260917
+## Document 463: 凱基投顧_6526 達發科技_劉宇程_20260917
 
 Source PDF: all report pdf/凱基投顧_6526 達發科技_劉宇程_20260917.pdf
 Report source: line報告備份
@@ -20669,7 +20669,7 @@ Recommendations & Target Price
 資料來源：TEJ，凱基
 
 ---
-## Document 515: 凱基投顧_Takeaway_2609 陽明_賴偉中_20260922
+## Document 468: 凱基投顧_Takeaway_2609 陽明_賴偉中_20260922
 
 Source PDF: all report pdf/凱基投顧_Takeaway_2609 陽明_賴偉中_20260922.pdf
 Report source: line報告備份
@@ -20767,7 +20767,7 @@ Tommy.lai@kgi.com
 九月 22, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R    3
 
 ---
-## Document 523: 凱基投顧_Takeaway_6863 永道-KY_林祐熙_20260921
+## Document 474: 凱基投顧_Takeaway_6863 永道-KY_林祐熙_20260921
 
 Source PDF: all report pdf/凱基投顧_Takeaway_6863 永道-KY_林祐熙_20260921.pdf
 Report source: line報告備份
@@ -20902,7 +20902,7 @@ jacklin.lin@kgi.com
 九月 21, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 4
 
 ---
-## Document 542: 南亞(1303,B_買進)-CTBC260918
+## Document 488: 南亞(1303,B_買進)-CTBC260918
 
 Source PDF: all report pdf/南亞(1303,B_買進)-CTBC260918.pdf
 Report source: line報告備份
@@ -21308,7 +21308,7 @@ ESG 資訊 ─公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 592: 宏遠-4772 台特化-20260914
+## Document 533: 宏遠-4772 台特化-20260914
 
 Source PDF: all report pdf/宏遠-4772 台特化-20260914.pdf
 Report source: line報告備份
@@ -21717,7 +21717,7 @@ A
 2024 2025 2026
 
 ---
-## Document 616: 摩根大通-中美特习峰会：低预期，高风险-Trump-Xi summit Low bar, high stakes-20260918【7页】_sl47
+## Document 557: 摩根大通-中美特习峰会：低预期，高风险-Trump-Xi summit Low bar, high stakes-20260918【7页】_sl47
 
 Source PDF: all report pdf/摩根大通-中美特习峰会：低预期，高风险-Trump-Xi summit Low bar, high stakes-20260918【7页】_sl47.pdf
 Report source: line報告備份

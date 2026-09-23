@@ -3,7 +3,7 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 016: 20260914114110_CLSA_TW_Gold_Circuit_Electronics_Ltd_20260914_20
+## Document 015: 20260914114110_CLSA_TW_Gold_Circuit_Electronics_Ltd_20260914_20
 
 Source PDF: all report pdf/20260914114110_CLSA_TW_Gold_Circuit_Electronics_Ltd_20260914_20.pdf
 Report source: line報告備份
@@ -1001,7 +1001,7 @@ market risks. Read all the related documents carefully
 before investing.
 
 ---
-## Document 058: 2049上銀 第一金
+## Document 055: 2049上銀 第一金
 
 Source PDF: all report pdf/2049上銀 第一金.pdf
 Report source: line報告備份
@@ -1297,7 +1297,7 @@ YoY(%)
 存貨週轉天數(天) 167.05 174.17 156.14 151.01
 
 ---
-## Document 060: 2330台積電 群益
+## Document 057: 2330台積電 群益
 
 Source PDF: all report pdf/2330台積電 群益.pdf
 Report source: line報告備份
@@ -1445,7 +1445,7 @@ PER= 股價 /2027 (F) EPS ； PBR= 股價 /2027 (F) 年 底 預 估 每 股 淨 
 情形。
 
 ---
-## Document 061: 2344華邦電 群益
+## Document 058: 2344華邦電 群益
 
 Source PDF: all report pdf/2344華邦電 群益.pdf
 Report source: line報告備份
@@ -1635,7 +1635,7 @@ PER= 股價 /2027 (F) EPS ； PBR= 股價 /2027 (F) 年 底 預 估 每 股 淨 
 情形。
 
 ---
-## Document 065: 2383台光電 宏遠
+## Document 062: 2383台光電 宏遠
 
 Source PDF: all report pdf/2383台光電 宏遠.pdf
 Report source: line報告備份
@@ -2195,7 +2195,7 @@ B+
 2024 2025 2026
 
 ---
-## Document 067: 2464盟立 中信託
+## Document 064: 2464盟立 中信託
 
 Source PDF: all report pdf/2464盟立 中信託.pdf
 Report source: line報告備份
@@ -2546,7 +2546,7 @@ ESG 資訊 -公 司 治 理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 085: 260914_daiwa_aspeed
+## Document 078: 260914_daiwa_aspeed
 
 Source PDF: all report pdf/260914_daiwa_aspeed.pdf
 Report source: line報告備份
@@ -2967,7 +2967,7 @@ Note: Management score represents a company's ability to manage/benefit from cer
 ASPEED Technology (5274 TT): 14 September 2026
 
 ---
-## Document 090: 260914_ms_cotech 8358
+## Document 083: 260914_ms_cotech 8358
 
 Source PDF: all report pdf/260914_ms_cotech 8358.pdf
 Report source: line報告備份
@@ -3452,7 +3452,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 093: 260914_nmr_chipbond-UG
+## Document 086: 260914_nmr_chipbond-UG
 
 Source PDF: all report pdf/260914_nmr_chipbond-UG.pdf
 Report source: line報告備份
@@ -3913,7 +3913,7 @@ Nomura | Chipbond Technology Corporation 14 September 2026
 9
 
 ---
-## Document 099: 260915_ubs_advantech
+## Document 092: 260915_ubs_advantech
 
 Source PDF: all report pdf/260915_ubs_advantech.pdf
 Report source: line報告備份
@@ -4884,7 +4884,7 @@ constitute, advice within the meaning of the Municipal Advisor Rule.  For inform
 ab
 
 ---
-## Document 101: 260915_ubs_guc
+## Document 094: 260915_ubs_guc
 
 Source PDF: all report pdf/260915_ubs_guc.pdf
 Report source: line報告備份
@@ -5855,7 +5855,7 @@ constitute, advice within the meaning of the Municipal Advisor Rule.  For inform
 ab
 
 ---
-## Document 105: 260916_citi_pota-DG
+## Document 098: 260916_citi_pota-DG
 
 Source PDF: all report pdf/260916_citi_pota-DG.pdf
 Report source: line報告備份
@@ -6712,7 +6712,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 116: 260918_ubs_wiwynn
+## Document 109: 260918_ubs_wiwynn
 
 Source PDF: all report pdf/260918_ubs_wiwynn.pdf
 Report source: line報告備份
@@ -8127,7 +8127,7 @@ constitute, advice within the meaning of the Municipal Advisor Rule.  For inform
 ab
 
 ---
-## Document 125: 260922_gs_quanta
+## Document 118: 260922_gs_quanta
 
 Source PDF: all report pdf/260922_gs_quanta.pdf
 Report source: line報告備份
@@ -8533,11 +8533,11 @@ Goldman Sachs Quanta (2382.TW)For the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 134: 3167大量 統一
+## Document 127: 3167大量 統一
 
 Source PDF: all report pdf/3167大量 統一.pdf
 Report source: line報告備份
-Date: 2026-09-23
+Date: 2026-09-22
 Pages: 12
 Extraction status: ok
 
@@ -8991,7 +8991,7 @@ ainReport/data/FileStream?id=b667e771-b5bc-
 請參見末頁重要批露及免責聲明  12
 
 ---
-## Document 156: 6257矽格 群益
+## Document 149: 6257矽格 群益
 
 Source PDF: all report pdf/6257矽格 群益.pdf
 Report source: line報告備份
@@ -9255,7 +9255,7 @@ YoY(%)
 情形。
 
 ---
-## Document 160: 6415矽力 永豐
+## Document 153: 6415矽力 永豐
 
 Source PDF: all report pdf/6415矽力 永豐.pdf
 Report source: line報告備份
@@ -9640,7 +9640,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 8
 
 ---
-## Document 161: 6446藥華藥 群益
+## Document 154: 6446藥華藥 群益
 
 Source PDF: all report pdf/6446藥華藥 群益.pdf
 Report source: line報告備份
@@ -9757,7 +9757,7 @@ PER= 股價 /2027 (F) EPS ； PBR= 股價 /2027 (F) 年 底 預 估 每 股 淨 
 資 來 得 少 的 情 形 。
 
 ---
-## Document 163: 6533晶心科 玉山
+## Document 155: 6533晶心科 玉山
 
 Source PDF: all report pdf/6533晶心科 玉山.pdf
 Report source: line報告備份
@@ -9955,7 +9955,7 @@ QoQ+73.5%，其中授權金3.8億元，創新高，顯示公司新開案情形�
 未評等：無。
 
 ---
-## Document 288: GFHK - Intel update
+## Document 260: GFHK - Intel update
 
 Source PDF: all report pdf/GFHK - Intel update.pdf
 Report source: line報告備份
@@ -10303,7 +10303,7 @@ Without the prior written consent obtained from GF Securities (Hong Kong) Broker
 reproduced or (ii) be re-disseminated.
 
 ---
-## Document 382: UBS APAC Focus China Internet Sector How China's AI mode
+## Document 339: UBS APAC Focus China Internet Sector How China's AI mode
 
 Source PDF: all report pdf/UBS APAC Focus China Internet Sector How China's AI mode.pdf
 Report source: line報告備份
@@ -13061,7 +13061,7 @@ ab
 This document is being provided for the exclusive use of RACHEL CHEN at MOUNTAIN HILL LTD.
 
 ---
-## Document 389: Value Play_ High Voltage Setup at Discounted Sentiment _ GSTW
+## Document 346: Value Play_ High Voltage Setup at Discounted Sentiment _ GSTW
 
 Source PDF: all report pdf/Value Play_ High Voltage Setup at Discounted Sentiment _ GSTW.pdf
 Report source: line報告備份
@@ -13462,7 +13462,7 @@ Services Regulatory Authority or any other relevant licensing authorities in the
 https://marquee.gs.com/s/content/markets/35bae1fe-db83-439c-8eb7-85f11995a54f 10/10
 
 ---
-## Document 408: 【國泰證期研究部】4Q26 衛星產業展望-V3衛星上線與頻譜開放，奠定D2C業務基礎-20260921
+## Document 363: 【國泰證期研究部】4Q26 衛星產業展望-V3衛星上線與頻譜開放，奠定D2C業務基礎-20260921
 
 Source PDF: all report pdf/【國泰證期研究部】4Q26 衛星產業展望-V3衛星上線與頻譜開放，奠定D2C業務基礎-20260921.pdf
 Report source: line報告備份
@@ -13624,7 +13624,7 @@ Direct to Cell 服務規模除了受到手機與衛星之間無線鏈路容量�
 投資評等定義
 
 ---
-## Document 411: 【國泰證期研究部】國巨(2327 TT)-初次評等買進(+27.3%)-轉單發酵，獲利攀升-20260921
+## Document 365: 【國泰證期研究部】國巨(2327 TT)-初次評等買進(+27.3%)-轉單發酵，獲利攀升-20260921
 
 Source PDF: all report pdf/【國泰證期研究部】國巨(2327 TT)-初次評等買進(+27.3%)-轉單發酵，獲利攀升-20260921.pdf
 Report source: line報告備份
@@ -14256,7 +14256,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 413: 【國泰證期研究部】日月光投控(3711 TT)-買進(+29.1%)-日升月恆，光啟新程-20260923
+## Document 367: 【國泰證期研究部】日月光投控(3711 TT)-買進(+29.1%)-日升月恆，光啟新程-20260923
 
 Source PDF: all report pdf/【國泰證期研究部】日月光投控(3711 TT)-買進(+29.1%)-日升月恆，光啟新程-20260923.pdf
 Report source: line報告備份
@@ -14706,7 +14706,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 416: 【國泰證期研究部】欣興(3037 TT)-買進(+24.9%)-逆風礪翼，欣然高飛-20260917
+## Document 370: 【國泰證期研究部】欣興(3037 TT)-買進(+24.9%)-逆風礪翼，欣然高飛-20260917
 
 Source PDF: all report pdf/【國泰證期研究部】欣興(3037 TT)-買進(+24.9%)-逆風礪翼，欣然高飛-20260917.pdf
 Report source: line報告備份
@@ -15074,7 +15074,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 469: 中信-2603 長榮-20260914
+## Document 426: 中信-2603 長榮-20260914
 
 Source PDF: all report pdf/中信-2603 長榮-20260914.pdf
 Report source: line報告備份
@@ -15406,7 +15406,7 @@ ESG 資訊 -公 司 治 理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 491: 信昌電(6173,Note)-CTBC260911
+## Document 447: 信昌電(6173,Note)-CTBC260911
 
 Source PDF: all report pdf/信昌電(6173,Note)-CTBC260911.pdf
 Report source: line報告備份
@@ -15686,7 +15686,7 @@ ESG 資訊-公司治理(Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 505: 凱基投顧_2345 智邦_涂憶君_20260911 initiation
+## Document 459: 凱基投顧_2345 智邦_涂憶君_20260911 initiation
 
 Source PDF: all report pdf/凱基投顧_2345 智邦_涂憶君_20260911 initiation.pdf
 Report source: line報告備份
@@ -17024,7 +17024,7 @@ Recommendations & Target Price
 資料來源： TEJ，凱基
 
 ---
-## Document 510: 凱基投顧_6945 圓祥生技_陳宣甫_20260918
+## Document 464: 凱基投顧_6945 圓祥生技_陳宣甫_20260918
 
 Source PDF: all report pdf/凱基投顧_6945 圓祥生技_陳宣甫_20260918.pdf
 Report source: line報告備份
@@ -17431,7 +17431,7 @@ Dec-21A Dec-22A Dec-23A Dec-24A Dec-25A
  泰國          曼谷
 
 ---
-## Document 516: 凱基投顧_Takeaway_2727 王品 _莊政翰_20260922
+## Document 469: 凱基投顧_Takeaway_2727 王品 _莊政翰_20260922
 
 Source PDF: all report pdf/凱基投顧_Takeaway_2727 王品 _莊政翰_20260922.pdf
 Report source: line報告備份
@@ -17566,7 +17566,7 @@ eden.chang@kgi.com
 九月 22, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R  Powered by the EFA Platform 4
 
 ---
-## Document 527: 凱基投顧_Takeaway_9802 鈺齊-KY_劉昃恩_20260917
+## Document 475: 凱基投顧_Takeaway_9802 鈺齊-KY_劉昃恩_20260917
 
 Source PDF: all report pdf/凱基投顧_Takeaway_9802 鈺齊-KY_劉昃恩_20260917.pdf
 Report source: line報告備份
@@ -17667,7 +17667,7 @@ eden.chang@kgi.com
 九月 17, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 3
 
 ---
-## Document 530: 凱基投顧_金融產業_施志鴻_20260915
+## Document 477: 凱基投顧_金融產業_施志鴻_20260915
 
 Source PDF: all report pdf/凱基投顧_金融產業_施志鴻_20260915.pdf
 Report source: line報告備份
@@ -19218,7 +19218,7 @@ Sep-00 Sep-02 Sep-04 Sep-06 Sep-08 Sep-10 Sep-12 Sep-14 Sep-16 Sep-18 Sep-20 Sep
 免責聲明
 
 ---
-## Document 553: 合庫-8086 宏捷科-20260914
+## Document 497: 合庫-8086 宏捷科-20260914
 
 Source PDF: all report pdf/合庫-8086 宏捷科-20260914.pdf
 Report source: line報告備份
@@ -19432,7 +19432,7 @@ INVESTMENT CONSULTANT
 未評等 訊息不足或有相關業務往來
 
 ---
-## Document 566: 國票-6409 旭隼-20260918
+## Document 511: 國票-6409 旭隼-20260918
 
 Source PDF: all report pdf/國票-6409 旭隼-20260918.pdf
 Report source: line報告備份
@@ -19850,7 +19850,7 @@ $1,600
 • 國票可能與該公司進行業務而處於緘默期
 
 ---
-## Document 644: 欣銓(3264,B_買進)-CTBC260918
+## Document 583: 欣銓(3264,B_買進)-CTBC260918
 
 Source PDF: all report pdf/欣銓(3264,B_買進)-CTBC260918.pdf
 Report source: line報告備份
@@ -20153,7 +20153,7 @@ ESG 資訊 - 公司治理 (Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 670: 玉山-8086 宏捷科-20260914
+## Document 607: 玉山-8086 宏捷科-20260914
 
 Source PDF: all report pdf/玉山-8086 宏捷科-20260914.pdf
 Report source: line報告備份
@@ -20382,7 +20382,7 @@ Murata、Qorvo
 未評等：無。
 
 ---
-## Document 703: 群益-6279 胡連-20260914
+## Document 638: 群益-6279 胡連-20260914
 
 Source PDF: all report pdf/群益-6279 胡連-20260914.pdf
 Report source: line報告備份
@@ -20699,7 +20699,7 @@ YoY(%)
 情形。
 
 ---
-## Document 749: 邁科(6831,DG,OW_增加持股)-CTBC260923
+## Document 676: 邁科(6831,DG,OW_增加持股)-CTBC260923
 
 Source PDF: all report pdf/邁科(6831,DG,OW_增加持股)-CTBC260923.pdf
 Report source: line報告備份
@@ -20974,7 +20974,7 @@ ESG 資訊 -公司治理 (Governance)
 營業執照字號： 114 金管投顧新字第 014 號
 
 ---
-## Document 762: 陽明(2609,N_中立)-CTBC260923
+## Document 687: 陽明(2609,N_中立)-CTBC260923
 
 Source PDF: all report pdf/陽明(2609,N_中立)-CTBC260923.pdf
 Report source: line報告備份
