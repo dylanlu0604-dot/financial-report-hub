@@ -3,11 +3,11 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 356: When your assumptions have only upside risk (2026-09-24)
+## Document 381: When your assumptions have only upside risk (2026-09-24)
 
 Source PDF: all report pdf/When your assumptions have only upside risk (2026-09-24).pdf
-Report source: Westpac IQ
-Date: 2026-09-24
+Report source: Unknown
+Date: 未知日期
 Pages: 352
 Extraction status: ok
 
