@@ -14006,7 +14006,7 @@ ESG總分 23.6
 台灣臺北市 106仁愛路三段 157號 4樓
 
 ---
-## Document 142: 6173信昌電 群益
+## Document 141: 6173信昌電 群益
 
 Source PDF: all report pdf/6173信昌電 群益.pdf
 Report source: line報告備份
@@ -14366,7 +14366,7 @@ YoY(%)
 情形。
 
 ---
-## Document 143: 6257矽格 群益
+## Document 142: 6257矽格 群益
 
 Source PDF: all report pdf/6257矽格 群益.pdf
 Report source: line報告備份
@@ -14630,7 +14630,7 @@ YoY(%)
 情形。
 
 ---
-## Document 149: 6533晶心科 玉山
+## Document 148: 6533晶心科 玉山
 
 Source PDF: all report pdf/6533晶心科 玉山.pdf
 Report source: line報告備份
@@ -14828,7 +14828,7 @@ QoQ+73.5%，其中授權金3.8億元，創新高，顯示公司新開案情形�
 未評等：無。
 
 ---
-## Document 150: 6664群翊 玉山
+## Document 149: 6664群翊 玉山
 
 Source PDF: all report pdf/6664群翊 玉山.pdf
 Report source: line報告備份
@@ -15062,7 +15062,7 @@ Glass Core則受惠AI封裝大型化及低翹曲需求，相關塗佈、壓膜�
 未評等：無。
 
 ---
-## Document 155: 7799禾榮科 群益
+## Document 154: 7799禾榮科 群益
 
 Source PDF: all report pdf/7799禾榮科 群益.pdf
 Report source: line報告備份
@@ -15395,7 +15395,7 @@ YoY(%)
 情形。
 
 ---
-## Document 158: 8131福懋科 玉山
+## Document 157: 8131福懋科 玉山
 
 Source PDF: all report pdf/8131福懋科 玉山.pdf
 Report source: line報告備份
@@ -15580,7 +15580,7 @@ syj214134-71478@esunsec.com.tw
 未評等：無。
 
 ---
-## Document 168: 9921巨大 宏遠
+## Document 167: 9921巨大 宏遠
 
 Source PDF: all report pdf/9921巨大 宏遠.pdf
 Report source: line報告備份
@@ -16117,7 +16117,7 @@ B+
 2024 2025 2026
 
 ---
-## Document 261: GFHK - Apple update
+## Document 268: GFHK - Apple update
 
 Source PDF: all report pdf/GFHK - Apple update.pdf
 Report source: line報告備份
@@ -16373,7 +16373,7 @@ Without the prior written con sent obtained from GF Securities (Hong Kong) Broke
 reproduced or (ii) be re-disseminated.
 
 ---
-## Document 359: 【國泰證期研究部】4Q26 記憶體產業展望-擴產速度落後需求成長，記憶體賣方市場延續-20260914
+## Document 377: 【國泰證期研究部】4Q26 記憶體產業展望-擴產速度落後需求成長，記憶體賣方市場延續-20260914
 
 Source PDF: all report pdf/【國泰證期研究部】4Q26 記憶體產業展望-擴產速度落後需求成長，記憶體賣方市場延續-20260914.pdf
 Report source: line報告備份
@@ -16743,7 +16743,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 466: 元富-9910 豐泰-20260914-公司拜訪
+## Document 484: 元富-9910 豐泰-20260914-公司拜訪
 
 Source PDF: all report pdf/元富-9910 豐泰-20260914-公司拜訪.pdf
 Report source: line報告備份
@@ -16900,7 +16900,7 @@ Operating 4.0 5.9 7.2 7.6 8.4 8.9 6.2 7.4
 Net 3.5 5.0 4.8 5.7 6.7 6.0 4.8 5.6
 
 ---
-## Document 476: 凱基投顧_2637 慧洋-KY_賴偉中_20260915
+## Document 493: 凱基投顧_2637 慧洋-KY_賴偉中_20260915
 
 Source PDF: all report pdf/凱基投顧_2637 慧洋-KY_賴偉中_20260915.pdf
 Report source: line報告備份
@@ -17593,7 +17593,7 @@ Sep-25 Nov-25 Jan-26 Mar-26 May-26 Jul-26
 資料來源：TEJ，凱基
 
 ---
-## Document 480: 凱基投顧_6488 環球晶_沈漢軒_20260921
+## Document 497: 凱基投顧_6488 環球晶_沈漢軒_20260921
 
 Source PDF: all report pdf/凱基投顧_6488 環球晶_沈漢軒_20260921.pdf
 Report source: line報告備份
@@ -18184,7 +18184,7 @@ Sep-25 Nov-25 Jan-26 Mar-26 May-26 Jul-26
 2023-11-07 持有 488 521
 
 ---
-## Document 483: 凱基投顧_8046 南電_林祐熙_20260914
+## Document 500: 凱基投顧_8046 南電_林祐熙_20260914
 
 Source PDF: all report pdf/凱基投顧_8046 南電_林祐熙_20260914.pdf
 Report source: line報告備份
@@ -18965,7 +18965,7 @@ Recommendations & Target Price
 資料來源：TEJ，凱基
 
 ---
-## Document 489: 凱基投顧_Takeaway_3515 華擎_余昀澄_20260916
+## Document 506: 凱基投顧_Takeaway_3515 華擎_余昀澄_20260916
 
 Source PDF: all report pdf/凱基投顧_Takeaway_3515 華擎_余昀澄_20260916.pdf
 Report source: line報告備份
@@ -19110,7 +19110,7 @@ neocloud 客戶，第一波出貨以北美客戶為主，後續 有東北亞、�
 九月 16, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 4
 
 ---
-## Document 490: 凱基投顧_Takeaway_3605 宏致_張燾_20260917
+## Document 507: 凱基投顧_Takeaway_3605 宏致_張燾_20260917
 
 Source PDF: all report pdf/凱基投顧_Takeaway_3605 宏致_張燾_20260917.pdf
 Report source: line報告備份
@@ -19222,7 +19222,7 @@ Energy (美)。
 九月 17, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 3
 
 ---
-## Document 533: 國票-6409 旭隼-20260918
+## Document 550: 國票-6409 旭隼-20260918
 
 Source PDF: all report pdf/國票-6409 旭隼-20260918.pdf
 Report source: line報告備份
@@ -19640,7 +19640,7 @@ $1,600
 • 國票可能與該公司進行業務而處於緘默期
 
 ---
-## Document 560: 富邦-2762 世界健身-KY-20260914
+## Document 577: 富邦-2762 世界健身-KY-20260914
 
 Source PDF: all report pdf/富邦-2762 世界健身-KY-20260914.pdf
 Report source: line報告備份
@@ -19927,7 +19927,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 561: 富邦-半導體耗材產業-20260914
+## Document 578: 富邦-半導體耗材產業-20260914
 
 Source PDF: all report pdf/富邦-半導體耗材產業-20260914.pdf
 Report source: line報告備份
@@ -20324,7 +20324,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 600: 昇陽半(8028,B_買進)-CTBC260915
+## Document 624: 昇陽半(8028,B_買進)-CTBC260915
 
 Source PDF: all report pdf/昇陽半(8028,B_買進)-CTBC260915.pdf
 Report source: line報告備份
@@ -20592,7 +20592,7 @@ ESG 資訊 - 公司治理 (Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 631: 玉山-8086 宏捷科-20260914
+## Document 658: 玉山-8086 宏捷科-20260914
 
 Source PDF: all report pdf/玉山-8086 宏捷科-20260914.pdf
 Report source: line報告備份
@@ -20821,7 +20821,7 @@ Murata、Qorvo
 未評等：無。
 
 ---
-## Document 675: 群益3Q26論壇_MIC_物理AI趨勢下人形機器人發展趨勢
+## Document 700: 群益3Q26論壇_MIC_物理AI趨勢下人形機器人發展趨勢
 
 Source PDF: all report pdf/群益3Q26論壇_MIC_物理AI趨勢下人形機器人發展趨勢.pdf
 Report source: line報告備份
@@ -21833,7 +21833,7 @@ lisalu@iii.org.tw
 備正確性與完整性，請台端於引用時，務必注意發布日期、立論之假設及當時情境
 
 ---
-## Document 678: 群益專題報告-光通訊成長趨勢與動能不變-20260923_compressed
+## Document 703: 群益專題報告-光通訊成長趨勢與動能不變-20260923_compressed
 
 Source PDF: all report pdf/群益專題報告-光通訊成長趨勢與動能不變-20260923_compressed.pdf
 Report source: line報告備份
