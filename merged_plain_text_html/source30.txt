@@ -3,7 +3,7 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 009: 1590亞德客 永豐
+## Document 008: 1590亞德客 永豐
 
 Source PDF: all report pdf/1590亞德客 永豐.pdf
 Report source: line報告備份
@@ -339,7 +339,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 8
 
 ---
-## Document 045: 2383台光電 宏遠
+## Document 043: 2383台光電 宏遠
 
 Source PDF: all report pdf/2383台光電 宏遠.pdf
 Report source: line報告備份
@@ -899,7 +899,7 @@ B+
 2024 2025 2026
 
 ---
-## Document 046: 2455全新 統一
+## Document 044: 2455全新 統一
 
 Source PDF: all report pdf/2455全新 統一.pdf
 Report source: line報告備份
@@ -1282,7 +1282,7 @@ EBITDA 1,009 960 1,708 3,211   EBITDA 31.1 28.4 34.8 40.8
 請參見末頁重要披露及免責聲明 9
 
 ---
-## Document 064: 260917_ms_CCL
+## Document 054: 260917_ms_CCL
 
 Source PDF: all report pdf/260917_ms_CCL.pdf
 Report source: line報告備份
@@ -1711,7 +1711,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 068: 260918_ubs_accton
+## Document 058: 260918_ubs_accton
 
 Source PDF: all report pdf/260918_ubs_accton.pdf
 Report source: line報告備份
@@ -2798,7 +2798,7 @@ constitute, advice within the meaning of the Municipal Advisor Rule.  For inform
 ab
 
 ---
-## Document 070: 260918_ubs_wiwynn
+## Document 060: 260918_ubs_wiwynn
 
 Source PDF: all report pdf/260918_ubs_wiwynn.pdf
 Report source: line報告備份
@@ -4213,7 +4213,7 @@ constitute, advice within the meaning of the Municipal Advisor Rule.  For inform
 ab
 
 ---
-## Document 071: 260920_citi_US-marketing-feedback
+## Document 061: 260920_citi_US-marketing-feedback
 
 Source PDF: all report pdf/260920_citi_US-marketing-feedback.pdf
 Report source: line報告備份
@@ -4886,7 +4886,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 073: 260921_citi_hon-precision
+## Document 063: 260921_citi_hon-precision
 
 Source PDF: all report pdf/260921_citi_hon-precision.pdf
 Report source: line報告備份
@@ -5355,7 +5355,7 @@ solely for the recipient and may not be further distributed by the recipient to 
 ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 
 ---
-## Document 074: 260921_daiwa_winway
+## Document 064: 260921_daiwa_winway
 
 Source PDF: all report pdf/260921_daiwa_winway.pdf
 Report source: line報告備份
@@ -5705,7 +5705,7 @@ Note: Management score represents a company's ability to manage/benefit from cer
 WinWay Technology (6515 TT): 21 September 2026
 
 ---
-## Document 080: 260922_ms_eink
+## Document 070: 260922_ms_eink
 
 Source PDF: all report pdf/260922_ms_eink.pdf
 Report source: line報告備份
@@ -6215,7 +6215,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 088: 260924_gs_HH
+## Document 078: 260924_gs_HH
 
 Source PDF: all report pdf/260924_gs_HH.pdf
 Report source: line報告備份
@@ -6715,7 +6715,7 @@ Goldman Sachs Hon Hai (2317.TW)For the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 096: 2609陽明 元富
+## Document 086: 2609陽明 元富
 
 Source PDF: all report pdf/2609陽明 元富.pdf
 Report source: line報告備份
@@ -7031,7 +7031,7 @@ this date and are subject to change without notice. MasterLink has produced this
 information and advice is given in good faith but without any warranty.
 
 ---
-## Document 100: 3037欣興 永豐
+## Document 090: 3037欣興 永豐
 
 Source PDF: all report pdf/3037欣興 永豐.pdf
 Report source: line報告備份
@@ -7394,7 +7394,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 9
 
 ---
-## Document 101: 3167大量 統一
+## Document 091: 3167大量 統一
 
 Source PDF: all report pdf/3167大量 統一.pdf
 Report source: line報告備份
@@ -7852,7 +7852,7 @@ ainReport/data/FileStream?id=b667e771-b5bc-
 請參見末頁重要批露及免責聲明  12
 
 ---
-## Document 113: 3711日月光 群益1
+## Document 102: 3711日月光 群益1
 
 Source PDF: all report pdf/3711日月光 群益1.pdf
 Report source: line報告備份
@@ -8108,7 +8108,7 @@ YoY(%)
 情形。
 
 ---
-## Document 115: 4770上品 元大
+## Document 103: 4770上品 元大
 
 Source PDF: all report pdf/4770上品 元大.pdf
 Report source: line報告備份
@@ -8934,7 +8934,7 @@ ESG 總分 19.9
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 116: 4770上品 永豐
+## Document 104: 4770上品 永豐
 
 Source PDF: all report pdf/4770上品 永豐.pdf
 Report source: line報告備份
@@ -9342,7 +9342,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 9
 
 ---
-## Document 117: 4771望隼 中信託
+## Document 105: 4771望隼 中信託
 
 Source PDF: all report pdf/4771望隼 中信託.pdf
 Report source: line報告備份
@@ -9626,7 +9626,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 119: 4979華星光 群益
+## Document 106: 4979華星光 群益
 
 Source PDF: all report pdf/4979華星光 群益.pdf
 Report source: line報告備份
@@ -9754,7 +9754,7 @@ PER= 股價 /2027 (F) EPS ； PBR= 股價 /2027 (F) 年 底 預 估 每 股 淨 
 資 來 得 少 的 情 形 。
 
 ---
-## Document 122: 6143振曜 統一
+## Document 109: 6143振曜 統一
 
 Source PDF: all report pdf/6143振曜 統一.pdf
 Report source: line報告備份
@@ -10022,7 +10022,7 @@ ainReport/data/FileStream?id=9fee63b5-7b05-
 請參見末頁重要批露及免責聲明  7
 
 ---
-## Document 134: 6885全福 群益
+## Document 121: 6885全福 群益
 
 Source PDF: all report pdf/6885全福 群益.pdf
 Report source: line報告備份
@@ -10140,7 +10140,7 @@ PER= 股價 /2027 (F) EPS ； PBR= 股價 /2027 (F) 年 底 預 估 每 股 淨 
 資 來 得 少 的 情 形 。
 
 ---
-## Document 135: 6965中傑 統一
+## Document 122: 6965中傑 統一
 
 Source PDF: all report pdf/6965中傑 統一.pdf
 Report source: line報告備份
@@ -10552,7 +10552,7 @@ ainReport/data/FileStream?id=d2a85a90-85dc-
 請參見末頁重要批露及免責聲明  9
 
 ---
-## Document 139: 8131福懋科 玉山
+## Document 126: 8131福懋科 玉山
 
 Source PDF: all report pdf/8131福懋科 玉山.pdf
 Report source: line報告備份
@@ -10737,7 +10737,7 @@ syj214134-71478@esunsec.com.tw
 未評等：無。
 
 ---
-## Document 370: 【國泰證期研究部】4Q26 衛星產業展望-V3衛星上線與頻譜開放，奠定D2C業務基礎-20260921
+## Document 323: 【國泰證期研究部】4Q26 衛星產業展望-V3衛星上線與頻譜開放，奠定D2C業務基礎-20260921
 
 Source PDF: all report pdf/【國泰證期研究部】4Q26 衛星產業展望-V3衛星上線與頻譜開放，奠定D2C業務基礎-20260921.pdf
 Report source: line報告備份
@@ -10899,7 +10899,7 @@ Direct to Cell 服務規模除了受到手機與衛星之間無線鏈路容量�
 投資評等定義
 
 ---
-## Document 372: 【國泰證期研究部】國巨(2327 TT)-初次評等買進(+27.3%)-轉單發酵，獲利攀升-20260921
+## Document 325: 【國泰證期研究部】國巨(2327 TT)-初次評等買進(+27.3%)-轉單發酵，獲利攀升-20260921
 
 Source PDF: all report pdf/【國泰證期研究部】國巨(2327 TT)-初次評等買進(+27.3%)-轉單發酵，獲利攀升-20260921.pdf
 Report source: line報告備份
@@ -11531,7 +11531,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 485: 凱基投顧_Takeaway_2609 陽明_賴偉中_20260922
+## Document 425: 凱基投顧_Takeaway_2609 陽明_賴偉中_20260922
 
 Source PDF: all report pdf/凱基投顧_Takeaway_2609 陽明_賴偉中_20260922.pdf
 Report source: line報告備份
@@ -11629,7 +11629,7 @@ Tommy.lai@kgi.com
 九月 22, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R    3
 
 ---
-## Document 489: 凱基投顧_Takeaway_3605 宏致_張燾_20260917
+## Document 429: 凱基投顧_Takeaway_3605 宏致_張燾_20260917
 
 Source PDF: all report pdf/凱基投顧_Takeaway_3605 宏致_張燾_20260917.pdf
 Report source: line報告備份
@@ -11741,7 +11741,7 @@ Energy (美)。
 九月 17, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 3
 
 ---
-## Document 507: 南亞科(2408,OW_增加持股)-CTBC260921
+## Document 443: 南亞科(2408,OW_增加持股)-CTBC260921
 
 Source PDF: all report pdf/南亞科(2408,OW_增加持股)-CTBC260921.pdf
 Report source: line報告備份
@@ -12036,7 +12036,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 690: 群益-5904-2601寶雅
+## Document 590: 群益-5904-2601寶雅
 
 Source PDF: all report pdf/群益-5904-2601寶雅.pdf
 Report source: line報告備份
@@ -12299,7 +12299,7 @@ YoY(%)
 情形。
 
 ---
-## Document 692: 群益3Q26論壇_MIC_物理AI趨勢下人形機器人發展趨勢
+## Document 592: 群益3Q26論壇_MIC_物理AI趨勢下人形機器人發展趨勢
 
 Source PDF: all report pdf/群益3Q26論壇_MIC_物理AI趨勢下人形機器人發展趨勢.pdf
 Report source: line報告備份
@@ -13311,7 +13311,7 @@ lisalu@iii.org.tw
 備正確性與完整性，請台端於引用時，務必注意發布日期、立論之假設及當時情境
 
 ---
-## Document 738: 長榮航太(2645,B_買進)-CTBC260929
+## Document 635: 長榮航太(2645,B_買進)-CTBC260929
 
 Source PDF: all report pdf/長榮航太(2645,B_買進)-CTBC260929.pdf
 Report source: line報告備份

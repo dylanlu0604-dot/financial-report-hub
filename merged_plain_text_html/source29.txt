@@ -3,7 +3,7 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 007: 1477聚陽 永豐
+## Document 006: 1477聚陽 永豐
 
 Source PDF: all report pdf/1477聚陽 永豐.pdf
 Report source: line報告備份
@@ -354,7 +354,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 8
 
 ---
-## Document 059: 260916_citi_pota-DG
+## Document 049: 260916_citi_pota-DG
 
 Source PDF: all report pdf/260916_citi_pota-DG.pdf
 Report source: line報告備份
@@ -1211,7 +1211,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 061: 260916_ms_cotech
+## Document 051: 260916_ms_cotech
 
 Source PDF: all report pdf/260916_ms_cotech.pdf
 Report source: line報告備份
@@ -1734,7 +1734,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 067: 260918_mq_alchip
+## Document 057: 260918_mq_alchip
 
 Source PDF: all report pdf/260918_mq_alchip.pdf
 Report source: line報告備份
@@ -2572,7 +2572,7 @@ Investments in securities market are subject to market risks. Read all the relat
 This publication was disseminated on 18 September 2026 at 15:30 UTC
 
 ---
-## Document 077: 260921_ms_bizlink
+## Document 067: 260921_ms_bizlink
 
 Source PDF: all report pdf/260921_ms_bizlink.pdf
 Report source: line報告備份
@@ -3054,7 +3054,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 082: 260922_ubs_memory smartphone
+## Document 072: 260922_ubs_memory smartphone
 
 Source PDF: all report pdf/260922_ubs_memory smartphone.pdf
 Report source: line報告備份
@@ -4164,7 +4164,7 @@ constitute, advice within the meaning of the Municipal Advisor Rule.  For inform
 ab
 
 ---
-## Document 083: 260923 UBS MTK
+## Document 073: 260923 UBS MTK
 
 Source PDF: all report pdf/260923 UBS MTK.pdf
 Report source: line報告備份
@@ -5494,7 +5494,7 @@ constitute, advice within the meaning of the Municipal Advisor Rule.  For inform
 ab
 
 ---
-## Document 091: 260927_gs_asus
+## Document 081: 260927_gs_asus
 
 Source PDF: all report pdf/260927_gs_asus.pdf
 Report source: line報告備份
@@ -5966,7 +5966,7 @@ Goldman Sachs Asus (2357.TW)For the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 099: 3016嘉晶 兆豐
+## Document 089: 3016嘉晶 兆豐
 
 Source PDF: all report pdf/3016嘉晶 兆豐.pdf
 Report source: line報告備份
@@ -6470,7 +6470,7 @@ C
 交易所公司治理評鑑
 
 ---
-## Document 112: 3665貿聯 元富
+## Document 101: 3665貿聯 元富
 
 Source PDF: all report pdf/3665貿聯 元富.pdf
 Report source: line報告備份
@@ -6808,7 +6808,7 @@ Operating 14.9 17.2 18.8 19.8 ROA 7.61 12.57 16.37 24.61
 Net 10.9 12.8 14.1 14.9 ROE 14.46 21.74 26.55 36.00
 
 ---
-## Document 129: 6533晶心科 玉山
+## Document 116: 6533晶心科 玉山
 
 Source PDF: all report pdf/6533晶心科 玉山.pdf
 Report source: line報告備份
@@ -7006,7 +7006,7 @@ QoQ+73.5%，其中授權金3.8億元，創新高，顯示公司新開案情形�
 未評等：無。
 
 ---
-## Document 130: 6643M31 康和
+## Document 117: 6643M31 康和
 
 Source PDF: all report pdf/6643M31 康和.pdf
 Report source: line報告備份
@@ -7368,7 +7368,7 @@ Q1 Q2 Q3 Q4
 投 資 結 果 自 行 負 責。
 
 ---
-## Document 131: 6664群翊 玉山
+## Document 118: 6664群翊 玉山
 
 Source PDF: all report pdf/6664群翊 玉山.pdf
 Report source: line報告備份
@@ -7602,7 +7602,7 @@ Glass Core則受惠AI封裝大型化及低翹曲需求，相關塗佈、壓膜�
 未評等：無。
 
 ---
-## Document 132: 6693廣閎科 國票
+## Document 119: 6693廣閎科 國票
 
 Source PDF: all report pdf/6693廣閎科 國票.pdf
 Report source: line報告備份
@@ -8002,7 +8002,7 @@ $400
 • 國票可能與該公司進行業務而處於緘默期
 
 ---
-## Document 138: 7856漢測 玉山
+## Document 125: 7856漢測 玉山
 
 Source PDF: all report pdf/7856漢測 玉山.pdf
 Report source: line報告備份
@@ -8197,7 +8197,7 @@ FORM FormFactor 93.2 119.31 1,029.3 1,222.9 18.8% 3.01 3.82 39. 6 31.2 7.8
 未評等：無。
 
 ---
-## Document 142: 8358金居 群益
+## Document 129: 8358金居 群益
 
 Source PDF: all report pdf/8358金居 群益.pdf
 Report source: line報告備份
@@ -8293,7 +8293,7 @@ PER= 股價 /2027 (F) EPS ； PBR= 股價 /2027 (F) 年 底 預 估 每 股 淨 
 情形。
 
 ---
-## Document 467: 元富-3605 宏致-20260918-公司拜訪
+## Document 409: 元富-3605 宏致-20260918-公司拜訪
 
 Source PDF: all report pdf/元富-3605 宏致-20260918-公司拜訪.pdf
 Report source: line報告備份
@@ -8455,7 +8455,7 @@ Net 3.8 6.0 6.2 7.0 3.9 6.8 5.9 7.4
 NT$m Sales Sales YoY
 
 ---
-## Document 478: 凱基投顧_3017 奇鋐_20260921
+## Document 418: 凱基投顧_3017 奇鋐_20260921
 
 Source PDF: all report pdf/凱基投顧_3017 奇鋐_20260921.pdf
 Report source: line報告備份
@@ -9223,7 +9223,7 @@ Sep-25 Oct-25 Nov-25 Dec-25 Jan-26 Feb-26 Mar-26 Apr-26 May-26 Jun-26 Jul-26 Aug
 資料來源：TEJ，凱基
 
 ---
-## Document 479: 凱基投顧_3293 鈊象_賴偉中_20260923
+## Document 419: 凱基投顧_3293 鈊象_賴偉中_20260923
 
 Source PDF: all report pdf/凱基投顧_3293 鈊象_賴偉中_20260923.pdf
 Report source: line報告備份
@@ -9837,7 +9837,7 @@ na
 資料來源：TEJ，凱基
 
 ---
-## Document 480: 凱基投顧_6488 環球晶_沈漢軒_20260921
+## Document 420: 凱基投顧_6488 環球晶_沈漢軒_20260921
 
 Source PDF: all report pdf/凱基投顧_6488 環球晶_沈漢軒_20260921.pdf
 Report source: line報告備份
@@ -10428,7 +10428,7 @@ Sep-25 Nov-25 Jan-26 Mar-26 May-26 Jul-26
 2023-11-07 持有 488 521
 
 ---
-## Document 482: 凱基投顧_6945 圓祥生技_陳宣甫_20260918
+## Document 422: 凱基投顧_6945 圓祥生技_陳宣甫_20260918
 
 Source PDF: all report pdf/凱基投顧_6945 圓祥生技_陳宣甫_20260918.pdf
 Report source: line報告備份
@@ -10835,7 +10835,7 @@ Dec-21A Dec-22A Dec-23A Dec-24A Dec-25A
  泰國          曼谷
 
 ---
-## Document 484: 凱基投顧_Takeaway_2006 東和鋼鐵_劉昃恩_20260916
+## Document 424: 凱基投顧_Takeaway_2006 東和鋼鐵_劉昃恩_20260916
 
 Source PDF: all report pdf/凱基投顧_Takeaway_2006 東和鋼鐵_劉昃恩_20260916.pdf
 Report source: line報告備份
@@ -10942,7 +10942,7 @@ eden.chang@kgi.com
 九月 16, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 3
 
 ---
-## Document 506: 南亞(1303,B_買進)-CTBC260918
+## Document 442: 南亞(1303,B_買進)-CTBC260918
 
 Source PDF: all report pdf/南亞(1303,B_買進)-CTBC260918.pdf
 Report source: line報告備份
@@ -11348,7 +11348,7 @@ ESG 資訊 ─公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 514: 台新投顧20260917個股報告-全新(2455)-買進
+## Document 449: 台新投顧20260917個股報告-全新(2455)-買進
 
 Source PDF: all report pdf/台新投顧20260917個股報告-全新(2455)-買進.pdf
 Report source: line報告備份
@@ -11476,7 +11476,7 @@ MOCVD 新機台預計今年陸續進廠裝機，因應光電子業務明年之�
 位不為使用者之資訊決策及結果負擔任何責任。
 
 ---
-## Document 587: 摩根大通-中美特习峰会：低预期，高风险-Trump-Xi summit Low bar, high stakes-20260918【7页】_sl47
+## Document 508: 摩根大通-中美特习峰会：低预期，高风险-Trump-Xi summit Low bar, high stakes-20260918【7页】_sl47
 
 Source PDF: all report pdf/摩根大通-中美特习峰会：低预期，高风险-Trump-Xi summit Low bar, high stakes-20260918【7页】_sl47.pdf
 Report source: line報告備份
@@ -11825,7 +11825,7 @@ https://www.valuelist.cn
 https://www.valuelist.cn
 
 ---
-## Document 687: 群益-3167-2601大量
+## Document 587: 群益-3167-2601大量
 
 Source PDF: all report pdf/群益-3167-2601大量.pdf
 Report source: line報告備份
@@ -12124,7 +12124,7 @@ YoY(%)
 情形。
 
 ---
-## Document 688: 群益-3324-2601雙鴻
+## Document 588: 群益-3324-2601雙鴻
 
 Source PDF: all report pdf/群益-3324-2601雙鴻.pdf
 Report source: line報告備份
@@ -12370,7 +12370,7 @@ YoY(%)
 情形。
 
 ---
-## Document 691: 群益-6505-2601台塑化
+## Document 591: 群益-6505-2601台塑化
 
 Source PDF: all report pdf/群益-6505-2601台塑化.pdf
 Report source: line報告備份
@@ -12721,7 +12721,7 @@ YoY(%)
 情形。
 
 ---
-## Document 705: 華南-2303 聯電-20260918
+## Document 607: 華南-2303 聯電-20260918
 
 Source PDF: all report pdf/華南-2303 聯電-20260918.pdf
 Report source: line報告備份
@@ -13039,7 +13039,7 @@ YOY 15.7 15.8 15.3 16.3
 個股投資建議與目標價三年歷史趨勢：
 
 ---
-## Document 706: 華南-6829 千附精密-20260918
+## Document 608: 華南-6829 千附精密-20260918
 
 Source PDF: all report pdf/華南-6829 千附精密-20260918.pdf
 Report source: line報告備份
@@ -13326,7 +13326,7 @@ YOY 41.6 44.7 33.3 14.1
 個股投資建議與目標價三年歷史趨勢：
 
 ---
-## Document 743: 陽明(2609,N_中立)-CTBC260923
+## Document 639: 陽明(2609,N_中立)-CTBC260923
 
 Source PDF: all report pdf/陽明(2609,N_中立)-CTBC260923.pdf
 Report source: line報告備份
