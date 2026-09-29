@@ -1,4 +1,3 @@
-import json
 import os
 import re
 import tempfile
@@ -12,26 +11,9 @@ from bs4 import BeautifulSoup
 BASE_URL = "https://www.dbs.com.tw"
 ARCHIVE_URL = f"{BASE_URL}/personal/aics/archive/index.page"
 API_ROOT = f"{BASE_URL}/twgenericcontent/v1/contentapi"
+ENGLISH_INDEX = "dbsstore_main_www_global-ia_en_article_generic"
 PAGE_SIZE = 10
 MAX_AGE_DAYS = 25  # The main pipeline uses the same age limit for DBS reports.
-
-
-def find_initial_articles(node):
-    """Locate the archive's server-rendered first page in __NEXT_DATA__."""
-    if isinstance(node, dict):
-        initial = node.get("fetchedInitialArticles")
-        if isinstance(initial, dict) and isinstance(initial.get("hits"), list):
-            return initial
-        for value in node.values():
-            found = find_initial_articles(value)
-            if found is not None:
-                return found
-    elif isinstance(node, list):
-        for value in node:
-            found = find_initial_articles(value)
-            if found is not None:
-                return found
-    return None
 
 
 def article_hits(session, index, offset):
@@ -61,7 +43,7 @@ def parse_hit(hit):
     result = source.get("results_data") or {}
     title = (result.get("Title") or "").strip()
     relative_path = (result.get("RelativeDCRPath") or "").strip()
-    if not title or not relative_path or (result.get("Format") or "").lower() == "video":
+    if not title or "/data/en/" not in relative_path or (result.get("Format") or "").lower() == "video":
         return None
     video_url = ((source.get("search_data") or {}).get("VideoDetails") or {}).get("VideoURL") or ""
     if "youtube" in video_url.lower():
@@ -127,27 +109,16 @@ def scrape():
     session.headers.update({"User-Agent": "Mozilla/5.0", "Referer": ARCHIVE_URL})
 
     try:
-        response = session.get(ARCHIVE_URL, timeout=30)
-        response.raise_for_status()
-        script = BeautifulSoup(response.text, "html.parser").find("script", id="__NEXT_DATA__")
-        if script is None or not script.string:
-            raise ValueError("Archive 頁面沒有 __NEXT_DATA__")
-        initial = find_initial_articles(json.loads(script.string))
-        if initial is None:
-            raise ValueError("Archive 頁面沒有 fetchedInitialArticles")
-
-        hits = initial["hits"]
-        total = (initial.get("total") or {}).get("value", len(hits))
-        index = hits[0].get("_index", "") if hits else ""
-        if not re.fullmatch(r"[\w-]+", index):
-            raise ValueError("無法從首頁取得文章索引")
-        print(f"  📊 Archive 共 {total} 篇，首頁提供 {len(hits)} 篇")
+        # The archive HTML may be localized to Chinese on GitHub runners. Its
+        # Chinese articles have no report PDFs, while the English index does.
+        hits = article_hits(session, ENGLISH_INDEX, 0)
+        print(f"  📊 英文研究索引首頁提供 {len(hits)} 篇")
 
         cutoff = datetime.now().date() - timedelta(days=MAX_AGE_DAYS)
         recent_articles = []
         seen_urls = set()
         offset = 0
-        while hits:
+        while hits and offset < 200:
             dated_hits = []
             for hit in hits:
                 article = parse_hit(hit)
@@ -161,9 +132,7 @@ def scrape():
             if dated_hits and min(dated_hits) < cutoff:
                 break
             offset += PAGE_SIZE
-            if offset >= total:
-                break
-            hits = article_hits(session, index, offset)
+            hits = article_hits(session, ENGLISH_INDEX, offset)
             print(f"  📥 第 {offset // PAGE_SIZE + 1} 頁取得 {len(hits)} 篇")
 
         print(f"  📋 近 {MAX_AGE_DAYS} 天有 {len(recent_articles)} 篇非影片文章")

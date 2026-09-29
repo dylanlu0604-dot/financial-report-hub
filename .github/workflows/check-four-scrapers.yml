@@ -1,0 +1,39 @@
+name: Check four report scrapers
+
+on:
+  workflow_dispatch:
+
+jobs:
+  check-scrapers:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      - name: Install scraper dependencies
+        run: |
+          python -m pip install requests beautifulsoup4 playwright
+          python -m playwright install chromium
+      - name: Verify official PDF downloads
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import requests
+          from scrapers import allianz, cathay, dbs, mizuho
+
+          for name, module in (("Cathay", cathay), ("Allianz Trade", allianz),
+                               ("DBS", dbs), ("Mizuho", mizuho)):
+              reports = module.scrape()
+              assert reports, f"{name}: no reports"
+              for report in reports:
+                  if report.get("LocalPath"):
+                      header = Path(report["LocalPath"]).read_bytes()[:4]
+                  else:
+                      response = requests.get(report["Link"], timeout=45)
+                      response.raise_for_status()
+                      header = response.content[:4]
+                  assert header == b"%PDF", f"{name}: invalid PDF: {report['Link']}"
+              print(f"Verified {name}: {len(reports)} PDFs")
+          PY
