@@ -82,6 +82,8 @@ def cleanup_old_pdfs(pdf_folder, current_reports, previous_reports):
 
     # previous_reports 才套 30 天硬切，避免歷史堆積
     for report in previous_reports:
+        if report.get('Source') == 'Mizuho (Taiwan)':
+            continue
         report_date = parse_report_datetime(report.get('Date'))
         if report_date and report_date.date() < cutoff_date:
             continue

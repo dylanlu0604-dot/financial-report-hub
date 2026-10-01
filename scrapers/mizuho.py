@@ -8,7 +8,6 @@ import subprocess
 from datetime import datetime, timedelta
 from urllib.parse import urljoin
 
-import requests
 from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright
 
@@ -18,8 +17,6 @@ INDEX_URL = f"{BASE_URL}/corporate/mhri/research/report/index.html"
 REPORTS_URL = f"{BASE_URL}/corporate/mhri/research/assets/json/reports.json"
 PDF_FOLDER = "all report pdf"
 MAX_AGE_DAYS = 25  # Match the retention filter in main.py.
-TAIWAN_URL = "https://www.mizuhogroup.com/jp/asia-pacific/taiwan/fin-info"
-TAIWAN_REPORT_TITLES = ("外国為替ダイジェスト", "みずほウィークリーマーケットニュース")
 
 
 def recent_reports(catalog, today=None):
@@ -180,57 +177,6 @@ def _scrape_with_remote_browser(output_dir=PDF_FOLDER):
             browser.close()
 
 
-def _scrape_taiwan_reports(output_dir=PDF_FOLDER):
-    """Use Mizuho Bank's official Taiwan market reports when Japan blocks the runner."""
-    reports = []
-    session = requests.Session()
-    session.headers.update({"User-Agent": "Mozilla/5.0"})
-    response = session.get(TAIWAN_URL, timeout=30)
-    response.raise_for_status()
-    soup = BeautifulSoup(response.text, "html.parser")
-    cutoff = datetime.now().date() - timedelta(days=MAX_AGE_DAYS)
-    os.makedirs(output_dir, exist_ok=True)
-
-    for item in soup.select("li.richtext_insights-item"):
-        anchor = item.find("a", href=True)
-        if not anchor:
-            continue
-        title = re.sub(r"\s+", " ", anchor.get_text(" ", strip=True)).strip()
-        if not title.startswith(TAIWAN_REPORT_TITLES):
-            continue
-        date_match = re.search(r"(20\d{2})年(\d{1,2})月(\d{1,2})日", item.get_text(" ", strip=True))
-        if not date_match:
-            continue
-        published = datetime(*map(int, date_match.groups())).date()
-        if not cutoff <= published <= datetime.now().date():
-            continue
-        pdf_url = anchor["href"]
-        if not pdf_url.startswith(("https://library.mizuhogroup.com/", "https://cdn.prod.website-files.com/")):
-            continue
-        title = re.sub(r"\s*[（(]PDF/[^）)]+[）)]", "", title).strip()
-        local_path = os.path.abspath(os.path.join(output_dir, pdf_filename(title, published, pdf_url)))
-        try:
-            if not is_pdf_file(local_path):
-                pdf_response = session.get(pdf_url, timeout=45)
-                pdf_response.raise_for_status()
-                if not pdf_response.content.startswith(b"%PDF"):
-                    raise ValueError("下載內容不是 PDF")
-                with open(local_path, "wb") as output:
-                    output.write(pdf_response.content)
-            reports.append({
-                "Source": "Mizuho (Taiwan)",
-                "Date": published.isoformat(),
-                "Name": title,
-                "Link": pdf_url,
-                "Type": "PDF",
-                "LocalPath": local_path,
-            })
-            print(f"    ✅ [{published}] {title}")
-        except (requests.RequestException, OSError, ValueError) as exc:
-            print(f"    ⚠️ 瑞穗台灣報告下載失敗：{title}（{exc}）")
-    return reports
-
-
 def scrape():
     print("🔍 正在爬取 Mizuho (瑞穗銀行研究報告)...")
     reports = []
@@ -258,17 +204,10 @@ def scrape():
         except Exception as exc:
             print(f"  ⚠️ 瑞穗日本研究頁遠端瀏覽器失敗（{type(exc).__name__}）")
 
-    if not reports:
-        print("  🔄 改讀瑞穗銀行台灣官方市場報告...")
-        try:
-            reports = _scrape_taiwan_reports()
-        except (requests.RequestException, OSError, ValueError) as exc:
-            print(f"  ❌ 瑞穗台灣備援失敗：{exc}")
-
     if reports:
         print(f"  ✅ Mizuho 最終收錄 {len(reports)} 份 PDF 報告（來源：{reports[0]['Source']}）")
     else:
-        print("  ⚠️ Mizuho 未取得近期 PDF 報告")
+        print("::error title=Mizuho research unavailable::瑞穗日本研究報告未取得；GitHub runner 受到 HTTP 403 阻擋")
     return reports
 
 

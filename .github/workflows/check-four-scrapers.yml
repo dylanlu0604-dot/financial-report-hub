@@ -23,7 +23,6 @@ jobs:
         run: |
           python - <<'PY'
           import importlib
-          import os
           from pathlib import Path
           import requests
           from scrapers import allianz, cathay, dbs, mizuho
@@ -32,7 +31,7 @@ jobs:
                                ("DBS", dbs), ("Mizuho", mizuho)):
               reports = module.scrape()
               assert reports, f"{name}: no reports"
-              if name == "Mizuho" and os.environ.get("TINYFISH_API_KEY"):
+              if name == "Mizuho":
                   assert all(r["Source"] == "Mizuho" for r in reports), "Mizuho Japan reports unavailable"
               for report in reports:
                   if report.get("LocalPath"):

@@ -22,14 +22,12 @@ jobs:
           TINYFISH_API_KEY: ${{ secrets.TINYFISH_API_KEY }}
         run: |
           python - <<'PY'
-          import os
           from pathlib import Path
           from scrapers.mizuho import scrape
 
           reports = scrape()
           assert reports, "Mizuho scraper returned no reports"
-          if os.environ.get("TINYFISH_API_KEY"):
-              assert all(report["Source"] == "Mizuho" for report in reports), "Japan research source unavailable"
+          assert all(report["Source"] == "Mizuho" for report in reports), "Japan research source unavailable"
           for report in reports:
               path = Path(report["LocalPath"])
               assert path.read_bytes().startswith(b"%PDF"), f"Invalid PDF: {path}"
