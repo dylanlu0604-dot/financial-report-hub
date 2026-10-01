@@ -1,4 +1,4 @@
-name: Check four report scrapers
+name: Check report scrapers and PDF processing
 
 on:
   workflow_dispatch:
@@ -14,11 +14,16 @@ jobs:
           python-version: '3.10'
       - name: Install scraper dependencies
         run: |
-          python -m pip install requests beautifulsoup4 playwright
+          python -m pip install requests beautifulsoup4 playwright pypdf
           python -m playwright install chromium
+          npm install -g @tiny-fish/cli
       - name: Verify official PDF downloads
+        env:
+          TINYFISH_API_KEY: ${{ secrets.TINYFISH_API_KEY }}
         run: |
           python - <<'PY'
+          import importlib
+          import os
           from pathlib import Path
           import requests
           from scrapers import allianz, cathay, dbs, mizuho
@@ -27,6 +32,8 @@ jobs:
                                ("DBS", dbs), ("Mizuho", mizuho)):
               reports = module.scrape()
               assert reports, f"{name}: no reports"
+              if name == "Mizuho" and os.environ.get("TINYFISH_API_KEY"):
+                  assert all(r["Source"] == "Mizuho" for r in reports), "Mizuho Japan reports unavailable"
               for report in reports:
                   if report.get("LocalPath"):
                       header = Path(report["LocalPath"]).read_bytes()[:4]
@@ -36,4 +43,28 @@ jobs:
                       header = response.content[:4]
                   assert header == b"%PDF", f"{name}: invalid PDF: {report['Link']}"
               print(f"Verified {name}: {len(reports)} PDFs")
+
+          ing = importlib.import_module("scrapers.0ing").scrape()
+          assert ing, "ING Think: no recent articles"
+          print(f"Verified ING Think: {len(ing)} articles")
+          PY
+      - name: Verify malformed source PDF can be merged
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          from urllib.parse import quote
+          import requests
+          from pypdf import PdfReader
+          from merge_pdfs import write_merged_pdf
+
+          title = "8月工业企业利润数据点评：利润分化格局持续，成本压力上行.pdf"
+          url = "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub/main/all%20report%20pdf/" + quote(title)
+          response = requests.get(url, timeout=45)
+          response.raise_for_status()
+          source = Path("/tmp/wanlian-source.pdf")
+          source.write_bytes(response.content)
+          output = Path("/tmp/wanlian-merged.pdf")
+          write_merged_pdf([str(source)], str(output))
+          assert len(PdfReader(output).pages) == len(PdfReader(source).pages) == 7
+          print("Verified Wanlian PDF merge: 7 pages")
           PY

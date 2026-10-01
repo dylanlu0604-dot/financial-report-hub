@@ -93,6 +93,9 @@ def scrape():
                         
                         if not article_url:
                             continue
+                        if "/Media-Library/" in article_url:
+                            print(f"    ↪️ 非 PDF 媒體內容，略過: {raw_title[:40]}")
+                            continue
                             
                         print(f"    🔎 進入文章尋找 PDF: {raw_title[:25]}... ({final_date})")
                         

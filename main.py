@@ -1,4 +1,5 @@
 import json
+import hashlib
 import os
 import importlib
 import pkgutil
@@ -37,6 +38,10 @@ OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "請在這裡貼上您的_API_KEY")
 
 def safe_pdf_filename(report_name):
     safe_title = re.sub(r'[\\/*?:"<>|]', "_", str(report_name or 'Unknown')).strip()
+    if len(safe_title.encode('utf-8')) > 200:
+        digest = hashlib.sha1(safe_title.encode('utf-8')).hexdigest()[:8]
+        safe_title = safe_title.encode('utf-8')[:180].decode('utf-8', errors='ignore').rstrip(' .')
+        safe_title = f"{safe_title}_{digest}"
     return f"{safe_title}.pdf"
 
 def report_pdf_path(report, pdf_folder):

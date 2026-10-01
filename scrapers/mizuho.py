@@ -256,7 +256,7 @@ def scrape():
         try:
             reports = _scrape_with_remote_browser()
         except Exception as exc:
-            print(f"  ⚠️ 瑞穗日本研究頁遠端瀏覽器失敗：{exc}")
+            print(f"  ⚠️ 瑞穗日本研究頁遠端瀏覽器失敗（{type(exc).__name__}）")
 
     if not reports:
         print("  🔄 改讀瑞穗銀行台灣官方市場報告...")

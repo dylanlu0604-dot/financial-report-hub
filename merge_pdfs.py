@@ -58,13 +58,21 @@ def clear_old_merged_pdfs(output_folder):
         print(f"🧹 已清除 {removed_count} 個舊合併 PDF")
 
 def write_merged_pdf(pdf_paths, output_filename):
-    merger = PdfWriter()
-    try:
-        for pdf in pdf_paths:
-            merger.append(pdf)
-        merger.write(output_filename)
-    finally:
-        merger.close()
+    for exclude_annotations in (False, True):
+        merger = PdfWriter()
+        try:
+            for pdf in pdf_paths:
+                options = {"excluded_fields": ["/Annots"]} if exclude_annotations else {}
+                merger.append(pdf, **options)
+            merger.write(output_filename)
+            if exclude_annotations:
+                print("  ⚠️ 原始 PDF 註解結構異常，已略過註解並保留頁面內容")
+            break
+        except (TypeError, AttributeError):
+            if exclude_annotations:
+                raise
+        finally:
+            merger.close()
     return os.path.getsize(output_filename)
 
 
