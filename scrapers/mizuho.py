@@ -1,7 +1,10 @@
+import base64
 import hashlib
 import html
+import json
 import os
 import re
+import subprocess
 from datetime import datetime, timedelta
 from urllib.parse import urljoin
 
@@ -77,7 +80,26 @@ def is_pdf_file(path):
         return False
 
 
-def _scrape_with_context(context, output_dir=PDF_FOLDER):
+def _remote_pdf_body(page, pdf_url):
+    """Download through the remote browser's network, not the runner's blocked IP."""
+    result = page.evaluate("""async (url) => {
+        const response = await fetch(url, {credentials: 'include'});
+        if (!response.ok) return {status: response.status};
+        const blob = await response.blob();
+        const dataUrl = await new Promise((resolve, reject) => {
+            const reader = new FileReader();
+            reader.onload = () => resolve(reader.result);
+            reader.onerror = () => reject(reader.error);
+            reader.readAsDataURL(blob);
+        });
+        return {status: response.status, data: dataUrl.split(',')[1]};
+    }""", pdf_url)
+    if result.get("status") != 200 or not result.get("data"):
+        raise RuntimeError(f"遠端 PDF 下載失敗（HTTP {result.get('status')}）")
+    return base64.b64decode(result["data"], validate=True)
+
+
+def _scrape_with_context(context, output_dir=PDF_FOLDER, remote_download=False):
     reports = []
     page = context.new_page()
     try:
@@ -112,12 +134,17 @@ def _scrape_with_context(context, output_dir=PDF_FOLDER):
 
                 local_path = os.path.abspath(os.path.join(output_dir, pdf_filename(title, published, pdf_url)))
                 if not is_pdf_file(local_path):
-                    pdf_response = context.request.get(
-                        pdf_url, headers={"Referer": article_url}, timeout=45000
-                    )
-                    body = pdf_response.body()
-                    if pdf_response.status != 200 or not body.startswith(b"%PDF"):
-                        raise RuntimeError(f"PDF 下載失敗（HTTP {pdf_response.status}）")
+                    if remote_download:
+                        body = _remote_pdf_body(page, pdf_url)
+                    else:
+                        pdf_response = context.request.get(
+                            pdf_url, headers={"Referer": article_url}, timeout=45000
+                        )
+                        body = pdf_response.body()
+                        if pdf_response.status != 200:
+                            raise RuntimeError(f"PDF 下載失敗（HTTP {pdf_response.status}）")
+                    if not body.startswith(b"%PDF"):
+                        raise ValueError("下載內容不是 PDF")
                     with open(local_path, "wb") as output:
                         output.write(body)
 
@@ -135,6 +162,22 @@ def _scrape_with_context(context, output_dir=PDF_FOLDER):
     finally:
         page.close()
     return reports
+
+
+def _scrape_with_remote_browser(output_dir=PDF_FOLDER):
+    """Use an authenticated remote browser when GitHub's IP is denied by Mizuho."""
+    created = subprocess.run(
+        ["tinyfish", "browser", "session", "create", "--url", INDEX_URL],
+        check=True, capture_output=True, text=True, timeout=45,
+    )
+    cdp_url = json.loads(created.stdout)["cdp_url"]
+    with sync_playwright() as playwright:
+        browser = playwright.chromium.connect_over_cdp(cdp_url, timeout=30000)
+        try:
+            context = browser.contexts[0]
+            return _scrape_with_context(context, output_dir, remote_download=True)
+        finally:
+            browser.close()
 
 
 def _scrape_taiwan_reports(output_dir=PDF_FOLDER):
@@ -207,6 +250,13 @@ def scrape():
                 browser.close()
     except Exception as exc:
         print(f"  ⚠️ 瑞穗銀行日本研究頁無法存取：{exc}")
+
+    if not reports and os.environ.get("TINYFISH_API_KEY"):
+        print("  🔄 改用遠端瀏覽器讀取瑞穗日本研究頁...")
+        try:
+            reports = _scrape_with_remote_browser()
+        except Exception as exc:
+            print(f"  ⚠️ 瑞穗日本研究頁遠端瀏覽器失敗：{exc}")
 
     if not reports:
         print("  🔄 改讀瑞穗銀行台灣官方市場報告...")

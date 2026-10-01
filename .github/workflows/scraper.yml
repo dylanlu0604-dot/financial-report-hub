@@ -41,11 +41,15 @@ jobs:
       - name: Install Playwright Browsers
         run: playwright install chromium
 
+      - name: Install remote browser client
+        run: npm install -g @tiny-fish/cli
+
       - name: Run Scraper
         timeout-minutes: 150
         run: python main.py
         env:
           OPENAI_API_KEY: ${{ secrets.AITEST }}
+          TINYFISH_API_KEY: ${{ secrets.TINYFISH_API_KEY }}
 
       - name: Merge PDFs by Source
         run: python merge_pdfs.py
