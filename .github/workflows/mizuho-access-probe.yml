@@ -1,0 +1,26 @@
+name: Probe Mizuho Japan access
+
+on:
+  workflow_dispatch:
+
+jobs:
+  probe:
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, macos-latest, windows-latest]
+    runs-on: ${{ matrix.os }}
+    timeout-minutes: 10
+    steps:
+      - name: Check official index and PDF
+        shell: bash
+        run: |
+          for url in \
+            'https://www.mizuhobank.co.jp/corporate/mhri/research/report/index.html' \
+            'https://www.mizuhobank.co.jp/corporate/mhri/research/assets/json/reports.json' \
+            'https://www.mizuhobank.co.jp/corporate/mhri/research/report/pdf/weekly260929.pdf'; do
+            status=$(curl -sS -L --max-time 30 -o response.bin -w '%{http_code}' "$url")
+            bytes=$(wc -c < response.bin)
+            magic=$(head -c 4 response.bin | od -An -tx1 | tr -d ' \n')
+            echo "$url HTTP=$status BYTES=$bytes MAGIC=$magic"
+          done
