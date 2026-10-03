@@ -3,9 +3,9 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 380: When your assumptions have only upside risk (2026-10-01)
+## Document 358: When your assumptions have only upside risk (2026-10-02)
 
-Source PDF: all report pdf/When your assumptions have only upside risk (2026-10-01).pdf
+Source PDF: all report pdf/When your assumptions have only upside risk (2026-10-02).pdf
 Report source: Unknown
 Date: 未知日期
 Pages: 352
