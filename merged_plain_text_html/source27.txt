@@ -297,7 +297,7 @@ YoY(%)
 情形。
 
 ---
-## Document 065: 2383台光電 宏遠
+## Document 060: 2383台光電 宏遠
 
 Source PDF: all report pdf/2383台光電 宏遠.pdf
 Report source: line報告備份
@@ -857,7 +857,7 @@ B+
 2024 2025 2026
 
 ---
-## Document 070: 260921_ms_2h-sep-panel-px
+## Document 065: 260921_ms_2h-sep-panel-px
 
 Source PDF: all report pdf/260921_ms_2h-sep-panel-px.pdf
 Report source: line報告備份
@@ -1925,7 +1925,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 079: 260923_ms_ATS
+## Document 074: 260923_ms_ATS
 
 Source PDF: all report pdf/260923_ms_ATS.pdf
 Report source: line報告備份
@@ -2402,7 +2402,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 080: 260923_ms_iteq
+## Document 075: 260923_ms_iteq
 
 Source PDF: all report pdf/260923_ms_iteq.pdf
 Report source: line報告備份
@@ -2930,7 +2930,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 083: 260925_citi_6505-UG
+## Document 078: 260925_citi_6505-UG
 
 Source PDF: all report pdf/260925_citi_6505-UG.pdf
 Report source: line報告備份
@@ -3800,7 +3800,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 084: 260925_gs_avc
+## Document 079: 260925_gs_avc
 
 Source PDF: all report pdf/260925_gs_avc.pdf
 Report source: line報告備份
@@ -4287,7 +4287,7 @@ Goldman Sachs AVC (3017.TW)For the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 087: 260927_gs_compal
+## Document 082: 260927_gs_compal
 
 Source PDF: all report pdf/260927_gs_compal.pdf
 Report source: line報告備份
@@ -4741,7 +4741,7 @@ Goldman Sachs Compal (2324.TW)For the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 094: 260928_ubs_TSMC
+## Document 089: 260928_ubs_TSMC
 
 Source PDF: all report pdf/260928_ubs_TSMC.pdf
 Report source: line報告備份
@@ -6168,7 +6168,7 @@ constitute, advice within the meaning of the Municipal Advisor Rule.  For inform
 ab
 
 ---
-## Document 101: 260930_gs_eink
+## Document 096: 260930_gs_eink
 
 Source PDF: all report pdf/260930_gs_eink.pdf
 Report source: line報告備份
@@ -6764,7 +6764,7 @@ Goldman Sachs E Ink (8069.TWO)For the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 105: 2609陽明 元富
+## Document 100: 2609陽明 元富
 
 Source PDF: all report pdf/2609陽明 元富.pdf
 Report source: line報告備份
@@ -7080,7 +7080,7 @@ this date and are subject to change without notice. MasterLink has produced this
 information and advice is given in good faith but without any warranty.
 
 ---
-## Document 106: 2609陽明 永豐
+## Document 101: 2609陽明 永豐
 
 Source PDF: all report pdf/2609陽明 永豐.pdf
 Report source: line報告備份
@@ -7457,7 +7457,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 9
 
 ---
-## Document 117: 3665貿聯 元富
+## Document 110: 3665貿聯 元富
 
 Source PDF: all report pdf/3665貿聯 元富.pdf
 Report source: line報告備份
@@ -7795,7 +7795,7 @@ Operating 14.9 17.2 18.8 19.8 ROA 7.61 12.57 16.37 24.61
 Net 10.9 12.8 14.1 14.9 ROE 14.46 21.74 26.55 36.00
 
 ---
-## Document 119: 4763材料 群益
+## Document 112: 4763材料 群益
 
 Source PDF: all report pdf/4763材料 群益.pdf
 Report source: line報告備份
@@ -7913,7 +7913,7 @@ PER= 股價 /2027 (F) EPS ； PBR= 股價 /2027 (F) 年 底 預 估 每 股 淨 
 資 來 得 少 的 情 形 。
 
 ---
-## Document 123: 4979華星光 群益
+## Document 116: 4979華星光 群益
 
 Source PDF: all report pdf/4979華星光 群益.pdf
 Report source: line報告備份
@@ -8041,7 +8041,7 @@ PER= 股價 /2027 (F) EPS ； PBR= 股價 /2027 (F) 年 底 預 估 每 股 淨 
 資 來 得 少 的 情 形 。
 
 ---
-## Document 124: 5288豐祥 元富
+## Document 117: 5288豐祥 元富
 
 Source PDF: all report pdf/5288豐祥 元富.pdf
 Report source: line報告備份
@@ -8325,7 +8325,7 @@ Operating 14.5 14.4 14.4 13.6 ROA 15.87 11.20 15.91 17.96
 Net 12.1 12.8 13.5 12.6 ROE 20.46 13.76 18.60 20.95
 
 ---
-## Document 125: 5288豐祥 統一
+## Document 118: 5288豐祥 統一
 
 Source PDF: all report pdf/5288豐祥 統一.pdf
 Report source: line報告備份
@@ -8669,7 +8669,7 @@ ainReport/data/FileStream?id=98effda6-2bc0-
 請參見末頁重要批露及免責聲明  7
 
 ---
-## Document 129: 6173信昌電 群益
+## Document 122: 6173信昌電 群益
 
 Source PDF: all report pdf/6173信昌電 群益.pdf
 Report source: line報告備份
@@ -9029,7 +9029,7 @@ YoY(%)
 情形。
 
 ---
-## Document 142: 8996高力 群益
+## Document 135: 8996高力 群益
 
 Source PDF: all report pdf/8996高力 群益.pdf
 Report source: line報告備份
@@ -9302,7 +9302,7 @@ YoY(%)
 情形。
 
 ---
-## Document 176: AI從算力荒到晶圓荒，矽晶圓漲價循環起跑 202609
+## Document 170: AI從算力荒到晶圓荒，矽晶圓漲價循環起跑 202609
 
 Source PDF: all report pdf/AI從算力荒到晶圓荒，矽晶圓漲價循環起跑 202609.pdf
 Report source: line報告備份
@@ -10129,7 +10129,7 @@ Q&A
 述不一致或相抵觸為由，主張本公司或本集團其他成員有侵害讀者權益之情事。
 
 ---
-## Document 262: GIS-KY(6456,Note)-CTBC260929
+## Document 253: GIS-KY(6456,Note)-CTBC260929
 
 Source PDF: all report pdf/GIS-KY(6456,Note)-CTBC260929.pdf
 Report source: line報告備份
@@ -10376,7 +10376,7 @@ ESG 資訊 - 公司治理 (G overnance)
 未評等 Not Rated (NR)
 
 ---
-## Document 271: JPM_Asia_Vital_Component_2026-09-29_5466983 AVC
+## Document 262: JPM_Asia_Vital_Component_2026-09-29_5466983 AVC
 
 Source PDF: all report pdf/JPM_Asia_Vital_Component_2026-09-29_5466983 AVC.pdf
 Report source: line報告備份
@@ -11532,7 +11532,7 @@ This document is being provided for the exclusive use of Tommy Liou at Cathay Li
 {[{TA0k4Z4YHj5HFhYy4h7Bw2hgYzNYAW5P5DwbrUgpLZ8byVaUFLwkAXEszdI1PVZZyJauef_iEWIs6_pE5ae-VlRrzZtmIxsaDJo8jcg}]}
 
 ---
-## Document 382: 【國泰證期研究部】中砂(1560 TT)-買進(+15.1%)-穩居半導體材料關鍵角色-20260930
+## Document 367: 【國泰證期研究部】中砂(1560 TT)-買進(+15.1%)-穩居半導體材料關鍵角色-20260930
 
 Source PDF: all report pdf/【國泰證期研究部】中砂(1560 TT)-買進(+15.1%)-穩居半導體材料關鍵角色-20260930.pdf
 Report source: line報告備份
@@ -11962,7 +11962,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 456: 中信-6202 盛群-20260930
+## Document 439: 中信-6202 盛群-20260930
 
 Source PDF: all report pdf/中信-6202 盛群-20260930.pdf
 Report source: line報告備份
@@ -12291,7 +12291,7 @@ ESG 資訊 -公 司 治 理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 485: 光進晶片_AI時代光互聯的新賽局_ Call memo_Fubon 20260923
+## Document 469: 光進晶片_AI時代光互聯的新賽局_ Call memo_Fubon 20260923
 
 Source PDF: all report pdf/光進晶片_AI時代光互聯的新賽局_ Call memo_Fubon 20260923.pdf
 Report source: line報告備份
@@ -12798,7 +12798,7 @@ A：光博會現場詢問業界人士 ， 得到的解釋是 ： 市場預期 1.
 負擔任何責任。
 
 ---
-## Document 499: 凱基投顧_Takeaway_2609 陽明_賴偉中_20260922
+## Document 481: 凱基投顧_Takeaway_2609 陽明_賴偉中_20260922
 
 Source PDF: all report pdf/凱基投顧_Takeaway_2609 陽明_賴偉中_20260922.pdf
 Report source: line報告備份
@@ -12896,7 +12896,7 @@ Tommy.lai@kgi.com
 九月 22, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R    3
 
 ---
-## Document 501: 凱基投顧_Takeaway_3016 嘉晶_沈漢軒_20260922
+## Document 483: 凱基投顧_Takeaway_3016 嘉晶_沈漢軒_20260922
 
 Source PDF: all report pdf/凱基投顧_Takeaway_3016 嘉晶_沈漢軒_20260922.pdf
 Report source: line報告備份
@@ -13195,7 +13195,7 @@ PIC 未來有可能整合進來，屆時仍需客戶配合評估
 九月 22, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R  7
 
 ---
-## Document 502: 凱基投顧_Takeaway_6467 泰合_陳宣甫_20261001
+## Document 484: 凱基投顧_Takeaway_6467 泰合_陳宣甫_20261001
 
 Source PDF: all report pdf/凱基投顧_Takeaway_6467 泰合_陳宣甫_20261001.pdf
 Report source: line報告備份
@@ -13427,7 +13427,7 @@ offer
 十月 01, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 6
 
 ---
-## Document 536: 國票-3675 德微-20260929 initiation
+## Document 517: 國票-3675 德微-20260929 initiation
 
 Source PDF: all report pdf/國票-3675 德微-20260929 initiation.pdf
 Report source: line報告備份
@@ -13869,7 +13869,7 @@ $600
 • 國票可能與該公司進行業務而處於緘默期
 
 ---
-## Document 540: 國票-7950 盛大資訊-20260930
+## Document 521: 國票-7950 盛大資訊-20260930
 
 Source PDF: all report pdf/國票-7950 盛大資訊-20260930.pdf
 Report source: line報告備份
@@ -14278,7 +14278,7 @@ DevSecOps 流程、身分存取治理與安全事件即時應變能力，將享�
 • 國票可能與該公司進行業務而處於緘默期
 
 ---
-## Document 575: 富邦-6691 洋基工程-20261001
+## Document 556: 富邦-6691 洋基工程-20261001
 
 Source PDF: all report pdf/富邦-6691 洋基工程-20261001.pdf
 Report source: line報告備份
@@ -14829,7 +14829,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 629: 洋基工程(6691,B_買進)-CTBC260929
+## Document 606: 洋基工程(6691,B_買進)-CTBC260929
 
 Source PDF: all report pdf/洋基工程(6691,B_買進)-CTBC260929.pdf
 Report source: line報告備份
@@ -15140,7 +15140,7 @@ ESG 資訊 ─公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 653: 福邦-2467 志聖、6182 合晶、6643 M31-20260929
+## Document 627: 福邦-2467 志聖、6182 合晶、6643 M31-20260929
 
 Source PDF: all report pdf/福邦-2467 志聖、6182 合晶、6643 M31-20260929.pdf
 Report source: line報告備份
@@ -15909,7 +15909,7 @@ G r a n d  F o r t u n e  S e c u r i t i e s                                   
 本報告係就內部參考用，純屬參考性質，並不具備任何法律效果，其正確性不做任何承諾或保證。
 
 ---
-## Document 714: 群益-3653-2601健策
+## Document 685: 群益-3653-2601健策
 
 Source PDF: all report pdf/群益-3653-2601健策.pdf
 Report source: line報告備份
@@ -16144,7 +16144,7 @@ YoY(%)
 情形。
 
 ---
-## Document 723: 群益專題報告-光通訊成長趨勢與動能不變-20260923_compressed
+## Document 694: 群益專題報告-光通訊成長趨勢與動能不變-20260923_compressed
 
 Source PDF: all report pdf/群益專題報告-光通訊成長趨勢與動能不變-20260923_compressed.pdf
 Report source: line報告備份
@@ -17839,7 +17839,7 @@ TV 43%
 中立(Neutral)
 
 ---
-## Document 739: 華南-2308 台達電-20260929
+## Document 707: 華南-2308 台達電-20260929
 
 Source PDF: all report pdf/華南-2308 台達電-20260929.pdf
 Report source: line報告備份
@@ -18158,7 +18158,7 @@ YOY 34.0 47.7 39.1 40.3
 個股投資建議與目標價三年歷史趨勢：
 
 ---
-## Document 740: 華南-2449 京元電子-20260930
+## Document 708: 華南-2449 京元電子-20260930
 
 Source PDF: all report pdf/華南-2449 京元電子-20260930.pdf
 Report source: line報告備份
@@ -18413,7 +18413,7 @@ YOY 34.4  41.9  47.2  31.7
 個股投資建議與目標價三年歷史趨勢：
 
 ---
-## Document 743: 華南-3605 宏致-20260930
+## Document 711: 華南-3605 宏致-20260930
 
 Source PDF: all report pdf/華南-3605 宏致-20260930.pdf
 Report source: line報告備份
@@ -18684,7 +18684,7 @@ YOY 9.5 20.2 15.3 0.0
 個股投資建議與目標價三年歷史趨勢：
 
 ---
-## Document 751: 萊德光電-KY(7717,B_買進)-CTBC261001
+## Document 719: 萊德光電-KY(7717,B_買進)-CTBC261001
 
 Source PDF: all report pdf/萊德光電-KY(7717,B_買進)-CTBC261001.pdf
 Report source: line報告備份
@@ -19103,7 +19103,7 @@ ESG 資訊 -公 司 治 理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 779: 陽明(2609,N_中立)-CTBC260923
+## Document 745: 陽明(2609,N_中立)-CTBC260923
 
 Source PDF: all report pdf/陽明(2609,N_中立)-CTBC260923.pdf
 Report source: line報告備份
