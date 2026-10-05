@@ -3,7 +3,7 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 063: 2395研華 元大
+## Document 057: 2395研華 元大
 
 Source PDF: all report pdf/2395研華 元大.pdf
 Report source: line報告備份
@@ -873,7 +873,7 @@ ESG 總分 16.0
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 073: 260922_ubs_GUC
+## Document 062: 260922_ubs_GUC
 
 Source PDF: all report pdf/260922_ubs_GUC.pdf
 Report source: line報告備份
@@ -2299,7 +2299,7 @@ constitute, advice within the meaning of the Municipal Advisor Rule.  For inform
 ab
 
 ---
-## Document 087: 260928_citi_vanguard
+## Document 076: 260928_citi_vanguard
 
 Source PDF: all report pdf/260928_citi_vanguard.pdf
 Report source: line報告備份
@@ -2863,7 +2863,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 098: 260930_citi_nypcb
+## Document 087: 260930_citi_nypcb
 
 Source PDF: all report pdf/260930_citi_nypcb.pdf
 Report source: line報告備份
@@ -3714,7 +3714,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 100: 260930_gs_eink
+## Document 089: 260930_gs_eink
 
 Source PDF: all report pdf/260930_gs_eink.pdf
 Report source: line報告備份
@@ -4310,7 +4310,7 @@ Goldman Sachs E Ink (8069.TWO)For the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 103: 260930_ms_JMTBA
+## Document 092: 260930_ms_JMTBA
 
 Source PDF: all report pdf/260930_ms_JMTBA.pdf
 Report source: line報告備份
@@ -4788,7 +4788,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 105: 2609陽明 永豐
+## Document 094: 2609陽明 永豐
 
 Source PDF: all report pdf/2609陽明 永豐.pdf
 Report source: line報告備份
@@ -5165,7 +5165,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 9
 
 ---
-## Document 106: 261001_ml_nanyaPCB
+## Document 095: 261001_ml_nanyaPCB
 
 Source PDF: all report pdf/261001_ml_nanyaPCB.pdf
 Report source: line報告備份
@@ -5710,7 +5710,7 @@ Neither BofA Securities nor any officer or employee of BofA Securities accepts a
 information.
 
 ---
-## Document 109: 2753八方雲集 永豐
+## Document 098: 2753八方雲集 永豐
 
 Source PDF: all report pdf/2753八方雲集 永豐.pdf
 Report source: line報告備份
@@ -6094,7 +6094,7 @@ S：Sell 賣出：未來 6 個月該股票表現將落後大盤
 8
 
 ---
-## Document 113: 3167大量 統一
+## Document 102: 3167大量 統一
 
 Source PDF: all report pdf/3167大量 統一.pdf
 Report source: line報告備份
@@ -6552,7 +6552,7 @@ ainReport/data/FileStream?id=b667e771-b5bc-
 請參見末頁重要批露及免責聲明  12
 
 ---
-## Document 123: 4979華星光 群益
+## Document 112: 4979華星光 群益
 
 Source PDF: all report pdf/4979華星光 群益.pdf
 Report source: line報告備份
@@ -6680,7 +6680,7 @@ PER= 股價 /2027 (F) EPS ； PBR= 股價 /2027 (F) 年 底 預 估 每 股 淨 
 資 來 得 少 的 情 形 。
 
 ---
-## Document 125: 5288豐祥 統一
+## Document 114: 5288豐祥 統一
 
 Source PDF: all report pdf/5288豐祥 統一.pdf
 Report source: line報告備份
@@ -7024,7 +7024,7 @@ ainReport/data/FileStream?id=98effda6-2bc0-
 請參見末頁重要批露及免責聲明  7
 
 ---
-## Document 129: 6173信昌電 群益
+## Document 118: 6173信昌電 群益
 
 Source PDF: all report pdf/6173信昌電 群益.pdf
 Report source: line報告備份
@@ -7384,7 +7384,7 @@ YoY(%)
 情形。
 
 ---
-## Document 131: 6446藥華藥 群益
+## Document 120: 6446藥華藥 群益
 
 Source PDF: all report pdf/6446藥華藥 群益.pdf
 Report source: line報告備份
@@ -7501,7 +7501,7 @@ PER= 股價 /2027 (F) EPS ； PBR= 股價 /2027 (F) 年 底 預 估 每 股 淨 
 資 來 得 少 的 情 形 。
 
 ---
-## Document 138: 7799禾榮科 元富
+## Document 126: 7799禾榮科 元富
 
 Source PDF: all report pdf/7799禾榮科 元富.pdf
 Report source: line報告備份
@@ -7770,7 +7770,7 @@ Operating -3067.4 -28243.8 -20085.7 -18000.0 ROA -7.34 -3.85 8.59
 Net -1995.8 -21313.3 -19228.6 -17250.0 ROE -7.43 -3.88 8.69
 
 ---
-## Document 181: AI驅動高速互聯，矽光子落地，CPO續章 202609
+## Document 161: AI驅動高速互聯，矽光子落地，CPO續章 202609
 
 Source PDF: all report pdf/AI驅動高速互聯，矽光子落地，CPO續章 202609.pdf
 Report source: line報告備份
@@ -8357,7 +8357,7 @@ Q&A
 述不一致或相抵觸為由，主張本公司或本集團其他成員有侵害讀者權益之情事。
 
 ---
-## Document 215: ChipMOS Technologies UBS 0929
+## Document 191: ChipMOS Technologies UBS 0929
 
 Source PDF: all report pdf/ChipMOS Technologies UBS 0929.pdf
 Report source: line報告備份
@@ -9243,7 +9243,7 @@ constitute, advice within the meaning of the Municipal Advisor Rule.  For inform
 ab
 
 ---
-## Document 264: GFHK - UMC update
+## Document 234: GFHK - UMC update
 
 Source PDF: all report pdf/GFHK - UMC update.pdf
 Report source: line報告備份
@@ -9492,7 +9492,7 @@ Without the prior written consent obtained from GF Securities (Hong Kong) Broker
 reproduced or (ii) be re-disseminated.
 
 ---
-## Document 266: GIS-KY(6456,Note)-CTBC260929
+## Document 236: GIS-KY(6456,Note)-CTBC260929
 
 Source PDF: all report pdf/GIS-KY(6456,Note)-CTBC260929.pdf
 Report source: line報告備份
@@ -9739,7 +9739,7 @@ ESG 資訊 - 公司治理 (G overnance)
 未評等 Not Rated (NR)
 
 ---
-## Document 277: JPM_Jentech_Precision_In_2026-09-29_5467298
+## Document 248: JPM_Jentech_Precision_In_2026-09-29_5467298
 
 Source PDF: all report pdf/JPM_Jentech_Precision_In_2026-09-29_5467298.pdf
 Report source: line報告備份
@@ -10827,7 +10827,7 @@ This document is being provided for the exclusive use of Tommy Liou at Cathay Li
 {[{l-qKBKDkMSGRZ-af4-izP6nFFixN3EsWUexmjUbtBHL4psh4Kjks0z9obr4FmMss9TjXdguJZXLwTNKBwhYJlmv3GhhtWKOaQCMK978}]}
 
 ---
-## Document 386: 【國泰證期研究部】技嘉(2376 TT)-強力買進(+43.2%)-AI爆發帶動26~27年獲利創高-20261005
+## Document 346: 【國泰證期研究部】技嘉(2376 TT)-強力買進(+43.2%)-AI爆發帶動26~27年獲利創高-20261005
 
 Source PDF: all report pdf/【國泰證期研究部】技嘉(2376 TT)-強力買進(+43.2%)-AI爆發帶動26~27年獲利創高-20261005.pdf
 Report source: line報告備份
@@ -11172,7 +11172,7 @@ SELL 賣出 < -15%
 技嘉 2376 TT
 
 ---
-## Document 387: 【國泰證期研究部】日月光投控(3711 TT)-買進(+29.1%)-日升月恆，光啟新程-20260923
+## Document 347: 【國泰證期研究部】日月光投控(3711 TT)-買進(+29.1%)-日升月恆，光啟新程-20260923
 
 Source PDF: all report pdf/【國泰證期研究部】日月光投控(3711 TT)-買進(+29.1%)-日升月恆，光啟新程-20260923.pdf
 Report source: line報告備份
@@ -11622,7 +11622,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 388: 【國泰證期研究部】智邦(2345 TT)-買進(+25.6%)-不畏風雨、小蹲高躍-20260929
+## Document 348: 【國泰證期研究部】智邦(2345 TT)-買進(+25.6%)-不畏風雨、小蹲高躍-20260929
 
 Source PDF: all report pdf/【國泰證期研究部】智邦(2345 TT)-買進(+25.6%)-不畏風雨、小蹲高躍-20260929.pdf
 Report source: line報告備份
@@ -11965,7 +11965,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 493: 元大-6505 台塑化-20261001
+## Document 444: 元大-6505 台塑化-20261001
 
 Source PDF: all report pdf/元大-6505 台塑化-20261001.pdf
 Report source: line報告備份
@@ -12656,7 +12656,7 @@ ESG 總分 45.1
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 503: 凱基投顧_3231 緯創_2026_09_30
+## Document 453: 凱基投顧_3231 緯創_2026_09_30
 
 Source PDF: all report pdf/凱基投顧_3231 緯創_2026_09_30.pdf
 Report source: line報告備份
@@ -13509,7 +13509,7 @@ Sep-25 Dec-25 Feb-26 Apr-26 Jun-26 Aug-26
 資料來源：TEJ，凱基
 
 ---
-## Document 504: 凱基投顧_3293 鈊象_賴偉中_20260923
+## Document 454: 凱基投顧_3293 鈊象_賴偉中_20260923
 
 Source PDF: all report pdf/凱基投顧_3293 鈊象_賴偉中_20260923.pdf
 Report source: line報告備份
@@ -14123,7 +14123,7 @@ na
 資料來源：TEJ，凱基
 
 ---
-## Document 506: 凱基投顧_9933 中鼎_賴偉中_20260930
+## Document 456: 凱基投顧_9933 中鼎_賴偉中_20260930
 
 Source PDF: all report pdf/凱基投顧_9933 中鼎_賴偉中_20260930.pdf
 Report source: line報告備份
@@ -14901,7 +14901,7 @@ Sep-25 Dec-25 Feb-26 Apr-26 Jun-26 Aug-26
  泰國          曼谷
 
 ---
-## Document 512: 凱基投顧_Takeaway_6467 泰合_陳宣甫_20261001
+## Document 459: 凱基投顧_Takeaway_6467 泰合_陳宣甫_20261001
 
 Source PDF: all report pdf/凱基投顧_Takeaway_6467 泰合_陳宣甫_20261001.pdf
 Report source: line報告備份
@@ -15133,7 +15133,7 @@ offer
 十月 01, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 6
 
 ---
-## Document 547: 國票-2606 裕民-20260929
+## Document 491: 國票-2606 裕民-20260929
 
 Source PDF: all report pdf/國票-2606 裕民-20260929.pdf
 Report source: line報告備份
@@ -15539,7 +15539,7 @@ $90
 • 國票可能與該公司進行業務而處於緘默期
 
 ---
-## Document 583: 宏遠-3563 牧德-20261001
+## Document 522: 宏遠-3563 牧德-20261001
 
 Source PDF: all report pdf/宏遠-3563 牧德-20261001.pdf
 Report source: line報告備份
@@ -16024,7 +16024,7 @@ A
 2024 2025 2026
 
 ---
-## Document 587: 富邦-6213 聯茂-20260929
+## Document 526: 富邦-6213 聯茂-20260929
 
 Source PDF: all report pdf/富邦-6213 聯茂-20260929.pdf
 Report source: line報告備份
@@ -16442,7 +16442,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 652: 玉山-3131 弘塑-20260929
+## Document 584: 玉山-3131 弘塑-20260929
 
 Source PDF: all report pdf/玉山-3131 弘塑-20260929.pdf
 Report source: line報告備份
@@ -16666,7 +16666,7 @@ ALD 設備、日本 JEL 的晶圓傳送機器手臂設備等等，Sigray 的 X-r
 未評等：無。
 
 ---
-## Document 688: 統一-1476 儒鴻-20260929
+## Document 618: 統一-1476 儒鴻-20260929
 
 Source PDF: all report pdf/統一-1476 儒鴻-20260929.pdf
 Report source: line報告備份
@@ -17087,7 +17087,7 @@ ainReport/data/FileStream?id=02e4d703-f45f-
 請參見末頁重要批露及免責聲明  9
 
 ---
-## Document 713: 群益-2395 研華-20260930
+## Document 642: 群益-2395 研華-20260930
 
 Source PDF: all report pdf/群益-2395 研華-20260930.pdf
 Report source: line報告備份
@@ -17319,7 +17319,7 @@ YoY(%)
 情形。
 
 ---
-## Document 721: 群益-6139 亞翔-20260929
+## Document 650: 群益-6139 亞翔-20260929
 
 Source PDF: all report pdf/群益-6139 亞翔-20260929.pdf
 Report source: line報告備份
@@ -17617,7 +17617,7 @@ YoY(%)
 情形。
 
 ---
-## Document 741: 華南-2308 台達電-20260929
+## Document 670: 華南-2308 台達電-20260929
 
 Source PDF: all report pdf/華南-2308 台達電-20260929.pdf
 Report source: line報告備份
@@ -17936,7 +17936,7 @@ YOY 34.0 47.7 39.1 40.3
 個股投資建議與目標價三年歷史趨勢：
 
 ---
-## Document 743: 華南-2536 宏普-20260924
+## Document 672: 華南-2536 宏普-20260924
 
 Source PDF: all report pdf/華南-2536 宏普-20260924.pdf
 Report source: line報告備份
@@ -18224,7 +18224,7 @@ YOY 2.5 45.9 -87.0 -99.0
 個股投資建議與目標價三年歷史趨勢：
 
 ---
-## Document 747: 華南-6239 力成-20260930
+## Document 676: 華南-6239 力成-20260930
 
 Source PDF: all report pdf/華南-6239 力成-20260930.pdf
 Report source: line報告備份
@@ -18561,7 +18561,7 @@ YOY 30.7  26.2  21.4  21.0
 個股投資建議與目標價三年歷史趨勢：
 
 ---
-## Document 750: 華南-6770 力積電-20260924
+## Document 679: 華南-6770 力積電-20260924
 
 Source PDF: all report pdf/華南-6770 力積電-20260924.pdf
 Report source: line報告備份

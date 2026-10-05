@@ -3,7 +3,7 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 070: 260922_citi_COHR
+## Document 059: 260922_citi_COHR
 
 Source PDF: all report pdf/260922_citi_COHR.pdf
 Report source: line報告備份
@@ -682,7 +682,7 @@ solely for the recipient and may not be further distributed by the recipient to 
 ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 
 ---
-## Document 077: 260923_ms_ATS
+## Document 066: 260923_ms_ATS
 
 Source PDF: all report pdf/260923_ms_ATS.pdf
 Report source: line報告備份
@@ -1159,7 +1159,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 079: 260923_ms_kinsus
+## Document 068: 260923_ms_kinsus
 
 Source PDF: all report pdf/260923_ms_kinsus.pdf
 Report source: line報告備份
@@ -1654,7 +1654,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 083: 260925_gs_giagbyte
+## Document 072: 260925_gs_giagbyte
 
 Source PDF: all report pdf/260925_gs_giagbyte.pdf
 Report source: line報告備份
@@ -2136,7 +2136,7 @@ Goldman Sachs Gigabyte (2376.TW)For the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 091: 260928_ubs_nanya
+## Document 080: 260928_ubs_nanya
 
 Source PDF: all report pdf/260928_ubs_nanya.pdf
 Report source: line報告備份
@@ -4520,7 +4520,7 @@ constitute, advice within the meaning of the Municipal Advisor Rule.  For inform
 ab
 
 ---
-## Document 099: 260930_daiwa_delta
+## Document 088: 260930_daiwa_delta
 
 Source PDF: all report pdf/260930_daiwa_delta.pdf
 Report source: line報告備份
@@ -4917,7 +4917,7 @@ Note: Management score represents a company's ability to manage/benefit from cer
 Delta Electronics (2308 TT): 30 September 2026
 
 ---
-## Document 101: 260930_ml_ASE
+## Document 090: 260930_ml_ASE
 
 Source PDF: all report pdf/260930_ml_ASE.pdf
 Report source: line報告備份
@@ -5591,7 +5591,7 @@ Neither BofA Securities nor any officer or employee of BofA Securities accepts a
 information.
 
 ---
-## Document 110: 2753八方雲集 統一
+## Document 099: 2753八方雲集 統一
 
 Source PDF: all report pdf/2753八方雲集 統一.pdf
 Report source: line報告備份
@@ -6335,7 +6335,7 @@ tainReport/data/FileStream?id=108a3f90-fbbc-
 請參見末頁重要披露及免責聲明 14
 
 ---
-## Document 111: 3016嘉晶 兆豐
+## Document 100: 3016嘉晶 兆豐
 
 Source PDF: all report pdf/3016嘉晶 兆豐.pdf
 Report source: line報告備份
@@ -6839,7 +6839,7 @@ C
 交易所公司治理評鑑
 
 ---
-## Document 117: 3665貿聯 元富
+## Document 106: 3665貿聯 元富
 
 Source PDF: all report pdf/3665貿聯 元富.pdf
 Report source: line報告備份
@@ -7177,7 +7177,7 @@ Operating 14.9 17.2 18.8 19.8 ROA 7.61 12.57 16.37 24.61
 Net 10.9 12.8 14.1 14.9 ROE 14.46 21.74 26.55 36.00
 
 ---
-## Document 130: 6285啟碁 永豐
+## Document 119: 6285啟碁 永豐
 
 Source PDF: all report pdf/6285啟碁 永豐.pdf
 Report source: line報告備份
@@ -7518,7 +7518,7 @@ S：Sell 賣出：未來 6 個月該股票表現將落後大盤
 8
 
 ---
-## Document 135: 6768志強-KY20260929-元富投顧(台新新光金控)報告
+## Document 123: 6768志強-KY20260929-元富投顧(台新新光金控)報告
 
 Source PDF: all report pdf/6768志強-KY20260929-元富投顧(台新新光金控)報告.pdf
 Report source: line報告備份
@@ -7819,7 +7819,7 @@ Operating 6.1 5.7 3.8 6.4 ROA 7.35 5.94 4.53 6.28
 Net 4.5 5.4 3.7 5.6 ROE 11.09 8.93 6.43 8.29
 
 ---
-## Document 141: 8046南電_1151001_BofA
+## Document 127: 8046南電_1151001_BofA
 
 Source PDF: all report pdf/8046南電_1151001_BofA.pdf
 Report source: line報告備份
@@ -8364,7 +8364,7 @@ Neither BofA Securities nor any officer or employee of BofA Securities accepts a
 information.
 
 ---
-## Document 262: GFHK - CPO _ NPO
+## Document 232: GFHK - CPO _ NPO
 
 Source PDF: all report pdf/GFHK - CPO _ NPO.pdf
 Report source: line報告備份
@@ -8483,7 +8483,7 @@ Sector Report | Networking
 4
 
 ---
-## Document 276: JPM_Fositek_Meaningful_Q_2026-09-29_5466807
+## Document 247: JPM_Fositek_Meaningful_Q_2026-09-29_5466807
 
 Source PDF: all report pdf/JPM_Fositek_Meaningful_Q_2026-09-29_5466807.pdf
 Report source: line報告備份
@@ -9568,7 +9568,7 @@ This document is being provided for the exclusive use of Tommy Liou at Cathay Li
 {[{Aep1I_P0qdBEkSpPEHNzWExnl2C042u55aXq5J_qorOHpaQOnP0Q3KQu8JcpFhc5EMoVvgJPSdrr9am71mC_KuFNuzQ7LB7tT-fwFCI}]}
 
 ---
-## Document 385: 【國泰證期研究部】嘉晶(3016 TT)-買進(+29.2%)-光芒萬丈，重返高速成長軌道-20260924
+## Document 345: 【國泰證期研究部】嘉晶(3016 TT)-買進(+29.2%)-光芒萬丈，重返高速成長軌道-20260924
 
 Source PDF: all report pdf/【國泰證期研究部】嘉晶(3016 TT)-買進(+29.2%)-光芒萬丈，重返高速成長軌道-20260924.pdf
 Report source: line報告備份
@@ -9855,7 +9855,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 389: 【國泰證期研究部】特化產業-高速 CCL 技術多路並進，HC 樹脂需求具上行空間-20261005 (2)
+## Document 349: 【國泰證期研究部】特化產業-高速 CCL 技術多路並進，HC 樹脂需求具上行空間-20261005 (2)
 
 Source PDF: all report pdf/【國泰證期研究部】特化產業-高速 CCL 技術多路並進，HC 樹脂需求具上行空間-20261005 (2).pdf
 Report source: line報告備份
@@ -10032,7 +10032,7 @@ HC 樹脂仍為高速材料關鍵
 投資評等定義
 
 ---
-## Document 463: 中信-6202 盛群-20260930
+## Document 418: 中信-6202 盛群-20260930
 
 Source PDF: all report pdf/中信-6202 盛群-20260930.pdf
 Report source: line報告備份
@@ -10361,7 +10361,7 @@ ESG 資訊 -公 司 治 理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 502: 凱基投顧_2949 欣新網_莊政翰_20260923
+## Document 452: 凱基投顧_2949 欣新網_莊政翰_20260923
 
 Source PDF: all report pdf/凱基投顧_2949 欣新網_莊政翰_20260923.pdf
 Report source: line報告備份
@@ -11005,7 +11005,7 @@ Dec-21A Dec-22A Dec-23A Dec-24A Dec-25A
  泰國          曼谷
 
 ---
-## Document 505: 凱基投顧_8210 勤誠_余昀澄_20260929
+## Document 455: 凱基投顧_8210 勤誠_余昀澄_20260929
 
 Source PDF: all report pdf/凱基投顧_8210 勤誠_余昀澄_20260929.pdf
 Report source: line報告備份
@@ -11572,7 +11572,7 @@ Sep-25 Oct-25 Nov-25 Dec-25 Jan-26 Feb-26 Mar-26 Apr-26 May-26 Jun-26 Jul-26 Aug
 資料來源：TEJ，凱基
 
 ---
-## Document 508: 凱基投顧_Takeaway_1783 和康生_陳宣甫_20260930
+## Document 458: 凱基投顧_Takeaway_1783 和康生_陳宣甫_20260930
 
 Source PDF: all report pdf/凱基投顧_Takeaway_1783 和康生_陳宣甫_20260930.pdf
 Report source: line報告備份
@@ -11742,7 +11742,7 @@ QA
 九月 30, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 4
 
 ---
-## Document 513: 凱基投顧_Takeaway_8436 大江_陳宣甫_20260930
+## Document 460: 凱基投顧_Takeaway_8436 大江_陳宣甫_20260930
 
 Source PDF: all report pdf/凱基投顧_Takeaway_8436 大江_陳宣甫_20260930.pdf
 Report source: line報告備份
@@ -11934,7 +11934,7 @@ re-layout 與機器 move in 延後，最晚 4Q26 進駐並開始試產
 九月 30, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 5
 
 ---
-## Document 538: 嘉基(6715,B_買進)-CTBC261005
+## Document 482: 嘉基(6715,B_買進)-CTBC261005
 
 Source PDF: all report pdf/嘉基(6715,B_買進)-CTBC261005.pdf
 Report source: line報告備份
@@ -12335,7 +12335,7 @@ ESG 資訊 - 公司治理 (Gov ernan ce)
 未評等 Not Rated (NR)
 
 ---
-## Document 549: 國票-3675 德微-20260929 initiation
+## Document 493: 國票-3675 德微-20260929 initiation
 
 Source PDF: all report pdf/國票-3675 德微-20260929 initiation.pdf
 Report source: line報告備份
@@ -12777,7 +12777,7 @@ $600
 • 國票可能與該公司進行業務而處於緘默期
 
 ---
-## Document 582: 宏遠-3189 景碩-20260929
+## Document 521: 宏遠-3189 景碩-20260929
 
 Source PDF: all report pdf/宏遠-3189 景碩-20260929.pdf
 Report source: line報告備份
@@ -13097,7 +13097,7 @@ Company Report
 9
 
 ---
-## Document 584: 宏遠-6643 M31-20260929
+## Document 523: 宏遠-6643 M31-20260929
 
 Source PDF: all report pdf/宏遠-6643 M31-20260929.pdf
 Report source: line報告備份
@@ -13573,7 +13573,7 @@ A+A+A+A+A+
 2024 2025 2026
 
 ---
-## Document 593: 康和-2327 國巨-20260924
+## Document 532: 康和-2327 國巨-20260924
 
 Source PDF: all report pdf/康和-2327 國巨-20260924.pdf
 Report source: line報告備份
@@ -13971,7 +13971,7 @@ EPS以股本514.6百萬股計算
 投資結果 自 行 負 責 。
 
 ---
-## Document 594: 康和-8147 正凌-20261001
+## Document 533: 康和-8147 正凌-20261001
 
 Source PDF: all report pdf/康和-8147 正凌-20261001.pdf
 Report source: line報告備份
@@ -14268,7 +14268,7 @@ EPS以股本41.8百萬股計算
 投 資 結 果 自 行 負 責 。
 
 ---
-## Document 659: 福邦-2467 志聖、6182 合晶、6643 M31-20260929
+## Document 592: 福邦-2467 志聖、6182 合晶、6643 M31-20260929
 
 Source PDF: all report pdf/福邦-2467 志聖、6182 合晶、6643 M31-20260929.pdf
 Report source: line報告備份
@@ -15037,7 +15037,7 @@ G r a n d  F o r t u n e  S e c u r i t i e s                                   
 本報告係就內部參考用，純屬參考性質，並不具備任何法律效果，其正確性不做任何承諾或保證。
 
 ---
-## Document 689: 統一-2030 彰源-20260930
+## Document 619: 統一-2030 彰源-20260930
 
 Source PDF: all report pdf/統一-2030 彰源-20260930.pdf
 Report source: line報告備份
@@ -15313,7 +15313,7 @@ ainReport/data/FileStream?id=af32ecd1-3f66-
 請參見末頁重要批露及免責聲明  7
 
 ---
-## Document 691: 統一-6620 漢達-20260924
+## Document 621: 統一-6620 漢達-20260924
 
 Source PDF: all report pdf/統一-6620 漢達-20260924.pdf
 Report source: line報告備份
@@ -15690,7 +15690,7 @@ EBITDA 428 1,098 451 1,378   EBITDA 51.6 63.5 47.5 71.8
 請參見末頁重要披露及免責聲明 9
 
 ---
-## Document 714: 群益-2404 漢唐-20261001
+## Document 643: 群益-2404 漢唐-20261001
 
 Source PDF: all report pdf/群益-2404 漢唐-20261001.pdf
 Report source: line報告備份
@@ -15971,7 +15971,7 @@ YoY(%)
 情形。
 
 ---
-## Document 718: 群益-3653-2601健策
+## Document 647: 群益-3653-2601健策
 
 Source PDF: all report pdf/群益-3653-2601健策.pdf
 Report source: line報告備份
@@ -16206,7 +16206,7 @@ YoY(%)
 情形。
 
 ---
-## Document 719: 群益-4772 台特化-20260930
+## Document 648: 群益-4772 台特化-20260930
 
 Source PDF: all report pdf/群益-4772 台特化-20260930.pdf
 Report source: line報告備份
@@ -16533,7 +16533,7 @@ YoY(%)
 情形。
 
 ---
-## Document 723: 群益-6505-2601台塑化
+## Document 652: 群益-6505-2601台塑化
 
 Source PDF: all report pdf/群益-6505-2601台塑化.pdf
 Report source: line報告備份
@@ -16884,7 +16884,7 @@ YoY(%)
 情形。
 
 ---
-## Document 725: 群益專題報告-4Q26年傳產AI應用持續發酵以及期待傳統旺季效應-20260923_compressed
+## Document 654: 群益專題報告-4Q26年傳產AI應用持續發酵以及期待傳統旺季效應-20260923_compressed
 
 Source PDF: all report pdf/群益專題報告-4Q26年傳產AI應用持續發酵以及期待傳統旺季效應-20260923_compressed.pdf
 Report source: line報告備份
@@ -19978,7 +19978,7 @@ TT)。萬事俱備，靜待油價回跌航空
 上升或下降，產生投資回報金額可能比原始投資來得少的情形。
 
 ---
-## Document 742: 華南-2449 京元電子-20260930
+## Document 671: 華南-2449 京元電子-20260930
 
 Source PDF: all report pdf/華南-2449 京元電子-20260930.pdf
 Report source: line報告備份
@@ -20233,7 +20233,7 @@ YOY 34.4  41.9  47.2  31.7
 個股投資建議與目標價三年歷史趨勢：
 
 ---
-## Document 746: 華南-6147 頎邦-20260930
+## Document 675: 華南-6147 頎邦-20260930
 
 Source PDF: all report pdf/華南-6147 頎邦-20260930.pdf
 Report source: line報告備份
@@ -20530,7 +20530,7 @@ YOY 9.6  18.1  20.9  54.6
 個股投資建議與目標價三年歷史趨勢：
 
 ---
-## Document 752: 華南-8150 南茂-20260930
+## Document 681: 華南-8150 南茂-20260930
 
 Source PDF: all report pdf/華南-8150 南茂-20260930.pdf
 Report source: line報告備份
@@ -20806,7 +20806,7 @@ YOY 19.0  23.0  26.4  26.4
 個股投資建議與目標價三年歷史趨勢：
 
 ---
-## Document 795: 麗豐-KY(4137,N_中立)-CTBC260930
+## Document 716: 麗豐-KY(4137,N_中立)-CTBC260930
 
 Source PDF: all report pdf/麗豐-KY(4137,N_中立)-CTBC260930.pdf
 Report source: line報告備份
