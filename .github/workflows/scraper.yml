@@ -88,3 +88,12 @@ jobs:
           assert count > 0, "No Mizuho Japan research PDFs; the runner is blocked by HTTP 403"
           print(f"Published {count} Mizuho Japan research PDFs")
           PY
+
+      - name: Upload report list CSV
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: report-list-${{ github.run_id }}
+          path: data/reports.csv
+          if-no-files-found: warn
+          retention-days: 30

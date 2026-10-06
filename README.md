@@ -12,6 +12,7 @@
    - 各機構專屬的 RSS 訂閱檔案 (`data/*.xml`)。
    - 適合匯入 NotebookLM 或其他 AI 大語言模型的 Markdown 內容 (`data/reports_for_notebooklm.md`)。
    - 結構化的 JSON 資料歸檔 (`data/reports.json`)。
+   - 報告清單 CSV (`data/reports.csv`)，欄位為發佈日期、報告名稱、原始報告連結與是否可揭露；排程每次執行會另存 GitHub Actions artifact 供下載。CSV 使用原始網站連結，不放倉庫的 GitHub PDF 連結；不可揭露來源不輸出連結。
 5. **PDF 元數據讀取**：使用 `pdfplumber` 解析下載的 PDF，自動標示報告的總頁數以便參考。
 
 ## 📁 目錄結構
@@ -48,7 +49,7 @@
 ```bash
 python main.py
 ```
-此步驟會自動清理過期資料，完整調用所有爬蟲，下載並驗證 PDF 檔案，最後生成所有的前端儀表板 (`index.html`)、Markdown 及 RSS 檔案。
+此步驟會自動清理過期資料，完整調用所有爬蟲，下載並驗證 PDF 檔案，最後生成前端儀表板 (`index.html`)、Markdown、RSS 與報告清單 CSV。排程執行後可從 Actions 執行頁下載該次 CSV；最新清單也會保存在 `data/reports.csv`。
 
 ### 2. 執行補充下載腳本 (如果有需要)
 若你只想透過已經整理好的 Markdown 清單 (`data/reports_for_notebooklm.md`) 單純進行實體 PDF 真實下載：
