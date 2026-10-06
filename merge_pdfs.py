@@ -6,8 +6,10 @@ MAX_MERGED_PDF_BYTES = int(os.getenv("MAX_MERGED_PDF_BYTES", str(45 * 1024 * 102
 GITHUB_UPLOAD_BLOCK_BYTES = int(os.getenv("GITHUB_UPLOAD_BLOCK_BYTES", str(95 * 1024 * 1024)))
 
 MIN_SOURCE_PARTS = {
-    "line報告備份": 3,
+    "未公開來源": 3,
 }
+UNDISCLOSED_SOURCE = "未公開來源"
+LEGACY_NON_DISCLOSABLE_SOURCES = {"line報告備份", "Substack Reports"}
 
 
 def format_bytes(byte_count):
@@ -146,6 +148,13 @@ def merge_reports_by_source():
     source_groups = {}
     for report in reports:
         source = report.get("Source", "Unknown_Source")
+        disclose_source = report.get("SourceDisclosureAllowed", True)
+        if (
+            disclose_source is False
+            or str(disclose_source).strip().lower() in {"false", "no", "0", "否"}
+            or source in LEGACY_NON_DISCLOSABLE_SOURCES
+        ):
+            source = UNDISCLOSED_SOURCE
         local_path = report.get("LocalPath")
         
         if local_path and os.path.exists(local_path):

@@ -127,6 +127,7 @@ def scrape():
                         "Date": final_date,
                         "Name": f"{raw_title} ({final_date})",
                         "Link": github_link,
+                        "OriginalLink": pdf_url,
                         "Type": "PDF",
                         "LocalPath": save_path
                     })

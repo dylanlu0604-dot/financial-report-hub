@@ -1,4 +1,5 @@
 import json
+import csv
 import hashlib
 import os
 import importlib
@@ -28,6 +29,9 @@ load_dotenv()
 # ==========================================
 ENABLE_AI_SUMMARY = False
 PDF_RETENTION_DAYS = 30
+NON_DISCLOSABLE_SCRAPER_MODULES = {"line_reports", "substackreport"}
+UNDISCLOSED_SOURCE_LABEL = "未公開來源"
+REPORTS_CSV_FIELDS = ["發佈日期", "報告名稱", "原始券商報告連結", "是否可揭露"]
 
 GITHUB_USER = "dylanlu0604-dot"
 GITHUB_REPO = "financial-report-hub"
@@ -71,6 +75,41 @@ def load_previous_reports(json_path):
     except Exception as e:
         print(f"⚠️ 無法讀取既有報告資料，將只保留本輪抓到的 PDF: {e}")
         return []
+
+def source_is_disclosable(report):
+    value = report.get("SourceDisclosureAllowed", True)
+    if isinstance(value, str):
+        return value.strip().lower() not in {"false", "no", "0", "否"}
+    return value is not False
+
+def original_report_link(report):
+    if not source_is_disclosable(report):
+        return ""
+    link = str(report.get("OriginalLink", "") or report.get("Link", "")).strip()
+    hostname = (urllib.parse.urlparse(link).hostname or "").lower()
+    if hostname == "github.com" or hostname.endswith(".github.com") or hostname == "raw.githubusercontent.com":
+        return ""
+    return link
+
+def write_reports_csv(reports, csv_path):
+    with open(csv_path, "w", encoding="utf-8-sig", newline="") as csv_file:
+        writer = csv.DictWriter(csv_file, fieldnames=REPORTS_CSV_FIELDS)
+        writer.writeheader()
+        for report in reports:
+            disclose_source = source_is_disclosable(report)
+            writer.writerow({
+                "發佈日期": report.get("Date", ""),
+                "報告名稱": report.get("Name", ""),
+                "原始券商報告連結": original_report_link(report),
+                "是否可揭露": "可" if disclose_source else "不可",
+            })
+
+def public_report_record(report):
+    public_report = dict(report)
+    if not source_is_disclosable(report):
+        public_report["Source"] = UNDISCLOSED_SOURCE_LABEL
+        public_report.pop("OriginalLink", None)
+    return public_report
 
 def cleanup_old_pdfs(pdf_folder, current_reports, previous_reports):
     cutoff_date = (datetime.now() - timedelta(days=PDF_RETENTION_DAYS)).date()
@@ -123,6 +162,9 @@ def main():
             print(f"🧹 已強行刪除損壞的資料夾: {folder}")
     os.makedirs(pdf_folder, exist_ok=True)
     os.makedirs(data_folder, exist_ok=True)
+    csv_path = os.path.join(data_folder, "reports.csv")
+    # Keep a downloadable, header-only manifest available even if a scraper later fails.
+    write_reports_csv([], csv_path)
     
     all_reports = []
     
@@ -138,6 +180,11 @@ def main():
             if hasattr(module, "scrape"):
                 results = module.scrape()
                 if results:
+                    for report in results:
+                        report["SourceDisclosureAllowed"] = (
+                            source_is_disclosable(report)
+                            and module_name not in NON_DISCLOSABLE_SCRAPER_MODULES
+                        )
                     bad = [r for r in results if "Link" not in r]
                     if bad:
                         print(f"⚠️ [scraper: {module_name}] 有 {len(bad)} 筆資料缺少 Link 欄位:")
@@ -147,7 +194,7 @@ def main():
             print(f"❌ 載入 {module_name} 失敗: {e}")
 
     if not all_reports:
-        print("\n❌ 未抓到任何資料"); return
+        print("\n⚠️ 未抓到任何資料，仍會輸出空白報告清單。")
 
     # 🧹 資料清理：Regex 日期標準化與動態天數過濾
     unique_reports = []
@@ -205,7 +252,7 @@ def main():
                 local_filepath = os.path.join(pdf_folder, local_filename)
             encoded_filename = urllib.parse.quote(local_filename)
             
-            report['OriginalLink'] = original_url
+            report['OriginalLink'] = report.get('OriginalLink') or original_url
             base_url = GITHUB_RAW_BASE if 'GITHUB_RAW_BASE' in globals() else ""
             report['Link'] = f"{base_url}/{encoded_filename}"
             report['LocalPath'] = local_filepath  # 🌟 修正：告訴 AI 正確的本地端中文檔名路徑
@@ -358,12 +405,15 @@ def main():
     # 📝 輸出生成
     # ==========================================
     unique_reports.sort(key=lambda x: x.get('Date', ''), reverse=True)
+    write_reports_csv(unique_reports, csv_path)
+    public_reports = [public_report_record(report) for report in unique_reports]
     with open('data/reports.json', 'w', encoding='utf-8') as f:
-        json.dump(unique_reports, f, ensure_ascii=False, indent=2)
+        json.dump(public_reports, f, ensure_ascii=False, indent=2)
 
     md_content = "# 📊 最新財經報告總覽\n\n"
     for report in unique_reports:
-        md_content += f"### {report['Name']}\n來源: {report['Source']} | 日期: {report['Date']} | 頁數: {report['PageCount']} 頁\n"
+        display_source = report.get('Source', '') if source_is_disclosable(report) else UNDISCLOSED_SOURCE_LABEL
+        md_content += f"### {report['Name']}\n來源: {display_source} | 日期: {report['Date']} | 頁數: {report['PageCount']} 頁\n"
         md_content += f"[📥 查看報告]({report['Link']})\n\n"
     with open('data/reports_for_notebooklm.md', 'w', encoding='utf-8') as f: f.write(md_content)
 
@@ -393,7 +443,8 @@ def main():
     </tr></thead><tbody>\n"""
     
     for r in unique_reports:
-        html_content += f"<tr><td><b>{r['Source']}</b></td><td>{r['Date']}</td><td><span class='page-badge'>{r['PageCount']}</span></td>"
+        display_source = r.get('Source', '') if source_is_disclosable(r) else UNDISCLOSED_SOURCE_LABEL
+        html_content += f"<tr><td><b>{display_source}</b></td><td>{r['Date']}</td><td><span class='page-badge'>{r['PageCount']}</span></td>"
         html_content += f"<td><a href='{r['Link']}' target='_blank'>{r['Name']}</a></td><td>{r['Summary']}</td></tr>\n"
 
     html_content += """</tbody></table><script>
@@ -432,6 +483,8 @@ def main():
 
     reports_by_source = {}
     for report in unique_reports:
+        if not source_is_disclosable(report):
+            continue
         source = report.get('Source', 'Unknown')
         if source not in reports_by_source: reports_by_source[source] = []
         reports_by_source[source].append(report)

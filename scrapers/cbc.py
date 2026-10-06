@@ -187,6 +187,7 @@ def scrape():
                             "Date": date_str,
                             "Name": report_name,
                             "Link": github_link,        # ✅ 直接給 GitHub Raw 連結，main.py 不需再下載
+                            "OriginalLink": dl_url,
                             "Type": "PDF",
                             "PageCount": page_count,    # ✅ 直接填好，main.py 不需重讀
                             "LocalPath": local_filepath

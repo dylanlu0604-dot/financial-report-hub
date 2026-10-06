@@ -148,6 +148,7 @@ def scrape():
                     "Date": date_str,
                     "Name": title,
                     "Link": github_link,
+                    "OriginalLink": url,
                     "Type": "PDF",
                     "PageCount": page_count,
                     "LocalPath": local_filepath,
