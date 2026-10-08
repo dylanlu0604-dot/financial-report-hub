@@ -12,7 +12,7 @@
    - 各機構專屬的 RSS 訂閱檔案 (`data/*.xml`)。
    - 適合匯入 NotebookLM 或其他 AI 大語言模型的 Markdown 內容 (`data/reports_for_notebooklm.md`)。
    - 結構化的 JSON 資料歸檔 (`data/reports.json`)。
-   - 報告清單 CSV (`data/reports.csv`)，欄位為發佈日期、報告名稱、原始報告連結與是否可揭露；排程每次執行會另存 GitHub Actions artifact 供下載。CSV 使用原始網站連結，不放倉庫的 GitHub PDF 連結；不可揭露來源不輸出連結。
+   - 報告清單 CSV (`data/reports.csv`)，欄位為發佈日期、報告名稱、原始報告連結與是否可揭露；排程每次執行會另存 GitHub Actions artifact 供下載。CSV 使用原始來源連結，不放倉庫的 GitHub PDF 連結；Google Drive 與 Substack 報告保留連結並標記為不可揭露。
 5. **PDF 元數據讀取**：使用 `pdfplumber` 解析下載的 PDF，自動標示報告的總頁數以便參考。
 
 ## 📁 目錄結構

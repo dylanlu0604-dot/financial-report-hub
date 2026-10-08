@@ -83,8 +83,6 @@ def source_is_disclosable(report):
     return value is not False
 
 def original_report_link(report):
-    if not source_is_disclosable(report):
-        return ""
     link = str(report.get("OriginalLink", "") or report.get("Link", "")).strip()
     hostname = (urllib.parse.urlparse(link).hostname or "").lower()
     if hostname == "github.com" or hostname.endswith(".github.com") or hostname == "raw.githubusercontent.com":
