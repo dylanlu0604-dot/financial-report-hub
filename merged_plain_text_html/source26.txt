@@ -623,117 +623,7 @@ ainReport/data/FileStream?id=88fbbbbf-c47b-
 請參見末頁重要批露及免責聲明  14
 
 ---
-## Document 060: 2368金像電 群益
-
-Source PDF: all report pdf/2368金像電 群益.pdf
-Report source: 未公開來源
-Date: 2026-09-30
-Pages: 3
-Extraction status: ok
-
-### Page 1
-
-產業速報  
-                                        2026 年 9 月 30 日
-
-1 群益投顧 
-金像電 (2368 TT) 於 09/29/2026 董事會核准總金額 79 億 元 的 資 本 支 出 預 算 案 ， 預 計 自
-4Q26 起 陸 續 進 行 投 資，並 決 議 洽 定 特 定 應 募 人 為Amazon.com, Inc(AMZN US) ，實 際
-私募價格為 856 元 ， 預 計 此 次 私 募 規 模 為 15.89 億元、占金像電 2Q26 股本 0.36% 。
-研 究 部 認 為，金 像 電 作 為 既 有 ASIC 伺 服 器 板 的 生 產 廠 商，隨 著 CSP 業者未來資本支
-出 逐 步 放 大 、 對 算 力 的 要 求 也 直 接 提 升 PCB 板 規 格 與 產 品 種 類 ， 金 像 電 也 勢 必 增 加
-資 本 支 出 以 維 持 產 業 競 爭 力 。 綜 合 以 上 ， 考 量 新 產 品 、 新 業 務 、 新 產 能 將 持 續 挹 注 金
-像電 2027 年的營運，故維持金像電 Buy 的 投 資 建 議 ， 目 標 價 1,480 元 (22.70 PER X 
-2027F EPS) 。
-
-研 究 員 ： 吳 建 弘   
-A51102@cim.capital.com.tw
-
-金 像 電 09/29 /2026 董 事 會 核 准 資 本 支 出 案 與 公 告 第 一 次 私 募 案 對 象：  
-金像電 (2368 TT) 於 09/29/2026 董 事 會 核 准 總 金 額 79 億 元 的 資 本 支 出 預 算
-案 ， 預 計 自 4Q26 起 陸 續 進 行 投 資 ， 主 要 進 行 38 億 元 的 土 地 預 算 、41 億元
-的 建 廠 與 設 備 資 本 支 出 。 
-並決議 2026 年 第 一 次 私 募 普 通 股 定 價 及 應 募 人 資 訊 ，已 洽 定 特 定 應 募 人 為
-Amazon.com, Inc(AMZN US) ， 預 計 本 次 私 募 增 資 認 購 股 數 為 1,856,308 股，
-實 際 私 募 價 格為 856 元 。 此 次 私 募 規 模 為 15.89 億 元 、 占 金 像 電 2Q26 股本
-0.36% 。  
-研 究 部 評 析 
-參考 04/16/2026 金 像 電 決 議 辦 理 私 募 增 資 案 的 內 容 ， 此 次Amazon 入股，
-預 計 將 擴 大金 像 電 的 伺 服 器 業 務 範 圍 ， 提 高 營 運 績 效 。而 金 像 電 作 為既有
-ASIC 伺 服 器 板 的 生 產 廠 商 ， 隨 著 CSP 業 者 未 來 資 本 支 出 逐 步 放 大 、 對 算
-力 的 要 求 直 接 提 升 PCB 板 規 格 與 產 品 種 類 ， 金 像 電 也 勢 必 增 加 資 本 支 出 以
-維 持 產 業 競 爭 力 。 
-展望 2027 年 ， 隨 著 新世代的 AI ASIC 伺 服 器 產 品 逐 漸 量 產 ， 新 產 品 、 新
-業務 、 新 產 能 將 持 續 挹 注金 像 電 營 運 ， 推 升 後 續 展 望 。 而 09/29/2026 的資
-本 支 出 案 ， 研 究 部 基 於 設 備 交 期 規 劃 ， 預 計 將 投 入2028 年後 的 營運。  
-綜 合 以 上 ， 考 量新 產 品 、 新 業 務 、 新 產 能 將 持 續 挹 注 金 像 電2027 年的營
-運， 故 維 持 金 像 電 Buy 的 投 資 建 議 ， 目 標 價 1,480 元 (22.70 PER X 2027F 
-EPS) 。
-
-### Page 2
-
-產業速報  
-                                        2026 年 9 月 30 日
-
-2 群益投顧 
-  相 關 個 股 獲 利 預 估 、 評 價 及 投 資 建 議 
-公司 代號 EPS(元) 年底每股淨值(元) 股價(元) PER PBR 投資評等 目標價(元) 隱含漲幅                       
-2026(F) 2027 (F) 2026(F) 2027 (F)
-
-P CB 
-台光電  2383  1 1 6 . 42 2 1 6 . 47 2 3 2 . 23 3 7 8 . 70 4 9 2 0 .0 0 2 2 . 7 3 1 2 . 9 9 B u y 7 1 7 5 .0 0 4 5 . 8 3 %  
-台燿  6274  3 6 . 1 1 6 8 . 9 9 9 1 . 0 5 1 3 8 . 38 1 4 8 5 .0 0 2 1 . 5 3 1 0 . 7 3 T ra d i n g  
-B u y 
-1 7 7 0 .0 0 1 9 . 1 9 %
-
-資 料 來 源 ： 群 益 投 顧 彙 整 預 估  
-附 註 ： EPS 以 最 新 股 本 調 整 回 溯 ；  
-PER= 股價 /2027 (F) EPS ； PBR= 股價 /2027 (F) 年 底 預 估 每 股 淨 值
-
-### Page 3
-
-產業速報  
-                                        2026 年 9 月 30 日
-
-3 群益投顧 
-  【 投 資 評 等 說 明 】 
-  評等  定義  
-  強力買進 (Strong Buy)  首 次 評 等 潛 在 上 漲 空 間≥ 35%  
-  買進 (Buy)  15%≤ 首 次 評 等 潛 在 上 漲 空 間<35%  
-  區間操作 (Trading Buy)  5%≤ 首 次 評 等 潛 在 上 漲 空 間<15%
-
-中立 (Neutral)  
-無 法 由 基 本 面 給 予 投 資 評 等 
-預 期 近 期 股 價 將 處 於 盤 整 
-建 議 降 低 持 股
-
-【 投 資 評 等 調 整 機 制 】 
-  投 資 評 等 係「 首 次 」給 予 特 定 個 股 投 資 評 等 時，其 前 一 日 收 盤 價 相 較3 個月
-目 標 價 之 潛 在 上 漲 空 間 計 算 而 得 。 個 股 投 資 評 等 分 為四 個 等 級 ， 定 義 如 上 。
-爾 後 的 投 資 評 等係 依 循 「 首 次 評 等 」 ， 直 到 停 止 推 薦 。  
-「 強 力 買 進 」、「 買 進 」及 「 區 間 操 作 」均有 upside 目 標 價 。差 別 僅 在 於 ，
-首 次 評 等 時 潛 在 報 酬 率 不 同 。 「 中 立 」 則 無 目 標 價 。 
-一 旦 我 們 給 予 特 定 個 股「 強 力 買 進 」、「 買 進 」或「 區 間 操 作 」之 投 資 評 等，
-就 是 責 任 的 開 始，爾 後 將 透 過 各 式 研 究 報 告 作 定 期 性、持 續 性 追 蹤 基 本 面 及
-股 價 變 化 ， 直 到 停 止 推 薦 。 
-停 止 推 薦 情 境 ： 
-1.  達 目 標 價 。 
-2.  雖 未 達 原 訂 目 標 價 ， 但 檢 視 基 本 面 、 訊 息 面 、 籌 碼 面 等 多 方 訊 息 ， 研
-判 股 價 上 漲 空 間 已 然 有 限 ， 將 適 時 出 具 降 評 報 告 。 
-3.  推 薦 後 股 價 不 漲 反 跌 。
-
-【免責聲明】  
-  本 研 究 報 告 僅 提 供 予 特 定 人 之 客 戶 作 為 參 考 資 料「 非 經 同 意 不 得 轉 載 」 。我
-們 並 不 確 保 此 資 訊 的 完 整 性 與 正 確 性，投 資 人 應 了 解，報 告 中 有 關 未 來 預 測
-之 陳 述 可 能 不 會 實 現，因 而 不 應 被 依 賴。而 且 此 報 告 並 非 根 據 特 定 投 資 目 的
-或 依 預 定 對 象 之 財 務 狀 況 所 撰 寫 出 來 的，因 此，此 研 究 報 告 的 目 的，既 非 對
-投 資 人 於 買 賣 證 券、選 擇 權、期 貨 或 其 他 證 券 相 關 之 衍 生 性 商 品 提 供 詢 價 服
-務，亦 非 作 為 進 行 交 易 的 要 約。投 資 人 應 注 意 到 相 關 證 券 之 價 值 及 收 益，可
-能會有無預警地上升或下降，產生投資回報金額可能比原始投資來得少的
-情形。
-
----
-## Document 061: 2395研華 元大
+## Document 063: 2395研華 元大
 
 Source PDF: all report pdf/2395研華 元大.pdf
 Report source: 未公開來源
@@ -1603,7 +1493,7 @@ ESG 總分 16.0
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 064: 260929_citi_MTK
+## Document 066: 260929_citi_MTK
 
 Source PDF: all report pdf/260929_citi_MTK.pdf
 Report source: 未公開來源
@@ -2166,7 +2056,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 065: 260929_gs_TW-ODM-brands
+## Document 067: 260929_gs_TW-ODM-brands
 
 Source PDF: all report pdf/260929_gs_TW-ODM-brands.pdf
 Report source: 未公開來源
@@ -3581,7 +3471,7 @@ Goldman Sachs Taiwan ODM/BrandsFor the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 068: 260930_citi_nypcb
+## Document 070: 260930_citi_nypcb
 
 Source PDF: all report pdf/260930_citi_nypcb.pdf
 Report source: 未公開來源
@@ -4432,7 +4322,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 069: 260930_daiwa_delta
+## Document 071: 260930_daiwa_delta
 
 Source PDF: all report pdf/260930_daiwa_delta.pdf
 Report source: 未公開來源
@@ -4829,7 +4719,7 @@ Note: Management score represents a company's ability to manage/benefit from cer
 Delta Electronics (2308 TT): 30 September 2026
 
 ---
-## Document 074: 261001_ml_nanyaPCB
+## Document 076: 261001_ml_nanyaPCB
 
 Source PDF: all report pdf/261001_ml_nanyaPCB.pdf
 Report source: 未公開來源
@@ -5374,103 +5264,7 @@ Neither BofA Securities nor any officer or employee of BofA Securities accepts a
 information.
 
 ---
-## Document 076: 261002_daiwa_nypcb
-
-Source PDF: all report pdf/261002_daiwa_nypcb.pdf
-Report source: 未公開來源
-Date: 2026-10-02
-Pages: 4
-Extraction status: ok
-
-### Page 1
-
-Summary: NYPCB released its August results (for pre-tax profit and net profit) after 
-market hours on 2 October mainly due to recent volatile share price movements. Net profit 
-in August 2026 came in at TWD1,092m (EPS: TWD1.69), up 665% YoY, with pre-tax profit 
-at TWD1,486m (pre-tax margin at 27.8%). The August pre-tax margin of 27.8% is close to 
-our current forecast (28.5%/32.9% in 3Q26E/4Q26E). As we expect limited impact from 
-non-ops and on opex in August, we infer the gross margin in August should have reached 
-to c.30-31% (vs. our forecast c.30.3/34.4% in 3Q26E/4Q26E). This echoes our previous 
-notes (Spec upgrade to drive additional ABF substrate demand); we expect NYPCB’s 
-gross margin will recover to c.30% after Kunshan’s yield rate improvement in August. As 
-such, we believe the August results to be largely on track with market expectations. 
-However, we believe the share price upside will come from BT substrate, where we should 
-see better progress in its implementing price hikes now (vs. limited visibility earlier in 
-September). We expect NYPCB to raise ASP of BT substrates by single digits QoQ in 
-4Q26 and +20% QoQ in 1Q27. This is aligned with our previous comment (Clarification on 
-“no intention to hike price from 4Q26”) that we expect BT substrate prices will accelerate 
-again in 2027 despite a lower-than-expected price hike in 4Q26E. We view NYPCB’s 
-August results announcement as a near-term price catalyst. We have a Buy rating (1) on 
-NYPCB with a 12-month TP of TWD2,460. Downside risk: weaker-than-expected demand 
-for switches/PCs/ smartphones.
-
-NYPCB: preliminary results 
-(TWDm)  April  May  June 2Q26 July August 3Q26E 4Q26E 
-Revenue   4,451 4,440 4,684 13,575 N/A 5,353 16,326 18,412 
-Pre-tax Profit  746 977 1,253 2,976 N/A 1,486 4,658 6,049 
-Net Income   597 781 883 2,261 N/A 1,092 3,633 4,960 
-EPS  0.92 1.21 1.37 3.50 N/A 1.69 5.62 7.68
-
-Margins          
-Pre-tax margin  16.8% 22.0% 26.8% 21.9% N/A 27.8% 28.5% 32.9% 
-Net margin  13.4% 17.6% 18.9% 16.7% N/A 20.4% 22.3% 26.9% 
-Source: NYPCB; Daiwa compiled
-
-In the interests of timeliness, this document has not been edited.
-
-Country
-
-2 October 2026
-
-MEMO 
- August results released: improving profitability continuously
-
-Nan Ya Printed Circuit Board Corp (8046 TT)
-Share price (2 Oct): TWD1,460.00 12-mth rating: Buy (1) Information Technology: Taiwan
-Sheng Cheng
-(886) 2 8758 6253
-sheng.cheng@daiwacm-cathay.com.tw
-Thomas Kim
-(886) 2 8758 6249
-thomas.kim@daiwacm-cathay.com.tw
-
-### Page 2
-
-Nan Ya Printed Circuit Board Corp (8046 TT) 
-2 October 2026 
-2
-
-### Page 3
-
-Nan Ya Printed Circuit Board Corp (8046 TT) 
-2 October 2026 
-3
-
-### Page 4
-
-Nan Ya Printed Circuit Board Corp (8046 TT) 
-2 October 2026 
-4
-
-• For derivative and margin transactions etc., our company may require collateral or margin requirements in accordance with an agreement made beforehand with you. Ordinarily in such cases, 
-the amount of the transaction will be in excess of the required collateral or margin requirements**.  
-• There is a risk that you will incur losses on your transactions due to changes in the market price of financial instruments based on fluctuations in interest rates, exchange rates, stock prices, 
-real estate prices, commodity prices, and others. In addition, depending on the content of the transaction, the loss could exceed the amount of the collateral or margin requirements.  
-• There may be a difference between bid price etc. and ask price etc. of OTC derivatives handled by our company.  
-• Before engaging in any trading, please thoroughly confirm accounting and tax treatments regarding your trading in financial instruments with such experts as certified public accountants.  
-*  The amount of the trading commission cannot be stated here in advance because it will be determined between our company and you based on current market conditions and the content of 
-each transaction etc. 
-**  The ratio of margin requirements etc. to the amount of the transaction cannot be stated here in advance because it will be determined between our company and you based on current market 
-conditions and the content of each transaction etc.  
-When making an actual transaction, please be sure to carefully read the materials presented to you prior to the execution of agreement, and to take responsibility for your own decisions 
-regarding the signing of the agreement with our company. 
- Corporate Name:  Daiwa Securities Co. Ltd.  
- Registered:  Financial Instruments Business Operator, Chief of Kanto Local Finance Bureau (Kin-sho) No.108  
- Memberships:  Japan Securities Dealers Association, The Financial Futures Association of Japan, Investment Management Association of Japan,  
-  Type II Financial Instruments Firms Association, Japan Security Token Offering Association
-
----
-## Document 078: 261005_daiwa_TW-CCL
+## Document 080: 261005_daiwa_TW-CCL
 
 Source PDF: all report pdf/261005_daiwa_TW-CCL.pdf
 Report source: 未公開來源
@@ -5633,7 +5427,7 @@ regarding the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 083: 261005_ml_TSMC
+## Document 085: 261005_ml_TSMC
 
 Source PDF: all report pdf/261005_ml_TSMC.pdf
 Report source: 未公開來源
@@ -6108,7 +5902,7 @@ Neither BofA Securities nor any officer or employee of BofA Securities accepts a
 information.
 
 ---
-## Document 088: 261006_citi_chroma
+## Document 090: 261006_citi_chroma
 
 Source PDF: all report pdf/261006_citi_chroma.pdf
 Report source: 未公開來源
@@ -6601,109 +6395,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 091: 261006_daiwa_winway
-
-Source PDF: all report pdf/261006_daiwa_winway.pdf
-Report source: 未公開來源
-Date: 2026-10-06
-Pages: 4
-Extraction status: ok
-
-### Page 1
-
-Summary: Winway reported September revenue of TWD1.25bn (-26.7% MoM; +87.7% 
-YoY), brining 3Q26 revenue to a record high of TWD4.56bn (+29.3% QoQ; +152.6% YoY). 
-The 3Q26 top-line result beat market consensus by 6.7% but missed Daiwa’s estimate by 
-9.1%. Following August’s exceptionally strong top line (TWD1.71bn), we had factored in a 
-higher shipment run-rate for September. However, the miss stems primarily from the 
-lumpiness of probe-card deliveries (high concentration to a single customer) and customer 
-qualification timelines, rather than order cancellations or share loss.
-
-We forecast 4Q26 revenue to track flattish to slightly down QoQ, reflecting lower probe-
-card shipment volumes compared to 3Q26, alongside typical year-end pull-in deceleration 
-from customers. On profitability, we maintain our view that 2Q26 marked the trough for 
-gross margin this year. As the revenue contribution from lower-margin MEMS probe cards 
-declines, a more favourable product mix should drive a steady QoQ gross margin recovery, 
-which may drive gross margin to reach 40% earlier than market expectations.
-
-Although we remain positive on Winway’s structural growth profile, near-term catalysts 
-appear muted. This reflects the revenue lumpiness in probe cards, while additional socket 
-capacity will not come online until March 2027—pushing the corresponding revenue 
-recognition into 2Q27. We will revisit our financial model upon the company’s 3Q26 results 
-release. We currently have a Buy (1) rating on Winway with a 12-month TP of TWD10,000.
-
-Winway monthly revenue trend
-
-Source: Company
-
-In the interests of timeliness, this document has not been edited.
-
-(100%)
-0%
-100%
-200%
-300%
-400%
-0
-500
-1,000
-1,500
-2,000
-Revenue (TWDm) YoY (RHS)
-
-Country
-
-6 October 2026
-
-MEMO 
- Limited near-term catalysts before 2027 capacity unlock
-
-WinWay Technology (6515 TT)
-Share price (6 Oct): TWD6,130.00 12-mth rating: Buy (1) Information Technology: Taiwan
-Leon Chen
-(886) 2 8758 6247
-leon.chen@daiwacm-cathay.com.tw
-Stacy Lin
-(886) 2 8758 6252
-stacy.lin@daiwacm-cathay.com.tw
-
-### Page 2
-
-WinWay Technology (6515 TT) 
-6 October 2026 
-2
-
-### Page 3
-
-WinWay Technology (6515 TT) 
-6 October 2026 
-3
-
-### Page 4
-
-WinWay Technology (6515 TT) 
-6 October 2026 
-4
-
-• For derivative and margin transactions etc., our company may require collateral or margin requirements in accordance with an agreement made beforehand with you. Ordinarily in such cases, 
-the amount of the transaction will be in excess of the required collateral or margin requirements**.  
-• There is a risk that you will incur losses on your transactions due to changes in the market price of financial instruments based on fluctuations in interest rates, exchange rates, stock prices, 
-real estate prices, commodity prices, and others. In addition, depending on the content of the transaction, the loss could exceed the amount of the collateral or margin requirements.  
-• There may be a difference between bid price etc. and ask price etc. of OTC derivatives handled by our company.  
-• Before engaging in any trading, please thoroughly confirm accounting and tax treatments regarding your trading in financial instruments with such experts as certified public accountants.  
-*  The amount of the trading commission cannot be stated here in advance because it will be determined between our company and you based on current market conditions and the content of 
-each transaction etc. 
-**  The ratio of margin requirements etc. to the amount of the transaction cannot be stated here in advance because it will be determined between our company and you based on current market 
-conditions and the content of each transaction etc.  
-When making an actual transaction, please be sure to carefully read the materials presented to you prior to the execution of agreement, and to take responsibility for your own decisions 
-regarding the signing of the agreement with our company. 
- Corporate Name:  Daiwa Securities Co. Ltd.  
- Registered:  Financial Instruments Business Operator, Chief of Kanto Local Finance Bureau (Kin-sho) No.108  
- Memberships:  Japan Securities Dealers Association, The Financial Futures Association of Japan, Investment Management Association of Japan,  
-  Type II Financial Instruments Firms Association, Japan Security Token Offering Association
-
----
-## Document 096: 261006_ms_hiwin
+## Document 098: 261006_ms_hiwin
 
 Source PDF: all report pdf/261006_ms_hiwin.pdf
 Report source: 未公開來源
@@ -7227,7 +6919,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 097: 261006_ms_integrated-power-solutions
+## Document 099: 261006_ms_integrated-power-solutions
 
 Source PDF: all report pdf/261006_ms_integrated-power-solutions.pdf
 Report source: 未公開來源
@@ -13468,7 +13160,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 102: 3105穩懋 群益
+## Document 104: 3105穩懋 群益
 
 Source PDF: all report pdf/3105穩懋 群益.pdf
 Report source: 未公開來源
@@ -13714,7 +13406,7 @@ YoY(%)
 情形。
 
 ---
-## Document 107: 4916事欣科 康和
+## Document 108: 4916事欣科 康和
 
 Source PDF: all report pdf/4916事欣科 康和.pdf
 Report source: 未公開來源
@@ -14021,254 +13713,350 @@ EPS以股本124百萬股計算
 投 資 結 果 自 行 負 責 。
 
 ---
-## Document 245: GIS-KY(6456,Note)-CTBC260929
+## Document 228: ECONOMIC WEEK AHEAD_ October 5-9
 
-Source PDF: all report pdf/GIS-KY(6456,Note)-CTBC260929.pdf
+Source PDF: all report pdf/ECONOMIC WEEK AHEAD_ October 5-9.pdf
 Report source: 未公開來源
-Date: 2026-09-29
-Pages: 11
+Date: 2026-10-04
+Pages: 8
 Extraction status: ok
 
 ### Page 1
 
-【中信投顧投資分析報告】 
-個股摘要
+From:    Yardeni QuickTakes <yardeni-research@ghost.io>
+Subject: ECONOMIC WEEK AHEAD: October 5-9
+Date:    13 hours ago
+ECONOMIC WEEK AHEAD: October 5-9
 
-202 6 /09 /29
-
-1
-
-前 日 收 盤 價                              81 .3 0 元
-
-許哲豪 
-Jeff.syu@ctbcsis.com
-
-GIS-KY(6456 TT)       法說 /座談摘要  
-光通訊及 AR/VR 相關新事業有 望 2027 、2028 年帶來顯 著貢獻  
-⚫ 營收將自 2Q26 起逐季轉佳  
-⚫ 雷射封測試 量產進行中，預期年底 出貨， 2027 將有顯著 貢獻  
-結論： GIS-KY 1H26 因終端零組件缺貨導致營收顯著下滑並陷入虧損，
-但整體財務結構與淨現金部位依然穩健。展望 2H26，隨著記憶體短缺問
-題逐步舒緩，營運預期將逐季回溫。公司目前正積極推動業務轉型，從
-傳統觸控模組轉向半導體光學領域，並已擴大資本支出佈局光通訊雷射
-光源封測與 AR/VR 等新產品 ， 預計這些新事業將於2027 至 2028 年成為
-公司顯著的營收成長動能 。
-
-2Q26 財務數據  
-⚫ 營收 105 億元(QoQ-34.7% ，YoY-44.8%)  
-⚫ 毛利率 3.3%(QoQ -1.7ppts ，YoY-3.6ppts)  
-⚫ 營業利益率 -7.6%(QoQ -5.6ppts ，YoY-8.7ppts)  
-⚫ 稅後淨利 -10.53 億元(QoQ-415% ，YoY-2592%)  
-⚫ 單季 EPS -3.15 元 
-產品營收占比  
-⚫ 2Q26：平板佔 42%、筆電佔 33%、指紋辨識模組佔 14%、其他佔
-11%。 
-⚫ 1H26：平板佔 44%、筆電佔 32%、指紋辨識模組佔 15%、其他佔
-9%。 
-法說會內容摘要  
-1. 2Q26 營收下滑主因為公司目前主要出貨產品以平板與筆電為主，
-終端客戶受到記憶體等零組件缺貨影響而無法順利拉貨，導致營收
-顯著下降。而毛利下降是因為營收縮小，導致折舊等製造與固定費
-用無法獲得足夠的營收進行攤銷。  
-2. 因 2Q26 進行大陸子公司盈餘匯回母公司的資金安排，須繳納相關
-所得稅費用，導致最終稅後淨損達 10.53 億元，淨利率為負 10%。 
-3. 公司轉型大方向維持不變，致力於從傳統的觸控顯示模組使用者介
-面 (User Interface) ，轉向半導體光學相關元件發展。  
-4. 公司將持續佈局 Micro LED、Waveguide、AR HUD 以及 Optical Lens
-等產品線，期盼未來能有具體成果展現。
+YARDENI QUICKTAKES
+ECONOMIC WEEK AHEAD:
+October 5-9
+By Ed Yardeni & Toby Hearst • 4 Oct 2026
+View in browser
 
 ### Page 2
 
-【中信投顧投資分析報告】 
-個股摘要
-
-202 6 /09 /29
-
-2
-
-Q&A 內容摘要  
-1.Q：3Q26 及 4Q26 的營運展望為何？  
-A：7、8 月的單月營收約在 40 億元上下，較 2Q26 單月約 30 億元表現好，主要是記憶體缺貨
-情況有稍微緩解。整體來看，3Q26 營收狀況會比 2Q26 好；而記憶體短缺的問題預計在 4Q26
-會陸續得到舒緩，因此預估4Q26 營收會相對於 3Q26 更好，具體成長幅度待下次法說會詳細說
-明。
-
-2.Q：Sharp 龜山面板廠關廠對公司的影響為何？  
-A：夏普是公司平板與筆電 TFT 面板的重要來源，其龜山廠在 8 月底已關廠，確實對 TFT 面板
-來源有顯著影響。但終端市場正陸續轉向 OLED 面板，公司前幾年已預判此趨勢並推動轉型，
-關廠只是讓此事提前發生 。 面板來源主要影響液晶顯示模組 (LCM) 後段業務 ， 但在Touch Panel
-貼合業務上，即使轉用 OLED 仍可應用，受影響不大，同時公司也不排除尋找其他面板來源。
-
-3.Q：最近 9 月初公告的資本支出用途為何？GIS 目前在光通訊領域的投資及產品是什麼？  
-A：9 月初董事會核准台灣及越南子公司合計約 33 億元的資本支出，主要用於光通訊雷射光源
-的封裝與測試設備，以因應終端龐大的需求。相關設備移入與實際進入量產的時間點，預估會
-落在 1H27 之後。
-
-4.Q：2026 年全年的資本支出大概為多少？項目為何？  
-A：年初原本預估全年資本支出為 50 至 60 億元，但因客戶需求擴大，目前公告核准的資本支
-出總額已達 80 多億元。項目包含光通訊雷射光源封測（約40 至 50 億元），以及新產品量產、
-光學、AR 相關投資（約 10 至 20 億元）。這 80 億元不會集中在今年一次性現金流出，而是會
-分散在今年與明年陸續發生。
-
-5.Q：下半年是否同上半年一樣會有盈餘匯回母公司產生的稅務費用發生？  
-A：公司 6 月初已公告大陸子公司有約 10 億人民幣盈餘要匯回。此金額有一大部分已於上半年
-匯回，但另一部分會在下半年匯回，因此下半年的確還是會產生相關所得稅費用，不過金額不
-會像上半年那麼龐大與顯著。
-
-6.Q：越南廠目前的投資進度大概如何？ 
- A：越南廠土建即將完工，接下來將進行內部機電設備施工，預計今年底全部完工，年底到明
-年初會有部分產品量產。越南廠主要生產大客戶的觸控模組，另有一部分光通訊雷射光源封裝
-測試也會在該廠生產；因應物流運籌與策略考量，目前也正與其他客戶協調廠地規劃與產能。
+Photo by Monica Sauro / Unsplash
 
 ### Page 3
 
-【中信投顧投資分析報告】 
-個股摘要
+Most of last week's economic indicator reports were strong: Initial jobless
+claims fell to near a 57-year low, ADP private payrolls rose 90,000 in
+September, and the ISM M-PMI was in expansion for a ninth straight
+month. Friday's employment report was the exception. Nonfarm payrolls
+rose just 29,000 in September, well below expectations, while July and
+August were revised down by a combined 60,000. The unemployment
+rate edged up to 4.2%.
+Odds of a 25bps hike in the federal funds rate (FFR) at the October 27-28
 
-202 6 /09 /29
+FOMC meeting fell to 22%, with odds of one at the December meeting at
+67%. Odds of two hikes by December is at just 3%. In other words, the
+market still expects a rate hike this year, though it has all but ruled out
+two. However, we still think the Fed ought to hike at least enough to
+reverse last year's three 25bps "insurance" cuts. September's hike
+reversed one, which leaves two more to go.
+This week's data calendar is light, with Wednesday's FOMC minutes the
 
-3 
-7.Q：公司發展的新產品（包含光波導、光通訊等）目前的發展狀況為何？ 
- A：光通訊雷射光源封測的第一階段機台裝機與試量產正在進行，順利的話預計今年底前開始
-出貨，明年起會有較顯著營收貢獻。光波導與AR/VR 相關產品正與客戶密切開發中，考量客戶
-計畫變化與產品組合要求，預計要到 2027 年甚至 2028 年才會有較顯著的貢獻。
+main event. Here's more:
+(1) FOMC minutes. September's FOMC meeting minutes (Wed) should
+reveal how much support the Committee has for tightening beyond what
+the dot plot in the September meeting’s Summary of Economic
+Projections implies.
+The median projection of meeting participants showed the FFR at 4.1% at
+the end of this year and next, i.e., one more 25bps hike in 2026 followed
+by a hold lasting throughout 2027 (chart). Fed Chair Kevin Warsh said the
 
-8.Q：關於指紋辨識產品的展望為何？ 
- A：主要提供應用於手機與平板的超聲波與電容式指紋辨識模組。中短期仍受終端零組件（記
-憶體）缺貨影響出貨動能，後續若要有顯著營收成長，須期待終端缺貨狀況獲得進一步緩解。
-
-9.Q：請問對明年展望怎麼看？新事業明年的營收貢獻預估會到哪裡？  
-A：期望光通訊及 AR/VR 相關新事業在 2027、2028 年能帶來顯著貢獻。但明年具體貢獻程度
-因終端市場與客戶動態變化大，可能要等到下一季季底才會比較明朗；但公司整體轉型的發展
-方向不會有太大改變。
-
-10.Q：今年在雷射光源預計的資本支出大約是 40 到 50 億元，9 月份公告的是 33 億元，是否代
-表先前已有 10 到 20 億元已經投入並且即將投產？  
-A：是的，去年底或今年初已陸續投入約 10 多億元於雷射光源封裝，設備已進駐並進行小量測
-試與量產爬坡階段，預計 4Q26 就能產生相對的貢獻。9 月公告的 33 億元是後續再增加的擴產
-資本支出。
-
-11.Q：雷射光源封裝產能擴充後，預估 2027 年的月產能大概可以達到多少 KK？  
-A：因終端市場需求非常強勁，目前公司重點在調校製程良率與生產效率，故不方便提供明確
-的月產能數字，待年底將良率與效率調整到位後，再向外界做較完整的報告。
-
-12.Q：雷射光源目前總共有幾個客戶或潛在客戶？在光通訊領域除了雷射光源外是否還有其他
-機會？  
-A：目前接洽對象以國際大廠為主，有些訂單已確定，有些在洽談中，不便透露具體數量或客
-戶名單。期望藉由此次業務在光通訊領域站穩腳步，內部有研發多種新產品，待取得客戶信任
-與認證後，會往產業鏈上下游其他相關業務發展。
-
-13.Q：如何看待雷射光源封裝的毛利率？ 
- A：接單前內部都會評估過毛利率，達標才會接單並通過投資案。理論值雖然可以掌握，但實
-際毛利率需待進入一定規模量產，產生實際營收與成本費用後才會明確；公司策略上也會優先
-承接毛利率較高的高附加價值訂單。
+September hike "removed a dose of accommodation," implying that the
+FFR remains below the neutral rate. The median longer-run neutral rate
+estimate in September’s dot plot rose to 3.25%, a post-pandemic high.
 
 ### Page 4
 
-【中信投顧投資分析報告】 
-個股摘要
-
-202 6 /09 /29
-
-4 
-14.Q：雷射光源封裝的 Know-how 與既有業務重疊性高嗎？主要進入門檻為設備還是人員經
-驗？  
-A：公司過去在電容式指紋辨識等領域已累積了長期的IC 測試與封裝經驗，並獲國際大廠認證
-出貨。因此無論是人員、設備、經驗或技術 Know-how 皆具備一定實力，跨入該領域並非單一
-因素門檻，而是多種經驗綜合累積的結果。
-
-15.Q：雷射封裝測試上游原料是自行取得還是客戶指定？下游客戶是光模組廠還是CSP 廠？有
-無針對特定傳輸規模（如 400G 或 800G）著墨？  
-A：上游原料視不同客戶情況而定；下游客戶目前尚未直接接觸到CSP 廠，客戶商業樣態各有
-不同。未來目標會以 800G 以上、較高功率與高階的晶片封裝服務來進行佈局。
-
-16.Q：光通訊後續還有機會增加資本投入嗎？以目前 40 到 50 億的資本支出來說，兩三年回本
-的機率高嗎？  
-A： 期望藉由此次投資在光通訊產業鏈建立客戶信任 ，若未來評估有可行的新領域會持續跨足，
-屆時就可能有增加資本投入的需求。公司當然希望能高機率回本，因此重點是提升生產良率與
-效率，並穩固客戶關係，達成後回本的機率就會相對較高。
-
-17.Q：雷射技術是以 EML 還是 CW 為主？  
-A：這取決於客戶的需求，目前不管 EML 或 CW，公司的技術與能力都可以做到。
+The FFR futures market’s prediction is more hawkish than the Fed
+officials’ median. FFR futures imply 3.3 rate hikes over the next 12 months
+and 1.7 over the next six months (chart).
+The 2-year Treasury yield is at 4.78%, well above the 4.00% top of the
+FFR target range, with 12-month futures at 4.70% (chart).
 
 ### Page 5
 
-【中信投顧投資分析報告】 
-個股摘要
+(2) PMIs. S&P Global's flash NM-PMI jumped to 58.7 in September from
+56.5 in August, suggesting that ISM's NM-PMI (Mon), which was 55.4 in
+August, remained strong last month (chart). Services prices-paid
+components deserve close attention, as the supercore PCED inflation rate
+has been rising since October 2025.
+(3) ADP employment & jobless claims. ADP's weekly employment
+reading (Tue), covering the weeks ended September 12 and 19, follows a
+rise in the four-week average to 20,000 for the week ended September 5,
 
-202 6 /09 /29
-
-5 
-ESG 資訊 - 環境保護 (Environmental)
+up from a late-July bottom of 8,250 (chart). That pace closely matched
+September's ADP private payrolls gain of 90,000.
 
 ### Page 6
 
-【中信投顧投資分析報告】 
-個股摘要
+Initial jobless claims (Thu) follow last week's 197,000, the lowest since
+July 18. The four-week average fell to 200,000. Continuing claims
+dropped to 1,701,000 for the week ended September 18, the lowest since
+March 2023, with the four-week average at 1,739,000. The low level of
+initial claims confirmed September's low unemployment rate of 4.2%
+(chart).
+(4) Global. Eurozone retail sales ex autos fell 0.6% m/m in July, following
+June's record high (chart). August's data (Tue) should show whether that
 
-202 6 /09 /29
-
-6
+was just a blip.
 
 ### Page 7
 
-【中信投顧投資分析報告】 
-個股摘要
+Bank of England Governor Andrew Bailey may signal whether rising
+energy prices warrant a hike when he speaks at the Central Bank of
+Turkey's conference (Thu), after three Monetary Policy Committee
+members voted for one in September. The markets put the odds of a
+November hike at 88%, with roughly 66bps of additional tightening priced
+in for 2027.
+Canada's employment report for September (Fri) follows August's 41,700
+job loss, with the unemployment rate holding at 6.4% (chart).
 
-202 6 /09 /29
-
-7 
-ESG 資訊 - 社會責任 (Social)
+💡
+Join the discussion with Ed below! To leave comments or questions,
+log in to the Yardeni QuickTakes website and post them at the end
 
 ### Page 8
 
-【中信投顧投資分析報告】 
-個股摘要
-
-202 6 /09 /29
-
-8
-
-### Page 9
-
-【中信投顧投資分析報告】 
-個股摘要
-
-202 6 /09 /29
-
-9 
-ESG 資訊 - 公司治理 (G overnance)
-
-### Page 10
-
-【中信投顧投資分析報告】 
-個股摘要
-
-202 6 /09 /29
-
-10
-
-資料來源 : 證交所
-
-### Page 11
-
-【中信投顧投資分析報告】 
-個股摘要
-
-202 6 /09 /29
-
-11
-
-投資評等說明  個股評等 Rating 定義 
-買進 Buy (B) 相較於市場指數之回報潛力極具吸引力 
-增加持股 Overweight (OW) 相較於市場指數之回報潛力略有吸引力 
-中立 Neutral (N) 相較於市場指數之回報潛力相似 
-降低持股 Underweight (UW) 相較於市場指數之回報潛力稍低 
-賣出 Sell (S) 相較於市場指數之回報潛力較低 
-未評等 Not Rated (NR)
+clause.
+Yardeni QuickTakes © 2026 – Unsubscribe
 
 ---
-## Document 252: In Praise Of Profits
+## Document 263: GFHK - CPO _ NPO
+
+Source PDF: all report pdf/GFHK - CPO _ NPO.pdf
+Report source: 未公開來源
+Date: 2026-09-30
+Pages: 4
+Extraction status: ok
+
+### Page 1
+
+Equity Research 
+Sector Report | Networking｜Sep 29, 2026 
+CPO Accelerates, Yet Stock Implications Vary
+
+Overseas  
+Technology
+
+What’s New?  
+Following our earlier notes of CPO/NPO Accelerates on Aug  17, we believe that Nvidia’s CPO scale-out switch progress is faster than 
+expected. On the other hand, for NPO, due to slower than expected AWS T4 rollout, we revise our total OE shipments forecast to 6.5m/42m 
+in 2027E/2028E respectively. We provide our view on recent development and key stocks below. 
+Comments  
+Nvidia’s Scale-out CPO:  Following Nvidia’s Aug ‑14 announcement, Spectrum ‑X CPO switches have entered mass production. To 
+support the ramp, TSMC has expanded CPO testing/inspection capacity, notably adding Insertion 2/3 equipment. Key components such 
+as FAU are also progressing well, helped by improving multi ‑plug/unplug yield rates. At the system level, we believe major component 
+suppliers are already on site, enabling cleanroom ‑level system integration from early Sep t. We now forecast Nvidia’s CPO switch 
+shipments at 15k/16k/30k/100k for 4Q26/1Q27/2Q27/2027. 
+Nvidia & AWS Scale-up NPO: Per our AI Platform Value Shift report on Aug 6, NVL576‑based scale‑up CPO/NPO systems are expected 
+to begin adoption in 2H27E, with two switch boards per NVSwitch tray, each board carrying four ASICs, paired with four 3.2T OEs/ASIC. 
+We reiterate our view that CPO (QM5 + 4 OEs) and NPO (QM5 + 4 OEs on sockets) are progressing in parallel, and our view is similar 
+with Street expectations for full NPO adoption at NVL576 launch given NPO maturity. The next to watch is Feynman, which our supply  
+chain research indicate is also being developed in both CPO and NPO variants; packaging ‑side visibility suggests CPO (QM6 with six 
+6.4T OEs) remains on track. For AWS, given limited near‑term visibility on T4 tape‑out, we now shift our Trainium 4 launch to 1Q28. We 
+forecast AWS OE consumption at 0m/12m units for 2H27E/2028E. Incorporating ASIC and AMD volumes, we now expect global scale‑up 
+OE demand to reach 6.5m/42m in 2027E/2028E.  
+Recommendations   
+• Likes: 1) Lumentum (LITE Buy) on CPO acceleration which supports valuation, with CPO/NPO revenue contribution of 12%/26% in 
+CY27/CY28; 2) Browave (3163 TT) & Bizlink (3665 TT Buy)  on CPO’s shuffle box of ~8x content vs. NPO ’s, with production to 
+accelerate in 1Q27E. 3) Semtech (SMTC Buy) on TIA/Driver for NPO, despite our downward revision, due to tight supply.  
+• Dislikes: Largan (3008 TT) as our analysis indicates EPS contribution of NT$20/NT$97 in CY27/CY28, assuming shipments begin 
+in 2H27, suggesting implied 20x CY28 valuation which is not particularly cheap, with further risk on market share given the incumbent 
+supplier’s ongoing yield improvements and a growing number of new entrants.  
+Risks   
+1) AI demand slowdown, 2) supply constraint, 3) competition.
+
+### Page 2
+
+Sector Report | Networking
+
+Figure 1: NPO OE Shipments Forecast (mn units) 
+  2027E 2028E 
+NPO OE for Scale-up   
+Nvidia's 3.2T NPO 6 19.7 
+AWS's 6.4T NPO 0 12 
+AMD’s 6.4T NPO 0.5 1.7 
+Other CSPs' NPO  9 
+Total Scale-up NPO OE 6.5 42.4
+
+Sources: Company data, GF Securities (Hong Kong) Brokerage.
+
+Figure 2: LITE CPO/NPO revenue contribution 
+  2027E 2028E 
+CPO Laser Revenue 427 750 
+NPO Laser Revenue 501 2,550 
+Total CPO/NPO Rev (USD m) 928 3,300 
+Revenue Contribution   12%  26%
+
+Sources: Company data, GF Securities (Hong Kong) Brokerage.
+
+Figure 3: SMTC NPO EPS contribution 
+  2027E 2028E 
+NPO Market Share  30%  30% 
+ASP ($) 80 80 
+Net Profit (NM 30%) (USD m) 47 305 
+EPS Contribution ($) 0.47 3.03
+
+Sources: Company data, GF Securities (Hong Kong) Brokerage.
+
+Figure 4: Largan CPO/NPO EPS contribution  
+  2027E 2028E 
+CPO+NPO OE (m units) 10 50 
+Market share  20%  20% 
+ASP (FA+PMLA)  100 100 
+Net Profit (NM 40%) (USD m) 83 403 
+EPS Contribution (NT$) 20 97
+
+Sources: Company data, GF Securities (Hong Kong) Brokerage.
+
+Risks 
+1) AI demand slowdown, 2) supply constraint, 3) competition.
+
+### Page 3
+
+Sector Report | Networking 
+3
+
+Rating definitions Benchmark: Hang Seng Index (Hong Kong)
+
+Company ratings Buy Stock expected to outperform benchmark by more than 10%  
+ Hold  Expected stock relative performance ranges between -10% and 10%  
+ Underperform Stock expected to underperform benchmark by more than 10%
+
+Sector ratings
+
+Positive Sector expected to outperform benchmark by more than 10%  
+ Neutral Expected sector relative performance ranges between -10% and 10% 
+ Cautious Sector expected to underperform benchmark by more than 10%
+
+Hong Kong Company GF Securities (Hong Kong) Brokerage Limited 
+ Address 27/F, GF Tower, 81 Lockhart Road, Wan Chai, Hong Kong  
+ Telephone (852) 37191111  
+ Email evanlee@gfgroup.com.hk
+
+### Page 4
+
+Sector Report | Networking 
+4
+
+---
+## Document 266: GIS-KY(6456)-20260929-速報-元富投顧(台新新光金控)
+
+Source PDF: all report pdf/GIS-KY(6456)-20260929-速報-元富投顧(台新新光金控).pdf
+Report source: 未公開來源
+Date: 2026-09-29
+Pages: 2
+Extraction status: ok
+
+### Page 1
+
+本刊載之報告為元富投顧於特定日期之分析，已力求陳述內容之可靠性，純屬研究性質，僅作參考，使用者應明瞭內容之時效性，
+審慎考量投資風險，並就投資結果自行負責。報告著作權屬元富投顧所有，禁止任何形式之抄襲、引用或轉載。 
+元富證券投資顧問股份有限公司 台北市敦化南路二段 97 號 19 樓 (02)2325-3299  (1 15)金管投顧新字第 016 號 
+公司拜訪快報
+
+GIS-KY(6456) 
+建議：維持中立 
+結論：2026 年仍處於營運整理期
+
+一、GIS-KY 觸控面板大廠，目前切入指紋辨識、近眼
+光學業務 
+GIS-KY 鴻海集團旗下觸控面板大廠，自 2011 年成立，
+2012 年開始生產觸控模組 ， 成立之初是以貼合技術為核
+心，結合專業的研發與製造，來提供客戶在人機介面的
+整體解決方案。最大客戶為 Apple，近年除了將業務推
+進至LCM 組裝外 ， 也積極發展指紋辨識 、 近眼光學業務。
+2025 年主要產品營收占比，平板 61%、筆電 19%、指
+紋辨識 15%、其他(車載+工控)5%。
+
+二、2Q26 本業持續虧損，EPS-3.15 元 
+GIS 2Q26 營收 105.02 億元，年減 44.8%，毛利率則從
+前期 5%降至 3.3%，主要是因記憶體缺料使筆電及平板
+無法拉貨導致營收大幅下滑，致使本業續虧。此外，因
+母公司有資金與償還銀行借款需求，海外子公司盈餘匯
+回使稅務費用提列，稅後淨損為 10.5 億元，EPS-3.15
+元。 
+三、未來業務主軸由人機介面轉向半導體光學 
+展望下半年 ，GIS-KY 表示營收將呈現季季增的態勢 。 主
+要業務觸控及顯示業務較為保守，指紋辨識業務穩定，
+車載 、 光學及其他較樂觀 。 投顧預期3Q26 營收年減 17%，
+主要是受記憶體短缺使終端客戶拉貨力道不足的影響，
+估計 3Q26 稅後 EPS -0.1 元。整體而言，預期 2026 年
+平板及 NB 業務佔比降至 70%左右，車載及指紋辨識則
+約為 20%，光學及其他則有機會上升至 10%左右。 
+GIS 表示未來策略重心將從傳統的人機介面，轉向「半
+導體光學」(Semi-optics)，即利用半導體等級製程來製
+作奈米級光學元件。其中，1)Micro-LED：用於 AR 眼鏡
+的顯示，並具備短距光通訊潛力；2)SRG 光波導 
+(Waveguide)：用於 AR，已在台中后里建置產線；3)車
+用 AR-HUD：利用光波導技術縮小體積；4)光學鏡片：
+Metalens、Pancake Lens 等，鏡頭用於高階 VR。光學
+業務於 2026 年雖有專案開始量產，但營收貢獻仍小，
+預計 AR 與 VR 相關應用要到 2027 年底至 2028 年，才
+會開始有較顯著的營收貢獻。另外，光通訊業務主要聚
+焦光源封裝，包括 CW Laser(連續波雷射)等產品，並同
+步評估 Micro LED 於短距離光傳輸的應用可能性，公司
+已接到美系 Coherent 的 CPO 光耦合元件 （800G/1.6T)
+大單，主要應用於 AI 資料中心的高速數據傳輸，預料
+光源封裝業務將在 26 年底有初步出貨，27 年上半年開
+始陸續放量。為加速推動半導體光學轉型策略，GIS 今
+年度資本支出預估約 80~90 億元。該筆資金將主要投
+入光波導與微型發光二極體等新光學產品設備，其中有
+約 40~50 億元主要用於光通訊雷射光源封裝 、 測試相關
+設備。海外產能布局方面，去年 Q3 動工的越南新廠預
+計於今年底完工，並力拚年底前通過客戶驗證進入量產
+階段。 
+四、維持中立理由 
+投顧認為 GIS 目前仍以 NB 及平板觸控業務為主，隨記
+憶體短缺使終端需求仍疲弱 ， 預期2026 年營收年減 15%，
+營運表現未有提升，2027 年才會有明顯躍升的機會，預
+期 2026 年 EPS -3.25 元，2027 年 EPS 3.28 元，維持
+中立投資建議，目標價 80 元。 
+9/24收盤價 BVPS 27年PER 投資建議
+上次 本次 上次 本次 上次 本次
+-0.25 -3.25 N.A 3.28 75 80
+81.3 88.23 24.79 中立
+2026EPS 目標價2027EPS
+
+### Page 2
+
+本刊載之報告為元富投顧於特定日期之分析，已力求陳述內容之可靠性，純屬研究性質，僅作參考，使用者應明瞭內容之時效性，
+審慎考量投資風險，並就投資結果自行負責。報告著作權屬元富投顧所有，禁止任何形式之抄襲、引用或轉載。 
+元富證券投資顧問股份有限公司 台北市敦化南路二段 97 號 19 樓 (02)2325-3299  (1 15)金管投顧新字第 016 號 
+公司拜訪快報
+
+Comprehensive income statement NT$m
+1Q26 2Q26 3Q26E 4Q26F FY25 FY26E FY27F
+IFRS IFRS IFRS IFRS IFRS IFRS IFRS
+Net sales 16,078 10,502 13,357 16,863 66,784 56,800 70,289
+Gross profit 800 351 668 1,180 4,359 2,999 6,021
+Operating profit -321 -803 -477 -40 -438 -1,641 1,116
+Total non-ope inc. 153 221 410 410 585 1,193 1,240
+Pre-tax profit -169 -582 -67 370 147 -448 2,356
+Net profit -204 -1,053 -34 204 -263 -1,087 1,098
+EPS -0.61 -3.14 -0.10 0.61 -0.79 -3.25 3.28
+Y/Y % 1Q26 2Q26 3Q26E 4Q26F FY25 FY26E FY27F
+Net sales 5.9 -44.8 -17.3 2.7 -4.6 -15.0 23.8
+Gross profit -24.4 -73.3 -36.1 25.5 -15.0 -31.2 100.8
+Operating profit 41.8 -489.5 221.7 -85.3 9.2 274.6 -168.0
+Net profit 183.3 -2592.4 -64.9 -248.3 -268.2 313.3 -201.0
+Q/Q % 1Q26 2Q26 3Q26E 4Q26F FY25 FY26E FY27F
+Net sales -2.1 -34.7 27.2 26.3
+Gross profit -14.9 -56.2 90.5 76.8
+Operating profit 19.4 149.9 -40.6 -91.7
+Net profit 48.7 415.3 -96.8 -706.7
+Margins % 1Q26 2Q26 3Q26E 4Q26F FY25 FY26E FY27F
+Gross 5.0 3.3 5.0 7.0 6.5 5.3 8.6
+Operating -2.0 -7.6 -3.6 -0.2 -0.7 -2.9 1.6
+Net -1.3 -10.0 -0.3 1.2 -0.4 -1.9 1.6
+
+---
+## Document 278: In Praise Of Profits
 
 Source PDF: all report pdf/In Praise Of Profits.pdf
 Report source: 未公開來源
@@ -14411,7 +14199,7 @@ clause.
 Yardeni QuickTakes © 2026 – Unsubscribe
 
 ---
-## Document 333: US MARKET CALL_ Stocks Ignoring Bonds, For Now
+## Document 365: US MARKET CALL_ Stocks Ignoring Bonds, For Now
 
 Source PDF: all report pdf/US MARKET CALL_ Stocks Ignoring Bonds, For Now.pdf
 Report source: 未公開來源
@@ -14560,7 +14348,116 @@ clause.
 Yardeni QuickTakes © 2026 – Unsubscribe
 
 ---
-## Document 417: 不叫AI，要叫SI？存儲迎來供應爆發？MongoDB CEO 竟離職投奔 Zuck？ - KP思考筆記(第62期)
+## Document 378: Why SpaceX might become the neocloud king by 2028_
+
+Source PDF: all report pdf/Why SpaceX might become the neocloud king by 2028_.pdf
+Report source: 未公開來源
+Date: 2026-10-02
+Pages: 4
+Extraction status: ok
+
+### Page 1
+
+From:    陸⾏之  Andrew Lu on global semis and techs <andrewhclu@substack.com>
+Subject: Why SpaceX might become the neocloud king by 2028?
+Date:    7 hours ago
+Why SpaceX might become the neocloud king by 2028?
+View in browser
+Why SpaceX might become
+the neocloud king by 2028?
+為何我們預期  SpaceX 在 2027 年底前建置到 8-10GW 算⼒時將超過
+Oracle 成為 Neocloud ⿓頭
+ANDREW LU ON GLOBAL SEMI/TECHS
+OCT 2 ∙ PAID
+READ IN APP
+Executive summary
+因為三個核⼼原因，我們認為  SpaceX 在  2027 年底前建置  8-10GW 算⼒，
+
+加碼外租給  Anthropic ，⾕歌，微軟（ likely the next) ，將可能陸續趕超
+CoreWeave ， Oracle 在 2028 年成為  Neocloud 外溢雲⿓頭及 Nvidia 的最
+⼤ Neocloud 客戶。⽽ Tesla 可能將受惠於 AI 數據算⼒中⼼儲能系統銷售超預
+期。
+What’s new?
+權威科技媒體  The Information 過去數⼩時內獨家披露，⾺斯克旗下的
+SpaceX AI 算⼒部⾨於今年夏季展開重⼤戰略轉向，與微軟（ Microsoft ）進
+⾏了深度排他性探索談判，擬向微軟出租⾼達  3 GW 的超⼤規模算⼒容量，以
+填補微軟⾃建機房併網延宕所產⽣的嚴重算⼒缺⼝。這是繼  SpaceX 之前兩⼤
+頂級  AI 巨頭的確定性⽉租⻑約之後  （ Anthropic 每⽉⽀付⾼達  12.5 億美元
+（年化  150 億美元）， Google 每⽉⽀付約  9.2 億美元（年化約  110 億美
+元）），可能的另⼀年化 120 億美元重⼤客戶。
+
+### Page 2
+
+Positively aﬀect what supply chain vendors and
+why?
+受惠廠商： Nvidia AI GPU 及其產業鏈鴻海，緯創，廣達，台積電， Tesla 能
+源儲能供應鏈（ Megapack 電芯、 BMS ）、 GE Vernova 與  Caterpillar （⼯
+業級燃氣輪機與微電網）、液冷快速插拔接頭與⾼密度伺服器機櫃（ Vertiv 、
+奇鋐）。
+To read the full report and support our work,
+please consider becoming a paid subscriber.
+Subscribed
+核⼼原因分析： SpaceX 之所以能承接微軟、 Anthropic 與  Google 的數百億
+美元急單，除了 Nvidia 的強⼒⽀持的核⼼原因之外，在於其「離網發電 + 極速
+預製儲能」打破了  3-5 年的電網排隊常規。在單⼀  Memphis 園區推升⾄  2-3
+GW 的過程中，現場⾃備發電與 Tesla 的⼤儲能系統迎來確定性天量拉貨。這
+
+有可能讓  SpaceX 在  2H26 超過  CoreWeave ，於 2H27 超過  Oracle
+Cloud 成為  Neocloud 外溢雲⿓頭，並成為  Nvidia 最主要的  Neocloud
+GPU 客戶。並且市場可能低估  Tesla 2027-2030 的儲能系統市場潛⼒（請參
+考之前報告  SpaceX 如何想辦法解決天然氣發電問題：  SpaceX builds
+turbine-blade to remove data center bottle neck on power？）
+
+### Page 3
+
+Source: Bloomberg estimates
+Negatively aﬀect what supply chain vendors and
+why?
+受害廠商：交付週期超過  24 個⽉的傳統保守型資料中⼼  REITs （如依賴公⽤
+事業常規併網的批發託管商）。我們也預期電⼒限制，地⽅反對會讓很多 AI 數
+據算⼒中⼼建廠延遲。
+原因分析：當微軟連⾃建  Azure 機房都等不及、被迫向競爭對⼿⾺斯克求購
+現成算⼒時，傳統機房商的「慢⼯出細活」模式直接被⼀線雲端客戶棄⽤，否
+則市佔率加速流失。
+Our outside the box non-consensus thinking:
+市場直覺認為「⾺斯克將算⼒租給微軟、 Anthropic 、 Google 是在資助死
+敵」。我們的⾮共識洞察是， SpaceX 正在⽤競爭對⼿的研發預算，為⽕箭事
+業，星外殖⺠與星鏈⼆代構建永續⼯程。每⽉收取的數⼗億美元無⾵險現⾦
+流，其折舊加回淨利潤率遠超⼀般雲端業務；更關鍵的是，當微軟與
+Anthropic 的底層算⼒⽣命線完全寄託在  SpaceX 的  Memphis 園區時，⾺
+
+斯克實質上擁有了對全球前線⼤模型訓練進度的「物理閥⾨控制權」。
+Our advises to investors:
+正向⻑期趨勢： SpaceX/xAI 關鍵實體基建供應鏈（⼯業儲能、燃氣微電網發
+電⿓頭）；重估  Neo-Cloud 賽道中具備⾃主電⼒資產之標的。
+負⾯⻑期趨勢：缺乏電⼒獲取突破能⼒、純靠租賃第三⽅機房賺取轉⼿利差的
+⼆線算⼒倒賣商。
+Risks to our analysis:
+反壟斷調查⾵險：微軟、 Google 、 Anthropic 三⼤巨頭若同時將算⼒依託於
+SpaceX 單⼀實體，恐觸發聯邦貿易委員會（ FTC ）與司法部的反壟斷聯合調
+
+### Page 4
+
+考，並⾮投資建議，個⼈應審慎評估⾵險，如因此造成任何損失，本⼈不負任
+何擔保責任 ; We are here to provide our professional opinions on
+company and industry analysis but not the investment advice. The
+use of the information contained in this material is at your own risk.
+We make no guarantees and assume no responsibility or liability for
+any information on the report.
+Invite your friends and earn rewards
+If you enjoy Andrew Lu on global semis and techs, share it with your friends
+and earn rewards when they subscribe.
+
+Invite Friends
+LIKE
+COMMENT
+RESTACK
+© 2026 Andrew Lu
+548 Market Street PMB 72296, San Francisco, CA 94104
+Unsubscribe
+
+---
+## Document 457: 不叫AI，要叫SI？存儲迎來供應爆發？MongoDB CEO 竟離職投奔 Zuck？ - KP思考筆記(第62期)
 
 Source PDF: all report pdf/不叫AI，要叫SI？存儲迎來供應爆發？MongoDB CEO 竟離職投奔 Zuck？ - KP思考筆記(第62期).pdf
 Report source: 未公開來源
@@ -15178,7 +15075,7 @@ RESTACK
 Unsubscribe
 
 ---
-## Document 427: 中信-6202 盛群-20260930
+## Document 466: 中信-6202 盛群-20260930
 
 Source PDF: all report pdf/中信-6202 盛群-20260930.pdf
 Report source: 未公開來源
@@ -15507,7 +15404,7 @@ ESG 資訊 -公 司 治 理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 463: 兆豐-6426 統新-20260930
+## Document 506: 兆豐-6426 統新-20260930
 
 Source PDF: all report pdf/兆豐-6426 統新-20260930.pdf
 Report source: 未公開來源
@@ -15964,145 +15861,7 @@ DDDDD
 交易所公司治理評鑑
 
 ---
-## Document 478: 凱基投顧_Takeaway_6257_3265 矽格_台星科_潘俊宏_20261006
-
-Source PDF: all report pdf/凱基投顧_Takeaway_6257_3265 矽格_台星科_潘俊宏_20261006.pdf
-Report source: 未公開來源
-Date: 2026-10-06
-Pages: 4
-Extraction status: ok
-
-### Page 1
-
-十月 06, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 1
-
-法說重點摘要
-
-矽格&台星科 
-(6257 TT, NT$286, 未評等) & 
-(3265 TT, NT$197.5, 未評等)
-
-重點摘要  
-1. 矽格以 IC 測試為主，聚焦 AI ASIC 、CPU/GPU 及矽光子等高階測
-試。台星科主要提供 晶圓凸塊、覆晶封裝與晶圓測試。矽格目前持
-有台星科股權約 51.9% 。 
-2. 台星科和矽格連袂調高 2026 年資本支出，其中台星科調高至 134
-億元(年增 705%)，矽格追加到 88 億元(年增 66%)，預示了整個產
-業產能吃緊，並且 AI 外溢需求已經大幅排擠了原本封測產能。 AI
-相關的需求特別是伺服器 CPU 以及矽光子的需求，將大幅帶動公
-司明年的業績成長。矽格目前的 2027 年營收展望為年增 30% 以
-上。 
-3. 不單是產品組合優化，矽格對於產業的價格趨勢也是正面看法，而
-資本支出的選擇則是不大幅增加折舊的前提下謹慎規劃，並且有部
-分大客戶有預定產能，拉高了整體的訂單能見度。我們對於整體封
-測產業在 AI 的帶動之下維持正面且樂觀的看法。矽格目前交易在
-2027 年 EPS 市場共識值的 24 倍。
-
-矽格營運概況 
- 2Q26 營收 58.8 億元，年增 23.1% ，營業利益 15.1 億元，年增
-34.4% ，歸屬母公司淨利 12.2 億元，年增 264% ，EPS 2.55 元。 
- 2026 年 1-8 月營收占比 為 AI CPU/GPU 、ASIC 及矽光子 24%、智
-慧型手機 30%、車用/醫療 6%、網通/IoT  21%、消費電子/ 智慧家
-庭 19%。此外，記憶體占約 10%，營收年增近 30%。 
- 2026 年 CapEx 提高至 88 億元，較原始規畫增加 48%，7 月子公
-司矽格聯測追加 21 億元，主要擴充美系 CPU/GPU 客戶測試產能。  
-矽格未來展望 
- 4Q26 動能來自 AI 伺服器、 AI Connectivity 、矽光子、 2 奈米高階
-手機晶片、低軌衛星及高速網通；目標 2027 年 AI CPU/GPU 、
-ASIC 及矽光子占比超過 30%。 
- 湖口二廠目前產能開出 40%，預計 2027 年逐步開滿；中興三廠預
-計 4Q26 完成廠房工程、1Q27 量產，主要支援 AI ASIC 、高速網通
-及高階晶片需求。  
-台星科營運概況 
- 2Q26 營收 14.1 億元，年增 20.2%，營業利益 3.38 億元，年增
-35%，歸屬母公司淨利 2.85 億，年增 217% ，EPS 2.09 元 
- 2026 年 1-8 月 營收占比 為 HPC 49% 、 Memory  8% 、 CE/3C  
-34%、IoT 9%，預期 2027-2028 年 HPC 占比持續提升。
-
-凱基投顧
-
-潘俊宏 
-886.2.2181.8706 
-Felix.Pan@kgi.com
-
-重要免責聲明，詳見最終頁
-
-### Page 2
-
-台灣 矽格&台星科
-
-十月 06, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 2
-
-台星科未來展望 
- N2 產品認證完成並陸續量產， 55×55mm FCBGA 已進入量產，預
-計 2027 年放量。 
- CP 為 2027 年後主要擴充產品線，聚焦 AI Data Center 及 N2 CPU
-晶圓測試。 FT 主要對應 AI Server/CoWoS ，涵蓋 Burn-In 及 SLT，
-亦為 2027 年成長動能。
-
-矽格 Q&A 
- 光通訊相關布局及營收、獲利貢獻展望？   
- 矽格布局全方位 AI Connectivity 及 One-stop 光通訊測試服務，
-涵蓋測試技術、設備、工程至量產，預期 2027 年光通訊營收倍
-數成長，光通訊獲利優於傳統測試。  
- 頎邦進入光測試對矽格的影響 ? 
- 頎邦主要仍以 Bumping 為主，部分客戶於頎邦完成 Bumping
-後，後續測試仍交由矽格 。 
- 目前訂單能見度？  
- 能見度高，多數主要客戶已簽訂一年以上的產能保障協議。  
- AI ASIC 、矽光子及高速運算 2027 年營收占比？  
- 2026 年目前占比約 24%，2027 年目標超過 30%。 
- 因應 AI 晶片測試需求提升， 2027 年如何擴充產能？  
- 會先與主要客戶確認未來產能需求，並簽訂產能保障協議後再進
-行投資，湖口二廠即因客戶需求強勁、自建廠房時程過長，故 提
-前購入以銜接產能。  
- 2026 年 CapEx 是否還會上修？ 
- 目前仍有數個重要客戶洽談合作，若客戶需求非常緊迫，不排除
-未來數月再上修 CapEx 以滿足需求。  
- 如何因應客戶要求分散生產據點？  
- 目前矽格在台灣有 12 座工廠、中國 2 座、日本新增 1 座工廠；
-暫無赴美設廠計劃，但 公司以服務客戶為主，只要有需求，皆可
-評估於不同地區布局 。 
- 湖口二廠滿載後產值多少？ 
- 約 80%即可視為接近滿載，滿載後單月營收估約 2-3 億元。 
- 中興三廠量產後營收規模？ 
- 中興三廠共七層，其中五層規劃為 clean room ，每層約可容納
-100 台設備，產能會逐年爬坡，不會在一年內達滿載。 
- 湖口二廠是否專門測試 EIC/PIC ？不同客戶設備能否共用？ 
- 湖口二廠不限特定產品或客戶； EIC/PIC 測試設備主要為公司自
-製，僅需依不同客戶需求微調，因此設備共用性高。
-
-### Page 3
-
-台灣 矽格&台星科
-
-十月 06, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 3
-
- 如何看 2027 年測試價格？  
- AI 及光通訊晶片複雜度提升後，測試與良率的重要性增加，矽格
-表示目前測試價格仍 在漲價。
-
-台星科 Q&A 
- 3Q26 營收受到客戶 wafer 供應不及影響，是否會遞延至 4Q26 ？  
- 影響主要來自 N2 及 N3 產品，3Q26 未到位部分預計於 4Q26 回
-補。 
- 目前 CapEx 大幅增加，未來轉換為營收的效率及主要應用為何？  
- 新增 CapEx 以測試設備占比較高，主要對應 Data Center 產品，
-包括 CPU、ASIC 及矽光相關應用 
- 設備交期最長可達約一年，因此 capex 下單與營收貢獻通常存在
-至少半年至一年時間差，主要營收貢獻將落在 2027 年。 
- 是否可以用 1 元 CapEx 對應約 0.5 元營收估算？  
- 針對公司 2027 年以晶圓測試為主的投資，管理層確認上述估算
-合理。
-
-### Page 4
-
-台灣 矽格&台星科
-
-十月 06, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 4
-
----
-## Document 483: 凱基投顧_電子硬體產業_向子慧_20260930
+## Document 528: 凱基投顧_電子硬體產業_向子慧_20260930
 
 Source PDF: all report pdf/凱基投顧_電子硬體產業_向子慧_20260930.pdf
 Report source: 未公開來源
@@ -16778,7 +16537,7 @@ Lumentum奇
 免責聲明
 
 ---
-## Document 487: 創新服務(7828,B_買進)-CTBC261005
+## Document 530: 創新服務(7828,B_買進)-CTBC261005
 
 Source PDF: all report pdf/創新服務(7828,B_買進)-CTBC261005.pdf
 Report source: 未公開來源
@@ -17151,7 +16910,7 @@ ESG 資訊-公司治理(Governance)
 營業執照字號：114 金管投顧新字第 014 號
 
 ---
-## Document 498: 南電 (8046 TT)：隨BTABF價量持續提升，2027獲利成長強勁
+## Document 544: 南電 (8046 TT)：隨BTABF價量持續提升，2027獲利成長強勁
 
 Source PDF: all report pdf/南電 (8046 TT)：隨BTABF價量持續提升，2027獲利成長強勁.pdf
 Report source: 未公開來源
@@ -17852,7 +17611,7 @@ ESG 總分 17.9
 台灣臺北市 106 仁愛路三段 157 號 4 樓
 
 ---
-## Document 505: 台新-7951-大易橙-20261005-興櫃前法人說明會研究報告
+## Document 551: 台新-7951-大易橙-20261005-興櫃前法人說明會研究報告
 
 Source PDF: all report pdf/台新-7951-大易橙-20261005-興櫃前法人說明會研究報告.pdf
 Report source: 未公開來源
@@ -18222,7 +17981,7 @@ JASM熊本二廠 3奈米為主 約2028年
 不得將本報告內容之部份或全部加以複製、轉載或散佈。
 
 ---
-## Document 509: 嘉基(6715,B_買進)-CTBC261005
+## Document 556: 嘉基(6715,B_買進)-CTBC261005
 
 Source PDF: all report pdf/嘉基(6715,B_買進)-CTBC261005.pdf
 Report source: 未公開來源
@@ -18623,7 +18382,7 @@ ESG 資訊 - 公司治理 (Gov ernan ce)
 未評等 Not Rated (NR)
 
 ---
-## Document 545: 宏遠-3017 奇鋐-20260930
+## Document 592: 宏遠-3017 奇鋐-20260930
 
 Source PDF: all report pdf/宏遠-3017 奇鋐-20260930.pdf
 Report source: 未公開來源
@@ -19159,7 +18918,7 @@ B+B+B+B+
 2024 2025 2026
 
 ---
-## Document 546: 宏遠-3189 景碩-20260929
+## Document 593: 宏遠-3189 景碩-20260929
 
 Source PDF: all report pdf/宏遠-3189 景碩-20260929.pdf
 Report source: 未公開來源
@@ -19479,7 +19238,7 @@ Company Report
 9
 
 ---
-## Document 550: 宏遠-6691 洋基工程-20260930
+## Document 597: 宏遠-6691 洋基工程-20260930
 
 Source PDF: all report pdf/宏遠-6691 洋基工程-20260930.pdf
 Report source: 未公開來源
@@ -20000,7 +19759,7 @@ B+
 2024 2025 2026
 
 ---
-## Document 555: 富邦-6831 邁科-20261006
+## Document 602: 富邦-6831 邁科-20261006
 
 Source PDF: all report pdf/富邦-6831 邁科-20261006.pdf
 Report source: 未公開來源
@@ -20386,7 +20145,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 557: 富邦-記憶體產業-20261001
+## Document 604: 富邦-記憶體產業-20261001
 
 Source PDF: all report pdf/富邦-記憶體產業-20261001.pdf
 Report source: 未公開來源
@@ -20552,7 +20311,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 582: 晟銘電(3013,B_買進)-CTBC261001
+## Document 633: 晟銘電(3013,B_買進)-CTBC261001
 
 Source PDF: all report pdf/晟銘電(3013,B_買進)-CTBC261001.pdf
 Report source: 未公開來源
@@ -20906,7 +20665,7 @@ ESG 資訊 -公司治理 (Governance)
 營業執照字號： 114 金管投顧新字第 014 號
 
 ---
-## Document 621: 第一金(2892,OW_增加持股)-CTBC260930
+## Document 680: 第一金(2892,OW_增加持股)-CTBC260930
 
 Source PDF: all report pdf/第一金(2892,OW_增加持股)-CTBC260930.pdf
 Report source: 未公開來源
@@ -21183,7 +20942,7 @@ ESG 資訊 - 公司治理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 622: 第一金-6141 柏承-20260929
+## Document 681: 第一金-6141 柏承-20260929
 
 Source PDF: all report pdf/第一金-6141 柏承-20260929.pdf
 Report source: 未公開來源
@@ -21474,7 +21233,182 @@ YoY(%)
 存貨週轉天數(天) 42.19 48.03 45.08 39.38
 
 ---
-## Document 651: 統一-3017 奇鋐-20260930
+## Document 682: 第一金-6604 儒億-20261006
+
+Source PDF: all report pdf/第一金-6604 儒億-20261006.pdf
+Report source: 未公開來源
+Date: 2026-10-06
+Pages: 6
+Extraction status: ok
+
+### Page 1
+
+陳祐竹 
+(886-2)2563-1666 儒億(6604) 
+JUOKU TECHNOLOGY CO., LTD. 
+買進 
+前一日(10/05)收盤價：
+28.2 元 
+承銷價：24 
+目標價：45
+
+儒億為台灣車燈 ODM/OEM 大廠，母公司堤維西持股 60.88%(釋股
+後降至 52.5%)，2025/10/28 登錄興櫃，2026/10/6 轉上櫃，承銷價
+24 元，競拍最低得標價為 23.5 元，最高得標價為 26 元，加權平均
+得標價爲 24.09 元，前一日收盤價 28.2 元。雖然汽車市場規模相對
+成熟，總銷量變化不大，但結構正在進行深度轉型，儒億與日本斯
+坦雷(Stanley Electric) 長期技術合作，具備車燈自主設計製造能
+力，隨車輛智慧化及電動化 趨勢使產品單價持續提高，獲利結構可
+望逐步轉佳，目前台灣車市落底回穩，且台灣及印尼的自製率法規
+紅利使儒億迎來結構性利多，長期營運展望正向。綜合以上，研究
+部預估 2026 年 EPS 4.11 元，參考國內車燈同業如大億(1521)、麗
+清(3346)、華勝-KY (2248) 等本益比區間為 8~20x，給予 11x 本益
+比評價，目標價 45 元，依承銷價 24 元計算，給予買進投資建議。
+
+⚫ 公司簡介 
+儒億成立於 1993 年 ， 為台灣車燈ODM/OEM 大廠 ，2025/10/28
+登錄興櫃，2026/10/6 轉上櫃，母公司堤維西原持股 60.88%、
+釋股後降至 52.5%，上櫃後資本額 5.07 億元，承銷價 24 元。
+2025 年營收比重：汽機車燈具 54%、模具 19%、車內開關
+13%、電路板模組 6%、其他 8%。2025 年銷售區域別：台灣 
+58%、日本 16%、馬來西亞 14%、印尼 5%、美國 3%。主
+要客戶包含中華汽車、本田汽車、國瑞汽車、PROTON、
+PERODUA 等 。 儒億車燈廠 、LED 模組廠 、 模具廠位於台南市，
+電裝廠位於新北市 ， 另於2012 年與印尼最大汽車零部件廠 PT 
+Astra Otoparts 合資創立 PT Astra Juoku Indonesia(AJI)，儒億
+持股 50%並以權益法認列，在印尼當地製造與開發 OEM 車燈
+
+2026/10/06 
+新股上櫃
+
+### Page 2
+
+本資料內容僅供參考，投資人應審慎考量自身之 投資需求與風險，本公司恕不負任何法律責任，亦不作任何保證  
+第一金證券投資顧問股份有限公司 (First Capital Management Inc.) 台北市長安東路一段 22 號 11F   TEL(02) 2563 -6262 
+2 
+  與相關燈具，其主要客戶為 Toyota 及 Honda 集團，AJI 對儒
+億獲利貢獻度達 45~50%。 
+圖一、主要產品
+
+資料來源：公司簡報、第一金投顧彙整 
+圖二、主要客戶
+
+資料來源：公司簡報、第一金投顧彙整
+
+⚫ 產業概況及競爭優勢 
+研調機構 Global Market Insights 預估全球車燈產值
+2022~2032 年將以 CAGR+8.5%穩健擴張 ，TrendForce 亦指出
+配備自適應遠近光(AFS/ADB)的車款比重 2030 年將突破
+20%，確立智慧車燈發展的必然趨勢。儒億的核心競爭利基包
+括(1)車廠 Tier 供應商進入門檻高：基於嚴格品質認證、長期的
+
+### Page 3
+
+本資料內容僅供參考，投資人應審慎考量自身之 投資需求與風險，本公司恕不負任何法律責任，亦不作任何保證  
+第一金證券投資顧問股份有限公司 (First Capital Management Inc.) 台北市長安東路一段 22 號 11F   TEL(02) 2563 -6262 
+3 
+產品開發驗證週期等原因，車廠尋找合格供應商至下單需 3~5
+年時間，一旦進入不會輕易更換，因此長期訂單穩定；(2)日系
+技術合作與自主研發雙軌並進 ： 儒億長期與日本斯坦雷(Stanley 
+Electric)技術合作，兼具日規安全檢驗標竿與自主光學設計量
+能；(3)東南亞布局完整：攜手印尼零組件龍頭 PT Astra 
+Otoparts 布局合資廠 AJI(儒億持股 50%)， 掌握印尼半數市佔的
+Astra 體系，具有成本競爭力的供應量能，可靈活因應全球供應
+鏈重組趨勢。
+
+⚫ 營運概況 
+儒億 2025 年營收 20.71 億元，YoY-4.3%，毛利率 13.38%，
+稅後淨利 1.1 億元，YoY+8.9%，稅後 EPS 2.73 元，去年台美
+貿易談判之不確定性使消費者轉為觀望，整體車市疲弱，壓抑
+OEM 訂單動能。雖26Q1 台灣車市延續關稅政策影響，消費者
+持續觀望，但馬來西亞第二國產車 Perodua 首款電動車 QV-E
+之車燈模具開始出貨，以及業外轉投資 AJI 受惠新車量產及模
+具開發收入 、26H1 獲利成長 30%，26H1 儒億營收 10.83 億元 ，
+YoY+10.8%， 毛利率15.83%， 稅後淨利9755 萬元 ， 稅後EPS 
+2.23 元。隨著各品牌陸續推出新產品，台灣車市買氣自 26Q2
+緩步回溫，8M26 台灣車市新車掛牌數 27 萬輛，YoY+ 2.4%，
+加上 Perodua 車燈持續放量 ，7~8 月營收分別 YoY+33%/23%，
+北美新能源車專案將於 26Q4 開始出貨。
+
+⚫ 營運展望 
+台美關稅尚未完全定案，使台灣車市買氣並未顯著彈升，但目
+前 已 落 底 回穩 ， 新款 上 市及 財 富 效果 刺 激換 購 需 求 ，預 估
+2026~2027 年台灣新車銷售達中低個位數增長；雖然汽車市場
+規模相對成熟，總銷量變化不大，但結構正在進行深度轉型，
+例如傳統燈具轉向 LED 及智慧燈具，車燈結合感測與通訊功
+
+### Page 4
+
+本資料內容僅供參考，投資人應審慎考量自身之 投資需求與風險，本公司恕不負任何法律責任，亦不作任何保證  
+第一金證券投資顧問股份有限公司 (First Capital Management Inc.) 台北市長安東路一段 22 號 11F   TEL(02) 2563 -6262 
+4 
+能 ， 儒億目前具備AFS(主動轉向式頭燈)及 ADB(自適應式遠光
+頭燈)的自主設計製造能力，整體智能產品比重已達30%，隨車
+輛智慧化及電動化趨勢使產品單價持續提高，獲利結構可望逐
+步轉佳。此外，台灣經濟部自 2024/8/1 實施「國產車組裝在地
+化供應鏈比重」新制，2024 年前在台上市之國產車款，其零件
+國產化自製率須於 2026/8 後全面提升至 35%，新導入車款上
+市後三年自製率須自 15%逐年遞增至 25%及 35%， 具備自主設
+計與高自製率的供應商迎來結構性利多。
+
+轉投資 AJI 方面，印尼為東協第二大汽車市場，雖短期消費力
+受通膨壓抑，但中產階級擴張及都市化的長期趨勢使其具備龐
+大需求潛力，且印尼政府推行電動車與新能源車本地含量規定
+(TKDN)，本地生產之新能源車須於 2026 年達成 40%本地自製
+率，2027~2029 年提高至 60%，2030 年達 80%，AJI 在印尼
+設廠逾十年，具備先行者優勢，Toyota 集團透過 Astra 體系長
+期掌控印尼汽車約 50%市佔率，其成長性高於整體印尼車市，
+為儒億提供穩健之業外收益 。 綜合以上 ， 研究部預估2026 年營
+收 24.24 億元，YoY+17.1%，毛利率 15.98%，稅後淨利 2.08
+億元，YoY+89.2%，以上櫃後股本計算 EPS 4.11 元。
+
+⚫ 結論與建議 
+儒 億 為 台 灣 車 燈 ODM/OEM 大 廠 ， 母 公 司 堤 維 西 持 股
+60.88%(釋股後降至 52.5%)，2025/10/28 登錄興櫃 ，2026/10/6
+轉上櫃，承銷價 24 元，競拍最低得標價為 23.5 元，最高得標
+價為 26 元，加權平均得標價爲 24.09 元，前一日收盤價 28.2
+元。雖然汽車市場規模相對成熟，總銷量變化不大，但結構正
+在進行深度轉型 ， 儒億與日本斯坦雷(Stanley Electric)長期技術
+合作，具備車燈自主設計製造能力，隨車輛智慧化及電動化 趨
+
+### Page 5
+
+第一金證券投資顧問股份有限公司 (First Capital Management Inc.) 台北市長安東路一段 22 號 11F   TEL(02) 2563 -6262
+5
+勢使產品單價持續提高，獲利結構可望逐步轉佳，目前台灣車
+市落底回穩，且台灣及印尼的自製率法規紅利使儒億迎來結構
+性利多，長期營運展望正向。綜合以上，研究部預估 2026 年
+EPS 4.11 元，參考國內車燈同業如大億(1521)、麗清(3346)、
+華勝-KY(2248)等本益比區間為 8~20x， 給予11x 本益比評價，
+目標價 45 元，依承銷價 24 元計算，給予買進投資建議。
+
+### Page 6
+
+綜合損益表 
+6604綜合損益表
+單位:Mn,%,元 2024 2025H1 2025H2 2025 2026H1 2026H2E 2026E
+營業收入淨額 2,163.19 977.23 1,093.44 2,070.67 1,083.11 1,340.83 2,423.93
+毛利率 13.15% 12.83% 13.88% 13.38% 15.83% 16.10% 15.98%
+營業毛利 284.38 125.37 151.74 277.11 171.48 215.87 387.35
+營業利益率 2.36% 2.59% 4.32% 3.50% 5.51% 6.60% 6.12%
+營業利益 51.00 25.33 47.21 72.55 59.72 88.55 148.28
+營業外收入及支出 82.66 19.40 51.71 71.11 55.84 65.34 121.18
+稅前純益 133.66 44.73 98.92 143.65 115.56 153.89 269.45
+　母公司業主–稅後純益 101.13 39.13 71.00 110.13 97.55 110.80 208.35
+　普通股股本 387.31 387.31 437.31 437.31 437.31 507.31 507.31
+未稀釋EPS 2.61 1.01 1.62 2.73 2.23 2.18 4.11
+稀釋後EPS 2.61 1.01 1.62 2.73 2.23 2.18 4.11
+QoQ(%)
+營收 - - - -
+營業利益 - - - -
+歸屬於母公司-稅後純益 - - - -
+YoY(%)
+營收  - - -4.28% 10.83% 22.63% 17.06%
+營業利益 - - 42.25% 135.76% 87.56% 104.39%
+歸屬於母公司-稅後純益 - - 8.90% 149.32% 56.06% 89.19%
+
+---
+## Document 711: 統一-3017 奇鋐-20260930
 
 Source PDF: all report pdf/統一-3017 奇鋐-20260930.pdf
 Report source: 未公開來源
@@ -21695,7 +21629,7 @@ ainReport/data/FileStream?id=dd6ac276-df20-
 請參見末頁重要批露及免責聲明  6
 
 ---
-## Document 706: 華南-8150 南茂-20260930
+## Document 772: 華南-8150 南茂-20260930
 
 Source PDF: all report pdf/華南-8150 南茂-20260930.pdf
 Report source: 未公開來源
@@ -21971,7 +21905,7 @@ YOY 19.0  23.0  26.4  26.4
 個股投資建議與目標價三年歷史趨勢：
 
 ---
-## Document 707: 萊德光電-KY(7717,B_買進)-CTBC261001
+## Document 773: 萊德光電-KY(7717,B_買進)-CTBC261001
 
 Source PDF: all report pdf/萊德光電-KY(7717,B_買進)-CTBC261001.pdf
 Report source: 未公開來源
@@ -22390,7 +22324,7 @@ ESG 資訊 -公 司 治 理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 708: 記憶體、矽晶圓產業2027年展望_元富投顧(台新新光金控)
+## Document 774: 記憶體、矽晶圓產業2027年展望_元富投顧(台新新光金控)
 
 Source PDF: all report pdf/記憶體、矽晶圓產業2027年展望_元富投顧(台新新光金控).pdf
 Report source: 未公開來源

@@ -3,7 +3,124 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 057: 2329華泰 群益
+## Document 058: 2028 Should Be A Good Year
+
+Source PDF: all report pdf/2028 Should Be A Good Year.pdf
+Report source: 未公開來源
+Date: 2026-10-07
+Pages: 8
+Extraction status: ok
+
+### Page 1
+
+From:    Yardeni QuickTakes <yardeni-research@ghost.io>
+Subject: 2028 Should Be A Good Year
+Date:    7 hours ago
+2028 Should Be A Good Year
+
+YARDENI QUICKTAKES
+2028 Should Be A Good Year
+By Ed Yardeni & Elias Griepentrog • 6 Oct 2026
+View in browser
+
+### Page 2
+
+Photo by Patrick Fore / Unsplash
+I. Blue skies ahead for earnings?
+We are now seven years into our Roaring 2020s thesis, which remains
+our base case for the rest of the decade, and it has played out very well
+so far. When we first introduced the idea in August 2020, the prospect of
+another Roaring '20s sounded a bit delusional. We argued that, as in the
+
+### Page 3
+
+1920s, rapidly proliferating technologies would drive a productivity boom
+that would support stronger economic growth while containing inflation,
+boosting real wages, widening profit margins, and lifting corporate
+earnings.
+Since the beginning of the current decade, the economy's resilience has
+repeatedly defied the naysayers, as productivity growth has increased and
+corporate earnings have continued to climb. With only three full years left
+in the decade, one of the clearest manifestations of our Roaring 2020s
+
+thesis has been what we call FEMO, or Fabulous Earnings Momentum.
+FEMO is clearly visible in industry analysts' earnings expectations. They
+currently expect S&P 500 operating earnings per share to rise to about
+$364 per share in 2026 and $419 in 2027, implying growth of roughly 15%
+in both years (chart). Toward the end of Q3 each year, we add another
+year to our Earnings Squiggles framework. This year’s addition is 2028,
+with earnings projected to rise another 17% that year to about $489 per
+
+share.
+For now, the analysts are more bullish than we are about earnings
+prospects over the remainder of the decade. We are projecting $450 per
+share in 2028, $475 in 2029, and $500 in 2030. If they are right, our S&P
+500 target of 10,000 will be achieved well before the end of 2029!
+The extended earnings boom is driven by strong revenue growth
+expectations. Industry analysts expect S&P 500 revenues per share to
+
+### Page 4
+
+rise 12.7% in 2026, 9.2% in 2027, and another 8.3% in 2028 (chart).
+Those expectations seem too exuberant to us.
+Profit margins provide the other driver of the earnings story. Analysts
+expect the S&P 500 profit margin to rise from 13.2% in 2025 to 15.7% this
+year, 16.8% in 2027, and a record 18.1% in 2028 (chart). That is what we
+would expect in our Roaring 2020s scenario, with stronger productivity
+growth widening profit margins.
+The earnings outlook is strong beyond the S&P 500 as well. Industry
+
+analysts expect S&P 400 MidCap operating earnings per share to rise
+roughly 19% in 2026, 14% in 2027, and 13% in 2028 (chart).
+
+### Page 5
+
+S&P 600 SmallCap earnings are expected to increase about 21% this
+year, 16% in 2027, and 15% in 2028 (chart). That suggests FEMO is
+broad-based.
+II. Blue skies ahead for the economy?
+(1) Consumer spending. The latest Redbook data provide yet another
+sign of continued strength in consumer spending. Redbook same-store
+sales rose 8.3% y/y during the week of October 2, well above the 5.8%
+average for 2025 and underscoring the consumer’s continued resilience
+
+(chart).
+
+### Page 6
+
+(2) Labor market. ADP estimates that private-sector payrolls rose 23,750
+in the week through September 19, up from an upwardly revised 22,500
+the prior week and marking the fifth consecutive acceleration in weekly job
+gains (chart). It was also the strongest weekly increase in three months.
+The ADP numbers for private industry payrolls make more sense to us
+than the Bureau of Labor Statistics’ payroll employment data.
+(3) Trade balance. The latest US trade data point to still strong US and
+
+global economic growth. US imports rose 4.3% m/m and 23.6% y/y in
+August, accelerating from July, while US exports increased 1.4% m/m and
+12.3% y/y. Imports reached a $3.36 trillion annualized rate, versus $2.03
+trillion for exports, leaving a merchandise trade deficit of $1.33 trillion
+annualized (chart). The gap reflects exceptionally strong US demand for
+imported goods.
+
+### Page 7
+
+Nominal and real US merchandise exports plus imports rose 23.1% y/y
+and 7.1%, respectively, in August (chart). That suggests global trade
+remains firmly in expansion territory and is consistent with strong global
+economic growth.
+Selected technology imports reached a record $56.6 billion in August
+(chart). The AI buildout is highly import-intensive and requires large
+volumes of semiconductors, servers, networking equipment, and other
+hardware produced overseas.
+
+### Page 8
+
+clause.
+Yardeni QuickTakes © 2026 – Unsubscribe
+
+---
+## Document 059: 2329華泰 群益
 
 Source PDF: all report pdf/2329華泰 群益.pdf
 Report source: 未公開來源
@@ -354,7 +471,7 @@ YoY(%)
 情形。
 
 ---
-## Document 072: 260930_ms_automation
+## Document 074: 260930_ms_automation
 
 Source PDF: all report pdf/260930_ms_automation.pdf
 Report source: 未公開來源
@@ -844,7 +961,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 077: 261005_daiwa_GUC
+## Document 079: 261005_daiwa_GUC
 
 Source PDF: all report pdf/261005_daiwa_GUC.pdf
 Report source: 未公開來源
@@ -1045,7 +1162,7 @@ regarding the signing of the agreement with our company.
   Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
-## Document 080: 261005_gs_lmoc
+## Document 082: 261005_gs_lmoc
 
 Source PDF: all report pdf/261005_gs_lmoc.pdf
 Report source: 未公開來源
@@ -1517,7 +1634,7 @@ Goldman Sachs LandMark (3081.TWO)For the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 085: 261005_ms_foundry-floor-plan
+## Document 087: 261005_ms_foundry-floor-plan
 
 Source PDF: all report pdf/261005_ms_foundry-floor-plan.pdf
 Report source: 未公開來源
@@ -3185,7 +3302,7 @@ Morgan Stanley Research 31
 © 2026 Morgan Stanley
 
 ---
-## Document 089: 261006_citi_winway
+## Document 091: 261006_citi_winway
 
 Source PDF: all report pdf/261006_citi_winway.pdf
 Report source: 未公開來源
@@ -3665,7 +3782,7 @@ solely for the recipient and may not be further distributed by the recipient to 
 ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 
 ---
-## Document 092: 261006_ml_kingslide
+## Document 094: 261006_ml_kingslide
 
 Source PDF: all report pdf/261006_ml_kingslide.pdf
 Report source: 未公開來源
@@ -3919,7 +4036,7 @@ Neither BofA Securities nor any officer or employee of BofA Securities accepts a
 information.
 
 ---
-## Document 098: 261006_ms_kingslide
+## Document 100: 261006_ms_kingslide
 
 Source PDF: all report pdf/261006_ms_kingslide.pdf
 Report source: 未公開來源
@@ -4437,7 +4554,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 101: 3017奇鋐 統一
+## Document 103: 3017奇鋐 統一
 
 Source PDF: all report pdf/3017奇鋐 統一.pdf
 Report source: 未公開來源
@@ -4658,7 +4775,7 @@ ainReport/data/FileStream?id=dd6ac276-df20-
 請參見末頁重要批露及免責聲明  6
 
 ---
-## Document 103: 3234光環 第一金
+## Document 105: 3234光環 第一金
 
 Source PDF: all report pdf/3234光環 第一金.pdf
 Report source: 未公開來源
@@ -4918,7 +5035,7 @@ YoY(%)
 9
 
 ---
-## Document 104: 3533嘉澤 永豐
+## Document 106: 3533嘉澤 永豐
 
 Source PDF: all report pdf/3533嘉澤 永豐.pdf
 Report source: 未公開來源
@@ -4931,129 +5048,11 @@ Extraction warnings:
 Extraction failed: Stream has ended unexpectedly
 
 ---
-## Document 106: 4763材料 群益
-
-Source PDF: all report pdf/4763材料 群益.pdf
-Report source: 未公開來源
-Date: 2026-10-01
-Pages: 3
-Extraction status: ok
-
-### Page 1
-
-產業速報  
-                                        2026 年 10 月 1 日
-
-1 群益投顧 
-材料 *-KY (4763 TT)  2Q26 因山東廠停工歲修，毛利率降至  40.9% ， 3Q26 已回升至近  
-50%；扣 除 匯 回 美 元 3 億 資 本 之 一 次 性 稅 款 約 新 台 幣 9.6 億元後 ，稅後 EPS 0.72 元 。
-2027 年併入  Cerdia 全 球 產 能 後，年 產 能 達 絲 束 16.40 萬噸與醋片  19.50 萬噸 。全
-球 絲 束 市 場 由 五 大 業 者 濃 縮 為 四 大 業 者 ， 公 司 採 取 控 制 接 單 策 略 ， 預計  10 ~11 /2026
-進行  2027 年 合 約 調 價。
-
-研 究 員 ： 吳 健 鉦   
-A51755@cim.capital.com.tw
-
-材料 *-KY 法 說 會 展 望 正 面， 4Q26 將 調 整 2027 年 合 約 價 格：  
-材 料 *-KY 於  09/ 21 /2026 宣布以約美元  3.68 億 收 購 全 球 醋 酸 纖 維 大 廠  
-Cerdia 100% 股 權 。 交 易 架 構 由 兩 部 分 構 成， 材料 -KY 以 自 有 資 金 支 付 現
-金 對 價 約 美 元 2.14 億 ， 佔 比 約  58% ； 其 餘 發 行 新 股 109,295 仟股 ， 佔比
-約  42% ， 交 易 完 成 後 賣 方 黑 石 集 團 實 體 將 持 有 材 料 -KY 增 資 後 約  9.95% 
-股 權 ， 集 團 股 本 由 9.89 億 股 增 至 10.98 億股。   
-被 收 購 方  Cerdia 2025 年 營 收 為 美 元  7.31 億 ， 調 整 後  EBITDA 為 美 元  
-2.67 億， EBITDA 利潤率為  36.5% 。 截 至  06/2026 之近  12 個 月 ， 雙 方
-合 計 營 收 約 達 10 億 美 元 ， 合 併 EBITDA 達 4 億 美 元 ， 合 併 EBITDA 利
-潤率為  39% 。 此 交 易 使 材 料-KY 由 原 中 國 山 東 單 一 生 產 基 地 ， 擴 增 至 德 國
-弗萊堡、美國金斯波特、巴西聖安德烈及俄羅斯謝爾普霍夫等全球五大基
-地 。 合 併 後 全 球 醋 酸 纖 維 絲 束 設 計 產 能 達 16.40 萬噸 /年 ， 醋 酸 纖 維 素 醋 片
-設 計 產 能 達 19.50 萬噸 /年。   
-財 務 結 構 改 善 為 本 次 收 購 的 核 心 獲 利 驅 動 力 。Cerdia 目 前 帳 上 存 續 美 元 9 
-億 私 債，到 期 日 為 2031 年，票 面 利 率 約 9%，年 利 息 支 出 達 美 元 0.81 億。
-管 理 層 規 劃 於  2027 年 交 割 並 表 後 進 行 債 務 再 融 資 ， 透 過 台 系 與 歐 系 銀 行
-將 利 率 降 至 4.5% –6% ， 預 估 每 年 節 省 約 美 元 0.41 億 利 息 支 出 ， 扣 稅 後 將
-直 接 挹 注 合 併 淨 利 。 
-材料 *-KY 2Q26 毛 利 率 降 至 40.9% ，主 因 山 東 各 廠 進 行 3 週至  1 個 月 歲
-修 ， 停 工 固 定 費 用 全 數 列 入 當 期 銷 貨 成 本 ，3Q26 毛 利 率 已 回 升 至 近 五 成 ；
-3Q26 另 認 列 自 山 東 匯 回 美 元 3 億 資 本 之 10% 一 次 性 所 得 稅， 約 為 0.30 
-億美元 (約 新 台 幣 9.6 億元 )， 不 影 響 本 業 長 期 獲 利 。  
-產業與產品布局上，全球絲束市場由五大業者濃縮為四大業者。 公司 採取
-調控供給策略，將山東部分產能轉向長絲、短絲及不織布，維持絲束市場
-供給緊縮以支撐產品價格。收購宣布後引發下游避險訂單，公司採取控制
-接單策略，將談判遞延至  10/2026 至  11/2026 進行  2027 年 合 約 調 價 。
-產品分工方面，材料 -KY 負 責 長 絲 、 短 絲 及 塑 膠 級 醋 片 ， 切 入 紡 織 、 眼 鏡
-框與  AI 穿戴材料； Cerdia 則主打  85 種濾嘴規格及  100% 生物可降解
-濾 嘴。材 料 *-KY 具 備 眼 鏡 膠 框 熱 解 回 收 專 利，正 與 東 莞 大 型 眼 鏡 廠 合 作 處
-理每年約  1.65 萬 噸 廢 料 ， 預 計 12/2026 正 式 公 告 。
-
-### Page 2
-
-產業速報  
-                                        2026 年 10 月 1 日
-
-2 群益投顧 
-  相 關 個 股 獲 利 預 估 、 評 價 及 投 資 建 議 
-公司 代號 EPS(元) 年底每股淨值(元) 股價(元) PER PBR 投資評等 目標價(元) 隱含漲幅                       
-2026(F) 2027 (F) 2026(F) 2027 (F)
-
-特 用 化 學  
-勝一  1773  9 . 4 5 1 0 . 5 7 4 4 . 0 7 5 0 . 7 1 1 6 7 . 50 1 5 . 8 5 3 . 3 0 Ne u t ra l    -   
-新應材  4749  1 5 . 1 5 2 3 . 0 8 1 0 3 . 96 1 1 4 . 98 7 6 6 . 00 3 3 . 1 9 6 . 6 6 B u y 1 2 1 0 .0 0 5 7 . 9 6 %  
-三福化  4755  5 . 7 3 7 . 9 4 5 4 . 8 4 5 7 . 9 0 1 1 8 . 00 1 4 . 8 5 2 . 0 4 Ne u t ra l    -   
-上品  4770  1 3 . 0 0 1 6 . 5 3 1 1 0 . 25 1 1 9 . 58 2 8 2 . 00 1 7 . 0 6 2 . 3 6 Ne u t ra l    -   
-台特化  4772  6 . 4 1 8 . 7 2 2 9 . 9 8 3 6 . 2 5 2 6 9 . 00 3 0 . 8 4 7 . 4 2 B u y 3 2 5 . 00 2 0 . 8 1 %
-
-資 料 來 源 ： 群 益 投 顧 彙 整 預 估  
-附 註 ： EPS 以 最 新 股 本 調 整 回 溯 ；  
-PER= 股價 /2027 (F) EPS ； PBR= 股價 /2027 (F) 年 底 預 估 每 股 淨 值
-
-### Page 3
-
-產業速報  
-                                        2026 年 10 月 1 日
-
-3 群益投顧 
-  【 投 資 評 等 說 明 】 
-  評等  定義  
-  強力買進 (Strong Buy)  首 次 評 等 潛 在 上 漲 空 間≥ 35%  
-  買進 (Buy)  15%≤ 首 次 評 等 潛 在 上 漲 空 間<35%  
-  區間操作 (Trading Buy)  5%≤ 首 次 評 等 潛 在 上 漲 空 間<15%
-
-中立 (Neutral)  
-無 法 由 基 本 面 給 予 投 資 評 等 
-預 期 近 期 股 價 將 處 於 盤 整 
-建 議 降 低 持 股
-
-【 投 資 評 等 調 整 機 制 】 
-  投 資 評 等 係 「 首 次 」 給 予 特 定 個 股 投 資 評 等 時 ， 其 前 一 日 收 盤 價 相 較3 個
-月目標價之潛在上漲空間計算而得。個股投資評等分為 四 個等級，定義如
-上 。 爾 後 的 投 資 評 等係 依 循 「 首 次 評 等 」 ， 直 到 停 止 推 薦 。  
-「 強 力 買 進 」、「 買 進 」及「 區 間 操 作 」均有 upside 目 標 價 。差 別 僅 在 於 ，
-首 次 評 等 時 潛 在 報 酬 率 不 同 。 「 中 立 」 則 無 目 標 價 。 
-一旦我們給予特定個股「強力買進」 、 「買進」 或「區間操作」 之投資評
-等，就是責任的開始，爾後將透過各式研究報告作定期性、持續性追蹤基
-本 面 及 股 價 變 化 ， 直 到 停 止 推 薦 。 
-停 止 推 薦 情 境 ： 
-1.  達 目 標 價 。 
-2.  雖 未 達 原 訂 目 標 價 ， 但 檢 視 基 本 面 、 訊 息 面 、 籌 碼 面 等 多 方 訊 息 ，
-研 判 股 價 上 漲 空 間 已 然 有 限 ， 將 適 時 出 具 降 評 報 告 。 
-3.  推 薦 後 股 價 不 漲 反 跌 ， 亦 將 出 具 降 評 報 告 。
-
-【免責聲明】  
-  本研究報告僅提供予特定人之客戶作為參考資料「非經同意不得轉載」。
-我們並不確保此資訊的完整性與正確性，投資人應了解，報告中有關未來
-預測之陳述可能不會實現，因而不應被依賴。而且此報告並非根據特定投
-資 目 的 或 依 預 定 對 象 之 財 務 狀 況 所 撰 寫 出 來 的，因 此，此 研 究 報 告 的 目 的 ，
-既非對投資人於買賣證券、選擇權、期貨或其他證券相關之衍生性商品提
-供詢價服務，亦非作為進行交易的要約。投資人應注意到相關證券之價值
-及收益，可能會有無預警地上升或下降，產生投資回報金額可能比原始投
-資 來 得 少 的 情 形 。
-
----
-## Document 113: 6515 UBS
+## Document 114: 6515 UBS
 
 Source PDF: all report pdf/6515 UBS.pdf
 Report source: 未公開來源
-Date: 2026-10-08
+Date: 2026-10-07
 Pages: 32
 Extraction status: ok
 
@@ -7227,7 +7226,7 @@ constitute, advice within the meaning of the Municipal Advisor Rule.  For inform
 ab
 
 ---
-## Document 114: 6667信紘科 宏遠
+## Document 115: 6667信紘科 宏遠
 
 Source PDF: all report pdf/6667信紘科 宏遠.pdf
 Report source: 未公開來源
@@ -7775,7 +7774,7 @@ B+
 2024 2025 2026
 
 ---
-## Document 115: 6672騰輝電子-KY20260929-元富投顧(台新新光金控)報告
+## Document 116: 6672騰輝電子-KY20260929-元富投顧(台新新光金控)報告
 
 Source PDF: all report pdf/6672騰輝電子-KY20260929-元富投顧(台新新光金控)報告.pdf
 Report source: 未公開來源
@@ -8024,7 +8023,7 @@ Operating 11.7 16.8 20.8 22.6 ROA 7.5 7.0 22.9 39.0
 Net 9.9 14.5 16.2 17.7 ROE 10.3 9.8 35.0 74.8
 
 ---
-## Document 117: 7799禾榮科 元富
+## Document 118: 7799禾榮科 元富
 
 Source PDF: all report pdf/7799禾榮科 元富.pdf
 Report source: 未公開來源
@@ -9264,7 +9263,7 @@ market risks. Read all the related documents carefully
 before investing.
 
 ---
-## Document 193: ChipMOS Technologies UBS 0929
+## Document 207: ChipMOS Technologies UBS 0929
 
 Source PDF: all report pdf/ChipMOS Technologies UBS 0929.pdf
 Report source: 未公開來源
@@ -10150,120 +10149,7 @@ constitute, advice within the meaning of the Municipal Advisor Rule.  For inform
 ab
 
 ---
-## Document 211: ECONOMIC WEEK AHEAD_ October 5-9
-
-Source PDF: all report pdf/ECONOMIC WEEK AHEAD_ October 5-9.pdf
-Report source: 未公開來源
-Date: 2026-10-04
-Pages: 8
-Extraction status: ok
-
-### Page 1
-
-From:    Yardeni QuickTakes <yardeni-research@ghost.io>
-Subject: ECONOMIC WEEK AHEAD: October 5-9
-Date:    13 hours ago
-ECONOMIC WEEK AHEAD: October 5-9
-
-YARDENI QUICKTAKES
-ECONOMIC WEEK AHEAD:
-October 5-9
-By Ed Yardeni & Toby Hearst • 4 Oct 2026
-View in browser
-
-### Page 2
-
-Photo by Monica Sauro / Unsplash
-
-### Page 3
-
-Most of last week's economic indicator reports were strong: Initial jobless
-claims fell to near a 57-year low, ADP private payrolls rose 90,000 in
-September, and the ISM M-PMI was in expansion for a ninth straight
-month. Friday's employment report was the exception. Nonfarm payrolls
-rose just 29,000 in September, well below expectations, while July and
-August were revised down by a combined 60,000. The unemployment
-rate edged up to 4.2%.
-Odds of a 25bps hike in the federal funds rate (FFR) at the October 27-28
-
-FOMC meeting fell to 22%, with odds of one at the December meeting at
-67%. Odds of two hikes by December is at just 3%. In other words, the
-market still expects a rate hike this year, though it has all but ruled out
-two. However, we still think the Fed ought to hike at least enough to
-reverse last year's three 25bps "insurance" cuts. September's hike
-reversed one, which leaves two more to go.
-This week's data calendar is light, with Wednesday's FOMC minutes the
-
-main event. Here's more:
-(1) FOMC minutes. September's FOMC meeting minutes (Wed) should
-reveal how much support the Committee has for tightening beyond what
-the dot plot in the September meeting’s Summary of Economic
-Projections implies.
-The median projection of meeting participants showed the FFR at 4.1% at
-the end of this year and next, i.e., one more 25bps hike in 2026 followed
-by a hold lasting throughout 2027 (chart). Fed Chair Kevin Warsh said the
-
-September hike "removed a dose of accommodation," implying that the
-FFR remains below the neutral rate. The median longer-run neutral rate
-estimate in September’s dot plot rose to 3.25%, a post-pandemic high.
-
-### Page 4
-
-The FFR futures market’s prediction is more hawkish than the Fed
-officials’ median. FFR futures imply 3.3 rate hikes over the next 12 months
-and 1.7 over the next six months (chart).
-The 2-year Treasury yield is at 4.78%, well above the 4.00% top of the
-FFR target range, with 12-month futures at 4.70% (chart).
-
-### Page 5
-
-(2) PMIs. S&P Global's flash NM-PMI jumped to 58.7 in September from
-56.5 in August, suggesting that ISM's NM-PMI (Mon), which was 55.4 in
-August, remained strong last month (chart). Services prices-paid
-components deserve close attention, as the supercore PCED inflation rate
-has been rising since October 2025.
-(3) ADP employment & jobless claims. ADP's weekly employment
-reading (Tue), covering the weeks ended September 12 and 19, follows a
-rise in the four-week average to 20,000 for the week ended September 5,
-
-up from a late-July bottom of 8,250 (chart). That pace closely matched
-September's ADP private payrolls gain of 90,000.
-
-### Page 6
-
-Initial jobless claims (Thu) follow last week's 197,000, the lowest since
-July 18. The four-week average fell to 200,000. Continuing claims
-dropped to 1,701,000 for the week ended September 18, the lowest since
-March 2023, with the four-week average at 1,739,000. The low level of
-initial claims confirmed September's low unemployment rate of 4.2%
-(chart).
-(4) Global. Eurozone retail sales ex autos fell 0.6% m/m in July, following
-June's record high (chart). August's data (Tue) should show whether that
-
-was just a blip.
-
-### Page 7
-
-Bank of England Governor Andrew Bailey may signal whether rising
-energy prices warrant a hike when he speaks at the Central Bank of
-Turkey's conference (Thu), after three Monetary Policy Committee
-members voted for one in September. The markets put the odds of a
-November hike at 88%, with roughly 66bps of additional tightening priced
-in for 2027.
-Canada's employment report for September (Fri) follows August's 41,700
-job loss, with the unemployment rate holding at 6.4% (chart).
-
-💡
-Join the discussion with Ed below! To leave comments or questions,
-log in to the Yardeni QuickTakes website and post them at the end
-
-### Page 8
-
-clause.
-Yardeni QuickTakes © 2026 – Unsubscribe
-
----
-## Document 214: Elon Musk denies TSMC to build and run TeraFab for SpaceX_Tesla
+## Document 231: Elon Musk denies TSMC to build and run TeraFab for SpaceX_Tesla
 
 Source PDF: all report pdf/Elon Musk denies TSMC to build and run TeraFab for SpaceX_Tesla.pdf
 Report source: 未公開來源
@@ -10328,126 +10214,7 @@ RESTACK
 Unsubscribe
 
 ---
-## Document 241: GFHK - CPO _ NPO
-
-Source PDF: all report pdf/GFHK - CPO _ NPO.pdf
-Report source: 未公開來源
-Date: 2026-09-30
-Pages: 4
-Extraction status: ok
-
-### Page 1
-
-Equity Research 
-Sector Report | Networking｜Sep 29, 2026 
-CPO Accelerates, Yet Stock Implications Vary
-
-Overseas  
-Technology
-
-What’s New?  
-Following our earlier notes of CPO/NPO Accelerates on Aug  17, we believe that Nvidia’s CPO scale-out switch progress is faster than 
-expected. On the other hand, for NPO, due to slower than expected AWS T4 rollout, we revise our total OE shipments forecast to 6.5m/42m 
-in 2027E/2028E respectively. We provide our view on recent development and key stocks below. 
-Comments  
-Nvidia’s Scale-out CPO:  Following Nvidia’s Aug ‑14 announcement, Spectrum ‑X CPO switches have entered mass production. To 
-support the ramp, TSMC has expanded CPO testing/inspection capacity, notably adding Insertion 2/3 equipment. Key components such 
-as FAU are also progressing well, helped by improving multi ‑plug/unplug yield rates. At the system level, we believe major component 
-suppliers are already on site, enabling cleanroom ‑level system integration from early Sep t. We now forecast Nvidia’s CPO switch 
-shipments at 15k/16k/30k/100k for 4Q26/1Q27/2Q27/2027. 
-Nvidia & AWS Scale-up NPO: Per our AI Platform Value Shift report on Aug 6, NVL576‑based scale‑up CPO/NPO systems are expected 
-to begin adoption in 2H27E, with two switch boards per NVSwitch tray, each board carrying four ASICs, paired with four 3.2T OEs/ASIC. 
-We reiterate our view that CPO (QM5 + 4 OEs) and NPO (QM5 + 4 OEs on sockets) are progressing in parallel, and our view is similar 
-with Street expectations for full NPO adoption at NVL576 launch given NPO maturity. The next to watch is Feynman, which our supply  
-chain research indicate is also being developed in both CPO and NPO variants; packaging ‑side visibility suggests CPO (QM6 with six 
-6.4T OEs) remains on track. For AWS, given limited near‑term visibility on T4 tape‑out, we now shift our Trainium 4 launch to 1Q28. We 
-forecast AWS OE consumption at 0m/12m units for 2H27E/2028E. Incorporating ASIC and AMD volumes, we now expect global scale‑up 
-OE demand to reach 6.5m/42m in 2027E/2028E.  
-Recommendations   
-• Likes: 1) Lumentum (LITE Buy) on CPO acceleration which supports valuation, with CPO/NPO revenue contribution of 12%/26% in 
-CY27/CY28; 2) Browave (3163 TT) & Bizlink (3665 TT Buy)  on CPO’s shuffle box of ~8x content vs. NPO ’s, with production to 
-accelerate in 1Q27E. 3) Semtech (SMTC Buy) on TIA/Driver for NPO, despite our downward revision, due to tight supply.  
-• Dislikes: Largan (3008 TT) as our analysis indicates EPS contribution of NT$20/NT$97 in CY27/CY28, assuming shipments begin 
-in 2H27, suggesting implied 20x CY28 valuation which is not particularly cheap, with further risk on market share given the incumbent 
-supplier’s ongoing yield improvements and a growing number of new entrants.  
-Risks   
-1) AI demand slowdown, 2) supply constraint, 3) competition.
-
-### Page 2
-
-Sector Report | Networking
-
-Figure 1: NPO OE Shipments Forecast (mn units) 
-  2027E 2028E 
-NPO OE for Scale-up   
-Nvidia's 3.2T NPO 6 19.7 
-AWS's 6.4T NPO 0 12 
-AMD’s 6.4T NPO 0.5 1.7 
-Other CSPs' NPO  9 
-Total Scale-up NPO OE 6.5 42.4
-
-Sources: Company data, GF Securities (Hong Kong) Brokerage.
-
-Figure 2: LITE CPO/NPO revenue contribution 
-  2027E 2028E 
-CPO Laser Revenue 427 750 
-NPO Laser Revenue 501 2,550 
-Total CPO/NPO Rev (USD m) 928 3,300 
-Revenue Contribution   12%  26%
-
-Sources: Company data, GF Securities (Hong Kong) Brokerage.
-
-Figure 3: SMTC NPO EPS contribution 
-  2027E 2028E 
-NPO Market Share  30%  30% 
-ASP ($) 80 80 
-Net Profit (NM 30%) (USD m) 47 305 
-EPS Contribution ($) 0.47 3.03
-
-Sources: Company data, GF Securities (Hong Kong) Brokerage.
-
-Figure 4: Largan CPO/NPO EPS contribution  
-  2027E 2028E 
-CPO+NPO OE (m units) 10 50 
-Market share  20%  20% 
-ASP (FA+PMLA)  100 100 
-Net Profit (NM 40%) (USD m) 83 403 
-EPS Contribution (NT$) 20 97
-
-Sources: Company data, GF Securities (Hong Kong) Brokerage.
-
-Risks 
-1) AI demand slowdown, 2) supply constraint, 3) competition.
-
-### Page 3
-
-Sector Report | Networking 
-3
-
-Rating definitions Benchmark: Hang Seng Index (Hong Kong)
-
-Company ratings Buy Stock expected to outperform benchmark by more than 10%  
- Hold  Expected stock relative performance ranges between -10% and 10%  
- Underperform Stock expected to underperform benchmark by more than 10%
-
-Sector ratings
-
-Positive Sector expected to outperform benchmark by more than 10%  
- Neutral Expected sector relative performance ranges between -10% and 10% 
- Cautious Sector expected to underperform benchmark by more than 10%
-
-Hong Kong Company GF Securities (Hong Kong) Brokerage Limited 
- Address 27/F, GF Tower, 81 Lockhart Road, Wan Chai, Hong Kong  
- Telephone (852) 37191111  
- Email evanlee@gfgroup.com.hk
-
-### Page 4
-
-Sector Report | Networking 
-4
-
----
-## Document 246: GLOBAL MARKET CALL_ Bond Vigilantes Gone Wild
+## Document 268: GLOBAL MARKET CALL_ Bond Vigilantes Gone Wild
 
 Source PDF: all report pdf/GLOBAL MARKET CALL_ Bond Vigilantes Gone Wild.pdf
 Report source: 未公開來源
@@ -10585,7 +10352,7 @@ clause.
 Yardeni QuickTakes © 2026 – Unsubscribe
 
 ---
-## Document 258: JPM_Jentech_Precision_In_2026-09-29_5467298
+## Document 284: JPM_Jentech_Precision_In_2026-09-29_5467298
 
 Source PDF: all report pdf/JPM_Jentech_Precision_In_2026-09-29_5467298.pdf
 Report source: 未公開來源
@@ -11673,7 +11440,7 @@ This document is being provided for the exclusive use of Tommy Liou at Cathay Li
 {[{l-qKBKDkMSGRZ-af4-izP6nFFixN3EsWUexmjUbtBHL4psh4Kjks0z9obr4FmMss9TjXdguJZXLwTNKBwhYJlmv3GhhtWKOaQCMK978}]}
 
 ---
-## Document 298: Sales Trader Commentary_ Riding the TAIEX 50k Tailwind _ GSTW
+## Document 330: Sales Trader Commentary_ Riding the TAIEX 50k Tailwind _ GSTW
 
 Source PDF: all report pdf/Sales Trader Commentary_ Riding the TAIEX 50k Tailwind _ GSTW.pdf
 Report source: 未公開來源
@@ -12080,7 +11847,7 @@ Services Regulatory Authority or any other relevant licensing authorities in the
 https://marquee.gs.com/s/content/markets/6e9730b7-9d60-456a-8d36-151d2199ac2a 9/9
 
 ---
-## Document 324: TSMC(2330TW) MQ 261006
+## Document 358: TSMC(2330TW) MQ 261006
 
 Source PDF: all report pdf/TSMC(2330TW) MQ 261006.pdf
 Report source: 未公開來源
@@ -12091,7 +11858,7 @@ Extraction status: ok
 [No extractable text after boilerplate filtering.]
 
 ---
-## Document 334: US SECTORS CALL_ Information Technology, Consumer Discretionary & Consumer Staples
+## Document 366: US SECTORS CALL_ Information Technology, Consumer Discretionary & Consumer Staples
 
 Source PDF: all report pdf/US SECTORS CALL_ Information Technology, Consumer Discretionary & Consumer Staples.pdf
 Report source: 未公開來源
@@ -12214,7 +11981,204 @@ clause.
 Yardeni QuickTakes © 2026 – Unsubscribe
 
 ---
-## Document 359: 【國泰證期研究部】中砂(1560 TT)-買進(+15.1%)-穩居半導體材料關鍵角色-20260930
+## Document 399: 【國泰證期研究部】4Q26 PCB產業展望-供需失衡、銅價飆漲，銅箔價格續揚-20260930
+
+Source PDF: all report pdf/【國泰證期研究部】4Q26 PCB產業展望-供需失衡、銅價飆漲，銅箔價格續揚-20260930.pdf
+Report source: 未公開來源
+Date: 2026-09-30
+Pages: 7
+Extraction status: ok
+
+### Page 1
+
+1
+
+4Q26 PCB 產業展望 
+供需失衡、銅價飆漲，銅箔價格續揚
+
+### Page 2
+
+投資 顧問 
+產業報告 
+ 2026/09/30
+
+2 
+4Q26 PCB 產業展望 
+供需失衡、銅價飆漲，銅箔價格續揚 
+結論與建議 
+1. 銅箔過往主要以 HVLP1/2等級為主，而在更低的傳輸損耗/延遲要求下，進入 26年，多
+數平台包括 AI伺服器及交換器，在銅箔的選用上已升級至 HVLP3，且部分終端已將規格
+提升至 HVLP4，包含 NVIDIA Vera Rubin伺服器平台、AMD新平台 MI400系列；ASIC
+方面，26年以 AWS T 3為大宗，以及 1.6T高速交換機同樣採用到 HVLP4銅箔進行搭配。 
+2. 考量下一世代 AI 產品將逐步出貨，研究部預估整體 HVLP4 需求將在 4Q26 超過 1,000
+噸/月(以 Hoz 計算)，儘管銅箔龍頭供應商三井持續宣布擴充產能，台廠金居也宣布增加
+產能並持續將低階銅箔產能轉至 HVLP，再加上終端逐步認證中國供應商供給，但預期以
+現階段的產能仍無法滿足未來幾年持續增加的需求。 
+3. 考量 4Q26高階 HVLP產品需求大幅提升，銅箔廠商將持續將產能轉向高階需求，研究部
+認為產品組合轉佳力度將由於銅價侵蝕之影響，整體來看，銅箔廠商將有望受惠於由銅價
+走升所帶動之營收成長，以及產能逐步由低階轉向高階占比，帶動毛利率持續轉好之趨勢。
+
+4Q26 投資展望 
+1. 研究部認為銅箔產業漲價趨勢將持續，且漲價邏輯已由單純銅價成本轉嫁，逐步轉向高階
+HVLP 產品供需緊俏所帶動的加工費提升。隨高階銅箔 HVLP3/4 需求自 2H26 因下一世
+代 AI 產品需求增加下加速，而新增產能仍受到良率、認證及產能轉換限制，預期高階銅
+箔價格將由成本轉嫁逐步轉向稀缺性定價，4Q26 供應商議價能力仍有進一步提升空間，
+帶動營收與獲利表現上行，主要受惠台廠為金居(8358 TT)。 
+2.  AI PCB受惠於 NV GPU AI Server 以及各大 CSP的 ASIC Server 升級迭代需求，同時也
+一併帶動 CCL 材料規格朝向升級趨勢不變，新世代產品規格皆往高階原物料靠攏，且包
+含玻纖布、銅箔在內等重要原料價格持續高漲，有益於 CCL 廠商持續執行漲價策略，故
+維持看好 CCL廠商後市表現，包含台光電(2383 TT)、台燿(6274 TT)、聯茂(6213 TT)。 
+個股 代碼 
+預估每股盈餘 每股盈餘成長率 預估本益比/本淨比 
+目標價 最新收盤價 評等 
+2025 2026F 2027F 2025 2026F 2027F 2025 2026F 2027F 
+金居 8358 TT 4.21 10.97 19.39 15% 161% 77% 118 45 26 600 498 買進 
+台光電 2383 TT 40.88 114.01 213.98 53% 179% 88% 120 43 23 6,400 4,920 買進 
+台燿 6274 TT 12.13 38.78 79.04 27% 165% 101% 122 38 19 1,975 1,485 買進 
+聯茂 6213 TT 4.16 16.56 32.49 84% 298% 96% 149 37 19 N/A 620 未評等 
+三井金屬 5706 JT 159.55 159.25 178.01 41% 0% 12% 14 14 13 N/A 2,272 未評等 
+姜仁匡 
+PCB 
++886-2-2326-9899#1601 
+kenchiang@cathayfut.com.tw
+
+### Page 3
+
+投資 顧問 
+產業報告 
+ 2026/09/30
+
+3 
+高階 CCL 規格提升，銅箔供需失衡延續 
+AI PCB受惠於 NV GPU AI Server 以及各大 CSP的 ASIC Server升級迭代需求，包括應用於 GPU、
+ASIC AI Server 及 800G/1.6T的交換器板等高階 PCB需求，於近兩年產值大幅提升。同時也一併
+帶動 CCL材料規格朝向升級趨勢不變，新世代產品規格皆往高階原物料靠攏。 
+CCL 三大上游原材料為樹脂、銅箔、玻纖布。26 年初以來，我們看到玻纖布市場因主要廠商向高
+規格產品靠攏降低產能下，產品價格飆漲趨勢至年底仍尚未停止，而高階產品也在需求大幅開出之
+下亦將面臨短缺問題。而在銅箔方面，過往主要以 HVLP1/2等級為主，而在更低的傳輸損耗/延遲
+要求下，進入 26 年，多數平台包括 AI 伺服器及交換器，在銅箔的選用上已升級至 HVLP3，並且
+有部分終端已將規格提升至 HVLP4，帶動銅箔廠商營收增長，包含 NVIDIA Vera Rubin 伺服器平
+台中 CCL需求主要 Compute Tray、Switch Tray、Midplane上，其中 CCL規格包括 M8~M9(含 
+M8+)，AMD新平台 MI400系列也亦將採用 M8搭配 HVLP4等級規格。而 AI ASIC 平台方面，
+美系 CSP 持續提高資本支出預算，同時自主研發 ASIC 晶片趨勢愈發激烈，26年主要以 AWS的 
+Trainum 3為採用 HVLP4為大宗，而我們觀察到 Google TPU V8 則仍以 HVLP3配合 M8之 CCL
+規格，預期將要於下一代 V9 才會升級至 HVLP4。另外，為追求極致的傳輸損耗，1.6T 高速交換
+機同樣採用到 HVLP4銅箔進行搭配。 
+圖一：各 HVLP 規格銅箔示意圖                                                                                  圖二：銅箔基板 CCL 
+資料來源：三井金屬、國泰證期研究部整 
+表一：各家 AI 晶片平台採用 HVLP4 方案規格
+
+### Page 4
+
+投資 顧問 
+產業報告 
+ 2026/09/30
+
+4 
+過往材料主要供應商掌握在大部分日商手中，包含三井金屬、古河、福田以及歐洲盧森堡，然而多
+數廠商在擴廠方面皆較為保守，導致高階原料出現供不應求。隨著更多的高階 AI 平台採用高階銅
+箔，我們觀察到銅箔市場緊缺程度逐漸在擴大。因考量銅箔規格由 HVLP1/2提升到 HVLP3/4，產
+能約略將下降一半，加上現階段 AI用高階銅箔皆以 Hoz為主，甚至未來採行至 Toz，將近一步降
+低銅箔廠商有效產能。考量下一世代 AI產品將逐步出貨，研究部預估整體 HVLP4需求將在 4Q26
+超過 1,000 噸/月(以 Hoz 計算)，儘管銅箔龍頭供應商三井持續宣布擴充產能，台廠金居也宣布增
+加產能並持續將低階銅箔產能轉至 HVLP，再加上終端逐步認證中國供應商供給，但預期以現階段
+的產能仍無法滿足未來幾年持續增加的需求。 
+圖三：HVLP4 供需預期(以 Hoz 計算) 
+資料來源：國泰證期研究部整 
+銅現貨價持續上漲，有助銅箔廠持續轉嫁成本 
+銅箔廠商購買銅線浸泡於硫酸溶液中做離子交換，再用滾筒製造銅箔。對銅箔廠而言，公司每月以
+平均銅價加上加工費向下游 CCL 廠商進行報價，因此銅價格與其營收以及利潤結構息息相關。觀
+察今年銅價整體維持高檔震盪並較去年明顯上行，LME銅價於年初 US$11,000/噸，一路升至目前
+9M26 US$14,000/噸以上的水準，年內漲幅約接近 30%，主要受到礦端供給受限、冶煉原料偏緊，
+以及資料中心、電網與能源轉型相關需求支撐。對銅箔廠而言，銅價上漲趨動產品 ASP 與帳面營
+收成長，即使實際出貨量不變，營收金額仍可能隨原料銅價上升而增加。考量到銅礦供給持續受限，
+以及美國恐對精煉銅進口加徵關稅之下，全球銅庫存持續下探，4Q26 銅價格亦有望持續向上攀升。 
+另外，儘管銅箔廠商向下游報價採用前一個月之平均銅價格，在銅價快速走升的情況下，有時無法
+及時跟進價格調整，導致毛利受到部分侵蝕，惟考量 4Q26高階 HVLP產品需求大幅提升，銅箔廠
+商將持續將產能轉向高階需求，研究部認為產品組合轉佳力度將由於銅價侵蝕之影響，整體來看，
+銅箔廠商將有望受惠於由銅價走升所帶動之營收成長，以及產能逐步由低階轉向高階占比，帶動毛
+利率持續轉好之趨勢。 
+-200
+-100
+0
+100
+200
+300
+400
+500
+0
+200
+400
+600
+800
+1000
+1200
+4Q25 1Q26 2Q26 3Q26E 4Q26E
+Supply Demand SD Gap
+
+### Page 5
+
+投資 顧問 
+產業報告 
+ 2026/09/30
+
+5 
+圖四：金居營收與銅價格走勢圖 
+資料來源：Bloomberg、國泰證期研究部整理 
+此外，研究部認為銅箔產業漲價趨勢持續升溫，且漲價邏輯已由單純銅價成本轉嫁，逐步轉向高階
+HVLP 產品供需緊俏所帶動的加工費提升。 金居 1H26 以來於高階銅箔 加工費已陸續調漲約
+5~10%；而日商三井金屬則延續 2H25 VSP漲價成果，並於 3M26啟動 MicroThin價格協商。隨
+高階銅箔 HVLP3/4需求自 2H26因下一世代 AI產品需求增加下加速，而新增產能仍受到良率、認
+證及產能轉換限制，預期高階銅箔價格將由成本轉嫁逐步轉向稀缺性定價，4Q26 供應商議價能力
+仍有進一步提升空間，帶動營收與獲利表現上行。 
+圖五：預期銅箔加工費將持續提升 
+0
+2000
+4000
+6000
+8000
+10000
+12000
+14000
+0
+500
+1000
+1500
+2000
+2500
+3000
+1Q232Q233Q234Q231Q242Q243Q244Q241Q252Q253Q254Q251Q262Q26
+8358 TT Sales LME Copper Price
+0
+5
+10
+15
+20
+25
+30
+35
+HTE RTF RG HVLP1 HVLP2 HVLP3 HVLP4
+Before After
+
+### Page 6
+
+投資 顧問 
+產業報告 
+ 2026/09/30
+
+6
+
+### Page 7
+
+投資 顧問 
+產業報告 
+ 2026/09/30
+
+7 
+投資評等定義
+
+---
+## Document 400: 【國泰證期研究部】中砂(1560 TT)-買進(+15.1%)-穩居半導體材料關鍵角色-20260930
 
 Source PDF: all report pdf/【國泰證期研究部】中砂(1560 TT)-買進(+15.1%)-穩居半導體材料關鍵角色-20260930.pdf
 Report source: 未公開來源
@@ -12644,7 +12608,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 365: 【國泰證期研究部】金居(8358 TT)-買進(+25.3%)-金石穩築，長線向榮-20261001
+## Document 406: 【國泰證期研究部】金居(8358 TT)-買進(+25.3%)-金石穩築，長線向榮-20261001
 
 Source PDF: all report pdf/【國泰證期研究部】金居(8358 TT)-買進(+25.3%)-金石穩築，長線向榮-20261001.pdf
 Report source: 未公開來源
@@ -13016,7 +12980,7 @@ SELL 賣出 < -15%
 註:潛在報酬率=( 6 個月內目標價/本次報告評等最近一天收盤價 – 1 ) * 100
 
 ---
-## Document 470: 凱基投顧_2753 八方雲集_莊政翰_20260930
+## Document 515: 凱基投顧_2753 八方雲集_莊政翰_20260930
 
 Source PDF: all report pdf/凱基投顧_2753 八方雲集_莊政翰_20260930.pdf
 Report source: 未公開來源
@@ -13609,7 +13573,7 @@ Sep-25 Oct-25 Nov-25 Dec-25 Jan-26 Feb-26 Mar-26 Apr-26 May-26 Jun-26 Jul-26 Aug
 資料來源：TEJ，凱基
 
 ---
-## Document 471: 凱基投顧_3231 緯創_2026_09_30
+## Document 516: 凱基投顧_3231 緯創_2026_09_30
 
 Source PDF: all report pdf/凱基投顧_3231 緯創_2026_09_30.pdf
 Report source: 未公開來源
@@ -14462,7 +14426,7 @@ Sep-25 Dec-25 Feb-26 Apr-26 Jun-26 Aug-26
 資料來源：TEJ，凱基
 
 ---
-## Document 472: 凱基投顧_6683 雍智_許芝瑄_20261005
+## Document 517: 凱基投顧_6683 雍智_許芝瑄_20261005
 
 Source PDF: all report pdf/凱基投顧_6683 雍智_許芝瑄_20261005.pdf
 Report source: 未公開來源
@@ -15409,7 +15373,7 @@ Dec-24A Dec-25A Dec-26F Dec-27F Dec-28F
  泰國          曼谷
 
 ---
-## Document 474: 凱基投顧_9933 中鼎_賴偉中_20260930
+## Document 519: 凱基投顧_9933 中鼎_賴偉中_20260930
 
 Source PDF: all report pdf/凱基投顧_9933 中鼎_賴偉中_20260930.pdf
 Report source: 未公開來源
@@ -16187,7 +16151,7 @@ Sep-25 Dec-25 Feb-26 Apr-26 Jun-26 Aug-26
  泰國          曼谷
 
 ---
-## Document 476: 凱基投顧_NKE Nike_劉昃恩_20261005
+## Document 521: 凱基投顧_NKE Nike_劉昃恩_20261005
 
 Source PDF: all report pdf/凱基投顧_NKE Nike_劉昃恩_20261005.pdf
 Report source: 未公開來源
@@ -16831,7 +16795,7 @@ Oct-23 Apr-24 Oct-24 Apr-25 Oct-25 Apr-26 Oct-26
 免責聲明
 
 ---
-## Document 477: 凱基投顧_Takeaway_1783 和康生_陳宣甫_20260930
+## Document 522: 凱基投顧_Takeaway_1783 和康生_陳宣甫_20260930
 
 Source PDF: all report pdf/凱基投顧_Takeaway_1783 和康生_陳宣甫_20260930.pdf
 Report source: 未公開來源
@@ -17001,7 +16965,192 @@ QA
 九月 30, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 4
 
 ---
-## Document 521: 國票-3675 德微-20260929 initiation
+## Document 525: 凱基投顧_Takeaway_7799 禾榮科_ 陳宣甫_20261005
+
+Source PDF: all report pdf/凱基投顧_Takeaway_7799 禾榮科_ 陳宣甫_20261005.pdf
+Report source: 未公開來源
+Date: 2026-10-05
+Pages: 5
+Extraction status: ok
+
+### Page 1
+
+十月 05, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 1
+
+法說會重點摘要
+
+禾榮科 
+(7799 TT, NT$ 537, 未評等)
+
+重點摘要  
+1. 禾榮科加速器型硼中子捕獲治療（AB -BNCT ）系統合作案累計 6
+台。截至 2026/9/9 恩慈治療累計病患 200+ 人、300+ 人次，治療
+國家含台灣共 12 個、適應症逾 20 種；復發型腦膜瘤一二期學術
+臨床局部控制率 100% 、無惡化存活（PFS ）率 83.3% ，復發型頭
+頸癌客觀反應率（ ORR）77.8%  
+2. 公司目標於 2026 年底取得 B10 L -BPA 藥證。北榮約 12 億元預計
+於 1H27 完工認列，明基 16 億元採完工比例法、2027 年起部分認
+列，藥物收入與設備使用費估自 2H27 開始貢獻， 試驗為 single 
+arm、無解盲問題  
+3. 2028- 2029 年其餘設備陸續貢獻，新加坡預計 2028 年底建置完
+成；海外已向新加坡 HSA 申請醫材註冊、向美國 FDA 提出 pre-
+submission ，日本與 3 家醫院深入洽談。單間治療室滿載 1,500 人
+次／年對應藥物收入約 6 億元，我們認為公司營收結構將由一次性
+設備認列，逐步轉向隨治療人次成長的藥物 recurring revenue ，治
+療人次爬升速度為 2028 年後成長的關鍵  
+結論 
+我們認為 2027 年為禾榮科由建置驗證期進入營收兌現期的轉折年，北
+榮設備完工認列與 BPA 藥證取得為近期最明確的兩項催化劑。理由包
+括在手 6 台訂單與認列時程明確；恩慈治療 300+ 人次的實績與同日多
+照野能力，使其在適應症廣度與單機周轉上與日本同業拉開差距；以
+及海外法規先行、日本與美國案件推進。後續驗證點在於藥證實際核
+發時點、取證後恩慈轉為收費下的治療人次能否達到公司每間治療室
+1,000 人的假設，以及中醫大合作條件與海外首台訂單的落地
+
+設備訂單與營收認列時程  
+ AB-BNCT 系統合作案累計 6 台，國內 4 台（中醫大、北榮、竹
+銘、義大） 、海外2 台（南京明基、新加坡） ；北榮與明基為賣斷，
+其餘採合作模式  
+ 2027 年為轉折點，設備與藥物雙引擎同時啟動：  
+ 北榮（第 1 台）採完工認列，約 12 億元於 1H27 完整認列 
+ 明基合約 16 億元採完工比例法，2027 年起依 milestone 部分認
+列 
+ 中醫大設備仍屬公司資產，2027 年先以藥物收入加設備使用費
+貢獻 
+ 認列順序為 2027 年北榮與明基、2028 年新加坡（預計 2028 年
+底建置完成）、2029 年義大（有機會提早）；竹銘、新加坡、
+義大均規劃為單間治療室
+
+凱基投顧
+
+陳宣甫 
+886.2.2181.8724 
+hsuan.chen@kgi.com
+
+徐雋翔 
+886.2.2181.8745 
+kenny.ch.hsu@kgi.com
+
+重要免責聲明，詳見最終頁
+
+### Page 2
+
+台灣 禾榮科
+
+十月 05, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 2
+
+藥證進度與藥物收入情境  
+ B10 L -BPA 目標於 2026 年底取得藥證；北榮設備預計於 1H27 完
+工並完成醫材證與運轉許可，藥物銷售估自 2H27 開始 
+ 年度藥物收入＝BNCT 治療人次× 每人次 BPA 收入（NT$40 萬 ）： 
+ 500 人次約 2 億元 
+ 1,000 人次約 4 億元 
+ 1,500 人次約 6 億元，為單間治療室一天 6 人次、250 個工作日
+的滿載量 
+ 藥物收入與設備使用費每年持續發生，屬 recurring revenue ；設備
+營收看訂單，後續成長主要靠藥物  
+ BNCT 單次治療費用約 100 萬元；取得藥證後恩慈治療多數轉為收
+費治療，公司表示在需求大於供給下不會主動降價，並規劃成立基
+金會協助弱勢病人
+
+恩慈治療實績與潛在病患池  
+ 截至 2026/9/9 ，恩慈治療累計病患 200+ 人、治療 300+ 人次： 
+ 國內 180+ 人／260+ 人次 
+ 國際 20+人／40+人次，治療國家含台灣共 12 個 
+ 日本自有 BNCT 設備仍轉介病患來台， 2026/7 新增江戶川醫院轉
+介；該院設備稼動率 不高，公司稼動率則高達 99%以上 
+ 台灣 BNCT 潛在適應症新發病患 2023 年為 54,966 人，2022-2023
+年增長 8%；以存活 5 年計，累計潛在病患約 24.2 萬人 
+ 2027 年運轉者為北榮 1 間與中醫大 2 間治療室，公司以每間
+1,000 人估算合計約 3,000 人 
+ 北榮重粒子治療中心一個療程約 150 萬元、每年治療約 250-300
+人且已滿載，公司據此認為高階放射治療的自費需求充足 
+ 醫院自購設備一年 100-200 名病人可回本，BOT 模式約 50-60 人
+即可
+
+臨床數據與 BNCT 臨床定位  
+ 復發型腦膜瘤一二期學術臨床（2026/8/25 公告） ：受試者10 人、
+追蹤 169 天，局部控制率 100% 、 PFS 率 83.3% 、整體存活
+（OS）率 100% 
+ 醫師公開發表之治療數據： 
+ 威脅視覺系統腫瘤（ 17 人）：視力保留率 92.9% 、腫瘤控制率
+94.1%  
+ 復發型惡性肉瘤（17 人）：腫瘤控制率 94.1%  
+ 復發型頭頸癌（18 人）：ORR 77.8%  
+ 需兼顧危及器官（ OAR ）保護的腦幹、視神經、脊髓旁腫瘤，為
+BNCT 具不可替代性的領域  
+ 同日多照野為公司獨有，已有 2 例同日 3 照野，2026/9/8 完成同一
+
+### Page 3
+
+台灣 禾榮科
+
+十月 05, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 3
+
+病患同日 4 照野（腫瘤長 22.2cm ） ，可補足BNCT 的深度限制  
+ 術前輔助治療局部晚期口腔癌一二期學術臨床於 2026/7/15 通過
+TFDA IND 審查，三陰性乳癌（ TNBC ）學術 IND 於 2026/5 提出；
+公司預期 BNCT 將成為搭配手術、免疫治療或化療的平台型治療
+
+國際拓展與競爭差距  
+ 法規先行：2026/5 向新加坡衛生科學局（HSA ）申請醫材註冊，新
+加坡同意沿用台灣資料；2026/ 6 向美國 FDA 提出 pre-submission  
+ 洽談中案件：  
+ 日本：與 3 家醫院深入討論設備或藥物合作，為最可能成案的海
+外下一台 
+ 美國：已有客戶洽談中，近期有 1 例美國病患將來台治療 
+ 其他：東南亞延伸至馬來西亞、越南，歐洲為倫敦與德國，中東
+與阿聯酋 The Node Company 合作導入 GCC 市場 
+ 資源集中於海外，國內刻意放慢，不以較差條件擴點；國內以高
+雄、桃園洽談進度較快  
+ 與日本同業設備相比，公司質子電流 0.25mA 、功率 7.5kW ，照野
+切換約 10 分鐘、每日周轉 6 人，日本同業為 1mA、30kW 、切換
+逾 2 小時、每日 2 人；土地面積、投資與維運人力成本約為住友
+（Sumitomo ）的 1/3 
+ 策略夥伴包含 Cosylab 、西門子醫療、沛爾生醫（ 6949）與 B dot 
+Medical
+
+QA 
+ 藥證時程是否有風險？若延後對 2027 年營收有何影響？ 
+ 試驗為 single arm 、以 response rate 為指標，無對照組與安慰
+劑，沒有解盲問題，變數在主管機關流程  
+ 北榮完工認列在 1H27 ，用藥與藥物營收均估在 2H27 
+ 藥證以頭頸癌申請，取得後只能治療頭頸癌嗎？  
+ 取得藥證後醫師可 off-label use 於其他適應症，恩慈治療與學術
+臨床即為其臨床依據  
+ 美國 FDA pre -submission 規劃走什麼路徑？  
+ 希望走 510(k) ，以先前的中子治療儀器作為比對品；若不被接
+受，依序為補資料、執行臨床 
+ 希望比照新加坡，由對方認可台灣既有資料  
+ 日本病患數不少，為何還要把病人送來台灣？  
+ 日本設備輻射量較高，照完一個照野後須間隔逾 2 小時，一天只
+能照 2 人 
+ 需 4 照野的病例在日本須拆成 2 天，治療計畫無法成立
+
+### Page 4
+
+台灣 禾榮科
+
+十月 05, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 4
+
+ 中醫大該台的安排為何？  
+ 2027 年先收藥費與使用抽成，設備仍屬公司資產，合約尚未細
+談 
+ 該據點為公司衝治療量、做研究與展示之用，取得藥證後可接受
+無設備醫院轉入病患  
+ 新廠 2028 年完成前，加速器與 BPA 供應是否足夠？  
+ 加速器目前向外採購，已提前下單，在手 3-4 台，之後轉自製，
+到 2028 年仍夠用 
+ BPA 由台灣神隆（1789 ）生產，產能無虞
+
+### Page 5
+
+台灣 禾榮科
+
+十月 05, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 5
+
+---
+## Document 568: 國票-3675 德微-20260929 initiation
 
 Source PDF: all report pdf/國票-3675 德微-20260929 initiation.pdf
 Report source: 未公開來源
@@ -17443,7 +17592,7 @@ $600
 • 國票可能與該公司進行業務而處於緘默期
 
 ---
-## Document 523: 國票-4770 上品-20260930
+## Document 570: 國票-4770 上品-20260930
 
 Source PDF: all report pdf/國票-4770 上品-20260930.pdf
 Report source: 未公開來源
@@ -17963,7 +18112,7 @@ $400
 • 國票可能與該公司進行業務而處於緘默期
 
 ---
-## Document 548: 宏遠-6643 M31-20260929
+## Document 595: 宏遠-6643 M31-20260929
 
 Source PDF: all report pdf/宏遠-6643 M31-20260929.pdf
 Report source: 未公開來源
@@ -18439,7 +18588,7 @@ A+A+A+A+A+
 2024 2025 2026
 
 ---
-## Document 552: 富邦-2408 南亞科-20261006
+## Document 599: 富邦-2408 南亞科-20261006
 
 Source PDF: all report pdf/富邦-2408 南亞科-20261006.pdf
 Report source: 未公開來源
@@ -18886,7 +19035,7 @@ Market Weight  Sector expected to perform in line with the broader market averag
 Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 563: 康和-Oracle Jupiter 計畫評論-20260929
+## Document 610: 康和-Oracle Jupiter 計畫評論-20260929
 
 Source PDF: all report pdf/康和-Oracle Jupiter 計畫評論-20260929.pdf
 Report source: 未公開來源
@@ -19070,7 +19219,7 @@ OCI 收 入 實 現 時 程 可 能 遞 延；對 台 灣 OD M 與 零 組 件 �
 投 資 結 果 自 行 負 責 。
 
 ---
-## Document 617: 福邦-4971 英特磊-20261006
+## Document 678: 福邦-4971 英特磊-20261006
 
 Source PDF: all report pdf/福邦-4971 英特磊-20261006.pdf
 Report source: 未公開來源
@@ -19348,7 +19497,7 @@ G r a n d  F o r t u n e  S e c u r i t i e s                                   
 本報告係就內部參考用，純屬參考性質，並不具備任何法律效果，其正確性不做任何承諾或保證。
 
 ---
-## Document 648: 統一-1307 三芳-20260929
+## Document 708: 統一-1307 三芳-20260929
 
 Source PDF: all report pdf/統一-1307 三芳-20260929.pdf
 Report source: 未公開來源
@@ -19779,7 +19928,7 @@ ainReport/data/FileStream?id=d4c2faf7-242b-
 請參見末頁重要批露及免責聲明  10
 
 ---
-## Document 677: 群益-2404 漢唐-20261001
+## Document 741: 群益-2404 漢唐-20261001
 
 Source PDF: all report pdf/群益-2404 漢唐-20261001.pdf
 Report source: 未公開來源
@@ -20060,7 +20209,7 @@ YoY(%)
 情形。
 
 ---
-## Document 680: 群益-3443 創意-20261006
+## Document 744: 群益-3443 創意-20261006
 
 Source PDF: all report pdf/群益-3443 創意-20261006.pdf
 Report source: 未公開來源
@@ -20308,7 +20457,7 @@ YoY(%)
 情形。
 
 ---
-## Document 699: 華南-2228 劍麟-20260930
+## Document 765: 華南-2228 劍麟-20260930
 
 Source PDF: all report pdf/華南-2228 劍麟-20260930.pdf
 Report source: 未公開來源
