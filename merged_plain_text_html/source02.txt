@@ -3,11 +3,11 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 377: When your assumptions have only upside risk (2026-10-09)
+## Document 377: When your assumptions have only upside risk (2026-10-10)
 
-Source PDF: all report pdf/When your assumptions have only upside risk (2026-10-09).pdf
+Source PDF: all report pdf/When your assumptions have only upside risk (2026-10-10).pdf
 Report source: Westpac IQ
-Date: 2026-10-09
+Date: 2026-10-10
 Pages: 352
 Extraction status: ok
 
@@ -247,36 +247,39 @@ and concerns in the community through ambitious reform and long-term planning.
 
 ### Page 12
 
-2026 Intergenerational Report 
-x | Executive summary 
-The AI revolution 
-AI will be a defining influence on our economy over the coming decades. AI technological 
-advancements, adoption and investment are accelerating rapidly, fuelling expectations 
-that AI will prove to be a genuinely ‘general-purpose’ technology. AI can now complete 
-a wide range of cognitive routine and non-routine tasks to a level that surpasses 
-human-level performance benchmarks and its capabilities are expected to keep advancing 
-at a rapid pace. This has been a driver of substantial capital investment by hyperscale 
-cloud computing providers, which has quadrupled since the 2023 IGR (Chart 1).1 
-The economic and social impacts of AI will be profound, but their nature and magnitude 
-will depend on how broadly and deeply AI is adopted, Australia’s position in global supply 
-chains and specific AI use cases. For these reasons, estimates of AI’s potential productivity 
-benefits vary widely.2 The Productivity Commission estimates that AI could boost 
-multifactor productivity in Australia by at least 2.3 per cent over 10 years.3
+2026 Intergenerational Report
+x | Executive summary
+The AI revolution
+AI will be a defining influence on our economy over the coming decades. AI technological
+advancements, adoption and investment are accelerating rapidly, fuelling expectations
+that AI will prove to be a genuinely ‘general-purpose’ technology. AI can now complete
+a wide range of cognitive routine and non-routine tasks to a level that surpasses
+human-level performance benchmarks and its capabilities are expected to keep advancing
 
-Labour market impacts of AI are not yet fully evident but are expected to be uneven. 
-While some tasks will be automated using AI, demand for labour is expected to increase 
-in other areas – including tasks that can be performed to a higher standard by workers 
-equipped with AI tools. Many jobs will be redesigned to realise these benefits, with the 
-tasks that can be automated unbundled from other parts of roles that require human 
-coordination, judgement and relationships. 
-Australia is well positioned to benefit from the global AI revolution, given our stable 
-institutions, abundant renewable energy potential and well-developed international 
-connectivity, including in the Indo-Pacific region. We are a leading destination globally 
-for data centre investment, which has seen a near doubling of capital expenditure in this 
-area since the 2023 IGR, and there is potential to capture value in other parts of global 
-AI supply chains. This will build on existing strengths in areas like quantum computing 
-and business services. Ensuring AI investment and adoption is aligned with Australia’s 
-national interests will improve Australia’s competitiveness, resilience and wellbeing in the 
+at a rapid pace. This has been a driver of substantial capital investment by hyperscale
+cloud computing providers, which has quadrupled since the 2023 IGR (Chart 1).1
+The economic and social impacts of AI will be profound, but their nature and magnitude
+will depend on how broadly and deeply AI is adopted, Australia’s position in global supply
+chains and specific AI use cases. For these reasons, estimates of AI’s potential productivity
+benefits vary widely.2 The Productivity Commission estimates that AI could boost
+
+multifactor productivity in Australia by at least 2.3 per cent over 10 years.3
+Labour market impacts of AI are not yet fully evident but are expected to be uneven.
+While some tasks will be automated using AI, demand for labour is expected to increase
+in other areas – including tasks that can be performed to a higher standard by workers
+equipped with AI tools. Many jobs will be redesigned to realise these benefits, with the
+tasks that can be automated unbundled from other parts of roles that require human
+
+coordination, judgement and relationships.
+Australia is well positioned to benefit from the global AI revolution, given our stable
+institutions, abundant renewable energy potential and well-developed international
+connectivity, including in the Indo-Pacific region. We are a leading destination globally
+for data centre investment, which has seen a near doubling of capital expenditure in this
+area since the 2023 IGR, and there is potential to capture value in other parts of global
+
+AI supply chains. This will build on existing strengths in areas like quantum computing
+and business services. Ensuring AI investment and adoption is aligned with Australia’s
+national interests will improve Australia’s competitiveness, resilience and wellbeing in the
 decades ahead.
 
 ### Page 13
@@ -10601,9 +10604,7 @@ non-linear techniques such as logistic functions (Table A3.1).
 Appendices | 2026 Intergenerational Report
 Methodology and assumptions | 311
 Table A3.1 Coverage trend model projection methodologies
-Coverage
-rates  Future trends Unit cost growth outside
-the forwards estimates
+Coverage rates  Future trends Unit cost growth outside the forwards estimates
 Disability Support Pension Based on age
 and gender
 Logistic function used to
