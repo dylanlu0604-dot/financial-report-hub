@@ -17,6 +17,7 @@ from dotenv import load_dotenv
 from playwright.sync_api import sync_playwright
 from playwright_stealth import Stealth
 from xml.sax.saxutils import escape  # 🌟 新增這一行來處理 XML 特殊字元
+from xml.etree import ElementTree as ET
 import pytz
 
 # 🌟 新增 OpenAI 套件 (請確認 requirements.txt 裡面有 openai)
@@ -30,8 +31,7 @@ load_dotenv()
 ENABLE_AI_SUMMARY = False
 PDF_RETENTION_DAYS = 30
 NON_DISCLOSABLE_SCRAPER_MODULES = {"line_reports", "substackreport"}
-UNDISCLOSED_SOURCE_LABEL = "未公開來源"
-REPORTS_CSV_FIELDS = ["發佈日期", "報告名稱", "原始券商報告連結", "是否可揭露"]
+REPORTS_CSV_FIELDS = ["發佈日期", "報告名稱", "原始券商報告連結", "不可以揭露"]
 
 GITHUB_USER = "dylanlu0604-dot"
 GITHUB_REPO = "financial-report-hub"
@@ -83,11 +83,7 @@ def source_is_disclosable(report):
     return value is not False
 
 def original_report_link(report):
-    link = str(report.get("OriginalLink", "") or report.get("Link", "")).strip()
-    hostname = (urllib.parse.urlparse(link).hostname or "").lower()
-    if hostname == "github.com" or hostname.endswith(".github.com") or hostname == "raw.githubusercontent.com":
-        return ""
-    return link
+    return str(report.get("OriginalLink", "") or report.get("Link", "")).strip()
 
 def write_reports_csv(reports, csv_path):
     with open(csv_path, "w", encoding="utf-8-sig", newline="") as csv_file:
@@ -99,15 +95,35 @@ def write_reports_csv(reports, csv_path):
                 "發佈日期": report.get("Date", ""),
                 "報告名稱": report.get("Name", ""),
                 "原始券商報告連結": original_report_link(report),
-                "是否可揭露": "可" if disclose_source else "不可",
+                "不可以揭露": "否" if disclose_source else "是",
             })
 
 def public_report_record(report):
-    public_report = dict(report)
-    if not source_is_disclosable(report):
-        public_report["Source"] = UNDISCLOSED_SOURCE_LABEL
-        public_report.pop("OriginalLink", None)
-    return public_report
+    # Disclosure status is metadata only: keep report names, sources, and links intact.
+    return dict(report)
+
+def load_existing_rss_sources(data_folder):
+    """保留既有 RSS 來源清單，讓本輪零筆報告的來源仍輸出空白 XML。"""
+    sources = set()
+    if not os.path.isdir(data_folder):
+        return sources
+
+    for filename in os.listdir(data_folder):
+        if not filename.startswith("rss_") or not filename.endswith(".xml"):
+            continue
+
+        path = os.path.join(data_folder, filename)
+        try:
+            root = ET.parse(path).getroot()
+            title = root.findtext("./channel/title", "")
+        except (ET.ParseError, OSError):
+            title = filename[4:-4].replace("_", " ")
+
+        suffix = " 財經報告"
+        source = title[:-len(suffix)] if title.endswith(suffix) else title.strip()
+        sources.add(source)
+
+    return sources
 
 def cleanup_old_pdfs(pdf_folder, current_reports, previous_reports):
     cutoff_date = (datetime.now() - timedelta(days=PDF_RETENTION_DAYS)).date()
@@ -150,6 +166,7 @@ def main():
     pdf_folder = "all report pdf"
     data_folder = "data"
     previous_reports = load_previous_reports(os.path.join(data_folder, "reports.json"))
+    rss_source_names = load_existing_rss_sources(data_folder)
 
     # 只重建輸出資料；PDF 資料夾保留近 30 天檔案，避免每次重複下載。
     import shutil
@@ -175,10 +192,24 @@ def main():
             
         try:
             module = importlib.import_module(f"scrapers.{module_name}")
+            for attribute in ("SOURCE", "SOURCE_NAME"):
+                source_name = getattr(module, attribute, None)
+                if isinstance(source_name, str) and source_name.strip():
+                    rss_source_names.add(source_name)
+            declared_sources = getattr(module, "RSS_SOURCES", ())
+            if isinstance(declared_sources, str):
+                declared_sources = (declared_sources,)
+            rss_source_names.update(
+                source_name for source_name in declared_sources
+                if isinstance(source_name, str) and source_name.strip()
+            )
+
             if hasattr(module, "scrape"):
-                results = module.scrape()
+                results = module.scrape() or []
                 if results:
                     for report in results:
+                        if report.get("Source"):
+                            rss_source_names.add(str(report["Source"]))
                         report["SourceDisclosureAllowed"] = (
                             source_is_disclosable(report)
                             and module_name not in NON_DISCLOSABLE_SCRAPER_MODULES
@@ -410,7 +441,7 @@ def main():
 
     md_content = "# 📊 最新財經報告總覽\n\n"
     for report in unique_reports:
-        display_source = report.get('Source', '') if source_is_disclosable(report) else UNDISCLOSED_SOURCE_LABEL
+        display_source = report.get('Source', '')
         md_content += f"### {report['Name']}\n來源: {display_source} | 日期: {report['Date']} | 頁數: {report['PageCount']} 頁\n"
         md_content += f"[📥 查看報告]({report['Link']})\n\n"
     with open('data/reports_for_notebooklm.md', 'w', encoding='utf-8') as f: f.write(md_content)
@@ -441,7 +472,7 @@ def main():
     </tr></thead><tbody>\n"""
     
     for r in unique_reports:
-        display_source = r.get('Source', '') if source_is_disclosable(r) else UNDISCLOSED_SOURCE_LABEL
+        display_source = r.get('Source', '')
         html_content += f"<tr><td><b>{display_source}</b></td><td>{r['Date']}</td><td><span class='page-badge'>{r['PageCount']}</span></td>"
         html_content += f"<td><a href='{r['Link']}' target='_blank'>{r['Name']}</a></td><td>{r['Summary']}</td></tr>\n"
 
@@ -479,10 +510,10 @@ def main():
     # ==========================================
     # ... (前面的 JSON、Markdown、HTML 生成程式碼保持不變) ...
 
-    reports_by_source = {}
+    # 每個既有或本輪發現的來源都產生 RSS XML；無報告來源也輸出空 feed。
+    # 揭露設定只作為標記，不會移除 RSS 報告或來源。
+    reports_by_source = {source: [] for source in rss_source_names}
     for report in unique_reports:
-        if not source_is_disclosable(report):
-            continue
         source = report.get('Source', 'Unknown')
         if source not in reports_by_source: reports_by_source[source] = []
         reports_by_source[source].append(report)

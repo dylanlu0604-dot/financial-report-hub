@@ -3,6 +3,8 @@ import re
 import requests
 from datetime import datetime, timedelta
 
+RSS_SOURCES = ("Merrill Lynch (CMO)", "Merrill Lynch (Viewpoint)")
+
 MONTH_MAP = {
     "january": 1, "february": 2, "march": 3, "april": 4,
     "may": 5, "june": 6, "july": 7, "august": 8,

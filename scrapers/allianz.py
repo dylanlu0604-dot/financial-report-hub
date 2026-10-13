@@ -17,6 +17,7 @@ ARTICLE_ROOT = BASE_URL + "/en_global/news-insights/economic-insights/"
 INDEX_URL = BASE_URL + "/en_global/news-insights/economic-insights.html"
 SITEMAP_URL = BASE_URL + "/en_global.sitemap.xml"
 MAX_AGE_DAYS = 25
+RSS_SOURCES = ("Allianz Trade",)
 
 
 def article_urls(session):

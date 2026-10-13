@@ -25,6 +25,7 @@ HEADERS = {
 
 # 最多收錄最近幾篇文章
 MAX_ARTICLES = 10
+RSS_SOURCES = ("CFR (Follow the Money)",)
 
 
 def clean_title(title):
