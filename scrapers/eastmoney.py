@@ -2,6 +2,7 @@ import json
 import re
 import urllib.parse
 from datetime import datetime, timedelta
+from scrapers.utils import REPORT_WINDOW_DAYS
 from playwright.sync_api import sync_playwright
 from playwright_stealth import Stealth
 
@@ -15,8 +16,8 @@ def scrape():
     # 目標列表頁
     target_url = "https://data.eastmoney.com/report/macresearch.jshtml"
     
-    # 取得 30 天前的日期，用來過濾舊報告
-    thirty_days_ago = datetime.now() - timedelta(days=30)
+    # 取得 45 天前的日期，用來過濾舊報告
+    cutoff_date = datetime.now() - timedelta(days=REPORT_WINDOW_DAYS)
     
     try:
         with sync_playwright() as p:
@@ -58,7 +59,7 @@ def scrape():
                 # 時間過濾
                 try:
                     publish_date = datetime.strptime(date_str, "%Y-%m-%d")
-                    if publish_date < thirty_days_ago:
+                    if publish_date < cutoff_date:
                         continue
                 except ValueError:
                     pass

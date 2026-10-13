@@ -1,11 +1,12 @@
 import requests
 from datetime import datetime, timedelta
+from scrapers.utils import REPORT_WINDOW_DAYS
 
 # ==========================================
 # 🕷️ 主爬蟲程式：凱基證券 (KGI)
 # ==========================================
 def scrape():
-    print("🔍 正在爬取 KGI (凱基證券) - 🎯 啟動 URL 規律探測模式 (過去 30 天)...")
+    print(f"🔍 正在爬取 KGI (凱基證券) - 🎯 啟動 URL 規律探測模式 (過去 {REPORT_WINDOW_DAYS} 天)...")
     reports = []
     
     # 確保月份名稱絕對是英文，避免作業系統語系干擾
@@ -21,8 +22,8 @@ def scrape():
 
     today = datetime.now()
     
-    # 迴圈：從今天開始，往前推算 30 天 (共檢查 31 天)
-    for i in range(31):
+    # 迴圈包含今天與之前 REPORT_WINDOW_DAYS 天
+    for i in range(REPORT_WINDOW_DAYS + 1):
         target_date = today - timedelta(days=i)
         
         year = target_date.strftime("%Y")

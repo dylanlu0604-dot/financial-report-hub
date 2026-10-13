@@ -1,21 +1,13 @@
 from bs4 import BeautifulSoup
 import re
 from urllib.parse import urljoin, unquote
-from datetime import datetime
 from playwright.sync_api import sync_playwright
 from playwright_stealth import Stealth
+from scrapers.utils import is_within_reporting_window
 
 # ==========================================
 # 🛠️ 輔助工具函式
 # ==========================================
-def is_within_30_days(date_text):
-    if not date_text: return False
-    try:
-        dt = datetime.strptime(date_text, "%Y-%m-%d")
-        return (datetime.now() - dt).days <= 30
-    except:
-        return True # 若格式特殊無法解析，先放行
-
 def clean_title(title):
     # 移除多餘空白、換行，以及可能的日期前綴
     title = title.replace('\n', ' ').strip()
@@ -97,8 +89,8 @@ def scrape():
                         if not date_text and parent.parent:
                             date_text = extract_date_from_text(parent.parent.get_text(strip=True))
                         
-                        # 3. 過濾 30 天內的報告
-                        if date_text and not is_within_30_days(date_text):
+                        # 3. 過濾 45 天內的報告
+                        if date_text and not is_within_reporting_window(date_text):
                             continue
                             
                         # 清理標題，並將報告加入清單

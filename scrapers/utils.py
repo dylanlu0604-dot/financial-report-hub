@@ -9,8 +9,8 @@ HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
 }
 
-DAYS_LIMIT = 30
-CUTOFF_DATE = datetime.now() - timedelta(days=DAYS_LIMIT)
+REPORT_WINDOW_DAYS = 45
+CUTOFF_DATE = datetime.now() - timedelta(days=REPORT_WINDOW_DAYS)
 
 # ================= 🛠️ 工具函數 =================
 def parse_date(date_str):
@@ -23,7 +23,7 @@ def parse_date(date_str):
         try: return datetime(int(year), int(month), int(day))
         except: return None
     
-    match = re.search(r'(\d{4})[./](\d{1,2})[./](\d{1,2})', date_str)
+    match = re.search(r'(\d{4})[./-](\d{1,2})[./-](\d{1,2})', date_str)
     if match:
         year, month, day = match.groups()
         try: return datetime(int(year), int(month), int(day))
@@ -51,7 +51,7 @@ def parse_date(date_str):
     
     return None
 
-def is_within_30_days(date_str):
+def is_within_reporting_window(date_str):
     date_obj = parse_date(date_str)
     if not date_obj:
         return True

@@ -5,6 +5,7 @@ import urllib.parse
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
+from scrapers.utils import REPORT_WINDOW_DAYS
 
 # ⚙️ 與 main.py 保持一致
 GITHUB_USER = "dylanlu0604-dot"
@@ -38,7 +39,7 @@ def parse_english_date(date_text):
     return "未知日期"
 
 
-def is_recent(date_str, days=30):
+def is_recent(date_str, days=REPORT_WINDOW_DAYS):
     """檢查日期是否在近 N 天內"""
     try:
         return (datetime.now() - datetime.strptime(date_str, "%Y-%m-%d")).days <= days
@@ -113,8 +114,8 @@ def scrape():
 
         final_date = parse_english_date(date_text)
 
-        # 過濾：只保留近 30 天
-        if final_date != "未知日期" and not is_recent(final_date, 30):
+        # 過濾：只保留近 45 天
+        if final_date != "未知日期" and not is_recent(final_date):
             continue
 
         report_list.append({

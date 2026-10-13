@@ -2,22 +2,14 @@ from bs4 import BeautifulSoup
 import re
 import json
 from urllib.parse import urljoin, unquote
-from datetime import datetime
 import time
 from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
 from playwright_stealth import Stealth
+from scrapers.utils import is_within_reporting_window
 
 # ==========================================
 # 🛠️ 輔助工具函式區
 # ==========================================
-def is_within_30_days(date_text):
-    if not date_text: return False
-    try:
-        dt = datetime.strptime(date_text, "%Y-%m-%d")
-        return (datetime.now() - dt).days <= 30
-    except:
-        return True
-
 def extract_info_from_url(url):
     """提取日期，並給予一個預設標題（當找不到真實標題時的保底）"""
     title, date_text = "", ""
@@ -159,7 +151,7 @@ def scrape():
             # 從 ID 或是剛剛寫好的工具萃取日期
             _, date_text = extract_info_from_url(hidden_url)
             
-            if not date_text or not is_within_30_days(date_text):
+            if not date_text or not is_within_reporting_window(date_text):
                 continue
                 
             reports.append({

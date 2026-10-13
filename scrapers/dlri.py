@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import re
 from urllib.parse import urljoin
 import time
-from scrapers.utils import HEADERS, is_within_30_days
+from scrapers.utils import HEADERS, is_within_reporting_window
 
 def scrape():
     print("🔍 正在爬取 DLRI (第一生命) - 🕵️‍♂️ 封包攔截與內頁直擊模式...")
@@ -97,7 +97,7 @@ def scrape():
                 if date_match:
                     date_text = date_match.group(0)
                 
-            if not date_text or not is_within_30_days(date_text):
+            if not date_text or not is_within_reporting_window(date_text):
                 continue
                 
             pdf_tag = soup.find('a', href=re.compile(r'\.pdf$', re.IGNORECASE))

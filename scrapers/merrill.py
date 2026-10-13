@@ -2,6 +2,7 @@ import io
 import re
 import requests
 from datetime import datetime, timedelta
+from scrapers.utils import REPORT_WINDOW_DAYS
 
 RSS_SOURCES = ("Merrill Lynch (CMO)", "Merrill Lynch (Viewpoint)")
 
@@ -81,7 +82,7 @@ def scrape_viewpoint(headers):
 # 🕷️ 主爬蟲程式：Merrill Lynch (美林 CMO)
 # ==========================================
 def scrape():
-    print("🔍 正在爬取 Merrill Lynch (美林) - 🎯 啟動 URL 規律盲測探測模式 (過去 30 天)...")
+    print(f"🔍 正在爬取 Merrill Lynch (美林) - 🎯 啟動 URL 規律盲測探測模式 (過去 {REPORT_WINDOW_DAYS} 天)...")
     reports = []
     
     # 🌟 升級版 Headers：加入更多的瀏覽器特徵，讓自己看起來像個正常人
@@ -96,8 +97,8 @@ def scrape():
 
     today = datetime.now()
     
-    # 迴圈：從今天開始，往前推算 30 天 (共檢查 31 天)
-    for i in range(31):
+    # 迴圈包含今天與之前 REPORT_WINDOW_DAYS 天
+    for i in range(REPORT_WINDOW_DAYS + 1):
         target_date = today - timedelta(days=i)
         
         # 美林 CMO 的網址日期格式為：MM-DD-YYYY (例如 02-17-2026)

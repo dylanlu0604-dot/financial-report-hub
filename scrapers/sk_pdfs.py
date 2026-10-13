@@ -1,6 +1,7 @@
 import re
 from urllib.parse import urljoin
 from datetime import datetime, timedelta
+from scrapers.utils import REPORT_WINDOW_DAYS
 from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright
 from playwright_stealth import Stealth
@@ -16,7 +17,7 @@ def scrape():
     
     today = datetime.now()
     end_date = today.strftime("%Y-%m-%d")
-    start_date = (today - timedelta(days=30)).strftime("%Y-%m-%d")
+    start_date = (today - timedelta(days=REPORT_WINDOW_DAYS)).strftime("%Y-%m-%d")
     
     tickers = ['005930', '000660', '005380', '373220', '402340', '207940', '000270', '034020', '329180', '012450']
 

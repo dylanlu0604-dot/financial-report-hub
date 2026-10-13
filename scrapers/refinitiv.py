@@ -34,7 +34,7 @@ def scrape():
                 pass
             
             print("  👉 正在展開更多報告清單 (自動向下捲動與點擊 Load More)...")
-            # 增加捲動與點擊次數，確保能涵蓋超過 30 天的報告量
+            # 增加捲動與點擊次數，確保能涵蓋更多報告量
             for _ in range(5): 
                 page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
                 page.wait_for_timeout(1500)

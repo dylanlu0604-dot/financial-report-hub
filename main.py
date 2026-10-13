@@ -5,6 +5,7 @@ import os
 import importlib
 import pkgutil
 import scrapers
+from scrapers.utils import REPORT_WINDOW_DAYS
 import requests
 import pdfplumber
 import io
@@ -29,7 +30,7 @@ load_dotenv()
 # ⚙️ 全域設定 (請確認您的 GitHub 資訊)
 # ==========================================
 ENABLE_AI_SUMMARY = False
-PDF_RETENTION_DAYS = 30
+PDF_RETENTION_DAYS = REPORT_WINDOW_DAYS
 NON_DISCLOSABLE_SCRAPER_MODULES = {"line_reports", "substackreport"}
 REPORTS_CSV_FIELDS = ["發佈日期", "報告名稱", "原始券商報告連結", "不可以揭露"]
 
@@ -133,7 +134,7 @@ def cleanup_old_pdfs(pdf_folder, current_reports, previous_reports):
     for report in current_reports:
         keep_paths.add(os.path.abspath(report_pdf_path(report, pdf_folder)))
 
-    # previous_reports 才套 30 天硬切，避免歷史堆積
+    # previous_reports 才套 45 天硬切，避免歷史堆積
     for report in previous_reports:
         if report.get('Source') == 'Mizuho (Taiwan)':
             continue
@@ -169,7 +170,7 @@ def main():
     rss_source_names = load_existing_rss_sources(data_folder)
     rss_filename_by_source = {}
 
-    # 只重建輸出資料；PDF 資料夾保留近 30 天檔案，避免每次重複下載。
+    # 只重建輸出資料；PDF 資料夾保留近 45 天檔案，避免每次重複下載。
     import shutil
     bad_folders = [data_folder]
     for folder in bad_folders:
@@ -256,7 +257,7 @@ def main():
         elif report.get('Source', '').startswith('中央銀行'):
             days_limit = 180  # 央行一季開一次會，放寬到一年
         else:
-            days_limit = 25  # 其他所有銀行的報告維持近 30 天
+            days_limit = REPORT_WINDOW_DAYS  # 其他所有銀行的報告維持近 45 天
             
         if report.get('Date') == "未知日期" or not report.get('Date') or (dt_obj and (datetime.now() - dt_obj).days <= days_limit):
             unique_reports.append(report)

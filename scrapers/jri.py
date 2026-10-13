@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import re
 from urllib.parse import urljoin
-from scrapers.utils import HEADERS, is_within_30_days, fetch_real_pdf_link
+from scrapers.utils import HEADERS, is_within_reporting_window, fetch_real_pdf_link
 
 def scrape():
     print("🔍 正在爬取 JRI (Year List)...")
@@ -43,8 +43,8 @@ def scrape():
             if not date_text:
                 continue
                 
-            # 4. 日期區間檢查（超過30天就過濾掉）
-            if not is_within_30_days(date_text):
+            # 4. 日期區間檢查（超過45天就過濾掉）
+            if not is_within_reporting_window(date_text):
                 continue
 
             # 5. 確保是報告的專屬連結格式 (排除一般網頁)

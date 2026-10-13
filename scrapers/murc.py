@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import re
 from urllib.parse import urljoin
-from scrapers.utils import HEADERS, is_within_30_days, fetch_real_pdf_link
+from scrapers.utils import HEADERS, is_within_reporting_window, fetch_real_pdf_link
 
 def scrape():
     print("🔍 正在爬取 MURC (三菱UFJリサーチ＆コンサルティング)...")
@@ -48,10 +48,10 @@ def scrape():
                 if match: 
                     date_text = match.group(0)
 
-            # 4. 核心過濾：找不到日期，或者超過 30 天，就直接踢除
+            # 4. 核心過濾：找不到日期，或者超過 45 天，就直接踢除
             if not date_text:
                 continue
-            if not is_within_30_days(date_text):
+            if not is_within_reporting_window(date_text):
                 continue
 
             # 5. 加入清單並抓取真實 PDF 連結
