@@ -9,6 +9,7 @@ from scrapers.utils import HEADERS
 # ==========================================
 RSS_URL = "https://notifier.in/rss/k8nfj5wzwfnaa53nf495lfevyxedsrco.xml"
 SOURCE_NAME = "researchmail轉寄"
+RSS_FILENAME = "rss_substack_reports.xml"
 
 # 篩選關鍵字（不分大小寫比對）
 FILTER_KEYWORDS = [

@@ -167,6 +167,7 @@ def main():
     data_folder = "data"
     previous_reports = load_previous_reports(os.path.join(data_folder, "reports.json"))
     rss_source_names = load_existing_rss_sources(data_folder)
+    rss_filename_by_source = {}
 
     # 只重建輸出資料；PDF 資料夾保留近 30 天檔案，避免每次重複下載。
     import shutil
@@ -192,17 +193,23 @@ def main():
             
         try:
             module = importlib.import_module(f"scrapers.{module_name}")
+            module_source_names = set()
             for attribute in ("SOURCE", "SOURCE_NAME"):
                 source_name = getattr(module, attribute, None)
                 if isinstance(source_name, str) and source_name.strip():
-                    rss_source_names.add(source_name)
+                    module_source_names.add(source_name)
             declared_sources = getattr(module, "RSS_SOURCES", ())
             if isinstance(declared_sources, str):
                 declared_sources = (declared_sources,)
-            rss_source_names.update(
+            module_source_names.update(
                 source_name for source_name in declared_sources
                 if isinstance(source_name, str) and source_name.strip()
             )
+            rss_source_names.update(module_source_names)
+            rss_filename = getattr(module, "RSS_FILENAME", None)
+            if isinstance(rss_filename, str) and rss_filename.strip():
+                for source_name in module_source_names:
+                    rss_filename_by_source[source_name] = rss_filename
 
             if hasattr(module, "scrape"):
                 results = module.scrape() or []
@@ -519,8 +526,11 @@ def main():
         reports_by_source[source].append(report)
         
     for source, reports in reports_by_source.items():
-        safe_source_name = source.lower().replace(" ", "_")
-        rss_filename = f"data/rss_{safe_source_name}.xml"
+        rss_filename = rss_filename_by_source.get(source)
+        if not rss_filename:
+            safe_source_name = source.lower().replace(" ", "_")
+            rss_filename = f"rss_{safe_source_name}.xml"
+        rss_filename = os.path.join("data", rss_filename)
         
         # 🌟 將來源名稱也進行安全跳脫 (以防有 S&P 這種機構名)
         safe_source_title = escape(source)
