@@ -5,13 +5,6 @@ from pypdf import PdfWriter  # 🌟 修正點 1：改用最新版的 PdfWriter
 MAX_MERGED_PDF_BYTES = int(os.getenv("MAX_MERGED_PDF_BYTES", str(45 * 1024 * 1024)))
 GITHUB_UPLOAD_BLOCK_BYTES = int(os.getenv("GITHUB_UPLOAD_BLOCK_BYTES", str(95 * 1024 * 1024)))
 
-MIN_SOURCE_PARTS = {
-    "未公開來源": 3,
-}
-UNDISCLOSED_SOURCE = "未公開來源"
-LEGACY_NON_DISCLOSABLE_SOURCES = {"line報告備份", "Substack Reports"}
-
-
 def format_bytes(byte_count):
     size = float(byte_count)
     for unit in ("B", "KB", "MB", "GB"):
@@ -80,11 +73,10 @@ def write_merged_pdf(pdf_paths, output_filename):
 
 def write_source_merged_pdfs(source, pdf_paths, output_folder):
     safe_source_name = source.replace("/", "_").replace("\\", "_").replace(" ", "_")
-    min_part_count = MIN_SOURCE_PARTS.get(source, 1)
     pending_chunks = split_paths_by_size(
         pdf_paths,
         max_bytes=MAX_MERGED_PDF_BYTES,
-        min_part_count=min_part_count,
+        min_part_count=1,
     )
     temp_outputs = []
     skipped_outputs = []
@@ -147,14 +139,7 @@ def merge_reports_by_source():
 
     source_groups = {}
     for report in reports:
-        source = report.get("Source", "Unknown_Source")
-        disclose_source = report.get("SourceDisclosureAllowed", True)
-        if (
-            disclose_source is False
-            or str(disclose_source).strip().lower() in {"false", "no", "0", "否"}
-            or source in LEGACY_NON_DISCLOSABLE_SOURCES
-        ):
-            source = UNDISCLOSED_SOURCE
+        source = report.get("Source") or "Unknown_Source"
         local_path = report.get("LocalPath")
         
         if local_path and os.path.exists(local_path):

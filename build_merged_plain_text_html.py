@@ -13,9 +13,6 @@ SRC_DIR = Path("all report pdf")
 OUT_DIR = Path("merged_plain_text_html")
 REPORTS_JSON = Path("data/reports.json")
 SOURCE_COUNT = 30
-GENERAL_SOURCE_COUNT = 25
-UNDISCLOSED_SOURCE = "未公開來源"
-LEGACY_NON_DISCLOSABLE_SOURCES = {"line報告備份", "Substack Reports"}
 SOURCE_DIGITS = 2
 BOILERPLATE_THRESHOLD = 0.30
 RAW_URL_BASE = (
@@ -51,13 +48,6 @@ def load_report_metadata() -> dict[str, dict[str, str]]:
         if not local_path:
             continue
         source = str(report.get("Source") or "")
-        disclose_source = report.get("SourceDisclosureAllowed", True)
-        if (
-            disclose_source is False
-            or str(disclose_source).strip().lower() in {"false", "no", "0", "否"}
-            or source in LEGACY_NON_DISCLOSABLE_SOURCES
-        ):
-            source = UNDISCLOSED_SOURCE
         metadata[Path(local_path).name] = {
             "source": source,
             "date": str(report.get("Date") or "未知日期"),
@@ -265,14 +255,7 @@ def distribute_documents(documents: list[dict], bucket_count: int) -> list[list[
 
 
 def split_documents(documents: list[dict]) -> list[list[dict]]:
-    general_documents = [doc for doc in documents if doc["source"] != UNDISCLOSED_SOURCE]
-    undisclosed_documents = [doc for doc in documents if doc["source"] == UNDISCLOSED_SOURCE]
-    undisclosed_bucket_count = SOURCE_COUNT - GENERAL_SOURCE_COUNT
-
-    return [
-        *distribute_documents(general_documents, GENERAL_SOURCE_COUNT),
-        *distribute_documents(undisclosed_documents, undisclosed_bucket_count),
-    ]
+    return distribute_documents(documents, SOURCE_COUNT)
 
 
 def remove_old_outputs() -> None:
