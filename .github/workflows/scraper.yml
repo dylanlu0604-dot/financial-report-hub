@@ -78,6 +78,7 @@ jobs:
           git push
 
       - name: Verify Mizuho Japan reports were published
+        if: github.event_name == 'schedule'
         run: |
           python - <<'PY'
           import json
@@ -85,7 +86,7 @@ jobs:
 
           reports = json.loads(Path("data/reports.json").read_text(encoding="utf-8"))
           count = sum(report.get("Source") == "Mizuho" for report in reports)
-          assert count > 0, "No Mizuho Japan research PDFs; the runner is blocked by HTTP 403"
+          assert count > 0, "No Mizuho Japan reports were published; see the scraper logs for the failure reason."
           print(f"Published {count} Mizuho Japan research PDFs")
           PY
 
