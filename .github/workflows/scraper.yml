@@ -2,8 +2,8 @@ name: Daily Financial Report Scraper
 
 on:
   schedule:
-    # 07:00 and 14:00 Asia/Taipei (UTC+8; GitHub Actions cron uses UTC)
-    - cron: '0 6,23 * * *'
+    # 07:05 and 14:05 Asia/Taipei (UTC+8; GitHub Actions cron uses UTC)
+    - cron: '5 6,23 * * *'
   workflow_dispatch:
 
 concurrency:
