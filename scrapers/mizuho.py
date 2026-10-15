@@ -5,6 +5,7 @@ import json
 import os
 import re
 import subprocess
+import time
 from datetime import datetime, timedelta
 from urllib.parse import urljoin
 
@@ -77,6 +78,25 @@ def is_pdf_file(path):
         return False
 
 
+def _goto_with_retry(page, url, *, wait_until, timeout, attempts=2):
+    """Retry transient navigation failures once before skipping a report."""
+    for attempt in range(1, attempts + 1):
+        try:
+            response = page.goto(url, wait_until=wait_until, timeout=timeout)
+            if response and (response.status >= 500 or response.status in (408, 429)):
+                raise RuntimeError(f"頁面 HTTP {response.status}")
+            return response
+        except Exception as exc:
+            if attempt == attempts:
+                raise
+            delay = attempt
+            print(
+                f"    ⚠️ 頁面載入失敗（{type(exc).__name__}），"
+                f"{delay} 秒後重試..."
+            )
+            time.sleep(delay)
+
+
 def _remote_pdf_body(page, pdf_url):
     """Download through the remote browser's network, not the runner's blocked IP."""
     result = page.evaluate("""async (url) => {
@@ -100,7 +120,9 @@ def _scrape_with_context(context, output_dir=PDF_FOLDER, remote_download=False):
     reports = []
     page = context.new_page()
     try:
-        response = page.goto(INDEX_URL, wait_until="domcontentloaded", timeout=45000)
+        response = _goto_with_retry(
+            page, INDEX_URL, wait_until="domcontentloaded", timeout=45000
+        )
         if not response or response.status != 200 or "Access Denied" in page.title():
             raise RuntimeError(f"瑞穗銀行研究頁無法存取（HTTP {response.status if response else '無回應'}）")
 
@@ -121,7 +143,9 @@ def _scrape_with_context(context, output_dir=PDF_FOLDER, remote_download=False):
                 if path.lower().endswith(".pdf"):
                     pdf_url = article_url
                 else:
-                    article_response = page.goto(article_url, wait_until="domcontentloaded", timeout=30000)
+                    article_response = _goto_with_retry(
+                        page, article_url, wait_until="domcontentloaded", timeout=30000
+                    )
                     if not article_response or article_response.status != 200:
                         raise RuntimeError(f"報告頁 HTTP {article_response.status if article_response else '無回應'}")
                     pdf_url = report_pdf_url(page.content(), article_url)
