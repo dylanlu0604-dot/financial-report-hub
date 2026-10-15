@@ -207,7 +207,7 @@ def scrape():
     if reports:
         print(f"  ✅ Mizuho 最終收錄 {len(reports)} 份 PDF 報告（來源：{reports[0]['Source']}）")
     else:
-        print("::error title=Mizuho research unavailable::瑞穗日本研究報告未取得；GitHub runner 受到 HTTP 403 阻擋")
+        print("::warning title=Mizuho research unavailable::瑞穗日本研究報告未取得；GitHub runner 受到 HTTP 403 阻擋，主流程會嘗試沿用保留期限內的既有 PDF")
     return reports
 
 
