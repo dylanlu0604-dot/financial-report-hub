@@ -77,17 +77,28 @@ jobs:
           git pull --rebase --autostash origin main
           git push
 
-      - name: Verify Mizuho Japan reports were published
+      - name: Verify recent Mizuho Japan reports are available
         if: github.event_name == 'schedule'
         run: |
           python - <<'PY'
           import json
+          from datetime import date, timedelta
           from pathlib import Path
+          from scrapers.utils import REPORT_WINDOW_DAYS
 
           reports = json.loads(Path("data/reports.json").read_text(encoding="utf-8"))
-          count = sum(report.get("Source") == "Mizuho" for report in reports)
-          assert count > 0, "No Mizuho Japan reports were published; see the scraper logs for the failure reason."
-          print(f"Published {count} Mizuho Japan research PDFs")
+          cutoff_date = (date.today() - timedelta(days=REPORT_WINDOW_DAYS)).isoformat()
+          mizuho_reports = [
+              report for report in reports
+              if report.get("Source") == "Mizuho"
+              and report.get("Date", "") >= cutoff_date
+          ]
+          assert mizuho_reports, "No recent or retained Mizuho Japan reports are available."
+          latest = max(report.get("Date", "") for report in mizuho_reports)
+          print(
+              f"Available {len(mizuho_reports)} recent Mizuho Japan research PDFs "
+              f"(latest: {latest}; retained reports may be used during source outages)."
+          )
           PY
 
       - name: Upload report list CSV

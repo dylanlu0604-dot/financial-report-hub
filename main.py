@@ -158,6 +158,46 @@ def cleanup_old_pdfs(pdf_folder, current_reports, previous_reports):
 
     print(f"🧹 已保留近 {PDF_RETENTION_DAYS} 天 PDF，移除 {removed_count} 個過期或未列入清單的檔案。")
 
+
+def cached_reports_for_source(previous_reports, source, pdf_folder):
+    """Reuse recent, locally available PDFs when a source is temporarily unreachable."""
+    cutoff_date = (datetime.now() - timedelta(days=PDF_RETENTION_DAYS)).date()
+    cached_reports = []
+
+    for report in previous_reports:
+        if report.get("Source") != source:
+            continue
+
+        report_date = parse_report_datetime(report.get("Date"))
+        if not report_date or report_date.date() < cutoff_date:
+            continue
+
+        local_path = report.get("LocalPath")
+        if not local_path or not os.path.isfile(local_path):
+            link = str(report.get("Link", "") or "")
+            filename = urllib.parse.unquote(
+                urllib.parse.urlsplit(link).path.rsplit("/", 1)[-1]
+            )
+            candidate = os.path.join(pdf_folder, filename) if filename else ""
+            local_path = candidate if candidate and os.path.isfile(candidate) else None
+
+        if not local_path:
+            continue
+
+        try:
+            with open(local_path, "rb") as pdf_file:
+                if pdf_file.read(4) != b"%PDF":
+                    continue
+        except OSError:
+            continue
+
+        cached_report = dict(report)
+        cached_report["LocalPath"] = os.path.abspath(local_path)
+        cached_reports.append(cached_report)
+
+    return cached_reports
+
+
 # ==========================================
 # 🚀 主程式執行區塊
 # ==========================================
@@ -213,7 +253,23 @@ def main():
                     rss_filename_by_source[source_name] = rss_filename
 
             if hasattr(module, "scrape"):
-                results = module.scrape() or []
+                try:
+                    results = module.scrape() or []
+                except Exception:
+                    if module_name != "mizuho":
+                        raise
+                    results = []
+
+                if module_name == "mizuho" and not results:
+                    results = cached_reports_for_source(
+                        previous_reports, "Mizuho", pdf_folder
+                    )
+                    if results:
+                        print(
+                            f"⚠️ Mizuho 暫時無法連線，沿用最近一次成功抓取的 "
+                            f"{len(results)} 份 PDF（保留期限 {PDF_RETENTION_DAYS} 天）。"
+                        )
+
                 if results:
                     for report in results:
                         if report.get("Source"):
