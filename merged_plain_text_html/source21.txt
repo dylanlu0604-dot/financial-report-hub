@@ -3,49 +3,6 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 026: 20261013_投資週報_標普指數獲利預期上修，科技股仍為主要動能
-
-Source PDF: all report pdf/20261013_投資週報_標普指數獲利預期上修，科技股仍為主要動能.pdf
-Report source: Yuanta (投資週報)
-Date: 2026-10-13
-Pages: 1
-Extraction status: ok
-
-### Page 1
-
-任何擔保，如有錯漏或疏忽，本行及本行之任何董事或受僱人，毋須負任何法律責任。任何人因信賴此等資料而做出或改變投資決策，應審慎衡量本
-身之需求及投資風險，自行承擔一切投資風險並自負盈虧，本行不負任何法律責任。本報告受中華民國著作權法保護為元大銀行所有，非經本行同
-意，不得將本報告內容之一部或全部加以複製、轉載或散布。本報告所載述的意見本行可隨時予以更改或撤回，恕不另行通知。
-金融市場投資週報                 2026 年 10 月 13 日
-上週重點訊息
-◼ TOPIX 啟動大規模改革：日本交易所集團 10 月 7 日公布 TOPIX 調整結果，符合新制納入標
-準的成分股將由 9 月底的 1,636 檔降至 986 檔，另有 35 檔股票新納入。現有成分股中，共
-有 683 檔未符合流動性及浮動市值等標準，這些股票將自 2026 年 10 月底起逐步降低權
-重，並於 2027 年 10 月重新評估，屆時仍未達標者將於 2028 年 7 月底降至零。此次改革有
-助於改善 TOPIX 成分股的流動性及投資價值，並促使企業更加重視市場評價。
-
-◼ 巴西總統選舉波索納洛首輪領先魯拉：巴西最高選舉法院 10 月 5 日公布首輪投票結果，參
-議員弗拉維奧・波索納洛取得 47.03%的有效票，現任總統魯拉獲得 45.16%，兩人均未取得
-過半票數，將於 10 月 25 日進行第二輪決選。若最終由波索納洛當選將相較有利於巴西股市
-表現。
-◼ IEA 支持加速釋出既有儲油：國際能源署（IEA）10 月 7 日表示，會員國支持加快釋出 3 月
-已承諾提供的儲油，並將優先增加柴油供應。截至目前，會員國已釋出約 3.25 億桶儲油；若
-剩餘承諾全數執行，可再向市場提供約 1 億桶供應，有助緩解運輸業與農業面臨的燃料成本
-壓力。隨各國持續釋出戰略儲備石油，將有利於在短期內壓抑全球油價進一步上行。
-市場展望
-◼ 標普 500 獲利預估連續上修，資訊科技為主要推升來源：標普 500 企業獲利預估連續兩季上
-修，其中資訊科技產業為主要改善來源，反映 AI、雲端運算及資料中心需求仍然強勁。雖然
-美國資料中心仍面臨電力與基礎設施瓶頸，但建置規模持續擴大，AI 投資也逐步延伸至記憶
-
-體、網路設備、資安及企業應用等領域。因此，預期科技類股的獲利動能仍具支撐，具 AI 供
-應鏈優勢的台股與日股亦可望延續相關成長動能。
-◼ 中天期債券可望兼顧息收與利率風險：美國經濟仍具韌性，加上政府與企業發債供給維持高
-檔，可能使市場利率維持在較高水準。雖然投資級債信用利差位於相對低檔，但企業獲利、
-現金流及償債能力仍具支撐，較高的美國公債基準利率也使其利息收益維持一定水準。短天
-期債券面臨利率下降後的再投資風險，長天期債券則較易受到公債供給及利率波動影響，因
-此中天期美國公債及投資級債可望在息收與利率風險之間維持較為平衡的表現。
-
----
 ## Document 050: 2026年9月29日匯率利率資訊
 
 Source PDF: all report pdf/2026年9月29日匯率利率資訊.pdf
@@ -1952,6 +1909,108 @@ M
 Idea
 Morgan Stanley Research 31
 © 2026 Morgan Stanley
+
+---
+## Document 084: 261006_daiwa_winway
+
+Source PDF: all report pdf/261006_daiwa_winway.pdf
+Report source: line報告備份
+Date: 2026-10-06
+Pages: 4
+Extraction status: ok
+
+### Page 1
+
+Summary: Winway reported September revenue of TWD1.25bn (-26.7% MoM; +87.7% 
+YoY), brining 3Q26 revenue to a record high of TWD4.56bn (+29.3% QoQ; +152.6% YoY). 
+The 3Q26 top-line result beat market consensus by 6.7% but missed Daiwa’s estimate by 
+9.1%. Following August’s exceptionally strong top line (TWD1.71bn), we had factored in a 
+higher shipment run-rate for September. However, the miss stems primarily from the 
+lumpiness of probe-card deliveries (high concentration to a single customer) and customer 
+qualification timelines, rather than order cancellations or share loss.
+
+We forecast 4Q26 revenue to track flattish to slightly down QoQ, reflecting lower probe-
+card shipment volumes compared to 3Q26, alongside typical year-end pull-in deceleration 
+from customers. On profitability, we maintain our view that 2Q26 marked the trough for 
+gross margin this year. As the revenue contribution from lower-margin MEMS probe cards 
+declines, a more favourable product mix should drive a steady QoQ gross margin recovery, 
+which may drive gross margin to reach 40% earlier than market expectations.
+
+Although we remain positive on Winway’s structural growth profile, near-term catalysts 
+appear muted. This reflects the revenue lumpiness in probe cards, while additional socket 
+capacity will not come online until March 2027—pushing the corresponding revenue 
+recognition into 2Q27. We will revisit our financial model upon the company’s 3Q26 results 
+release. We currently have a Buy (1) rating on Winway with a 12-month TP of TWD10,000.
+
+Winway monthly revenue trend
+
+Source: Company
+
+In the interests of timeliness, this document has not been edited.
+
+(100%)
+0%
+100%
+200%
+300%
+400%
+0
+500
+1,000
+1,500
+2,000
+Revenue (TWDm) YoY (RHS)
+
+Country
+
+6 October 2026
+
+MEMO 
+ Limited near-term catalysts before 2027 capacity unlock
+
+WinWay Technology (6515 TT)
+Share price (6 Oct): TWD6,130.00 12-mth rating: Buy (1) Information Technology: Taiwan
+Leon Chen
+(886) 2 8758 6247
+leon.chen@daiwacm-cathay.com.tw
+Stacy Lin
+(886) 2 8758 6252
+stacy.lin@daiwacm-cathay.com.tw
+
+### Page 2
+
+WinWay Technology (6515 TT) 
+6 October 2026 
+2
+
+### Page 3
+
+WinWay Technology (6515 TT) 
+6 October 2026 
+3
+
+### Page 4
+
+WinWay Technology (6515 TT) 
+6 October 2026 
+4
+
+• For derivative and margin transactions etc., our company may require collateral or margin requirements in accordance with an agreement made beforehand with you. Ordinarily in such cases, 
+the amount of the transaction will be in excess of the required collateral or margin requirements**.  
+• There is a risk that you will incur losses on your transactions due to changes in the market price of financial instruments based on fluctuations in interest rates, exchange rates, stock prices, 
+real estate prices, commodity prices, and others. In addition, depending on the content of the transaction, the loss could exceed the amount of the collateral or margin requirements.  
+• There may be a difference between bid price etc. and ask price etc. of OTC derivatives handled by our company.  
+• Before engaging in any trading, please thoroughly confirm accounting and tax treatments regarding your trading in financial instruments with such experts as certified public accountants.  
+*  The amount of the trading commission cannot be stated here in advance because it will be determined between our company and you based on current market conditions and the content of 
+each transaction etc. 
+**  The ratio of margin requirements etc. to the amount of the transaction cannot be stated here in advance because it will be determined between our company and you based on current market 
+conditions and the content of each transaction etc.  
+When making an actual transaction, please be sure to carefully read the materials presented to you prior to the execution of agreement, and to take responsibility for your own decisions 
+regarding the signing of the agreement with our company. 
+ Corporate Name:  Daiwa Securities Co. Ltd.  
+ Registered:  Financial Instruments Business Operator, Chief of Kanto Local Finance Bureau (Kin-sho) No.108  
+ Memberships:  Japan Securities Dealers Association, The Financial Futures Association of Japan, Investment Management Association of Japan,  
+  Type II Financial Instruments Firms Association, Japan Security Token Offering Association
 
 ---
 ## Document 088: 261006_ms_chroma
@@ -3977,6 +4036,73 @@ SK 증권 유니버스 투자등급 비율 (2026년 10 월 02 일 기준)  매�
 삼성바이오로직스 수정TP(원)
 
 ---
+## Document 175: Anthropic信用评级曝光：BB+，最高级别的垃圾级信用
+
+Source PDF: all report pdf/Anthropic信用评级曝光：BB+，最高级别的垃圾级信用.pdf
+Report source: WallstreetCN (Global)
+Date: 2026-10-16
+Pages: 2
+Extraction status: ok
+
+### Page 1
+
+Anthropic ⾸获信⽤评级 BB+ ，最⾼级别的投机级（垃圾级）评分，仅⽐投资级低⼀档。评
+级机构 KBRA 在信披极为有限的情况下，以 " ⻛险评分 " 替代完整财务模型完成评估。但
+KBRA 相较于穆迪、标普和惠誉体量更⼩，⽽后三者将最终决定 Anthropic 上市后的正式信
+⽤评级。
+摘要：
+AI 独⻆兽 Anthropic 的信⽤评级⾸次浮出⽔⾯。
+据英国《⾦融时报》获得的⽂件显⽰，信⽤评级机构 Kroll Bond Rating Agency （ KBRA ）于今
+年 6 ⽉授予 Anthropic BB+ 发⾏⼈评级 —— 即最⾼级别的投机级（垃圾级）评分，仅⽐投资级低
+⼀档。该评级在 Anthropic 完成⼀笔由 Apollo 主导、规模达 350 亿美元的芯⽚融资交易之前获得，
+此前从未公开披露。
+这⼀评级对 Anthropic 的融资前景具有直接影响。华尔街各⼤银⾏正在筹备⼀笔 600 亿美元的新债
+务⽅案，以帮助 Anthropic 收购更多由⾕歌和博通联合开发的定制 AI 芯⽚，其中包括 180 亿美元的
+
+次级债务。能否跨越投资级⻔槛，将决定 Anthropic 能否以更低成本接触寿险公司、养⽼基⾦等
+更⼴泛的机构投资者群体。
+评级细节：有限信披下的 " ⻛险评分 "
+KBRA 授予的 BB+ 评级附有稳定展望，针对的是 350 亿美元融资包中约 44 亿美元的次级债务 ——
+这部分债务将投资者直接暴露于 Anthropic 的信⽤⻛险之下；其余部分则由芯⽚制造商博通提供
+担保。该笔次级债以约 8.5% 的收益率发⾏，⾼级债的利率则为 5.75% 。
+这⼀评级是在信息披露相当有限的情况下作出的。
+据⽂件显⽰， KBRA 获得的财务信息包括营收、调整后营业收⼊以及 2026 年第⼀季度年化运营
+收⼊，以及 Anthropic 提供的第⼆季度业绩内部预测，但⾃由现⾦流及 EBITDA 等关键财务指标均
+未纳⼊披露范围。评级分析师不得不依赖假设⾃⾏估算，并最终采⽤ " ⻛险评分 " ⽅式替代传统的
+完整财务模型来评估其信⽤状况。
+财务表现：增速放缓，但⾼于预期
+Anthropic 在周三举⾏的 IPO 前投资者推介会上披露，第三季度收⼊环⽐增⻓近 50% ⾄ 168 亿美
+
+元，并连续两个季度实现调整后盈利。
+不过，这⼀增速较年初有所放缓，最新财务数据也低于部分最乐观的市场预期。
+在评级决定作出时， Anthropic 曾预测第⼆季度收⼊为 109 亿美元，据知情⼈⼠透露，实际数字⾼
+于预期，达到 115 亿美元。截⾄ 6 ⽉底，这家成⽴五年的公司⾃⾝资产负债表上债务为零，此前
+⼀直依靠信⽤状况更佳的业务合作伙伴及特殊⽬的载体进⾏融资。
+据知情⼈⼠透露， Anthropic 还可能发⾏最多 420 亿美元的可转换票据，⽤于⽀付向博通租赁半导
+体的费⽤，但 KBRA 未获提供该可转换票据的详细条款。
+评级竞赛：三⼤机构才是最终裁判
+⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⽣活家 搜索
+
+### Page 2
+
+⻛险提⽰及免责条款
+市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂
+中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
+191 收藏 分享到 :
+写评论
+图⽚
+KBRA 相较于穆迪、标普和惠誉体量更⼩，⽽后三者将最终决定 Anthropic 上市后的正式信⽤评
+级。
+Anthropic 及竞争对⼿ OpenAI 的银⾏顾问已游说上述主要评级机构，争取在两家公司上市后给
+予投资级评定。投资者预计 OpenAI 的 IPO 估值将超过 2 万亿美元。
+能否获得投资级评级，对 Anthropic 的⻓期融资战略⾄关重要。该公司预计未来⼗年将在计算资
+源和基础设施上投⼊逾 5000 亿美元，这⼀庞⼤的资本开⽀计划也被视为⽀撑美国股市投资热潮
+的重要⽀柱之⼀。
+限免
+请发表您的评论
+表情 发布评论
+
+---
 ## Document 193: Bản tin tuần 28_09 - 02_10 (2026-10-05)
 
 Source PDF: all report pdf/Bản tin tuần 28_09 - 02_10 (2026-10-05).pdf
@@ -4409,7 +4535,176 @@ Email: info@kbsec.com.vn
 Website: www.kbsec.com.vn
 
 ---
-## Document 270: Lipper - S&P 500 Earnings Dashboard 26Q3
+## Document 233: Fed tăng lãi suất, dự báo thêm một lần tăng nữa trong năm (2026-09-17)
+
+Source PDF: all report pdf/Fed tăng lãi suất, dự báo thêm một lần tăng nữa trong năm (2026-09-17).pdf
+Report source: KBSV (Thematic)
+Date: 2026-09-17
+Pages: 3
+Extraction status: ok
+
+### Page 1
+
+1
+
+F I R S T  T O  M A R K E T
+
+Fed tăng lãi suất, dự báo thêm 
+một lần tăng nữa trong năm 
+Đánh giá áp lực lên tỷ giá và lãi suất Việt Nam
+
+Fed tăng lãi suất và dự báo có thêm một lần tăng lãi suất nữa trong năm 
+— Trong kỳ họp FOMC ngày 15–16/09/2026, Fed quyết định tăng 25bps lãi suất điều hành 
+lên mức 3.75%–4%, đánh dấu lần tăng lãi suất đầu tiên kể từ năm 2023. Quyết định 
+được thông qua với tỷ lệ đồng thuận 12–0, phản ánh sự thống nhất của các thành viên 
+FOMC trong việc ưu tiên kiểm soát lạm phát. 
+— Chủ tịch Fed Kevin Warsh nhấn mạnh lạm phát vẫn ở mức cao và cần được đưa về mục 
+tiêu 2% trong thời gian phù hợp hơn. Bên cạnh đó, Fed đánh giá hoạt động kinh tế 
+đang tăng trưởng vững, tiêu dùng nội địa duy trì tích cực, năng suất và đầu tư vốn tăng 
+trưởng mạnh, trong khi thị trường lao động vẫn ổn định. Điều này cho thấy Fed chưa 
+nhận thấy áp lực suy giảm kinh tế đủ lớn để ưu tiên nới lỏng chính sách tiền tệ.  Ông 
+Warsh không đưa ra cam kết cụ thể về thời điểm tăng lãi suất, nhấn mạnh chính sách 
+sẽ phụ thuộc vào diễn biến lạm phát, thị trường lao động và các dữ liệu kinh tế sắp tới. 
+— Biểu đồ dot plot tháng 9 cho thấy Fed vẫn nghiêng về khả năng tăng thêm lãi suất 
+trong năm 2026, với 16/18 thành viên dự báo ít nhất một lần tăng nữa, đưa lãi suất điều 
+hành lên vùng 4%–4.25%. Tuy nhiên, sự phân hóa trong dự báo lãi suất năm 2027 
+(3.625%–4.375%) cho thấy đây có thể là một lần điều chỉnh nhằm kiểm soát lạm phát, 
+thay vì tín hiệu về một chu kỳ thắt chặt kéo dài.
+
+Quan điểm của KBSV đối với lãi suất và tỷ giá 
+— Trong 3 tháng cuối năm, chúng tôi đánh giá nhiều khả năng Fed sẽ có thêm một lần 
+tăng lãi suất 25bps, dựa trên:  
+(1) Fed tiếp tục nâng dự báo PCE headline và core 2026 lên thêm 10 bps so với dự 
+báo hồi tháng 6, đồng thời dự báo lạm phát sẽ quay về mức mục tiêu 2% vào năm 
+2029 (thay vì năm 2028 như dự báo trước đó), trong khi dự báo về tỷ lệ thất 
+nghiệp và tăng trưởng GDP được điều chỉnh theo hướng tích cực hơn. 
+(2) Giá dầu vẫn duy trì ở mức cao (dự kiến quay về vùng 9x USD/thùng vào quý 4) 
+trong bối cảnh xung đột tại Trung Đông tiếp tục gây gián đoạn hoạt động vận 
+chuyển và xuất khẩu dầu mỏ. Mặc dù Saudi Arabia đã tăng cường vận chuyển 
+dầu qua Oman, qua đó giảm bớt lo ngại về thiếu hụt nguồn cung trong ngắn hạn, 
+rủi ro gián đoạn vẫn hiện hữu khi xung đột chưa được giải quyết hoàn toàn. 
+— Chúng tôi nâng dự báo DXY lên vùng 98–103 điểm trong phần còn lại của năm với động 
+lực hỗ trợ USD trong ngắn hạn đến từ việc Fed phát tín hiệu tiếp tục thắt chặt, trong khi 
+thị trường điều chỉnh kỳ vọng lãi suất theo hướng duy trì cao hơn. Tuy nhiên, việc các 
+NHTW lớn khác cũng duy trì định hướng kiểm soát lạm phát có thể hạn chế mức độ mở 
+rộng chênh lệch lãi suất, qua đó làm giảm khả năng USD tăng giá một chiều và DXY 
+tăng mạnh khỏi vùng dự báo.
+
+### Page 2
+
+— Chúng tôi dự báo vĩ mô trong nước đối với: (1) tỷ giá USD/VND tới cuối năm 2026 đi 
+ngang so với cuối 2025 nhờ nguồn cung USD tích cực (từ kiều hối, FDI giải ngân và nâng 
+hạng thị trường vốn) và chênh lệch lãi suất VND-USD dù có xu hướng thu hẹp nhưng 
+vẫn duy trì trạng thái dương; và (2) lãi suất huy động sẽ duy trì ở vùng hiện tại trong 
+phần còn lại của năm và kỳ vọng có thể giảm nhẹ nếu lạm phát được kiểm soát và 
+NHNN sẽ có biện pháp hỗ trợ thanh khoản thị trường tích cực hơn.
+
+Bảng 1. Dự báo kinh tế của Fed (%)
+
+2026F 2027F 2028F 2029F 
+Tăng trưởng GDP thực Dự báo mới 2.3 2.4 2.2 2.1 
+Dự báo kỳ trước 2.2 2.2 2.3 2.2 
+Tỷ lệ thất nghiệp Dự báo mới 4.1 4.1 4.1 4.1 
+Dự báo kỳ trước 4.3 4.3 4.2 - 
+Lạm phát PCE headine Dự báo mới 3.7 2.3 2.1 2 
+Dự báo kỳ trước 3.6 2.3 2 - 
+Lạm phát PCE lõi Dự báo mới 3.4 2.5 2.2 2 
+Dự báo kỳ trước 3.3 2.5 2.1 -
+
+Nguồn: Fed, KBSV
+
+Biểu đồ 2. Chỉ số DXY và lợi suất UST 10 năm  Biểu đồ 3. Chênh lệch lãi suất VND-USD
+
+Nguồn: Bloomberg, KBSV  Nguồn: NHNN, KBSV
+
+0
+1
+2
+3
+4
+5
+6
+80
+85
+90
+95
+100
+105
+110
+115
+120
+02/17 02/18 02/19 02/20 02/21 02/22 02/23 02/24 02/25 02/26
+(%)
+DXY (LHS) US 10Y bond yield (RHS)
+-6
+-4
+-2
+0
+2
+4
+6
+8
+01/21
+04/21
+07/21
+10/21
+01/22
+04/22
+07/22
+10/22
+01/23
+04/23
+07/23
+10/23
+01/24
+04/24
+07/24
+10/24
+01/25
+04/25
+07/25
+10/25
+01/26
+04/26
+07/26
+(%)
+ON 1W 2W 1M 3M
+
+### Page 3
+
+Hệ thống khuyến nghị
+
+Hệ thống khuyến nghị đầu tư ngành 
+(Dựa trên đánh giá triển vọng trong 6 tháng tới)  
+Tích cực: 
+Vượt trội hơn thị trường 
+Trung lập: 
+Phù hợp thị trường 
+Tiêu cực: 
+Kém hơn thị trường
+
+CTCP CHỨNG KHOÁN KB VIỆT NAM (KBSV)
+
+Trụ sở chính: 
+Địa chỉ: Tầng 16&17, Tháp 2, Tòa nhà Capital Place, số 29 Liễu Giai, Phường Ngọc Hà, TP Hà Nội 
+Điện thoại: (+84) 24 7303 5333 - Fax: (+84) 24 3776 5928 
+Chi nhánh Hà Nội: 
+Địa chỉ: Tầng 14, Tòa nhà Diamond Park Plaza, số 16 Láng Hạ, Phường Giảng Võ, TP Hà Nội 
+Điện thoại: (+84) 24 7305 3335 - Fax: (+84) 24 3822 3131 
+Chi nhánh Hồ Chí Minh: 
+Địa chỉ: Tầng 21, Tòa nhà Vietinbank, số 93 - 95 Hàm Nghi, Phường Sài Gòn, TP Hồ Chí Minh 
+Điện thoại: (+84) 28 7303 5333 - Fax: (+84) 28 3914 1969 
+Chi nhánh Sài Gòn: 
+Địa chỉ: Tầng 1, Saigon Trade Center, số 37 Tôn Đức Thắng, Phường Sài Gòn, TP Hồ Chí Minh 
+Điện thoại: (+84) 28 7306 3338 - Fax: (+84) 28 3910 1611
+
+LIÊN HỆ 
+Hotline: 1900 1711 
+Email: info@kbsec.com.vn 
+Website: www.kbsec.com.vn
+
+---
+## Document 271: Lipper - S&P 500 Earnings Dashboard 26Q3
 
 Source PDF: all report pdf/Lipper - S&P 500 Earnings Dashboard 26Q3.pdf
 Report source: Refinitiv Lipper
@@ -5381,136 +5676,7 @@ securities or any derivatives related to such securities.
 TRPR_82201_20261009
 
 ---
-## Document 291: Rates Spark_ Don’t expect a break back below 5%
-
-Source PDF: all report pdf/Rates Spark_ Don’t expect a break back below 5%.pdf
-Report source: ING Think
-Date: 2026-10-15
-Pages: 3
-Extraction status: ok
-
-### Page 1
-
-We think the US 10yr stays above 5%, and in fact heads back
-up to 5.25%. That won't help the eurozone, which continues to
-grapple with the problem that is France. Probably overdone, but
-far from over
-Padhraic Garvey, CFA
-We think the 10-year yield on US Treasuries will remain above 5.00% and head
-back up to 5.25%
-The mood for US Treasuries has calmed.
-But don't get too comfortable
-Treasury market moves of late have been quite something. There
-were buyers in the 5.3% area post the CPI release on Wednesday.
-
-Then the Asian open coincided with some large falls in equities,
-with a particular focus on Korean equities, which prompted some
-follow-on buying of Treasuries. Note, however, that there have been
-decent buyers of Treasuries on an ongoing basis in the past
-number of weeks. It just has not translated into a meaningful move
-lower in yields, mostly as it had been oﬀset by net shorts on
-Treasury futures. We've been overdue a reversal.
-Cookie settings
-
-At ING we respect your right to choose how your data is used.
-Here you can specify which type of cookies you consent to and
-which you prefer to disable. Once you've made your selection,
-please conﬁrm your preferences. You can change your cookie
-preferences here at any time.
-Read more about our Cookie policy
-Essential
-Performance Cookies
-Targeting Cookies
-Conﬁrm selection Accept all
-
-### Page 2
-
-That said, we're not convinced this is a structural move, and we'd
-be quite surprised if we were to break below 5% on the 10yr yield.
-Treasuries did not react much to Thursday's data, but market
-participants will be aware that we had another good (low) jobless
-claims number, retail sales were ﬁrm and PPI inﬂation
-uncomfortably high. The market will likely use this as a platform
-from which to rebuild higher in yields over the weeks ahead, and
-into the mid-terms; especially with neither side voicing an intention
-
-to take action on the ﬁscal deﬁcit. The issues of high printed
-inﬂation and a high deﬁcit remain.
-The balance of probabilities suggests there is at least one more leg
-of long-end weakness still to play out. This could take the US 10-
-year yield back into the 5.25% to 5.5% range. Other markets would
-likely move in tandem, mapping out similar, albeit less dramatic,
-blow-outs. With 5.25% looking like a mean-reversion level, we think
-the US 10-year yield could overshoot towards 5.5% and remain
-
-elevated for a number of months as bond market jitters persist.
-This could quite easily extend into the ﬁrst quarter of 2027. Our
-views here are unchanged, despite recent moves.
-The eurozone remains in the throes of an
-uneasy holding pattern at dodgy levels
-The focus in the eurozone is increasingly insular, with France front
-and centre and setting the mood. Here too, there has been some
-market stability – but at uncomfortable levels. The standout move
-
-has been a doubling of the French 10yr swap spread from the 60bp
-area to the 120bp area. And French spreads to Germany are
-practically as wide as they've ever been since the dawn of the euro,
-even versus the immediate pre-EMU years. The safe narrative to
-reach for is the debt dynamics one, and the lack of ambition to
-correct it. Made worse, in fact, by the political options being oﬀered
-for 2028.
-This is probably overdone, as a swing to the right (should it occur)
-
-could have some tail positives that aren't currently properly
-discounted. Look at the improvement seen in Italian spreads
-following the rise of Prime Minister Giorgia Meloni. It's been gradual
-Cookie settings
-At ING we respect your right to choose how your data is used.
-Here you can specify which type of cookies you consent to and
-which you prefer to disable. Once you've made your selection,
-please conﬁrm your preferences. You can change your cookie
-
-preferences here at any time.
-Read more about our Cookie policy
-Essential
-Performance Cookies
-Targeting Cookies
-
-### Page 3
-
-This publication has been prepared by ING solely for information purposes
-irrespective of a particular user's means, ﬁnancial situation or investment
-objectives. The information does not constitute investment recommendation,
-and nor is it investment, legal or tax advice or an oﬀer or solicitation to
-purchase or sell any ﬁnancial instrument.
-Read more
-Download
-but persistent, and has not been overly impacted by French
-concerns. In that sense, the Italian response has been low beta in
-
-characterisation, which is good.
-In fact, the ﬁrst real bout of widening in French spreads can be
-traced back to President Emmanuel Macron's election gamble of
-mid-2024. Things subsequently calmed, but were not forgotten.
-The recent spike is an ampliﬁcation and extension of an underlying
-tension that has not gone away. So, overdone? Probably, yes. But
-we also remain in a danger zone for bonds generally. Just like in the
-US, more overshoots to the upside are entirely foreseeable.
-
-Share
-Cookie settings
-At ING we respect your right to choose how your data is used.
-Here you can specify which type of cookies you consent to and
-which you prefer to disable. Once you've made your selection,
-please conﬁrm your preferences. You can change your cookie
-preferences here at any time.
-Read more about our Cookie policy
-Essential
-Performance Cookies
-Targeting Cookies
-
----
-## Document 314: The Week Ahead_ Forecasts, data preview, central bank watch (2026-10-02)
+## Document 315: The Week Ahead_ Forecasts, data preview, central bank watch (2026-10-02)
 
 Source PDF: all report pdf/The Week Ahead_ Forecasts, data preview, central bank watch (2026-10-02).pdf
 Report source: DBS
@@ -5904,86 +6070,7 @@ DBS Bank (Hong Kong) Limited, a company incorporated in Hong Kong with limited l
 Center, 99 Queen’s Road Central, Central, Hong Kong SAR.
 
 ---
-## Document 341: Weekly Roundup - October 11th
-
-Source PDF: all report pdf/Weekly Roundup - October 11th.pdf
-Report source: researchmail轉寄
-Date: 2026-10-11
-Pages: 4
-Extraction status: ok
-
-### Page 1
-
-From:    Yardeni QuickTakes <yardeni-research@ghost.io>
-Subject: Weekly Roundup - October 11th
-Date:    19 hours ago
-Weekly Roundup - October 11th
-
-YARDENI QUICKTAKES
-Weekly Roundup - October 11th
-By Ed Yardeni • 11 Oct 2026
-View in browser
-
-Thank you for being a valued member of Yardeni QuickTakes. Here's a 
-recap of the insightful articles, webinars, and market analyses you 
-enjoyed this week:
-GLOBAL MARKETS CALL: French Toast & Brazilian Bossa Nova
-I. Bonds The global bond market remains jittery, though yields may be starting to stabilize after
-their rout in recent…
- Yardeni QuickTakes • Ed Yardeni
-
-### Page 2
-
-US MARKETS CALL: Is The 10-Year Bond Yield Back To The Old Normal?
-I. Bonds The Economist just rang the all-clear siren for the bond market (chart). It is safe to buy
-bonds now that the…
-Yardeni QuickTakes • Ed Yardeni
-Lots Of FEMO In Q3's Earnings Reporting Season
-I. FEMO in Q3 We have spent much of the past few months marveling at Corporate America's
-Fabulous Earnings Momentum (F…
-Yardeni QuickTakes • Ed Yardeni
-The Bond Yield Spectrum
-I. From The Good To The Bad To The Ugly The spectrum of explanations for the rise in bond
-
-yields worldwide includes re…
-Yardeni QuickTakes • Ed Yardeni
-
-### Page 3
-
-WEEKLY WEBCAST: Bond Yields On The Spectrum: From Good To Ugly (with
-special guest Nick Raich)
-Is the bond selloff the Revenge of the Bond Vigilantes, i.e., a looming debt crisis? Not yet.
-Despite the recent surge,…
-Yardeni QuickTakes • Ed Yardeni
-2028 Should Be A Good Year
-I. Blue skies ahead for earnings? We are now seven years into our Roaring 2020s thesis, which
-remains our base case fo…
-Yardeni QuickTakes • Ed Yardeni
-In Praise Of Profits
-I. Profits, Cash Flow & Capital Spending Corporate profits are the economy's lifeblood. As Dr. Ed
-
-explains in his 2021…
-Yardeni QuickTakes • Ed Yardeni
-
-### Page 4
-
-US SECTORS CALL: Information Technology, Consumer Discretionary &
-Consumer Staples
-The S&P 500 fell 0.3% last week. Energy (OW) and Information Technology (MW) led the week’s
-sector performance derby, b…
-Yardeni QuickTakes • Ed Yardeni
-GLOBAL MARKET CALL: Bond Vigilantes Gone Wild
-The Bond Vigilantes have gone wild worldwide, pushing government bond yields higher in
-developed and emerging markets a…
-Yardeni QuickTakes • Ed Yardeni
-More like this
-Less like this
-
-clause.
-Yardeni QuickTakes © 2026 – Unsubscribe
-
----
-## Document 350: Will earnings resolve the bond-equity split_
+## Document 351: Will earnings resolve the bond-equity split_
 
 Source PDF: all report pdf/Will earnings resolve the bond-equity split_.pdf
 Report source: 渣打銀行 (Weekly Market Views)
@@ -7114,6 +7201,135 @@ incorporated in Zambia and registered as a commercial bank and licensed by the B
 Services Act Chapter 387 of the Laws of Zambia.
 
 ---
+## Document 395: インドネシア株に逆風、MSCIが「スタンドアローン」への格下げ検討 ～新興国市場からの除外を検討、市場の透明性とガバナンスに向_78c7a4fa
+
+Source PDF: all report pdf/インドネシア株に逆風、MSCIが「スタンドアローン」への格下げ検討 ～新興国市場からの除外を検討、市場の透明性とガバナンスに向_78c7a4fa.pdf
+Report source: DLRI
+Date: 2026-10-16
+Pages: 3
+Extraction status: ok
+
+### Page 1
+
+Asia Trends
+
+2026 年10 月 16 日
+
+1/3 
+インドネシア株に逆風、MSCI が「スタンドアローン」への格下げ検討 
+～新興国市場からの除外を検討、市場の透明性とガバナンスに向けた改革の行方が焦点に～ 
+ 経済調査部 主席エコノミスト  西濵 徹 
+（℡：050-5474-7495）
+
+（要旨） 
+○ 2026 年のインドネシア株式市場は、 情報開示や市場の透明性を巡る懸念を背景に低迷が続い
+ている。MSCI が１月末に同国株の指数組み入れ比率引き下げやフロンティア市場への格下げ
+の可能性を示唆したことをきっかけに、FTSE ラッセルやＳ＆Ｐダウ・ジョーンズ・インデッ
+クスも相次いで懸念を表明した。当局は最低浮動株比率の引き上げなど市場改革を進めたも
+のの、協調的な取引への疑念や情報開示、法執行の実効性を巡る問題は解消されていない。 
+○ こうしたなか、MSCI は 10 月 15 日、 インドネシアを新興国市場から 「スタンドアローン市場」
+に再分類する案について市場参加者との協議を開始すると発表した。2027 年４月までに市場
+のガバナンスや機能改善を示す明確な証拠が確認されなければ、再分類が進められる可能性
+がある。実現すればパッシブ投資家を中心に資金流出が加速し、株式市場やルピア相場への
+下押し圧力が一段と強まることが懸念される。格付機関も政策決定の信頼性低下を警戒する
+なか、プラボウォ政権による実務重視への軌道修正と市場の信頼回復が今後の焦点となる。
+
+2026 年のインドネシア株式市場は低迷している（図１） 。きっかけは、指数算出会社のMSCI が１
+月末に株式市場の情報開示に懸念を表明
+したことにある。同社は、情報開示の透
+明性向上に向けた取り組みが進まなけれ
+ば、同社が算出する世界株指数などへの
+同国株の組み入れ比率 を引き下げ るほ
+か、フロンティア市場に格下げする可能
+性を示唆した。これを受けて、 同業のFTSE
+ラッセルも定例で実施を予定していた同
+国株指数の見直し延期を発表した。この
+ため、主要株価指数（ジャカルタ総合指
+数）は、格下げによるパッシブ投資家を
+中心とする資金流出への警戒から調整の動きを強めた。 
+図 1 主要株価指数(ジャカルタ総合指数)の推移
+
+（出所）LSEG より第一ライフ資産運用経済研究所作成 
+5000
+5500
+6000
+6500
+7000
+7500
+8000
+8500
+9000
+9500
+26/1 26/3 26/5 26/7 26/9
+
+### Page 2
+
+2/3 
+その後、 当局は最低浮動株比率の大幅引き上げなど、 海外投資家の懸念解消に向けた対策を矢継
+ぎ早に打ち出し、 市場改革を加速させる姿勢を示した。これを受けて、MSCI は当局の改革姿勢に一
+定の評価を示したものの、審査の延長を決定するなど、最終判断を持ち越した。そのうえで、特定
+株主による保有割合が高い銘柄を同社が算出するMSCI インドネシア指数、MSCI インドネシア小型
+株指数から除外した。その後も、価格形成を歪める協調的な取引の兆候、英語での詳細な市場情報
+の提供が不十分であること、 当局が公表した市場改革の一貫した持続的な取り組みが必要となるこ
+となどを指摘し、MSCI は審査を再延長することを明らかにした。 
+さらに、７月にはＳ＆Ｐダウ・ジョーンズ・インデックスが、株式市場の透明性に関する問題を
+理由に、 新興国市場からフロンティア市場に格下げする可能性を警告した。 具体的には、同国を 2027
+年の市場区分見直しの対象となる可能性のある監視リストに加えた。 同社は、 当局による情報開示
+に関する懸念のほか、市場の流動性への潜在的な影響や保有構造の透明性向上に向けた取り組みを
+注視するとした。状況が悪化した場合には、同国の証券に対する特別措置の導入を検討する必要が
+あるとし、特別措置の導入から１年経過しても問題が解決しない場合には、 市場区分の見直しを実
+施するとした。FTSE ラッセルは８月、同国株指数の見直し作業を再び延期する決定を下したため、
+各社がどのような評価を下すかが注目されていた。 
+こうしたなか、MSCI は10 月 15 日、 同国を新興国市場に分類することはもはや適切でないと判断
+し、 「スタンドアローン市場」 に再分類する方針について、市場参加者からの意見募集を行うことを
+明らかにした。 その理由について、フロンティア市場への再分類では市場の問題の深刻さが適切に
+反映されないとの市場参加者からの意見が寄せられていることを明らかにした。また、 当局による
+市場改革の発表以降も、 協調的な取引行為への疑念や、 実効性のある法執行の証拠がみられないこ
+となど、市場の機能不全を巡る重大な懸念が残っているとした。今後、同社は 2027 年４月まで市
+場参加者との協議を行い、市場のガバナンスと機能の改善を示す明確な証拠が確認されない限り、
+再分類を進めるとした。同社は、市場へのアクセスや規模、流動性が著しく悪化した場合にスタン
+ドアローンへの再分類を行っており、直近では 2021 年にアルゼンチン、2022 年にロシアを再分類
+している。 
+仮にインドネシアが再分類されれば、 パッシブ投資家を中心に資金流出の動きが一段と加速する
+ことが予想されるなど、 年明け以降低迷が続く市場環境が厳しさを増すことは避けられない。 同国
+を巡っては、 主要格付機関であるムーディーズとフィッチが、 政策決定の信頼性が低下しているこ
+とを理由に、将来的なソブリン格付けの格下げにつながり得る見通しの引き下げ（ネガティブ）を
+行うなど、金融市場から厳しい目が向けられている。プラボウォ政権は９月以降、財務相や外相が
+相次いで交代し、実務重視に軌道修正する動きをみせている（注１） 。 しかし、 その成否はプラボウ
+ォ大統領が専門的な判断をどこまで尊重するかに掛かっており、 低迷が続くルピア相場の行方にも
+
+注１ 10 月13 日付レポート「インドネシア、財務相に続いて外相も交代、実務重視への軌道修正か」 
+  （https://www.dlri.co.jp/report/macro/666465.html）
+
+### Page 3
+
+本資料は情報提供を目的として作成されたものであり、投資勧誘を目的としたものではありません。作成時点で、第一ライフ資産運用
+経済研究所が信ずるに足ると判断した情報に基づき作成していますが、その正確性、完全性に対する責任は負いません。見通しは予告
+なく変更されることがあります。また、記載された内容は、第一生命保険ないしはその関連会社の投資方針と常に整合的であるとは限
+りません。 
+3/3 
+影響を与える展開が続くであろう（図
+２） 。
+
+以 上 
+図 2 ルピア相場(対ドル)の推移
+
+（出所）LSEG より第一ライフ資産運用経済研究所作成 
+16600
+16800
+17000
+17200
+17400
+17600
+17800
+18000
+18200
+18400
+26/1 26/3 26/5 26/7 26/9
+(ドル/ルピア) ルピア高↑
+ルピア安↓
+
+---
 ## Document 398: インド消費者物価（26年９月）～総合ＣＰＩは5.5％に上昇、食品高が一段と加速
 
 Source PDF: all report pdf/インド消費者物価（26年９月）～総合ＣＰＩは5.5％に上昇、食品高が一段と加速.pdf
@@ -7324,288 +7540,7 @@ CPI（前年比）
 また、本資料は情報提供が目的であり、記載の意見や予測は、いかなる契約の締結や解約を勧誘するものではありません。
 
 ---
-## Document 406: シンガポール通貨庁､市場予想に反して金融政策を据え置き ～インフレ長期化と景気減速のリスクが併存、物価安定と景気配慮の両立が課題に～
-
-Source PDF: all report pdf/シンガポール通貨庁､市場予想に反して金融政策を据え置き ～インフレ長期化と景気減速のリスクが併存、物価安定と景気配慮の両立が課題に～.pdf
-Report source: DLRI
-Date: 2026-10-14
-Pages: 3
-Extraction status: ok
-
-### Page 1
-
-Asia Trends
-
-2026 年10 月 14 日
-
-1/3 
-シンガポール通貨庁､市場予想に反して金融政策を据え置き 
-～インフレ長期化と景気減速のリスクが併存、物価安定と景気配慮の両立が課題に～ 
- 経済調査部 主席エコノミスト  西濵 徹 
-（℡：050-5474-7495）
-
-（要旨） 
-○ シンガポール通貨庁（ＭＡＳ）は10 月 14 日、３会合連続の金融引き締めを見込む市場予想
-に反し、金融政策を据え置いた。同国では、エネルギー・食料品価格の上昇により総合・コ
-アインフレ率が加速する一方、旺盛なＡＩ・半導体関連需要が景気を支えている。 
-○ ＭＡＳは、今後数四半期の景気は堅調に推移するものの、その後はＡＩ関連需要の減速や世
-界的な金融環境の引き締まりにより成長が鈍化すると予想する。 また、 コアインフレ率は2027
-年半ばから明確に低下すると見込み、2026 年の見通しを1.5～2.0％へと上限を引き下げた。
-現行政策の下で名目実効為替レートが上昇を続けることで、輸入インフレを抑制できると判
-断している。 
-○ ただし、中東情勢の混乱や異常気象、肥料価格の高止まりにより、エネルギー・食料品を輸
-入に依存する同国では、供給要因によるインフレが長期化するリスクがある。雇用環境にも
-ばらつきがみられるなか、今回の据え置きは、既存の通貨高誘導による物価抑制効果を見極
-めつつ、 景気下振れリスクにも配慮した判断と考えられる。 今後、 インフレが長期化すれば、
-物価安定と景気への配慮を両立させる政策運営は一段と難しくなる可能性がある。
-
-シンガポール通貨庁（ＭＡＳ）は、10 月 14 日、定例の金融政策見直しで、現行の金融政策を維
-持すると発表した。ＭＡＳは、金融政策の調整手段として、名目実効為替レート（ＮＥＥＲ）の政
-策バンド（許容変動幅） の幅、中央値、実勢上昇率（傾き） を用いる。４月の政策見直しでは、「実
-勢上昇率を『わずかに』引き上げる」として、３年半ぶりの金融引き締めに舵を切った。さらに、
-７月の前回見直しにおいても、「実勢上昇率を『ごくわずかに』引き上げる」と２会合連続の引き締
-めに動いた。
-
-### Page 2
-
-2/3 
-背景には、イラン情勢の悪化を受けた原油・天然ガス価格の上昇がある。同国は、一次エネルギ
-ーの約 99％を石油・ 天然ガスに依存しており、 これらの価格上昇は幅広くエネルギーインフレを招
-くことが懸念される。 一方で、 世界的に
-ＡＩ （人工知能） ・ 半導体関連需要が旺盛
-な動きをみせており、 関連財を多く輸出
-する同国経済にとって景気の追い風と
-なる展開が続いている。こうしたなか、
-電気 ・ ガス料金や食料品価格などの上昇
-を受けて、 総合インフレ率に加え、 住居
-費と民間道路輸送費を除いたコアイン
-フレ率も加速している （図１） 。このた
-め、 事前の市場予想ではＭＡＳが３会合
-連続の引き締めに動くとの見方が広が
-っていたものの、予想外の据え置きを決定した。 
-ＭＡＳは、会合後に公表した声明文で「経済は今後数四半期堅調なペースで拡大を続ける」もの
-の、「その後はＡＩサイクルの例外的なペースが減速し、世界的な金融環境が引き締まることも重
-なり成長の鈍化が見込まれる」 との見通しを示した。また、「コアインフレ率は、 供給要因による輸
-入インフレが鈍化し、 国内のコスト上昇
-圧力が抑制され、2027 年半ばから目に見
-える形で緩和が見込まれる」 との見通し
-を示した。2026 年のコアインフレ率の見
-通しを 「1.5～2.0％」 と従来見通し （1.5
-～2.5％）から上限を下方修正した。政策
-運営については「現行の政策バンドによ
-り、ＮＥＥＲは引き続き上昇し、短期的
-に見込まれる輸入インフレの加速に歯
-止めをかけることが可能」 、 「これを受け
-て 2027 年のインフレ圧力の緩やかな後
-退が確保できる」との認識を示した。金融市場では、根強い米ドル高圧力を背景にアジア新興国通
-貨に下押し圧力がかかるなか、 足元のＮＥＥＲは緩やかに上昇しており （図２） 、 ＭＡＳはこの動き
-がインフレ圧力を緩和すると判断したと考えられる。 
-とはいえ、 イラン情勢は見通しが立たない状況が続いているうえ、 足元では混乱が中東全体に広
-がりをみせており、原油・天然ガス価格の高止まりが長期化する 可能性は高まっている。さらに、
-エルニーニョ現象の発生を受けて、 アジアでは異常気象が見込まれるなか、 肥料価格の高止まりも
-重なり、農業生産の低迷が食料インフレを招く懸念も高まっている。同国は、エネルギーのみなら
-ず、食料品も輸入に依存しており、供給要因によるインフレが長期化するリスクは高まっている。
-図 1 インフレ率の推移
-
-（出所）CEIC より第一ライフ資産運用経済研究所作成 
--2
--1
-0
-1
-2
-3
-4
-5
-6
-7
-8
-08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26
-(%) コアインフレ率 インフレ率
-図 2 SG ドルの名目実効為替レート(NEER)の推移
-
-（出所）CEIC より第一ライフ資産運用経済研究所作成 
-125
-127
-129
-131
-133
-135
-137
-139
-141
-143
-2022 2023 2024 2025 2026
-SGドル高↑
-SGドル安↓
-(1999年1月＝100)
-
-### Page 3
-
-経済研究所が信ずるに足ると判断した情報に基づき作成していますが、その正確性、完全性に対する責任は負いません。見通しは予告
-なく変更されることがあります。また、記載された内容は、第一生命保険ないしはその関連会社の投資方針と常に整合的であるとは限
-りません。
-3/3
-一方、同国では雇用全体の拡大が続くものの、人員削減の増加や求人の減少もみられるなど、雇用
-環境にはばらつきが生じている。 今回の据え置きは、 既存の通貨高誘導による物価抑制効果を見極
-めつつ、 世界的な金融環境の引き締まりやＡＩ・半導体関連需要の減速による景気下振れリスクに
-も配慮した判断と考えられる。ただし、供給制約に伴うインフレが長期化すれば、物価安定と景気
-への配慮を両立させる政策運営は一段と難しくなる可能性には注意が必要である。
-以 上
-
----
-## Document 435: 两部门：拟禁止、限制出口人工智能、生物医药、光伏三个领域40项技术
-
-Source PDF: all report pdf/两部门：拟禁止、限制出口人工智能、生物医药、光伏三个领域40项技术.pdf
-Report source: WallstreetCN (Global)
-Date: 2026-10-16
-Pages: 12
-Extraction status: ok
-
-### Page 1
-
-禁⽌出⼝的部分包括：利⽤我国核⼼数据进⾏训练后提供服务的⼤模型、专⻔或者主要⽤
-于国家关键信息基础设施、国防军⼯、核⼼政务等⾼敏感场景应⽤，达到⾼性能⽔平的智
-能体等。判别具体 “ 出海 ” 情形是否属于技术出⼝管理的范围，核⼼在于是否涉及限制类技术
-从中国境内向境外转移。
-摘要：
-商务部、科技部 16 ⽇发布公告称，拟修订《中国禁⽌出⼝限制出⼝技术⽬录》，增列部分⼈⼯智
-能、⽣物医药、光伏技术。经批准，现向社会公开征求意⻅，并同步对相关技术实施出⼝前登
-记管理。此次公开征求意⻅涉及⼈⼯智能、⽣物医药、光伏三个领域 40 项技术。
-⼈⼯智能领域包括⼤模型、智能体、算⼒集群、信息处理相关 23 项技术；对已通过开源、发表
-学术论⽂等⽅式进⼊公共领域的技术，不纳⼊管理范围。⽣物医药领域包括细胞和基因治疗、
-⼩核酸药、病原微⽣物相关 5 项技术；对不涉及所有权转让的对外授权模式，适⽤⾃动许可等便
-利措施。光伏领域包括多晶硅制造、硅⽚制造、电池制造相关 12 项技术；技术管理范围也包含
-承载相关技术的关键和核⼼设备。
-
-⾃本公告发布之⽇起，⾄《中国禁⽌出⼝限制出⼝技术⽬录》正式修订并实施之⽇⽌，技术出
-⼝经营者在出⼝本公告附件所列技术前，应当在商务部业务系统统⼀平台技术贸易管理信息应
-⽤登记。已经开始但尚未完成的出⼝，在登记范围内。
-禁⽌出⼝的部分包括：利⽤我国核⼼数据进⾏训练后提供服务的⼤模型、专⻔或者主要⽤于国
-家关键信息基础设施、国防军⼯、核⼼政务等⾼敏感场景应⽤，达到⾼性能⽔平的智能体等。
-⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⽣活家 搜索
-
-### Page 9
-
-商务部新闻发⾔⼈就修订《中国禁⽌出⼝限制出⼝技术⽬录》答记者问
-2026 年 10 ⽉ 16 ⽇，商务部、科技部发布 2026 年第 48 号公告，就修订《中国禁⽌出⼝限制出⼝技
-术⽬录》（以下简称《⽬录》）公开征求意⻅，并对相关技术实施出⼝前登记的临时管理措施。⽇
-前，商务部新闻发⾔⼈就有关问题回答了记者提问。
-问：《⽬录》修订的背景是什么？
-答：根据《中华⼈⺠共和国对外贸易法》第⼆⼗条，国务院对外贸易主管部⻔会同国务院其他有
-关部⻔，制定、调整并发布禁⽌或限制出⼝的技术⽬录。⾃ 2001 年以来，商务部会同科技部多
-次调整修订《⽬录》，有进有出，有管有放，已形成⼯作惯例。此次修订亦是技术贸易管理的常
-态化⼯作，依法依规进⾏，不针对任何特定国家、地区或实体。
-近年来，⼈⼯智能、⽣物医药和光伏相关技术在敏感领域的应⽤不断拓展，各主要经济体均实施
-了不同程度的出⼝管控。中国参考国际通⾏做法，依法实施必要的管理，既防范技术失控和不当
-扩散⻛险，也保障正常国际技术交流合作，推动科技向上向善、安全可控、造福⼈类。
-
-问：《⽬录》拟新增技术的范围有哪些？
-答：此次公开征求意⻅涉及拟增列的⼈⼯智能、⽣物医药、光伏三个领域 40 项关键技术。其
-中，拟禁⽌出⼝技术 14 项，包括：⼈⼯智能驱动的恶意代码⽣成与变异技术、具有⾃主知识产
-权的细胞和基因治疗技术⼯艺平台、钙钛矿及叠层电池组件⽣产技术等；拟限制出⼝技术 26
-项，包括：⼈⼯智能辅助漏洞挖掘技术、具有⾃主知识产权的通⽤型细胞和基因治疗全新靶点发
-现和验证技术、单线产能 ≥3 万吨 / 年的多晶硅⼯程技术等。公告还明确了适⽤便利措施等情形。
-详情请参考公告原⽂。
-问：《⽬录》修订是否充分考虑产业发展情况？
-
-### Page 10
-
-答：中国政府⼀贯⽀持企业依法依规开展互利共赢的跨国经营与国际技术合作，有关政策⽴场没
-有改变。针对此次公开征求意⻅的技术范围和政策，商务部、科技部会同⾏业主管部⻔，事前已
-⼴泛组织研究机构、⾏业组织开展深⼊评估，并充分听取主要企业的意⻅建议，充分考虑国内外
-产业现状和发展需求。具体表现在三个⽅⾯：⼀是列管范围精准有限。此次拟列管的多数技术已
-明确具体技术指标，且利⽤相关技术制造的产品不在管理范围内，管理范围清晰、精准、有限，
-为企业划定了合规边界，便于政策执⾏。⼆是适⽤便利措施。此次列管明确了拟适⽤便利措施的
-多种出⼝情形，体现了分级分类的管理理念，有助于增强政策的透明度和可预期性，确保技术出
-⼝安全、规范、有序。三是实施动态调整。商务部、科技部将依法对《⽬录》管理范围实施动态
-调整，根据技术发展情况，及时将不先进或落后技术移出《⽬录》。此次征求意⻅是在更⼤范围
-内听取各⽅意⻅建议的⼯作安排。
-问：对于拟增列的⼈⼯智能技术，主要有哪些考虑？
-答：当前，全球⼈⼯智能技术创新进⼊前所未有的活跃期，机遇与挑战并存。此次拟将⼈⼯智能
-
-⼤模型、智能体、算⼒集群、信息处理相关 23 项关键技术增列⾄《⽬录》，主要有以下考虑：
-⼀是确保⼈⼯智能技术安全可控。⼈⼯智能引发的各类内⽣和衍⽣⻛险已引起全球各国的⾼度关
-注。此次拟列管的⼈⼯智能⾃主驱动恶意代码⽣成与变异技术等，可被⽤于攻击国家关键信息基
-础设施、国防军⼯、核⼼政务等敏感系统，或⽤于绕过国家安全防御体系。若被⾮国家⾏为体或
-恶意实体获取，可能对国家安全和⼈类共同安全造成危害。中国政府对这类技术实施必要管理，
-⽬的是筑牢安全底线，防范滥⽤恶⽤，确保⼈⼯智能始终处于⼈类控制之下，推进⼈⼯智能国际
-治理。
-⼆是⿎励开源开放、合作共享。中国政府致⼒于让⼈⼯智能成为促进共同繁荣、维护共同安全的
-⼀个重要动⼒源。为⽀持构建⼈⼯智能开源创新⽣态体系，对⼈⼯智能类技术开源、中国企业在
-境外⾃建⾃营算⼒中⼼、赴境外开展芯⽚流⽚制造、利⽤境外资源开展联合研发、参与国际标准
-制定等情形的技术出⼝，适⽤⾃动许可等便利措施，基本实现 “ 即报即出 ” ；对已通过开源、发表
-学术论⽂等⽅式进⼊公共领域的相关技术，拟不纳⼊出⼝管理范围，为⼈⼯智能技术国际交流合
-
-作创造良好环境。
-需要特别指出的是，中⽅主张在相互尊重、平等互利基础上，与各国开展⼈⼯智能对话合作，共
-同应对⼈⼯智能技术扩散和失控⻛险。中⽅⽀持全球南⽅国家加强⼈⼯智能能⼒建设，弥合数智
-鸿沟，促进可持续发展。对于世界⼈⼯智能合作组织成员间开展能⼒建设国际合作、技术共享和
-规则共建所需的技术出⼝，将提供更多便利和⽀持。
-问：《⽬录》正式实施后，⼈⼯智能⼤模型在海外本地化部署、向境外提供模型调⽤等各类 “ 出
-海 ” 形式，是否属于技术出⼝管理范围？
-答：当前，⼈⼯智能⼤模型和应⽤产品的 “ 出海 ” 模式多种多样，判别具体 “ 出海 ” 情形是否属于技
-术出⼝管理的范围，核⼼在于是否涉及限制类技术从中国境内向境外转移。
-此次纳⼊监管的⼈⼯智能技术范围精准有限，有关措施正式实施后，绝⼤部分⼈⼯智能技术仍可
-以⾃由出⼝。对于纳⼊限制类的⼈⼯智能技术，开展海外本地化部署，属于技术出⼝管理范围；
-如果部署在海外⾃有云等⻛险相对可控的情形下，可适⽤⾃动许可等便利措施。对于企业利⽤限
-制类⼤模型对外提供 API 调⽤、 APP/ ⽹⻚交互、 SaaS 应⽤、本地端侧轻量化部署等情形，不属
-
-于⼤模型技术出⼝管理范围。
-问：对于拟增列的⽣物医药技术，主要有哪些考虑？
-答：现⾏《⽬录》中已有部分⽣物医药技术，此次拟增列病原微⽣物、细胞和基因治疗、⼩核酸
-药相关 5 项技术，主要有以下考虑：
-
-### Page 11
-
-⻛险提⽰及免责条款
-市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂
-中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
-⼀是维护⼈类⽣命健康安全。病原微⽣物技术等直接关系⼈类健康和国家⽣物安全，将其纳⼊
-《⽬录》实施禁⽌出⼝，是维护国家安全、构筑⽣物安全屏障的制度安排，也是保护全⼈类健康
-的客观需要。
-⼆是⽀持我国⽣物医药技术依法依规有序开展国际合作。此次列管⽣物医药技术，对国际合作的
-重要情形作出排除或适⽤便利措施。例如，对具有⾃主知识产权的相关技术⼯艺平台，对外授权
-许可、利⽤相关技术⼯艺提供外包研发和⽣产服务等出⼝情形，不纳⼊管理范围；对于具有⾃主
-知识产权的相关靶点发现和验证技术，对外授权许可⽅式出⼝的，适⽤⾃动许可等便利措施。
-三是践⾏⼈类卫⽣健康共同体理念。此次政策明确规定，对于限制出⼝技术，因公共卫⽣突发事
-件、⼈道主义救援、利⽤境外资源开展联合研发等需要的出⼝，适⽤⾃动许可等便利措施。中国
-将继续与世界各国共享技术发展成果，为增进⼈类健康福祉作出积极贡献。
-
-问：对于拟增列的光伏技术，主要有哪些考虑？
-答：此次拟将多晶硅制造、硅⽚制造、电池制造等环节的 12 项光伏技术增列⾄《⽬录》，主要有
-以下考虑：
-⼀是维护国家安全和利益。近年来，光伏技术在航天、国防、⽆⼈装备、⾼安全等级基础设施等
-敏感领域的应⽤不断拓展，光伏技术出⼝可能引致的国家安全⻛险不断上升，有必要及时适度实
-施监管。
-⼆是⽀持绿⾊技术共享。此次列管技术范围有限，其他未达到管控指标的技术仍可⾃由出⼝。公
-告中列明少量光伏关键设备，仅针对承载达到管控指标技术的情形。未列明的其他光伏设备，原
-则上不适⽤本公告要求。
-三是完善技术出⼝监管制度。光伏关键技术的出⼝往往伴随光伏产线的出⼝、安装、调试、改良
-和升级⽽发⽣。出⼝经营者从事上述活动的，应按规定申请技术出⼝许可证，并凭证办理外汇、
-银⾏、税务、海关等相关⼿续。
-问：对拟增列的技术实施出⼝前登记管理的主要考虑和具体要求是什么？
-答：为掌握有关技术出⼝需求情况，提升科学管理⽔平，并防范潜在出⼝⻛险，根据《中华⼈⺠
-共和国对外贸易法》第⼗⼋条、第⼆⼗条有关规定，经批准，⾃商务部、科技部 2026 年第 48 号
-
-公告发布之⽇起，⾄《中国禁⽌出⼝限制出⼝技术⽬录》正式修订公告实施之⽇⽌，技术出⼝经
-营者在出⼝公告所列技术前，应当在商务部业务系统统⼀平台技术贸易管理信息应⽤登记。出⼝
-经营者应⾃⾏判断拟出⼝技术是否落⼊临时登记管理范围。已经开始但尚未完成的出⼝，在登记
-范围内。需登记的出⼝情形包括：向境外转让技术所有权，境内技术授权境外使⽤，境内技术的
-所有权⼈或者实际控制⼈变更为境外主体，以及商务部明确要求登记的其他情形。需要特别说明
-的是，对于列⼊《⽬录》管理范围的光伏关键和核⼼设备出⼝，均需按照规定登记。企业在登记
-中遇到问题和困难，可以及时向商务部、科技部咨询。
-限免
-
-### Page 12
-
-254 收藏 分享到 :
-写评论
-图⽚
-请发表您的评论
-表情 发布评论
-
----
-## Document 440: 中国経済展望2026年10月号：景気は内需主因で停滞（PDF：1280KB）
+## Document 438: 中国経済展望2026年10月号：景気は内需主因で停滞（PDF：1280KB）
 
 Source PDF: all report pdf/中国経済展望2026年10月号：景気は内需主因で停滞（PDF：1280KB）.pdf
 Report source: JRI
@@ -8357,248 +8292,355 @@ OECD（経済協力開発機構）
 14:30－17:00（開場14:00）
 
 ---
-## Document 478: 匯率市場總評：台幣將重返榮耀
+## Document 466: 凱基投顧_Takeaway_7799 禾榮科_ 陳宣甫_20261005
 
-Source PDF: all report pdf/匯率市場總評：台幣將重返榮耀.pdf
-Report source: Fubon
-Date: 2026-09-24
+Source PDF: all report pdf/凱基投顧_Takeaway_7799 禾榮科_ 陳宣甫_20261005.pdf
+Report source: line報告備份
+Date: 2026-10-05
 Pages: 5
 Extraction status: ok
 
 ### Page 1
 
-台北富邦銀行 
-Sep 24, 2026 | 11:00 AM (GMT+8) 
-匯率市場總評： 台幣將重返榮耀
-投資研究部 
- Research 
-Financial Market 
-▎經常帳加速累積，對外投資持續擴大 
-2026 年第 2 季台灣經常帳順差 584.9 億美元，為歷史
-單季第 3 高，其中商品貿易順差 527.6 億 ， 為主要貢獻
-來源，受惠於AI、雲端運算及高效能運算等，科技需求
-持續熱絡帶動出口。國民出國旅行支出增加，服務收支
-維持小幅逆差，而初次所得順差持續擴大(見圖 1)，今
-年第 2 季順差達 97.1 億美元，4 季平均創高達 98.3 億，
-台灣對外投資收益持續增加 ，第 3 季因外資股利匯出、
-企業收益認列淡季，呈季節性放緩，對台幣形成抑制。
+十月 05, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 1
 
-圖 1 台灣初次所得順差持續增加
+法說會重點摘要
 
-資料來源：2026/9/14，Bloomberg、投資研究部
+禾榮科 
+(7799 TT, NT$ 537, 未評等)
 
-圖 2 台灣國際投資資產持續上升
+重點摘要  
+1. 禾榮科加速器型硼中子捕獲治療（AB -BNCT ）系統合作案累計 6
+台。截至 2026/9/9 恩慈治療累計病患 200+ 人、300+ 人次，治療
+國家含台灣共 12 個、適應症逾 20 種；復發型腦膜瘤一二期學術
+臨床局部控制率 100% 、無惡化存活（PFS ）率 83.3% ，復發型頭
+頸癌客觀反應率（ ORR）77.8%  
+2. 公司目標於 2026 年底取得 B10 L -BPA 藥證。北榮約 12 億元預計
+於 1H27 完工認列，明基 16 億元採完工比例法、2027 年起部分認
+列，藥物收入與設備使用費估自 2H27 開始貢獻， 試驗為 single 
+arm、無解盲問題  
+3. 2028- 2029 年其餘設備陸續貢獻，新加坡預計 2028 年底建置完
+成；海外已向新加坡 HSA 申請醫材註冊、向美國 FDA 提出 pre-
+submission ，日本與 3 家醫院深入洽談。單間治療室滿載 1,500 人
+次／年對應藥物收入約 6 億元，我們認為公司營收結構將由一次性
+設備認列，逐步轉向隨治療人次成長的藥物 recurring revenue ，治
+療人次爬升速度為 2028 年後成長的關鍵  
+結論 
+我們認為 2027 年為禾榮科由建置驗證期進入營收兌現期的轉折年，北
+榮設備完工認列與 BPA 藥證取得為近期最明確的兩項催化劑。理由包
+括在手 6 台訂單與認列時程明確；恩慈治療 300+ 人次的實績與同日多
+照野能力，使其在適應症廣度與單機周轉上與日本同業拉開差距；以
+及海外法規先行、日本與美國案件推進。後續驗證點在於藥證實際核
+發時點、取證後恩慈轉為收費下的治療人次能否達到公司每間治療室
+1,000 人的假設，以及中醫大合作條件與海外首台訂單的落地
 
-資料來源：2026/9/14，Bloomberg、投資研究部
+設備訂單與營收認列時程  
+ AB-BNCT 系統合作案累計 6 台，國內 4 台（中醫大、北榮、竹
+銘、義大） 、海外2 台（南京明基、新加坡） ；北榮與明基為賣斷，
+其餘採合作模式  
+ 2027 年為轉折點，設備與藥物雙引擎同時啟動：  
+ 北榮（第 1 台）採完工認列，約 12 億元於 1H27 完整認列 
+ 明基合約 16 億元採完工比例法，2027 年起依 milestone 部分認
+列 
+ 中醫大設備仍屬公司資產，2027 年先以藥物收入加設備使用費
+貢獻 
+ 認列順序為 2027 年北榮與明基、2028 年新加坡（預計 2028 年
+底建置完成）、2029 年義大（有機會提早）；竹銘、新加坡、
+義大均規劃為單間治療室
 
-2025 年台灣國際投資部位(IIP)淨額達 1.35 兆美元(見
-圖 3)，居全球第 6 大淨債權國，對外資產年增 9.2%至
-3.27 兆，而 AI 帶動台股大漲，即使外資去年淨減碼，
-但因持有台股存量龐大，外資持有台股市值顯著攀升 ，
-推高證券投資負債，對外負債年增 29.6%至 1.92 兆。
+凱基投顧
 
-由 IIP 三大項目來看，直接投資淨資產高達 4536 億，
-佔台灣 NIIP 約 33.6%，證券投資淨資產約 1410 億，  
-◼ 台灣居全球第 6 大淨債權國， AI 需求持續熱絡帶動出口，今年第 2 季經常帳順
-差達 585 億美元，為歷史單季第 3 高。今年前 8 個月，對外投資大幅成長 98%，
-企業加速海外布局，將部分美元資金直接留置海外，降低結匯需求。
+陳宣甫 
+886.2.2181.8724 
+hsuan.chen@kgi.com
 
-◼ 台灣壽險業外價金與特別盈餘公積合計已達 1.08 兆台幣 ，外價金四桶金制度提供
-緩衝下，壽險承受匯損能力提升，加上避險成本仍高，預計壽險較可能採取漸進
-式調整避險部位，而非大幅提高避險比率，截至 2026/7，避險比率僅 42.9%。
+徐雋翔 
+886.2.2181.8745 
+kenny.ch.hsu@kgi.com
 
-◼ 台股市值居全球第 5 大，外資持有比例近 5 成，短期美元受升息預期支撐下，台
-幣受到抑制，若油價未進一步失控，將淡化升息預期，隨著美國迎來選舉行情，
-風險情緒回穩將有利美元回落 ， 穩健基本面將驅動資金回流台股 ， 台幣將獲支撐。
+重要免責聲明，詳見最終頁
 
 ### Page 2
 
-2
+台灣 禾榮科
 
-誠信親切、專業創新 週報
+十月 05, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 2
 
-圖 3 台灣國際投資部位(IIP) 
-資料來源：2026/8/20，Bloomberg、投資研究部
+藥證進度與藥物收入情境  
+ B10 L -BPA 目標於 2026 年底取得藥證；北榮設備預計於 1H27 完
+工並完成醫材證與運轉許可，藥物銷售估自 2H27 開始 
+ 年度藥物收入＝BNCT 治療人次× 每人次 BPA 收入（NT$40 萬 ）： 
+ 500 人次約 2 億元 
+ 1,000 人次約 4 億元 
+ 1,500 人次約 6 億元，為單間治療室一天 6 人次、250 個工作日
+的滿載量 
+ 藥物收入與設備使用費每年持續發生，屬 recurring revenue ；設備
+營收看訂單，後續成長主要靠藥物  
+ BNCT 單次治療費用約 100 萬元；取得藥證後恩慈治療多數轉為收
+費治療，公司表示在需求大於供給下不會主動降價，並規劃成立基
+金會協助弱勢病人
 
-佔 NIIP 約 10%，不過資產、負債端規模龐大，資產端
-以 1.09 兆外債主導，反映台灣壽險持有大量美債，而
-負債端高達 1.39 兆美元，以外資持有台股所主導。
+恩慈治療實績與潛在病患池  
+ 截至 2026/9/9 ，恩慈治療累計病患 200+ 人、治療 300+ 人次： 
+ 國內 180+ 人／260+ 人次 
+ 國際 20+人／40+人次，治療國家含台灣共 12 個 
+ 日本自有 BNCT 設備仍轉介病患來台， 2026/7 新增江戶川醫院轉
+介；該院設備稼動率 不高，公司稼動率則高達 99%以上 
+ 台灣 BNCT 潛在適應症新發病患 2023 年為 54,966 人，2022-2023
+年增長 8%；以存活 5 年計，累計潛在病患約 24.2 萬人 
+ 2027 年運轉者為北榮 1 間與中醫大 2 間治療室，公司以每間
+1,000 人估算合計約 3,000 人 
+ 北榮重粒子治療中心一個療程約 150 萬元、每年治療約 250-300
+人且已滿載，公司據此認為高階放射治療的自費需求充足 
+ 醫院自購設備一年 100-200 名病人可回本，BOT 模式約 50-60 人
+即可
 
-根據經濟部統計，自 2021 年至 2025 年，台灣核准對
-外投資金額累計達 1486 億美元 ， 較前5 年成長 57.8%，
-而投資版圖由中國轉向美國、東協。今年前 8 個月，台
-灣對外投資大幅成長 98%至 623.9 億美元，主要由台
-積電 500 億海外增資帶動，其中 200 億投入美國亞利
-桑那州子公司增資 ，300 億向開曼群島註冊的子公司增
-資，建立海外美元資金池。隨企業海外布局加速，部分
-美元資金直接留置海外或用於對外投資 ， 增加金融帳資
-本流出，亦降低出口所得回台結匯需求，使經常帳順差
-對台幣的支撐效果有所減弱。
-
-其他投資淨資產達 1518 億，佔 NIIP 約 11.2%，其中
-以貨幣及存款(778 億)與貸款(409 億)為主，企業海外
-美元資金、銀行跨境業務及 OBU 存款規模龐大。台灣
-OBU 外匯交易結構，自 2023 年後換匯(FX Swap)及貨
-幣交換(Currency Swap)交易量快速成長，並逐漸超越
-即期交易(見圖 5)，企業、金融機構及海外投資人對美
-元資金調度、利率管理及匯率避險需求升溫。
-
-▎壽險外價金充裕，外資將歸隊台股 
-台灣壽險業管理超過 1.2 兆美元資產 ， 高於台灣1 年經
-濟產值，海外投資超過 6900 億美元，其中約 1620 億
-美元投入美國公司債 。為降低壽險業對避險成本的依賴 ，
-並提升長期承受台幣升值風險的能力 ，今年 2 月金管會
-修正外準金制度，採雙軌準備金、雙特別盈餘公積四桶
-金架構，將部分避險成本節省效益轉化為資本緩衝，降
-低壽險業匯率波動衝擊，並強化外匯風險管理能力。
-
-圖 4 壽險業外價金充裕
-
-資料來源：2026/9/22，Bloomberg、投資研究部
-
-7182 億
+臨床數據與 BNCT 臨床定位  
+ 復發型腦膜瘤一二期學術臨床（2026/8/25 公告） ：受試者10 人、
+追蹤 169 天，局部控制率 100% 、 PFS 率 83.3% 、整體存活
+（OS）率 100% 
+ 醫師公開發表之治療數據： 
+ 威脅視覺系統腫瘤（ 17 人）：視力保留率 92.9% 、腫瘤控制率
+94.1%  
+ 復發型惡性肉瘤（17 人）：腫瘤控制率 94.1%  
+ 復發型頭頸癌（18 人）：ORR 77.8%  
+ 需兼顧危及器官（ OAR ）保護的腦幹、視神經、脊髓旁腫瘤，為
+BNCT 具不可替代性的領域  
+ 同日多照野為公司獨有，已有 2 例同日 3 照野，2026/9/8 完成同一
 
 ### Page 3
 
-3
+台灣 禾榮科
 
-誠信親切、專業創新 週報
+十月 05, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 3
 
-圖 5 OBU 外匯及衍生性金融商品交易量  
-資料來源：2026/9/16，Bloomberg、投資研究部
+病患同日 4 照野（腫瘤長 22.2cm ） ，可補足BNCT 的深度限制  
+ 術前輔助治療局部晚期口腔癌一二期學術臨床於 2026/7/15 通過
+TFDA IND 審查，三陰性乳癌（ TNBC ）學術 IND 於 2026/5 提出；
+公司預期 BNCT 將成為搭配手術、免疫治療或化療的平台型治療
 
-截至 2026/7，台灣壽險業避險比率僅 42.9%，目前外
-匯價格變動準備金與特別盈餘公積合計已達 1.08 兆台
-幣，估計可抵禦台幣匯率升值 12%的風險。截至 9/22，
-自 8 月以來台幣升值 2.16%、於亞幣中僅次韓圜之
-6.65%，在外價金四桶金制度提供緩衝下，壽險業承受
-匯損能力較過去提升，加上避險成本仍高，預計壽險可
-能漸進式調整避險部位，而非大幅提高避險。美台 5 年
-利差處高檔(見圖 6)，增添美債收息吸引力，持續吸引
-長線資金流入，截至 9/18，99 檔外債 ETF 規模 9 月來
-增加 68 億至 2.792 兆台幣 ， 股數增加6 億股(見圖 8)。
+國際拓展與競爭差距  
+ 法規先行：2026/5 向新加坡衛生科學局（HSA ）申請醫材註冊，新
+加坡同意沿用台灣資料；2026/ 6 向美國 FDA 提出 pre-submission  
+ 洽談中案件：  
+ 日本：與 3 家醫院深入討論設備或藥物合作，為最可能成案的海
+外下一台 
+ 美國：已有客戶洽談中，近期有 1 例美國病患將來台治療 
+ 其他：東南亞延伸至馬來西亞、越南，歐洲為倫敦與德國，中東
+與阿聯酋 The Node Company 合作導入 GCC 市場 
+ 資源集中於海外，國內刻意放慢，不以較差條件擴點；國內以高
+雄、桃園洽談進度較快  
+ 與日本同業設備相比，公司質子電流 0.25mA 、功率 7.5kW ，照野
+切換約 10 分鐘、每日周轉 6 人，日本同業為 1mA、30kW 、切換
+逾 2 小時、每日 2 人；土地面積、投資與維運人力成本約為住友
+（Sumitomo ）的 1/3 
+ 策略夥伴包含 Cosylab 、西門子醫療、沛爾生醫（ 6949）與 B dot 
+Medical
 
-圖 6 美台利差處高檔
-
-資料來源：2026/9/23，Bloomberg、投資研究部
-
-圖 7 離岸市場 8 月來偏空台幣
-
-資料來源：2026/9/22，Bloomberg、投資研究部
-
-除了壽險，外資資金流向也是影響台股、台幣的重要因
-素，受到美國利率維持高檔、美元偏強及國際資金獲利
-了結影響，今年前 8 個月外資整體仍偏向調節台股部
-位，8 月以來台幣 12 個月 NDF、DF 換匯點差走升(見
-圖 7)，顯示離岸市場持續看空台幣。
-
-隨著 AI 產業帶動台灣半導體競爭力提升，台股總市值
-於 9/19 達 154.3 兆台幣，居全球第 5 大股市，而外資
-持有台股市值比例即將過半、達 49%。9 月開始 MSCI
-新興市場指數台灣權重調升至 26.85%，隨著步入第 4
-
-0
-20
-40
-60
-80
-100
-Jan-07
-Sep-07
-May-08
-Jan-09
-Sep-09
-May-10
-Jan-11
-Sep-11
-May-12
-Jan-13
-Sep-13
-May-14
-Jan-15
-Sep-15
-May-16
-Jan-17
-Sep-17
-May-18
-Jan-19
-Sep-19
-May-20
-Jan-21
-Sep-21
-May-22
-Jan-23
-Sep-23
-May-24
-Jan-25
-Sep-25
-May-26
-即期(Spot)交易量 換匯(Swap)交易量 交換(Swaps)交易量
-億美元 
-自 2023 年後換匯(FX Swap)及
-貨幣交換(Currency Swap)交
-易量快速成長，超越即期交易 
-FX Swap 交易量         CCS 交易量
+QA 
+ 藥證時程是否有風險？若延後對 2027 年營收有何影響？ 
+ 試驗為 single arm 、以 response rate 為指標，無對照組與安慰
+劑，沒有解盲問題，變數在主管機關流程  
+ 北榮完工認列在 1H27 ，用藥與藥物營收均估在 2H27 
+ 藥證以頭頸癌申請，取得後只能治療頭頸癌嗎？  
+ 取得藥證後醫師可 off-label use 於其他適應症，恩慈治療與學術
+臨床即為其臨床依據  
+ 美國 FDA pre -submission 規劃走什麼路徑？  
+ 希望走 510(k) ，以先前的中子治療儀器作為比對品；若不被接
+受，依序為補資料、執行臨床 
+ 希望比照新加坡，由對方認可台灣既有資料  
+ 日本病患數不少，為何還要把病人送來台灣？  
+ 日本設備輻射量較高，照完一個照野後須間隔逾 2 小時，一天只
+能照 2 人 
+ 需 4 照野的病例在日本須拆成 2 天，治療計畫無法成立
 
 ### Page 4
 
-4
+台灣 禾榮科
 
-誠信親切、專業創新 週報
+十月 05, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 4
 
-圖 8 近 2 個月台灣外債 ETF 股數增加 
-資料來源：2026/9/18，Bloomberg、投資研究部
-
-季傳統出口旺季，在 AI 供應鏈強勁拉貨與全球科技新
-品備貨潮的雙重加持下 ， 台灣出口動能有望迎來全年高
-峰，年底前若聯準會升息預期放緩，穩健基本面將驅動
-資金回流台股，同步支撐台幣(見圖 9)。
-
-圖 9  外資回流有利支撐台股匯市
-
-資料來源：2026/9/23，Bloomberg、投資研究部
-
-▎央行保持政策偏緊，年底台幣將趨強 
-適逢 9 月季底， 央行透過減發存單， 讓部分資金回流銀
-行體系，維持市場流動性正常運作，也降低短期資金面
-因季節性因素過度收緊。截至 9/22，央行定存單餘額
-自 9/2 以來反轉向下、承壓於 5.86 兆台幣(見圖 10)。
-
-圖 10 9 月來央行定存單餘額顯著下降
-
-資料來源：2026/9/22，Bloomberg、投資研究部
-
-台灣通膨尚屬可控下 ， 央行9/17 將重貼現率維持在 2%，
-今年經濟成長率預測調升至 11.48%，而明年受高基期
-影響，估值下調至 5.82%，通膨方面，今年 CPI、核心
-CPI 年增率預測分別上修至 2.03%、2.16%，明年可望
-回落至 2%以下，分別估 1.83%、1.89%。
-
-台灣央行走自己的路不升息， 透過減發定存單調節資金 ，
-短期美元受升息預期支撐，台幣將受抑制，不過隨著美
-國將迎來選舉、聖誕行情，美國勞動市場放緩，若油價
-未進一步失控，升息預期趨緩將有利美元回落，而台幣
-將同步獲得支撐。
+ 中醫大該台的安排為何？  
+ 2027 年先收藥費與使用抽成，設備仍屬公司資產，合約尚未細
+談 
+ 該據點為公司衝治療量、做研究與展示之用，取得藥證後可接受
+無設備醫院轉入病患  
+ 新廠 2028 年完成前，加速器與 BPA 供應是否足夠？  
+ 加速器目前向外採購，已提前下單，在手 3-4 台，之後轉自製，
+到 2028 年仍夠用 
+ BPA 由台灣神隆（1789 ）生產，產能無虞
 
 ### Page 5
 
-5
+台灣 禾榮科
 
-誠信親切、專業創新 週報
-
-表 1 2026/3Q 到 2027/4Q 主要幣別匯率預估 
-註  2026/Q3 為季底預估值 
-    其餘趨勢往上預估當季高點，趨勢往下則預估當季低點 
-資料來源：2026/9/24，Bloomberg、投資研究部
-
-本文係由台北富邦銀行提供，係根據市場公開資訊依據專業判斷所為，報告結果僅供讀者參考，並不構成要約、招攬、邀請、宣
-傳、誘使或任何不論種類或形式之表示、建議或推薦，本文亦不為獲利之保證，讀者個人投資決策仍需自行判斷並承擔風險。本
-文內容台北富邦銀行不保證其正確性及完整性，並所載述之內容台北富邦銀行保有隨時予以更正或撤回之權利。任何人不得以因
-信賴該等資料做出投資決策為由，向台北富邦銀行主張任何權利或提出訴訟。另台北富邦銀行保留本文之一切著作權，禁止讀者
-以任何形式引用、抄襲、複製及轉寄第三人。
+十月 05, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 5
 
 ---
-## Document 504: 国际CDS指数运行实践对我国本土的借鉴意义
+## Document 476: 华尔街刚刚抛售一切，大规模逼空即将来临？
+
+Source PDF: all report pdf/华尔街刚刚抛售一切，大规模逼空即将来临？.pdf
+Report source: WallstreetCN (Global)
+Date: 2026-10-16
+Pages: 4
+Extraction status: ok
+
+### Page 1
+
+市场经历激进去⻛险化，对冲基⾦连续五⽇净卖出 AI 股票，抹去 2025 年以来净买⼊头⼨。
+然⽽，纳斯达克 100 期货现锤形反转，半导体与韩国股市极度超卖并触及关键⽀撑。随着多
+头抛售趋于充分且空头⾼度拥挤，市场抛售或近尾声，反弹与逼空条件正逐步成熟。
+摘要：
+市场正在经历⼀场剧烈的去⻛险化浪潮，但内部信号正悄然出现转折。
+对冲基⾦连续五个交易⽇净卖出全球 AI 股票，并已完全抹去 2025 年以来的全部净买⼊头⼨；与
+此同时，纳斯达克 100 指数期货出现强烈的⽇内反转形态，半导体指数触及关键⽀撑，韩国
+KOSPI 超卖程度创下 2022 年 10 ⽉以来最极端⽔平。
+多重技术指标和仓位数据显⽰，市场抛售正在接近尾声，买盘开始⼩幅回归。随着 AI 股、⼩盘股
+及半导体等板块的空头头⼨积累⾄历史⾼位，⼀旦出现触发因素，市场可能⾯临⼤规模空头回
+补⾏情。
+NDX 现罕⻅锤形 K 线，卖⽅控制⼒减弱
+纳斯达克 100 指数期货当⽇出现⼤幅且罕⻅的锤形 K 线形态，技术信号暗⽰本轮抛售的卖⽅动能
+
+正在衰竭。
+据 The Market Ear 分析，此前 4 ⽉份市场低点也曾出现类似反转形态 —— 彼时为倒锤形，尽管形
+态不同，但传递的市场信息相同：卖压正在被承接，买⽅开始反攻。锤形 K 线本⾝不⾜以作为单
+⼀交易依据，但若后续获得确认，反弹⼒度可能相当剧烈。
+半导体指数 SOX ⽅⾯，近⼏个交易⽇已⼤幅下挫，超卖程度达到极端⽔平。值得关注的是，该
+指数⽬前已触及其交易区间下轨 —— 该⽀撑位历史上多次有效 —— 同时也在测试其⻓期趋势
+线。技术层⾯的双重⽀撑，使半导体板块的短线机会引发关注。
+全球股票遭遇极端净卖出， AI ⾸当其冲
+根据⾼盛数据，上⼀个交易⽇出现激进的全球股票净卖出，净流量达到 -2.1 个标准差的异常⽔
+平。多头平仓与空头卖出之⽐约为 3 ⽐ 1 ，清晰指向主动降低⻛险敞⼝，⽽⾮单纯做空押注。
+⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⽣活家 搜索
+
+### Page 2
+
+从地区分布看，美国占全球净卖出总量的 66% ，科技板块领跌；韩国同样遭遇⼤规模清仓。全
+球 AI 股票的净卖出量创下近⼀年来第⼆⼤规模， Z 值达到 -2.8 。
+核⼼逻辑在于：投资者并⾮主要通过增加空头来表达看跌，⽽是在直接抛售多头头⼨，尤其集
+中在 AI 与科技领域。这⼀区别意味着，⼀旦情绪逆转，反弹所需的 " 燃料 "—— 即被迫回补的空头
+头⼨ —— 已相当充⾜。
+对冲基⾦ AI 仓位全⾯归零，多空⽐降⾄历史低位
+据⾼盛数据，对冲基⾦已连续五个交易⽇净卖出全球 AI 股票，累计净买⼊⾃ 2025 年初以来的全
+部头⼨已被彻底清除，流量层⾯的 2025 年净积累宣告归零。
+仓位层⾯，对冲基⾦对全球 AI 股票的净配置⽐例已从 6 ⽉峰值的 31.7% 降⾄ 26.1% ，处于过去⼀
+年的第 49 百分位；整体多空⽐从 4.34 ⼤幅下降⾄ 3.27 ，仅处于过去⼀年的第 7 百分位。
+AI 交易仍构成相当规模的配置，但头⼨已⼤幅 " 清洗 " 。这意味着此前过度拥挤的多头结构已基本
+
+消化，潜在的抛售压⼒趋于缓和。
+罗素 2000 空头头⼨⾼度拥挤，逼空条件趋于成熟
+
+### Page 3
+
+⻛险提⽰及免责条款
+市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂
+中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
+罗素 2000 指数⽬前处于深度超卖状态。仅凭超卖本⾝不⾜以构成买⼊策略，但多项因素叠加正
+为短线反转创造条件。
+据 CFTC 数据，⾃ 7 ⽉以来，罗素 2000 对冲基⾦空头头⼨的变化与 CDX ⾼收益利差呈现出正相关
+性，即随着信⽤条件恶化，对冲基⾦持续增加空头。当前，空头头⼨规模已相当庞⼤，⼀旦信
+⽤条件改善或市场出现积极催化剂，空头回补引发的快速反弹潜⼒不容忽视。
+"Leopold 低点 2.0" ？ CoreWeave 技术⾯回归初次抛售⽔平
+据悉，“AI 股神 ”Leopold 在 9 ⽉初⼤举买⼊ CoreWeave （ CRWV ）及其他 AI 相关期权，此后数
+周市场随即展开本轮抛售。以 CRWV 11 ⽉份⾏权价 95 美元的看涨期权为例，其权利⾦⾃ 9 ⽉ 8 ⽇
+以来从 18 美元⾼点崩跌⾄仅剩 1 美元，该合约⽬前仍持有可观的未平仓量。
+
+分析认为，期权头⼨的平仓过程或进⼀步放⼤了标的资产的跌势：做市商此前为对冲看涨期权
+卖出了 delta 头⼨，随着期权价值缩⽔，其被迫反向卖出标的股票，形成额外下⾏压⼒。
+⽬前， DRAM 价格已回落⾄此前的 "Leopold 低点 " 区域， CRWV 的 RSI 也回到了初次抛售时的⽔
+平。在仓位充分出清、期权时间价值被⼤幅压缩、技术⾯深度超卖的三重背景下，市场是否正
+在提供第⼆次⼊场窗⼝，值得密切观察。
+仓位清洗创造机会，但⻛险管理仍是⾸要前提
+当前市场的核⼼⽭盾在于：超卖与逼空潜⼒并存，但下⾏⻛险尚未完全出清。 The Market Ear
+援引 Paul Tudor Jones 的经典原则提⽰投资者：市场不在乎你的判断是否正确，关键在于能否在
+正确到来之前活下去。
+" 什么好事都不会发⽣在 200 ⽇均线以下。 "这⼀原则同样适⽤于投资者⾃⾝的盈亏管理 —— 及早
+削减⻛险敞⼝，保持仓位存活，才能让优势持续复利。
+判断正确与赚到钱，是两件截然不同的事。在当前极端波动的环境下，简洁有效的⻛险管理体
+
+系，或许⽐任何反转预测都更为重要。
+
+### Page 4
+
+592 收藏 分享到 :
+写评论
+图⽚
+3 条评论
+限免
+请发表您的评论
+表情 发布评论
+坚毅的⽯三仟
+2 ⼩时前 中国⼴东省
+1  回复
+⼀切都是顺势⽽为，看过巴菲特的⼀篇⽂章，没有永远的跌，只有永远的涨！
+⻅闻⽤⼾
+3 ⼩时前 中国上海
+0  回复
+⼀眼头肩顶 😑
+阿雷 2 ⼩时前 中国⼴东省
+0  回复
+回复  ⻅闻⽤⼾：
+有⼈要说你的，因为他们认为美股没有技术形态
+
+---
+## Document 499: 国常会：注重以落地应用牵引技术创新，不断深化拓展“人工智能+”行动
+
+Source PDF: all report pdf/国常会：注重以落地应用牵引技术创新，不断深化拓展“人工智能+”行动.pdf
+Report source: WallstreetCN (Global)
+Date: 2026-10-16
+Pages: 2
+Extraction status: ok
+
+### Page 1
+
+⻛险提⽰及免责条款
+市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂
+中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
+会议指出，⼈⼯智能是影响未来发展的关键变量，要从我国产业体系完备、应⽤场景丰
+富、⼯程化能⼒强等实际出发，注重以落地应⽤牵引技术创新，不断深化拓展 “ ⼈⼯智能
++” ⾏动。要依法依规治理低价⽆序竞争，健全⾏业成本调查、制⽌低价倾销等配套规则，
+加强价格执法监管。
+摘要：
+国务院总理李强 10 ⽉ 16 ⽇主持召开国务院常务会议，听取 “ ⼈⼯智能 +” ⾏动进展情况汇报，讨论
+《中华⼈⺠共和国教师法（修订草案）》，讨论《中华⼈⺠共和国价格法（修正草案）》，审议通
+过《国务院关于修改和废⽌部分⾏政法规的决定（草案）》。
+会议指出，⼈⼯智能是影响未来发展的关键变量，要从我国产业体系完备、应⽤场景丰富、⼯
+程化能⼒强等实际出发，注重以落地应⽤牵引技术创新，不断深化拓展 “ ⼈⼯智能 +” ⾏动。要夯
+
+实发展底座，加强技术攻关和算法创新，促进算电协同，增加⾼质量数据供给，着⼒补短板、
+锻⻓板。要突出赋能应⽤，以实体经济为重点强化供需衔接，⿎励联合研发，推进中试验证，
+加⼤场景培育⼒度，让⼈⼯智能技术更好转化为现实⽣产⼒。要统筹发展和安全，因业分级分
+类施策，加强⻛险研判评估，守牢⼈⼯智能安全底线。
+会议讨论并原则通过《中华⼈⺠共和国教师法（修订草案）》，决定将草案提请全国⼈⼤常委会
+审议。会议指出，教师是⽴教之本、兴教之源，要切实强化教师待遇权益保障，减轻教师⾮教
+育教学任务负担，加强对教师的社会公共服务，维护好教师职业尊严和合法权益。要培养造就
+⾼素质专业化教师队伍，健全教师教育体系，提⾼教书育⼈能⼒，强化师德师⻛建设，在全社
+会营造尊师重教的良好氛围。
+会议讨论并原则通过《中华⼈⺠共和国价格法（修正草案）》，决定将草案提请全国⼈⼤常委会
+审议。会议指出，此次修正适应新形势新变化，进⼀步健全了价格治理机制，完善了政府定价
+程序，明确了不正当价格⾏为认定标准和法律责任。要依法依规治理低价⽆序竞争，健全⾏业
+
+成本调查、制⽌低价倾销等配套规则，加强价格执法监管。要持续规范平台经济领域价格竞争
+⾏为，引导企业不断提升产品和服务价值，营造公平有序市场环境。
+会议决定，对《中华⼈⺠共和国档案法实施条例》等 14 部⾏政法规的部分条款予以修改，对
+《中华⼈⺠共和国港⼝间海上旅客运输赔偿责任限额规定》等 4 部⾏政法规予以废⽌。
+会议还研究了其他事项。（完）
+来源：新华社
+限免
+⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⽣活家 搜索
+
+### Page 2
+
+200 收藏 分享到 :
+写评论
+图⽚
+1 条评论
+正在加载 .
+请发表您的评论
+表情 发布评论
+
+---
+## Document 500: 国际CDS指数运行实践对我国本土的借鉴意义
 
 Source PDF: all report pdf/国际CDS指数运行实践对我国本土的借鉴意义.pdf
 Report source: 联合资信评估
@@ -9363,289 +9405,126 @@ CDS 指数报价参考与风险计量支持， 缓释因定价缺失导致的市
 CDS 市场流动性。
 
 ---
-## Document 521: 工信部等三部门联合调查有关车辆刹车踏板支架断裂问题
+## Document 599: 经济触角：美国9月CPI超预期惟10月维持利率不变概率较高
 
-Source PDF: all report pdf/工信部等三部门联合调查有关车辆刹车踏板支架断裂问题.pdf
-Report source: WallstreetCN (Global)
-Date: 2026-10-15
-Pages: 1
-Extraction status: ok
-
-### Page 1
-
-⻛险提⽰及免责条款
-市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂
-中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
-518 收藏 分享到 :
-写评论
-图⽚
-2 条评论
-⼯业和信息化部、中央⽹信办、市场监管总局⾼度重视，在前期调查⼯作基础上，成⽴联
-合调查组开展核查，并依法依规处理。
-摘要：
-针对⽹络反映的 “ 尊界 V800 汽⻋刹⻋踏板⽀架断裂问题 ” ，⼯业和信息化部、中央⽹信办、市场
-监管总局⾼度重视，在前期调查⼯作基础上，成⽴联合调查组开展核查，并依法依规处理。有
-关情况将及时公布。
-⽂章来源：⼯信微报
-限免
-请发表您的评论
-表情 发布评论
-MobileUser1823
-3 ⼩时前 中国⼴东省
-1  回复
-这就对了，重拳出击，实事求是
-⻅闻⽤⼾
-15 ⼩时前 中国福建省
-1  回复
-应当制定更严苛的安全法律法规。那些为了营⽣的快递⼩哥电动摩托⻋时常被交警没收抓捕，电
-动摩托⻋既然可以出产是符合国家有关标准，为何只抓捕那些营⽣的快递⼩哥？
-
-⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⽣活家 搜索
-
----
-## Document 585: 米国 賃金インフレの兆候に乏しい 利上げを急ぐ必要は？（JOLTS 統計）
-
-Source PDF: all report pdf/米国 賃金インフレの兆候に乏しい 利上げを急ぐ必要は？（JOLTS 統計）.pdf
-Report source: DLRI
-Date: 2026-09-30
+Source PDF: all report pdf/经济触角：美国9月CPI超预期惟10月维持利率不变概率较高.pdf
+Report source: 光银国际资本
+Date: 2026-10-16
 Pages: 3
 Extraction status: ok
 
 ### Page 1
 
-2026 年 9 月 30 日(水)
+1
 
-1/3 
-米国 賃金インフレの兆候に乏しい 利上げを急ぐ必要は？（JOLTS 統計） 
- 経済調査部主席エコノミスト藤代宏一 
-（℡：050-5474-6123）
+！ gg
 
-・現在、Ｆｅｄの関心は「雇用＜物価」であり、その点において労働市場データの注目度は高
-くない。本日公表されたJOLTS統計は、全体の評価として「やや弱い」と判断される。目先の
-金融政策に与える影響は限定的であるが、今後、物価上昇率が落ち着く兆候が増してくれ
-ば、Ｆｅｄの「様子見（利上げ見送り）」を正当化する材料になり得る。
+美国 9 月 CPI 超预期惟 10 月维持利率不变
+概率较高 
+美国劳工统计局于 10 月 14 日公布美国 9 月消费者价格指数（CPI），9
+月 CPI 再度加快，总体和核心通胀均超过市场预期。能源价格持续上涨
+进一步推升居民生活成本，住房、二手车及服装等非能源分项亦同步走
+强，价格压力已不再局限于燃料领域。虽然 9 月份美国 CPI 高于预期，
+但多名联储局官员发表言论，对连续加息仍持谨慎态度， 加上近日人工
+智能板块股价下跌，资金流入美国国债令美国主权债息回落。 整体而
+言，美联储 10 月维持利率不变概率仍然较高。 
+美国核心 CPI 升幅高于市场预期。美国 9 月 CPI 环比上涨 0.6%，高于 8
+月的 0.4%；同比上涨 3.7%，高于 8 月的 3.4%及市场预期的 3.6%。剔除
+食品和能源后的核心 CPI 环比上涨 0.3%，高于市场预期的 0.2%；同比
+由 2.4%升至 2.6%，亦高于市场预期的 2.5%。分类别来看，住房成本环
+比上涨 0.4%，二手汽车及卡车价格上涨 0.7%，机票价格上涨 1.2%，服
+装价格上涨 0.3%，核心服务价格上涨 0.4%，反映通胀压力正由能源向
+部分服务和商品类别扩散。 与此同时， 9 月实际平均时薪环比下降
+0.5%、同比下降 0.7%，物价升幅重新超过名义工资增长，居民实际购
+买力继续承压。 
+能源价格仍是本轮通胀反弹的主要推手。9 月能源指数环比上涨 5.2%，
+较 8 月的 2.1%进一步加快，同比升幅达到 20.4%；其中汽油价格环比上
+涨 9.1%，贡献了总体 CPI 升幅的一半以上，燃油价格环比 15.3%。能源
+成本持续攀升是美国与伊朗之间的战争仍未显现结束迹象。 能源价格除
+了直接推高 CPI 外，还可能通过运输、航空、物流及生产成本向其他商
+品和服务传导，并抬升中长期通胀预期。 
+多名美联储官员对连续加息仍持谨慎态度。 近期，多名拥有投票权的联
+储局官员均发布谨慎加息言论。 公布通胀数据后，金融监管副主席鲍曼
+表示虽然通胀仍高于预期，但毋须急于进一步上调利率。10 月 13 日，
+纽约联储主席威廉姆斯表示，9 月加息后没有必要急于再次行动，若经
+济按其预测发展，今年稍后再加息一次可能合适。10 月8 日，美联储理
+事沃勒表示，如果经济数据符合预期，进一步加息可能有助于通胀更及
+二零二六年十月十五日 
+经济触角 
+光银国际研究团队评论
 
-・2026年８月のJOLTS統計によると、求人件数は前月比▲3.5％の708万件であった。市場予想
-（722万件）を下回る弱い結果であり、３ヶ月平均値でみても同▲2.1％、720万件と反落し
-た。それでも３ヶ月平均値は今年に入ってから５％程度の増加を維持している。企業の採用
-意欲は持ち直し傾向にあると判断される。
+美国劳工统计局于 10 月 14 日公布美国 9
+月消费者价格指数（CPI），9 月 CPI 再
+度加快，总体和核心通胀均超过市场预
+期。能源价格持续上涨近一步推升居民
+生活成本，住房、二手车及服装等非能
+源分项亦同步走强，价格压力已不再局
+限于燃料领域。
 
-・日経平均株価は先行き12 ヶ月72,000 円程度で推移するだろう 
-・USD/JPY は先行き12 ヶ月 155 円程度で推移するだろう 
-・日銀は政策金利を12 月に 1.5％とした後、27 年末までに2.25％とするだろう 
-・FED はFF 金利を、年内は4.0％で据え置くだろう 
-5
-6
-7
-8
-9
-10
-11
-12
-13
-17 18 19 20 21 22 23 24 25 26
-ＪＯＬＴＳ求人件数
-(備考）米労働省により作成 3ヶ月平均
-（百万件）
+多名美联储官员对连续加息仍持谨慎态
+度。近期，多名拥有投票权的联储局官
+员均发布谨慎加息言论。公布通胀数据
+后，金融监管副主席鲍曼表示虽然通胀
+仍高于预期，但毋须急于进一步上调利
+率。10 月 13 日，纽约联储主席威廉姆斯
+表示，9 月加息后没有必要急于再次行
+动，若经济按其预测发展，今年稍后再
+加息一次可能合适。10 月 8 日，美联储
+理事沃勒表示，如果经济数据符合预
+期，进一步加息可能有助于通胀更及时
+回到 2%，但加息不需要连续发生；10 月
+1 日，副主席杰斐逊强调，目前并不认为
+有迫切需再次上调利率，未来政策调整
+应综合评估数据趋势、经济前景及风险
+平衡，而长端市场利率本身的上升也会
+收紧金融条件。
+
+虽然9月份美国CPI高于预期，但多名联
+储局官员发表言论，对连续加息仍持谨
+慎态度，加上近日人工智能板块股价下
+跌，资金流入美国国债令美国主权债息
+回落。整体而言，美联储 10 月维持利率
+不变概率仍然较高。 根据芝加哥利率期
+货显示，10 月份维持利率不变概率约为
+73%，加息 25 基点的概率约为 27%。
+
+陈惠杰 
+首席分析师 
+Dominic.chan@cebi.com.hk 
+(852)2916-9631
+
+季圆 
+分析师 
+Yvonne.ji@cebi.com.hk 
+(852)2916-9633
+
+简述
 
 ### Page 2
 
-2/3 
-・Ｆｅｄが注目していた失業者一人あたりの求人件数は1.01となり、節目の１を５ヶ月連続で
-上回った。大きくみれば、2024年以降は求人件数と失業者数は共に横ばい状態にあり、そう
-したもとで失業率は低位で安定している。
-
-・解雇率は1.03％へと低下し、小数点２桁ベースでは2025年３月以来の低水準となった。これ
-は過去数ヶ月において新規失業保険申請件数が低位で安定していることと整合的で、企業の
-労働需要がなお底堅いことを示している。 
-・次に平均時給の先行指標として注目される自発的離職率に目を向けると、1.93％と概ね横ば
-いであった。自発的離職率の高まりは、労働者が待遇改善を求めて転職活動を活発に行って
-いることを意味し、賃金インフレの兆候と理解される。目下、離職率が低位で推移している
-ことは、賃金由来のインフレ圧力がなお限定的であることを示している。原油高に起因する
-インフレの二次的波及の脅威は現在のところ恐れるに足らないと考えられる。
-
-0
 2
-4
-6
-8
-10
-12
-14
-16
-18
-20
-01 03 05 07 09 11 13 15 17 19 21 23 25 27
-失業者数・求人件数
-(備考）米労働省により作成
-（百万件）
-失業者数
-求人件数
-0.5
-0.7
-0.9
-1.1
-1.3
-1.5
-1.7
-1.9
-17 18 19 20 21 22 23 24 25 26
-米国 解雇率
-(備考）米労働省により作成
-（％）
-1.4
-1.6
-1.8
-2.0
-2.2
-2.4
-2.6
-2.8
-3.0
-17 18 19 20 21 22 23 24 25 26
-自発的離職率
-(備考）米労働省により作成 ３ヶ月平均
-（％）
+
+时回到 2%，但加息不需要连续发生；10 月 1 日，副主席杰斐逊强调，
+目前并不认为有迫切需再次上调利率，未来政策调整应综合评估数据趋
+势、经济前景及风险平衡，而长端市场利率本身的上升也会收紧金 融条
+件。 
+市场预期 10 月份维持利率不变概率为 73%。美国联储局将于10 月27 至
+28 日举行议息会议。根据芝加哥利率期货显示，10 月份维持利率不变
+概率约为 73%，加息 25 基点的概率约为 27%。
 
 ### Page 3
 
-経済研究所が信ずるに足ると判断した情報に基づき作成していますが、その正確性、完全性に対する責任は負いません。見通しは予告
-なく変更されることがあります。また、記載された内容は、第一生命保険ないしはその関連会社の投資方針と常に整合的であるとは限
-りません。
-3/3
-・なお、ウィリアムズ・ＮＹ連銀総裁は９月29日に「ＦＲＢは９月の連邦公開市場委員会（Ｆ
-ＯＭＣ）で政策措置を決定したため、（現在は）性急に行動する必要はない」「エネルギー
-価格が過度な上昇要因にならないなら、インフレ率は低下していくはずだ」と発言した。そ
-のうえで「経済が自身の予想とおおむね一致する形で推移すれば、インフレ率を目標水準に
-速やかに戻すため、年内にあと１回の利上げを実施することが適切⁠になる可能性がある」と
-述べた。これは12月ＦＯＭＣにおける追加利上げを示唆する一方、10月27-28日のＦＯＭＣに
-おける利上げは不要であるとの含意があるように思える。その点において、ややハト派的な
-印象を受けた。
+3
+
+权益披露 
+分析员保证 
+分析员，陈惠杰(香港证监会中央编号: APP609) 、季圆(香港证监会中央编号: BXJ539)作为本研究报告全部撰写人，谨此证明有关就研
+究报告中提及的所有公司及/或该公司所发行的证券所做出的观点，均属分析员之个人意见。分析员亦在此证明，就研究报告内所做出的
+推荐或个人观点，分析员幷无直接或间接地收取任何补偿。此外，分析员及分析员之关联人士幷没有持有研究报告内所推介股份的任何权
+益，幷且没有担任研究报告内曾提及的上市法团的高级工作人员。
 
 ---
-## Document 621: 美财政部调查未释放削减发债信号，美债收益率走高、10年期重上5.12%
-
-Source PDF: all report pdf/美财政部调查未释放削减发债信号，美债收益率走高、10年期重上5.12%.pdf
-Report source: WallstreetCN (Global)
-Date: 2026-10-16
-Pages: 4
-Extraction status: ok
-
-### Page 1
-
-在征询⼀级交易商意⻅的调查中，财政部问到⻓期国债的回购计划、如何提⾼回购效率、
-短债发⾏时点、经济与融资前景，却没把问题直接指向⻓债供给削减。部分投资者原本期
-待，财政部会借此次问卷更明确地暗⽰正考虑缩减⻓债标售规模，甚⾄停⽌发⾏ 20 年期国
-债。 11 ⽉ 4 ⽇财政部公布的再融资公告成为下⼀观察点。花旗预计，届时会将 20 年和 30 年
-期美债发⾏规模各削减 30 亿美元，认为本次调查显⽰财政部在考虑削减发⻓债。
-摘要：
-美国财政部的最新⼀级交易商调查并未释放即将削减⻓期国债拍卖规模的明确信号，令押注政
-府将出⼿压低⻓期利率的投资者失望，美债价格由此下跌、收益率整体⾛⾼。
-这份调查是财政部为 11 ⽉ 4 ⽇公布季度再融资计划做的部分准备。市场原本希望从问卷中找到美
-国财⻓⻉森特可能调整⻓期国债发⾏规模的线索，尤其是市场近期热议的缩减、甚⾄停⽌发⾏
-20 年期国债的可能性。但财政部只是笼统询问未来应考虑哪些拍卖规模调整，没有明确暗⽰削
-减⻓期债券供给即将发⽣。
-16 ⽇周五美股午盘时段，财政部调查的细节公布后，美国国债收益率全线上⾏。美国 10 年期基
-
-准国债收益率重上 5.12% ，逼近美股盘前刷新的⽇⾼ 5.1315% ，⽇内升幅重新扩⼤⾄ 6.5 个基
-点； 20 年期美债收益率⽇内升 5.4 个基点， 30 年期美债收益率的⽇内升幅重新扩⼤到约 5 个基
-点，两年期美债收益率抹平⽇内降幅转升。
-与此同时，油价在调查公布前不久已加速上涨，也对美债收益率构成上⾏压⼒。因此，周五收
-益率⾛⾼既反映了市场对财政部未释放减供信号的失望，也受到能源价格变化的影响。
-财政部问了什么，市场在等待什么
-财政部此次向⼀级交易商征询意⻅，重点询问在投资者需求出现结构性变化、且未来中期需求
-预期可能继续演变的情况下，未来应考虑对国债拍卖规模作出哪些调整。
-这类调查是财政部季度再融资决策的常规准备⼯作，⽬的是了解主要交易商对政府融资需求、
-投资者需求和市场运⾏状况的判断，为后续确定国债发⾏规模和结构提供参考。调查本⾝并不
-是发债计划，也不意味着财政部已经决定调整任何期限的发⾏规模。
-⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⽣活家 搜索
-
-### Page 2
-
-据报道，此次问卷还涉及多个债务管理问题：
-⻓期国债回购计划： 财政部询问，扩⼤⻓期国债回购规模后，是否改善了市场流动性和交易
-运⾏；更⼤规模的回购如何影响交易商承接客⼾买卖订单的能⼒，以及客⼾直接或间接参与
-回购的意愿。
-如何进⼀步提⾼回购效率： 财政部征询交易商对回购计划还可以作出哪些调整的意⻅。
-国库券和浮息债的发⾏时点： 财政部询问，是否应调整⽬前避开美联储公开市场委员会
-（ FOMC ）议息⽇发⾏国库券和浮息债的惯例。
-经济与融资前景： 交易商还需提供对经济、财政、货币政策以及未来⼏个财年的财政部融资
-需求的预测。
-真正令市场失望的是，财政部没有把问题直接指向⻓期国债供给削减。部分投资者原本期待，
-财政部会借此次问卷更明确地暗⽰正在考虑缩减⻓期债券标售规模，甚⾄停⽌发⾏ 20 年期国
-债，以回应特朗普政府希望压低融资成本的努⼒。
-RBC Capital Markets 美国利率策略主管 Blake Gwinn 表⽰，如果财政部希望借问卷释放信号或
-影响收益率，完全可以提出更直接的问题。他认为，此次调查没有传递实质性信号；考虑到部
-
-分投资者期待⼤幅调整，例如停⽌发⾏ 20 年期国债，这⼀结果可能令市场失望。
-20 年期国债成为焦点，华尔街押注财政部调整发债结构
-市场对调查格外敏感，与⻓期美债收益率近期处于⾼位有关。随着美国财政⾚字持续、既有债
-务的利息⽀出增加，政府融资需求不断上升，⻓期国债供给压⼒成为投资者关注的核⼼问题之
-⼀。
-彭博社称，部分华尔街机构此前押注，财政部可能通过调整发债结构来缓解⻓期债券供给压
-⼒。市场讨论尤其集中在 20 年期国债：财政部是否会缩减其发⾏规模，乃⾄彻底取消这⼀期限
-的发⾏。
-从融资机制看，财政部需要满⾜政府整体的借款需求，但并不意味着必须按照固定⽐例发⾏各
-个期限的债券。如果短期融资⼯具的需求和市场承接能⼒允许，财政部理论上可以通过增加短
-期债务发⾏，减少对⻓期债券市场的供给压⼒。不过，期限结构调整也会改变政府未来的再融
-资安排，不能简单理解为减少总借款需求。
-TD Securities 美国利率策略师 Molly Brooks 表⽰，财政部的问题设置仍然过于宽泛，没有明确询
-问是否减少⻓期债券供给，因此市场感到失望。她预计，⻓期国债拍卖规模最早也要到 2027 年 2
-
-⽉才可能调整。
-这⼀判断意味着，部分投资者此前押注的乐观情景 —— 财政部在 11 ⽉的季度再融资计划中就宣
-布削减⻓期发⾏规模，甚⾄取消 20 年期国债 —— 未必会很快兑现。问卷没有提供明确的减供信
-号，也不代表相关调整已被排除。
-不过，花旗策略师坚持其预测，认为美国财政部将在 11 ⽉的季度再融资公告中削减⻓债的发⾏
-量，预计 20 年期和 30 年期美国国债的拍卖规模将各削减 30 亿美元。他们指出，调查问卷中的相
-关问题表明，财政部官员正在考虑采取这⼀举措。
-
-### Page 3
-
-⻛险提⽰及免责条款
-市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂
-中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
-133 收藏 分享到 :
-写评论
-花旗的报告写道，⾃上次再融资公告发布以来，⻓期美债出现显著的抛售⾏情，且在美财政部
-宣布提⾼回购上限后的⼏次⻓债回购操作中，市场表现相对疲软，这些因素将促使财政部将⻓
-债的发⾏转向短债。
-发债信号落空叠加油价上涨，⻓端收益率承压
-除财政部调查外，油价上涨也加⼤了美债收益率的上⾏压⼒。能源价格⾛⾼可能重新推升市场
-对通胀的担忧，并影响投资者对美联储未来利率路径的判断。对于期限较⻓的国债⽽⾔，通胀
-预期、未来短期利率以及投资者要求的期限溢价，都会影响收益率定价。
-这也解释了为什么此次市场反应集中体现在⻓期美债。⻓期国债价格对供给预期变化尤其敏
-感：如果市场原本期待财政部减少⻓期债券发⾏，⼀旦相关信号缺席，投资者就可能重新评估
-需要持有的⻓期债券供给，以及为承担利率⻛险所要求的回报。
-
-但不能将周五的收益率上⾏完全归因于财政部调查。油价变化同样是报道提及的推动因素，⽽
-调查结果只是令市场此前对政策调整的期待落空，并未直接证明未来⻓期国债发⾏规模⼀定维
-持不变。
-11 ⽉ 4 ⽇再融资公告成为下⼀观察节点
-财政部将于 11 ⽉ 4 ⽇公布下⼀份季度再融资计划，届时市场才能进⼀步评估政府对借款需求、不
-同期限债券发⾏规模以及回购安排的具体考虑。
-美国政府⾯临持续的财政⾚字，既有债务利息⽀出也在增加，这使得财政部必须在融资成本、
-市场需求和债务期限结构之间权衡。通过缩减⻓期债券供给来压低⻓端收益率，是市场关注的
-⼀种可能路径，但并⾮没有约束。
-在正式公告公布前，交易商调查提供的是市场意⻅征询，⽽不是政策承诺。周五⻓端美债下
-跌、收益率再度⾛⾼，反映出市场原本期待财政部释放更积极的减供信号，却没有从这份问卷
-中得到⾜够明确的依据。接下来，投资者将继续关注财政部是否会在 11 ⽉的再融资计划中调整
-⻓期国债发⾏安排，以及相关举措能否真正缓解⻓期美债的供给压⼒。
-限免
-请发表您的评论
-
-### Page 4
-
-图⽚
-1 条评论
-表情 发布评论
-MobileUser0652
-5 ⼩时前 中国上海
-0  回复
-我靠， 10 年前还玩过，按理来说，他们应该是 AI 先驱才对，就算掉队了也不⾄于破产吧？
-
----
-## Document 624: 群益-1303 南亞-20261006
+## Document 614: 群益-1303 南亞-20261006
 
 Source PDF: all report pdf/群益-1303 南亞-20261006.pdf
 Report source: line報告備份
