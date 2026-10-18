@@ -1222,119 +1222,235 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 157: AI资本开支暗藏“租赁账单”！摩根士丹利将2027年投资额上调至1.5万亿美元
+## Document 113: 9月金融数据点评：政策加力有望支撑四季度社融企稳
 
-Source PDF: all report pdf/AI资本开支暗藏“租赁账单”！摩根士丹利将2027年投资额上调至1.5万亿美元.pdf
-Report source: WallstreetCN (Global)
-Date: 2026-10-16
-Pages: 6
+Source PDF: all report pdf/9月金融数据点评：政策加力有望支撑四季度社融企稳.pdf
+Report source: 联储证券
+Date: 2026-10-15
+Pages: 4
 Extraction status: ok
 
 ### Page 1
 
-⼤摩表⽰，若将未体现在现⾦流中的租赁资本开⽀纳⼊统计， 2027 年全球 AI 计算投资总规
-模将升⾄ 1.58 万亿美元，较现⾦⼝径扩⼤ 14% 。⾼额投资将⼤幅驱动标普 500 营收与盈
-利，其中英伟达独占约三分之⼆流⼊份额。不过，融资压⼒正加剧⾼低评级主体分化，低
-评级云服务商⾯临更⼤的融资约束与成本敏感性。
-摘要：
-当传统资本开⽀⼝径不再完整，租赁融资正悄然重塑 AI 基础设施投资的全貌。
-据追⻛交易台消息，据摩根⼠丹利 Nicholas Lentini 团队的最新研究报告，将租赁资本开⽀纳⼊
-统计后，超⼤规模云服务商（ hyperscaler ）及新兴云服务商（ neocloud ） 2027 年 AI 计算投资
-总规模升⾄约 1.58 万亿美元，较现⾦资本开⽀⼝径扩⼤约 14% 。这⼀数字意味着 2026 年⾄ 2027
-年间， AI 投资增量⾼达约 7000 亿美元，增速约 60% 。
-摩根⼠丹利指出，这 1.58 万亿美元的资本开⽀将直接带动标普 500 指数约 5% 的 2027 年营收，并
+证券研究报告 
+宏观经济点评 2026 年 10 月 15 日
 
-贡献约 25% 的营收增速。更⼴泛看，被摩根⼠丹利归类为 AI 核⼼受益者的 " 使能者 " （ Enablers ）
-与 " 采⽤者 " （ Adopters ）合计将驱动标普 500 指数 78% 的 2027 年盈利增⻓。值得注意的是，英伟
-达⼀家公司预计将独占标普 500 指数 AI 资本开⽀流⼊规模的约三分之⼆。
-⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⽣活家 搜索
+请务必阅读正文之后的信息披露和法律声明
+
+9 月金融数据点评：政策加力有望支撑四季度社融企稳
+
+[Table_Author] 
+ 沈夏宜 分析师  魏争 分析师
+
+Email:shenxiayi@lczq.com Email:weizheng@lczq.com  
+证书:S1320523020004 证书:S1320524100001
 
 ### Page 2
 
-研究显⽰，超⼤规模云服务商已披露逾 1.1 万亿美元尚未启动的租赁承诺。由于数据中⼼租赁属
-于债务融资性质的资产购置，在现⾦流量表中不体现为资本开⽀，亦不进⼊管理层指引，导致
-市场⻓期低估 AI 实际投资规模。将租赁项⽬纳⼊后，摩根⼠丹利估计 2026 年、 2027 年、 2028 年
-AI 总资本开⽀分别约为 9800 亿美元、 1.58 万亿美元及 1.81 万亿美元，同⽐增速分别约为 100% 、
-60% 及 14% 。
-租赁资本开⽀： " 影⼦账单 " 有多⼤
-摩根⼠丹利在本次报告中⾸次系统引⼊超⼤规模云服务商的租赁资本开⽀预测。根据其估算，
-2027 年租赁资本开⽀达 1950 亿美元， 2028 年进⼀步扩⼤⾄ 2460 亿美元。从单家公司看， 2027
-年甲⻣⽂贡献最⼤，达 572 亿美元，其次依次为微软（ 453 亿美元）、 META （ 372 亿美元）、亚⻢
-逊（ 284 亿美元）及⾕歌（ 266 亿美元）。
-这⼀问题的核⼼在于会计处理⽅式。超⼤规模云服务商通过租赁⽅式获取数据中⼼的⾏为，在
+宏观经济点评  
+请务必阅读正文之后的信息披露和法律声明 2 
+外币贷款同比多增。9 月新增外币贷款 349 亿元，同比多增 478 亿元，可
+能与当月进口增速偏强，企业进口付汇需求增加有关。委托贷款同比多
+增。9 月新增委托贷款 802 亿元，同比多增 519 亿元。一方面，可能与新
+型政策性金融工具开始投放有关。部分资金通过股东借款的形式投入项
+目。相关基金委托政策性银行向项目公司股东提供借款，带动委托贷款增
+加；另一方面，公积金贷款需求边际改善亦对委托贷款形成一定支撑。未
+贴现银行承兑汇票同比少增。9 月未贴现银行承兑汇票增加 2153 亿元，
+同比少增 1081 亿元，主要与季末银行加大收票力度，票据被贴现至表内
+有关。 
+M1 增速回落。9 月 M1 同比增长 3.2%，较上月回落 0.9 个百分点。或主
+要受 9 月资本市场调整、市场风险偏好边际回落影响，资金活化程度有所
+减弱。9 月非银存款亦减少 1.9 万亿元，同比多减 8500 亿元。 
+M2 增速小幅回落。9 月 M2 同比增长 7.2%，较上月回落 0.3 个百分点。
+一是信贷派生仍然偏弱，新增人民币贷款同比少增，银行体系通过信贷 派
+生存款的能力受限；二是财政存款同比少减 4100 亿元，财政资金向企业
+和居民存款转化力度偏弱，亦对 M2 形成一定拖累。 
+政策加力有望支撑四季度社融企稳 。往前看，一是货币端，PSL 利率下调
+至 1.5%，支持范围扩展至“六张网”，叠加科技创新和技术改造再贷
+款、支农支小再贷款额度增加，有助于降低重点领域融资成本、拓宽重大
+项目和薄弱环节的融资渠道，为后续信贷投放提供支撑 ；二是准财政端，
+8000 亿元新型政策性金融工具已启动投放，项目资本金补充有望撬动配
+套贷款及后续债券融资；三是财政端，5500 亿元地方政府债务结存限额
+已安排使用，其中 2500 亿元专项债重点支持在建项目和“六张网”等领
+域。叠加四季度政府债发行提速，相关政策效果有望逐步显现，对社融企
+稳形成有效支撑。
 
-经济实质上等同于债务融资购置资产，但并不体现在现⾦流量表的资本开⽀科⽬下，也不纳⼊
-管理层的资本开⽀指引。摩根⼠丹利认为，这导致传统资本开⽀预测 " 越来越难以还原资本投⼊
-的全貌 " 。
-从投资回报⻆度看，摩根⼠丹利对这批投资持乐观态度。报告估计，新增计算容量的投资回报
-率（ ROIC ）在 25% ⾄ 50% 之间，并测算了 GPU 租赁（ IaaS ）及模型 API 两类业务模式 —— 前者
-可实现 60% ⾄ 70% 的边际 EBIT 利润率及 25% ⾄ 40% 的 ROIC ，后者增量 EBIT 利润率可超 70% ，
-ROIC 最⾼可达 63% 。
+风险提示：宏观经济不及预期，地产销售不及预期，美国货币政策超预
+期，地缘政治风险超预期。
 
 ### Page 3
 
-AI 资本开⽀流向：谁在分⻝这块蛋糕
-摩根⼠丹利通过⾃下⽽上的⽅式，将 1.58 万亿美元资本开⽀追踪⾄约 50 家公司的营收，覆盖科
-技、通信服务、⼯业、能源及海外 ODM 等板块。按其测算，约 65% 的 AI 资本开⽀最终流⼊标普
-500 成分股营收，其中英伟达占据流⼊规模的约三分之⼆。
-在各受益板块中， AI 芯⽚、内存、⽹络及 ODM （原始设计制造商）获得最⼤份额，英伟达、三
-星、 SK hynix 及美光合计拿⾛其中绝⼤部分。
-芯⽚层⾯，摩根⼠丹利认为英伟达具备最佳⻛险回报⽐，理由是公司正处于新⼀代产品周期爬
-坡早期， Fenyman 平台有望推动每 GW 算⼒对应营收超过 500 亿美元，且当前估值约 15 倍 FY28
-EPS ，具备估值扩张空间。博通亦受益于定制硅业务扩张，预计 2028 年 XPU 市场规模将突破 1 万
-亿美元。
-内存层⾯，DRAM 已成为 AI 建设的关键瓶颈，但相关股票仅以约 3 倍 NTM 市盈率交易，隐含增⻓
-溢价⼏乎为零。摩根⼠丹利判断内存周期将于 2026 年四季度进⼊后期，价格涨幅趋于温和，供
+宏观经济点评  
+请务必阅读正文之后的信息披露和法律声明 3 
+图1 9 月金融数据
 
-给增加将限制盈利惊喜空间。 SK hynix 与 Samsung 已通过⻓期协议（ LTA ）锁定⼤部分需求，
+资料来源：Wind，联储证券研究院
 
 ### Page 4
 
-SK hynix 承诺回购并注销 400 亿韩元股份， Samsung 则设定 2026 年 900 亿⾄ 1100 亿韩元的股东
-回报⽬标。
-⽹络层⾯，每增加 1 美元超⼤规模云服务商资本开⽀，约对应 0.25 美元的⽹络营收，预计 2027 年
-⽹络总营收约 3740 亿美元。在覆盖的主要公司中，英伟达（⽹络业务）、博通、 Innolight 及
-Arista Networks 预计位居超⼤规模云相关⽹络营收前列。
-设计软件层⾯，超⼤规模云服务商持续加⼤定制硅投⼊，为 Synopsys 和 Cadence 提供增量机
-会，尤其是 Synopsys 新推出的应⽤优化 IP （ AOIP ）模式，通过⽣产版税将营收与芯⽚出货量更
-直接挂钩。
-数据中⼼建设引发的电⼒需求正成为⼯业及电⼒设备商的重要增⻓引擎。摩根⼠丹利指出， AI 资
-本开⽀对⼯业板块的传导路径集中于电⼒供应与冷却设备。
-电⼒设备⽅⾯，GE Vernova 燃⽓轮机已售罄⾄ 2029 年，售价从 2020 年代初的每千⽡ 1000 美元
-涨⾄⽬前的每千⽡ 3000 美元，数据中⼼相关订单已占其管道订单的约三分之⼀。 INIO 与 BE 则分
-别受益于⾼速往复式发动机及燃料电池需求。摩根⼠丹利认为，上调资本开⽀将进⼀步延伸电
-⼒ OEM 的积压订单并提升利润率。
-融资压⼒：⾼评级与低评级主体分化加剧
-随着资本开⽀持续扩张，⾃由现⾦流缺⼝正在拉⼤。摩根⼠丹利估计，2027 年将是预测期内现
-⾦流⾚字最⼤的⼀年。超⼤规模云服务商今年以来已发⾏约 2550 亿美元⽆担保债券，约占全年
-预估资本开⽀的 30% ，但 10 年期债券全价收益率较 2025 年底上升约 100 ⾄ 180 个基点。
-摩根⼠丹利将融资主体分为两个层次：⾼评级超⼤规模云服务商（亚⻢逊、 META 、⾕歌、微
-软）⽬前利息覆盖倍数约 30.7 倍，即便 2027 年新增发债 4000 亿美元，覆盖倍数仍可维持在 11.9
-倍，对融资成本基本不敏感；⽽低评级主体（甲⻣⽂、 SPCX ）的覆盖倍数仅约 4 倍，若同期新
-增发债 1200 亿美元，覆盖倍数将降⾄约 1.8 倍，⾯临较⼤融资约束。
-新兴云服务商（ neocloud ）主要依赖项⽬层⾯融资及可转债，是对融资成本最敏感的群体，通
-常需要借助⾼评级交易对⼿的信⽤⽀持来获取融资。
-从融资结构演变看，摩根⼠丹利预计 2027 年发债期限将向短端倾斜，芯⽚和服务器因现⾦流产
-⽣速度较快，更适合以资产⽀持融资及私募形式匹配，具备与合同需求挂钩的灵活性。
+投资评级说明 
+投资建议的评级标准  评级 说明 
+评级标准为报告发布日后的 6 个月内公司股价 （或行业
+指数） 相对同期基准指数的相对市场表现。 其中A 股市
+场以沪深 300 指数为基准； 新三板市场以三板成指 （针
+对协议转让标的） 或三板做市指数 （针对做市转让标的）
+为基准；香港市场以恒生指数为基准。 
+股票评级 
+买入 相对同期基准指数涨幅在 10%以上 
+增持 相对同期基准指数涨幅在 5%~10%之间 
+中性 相对同期基准指数涨幅在-5%~+5%之间 
+减持 相对同期基准指数跌幅在 5%以上 
+行业评级 
+看好 相对表现优于市场 
+中性 相对表现与市场持平 
+看淡 相对表现弱于市场
 
-~~~~~~~~~~~~~~~~~~~~~~~~
-以上精彩内容来⾃追⻛交易台。
-更详细的解读，包括实时解读、⼀线研究等内容，请加⼊【追⻛交易台 ▪ 年度会员】
+联储证券研究院 
+青岛 北京 
+地址：山东省青岛市崂山区香港东路 195 号 8 号楼 11、
+15F 
+邮编：266100 
+地址：北京市朝阳区安定路五号院 13 号楼 B 座 14 层 
+邮编：100029 
+上海 深圳 
+地址： 上海市浦东新区滨江大道1111弄 1 号中企国际金融
+中心 A 栋 12 层 
+邮编：200135 
+地址：广东省深圳市南山区沙河街道深云路 2 号侨城一号
+广场 28-30F 
+邮编：518000
+
+---
+## Document 145: AI Scare Raises Growth Fears and Lowers Bond Yields
+
+Source PDF: all report pdf/AI Scare Raises Growth Fears and Lowers Bond Yields.pdf
+Report source: researchmail轉寄
+Date: 2026-10-16
+Pages: 8
+Extraction status: ok
+
+### Page 1
+
+From:    Yardeni QuickTakes <yardeni-research@ghost.io>
+Subject: AI Scare Raises Growth Fears and Lowers Bond Yields
+Date:    4 hours ago
+AI Scare Raises Growth Fears and Lowers Bond Yields
+
+YARDENI QUICKTAKES
+AI Scare Raises Growth Fears
+and Lowers Bond Yields
+By Ed Yardeni & Elias Griepentrog • 15 Oct 2026
+View in browser
+Photo by Jonny Gios / Unsplash
+
+I. Treasury Yields
+US Treasury yields fell sharply today, extending Wednesday's retreat from
+intraday highs. The 10-year yield dropped 9bps to 5.10%, while the 30-
+year fell 10bps to 5.43% (chart).
+
+### Page 2
+
+Even the 2-year yield declined slightly to 4.77% (chart).
+Remarkably, this broad-based decline occurred despite two hotter-than-
+expected inflation reports. Normally, such surprises would push Treasury
+yields higher as investors priced in a more hawkish Fed.
+So, what's going on? We think the bond market is focusing on the
+sustainability of the AI investment boom. That issue came to the fore this
+week as CoreWeave's bonds plunged below 80 cents on the dollar and
+
+debt financing major data center projects also tumbled. A new Gartner
+report estimates AI data center operators will need $8.5 trillion in revenues
+through 2030 to cover costs and earn healthy returns, versus projected
+revenues of "just" $3.6 trillion.
+
+### Page 3
+
+Why does this matter? The AI buildout has become a major engine of US
+economic growth. But doubts about future returns are pushing up
+borrowing costs, potentially constraining access to capital and ultimately
+slowing investment spending.
+As a result, investors may be lowering their economic growth expectations
+amid concerns that the AI boom could slow, pushing Treasury yields lower.
+This reinforces our longstanding view that the earlier surge in Treasury
+
+yields largely reflected stronger-than-expected nominal GDP growth
+(chart).
+We are nowhere near ready to write off the AI investment boom. Demand
+for compute continues to outpace supply, while rising adoption should fuel
+further investment. Indeed, just five hyperscalers (Amazon, Alphabet,
+Meta, Microsoft, and Oracle) are expected to spend a combined $892
+billion this year and $1.1 trillion next year. Their strong balance sheets and
+cash flow generation make their spending plans relatively insensitive to
+
+higher borrowing costs. While heavily indebted AI infrastructure providers
+may struggle, we expect the hyperscalers to keep spending and the
+Roaring 2020s to keep roaring.
+II. Inflation
+Let's take a closer look at September's hotter-than-expected PPI report
+and what it tells us about inflationary pressures in the pipeline.
+
+### Page 4
+
+(1) PPI for final demand. September's PPI final demand surged 1.3%
+m/m, largely reflecting a 10.8% spike in energy prices. However, even
+excluding the volatile food, energy, and trade services components,
+producer prices still rose 0.5%, suggesting that inflationary pressures
+remain broad-based.
+On a y/y basis, core PPI final demand rose to 5.0%, with services and
+goods prices rising 5.0% and 5.2%, respectively (chart).
+(2) PPI for consumption. The PPI for personal consumption, a key input
+
+into the Fed’s preferred PCED inflation gauge, surged by 1.3% m/m in
+September (chart). Excluding food and energy, it was up 0.6%.
+
+### Page 5
+
+Core PPI personal consumption rose to 4.6% y/y and remained well
+above both core PCED and core CPI inflation, suggesting that upside
+risks to consumer inflation remain elevated (chart).
+(3) Supercore inflation. The PPI supercore inflation rate rose to 4.6% y/y
+in September (chart).
 
 ### Page 6
 
-⻛险提⽰及免责条款
-市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂
-中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
-57 收藏 分享到 :
-写评论
-图⽚
-限免
-请发表您的评论
-表情 发布评论
+(4) Core PCED. With September CPI and PPI now in hand, most
+forecasters expect core PCED inflation to rise 0.3% m/m in September,
+which would lift the y/y rate from 3.0% to 3.1%. The Cleveland Fed’s
+Inflation Nowcasting model projects 0.28% m/m and 3.05% y/y,
+respectively.
+III. Booming Economy
+For now, the US economy shows no signs of slowing down. Consider the
+latest data points:
+(1) Jobless claims. Initial jobless claims edged up slightly to 199,000 in
+
+the week ended October 10, the fifth straight week below 200,000. That is
+the longest streak since 1969! Continuing claims declined to 1.71 million,
+dragging down the 4-week moving average to the lowest level since April
+2023 (chart).
+
+### Page 7
+
+(2) Retail sales. September retail sales rose 0.8% m/m, partly driven by a
+6.4% surge in gasoline station sales amid elevated pump prices (chart).
+Still, eight of the 13 major categories posted gains. Sales at food services
+and drinking places, the only services category and a key discretionary
+spending indicator, jumped 1.1% m/m, their eighth consecutive monthly
+gain. They rose 7.0% y/y, the strongest increase since March 2023.
+(3) GDP. Reflecting today's retail sales report, the Atlanta Fed’s GDPNow
+
+model estimates Q3 real GDP growth at 3.6% (saar), unchanged from
+October 8 (chart). Consumer spending is projected to rise 3.6%. AI-related
+demand is boosting business equipment investment (17.6%), fixed
+business structures (7.0%), and intellectual property investment (6.6%).
+Final sales to private domestic purchasers are expected to grow 4.7%.
+
+### Page 8
+
+clause.
+Yardeni QuickTakes © 2026 – Unsubscribe
 
 ---
-## Document 163: Allianz_2026-10-14_Allianz Pulse 2026 on AI The Uneasy AI Revolution_ Rapid Adoption, Growing Anxiety and Europe’s Preparedness Gap_7b0c1156
+## Document 164: Allianz_2026-10-14_Allianz Pulse 2026 on AI The Uneasy AI Revolution_ Rapid Adoption, Growing Anxiety and Europe’s Preparedness Gap_7b0c1156
 
 Source PDF: all report pdf/Allianz_2026-10-14_Allianz Pulse 2026 on AI The Uneasy AI Revolution_ Rapid Adoption, Growing Anxiety and Europe’s Preparedness Gap_7b0c1156.pdf
 Report source: Allianz Trade
@@ -3386,7 +3502,7 @@ contained herein, save for any information required to be disclosed by law.
 Allianz Trade is the trademark used to designate a range of services provided by Euler Hermes.
 
 ---
-## Document 205: CTCP Nhựa Bình Minh - Báo cáo cập nhật 2Q2026 (2026-09-23)
+## Document 206: CTCP Nhựa Bình Minh - Báo cáo cập nhật 2Q2026 (2026-09-23)
 
 Source PDF: all report pdf/CTCP Nhựa Bình Minh - Báo cáo cập nhật 2Q2026 (2026-09-23).pdf
 Report source: KBSV (Company)
@@ -4070,176 +4186,7 @@ Email: info@kbsec.com.vn
 Website: www.kbsec.com.vn
 
 ---
-## Document 222: Fed tăng lãi suất, dự báo thêm một lần tăng nữa trong năm (2026-09-17)
-
-Source PDF: all report pdf/Fed tăng lãi suất, dự báo thêm một lần tăng nữa trong năm (2026-09-17).pdf
-Report source: KBSV (Thematic)
-Date: 2026-09-17
-Pages: 3
-Extraction status: ok
-
-### Page 1
-
-1
-
-F I R S T  T O  M A R K E T
-
-Fed tăng lãi suất, dự báo thêm 
-một lần tăng nữa trong năm 
-Đánh giá áp lực lên tỷ giá và lãi suất Việt Nam
-
-Fed tăng lãi suất và dự báo có thêm một lần tăng lãi suất nữa trong năm 
-— Trong kỳ họp FOMC ngày 15–16/09/2026, Fed quyết định tăng 25bps lãi suất điều hành 
-lên mức 3.75%–4%, đánh dấu lần tăng lãi suất đầu tiên kể từ năm 2023. Quyết định 
-được thông qua với tỷ lệ đồng thuận 12–0, phản ánh sự thống nhất của các thành viên 
-FOMC trong việc ưu tiên kiểm soát lạm phát. 
-— Chủ tịch Fed Kevin Warsh nhấn mạnh lạm phát vẫn ở mức cao và cần được đưa về mục 
-tiêu 2% trong thời gian phù hợp hơn. Bên cạnh đó, Fed đánh giá hoạt động kinh tế 
-đang tăng trưởng vững, tiêu dùng nội địa duy trì tích cực, năng suất và đầu tư vốn tăng 
-trưởng mạnh, trong khi thị trường lao động vẫn ổn định. Điều này cho thấy Fed chưa 
-nhận thấy áp lực suy giảm kinh tế đủ lớn để ưu tiên nới lỏng chính sách tiền tệ.  Ông 
-Warsh không đưa ra cam kết cụ thể về thời điểm tăng lãi suất, nhấn mạnh chính sách 
-sẽ phụ thuộc vào diễn biến lạm phát, thị trường lao động và các dữ liệu kinh tế sắp tới. 
-— Biểu đồ dot plot tháng 9 cho thấy Fed vẫn nghiêng về khả năng tăng thêm lãi suất 
-trong năm 2026, với 16/18 thành viên dự báo ít nhất một lần tăng nữa, đưa lãi suất điều 
-hành lên vùng 4%–4.25%. Tuy nhiên, sự phân hóa trong dự báo lãi suất năm 2027 
-(3.625%–4.375%) cho thấy đây có thể là một lần điều chỉnh nhằm kiểm soát lạm phát, 
-thay vì tín hiệu về một chu kỳ thắt chặt kéo dài.
-
-Quan điểm của KBSV đối với lãi suất và tỷ giá 
-— Trong 3 tháng cuối năm, chúng tôi đánh giá nhiều khả năng Fed sẽ có thêm một lần 
-tăng lãi suất 25bps, dựa trên:  
-(1) Fed tiếp tục nâng dự báo PCE headline và core 2026 lên thêm 10 bps so với dự 
-báo hồi tháng 6, đồng thời dự báo lạm phát sẽ quay về mức mục tiêu 2% vào năm 
-2029 (thay vì năm 2028 như dự báo trước đó), trong khi dự báo về tỷ lệ thất 
-nghiệp và tăng trưởng GDP được điều chỉnh theo hướng tích cực hơn. 
-(2) Giá dầu vẫn duy trì ở mức cao (dự kiến quay về vùng 9x USD/thùng vào quý 4) 
-trong bối cảnh xung đột tại Trung Đông tiếp tục gây gián đoạn hoạt động vận 
-chuyển và xuất khẩu dầu mỏ. Mặc dù Saudi Arabia đã tăng cường vận chuyển 
-dầu qua Oman, qua đó giảm bớt lo ngại về thiếu hụt nguồn cung trong ngắn hạn, 
-rủi ro gián đoạn vẫn hiện hữu khi xung đột chưa được giải quyết hoàn toàn. 
-— Chúng tôi nâng dự báo DXY lên vùng 98–103 điểm trong phần còn lại của năm với động 
-lực hỗ trợ USD trong ngắn hạn đến từ việc Fed phát tín hiệu tiếp tục thắt chặt, trong khi 
-thị trường điều chỉnh kỳ vọng lãi suất theo hướng duy trì cao hơn. Tuy nhiên, việc các 
-NHTW lớn khác cũng duy trì định hướng kiểm soát lạm phát có thể hạn chế mức độ mở 
-rộng chênh lệch lãi suất, qua đó làm giảm khả năng USD tăng giá một chiều và DXY 
-tăng mạnh khỏi vùng dự báo.
-
-### Page 2
-
-— Chúng tôi dự báo vĩ mô trong nước đối với: (1) tỷ giá USD/VND tới cuối năm 2026 đi 
-ngang so với cuối 2025 nhờ nguồn cung USD tích cực (từ kiều hối, FDI giải ngân và nâng 
-hạng thị trường vốn) và chênh lệch lãi suất VND-USD dù có xu hướng thu hẹp nhưng 
-vẫn duy trì trạng thái dương; và (2) lãi suất huy động sẽ duy trì ở vùng hiện tại trong 
-phần còn lại của năm và kỳ vọng có thể giảm nhẹ nếu lạm phát được kiểm soát và 
-NHNN sẽ có biện pháp hỗ trợ thanh khoản thị trường tích cực hơn.
-
-Bảng 1. Dự báo kinh tế của Fed (%)
-
-2026F 2027F 2028F 2029F 
-Tăng trưởng GDP thực Dự báo mới 2.3 2.4 2.2 2.1 
-Dự báo kỳ trước 2.2 2.2 2.3 2.2 
-Tỷ lệ thất nghiệp Dự báo mới 4.1 4.1 4.1 4.1 
-Dự báo kỳ trước 4.3 4.3 4.2 - 
-Lạm phát PCE headine Dự báo mới 3.7 2.3 2.1 2 
-Dự báo kỳ trước 3.6 2.3 2 - 
-Lạm phát PCE lõi Dự báo mới 3.4 2.5 2.2 2 
-Dự báo kỳ trước 3.3 2.5 2.1 -
-
-Nguồn: Fed, KBSV
-
-Biểu đồ 2. Chỉ số DXY và lợi suất UST 10 năm  Biểu đồ 3. Chênh lệch lãi suất VND-USD
-
-Nguồn: Bloomberg, KBSV  Nguồn: NHNN, KBSV
-
-0
-1
-2
-3
-4
-5
-6
-80
-85
-90
-95
-100
-105
-110
-115
-120
-02/17 02/18 02/19 02/20 02/21 02/22 02/23 02/24 02/25 02/26
-(%)
-DXY (LHS) US 10Y bond yield (RHS)
--6
--4
--2
-0
-2
-4
-6
-8
-01/21
-04/21
-07/21
-10/21
-01/22
-04/22
-07/22
-10/22
-01/23
-04/23
-07/23
-10/23
-01/24
-04/24
-07/24
-10/24
-01/25
-04/25
-07/25
-10/25
-01/26
-04/26
-07/26
-(%)
-ON 1W 2W 1M 3M
-
-### Page 3
-
-Hệ thống khuyến nghị
-
-Hệ thống khuyến nghị đầu tư ngành 
-(Dựa trên đánh giá triển vọng trong 6 tháng tới)  
-Tích cực: 
-Vượt trội hơn thị trường 
-Trung lập: 
-Phù hợp thị trường 
-Tiêu cực: 
-Kém hơn thị trường
-
-CTCP CHỨNG KHOÁN KB VIỆT NAM (KBSV)
-
-Trụ sở chính: 
-Địa chỉ: Tầng 16&17, Tháp 2, Tòa nhà Capital Place, số 29 Liễu Giai, Phường Ngọc Hà, TP Hà Nội 
-Điện thoại: (+84) 24 7303 5333 - Fax: (+84) 24 3776 5928 
-Chi nhánh Hà Nội: 
-Địa chỉ: Tầng 14, Tòa nhà Diamond Park Plaza, số 16 Láng Hạ, Phường Giảng Võ, TP Hà Nội 
-Điện thoại: (+84) 24 7305 3335 - Fax: (+84) 24 3822 3131 
-Chi nhánh Hồ Chí Minh: 
-Địa chỉ: Tầng 21, Tòa nhà Vietinbank, số 93 - 95 Hàm Nghi, Phường Sài Gòn, TP Hồ Chí Minh 
-Điện thoại: (+84) 28 7303 5333 - Fax: (+84) 28 3914 1969 
-Chi nhánh Sài Gòn: 
-Địa chỉ: Tầng 1, Saigon Trade Center, số 37 Tôn Đức Thắng, Phường Sài Gòn, TP Hồ Chí Minh 
-Điện thoại: (+84) 28 7306 3338 - Fax: (+84) 28 3910 1611
-
-LIÊN HỆ 
-Hotline: 1900 1711 
-Email: info@kbsec.com.vn 
-Website: www.kbsec.com.vn
-
----
-## Document 225: First Impressions_ NZIER Quarterly Survey of Business Opinion, September quarter 2026 (2026-10-18)
+## Document 227: First Impressions_ NZIER Quarterly Survey of Business Opinion, September quarter 2026 (2026-10-18)
 
 Source PDF: all report pdf/First Impressions_ NZIER Quarterly Survey of Business Opinion, September quarter 2026 (2026-10-18).pdf
 Report source: Westpac IQ
@@ -4436,137 +4383,7 @@ This communication is not intended for distribution to, or use by any person or 
 jurisdiction or country where such distribution or use would be contrary to local law or regulation.
 
 ---
-## Document 230: From Sep_3Q26 Taiwan semi_tech sales to see signs of global semi_technology
-
-Source PDF: all report pdf/From Sep_3Q26 Taiwan semi_tech sales to see signs of global semi_technology.pdf
-Report source: researchmail轉寄
-Date: 2026-10-12
-Pages: 6
-Extraction status: ok
-
-### Page 1
-
-From:    陸⾏之  Andrew Lu on global semis and techs <andrewhclu@substack.com>
-Subject: From Sep/3Q26 Taiwan semi/tech sales to see signs of global semi/technology
-Date:    14 hours ago
-From Sep/3Q26 Taiwan semi/tech sales to see signs of global semi/technology
-View in browser
-From Sep/3Q26 Taiwan
-semi/tech sales to see signs
-of global semi/technology
-從台灣科技及半導體  3Q26 營收找全球科技及半導體產業景氣趨勢
-ANDREW LU ON GLOBAL SEMI/TECHS
-OCT 12 ∙ PAID
-READ IN APP
-Executive summary
-
-台灣半導體暨科技產業公布 9 ⽉份及 3Q26 營收，我們以公布的數據看產業趨勢
-變化及公司與彭博社分析師預期進⾏分析⽐較，投資⼈須審慎評估。總⽽⾔
-之， 3Q26 營收明顯超過彭博社分析師預期的公司⼤幅多於低於預期的公司達 6
-倍多，⽽超過 53% 年增（⽤晶圓代⼯的 9 ⽉份營收年增做標竿）的有 6 個次產
-業。除此以外，我們還提供了 3Q26 營收年增明顯改善及惡化的前 20 名公司整
-理及排序，及 3Q26 營收明顯季增 / 季減的前 20 名公司整理及排序。總結⽽
-⾔，伺服器產業鏈（對標公司有 Nvidia, AMD, Intel, ⾕歌 TPU ， Dell,
-SuperMicro) ，存儲記憶體（對標公司有三星 , SK Hynix, SanDisk,
-Western Digital) ， CCL/PCB ，半導體建廠及測試產業 3Q26 營收（對標公司
-有  Teradyne, Advantest, Form Factor ）明顯⾼於分析師預期， 3Q26 營收
-年增改善明顯的有存儲記憶體，光纖通訊（對標公司有 Lumentum,
-
-Fabrinet, Coherent ）， CoWoS/CoPoS 先進封測設備產業。 3Q26 營收季增
-明顯改善的產業有 CoWoS/CoPoS 先進封測設備產業，設計服務（對標公司有
-Broadcom, Marvell) ，存儲記憶體，光纖通訊，及伺服器產業鏈。
-
-### Page 2
-
-September analysis on sectors
-9 ⽉  yoy > 8 ⽉  yoy 10 個百分點以上： 9 ⽉份營收年增率⽐ 8 ⽉明顯加
-速（ >=10%) 的僅有 2 個次產業，其中包括設計服務的  173% yoy （由
-世芯⽉增 14% ，年增 496% 出貨 Trainium 3 給亞⾺遜所帶動）及
-CoWoS/CoPoS 先進封測設備的  48% yoy ( 主要是由台積電產業鏈的弘
-塑，均華，志聖，印能所帶動）；
-9 ⽉  yoy < 8 ⽉  yoy 10 個百分點以上：最近我們觀察到部分 AI 伺服器
-及 PC 產業鏈組裝下游如廣達及緯創，滑軌⿓頭川湖，電源管理晶⽚茂達
-及⼒智，散熱系統的雙鴻，及均熱⽚的健策，半導體建廠⼯程的漢唐，亞
-翔及朋億，存儲記憶體的晶豪及威剛， 9 ⽉份訂單有明顯調整，可能因為
-短期電⼒短缺及短料缺貨卡⻑料造成的庫存調整，這間接造成 9 ⽉份營收
-年增率⽐ 8 ⽉明顯減速（ <=10%) 的有伺服器 /PC 產業鏈， 8“/12” 晶圓
-
-材料，散熱，半導體建廠⼯程，存儲記憶體，⾼速訊號 / ⾼壓電源線產業
-鏈；
-9 ⽉  yoy > 53% 的產業：我們以台積電所帶動的晶圓代⼯ 9 ⽉份營收
-53% 做為指標 , 9 ⽉份營收年增率超過 53% 的產業 6 個次產業，其中包括
-AI 伺服器 /PC/ 遊戲機組裝， CCL/PCB 產業，半導體設計服務，光纖通
-訊 /NPO/CPO ，存儲記憶體，半導體測試產業，明顯看出來跟 AI 伺服器無
-關的產業都無法有 53% 或以上的營收增⻑；
-9 ⽉  yoy < 20% 的產業： 8 ⽉份營收年增率低於 20% 增⻑的產業有 4
-個，其中有 LCD ⾯板， 8”/12” 晶圓材料， CMOS 感測及觸控，及 PC 電⼒
-功率產業，主要應該還是因為存儲記憶體漲價所造成的 PC 產業及⼿機產
-業需求不振；
-
-### Page 3
-
-Source: Andrew Lu on global semis/techs
-付費訂閱戶可分享我們對於 3Q26 營收超預期及低於
-預期的公司整理及排序， 3Q26 營收年增明顯改善及
-惡化的公司整理及排序， 3Q26 營收明顯季增 / 季減的
-公司整理及排序
-Subscribed
-3Q26 sales ahead/below Bloomberg est. by over 5%
-3Q26 營收超過彭博社分析師季度預測  5% 以上的公司：這些公司總計有 20
-家除了季度營收明顯⾼於預期外，也有可能是因為分析師預期過於保守所致，
-其中超過預期的公司中，伺服器 /PC 相關產業鏈有 6 家，存儲記憶體有 4 家，
-CCL/PCB 有 4 家，半導體建廠及測試產業各有 2 家。這幾家⾼於市場預期的公
-司中，⼤概率分析師 3Q26 預測過於保守的有光纖通訊的光聖，系統測試設備
-的致茂，建廠⼯程的朋億，測試設備的致茂，伺服器產業的技嘉及英業達，⽽
-分析師 3Q26 已經有很⾼營收預期的緯穎，南亞科，威剛，華擎這四家公司
-
-3Q26 營收竟然還能超過分析師預期達 12-21% ，我們建議密切關注公司三季
-度營收超預期 10 個百分點以上的公司其⽑利率及營業利潤率的變化。
-3Q26 營收低於彭博社分析師季度預測  5% 以上的公司：這些公司總計僅有 3
-家除了季度營收明顯低於預期外，也有可能是因為分析師預期過於樂觀所致，
-其中低於預期的公司華通，譜瑞，創⾒多少都跟 PC 產業鏈相關。
-
-### Page 4
-
-Source: Andrew Lu on global semis/techs
-Top 20 3Q26 yoy sales growth
-accelerated/decelerated companies
-3Q26 營收年增明顯改善的公司主要是有存儲記憶體的群聯，華邦，威剛，及
-愛普；光纖通訊的眾達，光環，光聖，聯亞，及上詮； CoWoS/CoPoS 先進封
-測的均華，均豪，及弘塑；其他公司散佈在設計服務， CCL/PCB ，測試設備，
-伺服器，均熱⽚，半導體材料⾏業。 3Q27 營收年增明顯惡化的公司主要有
-CMOS/ 感測觸控的神盾，精材；建廠⼯程的漢唐，亞翔； CoPoS 雷射產業鈦
-昇，東捷；存儲記憶體的南亞科，宜⿍，及創⾒；半導體材料的光洋科，台特
-化；其他公司散佈在 PC 電源管理及電⼒功率，散熱， LCD 產業鏈。
-Source: Andrew Lu on global semis/techs
-Top 20 3Q26 qoq sales growth
-accelerated/decelerated companies
-
-### Page 5
-
-考，並⾮投資建議，個⼈應審慎評估⾵險，如因此造成任何損失，本⼈不負任
-何擔保責任 ; We are here to provide our professional opinions on
-
-### Page 6
-
-company and industry analysis but not the investment advice. The
-use of the information contained in this material is at your own risk.
-We make no guarantees and assume no responsibility or liability for
-any information on the report.
-Invite your friends and earn rewards
-If you enjoy Andrew Lu on global semis and techs, share it with your friends
-and earn rewards when they subscribe.
-Invite Friends
-LIKE
-COMMENT
-RESTACK
-© 2026 Andrew Lu
-548 Market Street PMB 72296, San Francisco, CA 94104
-
-Unsubscribe
-
----
-## Document 239: Global Strategy Views_ Competition for Capital
+## Document 241: Global Strategy Views_ Competition for Capital
 
 Source PDF: all report pdf/Global Strategy Views_ Competition for Capital.pdf
 Report source: Goldman Sachs Publishing
@@ -5132,7 +4949,7 @@ such system.
 Goldman Sachs Global Strategy Views
 
 ---
-## Document 285: Staying defensive and diversified
+## Document 287: Staying defensive and diversified
 
 Source PDF: all report pdf/Staying defensive and diversified.pdf
 Report source: 渣打銀行 (Weekly Market Views)
@@ -6294,7 +6111,7 @@ incorporated in Zambia and registered as a commercial bank and licensed by the B
 Services Act Chapter 387 of the Laws of Zambia.
 
 ---
-## Document 296: The nowcasts, updated scenario and forecasts of the Economic Research - 28 September 2026 (2026-09-28)
+## Document 298: The nowcasts, updated scenario and forecasts of the Economic Research - 28 September 2026 (2026-09-28)
 
 Source PDF: all report pdf/The nowcasts, updated scenario and forecasts of the Economic Research - 28 September 2026 (2026-09-28).pdf
 Report source: BNP Paribas
@@ -6820,127 +6637,360 @@ appreciation would continue but at a more moderate pace, with the BoJ still behi
 see relative support underpinned by a modest fiscal risk premium under the new Labour government, and resilient growth.
 
 ---
-## Document 315: United States_ Elevated inflation and high growth (2026-10-02)
+## Document 385: インド消費者物価（26年９月）～総合ＣＰＩは5.5％に上昇、食品高が一段と加速
 
-Source PDF: all report pdf/United States_ Elevated inflation and high growth (2026-10-02).pdf
-Report source: BNP Paribas
-Date: 2026-10-02
-Pages: 1
+Source PDF: all report pdf/インド消費者物価（26年９月）～総合ＣＰＩは5.5％に上昇、食品高が一段と加速.pdf
+Report source: NLI
+Date: 2026-10-13
+Pages: 3
 Extraction status: ok
 
 ### Page 1
 
--12
--10
--8
--6
--4
--2
+１．総合ＣＰＩは5.5％に上昇、農村部では6％台へ 
+インド統計・計画実施省が10月12日に公表した2026年9月の消費者物価指数（以下、ＣＰＩ）に
+よると、総合ＣＰＩ上昇率は前年同月比5.5％となり、前月の4.8％から上昇した（図表１）。総合
+インフレ率はインド準備銀行（ＲＢＩ）の物価目標である4％を4カ月連続で上回り、許容レンジの
+上限である6％に近づいた。 
+地域別にみると、都市部では前年同月比4.9％（前月：4.3％）、農村部では同6.1％（同5.2％）
+となり、 いずれも前月から上昇した。 とりわけ農村部ではインフレ率がＲＢＩの許容レンジの上限
+である6％を上回り、都市部との差も前月の0.9％ポイントから1.2％ポイントに拡大した。 
+９月のＣＰＩは、野菜・豆類を中心に食品価格の上昇が加速したほか、外食・宿泊サービスや交
+通など幅広い分野で伸びが高まっており、 物価上昇圧力が一段と強まったことを示す内容となった。
+一方、貴金属価格の影響が大きい身の回り品・その他の伸びは鈍化し、保健医療など一部のサービ
+ス価格はなお低い伸びにとどまっている。 今後は、 食品や輸送コストの上昇が幅広い品目に波及し、
+基調的なインフレ圧力をさらに強めるかが焦点となろう。
+
+２．食品インフレは7％台後半に加速、野菜・豆類が急上昇 
+食品・飲料の上昇率は前年同月比7.4％となり、前月の同5.7％から大きく加速した（図表１）。
+このうち消費者食品価格指数（ＣＦＰＩ）は同7.7％となり、前月の同6.0％から上昇した。 
+食品の主要項目別にみると、砂糖・菓子類が前年同月比13.8％、果物が同10.8％、調理食品が同
+10.0％と二桁の高い伸びを示したほか、野菜・豆類が同9.2％、肉類が同8.7％、油脂が同8.3％、
+（図表１） 
+▲6
+▲4
+▲2
 0
 2
 4
-MidEast war
-Ukraine war
--9
--8
--7
--6
--5
--4
--3
--2
--1
+6
+8
+10
+12
+24/1 24/7 25/1 25/7 26/1 26/7
+CPI コアCPI 食品・飲料 燃料・光熱費
+消費者物価上昇率
+（年/月）（注）2026年1月より基準年2024＝100。
+（資料）インド統計・計画実施省
+（前年同月比、％）
+
+（図表２） 
+3.9
+5.1
+7.9
+8.3
+8.7
+9.2
+10.0
+10.8
+13.8
+穀物
+乳製品・卵
+魚介
+油脂
+肉類
+野菜・豆類
+調理食品
+果物
+砂糖・菓子類
+食品主要項目の伸び率（26年9月）
+（資料）インド統計・計画実施省
+（前年同月比）
+
+ニッセイ基礎研究所 2026-10-13 
+インド消費者物価（26 年９月） 
+～総合ＣＰＩは 5.5％に上昇、食品高が一段と加速
+
+### Page 2
+
+３．燃料・光熱費は伸び拡大、原油価格は再び上昇 
+燃料・光熱費の上昇率は前年同月比 3.2％となり、
+前月の同3.1％からやや上昇した（図表１）。エネル
+ギー価格の上昇率はなお比較的低いものの、これ
+まで総合ＣＰＩを抑制してきた効果は弱まりつつあ
+る。 
+インド原油バスケット価格は、２月末の中東情勢
+の緊迫化を受けて３月に急騰した後、いったん低
+下したものの、７月以降は米国とイランの対立再燃
+などを背景に再び上昇し、直近では１バレル＝120
+ドル台の高水準に達している（図表３）。為替相場も
+26年央にかけてルピー安が進んだ後、足元では１ドル＝95ルピー前後の安値圏で推移しており、原油高
+が続けば、輸入コストを通じて国内の燃料価格に上昇圧力が及ぶ可能性がある。 
+一方、輸送関連では高めの伸びが続いている。交通全体の上昇率は前年同月比5.0％となり、前月の同
+4.6％から上昇した。内訳をみると、自家用車などの維持・利用費は同7.5％、貨物輸送サービスは同
+14.7％と高い伸びを示したほか、旅客輸送サービスも同3.8％と前月の同3.4％から上昇した。一方、輸送
+機器の購入は同▲2.6％と下落が続いた。今後、原油高が長期化すれば、燃料価格だけでなく、物流費な
+どを通じて食品やサービス価格にも上昇圧力が波及する可能性がある。
+
+４．コアインフレは4.3％に上昇、物価上昇の裾野が広がる 
+食品・飲料および燃料・光熱費を除くコアイ
+ンフレは、前年同月比4.3％となり、前月の同
+4.2％から小幅に上昇した（図表１）。 
+分野別にみると、身の回り品・その他の財・
+サービスや外食・宿泊サービスが引き続き高い
+伸びを示した（図表４）。このほか、交通は前
+年同月比5.0％（前月：4.6％）、衣料・履物は
+同3.9％ （同3.6％） 、 教育サービスは同3.9％ （同
+3.7％） 、 情報通信は同2.4％ （同2.0％） 、 娯楽・
+スポーツ・文化は同2.2％（同1.7％）と、いずれも前月から伸びが高まった。一方、保健医療は同
+1.4％と低い伸びにとどまった。 
+（図表３） 
+70
+75
+80
+85
+90
+95
+10050
+70
+90
+110
+130
+150
+170
+24/1 24/7 25/1 25/7 26/1 26/7
+原油価格とルピー相場の推移
+インド原油バスケット価格
+ドルルピー相場（右軸・逆目盛り）
+（資料）CEIC
+（ドル/バレル）
+（ルピー高）
+（ルピー安）
+（ルピー/ドル）
+
+（図表４） 
+1.4
+2.2
+2.4
+2.7
+3.1
+3.9
+3.9
+4.8
+5.0
+7.4
+9.4
+13.7
+保健医療
+娯楽・スポーツ・文化
+情報通信
+住居・水道・光熱
+家具・家庭用品・家事サービス等
+衣料・履物
+教育サービス
+たばこ・酒類等
+交通
+食品・飲料
+外食・宿泊サービス
+身の回り品・その他
+消費者物価の分野別上昇率（26年9月）
+（注）コアＣＰＩは食品・飲料および電気・ガス・その他燃料を除く。
+（資料）ＣＥＩＣ
+
+### Page 3
+
+５．ＲＢＩは10月に利上げ、物価上振れリスクへの警戒を強める 
+９月は総合ＣＰＩ、食品・飲料、コアＣＰＩ
+の上昇率が揃って高まり、物価上昇圧力は前月
+より一段と強まった。先行きは、降雨不足が食
+品価格に及ぼす影響に加え、原油高によるコス
+ト上昇が幅広い品目に波及するか が焦点となる。 
+食品価格の先行きを左右する南西モンスーン
+の降雨量は、６～９月の累計で平年の約87％に
+とどまった。一方、カリフ作物の作付面積は10
+月２日時点で約 1.12 億ヘクタールとなり、 平年
+を約１％上回ったものの、前年同期を約１％下回った。作付けはおおむね平年水準を確保したが、
+降雨不足や地域的なばらつきが収穫量に及ぼす影響に加え、 今後の冬作物の作付けへの影響にも注
+意が必要である。 
+こうしたなか、 ＲＢＩは10 月７日の金融政策決定会合で政策金利を 0.25％引き上げて 5.50％と
+し、金融政策スタンスを「中立」から「調整された引き締め」に変更した。ＲＢＩは降雨不足や原
+油高、 物価上昇圧力の広がりを警戒し、2026/27 年度のＣＰＩ上昇率予測を 5.0％から 5.2％に引き
+上げた。 ９月のインフレ率上昇により、利上げ後の政策金利との差でみた実質金利はほぼゼロ％と
+なった（図表５） 。 
+もっとも、足元の物価上昇には食品や原油など供給面の要因が大きく、 基調的な需要インフレが
+全面的に強まっているとは言い切れない。 ＲＢＩは10～12 月期のＣＰＩ上昇率を 6.0％と予測して
+おり、当面は物価上昇圧力の広がりやコスト上昇の二次的な波及を慎重に見極めるとみられる。 食
+品インフレの高止まりや原油高が続き、コアインフレへの波及が一段と明確になれば、 追加利上げ
+観測が強まる可能性がある。
+
+（図表５） 
+▲ 2
+▲ 1
 0
 1
 2
 3
-MidEast war
-Ukraine war
--2,0
--1,5
--1,0
--0,5
-0,0
-0,5
-1,0
-1,5
-2,0
-Inflation-MidEast war
-Inflation excl. energy-MidEast war
-Inflation-Ukraine war
-Inflation excl. energy-Ukraine war
-United States: Elevated inflation and high growth
-02/10/2026 4
-August 2026: Marked improvement in services
-business confidence, from an already high level
-September 2026: Manufacturing business
-
-confidence remains stable at a high level
-August 2026: Increasing inflationary pressures September 2026: Supplier deliveries do not get
-longer
-August 2026: Consumers are a bit more
-concerned about their personal finances
-August 2026: Headline inflation resists to the
-upside
-U.S. macroeconomic performance has remained solid since the onset of the shock, as illustrated in particular by Q2 growth
-of +3.8% and +9% (annualized quarterly rate) in consumer spending and private nonresidential investment, respectively.
-
-In the manufacturing sector, business sentiment has gained momentum despite the shock, while the impact of this shock
-on the services sector has remained very limited. The immediate reaction of consumer confidence was, however, more
-negative before beginning to improve, which was nevertheless interrupted in August (latest available data for households’
-sentiment on their future personal financial situation). The University of Michigan’s composite indicator continued to
-
-deteriorate in September, due to the sharp rise in fuel prices. But declining confidence still does not translate into reduced
-spending—at least not at the aggregate level.
-On the inflation front, the spike immediately following the outbreak of the conflict in Iran was more pronounced than in
-the months following Russia’s invasion of Ukraine. The decline in June still left inflation at a high level, but its stability in
-July and August was notable (3.4% y/y), as was the latest—the third consecutive—slight decline in inflation excluding
-
-energy in August (2.5% y/y, same rate as in February). Given the existing inflationary pressures, however, inflation is highly
-likely to resume its upward trend in September.
-Source: BLS, ISM, NFIB, University of Michigan, BNP Paribas
-ECONOMIC RESEARCH
-Change since m = 0 = February 2026 / February 2022.
-Unit: inflation change in percentage point, point for confidence surveys.
-US: CPI inflation (incl. & excl. energy) US: Manufacturing ISM
-US: Proxy ISM Composite Prices and NFIB Price Plans US: Consumer sentiment - Expected Personal Finances (1y)
-
-US: Non-Manufacturing ISM
-US: Manufacturing ISM - Supplier Deliveries
--25
--20
--15
--10
--5
-0
+4
 5
-10
-Input prices-MidEast war
-Price plans-MidEast war
-Input prices-Ukraine war
-Price plans-Ukraine war
--10
--5
+6
+7
+8
+24/1 24/7 25/1 25/7 26/1 26/7
+CPI（前年比）
+インフレ率と政策金利（％）
+（年/月）（注）2026年1月よりCPIは新基準（2024=100）。
+（資料）ＣＥＩＣ
+政策金利
+実質金利
+
+本資料記載のデータは各種の情報源から入手・加工したものであり、その正確性と完全性を保証するものではありません。 
+また、本資料は情報提供が目的であり、記載の意見や予測は、いかなる契約の締結や解約を勧誘するものではありません。
+
+---
+## Document 393: スペイン、前倒しの総選挙へ ～政権交代なら住宅・移民政策を軌道修正～
+
+Source PDF: all report pdf/スペイン、前倒しの総選挙へ ～政権交代なら住宅・移民政策を軌道修正～.pdf
+Report source: DLRI
+Date: 2026-10-06
+Pages: 3
+Extraction status: ok
+
+### Page 1
+
+Europe Trends
+
+2026 年 10 月６日
+
+1/3 
+スペイン、前倒しの総選挙へ 
+～政権交代なら住宅・移民政策を軌道修正～ 
+ 経済調査部 首席エコノミスト  田中 理 
+（℡：050-5474-7494）
+
+（要旨） 
+○ スペインのサンチェス首相は10 月５日、 議会を解散し、11 月 29 日に前倒し総選挙を実施す
+ると発表した。少数政権による議会運営は予算や住宅政策を巡って行き詰まり、カタルーニ
+ャ独立派政党との関係悪化も政権運営を難しくしていた。足元の世論調査では中道右派の国
+民党（ＰＰ）が第１党、右派ポピュリストのボックス（Vox）が第３党につけ、ＰＰ単独では
+なくVox の協力を前提とした政権発足の可能性が高い。 政権交代となれば、 住宅政策は規制 ・
+借家人保護重視から供給拡大や規制緩和へ軸足を移し、 移民政策も厳格化する可能性がある。
+特に Vox の影響力が強まれば、人口・労働力の増加に支えられてきたスペインの成長モデル
+や、ＥＵ・カタルーニャとの関係にも変化が及ぶ可能性がある。
+
+■少数政権の行き詰まり、住宅問題が解散の引き金に 
+スペインのサンチェス首相は10 月５日、議会を解散し、11 月 29 日に前倒し総選挙を実施する
+と発表した。2027 年までの議会任期を全うするとしてきた従来の方針を転換したもので、2023 年
+の総選挙後に続いてきた少数政権による不安定な議会運営はひとまず終止符を打つことになる。
+今回の解散・総選挙は、少数与党による議会運営の行き詰まりに、与党関係者を巡る様々な疑
+惑、カタルーニャ独立派の地域政党との関係悪化、住宅危機への国民の不満などが重なり、政府
+が重要政策を成立させることが難しくなったことが背景にある。 
+2023 年の総選挙後に発足したサンチェス政権は、中道左派の「社会労働党（PSOE）」と左派の
+「スマール（Sumar）」による連立政権だが、両党だけでは下院の過半数を確保できない。そのた
+め、政権発足時には、「カタルーニャ共和主義左翼（ＥＲＣ）」、「ともにカタルーニャのために
+（Junts）」、「バスク民族党（ＰＮＶ）」、「バスク統一党（Bildu）」など、カタルーニャやバスクを
+中心とする地域政党から協力を取り付けた。なかでも、サンチェス政権の存続に重要な役割を果
+たしてきたのがJuntsである。2023 年の政権発足時には、2017 年のカタルーニャの独立運動を巡
+って有罪判決を受けた政治家や活動家を対象とする恩赦を条件に、サンチェス首相の続投に協力
+したが、連立政権には参加せず、その後も個々の法案毎に賛否を判断してきた。このため、少数
+の議席を持つ地域政党が政府の法案成立を左右する不安定な状況が続いてきた。 
+政権運営の機能不全を象徴しているのが予算だ。政府は2023 年予算を最後に新たな予算を成立
+
+### Page 2
+
+2/3 
+させることができず、過去３年は既存予算の延長を余儀なくされてきた。2026 年７月には、2027
+年予算編成の前提となる財政安定化計画も、中道右派の「国民党（ＰＰ） 」、右派ポピュリストの
+「ボックス（Vox）」、Juntsなどの反対で議会で否決された。閣僚経験者、党幹部、首相の家族な
+ど、与党関係者を巡る疑惑が相次いで表面化したことも、政権への風当たりを強めた。それで
+も、サンチェス首相は2027 年までの議会任期を全うする方針を維持してきた。 
+こうした状況を大きく変えたのが住宅問題だ。スペインでは人口や世帯数の増加に住宅供給が
+追いつかず、住宅価格と家賃の上昇が大きな社会問題となっている。９月下旬にマドリードで87
+歳の女性が長年暮らしてきた住居から立ち退かされたことを契機に抗議活動が広がり、住宅問題
+が一気に政治争点として浮上した（詳細は10 月１日付けレポート「スペイン高成長の裏で深まる
+住宅危機」を参照されたい）。政府は立ち退き停止措置の延長や賃貸市場の規制強化などを盛り込
+んだ緊急政令を議会に提出したが、ＰＰやVoxなどの野党勢力に加えて、Juntsも反対に回った結
+果、承認されなかった。Juntsは借家人保護や賃貸規制の強化が住宅所有者を賃貸市場から退出さ
+せ、結果的に供給不足や家賃上昇を深刻化させると主張した。サンチェス首相が総選挙の前倒し
+を決断した背景には、こうした議会運営の行き詰まりがある。同時に、住宅危機への国民の関心
+が急速に高まるなか、住宅政策を選挙の中心的な争点に据えることで、劣勢の挽回を図る狙いも
+あるとみられる。
+
+■政権交代の可能性が高い、Voxの政策関与に注目 
+ 各種の世論調査では、ＰＰが30％台前半の支持を集めてリードし、それを20％台後半のPSOEが
+追い、Voxが20％近くで三番手につけている（図）。PSOEが現政権で連立を組むSumarは５～６％前
+後で低迷している。前倒し総選挙の正式発表後に実施された世論調査はまだ公表されていない。
+このまま世論調査に近い結果となれば、PSOEがＰＰに政権を明け渡すことになりそうだ。だが、
+ＰＰも単独で過半数を確保するのは難しく、安定政権の樹立にはVoxの協力が必要となる公算が大
+きい。Voxが連立政権の一員に加わるのか、それとも閣外からＰＰ政権を支えるのかによって、政
+策決定への関与の度合いが変わってくる。既に複数の州政府で、ＰＰが主導する政権にVoxが連立
+パートナーとして参加している。連立政権に加わる場合、ＰＰのフェイホー党首が首相に就任
+し、Voxが副首相や閣僚ポストを獲得する形が考えられる。閣外協力にとどまる場合、政権発足時
+や重要法案の審議でＰＰ政権を支えることになる。 
+ＰＰが主導する政権が誕生した場合、PSOE政権の公的介入路線が軌道修正され、減税や規制緩
+和を通じた経済活性化を目指す可能性が高い。ＰＰのフェイホー党首は、年間20 万戸規模の住宅
+建設、土地供給の拡大、建設手続きの簡素化、住宅関連税制の軽減などを掲げている。移民政策
+の転換も予想される。サンチェス政権は移民の受け入れに比較的寛容で、移民による人口と労働
+力の増加は近年のスペインの高成長を支える重要な要因となってきた。移民規制が強まれば、住
+宅需要への圧力を幾分弱める可能性がある反面、労働供給の増加ペースが鈍化する。観光、建
+設、農業、介護など移民労働力への依存度が高い業種では人手不足や賃金上昇圧力が強まること
+が予想される。特にVoxは、不法移民の強制送還、移民への給付制限、長期滞在資格の厳格化な
+
+### Page 3
+
+本資料は情報提供を目的として作成されたものであり、投資勧誘を目的としたものではありません。作成時点で、第一ライフ資産運用
+経済研究所が信ずるに足ると判断した情報に基づき作成していますが、その正確性、完全性に対する責任は負いません。見通しは予告
+なく変更されることがあります。また、記載された内容は、第一生命保険ないしはその関連会社の投資方針と常に整合的であるとは限
+りません。 
+3/3 
+ど、移民政策の強化を主張している。ＰＰとVoxが連立を組む州政府では、住宅や公共サービスで
+スペイン国民を優先する考えが盛り込まれた例もある。 
+ ＰＰが主導する政権の誕生は、カタルーニャ独立派との対話路線が転換され、独立の火種を抱
+えるカタルーニャ州政府との関係を再び悪化させる恐れがある。ＰＰがかつて率いた政権では、
+領土的一体性や法の執行を重視し、カタルーニャの独立問題に厳しく対処した。次期政権とカタ
+ルーニャ州政府との緊張が再び高まれば、金融市場でスペインの政治リスクが意識される可能性
+がある。 
+ Voxの政権参加によるＥＵ関係の悪化を懸念する声もあるが、ＰＰ自体は長年スペインの政権を
+率いてきた親ＥＵの中道右派政党で、政権交代によってスペインのＥＵ政策が大幅に変わること
+は想定しにくい。ただ、Voxの政策面での影響力が増すことで、移民政策、気候変動政策、農業政
+策などでは、スペイン政府とＥＵ機関との摩擦が増える可能性がある。 
+現時点でスペインの政治リスクをフランスと同列に扱う必要はない。スペイン経済は相対的に
+高い成長を維持しており、今回の解散も財政危機や景気後退を背景としたものではない。むし
+ろ、市場にとって重要なのは、総選挙によってこれまでの議会の機能不全が解消され、安定した
+政権が成立するかどうかである。次期政権が安定多数を確保すれば、予算を成立させられなかっ
+た現政権に比べ、短期的には政策の予見可能性が改善する。一方で、Voxの影響力が大きくなるほ
+ど、移民政策、気候変動対策、カタルーニャ政策、ＥＵ政策での変化が大きくなる。特に移民政
+策の厳格化は、人口増加に支えられてきたスペインの成長モデルに中期的な変化をもたらす。
+
+以 上 
+注：政党名は以下の通り。国民党（PP）、社会労働党（PSOE）、ボック
+　ス（Vox）、スマール（Sumar）、ポデモス（Podemos）、宴は終わっ
+　た（SALF）、カタルーニャ共和主義左翼（ERC）、ともにカタルーニャ
+　のために（Junts）、バスク統一党（Bildu）、バスク民族党（PNV）、
+　ガリシア人民ブロック（BNG）、カナリア人民党（CC）。
+出所：Electromania資料より第一ライフ資産運用経済研究所が作成
+（図）スペイン主要政党別の得票率と支持率
 0
 5
 10
 15
 20
 25
-MidEast war
-Ukraine war
--25
--20
--15
--10
--5
-0
-5
-10
-MidEast war
-Ukraine war
-Price plans= companies stated plans to adjust their selling
-prices in the short term.
+30
+35
+PP
+PSOE
+Vox
+Sumar
+Podemos
+SALF
+ERC
+Junts
+Bildu
+PNV
+BNG
+CC
+2023年総選挙 世論調査（2026/10/2-3）（％）
+地域政党国政政党
 
 ---
 ## Document 431: 中鋼(2002,OW_增加持股)-CTBC261005
@@ -7242,194 +7292,9 @@ ESG 資訊 -公 司 治 理 (Governance)
 未評等 Not Rated (NR)
 
 ---
-## Document 459: 凱基投顧_Takeaway_7799 禾榮科_ 陳宣甫_20261005
+## Document 434: 今年第三次！对冲基金重现“疫情以来罕见同步暴跌”，量化基金遭遇8月以来最惨一日
 
-Source PDF: all report pdf/凱基投顧_Takeaway_7799 禾榮科_ 陳宣甫_20261005.pdf
-Report source: line報告備份
-Date: 2026-10-05
-Pages: 5
-Extraction status: ok
-
-### Page 1
-
-十月 05, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 1
-
-法說會重點摘要
-
-禾榮科 
-(7799 TT, NT$ 537, 未評等)
-
-重點摘要  
-1. 禾榮科加速器型硼中子捕獲治療（AB -BNCT ）系統合作案累計 6
-台。截至 2026/9/9 恩慈治療累計病患 200+ 人、300+ 人次，治療
-國家含台灣共 12 個、適應症逾 20 種；復發型腦膜瘤一二期學術
-臨床局部控制率 100% 、無惡化存活（PFS ）率 83.3% ，復發型頭
-頸癌客觀反應率（ ORR）77.8%  
-2. 公司目標於 2026 年底取得 B10 L -BPA 藥證。北榮約 12 億元預計
-於 1H27 完工認列，明基 16 億元採完工比例法、2027 年起部分認
-列，藥物收入與設備使用費估自 2H27 開始貢獻， 試驗為 single 
-arm、無解盲問題  
-3. 2028- 2029 年其餘設備陸續貢獻，新加坡預計 2028 年底建置完
-成；海外已向新加坡 HSA 申請醫材註冊、向美國 FDA 提出 pre-
-submission ，日本與 3 家醫院深入洽談。單間治療室滿載 1,500 人
-次／年對應藥物收入約 6 億元，我們認為公司營收結構將由一次性
-設備認列，逐步轉向隨治療人次成長的藥物 recurring revenue ，治
-療人次爬升速度為 2028 年後成長的關鍵  
-結論 
-我們認為 2027 年為禾榮科由建置驗證期進入營收兌現期的轉折年，北
-榮設備完工認列與 BPA 藥證取得為近期最明確的兩項催化劑。理由包
-括在手 6 台訂單與認列時程明確；恩慈治療 300+ 人次的實績與同日多
-照野能力，使其在適應症廣度與單機周轉上與日本同業拉開差距；以
-及海外法規先行、日本與美國案件推進。後續驗證點在於藥證實際核
-發時點、取證後恩慈轉為收費下的治療人次能否達到公司每間治療室
-1,000 人的假設，以及中醫大合作條件與海外首台訂單的落地
-
-設備訂單與營收認列時程  
- AB-BNCT 系統合作案累計 6 台，國內 4 台（中醫大、北榮、竹
-銘、義大） 、海外2 台（南京明基、新加坡） ；北榮與明基為賣斷，
-其餘採合作模式  
- 2027 年為轉折點，設備與藥物雙引擎同時啟動：  
- 北榮（第 1 台）採完工認列，約 12 億元於 1H27 完整認列 
- 明基合約 16 億元採完工比例法，2027 年起依 milestone 部分認
-列 
- 中醫大設備仍屬公司資產，2027 年先以藥物收入加設備使用費
-貢獻 
- 認列順序為 2027 年北榮與明基、2028 年新加坡（預計 2028 年
-底建置完成）、2029 年義大（有機會提早）；竹銘、新加坡、
-義大均規劃為單間治療室
-
-凱基投顧
-
-陳宣甫 
-886.2.2181.8724 
-hsuan.chen@kgi.com
-
-徐雋翔 
-886.2.2181.8745 
-kenny.ch.hsu@kgi.com
-
-重要免責聲明，詳見最終頁
-
-### Page 2
-
-台灣 禾榮科
-
-十月 05, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 2
-
-藥證進度與藥物收入情境  
- B10 L -BPA 目標於 2026 年底取得藥證；北榮設備預計於 1H27 完
-工並完成醫材證與運轉許可，藥物銷售估自 2H27 開始 
- 年度藥物收入＝BNCT 治療人次× 每人次 BPA 收入（NT$40 萬 ）： 
- 500 人次約 2 億元 
- 1,000 人次約 4 億元 
- 1,500 人次約 6 億元，為單間治療室一天 6 人次、250 個工作日
-的滿載量 
- 藥物收入與設備使用費每年持續發生，屬 recurring revenue ；設備
-營收看訂單，後續成長主要靠藥物  
- BNCT 單次治療費用約 100 萬元；取得藥證後恩慈治療多數轉為收
-費治療，公司表示在需求大於供給下不會主動降價，並規劃成立基
-金會協助弱勢病人
-
-恩慈治療實績與潛在病患池  
- 截至 2026/9/9 ，恩慈治療累計病患 200+ 人、治療 300+ 人次： 
- 國內 180+ 人／260+ 人次 
- 國際 20+人／40+人次，治療國家含台灣共 12 個 
- 日本自有 BNCT 設備仍轉介病患來台， 2026/7 新增江戶川醫院轉
-介；該院設備稼動率 不高，公司稼動率則高達 99%以上 
- 台灣 BNCT 潛在適應症新發病患 2023 年為 54,966 人，2022-2023
-年增長 8%；以存活 5 年計，累計潛在病患約 24.2 萬人 
- 2027 年運轉者為北榮 1 間與中醫大 2 間治療室，公司以每間
-1,000 人估算合計約 3,000 人 
- 北榮重粒子治療中心一個療程約 150 萬元、每年治療約 250-300
-人且已滿載，公司據此認為高階放射治療的自費需求充足 
- 醫院自購設備一年 100-200 名病人可回本，BOT 模式約 50-60 人
-即可
-
-臨床數據與 BNCT 臨床定位  
- 復發型腦膜瘤一二期學術臨床（2026/8/25 公告） ：受試者10 人、
-追蹤 169 天，局部控制率 100% 、 PFS 率 83.3% 、整體存活
-（OS）率 100% 
- 醫師公開發表之治療數據： 
- 威脅視覺系統腫瘤（ 17 人）：視力保留率 92.9% 、腫瘤控制率
-94.1%  
- 復發型惡性肉瘤（17 人）：腫瘤控制率 94.1%  
- 復發型頭頸癌（18 人）：ORR 77.8%  
- 需兼顧危及器官（ OAR ）保護的腦幹、視神經、脊髓旁腫瘤，為
-BNCT 具不可替代性的領域  
- 同日多照野為公司獨有，已有 2 例同日 3 照野，2026/9/8 完成同一
-
-### Page 3
-
-台灣 禾榮科
-
-十月 05, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 3
-
-病患同日 4 照野（腫瘤長 22.2cm ） ，可補足BNCT 的深度限制  
- 術前輔助治療局部晚期口腔癌一二期學術臨床於 2026/7/15 通過
-TFDA IND 審查，三陰性乳癌（ TNBC ）學術 IND 於 2026/5 提出；
-公司預期 BNCT 將成為搭配手術、免疫治療或化療的平台型治療
-
-國際拓展與競爭差距  
- 法規先行：2026/5 向新加坡衛生科學局（HSA ）申請醫材註冊，新
-加坡同意沿用台灣資料；2026/ 6 向美國 FDA 提出 pre-submission  
- 洽談中案件：  
- 日本：與 3 家醫院深入討論設備或藥物合作，為最可能成案的海
-外下一台 
- 美國：已有客戶洽談中，近期有 1 例美國病患將來台治療 
- 其他：東南亞延伸至馬來西亞、越南，歐洲為倫敦與德國，中東
-與阿聯酋 The Node Company 合作導入 GCC 市場 
- 資源集中於海外，國內刻意放慢，不以較差條件擴點；國內以高
-雄、桃園洽談進度較快  
- 與日本同業設備相比，公司質子電流 0.25mA 、功率 7.5kW ，照野
-切換約 10 分鐘、每日周轉 6 人，日本同業為 1mA、30kW 、切換
-逾 2 小時、每日 2 人；土地面積、投資與維運人力成本約為住友
-（Sumitomo ）的 1/3 
- 策略夥伴包含 Cosylab 、西門子醫療、沛爾生醫（ 6949）與 B dot 
-Medical
-
-QA 
- 藥證時程是否有風險？若延後對 2027 年營收有何影響？ 
- 試驗為 single arm 、以 response rate 為指標，無對照組與安慰
-劑，沒有解盲問題，變數在主管機關流程  
- 北榮完工認列在 1H27 ，用藥與藥物營收均估在 2H27 
- 藥證以頭頸癌申請，取得後只能治療頭頸癌嗎？  
- 取得藥證後醫師可 off-label use 於其他適應症，恩慈治療與學術
-臨床即為其臨床依據  
- 美國 FDA pre -submission 規劃走什麼路徑？  
- 希望走 510(k) ，以先前的中子治療儀器作為比對品；若不被接
-受，依序為補資料、執行臨床 
- 希望比照新加坡，由對方認可台灣既有資料  
- 日本病患數不少，為何還要把病人送來台灣？  
- 日本設備輻射量較高，照完一個照野後須間隔逾 2 小時，一天只
-能照 2 人 
- 需 4 照野的病例在日本須拆成 2 天，治療計畫無法成立
-
-### Page 4
-
-台灣 禾榮科
-
-十月 05, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 4
-
- 中醫大該台的安排為何？  
- 2027 年先收藥費與使用抽成，設備仍屬公司資產，合約尚未細
-談 
- 該據點為公司衝治療量、做研究與展示之用，取得藥證後可接受
-無設備醫院轉入病患  
- 新廠 2028 年完成前，加速器與 BPA 供應是否足夠？  
- 加速器目前向外採購，已提前下單，在手 3-4 台，之後轉自製，
-到 2028 年仍夠用 
- BPA 由台灣神隆（1789 ）生產，產能無虞
-
-### Page 5
-
-台灣 禾榮科
-
-十月 05, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R 5
-
----
-## Document 468: 华尔街刚刚抛售一切，大规模逼空即将来临？
-
-Source PDF: all report pdf/华尔街刚刚抛售一切，大规模逼空即将来临？.pdf
+Source PDF: all report pdf/今年第三次！对冲基金重现“疫情以来罕见同步暴跌”，量化基金遭遇8月以来最惨一日.pdf
 Report source: WallstreetCN (Global)
 Date: 2026-10-16
 Pages: 4
@@ -7437,100 +7302,104 @@ Extraction status: ok
 
 ### Page 1
 
-市场经历激进去⻛险化，对冲基⾦连续五⽇净卖出 AI 股票，抹去 2025 年以来净买⼊头⼨。
-然⽽，纳斯达克 100 期货现锤形反转，半导体与韩国股市极度超卖并触及关键⽀撑。随着多
-头抛售趋于充分且空头⾼度拥挤，市场抛售或近尾声，反弹与逼空条件正逐步成熟。
+AI 信贷担忧引爆去杠杆浪潮，对冲基⾦⼗个⽉内三度遭遇 " 五年⼀遇 " 极端事件。量化基⾦单
+⽇暴跌 -3.7 个标准差，亚洲策略⽉度回撤扩⾄ -6.8% ，韩国 AI 仓位半数已被清洗，⽽中国台
+湾仓位仍⾼悬五年 99 百分位。⾼盛警告：整体杠杆率 310% 叠加期权到期缓冲消退，下⼀轮
+冲击或从基⾦蔓延⾄⼤盘。
 摘要：
-市场正在经历⼀场剧烈的去⻛险化浪潮，但内部信号正悄然出现转折。
-对冲基⾦连续五个交易⽇净卖出全球 AI 股票，并已完全抹去 2025 年以来的全部净买⼊头⼨；与
-此同时，纳斯达克 100 指数期货出现强烈的⽇内反转形态，半导体指数触及关键⽀撑，韩国
-KOSPI 超卖程度创下 2022 年 10 ⽉以来最极端⽔平。
-多重技术指标和仓位数据显⽰，市场抛售正在接近尾声，买盘开始⼩幅回归。随着 AI 股、⼩盘股
-及半导体等板块的空头头⼨积累⾄历史⾼位，⼀旦出现触发因素，市场可能⾯临⼤规模空头回
-补⾏情。
-NDX 现罕⻅锤形 K 线，卖⽅控制⼒减弱
-纳斯达克 100 指数期货当⽇出现⼤幅且罕⻅的锤形 K 线形态，技术信号暗⽰本轮抛售的卖⽅动能
+AI 信贷担忧引发的去杠杆浪潮，正在以前所未有的频率反复冲击对冲基⾦⾏业。
+本周四，对冲基⾦再度经历 " 疫情以来罕⻅的多策略同步⼤跌 "—— 这是 2026 年以来的第三次。⾼
+盛 Prime 经纪业务数据显⽰，量化基⾦当⽇遭受 -3.7 个标准差的重创，创下 8 ⽉ 19 ⽇以来最惨单
+⽇跌幅。亚洲区对冲基⾦⽉度跌幅扩⼤⾄ -6.8% ，韩国、中国台湾 AI 相关仓位成为重灾区。⾼盛
+数据显⽰，基本⾯多空策略当⽇收跌 0.5% ，⽽系统性多空基⾦则⼤幅落后，未能在尾盘随股市
+反弹⽽收复失地。
+⾼盛 Prime 的 Marco Laicini 在盘中更新中直接点明了这⼀格局的结构性含义：⼗个⽉内发⽣三
 
-正在衰竭。
-据 The Market Ear 分析，此前 4 ⽉份市场低点也曾出现类似反转形态 —— 彼时为倒锤形，尽管形
-态不同，但传递的市场信息相同：卖压正在被承接，买⽅开始反攻。锤形 K 线本⾝不⾜以作为单
-⼀交易依据，但若后续获得确认，反弹⼒度可能相当剧烈。
-半导体指数 SOX ⽅⾯，近⼏个交易⽇已⼤幅下挫，超卖程度达到极端⽔平。值得关注的是，该
-指数⽬前已触及其交易区间下轨 —— 该⽀撑位历史上多次有效 —— 同时也在测试其⻓期趋势
-线。技术层⾯的双重⽀撑，使半导体板块的短线机会引发关注。
-全球股票遭遇极端净卖出， AI ⾸当其冲
-根据⾼盛数据，上⼀个交易⽇出现激进的全球股票净卖出，净流量达到 -2.1 个标准差的异常⽔
-平。多头平仓与空头卖出之⽐约为 3 ⽐ 1 ，清晰指向主动降低⻛险敞⼝，⽽⾮单纯做空押注。
+次 " 五年⼀遇 " 事件，意味着对冲基⾦⾏业现⾏的 VaR 模型对极端⻛险的评估存在系统性低估，相
+关⻛险管理框架或需从根本上重构。市场层⾯，⾼盛 Prime 账簿整体杠杆率仍⾼达 310% ，中国
+台湾仓位接近五年⾼点，叠加周五期权到期⽇临近，部分正 gamma 对冲缓冲将随之消退，下⼀
+轮去杠杆压⼒或将从对冲基⾦内部蔓延⾄⼤盘指数。
+动量因⼦崩塌，做空轧空同步发⽣
+此轮抛售的导⽕索在因⼦层⾯⼀⽬了然。
+截⾄周四上午 10 时 30 分，⾼盛追踪数据显⽰，动量因⼦（ Momentum ）下跌 3.4 个标准差，拥挤
+多头（ Crowded Longs ）下跌 1.8 个标准差，与此同时拥挤空头（ Crowded Shorts ）被轧空上涨
+1.2 个标准差。Marco Laicini 将这⼀组合解读为 " 更⼴泛去杠杆 " 的典型信号。
 ⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⽣活家 搜索
 
 ### Page 2
 
-从地区分布看，美国占全球净卖出总量的 66% ，科技板块领跌；韩国同样遭遇⼤规模清仓。全
-球 AI 股票的净卖出量创下近⼀年来第⼆⼤规模， Z 值达到 -2.8 。
-核⼼逻辑在于：投资者并⾮主要通过增加空头来表达看跌，⽽是在直接抛售多头头⼨，尤其集
-中在 AI 与科技领域。这⼀区别意味着，⼀旦情绪逆转，反弹所需的 " 燃料 "—— 即被迫回补的空头
-头⼨ —— 已相当充⾜。
-对冲基⾦ AI 仓位全⾯归零，多空⽐降⾄历史低位
-据⾼盛数据，对冲基⾦已连续五个交易⽇净卖出全球 AI 股票，累计净买⼊⾃ 2025 年初以来的全
-部头⼨已被彻底清除，流量层⾯的 2025 年净积累宣告归零。
-仓位层⾯，对冲基⾦对全球 AI 股票的净配置⽐例已从 6 ⽉峰值的 31.7% 降⾄ 26.1% ，处于过去⼀
-年的第 49 百分位；整体多空⽐从 4.34 ⼤幅下降⾄ 3.27 ，仅处于过去⼀年的第 7 百分位。
-AI 交易仍构成相当规模的配置，但头⼨已⼤幅 " 清洗 " 。这意味着此前过度拥挤的多头结构已基本
+当多头持仓同步下跌、空头持仓遭到轧空，基⾦经理实际上并⾮在做⽅向性判断，⽽是在同步
+削减多空两侧敞⼝。这⼀⾏为所 " 消耗 " 的，正是组合中最为拥挤的因⼦ —— 本轮即为动量因⼦。
+具体损伤量化来看，⾼盛 HF VIP 多空配对（最受对冲基⾦⻘睐的多头标的对⽐被做空标的）当
+⽇下跌 115 个基点，⾃ 10 ⽉ 8 ⽇本轮调整启动以来累计跌幅已达 -10% 。
+量化基⾦从领跑到领跌，仅⽤⼀天
+本轮⾏情对量化基⾦的打击尤为讽刺。就在周三，量化系统性基⾦还是⾼盛 Prime 账簿中唯⼀录
+得正收益的策略，单⽇上涨 0.5% ，年初⾄今回报⾼达 21.7% ，领跑所有策略。
+⼀天之后，全部收益回吐殆尽。收盘时，系统性多空基⾦单⽇跌幅达 -3.7 个标准差，⾼盛图表显
+⽰，过去⼀年内仅有 8 ⽉ 19 ⽇⼀个交易⽇跌幅更甚。
+⾼盛顶级科技分析师 Peter Callahan 在收盘后的点评中指出，本轮与夏季⾏情有本质区别： 7 ⽉
+是仓位层⾯的清洗，⽽此次抛售伴随着实质性的基本⾯疑问 ——AI 资本开⽀的融资速度与可持
 
-消化，潜在的抛售压⼒趋于缓和。
-罗素 2000 空头头⼨⾼度拥挤，逼空条件趋于成熟
+续性受到质疑，这对⻛险管理者⽽⾔更难以等待穿越。
+多策略基⾦⽅⾯，股票账簿（ 4.5 倍杠杆）当⽇下跌约 1.2% ，与 2 ⽉份暴跌第⼆⽇的跌幅相当。
+亚洲成重灾区，韩国仓位半数已被清洗
+亚洲市场是此轮抛售最惨烈的战场。
+⾼盛 Prime 的 Himanshu Deshmukh 在收盘后报告中披露，亚洲基本⾯多空策略经理周四单⽇亏
+损 2.6% ，⽉度回撤扩⼤⾄ -6.8% ，年初⾄今回报降⾄ 16.7% ，回到 "7 ⽉低点⽔平 "—— 距离 6 ⽉底
+40% 的⾼点已下跌约 23 个百分点，今年的亮眼成绩被腰斩逾半。
+抛售集中在预期⽅向：亚洲股票净卖出 -1.0 个标准差，以韩国和中国台湾为主，多头平仓与空头
+回补之⽐⾼达 3 ⽐ 1 ，且韩国、中国台湾的卖盘 " 以 AI 相关多头的解仓为主 " 。⾼盛 2026 年各市场
+净流向图显⽰，韩国累计净卖出约占亚洲净市值的 13% ，遥遥领先。
 
 ### Page 3
 
 ⻛险提⽰及免责条款
 市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂
 中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
-罗素 2000 指数⽬前处于深度超卖状态。仅凭超卖本⾝不⾜以构成买⼊策略，但多项因素叠加正
-为短线反转创造条件。
-据 CFTC 数据，⾃ 7 ⽉以来，罗素 2000 对冲基⾦空头头⼨的变化与 CDX ⾼收益利差呈现出正相关
-性，即随着信⽤条件恶化，对冲基⾦持续增加空头。当前，空头头⼨规模已相当庞⼤，⼀旦信
-⽤条件改善或市场出现积极催化剂，空头回补引发的快速反弹潜⼒不容忽视。
-"Leopold 低点 2.0" ？ CoreWeave 技术⾯回归初次抛售⽔平
-据悉，“AI 股神 ”Leopold 在 9 ⽉初⼤举买⼊ CoreWeave （ CRWV ）及其他 AI 相关期权，此后数
-周市场随即展开本轮抛售。以 CRWV 11 ⽉份⾏权价 95 美元的看涨期权为例，其权利⾦⾃ 9 ⽉ 8 ⽇
-以来从 18 美元⾼点崩跌⾄仅剩 1 美元，该合约⽬前仍持有可观的未平仓量。
+韩国仓位净配置⽉内已下降 75 个基点⾄ 3.64% ，处于近⼀年的第 32 百分位，表明该仓位已完成
+相当程度的出清。
+中国台湾敞⼝⾼悬，成为最⼤潜在⻛险点
+相⽐之下，中国台湾的隐患更为突出。⾼盛分析认为，中国台湾仓位在本轮调整中所受冲击 " 相
+对有限 " ，原因在于 10 ⽉第⼀周仍有净买⼊⾏为，⽬前总仓位接近历史⾼位，处于近⼀年的第 94
+百分位、五年的第 99 百分位。
+这意味着韩国的 AI 交易已被半数清洗，⽽中国台湾端的仓位仍停留在近纪录⽔平。据报道，外资
+本周单⽇撤出中国台湾资⾦规模⾼达约 93 亿美元，创下历史纪录，⼀旦市场情绪未能改善，潜
+在的出逃规模不可⼩觑。
+从全球视⻆来看，亚洲信息科技仍占⾼盛 Prime 账簿全球总仓位的约 9% 、全球净敞⼝的约
+18% ，⼤约是 2025 年初净仓位占⽐的三倍 —— 即便经历了 7 ⽉的调整。
 
-分析认为，期权头⼨的平仓过程或进⼀步放⼤了标的资产的跌势：做市商此前为对冲看涨期权
-卖出了 delta 头⼨，随着期权价值缩⽔，其被迫反向卖出标的股票，形成额外下⾏压⼒。
-⽬前， DRAM 价格已回落⾄此前的 "Leopold 低点 " 区域， CRWV 的 RSI 也回到了初次抛售时的⽔
-平。在仓位充分出清、期权时间价值被⼤幅压缩、技术⾯深度超卖的三重背景下，市场是否正
-在提供第⼆次⼊场窗⼝，值得密切观察。
-仓位清洗创造机会，但⻛险管理仍是⾸要前提
-当前市场的核⼼⽭盾在于：超卖与逼空潜⼒并存，但下⾏⻛险尚未完全出清。 The Market Ear
-援引 Paul Tudor Jones 的经典原则提⽰投资者：市场不在乎你的判断是否正确，关键在于能否在
-正确到来之前活下去。
-" 什么好事都不会发⽣在 200 ⽇均线以下。 "这⼀原则同样适⽤于投资者⾃⾝的盈亏管理 —— 及早
-削减⻛险敞⼝，保持仓位存活，才能让优势持续复利。
-判断正确与赚到钱，是两件截然不同的事。在当前极端波动的环境下，简洁有效的⻛险管理体
-
-系，或许⽐任何反转预测都更为重要。
+⾼盛交易部⻔⻅ " 局部超卖 " ，但结构性⻛险未消
+并⾮所有声⾳都指向危机。
+⾼盛伦敦销售团队在题为 "AI 去⻛险 —— 我们看到的情况 " 的跨部⻔邮件中总结了机构内部观点：
+信贷正在 " 迫使市场重新评估 AI 资本开⽀周期的融资速度与落地节奏，仓位解仓放⼤了波动。但
+随着 AI 敞⼝⼤幅降低、主动净仓位偏低、利率⾛强，交易台认为存在局部超卖现象，尽管融资
+约束仍是实质性问题 " 。
+然⽽，结构性压⼒尚未消除。
+⾼盛 Prime 账簿整体杠杆率仍达 310% ，且净仓位与总仓位之间的背离已达前所未有的程度；中
+国台湾仓位处于五年⾼位；周五期权到期将移除部分正 gamma 缓冲，此前正是这⼀缓冲⼒量使
+标普 500 指数在本轮调整中保持相对平稳，周四该指数恰好在 50 ⽇均线附近反弹企稳。
 
 ### Page 4
 
-592 收藏 分享到 :
+179 收藏 分享到 :
 写评论
 图⽚
-3 条评论
 限免
 请发表您的评论
 表情 发布评论
-坚毅的⽯三仟
-2 ⼩时前 中国⼴东省
-1  回复
-⼀切都是顺势⽽为，看过巴菲特的⼀篇⽂章，没有永远的跌，只有永远的涨！
-⻅闻⽤⼾
-3 ⼩时前 中国上海
-0  回复
-⼀眼头肩顶 😑
-阿雷 2 ⼩时前 中国⼴东省
-0  回复
-回复  ⻅闻⽤⼾：
-有⼈要说你的，因为他们认为美股没有技术形态
+
+---
+## Document 444: 信贷恐慌击穿AI交易：CoreWeave债券收益率维持高位，纳指创6月底来最大单周跌幅
+
+Source PDF: all report pdf/信贷恐慌击穿AI交易：CoreWeave债券收益率维持高位，纳指创6月底来最大单周跌幅.pdf
+Report source: WallstreetCN (Global)
+Date: 2026-10-16
+Pages: 1
+Extraction status: ok
+
+### Page 1
+
+⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⽣活家 搜索
 
 ---
 ## Document 500: 宏观深度报告：AI如何影响我国就业？与美国有何差异？
@@ -8137,9 +8006,241 @@ AI Token 开支将突破 20 万美元，超过美国软件工程师的平均年�
 公司网址： http://www.dwzq.com.cn
 
 ---
-## Document 529: 报道：CoreWeave三位创始人在股价崩跌前套现33亿美元
+## Document 539: 日銀短観（2026年9月調査）結果
 
-Source PDF: all report pdf/报道：CoreWeave三位创始人在股价崩跌前套现33亿美元.pdf
+Source PDF: all report pdf/日銀短観（2026年9月調査）結果.pdf
+Report source: MURC
+Date: 2026-10-01
+Pages: 5
+Extraction status: ok
+
+### Page 1
+
+2026 年 10 月 1 日
+
+経済レポート
+
+日銀短観（2026 年 9 月調査）結果
+
+調査部 主席研究員 小林真一郎 
+研究員 小林啓介 
+1. 大企業の業況判断 DI～製造業は改善、非製造業は悪化 
+本日発表された日銀短観（2026 年 9 月調査）における大企業製造業の業況判断 DI（最近）は、前回調査から
+2 ポイント改善の 24 となった。素材業種では、米国とイランの対立長期化に伴う原油価格の高止まりなどが引き
+続き下押し要因 だが、原油の代替調達の進展 、販売価格へのコスト転嫁の浸透などを背景に 、石油・石炭製品
+や化学などで 7 ポイント改善した。加工業種も、半導体関連をはじめ内外需要が堅調な生産用機械や電気機械
+を中心に 2 ポイント改善した。加えて、為替相場が想定より円安に振れたことも下支えとなったとみられる。 
+一方、大企業非製造業の業況判断 DI（最近）は、前回調査から 2 ポイント悪化の 35 となった。原油価格や人
+件費の高止まりが、小売、宿泊・飲食サービス や対事業所サービスなどの幅広い業種の収益を圧迫したことに加
+え、設備価格や金利の上昇が物品賃貸などを下押した。 
+先行きについて、業況判断 DI（先行き）は、大企業製造業では 3 ポイント悪化の 21、大企業非製造業では 5
+ポイント悪化の 30 と、いずれも悪化見込みとなった。製造業のうち素材業種では紙・パルプや化学、非鉄金属、
+加工業種では金属製品、非製造業では物品賃貸や不動産の悪化幅が大きい。 米国とイランの対立は長期化し
+ているものの、原材料の供給制約に対する懸念は一時期と比べて後退しているとみられる。しかし、原油価格の
+高止まりや供給制約が再燃するリスクに加え、海外経済の先行きを巡る不透明感が引き続き意識され、慎重な見
+通しになったと考えられる。 
+図表 1 業況判断 DI の推移
+
+（注）シャドー部分は景気後退期 
+（出所）日本銀行｢全国企業短期経済観測調査」を基に当社作成 
+-50
+-40
+-30
+-20
+-10
+0
+10
+20
+30
+40
+2012 13 14 15 16 17 18 19 20 21 22 23 24 25 26
+大企業製造業
+大企業非製造業
+中小企業製造業
+中小企業非製造業
+（年、四半期）
+（「良い」－「悪い」、%ポイント） 先行き
+(26年12月)
+
+### Page 2
+
+(「良い」－「悪い」、% ポイント)
+大　　企　　業
+2026年6月調査 2026年9月調査
+最近 先行き 最近 先行き
+変化幅 変化幅
+製　造　業  22  17  24 ＋ 2  21 － 3 
+素 材 業 種  18  16  25 ＋ 7  15 － 10 
+繊 維  8  13  13 ＋ 5  4 － 9 
+紙 パ  40  24  36 － 4  16 － 20 
+化 学  20  11  26 ＋ 6  12 － 14 
+石 油 ・ 石 炭  9  36  36 ＋ 27  45 ＋ 9 
+窯 業 ・ 土 石  11  19  22 ＋ 11  11 － 11 
+鉄 鋼 － 6 － 3  6 ＋ 12  9 ＋ 3 
+非 鉄 金 属  36  37  45 ＋ 9  39 － 6 
+加 工 業 種  23  18  25 ＋ 2  23 － 2 
+食 料 品  9  1  3 － 6  3 0 
+金 属 製 品  11 0  16 ＋ 5  8 － 8 
+は ん 用 機 械  38  31  38 0  40 ＋ 2 
+生 産 用 機 械  36  40  43 ＋ 7  44 ＋ 1 
+業 務 用 機 械  23  20  23 0  20 － 3 
+電 気 機 械  29  27  33 ＋ 4  35 ＋ 2 
+自 動 車  12  9  11 － 1  10 － 1 
+非　製　造　業  37  28  35 － 2  30 － 5 
+建 設  52  42  56 ＋ 4  48 － 8 
+不 動 産  52  43  52 0  41 － 11 
+物 品 賃 貸  50  35  46 － 4  27 － 19 
+卸 売  33  19  30 － 3  25 － 5 
+小 売  33  27  29 － 4  25 － 4 
+運 輸 ・ 郵 便  25  18  21 － 4  21 0 
+通 信  38  31  35 － 3  35 0 
+情 報 サ ー ビ ス  52  39  51 － 1  43 － 8 
+電 気 ･ ガ ス  2  6  6 ＋ 4 0 － 6 
+対 事 業 所 サ ー ビ ス  43  39  39 － 4  39 0 
+対 個 人 サ ー ビ ス  37  22  34 － 3  29 － 5 
+宿 泊 ・ 飲 食 サ ー ビ ス  46  34  38 － 8  34 － 4 
+全　産　業  29  23  30 ＋ 1  25 － 5 
+なお、2026 年度の想定為替レートは 154.23 円／ドルと、最近の為替相場の実勢よりも円高水準に設定され
+た。足元の為替相場は 1 ドル＝158 円程度と、短観の想定為替レートを上回る円安水準となっている。先行きの
+不透明感は強いが、このまま想定を上回る円安が続けば、自動車などの輸出企業の業績が上振れる一方、輸入
+企業の多い非製造業や中小企業にとっては業績が下振れるリスクが生じる。
+
+図表 2 大企業の業況判断 DI
+
+（出所）日本銀行｢全国企業短期経済観測調査」を基に当社作成
+
+### Page 3
+
+2. 中小企業の業況判断 DI～製造業は改善、非製造業は横ばい 
+中小企業の業況判断 DI（最近）は、製造業では前回調査から 5 ポイント改善の 14、非製造業は横ばいの 15
+となった。製造業では、価格転嫁の進展から、はん用機械や生産用機械、自動車などの加工業種を中心に改善
+した。他方、非製造業では、宿泊・飲食サービスや物品賃貸などが悪化した一方、卸売や対個人サービスなどが
+改善したことで、横ばいで推移した。ただし、製造業、非製造業ともに水準は高く、総じて見れば中小企業の業況
+感も、大企業と同様に底堅い。 
+他方で先行きについては、製造業では 2 ポイント悪化の 12、非製造業では 5 ポイント悪化の 10 が見込まれて
+いる。製造業、非製造業ともに、イラン情勢悪化の長期化リスクが意識されるとともに、人手不足の深刻化 や金利
+上昇などへの警戒感もあり、慎重な見通しとなっている。
+
+図表 3 中小企業の業況判断 DI
+
+（出所）日本銀行｢全国企業短期経済観測調査」を基に当社作成
+
+(「良い」－「悪い」、%ポイント)
+中　　小　　企　　業
+2026年6月調査 2026年9月調査
+最近 先行き 最近 先行き
+変化幅 変化幅
+製　造　業  9  2  14 ＋ 5  12 － 2 
+非　製　造　業  15  8  15 0  10 － 5 
+全　産　業  13  6  15 ＋ 2  11 － 4
+
+### Page 4
+
+3. 設備投資計画～2026 年度の設備投資計画は大企業を中心に堅調 
+2026 年度の設備投資計画（含む土地投資、除くソフトウェア・研究開発投資額）は、大企業製造業では前年比
+＋11.6%と上方修正される一方、非製造業では同＋11.2%と下方修正されたが、いずれも前年比 2 桁のプラスの
+計画が維持されている。企業の設備投資意欲は、設備投資コストや金利の上昇が重しとなる中でも、堅調な企業
+業績や、イラン情勢悪化に伴う供給制約懸念の後退を背景に、良好な状態を維持している。こうした中、老朽設
+備の維持・更新投資のほか、人手不足に対応するための省力化・効率化投資、E コマースの拡大を背景とした先
+進物流施設などの建設投資、脱炭素に向けた環境対応投資を中心に、堅調な増加が維持されよう。 
+また中小企業では、製造業では前年比＋4.0%、非製造業では同－8.4%と、いずれも前回調査から上方修正
+された。非製造業は前年比マイナスの計画となっているが、大企業と同様に中小企業においても設備投資意欲
+は良好であることから、今後、投資計画の進捗に伴って例年通りに上方修正されていくと見込まれる。 
+なお、原油やナフサの代替調達の進展により、ホルムズ海峡封鎖に伴う数量面での供給制約懸念は一時期と
+比べて後退しているものの、再度の情勢悪化により供給制約が再燃するリスクは残る。加えて、日中関係の悪化
+継続によるグローバルサプライチェーンの混乱 や人手不足の深刻化、種々の設備導入コストの増加、日本銀行
+の利上げなど、企業の設備投資意欲の減退や計画の見直し・先送りにつながるリスク要因は多い。このため、設
+備投資の進捗が現時点の計画よりも下振れるリスクがある点には、引き続き注意を要する。
+
+図表 4 設備投資計画（含む土地投資額）
+
+（注）土地投資額を含み、ソフトウェア投資額と研究開発投資額を含まないベース 
+（出所）日本銀行｢全国企業短期経済観測調査」を基に当社作成  
+◆大企業
+（前年度比・%）
+2025年度 2026年度
+＜6月調査＞ ＜ 9月調査＞
+（実績） （計画） （計画） 修正率
+製 造 業 　 1 0.6 　 10.1 　 11.6 　 1.3 
+非 製 造 業 　 9 .8 　 12.3 　 11.2 － 1.0 
+全 産 業 　 1 0.1 　 11.5 　 11.3 － 0.2 
+◆中小企業
+（前年度比・%）
+2025年度 2026年度
+＜6月調査＞ ＜9月調査＞
+（実績） （計画） （計画） 修正率
+製 造 業 　 0 .1 　 2.6 　 4.0 　 1.4 
+非 製 造 業 　 1 0.1 － 13.0 － 8.4 　 5.3 
+全 産 業 　 6 .9 － 8.3 － 4.7 　 4.0
+
+### Page 5
+
+-10
+-5
+0
+5
+10
+15
+20
+25
+3月 6月 9月 12月 (3月)
+見込み
+(6月)
+実績
+2021 2022 2023
+2024 2025 2026
+（前年度比、%） 【大企業製造業】
+-10
+-5
+0
+5
+10
+15
+20
+25
+3月 6月 9月 12月 (3月)
+見込み
+(6月)
+実績
+2021 2022 2023
+2024 2025 2026
+【大企業非製造業】（前年度比、%）
+-30
+-20
+-10
+0
+10
+20
+30
+3月 6月 9月 12月 (3月)
+見込み
+(6月)
+実績
+2021 2022 2023
+2024 2025 2026
+【中小企業製造業】（前年度比、%）
+-30
+-20
+-10
+0
+10
+20
+30
+3月 6月 9月 12月 (3月)
+見込み
+(6月)
+実績
+2021 2022 2023
+2024 2025 2026
+【中小企業非製造業】（前年度比、%）
+図表 5 設備投資計画の修正動向
+
+（出所）日本銀行｢全国企業短期経済観測調査」を基に当社作成
+
+---
+## Document 550: 沃什曼谷发言“偏鸽”，市场押注美联储10月按兵不动，加息概率跌破15%
+
+Source PDF: all report pdf/沃什曼谷发言“偏鸽”，市场押注美联储10月按兵不动，加息概率跌破15%.pdf
 Report source: WallstreetCN (Global)
 Date: 2026-10-16
 Pages: 2
@@ -8147,28 +8248,39 @@ Extraction status: ok
 
 ### Page 1
 
-CoreWeave 三位联合创始⼈上市后累计套现超 33 亿美元，当前公司股价⾃⾼点暴跌逾
-50% 。⽬前其 2032 年到期债券跌⾄困境区间， CDS 利差飙升⾄ 1117 个基点，隐含违约率达
-63% 。市场对其偿债能⼒的担忧正向 AI 算⼒租赁融资链条蔓延。
+沃什对货币政策保持克制且未释放 “ 鹰派 ” 信号，导致市场对 10 ⽉加息的预期概率骤降⾄
+15% 以下。沃什重申致⼒于价格稳定，强调 AI 短期内推升总需求、中期将带来正向供给冲
+击。市场及⾼盛等机构普遍预计美联储 10 ⽉将按兵不动，下⼀次加息或顺延⾄ 12 ⽉。
 摘要：
-CoreWeave 三位联合创始⼈在公司股价崩跌前累计套现逾 33 亿美元，⽽当前该公司债券已跌⼊
-困境区间，信⽤违约互换利差飙⾄历史⾼位，市场对其偿债能⼒的担忧急剧升温。
-据彭博对公司申报⽂件的统计，Michael Intrator 、 Brian Venturo 和 Brannin McBee 三⼈⾃
-2025 年 3 ⽉ IPO 以来持续⼤规模减持，仅 2026 年⼀年合计套现即达 24 亿美元。与此同时，
-CoreWeave 股价较 5 ⽉峰值已累计下跌逾 50% ，创始⼈账⾯财富蒸发约 150 亿美元。
-公司债务压⼒正加速显现。截⾄本周末， CoreWeave 2032 年到期的 9.625% ⽆担保债券跌⾄⾯
+美联储主席沃什在曼⾕的⼀番表态，令市场对本⽉加息的预期⼤幅降温。
+周五上午，沃什在国际货币基⾦组织年会的⼀场对话活动中，对货币政策前景⼏乎未作具体表
+态，仅重申美联储致⼒于实现价格稳定。这⼀ " 偏鸽 " 姿态令投资者迅速调整押注 ——市场对美联
+储 10 ⽉ 27 ⽇⾄ 28 ⽇政策会议加息的概率预期，从沃什发⾔前的约 27% 骤降⾄ 15% 以下。美股期
+货随之扩⼤涨幅，标普 500 指数期货转跌为涨，上涨 0.2% ，美元则⼩幅⾛低。
+沃什的表态强化了外界对美联储将在 10 ⽉暂停加息的预判。⾼盛⾸席经济学家 Jan Hatzius 领衔
+的团队在研报中指出，结合近期联邦公开市场委员会（ FOMC ）其他官员的表态，沃什此次讲话
 
-值约 76 美分，已触及市场通常定义的困境债务⻔槛；五年期信⽤违约互换利差升⾄创纪录的
-1117 个基点，隐含五年内违约概率⾼达 63% 。
-创始⼈减持规模： IPO 后分批出货，累计套现超 33 亿
-据彭博报道，三位创始⼈的减持贯穿上市后整个周期，规模可观。
-Venturo 累计套现逾 12 亿美元，占其上市时原始持股的 35% 以上； McBee ⾃ IPO 以来合计出售约
-10.6 亿美元股份，相当于其未摊薄持股⽐例的 40.4% ； Intrator 今年以来已出售逾 9.07 亿美元股
-份，三⼈累计套现超 33 亿。2026 年，他们的合计套现额即达 24 亿美元。
-上述减持发⽣于公司股价⾼位期间。此后， CoreWeave 股价较 5 ⽉峰值跌幅超过 50% ，创始⼈所
-持剩余股权的账⾯价值随之⼤幅缩⽔约 150 亿美元。
-债券跌⼊困境区间，违约⻛险定价急剧升温
-CoreWeave 的信⽤市场信号已持续发出警⽰。
+进⼀步表明美联储将在 10 ⽉按兵不动，该⾏预计下⼀次加息将在 12 ⽉落地。
+刻意保持模糊，不为市场提供 " 鹰派抓⼿ "
+⾯对市场对加息路径的关切，沃什在曼⾕的发⾔刻意保持克制。 " 我们已明确表⽰将实现价格稳
+定，并在约⼀个⽉前撤回了⼀定程度的宽松政策， " 他说， " 我不会预判会议结果，我不认为现在
+应该说出我在今年剩余会议上可能采取的⾏动。 "
+货币政策分析机构 Monetary Policy Analytics 经济学家 Derek Tang 在发给客⼾的报告中表⽰：
+沃什同时表⽰，⾃ 9 ⽉ FOMC 会议以来， " 整体经济形势⼤体符合我们的预期 " 。近⼏周，多位美
+联储官员曾重申年内可能仍需进⼀步加息，但也强调在再次⾏动前有⾜够时间收集经济数据。
+9 ⽉已加息，多数官员预计年内还有⼀次
+美联储于 9 ⽉将基准利率上调 25 个基点，这是⾃ 2023 年以来的⾸次加息，获得全部 19 位决策者
+⼀致⽀持。与此同时，多数官员在点阵图中预⽰年内还将有⼀次加息。
+在此背景下， 10 ⽉会议是否⾏动、加息是否留待 12 ⽉，成为市场关注的核⼼问题。沃什曼⾕发
+
+⾔前，加息概率已在 27% 附近徘徊，其表态加速了预期的进⼀步回落，令按兵不动的预判愈发
+成为主流。
+⼈⼯智能：短期推升需求，中期带来供给冲击
+除货币政策外，沃什在曼⾕还就⼈⼯智能发表了⼤篇幅看法，称其为他有⽣之年全球经济中最
+重要的创新，但同时对其短期影响保持审慎。
+" 它显然会先冲击经济的需求侧，之后才会影响供给侧， " 沃什说， " 作为央⾏官员，职责是维护
+价格稳定与充分就业，必须将这⼀变化视为⼀种冲击来认真对待。 "
+" 很明显，他不打算释放任何市场可以解读为鹰派的信号。 "
 ⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⽣活家 搜索
 
 ### Page 2
@@ -8176,406 +8288,262 @@ CoreWeave 的信⽤市场信号已持续发出警⽰。
 ⻛险提⽰及免责条款
 市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂
 中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
-83 收藏 分享到 :
+321 收藏 分享到 :
 写评论
 图⽚
-该公司 2032 年到期⽆担保债券本周跌⾄⾯值约 76 美分，这⼀价位通常被市场视为困境债务的典
-型特征。与此同时， CoreWeave 五年期信⽤违约互换利差飙升⾄ 1117 个基点，为历史新⾼，所
-隐含的五年违约概率达 63% 。
-CoreWeave 的商业模式是向客⼾租赁搭载英伟达芯⽚的数据中⼼算⼒。市场对其债务⽔平的质
-疑，正在向更⼴泛的超⼤规模云服务商及新兴云计算运营商蔓延，整个⾏业的融资成本前景由
-此受到拖累。
-连锁⻛险： CoreWeave 或成多层债务链条的关键节点
-CoreWeave 的潜在⻛险并不⽌于⾃⾝资产负债表。
-CoreWeave 既是其⾃⾝⽆担保债券的借款⽅，同时也是多家垃圾评级数据中⼼债券发⾏主体的
-关键租⼾ —— 后者债券的偿还在相当程度上依赖 CoreWeave 按期⽀付租⾦。若 CoreWeave 的资
-
-本成本当前已⾼达 16% ，则以其租约回款为⽀撑的相关债券发⾏主体，其隐含资本成本将更为
-⾼企。
-Gartner 此前预计，超过 80% 的新兴云计算服务商将⾯临出局。上述连锁传导路径意味着，
-CoreWeave ⼀旦出现实质性信⽤事件，冲击将不仅限于公司本⾝，⽽可能波及整个以 AI 算⼒租
-赁为核⼼的融资⽣态链条。 Deutsche Bank 亦就此发表评论，但具体内容尚未完整披露。
+1 条评论
+沃什认为，⼈⼯智能从中期来看是⼀种正向供给冲击，但当前正在推升总需求，⽽其对就业市
+场的影响尚存不确定性。他的部分同僚也表达了类似关切，甚⾄有官员质疑，当前⽀撑⼈⼯智
+能基础设施建设的投资浪潮是否可能导致经济过热。
+沃什还宣布，专⻔研究⼈⼯智能对⽣产率和就业影响的⼯作组将于 11 ⽉ 16 ⽇在旧⾦⼭湾区举⾏
+现场听证会。这是他召集的五个⼯作组之⼀，各⼯作组将于今年底或 2027 年初向 FOMC 提交政
+策建议。
 限免
 请发表您的评论
 表情 发布评论
+KOP
+2 ⼩时前 中国江苏省
+0  回复
+真蛋疼，不是鹰派就是鸽吗
 
 ---
-## Document 554: 消費者物価指数（東京都区部・2026年9月） ～特殊要因を除いても強い。財を中心に物価上昇圧力強まる～
+## Document 568: 米FF金利中立超えなら株価には逆風 ～市場予想通りの利上げが進めば、来年半ば頃には調整入りの可能性も～
 
-Source PDF: all report pdf/消費者物価指数（東京都区部・2026年9月） ～特殊要因を除いても強い。財を中心に物価上昇圧力強まる～.pdf
+Source PDF: all report pdf/米FF金利中立超えなら株価には逆風 ～市場予想通りの利上げが進めば、来年半ば頃には調整入りの可能性も～.pdf
 Report source: DLRI
-Date: 2026-10-02
-Pages: 4
+Date: 2026-09-30
+Pages: 5
 Extraction status: ok
 
 ### Page 1
 
-Economic Indicators
+Investment Navigator
 
-2026 年 10 月 2 日
+2026 年 9 月 30 日
 
-1/4 
-消費者物価指数（東京都区部・2026 年 9 月） 
-～特殊要因を除いても強い。財を中心に物価上昇圧力強まる～ 
-経済調査部 シニアエグゼクティブエコノミスト 新家義貴 
-（℡：050-5474-7490）
+1/5 
+米 FF 金利中立超えなら株価には逆風 
+～市場予想通りの利上げが進めば、来年半ば頃には調整入りの可能性も～ 
+ 経済調査部 シニア・フェロー  嶌峰 義清 
+（℡：050-5474-7489）
 
-特殊要因の影響も大きいが、それを除いても強い 
-本日総務省から発表された26 年 9 月の東京都区部消費者物価指数（生鮮食品除く）は前年比＋
-2.7％と、8 月の＋1.8％から上昇率が0.9％Pt拡大した。市場予想の前年比＋2.4％（筆者予想：
-＋2.5％）を明確に上回る強い結果である。季節調整済み前月比でも＋0.9％と非常に高い伸びと
-なっている。また、日銀版コア（生鮮食品及びエネルギーを除く総合）も前年比＋3.0％と、８月
-の＋2.0％から大幅に上昇した。米国型コア（食料及びエネルギーを除く総合）も＋1.4％から＋
-2.7％へ伸びを高めている。日銀版コアは季節調整済み前月比でも＋0.7％と強い。 
- なお、今月の大幅な上昇には政策・制度要因の影響も大きいことには注意が必要だ。水道料は
-(単位：％）
-総合 生鮮除く総合
-食料（酒類除
-く）及びエネ
-ルギー除く総
-合
-生鮮食品及
-びエネルギー
-を除く総合
-石油製品 総合 生鮮除く総合
-食料（酒類除
-く）及びエネ
-ルギー除く総
-合
-生鮮食品及
-びエネルギー
-を除く総合
-石油製品
-前年比 前年比 前年比 前年比 前年比 前年比 前年比 前年比 前年比 前年比
-25 1月 4.0 3.2 1.5 2.5 4.0 3.4 2.5 1.0 1.9 4.3
-2月 3.7 3.0 1.5 2.6 5.9 2.8 2.2 0.8 1.9 6.4
-3月 3.6 3.2 1.6 2.9 5.8 2.9 2.4 1.1 2.2 6.1
-4月 3.6 3.5 1.6 3.0 6.6 3.4 3.4 2.0 3.1 6.6
-5月 3.5 3.7 1.6 3.3 5.2 3.4 3.6 2.1 3.3 5.4
-6月 3.3 3.3 1.6 3.4 0.0 3.1 3.1 1.8 3.1 ▲ 0.9
-7月 3.1 3.1 1.6 3.4 0.3 2.9 2.9 1.7 3.1 ▲ 0.1
-8月 2.7 2.7 1.6 3.3 1.6 2.5 2.5 1.5 3.0 1.8
-9月 2.9 2.9 1.3 3.0 1.3 2.5 2.5 1.0 2.5 1.8
-10月 3.0 3.0 1.6 3.1 0.9 2.7 2.8 1.6 2.8 0.9
-11月 2.9 3.0 1.6 3.0 0.3 2.7 2.8 1.6 2.8 ▲ 0.1
-12月 2.1 2.4 1.5 2.9 ▲ 3.8 2.0 2.3 1.5 2.6 ▲ 4.5
-26 1月 1.5 1.9 1.5 2.5 ▲ 10.1 1.6 2.0 1.4 2.3 ▲ 12.2
-2月 1.3 1.5 1.5 2.4 ▲ 10.9 1.6 1.9 1.5 2.4 ▲ 12.6
-3月 1.5 1.7 1.6 2.4 ▲ 3.0 1.5 1.8 1.4 2.2 ▲ 0.2
-4月 1.4 1.4 1.2 1.9 ▲ 5.4 1.4 1.4 0.9 1.7 ▲ 7.6
-5月 1.5 1.4 1.2 1.8 ▲ 2.7 1.3 1.2 0.6 1.5 ▲ 5.7
-6月 1.6 1.6 1.2 1.7 2.4 1.6 1.5 1.0 1.7 0.3
-7月 1.9 1.8 1.4 1.9 2.1 1.8 1.7 1.2 1.8 ▲ 0.3
-8月 1.9 1.7 1.6 1.9 1.6 1.9 1.8 1.4 2.0 ▲ 1.0
-9月 - - - - - 2.7 2.7 2.7 3.0 ▲ 1.0
-(出所）総務省統計局「消費者物価指数」
-全国 東京都区部
+（要旨） 
+○ 予想を上回るタカ派的な内容となった 9 月の FOMC を受けて、市場では FRB の追加利上げに
+対する警戒感が広がっている。足元では、向こう1 年間で 100bp（1％）の利上げが概ね織り
+込まれている。今後の利上げは、中立金利水準を上回る景気抑制ゾーンでの金利の引き上げ
+となることから、利上げが繰り返されるのであれば、市場は先行きの景気減速を直視せざる
+を得なくなろう。 
+○ 市場の予想は常に行き過ぎるきらいがあるが、 落とし所が見えないイラン情勢や、 スーパー ・
+エルニーニョによる世界的な農作物の不作懸念、先進国を中心とした好調な景気などを勘案
+すれば、米国に限らずユーロ圏や日本でも利上げが続く可能性は十分にある。 
+○ 金融政策が景気に影響を及ぼすには相応のタイムラグがある。しかし、景気の先行きを織り
+込もうとする金融市場は、より早く反応する傾向にある。イラン情勢や米中関係による影響
+が不確定要素だが、政策金利が中立金利水準を上回ってくることで、米国株が調整局面に転
+じる時期も近づいていると考えられる。
+
+1. 市場は景気抑制ゾーンへのFRB利上げを織り込みへ 
+FF金利先物市場において、将来の利上げ予想が大幅に上方修正されている。きっかけの一つは9
+月のFOMCで、メンバーのFF金利予想コンセンサスが年内の追加利上げを示したことなど、総じて
+タカ派的な内容となったことがある。加えて、混沌としたイラン情勢により原油価格が高止まり
+していること、米景気が好調に推移していることを示す経済指標の発表が続いていることなど
+も、市場の利上げ予想を上方修正させているものと推察される。 
+FOMCメンバーのFF金利予想によれば、9 月の利上げに加えて年内にもう一回の利上げ実施がコン
+センサスとなった一方、2027 年末のFF金利水準については2026 年末時点と同水準にとどまること
+がコンセンサス（予想中央値）となった。すなわち、2027 年は金利を据え置くということだ。し
+かし、2027 年末のFF金利予想水準の最頻値（最も多くのメンバーが予想した水準）は、2026 年末
+予想水準よりも25bp（0.25％）高い4.375％となっている（2026 年末予想と同水準である
+4.125％を予想したメンバーが6 名なのに対し、4.375％と予想したメンバーは8 名） 。このこと
 
 ### Page 2
 
-2/4 
-前年比＋65.6％（ＣＰＩコアへの寄与度：８月0.00％Pt → ９月＋0.25％Pt）となり、前月から
-の寄与度差で＋0.25％Ptの押し上げとなった。東京都で実施された水道基本料金無償化は、ＣＰ
-Ｉへの反映時期が昨年の６～９月に対して今年は５～８月と１か月ずれている。このため９月
-は、無償化が実施されていた前年同月と、無償化の影響が剥落した今年との比較となり、前年比
-が大きく上昇した。また、保育所保育料についても、昨年９月に始まった第一子保育料無償化に
-よる前年比の下押し効果が１年を経て一巡し、前年比のマイナス寄与が縮小した（８月▲0.51％
-Pt → ９月▲0.22％Pt）。こちらは前月から＋0.30％Ptの押し上げ要因となっている。両者を合わ
-せると＋0.55％Ptとなり、今月のＣＰＩコアの上昇率拡大幅＋0.9％Ptの半分以上を説明する。こ
-のため、９月の大幅上昇をそのまま物価の基調が急速に強まったものとみるのは適切ではない。 
-とはいえ、こうした特殊要因を割り引いてもＣＰＩコアは前月から明確に伸びが高まっている
-ことは確かで、強い結果と評価できる。８月まで値上げが目立っていた日用品では引き続き高い
-伸びが続いたほか、９月は家庭用耐久財や教養娯楽用耐久財でも上昇率が大きく高まった。食料
-品については米価格の下落が下押しとなっているが、その他の品目では値上げが進み、食料品全
-体でも鈍化に歯止めがかかっている。 
-26 年前半には食料品価格の鈍化を主因として物価上昇率に落ち着きがみられたが、７月以降は
-日用品を中心に値上げの動きが再び広がっている。9 月は特殊要因による押し上げが大きい点には
-注意が必要だが、そうした要因を除いても強さがみられた。表面上の上昇率ほど実態が加速した
-わけではないものの、物価上昇圧力の広がりが続いていることを確認する結果といえるだろう。
+2/5 
+は、FOMCメンバーがタカ派寄りに傾斜していることを示唆している。 
+足元（9 月29 日時点）のFF金利先物価格の動きから算出した、将来のFF金利予想値を見ると、
+年内に 1 回以上の利上げが織り込まれているほか、2027 年9 月末までに累計100bp（1％）、1 会合
+あたりの利上げ幅を25bp（0.25％）とした場合4 回の利上げを織り込んだ水準にある（図表1）。
+これは、1 ヶ月前と比べると1 年間で2 回多くの利上げを織り込んだ形となっており、ここへきて
+急速に利上げ回数の上方修正が行われたことを示している。
 
-財を中心に値上げの動きが広がる 
-電気・ガス代については、政府支援による押し下げが続いた。電気・都市ガス代の前年比寄与
-度は８月が▲0.09％Pt、９月が▲0.08％Ptとほぼ変わらず。政府は７～９月にかけて電気・ガス
-代補助を復活させたが、これがＣＰＩに反映されるのは８～10 月分であり、この期間のエネルギ
-ー価格は抑制される。今年は昨年よりも支援規模が大きいため、前年比でも下押し要因になって
-いる。一方、補助が切れる11 月以降については、既往のエネルギー価格上昇の影響が反映される
-ことも相まって、電気・ガス代の前年比での押し上げが大きくなる可能性が高い。 
-生鮮食品を除く食料は前年比＋3.6％と、前月から上昇率に変化はなかった。米類は前年比
-▲19.8％と、8 月の▲14.2％から下落幅をさらに拡大しており、食料品価格を大きく押し下げてい
-る。それにもかかわらず、生鮮食品を除く食料全体の上昇率が＋3.6％を維持した点には注目した
-い。内訳では、肉類が＋5.0％、油脂・調味料が＋5.4％、飲料が＋6.7％、調理食品が＋3.4％
-と、米以外では高い伸びが続いている。 
-品目別では、パンや食用油、コーヒー豆など一部では伸びが鈍化した一方、飲料や調理食品な
-どでは値上げの動きが続いている。米価格が全体を押し下げるなかでも食料品価格の上昇圧力は
-依然として強い。先行きについても、米価格の下落が下押し要因となる一方、包装資材費や物流
-費、人件費などを理由とした値上げの動きは続くとみられる。食料品全体としてはなお上方向を
-みておく必要があるだろう。
+2. 市場の予想は行き過ぎることが多いとはいえ、ファンダメンタルズは利上げやむなしを示唆 
+市場の予想は往々にして行き過ぎることが多い。特に金融政策については、実体経済や市場へ
+の影響が大きいだけに尚更となる。 
+米国のインフレを取り巻く環境は、昨年のトランプ関税、今年のイランへの空爆など、景気と
+は異なる要因の影響を受けているうえ、ウォーシュFRB議長は今年5 月に着任したばかりで、イン
+フレや景気に対するスタンス（タカ派寄りかハト派寄りか）や手腕も不明な点が多い。加えて、
+議長は四半期に一度のFOMCメンバー予想も「過度な情報発信は、金融政策の運営において有用で
+はない」として参加せず、過去の予想に囚われることなく、その都度得られる情報から適切な金
+融政策を行う方針を示している。 
+こうした状況から、市場はFRBの金融政策について、新しい情報に振り回されやすくなり、時に
+過敏な反応を示している可能性は十分にある。 
+しかし、ファンダメンタルズは米国の利上げを正当化する材料が多いことも事実だ。米国の企
+注：各月末に相当するFF金利先物価格から算出される金利水準
+　　丸印はFOMC開催月。
+出所：Datastream
+（図表1）FF金利先物の動向（2026年9月29日時点）
+3.500
+3.625
+3.750
+3.875
+4.000
+4.125
+4.250
+4.375
+4.500
+4.625
+4.750
+4.875
+9月 10月 11月 12月 1月 2月 3月 4月 5月 6月 7月 8月 9月
+2027年
+（％）
+現在のFF金利の中心値
+＋0.25％利上げの中心値
+＋0.50％利上げの中心値
+＋0.75％利上げの中心値
+＋1.00％利上げの中心値
+8月28日時点
+9月29日時点
 
 ### Page 3
 
-3/4 
-日用品でも値上げの動きが続いている。家事用消耗品は前年比＋10.6％と、８月の＋9.4％から
-さらに伸びを高めた。家具・家事用品全体でも＋3.7％から＋5.5％へ上昇率が拡大している。品
-目別でも、ティシュペーパーやトイレットペーパー、漂白剤などで高い伸びが続いた。ラップや
-ポリ袋など、伸びが鈍化しているものも一部にあるが、複数の日用品で二桁の上昇率が続いてお
-り、原材料費や包装資材費、物流費など既往のコスト増が小売価格へ転嫁される動きは続いてい
-る。 
-耐久財の価格上昇も目立った。家庭用耐久財は前年比＋2.2％から＋5.9％、教養娯楽用耐久財
-も＋3.4％から＋7.0％へ伸びを高めた。品目別では、タブレット端末やメモリーカードなど情報
-関連機器で高い伸びが続いている。こうした動きには、ＡＩ関連需要の拡大を背景とした半導
-体・メモリー価格の上昇に加え、円安による輸入コストの上昇が川下価格に波及している可能性
-がある。耐久財はモデルチェンジなどで価格が振れやすい点には注意が必要だが、日用品に加え
-て耐久財にも値上げの動きが広がっている点は注目される。 
-サービス価格は前年比＋2.3％と、８月の＋1.4％から上昇率が大きく拡大した。ただ、これに
-は前述した保育料の前年比での下押し効果が一巡した影響も大きい。また、今月上昇への寄与が
-大きかった宿泊料や航空運賃、外国パック旅行費など旅行関連サービスについてはシルバーウィ
-ークの 5 連休といった日並びの良さが価格上昇につながった面もあるだろう。民営家賃や持家の
-帰属家賃の上昇も、全国でみて同じように伸びるとは限らない。こうした点は割り引いて見る必
-要があるだろう。サービス価格は全体として底堅く推移していると判断しているが、基調として
-伸びが高まっているかどうかについてはまだ何とも言えず、今後の動きをしっかり確認する必要
-がある。 
-こうしたなか、コアコアも上昇率を高めた。前述の通り日銀版コアが前年比＋3.0％（８月＋
-2.0％）、米国型コアが＋2.7％（８月＋1.4％）へともに大きく上昇した。水道料や保育料などの
-特殊要因による押し上げが大きいため、表面上の数字のインパクトほど物価が加速しているわけ
-ではない。もっとも、こうした特殊要因を除いても物価上昇圧力は強い。米類の下落幅が拡大す
-るなかでも生鮮食品を除く食料は前年比＋3.6％を維持しており、米以外の食料品では値上げの動
-きが進んだ。また、日用品で高い伸びが続いたほか、家庭用耐久財や教養娯楽用耐久財でも上昇
-率が大きく高まるなど、財価格では値上げの動きがより明確になっている。サービス価格の基調
-が加速しているかどうかについてはなお見極めが必要だが、足元の物価上昇圧力は財を中心に強
-まっていると評価できる。
+3/5
+業景況感はここへ来て急速に水準を高め、製造業は約4 年半ぶり、非製造業は約5 年ぶりの水準
+となった（図表2） 。製造業では在庫調整の進展に加え、AI関連需要の高まりなどから受注が拡大
+傾向を辿っており、向こう半年程度は生産活動の加速が見込まれる。また、非製造業では製造業
+と同様にAI関連需要が高まっていることに加え、個人消費が好調に推移していることで価格転嫁
+が進んで業績の伸びをサポートしていると考えられる。
+企業景況感の改善は、雇用の拡大を促そう。昨年は不安定な推移が続いていた米国の雇用だ
+が、今年に入ってからは底堅さが増してきた。非農業部門の雇用者数は、昨年は月平均で9.7 千
+人の増加にとどまったが、今年（1～8 月）は同80.4 千人へと増加ペースが加速している。失業率
+は昨年末の4.4％から、直近（8 月）は 4.1％まで低下した。インフレ圧力を測るうえで重要な指
+針となる時間あたり賃金の伸びは鈍化傾向が続いているものの、①失業率は4.1％まで低下してき
+たこと、②自発的失業者比率（より良い雇用条件を求めて失業した人：景気が良くなるときに上
 
-＋３％超えが視野に 
-先行き、物価上昇率は再び高まる可能性が高いと予想している。これまでの資源・素材価格上
-昇によるコスト増は企業物価段階ですでに顕在化しており、今後も食料品や日用品、耐久財など
-幅広い財で川下への価格転嫁が続く可能性が高い。 
-食料品については、包装資材高や物流費、人件費などを理由とした値上げの動きは今後も続く
-とみられる。米価格の下落による押し下げを勘案しても、米以外の食料品では高い上昇圧力が残
+昇する）が底打ちしたこと、③経済的理由によるパートタイマー数（経済的な環境を理由とした
+雇用条件の悪化などにより、正規雇用ではなくパートターマーを余儀なくされている人の数：景
+気が悪化すると増加する）が減少に転じたこと、④1 年前に比べて雇用者を増やしている企業の割
+合が 50％を超えてきたこと、⑤物価高が続く一方、実質賃金の伸びがマイナスとなり、賃金引き
+上げ要求が高まる余地があること、などを勘案すれば、今後は賃金の伸びが底打ちして加速に転
+じる可能性も十分にある。
+一方、景気以外の要因によるインフレ圧力は高い状態が続いている。イラン情勢は落としどこ
+ろが見えなくなっており、6 月半ばに下落した原油価格（WTI）は再び上昇、1 バレル90 ドル台で
+高止まりしている。また、スーパー・エルニーニョ（一般的に「エルニーニョ」が太平洋赤道付
+近の海面水温が平年より0.5℃以上高くなった現象であるのに対し、2℃以上高くなった現象を指
+す）の発生が原因とされる世界的な異常気象により、穀物を含めた作物の不作が世界的な規模で
 
-### Page 4
-
-本資料は情報提供を目的として作成されたものであり、投資勧誘を目的としたものではありません。作成時点で、第一ライフ資産運用
-経済研究所が信ずるに足ると判断した情報に基づき作成していますが、その正確性、完全性に対する責任は負いません。見通しは予告
-なく変更されることがあります。また、記載された内容は、第一生命保険ないしはその関連会社の投資方針と常に整合的であるとは限
-りません。 
-4/4 
-る可能性が高く、食料品全体としても上方向をみておく必要がある。 
-また、政府による電気・ガス料金支援は10 月までＣＰＩを押し下げる一方、11 月以降はその効
-果が剥落する。加えて、既往の燃料価格上昇は燃料費調整を通じて一定の時間差を伴って電気・
-ガス料金に反映される。今後、エネルギー価格による押し上げが大きくなる可能性が高い。 
-さらに、中東情勢を巡る不透明感が残るなか、原油・燃料価格は一時より低下したものの、な
-お高水準で推移している。今後も高止まりが続けば、輸送費や包装資材、化学製品などを通じて
-企業のコスト負担が高まり、食料品や日用品など川下価格への波及が強まる可能性がある。ま
-た、これまでの原油高も今後、燃料費調整を通じて電気・ガス料金へ波及するとみられ、物価上
-昇を長引かせる要因となる点にも注意が必要だ。 
-以上のとおり、9 月の東京都区部ＣＰＩは、水道料や保育料などの特殊要因によって上昇率が大
-きく押し上げられており、ＣＰＩコアの表面上の急加速をそのまま物価の基調とみるべきではな
-い。一方で、日用品の高い伸びが続いたほか、耐久財でも価格上昇が目立つなど、特殊要因を除
-いても物価上昇圧力が強いことも同時に示されている。 
-先行きについては、既往のコスト上昇の川下への波及、企業の価格転嫁姿勢の強まり、電気・
-ガス代補助の終了、燃料価格上昇が電気・ガス代へ遅れて反映されること、資源価格の高止まり
-リスクなどを踏まえると、物価はなお上振れの可能性を意識しておく必要がある。全国ベースの
-ＣＰＩコアはこの先上昇率を高め、26 年末から27 年初にかけて前年比＋３％を上回る展開になる
-と予想している。
-
-(出所）総務省統計局「消費者物価指数」
--1.5
--1.0
--0.5
-0.0
-0.5
-1.0
-1.5
-2.0
-2.5
-3.0
-3.5
-4.0
-4.5
-1 3 5 7 9 11 1 3 5 7 9 11 1 3 5 7 9 11 1 3 5 7 9
+広がっているとされ、今後世界的に食料品価格が高騰するリスクもある。
+出所：Datasteram
+（図表2）米国のPMI企業景況感指数の推移
+44
+46
+48
+50
+52
+54
+56
+58
+60
 23 24 25 26
-東京都区部・消費者物価コア(前年比、％）
-食料・エネルギー除く
-エネルギー
-生鮮除く食料
-CPIコア
-
----
-## Document 564: 第一金-6604 儒億-20261006
-
-Source PDF: all report pdf/第一金-6604 儒億-20261006.pdf
-Report source: line報告備份
-Date: 2026-10-06
-Pages: 6
-Extraction status: ok
-
-### Page 1
-
-陳祐竹 
-(886-2)2563-1666 儒億(6604) 
-JUOKU TECHNOLOGY CO., LTD. 
-買進 
-前一日(10/05)收盤價：
-28.2 元 
-承銷價：24 
-目標價：45
-
-儒億為台灣車燈 ODM/OEM 大廠，母公司堤維西持股 60.88%(釋股
-後降至 52.5%)，2025/10/28 登錄興櫃，2026/10/6 轉上櫃，承銷價
-24 元，競拍最低得標價為 23.5 元，最高得標價為 26 元，加權平均
-得標價爲 24.09 元，前一日收盤價 28.2 元。雖然汽車市場規模相對
-成熟，總銷量變化不大，但結構正在進行深度轉型，儒億與日本斯
-坦雷(Stanley Electric) 長期技術合作，具備車燈自主設計製造能
-力，隨車輛智慧化及電動化 趨勢使產品單價持續提高，獲利結構可
-望逐步轉佳，目前台灣車市落底回穩，且台灣及印尼的自製率法規
-紅利使儒億迎來結構性利多，長期營運展望正向。綜合以上，研究
-部預估 2026 年 EPS 4.11 元，參考國內車燈同業如大億(1521)、麗
-清(3346)、華勝-KY (2248) 等本益比區間為 8~20x，給予 11x 本益
-比評價，目標價 45 元，依承銷價 24 元計算，給予買進投資建議。
-
-⚫ 公司簡介 
-儒億成立於 1993 年 ， 為台灣車燈ODM/OEM 大廠 ，2025/10/28
-登錄興櫃，2026/10/6 轉上櫃，母公司堤維西原持股 60.88%、
-釋股後降至 52.5%，上櫃後資本額 5.07 億元，承銷價 24 元。
-2025 年營收比重：汽機車燈具 54%、模具 19%、車內開關
-13%、電路板模組 6%、其他 8%。2025 年銷售區域別：台灣 
-58%、日本 16%、馬來西亞 14%、印尼 5%、美國 3%。主
-要客戶包含中華汽車、本田汽車、國瑞汽車、PROTON、
-PERODUA 等 。 儒億車燈廠 、LED 模組廠 、 模具廠位於台南市，
-電裝廠位於新北市 ， 另於2012 年與印尼最大汽車零部件廠 PT 
-Astra Otoparts 合資創立 PT Astra Juoku Indonesia(AJI)，儒億
-持股 50%並以權益法認列，在印尼當地製造與開發 OEM 車燈
-
-2026/10/06 
-新股上櫃
-
-### Page 2
-
-本資料內容僅供參考，投資人應審慎考量自身之 投資需求與風險，本公司恕不負任何法律責任，亦不作任何保證  
-第一金證券投資顧問股份有限公司 (First Capital Management Inc.) 台北市長安東路一段 22 號 11F   TEL(02) 2563 -6262 
-2 
-  與相關燈具，其主要客戶為 Toyota 及 Honda 集團，AJI 對儒
-億獲利貢獻度達 45~50%。 
-圖一、主要產品
-
-資料來源：公司簡報、第一金投顧彙整 
-圖二、主要客戶
-
-資料來源：公司簡報、第一金投顧彙整
-
-⚫ 產業概況及競爭優勢 
-研調機構 Global Market Insights 預估全球車燈產值
-2022~2032 年將以 CAGR+8.5%穩健擴張 ，TrendForce 亦指出
-配備自適應遠近光(AFS/ADB)的車款比重 2030 年將突破
-20%，確立智慧車燈發展的必然趨勢。儒億的核心競爭利基包
-括(1)車廠 Tier 供應商進入門檻高：基於嚴格品質認證、長期的
-
-### Page 3
-
-本資料內容僅供參考，投資人應審慎考量自身之 投資需求與風險，本公司恕不負任何法律責任，亦不作任何保證  
-第一金證券投資顧問股份有限公司 (First Capital Management Inc.) 台北市長安東路一段 22 號 11F   TEL(02) 2563 -6262 
-3 
-產品開發驗證週期等原因，車廠尋找合格供應商至下單需 3~5
-年時間，一旦進入不會輕易更換，因此長期訂單穩定；(2)日系
-技術合作與自主研發雙軌並進 ： 儒億長期與日本斯坦雷(Stanley 
-Electric)技術合作，兼具日規安全檢驗標竿與自主光學設計量
-能；(3)東南亞布局完整：攜手印尼零組件龍頭 PT Astra 
-Otoparts 布局合資廠 AJI(儒億持股 50%)， 掌握印尼半數市佔的
-Astra 體系，具有成本競爭力的供應量能，可靈活因應全球供應
-鏈重組趨勢。
-
-⚫ 營運概況 
-儒億 2025 年營收 20.71 億元，YoY-4.3%，毛利率 13.38%，
-稅後淨利 1.1 億元，YoY+8.9%，稅後 EPS 2.73 元，去年台美
-貿易談判之不確定性使消費者轉為觀望，整體車市疲弱，壓抑
-OEM 訂單動能。雖26Q1 台灣車市延續關稅政策影響，消費者
-持續觀望，但馬來西亞第二國產車 Perodua 首款電動車 QV-E
-之車燈模具開始出貨，以及業外轉投資 AJI 受惠新車量產及模
-具開發收入 、26H1 獲利成長 30%，26H1 儒億營收 10.83 億元 ，
-YoY+10.8%， 毛利率15.83%， 稅後淨利9755 萬元 ， 稅後EPS 
-2.23 元。隨著各品牌陸續推出新產品，台灣車市買氣自 26Q2
-緩步回溫，8M26 台灣車市新車掛牌數 27 萬輛，YoY+ 2.4%，
-加上 Perodua 車燈持續放量 ，7~8 月營收分別 YoY+33%/23%，
-北美新能源車專案將於 26Q4 開始出貨。
-
-⚫ 營運展望 
-台美關稅尚未完全定案，使台灣車市買氣並未顯著彈升，但目
-前 已 落 底 回穩 ， 新款 上 市及 財 富 效果 刺 激換 購 需 求 ，預 估
-2026~2027 年台灣新車銷售達中低個位數增長；雖然汽車市場
-規模相對成熟，總銷量變化不大，但結構正在進行深度轉型，
-例如傳統燈具轉向 LED 及智慧燈具，車燈結合感測與通訊功
+製造業景況感
+非製造業景況感
 
 ### Page 4
 
-本資料內容僅供參考，投資人應審慎考量自身之 投資需求與風險，本公司恕不負任何法律責任，亦不作任何保證  
-第一金證券投資顧問股份有限公司 (First Capital Management Inc.) 台北市長安東路一段 22 號 11F   TEL(02) 2563 -6262 
-4 
-能 ， 儒億目前具備AFS(主動轉向式頭燈)及 ADB(自適應式遠光
-頭燈)的自主設計製造能力，整體智能產品比重已達30%，隨車
-輛智慧化及電動化趨勢使產品單價持續提高，獲利結構可望逐
-步轉佳。此外，台灣經濟部自 2024/8/1 實施「國產車組裝在地
-化供應鏈比重」新制，2024 年前在台上市之國產車款，其零件
-國產化自製率須於 2026/8 後全面提升至 35%，新導入車款上
-市後三年自製率須自 15%逐年遞增至 25%及 35%， 具備自主設
-計與高自製率的供應商迎來結構性利多。
+4/5 
+以上のことから、食料品を含めた資源価格の上昇が川下（消費者段階）に転嫁されるのに十分
+なほど米国景気は良好で、期待インフレを押し上げる可能性も高いと判断される。加えて、足元
+のインフレ率が、中央銀行（FRB）が目指す水準（2％）を上回っている状況では、金融引き締め
+度合いを強めることでインフレ加速リスクを抑えようとすることは十分正当化されるだろう。と
+はいえ、現状では向こう1 年間で100bpもの利上げが必要とするほどの逼迫感が確認されているわ
+けではない。
 
-轉投資 AJI 方面，印尼為東協第二大汽車市場，雖短期消費力
-受通膨壓抑，但中產階級擴張及都市化的長期趨勢使其具備龐
-大需求潛力，且印尼政府推行電動車與新能源車本地含量規定
-(TKDN)，本地生產之新能源車須於 2026 年達成 40%本地自製
-率，2027~2029 年提高至 60%，2030 年達 80%，AJI 在印尼
-設廠逾十年，具備先行者優勢，Toyota 集團透過 Astra 體系長
-期掌控印尼汽車約 50%市佔率，其成長性高於整體印尼車市，
-為儒億提供穩健之業外收益 。 綜合以上 ， 研究部預估2026 年營
-收 24.24 億元，YoY+17.1%，毛利率 15.98%，稅後淨利 2.08
-億元，YoY+89.2%，以上櫃後股本計算 EPS 4.11 元。
-
-⚫ 結論與建議 
-儒 億 為 台 灣 車 燈 ODM/OEM 大 廠 ， 母 公 司 堤 維 西 持 股
-60.88%(釋股後降至 52.5%)，2025/10/28 登錄興櫃 ，2026/10/6
-轉上櫃，承銷價 24 元，競拍最低得標價為 23.5 元，最高得標
-價為 26 元，加權平均得標價爲 24.09 元，前一日收盤價 28.2
-元。雖然汽車市場規模相對成熟，總銷量變化不大，但結構正
-在進行深度轉型 ， 儒億與日本斯坦雷(Stanley Electric)長期技術
-合作，具備車燈自主設計製造能力，隨車輛智慧化及電動化 趨
+3. 景気抑制ゾーンへの利上げは、株式市場の調整局面に繋がる恐れ 
+FRBは現在の米国の中立金利（景気に対し刺激効果も抑制効果も無いと考えられる金利水準）を
+3.00～3.60％と試算している。これに基づけば、足元のFF金利（3.75～4.00％）は中立金利域を
+超え、景気に抑制効果が生じる水準に突入していることになる。 
+これに対し、FRBよりも過去に遡ったデータから中立金利水準を試算しているNY連銀によれば、
+足元の実質中立金利水準（自然利子率）は1.6524％となる。これに足元のBEI（ブレーク・イーブ
+ン・インフレ率：国債の利回りから物価連動債の利回りを引いて算出＝市場の期待インフレ率を
+示す）を足した名目中立金利は3.99％となる。これはFRBが試算する中立金利よりも若干高いが、
+FRBがあと1 回利上げをすれば、FF金利の中央値（1 回利上げをした場合は4.125％）は景気抑制
+水準に達することになる（図表3）。 
+金利の変更が景気に影響を及ぼすにはある程度の時間が必要と考えられ、一般的には1～2 年程
+度のタイムラグがあると言われている。したがって、9 月の利上げでFF金利が中立水準を超えたか
+らといって、米国景気に直ちにブレーキがかかるとは考えにくい。もっとも、市場が予想してい
+るようなペースで利上げが進めば、金利水準が高まるにつれて景気減速圧力も強くなると考えら
+れ、場合によっては景気失速に繋がるリスクも出てくる。 
+注：中立金利はNY連銀算出の実質中立金利にBEIを足して算出
+出所：NY連銀、Datastream
+（図表3）米国のFF金利と中立金利の推移
+0
+1
+2
+3
+4
+5
+6
+7
+00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26
+ＦＦ金利
+中立金利
+（％）
 
 ### Page 5
 
-第一金證券投資顧問股份有限公司 (First Capital Management Inc.) 台北市長安東路一段 22 號 11F   TEL(02) 2563 -6262
-5
-勢使產品單價持續提高，獲利結構可望逐步轉佳，目前台灣車
-市落底回穩，且台灣及印尼的自製率法規紅利使儒億迎來結構
-性利多，長期營運展望正向。綜合以上，研究部預估 2026 年
-EPS 4.11 元，參考國內車燈同業如大億(1521)、麗清(3346)、
-華勝-KY(2248)等本益比區間為 8~20x， 給予11x 本益比評價，
-目標價 45 元，依承銷價 24 元計算，給予買進投資建議。
+経済研究所が信ずるに足ると判断した情報に基づき作成していますが、その正確性、完全性に対する責任は負いません。見通しは予告
+なく変更されることがあります。また、記載された内容は、第一生命保険ないしはその関連会社の投資方針と常に整合的であるとは限
+りません。
+5/5
+こうした先々の景況感の変化に敏感に反応するのが金融市場だ。 「景気の半年先を読む」と言わ
+れている株式市場では、今回の利上げを受けて半年～1 年半程度で景気の減速を織り込み始め、利
+上げが足元の市場予想のようなペースで進められるのであれば、景気の失速をも意識する展開へ
+と転じるリスクもある。
+そこで、NY連銀が算出した実質中立金利を用いて、2000 年以降の政策金利と中立金利の乖離と
+SP500 株価指数の前年比の動きを比較すると（図表4）、FF金利が中立金利水準を超える局面（図
+では赤線がゼロのラインを下回る局面：対象軸を上下反転しているため、実際の符号はプラス）
+では、株価の前年対比の伸びもマイナスに転じていることが確認される。
 
-### Page 6
+ただし、両者のタイムラグは局面によってまちまちで、政策金利が中立金利を上回ってから株
+価の伸びがマイナスに転じるまで2 年程度を要している局面もあれば（2000 年代半ば～後半） 、利
+上げ開始後すぐに株価が下落に転じた局面（2022 年）もある。
+こうしたタイムラグの不安定さの要因については、2000 年代半ばが不動産市場を中心としたバ
+ブル（その後のサブプライムローン問題～リーマンショックへと続く）により利上げ効果が現れ
+にくかった可能性、2022 年についてはロシアによるウクライナ侵攻に株式市場が敏感に反応した
+可能性がある。すなわち、特殊な経済・市場環境や、景気以外の要因によって、金利から株式市
+場へのパスが歪められる余地があると言うことだ。
+そこで、改めて足元の状況を見ると、イラン情勢のほか、釜山合意（2025 年10 月に米中間で合
+意した 1 年間の貿易休戦：関税の引き下げを含めた貿易問題、中国のレアアース輸出規制強化策
+の緩和など）を僅か2 ヶ月しか延長できなかった米中関係など、景気や市場に大きな影響を及ぼ
 
-綜合損益表 
-6604綜合損益表
-單位:Mn,%,元 2024 2025H1 2025H2 2025 2026H1 2026H2E 2026E
-營業收入淨額 2,163.19 977.23 1,093.44 2,070.67 1,083.11 1,340.83 2,423.93
-毛利率 13.15% 12.83% 13.88% 13.38% 15.83% 16.10% 15.98%
-營業毛利 284.38 125.37 151.74 277.11 171.48 215.87 387.35
-營業利益率 2.36% 2.59% 4.32% 3.50% 5.51% 6.60% 6.12%
-營業利益 51.00 25.33 47.21 72.55 59.72 88.55 148.28
-營業外收入及支出 82.66 19.40 51.71 71.11 55.84 65.34 121.18
-稅前純益 133.66 44.73 98.92 143.65 115.56 153.89 269.45
-　母公司業主–稅後純益 101.13 39.13 71.00 110.13 97.55 110.80 208.35
-　普通股股本 387.31 387.31 437.31 437.31 437.31 507.31 507.31
-未稀釋EPS 2.61 1.01 1.62 2.73 2.23 2.18 4.11
-稀釋後EPS 2.61 1.01 1.62 2.73 2.23 2.18 4.11
-QoQ(%)
-營收 - - - -
-營業利益 - - - -
-歸屬於母公司-稅後純益 - - - -
-YoY(%)
-營收  - - -4.28% 10.83% 22.63% 17.06%
-營業利益 - - 42.25% 135.76% 87.56% 104.39%
-歸屬於母公司-稅後純益 - - 8.90% 149.32% 56.06% 89.19%
+しうる不透明要因は多い。これらの行方次第で金融政策の効果が市場に影響を及ぼすまでのタイ
+ムラグは変わりうるものの、利上げが進めば株価はいずれ調整を余儀なくされる可能性は高い。
+以 上
+注：中立金利はNY連銀算出の実質中立金利にBEIを足して算出
+出所：NY連銀、Datastream
+（図表4）米国の政策金利の中立金利からの乖離と株価の推移
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+5-60
+-40
+-20
+0
+20
+40
+60
+00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26
+SP500前年比（左）
+FF金利と中立金利との乖離（右、上下反転）
+（％） （％）
 
 ---
-## Document 572: 米国コアCPIが2カ月連続で予想上振れ(2026年9月) ～10月据え置きも12月追加利上げの確度高まる～
+## Document 571: 米国コアCPIが2カ月連続で予想上振れ(2026年9月) ～10月据え置きも12月追加利上げの確度高まる～
 
 Source PDF: all report pdf/米国コアCPIが2カ月連続で予想上振れ(2026年9月)  ～10月据え置きも12月追加利上げの確度高まる～.pdf
 Report source: DLRI
@@ -9429,7 +9397,7 @@ WTI期近物（左）
 (㌦/ﾊﾞﾚﾙ）
 
 ---
-## Document 573: 米国内需堅調もインフレ圧力再燃（2026年9月ISM非製造業） ～仕入価格74.0へ高止まり、FRBの高金利長期化がドル高・金利上昇要因に～
+## Document 572: 米国内需堅調もインフレ圧力再燃（2026年9月ISM非製造業） ～仕入価格74.0へ高止まり、FRBの高金利長期化がドル高・金利上昇要因に～
 
 Source PDF: all report pdf/米国内需堅調もインフレ圧力再燃（2026年9月ISM非製造業）   ～仕入価格74.0へ高止まり、FRBの高金利長期化がドル高・金利上昇要因に～.pdf
 Report source: DLRI
@@ -9874,7 +9842,7 @@ WTI期近物（左） ﾄﾞﾙ実効ﾚｰﾄ（広域ﾍﾞｰｽ、右）
 (㌦/ﾊﾞﾚﾙ）
 
 ---
-## Document 587: 統一-6945 圓祥生技-20261005
+## Document 586: 統一-6945 圓祥生技-20261005
 
 Source PDF: all report pdf/統一-6945 圓祥生技-20261005.pdf
 Report source: line報告備份
@@ -10558,72 +10526,239 @@ EBITDA -421 -430 -521 792   EBITDA N.A. N.A. N.A. 56.0
 請參見末頁重要披露及免責聲明 16
 
 ---
-## Document 641: 都区部版・消費者物価のコア指標（2026_09） ～全指標が加速～
+## Document 656: 高盛抛出“惊悚图表”：要么债市“悲观过度”，要么股市“过于乐观”，云大厂还要跌15%！
 
-Source PDF: all report pdf/都区部版・消費者物価のコア指標（2026_09） ～全指標が加速～.pdf
+Source PDF: all report pdf/高盛抛出“惊悚图表”：要么债市“悲观过度”，要么股市“过于乐观”，云大厂还要跌15%！.pdf
+Report source: WallstreetCN (Global)
+Date: 2026-10-18
+Pages: 4
+Extraction status: ok
+
+### Page 1
+
+股债背离逼近临界点！⾼盛警告：信贷市场已率先对 AI 拉响警报，相关概念股暗藏 15% 下
+⾏⻛险。随着 AI 资本⽀出触顶，折旧激增未来甚⾄将反噬美股盈利。
+摘要：
+美 国 股 市 与 信 贷 市 场 的 分 歧 正 在 ⾛ 向 临 界 点 。 ⾼ 盛 最新 报 告 显 ⽰ ， AI 超 ⼤ 规 模 云 计 算 商
+（ hyperscaler ）的信贷利差已扩张⾄年内最⾼⽔平，⽽对应股价尚未充分反映这⼀压⼒。分析
+师直⾔：要么债市 " 悲观过度 " ，要么股市还有约 15% 的下⾏空间未被消化。
+⾼ 盛 策 略 师 Louis Miller 在 最新 的 周 报 中 指 出 ， ⾼ 盛 AI 超 ⼤ 规 模 云 计 算 商 信 贷 利 差 指数
+（ GSUCHS30 ）已扩张⾄年内最宽⽔平，⽽上⼀次利差接近当前⽔平时，相关股票的价格较现
+在低约 15% 。与此同时，⾼盛更⼴泛的 AI 受益股篮⼦相对于剔除 AI 成分的标普 500 指数，已较 6
+⽉⾼点累计下跌约 25% 。
+信贷先于股票发出警报
+
+⾼盛警告， AI 超⼤规模云计算商信贷利差指数（蓝线，倒序展⽰）已升⾄年内最宽，⽽对应的股
+票篮⼦（⿊线）仅刚刚开始回落。7 ⽉上⼀次信贷利差扩张⾄接近当前⽔平时，相关股票价格较
+现在约低 15%。
+信⽤市场的压⼒并不局限于⼤型云计算商。 AI 超⼤规模云计算商信⽤违约互换（ CDS ）刚刚触
+及历史新⾼。在资本结构的更下层，情况更为严峻： 20 只垃圾评级 AI 数据中⼼债券中，有 7 只的
+还款来源依赖单⼀租⼾ CoreWeave ，⽽ CoreWeave ⾃⾝的债券已跌⾄困境级别。
+Miller 进⼀步指出，本周 AI 板块⼏乎⽆⼀幸免。⾼盛 AI 主题仪表盘显⽰， NeoClouds 五⽇跌幅达
+24.8% ，光学⽹络下跌 21.4% ，存储芯⽚下跌 16.6% 。唯⼀录得明显涨幅的主题是 "AI-at-
+Risk" （⾯临 AI 冲击的传统⾏业），上涨 3.5% 。
+AI 资本⽀出增⻓触顶，盈利贡献将逐步转负
+⾼盛对当前压⼒的核⼼解释在于资本⽀出增⻓的转折。 Miller 警告： " 整个板块利差的扩张迫使投
+
+资者直⾯⼀个问题：当 AI ⽀出增⻓放缓时，将会发⽣什么。 AI 资本⽀出很可能已经触顶，融资
+可持续性和资本回报率已取代近期盈利预期修正，成为市场辩论的核⼼。"
+⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⽣活家 搜索
+
+### Page 2
+
+据⾼盛投资研究数据，超⼤规模云计算商资本⽀出同⽐增速在 2026 年第三季度达到峰值 116% ，
+市场普遍预期此后将逐季放缓，⾄ 2027 年底降⾄约 20% 。
+这⼀趋势对标普 500 盈利的影响已有清晰测算。⾼盛估算，超⼤规模云计算商资本⽀出（扣除折
+旧后净值）对 2026 年标普 500 每股盈利增⻓贡献约 11 个百分点， 2027 年降⾄ 7 个百分点，⾄
+2028 年则因⼤量数据中⼼折旧摊销开始反噬，贡献将转为 -1 个百分点。
+换⾔之，曾经拉⾼盈利的资本⽀出，⼀旦增速放缓，将反过来成为拖累。
+市场内部指标同步发出警⽰
+AI 板块的压⼒并⾮孤⽴现象，⾼盛的 " 惊悚图表 " 在更⼴泛的市场层⾯同样显⽰出压⼒信号。
+情绪端，当周五看跌期权成交量达到 " 今年第⼆⾼，仅次于 6 ⽉ " 。
+⻛险偏好端，⾼盛 Beta 因⼦对冲组合（ GSP1BETA ）较近期⾼点下跌 15% ，⾼⻉塔周期股已跌
+破上升趋势通道。
+增⻓预期端，⾼盛周期股对防御股⽐率（ GSP1CYDE ，剔除⼤宗商品）所隐含的经济增⻓预期
+
+已降⾄约 2% ，显⽰市场对增⻓的悲观程度已超出基本⾯数据所⽀撑的⽔平。
+杠杆与持仓端，对冲基⾦持有的 Beta 敞⼝⾼于杠杆⽔平所应隐含的⽔平 —— ⻉塔调整后净敞⼝
+处于五年来的第 67 百分位，⽽净杠杆率仅处于第 17 百分位。
+Miller 同时指出，⾦融条件已 " 从⽀持增⻓的正向驱动⼒转变为负向拖累 " ，更⾼的利率和更宽的
+利差正直接冲击负债依赖型股票，⾼盛债务敏感股票篮⼦（ GSX1DEBT ）相对于⼤盘持续承
+压。
+⾼盛给出五项应对策略
+尽管发出上述警⽰， Miller 并未预判市场将全⾯崩溃。他认为， " 尽管相关性上升、持仓⽇益拥
+挤，市场仍在通过轮动⽽⾮指数层⾯的⼤幅下跌来消化压⼒ " ，并提出五项交易策略。
+⼀、做多 " 去 AI 化 " 宽基市场。
+剔除 AI 成分的标普 500 指数（ SPXXAI ）⾃ 10 ⽉ 6 ⽇以来已跑赢标普 500 达 586 个基点， AI 板块与
+其余市场之间的相关性已转为负值。Miller 认为，名义增⻓和就业数据仍具韧性，利率压制估值
+
+的效应已部分释放，⽀持轮动⽽⾮系统性下跌的逻辑延续。
+
+### Page 3
+
+⻛险提⽰及免责条款
+市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂
+中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
+⼆、做多质量因⼦，但需注意技术⾯⻛险。
+⾼盛质量因⼦对冲组合（ GSP1QUAL ）三个⽉内上涨 20% ， RSI 已超过 80 ， Miller 警告⼀旦通胀
+和利率预期缓和，存在⼤幅逆转⻛险。欧洲质量因⼦（ GSPEQUAL ）近⼀个⽉上涨 7.5% ，追赶
+势头明显。
+三、中期医疗保健交易。
+Miller 看好 ACA 受益股（ GSHLCACA ），押注⺠主党可能恢复到期的 ACA 保费税收抵免政策，以
+改善⽬前深陷坏账和⾃付费患者压⼒的医疗服务提供商的患者流量。
+四、做多巴西的⾮相关性机会。
+当 前 估 值 处 于 中 周 期 ⽔ 平 ， 外 资 参 与 度 低 于 前 次 选 举 周 期 ⾼ 峰 ， 利 率敏 感 型 国 内 股 票
+（ GSBZRATE ）持仓较轻。 Miller 看好 10 ⽉ 25 ⽇巴西决选前后的上⾏空间，市盈率有望从中⼗
+
+位数向⾼⼗位数重估。
+五、对冲中国台湾半导体敞⼝。
+Miller 指出，台积电在上调全年业绩指引并加速产能扩张之后股价仍下跌 2.3% ， " 充分说明市场
+当前买⼊ AI 强劲需求叙事的意愿 " 。对冲基⾦在中国台湾的持仓已达历史最⾼⽔平，⽽业绩表
+现 " 未能满⾜极⾼预期 " 。⾼盛亚洲团队推荐做空中国台湾半导体篮⼦（ GSXATWSM ）及中国台
+湾科技（剔除台积电）篮⼦（ GSXATTXT ）。
+
+### Page 4
+
+274 收藏 分享到 :
+写评论
+图⽚
+1 条评论
+限免
+请发表您的评论
+表情 发布评论
+愤怒的⼩熊
+2 ⼩时前 中国四川省
+1  回复
+好消息不⼀定有效，坏消息基本都有效
+
+---
+## Document 662: ＥＣＢ首脳人事の号砲 ～シュナーベル理事退任で加速する次期総裁レース～
+
+Source PDF: all report pdf/ＥＣＢ首脳人事の号砲 ～シュナーベル理事退任で加速する次期総裁レース～.pdf
 Report source: DLRI
-Date: 2026-10-02
+Date: 2026-09-25
 Pages: 3
 Extraction status: ok
 
 ### Page 1
 
-Economic Trends
+Europe Trends
 
-2026 年 10 月 2 日
+2026 年９月 25 日
 
 1/3 
-都区部版・消費者物価のコア指標（2026/09） 
-～全指標が加速～ 
- 経済調査部 主席エコノミスト  星野 卓也 
-（℡：050-5474-7497）
+ＥＣＢ首脳人事の号砲 
+～シュナーベル理事退任で加速する次期総裁レース～ 
+ 経済調査部 首席エコノミスト  田中 理 
+（℡：050-5474-7494）
 
-図表１．消費者物価のコア指標：筆者試算の都区部版、日銀試算の全国版（前年比・％）
+（要旨） 
+○ ＥＣＢのシュナーベル理事が任期途中の来年１月初旬に退任し、ＩＭＦに転出する。来年は
+チーフエコノミストを務めるレーン理事とラガルド総裁も任期満了を迎え、主要３ポストを
+一体で決める大型人事に発展する可能性がある。ラガルド氏が早期退任を否定しなくなるな
+か、後継総裁候補にはオランダ中銀前総裁のクノット氏やスペイン中銀前総裁のデコス氏ら
+の名前が挙がる。ドイツが総裁、チーフエコノミスト、シュナーベル氏の後任のどのポスト
+を狙うかが、今後の人事交渉を左右しそうだ。
 
-（注１） 日銀公表値に倣う形で、以下で各値を求めている。刈込平均値：価格品目別上昇率分布の上下10％（ウェイトベース）を除
-去して前年比を算出、加重中央値：価格品目別上昇率分布における50％近傍の値の前年比（ウェイトベース） 、最頻値：各
-品目別の価格上昇率分布から最尤法でパラメトリックに分布を推定（正規逆ガウス分布） 。得られた分布の最頻値。 
-（注２） 低変動品目CPI の作成方法は尾崎・神保・八木・吉井（2024）に倣っている。品目別CPI の標準偏差の大小で３つにグルー
-ピングを行い、標準偏差の小さいグループの上昇率を示す。 「低変動CPI_東京」については、全国版の品目グルーピングで
-都区部CPI を集計した値。 
-（注３） 都区部版における特殊要因については、日銀と同様の消費税率の変更、教育無償化政策、携帯電話通信料引き下げ、旅行支
-援策、ガソリン、電気ガス代の負担緩和策のほか、都独自の政策である水道料金無償化、保育料無償化を織り込んだ。 
-（注４） 日銀は一部品目・影響の除去を行っているが本試算では行っていない等、一部手法に異なる点がある点に留意。直近値は東
-京都区部の中旬速報値、過去値は確定値より作成。2025 年12 月まで2020 年基準、2026 年1 月～2025 年基準CPI。 
-（出所）総務省、日本銀行より第一ライフ資産運用経済研究所が作成。
+欧州中央銀行（ＥＣＢ）は24 日、シュナーベル理事が任期途中の来年１月３日付で退任し、翌
+４日付で国際通貨基金（ＩＭＦ）の金融顧問兼金融資本市場局の局長に就任することを正式に発
+表した。同ポストは９月から空席となっており、ドイツの有力紙は今月初旬、シュナーベル氏が
+ＩＭＦに転身する可能性があると報じていた。 
+ドイツの学者出身の同氏は、理事会内の政策議論をリードする論客として知られるほか、現理
+事会内で最タカ派とみられてきた。シュナーベル氏は当初、来年10 月末に任期が切れるラガルド
+総裁の後継総裁への就任に意欲をみせていた。だが、再任が禁止されているＥＣＢ理事がそのま
+ま総裁に横滑りすることには法的な疑義が指摘され、ドイツ政府も同氏を総裁候補として推すこ
+とに慎重だったと報じられてきた。後継総裁への道が狭まるなか、転身先となるＩＭＦのポスト
+は、シュナーベル氏がＥＣＢ理事として担当してきた職務（市場オペ、調査、統計）や学者とし
+て研究してきた分野（金融危機や金融規制など）とも親和性が高い。こうした事情も、来年12 月
+末の任期満了を待たずに転身する判断を後押しした可能性がある。 
+シュナーベル理事の後任は、通常の手続き通り、ユーロ圏各国が候補者を出し、ユーロ圏財務
+相会合（ユーログループ）で調整したうえで、欧州議会とＥＣＢの諮問を経て、ＥＵ首脳で構成
+される欧州理事会が特定多数決で任命する。ＥＣＢのプレスリリースによれば、来年１月３日の
+退任までに後任が決まらない場合、シュナーベル氏の担当職務を他の理事に一時的に割り振ると
+している。つまり、ＥＣＢ自身も１月３日までに後任人事が決着しない可能性を想定している。 
+ＥＣＢの総裁・副総裁・４名の理事のポストは、国別の割り当てが決まっている訳ではない
+が、これまで出身国のバランスに配慮して決められてきた（図）。ドイツ、フランス、イタリアは
 
 ### Page 2
 
 2/3 
-全指標が加速：特殊要因除く系列はいずれも＋3％程度に 
-本日公表された9 月の東京都区部CPI を用いて、日銀が全国CPI を用いて試算している 「消費者
-物価のコア指標」等に準拠する形で、①エネルギー補助金等の政策要因を除いた「特殊要因除く系
-列」 、 ②東京都区部版の刈込平均、 加重中央、 最頻値、③日銀が賃金から物価への波及度合いを分析
-する際に利用した「低変動品目CPI」について計算した。 
-計算値をみると、生鮮・特殊要因除くは8 月：＋2.6％→9 月：＋3.1％、生鮮エネ・特殊要因除
-くは 8 月：＋2.5％→9 月：＋3.0％、食料エネ特殊要因除くは 8 月：＋2.1％→9 月：＋2.8％、刈
-込平均値 （全国ウェイト換算） は8 月：＋2.0％→9 月：＋2.3％、 加重中央値 （全国ウェイト換算）
-は 8 月：＋1.8％→9 月：＋2.0％、最頻値は 8 月：＋1.4％→9 月：＋1.6％となった。また、全国
-版の低変動品目 CPI は 7 月：＋1.2％→8 月：＋1.3％、都区部では 8 月：＋1.9％→9 月：＋2.0％
-となった（以上、いずれも前年比）。 
-9 月はいずれの指標も伸び率が拡大。特に日銀が今年 3 月から公表を始め、重視しているとみら
-れる「特殊要因除く系指標」の伸び率がさらに拡大した点が目立つ。物価の基調の強まりをうかが
-わせるものであり、日銀の早期利上げを後押しする内容である。
+ＥＣＢ発足以来、常に１ポストを確保してきた。このため、ドイツはシュナーベル氏に代わる人
+物をＥＣＢの執行部に送り込むことに強い関心を持っているとみられる。
 
-図表２．試算した都区部版・基調インフレ率と日銀の全国 CPI 基調インフレ率（前年比・％）
-
-（注）図表１に同じ。 （出所）総務省、日本銀行より第一ライフ資産運用経済研究所が作成。
+ただ、今回はシュナーベル氏の後任だけを決める形とはならなそうだ。来年５月末にはチーフ
+エコノミストを務めるレーン理事（アイルランド出身）、10 月末にはラガルド総裁（フランス出
+身）の任期も満了する。シュナーベル理事の後任、レーン理事の後任、ラガルド総裁の後任の３
+ポストについて、年末までに一体的な人事案をまとめる可能性が取り沙汰されている。 
+こうした一体人事の可能性を高めているのが、ラガルド総裁の早期退任観測だ。ラガルド氏は
+以前、任期満了まで総裁を続けることを基本路線としていたが、最近では早期退任を明確に否定
+しなくなっている。７月のフランス紙のインタビューでは、状況が落ち着けば早期退任する可能
+性を排除しないかと問われ、 「それはあり得る」と回答した。今月中旬の別のフランス紙とのイン
+タビューでも、総裁任期を全うするかとの質問に、「2027 年に退任する。それ以上は言わない」と
+答えた。 
+来年１月末に自伝を発売する予定であることや、９月にはサルコジ政権でともに閣僚を務めた
+中道政治家の政治集会で演説をしたことも、早期退任観測に拍車を掛けている。ラガルド氏は大
+統領選への出馬やフランス政界への復帰を否定しているが、来春のフランス大統領選を前に「欧
+州の声」を届ける意向を表明している。ＥＣＢ総裁の立場では国内政治への積極的な関与は難し
+ラガ ルド（フランス） ？
+19/11-27/10 27/11～35/10
+デギンドス（スペイン） ブ イチッチ（クロアチア）
+18/6-26/5 26/6～34/5
+レーン（アイルランド） ？
+19/6-27/5 27/6～35/5
+シュナーベル（ドイツ） ？
+20/1-27/1 27/1～35/1
+チポローネ（イタリア）
+23/11-31/10
+エルダーソン（オランダ）
+20/12-28/12
+出所：欧州中央銀行資料より第一ライフ資産運用経済研究所が作成
+（図）欧州中央銀行の役員会メンバーと出身国
+副総裁
+理事
+理事
+理事
+理事（チーフエコノミスト）
+総裁
+2025年 2026年 2027年 2028年
 
 ### Page 3
 
+本資料は情報提供を目的として作成されたものであり、投資勧誘を目的としたものではありません。作成時点で、第一ライフ資産運用
 経済研究所が信ずるに足ると判断した情報に基づき作成していますが、その正確性、完全性に対する責任は負いません。見通しは予告
 なく変更されることがあります。また、記載された内容は、第一生命保険ないしはその関連会社の投資方針と常に整合的であるとは限
-りません。
-3/3
-（参考文献）
-星野（2023） 「東京都区部版・日銀基調的インフレ率の試算」第一生命経済研究所 Economic Trends
-星野（2024） 「日銀の「第二の力」指標を再現してみた」第一生命経済研究所 Economic Trends
-川本・中浜・法眼（2015） 「消費者物価コア指標とその特性 — 景気変動との関係を中心に —」日銀レビュー・シリーズ、
-15-J-11
-白塚（2015） 「消費者物価コア指標のパフォーマンスについて」日銀レビュー・シリーズ、15-J-12
-尾崎・神保・八木・吉井（2024） 「賃金・物価の相互連関を巡る最近の状況について」日銀レビュー 2024－J-2
+りません。 
+3/3 
+く、大統領選前の早期退任を予想する見方が消えない。 
+後継総裁の候補として現在有力紙されているのは、オランダ中銀前総裁のクノット氏、国際決
+済銀行（ＢＩＳ）の総支配人を務めるデコス氏（前スペイン中銀総裁）だ。ドイツ連銀総裁のナ
+ーゲル氏も候補の１人だが、ユーロ圏各国政府の間には、伝統的にタカ派で知られるドイツから
+総裁が誕生することへの慎重論が根強い。また、欧州委員会のフォン・デア・ライエン委員長が
+ドイツ出身のため、ＥＵの重要ポストの多くをドイツ出身者が占めることへの抵抗も指摘されて
+いる。 
+ただ、ドイツ出身総裁の可能性が完全に消えた訳ではない。フォン・デア・ライエン氏は来年
+１月に選出されるドイツ連邦大統領の後任候補の１人として名前が取り沙汰されてきた。現時点
+で同氏の転出が具体化している訳ではないが、仮に連邦大統領への転出などを通じて欧州委員長
+が他国出身者に交代することになれば、ドイツ出身者がＥＣＢ総裁に就く際の政治的な障害の一
+つが取り除かれる。その場合、ナーゲル氏が後継総裁候補として再浮上する余地も残る。 
+ドイツが総裁ポストを狙うのか、シュナーベル理事の後継ポストの確保に動くのか、金融政策
+決定で大きな影響力を持つチーフエコノミストの座を狙うのかによって、人事交渉の組み合わせ
+は大きく変わる。シュナーベル理事の後継人事を単独で決めれば、ドイツは理事ポストを確実に
+できる反面、総裁やチーフエコノミストのポストを諦めることになる。逆にシュナーベル理事の
+後任人事を急がず、他の２ポストと一体で交渉すれば、ドイツはより重要なポストを獲得する選
+択肢を残すことができる。 
+後継総裁人事には、もう１つの大国フランスの思惑も絡む。二代連続でフランス出身の総裁を
+輩出することは難しいと考えられるなか、フランスはクノット氏の総裁就任を支持する代わり
+に、金融政策の立案で重要な役割を担うチーフエコノミストの座を狙っていると報じられてい
+る。フランス政府は、フランス中銀のベナシー＝ケレ副総裁や、マクロン政権で欧州担当相を務
+めたブーン氏（金融業界出身）をチーフエコノミストの候補として検討しているとされる。来春
+の大統領選挙後に退任するマクロン大統領にとっても、自身の任期中に次期ＥＣＢの執行部人事
+に一定の影響力を及ぼすことが可能となる。 
+シュナーベル氏の突然の退任は、単なる１人の理事の交代にとどまらず、ＥＣＢ発足以来でも
+有数の大規模な高官人事の呼び水となる可能性がある。インフレ再燃への警戒からＥＣＢが金融
+引き締めを進めるなか、最タカ派の１人であるシュナーベル氏が去り、さらに総裁とチーフエコ
+ノミストが短期間に交代すれば、理事会内の政策バランスも大きく変わり得る。今後は誰がラガ
+ルド氏の後を継ぐかだけでなく、主要国が３つのポストをどのように分け合い、次期執行部がど
+のような布陣となるかが、ＥＣＢの中長期的な金融政策を占ううえで注目を集める。
+
+以 上
