@@ -3,7 +3,7 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 016: 2026-10-13_［みずほ経済ウィークリー］みずほ経済ウィークリー 10月13日_4a5cf328
+## Document 017: 2026-10-13_［みずほ経済ウィークリー］みずほ経済ウィークリー 10月13日_4a5cf328
 
 Source PDF: all report pdf/2026-10-13_［みずほ経済ウィークリー］みずほ経済ウィークリー 10月13日_4a5cf328.pdf
 Report source: Mizuho
@@ -966,7 +966,7 @@ arch/index.html
 22
 
 ---
-## Document 019: 2026-10-20_［みずほ経済ウィークリー］みずほ経済ウィークリー 10月20日_91d6bc90
+## Document 020: 2026-10-20_［みずほ経済ウィークリー］みずほ経済ウィークリー 10月20日_91d6bc90
 
 Source PDF: all report pdf/2026-10-20_［みずほ経済ウィークリー］みずほ経済ウィークリー 10月20日_91d6bc90.pdf
 Report source: Mizuho
@@ -2204,7 +2204,7 @@ arch/index.html
 29
 
 ---
-## Document 072: 2408南亞科 兆豐
+## Document 073: 2408南亞科 兆豐
 
 Source PDF: all report pdf/2408南亞科 兆豐.pdf
 Report source: line報告備份
@@ -2680,7 +2680,7 @@ A+A+A+A+
 交易所公司治理評鑑
 
 ---
-## Document 074: 2408南亞科 玉山
+## Document 075: 2408南亞科 玉山
 
 Source PDF: all report pdf/2408南亞科 玉山.pdf
 Report source: line報告備份
@@ -2864,7 +2864,7 @@ AI基礎建設投資放緩、客製化AI/WoW產品進度不如預期
 未評等：無。
 
 ---
-## Document 082: 261012_citi_TW-monthly-tracker
+## Document 083: 261012_citi_TW-monthly-tracker
 
 Source PDF: all report pdf/261012_citi_TW-monthly-tracker.pdf
 Report source: line報告備份
@@ -3799,7 +3799,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 103: 261014_gs_semicon-west
+## Document 104: 261014_gs_semicon-west
 
 Source PDF: all report pdf/261014_gs_semicon-west.pdf
 Report source: line報告備份
@@ -4167,7 +4167,7 @@ Goldman Sachs Americas Technology: SemiconductorsFor the exclusive use of KEVINL
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 127: 261019_citi_wiwynn
+## Document 128: 261019_citi_wiwynn
 
 Source PDF: all report pdf/261019_citi_wiwynn.pdf
 Report source: line報告備份
@@ -4873,7 +4873,7 @@ ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
 Prepared for Kevin Lu
 
 ---
-## Document 139: 3008大立光 第一金
+## Document 140: 3008大立光 第一金
 
 Source PDF: all report pdf/3008大立光 第一金.pdf
 Report source: line報告備份
@@ -5185,7 +5185,274 @@ YoY(%)
 10
 
 ---
-## Document 210: [402340] SK스퀘어(402340) 하이닉스 자사주 소각 이후가 더 기대SK스퀘어(402340) 하이닉스 자사주 소각 이후가 더 기대하이닉스 자사주 소각_31fbe439
+## Document 174: 6902GOGOLOOK 群益
+
+Source PDF: all report pdf/6902GOGOLOOK 群益.pdf
+Report source: line報告備份
+Date: 2026-10-18
+Pages: 20
+Extraction status: ok
+
+### Page 1
+
+陳執中
+-信任科技轉化為高效獲利模型
+Gogolook (6902 TT)
+
+### Page 2
+
+2
+詐騙已成為全球系統性風險
+資料來源：群益投顧彙整
+
+### Page 3
+
+3
+電話、簡訊皆為詐騙主要管道
+⚫ 全球
+資料來源：群益投顧彙整
+
+### Page 4
+
+4
+多國率先立法防詐
+資料來源：Gogolook、群益投顧彙整
+
+### Page 5
+
+5
+Gogolook三大事業體
+資料來源：Gogolook、群益投顧彙整
+⚫ Gogolook 是全球領先的信任科技 (TrustTech) 公司，運用自有防詐資料庫與 AI 技
+術，提供消費者防詐、企業端防詐與金融科技服務。Gogolook 擁有全球最齊全的
+通訊與數位防詐數據資料庫，涵蓋電話號碼、網址、和虛擬貨幣錢包地址等。
+
+### Page 6
+
+6
+whoscall
+⚫ whoscall 為 Gogolook 所
+開發出的個人數位防詐
+APP，全球下載量已突破
+1億次，月活躍用戶超過
+1,800萬，主要服務市場
+涵蓋台灣、泰國、日本、
+韓國、香港、巴西、馬
+來西亞、菲律賓等。
+資料來源：Gogolook、群益投顧彙整
+
+### Page 7
+
+7
+whoscall海外市場持續擴張
+⚫ whoscall海外市場擴張成效卓越，海外營收占比於2025年已突破63%。泰國為
+Gogolook最大的海外市場，其用戶規模、營收貢獻已超越台灣，但仍具備很大的
+成長空間；公司於曼谷擁有龐大用戶基礎，目前正進軍泰國二、三線城市。菲律
+賓與馬來西亞等地已具備百萬等級的活躍用戶，後續成長可期。
+⚫ Gogolook於09/2026已正式和泰國政府退休基金(Government Pension Fund，GPF)簽
+署MOU，並與國家跨行交易管理與交換公司(National ITMX)及泰國存款保障機構
+(Deposit Protection Agency，DPA)合作，將whoscall防詐服務導入GPF體系，涵蓋
+退休人員及現職公務員(超過120萬名會員)。此合作有助於同步推廣泰國當地B2C、
+B2B業務。
+⚫ 為了有效控制獲客成本，Gogolook在海外減少依賴成效較低的數位廣告，轉而與
+當地政府、銀行及電信商合作。此外，考量到東南亞信用卡普及率較低，
+
+Gogolook在泰國率先推出的「電信帳單扣款」訂閱模式大獲成功，目前此模式也
+與台灣遠傳電信合作，藉此攻佔中高年齡層客群。
+
+### Page 8
+
+8
+whoscall海外市場持續擴張
+⚫ 針對品牌偏好較強或市場規模較小的國家(如日本與新加坡)，則透過白牌授權策略，
+協助當地業者開發自有防詐App並從中分潤。
+⚫ whoscall於02/2026~05/2026與日本Rakuten Mobile進行合作，推出「騷擾電話・簡
+訊防護」活動，提供申請用戶免費試用，目前開始有試用用戶轉為付費訂閱，有
+望挹注2H26日本市場消費者防詐業務成長動能。
+資料來源：群益投顧彙整
+
+### Page 9
+
+9
+whoscall海外市場持續擴張
+資料來源：群益投顧彙整
+穩定貢獻營收
+貼牌合作、自有
+品牌雙軸並進。
+貼牌合作策略。
+曼谷已站穩根基，
+目前進軍二、三線
+城市，並擴大與泰
+國政府合作。主要
+成長動能來源。
+已具備百萬用戶
+基礎，為後續重
+點發展國家。
+
+### Page 10
+
+10
+Gogolook收購ScamAdviser
+⚫ 企業端防詐方面，由於各國法規有加重企業防詐責任的趨勢，Gogolook將此業務
+視為長期成長動能潛力來源。Gogolook於2024年收購具備超過6,000萬筆網域資料
+庫的ScamAdviser後，成功拓展歐美市場。儘管2025年因主動調整部分低毛利率業
+務，導致ScamAdviser營收下滑，但其實質獲利反而增加。
+資料來源：Gogolook、群益投顧彙整
+⚫ ScamAdviser成立於荷蘭阿姆斯
+特丹，為全球防詐聯盟GASA
+基石成員。ScamAdviser以AI演
+算法與資料庫為基礎，開發自
+有的網站風險評級技術，與
+Gogolook的企業防詐解決方案
+與電話號碼資料庫整合，為全
+球最完整的通訊與數位防詐數
+據資料庫。
+
+### Page 11
+
+11
+Gogolook企業端防詐服務
+⚫ 企業端服務主要分為「資料庫授權」與「商譽保護」兩大主軸：(1) 防詐情資方案，
+為一種資料庫授權模式，將whoscall的「電話/簡訊」資料庫以及ScamAdviser的
+「網域」資料庫，透過API、SDK方式授權給企業。(2) 商譽保護服務，企業的外
+部防詐監控中心，協助企業或政府主動在網路上巡邏，偵測並下架冒用其品牌的
+假投資廣告、假粉專或釣魚網站。
+資料來源：Gogolook、群益投顧彙整
+
+### Page 12
+
+12
+Agent looker
+⚫ 因應Agentic AI時代來臨，Gogolook於09/2026推出新產品Agent looker，工作原理
+是在AI agent實際造訪或讀取網頁前，即時進行風險檢測並攔截惡意請求，可有效
+避免AI agent被詐騙的風險。
+⚫ 核心防護機制與功能：(1)毫秒級即時掃描，當AI Agent讀取外部網頁或執行URL
+請求時，Agent Looker會在毫秒內對網頁封包與內容進行深度檢查，攔截惡意腳本、
+釣魚網站以及針對 AI 模型的提示詞注入(Prompt Injection)攻擊。(2)Gogolook威脅
+情資資料庫驅動。系統底層串接 Gogolook 累積多年的全球防詐騙、釣魚網站與風
+險網域黑名單。基於海量真實風險樣本的數據庫，使其能快速且精準地辨識異常
+行為。(3)活動稽核日誌。提供視覺化的管理儀表板，完整記錄AI Agent的所有外
+部網路互動軌跡，包含造訪過的網址、讀取的網頁片段及最終的安全判定結果，
+確保AI運作透明且可追溯。
+⚫ Agent looker目前處於封閉測試(Private Beta)階段。
+
+資料來源：Gogolook、群益投顧彙整
+
+### Page 13
+
+13
+金融科技-袋鼠金融
+⚫ 金融科技為Gogolook於疫情期間因應線上詐騙激增而開創的新業務，包含全台灣
+流量最大的金融媒合平台「袋鼠金融Roo.Cash」，以及專攻小額借款的「JUJI招財
+麻吉」。袋鼠金融 Roo.Cash與國內金融機構合作，提供200件以上的金融商品方案
+智慧比較與媒合。智能問答服務「Roo AI」，可協助用戶在信用卡、貸款、保險、
+投資理財與民生優惠資訊中，快速找到最適合的選項。若順利成交，Gogolook即
+可藉此獲得媒合收入。
+資料來源：Gogolook、群益投顧彙整
+
+### Page 14
+
+14
+金融科技-JUJI招財麻吉
+⚫ JUJI招財麻吉鎖定10萬元以下、傳統銀行不願承作的利基市場，自行舉辦機車貸
+款、手機貸款等業務。該業務最核心的優勢在於將whoscall的通話行為數據轉化為
+AI風控模型，不僅可嚴格控制核貸率，更將90天延滯率壓在極低水準。目前JUJI
+招財麻吉應收分期款餘額持續增加，公司同時也把純風控模型顧問服務輸出至海
+外市場，進一步擴大變現能力，2Q26已成功在泰國市場簽訂首批企業訂單。
+資料來源：Gogolook、群益投顧彙整
+
+### Page 15
+
+15
+Gogolook營運策略
+資料來源：群益投顧彙整
+
+### Page 16
+
+16
+Gogolook營收續增，毛利率維持高檔
+⚫ 隨著消費者防詐、企業端防詐、金融科技三大事業皆穩定增長，預估營收呈現穩
+定增長趨勢。觀察重點：whoscall於各國推展進度、企業對於agent looker接受度、
+招財麻吉貸放額度及壞帳率變化、AI風控模型專案。
+⚫ 毛利率有望穩定落於88~90%。
+資料來源：群益投顧彙整
+
+### Page 17
+
+17
+Gogolook營業費用控管得宜
+⚫ 低成本合作取量：減少高成本數位廣告，擴大與政府單位、電信商、銀行合作，
+低成本觸及海外客戶。
+⚫ AI優化營運效率：利用AI提升工程與內部效率，人力控管但產出持續提升。
+⚫ 費用率逐步下滑：隨著營收規模提升，費用控管得宜，2024年營業費用率96.78%，
+2025年營業費用率82.29%，預估2026年營業費用率69.21%。
+資料來源：群益投顧彙整
+
+### Page 18
+
+18
+營運突破關鍵規模，獲利顯著增長
+資料來源：群益投顧彙整
+⚫ 由於毛利率接近90%，營業費用控管得宜，隨著營收於4Q25突破關鍵規模點後，
+獲利表現開始明顯跳升。由於2026年獲利表現優於預期，過往累積虧損大致抵減
+完畢，2027年稅率將回升至常態水準，但可有望開始發放現金股利。
+
+### Page 19
+
+19
+GOGOLOOK
+(6902 TT) :
+資料來源：群益投顧彙整
+⚫ Gogolook(6902 TT) 營 運 突 破 關 鍵 規 模，
+4Q25獲利已明顯攀升 ，帶動2025年營運轉
+虧為盈 ，1Q26獲利表現則優於 2025全年表
+現。隨著消費者防詐、企業端防詐、金融科
+技服務同步擴張，預估2026年獲利將呈現爆
+發式增長，且成長動能延續至2027年。
+註：稅後純益係指本期淨利歸屬於母公司業主；EPS預估值以股本3.55億元計算。
+Deskto
+p 19%
+NB 16%
+S&M
+20%
+Others
+2%
+TV 43%
+單位：百萬元 2026F 2027F 2028F 3Q25 4Q25 1Q26 2Q26 3Q26F 4Q26F 1Q27F 2Q27F 3Q27F
+營業收入淨額 1,308 1,560 1,844 267 301 303 310 336 360 361 366 391
+營業毛利淨額 1,165 1,382 1,634 235 267 270 277 297 320 320 324 346
+
+營業利益 260 447 658 4 37 55 64 66 75 99 98 112
+稅後純益 255 363 532 7 46 58 60 64 73 81 80 91
+稅後EPS(元) 7.19 10.24 14.99 0.20 1.30 1.63 1.68 1.81 2.07 2.27 2.25 2.56
+毛利率(%) 89.06% 88.61% 88.63% 88.18% 88.90% 89.08% 89.60% 88.60% 89.01% 88.61% 88.40% 88.48%
+營業利益率(%) 19.85% 28.65% 35.67% 1.46% 12.31% 18.10% 20.58% 19.57% 20.95% 27.40% 26.79% 28.57%
+稅後純益率(%) 19.50% 23.30% 28.86% 2.63% 15.36% 19.14% 19.25% 19.11% 20.39% 22.33% 21.83% 23.23%
+營業收入YoY/QoQ(%) 24.80% 19.26% 18.19% 10.68% 12.62% 0.83% 2.18% 8.36% 7.17% 0.30% 1.55% 6.85%
+
+稅後純益YoY/QoQ(%) 373.76% 42.48% 46.40% N.A 556.82% 25.69% 2.73% 7.60% 14.34% 9.84% -0.70% 13.68%
+Strong
+Buy 目標價300元
+產品組合
+群益投顧
+
+### Page 20
+
+買進(Buy) 15%≤首次評等潛在上漲空間<35%
+區間操作(Trading Buy) 5%≤首次評等潛在上漲空間<15%
+中立(Neutral) 無法由基本面給予投資評等
+預期近期股價將處於盤整
+建議降低持股
+免責聲明
+本研究報告僅提供予特定人之客戶作為參考資料「非經同意不得轉載」。我們並不確保此資訊
+的完整性與正確性，投資人應了解，報告中有關未來預測之陳述可能不會實現，因而不應被依
+賴。而且此報告並非根據特定投資目的或依預定對象之財務狀況所撰寫出來的，因此，此研究
+報告的目的，既非對投資人於買賣證券、選擇權、期貨或其他證券相關之衍生性商品提供詢價
+服務，亦非作為進行交易的要約。投資人應注意到相關證券之價值及收益，可能會有無預警地
+上升或下降，產生投資回報金額可能比原始投資來得少的情形。
+
+---
+## Document 212: [402340] SK스퀘어(402340) 하이닉스 자사주 소각 이후가 더 기대SK스퀘어(402340) 하이닉스 자사주 소각 이후가 더 기대하이닉스 자사주 소각_31fbe439
 
 Source PDF: all report pdf/[402340] SK스퀘어(402340) 하이닉스 자사주 소각 이후가 더 기대SK스퀘어(402340) 하이닉스 자사주 소각 이후가 더 기대하이닉스 자사주 소각_31fbe439.pdf
 Report source: Hankyung
@@ -5578,7 +5845,7 @@ SK 증권 유니버스 투자등급 비율 (2026년 09 월 30 일 기준)  매�
 SK스퀘어 수정TP(원)
 
 ---
-## Document 263: De-reservification, Not De-dollarization (2026-09-15)
+## Document 265: De-reservification, Not De-dollarization (2026-09-15)
 
 Source PDF: all report pdf/De-reservification, Not De-dollarization (2026-09-15).pdf
 Report source: CFR (Follow the Money)
@@ -5955,25 +6222,25 @@ September 3, 2026
 email@example.com Subscribe
 
 ---
-## Document 272: ECONOMIC WEEK AHEAD_ October 26-30
+## Document 273: ECONOMIC WEEK AHEAD_ October 19 - 23
 
-Source PDF: all report pdf/ECONOMIC WEEK AHEAD_ October 26-30.pdf
+Source PDF: all report pdf/ECONOMIC WEEK AHEAD_ October 19 - 23.pdf
 Report source: researchmail轉寄
-Date: 2026-10-25
-Pages: 8
+Date: 2026-10-18
+Pages: 7
 Extraction status: ok
 
 ### Page 1
 
 From:    Yardeni QuickTakes <yardeni-research@ghost.io>
-Subject: ECONOMIC WEEK AHEAD: October 26-30
-Date:    39 minutes ago
-ECONOMIC WEEK AHEAD: October 26-30
+Subject: ECONOMIC WEEK AHEAD: October 19 - 23
+Date:    1 hour ago
+ECONOMIC WEEK AHEAD: October 19 - 23
 
 YARDENI QUICKTAKES
 ECONOMIC WEEK AHEAD:
-October 26-30
-By Ed Yardeni & Toby Hearst • 24 Oct 2026
+October 19 - 23
+By Ed Yardeni & Toby Hearst • 18 Oct 2026
 View in browser
 
 ### Page 2
@@ -5982,104 +6249,331 @@ Photo by Monica Sauro / Unsplash
 
 ### Page 3
 
-The S&P 500 fell 0.5% last week, and the Nasdaq dropped 0.7%, both
-posting second straight weekly losses. The Nasdaq’s 2.9% slide on
-Thursday was its biggest one-day drop since June, as concerns flared
-over the cost and availability of financial capital for AI investment. The
-price of WTI crude topped $100 a barrel amid US-Iran conflict concerns,
-while the 10-year Treasury yield fell to 5.0%.
-The FOMC meeting (Wed) is the focus this week, alongside the release of
+Last week’s inflation reports came in hot. September’s CPI rose 0.6%
+m/m, lifting headline inflation from 3.4% y/y in August to 3.7%. Core CPI
+rose 0.3% m/m, taking its y/y rate from 2.4% to 2.6%. Both topped
+expectations. PPI final demand jumped 1.3% m/m. That pushed its y/y
+rate to 6.3%, the highest since 2022. Retail sales rose 0.8% m/m, though
+just 0.2% excluding gas stations.
+Odds of a 25bps hike at the October 27-28 FOMC meeting fell from 22%
 
-Q3 GDP and September's PCED inflation report (Thu). San Francisco Fed
-President Mary Daly and St. Louis Fed President Alberto Musalem speak
-on Friday. A heavy week of Q3 earnings reports rounds out a packed
-calendar. Here’s more:
-(1) FOMC. The FOMC’s two-day meeting concludes Wednesday, followed
-by Fed Chair Kevin Warsh’s press conference. The CME FedWatch Tool
-puts the odds of a hike this week at 9% and the odds of one in December
-at 84%. Federal funds futures imply 2.7 rate hikes over the next 12
+before the CPI report to 17%, despite the hot inflation data. Fed Chair
+Kevin Warsh offered no signal on October's meeting at the IMF and World
+Bank annual meetings in Bangkok on Friday. “I don’t prejudge meetings,”
+he said. Odds of a December hike rose. We still expect the Fed to reverse
+the remaining two of last year’s three 25bps “insurance” cuts. Fed officials
+are now in their pre-meeting blackout period.
+This week’s data calendar is light, with earnings season taking center
 
-months and 1.4 over the next six (chart). We believe the committee should
-hike on Wednesday but won't because the midterm elections are so close.
+stage. Friday’s flash PMIs are the main US releases. The Fed’s Financial
+Stability Report and Canada’s federal budget are tentatively due Tuesday.
+Here’s more:
+(1) ADP & Unemployment Claims. ADP’s weekly employment reading
+(Tue) follows a rise in the four-week average to 24,750 for the week ended
+September 26, the highest since early June and up from a late-July
+bottom of 8,250 (chart).
+Initial jobless claims (Thu) follow last week’s 199,000, with the four-week
+
+average at 198,500 (chart). Continuing claims fell to 1,710,000 for the
 
 ### Page 4
 
-(2) GDP & PCED. The first estimate of Q3 GDP (Thu) follows Q2’s third
-estimate of 2.2% saar, with the GDP price index up 6.1%. The Atlanta
-Fed’s GDPNow model estimates Q3 growth at 3.5% as of October 20, led
-by a 17.8% jump in business equipment spending (chart).
-September’s core PCED (Thu) follows August’s 3.0% y/y. That was well
-below September’s 4.6% pace of core PPI final demand for personal
-consumption and above the core CPI’s 2.6% (chart). The Cleveland Fed’s
+week ended October 2, matching their four-week average. The labor
+market continues to improve.
+(2) Flash PMIs. S&P Global’s flash M-PMI and NM-PMI for October (Fri)
+follow September readings of 55.9 and 58.8 (chart). The services prices
+component is worth watching after ISM’s NM-PMI prices-paid index
+jumped to 70.7 in September, the highest since July 2022.
+Flash PMIs for Australia and Japan (Thu) and for the Eurozone, Germany,
+France, and the UK (Fri) also land this week. September’s M-PMIs were
 
-Inflation Nowcasting model projects September’s core and headline PCED
-at 3.1% and 3.6% y/y, up from August’s 3.0% and 3.4%. (The model’s
-m/m rates are 0.28% and 0.47%.)
-CPI computer software and accessories rose 28.4% y/y in September and
-PPI electronic components 26.8%, while PCED computers and peripheral
+52.9 for the Eurozone and 52.1 for the UK.
+(3) Earnings. The earnings reporting season picks up this week. Netflix,
+GE Aerospace, and Northrop Grumman report on Tuesday. Tesla and
+Meta, the first of the Magnificent-7 to report, follow on Wednesday along
 
 ### Page 5
 
-equipment rose just 8.4% in August. September’s PCED will show
-whether that gap starts to close.
-(3) ADP & unemployment claims. ADP’s weekly employment reading
-(Tue) follows a drop in the four-week average to 18,500 for the week
-ended October 3, down from 26,000 the prior week (chart). That’s still
-more than double July’s low of 8,250, pointing to a solid October payrolls
-report.
-Initial jobless claims (Thu) follow last week’s 194,000, below expectations
+with Lam Research, IBM, and Texas Instruments. Spotify, Bloom Energy,
+Western Digital, Lockheed Martin, and Blackstone report on Thursday.
+ASML and TSMC posted record Q3 results last week. ASML’s net sales
+rose to €11.7 billion from €9.3 billion in Q2, with the gross margin up to
+57.5% from 54.0%. TSMC’s revenue jumped 50.9% y/y. Analysts’
+consensus estimates imply Q3-2026 operating EPS growth for S&P 500
+companies of 24.0% y/y (chart).
+(4) Global. China’s Q3 GDP (Mon) follows Q2’s 4.3% y/y growth (chart).
 
-and near the lowest level since the late 1960s. The four-week average
-stands at 197,800 (chart). Continuing claims rose to 1,728,000 for the
-week ended October 9, up from 1,710,000, while their four-week average
-edged down to 1,708,000.
+We expect a moderate pickup in activity. China’s unemployment rate for
+September is also due, following August’s 5.2% rate.
+UK CPI (Wed) for September follows August’s 3.1% y/y headline and
+2.6% core (chart). Rising energy and input costs point to a further pickup,
 
 ### Page 6
 
-(4) Regional business surveys. The Richmond Fed’s manufacturing
-index (Tue) follows September’s -2 reading. The regional M-PMI business
-activity index slipped to 13.4 in September from August’s 18.7, while the
-national M-PMI eased to 54.5 from 54.6 (chart).
-(5) Earnings. The earnings reporting season heats up this week, with
-36% of the S&P 500 companies set to report. Boeing, Seagate, and
-Corning report on Tuesday. Alphabet, Microsoft, SK Hynix, and GE
-
-Vernova follow on Wednesday. Samsung, Intel, Eli Lilly, SanDisk, and
-Amazon report on Thursday. Exxon Mobil reports on Friday.
-Analysts’ consensus estimates imply Q3-2026 operating EPS growth for
-S&P 500 companies of 24.1% y/y, slightly up from last week (chart). Q4
-estimates have also risen.
-
-### Page 7
-
-(6) Global central banks. Both the Reserve Bank of New Zealand and
-the Bank of Canada (Wed) are expected to hike by 25bps. The markets
-are pricing in 88% odds that the RBNZ will lift its official cash rate to
-3.00% and an 85% chance that the BOC will raise its policy rate to 2.50%.
-The European Central Bank (Thu) and the Bank of Japan (Fri) are set to
-hold their policy rates at 2.50% and 1.25%, respectively (chart).
-December is the focus for the latter pair. The markets are pricing in 75%
-
-odds of an ECB hike in December and a 74% probability of a BOJ hike.
-Guidance from ECB President Christine Lagarde and BOJ Governor
-Kazuo Ueda will show whether those odds hold.
+with the input PPI up 8.2% y/y in Q2. Bank of England Governor Andrew
+Bailey speaks later that day. UK labor market data (Tue) and PPI (Wed)
+are also due.
+Canada’s CPI (Mon) for September follows August’s 3.0% y/y headline
+and 2.3% core (chart).
 💡
 Join the discussion with Ed below! To leave comments or questions,
 log in to the Yardeni QuickTakes website and post them at the end
 of the QuickTakes article. Paid members' contributions may be
 featured in our segment, "Ed Answers Your Questions".
-More like this
-Less like this
 
-Comment
-
-### Page 8
+### Page 7
 
 clause.
 Yardeni QuickTakes © 2026 – Unsubscribe
 
 ---
-## Document 366: The Week Ahead_ Forecasts, data preview, central bank watch (2026-10-23)
+## Document 281: Eurozone_ Amid rising inflation, the business climate remains resilient, but consumer confidence falls back (2026-10-02)
+
+Source PDF: all report pdf/Eurozone_ Amid rising inflation, the business climate remains resilient, but consumer confidence falls back (2026-10-02).pdf
+Report source: BNP Paribas
+Date: 2026-10-02
+Pages: 1
+Extraction status: ok
+
+### Page 1
+
+September 2026: Marked improvement in
+services business confidence
+September 2026: Business climate in the
+manufacturing sector comfortably in the
+expansion zone for the 8th month in a row
+September 2026: Strengthening inflationary
+pressures
+September 2026: Slight further increase in
+supply tensions
+September 2026: First decrease in 5 months of
+household confidence
+September 2026: Marked increase in inflation,
+to a 3-year high
+Eurozone: Amid rising inflation, the business climate remains resilient, but consumer
+
+confidence falls back
+02/10/2026 3
+We have selected two inflation measures (with and without energy) and six survey indicators: 1/ & 2/ business confidence, as
+measured by the PMIs in the manufacturing and services sectors; 3/ & 4/ input and output prices components of the
+composite PMI (in order to identify direct inflationary pressures); 5/ the suppliers’ delivery times component of the
+manufacturing PMI (a direct indicator of possible supply difficulties and supply-demand imbalance, and therefore, indirectly,
+
+of inflationary pressures in the making); and 6/ consumer confidence (measured by the “assessment of financial situation in
+the next 12 months” in order to capture the impact of inflation on purchasing power). The trends in each of these indicators
+are observed relative to month m=0, corresponding to the start of the conflict. Each line does not represent the level of the
+indicator, but its cumulative variation compared to month m=0.
+The overall picture from the confidence surveys available for September is globally positive. According to the PMIs, the
+
+business climate in services has indeed seen a clear improvement, and that in the manufacturing sector remains comfortably
+in expansion territory for the 8 th month in a row. However, consumer confidence has recorded its first decline in 5 months,
+likely driven by rising inflation and concerns over purchasing power. News on the inflation front is negative. PMI surveys
+report a strengthening of inflationary pressures: this trend is not a surprise given the tensions in energy prices, but it is
+
+nonetheless significant. As for inflation itself, it continues to rise, more markedly in September: +0.6 percentage points, to
+3.8% year-on-year (Eurostat flash estimate), of which 0.4 pp du to the higher energy contribution. Inflation excluding energy
+increased as well, by 0.2 pp to 2.3% (of which 0.1 pp due to the rise in food inflation).
+Source: S&P Global, Eurostat, European Commission, Macrobond, BNP Paribas
+ECONOMIC RESEARCH
+Change since m = 0 = February 2026 / February 2022.
+
+Unit: inflation change in percentage point, point for confidence surveys.
+Eurozone: Inflation (incl. & excl. Energy)
+Eurozone: Manufacturing PMI
+Eurozone: Manufacturing PMI — Suppliers'
+delivery times
+Eurozone: Consumer confidence
+Financial situation over the next 12 months
+Eurozone: Composite PMI — Input and output prices
+Eurozone: Services PMI
+
+---
+## Document 334: NZドル相場の行方を左右する総選挙とRBNZの政策運営 ～インフレ圧力は根強い一方、政権交代に伴う政策枠組みの変更が不透明要因に～
+
+Source PDF: all report pdf/NZドル相場の行方を左右する総選挙とRBNZの政策運営 ～インフレ圧力は根強い一方、政権交代に伴う政策枠組みの変更が不透明要因に～.pdf
+Report source: DLRI
+Date: 2026-10-22
+Pages: 3
+Extraction status: ok
+
+### Page 1
+
+Asia Trends
+
+2026 年10 月 22 日
+
+1/3 
+NZ ドル相場の行方を左右する総選挙と RBNZ の政策運営 
+～インフレ圧力は根強い一方、政権交代に伴う政策枠組みの変更が不透明要因に～ 
+ 経済調査部 主席エコノミスト  西濵 徹 
+（℡：050-5474-7495）
+
+（要旨） 
+○ ニュージーランドでは、インフレ高進を背景に RBNZ が９月に２会合連続の利上げを実施し
+たものの、11 月７日の総選挙を巡る不透明感がＮＺドル相場の重しとなってきた。 新興政党
+のオポチュニティ党が連立協議のカギを握る可能性が高まっているうえ、仮に左派・労働党
+を中心とする政権への交代が実現すれば、RBNZ の政策目標に雇用の最大化が再び加えられる
+と見込まれる。そのため、追加利上げのハードルが高まる可能性が意識されている。 
+○ ７-９月のインフレ率は前年比＋3.7％と鈍化し、市場予想も下回ったものの、引き続き目標
+レンジを上回っている。エネルギーや食料品を中心にインフレ圧力が後退する一方、サービ
+ス物価には上昇圧力が広がる兆しがうかがえる。さらに、原油価格の高止まりや干ばつによ
+る食料インフレの懸念も残る。金融市場では早期利上げ観測がくすぶるものの、今回の物価
+統計を受けて見方が修正される可能性もあり、先行きのＮＺドル相場は総選挙の結果と、そ
+の後のRBNZ の政策枠組みに関する議論に左右される展開が予想される。
+
+【RBNZは追加利上げ実施も、総選挙を巡る不透明感がNZドル相場の重しとなる展開が続いた】 
+ニュージーランドでは、RBNZ（ニュージーランド準備銀行）が９月の定例理事会において２会合
+連続の利上げを決定した （注１） 。 背景には、2025 年以降のインフレ率が加速してRBNZ の定める目
+標レンジ（１～３％）の上限を上回る伸びで推移していることがある。さらに、イラン情勢の悪化
+による原油価格の上昇がエネルギーインフレを招き、４-６月のインフレ率は前年比＋4.1％と2023
+年 10-12 月以来の高い伸びとなった。こうした事情は、RBNZ の断続的な利上げ実施を後押ししたと
+考えられる。 
+一方、通貨ＮＺドル相場は上値の重い展開をみせてきた。同国では、11 月７日に議会（代議院：
+一院制 （総議席数120） ） の総選挙の実施が予定されており、選挙結果を巡る不透明感が影響してい
+るとみられる。世論調査によれば、右派の国民党、ないし左派の労働党を中心とする連立政権がい
+ずれも多数派を形成できず、新興政党・オポチュニティ党がキャスティングボートを握る可能性が
+
+注１ ９月２日付レポート「RBNZ は緩やかな引き締め示唆､NZ ドル相場の行方はどうなる？」 
+  （https://www.dlri.co.jp/report/macro/654752.html）
+
+### Page 2
+
+2/3 
+浮上している（注２） 。 同党は、都市部で年間1.75％、 農村部で0.5％の土地税を新設し、 それを財
+源の一部に原則18 歳以上の国民に年間1.94 万ＮＺドルのベーシックインカム （ＢＩ） に相当する
+「市民所得」を支給する税制改正を公約に掲げる。国民党、労働党ともに同党が掲げる税制改正案
+の採用を否定しており、実現のハードルは高い。しかし、それ以外の政策の方向性については、左
+派陣営と比較的親和性が高いとみられるため、選挙後に行われる連立協議の行方が注目される。 
+こうしたなか、政治的な争点のひとつにRBNZ（ニュージーランド準備銀行）の政策運営が浮上し
+ていることも注目される。労働党を中心
+とする左派陣営 は、RBNZ のマンデート
+（政策目標）の変更を公約に掲げてお
+り、仮に政権交代が実現すれば、持続可
+能な雇用の最大化が再び加えられると
+見込まれる。足元の雇用環境は、直近４
+-６月の失業率が10 年ぶりの高水準とな
+ったことが確認されている（図１）。この
+ため、RBNZ のブレマン総裁は９月会合後
+の記者会見において、選挙結果は政策決
+定に影響しないとの見方を示したもの
+の、追加利上げのハードルが高まることは避けられない。こうした事情も、ＮＺドル相場の重しに
+なってきたと考えられる。
+
+【金融市場はRBNZの早期利上げを意識するも、NZドル相場の行方は総選挙の結果がカギを握る】 
+このため、金融市場においては、RBNZ
+の政策運営を占ううえで 物価動向に注
+目が集まった。７-９月の消費者物価は
+前年比＋ 3.7％に伸びが鈍化したもの
+の、 ５四半期連続で目標レンジを上回る
+推移となった（図２）。ただし、 この水準
+は RBNZ が９月会合に際して示した見通
+し（前年比＋3.9％）を下回るとともに、
+事前の市場予想をも下回る伸びにとど
+まった。前期比も＋0.66％と前期 （同＋
+1.49％）から上昇ペースが鈍化してお
+り、 原油価格の上昇一服を受けてガソリンなどエネルギー価格が下落したほか、 生鮮品をはじめと
+
+注２ 10 月１日付レポート「ニュージーランド総選挙は新興政党がカギを握る、NZ ドル相場は？」 
+  （https://www.dlri.co.jp/report/macro/666203.html） 
+図 1 雇用環境の推移
+
+（出所）CEIC より第一ライフ資産運用経済研究所作成 
+3.0
+3.5
+4.0
+4.5
+5.0
+5.5
+6.0
+6.5
+7.0-6
+-3
+0
+3
+6
+9
+12
+15
+08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26
+(%)(万人) 就業者数前年比 失業率(右)
+図 2 インフレ率の推移
+
+（出所）LSEG より第一ライフ資産運用経済研究所作成 
+-1
+0
+1
+2
+3
+4
+5
+6
+7
+8
+90 92 94 96 98 00 02 04 06 08 10 12 14 16 18 20 22 24 26
+(%)
+※灰色部分はインフレ目標
+インフレ目標(中央値) インフレ率 コアインフレ率
+
+### Page 3
+
+本資料は情報提供を目的として作成されたものであり、投資勧誘を目的としたものではありません。作成時点で、第一ライフ資産運用
+経済研究所が信ずるに足ると判断した情報に基づき作成していますが、その正確性、完全性に対する責任は負いません。見通しは予告
+なく変更されることがあります。また、記載された内容は、第一生命保険ないしはその関連会社の投資方針と常に整合的であるとは限
+りません。 
+3/3 
+する食料品価格の上昇ペースが鈍化しており、 生活必需品を中心にインフレ圧力は後退した。一方
+で、食料品やエネルギーを除いたコアインフレ率は前年比＋2.9％と前期（同＋2.6％）から伸びが
+加速したものの、 引き続き目標レンジ内で推移している。 とはいえ、 前期比は＋1.1％と前期 （同＋
+0.4％） から上昇ペースが加速しており、 財価格は比較的落ち着いた動きをみせる一方、 サービス物
+価で幅広く上昇圧力が強まる動きが確認されるなど、 インフレ圧力が徐々に広がりをみせる兆しも
+うかがえる。 
+足元では、 イラン情勢を巡る不透明感を理由に原油価格は高止まりしており、 先行きもエネルギ
+ーインフレが長引く可能性が高まっている。さらに、エルニーニョ現象の発生を受けて、同国では
+東部や北部を中心に、乾燥・干ばつによる農業生産への悪影響が懸念されており、食料インフレや
+景気の下押しが懸念される状況にある。 
+総選挙においてはインフレも主要な争
+点となっており、早期のインフレ抑制に
+向けて、RBNZ が前倒しで利上げに動くと
+の見方も金融市場に出ており、このとこ
+ろの ＮＺドル相場が持ち直 す一因とな
+ってきた可能性がある （図３） 。今回の物
+価統計が市場予想を下回ったこと を受
+けて、 早期利上げ観測が修正される可能
+性もある。先行きのＮＺドル相場の行方
+を巡っては、総選挙の結果と、その後の
+RBNZ の政策枠組みに関する議論に左右
+される可能性にも注意が必要と考えられる。 
+以 上 
+図 3 NZ ドル相場(対米ドル､日本円)の推移
+
+（出所）LSEG より第一ライフ資産運用経済研究所作成 
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+0.55
+0.56
+0.57
+0.58
+0.59
+0.60
+0.61
+25/10 26/1 26/4 26/7 26/10
+(NZドル/円)対米ドル 対日本円（右）(NZドル/米ドル)
+NZドル高↑
+NZドル安↓
+
+---
+## Document 370: The Week Ahead_ Forecasts, data preview, central bank watch (2026-10-23)
 
 Source PDF: all report pdf/The Week Ahead_ Forecasts, data preview, central bank watch (2026-10-23).pdf
 Report source: DBS
@@ -6599,129 +7093,7 @@ DBS Bank (Hong Kong) Limited, a company incorporated in Hong Kong with limited l
 Center, 99 Queen’s Road Central, Central, Hong Kong SAR.
 
 ---
-## Document 395: What Will Warsh Do_
-
-Source PDF: all report pdf/What Will Warsh Do_.pdf
-Report source: researchmail轉寄
-Date: 2026-10-21
-Pages: 6
-Extraction status: ok
-
-### Page 1
-
-From:    Yardeni QuickTakes <yardeni-research@ghost.io>
-Subject: What Will Warsh Do?
-Date:    5 hours ago
-What Will Warsh Do?
-
-YARDENI QUICKTAKES
-What Will Warsh Do?
-By Ed Yardeni & Elias Griepentrog • 20 Oct 2026
-View in browser
-Photo by Olav Ahrens Røtne / Unsplash
-
-I. The Fed: To Hike or Not To Hike?
-The Federal Reserve announces its next interest-rate decision on
-Wednesday, October 28. According to CME FedWatch, the federal funds
-futures market assigns an 84% probability to a pause. The market expects
-a 25bps hike in December and roughly 50bps of tightening over the next
-six months (chart).
-
-### Page 2
-
-The two-year Treasury yield remains roughly 90bps above the federal
-funds rate, consistent with expectations for further tightening (chart).
-Why are markets pricing in such a low probability of an October hike
-despite September's hot CPI and PPI reports? The explanation may lie
-more in Fed commentary than in the economic data:
-(1) Fed officials favor patience. New York Fed President John Williams
-and Vice Chair Philip Jefferson, who alongside Chair Kevin Warsh form
-
-the influential troika, have signaled little urgency to hike in October.
-Governor Christopher Waller suggested that hikes need not occur at
-consecutive meetings, while Vice Chair for Supervision Michelle Bowman
-also favors patience. Together, their forward guidance has steered the
-markets toward pricing in an October pause. Even Warsh's refusal to
-
-### Page 3
-
-provide guidance at the IMF-World Bank Annual Meetings in Bangkok on
-October 16 was interpreted as supportive of a pause.
-(2) Warsh's three problems. The markets remain heavily influenced by
-the very forward guidance that Warsh wants to abandon. This creates
-three challenges: First, other Fed officials have continued to provide
-guidance despite Warsh’s preference to move away from it. Second, that
-guidance influences bond yields, making it harder for Warsh to get a clean
-
-signal from the bond market. Third, that risks boxing him into policy
-decisions that he may oppose, as he could be reluctant to surprise the
-markets.
-(3) The solution. We suspect Warsh would prefer an October hike.
-Following the FOMC's September 16 decision to raise the federal funds
-rate by 25bps, Warsh said he would be “hard pressed to describe broad
-financial conditions as restrictive,” characterizing the hike as removing a
-dose of accommodation.
-
-Raising rates in October, even if the markets aren't fully pricing in such a
-move, could help Warsh address his three problems. It would signal that
-forward guidance from other Fed officials, even influential members of the
-traditional troika, may no longer carry the weight it once did. That could
-encourage investors to place less weight on Fed commentary, giving
-Warsh a clearer signal from the bond market about the appropriate path of
-monetary policy. In turn, it would reduce the risk of getting boxed in by
-
-market expectations shaped by forward guidance that Warsh does not
-necessarily agree with.
-(4) Our call. We estimate the neutral federal funds rate at 4.25%–4.50%
-and believe the Fed should return to that range, reversing last year's three
-25bps insurance cuts. Those cuts were intended to protect against labor-
-market weakness (that we considered overblown) and were made at a
-time when the Fed was too complacent about inflation.
-We believe that Warsh should try to persuade his colleagues to hike next
-
-week. Then again, he might not do so because the midterm elections are
-too close.
-II. US Economy
-
-### Page 4
-
-The latest US economic data suggest that monetary policy remains
-accommodative, exerting little restraint on economic activity or inflation:
-(1) Consumer spending. Redbook same-store sales rose 9.7% y/y
-during the week of October 16. The four-week average climbed 9.1%, its
-fastest pace since early July and well above the 2025 average of 5.8%
-(chart).
-(2) Labor market. The latest weekly ADP data show private-sector
-employment rising by an average of 18,500 jobs per week over the four
-
-weeks through October 3, implying roughly 74,000 jobs per month (chart).
-This suggests that the labor market remains in good shape, supporting
-continued brisk consumer spending.
-
-### Page 5
-
-(3) Import prices. September's data on import prices point to persistent
-inflation pressures. The import price index surged 8.1% y/y, the fastest
-pace since July 2022 (chart). The index excluding petroleum imports rose
-6.0%.
-Import prices from the newly industrialized Asian countries surged 12.5%
-y/y in September, mostly reflecting booming AI-related demand for
-semiconductors from South Korea and Taiwan (chart). That suggests the
-AI buildout will remain inflationary for now, before AI brings the fruits of
-
-disinflationary productivity growth.
-(4) GDP. The Atlanta Fed's GDPNow model estimates Q3 real GDP
-growth at 3.5% (saar). Real final sales to private domestic purchasers, a
-key gauge of underlying demand, is projected to rise 4.7%, a pace last
-matched in Q1-2023. Real consumer spending is expected to grow 3.8%,
-
-### Page 6
-
-clause.
-Yardeni QuickTakes © 2026 – Unsubscribe
-
----
-## Document 403: 「一度出せば足りる」統計へ
+## Document 407: 「一度出せば足りる」統計へ
 
 Source PDF: all report pdf/「一度出せば足りる」統計へ.pdf
 Report source: DIR
@@ -7155,144 +7527,11 @@ POS・スキャナー等
 表に基づく投資財源の確保。
 
 ---
-## Document 404: 「社外取締役が議長」は何を変えるのか ～プライム市場で118社、大型企業で選任進む～
-
-Source PDF: all report pdf/「社外取締役が議長」は何を変えるのか ～プライム市場で118社、大型企業で選任進む～.pdf
-Report source: DLRI
-Date: 2026-10-08
-Pages: 4
-Extraction status: ok
-
-### Page 1
-
-Flash Insights
-
-2026 年 10 月 8 日
-
-1/4 
-「社外取締役が議長」は何を変えるのか 
-～プライム市場で 118 社、大型企業で選任進む～ 
- 資産運用調査部 シニア研究員  河谷 善夫
-
-1．社外取締役の取締役会議長選任は緩やかに拡大 
-筆者は、昨年8 月中旬時点でのプライム市場上場会社のうち、社外取締役を取締役会議長に選
-任している会社について分析したレポート（河谷、2025）を公表し、2022 年 7 月上旬時点より、
-その数が増加していることを示した。本稿では、2026 年9 月末の時点でのプライム市場における
-社外取締役の取締役会議長選任の状況をフォローアップした上で、最後に社外取締役の取締役会
-議長選任の意味について考える。
-
-資料 1 社外取締役の取締役会議長選任会社数の推移
-
-（出所）東証公表資料を基に第一ライフ資産運用経済研究所作成
-
-資料 1 のとおり、2025 年 8 月から2026 年 9 月にかけて会社数は9 社増加し、プライム市場での
-比率は 6.7％から7.6％と0.9％ポイント上昇した。2022 年以降、年平均で概ね1％ポイントの上
-昇ペースが続いている。このグラフだけでは見えないが、2025 年8 月から2026 年9 月にかけて継
-続してプライム市場に上場している会社では17 社が社外取締役を新たに取締役会議長に選任して
-おり（注1）、新規選任の動きは続いている。 
-また、118 名中 117 名が独立社外取締役であり、社外取締役議長はほぼすべて独立社外取締役で
-ある（注2）。
-
-### Page 2
-
-2/4 
-2．特定の機関設計に限らず普及、ただし社外取締役議長はなお少数 
-資料 2 は、会社の機関設計別の2022 年、2025 年、2026 年のプライム市場での社外取締役の取
-締役会議長選任会社数と割合を示したものである。
-
-資料 2 機関設計別の社外取締役の取締役会議長選任状況（プライム市場）
-
-（出所）資料 1 と同じ
-
-2026 年では、社外取締役を取締役会議長に選任している会社は、監査役設置会社で5.3％、監
-査等委員会設置会社で6.0％、指名委員会等設置会社で42.7％である。指名委員会等設置会社の
-割合は依然として高いが、2022 年からの増加状況をみると、社外取締役を取締役会議長とする動
-きは、指名委員会等設置会社以外にも徐々に広まっており、昨年のレポートで確認した傾向は続
-いているといえる。 
-なお、これも資料で示していないが、取締役の過半を独立社外取締役とする会社でも、社外取
-締役を取締役会議長とする会社は約2 割にとどまり、2025 年 8 月から2026 年 9 月にかけて大きな
-変化はなかった（注3）。
-
-3．社長を議長とする会社の減少と、大型企業で先行する社外取締役議長選任 
-資料 3 では、2022 年、2025 年、2026 年のプライム市場での取締役会議長の属性の変化をグラフ
-として示した。
-
-資料 3 取締役会議長の属性の変化（プライム市場）
-
-（注）「その他の取締役等」には、会長・社長以外の執行役を兼任する取締役を含む。 
-（出所）資料 1 と同じ
-
-### Page 3
-
-3/4 
-2022 年からの変化をみると、社長を取締役会議長とする会社の割合は71.4％から65.6％へ
-5.8％ポイント低下する一方、社外取締役を議長とする会社の割合は、3.6％から 7.6％へ4.0％ポ
-イント上昇し、会長を議長とする会社の割合も1.5％ポイント上昇している。このような社長を取
-締役会議長とする会社の割合の低下、社外取締役を議長とする会社の割合の上昇は、取締役会議
-長と社長を分離するという、より大きな流れの一部とみることができるだろう。 
-次に、どのような会社で社外取締役の取締役会議長選任が進んでいるのかをみるため、2026 年
-9 月末時点のプライム市場上場会社について、時価総額ランク別の選任割合を示した（資料4）。
-
-資料 4 時価総額ランク別社外取締役議長選任割合（プライム市場・2026 年 9 月末）
-
-（出所）Bloomberg、東証公表資料データを基に第一ライフ資産運用経済研究所作成
-
-資料 4 からは、時価総額の大きい企業ほど、社外取締役の取締役会議長選任が進んでいるとい
-える。なお、社外取締役を取締役会議長に選任している会社の社数の割合は7.6％だが、時価総額
-では 19％を占める。また、社外取締役が議長となっている会社の39％が時価総額１兆円以上の会
-社である。時価総額が大きい企業ほど選任率が高く、大型企業での社外取締役の取締役会議長選
-任が相対的に進んでいる。
-
-4．最後に 
-ここまで、社外取締役の取締役会議長選任状況について確認してきた。このような社外取締役
-の取締役会議長選任はコーポレートガバナンス上、どのような意味を持つのか、最後に私見を述
-べたい。 
-とりわけ独立社外取締役が議長を務める場合には、独立した立場から取締役会の議論を促し、
-監督機能を含む取締役会の実効性向上につながることが期待される。そのためには、経営陣との
-適切な連絡・調整や十分な情報提供が重要となる。今回のコーポレートガバナンス・コード改訂
-でも、議長や独立社外取締役を支える取締役会事務局（コーポレートセクレタリー等）の機能強
-
-### Page 4
-
-本資料は情報提供を目的として作成されたものであり、投資勧誘を目的としたものではありません。作成時点で、第一ライフ資産運用
-経済研究所が信ずるに足ると判断した情報に基づき作成していますが、その正確性、完全性に対する責任は負いません。見通しは予告
-なく変更されることがあります。また、記載された内容は、第一生命保険ないしはその関連会社の投資方針と常に整合的であるとは限
-りません。 
-4/4 
-化の重要性が示されている。社外取締役を議長に選任する企業には、選任によってどのような効
-果を目指すのかを明確にし、それに即した支援体制を整えることが重要であろう。 
-以 上
-
-【注釈】 
-1) 2025 年8 月中旬のプライム市場上場会社（1,618 社）のうち、社外取締役を取締役会議長に選
-任している会社数の異同については次のとおり。2026 年 9 月末までの間にプライム市場から退
-出した会社（95 社）で社外取締役を取締役会議長に選任していた7 社と、継続上場会社（1,523
-社）で社外取締役以外を取締役会議長にした会社1 社の計8 社が減少。継続上場会社のうち17 社
-が新規に社外取締役を取締役会議長に選任したので、差し引き9 社の増加となった。新規にプライ
-ム市場に上場した会社（20 社）には、社外取締役を取締役会議長に選任していた会社はなかった。 
-2) なお、2026 年 9 月末でプライム市場上場会社の全社外取締役数は、6,986 名であり、そのうち
-6,793 名（97.2％）が独立社外取締役である。ほとんどの社外取締役は独立社外取締役である
-といってよい状況となっている。 
-3) 一方、取締役の過半数を独立社外取締役とする会社が着実に増加していることは、河谷
-（2026）で示したとおりである。
-
-【参考文献】 
-・河谷善夫（2022）「社外取締役をどう活かすか(2)～社外取締役の取締役会議長選任 
-について～」（https://www.dlri.co.jp/report/ld/205867.html） 
-・河谷善夫（2025）「社外取締役の取締役会議長選任の現状と展望 ～2025 年 8 月と2022 年 7 月の
-比較を踏まえて～」（https://www.dlri.co.jp/report/ld/500946.html） 
-・河谷善夫（2026）「プライム市場の独立社外取締役過半会社は3 割を超えた～継続上場会社にみ
-る増加の実態～」（https://www.dlri.co.jp/report/asset/645206.html） 
-・金融庁・東京証券取引所（2026） 「コーポレートガバナンス・コード～会社の持続的な成長と中
-長期的な企業価値の向上のために～」
-（https://www.fsa.go.jp/news/r7/singi/20260721/01.pdf）
-
----
-## Document 439: 【趨勢主題】２０２７年美元展望
+## Document 443: 【趨勢主題】２０２７年美元展望
 
 Source PDF: all report pdf/【趨勢主題】２０２７年美元展望.pdf
-Report source: CTBC
-Date: 2026-09-22
+Report source: Unknown
+Date: 未知日期
 Pages: 17
 Extraction status: ok
 
@@ -8354,196 +8593,152 @@ Thematic Report
 17
 
 ---
-## Document 452: グローバル金融市場の3つのリスク
+## Document 479: 三季度巨亏、再裁员6%！沃尔沃股价暴跌30%
 
-Source PDF: all report pdf/グローバル金融市場の3つのリスク.pdf
-Report source: DIR
-Date: 2026-10-23
-Pages: 1
-Extraction status: ok
-
-### Page 1
-
-1
-
-1
-
-Overview 
-グローバル金融市場の3 つのリスク 
-  大和総研 経済調査部 主席研究員 末吉 孝行 
-2026 年10 月13 日に国際通貨基金（IMF）が公表した「世界金融安定報告（Global Financial 
-Stability Report ）」は、グローバル金融市場のリスクとして、①AI 投資の調整、②国債利回
-りの急上昇、③サイバー脅威の深刻化の 3 つを指摘する。 
-とりわけ AI 投資 には注意したい。 同日公表 の IMF「世界経済見通し（ World Economic 
-Outlook）」が下振れシナリオを示している。AI 投資による生産性向上が期待ほど実現せずに収
-益見通しが悪化すれば、特に米国で設備投資の急減と株価の調整が生じる。逆資産効果や金融
-環境の引き締まりを受けて内需が減少し、AI 関連財の輸出依存度が高いアジアにも悪影響が及
-ぶ。その結果、世界の実質GDP の水準は、リスクが顕在化しない場合を1.1％下回るという。 
-国債市場にも火種がある。例えば、フランスでは政治情勢の不安定や財政懸念により国債利
-回り が騰勢を強めた 。加えて、 国際決済銀行（ BIS）の「年次 経済 報告 （Annual Economic 
-Report）」（2026 年 6 月）によれば、欧州国債の流通市場でのヘッジファンドの取引シェアは
-50％以上である。米国債市場でも存在感が増しているようだ。ヘッジファンドはレバレッジ比
-率が高く、金融市場にストレスがかかると一斉に巻き戻しが起きて、相場の変動を増幅し得る。 
-サイバー攻撃は高度化しており、既に金融安定における脅威となっている。急速なデジタル
-化に伴い、金融機関は決済や融資、預金などの中核業務においてクラウドやソフトウェアを含
-む IT サービスへの依存を強めている。少数の IT 事業者が提供する基幹サービスに金融機関の
-利用が集中すれば、1 つのサイバー障害が複数の金融機関に同時に波及する可能性も高まる。 
-これらが相互に連関し、悪影響が増幅される懸念もゼロではない。今のところ大きな混乱は
-見られず、過度に恐れる必要はないが、適切な注意は払っておくべきだろう。 
-主要国実質 GDP 見通し＜要約表＞  （2026 年 10 月 22 日時点）
-
-（％） （前年比％）
-2025年 2024年 2025年 2026年 2027年
-10-12 1-3 4-6 7-9 10-12 1-3 4-6 7-9 （下線及び斜字は年度）
-日本 1.1 1.9 1.4 -1.1 0.6 0.7 1.2 1.1 0.1 1.2 0.7 0.7
-0.7 0.9 0.7 0.8
-米国 0.2 2.5 2.2 2.6 2.0 1.9 1.9 2.0 3.0 2.3 2.3 2.1
-ユーロ圏 0.9 0.0 2.6 0.6 0.8 1.1 1.2 1.3 1.3 1.2 1.0 1.1
-英国 0.0 2.6 2.1 1.7 0.5 1.2 1.5 1.4 1.1 1.2 1.4 1.3
-中国 4.5 5.0 4.3 4.5 4.5 4.3 4.4 4.5 5.0 5.0 4.6 4.4
-ブラジル 1.8 1.8 2.0 N.A. N.A. N.A. N.A. N.A 3.4 2.3 1.9 1.8
-インド 7.7 8.6 7.8 N.A. N.A. N.A. N.A. N.A 7.2 7.8 7.0 7.0
-ロシア 1.0 -0.2 1.3 N.A. N.A N.A. N.A. N.A 4.9 1.0 0.5 1.4
-（注）色掛け部分は予想値、それ以外は実績値。四半期伸び率は、中国、ブラジル、インド、ロシアは前年比、それ以外は前期比年率。
-（出所）各種統計より大和総研作成
-2026年 2027年
-
----
-## Document 485: 从CoreWeave到Anthropic，芯片抵押融资正重塑AI债务市场
-
-Source PDF: all report pdf/从CoreWeave到Anthropic，芯片抵押融资正重塑AI债务市场.pdf
+Source PDF: all report pdf/三季度巨亏、再裁员6%！沃尔沃股价暴跌30%.pdf
 Report source: WallstreetCN (Global)
-Date: 2026-10-23
-Pages: 4
+Date: 2026-10-24
+Pages: 2
 Extraction status: ok
 
 ### Page 1
 
-芯⽚抵押融资始于 2023 年⿊⽯向 CoreWeave 提供的⼀笔 23 亿美元私募信贷，如今博通正
-与华尔街机构磋商为 Anthropic 安排 600 亿美元芯⽚融资， SpaceX 据报正寻求为英伟达芯
-⽚融资 400 亿美元，英伟达本⾝亦宣布与六⼤贷款机构达成 5000 亿美元合作框架。这⼀新
-兴资产类别规模或突破万亿美元， AI 商业化能否兑现预期是关键。
+中国市场营收近腰斩，叠加特朗普放宽排放规定致积分收⼊缩⽔，沃尔沃三季度由盈转亏
+逾 57 亿克朗，现⾦净流出近 90 亿克朗，流动性堪忧。新 CEO Zellmer 明年接棒，分析师称
+其⾯临的挑战 " ⽐任命时更艰巨 " 。
 摘要：
-以芯⽚为抵押物的结构性融资，正在成为全球 AI 扩张的核⼼资⾦引擎，并迅速发展为⼀个规模可
-能突破万亿美元的全新资产类别。
-这⼀市场的雏形始于 2023 年⿊⽯向 CoreWeave 提供的⼀笔 23 亿美元私募信贷，成为芯⽚抵押债
-务的⾸单标志性交易。
-如今，博通正与华尔街机构磋商为 Anthropic 安排 600 亿美元芯⽚融资， SpaceX 据报正寻求为
-英伟达芯⽚融资 400 亿美元，英伟达本⾝亦宣布与六⼤贷款机构达成 5000 亿美元合作框架。
-摩根⼤通分析师预计， 2030 年前芯⽚⽀出总额或超 3 万亿美元，其中⼤部分将依赖举债融资。
+沃尔沃汽⻋正⾯临上市以来最严峻的经营危机。受中国市场销售崩塌拖累，这家瑞典汽⻋制造
+商三季度录得巨额亏损，股价单⽇暴跌逾 30% ⾄历史低位，并宣布新⼀轮⼤规模裁员与成本削
+减计划。
+沃尔沃汽⻋周五公布，三季度净亏损 57 亿瑞典克朗（约合 5.75 亿美元），⽽去年同期净利润为 45
+亿瑞典克朗，同⽐由盈转亏。季度营收同⽐下滑 23% ⾄ 669 亿瑞典克朗，现⾦净流出近 90 亿瑞典
+克朗。消息公布后，公司股价盘中⼀度跌逾 30% ，创历史新低。
+在业绩重压之下，沃尔沃汽⻋宣布需额外削减 50 亿瑞典克朗成本，其中包括再裁减约 6% 的员
+⼯，叠加此前已宣布的约 3000 ⼈裁员计划。⾸席执⾏官 Håkan Samuelsson 警告，不排除未来
+采取 “ 额外措施 ” 进⼀步压缩成本，并坦⾔短期内难以期待业绩出现实质性改善。
 
-然⽽，这场债务扩张也带来不容忽视的⻛险。由于交易多为私募性质，投资者缺乏便捷的退出
-渠道；芯⽚⼚商、云计算巨头与新兴云服务商之间的交叉敞⼝⾼度集中。
-CoreWeave 企业层⾯的垃圾级债券近期⼤幅下挫，部分跌⾄⾯值 80 美分，收益率攀升⾄约
-15% ，折射出市场对 AI 商业回报的深层疑虑。
-⼀笔融资开创新范式
-这场⾰命的起点，是⿊⽯战术机遇团队对⼀个陌⽣概念的审慎评估。据当时参与尽调的
-CoreWeave 联合创始⼈ Brannin McBee 回忆，⿊⽯⾼管当年曾直接发问： " 什么是 GPU ？ ""AI 是
-真实存在的吗？ "
-获得满意答案后，⿊⽯于 2023 年主导完成了对 CoreWeave 的 23 亿美元私募信贷，开创了芯⽚抵
-押债务融资的先例。
-这⼀结构的核⼼逻辑在于：成⽴特殊⽬的载体（ SPV ）购买并持有芯⽚，以⽬标客⼾合同产⽣
-的现⾦流偿还债务，债务期限与芯⽚五⾄六年的折旧周期相匹配，从⽽将硬件贬值⻛险锁定在
-可预测范围之内。
-CoreWeave 的模式脱胎于商品市场经验 —— 类似液化天然⽓领域 " 先签合同、再融资建⼚ " 的开
+中国市场销售近乎腰斩，成核⼼拖累
+沃尔沃汽⻋在中国市场的营收同⽐下滑近 50%，是本季度业绩崩塌的核⼼原因。 Samuelsson 表
+⽰依赖进⼝全球⻋型、仅在当地完成组装的市场模式已⾛到尽头。
+除中国市场外，公司还对原本预期通过向竞争对⼿出售监管积分所获收⼊进⾏了重新评估 ——
+特朗普政府放宽汽⻋排放削减规定后，这部分收⼊预期⼤幅缩⽔，进⼀步侵蚀了季度业绩。
+新⻋型与吉利平台或成转型⽀点
+⾯对困局， Samuelsson 表⽰，公司正在推进搭载中国本⼟软件、基于吉利低成本平台开发的本
+地化⻋型，以期在未来数年内提升竞争⼒。沃尔沃汽⻋由吉利控股，双⽅已在零部件共享等⽅
+⾯深化协同。
+然⽽， Samuelsson 同时坦承， “ 这是⼀次⾮常深度的下滑，我希望能看到某种程度的企稳，但我
+认为近期不应期待真正的改善。 ” 这⼀表态意味着，即便本地化战略⽅向明确，短期内扭转颓势的
+难度依然极⼤。
+新 CEO 接棒，分析师悲观
+在管理层层⾯，前斯柯达掌⻔⼈ Klaus Zellmer 将于明年 10 ⽉前后接任⾸席执⾏官⼀职，接替
 
-发模式。⾸笔交易以微软合同为抵押，彼时融资成本⾼达中双位数利率⽔平， McBee 坦⾔这是
-他 " 职业⽣涯中最艰难的⼀次尽调 " 。
-随着 CoreWeave 客⼾阵容持续扩⼤，其融资成本随之下降。今年 3 ⽉，公司以 Meta 合同为⽀撑
-完成 85 亿美元债务融资，借款利率降⾄约 6%—— 华尔街按照 Meta 的⾼评级⽽⾮ CoreWeave ⾃
-⾝的垃圾评级来定价⻛险。
-芯⽚成本远超数据中⼼
+2025 年复出的 Samuelsson 。 Zellmer 在斯柯达任职期间，曾将该品牌打造为⼤众集团旗下利润
+贡献最⼤的⼦品牌，超越保时捷。
+但当前局⾯令市场对其前景并不乐观。伯恩斯坦分析师 Harry Martin 在研报中写道： “ 我们很难看
+到近期有任何改善迹象。新任 CEO Klaus Zellmer…… 如今⾯临的挑战，⽐他⼀个⽉前被宣布任
+命时还要艰巨得多。 ”
+⾏业逆⻛席卷西⽅⻋企
 ⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⻅闻历 搜索
 
 ### Page 2
 
-理解这场融资⾰命的规模，需要⾸先理解芯⽚⽀出的量级。芯⽚造价是容纳它们的数据中⼼的
-两⾄四倍，却在五⾄六年内折旧殆尽，由此形成了传统资本市场难以独⽴消化的巨额融资缺
-⼝。
-以 AI 云服务商 Nscale 在西弗吉尼亚州的旗舰项⽬为例，配套发电⼚预计耗资 65 亿美元，数据中
-⼼及设备造价 180 亿美元，⽽ GPU 采购成本则⾼达 470 亿美元。
-Alphabet 旗下⾕歌、微软、亚⻢逊、 Meta 等投资级云计算巨头可借助充裕现⾦或廉价债券融资
-覆盖上述硬件成本，但 OpenAI 、 Anthropic 及⼀众新兴云服务商并不具备这样的资产负债表实
-⼒。
-OpenAI 业务财务官 Mike Liberatore 坦⾔： " 基础设施建设规模史⽆前例。没有任何剧本告诉你，
-如何在极度资本密集的情况下，⽤传统⽅式从零⾛向通⽤⼈⼯智能。 "
-为此，业界移植了项⽬融资与结构性融资的机制：通过 SPV 将每笔交易⻛险隔离，以交易本⾝
-的质量和客⼾信⽤⽽⾮发⾏⼈⾃⾝评级为基础举债，往往不计⼊企业资产负债表。
-
-芯⽚⼚商直接⼊场背书
-博通与英伟达的深度介⼊，将这⼀市场推向了新的量级。两家公司为相关债务交易提供 " 兜底 " 承
-诺：
-⼀旦借款⽅违约，芯⽚将被重新租赁或出售以偿还剩余债务，芯⽚⼚商负责填补缺⼝。这⼀机
-制使 SPV 发⾏的优先级债券能够与芯⽚⼚商的投资级评级挂钩，显著压低融资成本。
-Apollo 与⿊⽯近期联合完成了⼀笔 350 亿美元的 "Big Sky" 交易，为 Anthropic 提供⽀持。这也是博
-通、 Apollo 与⿊⽯联合搭建的 "AI XPV" 平台⾸单落地交易 —— 美国银⾏策略师估算，该平台若实
-现 20 吉⽡的融资容量，⾄ 2029 年中期或需 2350 亿美元有背书债务。
-在此次 Anthropic 交易中，博通提供兜底⽀持的两只优先级债券获得投资级评级，最⼤⼀档利率
-为 5.75% ；⻛险较⾼的 45 亿美元次级档定价 8.5%—— 仍远低于 Anthropic 作为未评级私营公司的
-独⽴融资成本。
-今年 8 ⽉，英伟达更集结了 Apollo 、⿊⽯、⻉莱德、 Brookfield 、 KKR 及⾼盛，共同为 AI 基础设施
-
-提供融资来源，英伟达本⾝承诺兜底其中最⾼ 25% 的份额。
-从私募⾛向银团市场
-要实现真正意义上的规模化，芯⽚融资必须突破私募市场的边界，进⼊银团贷款乃⾄投资级公
-开债券市场 —— 后者是全球规模最⼤、成本最低的资本池之⼀。
-CoreWeave 今年率先完成了芯⽚⽀持的银团杠杆贷款，两笔交易均获机构投资者稳健认购，在
-市场上交易价格接近⾯值，与同⼀公司的企业级债券形成鲜明对⽐。
-摩根⼠丹利结构性产品与私募资本市场全球负责⼈ Rich Myers 表⽰： " 这些融资与市场上最具价
-值的资产直接挂钩，也就是芯⽚所产⽣的算⼒。⼤量证据表明，算⼒需求将持续增⻓，且超过
-算⼒供应。 "
-Apollo 全球资产配置负责⼈ Chris Edson 则表⽰，传统公开债务市场⽆法独⼒满⾜数字基础设施
-的融资规模，需要项⽬融资、私募配售、保险资⾦及商业房地产等多类资本参与。获得投资级
-评级，是打开保险资⾦等最⼤资本池的关键钥匙。
-
-### Page 3
-
 ⻛险提⽰及免责条款
 市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂
 中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
-⻛险积聚不容忽视
-然⽽，随着资本加速涌⼊，⻛险也在同步积聚。
-Fitch Ratings ⾼级董事 Jason Pompeii 指出，当前的⼚商融资规模前所未有，且⻛险⾼度集
-中。 " 这只会增加⼀种可能性：⼀旦 AI 最终令⼈失望，整条供应链都将受到冲击。 "
-交易结构的私募性质导致流动性存疑。由于⼤多数芯⽚融资交易不在公开市场流通，投资者难
-以便捷退出，⽽交易将少数芯⽚⼚商、云计算巨头与新兴云服务商深度绑定，交叉敞⼝⾼度集
-中。 Magnetar 替代信贷与固定收益业务董事总经理 Dave Snyderman 警告： " 巨头只会更⼤。只
-有他们才能获得融资渠道。 "
-客⼾合同的法律效⼒同样存在疑问。 Carlyle 资产⽀持融资负责⼈ Akhil Bansal 直⾔： " 所有⼈都
-假设这些合同牢不可破，但我关注的是现实层⾯ —— 如果只有七家机构为 GPU 提供所有信⽤⽀
-
-持，筹码究竟在谁⼿⾥？ "
-Nuveen 私募固定收益负责⼈ Laura Parrott 则表⽰，她⽬前暂缓参与⼤型投资级芯⽚交易，待市
-场结构更为成熟后再⾏评估。 " 这是⼀种全新结构，⼀旦出现某种冲击，我们尚不清楚结果会如
-何演变。 "
-此外，宏观层⾯的变数同样存在：德克萨斯州的地⽅反对势⼒已促成新项⽬暂停令，甲⻣⽂在
-新墨西哥州的项⽬受监管阻碍被迫推迟付款， OpenAI 与 Anthropic 也在就安全问题讨论放缓部署
-节奏。
-迈向 " 算⼒资产类别 "
-尽管挑战并存，市场参与者对这⼀范式的⻓期潜⼒仍持乐观态度。
-⿊⽯战术机遇团队⾼级董事总经理 John Watson 将当前时刻⽐作汽⻋⾏业的早期岁⽉：当年为福
-特 T 型⻋提供融资的⼈同样⾯临 " ⼈们真的会开⻋吗 " 的疑问，如今汽⻋⾦融已发展为规模庞⼤、
-运作成熟的市场。
-在芯⽚市场演进层⾯，早期研究与实际使⽤数据显⽰，芯⽚的实际使⽤寿命正超出当前会计处
-理所体现的年限，这将改善其可融资性。美国银⾏基础设施与可持续融资全球负责⼈ Karen
-
-Fang 预计，类似⼆⼿⻋价格指南的半导体估值⼯具将逐步出现，进⽽催⽣更活跃的芯⽚租赁与
-对冲市场。
-Watson 描绘的终极愿景是：将⼀个算⼒单位转化为可在全球范围内交易和融资的资产类别
-——" 我们理解算⼒的经济价值，因⽽为它融资。 "
-实现这⼀⽬标，仍有赖于 AI 商业化进程真正兑现市场预期。
-
-### Page 4
-
-6 收藏 分享到 :
+93 收藏 分享到 :
 写评论
 图⽚
+沃尔沃汽⻋的困境并⾮孤例。⼤众、保时捷、宝⻢、捷豹路虎等西⽅主流⻋企均在削减⼈员，
+共同应对来⾃中国竞争对⼿的冲击、美国关税压⼒以及中东冲突推⾼的原材料成本。
+不过，沃尔沃汽⻋所受冲击尤为严重—— 其电动⻋及插电式混合动⼒⻋型在中国和美国市场的
+销售双双下滑，叠加此前已实施的⼤规模成本削减，公司财务缓冲空间已⼤幅收窄。本季度近
+90 亿瑞典克朗的现⾦流出，进⼀步加剧了市场对其流动性状况的担忧。
 限免
 请发表您的评论
 表情 发布评论
 
 ---
-## Document 539: 凱基投顧_電子硬體產業_余昀澄_20261015
+## Document 527: 内外経済ウォッチ『日本～米国の「リフレ脱却」要請と日米経済政策の実態～』(2026年11月号)
+
+Source PDF: all report pdf/内外経済ウォッチ『日本～米国の「リフレ脱却」要請と日米経済政策の実態～』(2026年11月号).pdf
+Report source: DLRI
+Date: 2026-10-20
+Pages: 1
+Extraction status: ok
+
+### Page 1
+
+日本
+～米国の 「リフレ脱却」 要請と日米経済政策の実態～
+2026年9月、 米国のスコ ッ ト ・ ベッセン ト財務長官が日
+本政府および日本銀行に対し、 「アベノミクス的リフレ政
+策からの脱却」 および 「利上げ ・ 積極財政の抑制」 を要請し
+た発言は、 日米の金融 ・ 財政当局に大きな波紋を広げた。
+しかし、 日米両国の財政赤字 ・ 金利体系 ・ インフレ動向 ・
+通貨価値の変遷を客観的に比較 ・ 分析すると、 「リフレ政
+策」 を真に推進しているのは日本ではなく、 むしろ米国自
+身であるという逆説的な構造が浮き彫りとなる。
+2026年9月初旬、 ベッセン ト米財務長官はＧ20等の機
+会を通じて 「日本はアベノミクス期の過度なリフレ政策を
+終えるべきだ」 と指摘し、 日銀による利上げ推進や政府の
+財政拡大抑制を遠回しに迫った。
+米国が日本にリフレ脱却を求める表面的な理由は 「円
+安是正とインフレ抑制」 だが、 実質的には日本の利回り上
+昇に伴い、 日本勢の資金が米債市場から逃避し、 米長期
+
+金利が跳ね上がる事態を恐れている側面を指摘する向
+きもある。 しかし、 「骨太シ ョ ッ ク」 と言われた骨太原案が公
+表された6月30日以降のG7諸国の長期金利の動向を確
+認すると、 最も上昇幅が少ないのは日本となっている。
+① 「財政赤字」 による需要刺激
+米国はパンデミ ッ ク以降も、 IRA （インフレ削減法） や
+CHIPS法、 そして減税策の恒久化などを背景に、 景気拡
+大局面にもかかわらず対GDP比6％超という戦時並みの
+財政赤字を続けている。 これこそがリフレ政策の本質で
+ある 「政府が借金をして民間に需要を創出する仕組み」 そ
+はじめに
+ベッセン ト発言の背景と波紋
+なぜ米国のほうが 「リフレ推進度合いが
+強い」 と言えるのか ？
+のものである。 一方、 日本の財政赤字／GDP比は2025
+年時点でG7諸国最小水準となっている。
+② 純債務残高／GDP比の悪化
+米国の一般政府純債務残高対GDP比は100％に近づ
+いており、 上昇 トレン ドとなっている。 AIブームと トランプ
+
+減税が相まって、 国内の資金需給がひっ迫しており、 米長
+期金利の上昇が構造的な財政悪化をもたら している。 対
+して日本の一般政府純債務残高対GDP比は、 インフレ経
+済が定着した2023年以降に急速に低下しており、 2025
+年時点では80％を下回っている。
+③日本の金融政策正常化との対比
+日本側はアベノミクス期の異次元緩和から離脱し、 日
+銀は政策金利を段階的に引き上げ、 保有国債残高も年間
+40～50兆円ペースで縮小させている。 すなわち、 日本が
+「リフレ出口」 に向かって足早に動いている一方で、 米国は
+伝統的金融政策面では利上げスタンスにシフ ト しつつ、
+量的金融政策面ではバランスシー トの縮小をス ト ップし
+ているのが実態である。
+ベッセン ト財務長官による日本への 「リフレをやめよ」 と
+いう言明は、 自国の財政膨張が招いている米長期金利の
+上昇や ドル高 ・ 円安の歪みを、 他国の政策変更によって補
+正しようとする 「責任転嫁のレ ト リ ッ ク」 という側面を拭え
+
+ない。 本当にグローバル経済の安定化を目指すのであれ
+ば、 批判されるべきは日本の金融 ・ 財政政策というより
+も、 景気回復期にあっても巨額の財政赤字を続ける米国
+自身の 「構造的リフレ依存」 であると言える。 日本政府 ・ 日
+銀としては、 米国からの外圧に過剰に動揺することなく、
+自国の自律的な賃金 ・ 物価循環に基づいた主体的かつ着
+実な政策を推進することが求められる。
+結論と示唆
+経済調査部　首席エコノミス ト　永濱 利廣（ながはま としひろ）
+5 第一ライフ研レポー ト 2026.11
+内外経済ウォッチ
+内外経済ウォッチ
+
+---
+## Document 556: 凱基投顧_電子硬體產業_余昀澄_20261015
 
 Source PDF: all report pdf/凱基投顧_電子硬體產業_余昀澄_20261015.pdf
 Report source: line報告備份
@@ -9663,7 +9858,7 @@ EBITDA 43.2 29.9 200.8 123.1 58.0 63.2 (5.6) 2.6 58.0 98.5 19.3
 十月 15, 2026 研究網站: https://investment.kgisia.com.tw/Portal/Report/Index/Zh/R   15
 
 ---
-## Document 607: 惠誉博华中资商业银行信用质量测试结果分布特征：测试样本增至548家，覆盖约96%的商业银行资产，IDR测试结果中位数为BBB+
+## Document 628: 惠誉博华中资商业银行信用质量测试结果分布特征：测试样本增至548家，覆盖约96%的商业银行资产，IDR测试结果中位数为BBB+
 
 Source PDF: all report pdf/惠誉博华中资商业银行信用质量测试结果分布特征：测试样本增至548家，覆盖约96%的商业银行资产，IDR测试结果中位数为BBB+.pdf
 Report source: 惠誉博华信用评级
@@ -10193,7 +10388,7 @@ GSR/SSR)，也可以由政府支持评级或股东支持评级驱动(GSR/SSR 高
 商业银行
 
 ---
-## Document 631: 沃什下周迎来棘手一战：暂停加息容易，如何稳住抗通胀预期？
+## Document 655: 沃什下周迎来棘手一战：暂停加息容易，如何稳住抗通胀预期？
 
 Source PDF: all report pdf/沃什下周迎来棘手一战：暂停加息容易，如何稳住抗通胀预期？.pdf
 Report source: WallstreetCN (Global)
@@ -10284,159 +10479,267 @@ Extraction status: ok
 表情 发布评论
 
 ---
-## Document 633: 法国PMI全线跌破荣枯线，欧元区10月综合PMI初值降至51.9逊于预期
+## Document 681: 米インフレの動向－関税・エネルギー・AI投資による物価上昇を検証
 
-Source PDF: all report pdf/法国PMI全线跌破荣枯线，欧元区10月综合PMI初值降至51.9逊于预期.pdf
-Report source: WallstreetCN (Global)
+Source PDF: all report pdf/米インフレの動向－関税・エネルギー・AI投資による物価上昇を検証.pdf
+Report source: NLI
 Date: 2026-10-23
-Pages: 3
+Pages: 6
 Extraction status: ok
 
 ### Page 1
 
-受法国财政与政局担忧拖累，其 10 ⽉综合 PMI 降⾄ 48.4 跌⼊萎缩；德国虽维持扩张但增速
-放缓，拉低欧元区综合 PMI ⾄ 51.9 。法债抛售与⾼企通胀加剧市场对⾦融条件收紧的担
-忧，市场普遍预期欧洲央⾏或于近期暂停加息。
-摘要：
-法国经济意外陷⼊收缩，令欧元区 10 ⽉商业活动增速超预期放缓，市场对欧元区财政稳定与增
-⻓韧性的担忧同步升温。
-法国 10 ⽉综合 PMI 初值骤降⾄ 48.4 ，跌破 50 荣枯线，远低于彭博调查预期的 50.3 ， 9 ⽉终值为
-51.1 。服务业与制造业双双萎缩，构成全⾯压⼒。欧元区整体 10 ⽉综合 PMI 初值随之降⾄ 51.9 ，
-低于彭博预期的 52.7 ， 9 ⽉为 53.1 。德国综合 PMI 虽连续第四个⽉位于扩张区间，报 52.8 ，但同
-样低于预期。
-法国基准国债收益率本周触及 5% ，为 2002 年以来⾸次，法德利差扩⼤⾄约 175 个基点，创 2011
-年以来最阔。 Franklin Templeton 固定收益投资主管警告，若法债抛售升级为欧元区债务危机，
+（図表１）
 
-其烈度可能超过⼗多年前那场危机。
-法国：综合、服务业、制造业均低于 50
-法国 10 ⽉综合 PMI 初值为 48.4 ， 9 ⽉为 51.1 。服务业 PMI 为 48.4 ，制造业 PMI 为 49.3 ，两个分项和
-综合指数均低于 50 。彭博称，法国财政担忧引发国债抛售，国内还出现抗议与骚乱。
-S&P Global Market Intelligence 经济学家 Joe Hayes 表⽰， 9 ⽉反弹被证明短暂，⾦融条件迅速
-收紧、政治压⼒进⼀步上升并不令⼈意外。私营部⻔销售量以 5 ⽉以来最快速度下降，并⽴即体
-现为采购与投资活动减少。
-Hayes 称， 10 ⽉数字可能只是前奏。企业对未来 12 个⽉预期的情绪指标已降⾄六年半低点，反
-映出对 2027 年总统选举⾼度不确定性及财政状况的担忧。
-德国：连续第四个⽉扩张，增速放缓
-⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⻅闻历 搜索
+-2
+0
+2
+4
+6
+8
+10
+2021 2022 2023 2024 2025 2026
+消費者物価主要指数
+CPI総合 CPIコア
+（％）
+（注）前年同月比。
+（資料）労働統計局（BLS）よりニッセイ基礎研究所作成
+１. 米国の26年 9月の消費者物価指数（ＣＰＩ）は、総合指数が前年同月比+3.7％（前月：
++3.4％）と再加速。エネルギー価格の上昇が押し上げたほか、コア指数（食料品・エネ
+ルギーを除く）も同+2.6％（前月：+2.4％）と小幅に加速。一方、コア財価格の伸びは
+限定的。 
+２. 関税は25年春以降のコア財価格を押し上げたものの、実効関税率の低下などから影響は
+当初想定を下回った。今後は価格転嫁の一巡や前年のベース効果の剥落に伴い、既存関
+税による押し上げ効果は減衰する見込み。ただし、追加関税による物価上昇リスクは残
+る。 
+３. 一方、中東情勢の緊迫化に伴う原油・ガソリン価格の上昇が、足元のインフレ再加速の
+主因となっている。エネルギー価格の上昇は総合ＣＰＩを直接押し上げるほか、輸送費
+や生産コストを通じて他の財・サービス価格に波及する可能性がある。 
+４. また、ＡＩ関連投資に伴う電力需要拡大も、電力料金の上昇要因として注目される。電
+力料金は26年9月に前年同月比+4.4％（前月：+3.8％）と加速。もっとも、燃料費や送
+配電投資なども影響するため、ＡＩ関連投資による押し上げ効果は慎重な評価が必要。 
+５. 当研究所では、ＣＰＩ上昇率を26年が前年比+3.4％、27年が同+2.5％と予想。26年は
+エネルギー価格の上昇などから前年の+2.6％を上回る一方、27年は既存関税の押し上げ
+効果の減衰などから鈍化する見込み。ただし、エネルギー価格や追加関税、電力料金な
+どが上振れリスクとなろう。 
+ニッセイ基礎研究所 2026-10-23 
+米インフレの動向 
+－関税・エネルギー・AI投資による物価上昇を検証
+
+経済研究部 主任研究員 窪谷 浩 
+(03)3512-1824  kubotani @nli-research.co.jp
 
 ### Page 2
 
-⻛险提⽰及免责条款
-德国 10 ⽉综合 PMI 初值为 52.8 ， 9 ⽉为 53.8 ，路透调查预期 53.3 ，彭博调查预期 53.4 。该指数已
-连续第四个⽉位于扩张区间，但低于预期。
-制造业： PMI 升⾄ 54.2 的两⽉⾼点， 9 ⽉为 53.9 ，⼯⼚产出继续强劲上升。不过制造业订单增
-速降⾄三个⽉低点，仍受出⼝⽀撑。
-服务业： PMI 为 51.7 ，前值 52.9 ，连续第⼆个⽉扩张但幅度温和。服务业需求停滞，原因是
-客⼾推迟决策、收紧预算。
-整体： 私营部⻔新业务仅略增。商品与服务收费价格通胀降⾄七个⽉低点，但仍明显⾼于⻓
-期均值。
-S&P Global Market Intelligence 经济学家 Phil Smith 表⽰，结果令⼈⿎舞地显⽰德国商业活动持
-续回升，但增⻓放缓突显出欧元区最⼤经济体的复苏仍然脆弱。
-企业对未来 12 个⽉产出总体仍乐观，服务业信⼼升⾄ 2 ⽉以来最⾼，制造商预期则降⾄ 7 ⽉以来
-最低，原因是担忧投⼊价格上升。
-欧元区：法国服务业拖累增⻓
+２． 足元のインフレ動向と物価押し上げ要因 
+（ＣＰＩの動向）エネルギー価格の上昇で総合指数が再加速 
+米国のＣＰＩは、25年春以降に関税引き上げの影響などから上昇した後、いったん低下したもの
+の、26年春先以降は再び加速している。総合指数（前年同月比）は25年 4月の+2.3％から同年 9
+月に+3.0％まで上昇した後、26年2月には+2.4％まで低下した。しかし、中東情勢の緊迫化に伴う
+エネルギー価格の上昇を背景に、3月には+3.3％と再加速し、9月には+3.7％まで上昇した（前掲図
+表 1） 。一方、コア指数（食料品・エネルギーを除く）は25年 7～8月の+3.1％から 26年 8月には
++2.4％まで低下した後、9月は+2.6％と小幅に加速したものの、 総合指数との乖離は拡大している。 
+ＣＰＩの内訳をみると、 エネルギー価格は26
+年 2 月の前年同月比 +0.5％から 3 月には
++12.5％へ急伸し、9月には+20.4％まで上昇す
+るなど、総合指数の再加速を主導している（図
+表2） 。一方、コア財価格は25年春以降、関税
+引き上げの影響などからプラスに転じ、同年8
+～9月には+1.5％まで上昇したものの、26年 9
+月には+0.7％まで鈍化した。また、コアサービ
+ス価格のうち、住居費の伸びは 23年以降大幅
+に鈍化したものの、26年春先に再び加速し、足
+元でも+3％台前半で下げ渋っている。一方、住
+居費を除くサービスも春先に伸びが加速した後、足元では+3％程度で推移している。 
+このように、足元のインフレ再加速は主にエネルギー価格の上昇によるものであり、コア財価格
+の伸びは鈍化しているほか、サービス価格の上昇圧力はピーク時から緩和したものの、足元では根
+強さがみられる。
 
-欧元区 10 ⽉综合 PMI 初值为 51.9 ， 9 ⽉为 53.1 ，仍明显⾼于 50 。彭博称，私营部⻔放缓程度超出
-预期，法国表现逊于预期，德国制造业则强于预期。
-S&P Global Market Intelligence ⾸席商业经济学家 Chris Williamson 表⽰，增⻓的主要拖累是法
-国服务业活动再度下降，这或与罢⼯和骚乱扰乱部分地⽅经济有关。他同时指出，整个地区 10
-⽉的活动 “ 是过去三年部分最佳表现之⼀ ” 。
-据彭博报道，欧元区经济对伊朗战争及随之⽽来的能源价格冲击表现出韧性。但也有⼈担⼼，
-中东冲突持续和债市收益率急升将拖累经济活动。
-债市压⼒与 ECB 路径
-彭博称，法国基准国债收益率本周触及 5% ，为 2002 年以来⾸次。法德利差扩⼤⾄近 175 个基
-点，为 2011 年以来最阔。能源价格上涨加剧了市场对法国财政前景的担忧，法国同时⾯临沉重
-的预算⾚字和疲软的增⻓。
-Franklin Templeton 固定收益投资主管周三警告，法债抛售若升级为⼜⼀次欧元区债务危机，可
+（図表 2）
 
-能⽐⼗多年前那次更糟。
-在政策层⾯，欧洲央⾏（ ECB ）因通胀⾼于⽬标已加息两次，并⽰意可能仍需进⼀步收紧。官
-员们被⼴泛预期下周维持借贷成本不变。
-⾼级欧元区经济学家 David Powell 表⽰，综合 PMI 显⽰经济开始在更⾼的商品价格与更紧的⾦融
-条件下⾛弱。他认为这⼏乎肯定会让 ECB 在 10 ⽉按兵不动，并在 12 ⽉最后⼀次加息后结束加息
-周期。
-Williamson 则指出，投⼊成本再度急剧上升，企业为保护利润推⾼售价。 “ 持续增⻓与顽固偏⾼
-通胀 ” 的组合，或加剧市场对 ECB 更激进收紧的猜测。他表⽰，更⾼的借贷成本已开始通过抑制
-需求显现影响。
+-20
+-10
+0
+10
+20
+30
+40
+50
+60
+-2
+0
+2
+4
+6
+8
+10
+12
+14
+2021 2022 2023 2024 2025 2026
+CPI内訳（前年同月比）
+食料品
+コア財
+コアサービス（住居費）
+コアサービス（除く住居費）
+エネルギー（右軸）
+（％）
+（注）コア財は食料品、エネルギーを除く商品価格、コアサービスはエネルギーサービスを除く
+サービス価格
+（資料）BLSよりニッセイ基礎研究所作成
+（％）
 
 ### Page 3
 
-市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂
-中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
-51 收藏 分享到 :
-写评论
-图⽚
-请发表您的评论
-表情 发布评论
+こうした中、ニューヨーク連銀の試算では、関税による消費財価格上昇率への寄与度は 26年後
+半にマイナスに転じ、27年１月には▲0.7％ポイントとなる見通しである（前掲図表３） 。これは、
+25年の大幅な関税引き上げによる価格上昇が前年比の比較対象から外れるためである。もっとも、
+関税による物価水準の押し上げ効果は、関税率の引き下げなどから縮小するものの、消失するわけ
+ではない。 
+このように、既存関税によるインフレ押し上げ効果は今後減衰すると見込まれる。ただし、トラ
+ンプ政権は通商法301条に基づく追加関税措置を進めており、今後の通商政策次第では、インフレ
+率が再び押し上げられる可能性がある。
+
+（エネルギー価格の影響）中東情勢の緊迫化がインフレを押し上げ 
+エネルギー価格は、26年 2月末に始まったイラン戦争を背景に大幅に上昇している。原油先物価
+格（ＷＴＩ）は25年末にかけて1バレル60ドル前後まで低下していたが、イラン戦争の開始を受
+けて急騰し、26年春先には一時110ドルを上回った（図表5） 。その後、いったん70ドル前後まで
+下落したものの、足元では再び上昇しており、10月 22日には 99.5ドルと高水準で推移している。
+
+1 https://libertystreeteconomics.newyorkfed.org/2026/10/how-fast-do-tariffs-pass-through-into-consumer-prices/ 
+（図表 3）
+
+（図表 4）
+
+-1.5
+-1.0
+-0.5
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+2025 2026 2027
+関税による米消費財価格上昇率への寄与度
+直接効果
+競合価格効果
+コスト上昇効果
+合計
+（％）
+（注）関税による非石油系消費財価格の前年比上昇率への寄与度。直接効果は関税対象品目への
+価格転嫁、競合価格効果は競合企業の価格調整、コスト上昇効果は輸入中間財などの費用増加を
+通じた影響。2026年3月以降は予測値。
+（資料）ニューヨーク連銀「Liberty Street Economics」（2026年10月6日）よりニッセイ基礎研究所作成
+
+### Page 4
+
+（ＡＩ関連投資の影響）電力需要の拡大が電力料金の上昇圧力に 
+ＡＩ関連投資の拡大に伴うデータセンターの電力需要増加も、電力料金の上昇要因として注目さ
+れている。米国の電力料金（消費者物価指数、前年同月比）は、22年 8月に+15.8％まで上昇した
+後、23年末には+3％台まで鈍化したものの、24
+年以降はプラス圏で推移し、25年後半には+6％
+台まで加速した（図表6）。その後は伸びが鈍化
+したものの、26年9月には＋4.4％と前月の＋
+3.8％から小幅に加速した。 
+電力料金の上昇には、ＡＩ関連投資の拡大に
+伴うデータセンターの電力需要増加が影響して
+いる可能性がある。データセンターは大量の電
+力を安定的に消費するため、需要の急増に対し
+て発電設備や送配電網の整備が追いつかない場
+合には、電力需給の逼迫や設備投資費用の増加
+を通じて電力料金の上昇圧力となる。また、電力インフラの整備には長い期間を要することから、
+こうした影響が長期化する可能性もある。 
+もっとも、電力料金は天然ガスなどの燃料価格や送配電設備の更新費用、地域ごとの料金規制な
+ど複数の要因によって決定される。このため、足元の電力料金上昇のうち、ＡＩ関連投資による押
+し上げ効果がどの程度を占めるかを特定することは難しい。今後もＡＩ関連投資の拡大が見込まれ
+る中、電力需要の増加と供給能力の拡充の動向が、電力料金を通じたインフレ圧力を左右する要因
+として注目される。
+
+（図表 5）
+
+（図表 6）
+
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+5.0
+5.5
+50
+60
+70
+80
+90
+100
+110
+120
+130
+2022 2023 2024 2025 2026
+原油先物価格およびガソリン価格
+原油先物価格
+ガソリン価格（右軸）
+（ドル/ガロン）（ドル/バレル）
+（注）原油価格はWTI先物価格、ガソリン価格はレギュラーガソリンの小売価格全米平均
+（資料）Datastreamよりニッセイ基礎研究所作成
+-5
+0
+5
+10
+15
+20
+2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026
+米国の電力料金上昇率（％）
+（注）消費者物価指数（CPI）の電力料金。前年同月比
+（資料）米労働統計局（BLS）よりニッセイ基礎研究所作成
+
+### Page 5
+
+（インフレ見通し）26年はエネルギー高で加速、27年は鈍化へ 
+こうした中、中長期のインフレ期待が比較的安定していることも踏まえ、今後のインフレ率は、
+26年中はエネルギー価格の上昇によって高止まりするものの、27年には関税による物価押し上げ
+効果の剥落などから鈍化すると予想する。 
+関税については、25年春以降の関税引き上げに伴う価格転嫁が一巡するほか、実効関税率がピー
+ク時から低下していることもあって、今後の物価押し上げ効果は減衰するとみられる。一方、エネ
+ルギー価格は中東情勢の緊迫化を背景に当面高止まりする可能性があるものの、27年には原油価格
+の上昇一服や前年のベース効果の剥落から、 総合ＣＰＩへの押し上げ効果が縮小すると見込まれる。
+また、ＡＩ関連投資の拡大に伴う電力需要の増加は、引き続き電力料金の上昇圧力となる可能性が
+あるものの、ＣＰＩ全体への影響は限定的とみられる。 
+当研究所では、総合ＣＰＩ上昇率（前年比）が25年の+2.6％から26年には+3.4％へ加速する一
+方、27年には+2.5％へ鈍化すると予想する。もっとも、27年もＣＰＩ上昇率は2％台半ばで推移す
+る見通しであり、インフレ圧力の完全な沈静化にはなお時間を要するとみられる。
+
+（今後の注目点）エネルギー価格や追加関税などが上振れリスク 
+今後のインフレ動向を巡っては、基本シナリオに対する上振れリスクとして、エネルギー価格の
+一段の上昇や追加関税措置などが挙げられる。 
+（図表 7）
+
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+2021 2022 2023 2024 2025 2026
+家計・専門家のインフレ率予想
+家計調査（1年） 家計調査（今後5～10年）
+専門家調査CPI（今後5年） 専門家調査CPI（今後10年）
+（％）
+（注）家計調査はミシガン大学調査、専門家調査はフィラデルフィア連銀の調査
+該当期間の平均インフレ率の予想中央値
+（資料）ミシガン大学、フィラデルフィア連銀よりニッセイ基礎研究所作成
+
+### Page 6
+
+本誌記載のデータは各種の情報源から入手・加工したものであり、その正確性と安全性を保証するものではありません。 
+また、本誌は情報提供が目的であり、記載の意見や予測は、いかなる契約の締結や解約を勧誘するものではありません。
 
 ---
-## Document 655: 科技股大跌、美债走强，美股正在经历新一轮风格切换？
-
-Source PDF: all report pdf/科技股大跌、美债走强，美股正在经历新一轮风格切换？.pdf
-Report source: WallstreetCN (Global)
-Date: 2026-10-23
-Pages: 2
-Extraction status: ok
-
-### Page 1
-
-AI 投资回报与科技股估值正成为市场重新配置资⾦的关键考量。随着投资者审视巨额资本
-开⽀的回报前景，资⾦可能从⾼估值科技股转向其他板块，美债需求上升也反映出防御情
-绪。不过，市场⻛格是否真正切换仍有待观察，关键在于科技股能否持续承压，以及上涨
-⾏情能否向更多板块扩散。
-摘要：
-美股市场正在出现明显分化：科技股遭遇重挫，标普 500 指数却有超过 300 只成分股收涨，美债
-则迎来 2023 年银⾏业危机以来最⼤单⽇收益率降幅。周四的⾏情表明，科技股的抛售尚未演变
-为全市场普跌，资⾦对 AI 交易的态度也正在发⽣变化。
-10 ⽉ 22 ⽇，标普 500 指数下跌 1.2% ，创 7 ⽉以来最⼤单⽇跌幅；纳斯达克综合指数下跌 2.6% ，
-费城半导体指数重挫 6.7% 。与之形成鲜明对⽐的是，道指基本持平，⼩盘股指数罗素 2000 指数
-⼩幅收涨。标普 500 等权重指数也上涨 0.7% ，显⽰多数成分股的表现好于市值加权指数。
-与此同时， 10 年期美债收益率下跌 19.3 个基点⾄ 4.952% ，创 2023 年 3 ⽉以来最⼤单⽇降幅。科
-
-技股承压、债券⾛强、其他股票相对坚挺，令市场⾯临⼀个关键问题：这究竟是投资者从⾼估
-值 AI 资产撤出后的短期调整，还是美股持续数年的科技股主导⾏情正在发⽣变化？
-科技股与其他板块 “ 分道扬镳 ”
-据 MarketWatch 报道，周四超过 300 只标普 500 成分股收涨，但指数仍录得逾⼀个百分点的跌
-幅。这种背离反映出美股内部⽇益明显的分化：少数⾼权重科技股的下跌，⾜以抵消⼤量其他
-股票的上涨。
-AI 交易此前推动美股持续⾛⾼，但随着相关企业公布业绩、披露资本开⽀计划，投资者开始更加
-关注巨额 AI 投⼊何时能够转化为实际回报。周四，半导体板块跌幅尤其显著，费城半导体指数较
-6 ⽉⾼点已回落超过 26% ，进⼊技术意义上的熊市区间。
-⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⻅闻历 搜索
-
-### Page 2
-
-⻛险提⽰及免责条款
-市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂
-中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
-9 收藏 分享到 :
-写评论
-图⽚
-与科技股形成对⽐的是，消费必需品等防御性板块表现相对坚挺。市场策略师 Mark Hackett 指
-出， 2026 年以来，美股的板块领涨格局频繁变化， AI 股票与其他板块之间的⾛势分化⽇益突
-出。
-不过，个股上涨⾯较⼴，并不等于新⼀轮⻛格切换已经确⽴。若科技股持续⾛弱，⽽其他板块
-能够维持相对强势，资⾦才可能逐步从少数⼤型科技股向更⼴泛的市场扩散。
-美债收益率⼤幅下⾏，避险需求升温
-股市调整之际，美债迎来强劲买盘。周四， 10 年期美债收益率下跌 19.3 个基点⾄ 4.952% ，创
-2023 年 3 ⽉银⾏业危机以来最⼤单⽇降幅。 2 年期美债收益率也⼤幅下⾏，反映出投资者对利率
-前景和短期⻛险的重新评估。
-债券⾛强与科技股下跌同步发⽣，说明投资者正在调整资产配置、寻求更具防御性的投资选
-
-择。但这并不必然意味着市场已转向衰退交易。地缘政治紧张局势、油价上涨，以及对美联储
-后续利率路径的重新判断，也可能共同推动资⾦流向美债。
-因此，周四⾏情更值得关注的并⾮单⽇涨跌，⽽是市场内部的资⾦偏好是否正在持续变化。如
-果科技股继续承压，其他板块维持强势，且美债需求保持旺盛，那么美股可能进⼊更⼴泛的⻛
-格再平衡阶段；反之，如果科技股⽌跌反弹，周四的分化也可能只是⼀次短期调整。
-眼下， AI 交易仍是观察美股⾛势的关键变量。市场并⾮简单地从看多转向看空，⽽是在重新衡量
-AI 投资的回报、科技股的估值，以及其他⾏业的相对吸引⼒。新⼀轮⻛格切换是否真正形成，还
-需要更多交易⽇的表现来验证。
-限免
-请发表您的评论
-表情 发布评论
-
----
-## Document 659: 米国2026年9月小売売上高は予想を大幅に上振れ ～高金利下での消費堅調が示すFRBの高金利長期化スタンス～
+## Document 683: 米国2026年9月小売売上高は予想を大幅に上振れ ～高金利下での消費堅調が示すFRBの高金利長期化スタンス～
 
 Source PDF: all report pdf/米国2026年9月小売売上高は予想を大幅に上振れ   ～高金利下での消費堅調が示すFRBの高金利長期化スタンス～.pdf
 Report source: DLRI
@@ -10997,7 +11300,98 @@ GDP成長率は同＋2.8％程度へ寄与すると予想される。
 原油先物 小売統計発表
 
 ---
-## Document 714: 視陽(6782,OW_增加持股)-CTBC261015
+## Document 707: 美国将氦列为关键材料，半导体制造是重要考量，全球供应中断风险上升
+
+Source PDF: all report pdf/美国将氦列为关键材料，半导体制造是重要考量，全球供应中断风险上升.pdf
+Report source: WallstreetCN (Global)
+Date: 2026-10-23
+Pages: 3
+Extraction status: ok
+
+### Page 1
+
+氦⽓在半导体冷却、光刻、泄漏检测等核⼼环节发挥着不可或缺的作⽤。⽬前美国氦⽓产
+能接近上限，扩张受制于建设与审批周期，卡塔尔因伊朗封锁霍尔⽊兹海峡导致氦⽓出⼝
+⼤幅萎缩，俄罗斯也于 4 ⽉对氦⽓出⼝实施临时管制。美能源部⻓表⽰，特朗普政府正致⼒
+于摆脱美国对外国关键材料的依赖。
+摘要：
+美国能源部将氦⽓正式列⼊关键材料清单，此举将为氦⽓⽣产商开辟更多联邦融资渠道，并强
+化政府对供应链的监控⼒度。在全球氦⽓供应⾯临多重扰动的背景下，这⼀决定凸显了氦⽓对
+半导体、量⼦计算及清洁能源等战略性产业的不可替代性。
+美国能源部⻓ Chris Wright 在声明中表⽰，特朗普政府正致⼒于摆脱美国对外国关键材料的依
+赖，以强化本⼟制造业、保障国家经济与安全。
+与此同时，卡塔尔因伊朗封锁霍尔⽊兹海峡导致氦⽓出⼝⼤幅萎缩，俄罗斯也于 4 ⽉对氦⽓出⼝
+实施临时管制，全球供应压⼒骤然上升。
+此次指定使氦⽓成为能源部关键材料清单上的第 20 个品种。美国半导体⾏业协会副会⻓ David
+Isaacs 表⽰，氦⽓在半导体冷却、光刻、泄漏检测等核⼼环节发挥着不可或缺的作⽤，⾏业期待
+
+与政府及产业界合作，共同提升半导体供应链韧性。
+供应⻛险升级，倒逼政策⾏动
+氦⽓被纳⼊关键材料清单的直接导⽕索，是全球供应格局的急剧恶化。卡塔尔与俄罗斯是仅次
+于美国的全球两⼤氦⽓⽣产国，但两者的出⼝均已受到严重冲击。
+据悉，伊朗因与以⾊列及美国的冲突关闭霍尔⽊兹海峡，导致卡塔尔氦⽓出⼝⼤幅受限，伊朗
+对卡塔尔基础设施的打击也进⼀步波及供应。俄罗斯则于今年 4 ⽉以保障国内供给为由，对氦⽓
+出⼝实施临时管制。
+美国能源部关键矿产与能源创新办公室助理部⻓ Audrey Robertson 指出，氦⽓具备不可燃、沸
+点为所有⽓体中最低等独特物理属性，⽬前尚⽆替代品。
+" 氦⽓可能成为单点故障环节，我们绝不能让这种情况发⽣， "Robertson 在接受采访时表⽰， " 这
+关乎美国的竞争⼒与能源安全，⽽能源安全就是国家安全。 "
+美国产能接近上限，扩张⾯临现实瓶颈
+尽管美国是全球最⼤的氦⽓⽣产国，但产能扩张的制约因素不容忽视。
+美国能源部数据显⽰，美国 2025 年氦⽓产量为 8100 万⽴⽅⽶，占全球供应量的 43% ，其中 3800
+
+万⽴⽅⽶⽤于出⼝。⾃ 2021 年以来，美国年产量始终维持在约 8000 万⽴⽅⽶的⽔平，增⻓陷⼊
+停滞。
+从资源储量来看，怀俄明州、堪萨斯州、德克萨斯州、俄克拉荷⻢州、科罗拉多州和犹他州均
+蕴藏丰富的氦⽓资源。然⽽，美国能源部指出，现有提取装置已趋于满负荷运营，新建提取设
+施需要数年时间完成审批与建设，这是制约产量提升的核⼼瓶颈。
+⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⻅闻历 搜索
+
+### Page 2
+
+⻛险提⽰及免责条款
+市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂
+中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
+128 收藏 分享到 :
+值得关注的是，美国曾在德克萨斯州设有类似战略⽯油储备的氦⽓国家战略储备。美国国会于
+2013 年⽴法要求将其私有化，美国⼟地管理局已于 2024 年将联邦氦⽓系统出售给⼯业⽓体公司
+Messer 。
+⾏业寻求政策红利，投资预期升温
+关键材料的认定将为氦⽓产业链带来实质性的政策⽀持，⾏业参与者对此态度积极。
+北美天然⽓勘探公司 Avanti Helium 此前已积极游说政府将氦⽓列为关键资源。该公司⾸席执⾏
+官 Chris Bakker 在声明中表⽰， " 美国具备保持氦⽓⾃给⾃⾜的潜⼒，但这需要对新储量勘探进
+⾏投资，纳⼊关键材料清单将为相关⼯作提供重要⽀持。 "
+美国半导体⾏业协会副会⻓ David Isaacs 亦表态欢迎，强调氦⽓在冷却、光刻及泄漏检测等半导
+体制造关键⼯序中的核⼼地位。
+
+关键材料认定意味着氦⽓⽣产商将获得更多联邦融资渠道，政府的监测与政策协调⼒度也将相
+应提升。
+美国能源部同时指出，氦⽓作为天然⽓处理的副产品，在提取过程中存在⼀定的环保争议，但
+哥伦⽐亚⼤学 Lenfast 可持续能源中⼼主任 Greeshma Gadikota 认为，相较于直接燃烧天然⽓，
+单独提取并使⽤氦⽓并不必然带来温室⽓体排放，若能配合氢⽓⽣产与固态碳捕集技术，其⽓
+候影响有望得到有效控制。
+氦⽓⽤途⼴泛，具有重要战略价值
+外界对氦⽓的印象往往停留于派对⽓球，但其战略价值远不⽌于此。
+美国能源部此次将氦⽓列⼊清单的核⼼逻辑，在于其对多个关键产业的⽀撑作⽤。Audrey
+Robertson 明确指出，半导体制造、量⼦计算与超级计算、超导磁体均依赖充⾜的氦⽓供应。
+此外，氦⽓在⻛能、太阳能、核能⽣产、太空探索及医学影像领域同样发挥着重要作⽤。
+按照美国能源部的认定标准，纳⼊关键材料清单的物质须在⼀项或多项能源技术中承担核⼼功
+能，且供应链存在较⾼中断⻛险。氦⽓是该清单中仅有的两种⽓体之⼀，另⼀种为氟。
+
+美国地质调查局曾于 2018 年将氦⽓列⼊关键矿产名单，但此后因国内供应被认为较为稳定⽽将
+其移出。此次美国能源部将其重新纳⼊关键材料清单，标志着政策层⾯对氦⽓供应安全形势的
+判断出现了根本性转变。
+限免
+
+### Page 3
+
+写评论
+图⽚
+请发表您的评论
+表情 发布评论
+
+---
+## Document 739: 視陽(6782,OW_增加持股)-CTBC261015
 
 Source PDF: all report pdf/視陽(6782,OW_增加持股)-CTBC261015.pdf
 Report source: line報告備份

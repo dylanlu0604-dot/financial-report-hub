@@ -3,7 +3,223 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 043: 2026年5月投資月報
+## Document 006: 115年9月全國賦稅收入初步統計 (2026-10-13)
+
+Source PDF: all report pdf/115年9月全國賦稅收入初步統計 (2026-10-13).pdf
+Report source: MOF
+Date: 2026-10-13
+Pages: 4
+Extraction status: ok
+
+### Page 1
+
+1
+
+網際網路 https://www.mof.gov.tw同步發送 
+下次發布日期：115 年 11 月 11 日下午 4 時
+
+聯 絡 人： 陳 巧 芸 科 長 
+電   話：02-2322-7555 
+115年 9月全國賦稅收入初步統計 
+一、全國賦稅收入 
+（一）本月數 
+9 月實徵淨額 4,965 億元，較上年同月增加 813 億元(+19.6%)。 
+（二）累計數 
+累計 1 至 9 月實徵淨額 3 兆 5,714 億元，較上年同期增加 7,004 億
+元(+24.4%)。 
+（三）達成率 
+1.中央政府總預算業於 9 月 18 日公布，稅課收入較原預算案提高
+6,000 億元，併計地方政府及特種基金後，全國稅課收入較預算案
+提高 5,852 億元，本次發布均改依法定數計算預算達成率(實徵淨
+額占全年預算數)。 
+2.累計 1 至 9 月實徵淨額占累計分配預算數 115.0%，占全年預算數
+78.8%。 
+圖 1 全國賦稅收入及年增率
+
+說明：115 年 5-7 月年增率跳動較大，係因 114 年所得稅結算申報及繳納期限延長至 6 月底所致。 
+財政部新聞稿 
+115 年 10 月 13 日發布 
+4,152 4,174 
+2,929 
+2,066 2,644 
+922 
+2,989 1,895 
+5,770 
+11,656 
+2,891 
+1,982 
+4,965 
+-1.9 
+19.3 
+6.1 8.4 20.5 
+-9.7 
+28.6 23.0 
+84.0 
+188.7 
+-67.0
+28.9 
+19.6 
+-50
+0
+50
+100
+150
+200
+-3,000
+0
+3,000
+6,000
+9,000
+12,000
+9月 10月 11月 12月 1月 2月 3月 4月 5月 6月 7月 8月 9月
+%億元 全國賦稅收入 年增率
+114年 115年
+-70
+
+### Page 2
+
+2
+二、主要稅目別變動
+（一）9 月實徵淨額與上年同月比較，以營業稅增加 297 億元、營利事業
+所得稅增加 254 億元及證券交易稅增加 222 億元較多。
+（二）累計 1 至 9 月實徵淨額與上年同期比較，以證券交易稅增加 3,077
+億元、營利事業所得稅增加 1,853 億元及營業稅增加 1,203 億元較多。
+圖 2 主要稅目別變化
+(115 年 1-9 月)
+1.營利事業所得稅
+(1)9 月實徵淨額 2,007 億元，較上年同月增加 254 億元(+14.5%)，主
+因暫繳稅款成長。
+(2)累計 1 至 9 月實徵淨額 1 兆 28 億元，較上年同期增加 1,853 億元
+(+22.7%)，主因結算申報自繳 、暫繳稅款 俱增及延分期稅款陸續
+入帳。
+2.綜合所得稅
+9 月實徵淨額 490 億元，較上年同月增加 34 億元(+7.4%)，主因扣繳
+稅款增加所致；累計 1 至 9 月實徵淨額 8,279 億元，較上年同期增加
+790 億元(+10.6%)，主因結算申報自繳增加，以及盈餘分配、薪資所
+
+得等扣繳稅款均呈成長。
+3.營業稅
+9月實徵淨額1,414億元，較上年同月增加297億元(+26.6%)，累計1至
+9月實徵淨額6,230億元，較上年同期增加1,203億元(+23.9%)，均因內
+需穩定，加以電子零組件 、資通與視聽產品 等進口代徵稅額增加 ，
+惟出口暢旺，適用外銷零稅率營業人申請退稅亦增，抵銷部分增幅。
+1,853
+790
+1,203
+-207
+3,077
+80 43
+-14
+22.7 10.6 23.9
+-19.2
+155.1
+7.0
+25.3
+-2.8
+-50
+0
+50
+100
+150
+200
+-500
+0
+500
+1,000
+1,500
+2,000
+營所稅 綜所稅 營業稅 貨物稅 證交稅 關稅 贈與稅 土增稅
+%億元 增減金額 年增減率
+4,000
+
+### Page 3
+
+3
+4.貨物稅
+(1)9月實徵淨額100億元，較上年同月減少11億元(-10.0%)，主因汽柴
+油減徵幅度擴大，惟電動車大量到港推升進口 車稅額，抵銷部分
+減幅。
+(2)累計1至9月實徵淨額874億元，較上年同期減少207億元(-19.2%)，
+除汽柴油降稅因素外 ，亦與新購汽機車及電動車之減免徵退稅增
+加有關。
+5.證券交易稅
+(1)9 月及累計 1 至 9 月上市上櫃股票平均每日成交值為 1 兆 317 億
+元、1 兆 1,461 億元，分別較上年同期(6,006 億元、4,451 億元)增
+71.8%、1.6 倍。
+(2)9 月 證 交 稅 實 徵 淨 額534 億 元， 較 上 年 同 月 增 加 222 億 元
+(+71.2%)；累計 1 至 9 月實徵淨額 5,060 億元，較上年同期增加
+3,077 億元(+1.6 倍)。
+6.關稅
+9 月實徵淨額 157 億元，較上年同月增加 3 億元(+1.9%)，累計 1 至 9
+月實徵淨額 1,224 億元，較上年同期增加 80 億元(+7.0%)，均因機械
+
+及電機設備、基本金屬及其製品等進口稅額增加。
+7.贈與稅
+9 月實徵淨額 23 億元，較上年同月增加 6 億元(+35.7%)，累計 1 至 9
+月實徵淨額 211 億元，較上年同期增加 43 億元(+25.3%)，主因大額
+稅款案件增加。
+8.土地增值稅
+9 月實徵淨額 56 億元，較上年同月增加 12 億元(+26.6%)，主因大額
+稅款案件增加；累計 1 至 9 月實徵淨額 504 億元，較上年同期減少
+14 億元(-2.8%)，主因房地交易量及大額稅款案件減少。
+9.印花稅
+9 月實徵淨額 31 億元，較上年同月增加 4 億元(+16.2%)，累計 1 至 9
+月實徵淨額 175 億元，較上年同期增加 15 億元(+9.0%)，主因銀行放
+款稅額成長。
+（三）前 9月主要稅目實徵淨額占分配預算數之比率：
+1.大於 100%者有證交稅(272%)、遺產稅(155%)、贈與稅(132%)、印花
+稅(130%)、營業稅(116%)、關稅(114%)、契稅(111%)、房屋稅(106%)、
+
+綜所稅(101%)、牌照稅(101%)及營所稅(101%)等。
+2.低於 100%者有貨物稅(98%)、菸酒稅(97%)、土增稅(85%)、地價稅
+(84%)及特銷稅(57%)等。
+
+### Page 4
+
+4
+三、各級政府賦稅收入概況
+(一)中央政府
+累計 1 至 9 月中央政府賦稅收入 (不含中央統籌分配稅款 )實徵淨 額
+2 兆 3,603 億元(占分配預算數 119.3%)，較上年同期增加 2,553 億元
+(+12.1%)，雖新版財政收支劃分法 開始施行，營業稅劃歸中央政府 比
+率大幅調降，減少 2,748 億元(-90.7%)，惟證交稅、所得稅分別增加 3,077
+億元、2,230 億元，互抵後呈現上升。
+(二)地方政府
+累計 1 至 9 月地方政府賦稅收
+入(含中央統籌分配稅款 )實徵
+淨額 1 兆 898 億元(占分配預
+算數 109.4%)，較上年同期增
+加 4,527 億元(+71.0%)，主因
+納入中央統籌分配 之營業稅
+增加 4,030 億元(+2.1 倍)所致。
+(三)中央特種基金
+累計 1 至 9 月撥入中央特種基金之健康福利捐實徵淨額 195 億元，較
+上年同期增加 2 億元(+0.8%)；房地合一課徵所得稅撥入住宅基金 135
+億元，較上年同期減少 7 億元(-4.7%)；撥入長照基金 883 億元(其中 541
+
+億元來自房地合一課徵所得稅、195 億元來自菸稅，146 億元來自遺贈
+稅)，較上年同期增加 8 億元(+0.9%)。
+四、附表
+表 1、全國賦稅實徵淨額統計表(初步統計)
+表 2、全國賦稅實徵淨額統計表(初步統計)－按政府別分
+表 3、中央政府賦稅實徵淨額統計表(初步統計)
+表 4、地方賦稅(含中央統籌)實徵淨額統計表(初步統計)
+表 5、歷年全國各類賦稅實徵淨額統計表
+表 6、歷年中央政府(不含特別預算)各類賦稅實徵淨額統計表
+表 7、土地增值稅件數及實徵淨額統計表(初步統計)
+表 8、房地合一課徵所得稅實徵淨額統計表(初步統計)
+119.3 109.4 91.9
+0
+50
+100
+150
+%
+圖3   各級政府賦稅收入達成率
+(115年1-9月)
+中央政府 地方政府 中央特種基金
+
+---
+## Document 044: 2026年5月投資月報
 
 Source PDF: all report pdf/2026年5月投資月報.pdf
 Report source: Yuanta (投資月報)
@@ -354,7 +570,7 @@ FOMC 會議與記者會舉辦的頻率等，將使 FOMC 決策透明度降低，
 用的優勢，因此建議可以中短天期美國公債/投資級債為主。
 
 ---
-## Document 046: 2026年8月投資月報
+## Document 047: 2026年8月投資月報
 
 Source PDF: all report pdf/2026年8月投資月報.pdf
 Report source: Yuanta (投資月報)
@@ -732,7 +948,7 @@ AI 基礎建設價格亦同步上升。FOMC 已開始討論，相關漲價究竟
 引力的息收，亦能降低短端政策波動及長端期限溢酬風險。
 
 ---
-## Document 055: 2026年9月29日投資研究週報
+## Document 056: 2026年9月29日投資研究週報
 
 Source PDF: all report pdf/2026年9月29日投資研究週報.pdf
 Report source: Mega Bank (投資研究週報)
@@ -1268,7 +1484,7 @@ FED 配置策略
 警 語
 
 ---
-## Document 060: 2026年9月经济数据点评：总量企稳的读数，结构分化的底色
+## Document 061: 2026年9月经济数据点评：总量企稳的读数，结构分化的底色
 
 Source PDF: all report pdf/2026年9月经济数据点评：总量企稳的读数，结构分化的底色.pdf
 Report source: 西南证券
@@ -1925,7 +2141,7 @@ GDP:不变价:第三产业:当季同比
 弱于大市：未来 6 个月内，行业整体回报低于同期相关证券市场代表性指数 -5%以下
 
 ---
-## Document 112: 261015_kgi_TSMC
+## Document 113: 261015_kgi_TSMC
 
 Source PDF: all report pdf/261015_kgi_TSMC.pdf
 Report source: line報告備份
@@ -2810,7 +3026,7 @@ Oct-25 Dec-25 Feb-26 Apr-26 Jun-26 Aug-26
 資料來源：TEJ，凱基
 
 ---
-## Document 115: 261015_ms_photonics
+## Document 116: 261015_ms_photonics
 
 Source PDF: all report pdf/261015_ms_photonics.pdf
 Report source: line報告備份
@@ -3239,273 +3455,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 179: 9月ＦＯＭＣ議事録：タカ派姿勢に滲む「データ依存」の慎重さ ～FRBは年内追加利上げを視野に入れるも、決定は今後の経済指標次第～
-
-Source PDF: all report pdf/9月ＦＯＭＣ議事録：タカ派姿勢に滲む「データ依存」の慎重さ   ～FRBは年内追加利上げを視野に入れるも、決定は今後の経済指標次第～.pdf
-Report source: DLRI
-Date: 2026-10-08
-Pages: 5
-Extraction status: ok
-
-### Page 1
-
-FED  Watching
-
-2026 年 10 月 8 日
-
-1/5 
-9 月ＦＯＭＣ議事録：タカ派姿勢に滲む「データ依存」の慎重さ 
-～FRB は年内追加利上げを視野に入れるも、決定は今後の経済指標次第～ 
- 経済調査部 主任エコノミスト  桂畑 誠治  
-（℡：050-5474-7493）
-
-要旨  
-・9 月FOMCでは全会一致（12 対 0）で 0.25%の利上げを決定。非投票メンバーを含む参加者 
-全 19 人が利上げに賛成した。 
-・経済・金利見通し（SEP）提出者の大半が年内（10 月または 12 月）の更なる利上げを見込 
-んでおり、全体としてタカ派的トーンが際立つ。 
-・インフレリスクは上振れ傾向にあるものの、中長期のインフレ予想は 2%目標水準に安定。 
-FRBは毎会合のデータ次第で柔軟に判断する「オープンな姿勢」を維持している。 
-・今後の見通しとしては、景気や労働市場が安定する中でコアCPIやコアPCEの鈍化が確認され 
-れば、予防的な追加利上げが見送られる可能性がある（最終決定は 12 月FOMCまでのデータ次
-第） 。
-
-１． 9 月FOMC ：参加者 19 人全員 が利上げ に賛成  
-ケビン・ウォーシュFRB議長の新体制下で初めての利上げが決定された 9 月FOMCの議事録が公表 
-された。新体制では会合直後の声明文のテキスト量が大幅に削減されたほか、記者会見時間も短
-縮され、直接的な情報発信量が絞り込まれている。そうした中で、後日公表される「議事録」の
-情報量は引き続き高水準に維持されており、FRBの本音を推し量る最重要ツールとしての重みが増
-している。ただし、公表がFOMC終了から 3 週間後となるため、情報の遅効性には注意が必要であ 
-る。 
-9 月の利上げ決定については、投票権のないメンバーも含めた参加者全員（19 人）が利上げに賛
-成した。さらに、経済・金利予測（SEP：議長自身は今回も SEP を提出していない）で示されていた 
-通り、SEP を提出した 18 人の参加者のうち大半が「年内（10 月 27-28 日または 12 月 15-16 日）に
-更なる利上げが適切となる可能性が高い」と見解を示しており、インフレへの強い警戒感を示すタ 
-カ派（金融引き締め寄り）なトーンが際立つものとなった。ただし、委員会として今後の政策判断 
-は新たに入手されるデータに依存（Data-dependent）するスタンスを明確に維持している。
-
-２．労働市場は完全雇用水準で安定、インフレには上振れリスク 
-委員会は全会一致（12 対 0）で、FF金利誘導目標レンジを 0.25％ポイント引き上げ、3.75％〜
-
-### Page 2
-
-2/5 
-4.00％とすることを決定した。労働市場が完全雇用に近い水準で安定している一方で、インフレ 
-率が高止まりしていることが背景にある。 
-インフレの判断では、参加者は共通して、 「インフレ率は高止まりしており、ここ数ヶ月でイン 
-フレ抑制に向けた十分な進展は見られていない」と指摘した。 「原油や精製燃料製品の価格を押し 
-上げた継続的な地政学的動向や、急増するAI関連投資がインフレ圧力に寄与している」との認識 
-が示された。 
-複数の参加者がコア財・コアサービス価格の上振れや、関税の影響に言及したほか、数名の参 
-加者がPCE指数の算出手法改定による影響や、3 ヶ月年率換算のインフレ率が年後半にインフレを 
-過小評価しやすい傾向に留意すべきだと警鐘を鳴らした。一方で参加者全員が、 「中長期のインフ 
-レ予想に関する市場ベースおよび調査ベースの指標が、委員会の 2％目標と一致する水準を維持し 
-ている」と判断しており、追加利上げを過度に急ぐ必要性は示されなかった。 
-労働市場に関しては、参加者は概ね「労働市場の状況が安定している」と判断し、 「完全雇用に 
-近い状態にある」と評価した。 「失業率が現在の水準付近にとどまり、労働市場の状況は引き続き 
-安定する」と予想した。一方で、数名の参加者が低水準の採用・解雇率など流動性の低下を指摘 
-し、一部の参加者がAI専門職における局所的な賃金上昇圧力に触れた。そのうえで、参加者は概
-ね「労働市場に対する上振れリスクと下振れリスクはほぼ均衡している」と評価した。 
-経済活動に関しても、参加者は一般に「堅調なペースで拡大している」と評価。 「地政学的動向 
-による供給面での悪影響が強まったものの、旺盛な設備投資と底堅い個人消費が経済活動を支え 
-ている」との判断が示された。なお、一部の参加者からは、AI関連投資が設備投資と潜在生産性 
-を押し上げる一方で中期的に総需要が総供給を上回るリスクや、株高などを背景とする金融環境 
-の緩和的状況、高所得層と低・中所得層における消費の二極化構造への懸念が指摘された。 
-以上のように、参加者は共通して「労働市場が完全雇用に近く力強さの兆候も見られる一方で 
-インフレ率は高止まりしており、経済活動が堅調なペースで拡大していること」を強調した。さ
-らに、ほぼすべての参加者が、 「インフレリスクは上振れに傾いているものの、労働市場に対する 
-リスクは減少し、現在はほぼ均衡している」と評価した。こうした経済見通しと変化するリスク 
-バランスに基づき、全参加者（19 人）がFF金利誘導目標レンジの引き上げが適切であると判断し
-た。
-
-3．政策金利の水準感とリスク管理の姿勢 
-今回の議論において注目されるのは、利上げの根拠と政策金利水準に対する見解の多様さであ 
-る。多くの参加者は、予想以上の需要や供給面での悪影響によりインフレ率が持続的に目標を上 
-回り続けることに対する保険（Insurance）を提供するため、誘導目標レンジを高めの軌道とする 
-ことがリスク管理上の観点から賢明であると強調した。 
-一方で、相当数の参加者はリスク管理上の観点からではなく、自身の標準的な見通し（Modal 
-outlooks）に基づいて高めの目標軌道が必要であると見なした。さらに、数名の参加者は中立金 
-利の推計値を引き上げたことに触れ、現在の政策金利は「緊縮的ではない、あるいは極めて緩や
-
-### Page 3
-
-3/5 
-3.60 
-3.70 
-3.80 
-3.90 
-4.00 
-4.10 
-4.20 
-4.30 
-4.40 
-4.50 
-4.60 
-4.70 
-4.80 
-26年10月
-11月
-12月
-27年1月
-2月
-3月
-4月
-5月
-6月
-7月
-8月
-9月
-10月
-11月
-12月
-28年1月
-2月
-3月
-4月
-（資料）ＦＦ金利先物イールドカーブ 
-2026/10/5 
-2026/10/6 
-2026/10/7 
-（％） 
-（出所）Bloombergより作成 
-かに緊縮的であるに過ぎない」とのタカ派的な認識を示した。これは、今後の引き締め継続を正
-当化する材料となる。 
-また、バランスシート政策に関しては、数名の参加者が国債市場の円滑な機能を認めつつも、 
-将来の市場不全に備えたツールやコミュニケーションの強化を提案したことが確認された。
-
-４．先行きに対する見通し 
-今回の会合以降の金融政策の見通しに関して、大半の参加者（SEP提出者 18 人のうち）が年末 
-までにFF金利誘導目標レンジを再度引き上げることが適切となる可能性が高いとの見方を示し 
-た。ただし、全員が共通のスタンスとしてオープンな姿勢で各会合に臨み、今後の決定は新たに 
-入手する情報と、それが経済見通しおよびリスクバランスに与える含意に依存することを強調、
-毎会合ごとに判断されることを示し、政策の自由度を維持した。 
-今回の議事録は全体として「年内追加利上げ」に前向きなタカ派的トーンが目立ったものの、 
-インフレ予想の安定や「毎会合データ次第」というスタンスから、FRBが無理な連続利上げを焦っ 
-ているわけではないことが示された。今後の金融政策の焦点を左右するのは、10 月・12 月FOMCま
-でに発表される景気、労働市場や、コアCPI、コアPCEの動向である。景気や労働市場の安定が続 
-くと予想されるもとで、インフレの鈍化傾向が確認される場合、予防的な追加利上げは見送られ 
-る可能性がある（最終決定は今後のデータ次第） 。
-
-### Page 4
-
-4/5
-前回 前回 前回 前回 前回
-実質ＧＤＰ 2.3 2.2 2.4 2.3 2.2 2.2 2.1 2.0 2.0
-失業率 4.1 4.3 4.1 4.3 4.1 4.2 4.1 4.2 4.2
-ＰＣＥデフレーター 3.7 3.6 2.3 2.3 2.1 2.0 2.0 2.0 2.0
-ＰＣＥコアデフレーター 3.4 3.3 2.5 2.5 2.2 2.1 2.0
-ＦＦレート 4.1 3.8 4.1 3.6 3.9 3.4 3.6 3.2 3.1
-(注)実質ＧＤＰ、ＰＣＥデフレーター、ＰＣＥコアデフレーターは１０～１２月期の前年同期比の伸び率。
-失業率は１０～１２月期の平均値。
-(出所)ＦＲＢ資料より作成
-2029年
-中央値 中央値 中央値 中央値 中央値
-2026年 2027年 2028年 長期
-(資料)ＦＯＭＣ参加者の経済予測：26年9月(前回26年6月)
-26年末 27年末 28年末 長期 26年末 27年末 28年末 29年末 長期
-4.500 4.500
-4.375 1 1 4.375 4 8
-
-4.250 4.250
-4.125 5 2 4.125 12 6 4
-4.000 4.000
-3.875 3 5 3 1 3.875 2 5 3 2
-3.750 1 3.750 1
-3.625 8 2 5 1 3.625 3 3 7 2
-3.500 1 3.500 2
-3.375 1 3 2 2 3.375 1 2 1
-3.250 1 3.250 2
-3.125 4 6 2 3.125 1 4 4 1
-3.000 7 3.000 6
-2.875 1 1 2 2.875 1 1
-2.750 2.750
-2.625 2.625
-2.500 2.500
-2.375 2.375
-2.250 2.250
-2.125 2.125
-2.000 2.000
-(注)青丸は中央値を示す (注)青丸は中央値を示す
-ＦＯＭＣ委員のＦＦ金利予想（2026年6月） ＦＯＭＣ委員のＦＦ金利予想（2026年9月）
-1
-9
-1
-9
-
-### Page 5
-
-経済研究所が信ずるに足ると判断した情報に基づき作成していますが、その正確性、完全性に対する責任は負いません。見通しは予告
-なく変更されることがあります。また、記載された内容は、第一生命保険ないしはその関連会社の投資方針と常に整合的であるとは限
-りません。
-5/5
-
----
-## Document 220: AI军备竞赛烧向上游！报道称英特尔、英伟达、AMD预付逾千亿台币锁定高阶IC载板产能
-
-Source PDF: all report pdf/AI军备竞赛烧向上游！报道称英特尔、英伟达、AMD预付逾千亿台币锁定高阶IC载板产能.pdf
-Report source: WallstreetCN (Global)
-Date: 2026-10-24
-Pages: 2
-Extraction status: ok
-
-### Page 1
-
-英伟达、英特尔与 AMD 豪掷 50 亿美元预付款，疯抢台湾⾼阶 IC 载板。受 “ 砸钱锁单 ” 驱动，
-台系载板三强狂掷 1612 亿新台币扩产创纪录。巨头重⾦绑定产能，尽显 AI 核⼼材料的极致
-紧缺博弈。
-摘要：
-据台湾《经济⽇报》报道，英伟达、英特尔、 AMD 三⼤科技巨头为抢占 AI 供应链关键产能，已
-向中国台湾⾼阶 IC 载板⼚合计预付逾新台币千亿元（约 50 亿美元）订⾦，锁定⻓期产能供应。
-受此驱动，台湾载板三强欣兴、景硕与南电今年累计宣布投资建⼚规模达 1612 亿元新台币，创
-下历史新⾼。
-英特尔执⾏⻓陈⽴武（ Lip-Bu Tan ）此前公开表⽰， AI 需求带动先进封装与芯⽚需求，上游 IC 载
-板及材料供应持续吃紧，已有多家客⼾主动提前⽀付预付款，以协助英特尔锁定载板与产能。
-法⼈据此推估，英特尔⻓期预购载板产能⾦额约 30 亿美元。
-AMD 此前宣布投资台湾百亿美元，业界普遍解读为锁定供应链产能，其中载板相关投资估计约
-10 亿美元；英伟达亦宣布与多家核⼼供应链合作伙伴推进⼤规模扩产计划，外界推测其对台⼚
-
-载板投资规模同样约 10 亿美元，且存在进⼀步追加的可能性。
-欣兴：资本⽀出居同业之冠，斥资百亿收购⼚房
-据上述报道，欣兴今年资本⽀出规模在载板⼚中排名⾸位。公司董事会此前决议追加今年资本
-⽀出 197 亿元新台币，使全年资本⽀出总额升⾄ 537 亿元，同步⼤⼿笔采购⻓交期设备，相关采
-购订单⾦额亦再追加 176 亿元。
-在⼟地与⼚房布局⽅⾯，欣兴于 9 ⽉底公告以约 100.8 亿元新台币收购台湾普利司通湖⼝⼚办，
-⽤于应对客⼾未来⾼阶载板产能扩充需求。公司公告指出，此次收购⼟地系基于中⻓期营运发
-展策略，旨在进⾏整体⽣产配置与产能规划。
-景硕：转型⾼阶载板，三年扩产预算逾四百亿
-景硕近年持续从传统 PCB ⽣产淡出，集中资源转型⾼阶载板业务。董事会已拍板资本⽀出 235 亿
-元新台币，以满⾜未来三年 ABF 载板产能扩充所需设备投资，其中 2026 年计划⽀出 80 亿元， 60
-亿元将专项⽤于 ABF 载板投资。
-此外，景硕董事会还额外新增专案资本⽀出预算 196 亿元，进⼀步强化扩产⼒度，合计扩产预算
-
-总额超过四百亿元新台币。
-南电：兴建智慧⼯⼚，单项投资近五百亿
-南电董事会此前通过决议，将新增资本⽀出⽤于兴建专注⼤尺⼨、⾼层数⾼阶载板的智慧⼯
-⼚，预计投资⾦额达 468 亿元新台币，为三家⼚商中单项投资额最⾼。
-AI 基础设施军备竞赛向上游蔓延
-三⼤科技巨头合计对台湾载板产业的投资估计达 50 亿美元（约合新台币 1629 亿元），折射出 AI 基
-础设施建设对上游关键材料与封装基板的深度依赖。载板作为连接芯⽚与电路板的核⼼中介元
-⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⻅闻历 搜索
-
-### Page 2
-
-⻛险提⽰及免责条款
-市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂
-中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
-68 收藏 分享到 :
-写评论
-图⽚
-件，其供应瓶颈已直接影响整体 AI 供应链的产能释放节奏。
-客⼾以⼤额预付款锁定产能的模式，⼀⽅⾯为台湾载板⼚商的⼤规模资本⽀出提供需求能⻅度
-⽀撑，另⼀⽅⾯也显⽰科技巨头对供应链安全的优先级已提升⾄主动绑定资源的层⾯。今年台
-湾载板⼤⼚宣布的累计投资额创下 1612 亿元新台币的历史新⾼，反映市场对 AI 相关载板需求的
-⻓期乐观预期。
-限免
-请发表您的评论
-表情 发布评论
-
----
-## Document 293: France’s unrest adds to an already toxic economic mix
+## Document 295: France’s unrest adds to an already toxic economic mix
 
 Source PDF: all report pdf/France’s unrest adds to an already toxic economic mix.pdf
 Report source: ING Think
@@ -3708,7 +3658,244 @@ encadré de l’édition 2018 de L’économie française,
 comptes et dossiers (Insee). /c110
 
 ---
-## Document 332: Open mouth operations (2026-10-25)
+## Document 300: GLOBAL MARKETS CALL_ Bond Yields Ease
+
+Source PDF: all report pdf/GLOBAL MARKETS CALL_ Bond Yields Ease.pdf
+Report source: researchmail轉寄
+Date: 2026-10-25
+Pages: 9
+Extraction status: ok
+
+### Page 1
+
+From:    Yardeni QuickTakes <yardeni-research@ghost.io>
+Subject: GLOBAL MARKETS CALL: Bond Yields Ease
+Date:    3 hours ago
+GLOBAL MARKETS CALL: Bond Yields Ease
+
+YARDENI QUICKTAKES
+GLOBAL MARKETS CALL: Bond
+Yields Ease
+By Ed Yardeni & Toby Hearst • 25 Oct 2026
+View in browser
+Photo by Jeffrey Hamilton / Unsplash
+
+Bond yields eased in most major markets last week, but France was the
+glaring exception. In stocks, the global AI selloff kept hitting the equities
+markets that had gained the most this year, putting the US back ahead of
+the All Country World ex-US ytd. That supports our downgrade last week
+of Go Global to market weight, though the fundamental case for overseas
+stocks remains strong. Here's more:
+I. Global Bonds
+
+### Page 2
+
+Yields fell in five of the eight major bond markets we track (chart). The US
+10-year Treasury yield fell to 5.00%. France's yield jumped 24bps to
+5.02%, slightly surpassing the US’s. Yields also fell in the UK, Australia,
+Germany, and Japan.
+The spread between French and German 10-year yields widened 31bps
+last week to 167.9bps (chart). Last week, we wrote that contagion from
+France had eased for now. It’s back. Italy’s spread widened to 123.9bps
+
+from 106.6bps. Greece’s widened to 105.0bps from 90.8bps. Italy’s 10-
+year bond now yields 44bps less than France’s.
+II. Global Stocks
+Brazil remains at the top of the country ETF rankings mtd, up 14.3% in
+dollars (chart). South Korea remains at the bottom, down 17.2%. The US
+
+### Page 3
+
+is down just 0.3%, while the All Country World ex-US ETF is down 2.8%.
+Go Global no longer leads Stay Home this year. The US ETF is up 11.4%
+ytd, ahead of the All Country World ex-US ETF's 9.5% (chart). Taiwan
+(65.1%) and South Korea (55.6%) still top the ytd rankings, followed by
+Brazil (34.1%). China (-15.6%) and Indonesia (-43.3%) are at the bottom.
+
+### Page 4
+
+III. Global Earnings & Valuations
+The US MSCI's share of the All Country World MSCI's market cap has
+edged up to 65.0% (chart). The Emerging Markets (EM) MSCI’s share
+slipped to 11.7% from 12.1% last week.
+Yet the EM MSCI now accounts for 20.2% of the All Country World MSCI’s
+forward earnings (chart). That’s more than Europe’s 15.0%. It’s the first
+
+### Page 5
+
+time that EM has overtaken Europe since the data began in 1995. The US
+accounts for 54.4% of forward earnings, well below its market-cap share.
+That mismatch shows up in valuations. The US MSCI’s forward P/E is
+19.2 versus 12.2 for the All Country World ex-US (chart). The ex-US
+multiple has dropped from 15.7 in January even as its forward earnings
+soared. The EM MSCI trades at just 9.0.
+IV. In Focus
+(1) Brazil. Brazil’s MSCI stock price index is up 22.2% ytd in local
+
+currency and 31.0% in dollars (chart). The real has gained 8.0% against
+the dollar this year. In dollar terms, the index remains less than half its
+2008 peak. Stocks rallied after Senator Flávio Bolsonaro took a surprise
+lead in the October 4 first round. He held a narrow edge in the final polls
+
+### Page 6
+
+before the October 25 runoff against President Luiz Inácio Lula da Silva. A
+Bloomberg poll released on October 19 gave Bolsonaro 51.1% of valid
+votes against 48.9% for Lula.
+Valuations aren’t stretched. Brazil’s forward P/E is 9.2 (chart). That’s
+below its 2025 high of 10.7. The catch is that analysts expect earnings to
+grow 44.6% this year but just 0.6% in 2027.
+Brazil’s central bank has room to ease. It has lowered the Selic rate to
+13.75% from a peak of 15.00% (chart). Inflation was 4.6% in September.
+
+That leaves a real policy rate of about 9%.
+
+### Page 7
+
+(2) China. China’s property bust is deepening. The Shenzhen Real Estate
+Stock Price Index fell to 953.55, breaking below the floor that had held
+since 2012 (chart). Last week, we wrote that we would worry if it did that.
+Now we are worried. Real estate investment is down 20.6% through the
+first nine months of the year. Exports continue to carry the economy.
+Beijing’s stabilization efforts haven’t stopped the selling. The China ETF
+(FXI) fell 4.5% last week. Chinese technology stocks have missed the AI
+
+rally that lifted US tech (chart). The China Technology ETF (CQQQ) is at
+40.26, far below its 2021 peak.
+
+### Page 8
+
+China’s bond market confirms the deflationary picture. The 10-year
+government bond yield is down to 1.62% (chart). It’s one of only two major
+yields that have fallen this year. China’s yield is now well below Japan’s
+2.80%.
+💡
+Join the discussion with Ed below! To leave comments or questions,
+log in to the Yardeni QuickTakes website and post them at the end
+of the QuickTakes article. Paid members' contributions may be
+featured in our segment, "Ed Answers Your Questions".
+
+### Page 9
+
+clause.
+Yardeni QuickTakes © 2026 – Unsubscribe
+
+---
+## Document 335: OPECプラス、２ヵ月連続で生産目標据え置き ～Ｇ７は備蓄放出の方針も、原油市場は生産枠より中東の供給制約を注視する展開が続く～
+
+Source PDF: all report pdf/OPECプラス、２ヵ月連続で生産目標据え置き ～Ｇ７は備蓄放出の方針も、原油市場は生産枠より中東の供給制約を注視する展開が続く～.pdf
+Report source: DLRI
+Date: 2026-10-05
+Pages: 3
+Extraction status: ok
+
+### Page 1
+
+World Trends
+
+2026 年 10 月 5 日
+
+1/3 
+OPEC プラス、２ヵ月連続で生産目標据え置き 
+～Ｇ７は備蓄放出の方針も、原油市場は生産枠より中東の供給制約を注視する展開が続く～ 
+ 経済調査部 主席エコノミスト  西濵 徹 
+（℡：050-5474-7495）
+
+（要旨） 
+○ OPEC プラスの有志７ヵ国は10 月４日の会合で、11 月の原油生産目標を９月の水準に据え置
+くことを決定し、２ヵ月連続で増産を見送った。有志国は今年４月以降、2023 年に表明した
+自主減産を段階的に縮小し、９月にはその解消を完了したものの、その後は市場環境や加盟
+国の生産状況を見極める姿勢に転じている。 
+○ ただし、今回の据え置きは原油高を容認したものではなく、イラン情勢の混乱によって中東
+産油国が生産目標を引き上げても実際の供給を十分に増やせないことが背景にある。有志７
+ヵ国の８月の生産量は、イラン情勢悪化前の２月を日量約500 万バレル下回り、湾岸産油国
+の輸出も平時の６～８割程度にとどまる。このため、これまでの増産措置は供給不足の緩和
+につながらず、国際原油価格は高止まりしている。Ｇ７は原油高対策を目的に、備蓄放出に
+動く方針を打ち出したが、需給逼迫の解消には中東からの供給回復が不可欠である。 
+○ また、OPEC プラスの合同閣僚監視委員会は、 海上輸送ルートの確保やエネルギー関連インフ
+ラへの攻撃に強い懸念を示しており、原油市場の焦点は生産枠そのものより、ホルムズ海峡
+を中心とする輸送ルートや中東産油国の生産 ・ 輸出能力に移っている。 先行きもOPEC プラス
+が早期に増産路線へ復帰する可能性は低く、当面の原油価格はホルムズ海峡の航行状況や中
+東の供給正常化に大きく左右される展開が続くと予想される。
+
+主要産油国の枠組みである OPEC プラスの有志７ヵ国（サウジアラビア、ロシア、イラク、クウ
+ェート、 カザフスタン、 アルジェリア、 オマーン） は、10 月４日にオンラインで閣僚会合を開催し、
+11 月の原油生産目標を９月の水準に据え置くことを決定した。９月６日に開催 した前回会合でも
+10 月の生産目標を９月の水準に据え置いており（注１）、増産を見送るのは２ヵ月連続となる。有
+志国は今後も毎月会合を開催して市場環境を点検し、次回会合は11 月１日に予定されている。 
+有志国は、2023 年４月に表明した日量約165 万バレル規模の自主減産について、今年４月以降、
+
+注１ ９月７日付レポート「OPEC 有志７ヵ国､自主減産終了後の10 月は様子見姿勢で合意」 
+  （https://www.dlri.co.jp/report/macro/654829.html）
+
+### Page 2
+
+2/3 
+段階的な縮小に動いてきた。特に７～９月は毎月日量 18.8 万バレルずつ生産目標を引き上げ、９
+月には同自主減産の解消を完了した。一方、９月の会合では 10 月の生産目標を据え置く方針に転
+じ、今回もその方針が維持された。 
+OPEC プラスは、 世界的な景気や原油需要の動向など市場環境を見極めるとともに、 加盟国による
+生産目標の順守状況にも目配りする姿勢を示している。もっとも、 今回の据え置き決定は原油高を
+容認したと判断するのは適切ではないであろう。背景には、イラン情勢を巡る混乱により、中東産
+油国が生産目標を引き上げても、 原油供給を十分に増やすことが難しい状況にあることが挙げられ
+る。有志７ヵ国の８月の原油生産量は日量約 2,500 万バレルと、前月から 63 万バレル増加したも
+のの、 イラン情勢が悪化する前の２月と比較して約 500 万バレル少ない水準にとどまった。 湾岸産
+油国の原油輸出も、このところ平時の６～８割程度にとどまる状況が続いている。このため、これ
+までの生産目標引き上げの多くは「絵に描いた餅」となり、原油市場の供給不足を十分に緩和する
+には至っていない。 
+こうした状況を反映して、 国際原油価格は高止まりしている（図１）。このため、原油高によるイ
+ンフレ圧力や世界経済への悪影響が懸
+念される。こうしたなか、Ｇ７（主要７
+ヵ国）は９月２日、ＩＥＡ（国際エネル
+ギー機関） を通じて原油や石油製品など
+合計１億バレルを４ヵ月にわたって協
+調放出する方針を表明した。 特に、供給
+逼迫が深刻な軽油について、当初 20 日
+間に前倒しで放出することで市場の安
+定を図るとしている。 しかし、 有志７ヵ
+国の生産量が２月と比較して日量約500
+万バレル少ないことを勘案すれば、 備蓄
+放出のみで需給逼迫を解消することは難しく、中東地域からの供給回復が不可欠である。 
+さらに注目されるのが、 有志国会合と同日に開催されたOPEC プラスの合同閣僚監視委員会 （JMMC）
+の声明である。JMMC は「国際的な海上輸送ルートを確保し、 エネルギーの流れを途絶させないこと
+が極めて重要」との認識を示した。また、エネルギー関連インフラへの攻撃についても「損傷した
+設備の復旧には多額の費用と時間を要し、 供給能力そのものに悪影響を与える」との懸念を示した。
+これは、足元の原油市場における最大の問題が OPEC プラスの生産目標ではなく、ホルムズ海峡を
+中心とする輸送ルートや中東産油国の生産・輸出能力に移っていることを示唆する。 
+先行きについても、OPEC プラスが早期に増産路線に復帰する可能性は低いとみられる。OPEC プ
+ラス全体では、なお日量約200 万バレル規模の減産措置が年末まで残されている。一方、加盟国の
+実際の生産能力を精査する作業は、 イラン情勢に伴う混乱により遅れている模様である。生産能力
+の評価は、2027 年以降の各国の生産基準を決定するうえで重要となるため、OPEC プラスとしても
+目先の追加増産より、2027 年以降の生産体制の構築に軸足を移している可能性が高い。 
+図 1 原油価格の推移
+
+（出所）LSEG より第一ライフ資産運用経済研究所作成 
+50
+60
+70
+80
+90
+100
+110
+120
+26/1 26/3 26/5 26/7 26/9
+(ドル/バレル) WTI ブレント
+
+### Page 3
+
+経済研究所が信ずるに足ると判断した情報に基づき作成していますが、その正確性、完全性に対する責任は負いません。見通しは予告
+なく変更されることがあります。また、記載された内容は、第一生命保険ないしはその関連会社の投資方針と常に整合的であるとは限
+りません。
+3/3
+このため、 当面の原油価格を左右する材料としては、OPEC プラスが生産枠をどの程度引き上げる
+か以上に、ホルムズ海峡の航行状況や中東産油国の輸出回復が重要になる。有志国は 11 月１日に
+12 月の生産方針を協議する予定であり、その後、11 月 29 日には JMMC も開催される。中東情勢の
+先行きが見通しにくいなか、OPEC プラスにとっては、 原油価格の安定と世界市場への供給確保を両
+立させる難しい政策運営が続くことになろう。
+以 上
+
+---
+## Document 336: Open mouth operations (2026-10-25)
 
 Source PDF: all report pdf/Open mouth operations (2026-10-25).pdf
 Report source: Westpac IQ
@@ -3985,7 +4172,7 @@ This communication is not intended for distribution to, or use by any person or 
 jurisdiction or country where such distribution or use would be contrary to local law or regulation.
 
 ---
-## Document 333: Opportunities from the bond sell-off
+## Document 337: Opportunities from the bond sell-off
 
 Source PDF: all report pdf/Opportunities from the bond sell-off.pdf
 Report source: 渣打銀行 (Weekly Market Views)
@@ -5028,7 +5215,130 @@ incorporated in Zambia and registered as a commercial bank and licensed by the B
 Services Act Chapter 387 of the Laws of Zambia.
 
 ---
-## Document 371: Top of Mind - Higher Bond Yields_ How Concerning_
+## Document 364: The Next 90_ Your Geopolitical Risk Radar _ Oct–Dec 2026 (2026-09-29)
+
+Source PDF: all report pdf/The Next 90_ Your Geopolitical Risk Radar _ Oct–Dec 2026 (2026-09-29).pdf
+Report source: DB Research
+Date: 2026-09-29
+Pages: 3
+Extraction status: ok
+
+### Page 1
+
+Deutsche Bank Research Institute
+
+### Page 2
+
+Miha Hribernik, Helen Belopolsky | The Next 90: Your Geopolitical Risk Radar | Oct – Dec 2026 |  September 2026
+Note: The calendar contains selected key events and is not intended to provide an exhaustive list.
+The Next 90: Your Geopolitical Risk Radar | Oct–Dec 2026
+A geopolitical calendar mapping the next 90 days
+OCTOBER
+NOVEMBER
+DECEMBER
+3 Latvia General election
+4 Brazil General election
+4 Bosnia and Herzegovina General election
+5-28 Canada
+General election in Quebec,
+
+municipal elections in British
+Columbia, Ontario and Manitoba
+9-17 Czech Republic Senate and municipal elections
+8-9 EU/China Trade talks in Beijing; EU deadline for “tangible results”
+12-18 IMF/World Bank Annual meetings of the IMF and WB in Bangkok
+15-16 EU European Council meeting
+19 Canada Alberta independence referendum
+20-22 Germany Berlin Global Dialogue
+24 Slovakia Municipal and regional elections
+24 EU/GCC Second EU-GCC Summit
+25 Bulgaria Presidential election
+
+26-29 China Fifth Plenum of China’s Central Committee
+27 Israel Legislative election
+29-30 EU/Canada EU-Canada Summit
+30-31 G20 G20 Foreign Ministers’ Meeting in Atlanta
+3-4 OSCE Ministerial Council in Switzerland
+4 US
+Section 232 tariffs (15% ad
+valorem) and minimum import
+prices on polysilicon, derivatives
+and solar products set to enter
+into force
+5 The Gambia Presidential election
+5-6 Doha Forum Qatar’s flagship dialogue themed “Redefining Global Trust”
+
+10-11 EU
+Eurogroup and Economic and
+Financial Affairs Council (ECOFIN)
+meetings
+13 Haiti General election
+14 EU Foreign Affairs Council meeting
+14-15 G20 G20 Summit in Miami
+17-18 EU European Council Summit
+31 OPEC+ Expiry of the current group-wide production framework
+TBD US
+US Congress is set to adopt
+annual-must pass defence
+legislation
+TBD China Annual Central Economic Work Conference
+3 US
+Midterm elections (House,
+Senate, gubernatorial and state
+
+legislatures)
+4 South Africa Municipal elections
+4-5 Spain Ibero-American Summit
+7 New Zealand General election
+9 EU
+Eurogroup and Economic and
+Financial Affairs Council (ECOFIN)
+meetings
+9-20 COP31 COP31 in Türkiye
+10-12 ASEAN 49th ASEAN Summit in Metro Manila
+18-19 APEC APEC Economic Leaders’ Meeting in Shenzhen
+28 Taiwan Local elections
+28
+Palestinian
+National
+Authority
+Legislative election
+30-1 Dec EU/Argentina EU-Argentina Investment and Business Forum in Buenos Aires
+
+TBC US/North Korea Potential meeting between Donald Trump and Kim Jong-un
+1
+
+### Page 3
+
+and research from Deutsche Bank Research, economists, strategists, and research analysts.  Accordingly, you should assume that content in this document is based on or was
+previously published and provided to Deutsche Bank clients who may have already traded on the basis of it.
+Any views or estimates expressed in this material reflect the current views of the author(s) and may differ from the views and estimates of Deutsche Bank AG, its affiliates, other
+
+Deutsche Bank personnel, and other materials published by Deutsche Bank.  The content in this material is valid as of the date shown on the first page and may change without
+notice.  Deutsche Bank has no obligation to provide any updates or changes to the information herein.
+This material should not be used as a basis for trading securities or other financial products and should not be considered to be a recommendation or individual investment advice
+
+instrument. Nothing in this material constitutes investment, legal, accounting or tax advice.  Deutsche Bank engages in secur ities transactions, including on a proprietary basis,
+and may do so in a manner inconsistent with the views or information expressed in this material.
+While information in this material has been obtained from sources believed to be reliable, neither Deutsche Bank AG nor any o f its affiliates makes any representation or warranty,
+
+Deutsche Bank AG Frankfurt, licensed to carry on banking business and to provide financial services under the supervision of the European Central Bank (ECB) and the German
+Federal Financial Supervisory Authority (BaFin). In the United Kingdom this information is approved and/or communicated by Deutsche Bank AG, London Branch, a member of the
+London Stock Exchange, authorized by UK’s Prudential Regulation Authority (PRA) and subject to limited regulation by the UK’s Financial Conduct Authority (FCA) (under number
+
+150018) and by the PRA. This information is distributed in Hong Kong by Deutsche Bank AG, Hong Kong Branch, in Korea by Deutsche Securities Korea Co. and in Singapore by
+Deutsche Bank AG, Singapore Branch. In Japan this information is approved and/or distributed by Deutsche Securities Limited, Tokyo Branch. In Australia, retail clients should
+obtain a copy of a Product Disclosure Statement (PDS) relating to any financial product referred to in this report and consider the PDS before making any decision about whether
+
+prior written consent.  You also agree that you shall not scrape, extract, download, upload, sell or offer for sale any of the content in this material, and you agree not to use, or
+cause to be used, any computerized or other manual or automated program or mechanism, tool, or process, including any scraper or spider robot, to access, extract, download,
+scrape, data mine, display, transmit, or publish, any of the content in this material.
+Appendix 1
+
+2
+
+---
+## Document 375: Top of Mind - Higher Bond Yields_ How Concerning_
 
 Source PDF: all report pdf/Top of Mind - Higher Bond Yields_ How Concerning_.pdf
 Report source: Goldman Sachs (Top of Mind)
@@ -8224,141 +8534,11 @@ harvest, extract, or retrieve this information, without the express written cons
 may result in termination of your right to access this service.
 
 ---
-## Document 407: 【健護產業攻略】健護產業長期獲利分化
-
-Source PDF: all report pdf/【健護產業攻略】健護產業長期獲利分化.pdf
-Report source: CTBC
-Date: 2026-10-01
-Pages: 2
-Extraction status: ok
-
-### Page 1
-
-不做任何擔保，如有錯漏或疏忽，本行並不負任何法律責任。任何人因信賴此等資料而做出或改變投資決策，應審慎衡量本身之需求及投資之風險，並就投
-資結果自行負責。未經本公司許可，本資料及訊息不得逕行抄錄、翻印或另作派發。本行以上市場資訊與分析，不涉及特定投資標的之建議。
-健護產業長期獲利分化
-分析師／林珍安
-研究範疇／健護
-熱門議題 / 投資關鍵
-市場投資展望
-預期銷量成長抵銷降價壓力仍看好
-製藥，醫療器材喜憂參半，管理式
-醫理式醫療星級獎金與醫療成本控
-管力使長期獲利分化。
-pg1
-重點摘要
-本月關鍵圖表
-資產 4Q26看法 投資展望
-健護 正向 預期銷量成長抵銷降價壓力仍看好製藥，醫療器材喜憂參半，管理式醫
-理式醫療星級獎金與醫療成本控管力使長期獲利分化。
-1
-《GLP-1公司展望分歧 ，製藥多受惠新藥銷售成長 》
-近月GLP-1領域因市場轉關注諾和諾德 (NVO)在巴
-西、加拿大等新興市場因 semaglutide專利到期 ，
-在糖尿病症恐面臨降價壓力抵銷預期銷量倍數成長 ，
-公司雖重申主要市場美國核心專利於 2032年才到期，
-
-減重仍有其他專利保護 ，但計入五款重磅藥物 ，整
-體2026–2030年營收複合年增長率(CAGR)僅與大型
-製藥同業平均約4-7%年增率相似，使股價大幅下修。
-因市場擔憂 GLP-1降價壓力及減重口服藥初期銷量
-較慢，近月修正禮來股價估值 ，但七月醫療保險過
-渡計畫覆蓋 GLP-1減重藥，已70萬名老年新患者採
-用，其中七成為禮來產品 Zepbound，口服新患者
-1/3使用禮來Foundayo，預期後續銷售增溫 ，加上
-減重自費及國際市場成長 ，市場對禮來仍維持雙位
-數成長預估。其他製藥業也因腫瘤藥、免疫等核心
-資料來源：JP Morgan，2026/9/18，中國信託商業銀行整理，
-2026/9/30
-來減重口服藥及針劑穩定成長
-• 個別GLP-1因海外專利到期 ，
-對長期展望較保守 ，但預期其
-他藥廠受惠銷量成長抵銷降價
-影響，成長動能仍高 ，其他藥
-廠受惠腫瘤 、免疫核心新藥維
-持穩定成長。
-健護產業投資攻略
-出 刊 日 : 2026/10/1
-美國減重藥市場銷售
-每
-週
-處
-方
-
-交
-易
-量(
-千)
-
-### Page 2
-
-不做任何擔保，如有錯漏或疏忽，本行並不負任何法律責任。任何人因信賴此等資料而做出或改變投資決策，應審慎衡量本身之需求及投資之風險，並就投
-資結果自行負責。未經本公司許可，本資料及訊息不得逕行抄錄、翻印或另作派發。本行以上市場資訊與分析，不涉及特定投資標的之建議。
-零售客流量表
-重點摘要
-• 可同時做 消融 +左心 耳封堵術
-(LAAC)，但LAAC不能完全替代
-口服抗凝血藥物(OAC)，喜憂參
-半。
-• 擇期 、外科手術需求疲軟延伸
-至年底 ，但必要醫療手術需求
-健康。
-• 管理式醫療今年致力利潤優先
-市佔率改善獲利 ，但後續星級
-評等 、保費調整能力及理賠成
-本控管 ，業者間的長期獲利表
-現可能進一步分化。
-新藥銷售成長，維持穩定成長，藥廠展望仍佳。
-《醫療器械喜憂參半，但必要性手術需求仍佳》
-近月醫療服務設備股為健護中股價表現較差 ，主因：
-1)亞培受到產品責任險達成部分和解協議 ，後續還
-有其他聯邦 、州判決仍為股價壓力； 2)波士頓科學
-受資安事件影響生產宣告無法達成財測 ，HRS的左
-
-心耳封堵術 (LAAC) 指南適用 WATCHMAN、 亞培
-Amulet，可同時做消融+LAAC，但LAAC不能完全
-替代口服抗凝血藥物 (OAC)對預防中風的效用 ，仍
-為二線，等同喜憂參半 。另受自付成本增加 ，預期
-擇期、外科手術需求疲軟延伸至年底 ，機器人手術
-成長率區間接近 14.5%，下半年低於上半年 ，將以
-擴大翻新系統的布署降低門檻及增加門診手術需求 ，
-擴大目標市場 ，但必要醫療手術需求健康 ，心血管
-類手術下半年仍成長，醫療器材基本面喜憂參半。
-《星級獎金與醫療成本控管力使長期獲利分化》
-每月聯邦醫療保險優勢計畫投保人數成長趨勢持續 ，
-CMS預計於2026年10月中公布 2027年醫療優勢計
-畫(MA)星級評等，因評級變嚴將影響醫保公司會員
-留存率、競爭力及2028年品質獎金收入不確定性增
-加，低於4星級業者面臨品質獎金減少與長期獲利承
-壓風險。另無意外法案獨立爭議解決 (IDR)仲裁成本
-持續推升商業保險理賠支出 ，增加2027年雇主團體
-及ACA市場保費定價壓力 。管理式醫療業者今年展
-
-現利潤優先於市占率、砍不賺錢計畫/人數拉抬利潤
-率，但明年若保費調漲幅度不及醫療成本增速 ，恐
-推升醫療損失率 、壓縮承保利潤 。後續獲利關鍵在
-於星級評等 、保費調整能力及理賠成本控管 ，業者
-間的長期獲利表現可能進一步分化。
-2
-資料來源：JP Morgan，2026/9/26，中國信託商業銀行整理，2026/9/30
-下圖/美國MA會員註冊人數續增
-總MA註
-冊人數
-累計今年相較
-去年12月年增率
-(右軸)
-百
-萬
-人
-年增率
-(右軸)
-
----
-## Document 429: 【歐洲攻略】歐洲基本面有撐，高利與政治變數添波動
+## Document 433: 【歐洲攻略】歐洲基本面有撐，高利與政治變數添波動
 
 Source PDF: all report pdf/【歐洲攻略】歐洲基本面有撐，高利與政治變數添波動.pdf
-Report source: CTBC
-Date: 2026-09-30
+Report source: Unknown
+Date: 未知日期
 Pages: 7
 Extraction status: ok
 
@@ -8675,216 +8855,7 @@ MSCI土耳其股市美元計價下跌 4.2%，拖累新歐
 於5年平均水準
 
 ---
-## Document 436: 【粤开宏观】积极因素持续积累，资本市场稳健发展基础不断夯实
-
-Source PDF: all report pdf/【粤开宏观】积极因素持续积累，资本市场稳健发展基础不断夯实.pdf
-Report source: 粤开证券
-Date: 2026-10-23
-Pages: 6
-Extraction status: ok
-
-### Page 1
-
-请务必阅读最后特别声明与免责条款 www.ykzq.com  1 / 6
-
-证券研究报告 | 宏观点评
-
-宏观点评 
- 【粤开宏观】积极因素持续积累，资
-本市场稳健发展基础不断夯实 
-2026 年 10 月 23 日  投资要点
-
-近期报告  
-《 【粤开宏观】 全球K 型分化的三大驱动：
-AI、利率与债务》2026-10-20 
-《 【粤开宏观】 回升中的分化： 三季度经济
-回顾与四季度展望》2026-10-19 
-《 【粤开宏观】前三季度经济形势快评》
-2026-10-19 
-《 【粤开宏观】9 月出口再提速： 涨价支撑
-AI 领 跑 ， 汽 车 与 消 费 品 增 速 回 升 》
-2026-10-14 
-《 【粤开宏观】 中欧贸易新格局： 竞争、 摩
-擦与合作》2026-10-11
-
-近期，受外部环境变化、市场风险偏好波动以及部分前期涨幅较大板块调整
-等因素影响，A 股市场震荡有所加大，投资者信心受到一定影响。但从宏观
-经济基本面、上市公司经营情况及资本市场政策环境来看，当前市场运行中
-积极因素正在持续积累。我国经济增长保持韧性，部分行业景气度和企业盈
-利有所改善，监管部门持续完善资本市场稳市机制，上市公司积极开展回购
-增持，为稳定市场预期、增强投资者信心和推动资本市场中长期平稳健康发
-展提供了重要支撑。 
-一、近期宏观经济与资本市场形势 
-近期宏观经济与资本市场总体呈现以下特征： 
-一是宏观经济保持韧性，新动能持续壮大，为资本市场提供坚实的基本面支
-撑。二是 A 股上市公司三季报亮点逐步显现，部分行业盈利改善增强市场基
-本面支撑。三是市场估值呈现结构性分化，部分优质资产中长期投资价值进
-一步显现。四是监管部门持续完善资本市场稳市机制，政策积极信号不断释
-放。五是上市公司积极推进回购增持，主动传递发展信心，助力稳定市场预
-期。 
-二、后市展望 
-展望后市，随着宏观政策持续落地显效、部分行业盈利改善趋势逐步明朗、
-中长期资金入市机制进一步完善，以及资本市场改革不断深化，多重积极因
-素有望形成合力，为市场信心持续修复和资本市场平稳健康发展提供更加坚
-实的支撑。
-
-风险提示：宏观政策超预期、外部冲击超预期
-
-### Page 2
-
-宏观点评 
-请务必阅读最后特别声明与免责条款 www.ykzq.com  2 / 6
-
-目  录 
-一、近期宏观经济与资本市场形势 ......................................................................................................................................... 3 
-二、后市展望 ............................................................................................................................................................................. 4
-
-### Page 3
-
-宏观点评
-请务必阅读最后特别声明与免责条款 www.ykzq.com  3 / 6
-近期，受外部环境变化、市场风险偏好波动以及部分前期涨幅较大板块调整等因素
-影响，A 股市场震荡有所加大，投资者信心受到一定影响。但从宏观经济基本面、上市
-公司经营情况及资本市场政策环境来看，当前市场运行中积极因素正在持续积累。我国
-经济增长保持韧性，部分行业景气度和企业盈利有所改善，监管部门持续完善资本市场
-稳市机制，上市公司积极开展回购增持，为稳定市场预期、增强投资者信心和推动资本
-市场中长期平稳健康发展提供了重要支撑。
-一、近期宏观经济与资本市场形势
-一是宏观经济保持韧性，新动能持续壮大，为资本市场提供坚实的基本面支撑。国
-家统计局数据显示，前三季度我国 GDP 同比增长 4.6%，其中三季度同比增长 4.5%，较
-二季度回升 0.2 个百分点，经济运行呈现稳中有进、结构向优的积极态势。从产业结构
-看，前三季度规模以上工业增加值同比增长5.3%，装备制造业和高技术制造业增加值分
-别增长 10.2%和 14.3%，明显快于工业整体增速；服务业增加值同比增长 5.2%，对经济
-
-增长的贡献率达到 66.3%。特别是人工智能、先进制造、数字经济等新兴领域保持较快
-发展， 前三季度集成电路制造、 光电子器件制造行业增加值分别同比增长79.2%和 28.4%，
-工业新动能对工业增长的贡献率超过五成，成为经济增长的重要支撑。与此同时，消费
-品以旧换新、设备更新、地方政府专项债和新型政策性金融工具等政策持续落地，有望
-进一步巩固经济回升基础。尽管当前消费、投资等内需指标仍然偏弱，但经济增长韧性
-和产业转型升级的积极趋势值得关注，为资本市场中长期发展提供了重要支撑。
-二是 A 股上市公司三季报亮点逐步显现，部分行业盈利改善增强市场基本面支撑。
-随着三季报进入密集披露期，A 股上市公司业绩呈现结构性改善迹象。 据Wind 数据统计，
-截至 10 月 23 日，A 股已有 174 家公司披露 2026 年三季报业绩预告，其中报喜（预增、
-略增、扭亏、续盈）合计148 家，占比约 85%。在其中 86 家披露可比净利润同比增幅数
-据的公司中，按预告净利润增幅中值计算，78 家公司预计净利润同比增长超过 100%，
-
-占比超过九成。从行业分布看，AI 算力需求带动的半导体、光模块、PCB 等产业链保持
-较高景气度，有色金属、基础化工等传统行业受益于价格回升和供需格局改善，部分企
-业盈利明显修复。虽然目前披露样本尚不能代表 A 股整体业绩，行业间盈利分化仍较明
-显，但新兴产业较快增长与部分传统产业盈利修复共同构成积极信号，反映出经济结构
-调整中的积极变化正在向上市公司业绩逐步传导，有望为市场提供更坚实的盈利支撑。
-三是市场估值呈现结构性分化，部分优质资产中长期投资价值进一步显现。经历近
-期市场调整后，部分前期涨幅较大板块的估值压力有所释放，市场估值结构也出现新的
-变化。从主要指数看，截至 10 月 23 日，上证指数滚动市盈率约 15 倍，处于近十年约
-66%分位，整体处于历史估值区间的中等偏上水平；创业板指市盈率约31 倍，处于近十
-年约 18%分位，属于历史相对偏低的估值区间，部分优质成长企业的中长期投资吸引力
-有所提升； 科创50 指数市盈率约 110 倍， 处于指数发布以来约78%分位， 估值水平相对
-
-偏高，反映出市场对半导体、人工智能等科技创新领域未来成长性的较高预期，其投资
-价值仍需结合企业盈利兑现情况综合判断。整体来看，当前A 股不同板块估值分化较为
-明显，部分基本面稳健、盈利能力较强、现金流良好的传统行业龙头，以及经过调整后
-估值与成长性更加匹配的优质科技企业，值得从中长期视角持续关注。随着上市公司盈
-利逐步改善、市场定价更加注重基本面，优质资产的投资价值有望进一步得到体现。
-四是监管部门持续完善资本市场稳市机制，政策积极信号不断释放。近期监管部门
-围绕维护资本市场平稳运行、增强市场内在稳定性持续作出部署。10 月 19 日，证监会
-在 2026 金融街论坛年会上，提出坚持稳字当头，加强风险研判和政策工具储备， 巩固完
-善稳市机制建设；推动健全适配长期投资的长周期考核机制，扩大中长期资金来源、渠
-道和入市方式，持续深化公募基金改革，壮大市场稳定力量；同时鼓励有条件的上市公
-
-### Page 4
-
-宏观点评
-请务必阅读最后特别声明与免责条款 www.ykzq.com  4 / 6
-司加大回购增持力度。此外，证监会同意首批18 只主动 ETF 注册，按照单只产品 20 亿
-元的募集上限测算，合计募集规模上限达 360 亿元，有望进一步丰富投资工具供给、吸
-引增量资金入市。上述举措体现出监管部门维护资本市场稳定、优化投融资生态、提升
-投资者回报的政策导向。随着相关改革措施逐步落地，资本市场长期资金基础和内在稳
-定性有望进一步增强。
-五是上市公司积极推进回购增持， 主动传递发展信心， 助力稳定市场预期。据 Wind
-数据统计，2026 年 9 月 1 日至 10 月 23 日， 已有169 家 A 股上市公司新增披露回购预案，
-拟回购金额上限合计约 244 亿元。从部分公司公告看，AI 算力产业链中的光模块等细分
-领域企业较为积极，新易盛、中际旭创、天孚通信等公司近期相继披露回购相关安排，
-体现出部分科技企业对自身经营前景和长期价值的积极判断。上市公司主动开展回购增
-持、强化股东回报，有助于提振市场信心、改善投资者预期，推动形成上市公司质量提
-
-升与投资者信心增强的良性循环。
-总体来看，当前 A 股市场正处于宏观经济温和修复、产业结构加快转型、上市公司
-盈利呈现结构性改善以及资本市场制度持续完善的阶段。必须看到，房地产市场调整、
-国内有效需求不足、部分行业盈利承压以及外部环境不确定性等因素仍可能对市场形成
-扰动，投资者对于短期波动和资产回撤的担忧具有现实基础。市场信心的持续改善，归
-根到底仍有赖于经济基本面进一步巩固、上市公司盈利持续改善以及投资者获得感不断
-增强。
-二、后市展望
-展望后市，随着宏观政策持续落地显效、部分行业盈利改善趋势逐步明朗、中长期
-资金入市机制进一步完善，以及资本市场改革不断深化，多重积极因素有望形成合力，
-为市场信心持续修复和资本市场平稳健康发展提供更加坚实的支撑。短期市场波动不改
-变中国经济转型升级的长期趋势，也不改变优质企业的长期投资价值。投资者应理性看
-待市场波动，更加关注企业基本面、盈利质量和中长期投资价值，对中国经济高质量发
-展和资本市场长期发展保持信心。
-
-### Page 5
-
-宏观点评 
-请务必阅读最后特别声明与免责条款 www.ykzq.com  5 / 6
-
-分析师简介  
-罗志恒，2020 年 11 月加入粤开证券，现任副总裁，兼首席经济学家、研究院院长，证书编号：S0300520110001。
-
-分析师声明 
-本报告署名分析师在此声明：本人具有中国证券业协会授予的证券投资咨询执业资格或相当的专业胜任能力，在执业过
-程中恪守独立诚信、 勤勉尽职、 谨慎客观、 公平公正的原则， 独立、 客观地出具本报告， 结论不受任何第三方的授意或影响。
-本报告反映了本人的研究观点，不曾因，不因，也将不会因本报告中的具体推荐意见或观点而直接或间接接收到任何形式的
-报酬。
-
-与公司有关的信息披露 
-粤开证券具备证券投资咨询业务资格，经营证券业务许可证编号：10485001。 
-本公司在知晓范围内履行披露义务。
-
-股票投资评级说明 
-投资评级分为股票投资评级和行业投资评级。
-
-股票投资评级标准 
-报告发布日后的 12 个月内公司股价的涨跌幅度相对同期沪深 300 指数的涨跌幅为基准，投资建议的评级标准为： 
-买入：相对大盘涨幅大于 10%； 
-增持：相对大盘涨幅在 5%~10%之间； 
-持有：相对大盘涨幅在-5%~5%之间； 
-减持：相对大盘涨幅小于-5%。
-
-行业投资评级标准 
-报告发布日后的 12 个月内行业股票指数的涨跌幅度相对同期沪深 300 指数的涨跌幅为基准，投资建议的评级标准为： 
-增持：我们预计未来报告期内，行业整体回报高于基准指数 5%以上； 
-中性：我们预计未来报告期内，行业整体回报介于基准指数-5%与 5%之间； 
-减持：我们预计未来报告期内，行业整体回报低于基准指数 5%以下。
-
-### Page 6
-
-宏观点评 
-请务必阅读最后特别声明与免责条款 www.ykzq.com  6 / 6
-
-免责声明 
-本报告由粤开证券股份有限公司（以下简称“本公司” ）向专业投资者客户及风险承受能力为稳健型、积极型、激进型
-的普通投资者客户（以下统称客户）提供。若您并非上述类型的投资者，请取消阅读，请勿收藏、接收或使用本研究报告中
-的任何信息。公司不会因接收人收到本报告而视其为客户。
-
-本公司在法律允许的情况下可参与、投资或持有本报告涉及的证券或进行证券交易，或向本报告涉及的公司提供或争取
-提供包括投资银行业务在内的服务或业务支持。本公司可能与本报告涉及的公司之间存在业务关系，并无需事先或在获得业
-务关系后通知客户。
-
-市场有风险，投资需谨慎。投资者不应将本报告作为作出投资决策的唯一参考因素，亦不应认为本报告可以取代自己的
-判断。在决定投资前，如有需要，投资者务必向专业人士咨询并谨慎决策。
-
-投资者应自主作出投资决策并自行承担投资风险，任何形式的分享证券投资收益或者分担证券投资损失的书面或口头承
-诺均为无效。
-
-联系我们 
-广州市黄埔区科学大道 60 号开发区控股中心 19、22、23 层
-
-北京市西城区广安门外大街 377 号
-
-网址：www.ykzq.com
-
----
-## Document 468: 世帯年収が低い層のファイナンシャル・ウェルビーイングをどう高めるか ～生活保障資金、人生設計、専門家相談を一体で支える政策へ～
+## Document 483: 世帯年収が低い層のファイナンシャル・ウェルビーイングをどう高めるか ～生活保障資金、人生設計、専門家相談を一体で支える政策へ～
 
 Source PDF: all report pdf/世帯年収が低い層のファイナンシャル・ウェルビーイングをどう高めるか ～生活保障資金、人生設計、専門家相談を一体で支える政策へ～.pdf
 Report source: DLRI
@@ -9203,7 +9174,7 @@ Pensions Service（MaPS）の調査から得られる日本への示唆～」
 ～」
 
 ---
-## Document 526: 凱基投顧_NFLX Netflix_賴偉中_20261021
+## Document 543: 凱基投顧_NFLX Netflix_賴偉中_20261021
 
 Source PDF: all report pdf/凱基投顧_NFLX Netflix_賴偉中_20261021.pdf
 Report source: line報告備份
@@ -9715,7 +9686,59 @@ Oct-22 Apr-23 Oct-23 Apr-24 Oct-24 Apr-25 Oct-25 Apr-26 Oct-26
 免責聲明
 
 ---
-## Document 637: 海外宏观周报（2026年第39期）：美国通胀升温，长端美债利率为何回落
+## Document 580: 国常会：加快建设生育友好型社会，持续积累和释放人口综合红利
+
+Source PDF: all report pdf/国常会：加快建设生育友好型社会，持续积累和释放人口综合红利.pdf
+Report source: WallstreetCN (Global)
+Date: 2026-10-23
+Pages: 2
+Extraction status: ok
+
+### Page 1
+
+⻛险提⽰及免责条款
+市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂
+中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
+159 收藏 分享到 :
+写评论
+会议指出，⼈⼝是经济社会发展的基础条件，要更好统筹⼈⼝与经济社会、资源环境的关
+系，进⼀步完善相关政策，持续积累和释放⼈⼝综合红利，以⼈⼝⾼质量发展更好⽀撑经
+济社会⾼质量发展。要进⼀步发挥服务业对经济发展的⽀撑作⽤，加⼒推进服务业扩能提
+质，把服务业潜⼒空间转化为发展动能。
+摘要：
+国务院总理李强 10 ⽉ 23 ⽇主持召开国务院常务会议，研究统筹⼈⼝与经济社会发展有关⼯作，
+听取推进全国服务业⼤会部署落实情况汇报。
+会议指出，⼈⼝是经济社会发展的基础条件，要更好统筹⼈⼝与经济社会、资源环境的关系，
+进⼀步完善相关政策，持续积累和释放⼈⼝综合红利，以⼈⼝⾼质量发展更好⽀撑经济社会⾼
+质量发展。要更加突出⼈的全⾯发展，提⾼⼈⼝科学⽂化、职业技能、⾝⼼健康等⽔平，加快
+
+完善全⺠终⾝学习机制，⼴泛开展技能培训，强化教育、培训与产业发展协同联动，促进⾼质
+量充分就业。要加强区域⼈⼝发展分类指导，引导城乡⼈⼝有序流动，稳步推进基本公共服务
+均等化，根据⼈⼝分布情况优化基础设施布局，推动公共服务资源与常住⼈⼝变化动态适配。
+要加快建设⽣育友好型社会，持续完善婚嫁、⽣育、养育、教育等政策，优化⾯向家庭的财
+税、社保、住房等⽀持举措，努⼒稳定新出⽣⼈⼝规模。
+会议指出，要进⼀步发挥服务业对经济发展的⽀撑作⽤，加⼒推进服务业扩能提质，把服务业
+潜⼒空间转化为发展动能。要加快破解服务业发展的难点堵点，聚焦⽣产⽣活重点领域因业施
+策，加强融资、⽤地、⼈才、数据等⽀持，稳步推进公共事业领域价格改⾰，加⼤⼒度盘活⽤
+好闲置资源。要按照建设全国统⼀⼤市场的要求，持续破除市场准⼊障碍，清理⺠间投资隐性
+壁垒，加快构建与新业态发展相适应的监管⽅式。要充分调动各⽅⾯发展服务业的积极性，加
+强分类指导和督促协调，增强政策针对性有效性，⽀持有条件的地⽅先⾏先试，因地制宜探索
+服务业创新发展路径。要⿎励扩⼤服务业投资，释放服务消费潜⼒，培育⻰头企业和特⾊品
+
+牌。要进⼀步健全适应服务业发展的统计监测体系，强化上下联动、⻬抓共管的⼯作格局。
+会议还研究了其他事项。
+来源：新华社
+限免
+请发表您的评论
+⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⻅闻历 搜索
+
+### Page 2
+
+图⽚
+表情 发布评论
+
+---
+## Document 661: 海外宏观周报（2026年第39期）：美国通胀升温，长端美债利率为何回落
 
 Source PDF: all report pdf/海外宏观周报（2026年第39期）：美国通胀升温，长端美债利率为何回落.pdf
 Report source: 民银证券
@@ -10805,305 +10828,7 @@ IMF 上调 2026 年世界经济增长预期至 3.1%。IMF 于 10 月 13 日发�
 目的复制、派发或出版此报告。民银证券保留一切权利。
 
 ---
-## Document 653: 石油产量创纪录，油罐几乎都空了--阿联酋“奇迹复苏”了吗？
-
-Source PDF: all report pdf/石油产量创纪录，油罐几乎都空了--阿联酋“奇迹复苏”了吗？.pdf
-Report source: WallstreetCN (Global)
-Date: 2026-10-25
-Pages: 3
-Extraction status: ok
-
-### Page 1
-
-阿联酋 9 ⽉⽯油供应量升⾄创纪录的 530 万桶 / ⽇，但能源系统尚未⾛出战争冲击。天然⽓产
-出和⽯化原料供应仍受制约，富查伊拉成品油库存较战前缩⽔ 65% ，绕过霍尔⽊兹海峡的
-管道运⼒也有限。原油出⼝快速反弹，并不意味着能源产业链全⾯复原，阿联酋抵御下⼀
-轮供应冲击的能⼒仍⾯临考验。
-摘要：
-阿联酋原油供应已迅速反弹⾄历史⾼位，但天然⽓、⽯化⽣产和燃料库存的修复明显滞后，能
-源系统仍⾯临供应链受损与储备不⾜的双重压⼒。
-据国际能源署（ IEA ）数据，阿联酋 9 ⽉⽯油供应量达到 530 万桶 / ⽇的历史峰值，富查伊拉港单
-⽇装载量升⾄ 262 万桶，鲁⻙斯炼油⼚也于 8 ⽉底恢复满负荷运营。然⽽，能源分析师 Karl Miller
-在 10 ⽉ 22 ⽇发布的评估报告中指出，天然⽓产出、⽯化原料供应和燃料库存仍远低于战前⽔
-平，原油出⼝的反弹并未带来能源系统的全⾯复原。
-⼀⽅⾯，受损设施逐步修复，加上阿联酋 5 ⽉退出欧佩克、不再受原有产量配额约束，推动原油
-供应回升；另⼀⽅⾯，天然⽓和⽯化产业链仍受原料短缺制约，富查伊拉燃料库存也⼤幅缩
-
-⽔。原油出运能⼒的恢复，并不等于能源系统抵御供应中断的能⼒同步恢复。
-产量从⾕底反弹，战争损伤仍未消除
-今年早些时候，阿联酋能源系统遭遇⼀系列袭击，原油⽣产、天然⽓加⼯、炼化、⽯化及电⼒
-配套设施均受到波及。据美国能源信息署（ EIA ）数据，阿联酋原油及凝析油产量从年初约 400
-万桶 / ⽇降⾄ 3 ⽉⾄ 5 ⽉均值 240 万桶 / ⽇，降幅达 40% 。
-受损设施涉及能源产业多个关键环节：鲁⻙斯炼化综合体于 3 ⽉ 10 ⽇起⽕停产；沙阿酸性⽓体处
-理⼚和哈布善天然⽓综合体先后遭袭；博禄⽯化⼯⼚、阿联酋环球铝业冶炼⼚及巴拉卡核电站
-的电⼒配套设施也受到影响。
-承担绕过霍尔⽊兹海峡运输功能的富查伊拉港同样遭受冲击。据路透社统计，冲突爆发以来，
-该港⾄少遭袭 19 次。 3 ⽉ 16 ⽇当周，港⼝装载量跌⾄ 44 万桶 / ⽇； 5 ⽉ 4 ⽇再度遭袭后，成品油出
-⼝⼏近停滞，此后约⼀个⽉内仅有⼀艘成品油轮离港。
-随着部分设施修复、原油出运恢复，阿联酋供应数据迅速反弹。但原油产量回升并不代表能源
-
-产业链全⾯复原，天然⽓加⼯、⽯化⽣产和成品油出⼝仍受制于受损设施及供应链瓶颈。
-天然⽓与⽯化产业仍受制于原料短缺
-阿布扎⽐国家⽯油公司天然⽓业务⼦公司（ ADNOC Gas ）⼆季度财报显⽰，与上年同期相⽐，
-公司国内天然⽓产量下降 32.5% ，液化⽯油⽓、⽯脑油等出⼝液体产量下降 54.5% ， LNG 权益产
-量 下 降 6 3 % ； L N G 销 售 量 下 降 约 7 1 % 。 同 期 ， 公 司 营 收 下 降 39% ， 息 税 折 旧 摊 销 前 利 润
-（ EBITDA ）下降 47% ，净利润下降 52% ，单季度营收减少约 23 亿美元。
-值得注意的是，公司⼆季度资产可⽤率达到 99.9% ，但实际资产利⽤率却从 80% 降⾄ 54% 。这意
-味着设备虽然能够运⾏，却缺乏⾜够原料维持满负荷⽣产。对能源产业⽽⾔，修复设施只是第
-⼀步，恢复原料供应和上下游协同才是全⾯复产的关键。
-截⾄ 8 ⽉ 10 ⽇，哈布善天然⽓供应恢复⾄约 85% ； Borouge ⼯⼚虽于 6 ⽉底完成修复，却因原料
-
-不⾜，仅能以约 60% 的利⽤率运⾏。阿联酋环球铝业冶炼⼚截⾄ 8 ⽉底也仅重启四分之⼀的电解
-⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⻅闻历 搜索
-
-### Page 2
-
-⻛险提⽰及免责条款
-市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂
-中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
-槽，预计要到 2027 年初才能全⾯恢复。
-这些情况表明，原油出⼝反弹尚未带动能源经济全⾯复苏。天然⽓加⼯、⽯化⽣产和铝冶炼依
-赖各⾃的设施与供应链，关键环节持续受阻，将限制整体产出恢复。
-库存缩⽔ 65% ：⾼产量背后的缓冲垫正在变薄
-10 ⽉ 19 ⽇，富查伊拉成品油库存降⾄ 725 万桶，较战前约 2070 万桶减少 65% 。其中，汽油和⽯
-脑油库存下降 87% ，燃料油下降 53% ，柴油和航空煤油下降 23% ；10 ⽉期间，库存还曾在⼀周
-内下降 18% 。
-富查伊拉是全球重要的船舶加注和油品贸易枢纽。库存⼤幅缩⽔，不仅影响当地燃料供应，也
-削弱了港⼝应对运输中断和突发需求的能⼒。供应流量创下纪录，并不意味着库存存量同步恢
-复。  产量和出⼝反映当前供应能⼒，库存则决定供应突然中断时，系统还能维持多久。
-
-Miller 提出了⼀个极端情景：如果出⼝通道每天损失 100 万桶，⽽可⽤储罐容量仅有 1000 万桶，
-在没有其他缓冲措施的情况下，持续的出⼝中断可能在约⼗天内迫使油⽥关停。这是基于特定
-假设的压⼒测试，并⾮对实际停产时间的预测，但揭⽰了库存不⾜可能放⼤的连锁⻛险。
-绕过霍尔⽊兹海峡的运输能⼒也有上限。从哈布善通往富查伊拉的 ADCOP 管道，设计输油能⼒
-为 150 万桶 / ⽇，最⾼约 180 万桶 / ⽇，⽽ ADNOC 宣称的产能为 485 万桶 / ⽇。阿联酋规划建设的第
-⼆条管道预计 2027 年投运，在此之前，现有管道仍难以完全抵消霍尔⽊兹海峡严重中断的⻛
-险。
-原油出⼝恢复了，能源韧性恢复了吗？
-阿联酋 9 ⽉⽯油供应量创下历史新⾼，主要得益于受损设施逐步修复，以及退出欧佩克后不再受
-原有产量配额约束。但若部分供应增⻓伴随着库存消耗，产量回升也可能以缓冲空间进⼀步收
-窄为代价。
-地区成品油和液化⽯油⽓出⼝仍远低于战前⽔平。 9 ⽉，地区成品油出⼝量约为 190 万桶 / ⽇，战
-
-前约为 470 万桶 / ⽇；液化⽯油⽓出⼝量约为 67 万桶 / ⽇，战前约为 150 万桶 / ⽇。原油运输明显恢
-复，并未带动其他能源产品同步复原。
-Miller 指出，⽬前缺乏完整的公开数据库，⽆法精确核实阿联酋能源系统仍有多⼤⽐例处于受损
-状态。鲁⻙斯炼⼚和原油出⼝端的实质性恢复不应被忽视，但天然⽓产出、⽯化原料供应、燃
-料库存和绕⾏运输能⼒仍暴露出明显短板。
-真正的考验不在于阿联酋能否创下产量纪录，⽽在于下⼀次冲击来临时，它还能维持多久。战
-前，富查伊拉拥有约 2000 万桶成品油库存，如今只剩约 700 万桶；天然⽓和⽯化产业链尚未完全
-恢复，现有旁路管道运⼒也有限。阿联酋恢复了原油供应的速度，却尚未恢复抵御下⼀次冲击
-的能⼒。
-
-### Page 3
-
-304 收藏 分享到 :
-写评论
-图⽚
-限免
-请发表您的评论
-表情 发布评论
-
----
-## Document 656: 節約志向はどこに顕れているのか？ ～インフレ転換で変わる日本の家計①～
-
-Source PDF: all report pdf/節約志向はどこに顕れているのか？ ～インフレ転換で変わる日本の家計①～.pdf
-Report source: DLRI
-Date: 2026-10-05
-Pages: 5
-Extraction status: ok
-
-### Page 1
-
-Economic Trends
-
-2026 年 10 月 2 日
-
-1/5 
-節約志向はどこに顕れているのか？ 
-～インフレ転換で変わる日本の家計①～ 
-経済調査部 主席エコノミスト 星野 卓也 
-（℡：050-5474-7497）
-
-（要旨）
-
-（※）本稿は東洋経済オンライン（10 月 2 日）への寄稿をもとに一部加筆修正して作成。
-
-5 年に 1 度の全国家計構造調査でみる「インフレで変わる日本の家計」 
-昨年末から今年夏にかけて、総務省から 2024 年の「全国家計構造調査」の結果が段階的に公表
-されている。 全国家計構造調査は所得や資産、 負債などに関する家計の状況を5 年おきに精緻に調
-査する目的で行われるもので、前回は2019 年に実施されている。 
-5 年に 1 度しか実施されないという速報性の低さと引き換えに、家計に関する細かいデータの充
-実度や信頼性は日本の家計データでは最高峰といえる。 特に、今回は2019 年と2024 年という時期
-に実施されたのは幸運である。この間の経済はコロナ禍で攪乱されているが、それ以前の 2019 年
-と一巡後の 2024 年との比較が可能で、いずれもコロナ禍の影響は限定的だ。国内ではインフレ、
-賃金上昇が定着した時期であり、 「インフレ転換で変わる日本の家計」を観察するうえで非常に有
-用である。
-
-インフレ下で家計は食料や衣服の支出を縮小 
-2019 年から2024 年にかけて、1 世帯当たり1 か月の消費支出は2019 年の23.7 万円から2024 年
-の25.1 万円へ名目で6.0％増えた。一方、消費者物価は9.3％上昇した（家計収支の調査月に合わ
-せた 10・11 月平均）。 支出額を品目別の物価指数で割り戻した実質支出 （以下 「実質」 ） は▲3.1％
-減った。 インフレに伴う実質賃金、 実質可処分所得の低下に伴って、実質消費も減少した形である。
-○ 2024 年の「全国家計構造調査」を用いて、インフレ前の2019 年と比較。家計は値上がりの大
-きい品目ほど実質支出を減らしており、 食料や被服などで節約志向が鮮明になった。 こうした
-値上げへの反応は所得階層を問わず共通。 
-○ 一方、 値上がり品への支出を抑えた後も、 外食や旅行、 習い事などの選択的支出を維持できた
-かには所得差があり、 中間層では消費全体を抑える傾向が強かった。 インフレ下の家計は一律
-に消費を減らしたのではなく、品目間の代替と選択的支出の見直しを通じて対応している。
-
-### Page 2
-
-2/5 
-この差し引きを費目ごとにみたものが図表1 である。主要 9 費目について、 名目の支出額の変化と
-物価による寄与を積み上げ、その和である実質の変化を点で示した。 
-実質の減少が最も目立つのは被服及び履物で▲15.3％減った。名目の支出額自体も減っており、
-インフレ下で節約の主対象になったことが読み取れる。 リモートワークやカジュアル通勤の普及も
-背景にありそうだ。 食料も実質で▲7.5％減った。 こちらは名目支出が増えたものの、 値上がりに追
-いつかず、実質的な購入量が減った格好である。 
-交通・通信は価格が 2.9％下がり、実質は 8.9％増えた。携帯料金の引き下げが価格低下の主要
-因であり、 それに伴う実質の増加は値下がりに伴って通信プランの充実などが図られた可能性を示
-唆する。光熱・水道は価格＋10.7％に対し実質は＋1.4％だった。 需要の価格弾力性が低い （値上が
-りしても節約の余地が少ない）品目では実質ベースの低下がみられにくい。
-
-図表 1．2019→2024 年の分類別実質消費支出の変化
-
-（注）物価要因は対応する品目別物価指数で実質化。総世帯。 
-（出所）総務省「全国家計構造調査」 、 「消費者物価指数」 （各年調査時点の10・11 月平均）より第一ライフ資産運用経済
-研究所作成。
-
-インフレ下で鮮明な価格上昇と実質支出減少の関係 
-費目をさらに細かくみると、一枚のきれいな価格と需要の関係が描けた（図表 2）。横軸に価格
-の変化、 縦軸に実質支出の変化を取り、支出構成比0.3％以上の 39 品目を抽出し、 円の面積を構成
-比として置いた。 
--25.0
--20.0
--15.0
--10.0
--5.0
-0.0
-5.0
-10.0
-15.0
-20.0
-25.0
-名目変化率
-(%)
- 物価による寄与
- (pt)
- 実質変化率
-(%)
-(%)
-
-### Page 3
-
-3/5 
-図表２．細分類別・物価の変化率と実質支出の変化率（2019→2024 年）
-
-（注）円の面積は 2024 年の支出構成比の大きさを示す。色は青：実質支出変化がプラス、赤：マイナス。 
-（出所）総務省「全国家計構造調査」 「消費者物価指数」 （各年10・11 月平均）より第一ライフ資産運用経済研究所が作
-成。
-
-ここからは右下がりの関係、 「価格が上がると実質支出が減る」が見て取れる。支出構成比で加
-重した相関係数は▲0.74 と負の関係が読み取れる。食料の細分類ではこの関係が特に鮮明だ。価格
-上昇の度合いが大きい果物は価格が＋36.4％上がり、 実質支出は▲15.1％減った。 魚介類も実質で
-▲12.7％減った一方、値上がりが相対的に小さかった肉類の減少は ▲8.0％にとどまる。値上がり
-の大きい魚から肉へ、家計の主菜が置き換わったことが読み取れる。 
-これに対して、 調理食品の実質支出はほぼ横ばいで、 外食の落ち込みも小さい。 生鮮品より値上が
-りが抑えられたことに加え、共働き世帯の増加などを背景に「調理の外部化」が進んだ側面もあり
-そうだ。
-
-値上げへの反応は高所得者でも変わらない 
-では、価格上昇に対するこうした反応は、所得階層によって異なるのだろうか。直観的には、低
-所得層ほどインフレの影響を強く受け、値上がりした品目を強く買い控えているようにも思える。
-しかし、データから見える姿は少し異なる。
-
-類
-  類
- 類
-  類   ・  
- 物
-  類
-調 食品
-外食
-家  代
-  修 ・維持
-  代
- の  
-洋服
-
-通
-    関係費
-通 
-  料 
- 習  
-  ・ の  物
-
-費
-
-価格の変化（消費者物価  ）
-実質支出の変化（支出  物価  ）
-
-### Page 4
-
-4/5 
-図表３．年収五分位で見た物価の変化率と実質支出の変化率の関係（2019→2024 年）
-
-（注）図表2 と同様。 （出所）総務省「全国家計構造調査」 「消費者物価指数」 （各年10・11 月平均）より第一ライフ資産
-運用経済研究所が作成。一部外れ値を除外（回帰曲線の導出には使用） 。
-
-図表 2 と同じ分析を年間収入五分位別に行ったものが図表3 である。ここで、 各所得階層の回帰
-直線について「傾き」と「切片」を分けて考えると、その違いが理解しやすい。 
-傾きは、 価格上昇率の違いに対して実質支出がどの程度強く反応していたかを表す。 傾きのマイ
-ナス幅が大きいほど、 価格上昇率が高い品目で実質支出をより大きく減らしていたことになる。 一
-方の切片は、所得階層ごとの消費全体の増減傾向を捉える一つの目安として読むことができる。 切
-片が高いほど、同じ価格変化に直面した場合でも、実質支出を相対的に維持・拡大する余力があっ
-たと解釈できる。 
-まず傾きは、 すべての五分位で同程度のマイナスとなり、その度合いについても所得による一方
-向の差はみられない。 高所得層だからといって、 値上がりした品目をそのまま買い続けたわけでは
-ない。価格上昇の大きい品目を減らす反応は、どの所得層にも共通していた。
-
-五分位
-（年収       ）
-
-五分位
-（年収          ）
-
-五分位
-（年収          ）
-
-五分位
-（年収          ）
-
-五分位
-（年収       ）
-
-価格の変化（   ）
-実質支出の変化
-
-### Page 5
-
-経済研究所が ずるに足ると判断した情報に基づき作成していますが、その正確性、完全性に対する責任は負いません。見通しは予告
-なく変更されることがあります。また、記載された内容は、 一生命 険ないしはその関連会社の投資方針と常に整合的であるとは限
-りません。
-5/5
-違いが表れたのは回帰直線の切片である。 最上位層では、 価格が上がっても実質支出を増やした
-品目が 39 品目中15 あった。 中間層ではそうした品目が少なく、 外食や教養娯楽サービスも削って
-いる。値上がり品を減らした後に、別の消費を維持できたかどうかが所得層で分かれた。
-サービス支出の内訳を見ると違いはさらに具体的だ。習い事などの月謝類は最上位層で ＋1.8％
-増えたが、第 4 五分位では▲31.8％減った。宿泊や教養娯楽サービスにも同様の傾向がみられる。
-中間層は、旅行や習い事のような選択的支出の節約を行っている。その結果、最上位層の実質消費
-は▲1.7％の減少にとどまったのに対し、 中間層は▲5％近く減った。 最上位層は値上がり品を減ら
-
-した分を別の消費で補えたが、中間層にはその余力が乏しかったのである。
-家計はインフレをそのまま受け入れたわけではない。 値上がりの大きい品目への支出をより強く
-抑え、品目間の代替を進めることで対応した。「値上がり品目への支出を控えた」点は所得が高い
-世帯でも大きく変わらない。 所得階層によって違ったのはその先で、値上がり品への支出を抑えた
-後も、外食や旅行、習い事といった選択的な消費を維持できたかどうかに差が生じた。その余力の
-違いに、所得階層ごとの生活実感の差が表れている。
-
----
-## Document 661: 米国コアCPIが2カ月連続で予想上振れ(2026年9月) ～10月据え置きも12月追加利上げの確度高まる～
+## Document 685: 米国コアCPIが2カ月連続で予想上振れ(2026年9月) ～10月据え置きも12月追加利上げの確度高まる～
 
 Source PDF: all report pdf/米国コアCPIが2カ月連続で予想上振れ(2026年9月)  ～10月据え置きも12月追加利上げの確度高まる～.pdf
 Report source: DLRI
@@ -11957,7 +11682,7 @@ WTI期近物（左）
 (㌦/ﾊﾞﾚﾙ）
 
 ---
-## Document 666: 米国経済展望2026年９月号：中間選挙後に懸念される政治分断と生活苦の悪循環（PDF：1106KB）
+## Document 690: 米国経済展望2026年９月号：中間選挙後に懸念される政治分断と生活苦の悪循環（PDF：1106KB）
 
 Source PDF: all report pdf/米国経済展望2026年９月号：中間選挙後に懸念される政治分断と生活苦の悪循環（PDF：1106KB）.pdf
 Report source: JRI
@@ -12492,313 +12217,436 @@ FIMAレポ活用で為替介入余地は拡大も、円相場への影響は一�
 詳細は、以下のリンクからPDF形式でご覧いただけます。
 
 ---
-## Document 708: 苹果首款折叠屏iPhone Duo出师不利：有人折不到20次就裂屏了
+## Document 704: 美国10月综合PMI初值小幅回落至57.6，企业售价涨幅创四年高位，通胀压力升温
 
-Source PDF: all report pdf/苹果首款折叠屏iPhone Duo出师不利：有人折不到20次就裂屏了.pdf
+Source PDF: all report pdf/美国10月综合PMI初值小幅回落至57.6，企业售价涨幅创四年高位，通胀压力升温.pdf
 Report source: WallstreetCN (Global)
-Date: 2026-10-25
-Pages: 7
+Date: 2026-10-23
+Pages: 2
 Extraction status: ok
 
 ### Page 1
 
-现在苹果需要回答的是，⼀部售价 2000 美元、主打折叠体验的⼿机，究竟能不能经得起⽤
-⼾每天反复打开和合上？
+美国 10 ⽉综合 PMI 初值降⾄ 57.6 ，虽较 9 ⽉回落，但仍处于近五年来⾼位；服务业 PMI 降⾄
+57.9 ，制造业 PMI 升⾄ 56.0 ，创 53 个⽉新⾼。新订单增速创逾四年半新⾼，就业扩张加
+快，但企业销售价格涨幅升⾄ 2022 年 8 ⽉以来最⾼，油价、原材料及运输成本上涨加剧通
+胀压⼒。
 摘要：
-花2000美元买⼀部新⼿机，结果⽤了不到6个⼩时，折叠不到20次，屏幕就裂了。
-更尴尬的是，这还是苹果刚刚推出的⾸款折叠屏⼿机。
-苹果原本希望凭借iPhone Duo正式进军折叠屏市场，没想到新机刚上市，就接连传出屏幕损坏
-的消息。从中国到美国，再到澳⼤利亚和加拿⼤，多个市场都有⽤户报告类似问题，⽽且坏的
-地⽅⼏乎都⼀样：⼿机中间的折叠区域。
+美国经济在四季度开局依然保持强劲扩张，但企业成本与售价同步加速上涨，通胀压⼒再度成
+为经济前景中的主要隐忧。
+10 ⽉ 23 ⽇，标普全球公布的数据显⽰，美国 10 ⽉综合 PMI 初值为 57.6 ，低于 9 ⽉的 58.4 ，但仍处
+于近五年来的⾼位区间。服务业 PMI 初值从 58.8 降⾄ 57.9 ，制造业 PMI 初值则从 55.9 升⾄ 56.0 ，
+创 2022 年 5 ⽉以来最⾼⽔平。三项指数均⾼于 50 的荣枯线，表明美国经济活动仍在扩张。
+值得警惕的是，企业销售价格涨幅升⾄ 2022 年 8 ⽉以来最⾼⽔平。 油价、原材料和运输成本上
+涨正沿供应链向终端传导，叠加订单积压增加，企业转嫁成本的能⼒有所增强，可能进⼀步推
+
+⾼未来数⽉的消费者价格通胀。
+标普全球市场情报⾸席商业经济学家克⾥斯 · 威廉姆森（ Chris Williamson ）表⽰，调查数据表
+明，美国经济在第四季度初持续强劲扩张，产出表现对应的 GDP 年化增速约为 5% ，⾼于第三季
+度的 4% 。但他警告，油价再度上涨正推⾼商品和服务价格，未来数⽉美国通胀可能进⼀步偏离
+美联储⽬标。
+新订单创逾四年半新⾼，就业增⻓加快
+10 ⽉，美国企业需求继续增强。新订单增速较 9 ⽉进⼀步加快，创逾四年半以来最⾼⽔平。其
+中，服务业新业务增速升⾄ 2022 年 3 ⽉以来最⾼，抵消了制造业新订单增速⼩幅放缓的影响。
+出⼝需求也有所改善。 10 ⽉出⼝销售增速升⾄ 2022 年 5 ⽉以来最⾼⽔平，商品出⼝订单⾃ 2024
+年 6 ⽉以来⾸次实现增⻓，服务业出⼝增速则创 2023 年 7 ⽉以来最⾼。
+需求⾛强带动企业扩⼤招聘。10 ⽉整体就业增速升⾄ 2022 年 6 ⽉以来最快⽔平，仅次于 9 ⽉的增
+⻓表现。其中，制造业招聘增速创 2012 年 3 ⽉以来最⾼纪录；服务业就业增速虽较 9 ⽉放缓，仍
+
+处于逾四年来第三⾼⽔平。
+与此同时，企业未完成订单积压进⼀步加剧，增幅达到 2022 年 5 ⽉以来最⼤，制造业和服务业均
+出现积压增加的情况。这反映出企业订单需求旺盛，也意味着现有⽣产和服务能⼒⾯临更⼤压
+⼒。
+成本与售价同步上涨，通胀⻛险升温
+价格压⼒是 10 ⽉ PMI 调查中最值得关注的变化。企业销售价格涨幅升⾄ 2022 年 8 ⽉以来最⾼⽔
+平，制造业和服务业售价涨幅均有所加快。其中，制造业出⼚价格涨幅达到 2022 年 7 ⽉以来最⾼
+⽔平。
+成本端压⼒同样显著。综合商品与服务业的投⼊成本涨幅升⾄ 2022 年 11 ⽉以来最⾼⽔平之⼀。
+企业普遍提及油基原料、能源、燃料和运费价格上涨，钢铁、铝、铜等原材料也受到关税和供
+应短缺影响⽽涨价。服务业企业则反映，⼯资、⽔电及保险成本持续攀升。
 ⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⻅闻历 搜索
 
 ### Page 2
 
-折不到20次，屏幕就裂了
-据Tom’s Guide、PhoneArena报道，iPhone Duo上市后，Reddit上陆续出现损坏照⽚：内屏沿中
-央铰链开裂，部分还伴随⽩⾊或绿⾊亮线。
-⼀名澳⼤利亚⽤户表⽰，拿到iPhone Duo约6⼩时，展开不到20次，就在⼀次正常展开时听到断
-裂声，屏幕随即沿折痕裂开。⽤户称⼿机此前没有明显撞击。
-
-### Page 3
-
-这名⽤户最终在苹果零售店换到新机。但其他案例也接连出现：有⼈使⽤不到⼀天就发现裂
-纹，还有⼿机在初始设置尚未完成时就出现显⽰故障。
-更尴尬的是，耐⽤性测试也没过关
-耐⽤性测试进⼀步引发担忧：尽管iPhone Duo标注IP68防尘防⽔等级，灰尘仍能通过多个⼊⼝进
-⼊铰链，⽽铰链正是折叠屏反复开合的关键。
-随后的破坏性弯折测试让内屏出现永久性绿⾊亮线，最终失去触控响应，受损位置也集中在中
-央折叠区域。
-
-### Page 4
-
-但暴⼒弯折不等于⽇常使⽤，也⽆法确认灰尘与屏幕损坏的因果关系，测试只能说明新机在极
-端条件下存在薄弱点。
-2000美元的⼿机，内屏却格外娇贵
-测试显⽰，采⽤Ceramic Shield 2的外屏抗刮表现较好，但柔性内屏在莫⽒硬度2级就出现划
-痕，指甲也可能留下痕迹。这是柔性屏材料的普遍限制，并⾮苹果独有。
-消费者花近2000美元买苹果折叠屏，期待的不只是更⼤的屏幕，还有可靠的使⽤体验。三星、
-华为、⼩⽶等⼚商已有多代产品经验，后来⼊场的苹果反⽽承受更⾼期待。
-
-### Page 5
-
-苹果的⿇烦可能才刚开始
-随着裂屏案例传播，⼀些预订⽤户考虑取消订单或推迟购买。售后也成焦点：澳⼤利亚⽤户虽
-在门店换到新机，但电话申请快速换机时，仍遇到整机⾦额预授权、到货时间不明等问题。
-PhoneArena认为相似案例可能指向铰链设计缺陷；Gadget Review则强调，⽬前没有确认的整体
-故障率，也⽆证据证明其损坏率⾼于其他折叠屏。因此，断⾔存在系统性缺陷仍为时过早。
-但可以确定的是，苹果这次折叠屏⾸秀，已经遭遇⼀场意料之外的质量争议。真正需要回答的
-不是折叠屏有多薄、展开后有多⼤，⽽是⼀个更基础的问题：⼀部售价2000美元、主打折叠体
-验的⼿机，究竟能不能经得起⽤户每天反复打开和合上？
-
-### Page 6
-
 ⻛险提⽰及免责条款
 市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂
 中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
-619 收藏 分享到 :
-限免
-
-### Page 7
-
+113 收藏 分享到 :
 写评论
 图⽚
-15 条评论
+供应链压⼒也在加剧。供应商交货时间延误程度达到 2022 年以来最严重⽔平，原因包括材料短
+缺、库存偏低、供应商负荷过重、劳动⼒不⾜及运输延误等。
+成本上涨与订单积压相互叠加，进⼀步增强了企业向客⼾转嫁成本的能⼒。威廉姆森指出，企
+业销售价格涨幅已达到四年多来的最⾼⽔平，这意味着未来数⽉消费者价格通胀可能进⼀步⾼
+于美联储⽬标。
+制造业景⽓度升⾄ 53 个⽉⾼位，服务业信⼼仍偏弱
+美国 10 ⽉制造业 PMI 初值升⾄ 56.0 ，为 2022 年 5 ⽉以来最⾼⽔平，表明制造业经营状况持续改
+善。尽管制造业产出和新订单增速略有放缓，但整体仍处于较⾼⽔平，就业增⻓则进⼀步加
+快。
+企业对未来 12 个⽉业务前景总体仍持乐观态度。制造业信⼼明显改善，基本回归⻓期均值；服
+
+务业信⼼则较 9 ⽉略有回落，仍明显低于历史趋势⽔平。
+调查显⽰，⽣活成本上升、借贷成本偏⾼及政治不确定性，仍是拖累服务业企业信⼼的主要因
+素。
+总体⽽⾔，美国经济增⻓动能依然强劲，新订单和就业数据表现亮眼，但油价及其他投⼊成本
+上涨正加速传导⾄终端售价。经济扩张与通胀压⼒并存，可能令美联储在评估后续利率路径时
+⾯临更⼤挑战。
+限免
 请发表您的评论
 表情 发布评论
-哎哟我去
-1 ⼩时前 中国
-0  回复
-可能对苹果来说是⼀场重⼤的考验
-zlcc706
-2 ⼩时前 中国浙江省
-1  回复
-这事要出在华为上，热搜早暴了
-⻅闻⽤⼾ 1 ⼩时前 中国江苏省
-0  回复
-回复  zlcc706 ：
-正好说反了
-⻅闻⽤⼾ 10 分钟前 中国湖北省
-0  回复
-回复  zlcc706 ：
-听  ⽵知了在鸣叫
-MobileUser052
-3 ⼩时前 中国北京
-0  回复
-⼤⽶的是不是同⼀个代⼯⼚？
-⻅闻⽤⼾
-3 ⼩时前 中国上海
-0  回复
-这么多国产⼿机不买
-SoongSzai
-3 ⼩时前 中国⼴东省
-1  回复
-⼿握⼏千亿美⾦现⾦的企业做不好折叠屏，那么其他公司为啥做好呢？凭啥呢？资⾦⾯前说瞎话
-可不好呀
 
 ---
-## Document 715: 談股論金： AI 電力瓶頸催生機櫃級儲能需求
+## Document 747: 证监会：明确私募投资母基金豁免计入一层投资层级，细化分散投资要求与投资负面清单
 
-Source PDF: all report pdf/談股論金： AI 電力瓶頸催生機櫃級儲能需求.pdf
-Report source: Fubon
-Date: 2026-10-08
-Pages: 5
+Source PDF: all report pdf/证监会：明确私募投资母基金豁免计入一层投资层级，细化分散投资要求与投资负面清单.pdf
+Report source: WallstreetCN (Global)
+Date: 2026-10-23
+Pages: 2
 Extraction status: ok
 
 ### Page 1
 
-2026
+⻛险提⽰及免责条款
+市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂
+中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
+140 收藏 分享到 :
+写评论
+中国证监会起草《私募投资⺟基⾦管理规定》，明确私募投资⺟基⾦概念、分类及认定标
+准，提出分散投资要求，对⻓期资⾦设置差异化投资⽐例要求，并明确私募投资⺟基⾦豁
+免计⼊⼀层投资层级。同时，规定还将压实管理⼈主动管理职责，健全投后跟踪、穿透管
+理和⻛险监测机制，细化投资负⾯清单。
+摘要：
+为进⼀步规范私募投资⺟基⾦业务活动，促进私募投资⺟基⾦规范健康发展，中国证监会根据
+《中华⼈⺠共和国证券投资基⾦法》《私募投资基⾦监督管理条例》（以下简称《私募条例》）等
+法律法规，起草了《私募投资⺟基⾦管理规定》（以下简称《⺟基⾦规定》）征求意⻅稿，现向
+社会公开征求意⻅。
+私募投资⺟基⾦作为⼀类私募投资基⾦，通过⼀定的资产组合开展投资，具有分散⻛险、平滑
+收益的独特优势，在我国实践中取得较好发展。有效发挥私募投资⺟基⾦的策略优势，可促进
 
-02-8751-6665 
- www.fubon.com 
-台北市大安區仁愛路四段 169 號
+社会保障基⾦、保险资⾦等中⻓期资⾦投资配置私募投资基⾦⾏业，⽀持私募投资基⾦⾼质量
+发展。《私募条例》要求，私募投资基⾦投资层级应当遵守国务院⾦融管理部⻔的规定，同时对
+私募投资⺟基⾦豁免计⼊⼀层投资层级，并授权中国证监会对私募投资⺟基⾦具体条件等规定
+进⾏细化。
+《⺟基⾦规定》共⼆⼗三条，主要内容包括：⼀是明确私募投资⺟基⾦概念和具体分类，细化
+认定标准，根据投资范围差异对私募投资⺟基⾦分类。⼆是明确私募投资⺟基⾦分散投资要
+求，对⻓期资⾦投资私募投资⺟基⾦设置差异化投资⽐例要求。三是明确对私募投资⺟基⾦豁
+免计⼊⼀层投资层级。四是对管理不同类型私募投资⺟基⾦的管理⼈提出持续性要求。五是明
+确私募投资⺟基⾦运作管理要求，压实管理⼈主动管理职责，建⽴健全投后跟踪、穿透管理和
+⻛险监测机制，并对基⾦托管、利益冲突和关联交易管理等提出相应要求。六是细化私募投资
+⺟基⾦投资负⾯清单，坚守合规底线。
+中国证监会将认真研究各⽅反馈意⻅，进⼀步修改完善后按程序发布实施。
+本⽂来源：证监会
+限免
+请发表您的评论
 
-AI 電力瓶頸催生機櫃級儲能需求
-
-AI 伺服器耗電量快速攀升 ， 電網擴建速度追不上資料中心的建置 ， 電力成為 AI 
-發展最大的瓶頸之一，資料中心正推動機櫃級儲能市場快速成長。
-
-出刊日：2026/10/8 
-301 期
+⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⻅闻历 搜索
 
 ### Page 2
 
-2026
+图⽚
+表情 发布评论
 
-02-8751-6665 
- www.fubon.com 
-台北市大安區仁愛路四段 169 號 
-談股論金
+---
+## Document 753: 近乎垄断“霍尔木兹油运”！这家韩国船东“一夜暴富”，此前60亿美元囤积73艘二手超级油轮
 
-本期內容： 
-1. 電力為 AI 天花
-板，BBU 參戰 
-2. 從集中 UPS 走向分
-散 BBU 
-3. 高盛預估 5 年成長
-超過 20 倍
+Source PDF: all report pdf/近乎垄断“霍尔木兹油运”！这家韩国船东“一夜暴富”，此前60亿美元囤积73艘二手超级油轮.pdf
+Report source: WallstreetCN (Global)
+Date: 2026-10-24
+Pages: 3
+Extraction status: ok
 
-重點摘要 
-AI 伺服器朝高密度發展，單一機櫃的
-耗電量大幅提高，而電網擴建速度跟
-不上資料中心成長，讓電力供應成為
-限 制 。BBU 取 代 部 分 傳 統 集 中 式 
-UPS 的角色，成為 AI 伺服器標準配
-置。高盛預估市場規模 2025 至 2030 
-年將從 21.8 億美元成長到 501.5 億
-美元，年複合成長率約 87%。
+### Page 1
 
-■ BBU 的價值來自「就近供電」與「削
-峰填谷」 。 當 AI 晶片瞬間拉高用電時 ，
-BBU 可以即時補上缺口，減少對電網
-的衝擊 ， 也讓機櫃的運作更穩定 。 技術
-路線也正在分化，ZincFive 推出鎳鋅
-電池方案 ，Samsung SDI 推出圓柱型
-磷酸鋰鐵 (LFP)電池 ， 都是為了在功率 、
-安全性與成本之間找到更好的平衡。
+韩国兴亚海运今年 9 ⽉独揽霍尔⽊兹海峡近 40% ⽯油过境量， 10 ⽉前 10 天更突破 50% ，单
+⽉运油量超沙特、科威特、阿联酋三⼤国家船东之和。通过⾼溢价 “ 接驳贸易 ” 狂赚天价租
+⾦。背后推⼿是全球最⼤船东 MSC ⼊股背书。⽬前其船队规模达 162 艘，已成全球最⼤油
+轮运营商。
+摘要：
+⼀家此前鲜为⼈知的韩国船东，正在全球最敏感的⽯油运输通道上书写⼀段财富神话。凭借⼀
+场豪掷近 60 亿美元、囤积 73 艘⼆⼿超⼤型油轮（ VLCC ）的疯狂押注，韩国兴亚海运集团
+（ Sinokor Group ）已在霍尔⽊兹海峡油运市场确⽴近乎垄断的地位 —— 其船队单⽉运油量超过
+排名其后三家国家级船东的总和。
+据彭博援引 Vortexa 、 Equasis 及 Signal Group 等航运情报机构的船舶追踪数据，今年 9 ⽉，
+Sinokor 旗下船舶共通过霍尔⽊兹海峡运输原油 1.056 亿桶，占当⽉该海峡⽯油过境总量的近
+40%。紧随其后的三家船东 —— 沙特国家航运公司（ Bahri ）、科威特⽯油运输公司及阿布扎⽐国
 
-■ 產業鏈從電芯、電源模組到伺服器組
-裝與雲端業者都會受惠。 BBU 是 AI 
-基 礎 建 設 中 明 確 受 惠 的 次 產 業 ，
-Panasonic Holdings 等電池大廠也預
-期 BBU 將帶動業績成長。
+家⽯油公司旗下航运部⻔ —— 同期合计运量仅为 9730 万桶。据劳⽒⽇报（ Lloyd's List ）最先披
+露，在 10 ⽉前 10 天， Sinokor 的占⽐更进⼀步攀升⾄逾 50% 。
+这⼀市场格局的形成，源于 Sinokor 在伊朗战争爆发前⼣的⼀次战略性豪赌。当霍尔⽊兹海峡⼏
+近封闭之际， Sinokor 提前囤积的庞⼤船队被产油国以天价争相租⽤。如今，随着海湾地区原油
+出⼝逐步恢复⾄战前⽔平， Sinokor 仍是该航线最活跃的船东之⼀，其船队持续执⾏从波斯湾内
+部装载原油、穿越霍尔⽊兹、在阿曼湾进⾏船对船中转的 " 接驳贸易 " 。
+60 亿美元豪赌： 73 艘 VLCC 的疯狂囤积
+Sinokor 的崛起，始于⼀场在业界罕⻅的⼤规模⼆⼿船收购⾏动。
+据航运分析机构 Veson Nautical 分析师 Rebecca Galanopoulos 在最新市场报告中指出，2026 年
+迄今， Sinokor Maritime 已主导⼆⼿ VLCC 收购市场，累计购⼊ 73 艘 VLCC ，总耗资近 60 亿美
 
-圖一：BBU 模組在 AI 伺服器的架構
+元。这⼀数字等于全球其余⼋⼤油轮买家收购⽀出的总和。所有 73 艘船均于今年完成交付。
+⽀撑这场收购狂潮的，是全球最⼤船东地中海航运公司（ MSC ）的财务背书。据 Veson
+Nautical 数据， MSC 今年早些时候收购了 Sinokor Maritime 50% 的股权，与 Zhong Jiaxian 共同
+成为该公司的联合控股⽅。
+从规模来看， Sinokor Maritime ⽬前运营 93 艘 VLCC ，总载重吨位超过 2830 万载重吨，整体油轮
+船队达 162 艘。以船队规模计， Sinokor Maritime 已跃升为全球最⼤油轮运营商。
+Sinokor 由⼤亨 Ga-Hyun Chung 所有，在伊朗战争爆发初期便迅速进⼊市场视野。其战略逻辑清
+晰：在地缘冲突引发运⼒紧缺之前，以相对低廉的⼆⼿船价格完成船队扩张，再在危机⾼峰期
+以⾼运费收割回报。
+霍尔⽊兹危机：重塑全球油轮市场格局
+Sinokor 的崛起，是 2026 年全球油轮市场剧烈重构的⼀个缩影。
+Rebecca Galanopoulos 在分析中指出，霍尔⽊兹海峡危机是 2026 年油轮板块市场情绪的⾸要驱
 
-資料來源：GS， 2026/9/24
+动⼒。 AIS 数据显⽰，随着船东和租船⽅对该地区运营⻛险的重新评估，波斯湾过境船舶的航⾏
+⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⻅闻历 搜索
 
-重點摘要 
-AI 伺服器的隨身行動電源
+### Page 2
+
+⻛险提⽰及免责条款
+市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂
+中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
+0 收藏 分享到 :
+模式发⽣了显著转变。
+从整体市场来看， 2026 年⼆⼿油轮市场呈现爆发式增⻓。据 BRS Shipbrokers 最新⽉报，今年 1
+⽉⾄ 8 ⽉中旬，共有 428 艘油轮易⼿，⽽ 2025 年前三季度这⼀数字仅为 370 艘。
+“ 市场对能够灵活适应替代航线的油轮需求持续上升，直接推⾼了⼆⼿船价格，当前资产价格已
+达多年⾼位， ”Rebecca Galanopoulos 表⽰。她同时指出， Sinokor 的⼤规模收购直接反映了这⼀
+市场需求。
+接驳贸易：⾼⻛险航线上的⾼利润逻辑
+在当前的市场格局下， Sinokor 的核⼼业务集中于所谓的 “ 接驳贸易 ” （ shuttling trade ） —— 船舶
+在波斯湾内部装载原油，穿越霍尔⽊兹海峡后，在阿曼湾的船对船中转点卸货，再由其他船只
+
+转运⾄⽬的地。
+这⼀模式的形成，与霍尔⽊兹海峡的特殊地缘⻛险直接相关。当海峡⼏近封闭时，产油国⾯临
+储油空间告罄、被迫进⾏代价⾼昂的减产停⼯的压⼒，不得不以⾼价租⽤任何可⽤船只。
+Sinokor 提前布局的庞⼤船队，在这⼀窗⼝期获得了极为丰厚的回报。
+船舶追踪数据显⽰， Sinokor 的油轮已参与沙特阿拉伯和阿联酋原油的运输，近期更涉⾜伊拉克
+和卡塔尔的货运业务，客⼾覆盖范围持续扩⼤。
+然⽽，这场财富盛宴并⾮没有隐忧。
+Rebecca Galanopoulos 在报告结论中指出，VLCC 价格已升⾄ 2008 年以来的最⾼⽔平，后续⾛
+势更可能趋于稳定，⽽⾮进⼀步加速上涨。不过，她也指出，对于拥有⽼旧船队的船东⽽⾔，
+在市场出现任何回调之前完成船队更新，仍是⼀个值得把握的窗⼝。
+对于 Sinokor ⽽⾔，其近 60 亿美元的重仓押注能否最终兑现，将在很⼤程度上取决于两个变量：
+⼀是霍尔⽊兹海峡的地缘政治⾛向，⼆是海湾地区原油出⼝的恢复节奏。
+分析⼈⼠指出，⽬前，随着海湾原油出⼝逐步回归战前⽔平， Sinokor 在接驳贸易中的主导地位
+
+仍在延续，但市场对其能否在运费正常化后维持超额回报，保持审慎观望。
+“ 尽管当前运费市场正在消化绕航成本上升和保险费率攀升带来的压⼒，船东们仍在激烈争夺运
+⼒。这⼀收购势头能否持续，在很⼤程度上将取决于地缘政治局势及霍尔⽊兹海峡的后续⾛向。 ”
+限免
 
 ### Page 3
 
-2026
+写评论
+图⽚
+请发表您的评论
+表情 发布评论
 
-02-8751-6665 
- www.fubon.com 
-台北市大安區仁愛路四段 169 號
+---
+## Document 768: 马斯克的终极野心：打造科技“全栈帝国”，将AI产业命脉握在自己手中
 
-▋ 電力為 AI 天花板，BBU 參戰 
-AI 伺服器在運算時 ，GPU 會在極短的時間
-內從低負載衝到高負載 ， 再快速回落 ， 用電
-曲線像心電圖一樣上下跳動 。 這種瞬間尖峰
-對電網與資料中心內部供電設備都是很大
-的壓力 ， 如果沒有緩衝機制 ， 不只容易跳電 ，
-也可能拖慢運算效率。
+Source PDF: all report pdf/马斯克的终极野心：打造科技“全栈帝国”，将AI产业命脉握在自己手中.pdf
+Report source: WallstreetCN (Global)
+Date: 2026-10-23
+Pages: 4
+Extraction status: ok
 
-BBU 就是為了解決這個問題而生。它把電
-池直接放進伺服器機櫃 ， 在用電衝高時先由
-電池放電補上 ， 等用電下降再慢慢充回去 ，
-讓外部電網看到的用電曲線變得平滑 。 這種
-做法讓資料中心不必為了少數幾秒鐘的尖
-峰 ， 而把整體供電容量設計得過大 ， 也就有
-機會降低建置成本並提高設備使用率。 
-※電池備援單元 BBU (Battery Backup Unit) 安裝在伺服器機
-櫃或電源櫃內的備用電池模組 ， 在停電或用電尖峰時即時供電 ，
-讓伺服器維持正常運作。 
-※不斷電系統  UPS (Uninterruptible Power Supply) 一般放
-在機房或大樓中的集中式備用電源設備 ， 停電時先由電池供電 ，
-再交由發電機接手。
+### Page 1
 
-圖二：AI 伺服器 BBU 架構內包含電池芯 
-資料來源：GS，北富銀整理，2026/9/24
+SpaceX 正在通过激进扩张，将全球通信、算⼒基础设施及⾃建能源体系深度整合。凭借
+超预期的财务增⻓与算⼒规模，加上与特斯拉推进合并的潜在计划，⻢斯克意图构建从 “ 卫
+星 / 传输 — 电⼒ — 芯⽚ /AI 模型 — 机器⼈ / 终端 ” 完全垂直整合的科技 “ 全栈帝国 ” ，全⾯掌控⼈
+⼯智能时代的产业核⼼命脉。
+摘要：
+SpaceX 正以前所未有的速度，将全球通信⽹络、算⼒基础设施与能源供给整合⾄同⼀家公司旗
+下。⼀份令华尔街震惊的季度财报显⽰，这家由⻢斯克掌舵的公司正在以⽐任何科技巨头都更
+激进的⽅式，押注⼈⼯智能时代的核⼼命脉。
+SpaceX 第三季度营收 146 亿美元，同⽐增⻓ 161% ，超出华尔街预期逾 20 亿美元，并⾸次录得正
+经营利润。公司 CFO Bret Johnsen 指引， 2027 年第⼀季度营收将达 330 亿⾄ 370 亿美元，今年
+12 ⽉前，年化经常性收⼊将突破 1000 亿美元。与此同时，⻢斯克确认， SpaceX 与特斯拉的独⽴
+董事特别委员会正在讨论两家公司的合并事宜。
 
-▋ 從集中 UPS 走向分散 BBU 
-傳統資料中心做法是在機房設置大型UPS，
-讓整排甚至整個機房共用一套備援系統 。 這
-種設計在過去伺服器功耗較低時很有效率 ，
-但當單一機櫃功耗從幾千瓦拉高到上百千
-瓦時，集中式 UPS 就面臨幾個問題。首先
-是反應速度，電力要從遠端 UPS 經過長距
-離線路送到機櫃 ， 遇到瞬間尖峰時來不及反
-應 。 其次是空間與轉換損耗 ， 電力經過多次
-交流與直流轉換 ， 每次都會損失一些能量 。
+若合并成真， SpaceX 将⼀举囊括卫星发射、全球通信、 AI 算⼒、能源供应，以及特斯拉的⼯
+⼚、⾃动驾驶汽⻋和 Optimus ⼈形机器⼈。届时，全球计算机体系的每⼀个层级，都将由⼀家
+公司所拥有。
+Starlink ：逼近颠覆整个通信⾏业的临界点
+Starlink 卫星互联⽹服务第三季度新增⽤⼾ 160 万，累计订阅⽤⼾达 1360 万。这⼀数字虽远低于
+Verizon 的 1.47 亿⽆线连接和 AT&T 的 1.1 亿，但增⻓曲线不容忽视 ——从 2023 年底的 230 万，到
+2024 年底的 440 万，再到 2025 年底的 890 万，今年前三季度⼜新增 470 万。
+相⽐之下，同⼀季度 AT&T 新增后付费⽤⼾仅 37.9 万， Verizon 为 18.4 万。此外，约 1.2 万架商⽤
+⻜机已接⼊ Starlink 服务，这⼀覆盖能⼒正成为航空公司竞争的关键变量 —— 联合航空已接⼊，
+达美航空尚未接⼊。
+Starlink Mobile 是另⼀条增⻓曲线。该服务⽆需屋顶天线，通过 T-Mobile 等合作运营商直接将普
 
-BBU 把備援電力搬到離GPU 最近的地方 ，
-縮短供電路徑 ， 反應更快也更有效率 。 部分
-新架構甚至讓 BBU 直接以直流電為伺服器
-供電 ， 減少轉換次數 。 對資料中心業者來說 ，
-這不僅提升穩定度，也讓原本被 UPS 占用
-的機房空間 ， 可以釋放出來多放幾個伺服器
-機櫃。
+通⼿机连接⾄卫星，⽉活⽤⼾已达 2200 万，仅第三季度便增⻓ 37% 。 SpaceX 近期还达成协议，
+以约 170 亿美元收购 EchoStar 旗下⽆线频谱，计划于 2028 年初推出全⾯移动运营商服务。
+在技术层⾯， SpaceX 新⼀代 V3 卫星单星下载容量达每秒 1 太⽐特，可⽀持约 20 万路同时视频
+流，⽽ Starship ⽕箭单次可搭载 60 颗此类卫星。今年 9 ⽉的 Starship 第 14 次⻜⾏，单次部署带宽
+已 达 每 秒 2 6 太 ⽐ 特 — — 相 当 于 Vi a s a t 整 个 Vi a S a t - 3 卫 星 群 容 量 的 逾 8 倍 。 据 研 究 机 构
+TeleGeography 数据， 2026 年中期全球国际互联⽹总容量（主要依托海底电缆）约为每秒 2259
+太⽐特。随着 Starship 计划明年实现每周⼀⻜、最终实现每⽇⼀⻜，⻢斯克的⽹络规模或将超越
+全球互联⽹总容量。
+算⼒竞赛： SpaceX 正成为全球最⼤算⼒供应商
 
-這並不代表集中式 UPS 會完全消失。未來
-比較可能的情況是兩者並存，BBU 負責機
-櫃層級的快速反應與削峰，大型 UPS 與儲
-能系統則負責整體機房的長時間備援 。BBU 
-是分工的一環 ， 取代的是一部分功能 ， 而不
-是整套系統。  
-圖三：BBU 與 UPS 設計完全不同
+算⼒正在成为⼀种基础设施，⽽⻢斯克意在主导这⼀基础设施。 SpaceX ⽬前每⽉上线约 22 万块
+英伟达 GB300 芯⽚，⻢斯克表⽰明年这⼀速度将进⼀步加快。
+据富⼠康披露，其已收到 SpaceX 约 93.6 万块 GB300 芯⽚的订单，价值约 520 亿美元，交付期截
+⾄ 2027 年第⼀季度。业界估计，英伟达今年 Blackwell 芯⽚总产量约为 550 万⾄ 600 万块，
+⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⻅闻历 搜索
 
-資料來源：lgensol，2026/5/14
+### Page 2
 
-### Page 4
+SpaceX ⼀家约占 40% ，是英伟达⽬前最⼤的单⼀买家。
+SpaceX 已在⽥纳西州孟菲斯建成全球最⼤ AI 数据中⼼ Colossus 2 ，但这仅是起点。根据⻢斯克
+和 CFO Bret Johnsen 在财报电话会议上披露的时间表，截⾄ 9 ⽉底， SpaceX 算⼒已达 1.7 吉⽡；
+预计 10 ⽉底接近 2 吉⽡， 12 ⽉底达 2.5 ⾄ 3 吉⽡； 2027 年第⼆季度末，将上线拥有 44 万块英伟达
+下⼀代 Vera Rubin 芯⽚的 " 全球最强训练集群 " ；全年⽬标是新增 10 吉⽡算⼒，⻢斯克称对此 " ⾼
+度有信⼼ " ，并表⽰实际数字 " 不太可能低于 13 吉⽡ " 。
+竞争对⼿正在主动向⻢斯克寻求算⼒。 Anthropic 承诺在 2029 年前向 SpaceX 租⽤约 845 亿美元的
+算⼒； Alphabet 同意从今年 10 ⽉⾄ 2029 年 6 ⽉，每⽉向 SpaceX ⽀付 9.2 亿美元购买算⼒。即便是
+⾃主研发芯⽚、坐拥全球最⼤算⼒集群之⼀的⾕歌，也选择向⻢斯克购买算⼒ —— 根本原因在
 
-2026
+于电⼒。
+能源瓶颈： SpaceX 选择⾃建电⼒体系绕道⽽⾏
+电⼒是数据中⼼扩张的根本制约。 GE Vernova 是美国最⼤的数据中⼼燃⽓轮机制造商，其订单
+已排满⾄ 2030 年，当前积压订单达 116 吉⽡，⽽年产能仅约 20 吉⽡。
+SpaceX 的解决⽅案是⾃建电⼒系统。公司已在密西西⽐州 Southaven 建成⾃有发电设施，配备
+41 台燃⽓轮机，装机容量 1.2 吉⽡；同时向韩国⽃⼭重⼯采购 5 台 380 兆⽡机组。⻢斯克表⽰，其
+能源解决⽅案 " ⾼度专有 " ，核⼼在于 SpaceX 掌握了先进的铸造能⼒ —— 这⼀能⼒源于⽕箭发动
+机制造，可⽤于⾃主⽣产燃⽓轮机叶⽚，从⽽将电⼒部署周期缩短 12 ⾄ 18 个⽉。
+⻢斯克计划明年新建 20 吉⽡的电⼒与冷却设施，以确保算⼒扩张不受能源制约。按照估算，若
+SpaceX 到 2027 年底实现 20 吉⽡燃⽓轮机装机，每⽇天然⽓消耗量将达 30 亿⾄ 45 亿⽴⽅英尺
+—— 相当于美国能源信息署预计 2027 年全年天然⽓产量增量的⼤部分。
 
-02-8751-6665 
- www.fubon.com 
-台北市大安區仁愛路四段 169 號
+财务压⼒：负⾃由现⾦流背后的融资逻辑
+激进的扩张伴随着巨⼤的资本消耗。 SpaceX 第三季度经营活动产⽣现⾦约 96 亿美元，⽽资本⽀
+出达 196 亿美元，⾃由现⾦流约为负 100 亿美元。 CFO Bret Johnsen 指引第四季度资本⽀出为
+350 亿⾄ 400 亿美元，约为此前向投资者预期值的两倍。
+与其他超⼤规模云⼚商相⽐， SpaceX 的资本⽀出强度远超同⾏。亚⻢逊今年每 1 美元收⼊投⼊
+约 0.27 美元⽤于资本项⽬，微软和 Alphabet ⽔平相近；⽽ SpaceX 这⼀⽐率约为 2.50 美元，为亚
+⻢逊的约 9 倍。
+截⾄ 9 ⽉底， SpaceX 持有现⾦及短期投资 899 亿美元，债务 388 亿美元，季度 EBITDA 约 88 亿美
+元，折合年化约 350 亿美元，当前负债约为⼀倍 EBITDA ，远低于标普维持投资级评级的两倍上
+限。
+然⽽，若 SpaceX 要完成 10 吉⽡算⼒建设并维持投资级评级，资⾦缺⼝意味着它必须通过发⾏新
+股、让英伟达等供应商提供芯⽚融资，或向客⼾预收款等⽅式筹集额外资⾦。据报道，标普全
 
-▋ BBU 規模 5 年成長超過 20 倍 
-高盛預估全球 BBU 市場將從 2025 年的約 
-21.8 億美元，成長到 2030 年的 501.5 億
-美元，年複合成長率高達 87%。成長率看
-起來非常驚人，但要留意兩件事。第一，
-2025 年的市場基期很小 ， 所以只要新平台
-開始大量導入 ， 成長率就容易被放大 。 第二 ，
-預估數字建立在 AI 伺服器出貨持續成長 ，
-以及每個機櫃配置的  BBU 數量與單價同
-步提高的前提上。
+球已预计 SpaceX 借款规模将于 2028 年达到 1320 亿美元，并预计⾃由现⾦流要到 2030 年才能转
+正。
+特斯拉合并：构建 " 全栈帝国 " 的最后⼀块拼图
+⻢斯克已确认，SpaceX 与特斯拉独⽴董事特别委员会正在讨论合并。若交易达成， SpaceX 将
+获得特斯拉的制造⼯⼚、⾃动驾驶汽⻋技术和 Optimus ⼈形机器⼈，其按⽡出售的 AI 算⼒将随之
+驱动汽⻋驾驶和⼯⼚⽣产。
 
-從需求面來看 ， 有三個成長動能 。 第一是輝
-達 Blackwell 之後的新平台 ， 機櫃功耗持續
-拉高，BBU 的配置比重也跟著提高。第二
-是除了輝達，各家雲端業者自行開發的 AI 
-伺服器也逐漸採用類似的電力架構 。 第三是 
-BBU 容量規格提升，單一機櫃需要的備援
-功率與電池容量都在增加 ， 帶動單價上升 。
-總之投資人看 BBU 時 ， 比起記住 87% 這
-個數字，更重要的是追蹤AI 伺服器出貨量
-與客戶新平台的導入時程。
+### Page 3
 
-圖四：BBU 市場規模暴增 
-資料來源：GS，北富銀整理，2026/9/24
+⻛险提⽰及免责条款
+市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂
+中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
+116 收藏 分享到 :
+写评论
+图⽚
+3 条评论
+这意味着⼀条完整的垂直整合链条：SpaceX 发射卫星， Starlink 传输信号，⾃建燃⽓轮机供
+电，⾃有芯⽚运⾏ AI 模型， Grok 提供智能服务，特斯拉机器⼈执⾏体⼒劳动 —— 全球计算体系
+的每⼀个层级，均由同⼀家公司掌控。
+这⼀逻辑颠覆了过去⼀个世纪美国产业分⼯专业化的基本范式。在 AI 时代，当智能的成本等于电
+⼒加芯⽚加传输，垂直整合的拥有者将吃尽链条上每⼀层利润，⽽依赖外购各类投⼊的竞争者
+则在每个环节上都⾯临成本劣势，即便经营得当，也难以为继。
+从营收轨迹看， SpaceX 有望在 2027 年底前报告单季超过 500 亿美元的营收，约为 2025 年第三季
+度 56 亿美元的近 9 倍。这场豪赌能否兑现，核⼼变量在于 AI 对算⼒需求的持续增⻓ —— 以及⻢斯
 
-▋ 結論：技術路線百花齊放 
-BBU 的核心是電池，而 AI 伺服器對電池
-的要求和一般消費性電子很不一樣 。 它需要
-在極短時間內放出大量電力 ， 也就是高功率
-輸出 ， 同時要能承受頻繁充放電 ， 而且因為
-放在機櫃內 ， 安全性與體積也非常重要 。 目
-前市場上有幾條技術路線在競爭。
+克是否能以前所未有的速度，将这台横跨天空、地⾯与数字世界的机器真正运转起来。
+限免
+请发表您的评论
+表情 发布评论
+将⻔虎⼦
+4 ⼩时前 中国浙江省
+0  回复
+⽜ B ，全球没有⼀个⼈能像⻢斯克这样，既有如此野⼼也有如此能⼒去做这种事。。尽管还存在
+各种问题，甚⾄讲故事阶段，但理论上可⾏，，就这种实⼒，⽆⼈能出其右。
+MobileUser1112
+5 ⼩时前 中国北京
+0  回复
+在新技术爆发时期，试图控制整个产业⽆疑是狂妄⽆知，⽽且注定失败。
+wscn2861179892
+5 ⼩时前 中国
+0  回复
+除了⽕箭发射具有竞争⼒，其余商业均缺乏竞争⼒
 
-第一條是傳統的鋰離子電池 ， 特別是高功率
-型的鋰電芯 ， 這是目前最成熟 、 供應鏈最完
-整的選擇，Panasonic Holdings 等日本電
-池廠在這個領域累積了多年經驗 。 第二條是 
-ZincFive 推動的鎳鋅電池※， 特色是瞬間放
-電能力強、耐高溫，而且安全性較高，適合
-處理  AI 伺 服 器 的 用 電尖 峰 。 第 三 條 是 
-Samsung SDI 推出的圓柱型磷酸鋰鐵電
-池 ， 磷酸鋰鐵的化學結構穩定 ， 不容易起火 ，
-壽命也較長 ， 搭配標準化的圓柱型外觀 ， 有
-利於大量生產與降低成本。
+---
+## Document 774: 黄金跌破4000美元、日元升至阻力位，市场开始挑剔“避险资产”
 
-未來 AI 基礎建設的競爭不僅是 GPU 數量
-與算力規模 ， 更將延伸至電力取得能力 、 儲
-能配置以及能源管理效率 。 隨著 AI 伺服器
-功耗持續攀升， BBU 有望成為繼 GPU、
-HBM 之後 ，AI 資料中心的重要受惠環節 。
+Source PDF: all report pdf/黄金跌破4000美元、日元升至阻力位，市场开始挑剔“避险资产”.pdf
+Report source: WallstreetCN (Global)
+Date: 2026-10-24
+Pages: 3
+Extraction status: ok
 
-*所列個股為舉例說明，並非個股推薦
+### Page 1
 
-※鎳鋅電池 以鎳與鋅作為正負極材料的電池，特色是瞬間
-放電能力強、 耐高溫且不易起火 ， 但能量密度較鋰電池低 。 
-※磷酸鋰鐵 LFP (Lithium Iron Phosphate) 鋰電池的一種，
-以磷酸鋰鐵作為正極材料，結構穩定、安全性高、壽命長，
-成本也相對較低。
+⻩⾦本周跌破 4000 美元触及三个⽉低点，在全球避险情绪⾼涨之际却与美债收益率⾛势背
+离。分析⼈⼠将⻩⾦弱势归因于过去⼀年的投机属性消退及加息预期升温。与此同时，⽇
+元凭借估值低估 40% 的优势⼀跃成为⾼盛⾸选对冲⼯具，传统避险资产格局正在悄然重
+塑。
+摘要：
+本周全球市场避险情绪⾼涨，但传统避险资产却出现严重分化：美债受到追捧，⽇元升⾄关键
+技术位，⽽⻩⾦却反常下跌。
+⻩⾦周五跌破每⾦衡盎司 4000 美元，触及 3986.50 美元的逾三个⽉低点，本周累计跌幅达 4% 。
+Berenberg 分析师指出，⻩⾦在 " ⻛险规避背景下 " 出现下跌，是⼀个 " 值得关注的背离 " 。
+与此同时，法国财政隐忧推动⽇元兑欧元升⾄⼀年⾼点，美元兑⽇元跌破 157.50 关键⽀撑位⾄
+约 156.9 附近，⾼盛 FICC 将⽇元列为当前环境下的⾸选对冲⼯具。
+美国 10 年期国债收益率周四时隔⼀个⽉后重新跌破 5% ，成为本周最受⻘睐的避险⽬的地。
+⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⻅闻历 搜索
 
-### Page 5
+### Page 2
 
-2026
+本周市场⻛险情绪的集中释放源于多重压⼒叠加：法国预算⾚字引发欧洲主权债务忧虑，⼈⼯
+智能资本开⽀能否持续获得融资⽀持的疑问骤然升温，以及中东地缘局势持续紧张。
+⻩⾦失去避险光环，背离历史规律
+⻩⾦本周的表现与其传统的避险属性明显相悖。通常⽽⾔，美债收益率下⾏对不提供收益的⻩
+⾦构成利好，但投资者本周在涌⼊美债的同时，却持续抛售⻩⾦。
+Berenberg 分析师表⽰，上⼀次⻩⾦在国债收益率⼤幅下⾏时表现如此疲弱，要追溯⾄ 2008 年
+12 ⽉，即全球⾦融危机最深重的阶段。
+分析师认为，⻩⾦当前的弱势与其在过去⼀年充当投机性资产密切相关。这⼀投机热潮曾推动
+⾦价在今年 1 ⽉攀上逾 5400 美元的历史⾼位，但随着相关交易者陆续离场，⾦价此后已累计回落
+逾五分之⼀。
+芝商所⾸席经济学家 Erik Norland 表⽰，今年贵⾦属价格下跌的最⼤驱动因素，是市场预期从
+降息转向加息。
+不过他也指出，考虑到财政⾚字对债券市场信⼼的侵蚀、通胀上⾏、地缘政治⻛险以及央⾏持
+续购⾦，⻩⾦价格仍远⾼于 2025 年初，这 " 令⼈惊讶 " 。
+
+世界⻩⾦协会数据显⽰， 9 ⽉份央⾏购⾦量升⾄ 2024 年 11 ⽉以来的单⽉最⾼⽔平。世界⻩⾦协会
+⾼级市场策略师 John Reade 在该机构举办的贵⾦属峰会上表⽰，⾼利率令⻩⾦投资吸引⼒有所
+下降，⾼能源价格则削弱了消费者的购⾦能⼒。 John Reade 说：
+世界⻩⾦协会峰会上，多位基⾦经理仍对⻩⾦后市持审慎乐观态度，预计价格将出现反弹，但
+当前技术⾯与资⾦⾯的压⼒使这⼀预期⾯临更⼤的不确定性。
+Berenberg 分析师警告，周五⻩⾦收盘价跌破 4000 美元关⼝， " 可能引发⻩⾦ ETF 进⼀步流出以
+及整个⻩⾦股票板块的技术性抛售 " 。
+⻩⾦ ETF 需求已在今年上半年出现回落，三季度随 9 ⽉销售回暖有所反弹，但当前价格⾛势对相
+关资⾦流向构成新的压⼒。
+今年在缺乏避险买盘的情况下，基本⾯因素的权重更⼤。
+
+### Page 3
+
+⻛险提⽰及免责条款
+市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂
+中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
+128 收藏 分享到 :
+写评论
+图⽚
+⽇元成为本周最受追捧的避险资产
+在⻩⾦失守的同时，⽇元成为本周避险交易最⼤的受益者。
+受法国债务忧虑发酵影响，⽇元兑欧元升⾄ 175.20 的⼀年⾼位，美元兑⽇元则跌⾄ 156.08 的五
+周低点。
+华尔街⻅闻提及，⾼盛 FICC 分析师 Chryssafis 将⽇元列为当前⼈⼯智能泡沫破裂情境下的⾸选
+对冲⼯具，美元兑⽇元已向下突破 157.50 多重底部⽀撑及 50 ⽇均线。
+⾼盛认为，美元资产吸引⼒下降、资本回流⽇本，进⽽推动⽇元升值。⾼盛的⻓期公允价值模
+型显⽰，⽇元相对美元被低估约 40% ，是其追踪货币中估值最为偏低的⼀个。
+⽇本政府数据显⽰， 9 ⽉份不含新鲜⻝品的消费者价格同⽐上涨 2.1% ，较 8 ⽉份的 1.7% 有所加
+速，但与美国及欧洲相⽐，通胀⽔平仍属温和，这也增强了⽇元相对于其他主要货币的吸引
+
+⼒。
+瑞穗银⾏市场经济学家 Kyugo Hasegawa 在研报中指出，法国财政问题提振了瑞⼠法郎，同时引
+发市场对瑞⼠央⾏可能出⼿限制法郎升值的警觉，这或将部分避险资⾦流向⽇元。
+但他同时强调，⽇元能否进⼀步上涨，最终仍取决于⽇本国内财政与货币政策的⾛向。
+限免
+请发表您的评论
+表情 发布评论

@@ -3,7 +3,7 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 044: 2026年6月投資月報
+## Document 045: 2026年6月投資月報
 
 Source PDF: all report pdf/2026年6月投資月報.pdf
 Report source: Yuanta (投資月報)
@@ -352,7 +352,7 @@ ETF 資金流入恐難以重現 2025 年的強度，故預期中短線上金價�
 仍維持債券投資聚焦中短天期公債/投資級債的建議。
 
 ---
-## Document 080: 2603長榮 永豐
+## Document 081: 2603長榮 永豐
 
 Source PDF: all report pdf/2603長榮 永豐.pdf
 Report source: line報告備份
@@ -769,7 +769,7 @@ C 企業在管理及揭露 ESG 績效的程度在 81%-100%
 10
 
 ---
-## Document 085: 261012_ml_nytech
+## Document 086: 261012_ml_nytech
 
 Source PDF: all report pdf/261012_ml_nytech.pdf
 Report source: line報告備份
@@ -2338,7 +2338,7 @@ Neither BofA Securities nor any officer or employee of BofA Securities accepts a
 information.
 
 ---
-## Document 100: 261013_ms_OCP
+## Document 101: 261013_ms_OCP
 
 Source PDF: all report pdf/261013_ms_OCP.pdf
 Report source: line報告備份
@@ -2788,7 +2788,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 113: 261015_ml_MTK
+## Document 114: 261015_ml_MTK
 
 Source PDF: all report pdf/261015_ml_MTK.pdf
 Report source: line報告備份
@@ -3251,7 +3251,7 @@ Neither BofA Securities nor any officer or employee of BofA Securities accepts a
 information.
 
 ---
-## Document 147: 3665貿聯 玉山
+## Document 148: 3665貿聯 玉山
 
 Source PDF: all report pdf/3665貿聯 玉山.pdf
 Report source: line報告備份
@@ -3439,141 +3439,144 @@ Switch 放量，ALC 主動式光纜目前已有 2 個以上客戶表示願意採
 未評等：無。
 
 ---
-## Document 215: AI“跌倒”，美债“吃饱”！全球“资本争夺战”，市场给出答案
+## Document 203: [329180] HD현대중공업(329180) HD현대중공업 증설 공시 코멘트HD현대중공업(329180) HD현대중공업 증설 공시 코멘트HD현대중공업 증설 공시 코멘트 - 기업
 
-Source PDF: all report pdf/AI“跌倒”，美债“吃饱”！全球“资本争夺战”，市场给出答案.pdf
-Report source: WallstreetCN (Global)
-Date: 2026-10-24
-Pages: 5
+Source PDF: all report pdf/[329180] HD현대중공업(329180) HD현대중공업 증설 공시 코멘트HD현대중공업(329180) HD현대중공업 증설 공시 코멘트HD현대중공업 증설 공시 코멘트 - 기업.pdf
+Report source: Hankyung
+Date: 2026-09-11
+Pages: 4
 Extraction status: ok
 
 ### Page 1
 
-AI 巨头天量资本开⽀引发市场信任危机，纳斯达克创近年最差两周表现，⼀篮⼦ AI 相关股
-票单周重挫 4.9% 。与此同时，美债强势逆转， 10 年期收益率跌破 5% ，债券 ETF 单⽉吸⾦
-580 亿美元。 AI 扩张与政府⾚字融资同时争夺有限资本，廉价资本时代逻辑正被改写。
-摘要：
-⼀场围绕资本定价权的争夺正在全球市场上演。 AI 超级资本开⽀周期与各国政府财政⾚字周期同
-时向债券市场争夺资⾦，在触发 AI 板块剧烈震荡的同时，将美债推⼊久违的避险买盘。这⼀切指
-向同⼀个结论：廉价资本时代的逻辑正在被改写。
-本周，纳斯达克 100 指数录得去年 4 ⽉以来最差两周表现，⼀篮⼦ AI 相关股票单周重挫 4.9% ，
-Meta 等科技巨头遭遇重创。
-与此同时，美债市场强势逆转， 10 年期美债收益率时隔⼀个⽉⾸度跌破 5% ，⻓端债券 ETF 连续
-三周上涨，债券资⾦流⼊规模本⽉已达约 580 亿美元，占全部 ETF 流⼊的 38% 。
-资本的⽤脚投票，揭⽰出市场情绪的深层转变。此前近乎⽆懈可击的华尔街共识 —— 做多⼤型
+HD현대중공업은 전일(9/10) 대출력 발전엔진 (20MW, 9MW 급) 및 SMR 캐파 
+확장을 위한 신규시설투자를 공시했다. 규모는 총 1조 722억원이며, 그 중 엔진 관련 
+투자는 8,336억원, SMR 관련 투자는 2,386억원이다.
 
-科技股、做空防御性资产正遭受越来越多的质疑。 Neuberger Berman 多资产联席⾸席投资官
-Jeffrey Blazek 直⾔：
-⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⻅闻历 搜索
+엔진 관련 투자에서는 4행정 중속엔진 캐파 확장을 위한 신규 공장 신설 및 기존 
+공장 생산 설비 구축을 진행하고자 한다. 동사의 4행정 중속엔진 캐파는 기존 3GW 
+규모이며, 이번 증설을 통해 신규 공장 캐파 3GW, 기존 공장 증설분 1.2GW가 
+더해져 2028년 5월 기준 최종적으로 7.2GW 규모가 될 것으로 예상된다. 영암 
+공장과 신축 공장에서는 데이터센터향으로 납품될 9MW 및 20MW 규모의 대출력 
+엔진 위주, 기존 울산 공장은 3~5MW 규모의 선박용 엔진 위주의 생산이 이루어질 
+계획이다. 이번 공장 신축 완료 이후에도 가용 부지가 남아있어 시장 수요에 따라 
+향후 추가적인 캐파 확대 역시 고려할 수 있다.
+
+SMR 투자의 경우 현대건설/테라파워와의 협력을 위한 SMR 주기기 연 2기 생산 
+캐파 확보를 목적으로 진행되었다. 1기 당 출력 용량은 345MW이며, 구체적인 생산 
+단가 및 물량의 경우 테라파워사와 지속 협의 중으로 동사의 미래 먹거리로서 
+중장기적인 성장성에 기여할 전망이다.
+
+데이터센터향 수요 성장에 대한 확신은 실제 엔진 업체들의 수주 인콰이어리 및 신규 
+투자에서 드러나고 있다. 엔진 발전 시장 상위 업체 바르질라와 에버런스가 올해 
+결정한 증설 규모는 총 4.5GW로 파악되며, 동사 역시 같은 행보로 신규 시장에서 
+유의미한 점유율을 확보할 것으로 기대된다. 동사의 데이터센터향 4행정 중속엔진 
+수주 단가를 고려했을 때 GW당 약 1조원의 매출 창출이 가능하다. 또한, 현재 동사 
+엔진사업부의 캐시카우를 담당하고 있는 2행정 저속엔진 대비 좋은 수익성을 보여줄 
+것으로 기대되는 바, 데이터센터향 생산이 시작될 28년 하반기부터 점진적으로 엔진 
+믹스 개선 및 마진 성장이 가속화될 것으로 전망한다.
 
 ### Page 2
 
-AI 开⽀叙事动摇，市场信任出现裂痕
-过去两年， AI 交易⼏乎是华尔街最坚不可摧的共识：做多⼤型科技股，做空防御性资产。这⼀共
-识本周遭遇实质性挑战。
-投资者的焦虑集中于⼀个核⼼问题：科技巨头为 AI 投⼊的天量资本，能否在⾜够短的时间内产⽣
-⾜以匹配的回报？
-华尔街⻅闻提及，Anthropic 未来数年可能在额外算⼒上耗资 7500 亿美元。 Meta ⾸席执⾏官扎克
-伯格随后宣布，该公司将在未来算⼒及 AI 基础设施租约与合同上⽀出约 8250 亿美元。
-消息公布后， Meta 股价本周⼤跌逾 9% ，为 5 ⽉以来最⼤单周跌幅，公司信⽤⻛险指标同步升⾄
-历史⾼位。其他超⼤规模云计算商及芯⽚制造商的债务保护成本也随之跳升。
-与此同时，全球企业债信⽤利差普遍⾛阔。衡量美国企业债市场感知⻛险的关键指标， CDX 投
-资级指数周五盘中最⾼升⾄ 64.4 ，为 3 ⽉以来最⾼盘中⽔平。该指数越⾼，表明投资者对信⽤⻛
-险的担忧越深。
-值得注意的是， AI 相关股票组合与 10 年期美债收益率已连续九周同向波动，这是⾃ OpenAI 推出
+엔진 SMR 
+투자대상 대출력 발전엔진 캐파 확장 SMR 전용 공장 구축 
+투자금액 8,336 억원 2,386 억원 
+투자목적 엔진발전 시장 대응 SMR 주기기 제작사업  
+투자기간 2026-09-10~2028-05-31 2026-10-01~2029-04-30
 
-ChatGPT 以来持续时间最⻓的联动⾛势。
-这是彻彻底底的剧情反转 —— 我们正在看到资⾦争相涌⼊国债，与 AI 交易形成背离。
+자료: Dart, 상상인증권
+
+(단위: GW) 기존 증설분 증설 완료 시 생산 예정 엔진 
+울산 공장 2.3 0.9 3.2 선박용 엔진(3~5MW 급) 
+영암 공장 0.7 0.3 1 대출력 엔진(9, 20MW 급) 
+울산 신축 공장 - 3 3 대출력 엔진(9, 20MW 급) 
+총 캐파 3 4.2 7.2
+
+자료: HD현대중공업, 상상인증권
+
+구분 4/21 수주 8/10 수주 
+계약명 엔진발전기 공급 엔진발전기 공급 
+계약금액(억원) 6,271 9,560 
+계약상대 Aperion Energy Group Holdings Corban Energy Group 
+판매ㆍ공급지역 미국 미국 
+시작일 2026-04-21 2026-08-07 
+종료일 2030-10-21 2030-07-30 
+총 용량 684MW 1GW 
+대당 용량 20MW 9MW 
+추정 단가(억원) 183 86
+
+자료: Dart, HD현대중공업, 상상인증권
 
 ### Page 3
 
-这与 7 ⽉的情形截然不同 —— 彼时 AI 交易降温，美债同样承压。当前格局意味着 AI 信⼼的动摇，
-正被市场直接转化为对安全资产的需求。
-美债 " 避险 " 属性重归，资⾦防御转向加速
-债市的反转来得迅猛。本周初，⼤量投资级债券供给推动 10 年期美债收益率在周⼀升⾄
-5.14% ；随后 AI 恐慌情绪袭来，曲线急速反转。
-美债周四全线⼤涨 12 ⾄ 18 个基点，以中段表现最为突出，创逾⼀年来最佳单⽇表现， 10 年期收
-益率收于 4.97% ，为⼀个⽉来⾸次收盘跌破 5% ，亦是⾃ 6 ⽉以来⾸次跌破 50 ⽇均线。
-⾼盛的 Christian Gattellari 表⽰，" 我们现已突破所有 CTA 短期买⼊触发点 " ，趋势追踪者空头仓
-位达到最⼤空仓的 87%。野村的 Charlie McElligott 则告知客⼾，债券正重新 " 发挥对冲功能 " 。
-NewEdge Wealth ⾸席投资官 Cameron Dawson 对此作出判断：
-资⾦流向数据同样印证了这⼀防御转向。据 Baird Strategas ，股票与固收 ETF 需求之间的缺⼝已
+질문 내용 
+1) 준공 이후 램프업 소요 기간 28 년 5 월 준공 이후 실질적 운영은 6 월 시작 
+  28 년 30%, 29 년 60% 30 년 100% 가동 목표 
+  4Q28 신공장 첫 엔진 생산 가능 예상 
+2) 데이터센터향 엔진 수주 인콰이어리 지속 증가 추세, 8/10 수주 이후에도 추가 증가 중 
+  인콰이어리가 모두 수주로 이어지진 않지만 증설 결정에는 충분한 수요라는 판단 
+3) 발전용 엔진 인콰이어리 믹스 신규 인콰이어리 기준 육상용과 FDC 향 6:4~5:5 비율 
+4) 경쟁사 대비 캐파 및 라인업 비교 바르질라, 에버런스가 발전용 엔진 시장 상위기업 
+  양사 합산 증설 규모 4.5GW 추정,  
+  경쟁사와의 라인업은 동사와 유사, 대출력 엔진 9MW, 20MW 급 위주 
+5) 공장별 혼용 생산 가능 여부 기존 울산 공장 테스트 베드는 3-5MW 급 선박용에 최적화로 선박용 생산에 집중 계획 
+  영암 공장 및 신규 공장은 모든 종류 엔진 생산 가능 
+6) 바르질라 AM 사업과의 수익성 비교 바르질라와 유사하게 LTSA(장기유지보수계약) 구조로 진행될 가능성 높음 
+  수익성 역시 바르질라와 유사한 수준 기대
 
-跌⾄历史低位⼗分位区间。
-彭博数据显⽰，本⽉已是固收连续第⼆个⽉吸引超过 35% 的整体 ETF 流量，这是⾃去年初以来⾸
-次出现连续两个⽉的情形。彭博智库分析师 Athanasios Psarofagis 表⽰，
-AI 与政府争夺同⼀池资本
-市场动荡的背后，有⼀个更为结构性的张⼒正在形成： AI 超级资本开⽀周期与政府财政⾚字融资
-周期正在同时挤向同⼀个债券市场。
-华尔街⻅闻提及，企业需要建设数据中⼼，政府需要弥补⾚字；私⼈部⻔要融资购买算⼒，公
-共部⻔要融资⽀付福利、利息与国防开销。两股融资需求同向暴涨，⽽除⾮储蓄供给同等增
-加，资本的价格将别⽆选择，只能上升。
-随着此前的股市领涨板块⾛势趋于防御，以及信⽤指数发出压⼒信号，投资者现在有了寻求债券
-相对安全性的理由。
-过去两个⽉债券资⾦流⼊明显超出常规，部分反映出更具防御性的资产配置倾向，但收益率的吸
-引⼒同样促使投资者趁机锁定收益。
+자료: HD현대중공업, 상상인증권
 
 ### Page 4
 
-⻛险提⽰及免责条款
-市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂
-中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
-439 收藏 分享到 :
-这并⾮危⾔耸听。历史上，铁路⾰命最终改变了美国，但 19 世纪的铁路债务同样引发了多轮⾦
-融危机；互联⽹最终重塑了世界，但 2000 年前后的资本泡沫依然破裂。⼀场⻓期正确的产业⾰
-命，与中短期资本市场的压⼒，并不互相排斥。
-后⾦融危机时代，全球资本市场的运⾏逻辑建⽴在⼀个核⼼假设之上：廉价资本将⻓期存在。
-各国政府的财政体系、科技企业的扩张路径、资产价格的估值框架，⽆不依赖这⼀假设。⽽今
-这⼀假设正在动摇。
-信⽤利差的⾛阔已是可观察的早期信号。若最弱信⽤级别（ CCC 级）的信⽤利差持续承压，意
-味着资本紧缩已不再只是利率市场的技术问题，⽽开始向融资能⼒较弱的企业和资产传导。
-本周再融资担忧导致  CCC 级债券收益率达到 15.85% ，为 2020 年以来的最⾼⽔平。但⽬前与所
+일시 투자의견 목표가격 목표가격 대상 시 시점 괴리율(%) 평균주가대비 최고(최저)주가대비 
+2025-10-20 Buy 660,000 1년 -11.3 -5.5 
+2025-11-04 Buy 760,000 1년 -27.3 -15.1 
+2025-11-19 Buy 760,000 1년 -27.4 -15.1 
+2026-01-19 Buy 850,000 1년 -33.5 -18.5 
+2026-02-24 Buy 850,000 1년 -34.4 -18.5 
+2026-05-08 Buy 910,000 1년 -38.7 -18.1 
+2026-05-20 Buy 910,000 1년 -39.9 -18.1 
+2026-07-14 Buy 910,000 1년 -48.3 -41.5 
+2026-08-05 Buy 910,000 1년 -48.1 -41.5 
+2026-09-10 Buy 910,000 1년
 
-有垃圾债券的收益率差距为 7.48 个百分点，仍⽐ 2016 年和 2020 年达到的先前峰值低 1 个百分
-点。
-"AI 有价值 " 与 " 任何价格下的 AI 投资都合理 " 之间，存在根本区别； " 政府可以发债 " 与 " 债务可以⽆
-限扩张⽽不付出代价 " 之间，同样如此。
-当资本被迫在不同需求之间配给，最先承压的是边缘资产和弱信⽤主体，随后蔓延⾄更⼴泛的
-资本市场，最终传导⾄就业、消费和实体投资。
-债券市场这⼀轮最深刻的变化，或许并不只是收益率升⾄某个具体点位，⽽是市场开始重新接
-受⼀个曾被遗忘的事实：钱不是⽆限的。
-限免
+구분 투자의견 기준 및 기간 투자등급 투자의견  비율 비고 구분 투자의견 기준 및 기간 투자등급 투자의견  비율 비고 
+산업 
+(Industry) 
+투자등급 3 단계 
+향후 12 개월 
+시장대비 
+상대수익률 
+Overweight 
+(비중확대) 80.0% 시가총액 대비 비중확대 
+기업 
+(Company) 
+투자등급 3 단계 
+향후 12 개월 
+절대수익률 
+BUY 92.9% 절대수익률 15% 초과 
+Neutral 
+(중립) 20.0% 시가총액 수준 유지 HOLD 7.1% 절대수익률 +15%~ -15% 
+Underweight 
+(비중축소) 0.0% 시가총액 대비 비중축소 SELL 0.0% 절대수익률 -15% 초과 
+  합계 100%    합계 100%
 
-### Page 5
-
-写评论
-图⽚
-5 条评论
-请发表您的评论
-表情 发布评论
-MobileUser9798
-1 ⼩时前 中国陕西省
-0  回复
-👍
-⼿机⽤⼾
-2 ⼩时前 中国⼭东省
-2  回复
-美债远远⽐美股危险 ……
-MobileUser4602
-2 ⼩时前 中国上海
-2  回复
-正确的逻辑也许应该是这样的（瞎猜的哈）：⾸先提⾼ ai 的价格（当然⽤的是欧洲资本和美国的
-离岸避税资本），等价格炒到天上去了，当然 ai ⼚商也捞到了⾜够的 “ 投资 ” ，然后打压 ai ，坐等其
-跌落⾕底（毕竟 ai 的实际需求没那么⾼） 😌   这个时候呢那些个离岸资本早就撤回去了〜   理所当
-然的是先前那些个 “ 投资 ” 就转到美债去了〜  官⽅ ai 的实⼒可不能⼩嘘 🤫  然后呢，因为资⾦给抽
-⾛了所以其他地⽅的 ai 产业就赶超不过咯 😏 结论就是即救了美债⼜拿到 ai 产业领头⽺的 c 位，和展开全部
-叶⼩枫 2 ⼩时前 中国
-0  回复
-回复  MobileUser4602 ：
-有点意思
-Steve.Liu
-
-5 ⼩时前 中国北京
-0  回复
-美债就保险吗？ 😂
+0
+100,000
+200,000
+300,000
+400,000
+500,000
+600,000
+700,000
+800,000
+900,000
+1,000,000
+24.09 25.02 25.07 25.12 26.05
+(원) 주가 목표주가
 
 ---
-## Document 231: Australia and NZ Weekly 26 October 2026 (2026-10-26)
+## Document 233: Australia and NZ Weekly 26 October 2026 (2026-10-26)
 
 Source PDF: all report pdf/Australia and NZ Weekly 26 October 2026 (2026-10-26).pdf
 Report source: Westpac IQ
@@ -4594,7 +4597,131 @@ not subject to any prohibition on dealing ahead of the dissemination of
 investment research.
 
 ---
-## Document 287: Five ways the UK’s Autumn Budget could shock us
+## Document 274: ECONOMIC WEEK AHEAD_ October 26-30
+
+Source PDF: all report pdf/ECONOMIC WEEK AHEAD_ October 26-30.pdf
+Report source: researchmail轉寄
+Date: 2026-10-25
+Pages: 8
+Extraction status: ok
+
+### Page 1
+
+From:    Yardeni QuickTakes <yardeni-research@ghost.io>
+Subject: ECONOMIC WEEK AHEAD: October 26-30
+Date:    39 minutes ago
+ECONOMIC WEEK AHEAD: October 26-30
+
+YARDENI QUICKTAKES
+ECONOMIC WEEK AHEAD:
+October 26-30
+By Ed Yardeni & Toby Hearst • 24 Oct 2026
+View in browser
+
+### Page 2
+
+Photo by Monica Sauro / Unsplash
+
+### Page 3
+
+The S&P 500 fell 0.5% last week, and the Nasdaq dropped 0.7%, both
+posting second straight weekly losses. The Nasdaq’s 2.9% slide on
+Thursday was its biggest one-day drop since June, as concerns flared
+over the cost and availability of financial capital for AI investment. The
+price of WTI crude topped $100 a barrel amid US-Iran conflict concerns,
+while the 10-year Treasury yield fell to 5.0%.
+The FOMC meeting (Wed) is the focus this week, alongside the release of
+
+Q3 GDP and September's PCED inflation report (Thu). San Francisco Fed
+President Mary Daly and St. Louis Fed President Alberto Musalem speak
+on Friday. A heavy week of Q3 earnings reports rounds out a packed
+calendar. Here’s more:
+(1) FOMC. The FOMC’s two-day meeting concludes Wednesday, followed
+by Fed Chair Kevin Warsh’s press conference. The CME FedWatch Tool
+puts the odds of a hike this week at 9% and the odds of one in December
+at 84%. Federal funds futures imply 2.7 rate hikes over the next 12
+
+months and 1.4 over the next six (chart). We believe the committee should
+hike on Wednesday but won't because the midterm elections are so close.
+
+### Page 4
+
+(2) GDP & PCED. The first estimate of Q3 GDP (Thu) follows Q2’s third
+estimate of 2.2% saar, with the GDP price index up 6.1%. The Atlanta
+Fed’s GDPNow model estimates Q3 growth at 3.5% as of October 20, led
+by a 17.8% jump in business equipment spending (chart).
+September’s core PCED (Thu) follows August’s 3.0% y/y. That was well
+below September’s 4.6% pace of core PPI final demand for personal
+consumption and above the core CPI’s 2.6% (chart). The Cleveland Fed’s
+
+Inflation Nowcasting model projects September’s core and headline PCED
+at 3.1% and 3.6% y/y, up from August’s 3.0% and 3.4%. (The model’s
+m/m rates are 0.28% and 0.47%.)
+CPI computer software and accessories rose 28.4% y/y in September and
+PPI electronic components 26.8%, while PCED computers and peripheral
+
+### Page 5
+
+equipment rose just 8.4% in August. September’s PCED will show
+whether that gap starts to close.
+(3) ADP & unemployment claims. ADP’s weekly employment reading
+(Tue) follows a drop in the four-week average to 18,500 for the week
+ended October 3, down from 26,000 the prior week (chart). That’s still
+more than double July’s low of 8,250, pointing to a solid October payrolls
+report.
+Initial jobless claims (Thu) follow last week’s 194,000, below expectations
+
+and near the lowest level since the late 1960s. The four-week average
+stands at 197,800 (chart). Continuing claims rose to 1,728,000 for the
+week ended October 9, up from 1,710,000, while their four-week average
+edged down to 1,708,000.
+
+### Page 6
+
+(4) Regional business surveys. The Richmond Fed’s manufacturing
+index (Tue) follows September’s -2 reading. The regional M-PMI business
+activity index slipped to 13.4 in September from August’s 18.7, while the
+national M-PMI eased to 54.5 from 54.6 (chart).
+(5) Earnings. The earnings reporting season heats up this week, with
+36% of the S&P 500 companies set to report. Boeing, Seagate, and
+Corning report on Tuesday. Alphabet, Microsoft, SK Hynix, and GE
+
+Vernova follow on Wednesday. Samsung, Intel, Eli Lilly, SanDisk, and
+Amazon report on Thursday. Exxon Mobil reports on Friday.
+Analysts’ consensus estimates imply Q3-2026 operating EPS growth for
+S&P 500 companies of 24.1% y/y, slightly up from last week (chart). Q4
+estimates have also risen.
+
+### Page 7
+
+(6) Global central banks. Both the Reserve Bank of New Zealand and
+the Bank of Canada (Wed) are expected to hike by 25bps. The markets
+are pricing in 88% odds that the RBNZ will lift its official cash rate to
+3.00% and an 85% chance that the BOC will raise its policy rate to 2.50%.
+The European Central Bank (Thu) and the Bank of Japan (Fri) are set to
+hold their policy rates at 2.50% and 1.25%, respectively (chart).
+December is the focus for the latter pair. The markets are pricing in 75%
+
+odds of an ECB hike in December and a 74% probability of a BOJ hike.
+Guidance from ECB President Christine Lagarde and BOJ Governor
+Kazuo Ueda will show whether those odds hold.
+💡
+Join the discussion with Ed below! To leave comments or questions,
+log in to the Yardeni QuickTakes website and post them at the end
+of the QuickTakes article. Paid members' contributions may be
+featured in our segment, "Ed Answers Your Questions".
+More like this
+Less like this
+
+Comment
+
+### Page 8
+
+clause.
+Yardeni QuickTakes © 2026 – Unsubscribe
+
+---
+## Document 289: Five ways the UK’s Autumn Budget could shock us
 
 Source PDF: all report pdf/Five ways the UK’s Autumn Budget could shock us.pdf
 Report source: ING Think
@@ -5039,7 +5166,7 @@ Performance Cookies
 Targeting Cookies
 
 ---
-## Document 312: KGI Weekly Kickstart (2026-09-18)
+## Document 313: KGI Weekly Kickstart (2026-09-18)
 
 Source PDF: all report pdf/KGI Weekly Kickstart (2026-09-18).pdf
 Report source: KGI (凱基證券)
@@ -6010,7 +6137,7 @@ MAX：35.17
 富管理客服專線或透過財富管理客服信箱服務，查詢申訴案件處理進度。
 
 ---
-## Document 321: Lipper - S&P 500 Earnings Dashboard 26Q3
+## Document 322: Lipper - S&P 500 Earnings Dashboard 26Q3
 
 Source PDF: all report pdf/Lipper - S&P 500 Earnings Dashboard 26Q3.pdf
 Report source: Refinitiv Lipper
@@ -6982,7 +7109,64 @@ securities or any derivatives related to such securities.
 TRPR_82201_20261022
 
 ---
-## Document 359: The Institute Employment Report_ September 2026 Bank of America Institute analysis shows slower payroll growth, declining unemployment payments and continued strength in lower-inco
+## Document 353: SK海力士放弃Solidigm美国IPO计划，分析师称NAND未来供应减少，利好美光和闪迪
+
+Source PDF: all report pdf/SK海力士放弃Solidigm美国IPO计划，分析师称NAND未来供应减少，利好美光和闪迪.pdf
+Report source: WallstreetCN (Global)
+Date: 2026-10-23
+Pages: 2
+Extraction status: ok
+
+### Page 1
+
+LYNX Equity Strategies 分析师团队指出若 Solidigm IPO 资⾦将⽤于在美国扩建 NAND 产
+能，可能在三年或更⻓时间后推升全球供应量，进⽽压制定价。如今这⼀融资渠道关闭，
+该⻛险已随之消散，对美光和闪迪 " 均属实质性利好 " ；对英特尔则构成⼩幅利空，意味着其
+失去了⼀个潜在制造项⽬。
+摘要：
+SK 海⼒⼠放弃旗下 Solidigm 赴美 IPO，消除了 NAND 闪存市场⼀个潜在的供应扩张来源，美光科
+技与闪迪有望受益，但实际股价弹性仍受当前市场环境制约。
+据 LYNX Equity Strategies 分析师团队 10 ⽉ 23 ⽇发布的研究报告，若 Solidigm 顺利完成 IPO ，募
+集资⾦将⽤于在美国扩建 NAND 产能，可能在三年或更⻓时间后推升全球供应量，进⽽压制⾏业
+定价。如今这⼀融资渠道关闭，该⻛险已随之消散。
+LYNX 在报告中明确表⽰，此次计划告吹对美光和闪迪 " 均属实质性利好 " ，两家公司同为 NAND
+供应商，产能增⻓⻛险的降低有助于⽀撑⾏业定价与估值⽔平。不过，分析师团队同时提⽰，
+
+当前市场环境可能限制两家公司股价的实际涨幅。
+周五，美光收涨 2.46% ，闪迪收跌 1.82% 。
+IPO 取消切断产能扩张资⾦来源
+Solidigm 拟建的美国⽣产基地原计划由 SK 海⼒⼠与英特尔联合出资，选址可能位于英特尔的俄
+亥俄州园区。美国本⼟制造基地⼀旦建成，具备实现快速产能扩张的条件。
+由 KC Rajkumar 领衔的分析师团队指出，此次 IPO 所对应的并⾮⽴竿⻅影的供应增量，⽽是三年
+乃⾄更⻓周期后的潜在产能释放。
+上市计划搁置后，这⼀中⻓期供应压⼒的触发机制被切断， LYNX 将其定性为 " 全球 NAND 闪存市
+场新增产能的潜在压⼒已被消除 " 。
+美光与闪迪获供应⾯⽀撑，英特尔承压
+⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⻅闻历 搜索
+
+### Page 2
+
+⻛险提⽰及免责条款
+市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂
+中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
+5 收藏 分享到 :
+写评论
+图⽚
+对美光科技和闪迪⽽⾔，受益逻辑在于供应端的不确定性减少。 NAND 闪存属于典型的供需敏感
+型市场，产能规划的边际变化对价格⾛势影响显著。少了 Solidigm 美国产能这⼀潜在竞争来源，
+两家公司的定价空间理论上将获得⼀定保护。
+英特尔则可能因此承受⼩幅负⾯影响。该计划的搁置意味着其俄亥俄州园区失去了⼀个潜在制
+造项⽬，对园区的利⽤规划形成⼀定⼲扰。
+LYNX 的分析同时强调，此次变化的本质是减少了未来潜在的竞争来源，并未⽴即改变当前
+NAND 市场的既有供应格局。
+美光科技和闪迪能否将供应⾯的改善转化为业绩与股价的实际提升，仍取决于⾏业整体产能规
+划⾛向以及供需关系的后续演变。
+限免
+请发表您的评论
+表情 发布评论
+
+---
+## Document 363: The Institute Employment Report_ September 2026 Bank of America Institute analysis shows slower payroll growth, declining unemployment payments and continued strength in lower-inco
 
 Source PDF: all report pdf/The Institute Employment Report_ September 2026 Bank of America Institute analysis shows slower payroll growth, declining unemployment payments and continued strength in lower-inco_223e3a6a.pdf
 Report source: Bank of America
@@ -7188,130 +7372,179 @@ Vice President, Global Risk Analytics
 I NSTI TUTE
 
 ---
-## Document 386: US SECTORS CALL_ Tech Wrecked, Health Care & Staples Rally
+## Document 378: TPCA 2026 quick takeaways - 大尺寸、高層數、整合多顆內埋Bridge _ 矽電容、多層芯板
 
-Source PDF: all report pdf/US SECTORS CALL_ Tech Wrecked, Health Care & Staples Rally.pdf
-Report source: researchmail轉寄
-Date: 2026-10-19
-Pages: 8
+Source PDF: all report pdf/TPCA 2026 quick takeaways - 大尺寸、高層數、整合多顆內埋Bridge _ 矽電容、多層芯板.pdf
+Report source: line報告備份
+Date: 2026-10-20
+Pages: 5
 Extraction status: ok
 
 ### Page 1
 
-From:    Yardeni QuickTakes <yardeni-research@ghost.io>
-Subject: US SECTORS CALL: Tech Wrecked, Health Care & Staples Rally
-Date:    7 hours ago
-US SECTORS CALL: Tech Wrecked, Health Care & Staples Rally
+台灣股市｜科技 
+事件分析
 
-YARDENI QUICKTAKES
-US SECTORS CALL: Tech
-Wrecked, Health Care & Staples
-Rally
-By Ed Yardeni & Toby Hearst • 18 Oct 2026
-View in browser
+Fubon Research 
+2026 年 10 月 20 日
 
-The S&P 500 fell 2.0% this week, and Information Technology (MW) took
-the biggest hit. The sector fell 6.4%, the worst of the 11 sectors (chart).
-The iShares Semiconductor ETF (SOXX) fell 11.8%. Credit worries spread
-to AI infrastructure. CoreWeave fell 25% last week. Its worst day was
-Wednesday, when it sank 15% as its bond yields soared. It was the IT
-sector's second straight losing week. Industrials (OW) also fell for a
-second week. On a ytd basis, Energy is up 52.7%, the best of the 11
-sectors. IT is second at 21.6% (chart).
+資料來源: TPCA
+
+黃韻庭 
+yunting.huang@fubon.com 
+886-2-27815995#37117
+
+TPCA 2026 quick takeaways
+
+大尺寸、高層數、整合多顆內埋 Bridge / 矽電容、多層芯板 
+1.高階載板:大尺寸、高層數、整合內埋元件（Bridge / 矽電容） 、多層芯板 
+2. EMIB-T 載板需極高對位精度 
+3. CPO（Co-Packaged Optics）IC 載板扮演著極關鍵的高密度整合平台角色
+
+高階載板: 大尺寸、高層數、整合多顆內埋元件（Bridge / 矽電容） 、多層芯板 
+AI 資料中心持續提升運算效能，主要面臨高速互連、高效供電及熱管理三大技術挑
+戰，隨著晶片整合規模擴大、功耗增加，PCB 與 IC 載板必須朝更大尺寸、更高密度
+及更多層數發展，並同步提升訊號完整性、電源完整性及翹曲控制能力。 隨著 AI 
+GPU、CPO（光電共封裝）與高階 Networking Switch（網路交換器）的晶片尺寸
+與功耗爆發，載板尺寸正朝向「極大尺寸（Extreme Large Body Size） 」發展。極
+大尺寸必須搭配加厚的 Multi-Layer Core（如 2 層、3 層至 6 層 Core） ，以提供
+足夠的結構剛性。整合多顆內埋元件（Bridge / 矽電容）可進一步化電源與訊號完
+整性。先進封裝及伺服器系統加速升級，也對 IC 載板提出更高技術要求。
+
+載板尺寸正朝向「極大尺寸（Extreme Large Body Size） 」發展。 
+在高階載板（IC Substrates）產業中，隨著 AI GPU、CPO（光電共封裝）與高階 
+Networking Switch（網路交換器） 的晶片尺寸與功耗爆發 ，Body Size（載板尺寸）
+正朝向「極大尺寸（Extreme Large Body Size） 」發展。過去 100 x 100 mm 即被
+視為極大尺寸；目前業界已進入 110 x 110 mm 量產階段，並推進至 150 x 130 
+mm 與 150 x 150 mm（如 CPO 載板） 的樣品開發與驗證階段。針對未來高效能 
+Switch 與 CPO 產品，載板尺寸已進一步升級至 230 x 230 mm 的極限規格。當
+尺寸擴大至 100 x 100 mm 以上時，載板總層數普遍達到 15~20 層以上；若推
+進至 230 x 230 mm，整體結構更需要高達 30 多層（如 16 + 2 + 16 ） 。極大尺
+寸必須搭配加厚的 Multi-Layer Core（如 2 層、3 層至 6 層 Core） ，以提供足夠
+的結構剛性，並增設電源/接地層 （Power/Ground） 以維護電源完整性 （PI） 。在大
+尺寸載板上，業界不再追求極端微細線路。因為面積足夠容納線路，過細過密的線
+路反而容易引發訊號干擾；研發重心已轉向「大尺寸、高層數、整合多顆內埋元件
+（Bridge / 矽電容） 」 。
+
+圖表 1: IC substrate , EBS( extreme large body size)
+
+資料來源: Unimicron 
+李耿聿 
+aaron.gy.li@fubon.com 
+886-2-27815995#37107
 
 ### Page 2
 
-Consumer Staples (UW) and Energy (OW) led the 11 sectors, each up
-5.0%. Health Care (OW) rose 3.4%. Every defensive sector gained, with
-Utilities (MW) up 2.0% and Real Estate (UW) up 1.2%. Health Care and
-Staples rallied for different reasons. Earnings drove Health Care's gains.
-Staples' gains have been driven by its multiple.
-Here's more on Information Technology, Health Care, and Consumer
-Staples:
-(1) Information Technology. The tech selloff last week was led by
+台灣股市｜科技 
+事件分析
 
-Semiconductor Equipment (down 17.4%) and Communication Equipment
-(down 13.3%) (chart). IT Consulting & Other Services rose 5.6%, and
-Technology Hardware slipped only 1.5%.
+Advanced substrate - Embedded Passive 埋入式被動元件載板 
+1)因應高功耗需求：隨著 AI GPU 等高算力晶片的功耗與用電量急劇增加，晶片需
+要更龐大且穩定的電力供應; 2)大幅縮短傳輸距離：傳統設計中，電源需由載板最底
+層走較長的路徑傳遞至上層晶片；埋入矽電容後，電能可預先儲存在電容中並近距
+離直接供電，傳輸路徑顯著縮短 以及 3)優化電源與訊號完整性：近距離供電能有
+效提供更穩定的電源供應，優化  Power Integrity（PI，電源完整性） 與 Signal 
+Integrity（SI，訊號完整性） ，促進電訊號傳遞。 IC substrate (Flip Chip BGA) 
+Embedded Passive 可改善電源完整性（PI）與縮短供電路徑。矽電容主要埋設於
+載板的增層 （Build-up layer） 結構中。位置偏向接近載板最上層，以便最直接地為
+上方晶片提供電力支援 。Roadmap 顯示 2026 量產結構為 10/2/10; 8/6/8，NPI 為
+18/2/18; 10/n/10，2027 為 14/n/14，2028 為 16/n/16，最大板身從 93x93mm
+成長至 150x150mm。
+
+圖表 2: IC substrate ,Embedded passive
+
+資料來源: Unimicron
+
+EMIB-T 載板需極高對位精度 
+Bridge / Interposer（矽橋/中介層）埋入載板內部以提升晶片間傳輸效率。主要技
+術門檻: 1) 極高對位精度 （Alignment）：放置 Bridge 等微小元件時，必須精確與
+上下層的微細線路及盲孔 （Via） 對齊，對位稍有偏差即失效。2)異材質結合與可靠
+度（Material Bonding & Reliability）：矽元件與載板有機材料間的接合面容易產生
+氣泡 ， 在後續熱驗證中易引發分層 （Delamination） 問題 。3)不可重工 （No Rework）
+與高成本 ：元件一旦埋入便無法取出一重工；若對位或接合不良導致瑕疵，整塊  
+Panel/載板即宣告報廢，產生極高的成本風險 ; 4) 事前檢測（Known Good Die, 
+KGD）： 為避免將不良元件埋入導致載板報廢 ， 元件在嵌入前必須先通過嚴格的良率
+檢測 。5)多顆矽橋 （Multi-Bridge） 倍增的良率挑戰:隨著高階晶片尺寸 （Body Size），
+載板內部需要同時內埋多顆 Bridge 元件。多顆內埋使對位與結合難度呈倍數級上
+升。
 
 ### Page 3
 
-Two weeks ago, Semiconductor Equipment was the best-performing IT
-industry, up 97.3% ytd. It is now up 51.6%. Its forward P/E has fallen to
-27.0 from 31.1. Its earnings outlook hasn't changed. Analysts still expect
-growth of 35.0% this year and 48.5% next year (chart).
-Semiconductor Equipment and Communication Equipment are the only IT
-industries for which analysts expect faster growth next year (chart).
-The selling hit the expensive industries. Semiconductor Equipment trades
+台灣股市｜科技 
+事件分析
 
-at 27.0 times forward earnings and Communication Equipment at 25.2.
-Semiconductors, the biggest contributor to IT's earnings, trades at a 14.7
-multiple, below the S&P 500's 18.9 (chart). That is less than half its June
-2024 peak of 35.5.
+Multi-Layer Core（多層芯板 / 多層 Core） 載板 
+為高階載板（IC Substrate ）為因應高效能運算與 AI 晶片需求所採用的核心結構
+技術。與傳統單一大塊單層 Core 的設計不同，Multi-Layer Core 是將兩層、三層
+或更多層的 Core（C） ，中間透過 PP（Prepreg，半固化片） 黏合疊加在一起，使
+載板中間的芯板結構顯著加厚。Multi-Layer Core（多層芯板 / 多層 Core） 載板 
+可帶來, 1)電源完整性（PI）與訊號完整性（SI）：因應 AI GPU 與伺服器晶片功耗
+及用電量大增，多層 Core 能設置更多 Power / Ground（電源層與接地層） 來分
+流電流 ， 為單一晶片提供更穩定充足的電力 ， 優化 PI 與 SI。2) 結構強度與板彎控
+制（Warping & Planarity）：加厚的 Core 結構能提升整體載板的剛性與平整度，
+協助抵御熱應力與板彎形變 。雖然市場曾討論 「Core 變厚是否需轉用 Glass Core」，
+但 Glass Core 現階段面臨易碎、價格高昂且缺乏成熟量產供應鏈的限制，因此現
+階段高階載板仍以 Multi-Layer Core 的有機材料疊合方案為主。
+
+圖表 3: IC substrate, Multi-layer core
+
+資料來源: Unimicron
+
+CPO（Co-Packaged Optics）IC 載板扮演著極關鍵的高密度整合平台角色 
+由於 CPO 載板周邊需要配置光學模組與多種週邊零件，導致其 Body Size（載板
+尺寸）比一般 GPU 載板更大，且趨勢是越做越大。目前 CPO 載板正積極推進至 
+150 x 150 mm （目前多處於開發與送樣驗證階段） ；未來針對高階 Networking 
+Switch，尺寸更可延伸至 230 x 230 mm 的極限規格。配合大尺寸設計，CPO 載
+板的層數普遍落在 15~20 層以上 （甚至高達 20 幾層至 30 幾層） 。CPO 載板集
+成了極大尺寸（Large Body Size） 、多層芯板（Multi-Layer Core） 、微孔（Micro 
+Via）以及內埋元件（Embedded Bridge / 矽電容）等多項高階技術。雖然光學連
+接器型態可能改變，但載板本身依然不可或缺，持續作為晶片與光電模組間供電與
+訊號承載的核心基底。
 
 ### Page 4
 
-A low multiple can be a warning signal for a cyclical industry. Investors
-tend to pay the least when earnings are peaking and the most when they
-bottom. The industry's forward P/E reached 79.1 in February 2009, as
-earnings collapsed. So far, analysts are still raising their estimates. They
-expect earnings to grow 114.0% this year and 77.5% next year. As long as
-estimates keep rising, we see this week's semiconductor selloff as a
-buying opportunity. We retain our market weight rating on Information
+台灣股市｜科技 
+事件分析
 
-Technology.
-(2) Health Care. Health Care rose 3.4% this week, and every industry
-gained. Health Care Distributors rose 16.1%. Even Health Care
-Equipment, down 16.3% ytd, rose 4.4%.
-Earnings are doing the heavy lifting. In August, forward earnings and the
-forward P/E contributed about equally to the sector's ytd gain, at 6.6% and
-6.3%, respectively. Forward earnings is up 9.2% ytd, while the forward P/E
-is up only 2.8%. The price index is up 14.1% (chart).
+圖表 4:IC substrate, CPO (Co-package optics)
+
+資料來源: Unimicron
 
 ### Page 5
 
-The best is ahead. Analysts expect the sector’s earnings to grow 1.6% this
-year and 22.5% next year. Pharmaceuticals' earnings are forecast to fall
-5.2% this year and rise 28.6% next year (chart). Biotech is estimated to
-grow earnings 46.4% next year after falling 6.2% this year.
-The large caps are catching up. On September 10, the S&P 500 Health
-Care index was up 6.7% ytd, against 20.6% for the S&P 600 and 17.2%
-for the S&P 400. The S&P 500 sector is now up 14.1%, versus 17.8% and
+台灣股市｜科技 
+事件分析
 
-17.3% (chart). The sector trades at 18.9 times forward earnings, equal to
-the market multiple of 18.9. We retain our overweight rating on Health
-Care.
+富邦的股票評等標準 
+評等  定義 
+買進 預估未來6個月內的絕對報酬超過15%  
+中立  預估未來6個月內有絕對報酬介於15%與負15%之間 
+賣出 預估未來6個月內的絕對報酬高於負15% 
+未評等 由於富邦目前與該公司有特定交易或沒有足夠的基本資料判斷該公司評等  
+評估中 目前正在研議個股的投資評等，將於3到6個月內提供投資評等
 
-### Page 6
+產業評等 定義 
+優於大盤 預估該產業在未來6個月內會比大盤指數表現突出 
+持平 預估該產業在未來6個月內與大盤指數表現相較持平 
+劣於大盤 預估該產業在未來6個月內會比大盤指數表現較差
 
-(3) Consumer Staples. Two weeks ago, we argued that earnings didn't
-justify Staples' valuation premium. Investors have since paid even more
-for the sector. Its forward P/E has risen to 22.5 from 20.7 on October 1.
-That is above both the S&P 500's 18.8 and IT's 19.1 (chart).
-The multiple is doing the work again. Staples' forward P/E was down 0.3%
-ytd at the end of September. Two weeks later, it is up 6.5% ytd. Forward
-earnings is up 4.9% ytd and has barely moved since September (chart).
+This report has been produced in Chinese. In the event of questions regarding the accuracy of the translation, please refer t o the original Chinese version.
 
-### Page 7
+Fubon's Rating System 
+Rating Definition 
+Buy Expected absolute return to be over 15% within the next 6 months  
+Neutral  Expected absolute return to be level within the next 6 months  
+Sell  Expected absolute return to be over negative 15% within the next 6 months 
+Not Rated (NR)  Pursuant to Fubon acting in deals involving the company or there is not a sufficient fundamental basis for determining an investment rating  
+Under Review Fubon is in the process of determining an investment rating and will assign a rating within the 3- to 6-month horizon
 
-The priciest industry got pricier. Merchandise Retail's forward P/E rose to
-33.6 from 31.0 two weeks ago, though its earnings growth is forecast to
-slow to 7.1% in 2027 (chart). This is a defensive bid, not an earnings story.
-We retain our underweight rating on Consumer Staples.
-💡
-Join the discussion with Ed below! To leave comments or questions,
-log in to the Yardeni QuickTakes website and post them at the end
-of the QuickTakes article. Paid members' contributions may be
-
-featured in our segment, "Ed Answers Your Questions".
-
-### Page 8
-
-clause.
-Yardeni QuickTakes © 2026 – Unsubscribe
+Sector Rating Definition 
+Overweight Sector expected to outperform the broader market indexes within the next 6-12 months 
+Market Weight  Sector expected to perform in line with the broader market averages within the next 6-12 months 
+Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
 
 ---
-## Document 394: What sector analysis tells us about Europe's recovery, two years after the _Draghi_ report (2026-10-12)
+## Document 398: What sector analysis tells us about Europe's recovery, two years after the _Draghi_ report (2026-10-12)
 
 Source PDF: all report pdf/What sector analysis tells us about Europe's recovery, two years after the _Draghi_ report (2026-10-12).pdf
 Report source: BNP Paribas
@@ -7504,221 +7737,205 @@ Jean-Luc Proutat
 jean-luc.proutat@bnpparibas.com
 
 ---
-## Document 417: 【國泰證期研究部】衛星產業-SpaceX D2C進展更進一步，星艦試射進展順利-20261016
+## Document 465: スペイン、前倒しの総選挙へ ～政権交代なら住宅・移民政策を軌道修正～
 
-Source PDF: all report pdf/【國泰證期研究部】衛星產業-SpaceX D2C進展更進一步，星艦試射進展順利-20261016.pdf
-Report source: line報告備份
-Date: 2026-10-16
-Pages: 5
-Extraction status: ok
-
-### Page 1
-
-1 
-產業更新 – 衛星產業 
-SpaceX D2C 進展更進一步，星艦試射進展順利 
-What’s New –  SpaceX 收購新頻譜，劍指行動通訊市場 
-SpaceX於 10/8宣布收購 Grain Management旗下全美 800MHz低頻頻譜，涵蓋最多 14MHz
-配對頻譜，交易金額估約 80 億美元。 800MHz 具備廣域覆蓋及室內穿透優勢，可與既有
-2GHz頻譜互補，改善偏遠地區通訊品質。儘管仍待 FCC核准，惟主席 Brendan Carr 對新業
-者投資持正面態度，預期有利交易推進。 
-Trends/Outlook – 衛星、火箭升級短期影響衛星部屬速度 
-3Q26 SpaceX共完成 22次 Starlink低軌衛星部署任務，合計發射 578顆衛星，季減 16.8%，
-9M26累計部署 2,167顆。單季發射數量下滑主要受任務頻率減少影響，惟單次平均部署 26.3
-顆，略高於 2Q26的 25.7顆。此外，SpaceX於 9月成功透過 Starship部署 26顆新一代 V3
-衛星，顯示大型運載火箭逐步具備實際衛星部署能力。另一方面，Amazon Leo於 3Q26僅完
-成 1次發射任務，部署 29顆衛星，季減 81.3%，主要受運載火箭供應及發射排程限制，後續
-須觀察 Vulcan、Ariane 6 及 New Glenn 等新一代火箭投入商業發射的進度。SpaceX另規劃
-於路易斯安那州興建全球第四座太空港，預計 2027年動工、2029年首飛，規劃設置逾 12座
-發射塔，全面建成後目標每年支援數千次 Starship飛行任務。
-
-Investment Summary 
-1. 研究部認為，EchoStar交易解決了 Starlink下一代 D2C的頻譜與容量問題，而近期收購
-Grain Management 旗下全美 800MHz低頻頻譜，則進一步補強低頻地面覆蓋資源。有
-了自有頻譜資源，搭配未來新一代 D2C衛星酬載之升級，SpaceX 已逐步豐富期從衛星寬
-頻業者，走向整合型行動通訊服務供應商的完整資源。 
-2. 維持 SpaceX 26/27 年新增 4,000/6,000 顆衛星預期不變，儘管 3Q26 新增數略低於預期，
-短期受到新世代衛星、火箭轉換，影響現階段 Falcon 9星鏈任務次數部屬，惟考量下一代 
-V3 衛星試射順利，4Q26有望啟動部屬，單次 Starlink 低軌衛星發射數量上限將由 29 顆
-大幅上升至  60 顆，將有益於未來衛星成長在加速 ，故持續看好天上衛星供應鏈如華通
-(2313 TT)、昇達科(3491 TT)、燿華(2367 TT)後市發展。 
-個股 代碼 
-預估每股盈餘 每股盈餘成長率 預估本益比/本淨比 
-目標價 最新收盤價 評等 
-2025 2026F 2027F 2025 2026F 2027F 2025 2026F 2027F 
-華通 2313 TT 5.51 7.76 13.1 236% 41% 69% 41 29 17 325 228 買進 
-燿華 2367 TT 0.68 2.81 3.23 - 313% 15% 66 16 14 - 44.7 未評等 
-昇達科 3491 TT 7.83 20.29 37.11 -9% 159% 83% 169 65 36 - 1,325.0 未評等 
-SpaceX SPCX -1.69 0.01 1.68 盈轉虧 虧轉盈 16,700% - - 91 - 152.2 未評等 
-姜仁匡 
-PCB 
-+886-2-2326-9899#1601 
-kenchiang@cathayfut.com.tw
-
-### Page 2
-
-投資 顧問 
-產業報告 
- 2026/10/16
-
-2 
-SpaceX 收購新頻譜，劍指行動通訊市場 
-SpaceX於 10/8宣布與數位基礎建設投資公司 Grain Management達成協議，擬收購美國全國性
-800MHz低頻頻譜牌照組合，涵蓋最多 14MHz配對頻譜，市場預估交易金額約 80億美元。由於
-800MHz具備較佳的訊號穿透能力及廣域覆蓋優勢，可與既有 2GHz中頻頻譜形成互補，提升室內
-及偏遠地區通訊品質。該收購案目前雖仍需要 FCC進行批准，不過 FCC主席 Brendan Carr目前已
-表態，認為更多投資與服務業者加入，將有助於推動新一代連線技術發展，因此預期此次收購將順
-利完成，未來將加速 Starlink Mobile整合衛星與地面行動網路，強化 D2D服務覆蓋能力，並逐步
-降低對傳統電信商的依賴，為 SpaceX進軍美國行動通訊市場奠定基礎。 
-SpaceX於 25年進行第一次的頻譜收購，向美國衛星及電信業者 EchoStar收購旗下無線通訊頻譜
-使用權及相關資產，主要獲得 AWS-4 使用權之 2GHz頻譜，初步奠定了 SpaceX在行動衛星通訊
-的基礎，且逐步掌握自主頻譜資源。然衛星通訊連線存在的痛點之一，便是經常因建築物、遮蔽物
-等造成訊號傳遞出現障礙，因此過去 Starlink用戶終端天線皆需要安裝在水平面 15 度以上、天空
-完全無遮蔽的屋頂或陽台上。而在新取得的低頻頻譜後，SpaceX 將具備傳輸距離遠、可穿透建築
-物及樹木等障礙物的優勢，有助改善衛星行動通訊的室內訊號覆蓋能力，降低對傳統基地台的依賴。
-另外目前大多數行動手機均支援 800MHz頻段，因此未來消費者若使用 Starlink Mobile服務，無
-須另外購買專用衛星電話。 
-圖一：Starlink Mobile 服務應用示意圖                                               圖二：D2C 衛星酬載 
-資料來源：SpaceX、國泰證期研究部整理 
-研究部認為，EchoStar交易解決了 Starlink下一代 D2C的頻譜與容量問題，而近期的收購則進一
-步補強低頻地面覆蓋資源。有了自有頻譜資源，搭配未來新一代 D2C衛星酬載之升級，SpaceX 已
-逐步豐富期從衛星寬頻業者，走向整合型行動通訊服務供應商的完整資源。
-
-### Page 3
-
-投資 顧問 
-產業報告 
- 2026/10/16
-
-3 
-新世代衛星、火箭升級短期影響衛星部屬速度 
-3Q26 SpaceX共計完成 22次 Starlink低軌衛星部署任務，合計發射 598顆衛星，包含次軌道測試
-衛星 20顆，季減 11.1%，年初累計至 9M26共部署 2,167顆。其中 7、8、9月分別部署 210、
-261及 107顆，9月發射數量明顯下降，推測因 Starship試飛任務導致 Falcon 9 星鏈任務減少影
-響，單季任務數由 2Q26的 27次降至 22次。然 3Q26單次任務平均部署衛星顆數約為 26.3顆，
-略高於 2Q26的 25.7顆，顯示整體發射數量下滑主要來自任務頻率減少，而非單次載運數量下降。
-此外，SpaceX於 9月 28日成功透過 Starship Flight 14 將 26顆新一代 Starlink V3 衛星送入軌
-道，為 Starship首次完成正式衛星入軌部署。隨著下一代衛星導入更大型天線與高功率通訊酬載，
-單顆衛星重量及通訊容量同步提升，目前短期可能限制 Falcon 9單次部署數量，但長期隨 Starship
-發射能力逐步成熟，有望加速高容量 Starlink V3衛星部署，帶動整體星系寬頻容量持續擴張。 
-此外，另一位衛星運營商 Amazon Leo 3Q26僅完成 1次低軌衛星發射任務，部署 29顆衛星，數
-量大幅季減 81.3%，年初至今共部署 216顆衛星。3Q26發射任務於 7/2由 ULA Atlas V 火箭執
-行，其後 8、9月均無新增衛星部署，顯示 Amazon Leo 衛星部署進度仍受到運載火箭供應及發射
-排程限制。我們認為，Amazon Leo目前主要瓶頸在於發射運能，而非衛星製造能力，後續須觀察
-包含 ULA Vulcan、Arianespace Ariane 6及 Blue Origin New Glenn 等新一代火箭逐步投入商業
-發射，是否能夠帶動 Amazon Leo發射進程提升。 
-圖三：Starbase Louisiana 示意圖 
-資料來源：interstellar gateway、國泰證期研究部整理 
-SpaceX 於今年 8 月拍板定案，將於美國路易斯安那州南部 Vermilion Parish興建全球第四座太空
-發射基地（Starbase Louisiana） ，基地位於墨西哥灣沿岸，占地約12.5萬英畝（約 5.1萬公頃） ，
-面積超過紐約曼哈頓 8倍，預計 2027年正式動工，並於 2029年執行首次 Starship發射任務。基
-地規劃設置超過 12座發射塔，全面建成後目標每年支援數千次 Starship飛行任務。研究部預期，
-隨著 Starship逐步實現高頻率發射與火箭重複使用，新增發射基地將有助於突破既有太空港的發射
-排程及運能限制，進一步加速 Starlink下一代 V3衛星部署，並提升 SpaceX大規模建置低軌衛星
-的能力。
-
-### Page 4
-
-投資 顧問 
-產業報告 
- 2026/10/16
-
-4
-
-### Page 5
-
-投資 顧問 
-產業報告 
- 2026/10/16
-
-5
-
-投資評等定義
-
----
-## Document 507: 全球投资级企业债利差创一年半新高，AI融资潮冲击信用市场
-
-Source PDF: all report pdf/全球投资级企业债利差创一年半新高，AI融资潮冲击信用市场.pdf
-Report source: WallstreetCN (Global)
-Date: 2026-10-23
+Source PDF: all report pdf/スペイン、前倒しの総選挙へ ～政権交代なら住宅・移民政策を軌道修正～.pdf
+Report source: DLRI
+Date: 2026-10-06
 Pages: 3
 Extraction status: ok
 
 ### Page 1
 
-美国科技巨头为⽀撑 AI 基建⼤幅举债，叠加油价上涨和法国动荡，推动全球企业债利差急
-剧⾛阔。周四全球投资级企业债利差飙升⾄ 129 个基点，创 2025 年 5 ⽉以来最宽⽔平。分析
-指出， “ 如果科技股财报传来好消息，唯⼀的意涵可能是它们会进⼀步扩⼤⽀出计划。 ”
-摘要：
-全球信⽤市场正在发出逾⼀年来最强烈的避险信号。科技公司为⼈⼯智能建设⼤举举债的前
-景，叠加油价上涨与法国政局动荡，共同推动全球企业债利差急剧⾛阔。
-彭博指数数据显⽰，全球投资级企业债利差周四飙升⾄ 129 个基点，创 2025 年 5 ⽉以来最宽⽔
-平。
-与此同时，追踪美国蓝筹企业债违约保护成本的 CDX 投资级指数周五升⾄ 64 个基点，触及 3 ⽉以
-来⾼点。亚洲⾼评级美元债利差也扩⾄ 2025 年 7 ⽉以来最⾼，波动加剧迫使韩国进出⼝银⾏推迟
-⼀笔⽇元债券发⾏。
-市场担忧的核⼼在于：以 Meta 为代表的科技巨头正在酝酿史⽆前例的融资规模，⽽ AI 投资能否
-及时转化为盈利，仍是未知数。
-PGIM Credit 美国投资级企业债联席主管 David Del Vecchio 表⽰， " 市场正在消化为 AI 建设所需
+Europe Trends
 
-潜在发⾏规模带来的冲击，投资者⼏乎没有理由主动⼊场填补空缺。 "
-CreditSights 新加坡南亚及东南亚企业债主管 Lakshmanan R 表⽰， " 我认为这是信⽤⻛险更持续
-性重新定价的开端，是多重全球⻛险接连冲击市场的共同结果。 "
-Meta 巨额⽀出计划点燃市场忧虑
-本轮信⽤市场动荡的直接导⽕索，是Meta 本周披露的最新资本⽀出规划。
-Meta 在季度⽂件中表⽰，公司正考虑从今秋起的数年内筹集 " 数千亿美元 " 资⾦。其⽀出承诺已从
-7 ⽉的约 7000 亿美元攀升⾄约 8250 亿美元。
-Meta 同时在⽂件中透露，公司特别委员会将抢先锁定资本视为战略要务，原因是需要 " 在竞争对
-⼿占满各类融资渠道之前 " 完成融资，并将当前形容为 " ⽇益具有挑战性的融资环境 " 。
-这⼀表述进⼀步加剧了市场对科技公司集中融资、抢占有限资⾦池的担忧。
-SpaceX 借债购芯， AI 融资规模持续刷新纪录
-科技公司的借贷雄⼼不⽌于 Meta 。⻢斯克旗下 SpaceX 正寻求筹资 400 亿美元，⽤于向英伟达采
+2026 年 10 月６日
 
-购芯⽚，此举将跻⾝ AI 建设史上最⼤规模债务融资之列。
-据 Semafor 援引知情⼈⼠报道，此次融资利率将⾼于 SpaceX 上次发债时的⽔平，其中较低评级
-债券的定价利率约为 8.3% 。
-彭博 Trace 数据显⽰，截⾄周五收盘， SpaceX 2046 年到期、票息 6.6% 的债券利差扩⼤ 13 个基
-点⾄ 279 个基点。
-⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⻅闻历 搜索
+1/3 
+スペイン、前倒しの総選挙へ 
+～政権交代なら住宅・移民政策を軌道修正～ 
+ 経済調査部 首席エコノミスト  田中 理 
+（℡：050-5474-7494）
+
+（要旨） 
+○ スペインのサンチェス首相は10 月５日、 議会を解散し、11 月 29 日に前倒し総選挙を実施す
+ると発表した。少数政権による議会運営は予算や住宅政策を巡って行き詰まり、カタルーニ
+ャ独立派政党との関係悪化も政権運営を難しくしていた。足元の世論調査では中道右派の国
+民党（ＰＰ）が第１党、右派ポピュリストのボックス（Vox）が第３党につけ、ＰＰ単独では
+なくVox の協力を前提とした政権発足の可能性が高い。 政権交代となれば、 住宅政策は規制 ・
+借家人保護重視から供給拡大や規制緩和へ軸足を移し、 移民政策も厳格化する可能性がある。
+特に Vox の影響力が強まれば、人口・労働力の増加に支えられてきたスペインの成長モデル
+や、ＥＵ・カタルーニャとの関係にも変化が及ぶ可能性がある。
+
+■少数政権の行き詰まり、住宅問題が解散の引き金に 
+スペインのサンチェス首相は10 月５日、議会を解散し、11 月 29 日に前倒し総選挙を実施する
+と発表した。2027 年までの議会任期を全うするとしてきた従来の方針を転換したもので、2023 年
+の総選挙後に続いてきた少数政権による不安定な議会運営はひとまず終止符を打つことになる。
+今回の解散・総選挙は、少数与党による議会運営の行き詰まりに、与党関係者を巡る様々な疑
+惑、カタルーニャ独立派の地域政党との関係悪化、住宅危機への国民の不満などが重なり、政府
+が重要政策を成立させることが難しくなったことが背景にある。 
+2023 年の総選挙後に発足したサンチェス政権は、中道左派の「社会労働党（PSOE）」と左派の
+「スマール（Sumar）」による連立政権だが、両党だけでは下院の過半数を確保できない。そのた
+め、政権発足時には、「カタルーニャ共和主義左翼（ＥＲＣ）」、「ともにカタルーニャのために
+（Junts）」、「バスク民族党（ＰＮＶ）」、「バスク統一党（Bildu）」など、カタルーニャやバスクを
+中心とする地域政党から協力を取り付けた。なかでも、サンチェス政権の存続に重要な役割を果
+たしてきたのがJuntsである。2023 年の政権発足時には、2017 年のカタルーニャの独立運動を巡
+って有罪判決を受けた政治家や活動家を対象とする恩赦を条件に、サンチェス首相の続投に協力
+したが、連立政権には参加せず、その後も個々の法案毎に賛否を判断してきた。このため、少数
+の議席を持つ地域政党が政府の法案成立を左右する不安定な状況が続いてきた。 
+政権運営の機能不全を象徴しているのが予算だ。政府は2023 年予算を最後に新たな予算を成立
 
 ### Page 2
 
-⻛险提⽰及免责条款
-市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂
-中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
-18 收藏 分享到 :
-写评论
-据彭博新闻汇编的数据，今年以来企业在全球债务市场为 AI 相关⽀出累计融资逾 4500 亿美元。
-Janus Henderson 全球多策略及企业信⽤主管、驻丹佛的 John Lloyd 预计，明年为 AI 建设发⾏的
-债务总规模或将接近 1 万亿美元。
-市场能否消化？分歧浮现
-⾯对即将到来的万亿美元融资浪潮，市场参与者看法不⼀。
-Lloyd 表⽰，市场应有能⼒消化这⼀规模，投资者对即将到来的融资并⾮毫⽆准备。但他同时警
-告，市场震荡在所难免： " ⻛险已⼴为⼈知，因此每⼀个数据点都可能引发波动，因为它会改变
-市场对这些⻛险的权重判断。 "
-更⼤的分歧存在于 AI 投资回报本⾝。对冲基⾦巨头 Citadel 创始⼈ Ken Griffin 警告 AI 存在泡沫⻛
+2/3 
+させることができず、過去３年は既存予算の延長を余儀なくされてきた。2026 年７月には、2027
+年予算編成の前提となる財政安定化計画も、中道右派の「国民党（ＰＰ） 」、右派ポピュリストの
+「ボックス（Vox）」、Juntsなどの反対で議会で否決された。閣僚経験者、党幹部、首相の家族な
+ど、与党関係者を巡る疑惑が相次いで表面化したことも、政権への風当たりを強めた。それで
+も、サンチェス首相は2027 年までの議会任期を全うする方針を維持してきた。 
+こうした状況を大きく変えたのが住宅問題だ。スペインでは人口や世帯数の増加に住宅供給が
+追いつかず、住宅価格と家賃の上昇が大きな社会問題となっている。９月下旬にマドリードで87
+歳の女性が長年暮らしてきた住居から立ち退かされたことを契機に抗議活動が広がり、住宅問題
+が一気に政治争点として浮上した（詳細は10 月１日付けレポート「スペイン高成長の裏で深まる
+住宅危機」を参照されたい）。政府は立ち退き停止措置の延長や賃貸市場の規制強化などを盛り込
+んだ緊急政令を議会に提出したが、ＰＰやVoxなどの野党勢力に加えて、Juntsも反対に回った結
+果、承認されなかった。Juntsは借家人保護や賃貸規制の強化が住宅所有者を賃貸市場から退出さ
+せ、結果的に供給不足や家賃上昇を深刻化させると主張した。サンチェス首相が総選挙の前倒し
+を決断した背景には、こうした議会運営の行き詰まりがある。同時に、住宅危機への国民の関心
+が急速に高まるなか、住宅政策を選挙の中心的な争点に据えることで、劣勢の挽回を図る狙いも
+あるとみられる。
 
-险；⿊⽯总裁 Jon Gray 则持相反⽴场，认为需求 " ⼏近抛物线式增⻓ " ，⽆需过度担忧。
-值得注意的是，尽管利差⾛阔，美国投资级企业债利差绝对⽔平仍处于历史相对偏低区间， 87
-个基点明显低于过去⼗年约 109 个基点的均值，表明市场整体尚未陷⼊恐慌。
-盈利强劲，或反成⻛险因⼦
-⼀个颇具反讽意味的市场逻辑正在形成：科技公司越赚钱，投资者可能越担⼼。
-Meta 与 SpaceX 本周均公布了好于分析师平均预期的业绩，凸显出这些重度借贷者在⼤规模数据
-中⼼等投资尚未完全投产前，已能创造超额利润。
-然⽽， Voya Investment Management 美国投资级企业债主管 Travis King 对此提出了警⽰。他表
-⽰，" 指数层⾯利差尚属收窄，但表⾯之下已是⼀⽚狼藉。如果科技股财报传来好消息，唯⼀的
-意涵可能是它们会进⼀步扩⼤⽀出计划。 "
-这意味着，强劲盈利不仅不会平息市场担忧，反⽽可能为下⼀轮更⼤规模的举债潮埋下伏笔。
-限免
-请发表您的评论
+■政権交代の可能性が高い、Voxの政策関与に注目 
+ 各種の世論調査では、ＰＰが30％台前半の支持を集めてリードし、それを20％台後半のPSOEが
+追い、Voxが20％近くで三番手につけている（図）。PSOEが現政権で連立を組むSumarは５～６％前
+後で低迷している。前倒し総選挙の正式発表後に実施された世論調査はまだ公表されていない。
+このまま世論調査に近い結果となれば、PSOEがＰＰに政権を明け渡すことになりそうだ。だが、
+ＰＰも単独で過半数を確保するのは難しく、安定政権の樹立にはVoxの協力が必要となる公算が大
+きい。Voxが連立政権の一員に加わるのか、それとも閣外からＰＰ政権を支えるのかによって、政
+策決定への関与の度合いが変わってくる。既に複数の州政府で、ＰＰが主導する政権にVoxが連立
+パートナーとして参加している。連立政権に加わる場合、ＰＰのフェイホー党首が首相に就任
+し、Voxが副首相や閣僚ポストを獲得する形が考えられる。閣外協力にとどまる場合、政権発足時
+や重要法案の審議でＰＰ政権を支えることになる。 
+ＰＰが主導する政権が誕生した場合、PSOE政権の公的介入路線が軌道修正され、減税や規制緩
+和を通じた経済活性化を目指す可能性が高い。ＰＰのフェイホー党首は、年間20 万戸規模の住宅
+建設、土地供給の拡大、建設手続きの簡素化、住宅関連税制の軽減などを掲げている。移民政策
+の転換も予想される。サンチェス政権は移民の受け入れに比較的寛容で、移民による人口と労働
+力の増加は近年のスペインの高成長を支える重要な要因となってきた。移民規制が強まれば、住
+宅需要への圧力を幾分弱める可能性がある反面、労働供給の増加ペースが鈍化する。観光、建
+設、農業、介護など移民労働力への依存度が高い業種では人手不足や賃金上昇圧力が強まること
+が予想される。特にVoxは、不法移民の強制送還、移民への給付制限、長期滞在資格の厳格化な
 
 ### Page 3
 
-图⽚
-表情 发布评论
+本資料は情報提供を目的として作成されたものであり、投資勧誘を目的としたものではありません。作成時点で、第一ライフ資産運用
+経済研究所が信ずるに足ると判断した情報に基づき作成していますが、その正確性、完全性に対する責任は負いません。見通しは予告
+なく変更されることがあります。また、記載された内容は、第一生命保険ないしはその関連会社の投資方針と常に整合的であるとは限
+りません。 
+3/3 
+ど、移民政策の強化を主張している。ＰＰとVoxが連立を組む州政府では、住宅や公共サービスで
+スペイン国民を優先する考えが盛り込まれた例もある。 
+ ＰＰが主導する政権の誕生は、カタルーニャ独立派との対話路線が転換され、独立の火種を抱
+えるカタルーニャ州政府との関係を再び悪化させる恐れがある。ＰＰがかつて率いた政権では、
+領土的一体性や法の執行を重視し、カタルーニャの独立問題に厳しく対処した。次期政権とカタ
+ルーニャ州政府との緊張が再び高まれば、金融市場でスペインの政治リスクが意識される可能性
+がある。 
+ Voxの政権参加によるＥＵ関係の悪化を懸念する声もあるが、ＰＰ自体は長年スペインの政権を
+率いてきた親ＥＵの中道右派政党で、政権交代によってスペインのＥＵ政策が大幅に変わること
+は想定しにくい。ただ、Voxの政策面での影響力が増すことで、移民政策、気候変動政策、農業政
+策などでは、スペイン政府とＥＵ機関との摩擦が増える可能性がある。 
+現時点でスペインの政治リスクをフランスと同列に扱う必要はない。スペイン経済は相対的に
+高い成長を維持しており、今回の解散も財政危機や景気後退を背景としたものではない。むし
+ろ、市場にとって重要なのは、総選挙によってこれまでの議会の機能不全が解消され、安定した
+政権が成立するかどうかである。次期政権が安定多数を確保すれば、予算を成立させられなかっ
+た現政権に比べ、短期的には政策の予見可能性が改善する。一方で、Voxの影響力が大きくなるほ
+ど、移民政策、気候変動対策、カタルーニャ政策、ＥＵ政策での変化が大きくなる。特に移民政
+策の厳格化は、人口増加に支えられてきたスペインの成長モデルに中期的な変化をもたらす。
+
+以 上 
+注：政党名は以下の通り。国民党（PP）、社会労働党（PSOE）、ボック
+　ス（Vox）、スマール（Sumar）、ポデモス（Podemos）、宴は終わっ
+　た（SALF）、カタルーニャ共和主義左翼（ERC）、ともにカタルーニャ
+　のために（Junts）、バスク統一党（Bildu）、バスク民族党（PNV）、
+　ガリシア人民ブロック（BNG）、カナリア人民党（CC）。
+出所：Electromania資料より第一ライフ資産運用経済研究所が作成
+（図）スペイン主要政党別の得票率と支持率
+0
+5
+10
+15
+20
+25
+30
+35
+PP
+PSOE
+Vox
+Sumar
+Podemos
+SALF
+ERC
+Junts
+Bildu
+PNV
+BNG
+CC
+2023年総選挙 世論調査（2026/10/2-3）（％）
+地域政党国政政党
 
 ---
-## Document 509: 全网恐慌48小时，拯救互联网的却是一个“无名之辈”
+## Document 499: 今月のグラフ（2026年10月）制度変更が押し上げた耐久財需要
+
+Source PDF: all report pdf/今月のグラフ（2026年10月）制度変更が押し上げた耐久財需要.pdf
+Report source: MURC
+Date: 2026-10-05
+Pages: 2
+Extraction status: ok
+
+### Page 1
+
+80
+90
+100
+110
+120
+130
+140
+1 2 3 4 5 6 7 8 9 10 11 12 1 2 3 4 5 6 7 8 9
+2025 2026
+自動車
+エアコン
+（2020年 = 100）
+（年、月）
+2026 年 10 月 5 日
+
+調査レポート
+
+今月のグラフ（2026 年 10 月）
+
+制度変更が押し上げた耐久財需要
+
+調査部 研究員 小林 啓介
+
+2026 年 4～6 月期の実質 GDP における個人消費は前期比＋0.0%と横ばいにとどまったものの、耐久財は同
+＋4.0%と堅調に増加した。特に自動車とエアコンの需要が大きく高まったことが、押し上げに寄与したとみられる。 
+新車販売台数（除く軽）は、自動車の燃費性能に応じて取得時に課税される「環境性能割」が 2025 年度末に
+廃止されることを受けて今年度に需要の一部が先送りされた結果、4 月に前月比＋25.7%と急増した。同様にエ
+アコンの出荷台数も、2027 年度から省エネ基準が厳しくなり、製品価格の上昇が予想されることから、それ を見
+越した駆け込み需要が生じ、4 月には前月比＋12.5%と急増した。 
+もっとも、こうした制度・規制変更に起因する一時的な需要増は徐々に落ち着きつつある。自動車とエアコンは
+いずれも依然として高水準ではあるものの、4 月をピークに減少傾向に転じている。雇用・所得環境は良好であり、
+イラン情勢悪化の影響で落ち込んでいた 消費者マインドも持ち直しへ向かっているなど、 個人消費を取り巻く環
+境は悪くない。このため、7～9 月期の個人消費は底堅く推移するとみられるものの、耐久財消費の一時的な押し
+上げ効果が剥落することで、小幅な伸びにとどまる可能性があることには注意を要しよう。
+
+図表 新車販売台数（除く軽）とエアコン出荷台数
+
+（注） 基準化と季節調整は筆者による    
+（出所） 一般社団法人日本自動車販売協会連合会「新車販売台数状況」、一般社団法人 日本冷凍空調工業
+会「家庭用（ルーム）エアコン国内出荷実績」
+
+---
+## Document 525: 全网恐慌48小时，拯救互联网的却是一个“无名之辈”
 
 Source PDF: all report pdf/全网恐慌48小时，拯救互联网的却是一个“无名之辈”.pdf
 Report source: WallstreetCN (Global)
@@ -7934,82 +8151,7 @@ Surý ：  我建议⼤家相信专家。在危机中，我们都会这么做：
 表情 发布评论
 
 ---
-## Document 511: 内外経済ウォッチ『欧州～フランスの財政再建を阻む政治の壁～』(2026年11月号)
-
-Source PDF: all report pdf/内外経済ウォッチ『欧州～フランスの財政再建を阻む政治の壁～』(2026年11月号).pdf
-Report source: DLRI
-Date: 2026-10-20
-Pages: 1
-Extraction status: ok
-
-### Page 1
-
-欧州
-～フランスの財政再建を阻む政治の壁～
-フランスの財政不安が広がっている。 10月に発表した
-2027年予算案では、 2026年に国内総生産 （Ｇ Ｄ Ｐ ） 比
-5.4％に達する見込みの財政赤字を、 2027年に5.0％へ
-縮小する方針を掲げた。 政府はこう した計画を達成する
-ため、 年金の物価スライ ドの部分停止や税制優遇の縮小
-を盛り込んだが、 年金受給者に負担を求める財政再建策
-に野党勢が猛反発しており、 予算協議が難航している。
-2024年の国民議会 （下院） 選挙以降、 安定多数を持
-つ政治勢力がなく、 政府は予算協議のたびに野党との
-妥協を迫られてきた。 昨年は年内に予算を成立できず、
-年明け後に年金改革の棚上げを条件に野党の協力を取
-り付けた。 一昨年は予算協議の難航で政権が崩壊した。
-政治の混乱と財政再建の遅れへの警戒から、 フランスの
-10年物国債利回りは2002年以来の高水準に上昇して
-いる。
-本格的な財政再建には年金や医療、 地方財政、 公務員
-給与などへの切り込みが避けられない。 だが、 年金給付
-
-や医療費の抑制には国民や労働組合が反発し、 地方への
-支出削減には自治体が抵抗する。 フランスは既に税 ・ 社
-会保険料負担が重く、 増税にも限界がある。 企業増税は
-競争力の低下を招き、 富裕層課税で巨額の赤字を埋める
-ことも難しい。 財政再建には幅広い層への負担を伴う
-が、 現在の政治環境では合意形成が極めて難しい。
-進まない財政再建、 予算協議は難航
-財政再建をさらに難し く しているのが、 2027年春に
-迫る大統領選挙だ。 選挙を前に、 与野党とも有権者に痛
-みを求める政策を支持しにくい。 大統領選挙の世論調査
-は、 極右政党 ・ 国民連合 （ Ｒ Ｎ） のマリーヌ ・ ルペン氏が圧
-倒的にリー ド している。 Ｒ Ｎは歳出削減を通じて財政再建
-に取り組む方針を示唆しているが、 その具体策には欧州
-連合 （ Ｅ Ｕ） への拠出金削減など、 実効性が疑われる内容
-も含まれる。 大統領選後の財政再建の行方や欧州連合
-（ Ｅ Ｕ） との関係悪化も不安視される。
-フランスの財政不安が他の欧州諸国に広がり、 2010
-
-年代前半の欧州債務危機のような深刻な危機に発展す
-る可能性は今のところ低い。 フランスはユーロ圏有数の
-経済規模と厚みのある国債市場を持ち、 市場での資金
-調達から締め出されているわけではない。 債務危機後
-の欧州は、 金融安全網の整備や危機の再発防止策など
-を整備してきた。
-フランスの苦境は、 日本にと っても対岸の火事ではな
-い。 日本も高齢化に伴う社会保障費の増加と巨額の政
-府債務を抱え、 金利上昇が続けば利払い費が膨らむ。 両
-国の事情は異なるが、 財政再建の遅れが将来の政策余
-力を狭め、 市場の信任を損ないかねない点は共通する。
-日本にと っても、 財政健全化と政治的合意形成をどう両
-立するかは避けて通れない課題だ。
-大統領選挙で高まる不透明感
-経済調査部　首席エコノミス ト　田中 理（たなか おさむ）
-資料1 フランスの財政収支の対Ｇ Ｄ Ｐ 比率
-（注） 2026年は見込み、 2027年は政府予算案の計画
-（出所） フランス財務省資料より第一ライフ資産運用経済研究所が作成
-資料2 フランス大統領選挙の世論調査 （初回投票）
-
-（注） 調査期間は2026年9月22～24日
-（出所） Harris Interactive資料より第一ライフ資産運用経済研究所が作成
-7 第一ライフ研レポー ト 2026.11
-内外経済ウォッチ
-内外経済ウォッチ
-
----
-## Document 529: 凱基投顧_SPCX SpaceX_張燾_20261021
+## Document 546: 凱基投顧_SPCX SpaceX_張燾_20261021
 
 Source PDF: all report pdf/凱基投顧_SPCX SpaceX_張燾_20261021.pdf
 Report source: line報告備份
@@ -8486,154 +8628,7 @@ Jun-11 Jun-24 Jul-07 Jul-20 Aug-02 Aug-15 Aug-28 Sep-10 Sep-23 Oct-06 Oct-19
 免責聲明
 
 ---
-## Document 574: 宏观专题研究报告：AI的替代与创新
-
-Source PDF: all report pdf/宏观专题研究报告：AI的替代与创新.pdf
-Report source: 国金证券
-Date: 2026-10-24
-Pages: 4
-Extraction status: ok
-
-### Page 1
-
-敬请参阅最后一页特别声明
-1
-宏观经济组
-分析师：宋雪涛（执业 S1130525030001）
-songxuetao＠gjzq.com.cn
-联系人：陈瀚学
-chenhanxue@gjzq.com.cn
-AI 的替代与创新
-理解 AI 的经济价值，需要区分替代与创新。替代是以更低成本完成原本由人承担的工作，其收入空间主要锚定被替
-代的工资池；创新则突破时间、搜索空间和专业经验等约束，使过去难以完成的任务成为可能，创造新的供给、需求
-与收入。
-从替代到创新，AI 应用可分为三个层次。第一类是替代式应用，如银行信贷调查与报告撰写，主要通过节省工时、降
-低成本改善既有业务。第二类是半替代半创新式应用，如 AI 短剧与 AI 陪伴，通过降低供给成本、扩大服务覆盖，使
-小众内容和高频个性化服务等原本缺乏经济可行性的需求形成市场。第三类是创新式应用，通过增强复杂系统的预测、
-决策与探索能力，拓展生产力边界。网约车调度和支付风控体现了效率与服务能力的改善，未知酶系统发现、新蛋白
-质设计和聚变磁场数学研究，则进一步展示了 AI 参与知识创造的潜力。
-
-AI 长期收入空间取决于其能否将能力突破转化为持续的新增产出。科研成果仍需经过实验验证、 工 程 转 化 和 商 业 化 ，
-才能形成新的产品与收入；产业新增价值能够被 AI 企业获取的比例，也取决于竞争格局和商业模式。因而，评估 AI
-的长期价值，既要考察劳动替代与成本节约，也要关注新市场形成、科研成果转化及收益分配。只有技术进步带来更
-广泛的收入增长和生活改善，才能形成创新、投资与消费相互促进的循环。
-风险提示
-技术进展及商业化不及预期；测算口径与案例代表性存在局限；监管约束及分配失衡风险。
-宏观专题研究报告
-2026 年 10 月 23 日
-宏观专题研究报告
-证券研究报告
-
-### Page 2
-
-宏观专题研究报告
-敬请参阅最后一页特别声明
-2
-扫码获取更多服务
-一、什么是替代，什么是创新
-一段时间以来，市场讨论 AI 对经济的影响，常常被简化为“替代”、忽视了“创新”。替代与创新是两种性质不同
-的价值来源，前者是把原本由人完成的工作做得更便宜，收入上限锚定在被替代的工资池；后者完成了此前人力无法
-完成的任务，收入上限不可预先锚定。
-《AI 洪流三部曲：ARR 的边界》中，我们基于 Anthropic 的实际使用暴露度与 OpenAI、Eloundou 等的理论暴露度两
-套口径，映射到美国 BLS 约 830 个职业的就业与薪资数据上，得出结论：美国约 10.83 万亿美元总薪资中，AI 实际暴
-露约 1.45 万亿美元（占 13.4%），涉及 1835 万人（占 11.8%）；AI 理论潜在暴露规模则约 5.68 万亿美元（超 52%），
-涉及 6830 万人（占 43.9%）。
-从行业来看，理论上最有可能被 AI 替代的行业是计算机与数学（87.6%），商业与金融（78.2%），以及法律（78.0%）；
-
-实际暴露度最高的行业是计算机与数学（35.3%），办公室与行政支持（33.2%），以及销售相关职位（24.6%）。
-图表 1：不同行业的理论暴露度与实际暴露度
-来源：Anthropic，OpenAI，BLS，国金证券研究所
-该测算是以“替代”的视角来衡量 AI 收入的天花板。“替代”指的是 AI 完成的任务人原本就能完成，只是 AI 做得
-更快，成本更低。
-而“创新”指的是 AI 能完成人即使大幅增加投入也无法完成的任务。这类任务通常存在三类约束：一是时间成本，
-例如周期以月、年计，无法靠并行、叠加人力进行压缩，而被人类放弃的实验；二是搜索成本，如实验组合规模过大，
-超出人力可穷举的范围；三是复制成本，如一些行业的顶级专家需多年培养，无法在短期内批量供给。创新的价值体
-现为新供给、新产品和新收入池，这部分对应的 AI 收入天花板难以预测。
-二、AI 从替代到创新的三个层次
-AI 的应用从替代到创新可分为三层——“替代、半替代半创新、创新”。三者的区别在于，替代式应用主要改变既有
-产品的成本结构，半替代半创新式应用有助于拓展新需求，创新式应用则切实推动生产力边界向外扩张。当前这三类
-
-AI 应用均已出现实际案例。
-（一）替代式应用：降低既有生产活动成本
-银行的对公信贷智能体是一个典型案例。比如识别营业执照、财务报表、税务和征信材料，并结合实时上下游的数据
-信息和舆情状态生成授信调查报告，将授信报告的撰写由天级缩短至分钟级，并节省客户经理工时。
-如果 AI 只是代替客户经理完成信贷调查和报告撰写，那就只是替代价值，主要体现在人力替代和业务效率提升。如
-
-### Page 3
-
-宏观专题研究报告
-敬请参阅最后一页特别声明 3
-扫码获取更多服务
-果未来 AI 能提高信贷投放准确率、降低授信风险，意味着将改变信贷产品或风险定价方式，那么这就是 AI 的创新价
-值。
-（二）半替代半创新式应用：让原本不具备经济可行性的需求形成市场
-AI 短剧属于介于替代和创新之间的商业化场景。传统影视内容制作受到演员、场景、拍摄周期和制作团队的约束，对
-于受众规模有限的小众题材，潜在收入可能不足以覆盖制作成本。AI 视频生成显著降低内容生产门槛，使部分长尾 IP、
-小众题材和跨语言内容具备商业化条件。
-据报道，一部 80 集国内 AI 短剧的 Token 支出约 6 万—7 万元，出海版本可能超过 20 万元，部分精品短剧达到 40 万
-元1。中文在线数据显示，AI 短剧及视频生成已占国内 Token 消耗份额的 55%，明显高于软件开发等传统应用领域2。
-AI 陪伴的逻辑类似。真人能够提供情感交流、咨询和互动服务，但受到人员数量、服务时间和支付能力的限制，难以
-持续满足高频、低客单价的个性化需求。AI 可以以较低的边际成本提供全天候互动，扩大服务的覆盖范围，不过其对
-
-真实社会关系和专业服务的替代能力或存在边界，也受到安全、隐私和监管约束。
-这类应用目前是现有产品的替代，但也有其创新。创新在于降低了供给成本，使原本难以商业化的创意需求更易形成
-新的市场，创造的增量收入具有现实意义。
-（三）创新式应用：AI 正在突破人类能力的“边界”
-AI 创新的核心价值，是突破人类在时间尺度、搜索空间和专业经验上的约束，使过去难以完成的科学探索和复杂任务
-成为可能。与单纯提高工作效率不同，创新是通过大规模预测、筛选和实验验证，将原本无法充分探索的领域转化为
-可研究的问题，进而创造新的知识、技术和产品。目前，AI 的创新性价值已经在创新药、生命科学、新材料和复杂系
-统预测等领域得到验证。
-一个生活化的案例是网约车调度优化。AI 提高了网约车需求的预测精度和 实 时 匹 配 能 力 ， 降 低 空 驶 率 和 接 驾 距 离 ， 节
-约车辆调度时间，提高司机收入，这就是创新价值的体现。比如，T3 出行 的 “ 领 行 阡 陌 ” 大 模 型 将 司 机 空 驶 率 降 低
-
-17.5%3；享道出行“智慧大脑”使全国网约车接驾距离下降 9.1%，2025 年司机每小时收入同比提升 6.8%4。
-在金融风控领域，AI 已经能够提升风险识别的能力、降低诈骗损失。例如，AI 风控系统依据设备指纹、IP 地址等关
-联信息帮助金融支付公司 Stripe 发现银行卡交易中的风险信息，降低疑似欺诈量5。
-在科学研究领域，AI 正在承担更多提出假设、筛选方案和检验结果的工作，使研究人员能够探索过去难以覆盖的问题
-空间。比如，AI 预测设计新的蛋白质结构6，分析筛选出未知的逆转录酶7， 找到了描述聚变装置三维磁场的新数学
-解8。
-上述发现都有助于打开 AI 收入的“天花板”，分享创新带来的新增利润。比如，发现新的酶系统和蛋白质设计可能
-为药物研发、疾病诊断和生物制造提供新的工具，让过去无法治疗的疾病有了治疗方案；聚变领域的数学进展可能进
-入能源工程带来成本节约，使一批原本不具备经济性的制造、运输和计算活动变得可行，这些是“做大收入蛋糕”的
-直接体现。
-无论是网约车调度优化、金融风控，还是科学研究中的新发现，都是通过提升效率、拓展生产能力和创造新需求，做
-
-大人类收入的蛋糕，而不只是替代劳动、重新分配既有收益。
-只有让技术进步转化为更广泛的收入增长和生活改善，形成创新、投资与消费相互促进的循环，经济持续增长才能为
-科技持续发展提供支撑。AI 的长远价值，最终应体现为拓展人的能力、增进人的福祉，让更多人分享技术进步的成果。
-风险提示
-1）技术进展及商业化不及预期。科研成果规模化应用存在不确定性，能力突破未必转化为持续收入。
-2）测算口径与案例代表性存在局限。职业暴露度不等同于岗位替代率，可能存在样本选择与统计口径差异。
-3）监管约束及分配失衡风险。数据隐私、知识产权与安全监管可能影响应用推广，制约需求扩张。
-1https://www.thepaper.cn/newsDetail_forward_33684595
-2https://pdf.dfcfw.com/pdf/H2_AN202606031823217652_1.pdf
-3https://www.stcn.com/article/detail/3792438.html
-4https://finance.sina.com.cn/roll/2026-05-25/doc-inhzawmn3641220.shtml
-
-5https://stripe.com/en-jp/newsroom/news/sessions-2025
-6https://www.anthropic.com/research/Claude-accelerates-protein-design
-7https://www.anthropic.com/research/claude-discovers-novel-enzyme-system
-8https://arxiv.org/abs/2610.07304
-
-### Page 4
-
-料产生的任何直接或间接损失或与此有关的其他任何损失承担任何责任。且本报告中的资料、意见、预测均反映报告初次公开发布时的判断，在不作事先通知的情
-况下，可能会随时调整，亦可因使用不同假设和标准、采用不同观点和分析方法而与国金证券其它业务部门、单位或附属机构在制作类似的其他材料时所给出的意
-见不同或者相反。
-本报告仅为参考之用，在任何地区均不应被视为买卖任何证券、金融工具的要约或要约邀请。本报告提及的任何证券或金融工具均可能含有重大的风险，可能
-不易变卖以及不适合所有投资者。本报告所提及的证券或金融工具的价格、价值及收益可能会受汇率影响而波动。过往的业绩并不能代表未来的表现。
-客户应当考虑到国金证券存在可能影响本报告客观性的利益冲突，而不应视本报告为作出投资决策的唯一因素。证券研究报告是用于服务具备专业知识的投资
-者和投资顾问的专业产品，使用时必须经专业人士进行解读。国金证券建议获取报告人员应考虑本报告的任何意见或建议是否符合其特定状况，以及（若有必要）
-咨询独立投资顾问。报告本身、报告中的信息或所表达意见也不构成投资、法律、会计或税务的最终操作建议，国金证券不就报告中的内容对最终操作建议做出任
-
-18 楼 1806
-【小程序】
-国金证券研究服务
-【公众号】
-国金证券研究
-
----
-## Document 594: 富邦-2330 台積電-20261012
+## Document 613: 富邦-2330 台積電-20261012
 
 Source PDF: all report pdf/富邦-2330 台積電-20261012.pdf
 Report source: line報告備份
@@ -9216,7 +9211,219 @@ Underweight  Sector expected to underperform the broader market indexes within t
 劣於大盤 預估該產業在未來6個月內會比大盤指數表現較差
 
 ---
-## Document 628: 欧州経済見通し 仏財政不安、長期化の覚悟
+## Document 626: 当面の経済運営の課題と歳入・歳出改革の論点 ～「責任ある積極財政」の次期課題～
+
+Source PDF: all report pdf/当面の経済運営の課題と歳入・歳出改革の論点  ～「責任ある積極財政」の次期課題～.pdf
+Report source: DLRI
+Date: 2026-10-16
+Pages: 4
+Extraction status: ok
+
+### Page 1
+
+Economic Trends
+
+2026 年 10 月 16 日
+
+1/4 
+当面の経済運営の課題と歳入・歳出改革の論点 
+～「責任ある積極財政」の次期課題～ 
+ 経済調査部 首席エコノミスト 永濱 利廣 
+（℡：050-5474-7492）
+
+（要旨） 
+○ 第 2 次高市改造内閣の発足を受け、政権は中長期的な政策推進期へ移行した。「責任ある積極財
+政」は単なる需要刺激ではなく、官民協調の投資による「潜在成長率」の向上を目指している。 
+○ 財政目標の転換として、単一の PB 黒字化から、世界標準である「債務残高対 GDP 比の安定的低
+下」を真の目標とする規律管理へ移行。戦略投資を維持しつつ中長期の財政展望を示す。また、
+供給力強化と賃金の上昇を目指し、エネルギー・半導体・AI 等の基幹産業への投資でボトルネッ
+クを解消し、生産性向上による持続的な賃上げサイクルを創出すべき。さらに、構造改革と規制
+撤廃の面では、農業の競争力強化・企業規制緩和や、持続可能な全世代型社会保障制度の構築が
+必要。 
+○ 単なる減税・増税の対立を超え、日本の供給力・イノベーション能力を高める戦略的ツールとし
+て税制を再構築すべき。また、投資促進型税制の拡充を目指し、イノベーション・ボックス税制
+の導入や、経済安保などの重要分野での即時償却・大型税額控除により国内投資を誘発すべき。
+さらに、「年収の壁」の抜本解消を目指し、就労抑制の要因となる税制・社会保障の歪みを是正
+し、人手不足解消と所得上昇を両立すべき。加えて、資本所得課税と再分配の適正化として、ス
+タートアップ投資等を優遇しつつ、課税回避を是正するバランスの取れた再分配を実施。 
+○ 高市政権の経済財政運営は、短期の景気対策にとどまらず「供給力を高める構造改革」と「債務
+の持続可能性を保つ財政運営」をいかに両立させ、明確なビジョンを示せるかにかかっている。 
+（ ＊ ） 本 稿 は 日 経 ビ ジ ネ ス 電 子 版 へ の 寄 稿
+（https://business.nikkei.com/atcl/gen/19/00573/101300022/）を基に作成。
+
+１．はじめに 
+第 2 次高市改造内閣の発足は、政権初期の政治的流動期を脱し、中長期的な政策体系の具現化へと移
+行する重要な転換点を示している。内閣が掲げる「責任ある積極財政」の実証論は、需要刺激を中心と
+した従来の財政出動ではなく、官民協調による危機管理投資および成長投資を通じた「潜在成長率」の
+向上を主軸に置くものである。
+
+### Page 2
+
+2/4 
+しかし、足もとの巨額な債務残高や為替・金利動向が交錯するマクロ経済環境下において、投資主導
+の成長戦略をいかに実現可能かつ持続的な形で定着させるかが厳しく問われている。 
+そこで本稿では、当面の政権課題として「債務の持続可能性と投資の構造」および「実質賃金・供給
+力の底上げ」を挙げるとともに、年末に向けた税制・歳入改革の論点について、従来の単なる消費税議
+論を超えた構造的視点から整理・考察する。
+
+２.政権の当面する主たる課題 
+① 「債務残高対GDP 比の安定的低下」に向けた目標管理の高度化 
+日本の財政持続可能性に関する議論は、長らく単一の指標であるプライマリー・バランス（以下 PB）
+の黒字化に過度に偏重してきた側面がある。しかし、既に2025 年度時点で国と地方のPB は GDP 比でほ
+ぼ均衡を達成していることを踏まえれば、世界標準的な財政の持続可能性の担保となる「債務残高対GDP
+比の安定的引き下げ」を真の目標とする規律管理へと転換することが本質的課題となる （図１・２）。
+
+（出所）内閣府 
+高市政権においては、防衛・経済安全保障・先端技術などの戦略領域に対する投資のインセンティブ
+を維持しつつも、単なる膨張予算との批判を回避するため、市場に対する明確な中長期財政展望を示す
+制度設計が求められる。 
+② 物価高超えの実質賃金上昇と「供給力強化」のサイクル形成
+
+### Page 3
+
+3/4 
+資源価格の変動や為替の動向などの外部要因は、 マクロ経済および家計の実質購買力に対し直接的な
+圧迫要因となり、これらを一元的な総需要管理政策だけで相殺することは困難である。政権としては、
+エネルギー構造の強靱化や次世代半導体・AI 等の基幹産業に対する継続的支援により、 ボトルネックの
+解消、すなわちサプライサイド改革を果たすことが不可欠である。高収益な産業基盤の創出が生産性を
+向上させ、持続的な賃上げへと波及するサイクルを如何に創出できるかが、政権運営の試金石となる。 
+③ 構造改革と規制撤廃 
+成長の制約因子を取り除く攻めの構造改革も目下の焦点である。例えば農業分野においては、食料安
+全保障の強化と輸出競争力の向上の双方を見据え、農地所有にかかる企業規制の柔軟化や集積の促進、
+過度な生産調整依存からの脱却といった構造的見直しが問われている。 
+同時に、 社会保障制度における就労インセンティブの阻害要因を除去し、 全世代型社会保障として「給
+付と負担」の持続性を再構築することが求められている。
+
+３．年末の税制改正および歳入・歳出改革に向けた論点 
+年末に向けた税制改正の議論においては、「消費税の引き下げ・所得連動型給付」のみならず、「企
+業の投資意欲を最大化する税制」や「多様な働き方を阻害しない課税体系」を整合的に構築できるかが
+焦点となる。 
+① 戦略的投資およびR&D に対する投資促進型税制の拡充 
+「サナエノミクス」が掲げるイノベーション力の強化やスタートアップ育成、危機管理投資を実現す
+るためには、 企業が留保する現預金を投資へ導く強力なインセンティブ改革が必要である。 具体的には、
+以下の税制措置が本格的に議論されるべきである。 
+• イノベーション・ボックス税制等の本格導入・拡充:自国での知財開発・活用から生じる所得
+に対する軽減税率は、高付加価値なR&D 拠点の国内回帰を加速させよう。 
+• 特定重要分野における即時償却・大型税額控除:経済安全保障に関連するサプライチェーン拠
+点整備に対する投資税制の抜本強化。 
+② 働き方に中立な税制と「年収の壁」の抜本的解消
+
+### Page 4
+
+本資料は情報提供を目的として作成されたものであり、投資勧誘を目的としたものではありません。作成時点で、第一ライフ資産運用
+経済研究所が信ずるに足ると判断した情報に基づき作成していますが、その正確性、完全性に対する責任は負いません。見通しは予告
+なく変更されることがあります。また、記載された内容は、第一生命保険ないしはその関連会社の投資方針と常に整合的であるとは限
+りません。 
+4/4 
+人手不足が深刻化する中で、配偶者控除や社会保障上の各種要件による就労抑制は、労働供給量を抑
+制する構造的要因となっている。短時間労働の調整を選択せざるを得ない既存の歪みを是正し、就労促
+進と所得上昇の双方を実現する一体改革の推進が重要課題となる。 
+③ 資本所得課税と所得再分配機能の見直し 
+一億円の壁問題をはじめとする所得再分配の不均衡に対し、一律的な増税ではなく「実質的な投資資
+金の循環」を阻害しない形での是正策が要請される。スタートアップのエンジェル投資や再投資を優遇
+する枠組みを拡充しつつ、 富裕層に対する過度な課税回避策を適正化するバランス感覚が不可欠である。
+
+４．おわりに 
+第 2 次高市改造内閣が直面する真の課題は、短期的な景気対策にとどまらず、「潜在成長率を引き上
+げる構造改革」と「債務の持続可能性を担保する財政運営」をいかに高次元で統合できるかにある（図
+３）。 
+税制改正に関しても、従来の対照的な減税・増税の二項対立を脱し、官民が一体となって日本の供給
+力・イノベーション能力を高めるための「戦略的ツール」として再構築できるかが問われている。この
+構造転換を果たし得る明確なビジョンを提示できるかどうかが、 政権の中長期的な安定と日本経済の強
+靭化を左右することになろう。
+
+（出所）内閣府 
+図３
+
+---
+## Document 646: 曾经疯狂接盘，如今“弹药库”缩水51万亿韩元！韩国散户买不动了
+
+Source PDF: all report pdf/曾经疯狂接盘，如今“弹药库”缩水51万亿韩元！韩国散户买不动了.pdf
+Report source: WallstreetCN (Global)
+Date: 2026-10-24
+Pages: 3
+Extraction status: ok
+
+### Page 1
+
+四个⽉内，韩国散⼾ " 弹药库 " 跌幅达 36.5% ，回落⾄年初⽔平。尽管散⼾累计净买⼊逾 75
+万亿韩元仍在接盘，但新增资⾦断流，补充速度远落后于消耗。叠加 KOSPI ⽉内暴跌近
+20% 、外资持续净卖出，叠加 AI 信⽤⻛险担忧，失去⺠间资⾦托底的韩股短期内恐难迎持
+续反弹。
+摘要：
+韩国股市散⼾资⾦池正在以令⼈警觉的速度萎缩，市场流动性⾯临严峻考验。
+据韩国⾦融投资协会数据，截⾄ 10 ⽉ 22 ⽇，韩国券商投资者存款余额降⾄ 88.68 万亿韩元（约
+355 亿美元），较 6 ⽉ 4 ⽇创下的历史峰值 139.69 万亿韩元骤降约 51 万亿韩元，跌幅达 36.5%，回
+落⾄年初⽔平。这⼀数字在 10 ⽉ 21 ⽇跌破 90 万亿韩元关⼝，为近九个⽉来⾸次，并创下⾃ 1 ⽉
+13 ⽇以来的最低⽔平。与此同时， KOSPI 指数本⽉经历七连跌，并于 10 ⽉ 15 ⽇单⽇暴跌
+7.57% ，外资持续净卖出的压⼒仍未消退。
+散⼾资⾦的快速撤离，正在动摇此前⽀撑韩国股市的核⼼⼒量。上半年，正是散⼾投资者⼤规
+
+模⼊场，以巨额净买⼊对冲了外资的抛售压⼒；⽽如今随着 “ 弹药库 ” 告急，市场买盘⽀撑⼒度明
+显减弱， KOSPI 后续⾛势⾯临下⾏压⼒。业内⼈⼠对市场能否实现持续反弹看法不⼀，分歧焦
+点集中在⼈⼯智能⾏业信⽤⻛险与芯⽚股基本⾯之间的博弈。
+存款骤降：四个⽉蒸发 51 万亿韩元
+投资者存款是指投资者存⼊券商账⼾、尚未⽤于购买股票或其他资产的资⾦，通常被视为股市
+潜在买盘的 “ 弹药储备 ” 。该指标的下降，既可能源于投资者主动买⼊股票，也可能源于资⾦直接
+撤离账⼾，因此不能将全部降幅简单等同于资⾦出逃。
+然⽽，结合市场背景来看，此轮存款下滑的信号意义不容忽视。上半年，随着 KOSPI 持续上
+涨，投资者存款稳步攀升，新增流⼊资⾦明显超过实际购股⽀出，形成清晰的资⾦积累态势。
+⽽ 6 ⽉ 4 ⽇触及历史⾼点后，存款开始持续回落，表明流⼊股市的新增散⼾资⾦已⼤幅减少，⽆
+法跟上买⼊规模的步伐。
+下滑速度在 10 ⽉明显加快。存款余额从 10 ⽉ 12 ⽇的 100.44 万亿韩元，短短三天内收缩⾄ 10 ⽉ 15
+
+⽇的 96.91 万亿韩元，并在随后⼀周进⼀步跌⼊ 88 万亿韩元区间。与此同时，衡量杠杆投资规模
+⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⻅闻历 搜索
+
+### Page 2
+
+⻛险提⽰及免责条款
+市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂
+中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
+的融资余额也在本⽉中旬降⾄约 32 万亿韩元，现⾦储备与杠杆资⾦双双收缩，折射出市场剧烈
+波动下投资者情绪的全⾯降温。
+散⼾仍在买⼊，但 “ 新钱 ” 已断流
+值得注意的是，存款下滑并不意味着散⼾已经全⾯撤退。数据显⽰，从 6 ⽉ 4 ⽇⾄ 10 ⽉ 23 ⽇，个
+⼈投资者在 KOSPI 市场净买⼊股票 44.17 万亿韩元，在 KOSDAQ 净买⼊ 3.15 万亿韩元，同期 ETF
+净买⼊规模更达 28.25 万亿韩元，散⼾在技术层⾯仍是市场的净买⼊⽅。
+问题的症结在于，持续的买⼊⾏为消耗了存量资⾦，⽽新增资⾦的流⼊速度却远远跟不上消耗
+节奏。上半年，新流⼊资⾦超过购股⽀出，存款余额因此持续积累；进⼊下半年后，这⼀正向
+循环已然逆转 —— 散⼾仍在接盘，但 “ 弹药 ” 补充速度已⼤幅放缓，存款余额随之持续下滑。
+
+这⼀结构性变化意味着，即便散⼾短期内维持净买⼊姿态，其实际承接外资抛售的能⼒也已⼤
+打折扣。上半年散⼾ “ 接盘侠 ” 的⻆⾊，在资⾦池持续萎缩的背景下难以为继。
+KOSPI 近期⾛势进⼀步放⼤了流动性收缩的⻛险。指数从 10 ⽉ 6 ⽇起连跌七个交易⽇，并于 10 ⽉
+15 ⽇单⽇重挫 7.57% ， 10 ⽉ 23 ⽇收报 5550.30 点，过去⼀个⽉累计跌幅近 20% 。在此期间，外资
+持续净卖出，市场供需结构明显恶化。
+散⼾资⾦池的萎缩，与外资抛售的叠加，构成了对 KOSPI 的双重压制。上半年，散⼾凭借充裕
+的存款余额⼤规模承接外资卖单，在⼀定程度上稳定了市场；⽽当前存款余额已回落⾄年初低
+位，散⼾的缓冲能⼒显著下降。若外资卖压持续，市场缺乏⾜够买盘对冲，下⾏⻛险将进⼀步
+累积。
+融资余额的同步下滑同样值得关注。杠杆资⾦的收缩通常伴随市场波动加剧，⼀旦触发强制平
+仓，可能形成负向螺旋，进⼀步压低指数。
+反弹前景：基本⾯与⻛险情绪的拉锯
+对于 KOSPI 后续⾛势，市场内部存在明显分歧。
+
+乐观派认为，以芯⽚制造商为代表的核⼼企业盈利能⼒依然稳健，当前指数相对基本⾯已存在
+明显低估，具备修复空间。
+然⽽，谨慎派的声⾳同样有⼒。⼀家证券公司官员表⽰：
+AI ⾏业信⽤⻛险的浮现，动摇了此前⽀撑市场估值扩张的核⼼逻辑。在这⼀不确定性消散之前，
+散⼾资⾦的⼤规模回流恐难实现，⽽ " 弹药库 " 的持续萎缩，也将令 KOSPI 在承压时缺乏⾜够的⺠
+间资本托底。
+“KOSPI 近期跌幅相对于盈利基本⾯确实过度，但此前推动市场上涨的催化剂 —— ⼈⼯智能⾏业
+—— ⽬前⾯临相当⼤的信⽤⻛险担忧，因此现在期待持续反弹还为时过早。 ”
+
+### Page 3
+
+88 收藏 分享到 :
+写评论
+图⽚
+限免
+请发表您的评论
+表情 发布评论
+
+---
+## Document 652: 欧州経済見通し 仏財政不安、長期化の覚悟
 
 Source PDF: all report pdf/欧州経済見通し 仏財政不安、長期化の覚悟.pdf
 Report source: DIR
@@ -10115,7 +10322,7 @@ Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4
 2026 20272025
 
 ---
-## Document 690: 群益-1563 巧新-20261012
+## Document 715: 群益-1563 巧新-20261012
 
 Source PDF: all report pdf/群益-1563 巧新-20261012.pdf
 Report source: line報告備份
@@ -10357,239 +10564,157 @@ YoY(%)
 情形。
 
 ---
-## Document 719: 談股論金：財報不差，金融股10月彈勢能延續嗎_
+## Document 733: 苹果首款折叠屏iPhone Duo出师不利：有人折不到20次就裂屏了
 
-Source PDF: all report pdf/談股論金：財報不差，金融股10月彈勢能延續嗎_.pdf
-Report source: Fubon
-Date: 2026-10-23
-Pages: 5
+Source PDF: all report pdf/苹果首款折叠屏iPhone Duo出师不利：有人折不到20次就裂屏了.pdf
+Report source: WallstreetCN (Global)
+Date: 2026-10-25
+Pages: 7
 Extraction status: ok
 
 ### Page 1
 
-2026
-
-02-8751-6665 
- www.fubon.com 
-台北市大安區仁愛路四段 169 號
-
-財報不差，金融股 10 月彈勢能延續嗎? 
-3Q26 財報季正式打響，摩根大通、花旗、高盛等大型金融股率先打頭陣，對
-比各家營收和財報細項，儘管未出現大幅度超預期，但財報結果並不差。
-
-出刊日：2026/10/23 
-304 期
+现在苹果需要回答的是，⼀部售价 2000 美元、主打折叠体验的⼿机，究竟能不能经得起⽤
+⼾每天反复打开和合上？
+摘要：
+花2000美元买⼀部新⼿机，结果⽤了不到6个⼩时，折叠不到20次，屏幕就裂了。
+更尴尬的是，这还是苹果刚刚推出的⾸款折叠屏⼿机。
+苹果原本希望凭借iPhone Duo正式进军折叠屏市场，没想到新机刚上市，就接连传出屏幕损坏
+的消息。从中国到美国，再到澳⼤利亚和加拿⼤，多个市场都有⽤户报告类似问题，⽽且坏的
+地⽅⼏乎都⼀样：⼿机中间的折叠区域。
+⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⻅闻历 搜索
 
 ### Page 2
 
-2026
-
-02-8751-6665 
- www.fubon.com 
-台北市大安區仁愛路四段 169 號 
-談股論金
-
-本期內容： 
-1. 美國 金融 股財報具
-韌性 
-2. 短端利率具備下行
-空間 
-3. 價值浮現 ， 惟關注私
-人信貸風險
-
-重點摘要 
-■ 3Q26 金融股財報已率先揭露，截至
-10/15，整體盈餘優於預期的比重僅
-70%，低於過去十年的 77%，尤其大
-型金融股 ， 多數僅符合預期 ， 引來短線
-上失望性賣壓。(如圖一)
-
-■ 9 月短端殖利率大幅飆升 ， 引發長短利
-差收窄，然而 9 月通膨數據超預期卻
-未再次令殖利率走高，市場定價已提
-前反應 ， 若後續通膨走勢走緩 ， 市場有
-再次修正升息預期空間，有利長短利
-差再次擴大。
-
-■ 隨著金融股價修正，目前的估值位階
-已來到 2024 年 AI 多頭行情以來的相
-對低位 ， 儘管私人信貸違約風險上升 ，
-然而擴大至系統性風險機率不高，整
-體衝擊程度有限。
-
-圖一 ：金融股盈餘優預期比例低於十年平均
-
-資料來源：Bloomberg, 2026/10/15
-
-重點摘要 
-財報不差，金融股 10 月彈勢能延續嗎?
+折不到20次，屏幕就裂了
+据Tom’s Guide、PhoneArena报道，iPhone Duo上市后，Reddit上陆续出现损坏照⽚：内屏沿中
+央铰链开裂，部分还伴随⽩⾊或绿⾊亮线。
+⼀名澳⼤利亚⽤户表⽰，拿到iPhone Duo约6⼩时，展开不到20次，就在⼀次正常展开时听到断
+裂声，屏幕随即沿折痕裂开。⽤户称⼿机此前没有明显撞击。
 
 ### Page 3
 
-2026
-
-02-8751-6665 
- www.fubon.com 
-台北市大安區仁愛路四段 169 號
-
-▋ 美國金融股財報具韌性 
-身為民生經濟的窗口與樞紐 ， 銀行股的營運
-動 能 一直 是 景氣 變化 的觀 察 指標 。 截至
-10/14，摩根大通、花旗、高盛、富國銀行
-已率先揭露 3Q26 財報 ， 除了高盛營收明顯
-優於預期之外 ， 其餘金融股業績大致符合預
-期 ， 甚至出現低於預期的情況 ， 導致股價在
-財報公布後，率先下跌反應。(如圖二)
-
-細項觀察 ， 整體表現並沒有想像中差勁 ， 以
-摩根大通為例 ，3Q26 營收 509 億美元低於
-預期 513 億美元的關鍵，主要源於固收業
-務的下滑，反應Q3 全球殖利率飆升下，市
-場對於債券交易的熱度出現暫時性放緩 ， 其
-餘業務包含利息收入 、 股權交易和投行收入
-皆符合預期。摩根大通上調 2026 全年 NII
-至 1,062 億美元(原先預估為 1,055 億美元)，
-並預期 2027 年將進一步上升至 1,070 億
-美元 ， 同時花旗也將全年ROTCE(有形普通
-股權益報酬率 )由先前的 10~11%上調至
-11%以上 ， 儘管上調幅度皆不是特別明顯 ，
-但結合備抵呆帳的穩定 ， 意味大型金融業對
-於景氣前景依舊偏正向看待。
-
-圖二：大型金融股財報並不差
-
-資料來源：Bloomberg/北富銀整理，2026/10/14  
-▋ 短端利率具備下行空間 
-聯準會 9 月點陣圖顯示 2026 年再升息一
-碼後，2027 年預期維持利率不變，儘管 9
-月美國通膨出現略為上升的勢頭 ， 但由於2
-年期短端殖利率先前已反應未來 1 年仍有
-3 碼升息的可能性，8~9 月 10-2 年期長短
-利差一度下跌近 40bp，9 月通膨數據公布
-後短端利率並未上升。
-
-市場可能過度高估聯準會升息的幅度 ， 聯準
-會紐約聯儲總裁 Williams 10 月談話也表
-示，今年或再升息一次，目前認為2027 年
-沒有升息必要 。 此前市場一度預期未來仍有
-4 碼升息空間，如今已修正為3 碼 ，後續甚
-至有進一步下滑可能 ， 或推動短端殖利率持
-續走低 。 與此同時 ， 長債端有政府債務壓力
-干擾 ， 儘管川普政府試圖利用經濟成長 ， 降
-低債務/GDP 比重 ， 但以2027 年 2.3~2.5%
-的 GDP 成長預估而言，難以說服市場，長
-端殖利率不易下行 ， 整體長短利差有望繼續
-陡峭化。(如圖三)
-
-圖三：短率飆升衝擊銀行股 9 月走勢
-
-資料來源：Bloomberg，2026/10/14
+这名⽤户最终在苹果零售店换到新机。但其他案例也接连出现：有⼈使⽤不到⼀天就发现裂
+纹，还有⼿机在初始设置尚未完成时就出现显⽰故障。
+更尴尬的是，耐⽤性测试也没过关
+耐⽤性测试进⼀步引发担忧：尽管iPhone Duo标注IP68防尘防⽔等级，灰尘仍能通过多个⼊⼝进
+⼊铰链，⽽铰链正是折叠屏反复开合的关键。
+随后的破坏性弯折测试让内屏出现永久性绿⾊亮线，最终失去触控响应，受损位置也集中在中
+央折叠区域。
 
 ### Page 4
 
-2026
-
-02-8751-6665 
- www.fubon.com 
-台北市大安區仁愛路四段 169 號
-
-▋ 價值浮現，惟關注私人信貸風險 
-隨著股價回落 ，S&P500 金融指數估值也同
-步降至 14.5X， 位於5 年均值之下 ， 同時也
-是 2024 年股市開啟 AI 多頭行情以來的相
-對低位。尤其資本市場次產業預期PE 偏離
-5 年均值的幅度達 8%，更為明顯，主要受
-到 私 人 信 貸 市 場 惡 化 衝 擊 ， 包 含Ares 
-Management(ARES)、Blackstone(BX)、
-KKR 集團(KKR)股價都在 9 月份出現明顯跌
-幅。(如圖四)
-
-信評機構 KBRA 監控的私人信貸直接貸款
-雷達於 9 月份出現惡化跡象，172 家被示
-警紅燈(對應一般信評標準為 CCC 及以下
-評等)，96 家為橘燈(BB 或 B 評等)， 整體示
-警比例也由 8 月的 8.1%攀升至 8.8%。(如
-圖五)
-
-儘管私人信貸違約風險成為市場不確定因
-素 ， 然而以私人信貸業務為主的市值占比並
-不高，ARES、BX、KKR 三家合計占資本市
-場次產業比重約 12%，占整體金融指數的
-比重也僅 3.2%，因此規模上影響不大。
-
-圖四：金融股估值位階跌至均值下方
-
-資料來源：Bloomberg，2026/10/14 
-圖五：私人信貸風險正在上升
-
-資料來源：JPM，2026/10/12 
-▋ 結論 
-財報未超預期 ， 引來失望性賣壓 ， 但檢視大
-型金融股財報 ， 表現上也並沒有想像中的差 ，
-甚至股權交易和投行業務收入高於預期 。 換
-句話說 ， 在業績未見惡化 ， 但股價卻向下修
-正下，投資的價值正慢慢浮現。
-
-Coreweave 借貸成本飆升，引爆私人信貸
-風險 ， 雖須留意相關影響 ， 但目前觀察擴大
-致系統性風險機率不高 。 高盛預估2027 年
-具相似性質槓桿貸款違約率雖維持約 4.2%
-的高檔 ， 但不會進一步攀升 ， 此外KBRA 指
-數顯示 ， 私人信貸雖不透明 ， 但平均回收率
-47.1%， 高於槓桿貸款的39%和非投等債的
-37.9%， 實際衝擊未必如同市場情緒恐慌 。
-
-*所列個股為舉例說明，並非個股推薦
+但暴⼒弯折不等于⽇常使⽤，也⽆法确认灰尘与屏幕损坏的因果关系，测试只能说明新机在极
+端条件下存在薄弱点。
+2000美元的⼿机，内屏却格外娇贵
+测试显⽰，采⽤Ceramic Shield 2的外屏抗刮表现较好，但柔性内屏在莫⽒硬度2级就出现划
+痕，指甲也可能留下痕迹。这是柔性屏材料的普遍限制，并⾮苹果独有。
+消费者花近2000美元买苹果折叠屏，期待的不只是更⼤的屏幕，还有可靠的使⽤体验。三星、
+华为、⼩⽶等⼚商已有多代产品经验，后来⼊场的苹果反⽽承受更⾼期待。
 
 ### Page 5
 
-2026
+苹果的⿇烦可能才刚开始
+随着裂屏案例传播，⼀些预订⽤户考虑取消订单或推迟购买。售后也成焦点：澳⼤利亚⽤户虽
+在门店换到新机，但电话申请快速换机时，仍遇到整机⾦额预授权、到货时间不明等问题。
+PhoneArena认为相似案例可能指向铰链设计缺陷；Gadget Review则强调，⽬前没有确认的整体
+故障率，也⽆证据证明其损坏率⾼于其他折叠屏。因此，断⾔存在系统性缺陷仍为时过早。
+但可以确定的是，苹果这次折叠屏⾸秀，已经遭遇⼀场意料之外的质量争议。真正需要回答的
+不是折叠屏有多薄、展开后有多⼤，⽽是⼀个更基础的问题：⼀部售价2000美元、主打折叠体
+验的⼿机，究竟能不能经得起⽤户每天反复打开和合上？
+
+### Page 6
+
+⻛险提⽰及免责条款
+市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂
+中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
+619 收藏 分享到 :
+限免
+
+### Page 7
+
+写评论
+图⽚
+15 条评论
+请发表您的评论
+表情 发布评论
+哎哟我去
+1 ⼩时前 中国
+0  回复
+可能对苹果来说是⼀场重⼤的考验
+zlcc706
+2 ⼩时前 中国浙江省
+1  回复
+这事要出在华为上，热搜早暴了
+⻅闻⽤⼾ 1 ⼩时前 中国江苏省
+0  回复
+回复  zlcc706 ：
+正好说反了
+⻅闻⽤⼾ 10 分钟前 中国湖北省
+0  回复
+回复  zlcc706 ：
+听  ⽵知了在鸣叫
+MobileUser052
+3 ⼩时前 中国北京
+0  回复
+⼤⽶的是不是同⼀个代⼯⼚？
+⻅闻⽤⼾
+3 ⼩时前 中国上海
+0  回复
+这么多国产⼿机不买
+SoongSzai
+3 ⼩时前 中国⼴东省
+1  回复
+⼿握⼏千亿美⾦现⾦的企业做不好折叠屏，那么其他公司为啥做好呢？凭啥呢？资⾦⾯前说瞎话
+可不好呀
 
 ---
-## Document 743: 高管揭示Meta AI订阅变现新路：Muse免广告但企业服务收费，智能体购物抽成
+## Document 737: 补贴农民、松绑俄柴油、催欧洲放储备…特朗普“多管齐下”仍难压住柴油价
 
-Source PDF: all report pdf/高管揭示Meta AI订阅变现新路：Muse免广告但企业服务收费，智能体购物抽成.pdf
+Source PDF: all report pdf/补贴农民、松绑俄柴油、催欧洲放储备…特朗普“多管齐下”仍难压住柴油价.pdf
 Report source: WallstreetCN (Global)
 Date: 2026-10-23
-Pages: 2
+Pages: 3
 Extraction status: ok
 
 ### Page 1
 
-Meta AI 负责⼈ Alexandr Wang 称， Muse 对普通⽤⼾免费开放， Meta 没有投放⼴告的计
-划； Meta 计划向企业提供付费服务，未披露具体的收费标准和推出时间。他还称， Meta ⾃
-有的基础设施、安全体系和数据中⼼使 Muse 具备对⼿难以复制的竞争优势。
+距离美国中期选举不⾜两周，特朗普政府接连推出 80 亿美元农⺠补贴、放宽染料柴油使⽤
+限制、恢复俄罗斯柴油进⼝等措施，试图压低柴油价格，但美国柴油均价仍升⾄每加仑
+6.28 美元。伊朗冲突引发的供应⻛险难以消除，政策效果备受质疑。⾼油价持续加剧农⺠
+与选⺠不满，令共和党选情承压。
 摘要：
-Meta 正试图为 AI 业务寻找⼀条不同于传统⼴告的变现路径。
-Meta ⾸席 AI 官 Alexandr Wang 在接受⽇经新闻采访时表⽰， Meta 的个⼈ AI 智能体 Muse 将坚持免
-⼴告，普通⽤⼾可免费使⽤，但⾼阶功能和企业服务将收费，公司还计划从智能体促成的购物
-交易中抽取佣⾦。 Wang 表⽰， Muse 不仅能够回答问题，还可以代替⽤⼾执⾏任务、节省时间
-和⾦钱，因此⽐此前的 AI 产品更有⽤。
-⽇经新闻发稿当天、 10 ⽉ 23 ⽇周五， Muse ⾸次登陆⽇本市场。 Muse 9 ⽉ 8 ⽇在北美上线后反响
-热烈，相关应⽤下载量六周即达到 1000 万次，增⻓速度超过包括 ChatGPT 在内的部分竞品。
+距离 11 ⽉ 3 ⽇美国中期选举不⾜两周，特朗普政府正以⽇益⾼昂的政治与财政代价，向⼀个顽固
+的问题发起多线进攻 —— 柴油价格。
+然⽽，⼀系列密集出台的措施 ——向农⺠撒出 80 亿美元补贴、允许红⾊染料柴油上路、松绑俄
+罗斯柴油制裁、向欧洲盟友施压释放应急储备 —— 均未能扭转油价⾛势。
+据美国能源信息署数据，美国柴油均价上周再度上涨近 10 美分，⾄每加仑 6.28 美元，逼近历史
+⾼位，此前两周的短暂回落就此终结。路透社 / 益普索 10 ⽉⺠调显⽰，近⼋成美国⼈将⾼物价归
+咎于特朗普，令共和党在国会两院的微弱多数席位⾯临更⼤压⼒。
+分析⼈⼠普遍对上述措施的实际效果持怀疑态度。宾⼣法尼亚州穆伦堡学院⺠调专家、政治学
 
-从个⼈订阅到企业服务，探索⼴告之外的收⼊
-Alexandr Wang 表⽰， Muse 对普通⽤⼾免费开放， Meta 希望未来将其推⼴⾄数⼗亿⽤⼾。不
-过，对于重度⽤⼾，以及希望使⽤最先进模型的⽤⼾，公司已经推出订阅⽅案。 Meta 也计划向
-企业提供付费服务，但 Wang 没有披露具体的收费标准和推出时间。
-与 Meta 旗下社交平台依靠⼴告变现的模式不同， Wang 明确表⽰： “Muse 内部没有⼴告，我们也
-没有投放⼴告的计划。 ”
-这意味着，⾄少按照⽬前的规划， Meta 不会直接将⼴告植⼊ Muse 的交互界⾯。
-对于⼴告收⼊占⽐超过 95% 的 Meta ⽽⾔， Muse 的变现路径具有特殊意义。随着产品向更多市场
-扩张、公司继续投⼊巨额资⾦建设 AI 基础设施， Meta 能否将⽤⼾增⻓转化为可持续收⼊，正成
-为市场关注的焦点。
-智能体购物抽成，探索交易佣⾦收⼊
-除订阅和企业服务外， Meta 还计划从⽤⼾通过智能体完成的购物交易中抽取佣⾦，将 Muse 从信
-息和任务助⼿进⼀步延伸⾄消费场景。
+者 Chris Borick 表⽰： " 总统倾向于以短期收益换取⻓期损失，⽽我怀疑这⾥是否真的存在任何短
+期收益。 "
+农业补贴创历史新⾼，但⽆法直接压低油价
+特朗普本周⼀在堪萨斯州竞选集会上宣布，美国农业部将启动名为 " 丰收燃料救济计划 " 的新项
+⽬，向农⺠提供 80 亿美元资⾦，⽤于抵消本次收割季的柴油成本。农业部确认，这笔资⾦将以
+⼀次性⽀付形式发放，定位为应对 " 临时性市场扰动和⽣产成本上升 " 的短期救济，但明确指出仅
+覆盖 " 部分模型损失 " ，并⾮全额补偿。
+这笔新增资⾦将使今年联邦对农⺠的总⽀付额推升⾄创纪录的 554 亿美元，超过 2020 年疫情期间
+创下的 450 亿美元历史峰值。
+然⽽，补贴并不能直接作⽤于市场价格。全国农⺠联盟主席 Rob Larew 批评称： " 这是今年第⼆
+轮应急援助，⽤于弥补本可预⻅的损失。贸易中断和与海外冲突相关的燃料成本上涨，已令家
+庭农场陷⼊困境，⽽⼀次性⽀付⽆法为他们提供规划未来所需的稳定性。 "
+农业部⽬前尚⽆法说明资⾦将如何分配、何时到账，以及是否需要国会批准。
 
-这⼀模式有望让 Meta 在⼴告之外获得交易收⼊，但具体如何落地仍有待观察。
-Meta 并未公布佣⾦⽐例、适⽤商家范围及正式推出时间，最终收⼊规模将取决于 Muse 的任务执
-⾏能⼒、商家接⼊情况，以及⽤⼾是否愿意将购物决策交给智能体。
-⾃有基础设施与安全能⼒，⽀撑 Muse 扩张
-Alexandr Wang 认为， Meta ⾃有的技术基础设施、安全体系和数据中⼼，是 Muse 难以被竞争对
-⼿复制的重要优势。对于需要执⾏任务、处理⽤⼾信息并连接不同服务的个⼈ AI 智能体⽽⾔，模
-型能⼒之外，基础设施的规模、可靠性和安全性同样重要。
-Meta 正在为这套基础设施投⼊巨额资⾦。
+红⾊染料柴油令放，执⾏层⾯仍存模糊地带
+特朗普本⽉签署⾏政令，允许卡⻋司机将通常⽤于农业机械等⾮公路⽤途的红⾊染料柴油⽤于
+公路⾏驶，并暂时豁免部分联邦税务申报和记录要求。
+但美国国税局并未取消联邦柴油税，仅暂时豁免相关申报要求及罚款⾄年底，令加油站和燃料
+销售商⾯临不确定性。代表美国最⼤卡⻋停靠站运营商的⾏业协会 NATSO ⾸席游说⼈ David
+Fialkov 表⽰，成员对特朗普应对柴油成本的努⼒表⽰赞赏，但相关指引仍 " 模糊不清 " ，⻛险过
+⾼。 " 我实在看不出这些染料柴油公告能对柴油价格产⽣任何实质性影响， " 他说。
+俄罗斯柴油重返美国，地缘代价引发两党批评
 ⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⻅闻历 搜索
 
 ### Page 2
@@ -10597,17 +10722,41 @@ Meta 正在为这套基础设施投⼊巨额资⾦。
 ⻛险提⽰及免责条款
 市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂
 中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
-28 收藏 分享到 :
+30 收藏 分享到 :
 写评论
 图⽚
-本周三美股盘后发布财报的同时， Meta 公布，最新的 2026 年资本开⽀指引区间为 1350 亿⾄
-1450 亿美元，将指引区间的低端上调 50 亿美元。
-周四， Meta 还在递交监管⽂件中披露，截⾄ 9 ⽉底，公司未开始履⾏租赁义务和不可撤销合同承
-诺合计约 8100 亿美元，若计⼊最⾼约 147 亿美元的或有云计算容量采购义务，未来承诺投⼊总额
-升⾄接近 8250 亿美元。
-上述投⼊既服务于 Meta 现有业务，也将⽀持新⼀代 AI 模型和产品开发。基础设施能否转化为更
-强的产品能⼒，并进⼀步带动订阅、企业服务和交易佣⾦收⼊，将是 Muse 商业化能否取得进展
-的关键。
+在增加供应端，特朗普政府选择松绑对俄罗斯柴油的制裁。
+据路透社报道， LSEG 航运数据显⽰，⻢⽿他籍油轮 Agioi Fanendes 已于 10 ⽉ 22 ⽇在俄罗斯波
+罗的海港⼝普⾥莫尔斯克装载 4 万吨超低硫柴油，⽬的地为美国，预计 11 ⽉ 7 ⽇抵达纽约。俄罗
+斯总统新闻秘书佩斯科夫当⽇确认，根据俄美达成的协议，俄对美柴油供应已正式启动。
+特朗普此前宣布，俄罗斯将⽴即出⼝ 30 万吨柴油， 11 ⽉增⾄ 50 万吨，此后进⼀步扩⼤⾄ 100 万
+吨。俄罗斯副总理诺⽡克上周表⽰，俄⽅有望在年底前将柴油⽉出⼝量恢复⾄ 300 万⾄ 350 万吨
+的常规⽔平。
+然⽽，这⼀举措在国内引发两党批评。原本旨在限制莫斯科能源收⼊、削弱其资助乌克兰战争
+能⼒的制裁被松绑，其地缘政治代价显⽽易⻅。分析⼈⼠指出，伊朗冲突才是本轮柴油价格飙
+
+升的主要驱动因素，乌克兰对俄罗斯炼油⼚的打击虽有⼀定影响，但作⽤相对有限。对外关系
+委员会 Maurice R. Greenberg 中⼼主任 Edward Fishman 表⽰： " 我更多地将其视为⼀种转移责任
+的替罪⽺操作，⽽⾮在选举前真正试图平抑价格的举措。 "
+⽩宫将⾼价归咎于 " 历史遗留问题 " ，政治压⼒持续升温
+⽩宫将⾼柴油价格归因于 " 既有问题 " ，包括多年来的炼油⼚关闭以及俄乌战争造成的破坏，同时
+为特朗普的系列举措进⾏辩护。⽩宫发⾔⼈ Taylor Rogers 表⽰： " 总统希望柴油价格下降，这正
+是他采取历史性⾏动、为美国农⺠、卡⻋司机和⼯⼈守住每⼀分⾎汗钱的原因。 "
+政治压⼒在传统共和党农业州尤为突出。爱荷华州、堪萨斯州等地的农⺠⾯临燃料和化肥成本
+上涨、贸易中断及农业经济疲软的多重压⼒，部分特朗普核⼼⽀持者的不满情绪正在积聚。特
+朗普已在该地区的竞选集会上⼤⼒宣传上述柴油措施，并在内布拉斯加州当众签署⾏政令。
+分析⼈⼠普遍认为，在中期选举前，上述措施难以带来实质性的价格缓解。随着选举⽇临近，
+
+特朗普政府正在为⼀场效果存疑的价格保卫战付出越来越⾼的代价。
 限免
 请发表您的评论
 表情 发布评论
+
+### Page 3
+
+1 条评论
+路⼈
+1 ⼩时前 中国江苏省
+0  回复
+然后呢？不弄伊朗了，也依然是地缘代价。
+整活⼉还得是阿川

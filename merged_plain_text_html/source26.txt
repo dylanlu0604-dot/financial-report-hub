@@ -3,7 +3,7 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 049: 2026年9月14日投資研究週報
+## Document 050: 2026年9月14日投資研究週報
 
 Source PDF: all report pdf/2026年9月14日投資研究週報.pdf
 Report source: Mega Bank (投資研究週報)
@@ -688,7 +688,7 @@ Fed能否維持抗通膨政策可信度。整體而言，升息未必等同Risk-
 警 語
 
 ---
-## Document 063: 2026年9月进出口数据点评：外贸动能持续走强，全年增长态势有望延续
+## Document 064: 2026年9月进出口数据点评：外贸动能持续走强，全年增长态势有望延续
 
 Source PDF: all report pdf/2026年9月进出口数据点评：外贸动能持续走强，全年增长态势有望延续.pdf
 Report source: 中航证券
@@ -1606,7 +1606,7 @@ wind
 59562637
 
 ---
-## Document 102: 261014_daiwa_ ITEQ
+## Document 103: 261014_daiwa_ ITEQ
 
 Source PDF: all report pdf/261014_daiwa_ ITEQ.pdf
 Report source: line報告備份
@@ -1965,7 +1965,7 @@ Note: Management score represents a company's ability to manage/benefit from cer
 ITEQ Corp (6213 TT): 14 October 2026
 
 ---
-## Document 110: 261015_gs_BT-substrate
+## Document 111: 261015_gs_BT-substrate
 
 Source PDF: all report pdf/261015_gs_BT-substrate.pdf
 Report source: line報告備份
@@ -3117,7 +3117,7 @@ Goldman Sachs Asia TechnologyFor the exclusive use of KEVINLU@LENOVO.COM
 e92c7a75ab8b4efbba794e6b187208c8
 
 ---
-## Document 135: 261021_ms_psmc
+## Document 136: 261021_ms_psmc
 
 Source PDF: all report pdf/261021_ms_psmc.pdf
 Report source: line報告備份
@@ -3592,7 +3592,7 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 145: 3533嘉澤 宏遠
+## Document 146: 3533嘉澤 宏遠
 
 Source PDF: all report pdf/3533嘉澤 宏遠.pdf
 Report source: line報告備份
@@ -4660,7 +4660,7 @@ EPS 年增 49.1%。
 不得將本報告內容複製、加以引用或轉載予其他第三人。
 
 ---
-## Document 152: 4566時碩 群益
+## Document 153: 4566時碩 群益
 
 Source PDF: all report pdf/4566時碩 群益.pdf
 Report source: line報告備份
@@ -4909,303 +4909,60 @@ YoY(%)
 情形。
 
 ---
-## Document 156: 5309系統電 永豐
+## Document 179: 9月经济数据快报
 
-Source PDF: all report pdf/5309系統電 永豐.pdf
-Report source: line報告備份
-Date: 2026-10-18
-Pages: 7
+Source PDF: all report pdf/9月经济数据快报.pdf
+Report source: 国投期货
+Date: 2026-10-20
+Pages: 2
 Extraction status: ok
 
 ### Page 1
 
-個股聚焦  
-2026/10/8
+2026年10月
+国投期货｜宏观金融团队  gtaxinstitute@essence.com.cn
+·
+单位：% 2026/09 2026/06 2026/03 单位：% 2026/09 2026/08 2026/07
+GDP当季同比 4.50 4.30 5.00    制造业累计同比 -2.10 -2.30 -1.70
+GDP环比 1.20 0.90 1.30    基建累计同比 -6.08 -5.37 -4.08
+GDP累计同比 4.60 4.70 5.00    房地产累计同比 -20.60 -19.90 -19.20
+2026/09 2026/08 2026/07 商品房销售面积累计 -13.20 -12.10 -11.80
+工业增加值当月同比 5.50 5.20 4.50 商品房销售面积当月 -22.60 -15.41 -14.50
+工业增加值累计同比 5.30 5.30 5.30 房屋新开工面积当月 -26.10 -30.49 -28.51
+工业增加值环比 0.61 0.54 0.11 房屋施工面积当月 -18.64 -26.96 -34.87
 
-交易資料 
-潛在報酬率 (%) -- 
-52 週還原收盤價區間 (NT$) 44.80-81.80 
-市值 (NT$百萬元) 15440 
-市值 (US$百萬美元) 486 
-流通在外股數 (百萬股) 230.00 
-董監持股 (%) 15.91 
-外資持股 (%) 15.36 
-投信持股 (%) 0.39 
-融資使用率 (%) 27.17
+采矿业当月 1.30 -1.40 17.50 房屋竣工面积当月 -36.73 -28.47 -20.00
+制造业当月 6.00 6.10 39.50 地产开发资金来源当月 -25.82 -26.83 -22.16
+电力、燃气及水当月 5.60 4.90 19.80 社零当月同比 1.10 0.40 0.60
+固定资产投资累计同比 -7.20 -7.20 -6.70 社零累计同比 1.10 1.10 1.20
+固定资产投资环比 0.07 -0.55 -1.25 社零环比 0.35 -0.16 0.11
+图：GDP同比&环比（%） 图：工业增加值增速（%）
+9月经济数据快报
+前三季度国内生产总值1071071亿元，按不变价格计算，同比增长4.6%。分产业看，第一产业
+增加值58994亿元，同比增长3.7%；第二产业增加值383822亿元，增长3.8%；第三产业增加值
+628255亿元，增长5.2%。分季度看，一季度国内生产总值同比增长5.0%，二季度增长4.3%，三
+季度增长4.5%。从环比看，三季度国内生产总值增长1.2%。
 
-財務資料 
- 2025 
-股東權益 (NT$百萬元) 3,850 
-ROA (%) 0.85 
-ROE (%) 1.53 
-淨負債比率 (%) 42.03 
-產業類別 變壓器與 UPS 
-投資建議 中立  
-收盤價 6 個月目標價 
-NT$ 67.20 NT$
+前三季度，全国规模以上工业增加值同比增长5.3%。分三大门类看，采矿业增加值同比增长
+2.0%，制造业增长5.7%，电力、热力、燃气及水生产和供应业增长5.4%。装备制造业增加值同比
+增长10.2%，高技术制造业增加值增长14.3%，分别快于全部规模以上工业增加值4.9和9.0个百分
+点。
+前三季度，全国固定资产投资（不含农户）334115亿元，同比下降7.2%，与1—8月份持平；扣
+除房地产开发的固定资产投资下降4.2%。其中，知识产权产品投资同比增长9.3%。高技术产业投
+资同比增长4.9%。分产业看，第一产业投资同比下降3.9%，第二产业投资下降2.7%，第三产业投
+资下降10.0%。
+前三季度，货物进出口总额399399亿元，同比增长18.8%。其中，出口231979亿元，增长
+16.4%；进口167420亿元，增长22.3%。对共建“一带一路”国家进出口增长17.1%。民营企业进
+出口增长19.1%，占进出口总额的比重为56.9%。机电产品出口增长23.7%，占出口总额的比重为
 
-公司簡介 
-系統電子工業股份有限公司成立於 1977
-年，原專注在車用電子、能源、通訊、電玩
-遊戲 。 近年陸續進行業務調整及轉型 ， 目前
-主要經營業務內容為車用胎壓偵測系統 、 車
-用電子產品 、 綠色能源及儲能設備 、 電源供
-應器，並獲有多項專利，並持續擴大 BLE 
-TPMS 應用在歐美 OE 前裝市場。1H26 產
-品比重：TPMS 46%、工業電腦 38%、AI
-資料中心能源系統及其他 16%。
-
-主要客戶： 
-主要競爭對手：
-
-張智皓 chihhao.chang@sinopac.com 
-本次報告：法說會
-
-系統電 (5309 TT) 
-2027 年重回成長軌道
-
-永豐觀點 
-系統電連三個月營收創下新高，預期在 BBU 及無人載具開始出貨下，營收逐月成
-長。 
- 投資評價與建議 
-維持中立投資建議：系統電在經歷營運轉型整合期後，2027 年營收及獲利將重返
-成長 ， 然研究員仍維持中立的投資建議 ， 主係考量(1) 營運槓桿效應須待 2H27 時，
-BBU 放量出貨較明顯。此外，系統電為因應未來產能持續擴充 BBU 及無人機產線
-侵蝕獲利；(2) 評價上，以 2027 年稀釋後稅後 EPS 2.17 元計算，目前本益比約
-30 倍，評價尚屬合理，故維持中立的投資建議，持續關注 BBU 出貨及新訂單狀
-況。 
- 近八季營收及 YoY 趨勢圖
-
-資料來源：CMoney；永豐投顧研究部整理，Oct. 2026
-
-近八季營業利益及毛利率趨勢圖
-
-資料來源：CMoney；永豐投顧研究部整理，Oct. 2026
-
--1% 8% 24%
-28%
-43%
-56% 67% 65%
--20%
-0%
-20%
-40%
-60%
-80%
-0
-500
-1000
-1500
-2000
-1Q26 2Q26 3Q26 4Q26 1Q27 2Q27 3Q27 4Q27
-%百萬
-營收(百萬) YOY
-25%
-22%
-23% 24%
-24%
-25% 25% 25%
-20%
-22%
-24%
-26%
--100
-0
-100
-200
-1Q26 2Q26 3Q26 4Q26 1Q27 2Q27 3Q27 4Q27
-%百萬
-營業利益(百萬) 毛利率
+宏观金融团队 范丽军 Z0018336
 
 ### Page 2
 
-2
-
-系統電營運主力將轉移至 BBU 相關應用： 系統電子工業股份有限公司成立於1977
-年，原專注在車用電子、能源、通訊、電玩遊戲。近年公司陸續進行業務調整及轉
-型 ， 將業務分為汽車電子 、 工業物聯網 、AI 資料中心能源系統管理三大事業 ，2015
-年推出藍牙胎壓偵測器(BLE TPMS)， 目前主要經營業務內容為車用胎壓偵測系統 、
-車用電子產品、綠色能源及儲能設備、電源供應器，並獲有多項專利，並持續擴大
-BLE TPMS 應用在歐美 OE 前裝市場，如新能源訂動車、大客車車隊、皮卡等。近
-期受到資料中心用電需求增加，系統電 BBU 相關產品將開始出貨。1H26 產品比
-重：TPMS 46%、工業電腦 38%、AI 資料中心能源系統及其他 16%。 
-3Q26 強固型工業電腦出貨旺，：系統電 9 月營收 3.67 億元(+12.04%MoM，
-+17.87%YoY)，連續三個月創下歷史新高，主係因強固型電腦產品出貨。雖 BBU
-及無人機相關產品尚未大量出貨，然在工業電腦領域，受惠產業趨勢帶動，如農耕
-車及無人載具相關應用成長快速，使系統電 3Q26 營收 10.14 億元(+13%QoQ，
-+24%YoY)，研究處預估毛利率 23.2%(+1ppt QoQ，+1.9ppt YoY)，因積極投入
-研發及新產品設計使營業費用較高，稅後淨利 0.04 億元，稅後 EPS 為 0.02 元。 
-4Q26 兩大專案 BBU 及無人機小量出貨 ：先前耕於已久的 BBU 產品將於十月開始
-出貨 ， 初期以3kW 產品為主 ， 系統電已完成建置 2 條全自動 與 1 條半自動 BBU
-產線。無人機方面，包含軍用及微型軍警偵察需求強勁，產線亦完成建置。研究處
-預期 4Q26 營收 11.17 億元(+10.2%QoQ，+28%YoY)，毛利率 24%(+0.8ppt 
-QoQ，-0.6ppt YoY)，稅後淨利 0.07 億元，稅後 EPS 為 0.03 元。預估 2026 年營
-收 38.9 億元(+14.7%YoY)，毛利率 23.6%(+0.1pts YoY) ，稅後淨利 0.24 億元(-
-54.3%YoY)，稅後 EPS 為 0.11 元。 
-2027 年迎來營運收成期：展望 2027 年，以三大事業體區分，工業電腦方面將聚
-焦於邊緣算力模組、GCS 地面控制站，部門產品毛利率最佳，有利於獲利表現；AI
-資料中心能源系統方面，BBU 產品將開始大量出貨，並持續擴充產能，預估部門
-營收將年增 328%，並將增加 3-4 條 BBU 產線，因應未來新產品的加入；TPMS
-業務收到車市影響，營運相對平淡。綜上所述，系統電2027 年營運將開始收成過
-去在無人載具及 BBU 電源產品的投入，研究處預期 2027 年營收 61.68 億元
-(+58.5%YoY)，毛利率 24.9%(+1.3pts YoY) ，稅後淨利 5.41 億元，稅後 EPS 為
-2.36 元。
-
-營運現況與分析 
-圖一：系統電營運三支箭
-
-資料來源：系統電；永豐投顧研究部預估及整理，Oct. 2026
-
-### Page 3
-
-3
-
-附表一：當年度損益表 
-單位：百萬元 26Q1 26Q2 26Q3F 26Q4F 2026F 
-營業收入 863 897 1,014 1,117 3,891 
-營業毛利 215 199 236 268 918 
-營業利益 -30 -65 -38 -22 -156 
-稅前淨利 5 -21 3 4 -10 
-稅後純益 19 -6 4 7 24 
-稅後 EPS (元) 0.08 -0.02 0.02 0.03 0.11 
-營收 QoQ 成長率 -1.07 3.90 13.04 10.16 -- 
-營收 YoY 成長率 -1.15 7.73 24.42 28.10 14.68 
-毛利率 24.86 22.23 23.27 23.99 23.59 
-營益率 -3.47 -7.27 -3.75 -1.97 -4.01 
-稅後純益率 0.43 -2.29 0.39 0.63 0.62
-
-資料來源：CMoney；永豐投顧研究部整理，Oct. 2026 
-附表二：五個年度損益表 
-單位：百萬元 2023 2024 2025 2026F 2027F  
-營業收入 3,279 3,110 3,394 3,891 6,168  
-  ％變動率 -3.69 -5.15 9.13 14.64 58.52  
-營業毛利 811 752 798 918 1,539  
-  毛利率 (％) 24.73 24.18 23.53 23.59 24.95  
-營業淨利 194 53 -17 -156 290  
-稅前淨利 256 112 27 -10 337  
-  ％變動率 -24.45 -56.05 -75.71 -- --  
-稅後純益 255 116 53 24 541  
-  ％變動率 -24.52 -54.58 -54.38 -54.72 2,154.17  
-稅後 EPS＊(元) 1.41 0.61 0.27 0.11 2.36  
-市調 EPS＊(元) 1.1 0.48 0.19 0.3 --  
-PER (×) 47.66 110.16 248.89 672.00 28.47  
-PBR (×) 4.29 4.17 3.55 2.91 2.64  
-每股淨值＊(元) 15.66 16.10 18.94 23.11 25.46  
-每股股利 (元) 0.70 0.70 0.50 -- --  
-  殖利率 (％) 2.05 1.73 0.74 -- --
-
-＊以目前股本計算 
-資料來源：CMoney；永豐投顧研究部整理，Oct. 2026
-
-### Page 4
-
-4
-
-營運基本資料
-
-同業比較 
-代號 公司 投資 建議 目前 股價 市值(億) 稅後 EPS PE PB 2025 2026 2025 2026 2025 2026
-
-近三年單月營收狀況
-
-近三年單季營收 VS 毛利率趨勢圖
-
-負債比率 VS 存貨周轉天數
-
-0
-100000
-200000
-300000
-400000
-1 2 3 4 5 6 7 8 9 10 11 12
-千
-2026年 2025年 2024年
-0
-5
-10
-15
-20
-25
-30
-0
-200
-400
-600
-800
-1000
-202303 202304 202401 202402 202403 202404 202501 202502 202503 202504 202601 202602
-%百萬
-營業收入淨額(百萬) 毛利率(%)
-0
-0.5
-1
-1.5
-2
-0
-10
-20
-30
-40
-50
-202303 202304 202401 202402 202403 202404 202501 202502 202503 202504 202601 202602
-百%
-負債比率(%) 存貨週轉天數
-
-### Page 5
-
-5
-
-歷史 PE 圖
-
-歷史 PB 圖
-
-0
-20
-40
-60
-80
-100
-2022 2023 2024 2025 2026
-NT$/share
-4.5X
-3.7X
-2.9X
-2.1X
-1.3X
-0.5X
-0
-50
-100
-150
-200
-2022 2023 2024 2025 2026
-NT$/share
-70X
-60X
-50X
-40X
-30X
-20X
-
-### Page 6
-
-6
-
-香港
-
-上海
-
-SinoPac 投資評等 
-B：Buy 買進：未來 6 個月該股票表現將優於大盤 
-N：Neutral 中立：未來 6 個月該股票表現將與大盤一致 
-S：Sell 賣出：未來 6 個月該股票表現將落後大盤
-
-### Page 7
-
-7
+宏观金融团队 范丽军 Z0018336
 
 ---
-## Document 247: Capital Market Outlook (2026-10-19)
+## Document 249: Capital Market Outlook (2026-10-19)
 
 Source PDF: all report pdf/Capital Market Outlook (2026-10-19).pdf
 Report source: Merrill Lynch (CMO)
@@ -5841,7 +5598,7 @@ investments, you should consider your overall financial situation, how much mone
 Nonfinancial assets, such as closely held businesses, real estate, fine art, oil, gas and mineral properties, and timber, farm and ranch land, are complex in nature and involve risks including total
 
 ---
-## Document 280: Eurozone_ Improving business sentiment, driven by tech, is spreading to other sectors (2026-10-14)
+## Document 282: Eurozone_ Improving business sentiment, driven by tech, is spreading to other sectors (2026-10-14)
 
 Source PDF: all report pdf/Eurozone_ Improving business sentiment, driven by tech, is spreading to other sectors (2026-10-14).pdf
 Report source: BNP Paribas
@@ -6022,7 +5779,7 @@ see the Economic Research Twitter page
 HOW TO RECEIVE OUR PUBLICATIONS
 
 ---
-## Document 297: GFHK - Oct Edition
+## Document 299: GFHK - Oct Edition
 
 Source PDF: all report pdf/GFHK - Oct Edition.pdf
 Report source: line報告備份
@@ -7213,325 +6970,89 @@ Without t he prior written consent obtained from GF Securities (Hong Kong) Broke
 reproduced or (ii) be re-disseminated.
 
 ---
-## Document 318: Kimi K3.1要来了！月之暗面发布预热视频
+## Document 392: Weekly Roundup - October 25th
 
-Source PDF: all report pdf/Kimi K3.1要来了！月之暗面发布预热视频.pdf
-Report source: WallstreetCN (Global)
-Date: 2026-10-23
-Pages: 3
-Extraction status: ok
-
-### Page 1
-
-Kimi 疑似即将推出新模型 Kimi K3.1 。 10 ⽉ 23 ⽇，官⽅发布的视频中出现 “Kimi K3.1” 字
-样，此前 SGLang 代码提交也已加⼊相关⽀持，新增 medium 思考强度。此前， Kimi K3 在
-DeepRSI 基准测试中拿下国产模型第⼀、开源模型第⼀。
-摘要：
-10 ⽉ 23 ⽇消息，今⽇ Kimi 官⽅账号分别在 X 账号和视频号发布了⼀段 24 秒的视频。
-开头是⼀台⽼式电脑，屏幕上运⾏着 Kimi Code 。
-有细⼼的⽹友发现，左上⻆的模型栏写着： Model: Kimi K3.1 。
-这意味着， Kimi ⼜要上新模型了。
-此前， 10 ⽉ 19 ⽇有⽹友注意到， SGLang 的⼀次代码提交中出现了 “Kimi-K3.1 support for the
-K3 chat encoder” 的标题，相关更新为其实验性路由组件引⼊了 K3.1 的对话编码⽀持。
-⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⻅闻历 搜索
-
-### Page 2
-
-其中最明确的变化，是新增 medium 思考强度。代码显⽰， K3 接受 low 、 high 、 max 三档，⽽
-K3.1 在此基础上增加了 medium 档，路由的默认设置则依然保持为 max 。
-今年 7 ⽉份， Kimi 正式发布并开源 Kimi K3 ，引起海内外热议，不少⼈称这是另⼀个 “DeepSeek
-R1” 时刻。
-近⽇，由前 Google ⾸席科学家 Jeff Dean 投资的 AI 初创公司 hillclimb 发布了新的基准测试
-DeepRSI ，专⻔评估⼤模型的递归⾃我改进（ RSI ）与⾃主科研能⼒。
-榜单显⽰， Claude Fable 5.1 以 1548 分位居榜⾸， GPT-6 Astra 以 1232 分紧随其后。⽉之暗旗下
-的 2.8 万亿参数模型 Kimi K3 则以 820 分排名全球第三，同时拿下国产模型第⼀、开源模型第⼀，
-成绩超过 Grok 4.7 和 Gemini 3.8 Flash 。
-
-### Page 3
-
-⻛险提⽰及免责条款
-市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂
-中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
-23 收藏 分享到 :
-写评论
-图⽚
-本⽂来源：鞭⽜⼠
-限免
-请发表您的评论
-表情 发布评论
-
----
-## Document 351: SpaceXSI might reverse the negative sentiment on AI infrastructure investment
-
-Source PDF: all report pdf/SpaceXSI might reverse the negative sentiment on AI infrastructure investment.pdf
+Source PDF: all report pdf/Weekly Roundup - October 25th.pdf
 Report source: researchmail轉寄
-Date: 2026-10-20
-Pages: 4
-Extraction status: ok
-
-### Page 1
-
-From:    陸⾏之  Andrew Lu on global semis and techs <andrewhclu@substack.com>
-Subject: SpaceXSI might reverse the negative sentiment on AI infrastructure investment
-Date:    2 hours ago
-SpaceXSI might reverse the negative sentiment on AI infrastructure investment
-View in browser
-SpaceXSI might reverse the
-negative sentiment on AI
-infrastructure investment
-SpaceXSI 三⼤業務超預期，全線業務扭虧轉盈，有機會帶動之前弱
-勢的 AI 族群短期復甦
-ANDREW LU ON GLOBAL SEMI/TECHS
-OCT 20 ∙ PAID
-READ IN APP
-
-Executive summary
-SpaceXSI 公布 3Q26 財報，三⼤業務  Starlink, ⽕箭， AI 營收，獲利⼤超預
-期，全線業務扭虧轉盈，有機會帶動之前持續弱勢的 AI 基礎建設及產業鏈板塊
-短期復甦，儘管如此，公司加碼資本開⽀，⾃由現⾦持續流出，估值偏⾼仍是
-值得投資⼈關注的⾵險，但  capital density 及  capital return 的季度變化相
-當正⾯，這季度 AI 營收趕超  CoreWeave, 明年底趕超甲⾻⽂， SpaceXSI 應
-該有機會成為  NeoCloud 新⿓頭。
-Sales beat across all segments
-SpaceXSI reports 3Q26 sales of US$14.575bn, up 87% qoq and
-161% yoy, which was 13% above Bloomberg consensus estimates
-of US$12.875bn. 3Q26 sales beat was across all segments with a
-
-24% sales beat on Space, 8% beat on Starlink, and 20% beat on AI.
-Operating proﬁts beat across all segments
-SpaceXSI reports 3Q26 operating proﬁts of US$2.79bn at operating
-margin of 19%, which was 131% higher than Bloomberg consensus
-estimates of US$1.21bn at operating margin of 12% and turned
-proﬁts from 2Q26’s -2% operating margin. We attributed the
-improvement across all segments with 98% more losses cut on
-Space vs. consensus, 27% beat on Starlink, and US$445mn higher
-
-### Page 2
-
-proﬁts on AI (-49% operating margin in 2Q26 to +6% in 3Q26),
-resulting 3Q26 adj EBITDA improvement to US$8.8bn from 2Q26’s
-US$3.54b.
-Source: Bloomberg estimates
-付費訂閱讀者可分享我們對  SpaceXSI 資本開⽀增
-加，⾃由現⾦流出， capital density 及 capital
-return 變化，趕超  CoreWeave ，甲⾻⽂的看法
-Subscribed
-Cutting capital density despite capex hike and negative free
-cash ﬂow
-Given SpaceXSI continues to boost its 3Q26 capex to US$19.593bn,
-up 7% qoq and 185% yoy, coupled with short of cash ﬂow from
-
-operations (US$9.63bn), the company reports a negative free cash
-ﬂow of nearly US$10bn. However, due to a stronger than expected
-sales improvement, capital density was cut to 134% in 3Q26 from
-2Q26’s 235%.
-
-### Page 3
-
-Source: SpaceXSI, Andrew Lu on global semis/techs
-Passing CoreWeave, catching Oracle on AI business
-SpaceXSI reports US$7.56bn on AI business in 3Q26, up 195% qoq
-and 830% yoy, growth accelerated from 2Q26’s 247% yoy. AI
-business in 3Q26 accounted for 52% of SpaceXSI total sales, up
-from 33% in 2Q26. As a result, we estimate SpaceXSI AI business to
-exceed CoreWeave sales in 3Q26 and might exceed Oracle cloud
-sales by 4Q27. Driven by a dramatic operating margin improvement
-
-考，並⾮投資建議，個⼈應審慎評估⾵險，如因此造成任何損失，本⼈不負任
-
-### Page 4
-
-何擔保責任 ; We are here to provide our professional opinions on
-company and industry analysis but not the investment advice. The
-use of the information contained in this material is at your own risk.
-We make no guarantees and assume no responsibility or liability for
-any information on the report.
-Invite your friends and earn rewards
-If you enjoy Andrew Lu on global semis and techs, share it with your friends
-and earn rewards when they subscribe.
-Invite Friends
-
-LIKE
-COMMENT
-RESTACK
-© 2026 Andrew Lu
-548 Market Street PMB 72296, San Francisco, CA 94104
-Unsubscribe
-
----
-## Document 374: TPCA 2026 quick takeaways - 大尺寸、高層數、整合多顆內埋Bridge _ 矽電容、多層芯板
-
-Source PDF: all report pdf/TPCA 2026 quick takeaways - 大尺寸、高層數、整合多顆內埋Bridge _ 矽電容、多層芯板.pdf
-Report source: line報告備份
-Date: 2026-10-20
+Date: 2026-10-25
 Pages: 5
 Extraction status: ok
 
 ### Page 1
 
-台灣股市｜科技 
-事件分析
+From:    Yardeni QuickTakes <yardeni-research@ghost.io>
+Subject: Weekly Roundup - October 25th
+Date:    2 hours ago
+Weekly Roundup - October 25th
 
-Fubon Research 
-2026 年 10 月 20 日
+YARDENI QUICKTAKES
+Weekly Roundup - October 25th
+By Ed Yardeni • 25 Oct 2026
+View in browser
 
-資料來源: TPCA
-
-黃韻庭 
-yunting.huang@fubon.com 
-886-2-27815995#37117
-
-TPCA 2026 quick takeaways
-
-大尺寸、高層數、整合多顆內埋 Bridge / 矽電容、多層芯板 
-1.高階載板:大尺寸、高層數、整合內埋元件（Bridge / 矽電容） 、多層芯板 
-2. EMIB-T 載板需極高對位精度 
-3. CPO（Co-Packaged Optics）IC 載板扮演著極關鍵的高密度整合平台角色
-
-高階載板: 大尺寸、高層數、整合多顆內埋元件（Bridge / 矽電容） 、多層芯板 
-AI 資料中心持續提升運算效能，主要面臨高速互連、高效供電及熱管理三大技術挑
-戰，隨著晶片整合規模擴大、功耗增加，PCB 與 IC 載板必須朝更大尺寸、更高密度
-及更多層數發展，並同步提升訊號完整性、電源完整性及翹曲控制能力。 隨著 AI 
-GPU、CPO（光電共封裝）與高階 Networking Switch（網路交換器）的晶片尺寸
-與功耗爆發，載板尺寸正朝向「極大尺寸（Extreme Large Body Size） 」發展。極
-大尺寸必須搭配加厚的 Multi-Layer Core（如 2 層、3 層至 6 層 Core） ，以提供
-足夠的結構剛性。整合多顆內埋元件（Bridge / 矽電容）可進一步化電源與訊號完
-整性。先進封裝及伺服器系統加速升級，也對 IC 載板提出更高技術要求。
-
-載板尺寸正朝向「極大尺寸（Extreme Large Body Size） 」發展。 
-在高階載板（IC Substrates）產業中，隨著 AI GPU、CPO（光電共封裝）與高階 
-Networking Switch（網路交換器） 的晶片尺寸與功耗爆發 ，Body Size（載板尺寸）
-正朝向「極大尺寸（Extreme Large Body Size） 」發展。過去 100 x 100 mm 即被
-視為極大尺寸；目前業界已進入 110 x 110 mm 量產階段，並推進至 150 x 130 
-mm 與 150 x 150 mm（如 CPO 載板） 的樣品開發與驗證階段。針對未來高效能 
-Switch 與 CPO 產品，載板尺寸已進一步升級至 230 x 230 mm 的極限規格。當
-尺寸擴大至 100 x 100 mm 以上時，載板總層數普遍達到 15~20 層以上；若推
-進至 230 x 230 mm，整體結構更需要高達 30 多層（如 16 + 2 + 16 ） 。極大尺
-寸必須搭配加厚的 Multi-Layer Core（如 2 層、3 層至 6 層 Core） ，以提供足夠
-的結構剛性，並增設電源/接地層 （Power/Ground） 以維護電源完整性 （PI） 。在大
-尺寸載板上，業界不再追求極端微細線路。因為面積足夠容納線路，過細過密的線
-路反而容易引發訊號干擾；研發重心已轉向「大尺寸、高層數、整合多顆內埋元件
-（Bridge / 矽電容） 」 。
-
-圖表 1: IC substrate , EBS( extreme large body size)
-
-資料來源: Unimicron 
-李耿聿 
-aaron.gy.li@fubon.com 
-886-2-27815995#37107
+Thank you for being a valued member of Yardeni QuickTakes. Here's a 
+recap of the insightful articles, webinars, and market analyses you 
+enjoyed this week:
+ECONOMIC WEEK AHEAD: October 26-30
+The S&P 500 fell 0.5% last week, and the Nasdaq dropped 0.7%, both posting second straight
+weekly losses. The Nasdaq’s …
+ Yardeni QuickTakes • Ed Yardeni
 
 ### Page 2
 
-台灣股市｜科技 
-事件分析
+US MARKETS CALL: Still Proceeding Cautiously
+On September 15, we advised investors to proceed with caution. We pushed out our 8,400 S&P
+500 target from year-end 202…
+Yardeni QuickTakes • Ed Yardeni
+AI Credit Crunch?
+I. AI Jitters Investors have worried that AI companies are spending too much on data centers.
+These companies' once am…
+Yardeni QuickTakes • Ed Yardeni
+Irrational Exuberance In S&P 500 FEMO?
+Are analysts' earnings expectations for the S&P 500 irrationally exuberant? So far this year,
 
-Advanced substrate - Embedded Passive 埋入式被動元件載板 
-1)因應高功耗需求：隨著 AI GPU 等高算力晶片的功耗與用電量急劇增加，晶片需
-要更龐大且穩定的電力供應; 2)大幅縮短傳輸距離：傳統設計中，電源需由載板最底
-層走較長的路徑傳遞至上層晶片；埋入矽電容後，電能可預先儲存在電容中並近距
-離直接供電，傳輸路徑顯著縮短 以及 3)優化電源與訊號完整性：近距離供電能有
-效提供更穩定的電源供應，優化  Power Integrity（PI，電源完整性） 與 Signal 
-Integrity（SI，訊號完整性） ，促進電訊號傳遞。 IC substrate (Flip Chip BGA) 
-Embedded Passive 可改善電源完整性（PI）與縮短供電路徑。矽電容主要埋設於
-載板的增層 （Build-up layer） 結構中。位置偏向接近載板最上層，以便最直接地為
-上方晶片提供電力支援 。Roadmap 顯示 2026 量產結構為 10/2/10; 8/6/8，NPI 為
-18/2/18; 10/n/10，2027 為 14/n/14，2028 為 16/n/16，最大板身從 93x93mm
-成長至 150x150mm。
-
-圖表 2: IC substrate ,Embedded passive
-
-資料來源: Unimicron
-
-EMIB-T 載板需極高對位精度 
-Bridge / Interposer（矽橋/中介層）埋入載板內部以提升晶片間傳輸效率。主要技
-術門檻: 1) 極高對位精度 （Alignment）：放置 Bridge 等微小元件時，必須精確與
-上下層的微細線路及盲孔 （Via） 對齊，對位稍有偏差即失效。2)異材質結合與可靠
-度（Material Bonding & Reliability）：矽元件與載板有機材料間的接合面容易產生
-氣泡 ， 在後續熱驗證中易引發分層 （Delamination） 問題 。3)不可重工 （No Rework）
-與高成本 ：元件一旦埋入便無法取出一重工；若對位或接合不良導致瑕疵，整塊  
-Panel/載板即宣告報廢，產生極高的成本風險 ; 4) 事前檢測（Known Good Die, 
-KGD）： 為避免將不良元件埋入導致載板報廢 ， 元件在嵌入前必須先通過嚴格的良率
-檢測 。5)多顆矽橋 （Multi-Bridge） 倍增的良率挑戰:隨著高階晶片尺寸 （Body Size），
-載板內部需要同時內埋多顆 Bridge 元件。多顆內埋使對位與結合難度呈倍數級上
-升。
+FEMO (fabulous earnings m…
+Yardeni QuickTakes • Ed Yardeni
 
 ### Page 3
 
-台灣股市｜科技 
-事件分析
+WEEKLY WEBCAST: Question For The Fed: Where Is Waldo?
+The risks to the Fed’s dual mandate are constantly changing. Its attempt to hit its inflation target
+is complicated by …
+Yardeni QuickTakes • Ed Yardeni
+What Will Warsh Do?
+I. The Fed: To Hike or Not To Hike? The Federal Reserve announces its next interest-rate
+decision on Wednesday, Octobe…
+Yardeni QuickTakes • Ed Yardeni
+FOMO's Rollercoaster Versus FEMO's Steady Climb
+I. FOMO vs FEMO Forecasting the stock market is easy! Just multiply the P/E (price-to-earnings
 
-Multi-Layer Core（多層芯板 / 多層 Core） 載板 
-為高階載板（IC Substrate ）為因應高效能運算與 AI 晶片需求所採用的核心結構
-技術。與傳統單一大塊單層 Core 的設計不同，Multi-Layer Core 是將兩層、三層
-或更多層的 Core（C） ，中間透過 PP（Prepreg，半固化片） 黏合疊加在一起，使
-載板中間的芯板結構顯著加厚。Multi-Layer Core（多層芯板 / 多層 Core） 載板 
-可帶來, 1)電源完整性（PI）與訊號完整性（SI）：因應 AI GPU 與伺服器晶片功耗
-及用電量大增，多層 Core 能設置更多 Power / Ground（電源層與接地層） 來分
-流電流 ， 為單一晶片提供更穩定充足的電力 ， 優化 PI 與 SI。2) 結構強度與板彎控
-制（Warping & Planarity）：加厚的 Core 結構能提升整體載板的剛性與平整度，
-協助抵御熱應力與板彎形變 。雖然市場曾討論 「Core 變厚是否需轉用 Glass Core」，
-但 Glass Core 現階段面臨易碎、價格高昂且缺乏成熟量產供應鏈的限制，因此現
-階段高階載板仍以 Multi-Layer Core 的有機材料疊合方案為主。
-
-圖表 3: IC substrate, Multi-layer core
-
-資料來源: Unimicron
-
-CPO（Co-Packaged Optics）IC 載板扮演著極關鍵的高密度整合平台角色 
-由於 CPO 載板周邊需要配置光學模組與多種週邊零件，導致其 Body Size（載板
-尺寸）比一般 GPU 載板更大，且趨勢是越做越大。目前 CPO 載板正積極推進至 
-150 x 150 mm （目前多處於開發與送樣驗證階段） ；未來針對高階 Networking 
-Switch，尺寸更可延伸至 230 x 230 mm 的極限規格。配合大尺寸設計，CPO 載
-板的層數普遍落在 15~20 層以上 （甚至高達 20 幾層至 30 幾層） 。CPO 載板集
-成了極大尺寸（Large Body Size） 、多層芯板（Multi-Layer Core） 、微孔（Micro 
-Via）以及內埋元件（Embedded Bridge / 矽電容）等多項高階技術。雖然光學連
-接器型態可能改變，但載板本身依然不可或缺，持續作為晶片與光電模組間供電與
-訊號承載的核心基底。
+ratio) by E (earnings p…
+Yardeni QuickTakes • Ed Yardeni
 
 ### Page 4
 
-台灣股市｜科技 
-事件分析
+US SECTORS CALL: Tech Wrecked, Health Care & Staples Rally
+The S&P 500 fell 2.0% this week, and Information Technology (MW) took the biggest hit. The
+sector fell 6.4%, the worst …
+Yardeni QuickTakes • Ed Yardeni
+ECONOMIC WEEK AHEAD: October 19 - 23
+Last week’s inflation reports came in hot. September’s CPI rose 0.6% m/m, lifting headline
+inflation from 3.4% y/y in A…
+Yardeni QuickTakes • Ed Yardeni
+GLOBAL MARKET CALL: Downgrading 'Go Global' To Market Weight
 
-圖表 4:IC substrate, CPO (Co-package optics)
-
-資料來源: Unimicron
+We are downgrading the “Go Global” portfolio strategy from overweight to market weight and
+raising “Stay Home” (in the …
+Yardeni QuickTakes • Ed Yardeni
 
 ### Page 5
 
-台灣股市｜科技 
-事件分析
-
-富邦的股票評等標準 
-評等  定義 
-買進 預估未來6個月內的絕對報酬超過15%  
-中立  預估未來6個月內有絕對報酬介於15%與負15%之間 
-賣出 預估未來6個月內的絕對報酬高於負15% 
-未評等 由於富邦目前與該公司有特定交易或沒有足夠的基本資料判斷該公司評等  
-評估中 目前正在研議個股的投資評等，將於3到6個月內提供投資評等
-
-產業評等 定義 
-優於大盤 預估該產業在未來6個月內會比大盤指數表現突出 
-持平 預估該產業在未來6個月內與大盤指數表現相較持平 
-劣於大盤 預估該產業在未來6個月內會比大盤指數表現較差
-
-This report has been produced in Chinese. In the event of questions regarding the accuracy of the translation, please refer t o the original Chinese version.
-
-Fubon's Rating System 
-Rating Definition 
-Buy Expected absolute return to be over 15% within the next 6 months  
-Neutral  Expected absolute return to be level within the next 6 months  
-Sell  Expected absolute return to be over negative 15% within the next 6 months 
-Not Rated (NR)  Pursuant to Fubon acting in deals involving the company or there is not a sufficient fundamental basis for determining an investment rating  
-Under Review Fubon is in the process of determining an investment rating and will assign a rating within the 3- to 6-month horizon
-
-Sector Rating Definition 
-Overweight Sector expected to outperform the broader market indexes within the next 6-12 months 
-Market Weight  Sector expected to perform in line with the broader market averages within the next 6-12 months 
-Underweight  Sector expected to underperform the broader market indexes within the next 6-12 months.
+clause.
+Yardeni QuickTakes © 2026 – Unsubscribe
 
 ---
-## Document 392: Westpac Nowcast Q3 2026_ Second Estimate (2026-10-25)
+## Document 396: Westpac Nowcast Q3 2026_ Second Estimate (2026-10-25)
 
 Source PDF: all report pdf/Westpac Nowcast Q3 2026_ Second Estimate (2026-10-25).pdf
 Report source: Westpac IQ
@@ -8020,7 +7541,7 @@ not subject to any prohibition on dealing ahead of the dissemination of
 investment research.
 
 ---
-## Document 411: 【國泰證期研究部】半導體產業-400G lane驅動下一代光調變與封裝升級-20261021
+## Document 415: 【國泰證期研究部】半導體產業-400G lane驅動下一代光調變與封裝升級-20261021
 
 Source PDF: all report pdf/【國泰證期研究部】半導體產業-400G lane驅動下一代光調變與封裝升級-20261021.pdf
 Report source: line報告備份
@@ -8225,11 +7746,404 @@ Bond 轉向 Flip-Chip 的速度。這些因素將分別決定 TFLN 產業的可�
 投資評等定義
 
 ---
-## Document 433: 【產業聚焦】算力新瓶頸，光互連新局：ＣＰＯ進入量產驗證期
+## Document 436: 【特別報告】風險管理式升息而非緊縮週期，景氣成長趨勢不變
+
+Source PDF: all report pdf/【特別報告】風險管理式升息而非緊縮週期，景氣成長趨勢不變.pdf
+Report source: Unknown
+Date: 未知日期
+Pages: 8
+Extraction status: ok
+
+### Page 1
+
+漏或疏忽，本行並不負任何法律責任。任何人因信賴此等資料而做出或改變投資決策，應審慎衡量本身之需求及投資之風險，並就投資結果自行負責。未經本公司許可，本資料及
+訊息不得逕行抄錄、翻印或另作派發。本行以下市場資訊與分析，不涉及特定投資標的之建議。投資建議均依市場變動而差異，投資前請務必留意市場最新訊息。本資料提及之經
+濟走勢預測，不必然代表產品之績效，產品投資風險請詳閱產品說明書。
+2026.9.17
+特別報告-
+風險管理式升息而非緊縮週期，景氣成長趨勢不變
+
+### Page 2
+
+©  CTBC
+風險管理式升息而非緊縮週期，景氣成長趨勢不變
+2資料來源：高盛，中國信託商業銀行整理，2026/9/17
+◼ 貨幣政策與殖利率： 基準情境認為年底前再升
+息一碼後，2027上半年進入按兵不動的觀察期 ，
+2027年下半年有望轉向寬鬆立場 。推演殖利率
+4Q26偏高表現、1H27適度回落。
+◼ 投資建議： 股市估值有壓不表示趨勢路徑改變 ，
+上半年資金雨露均霑的普漲行情可能逐漸降溫 ，
+但獲利能見度高 、基本面持續改善的族群 ，仍
+可望獲得資金青睞並展現相對優勢。
+熱門議題/資產影響推估 市場焦點
+➢ 風險管理式升息而非緊縮週期： 9月FOMC會議全
+票通過升息一碼至 3.75%-4.0%，這是自2023年7
+月以來的首次升息 。預料2026年底再升息一碼 ，
+其後進入觀察期。
+➢ 殖利率4Q26偏高表現 、1H27適度回落 ，股市短
+線估值有壓 ：美債殖利率通常要等確認升息到頂
+後才會回落 ，市場往往在升息前因政策不確定性
+而較為震盪；然而 ，一旦後續經濟數據確認景氣
+仍處於擴張軌道 ，即使估值面受到利率壓抑 ，企
+
+業獲利成長仍有望成為推動股市續漲的主要動能 。
+升息前後的股市震盪不影響趨勢
+• 盤勢回顧-聯準會升息落地，股債市
+未見明顯衝擊
+P3
+• 貨幣政策-再升息一碼後進入觀察期 P4
+• 美債利率-4Q26維持高位整理 P5
+• 市場觀點-股市估值有壓但行情有撐 P6-P7
+熱門議題
+市場影響
+啟動升息
+平均報酬
+中位數報酬
+啟動升息前後的標普500指數走勢(統計過去7次升息週期)
+
+### Page 3
+
+©  CTBC
+聯準會升息落地，股債市未見明顯衝擊
+全球投資級債因利率上升而承壓，非投資級債穩健
+盤勢回顧
+股市情緒受到影響但未失控
+3
+• 升息預期推高公債及信用債殖利率，但升息落地後有趨穩現象：早在聯準會利率會議召開前夕，市場不斷出現
+升息聲浪，推高10年期公債利率一度站上5%，壓抑9月以來信用債市表現，尤其以投資級債表現最為弱勢，也
+拖累全年總報酬率轉負 ，但利差走勢其實相當平穩 ，８月以來美投資級債利差大致在 75~85基點區間震盪 。
+FOMC會議後公債利率略自高檔回落，並沒有因為升息而持續創高，信用債市殖利率也趨於穩定。
+• 股市情緒受到影響但未失控 ：9月以來股市情緒受到一定程度影響 ，不過並未出現恐慌情緒 ，僅利率敏感性類
+股震盪較大，非核心消費之外的類股年至今仍多收正報酬。聯準會升息落地後，股市單日跌幅也可控。
+資料來源：左， Bloomberg ，2026/9/17，右，Bloomberg，2026/9/17。中國信託商業銀行整理，2026/9/17
+-10%
+-5%
+
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+世
+界
+指
+數
+標
+普500
+指
+數
+新
+興
+指
+數
+科
+技
+非
+核
+心
+消
+費
+金
+融
+地
+產
+能
+源
+公
+用
+事
+業
+健
+護
+YTD 9月以來
+股市主要指數報酬率
+-2
+-1
+0
+1
+2
+3
+4
+5
+新
+興
+非
+投
+資
+級
+美
+非
+投
+資
+級
+債
+新
+興
+當
+地
+債
+歐
+非
+投
+資
+級
+新
+興
+主
+權
+債
+歐
+投
+資
+級
+債
+美
+投
+資
+級
+債
+新
+興
+投
+資
+級
+債
+今年以來 9月以來
+信用債市主要指數報酬率
+
+### Page 4
+
+©  CTBC
+風險管理式升息，而非典型的升息循環重新啟動
+2026年底前預期還有一次升息
+貨幣政策
+通膨廣度其實已有所收斂，預期此一趨勢將延續
+4
+• 風險管理式升息 ，而非典型的升息循環重新啟動 ：9月FOMC會議全票通過升息一碼至 3.75%-4.0%，這是自
+2023年7月以來的首次升息。本次會議的重點可歸納如下：(1)利率預估點陣圖顯示至2026年底前還有一碼的升息
+空間；(2)上調通膨與經濟成長預估值，同時下調失業率，是一個很鷹派的組合，不過調整幅度其實很小，2026
+年的整體PCE通膨和核心PCE通膨僅上調0.1個百分點；(3)判斷本次會議並非典型的升息循環重新啟動，而是「不
+承諾路徑的風險管理式升息」。
+• 年底前再升息一碼後進入觀察期 ：搭配利率預估點陣圖，以及本行對2027年通膨走勢的判斷(8月的CPI數據已
+經看到通膨廣度已經有收斂態勢，搭配本次升息，預期此一趨勢將延續，2Q27通膨有望降至2.5%以下)，本行
+基準情境認為年底前再升息一碼後，2027上半年進入按兵不動的觀察期，2027年下半年有望轉向寬鬆立場。
+
+資料來源：左， Fed ，2026/9/17，右，Robin Brooks，2026/9。中國信託商業銀行整理，2026/9
+CPI和PCE通膨中的類別，月增率(年化)高於3%的比重
+經濟成長率
+6月預估
+失業率
+6月預估
+PCE通膨
+6月預估
+核心PCE通膨
+6月預估
+政策利率
+6月預估
+聯準會經濟預測(SEP)
+
+### Page 5
+
+©  CTBC 
+推演殖利率4Q26偏高表現、1H27適度回落
+市場初步反應: 長率未進一步上揚
+美債利率
+美債殖利率通常要等確認升息到頂後才會回落
+5
+• 聯準會升息證明公信力，美債市場大致正向表現：9月FOMC會議前市場已先定價升息，而使得美國10年期公債
+殖利率來到5%以上，而在FOMC會議後短率上揚、長率大致穩定，顯示市場主要重新定價近期政策變動，而非同
+步大幅上修長期通膨或長期利率風險，是一項相對正面的訊號。
+• 推演殖利率4Q26偏高表現、1H27適度回落：根據歷史經驗，美債殖利率通常要等確認升息到頂後才會回落，
+4Q26在鷹派論調+期中選舉+高油價的影響下，研判美國10年期公債殖利率維持偏高水位 。2027年隨通膨放
+緩，市場確認停止升息後，美債殖利率將適度回落。預估未來兩季美國10年期公債殖利率的區間將處於4.5%-
+5.1%，美國30年期公債殖利率則在 5.1%-5.5%之間。尾端風險是「後續的升息不斷超過市場預期 」，不過在
+油價不持續失控向上的情況下，尾端風險的機率並不高。
+資料來源：左， Bloomberg ，2026/9/17，右，3FOURTEEN，2026/9。中國信託商業銀行整理，2026/9/17
+3.5
+4.0
+4.5
+5.0
+5.5
+2026/6/1 2026/7/1 2026/8/1 2026/9/1
+美國2年期公債殖利率
+美國10年期公債殖利率
+美國3個月公債殖利率
+本次升息Jackson hole
+轉鷹派
+7月會議
+篇鴿派
+— 美國2年期公債殖利率
+— 美國10年期公債殖利率
+— 聯準會政策利率
+
+1986升息 1988升息 1994升息
+1999升息 2004升息 2015升息
+2022升息
+
+### Page 6
+
+©  CTBC
+股市估值有壓未改變趨勢路徑，選股回歸獲利能見度
+景氣擴張與企業獲利成長週期尚未結束
+市場觀點
+資料來源：(左) Bloomberg，2026/9/17；(右) Bloomberg，2026/9/15 。中國信託商業銀行整理，2026/9/17
+利率居高下壓縮估值，資金將在不同主題間挪移
+6
+貨幣供給 vs. 景氣與企業盈餘
+43
+45
+47
+49
+51
+53
+55
+57
+59
+-30%
+-20%
+-10%
+0%
+10%
+20%
+30%
+40%
+2016 2018 2020 2022 2024 2026
+全球製造業PMI 美歐M1貨幣供給YOY
+美歐日中進口 YOY MXWO EPS YOY
+4Q26~
+4Q27
+彭博社
+預估值
+美國歐洲
+日本
+台灣
+印度
+成熟市場
+中國
+東協
+科技
+非核心…
+核心…
+金融 能源原物料
+工業
+公用事業健護
+-2
+-1
+0
+1
+2
+3
+4
+5
+6
+7
+-2 0 2 4 6 8
+2026年獲利YOY上修幅度(%)
+2027年獲利YOY上修幅度(%)
+
+註: 紅-科技鏈、綠-受戰爭影響、紫-受惠戰爭、黑-其他、藍色-獲利穩健
+過去一個月企業獲利預估值變化
+AI成長趨勢
+受惠戰爭
+• 景氣擴張週期尚未結束 ，升息對股市影響有限 ：9月FOMC決議升息一碼，但股市反應相對有限 。一方面，市
+場已提前消化升息預期；更重要的是，過去一年全球景氣維持穩定擴張，且前景仍偏正向。回顧過往景氣擴張
+階段的升息循環，市場往往在升息前因政策不確定性而較為震盪；然而 ，一旦後續經濟數據確認景氣仍處於擴
+張軌道，即使估值面受到利率壓抑，企業獲利成長仍有望成為推動股市續漲的主要動能。
+• 估值壓縮，選股回到獲利能見度：在股市策略方面，現階段獲利成長動能最強的仍是受惠於 AI長期趨勢的科技
+供應鏈。部分科技股已於7至8月率先修正整理，不僅評價壓力有所緩解，也提供較具吸引力的布局機會。不過，
+中東地緣衝突尚未落幕，加上國際油價維持高檔，使國防、能源等受惠地緣局勢的族群，成為兼具主題性與避
+險特性的配置選擇。整體而言，在聯準會重啟升息的環境下，上半年資金雨露均霑的普漲行情可能逐漸降溫，
+
+但獲利能見度高、基本面持續改善的族群，仍可望獲得資金青睞並展現相對優勢。
+
+### Page 7
+
+©  CTBC
+基本面穩健有助降低信用債波動，美元短線路徑轉強
+利率走升環境下以非投資級債表現較穩定
+市場觀點
+資料來源：(左) Fed，2026/9/17；(右) ICE BofA indices，2026/9/16 。中國信託商業銀行整理，2026/9/17
+• 基本面穩健態勢不變，有助穩定信用債利差：FOMC會議證實美國經濟韌性，在景氣成長及企業獲利正向循環
+未結束前，穩健債信將支持信用債利差走勢持穩，雖然目前美國公債利率已大致反應升息預期，但政策不確定
+性仍牽動短線較大波動，利率敏感度較低的非投資級債預期將有相對突出的表現 ，而高利率及高債信品質的族
+群則可長期持有以息收為主，而外幣債與美國雙政策連動性較低，新當債與澳幣債走勢可望回歸自身貨幣政策。
+• 貨幣政策路徑上修帶動美元走強：美元已從2026年初的降息交易轉向受到美伊戰爭、油價上漲及通膨預期升溫
+支撐，但此波強勢更多來自地緣政治與高利率環境 ，而非美國基本面出現結構性轉強 。Fed本次升息後美元指
+數當日上升約0.6%，美元指數再度回測100。從聯準會官員利率點陣圖判斷，短期利率路徑較先前預期偏高，
+
+支撐美元表現；惟在通膨回穩後 ，貨幣政策仍有機會重新轉向較寬鬆立場 。留意4Q26共和黨失去絕對多數後
+對財政樽節的預期，美元短線路徑轉強。美元指數目標價從97上修至99。
+聯準會利率點陣圖有所上修
+7
+美投資級
+美非投資級
+歐投資級
+歐非投資級
+新興主權
+新興投資級
+新興非投資級
+新興當地債
+澳幣企業債
+2
+3
+4
+5
+6
+7
+3 4 5 6 7 8殖利率%
+存續期間(年)
+利率敏感度低
+美國政策
+關連性低
+債信品質佳族群
+3.4
+3.1 3.1 3.1
+3.8
+3.6 3.4
+3.1
+4.1 4.1
+3.9
+3.6
+3.2
+2.7
+2.9
+3.1
+3.3
+3.5
+3.7
+3.9
+4.1
+2026 2027 2028 2029 LT
+聯準會官員利率點陣圖中位數
+2026/3 2026/6 2026/9
+
+### Page 8
+
+©  CTBC 8
+近期重點投資分析報告
+2026/6/8【特別報告】
+地緣與央行變數為焦點，高槓桿放大市場波動(完整報告請點)
+2026/7/31【特別報告】
+ＡＩ族群去槓桿投資交易，將加速市場輪動機會(完整報告請點)
+2026/8/31【中信策略觀點】
+景氣韌性與高利率拉鋸＿多元配置參與市場輪(完整報告請點)
+2026/7/15【趨勢主題】
+２０２６年下半年全球金融市場展望
+高利新常態下的經濟成長韌性(完整報告請點)
+2026/9/2【特別報告】
+高利率環境短期難解，基本面穩健有助支撐股債市(完整報告請點)
+
+---
+## Document 437: 【產業聚焦】算力新瓶頸，光互連新局：ＣＰＯ進入量產驗證期
 
 Source PDF: all report pdf/【產業聚焦】算力新瓶頸，光互連新局：ＣＰＯ進入量產驗證期.pdf
-Report source: CTBC
-Date: 2026-09-17
+Report source: Unknown
+Date: 未知日期
 Pages: 17
 Extraction status: ok
 
@@ -9054,7 +8968,88 @@ Corning (GLW) 美國 光纖組件／連接方案 Broadcom確認合作開發光�
 17
 
 ---
-## Document 493: 住宅価格高騰と女性のキャリア形成 ～子育て世帯の家探し、近さをとるか、広さをとるか～
+## Document 477: 一度失守4000美元，黄金为何跟着美股一起跌？汇丰：别把它当成“万能灵药”
+
+Source PDF: all report pdf/一度失守4000美元，黄金为何跟着美股一起跌？汇丰：别把它当成“万能灵药”.pdf
+Report source: WallstreetCN (Global)
+Date: 2026-10-23
+Pages: 3
+Extraction status: ok
+
+### Page 1
+
+汇丰指出，股市下跌引发的追加保证⾦压⼒可能迫使投资者抛售⻩⾦筹集现⾦，导致⾦价
+与股票同步下跌；美债收益率上⾏、美元⾛强也会对⾦价构成压制。尽管⻩⾦仍受益于债
+务与通胀担忧，具备⻓期配置价值，但其⽆法抵御所有市场冲击，投资者不应将其视为 “ 万
+能灵药 ” 。
+摘要：
+⻩⾦的避险属性正在接受考验。尽管债务与通胀担忧仍为⾦价提供⻓期⽀撑，但在股市下跌、
+债券收益率上⾏的市场环境下，⻩⾦也可能因投资者急于筹集现⾦⽽遭到抛售，难以发挥短期
+避险作⽤。
+10 ⽉ 23 ⽇，现货⻩⾦⼀度跌破 4000 美元 / 盎司关⼝。此前，⾦价今年曾突破 5000 美元 / 盎司，创
+下历史新⾼，但随后涨势放缓、价格回落，市场波动加剧。
+汇丰资产管理策略师在最新报告中指出，⾼油价、利率上⾏及债券收益率飙升，正对⻩⾦构成
+压⼒。不过，地缘政治格局碎⽚化、央⾏储备多元化等因素仍在⽀撑⻩⾦需求，⻓期配置价值
+并未因此消失。
+⻩⾦近期与美股同步下跌，关键在于市场流动性压⼒，⽽⾮避险需求彻底消失。  汇丰警告，杠
+杆资⾦集中持有⻩⾦，⼀旦股市下跌触发追加保证⾦要求，投资者可能被迫出售⻩⾦筹集现
+
+⾦，导致⻩⾦与股票同时承压。该⾏强调，没有任何⼀种资产能够抵御所有类型的市场冲击，
+投资者不应将⻩⾦视为万能避险⼯具。
+⻩⾦为何跟着美股跌？流动性压⼒削弱短期避险作⽤
+汇丰资产管理策略师认为，近期⾦价回落并不意味着所谓 “ 去基础化交易 ” （ Debasement Trade ）
+的逻辑已经失效。这⼀交易的核⼼，是投资者因担忧政府债务扩张、货币购买⼒下降及通胀⻛
+险，将部分资⾦转向⻩⾦等实物资产。
+“ 只要债务与通胀担忧持续存在，这⼀交易就可以延续。 ” 策略师表⽰。
+但⻓期配置逻辑成⽴，并不意味着⻩⾦能在每⼀次市场动荡中上涨。当股市下跌引发保证⾦压
+⼒时，持有杠杆头⼨的投资者可能需要出售流动性较好的资产以补充现⾦，⻩⾦也因此成为被
+抛售的对象。此时，⻩⾦未必能对冲股票回撤，甚⾄可能与股票同步下跌。
+⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⻅闻历 搜索
+
+### Page 2
+
+⻛险提⽰及免责条款
+市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂
+中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
+97 收藏 分享到 :
+写评论
+图⽚
+2 条评论
+汇丰全球⾸席投资官 Willem Sels 与全球财富洞察主管 Lucia Ku 在 7 ⽉的⼀份报告中也指出，⻩⾦
+在中东冲突期间未能明显上涨，⾛势与股票基本同步。两⼈认为，美国国债收益率是影响⾦价
+的重要因素：由于⻩⾦本⾝不产⽣利息，收益率上升会提⾼持有⻩⾦的机会成本，从⽽对⾦价
+形成压⼒。
+这也解释了⻩⾦避险属性的局限：⻩⾦可以对冲部分⻓期货币与信⽤⻛险，却不⼀定能在短期
+流动性冲击中保护投资组合。 当投资者普遍需要现⾦时，资产的流动性反⽽可能使其成为优先
+变现的对象。
+短期承压不改中期配置逻辑，但⻩⾦不是 “ 万能灵药 ”
+汇丰预计，实际收益率⾼企与美元⾛强可能令⾦价短期维持区间震荡，但投资组合多元化需
+求、央⾏持续购⾦及 ETF 资⾦流⼊，仍将为⾦价提供⽀撑。“ 我们预计⾦价在年底前将进⼀步上
+
+⾏。 ”Sels 与 Ku 表⽰。
+对于此前⾦价⼤幅回调的原因，汇丰贵⾦属⾸席分析师 James Steel 在 5 ⽉指出，⾦价在今年 1 ⽉
+底触及约 5400 美元 / 盎司的⾼点后回落，部分原因是市场多头头⼨过于拥挤，获利了结加剧了价
+格波动。
+Steel 认为，⻩⾦在中东冲突期间表现不佳，并不意味着其避险功能失效。当油价上涨、债券收
+益率与美元⾛强、股市下跌时，投资者可能出售⻩⾦筹集现⾦。 “ ⻩⾦是⼀份保险单，⽽这份保
+险单正在被变现。 ”
+限免
+请发表您的评论
+表情 发布评论
+MobileUser2991
+29 分钟前 中国四川省
+0  回复
+反着来   现价有感觉了
+
+### Page 3
+
+Hunter
+33 分钟前 中国⼴东省
+0  回复
+加州那个汞变⾦的创业公司新闻所致
+
+---
+## Document 509: 住宅価格高騰と女性のキャリア形成 ～子育て世帯の家探し、近さをとるか、広さをとるか～
 
 Source PDF: all report pdf/住宅価格高騰と女性のキャリア形成 ～子育て世帯の家探し、近さをとるか、広さをとるか～.pdf
 Report source: DLRI
@@ -9513,174 +9508,11 @@ Economic and Social Research Institute, Cabinet Office, Government of Japan.
 不動産市場～」第一ライフ資産運用経済研究所,2026年
 
 ---
-## Document 540: 刚刚，Kimi K3.1 Pro杀进全球前四，Agent第一！
+## Document 562: 動見觀瞻：經濟緩步走揚，政治成德國股市新挑戰
 
-Source PDF: all report pdf/刚刚，Kimi K3.1 Pro杀进全球前四，Agent第一！.pdf
-Report source: WallstreetCN (Global)
-Date: 2026-10-24
-Pages: 12
-Extraction status: ok
-
-### Page 1
-
-这是 3 万亿参数级最强模型，⽀持 100 万上下⽂，性能⽐肩 GPT-6 Astra ，成本仅其五分之
-⼀。权重⼀旦开放，将登顶开源榜⾸，与顶级闭源模型差距从 12 分骤缩⾄ 3 分。代码审美⼤
-升级，可直接驱动 Blender 建模 +Three.js ⽹⻚⼀条⻰；⾦融分析拿下 OfficeQA Pro 最优。
-摘要：
-昨晚的 X ，被刚刚发布的 Kimi K3.1 Pro 正式刷屏了！
-外国开发者们惊呼：欢迎来到 3D Web 开发的新时代。
-之前， AI 榜单前⼗⼏乎被美国公司包圆了。相对⽽⾔，国模这边有点沉寂。
-有⼈感慨：国产⼤模型最近发的都是主打性价⽐的「 Flash 」模型，真能打的「 Pro 」去哪了？
-⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⻅闻历 搜索
-
-### Page 2
-
-很多⼈在问：国模是不是掉队了？
-今天， Kimi 打破了沉默 ——Kimi K3.1 Pro 来了！
-知名 AI 评测机构 Artificial Analysis 也公布了成绩：K3.1 Pro 以 55 分冲上全球智能指数第 4 ，较前
-代暴涨 11 分。
-
-### Page 3
-
-在考验 Agent 实战能⼒的 Terminal-Bench 4.0 上，它更是从 13% 飙升⾄ 65.7% ，  距离  Opus 5.5
-不到  1% ！
-Artificial Analysis 还给出⼀个重磅判断：⼀旦权重发布， K3.1 Pro 将登顶开放权重模型榜⾸，开
-源与顶级闭源模型的差距，将从 12 分骤缩⾄ 3 分！
-今天早上， reddit 已经被这个跑分刷屏： Kimi K3.1 超越了 Fable 5.1 ！
-国模这次，真把全球第⼀梯队的⻔踹开了。
-国模王者归来！
-这次 Kimi 端上来的，不是个过渡版本，⽽是⼀盘硬菜。
-这是迄今为⽌能⼒最强的  3 万亿级参数模型，⽀持⾼达  100 万上下⽂。
-它的出现告诉世界： China is back ，国模王者归来！
-在各⼤硬核测试中， K3.1 Pro 的性能直接⽐肩海外顶流  GPT-6 Astra ！更离谱的是，它的成本
-只有  Astra 的五分之⼀，便宜了整整  80% ！
-所以， K3.1 Pro 的定位很清楚：做前沿模型⾥，最理性的那个选择。
-
-⽽且，在真实场景中，要⼲有挑战的任务，还是得靠更⼤的模型。举个例⼦，尽管基准测试分
-数跟 Opus 相近，但真到了现实场景⾥， Fable 这种较⼤模型，经常会表现出更强的洞察⼒、创
-
-### Page 4
-
-作⼒和写作能⼒。
-毕竟，⾼难度推理任务，才能显出⼤模型的本事。
-这⼀次， K3.1 Pro 基于  K3 做后训练，⽉之暗⾯在强化学习上⼤幅加码算⼒。
-为了让⼏百个下游领域⼀起联合训练，他们从  RL 框架、⻓上下⽂推理、沙箱，到调度系统、环
-境质检平台，整套技术栈逐层重新打磨。⽬标就是 —— 每⼀份新增的算⼒，都要变成实打实的
-能⼒。
-结果是，在代码、 Agent 和知识类基准上， K3.1 Pro 达到或接近最强闭源模型的⽔平。
-在考察  Agent 在真实终端⾥独⽴⼲活的  Terminal-Bench 4.0 上，它拿到了 65.7 分，⽽且在三种
-思考强度下，都落在「性能与单任务成本」的帕累托前沿上。
-也就是说，同样的钱，它⼲得最多；同样的活，它花得最少。
-Kimi 还贴⼼地端出了⾼速版模型  Kimi K3.1 Pro Highspeed ，智商不减，但输出速度直接飙升  3
-倍。
-
-### Page 5
-
-不过，跑分只是⻔票。榜上分数咬得再紧，⼀到真⼑真枪的活⼉上就会拉开差距 ——
-任务越难，越是拼模型本⾝的底⼦，这恰恰是⼤模型的主场。
-接下来，我们就看看  K3.1 Pro 在真实⼯作流⾥，是怎样表现的。
-代码模型，审美⼤升级
-据悉， K3.1 Pro 有个引⼈注⽬的变化：审美，成了模型的能⼒项。
-Kimi 想回答的问题是 —— 代码模型，能不能好看？
-这⼀次，⽆论是前端⻚⾯、 Three.js 交互场景，还是 3D 资产，它在构图、排版、动效和完成度
-上都有明显提升。
-它还会⽤  Unity 、 Unreal Engine 、 Godot 这些游戏引擎，可以不靠  MCP 连接器，⾃⼰写脚本直
-接驱动  Blender 、 SolidWorks 、 Rhino 建模。
-接下来，就让我们来⼀波硬核实测，来看看「⼤⽽美」的 K3.1 Pro ，究竟有多能打？
-实测：⽂字  → Blender → ⽹⻚，⼀条⻰  3D 资产
-这是 K3.1 Pro 主打的新技能。官⽅说它能从⼀段⽂字、⼀张草图或参考图推断形状、⽐例和空间
-
-关系，直接写  Blender 脚本建模，再接⼊  Three.js 或游戏引擎。
-我们来验证⼀下，这条链路是不是真的能打通。
-⼀张⼿绘三视图扔进去， 40 分钟，它交出来的是： 608 ⾏  Blender 脚本、可编辑的  .blend 、 1.7
-MB 的  GLB ，还有⼀个双击就能开的⽹⻚。
-草图上写的翼展  8.0 、总⻓  6.2 、总⾼  2.4 ，建出来是  8.000 、 6.199 、 2.400 ，差了  1 毫⽶。
-接下来，它开始了丝滑的操作。
-
-### Page 6
-
-动⼿前， K3.1 Pro 会先试探  Blender 5.2 的新接⼝，确认了再写正式脚本；验收标准直接写成断
-⾔，旋翼直径差  1 毫⽶就不许导出；渲染完⾃⼰对照草图改了⼀轮；⽹⻚做完，它甚⾄还开浏
-览器给⾃⼰截了两张截图，这样才算交差。
-六项待办，⾃⼰⼀项项划掉。
-机⾝是样条插出来的流线体，座舱玻璃是吸附在机⾝上的曲⾯，桨叶带扭转，四个旋翼的倾转
-层级从  Blender ⼀路到浏览器⾥，滑块拉到底，真的绕⽀臂往前倒  90° 。
-全程， K3.1 Pro 都没碰  MCP ，没⽤外部模型库。
-写到⼀半时， 1M 上下⽂才⽤了  6% 。 40 分钟不是它的上限，是这张草图只有这么难。
-更令⼈振奋的是 —— 这套活⼉不⽤本地装  Blender 也能⼲！
-kimi.com 和  Kimi app 已同步上线  3D Make 功能。把同⼀份草图和资料直接丢进  Kimi ，⼀句
-「参考这些资料，把它的  3D 模型做出来」，它就在云端开⼯了，这次⼜跑了将近  40 分钟。
-
-### Page 7
-
-改  scene.js 、改  style.css ，跑终端重建，它发现两⽚桨叶转起来不对称，改成半整数转速；
-CSS 动画暂停不⼀致，修；截图时场景还没加载完，加⼀个「就绪」再截。
-最后⾃⼰开浏览器点了⼀遍，报了句「⽆脚本错误或资源缺失」，才把版本号交出来。
-做完的东西就在右边窗⼝⾥，能转、能换⾊、能拉倾转滑块，不满意直接在对话⾥改，它接着
-改。
-使⽤ 3D Make 可以在线预览和编辑，⼀键发布成⽹⻚， GLB 下载下来可以直接去  3D 打印，还
-能导出视频或实况照⽚发社交平台。
-
-### Page 8
-
-https://lsx4v6wl2amc4.kimi.page/
-以前，这是建模师、前端和运营三个⼈的活，现在， K3.1 Pro ⽤⼀个输⼊框就完成了。
-⽽众多⽹友的实测也证明， K3.1 Pro 的审美绝了。
-仅⽤ 4.92 美元，它就在⼀款绘画应⽤程序中画出⼀副肖像。
-
-### Page 9
-
-有⼈在虚幻引擎中建造了⼀座云端宫殿，成本不到 10 美元，引发了众多⽹友盛赞。
-鹈鹕骑⾃⾏⻋的 demo ，审美绝了。
-
-### Page 10
-
-华尔街全栈分析师来了
-以前的 AI 碰⾦融，只会写摘要，⼀遇到跨表公式和估值模型就胡⾔乱语。
-但  K3.1 Pro 这次，直接⼲翻了海外顶流。
-在  OfficeQA Pro v2 （基于真实⾦融⽂档的复杂财务数据分析，考察检索、跨⽂档核对与多步数
-值推理）上， K3.1 Pro 拿下  64.4 分，当前最优（ SoTA ）。
-在覆盖从标的筛选到盈利分析整条投资⼯作流的  Frontier Finance 上， K3.1 Pro 位列第⼆，较
-K3 进⼀步提升。
-接下来，我们看看  K3.1 Pro 在真实投⾏⼯作流⾥，是怎样表现的。
-它给我们⼿搓了⼀份英伟达的专业级财务模型。
-它并不是简单地填表，⽽是能端到端交付⼀整个带公式联动的  Excel ！它像极了⽼练的分析师，
-经营驱动因⼦可随情景调整，敏感性分析直接呈现对估值的影响，每⼀项假设都有硬核数据⽀
-撑。
-
-### Page 11
-
-⻛险提⽰及免责条款
-市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂
-中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
-17 收藏 分享到 :
-写评论
-可以说，现在的 K3.1 Pro 是⼀个真正懂财务逻辑的「全栈⾦融⺠⼯」了。
-国模崛起
-Kimi K3.1 Pro 的出现，证明了我们在⼤模型的牌桌上，依然握有随时打出王炸的实⼒。
-它当然不是全能冠军，在⼀些维度上离最强闭源模型还有距离。
-但真正令⼈振奋的，是国模正在向全球智能的性能天花板发起正⾯冲锋。
-性价⽐决定市场，能⼒上限决定未来。
-Kimi K3.1 Pro 已经能与全球最强模型正⾯交锋，甚⾄重新定义智能的边界。
-⽽且这次性能更强了，价格反⽽更便宜：⽐  K3 便宜了三分之⼀，只有  GPT-6 Astra 的五分之
-⼀。
-现在，不⽤苦等解封了。今⽇起，把 Kimi K3.1 Pro ⽤起来。
-China is back ！
-本⽂来源：新智元
-限免
-
-### Page 12
-
-图⽚
-请发表您的评论
-表情 发布评论
-
----
-## Document 543: 動見觀瞻：巴西右翼有望重掌大權，把握拉美股市中長期機會
-
-Source PDF: all report pdf/動見觀瞻：巴西右翼有望重掌大權，把握拉美股市中長期機會.pdf
+Source PDF: all report pdf/動見觀瞻：經濟緩步走揚，政治成德國股市新挑戰.pdf
 Report source: Fubon
-Date: 2026-10-16
+Date: 2026-09-24
 Pages: 5
 Extraction status: ok
 
@@ -9692,13 +9524,13 @@ Extraction status: ok
  www.fubon.com 
 台北市大安區仁愛路四段 169 號
 
-巴西右翼有望重掌大權，把握拉美股市中長期機會
+經濟緩步走揚，政治成德國股市新挑戰
 
-巴西政權或再次轉移，財政紀律與市場化改革預期升溫，加上拉美貨幣高息優
-勢 ， 股市在能源與金融產業帶動下維持強勢 ， 建議投資人採定期定額方式布局拉
-美，掌握中長期成長機會。 
-出刊日：2026/10/16 
-275 期
+德國財政體質較其他已發展國家良好 ， 且未來仍有擴張空間 ， 使經濟成長緩步復
+甦且漸漸加速 。 市場樂觀預期德國DAX 指數 EPS 年增率將在 2027~2028 重返
+雙位數，德股展望維持中性偏多。 
+出刊日：2026/09/24 
+273 期
 
 ### Page 2
 
@@ -9710,36 +9542,44 @@ Extraction status: ok
 動見觀瞻
 
 本期內容： 
-1. 「巴西川普」之
-子爆冷領先 
-2. 預測市場押注博
-索納羅勝選 
-3. 拉美貨幣走勢強
-勁 
-4. 拉美股市前景光
-明
+1. 財政空間寬裕，
+預算逐年擴張 
+2. 經濟重返成長，
+企業全球化布局 
+3. 獲利成長重返雙
+位數 
+4. 極右翼崛起將成
+歐洲大麻煩
 
 重點摘要 
-■ 巴西總統大選首輪由弗拉維奧·博索納
-羅爆冷領先 ， 反映高物價 、 治安與貪腐
-疑慮持續侵蝕盧拉支持度 ， 「反盧拉」
-陣營選票將在二輪投票加速整合。
+■ 德國公共債務占國內生產毛額比重為
+64%， 財政體質相對穩健 ， 預算支出仍
+持續增加，但短期再次大幅放鬆財政
+限制的可能性不高。
 
-■ 今年拉美貨幣表現相對強勢，巴西里
-拉與墨西哥披索受高利率及資金流入
-支撐，其中巴西財政政策改善期待亦
-有助降低貨幣風險溢酬。
+■ 德國實質 GDP 自 2024 年第二季轉為
+正成長，並連續 9 季維持成長，市場
+期待基建及歐洲再武裝計畫帶動景氣。
 
-■ MSCI 拉美指數今年累計上漲 23%，
-能源股以 92%漲幅領軍，金融與內需
-股同步走強 ； 後續持續看好能源 、 金融
-及巴西政策改革帶來的機會。
+■ 隨財政預算擴張 ， 市場預期2027 年及
+2028 年每股盈餘年增率將回升至
+15%及 13%，即使本益比因升息收斂
+至長期平均 15 倍 ， 未來兩年股價仍有
+4~18%的預期上漲空間。
 
-拉美股市在巴西首輪選舉公布後大漲
+■ 歐洲極右翼勢力的上升 ， 與移民 、 生活
+成本、經濟停滯及對傳統政黨的不滿
+有關；德國另類選擇黨支持率提高並
+在東部邦選舉取得突破，若其影響力
+持續擴大，可能削弱市場對德國歐盟
+承諾的信心 、 影響外資流入 、 提高風險
+溢價並拖慢改革進程。
 
-資料來源：Bloomberg/北富銀整理, 2026/10/7
+德國 DAX 指數穩步走揚
 
-巴西右翼有望重掌大權，把握拉美股市中長期機會
+資料來源：Bloomberg/北富銀整理, 2026/9/18
+
+經濟緩步走揚，政治成德國股市新挑戰
 
 ### Page 3
 
@@ -9749,59 +9589,60 @@ Extraction status: ok
  www.fubon.com 
 台北市大安區仁愛路四段 169 號
 
-▋ 「巴西川普」之子爆冷領先 
-2026 年 10 月 5 日，巴西最高選舉法院公
-布 2026 年總統選舉首輪投票結果 ， 由於未
-有候選人獲得超過 50%選票，將由得票率
-最高的兩位候選人於 10 月 25 日進行二輪
-投票 。 投票結果顯示 ， 二輪投票將由前總統
-雅伊爾·博索納羅之子、自由黨候選人弗拉
-維奧·博索納羅和巴西現任總統、勞工黨候
-選人盧拉角逐巴西總統大位。
+▋ 財政空間寬裕，預算逐年擴張 
+今年以來全球財政赤字未見改善 ， 引發投資
+人對未來債務風險的憂慮持續走揚 ， 使各國
+公債殖利率持續攀升。其中，德國10 年公
+債殖利率由2.86%走高至3.51%(截至 9/16
+收盤)， 主要反應去年3 月鬆綁 「財政剎車」
+條款後 ， 政府預算逐年增加的財政擔憂 。 以
+德國財政部提供的預算來看 ， 德國財政支出
+已自 2024 年起連續 3 年創新高 ， 且根據聯
+邦政府 7 月提出的 2027 年預算草案來看 ，
+有望達成連續 4 年創新高。
 
-圖一: 博索納羅在首輪選舉爆冷領先
+圖一: 德國財政支出逐年走揚
 
-資料來源：巴西最高選舉法院/北富銀整理, 2026/10/7
+資料來源：Bloomberg, 2026/9/15
 
-現任總統盧拉曾在 2003 年至 2011 年就任
-巴西第 35 任總統，並在 2022 年復出並擊
-敗有 「巴西川普」 之稱的前總統雅伊爾·博索
-納羅，使雅伊爾·博索納羅成為 1985 年後巴
-西首位連任失敗的總統 。 過去4 年 ， 盧拉總
-統任期期間 ， 巴西經濟穩健成長 、 失業率也
-持續下降 ， 但食品與飲料等民生消費項目通
-膨嚴重，加上治安惡化與貪腐議題重燃 (勞
-工黨長期負面印象)， 讓 「反盧拉」 陣營持續
-猛 攻 ，使 得 盧拉 的民 調支 持 度從 未 超過
-40%， 且在2025 年 2 月之最低點僅有 24%。
-儘管後續出現反彈，也只回升至 35%上下
-(上任初期最高峰水準)。 
-另一方面，自由黨候選人弗拉維奧 ·博索納
-羅長期參與巴西國內政治活動 ， 在2003 至
-2019 年就任里約熱內盧州議會議員，並在
-2019 年後進一步前進聯邦政壇，就任巴西
-聯邦參議院議員 ， 整體政治年資超過20 年。
-此次參選 ， 其主要政見為「財政緊縮＋減稅
-與小政府＋強硬治安」，透過減稅、財政緊
-縮及政府縮編等動作降低民眾經濟壓力並
-減少政府貪腐可能 ， 再預期透過強硬手段打
-擊犯罪 ， 全面針對盧拉執政期間的弱點提出
-改善方案，使其成為 「反盧拉」 陣營共主。
+德國公共債務佔 GDP 比重僅 64%，遠 遠 低
+於歐盟設定的 100%目標 ， 也低於全球其他
+已發展國家(法國 118%、美 國101%、日 本
+204%)， 故部分社會人士持續要求聯邦政府
+再次放鬆「財政剎車」條款，但總理Merz
+表 示「若要進行下一波改革 ， 其面臨的門檻
+極高，對於在本屆任期內推動另一項債務煞
+車修正案並沒有太大的信心」 。 整體而言，
+德國債務風險相對低 ， 近期也透過修憲放寬
+財政空間 ， 有望持續提升預算支出 ， 但短期
+也不太可能再次大幅放鬆。 
+▋ 經濟重返成長，企業全球化布局 
+在 AI 熱潮、能源轉型、基建更新及國防自
+主化的風潮下 ， 全球各國經濟景氣普遍強勁 ，
+而長年表現貧弱的歐洲各國也逐步走出負
+成長或零成長。以德國為例，自2024 年第
+二季開始，實質 GDP 就由負轉正且達成連
+續 9 季維持正成長 。 展望未來 ， 市場也樂觀
+看待去年德國的「5000 億基建」及歐執委
+「歐洲再武裝」 計畫帶動經濟發展 ， 德國實
+質 GDP 有望持續走高，逐步走出「低度經
+濟成長」的弱勢成長狀態。
 
-▋ 預測市場押注博索納羅勝選 
-Kalshi 數據顯示 ， 預測市場早在首輪投票前
-便逐步轉向弗拉維奧·博索納羅。 一個月前 ，
-儘管選前民調仍顯示盧拉領先 ，但博索納羅
-勝選機率已升至 55%，顯示市場更著眼於
-二輪選舉後的選票重分配效應。而首輪結果
-爆冷更加強化其勝選預期，目前 弗拉維奧·
-博索納羅最終勝選機率已升至 85%，市場
-顯然押注反盧拉與偏右翼選票將向 博索納
-羅集中 ， 使巴西政權輪替可能性明顯升高 。
+圖二: 德國實質 GDP 逐步走升
 
-圖二: 博索納羅勝選機率達 85%
+資料來源：Bloomberg, 2026/9/15
 
-資料來源：Kalshi, 2026/10/7
+另一方面 ， 德國企業也在這波風潮下改頭換
+面，已不再是過去 「傳統工業、汽車製造、
+化工能源」等傳統價值產業為主，DAX 前
+十大個股中，也開始出現 「航太國防、能源
+技術 、 半導體與晶片」 等相對近期比較熱門
+的題材 。 而仔細檢視各企業營收來源 ， 也不
+再侷限在德國或歐洲本土 ， 幾乎全數企業都
+有超過 50%營收來自非歐洲區域，顯示德
+國企業不再受限本國或歐洲景氣影響 ， 而是
+與全球景氣息息相關 ， 只要全球經濟狀態維
+持堅韌，德國企業獲利就會維持強勁。
 
 ### Page 4
 
@@ -9811,149 +9652,376 @@ Kalshi 數據顯示 ， 預測市場早在首輪投票前
  www.fubon.com 
 台北市大安區仁愛路四段 169 號
 
-▋ 拉美貨幣走勢強勁 
-今年以來美元表現強勢 ， 主要受惠中東地緣
-政治帶來的避險需求及美債殖利率 、 升息預
-期帶來的買盤支撐 。 然而 ， 並非所有貨幣對
-美元皆呈現弱勢 ， 以拉美 、 新亞等區域的新
-興市場貨幣兌美元表現最佳 。墨西哥披索兌
-美元年初以來升值約 2%，巴西里拉更升值
-逾 5%，表現僅次於韓元與澳幣，顯示資金
-對拉美高息貨幣仍具一定偏好 。 值得注意的
-是 ， 巴西里拉今年強勢亦與巴西維持高利率
-環境有關 ， 高額利差持續提供套利交易誘因。
+▋ 獲利成長重返雙位數 
+今年以來 ， 德國DAX 指數累積上漲5.0%(截
+至 9/17 收盤)， 整體表現並不亮眼 ， 去年帶
+動股市大熱的基建 、 國防題材也未再次發酵 ，
+股價大致跟隨全球市場情緒緩步上揚 。 以獲
+利成長角度分析 ， 今年德國DAX指數的EPS
+年增率預期僅有 3%，與2025 年的 13%有
+不小落差，故股價不慍不火也相對合理。
 
-圖三: 拉美貨幣兌美元表現強勢
+即便今年 ECB 重啟升息行情且在 6、9 月各
+升息 1 碼，但德國經濟仍將隨聯邦政府財
+政預算擴張而逐步走揚 ， 企業獲利表現也將
+受到提振 。 根據彭博預測 ，DAX 指數 2027、
+2028 年的 EPS 年增率將重回雙位數 ， 分別
+為 15%及 13%， 再次回到2025 年的水準 。
+依此預測，即便估值(本益比)因升息而小幅
+縮窄，回到長期平均的 15 倍水準，未來 2
+年股價仍有 4~18%的預期上漲空間。
 
-資料來源：Goldman Sachs, 2026/9/28
+圖三: 德股 EPS 年增率預期重回雙位數
 
-市場近期開始交易巴西政權輪替可能 ， 若博
-索納羅陣營最終勝選 ， 並落實財政緊縮 、 控
-制政府債務及縮減公共支出等政策 ， 有望降
-低巴西財政風險溢酬 ， 進一步強化里拉支撐 。
-相較之下 ， 墨西哥披索升幅較為溫和 ， 反映
-拉美貨幣雖整體受惠高息優勢 ， 但各國財政 、
-利率前景仍將決定後續表現。
+資料來源：Bloomberg, 2026/9/15
 
-▋ 拉美股市前景光明 
-拉美股市今年延續強勢表現，截至 10 月 6
-日 MSCI 拉美指數累計上漲 23%，其中能
-源類股大漲 92%居冠，非必需消費、公用
-事業及金融亦分別上漲 36%、33%及 28%。
-能源股表現突出主要受惠油價走高 ， 以及拉
-美原油供給地位提升 ， 巴西深海油田 、 阿根
-廷 Vaca Muerta 頁岩油等產量持續擴張，
-使區域能源企業同時受惠價格與產量成長
+▋ 極右翼崛起將成歐洲大麻煩 
+極右翼勢力近年在歐洲快速崛起 ， 反映出民
+眾對移民問題 、 生活成本上升 、 經濟停滯及
+傳統政黨失望等不滿情緒 。 然而 ， 若極右翼
+政黨持續擴大影響力 ， 可能對歐洲的政治穩
+定與經濟發展帶來相當大的挑戰。
 
-圖四: 拉美股市同樣以能源產業表現最佳
-
-資料來源：Bloomberg/北富銀整理, 2026/10/7
-
-展望後市 ， 持續看好能源與金融兩大產業 ，
-前者受惠拉美油氣產能擴張與全球能源供
-應版圖轉移 ， 後者則可望受惠高利率環境下
-的利差優勢。若巴西大選最終出現政黨輪替 ，
-市場預期將延續財政紀律 、 減稅及監管鬆綁
-等題材交易 ， 有望降低巴西資產風險溢酬 ，
-成為拉美股市下一階段的重要催化劑。
+近年，德國另類選擇黨(AfD)支持率持續上
+升 ， 甚至在東部邦選舉取得歷史性突破 ， 引
+發外界對德國政治版圖重組及 「民主防火牆」
+是否鬆動的擔憂。而 AfD 過去曾主張包含
+反對歐元 、 質疑歐盟整合及強調國家主權優
+先等想法 ，若真正進入執政層級 ， 市場可能
+擔心德國對歐盟的承諾下降 ， 進而影響投資
+人信心。德國聯邦銀行總裁 Nagel 也曾指
+出 ， 極右翼勢力擴張可能損害德國作為歐洲
+投資中心的國際形象 ， 進而影響外資流入 。
+換言之 ， 極右翼崛起不一定立刻造成經濟衰
+退，但可能提高風險溢價 、拖慢改革進程，
+進而成歐洲未來數年的重要政治經濟風險 。
 
 ▋ 結論 
-巴西大選爆冷使政權可能再次轉移， 財政紀
-律與市場化改革預期升溫 ， 加上拉美貨幣高
-息優勢，股市在能源與金融產業股價帶動下
-維持強勢 。 展望後市 ， 政治改革與資源行情
-仍具支撐 ， 惟短期波動難免 ， 建議投資人持
-續採定期定額方式布局拉美市場 ， 掌握中長
-期成長機會。
+德國財政體質較全球其他已發展國家良好 ，
+且未來仍有擴張空間 ， 使經濟成長在緩步復
+甦且漸漸加速 。因此 ， 盡管去年重點強調的
+基建與國防題材在今年並未再次大幅發酵 ，
+市場也樂觀預期德國 DAX 指數 EPS 年增率
+將在 2027~2028 重返雙位數 ， 整體指數上
+漲空間也保守預期有 4~18%。然而，近年
+歐洲極右翼政黨逐漸獲得人民支持 ， 雖短期
+不會造成經濟快速衰退 ， 卻會對未來長期走
+勢造成影響 ， 甚至成為未來數年的重要政經
+風險 。 因此 ， 建議投資人應重點關注相關政
+治情勢，德股展望維持中性偏多。
 
 ### Page 5
 
 2026
 
 ---
-## Document 551: 反恐部队上街、卢浮宫关门！法国周末爆发新一轮抗议浪潮，动荡烈火有蔓延欧洲之势
+## Document 565: 博弈选举，美以伊“下大棋”
 
-Source PDF: all report pdf/反恐部队上街、卢浮宫关门！法国周末爆发新一轮抗议浪潮，动荡烈火有蔓延欧洲之势.pdf
+Source PDF: all report pdf/博弈选举，美以伊“下大棋”.pdf
 Report source: WallstreetCN (Global)
-Date: 2026-10-24
+Date: 2026-10-25
 Pages: 3
 Extraction status: ok
 
 ### Page 1
 
-法国陷⼊新⼀轮暴⼒抗议⻛暴， 7 万安保⼈员紧急上阵、多城宵禁，⻢克⻰坦承应对失误。
-⾦融市场已率先发出警报 —— 法德国债利差飙⾄欧债危机以来峰值， PMI 跌破荣枯线，奢侈
-品⻔店封窗、卢浮宫闭馆，巴黎市政预计损失数千万欧元。动荡烈⽕更有蔓延欧洲之势。
+以⾊列将于 10 ⽉ 27 ⽇举⾏议会选举，美国将于 11 ⽉ 3 ⽇举⾏中期选举。内塔尼亚胡强硬表
+态、推动对伊动武，意在争取选举⽀持；特朗普则顾虑油价上涨冲击共和党选情，对开战
+释放⽭盾信号。伊朗⼀边加强霍尔⽊兹海峡管控、警告报复，⼀边表⽰愿重启外交谈判，
+试图提⾼美以动武的代价。选举结束后，美以是否重启军事⾏动成为焦点。
 摘要：
-法国正⾯临新⼀轮全国性抗议活动，持续的社会动荡不仅考验着该国的安全防线，也显著加剧
-了市场对法国公共财政与经济前景的担忧。
-据媒体报道，随着抗议演变为暴⼒骚乱，法国政府紧急部署 7 万名安保⼈员以维持秩序，并下令
-部分城市实施宵禁。法国总统⻢克⻰承认在应对上周末暴⼒事件中存在失误，他已推迟原定的
-外交⾏程，以集中应对当前的国内危机。
-持续的动荡局势直接冲击了⾦融市场与宏观经济。法国与德国的 10 年期国债收益率利差⼤幅飙
-升，触及欧元区债务危机以来的最⾼⽔平，同时最新数据显⽰私营部⻔经济活动已跌破荣枯
-线，陷⼊萎缩区间。
-商业与零售活动同样⾸当其冲，巴黎多家奢侈品⻔店及主要景点被迫关闭。企业⾼管与地⽅官
-员警告称，游客流失将重创即将到来的假⽇季销售，并给市政带来⾼达数千万欧元的经济损
+美以选举临近，对伊军事⾏动是否重启再度成为焦点，中东局势趋紧，波斯湾能源供应⻛险随
+之上升。据新华社，以⾊列 10 ⽉ 27 ⽇将举⾏议会选举，美国 11 ⽉ 3 ⽇将迎来中期选举。两场选举
+⽇渐临近，美以与伊朗⽅⾯均同时释放强硬和克制信号。
+据报道，伊朗已开始为新⼀轮美国空袭做准备，并据悉计划对包括以⾊列和阿联酋在内的多个
+⽬标实施报复。报道援引知情⼈⼠表⽰，美国中期选举结束⾄新⼀届国会于 1 ⽉初就职之间，可
+能是当前冲突中⻛险较⾼的阶段。与此同时，布伦特原油期货今年以来累计上涨逾 80% ，美国
+汽油价格也随之⾛⾼，⽣活成本压⼒正对共和党的选举前景构成挑战。
 
-失。
-市场告急与经济萎缩
-动荡局势加剧了投资者对法国公共财政的担忧。
-尽管法国在周五晚间勉强避免了穆迪（ Moody's Ratings ）的评级下调，但该国在 2027 年⼤选前
-削减预算⾚字的努⼒正⾯临严峻挑战。作为衡量债券⻛险的关键指标，法国与该地区避险资产
-德国的 10 年期国债收益率利差在周四达到 178 个基点，远⾼于 9 ⽉初的 85 个基点，触及欧元区债
-务危机以来的⽔平。
-此外，宏观经济数据也释放出疲软信号。由标普全球（ S&P Global ）编制的综合采购经理⼈指
-数（ PMI ）从上⽉的 51.1 降⾄ 10 ⽉的 48.4 ，跌破 50 的荣枯线，表明私营部⻔经济活动已陷⼊收
-缩。
-商业停摆与消费冲击
-暴⼒的重演预期正迫使商业活动⼤⾯积停摆。
-在巴黎，包括众多奢侈品精品店在内的商铺已⽤⽊板封住橱窗并增派安保⼈员，部分⻔店选择
-继续关闭。卢浮宫，奥赛博物馆和毕加索博物馆三⼤热⻔景点周六闭馆，原定在巴黎举⾏的巴
-黎圣⽇⽿曼队与⾥昂队的⾜球⽐赛也被推迟。
-据媒体报道， Breitling ⾸席执⾏官警告称，随着游客远离巴黎，该公司正准备迎接假⽇季销售受
+分析⼈⼠认为，如果战事重启，局势可能⽐此前停⽕前更加复杂。布鲁⾦斯学会中东问题专家
+Aslı Aydıntaşbaş 表⽰，当前迹象表明，战事可能重启，并伴随新⼀轮⼤规模空袭，但具体时间
+尚不明确。国际危机组织中东问题专家 Ali Vaez 则指出，特朗普和以⾊列总理内塔尼亚胡可能将
+对伊战争视为缓解各⾃国内政治压⼒的途径，但军事⾏动也可能进⼀步损害⼆⼈的政治前景。
+军事部署持续推进，局势升级⻛险上升
+近期多项军事动向表明，美国正为可能采取进⼀步⾏动保留空间。据报道，特朗普政府已向波
+斯湾⽅向增派第三⽀航⺟打击群，并部署逾 1 万名⽔兵和海军陆战队员，以扩⼤美军指挥官的⾏
+动选择。国防部⻓⽪特 · 赫格塞思本周未经事先通报访问以⾊列，并与内塔尼亚胡会晤，访问时
+间距以⾊列⼤选仅数⽇。据报道，此前遭伊朗反击的部分中东美军基地也已调整⼈员部署。
+据新华社报道，以总理内塔尼亚胡近来就伊朗问题表态强硬，甚⾄宣称已向以军和情报机构下
+达了推翻伊朗政权的指令，即使没有美国⽀持，必要时也会单独⾏动。另据以⾊列媒体 21 ⽇报
 
-到的冲击。
-据报道，巴黎市⻓ Emmanuel Grégoire 表⽰，市政府正为持续数周的⻓期情况做准备，预计市
-政厅的损失可能达到数千万欧元。此外，他在社交媒体上指出有迹象表明暴徒计划在本周六和
-下周六向⾸都聚集。
+道，数⼗架以⾊列战⽃机和空中加油机本周早些时候⻜越叙利亚和伊拉克领空，接近伊朗边境
+后折返。此举被认为可能意在诱使伊朗防空系统开⽕，从⽽获得打击伊朗的借⼝。
+但另⼀⽅⾯，以军⾼层表态谨慎，以军总参谋⻓扎⽶尔称没有必要在⼤选前打击伊朗。以⾊列
+反对党领导⼈拉⽪德近⽇也对攻击伊朗表⽰反对，并批评内塔尼亚胡利⽤相关议题谋取选举利
+益。有分析指出，⺠调显⽰内塔尼亚胡阵营⽬前⽀持率落后，他对伊朗表态强硬甚⾄试图开战
+意在提升⼰⽅阵营选情。但若美国不对伊动武，以军没有能⼒单独⽀撑对伊⼤规模战事。
+从美国⽅⾯看，特朗普 8 ⽇曾明确表⽰，不会在中期选举前对伊朗发动攻击。但他 18 ⽇⼜公开⽀
+持内塔尼亚胡连任，声称希望与其共同对抗伊朗。特朗普 23 ⽇还在竞选集会上称，可能会对伊
+朗再发动⼀次⼩规模 “ 史诗怒⽕ ” 军事⾏动。
+分析⼈⼠认为，特朗普因发动对伊战事导致油价上涨⽽⽀持率⼤跌，担⼼选前重开战事会进⼀
+步推⾼油价，拖累其所属共和党选情。但他同时⼜需要向保守派表达解决伊朗问题的决⼼，因
+此在对伊开战问题上发表看似⽭盾的⾔论。
+
+伊朗加强备战，霍尔⽊兹海峡⻛险上升
 ⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⻅闻历 搜索
 
 ### Page 2
 
+据报道援引⼀名熟悉伊朗决策层思路的知情⼈⼠，伊朗正为美国中期选举前后可能发⽣的新⼀
+轮军事冲突做准备，并考虑对中东多个⽬标实施报复。该⼈⼠同时表⽰，当前僵局的出路在于
+达成⼀项能够让双⽅都宣称取得成果的协议。
+据新华社报道，⾯对美以的⽭盾⾔论，伊朗释放两⽅⾯信号。针对美以威胁再次开战，伊朗防
+⻓阿赫拉基 19 ⽇说，伊朗正准备迎接战争。伊朗伊斯兰⾰命卫队发⾔⼈穆赫⽐同⽇说， 7 条主要
+海底光缆穿过霍尔⽊兹海峡，敌⼈应知晓这⼀信息。此⾔被认为暗⽰伊朗如遭攻击将可能破坏
+这些光缆。伊⽅还声称已向中东地区国家发出最后通牒，如若美伊战⽕再起，这些国家必须停
+⽌对美⽅的⼀切⽀持。
+与此同时，航运及海事安全官员表⽰，伊朗在霍尔⽊兹海峡附近发动的袭击，⽆论频率还是破
+坏程度，均较冲突初期有所上升，使⽤的武器也从攻击型⽆⼈机扩展⾄制导导弹。尽管美国军
+⽅在为商船护航⽅⾯取得⼀定进展，相关航运安全⻛险仍未消除。
+据新华社报道，伊朗加强了对霍尔⽊兹海峡的管控。近⽇接连有油轮在试图通过海峡时遇袭或
+触雷。英国海上贸易⾏动办公室 23 ⽇称，该机构统计的霍尔⽊兹海峡船舶通航量⽐冲突前⽔平
+
+低约七成，该海域海上安全威胁等级仍为 “ 严重 ” 。伊朗塔斯尼姆通讯社 23 ⽇援引知情⼈⼠的话
+说，如果美军再次通过空中⼒量⽀持海峡⽯油⾛私，伊朗将予以 “ 直接且更果断 ” 的回应。
+另⼀⽅⾯，伊朗外⻓阿巴斯 · 阿拉格⻬ 21 ⽇在英国《⾦融时报》发⽂表⽰，如果有证据表明美⽅
+真诚希望达成公正、体⾯的解决⽅案，永久结束冲突，伊朗愿意再给外交⼀次机会。不过他同
+时表达了对美国的不信任，并称如美国再次选择动武将遭遇更⼤战略失败。
+据新华社援引分析⼈⼠，伊朗试图通过收紧对海峡的管控推⾼油价，不给特朗普缓解选举压⼒
+的机会。伊⽅的强硬表态意在使美以不敢轻易重启战事；在此基础上⼜作出愿意谈判的姿态，
+既是占领道德⾼地，也让特朗普⽆法在竞选中将美伊谈判没有进展的责任推给伊⽅。
+能源供应⻛险加剧，油价上涨增添选举压⼒
+波斯湾能源供应⾯临的⻛险已反映在全球能源市场。布伦特原油期货今年以来累计上涨逾
+80% ，美国汽油价格也随之⾛⾼，增加了消费者的⽣活成本压⼒，并给共和党在中期选举中的
+表现带来不利影响。
+
+彭博经济研究分析师 Dina Esfandiary 、 Ziad Daoud 和 Becca Wasser 在周四发布的报告中指出，
+当前中东局势与今年 2 ⽉美伊战争爆发前的情形存在明显相似之处。报告认为，美国和以⾊列⼤
+选临近、霍尔⽊兹海峡航运受到严重⼲扰，以及伊朗⽴场趋于强硬等因素，并未降低冲突再次
+升级的⻛险。
+国内⺠意也给特朗普政府带来压⼒。⽪尤研究中⼼ 9 ⽉ 28 ⽇⾄ 10 ⽉ 4 ⽇开展的调查显⽰，超过三
+分之⼆的美国⺠众不认可特朗普处理伊朗冲突的⽅式，约半数受访者预计战事将持续⼀年以
+上。
+外交谈判进展有限，选后局势仍存变数
+⽬前，外交解决冲突的前景仍不明朗。伊朗外交部⻓阿拉格⻬本周在英国《⾦融时报》撰⽂表
+⽰，如果美国展现出切实意愿，寻求公正且体⾯的解决⽅案，伊朗愿意再次尝试外交途径。但
+他同时指出，当前⼏乎没有理由对谈判取得进展抱有期待。
+据新华社报道，专家认为，两场选举特别是美国中期选举的选战需要，让美以和伊朗维持了 “ 冷
+和平 ” 状态。伊朗局势在选前升级的可能性不⼤，但在选后如何发展尚难预料。
+
+### Page 3
+
 ⻛险提⽰及免责条款
 市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂
 中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
-92 收藏 分享到 :
+121 收藏 分享到 :
 写评论
 图⽚
-严阵以待的安保升级
-为应对被称为 “ 第⼆幕 ” （ Acte II ）的抗议活动，法国政府全⾯升级了安保措施。
-法国内政部⻓ Laurent Nunez 周五向记者表⽰，政府将部署 7 万名安保⼈员，其中包括精锐的反
-恐部队。他将社交媒体上呼吁暴⼒的⾏为归咎于极左翼，并强调政府对暴徒，抢劫者以及任何
-实施暴⼒⾏为的⼈（包括极左翼政治团体）绝不妥协。
-军队将协助守卫敏感建筑，直升机，⽔炮以及被称为 Centaurs 的装甲⻋也已随时待命。包括⾥
-昂在内的部分城市已在周六发布抗议禁令并延⻓了宵禁时间。⻢克⻰周四承认，在上周末的暴
-⼒事件背后存在 “ 计划上的失败和令⼈意外的因素 ” 。他将煽动性⾏为归咎于极端左翼团体。
-政治分化与外溢⻛险
-距第⼆任期结束还有六个⽉的⻢克⻰⽬前正处于⽀持率低⾕。
+1 条评论
+另据多家美国媒体报道，美以军⽅已制订具体计划，准备在美国中期选举后再次打击伊朗，主
+要悬念在于特朗普会否批准。舆论认为，选举结束后，随着美国国内政治因素的约束减弱，美
+以对伊动武的可能性将加⼤。如果特朗普认为现有施压策略难以迫使伊朗妥协，很可能会选择
+重开战端，届时以⾊列⼤概率将跟进。
+不过，外交谈判仍有空间。据新华社报道，此前的战事证明，⼤规模军事打击⽆法打垮伊朗，
+在当前美以弹药库存告急、中东美军基地损失严重的情况下，美以再次对伊动武将更难达到⽬
+的。军事打击不仅难以化解⽭盾，反⽽会加⼤局势失控⻛险，外交谈判和政治解决仍是停⽕⽌
+战的根本出路。
+国防⺠主基⾦会外交政策与防务专家 Bradley Bowman 也认为，特朗普更稳妥的做法是继续推进
 
-此次抗议最初源于⺠众对改善公共服务及政府⼲预⾼昂⽣活成本的诉求。据 Cluster 17 为
-L’Opinion 进⾏的⺠调显⽰，该运动⽬前仍获得 53% 的多数公众⽀持，但⽀持率已下降 4 个百分
-点。同时，随着对负⾯影响的担忧加剧， 59% 的受访者希望抗议迅速结束，这⼀⽐例上升了 6 个
-百分点。
-⺠调还显⽰，暴⼒事件使明年总统⼤选的领跑者，极右翼候选⼈ Marine Le Pen 从中受益。她计
-划于周六在奥尔良为其国⺠联盟党⼤会召集数千名⽀持者。与此同时，包括左翼⼈⼠和⼯会领
-导⼈在内的数千名反对者，已于当地时间上午在奥尔良市中⼼开始抗议游⾏。
-社会动荡的情绪也在欧洲多国蔓延。在意⼤利，预计周末⽶兰和罗⻢将出现学⽣及⻘年的⽰威
-活动，上周末发⽣抢劫和骚乱后，意⼤利政府表⽰将在⽶兰部署军队。⽐利时预计也将发⽣抗
-议活动，⽽阿尔巴尼亚正努⼒应对因不满总理 Edi Rama 统治⽽引发的连续第⼆周的暴⼒⽰威。
+现有战略。在外交努⼒和经济施压仍有空间的情况下，重启军事⾏动可能带来额外⻛险。
 限免
 请发表您的评论
 表情 发布评论
+好好好
+4 分钟前 中国陕西省
+0  回复
+美国是不是得到了好处？
 
 ---
-## Document 573: 宏观专题报告：经济总量改善，内需修复待加强
+## Document 571: 台湾・９月の輸出受注額も過去最高を更新（Asia Weekly） ～世界的なAI・半導体関連需要の旺盛さが引き続き輸出受注をけん引～
+
+Source PDF: all report pdf/台湾・９月の輸出受注額も過去最高を更新（Asia Weekly） ～世界的なAI・半導体関連需要の旺盛さが引き続き輸出受注をけん引～.pdf
+Report source: DLRI
+Date: 2026-10-23
+Pages: 4
+Extraction status: ok
+
+### Page 1
+
+Asia Indicators
+
+2026 年10 月 23 日
+
+1/4 
+台湾・９月の輸出受注額も過去最高を更新（Asia Weekly） 
+～世界的な AI・半導体関連需要の旺盛さが引き続き輸出受注をけん引～ 
+ 経済調査部 主席エコノミスト  西濵 徹 
+（℡：050-5474-7495）
+
+（経済指標の振り返り） 
+発表日 指標、イベントなど 結果 コンセンサス 前回 
+10/19（月） （ニュージーランド）9 月輸出（億 NZ ドル） 
+9 月輸入（億 NZ ドル） 
+（中国）7-9 月実質 GDP（前年比） 
+9 月小売売上高（前年比） 
+9 月鉱工業生産（前年比） 
+9 月固定資産投資（年初来前年比） 
+（マレーシア）9 月消費者物価（前年比） 
+9 月輸出（前年比） 
+9 月輸入（前年比） 
+64.7 
+84.4 
+＋4.5％ 
+＋1.1％ 
+＋5.5％ 
+▲7.2％ 
+＋1.8％ 
+＋54.5％ 
+＋52.7％ 
+- - 
+- - 
+＋4.4％ 
+＋0.6％ 
+＋5.5％ 
+▲7.3％ 
+＋1.9％ 
+＋44.6％ 
+＋43.2％ 
+64.8 
+80.2 
+＋4.3％ 
+＋0.4％ 
+＋5.2％ 
+▲7.2％ 
+＋1.9％ 
+＋45.5％ 
+＋41.1％ 
+10/20（火） （台湾）9 月輸出受注（前年比） ＋62.4％ ＋58.7％ ＋71.4％ 
+10/21（水） （インドネシア）金融政策委員会（政策金利） 5.75％ 5.75％ 5.75％ 
+10/22（木） （ニュージーランド）7-9 月消費者物価（前年比） 
+（韓国）金融政策委員会（政策金利） 
+（フィリピン）金融政策委員会（政策金利） 
+＋3.7％ 
+3.00％ 
+5.50％ 
+＋3.8％ 
+3.00％ 
+5.25％ 
+＋4.1％ 
+3.00％ 
+5.00％ 
+10/23（金） （シンガポール）9 月消費者物価（前年比） 
+（台湾）9 月失業率（季調済） 
+＋2.2％ 
+3.33％ 
+＋2.4％ 
+- - 
+＋2.3％ 
+3.32％ 
+（注）コンセンサスは Bloomberg 及び THOMSON REUTERS 調査。灰色で囲んでいる指標は本レポートで解説を行っています。 
+[台湾]～世界的な AI・半導体関連需要の旺盛さがけん引役となり、９月の輸出受注額は過去最高を更新～ 
+20 日に発表された９月の輸出受注額は前年同月比＋62.4％となり、 前月 （同＋71.4％） から伸び
+が鈍化した。 しかし、 前月比 （季調済） は＋1.1％と前月 （同＋5.9％） から伸びが鈍化したものの、
+拡大基調を維持しており、単月ベースの輸出受注額は過去最高を更新している。品目別では、光学
+機器関連の受注に下押し圧力が掛かっているものの、 半導体をはじめとする電子部品関連の受注が
+引き続き旺盛な動きをみせているほか、情報通信関連、電気製品関連、化学製品関連などでも拡大
+の動きが続いている。国・地域別でも、最大の受注先である米国向けが大きく拡大しているほか、
+中国本土・ 香港向けや欧州向けも堅調に推移し、ASEAN（東南アジア諸国連合） 向けなど新興国向け
+
+### Page 2
+
+2/4 
+も拡大しており、 世界的なＡＩ （人工知能） ・ 半導体関連需要の旺盛さが輸出受注を押し上げている
+様子がうかがえる。 
+23 日に発表された９月の失業率（季調済）は3.33％となり、前月（3.32％）から0.01pt 悪化し
+た。失業者数は前月比＋0.1 万人と前月（同▲0.1 万人）から２ヵ月ぶりの増加に転じている。既
+卒者、新卒者問わず全般的に増加基調に転じているほか、自発的失業、非自発的失業ともに増加す
+る動きが確認されている。一方の雇用者数は前月比▲0.4 万人と前月（同＋0.2 万人）から２ヵ月
+ぶりの減少に転じており、 世界的なＡＩ・半導体需要の旺盛さを反映して製造業で持ち直しの兆し
+がみられるほか、建設業では堅調さがうかがえるものの、サービス業で頭打ち感が出ている。雇用
+環境に変化の兆しが出ていることを受けて、 労働力人口は前月比▲0.2 万人と前月 （同＋0.1 万人）
+から２ヵ月ぶりの減少に転じており、労働市場には一部で弱含みの動きがうかがえる。
+
+[ニュージーランド]～主力の乳製品や食肉を中心に輸出は堅調も、輸入は頭打ち感が強まる～ 
+19 日に発表された９月の輸出額は前年同月比＋12.3％となり、 前月 （同＋12.4％） からわずかに
+伸びが鈍化した。 しかし、 前月比は＋0.6％と前月 （同＋5.2％） から増加ペースが鈍化したものの、
+２ヵ月連続で増加するなど持ち直しの動きが続いている。 財別では、 原油価格の調整を反映して原
+油の輸出額が大きく下振れしたほか、 機械製品関連や果物の輸出額も下振れしたものの、 主力の輸
+出財である乳製品や食肉の輸出が堅調に推移していることが輸出全体を下支えしている。 国・地域
+別では、米国向けやＥＵ向け、日本向けなどが軒並み低調となる一方、最大の輸出先である中国向
+けやＡＳＥＡＮ諸国向けが堅調に推移しているほか、 隣国オーストラリア向けにも底堅さがうかが
+える。一方、輸入額は前年同月比＋17.7％となり、前月（同＋13.2％）から伸びが加速した。ただ
+し、前月比は▲0.2％と前月（同▲7.9％）に続いて２ヵ月連続で減少しており、頭打ち感が強まっ
+ている。財別では、原油・石油製品関連の輸入が堅調に推移する一方、機械製品関連のほか、プラ
+スチック関連などの素材・部材関連の輸入が下振れしたことが輸入全体の重しとなっている。 その
+結果、貿易収支は▲19.71 億ＮＺドルと前月（▲15.36 億ＮＺドル）から赤字幅が拡大した。 
+図 1 TW 輸出受注額の推移        図 2 TW 雇用環境の推移
+
+（出所）CEIC より第一ライフ資産運用経済研究所作成  （出所）CEIC より第一ライフ資産運用経済研究所作成
+
+### Page 3
+
+3/4
+
+[マレーシア]～世界的な AI・半導体関連需要の旺盛さを追い風に、９月の輸出入額はともに過去最高に～ 
+19 日に発表された９月の消費者物価は前年同月比＋1.8％となり、 前月 （同＋1.9％） からわずか
+に伸びが鈍化した。前月比も＋0.07％と前月（同＋0.29％）から上昇ペースが鈍化しており、政府
+による電気料金の負担軽減措置などを背景に住居・光熱費関連の物価上昇率が鈍化したほか、 食料
+品価格の上昇の動きも一服しており、 生活必需品を中心にインフレ圧力が後退したことが影響して
+いる。 なお、 価格変動の大きい生鮮食品や政府の価格管理対象品目などを除いたコアインフレ率は
+前年同月比＋1.7％となり、 前月 （同＋1.7％） から２ヵ月連続で横ばいとなった。 前月比は＋0.29％
+と前月（同＋0.29％）と同じペースで上昇しており、基調的な物価上昇圧力は根強く残っている。
+一方、 輸送関連の物価上昇率が加速するなど、 エネルギー価格の上昇による影響が一部で顕在化し
+ているほか、外食・宿泊関連の物価上昇率も加速しており、物価の動きには品目ごとにばらつきが
+生じている。 
+同日に発表された９月の輸出額は前年同月比＋54.5％となり、前月（同＋45.5％）から伸びが加
+速した。 前月比 （季節調整値） も＋10.0％と前月 （同＋1.3％） から上昇ペースが加速して３ヵ月連
+続で拡大しており、 単月ベースの輸出額は過去最高を更新するなど堅調な動きをみせている。 財別
+では、 世界的なＡＩ （人工知能） ・ 半導体関連需要の旺盛さを反映して、 半導体など電子部品関連の
+輸出が大幅に押し上げられたほか、 原油や天然ガスなどの価格上昇を受けて、 鉱物資源関連の輸出
+額も拡大した。一方、パーム油をはじめとする農産品関連の輸出は減少したほか、化学製品関連の
+輸出も弱含むなど、 財ごとの動きにはばらつきがみられる。 一方の輸入額は前年同月比＋52.7％と
+なり、 前月 （同＋41.1％） から伸びが加速した。 前月比 （季節調整値） も＋11.9％と前月 （同＋1.2％）
+から上昇ペースが加速して４ヵ月連続で拡大しており、 単月ベースの輸入額も過去最高を更新した。
+輸出の堅調さを反映して、 生産活動に必要な機械製品関連の輸入が大幅に押し上げられたほか、 化
+学製品関連などの素材・部材の需要も旺盛に推移している。さらに、原油価格などの上昇を受けて
+鉱物資源関連の輸入額も押し上げられている。 その結果、 貿易収支は＋337.24 億リンギとなり、 前
+月（＋280.85 億リンギ）から黒字幅が拡大した。 
+図 3 NZ 貿易動向の推移
+
+（出所）CEIC より第一ライフ資産運用経済研究所作成
+
+### Page 4
+
+本資料は情報提供を目的として作成されたものであり、投資勧誘を目的としたものではありません。作成時点で、第一ライフ資産運用
+経済研究所が信ずるに足ると判断した情報に基づき作成していますが、その正確性、完全性に対する責任は負いません。見通しは予告
+なく変更されることがあります。また、記載された内容は、第一生命保険ないしはその関連会社の投資方針と常に整合的であるとは限
+りません。 
+4/4
+
+[シンガポール]～生活必需品やサービス物価に上昇圧力は残るも、インフレ率・コアインフレ率は鈍化～ 
+23 日に発表された９月の消費者物価は前年同月比＋2.2％となり、 前月 （同＋2.3％） からわずか
+に伸びが鈍化した。前月比も＋0.21％と前月（同＋0.62％）から上昇ペースが鈍化したものの、生
+鮮品をはじめとする食料品価格は上昇しているほか、電気・ガス価格も高水準で推移するなど、生
+活必需品では物価上昇圧力が根強く残る動きがみられる。 住居費と民間輸送費を除いたコアインフ
+レ率も前年同月比＋2.0％となり、前月（同＋2.2％）から伸びが鈍化した。前月比も＋0.06％と前
+月（同＋0.27％）から上昇ペースが鈍化しており、エネルギー価格の高止まりを反映して輸送関連
+サービスの価格に押し上げ圧力がかかる一方、 金融市場におけるＳＧドルの名目実効為替レートの
+上昇が輸入物価の上昇圧力を和らげる方向に作用していると考えられる。 さらに、 家具や衣料品な
+どの小売関連を中心に財価格の上昇圧力が和らいでいるほか、 サービス物価も上昇ペースが鈍化し
+ている。一方で、食料品や一部のサービス価格には上昇圧力が根強く残っており、物価の動きにば
+らつきが生じている。
+
+以 上 
+図 4 MY インフレ率の推移        図 5 MY 貿易動向の推移
+
+（出所）CEIC より第一ライフ資産運用経済研究所作成  （出所）CEIC より第一ライフ資産運用経済研究所作成 
+図 6 SG インフレ率の推移
+
+（出所）CEIC より第一ライフ資産運用経済研究所作成
+
+---
+## Document 592: 宏观专题报告：经济总量改善，内需修复待加强
 
 Source PDF: all report pdf/宏观专题报告：经济总量改善，内需修复待加强.pdf
 Report source: 国贸期货
@@ -10356,199 +10424,7 @@ GDP:现价:累计同比
 险，入市需谨慎.
 
 ---
-## Document 588: 宏观经济高频数据统计周报
-
-Source PDF: all report pdf/宏观经济高频数据统计周报.pdf
-Report source: 浙商国际金融控股
-Date: 2026-10-20
-Pages: 22
-Extraction status: ok
-
-### Page 2
-
-目录
-l 宏观经济高频数据一览表
-l 生产端
-l 消费端
-l 地产基建
-l 进出口
-l 物价通胀
-l 交通运输
-2
-
-### Page 3
-
-3
-宏观经济
-高频数据一览表
-
-### Page 4
-
-宏观经济高频数据一览表
-资料来源：Wind，浙商国际 4
-
-### Page 5
-
-宏观经济高频数据一览表
-资料来源：Wind，浙商国际 5
-
-### Page 6
-
-6
-生产端
-
-### Page 7
-
-生产端：需求走弱叠加限产，导致开工率明显弱于往年
-资料来源：Wind，浙商国际 7
-
-### Page 8
-
-生产端：海外关税影响，导致半钢胎开工率走弱
-资料来源：Wind，浙商国际 8
-0
-20
-40
-60
-80
-100
-1月 2月 3月 4月 5月 6月 7月 8月 9月 10月 11月 12月
-中国:开工率:汽车轮胎(半钢胎)（%）
-2021 2022 2023 2024 2025 2026
-
-### Page 9
-
-9
-消费端
-
-### Page 10
-
-消费端：国庆档票房现小幅回暖，乘用车销量弱势企稳
-资料来源：Wind，浙商国际 10
-
-### Page 11
-
-11
-地产基建
-
-### Page 12
-
-地产基建：新政对地产热度形成一定支撑
-资料来源：Wind，浙商国际 12
-
-### Page 13
-
-地产基建：基建高频整体偏弱，水泥价格近期逆势走高
-资料来源：Wind，浙商国际 13
-
-### Page 14
-
-14
-进出口
-
-### Page 15
-
-进出口：地缘因素导致国内外运价走高
-资料来源：Wind，浙商国际 15
-
-### Page 16
-
-16
-物价通胀
-
-### Page 17
-
-CPI：近期农产品价格全线回落
-资料来源：Wind，浙商国际 17
-
-### Page 18
-
-PPI：大宗商品价格高位震荡
-资料来源：Wind，浙商国际 18
-
-### Page 19
-
-19
-交通运输
-
-### Page 20
-
-交通运输：一线城市地铁客运量季节性波动
-资料来源：Wind，浙商国际 20
-
-### Page 21
-
-交通运输：航班数量季节性波动，货运物流维持高位
-资料来源：Wind，浙商国际 21
-
-### Page 22
-
-此演示文稿的内容和信息乃从可靠来源搜集，浙商国际金融控股有限公司(“浙商国际”)并不保证
-其准确性、完整性或者正确性。浙商国际亦不会对任何人士因倚赖此演示文稿全部或任何部分内容
-而引致的任何损失负上任何责任。
-本演示文稿版权仅为本公司及其关联机构所有，任何机构或个人于未经本公司或其关联机构书面授
-权的情况下，不得以任何形式翻版、复制、转售、转发及或向特定读者以外的人士传阅，否则有可
-能触犯相关法规。
-22
-
----
-## Document 635: 注目のキーワード『金融レジリエンス』
-
-Source PDF: all report pdf/注目のキーワード『金融レジリエンス』.pdf
-Report source: DLRI
-Date: 2026-10-20
-Pages: 1
-Extraction status: ok
-
-### Page 1
-
-注目のキーワード 「金融レジリエンス」
-資産形成というと、 NISAや株式投資などで 「お金を増やす」 ことに目が向きがちです。 一方、 物価上昇や失業、 病気、 災害
-など、 家計には予期せぬ出来事が生じます。 特にたくわえが十分でない世帯では、 長期的な投資に先立ち、 急な出費や収
-入減に対応できる生活防衛資金の確保も重要です。 こう した備えは、 投資した資産を不利な時期に取り崩すことを避け、 長
-期的な資産形成を続けるための支えにもなります。 したがって資産形成には、 「どれだけ資産を増やせるか」 だけでなく、
-「家計が予期せぬシ ョ ッ クにどれだけ耐え、 そこから立て直せるか」 という視点も欠かせません。 家計がシ ョ ッ クに耐える力
-の重要性は、 近年のコロナ禍や物価上昇を経て、 改めて認識されています。
-こう した視点に関わる概念の一つが 「金融レジリエンス」 です。 金融レジリエンスとは、 経済的なシ ョ ッ クに直面しても生
-活を維持し、 立て直す力を指します。 OECD/INFEの国際調査では、 「主な収入源を失った場合に、 借入れや転居をせずに
-
-生活費をどのく らいの期間まかなえるか」 「月収に相当する大きな支出を、 借入れや家族 ・ 友人からの援助なしに支払える
-か」 といった設問で測定しています。
-もっ とも、 生活を立て直すために必要なのは、 金融面での備えや対処力だけではありません。 困難な状況を受け止め、 適
-応し、 立ち直っていく心理的な力、 すなわち 「心理的レジリエンス」 も重要です。
-また、 どれだけ備え、 計画を立てていても、 将来には予測できない部分が残ります。 収入や物価、 金利、 投資収益、 家族状
-況は不確実で、 資産形成に絶対安心の 「唯一の正解」 はありません。 そこで参考になるのが 「ネガティブ ・ ケイパビリティ」 で
-す。 これは、 すぐには答えの出ない状況や、 不確実性、 曖昧さに直面しても、 性急に結論を求めず、 その状況に耐えながら考
-え続ける力を意味します。
-経済的なシ ョ ッ クに備え、 対処し、 生活を立て直す 「金融レジリエンス」 。 困難な状況に心理的に適応し、 回復する 「心理的
-
-レジリエンス」 。 そして、 不確実性と付き合いながら考え続ける 「ネガティブ ・ ケイパビリティ」 。 これら三つの力をあわせて育
-むことが、 不確実性の高い時代における資産形成を支える重要な視点ではないでし ょ うか。
-（資産運用調査部　研究員　小林 菜）
-時の政府にと っては鬼門とされる米国の中間選挙が11月3日に行われる。 1934年以降の23回の中間選挙を
-振り返ると、 現職大統領の政党が上下両院とも議席を増やしたのは1934年のF.ルーズベル ト大統領と、 2002年
-のG.W.ブッシュ大統領の2回しかない。 ルーズベル ト大統領は大恐慌下のニューディール政策、 ブッシュ大統領は
-9.11同時テロへの対応がそれぞれ支持された。 因みに、 その23回の選挙のうち、 下院の議席数を増やしたのは前
-述の2名のほかには、 1998年のクリン トン大統領だけである （同選挙では上院の議席数は変わらなかった） 。 一方、
-上院については前述の2名の他に、 1962年のケネディ、 1970年のニクソン、 2018年の トランプ、 2022年のバイ
-
-デン各大統領が議席を増やしている。 下院に比べ、 上院で政権が議席を増やしているケースが多い背景には、 1回
-の選挙における上院の改選議席数は全体の3分の1であることが影響している。
-さて、 こう した過去のケースを振り返ると、 中間選挙では余程の実績や追い風が無いと、 下院議席数を減らす結
-果となる厳しい 「中間テス ト」 ということがわかる。 現 トランプ政権は物価高やイラン問題で国内の批判も高いこと
-から、 過去の例に倣えば下院共和党の議席数は減少する可能性が高い。 現在の議席数は、 下院 （全435議席） では
-共和党は218、 民主党は214議席 （無所属共和党員1、 空席2） と、 両党の議席数は拮抗し、 逆転の可能性は十分に
-ある。 これに対し上院 （全100議席） では、 共和党は53議席を有しているが、 そのうち22議席が改選対象と、 守るべ
-き議席数が多い。
-米国の各種世論調査では、 下院のみならず、 上院でも民主党が過半数を奪還するとの見方もある。 上下両院で
-民主党が過半数を握る事態となれば、 向こう2年間の トランプ政権は予算案を中心に厳しい政策運営を迫られ、 債
-
-券市場や株式市場への悪影響も危惧される。   （嶌峰 義清）
-時事雑感
-10第一ライフ研レポー ト 2026.11
-
----
-## Document 638: 海外宏观周报：中选或加剧分化，关注非科技机会
+## Document 662: 海外宏观周报：中选或加剧分化，关注非科技机会
 
 Source PDF: all report pdf/海外宏观周报：中选或加剧分化，关注非科技机会.pdf
 Report source: 中邮证券
@@ -10946,7 +10822,235 @@ PPI:环比 核心PPI:环比 PPI:同比（右） 核心PPI:同比（右）
 位的特色精品券商。
 
 ---
-## Document 744: 黄金周报：美国通胀数据强劲，上周金价承压下行
+## Document 750: 贝森特曾批评耶伦借短债危险，现在自己做得更过分
+
+Source PDF: all report pdf/贝森特曾批评耶伦借短债危险，现在自己做得更过分.pdf
+Report source: WallstreetCN (Global)
+Date: 2026-10-23
+Pages: 3
+Extraction status: ok
+
+### Page 1
+
+11 ⽉ 4 ⽇，美国财政部将公布下⼀季度发债计划，市场预计，⻉森特将进⼀步提⾼短债发⾏
+占⽐、加⼤⻓期国债回购⼒度，以利⽤较低的短端利率压低融资成本，同时应对⻓期美债
+需求变化。但这⼀策略也意味着美国需要更频繁地为到期债务再融资，未来利率上升将推
+⾼偿债成本，⽽⾼企的财政⾚字仍难以通过调整债务期限解决。
+摘要：
+⻉森特正将美国国债融资推向短期化，⽽这恰恰是他曾经警告过的危险策略。
+10 ⽉ 23 ⽇，据英国《⾦融时报》报道，美国财政部将于 11 ⽉ 4 ⽇公布下⼀季度发债计划，市场预
+计，计划可能进⼀步提⾼短期国债的发⾏占⽐，包括削减甚⾄停⽌发⾏ 20 年期国债，并加⼤⻓
+期国债回购⼒度。⽬前，美国国债的加权平均到期期限已不⾜ 6 年，明显短于英国的 13 年，以及
+德国、法国和⽇本的约 8 年。若进⼀步转向短债，美国政府将需要更频繁地为到期债务再融资。
+颇具讽刺意味的是，⻉森特曾公开批评前任财政部⻓耶伦缩短国债期限，警告此举会使美国 “ 危
+险地暴露于利率波动之下 ” 。如今，他却准备进⼀步推进短债融资，使⾃⼰曾经指出的⻛险再次
+
+成为政策争议的焦点。
+短债利率较低、需求旺盛，有助于压低眼前的融资成本，但也意味着美国需要更频繁地为到期
+债务再融资。⼀旦未来利率上升，滚动续借的成本就可能随之增加。短债策略可以缓解短期融
+资压⼒，却⽆法解决美国的财政⾚字问题。
+短债为何成为⻉森特的选择？
+⻉森特转向短期融资，⾸先是因为当前美国短端利率低于⻓端，发⾏短债⽐发⾏⻓期国债更便
+宜，有助于压低近期利息⽀出。
+需求端也提供了⽀撑。稳定币⾏业扩张带动对短期美国国债的需求，美联储持有国债的平均期
+限也在缩短；与此同时，外国投资者对⻓期美债的配置意愿⾯临变化。美联储研究数据显⽰，
+对冲基⾦在 2023 年⾄ 2025 年间将美国国债持仓翻倍，⽬前持仓约占市场的 8.5% 。不过，对冲基
+⾦交易通常涉及杠杆和相对价值策略，其持仓不能简单视为稳定的⻓期资⾦来源。
+⻉森特对经济前景的乐观判断，则是这套策略的另⼀⽀撑。他认为，能源价格上涨和科技企业
+集中发债对⻓期收益率的推升可能只是暂时现象，⼈⼯智能带来的⽣产率提升有望改善中期经
+济增⻓。在这⼀判断下，他认为⻓期利率可能被市场⾼估，财政部可以先利⽤较低的短端利率
+
+融资。
+但这⼀策略实质上是以期限⻛险换取当下的成本优势。短债到期后必须重新发⾏，如果通胀持
+续⾼企、市场要求更⾼收益率，或⼈⼯智能带来的⽣产率提升不及预期，当前节省的利息⽀出
+就可能被未来更⾼的再融资成本抵消。
+多管⻬下，试图压低融资成本
+⻉森特的债务管理策略不⽌于调整发债期限。据报道，他还推动修改监管规则以⿎励银⾏增持
+国债、⽀持稳定币⾏业发展，并试图影响海外官⽅投资者的持仓决策。同时，财政部通过回购
+部分存量国债，改善市场流动性和供需结构。
+⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⻅闻历 搜索
+
+### Page 2
+
+⻛险提⽰及免责条款
+市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂
+中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
+61 收藏 分享到 :
+写评论
+图⽚
+1 条评论
+但这些操作难以直接改变美国的⻓期财政前景。近期，⻉森特加⼤⻓期国债回购⼒度后，收益
+率仍然⾛⾼，说明技术性操作难以单独扭转市场对通胀、国债供给和⻓期⻛险的判断。
+未来，⻉森特还可能寻求更多政策配合，包括推动美联储扩⼤资产负债表，或重新评估美国⻩
+⾦储备的账⾯价值。不过，财政部⽆法直接决定美联储是否重启量化宽松；⻩⾦重新估值即使
+改善账⾯资产规模，也不会直接增加财政收⼊，更不能替代⾚字削减。
+短期融资降成本，⽆法解决⾚字问题
+⻉森特的策略此前⼀度取得效果，他曾成功将 10 年期美债收益率维持在 4.5% 以下。但近期收益
+率再度上⾏，表明财政部对债市的影响存在边界。⻓期收益率不仅取决于供需，还反映市场对
+未来通胀、国债供给和期限⻛险溢价的判断。
+
+更根本的问题是美国财政⾚字。⻉森特已提出将⾚字降⾄国内⽣产总值（ GDP ）的 3% ，但国际
+货币基⾦组织预计，美国今年的财政⾚字仍将超过 GDP 的 8% 。⽬标与现实之间的差距，意味着
+调整债务期限⽆法替代真正的财政整顿。
+批评⼈⼠认为，⻉森特试图借助债务管理技巧和⼈⼯智能带来的增⻓预期缓解融资压⼒，却尚
+未拿出⾜以扭转美国财政轨迹的实质性⽅案。削减⽀出、增加收⼊或推动跨党派财政改⾰，才
+是解决债务问题的根本途径。
+这也凸显了⻉森特当前策略的⻛险：如果利率维持低位，短债融资可以节省部分利息⽀出；但
+如果通胀反弹、融资成本上升，或⼈⼯智能带来的增⻓红利不及预期，美国就可能⾯临更⾼成
+本的集中续借压⼒。 11 ⽉ 4 ⽇公布的下⼀季度发债计划，将成为观察这⼀策略⾛向的重要窗⼝，
+但美国债务能否持续，最终仍取决于财政⾚字能否收敛，以及经济增⻓能否跟上债务扩张的步
+伐。
+限免
+请发表您的评论
+表情 发布评论
+陈志乔
+5 ⼩时前 中国浙江省
+
+### Page 3
+
+1  回复
+耶伦当财⻓时美债利率极低，⻉嫂⼦批评她很正常，现在利率这么⾼当然倾向于多借短债了，此
+⼀时彼⼀时。
+
+---
+## Document 756: 進むユーロ安、欧州側の３つの要因 ～欧州を覆うエネルギー・財政・政治リスク～
+
+Source PDF: all report pdf/進むユーロ安、欧州側の３つの要因 ～欧州を覆うエネルギー・財政・政治リスク～.pdf
+Report source: DLRI
+Date: 2026-10-05
+Pages: 3
+Extraction status: ok
+
+### Page 1
+
+Europe Trends
+
+2026 年 10 月５日
+
+1/3 
+進むユーロ安、欧州側の３つの要因 
+～欧州を覆うエネルギー・財政・政治リスク～ 
+ 経済調査部 首席エコノミスト  田中 理 
+（℡：050-5474-7494）
+
+（要旨） 
+○ 外国為替市場でユーロ安が進み、 対ドル相場は2025 年５月以来の水準に下落している。米国
+の長期金利上昇がドル高を促していることに加え、欧州固有の三つの要因がユーロの重石と
+なっている。第一は、中東情勢の緊迫化とエネルギー価格再高騰で改めて浮き彫りとなった
+資源輸入地域としての脆弱性である。 第二は、2027 年予算や来春の大統領選挙を巡るフラン
+スの財政・政治リスクで、フランス国債への信認低下が他国に波及すれば、一国固有の問題
+からユーロ圏全体の問題に発展する恐れがある。第三は、ＡｆＤの躍進とメルツ首相の求心
+力低下によるドイツの政治リスクである。エネルギー高がインフレを再燃させれば、ＥＣＢ
+の追加利上げがユーロを下支えする一方、交易条件悪化や景気下押しを伴うため、単純なユ
+ーロ高要因とはならない。年末に向けては、イラン情勢とエネルギー価格の動向、フランス
+の予算協議や格付け、ドイツの改革遂行能力などがユーロ相場を左右する焦点となる。
+
+外国為替市場でユーロ安が進んでいる。ユーロの対ドル相場は、９月17 日に１ユーロ＝1.15 ド
+ル前後で推移した後、９月末にかけて下落が加速した。10 月に入ると1.13 ドルを割り込み、一時
+1.12 ドル台前半まで下落し、2025 年５月以来の安値圏にある。 
+ユーロ安の一因は米国にある。米国では長期金利の上昇が続き、10 年物国債利回りは10 月１日
+に一時 5.34％と、2002 年以来約24 年ぶりの高水準に達した。堅調な景気や根強いインフレ圧力
+を背景に、金融市場では米連邦準備理事会（ＦＲＢ）が金融引き締めを長期化するとの見方が強
+まっている。金利の先高観からドルに資金が流入し、ドル高・ユーロ安が進みやすい環境となっ
+ている。だが、最近のユーロ安を米国の金利上昇だけで説明することはできない。ユーロはドル
+だけでなく、円やスイスフランなどの主要通貨に対しても下落している。背景には、欧州固有の
+三つの要因がある。 
+第一は、エネルギー価格の再高騰で改めて浮き彫りとなった資源輸入地域としての欧州の脆弱
+性である。中東情勢の緊迫化や世界的な資源需給の逼迫を受け、原油や天然ガス、ディーゼル燃
+料の価格が上昇している。北海ブレント原油先物価格は１バレル＝100 ドルを再び上回り、オラン
+ダＴＴＦ天然ガス先物も１メガワット時＝70 ユーロを上回って推移している。エネルギー価格の
+高騰を受け、Ｇ７は10 月２日、今後４ヶ月で最大１億バレルの原油・石油製品を市場に放出する
+
+### Page 2
+
+2/3
+方針を表明した。特に供給不足が深刻なディーゼルについては、今後20 日間に相当量を前倒しで
+放出する。最近の動きで気掛かりなのは、天然ガス価格の再上昇だ。今年は欧州のガス在庫が歴
+史的な低水準で推移しており、冬場の需要期が近づくなか、今後の気温やＬＮＧ供給次第で需給
+が一段と逼迫する恐れがある。
+米国は世界有数の石油・天然ガスの生産国で、エネルギー価格の上昇によってエネルギー部門
+の所得が増える。これに対して、ユーロ圏はエネルギーの純輸入地域で、輸入代金が嵩み、海外
+への所得移転が増加する。米国の交易条件が改善するのに対し、ユーロ圏では交易条件が悪化
+し、実質所得が域外に流出する。この違いがドル高・ユーロ安を促す一因となっている。実際、
+足元の為替市場では、原油高に弱い主要エネルギー輸入国・地域の通貨として、ユーロや円を売
+る動きがみられている。
+これは2022 年のエネルギー危機でユーロが大幅に下落した際にもみられた構図である。ロシア
+産天然ガスへの依存低下やＬＮＧ調達先の多様化などを背景に、欧州を取り巻くエネルギー環境
+
+は当時より改善している。しかし、供給先がロシアから米国や中東などに分散しても、ユーロ圏
+がエネルギーの純輸入地域であるという経済構造そのものは変わらない。世界的なエネルギー供
+給のショックが発生すれば、輸入価格の上昇を通じて域内の実質所得が海外に流出する。
+第二の問題は、フランスに端を発した欧州の財政リスクである。2027 年予算を巡る政治的な不
+透明感や財政再建の実行可能性への懸念から、このところフランス国債が大きく売られている。
+10 年物国債利回りは10 月１日に2002 年以来の高水準まで上昇し、２日も５％近辺で推移した。
+域内の安全資産であるドイツ国債との10 年物利回り格差（スプレッド）は10 月２日に一時150bp
+を超え、2011 年末以来の水準となった。
+フランス政府は2027 年の予算案で、2026 年に国内総生産（ＧＤＰ）比で5.4％程度に達した財
+政赤字を５％へ縮小する方針を示している。だが、国民議会（下院）で安定多数を持たない政府
+が、社会党（ＰＳ）や国民連合（ＲＮ）などの野党勢の協力により、歳出削減や歳入増加策を実
+
+現できるかは不透明だ。野党の協力を求める過程で財政再建が遠退くことや、予算が未成立のま
+ま越年し、財政再建が進まない恐れがある。
+来年春には大統領選挙も控える。各種の世論調査ではＲＮのルペン候補が圧倒的にリードして
+いる。最近では決選投票の世論調査も、ルペン氏の勝利を示唆するものが増えている。市場で
+は、選挙後の政権の財政運営やＥＵとの関係についても不透明感が意識されている。
+格下げのリスクも高まっている。大手格付け会社ムーディーズは現在、フランス国債の格付け
+を「Ａａ３」とし、今後の格下げ方向を示唆する格付け見通しを「ネガティブ」としている。10
+月２日には、議会で安定多数を確保することが難しく、2027 年予算成立の見通しが不透明なう
+え、大統領選挙後も政治的な分断が続けば財政再建が容易にならないとの見方を示している。次
+回の格付け判断は10 月23 日に予定されている。
+より注意が必要なのは、フランスの問題が一国の財政不安にとどまらず、ユーロ圏全体の問題
+に波及する可能性である。フランスはユーロ圏でドイツに次ぐ経済規模を持ち、国債市場の規模
+
+も大きい。フランス国債への信認低下が続けば、イタリアなど財政余力の乏しい国にも国債売り
+
+### Page 3
+
+経済研究所が信ずるに足ると判断した情報に基づき作成していますが、その正確性、完全性に対する責任は負いません。見通しは予告
+なく変更されることがあります。また、記載された内容は、第一生命保険ないしはその関連会社の投資方針と常に整合的であるとは限
+りません。
+3/3
+が波及し、ユーロ圏内の金利格差が拡大する恐れがある。そうなれば、ＥＣＢはインフレ抑制の
+ために金融引き締めを続ける一方で、加盟国間の金利差拡大（市場の分断化）を抑える必要にも
+迫られる。
+第三の要因として、ドイツの政治リスクがある。９月に行われた旧東ドイツ地域の州議会選挙
+では、右派ポピュリスト政党「ドイツのための選択肢（ＡｆＤ） 」が４割前後の支持を獲得して第
+一党となった。ＡｆＤが大幅に議席を増やしたことで、同党との連立を拒否する既成政党が安定
+した州政府を樹立することが難しくなっている。
+９月 20 日に選挙が行われたメクレンブルク＝フォアポンメルン州では、ＡｆＤを政権から排除
+する形の州政府の発足に向けた協議が進んでいる。ただ、左派３党による連立が成立すれば、Ａ
+
+ｆＤは州議会で唯一の野党となり、州政府への不満や政権批判票の受け皿を事実上独占しやすく
+なる。一方、９月６日に選挙が行われたザクセン＝アンハルト州では、ＡｆＤ以外の政党だけで
+は安定した多数派を形成することが難しく、ＡｆＤが初めて州政府を率いる可能性がある。
+問題は、こうした政治的な不安定化がドイツの構造改革を難しくすることだ。構造不況に陥っ
+たドイツ経済は、財政政策の転換や輸出回復もあり、緩やかな回復軌道に戻りつつある。しか
+し、循環的な回復を持続的な成長につなげるには、高い労働コストや税・社会保険負担の軽減、
+労働供給の拡大、年金・社会保障制度改革、規制・行政負担の削減、デジタル化、インフラ投資
+の迅速化などの構造改革が欠かせない。
+州議会選挙での相次ぐ敗北を受け、メルツ政権に対する評価は厳しさを増している。10 月のＡ
+ＲＤの世論調査では、 「メルツ首相の仕事に満足している」との回答は10％にとどまった。 ＣＤ
+Ｕ内にはメルツ党首（首相）の交代を模索する声も一部にある。メルツ首相の求心力低下とＡｆ
+
+Ｄへの支持拡大によって、給付削減や負担増、労働市場・年金改革など、国民に痛みを求める政
+策を実行する政治的資源が失われる恐れがある。
+今後のユーロ相場を考えるうえでは、こうした欧州固有の下落圧力と、ＥＣＢの利上げ継続に
+よる上昇圧力との綱引きが重要になる。中東情勢を巡る不透明感が長期化し、冬場のガス需給逼
+迫や資源価格の高止まりが続けば、エネルギー価格の上昇が賃金やサービス価格に波及する「二
+次効果」への警戒が高まる。そうなれば、ＥＣＢは追加利上げを含む一段の金融引き締めを迫ら
+れ、米欧金利差の縮小を通じてユーロを下支えする可能性がある。ただ、ＥＣＢの利上げによっ
+て金利面ではユーロ買い材料が生じても、資源価格高騰による交易条件の悪化や実質所得の減
+少、景気下押しが同時に進めば、ユーロにとって必ずしも一方向の上昇材料にはならない。
+むしろ、年末に向けては、フランスの2027 年予算協議や格付け判断、来春の大統領選挙を巡る
+不透明感に加え、ドイツ州議会選挙後の政治不安がメルツ政権の改革遂行能力をどこまで損なう
+
+かが焦点となる。足元のユーロ安は単なる米国の金利高によるものではない。エネルギー輸入依
+存、フランスの財政不安、ドイツの改革停滞という欧州経済の弱点が、為替市場を通じて改めて
+意識され始めている。
+以 上
+
+---
+## Document 773: 黄金周报：美国通胀数据强劲，上周金价承压下行
 
 Source PDF: all report pdf/黄金周报：美国通胀数据强劲，上周金价承压下行.pdf
 Report source: 东方金诚
