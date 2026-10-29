@@ -2,6 +2,7 @@
 
 from datetime import date, datetime, timedelta
 import random
+import re
 import time
 
 import requests
@@ -15,6 +16,8 @@ RSS_FILENAME = "rss_naver_securities.xml"
 
 BASE_URL = "https://stock.naver.com"
 API_BASE_URL = f"{BASE_URL}/api/stockSecurity/researches/v2"
+MARKET_RANK_API_URL = f"{BASE_URL}/api/domestic/market/stock/default"
+MARKET_RANK_PAGE_URL = f"{BASE_URL}/market/stock/kr/stocklist/capitalization"
 CATEGORIES = (
     ("company", "公司"),
     ("industry", "產業"),
@@ -23,6 +26,8 @@ CATEGORIES = (
     ("debenture", "債券"),
 )
 PAGE_SIZE = 50
+TOP_COMPANY_COUNT = 10
+MARKET_RANK_PAGE_SIZE = 100
 REQUEST_TIMEOUT = 30
 MAX_ATTEMPTS = 4
 REQUEST_DELAY_SECONDS = (0.8, 1.5)
@@ -98,6 +103,55 @@ def _as_date(value):
         return datetime.strptime(str(value), "%Y-%m-%d").date()
     except (TypeError, ValueError):
         return None
+
+
+def _normalize_item_code(value):
+    code = str(value or "").strip()
+    return code.zfill(6) if code.isdigit() else code
+
+
+def _is_preferred_share(name):
+    """Treat Korean preferred-share listings as the same company as common stock."""
+    normalized = re.sub(r"\s+", "", str(name or "")).upper()
+    return bool(re.search(r"\d*우[A-Z]?$", normalized))
+
+
+def _get_top_company_codes():
+    """Return the ten largest Korean listed companies by Naver market cap."""
+    items = _get_json(
+        MARKET_RANK_API_URL,
+        params={
+            "tradeType": "KRX",
+            "marketType": "ALL",
+            "orderType": "marketSum",
+            "startIdx": 0,
+            "pageSize": MARKET_RANK_PAGE_SIZE,
+        },
+        referer=MARKET_RANK_PAGE_URL,
+    )
+    if not isinstance(items, list):
+        raise RuntimeError("Naver market-cap ranking returned an unexpected payload")
+
+    codes = []
+    seen_codes = set()
+    for item in items:
+        if not isinstance(item, dict):
+            continue
+        if item.get("type") != "ST" or _is_preferred_share(
+            item.get("itemname")
+        ):
+            continue
+        code = _normalize_item_code(item.get("itemcode"))
+        if not code or code in seen_codes:
+            continue
+        codes.append(code)
+        seen_codes.add(code)
+        if len(codes) == TOP_COMPANY_COUNT:
+            return set(codes)
+
+    raise RuntimeError(
+        f"Naver market-cap ranking returned fewer than {TOP_COMPANY_COUNT} companies"
+    )
 
 
 def _list_recent_items(category, start_date, end_date):
@@ -200,12 +254,35 @@ def scrape():
     seen_links = set()
     for category, category_label in CATEGORIES:
         print(f"  📂 正在取得 {category_label}（{category}）分類...")
+        top_company_codes = None
+        if category == "company":
+            try:
+                top_company_codes = _get_top_company_codes()
+            except Exception as exc:
+                print(
+                    f"  ⚠️ 無法取得市值前十大公司，為避免擴大抓取量，"
+                    f"跳過公司研究：{exc}"
+                )
+                continue
+            print(f"  🎯 公司研究將只保留市值前 {TOP_COMPANY_COUNT} 大公司")
+
         try:
             items = _list_recent_items(category, start_date, today)
         except NaverAccessError as exc:
             print(f"  ⚠️ Naver {category_label} 分類請求遭拒或持續錯誤，跳過此分類：{exc}")
             continue
-        print(f"  📋 列表 API 回傳 {len(items)} 筆近期報告，正在取得 PDF 連結...")
+        listed_count = len(items)
+        if top_company_codes is not None:
+            items = [
+                item for item in items
+                if _normalize_item_code(item.get("itemCode")) in top_company_codes
+            ]
+            print(
+                f"  📋 列表 API 回傳 {listed_count} 筆近期報告，前十大公司符合 "
+                f"{len(items)} 筆，正在取得 PDF 連結..."
+            )
+        else:
+            print(f"  📋 列表 API 回傳 {listed_count} 筆近期報告，正在取得 PDF 連結...")
 
         for item in items:
             try:
