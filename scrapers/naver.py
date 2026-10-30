@@ -7,9 +7,6 @@ import time
 
 import requests
 
-from scrapers.utils import REPORT_WINDOW_DAYS
-
-
 SOURCE = "Naver Securities"
 SOURCE_NAME = SOURCE
 RSS_FILENAME = "rss_naver_securities.xml"
@@ -26,6 +23,7 @@ CATEGORIES = (
     ("debenture", "債券"),
 )
 PAGE_SIZE = 50
+NAVER_REPORT_WINDOW_DAYS = 30
 TOP_COMPANY_COUNT = 5
 MARKET_RANK_PAGE_SIZE = 100
 REQUEST_TIMEOUT = 30
@@ -244,7 +242,7 @@ def _make_report_safely(category, item, start_date, end_date):
 def scrape():
     """Return recent Naver research PDFs across all supported categories."""
     today = date.today()
-    start_date = today - timedelta(days=REPORT_WINDOW_DAYS)
+    start_date = today - timedelta(days=NAVER_REPORT_WINDOW_DAYS)
     print(
         f"🔍 正在爬取 Naver Securities 研究報告 "
         f"({start_date.isoformat()} 至 {today.isoformat()})..."
