@@ -46,7 +46,7 @@ jobs:
 
       - name: Run Scraper
         timeout-minutes: 150
-        run: python main.py
+        run: python -u main.py
         env:
           OPENAI_API_KEY: ${{ secrets.AITEST }}
           TINYFISH_API_KEY: ${{ secrets.TINYFISH_API_KEY }}
