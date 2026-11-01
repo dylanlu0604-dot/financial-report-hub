@@ -3,301 +3,6 @@
 NotebookLM import text with Markdown headings for each report, source PDF, and page boundary.
 
 ---
-## Document 019: 2008再现！一文读懂华尔街最热门交易：AI CDS
-
-Source PDF: all report pdf/2008再现！一文读懂华尔街最热门交易：AI CDS.pdf
-Report source: WallstreetCN (Global)
-Date: 2026-10-31
-Pages: 7
-Extraction status: ok
-
-### Page 1
-
-当 AI 巨头们疯狂烧钱扩张之际，信贷市场已拉响警报。博通、英伟达等芯⽚商 CDS 利差半
-年内暴涨逾 170% ，⾕歌、亚⻢逊等 10 家核⼼ AI 企业虽仅占投资级指数成分 8% ，却承载了
-16% 的隐含信贷⻛险。芯⽚制造商正从科技公司异变为 " 集中贷款机构 " ， CDS 交易量同⽐
-激增逾 1900% 。
-摘要：
-巴克莱银⾏（ Barclays ）发布了⼀份针对⼈⼯智能相关企业信⽤违约互换（ CDS ）市场的综合
-报告，指出随着资本⽀出的⼤幅扩张， AI 相关企业的信贷⻛险已出现显著的重新定价，其 CDS
-交易量及利差均呈现急剧上升趋势。
-10 ⽉ 29 ⽇，巴克莱银⾏报告指出，包括⾕歌、亚⻢逊、 Meta 、微软、甲⻣⽂等超⼤规模云计算
-服务商，以及 AMD 、博通、英伟达等芯⽚制造商在内的10 家核⼼ AI 企业，⽬前仅占 CDX 投资级
-指数成分的 8% ，但已占到该指数隐含信贷⻛险的 16%。
-巴克莱强调，过去六个⽉，这⼗家公司的信⽤⻛险均有所扩⼤，⽬前均处于其六个⽉波动区间
-
-的上限附近。
-（ AI 群体：当前 5 年期 CDS 的六个⽉区间对⽐）
-这意味着持有该投资级指数的投资者已被动承担了⼤量 AI 领域的波动⻛险。此外，这些核⼼ AI 企
-业的 CDS 与现⾦债券的基差已转为正值，即购买违约保护的成本已超过持有这些企业债券所带
-来的额外收益。
-据彭博报道，这⼀反常现象主要由于⼤量未持有相关债券的机构（如进⾏对冲的股票基⾦和银
-⾏）正⼤举买⼊ CDS ，以对冲巨⼤的 AI 资本⽀出及相关贷款⻛险。
-此番技术性异动在信贷对冲与基差扭曲的逻辑上，与 2008 年当年极其相似。当年⼤量未持有次
-级房贷债券的机构（如对冲基⾦、投资银⾏），出于宏观看空或⻛险规避，通过买⼊ CDS 保护来
-下注违约⻛险。这种密集的 “ 裸对冲 ” 衍⽣品买盘将 CDS 利差极度推⾼，甚⾄超过了现货债券本⾝
-的信⽤利差，直接推升 CDS- 现⾦债券基差转正。
-在巴克莱发布该报告之际，头部科技企业的融资需求正持续向市场施压。近期，微软启动了逾
-250 亿美元的债券发⾏，亚⻢逊单季度新增超 480 亿美元⻓期债务，博通也计划于明年初筹集⾼
-
-达 210 亿美元资⾦。
-⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⻅闻历 搜索
-
-### Page 2
-
-这些巨额融资进⼀步推⾼了市场的对冲需求，导致相关企业 CDS 成本触及历史新⾼。
-芯⽚制造商信贷特征转变，利差⼤幅⾛阔
-在这波信贷重新定价中，芯⽚制造商的 CDS 利差⾛阔最为显著。
-六个⽉前，博通、 AMD 和英伟达的 CDS 利差尚处于同类别的最低⽔平，在 40 个基点左右徘徊。
-（ AI 群体 5 年期 CDS ，六个⽉前 vs. 现在，按六个⽉变化幅度排序）
-然⽽，如今这三家公司的 CDS 利差已跃居前列，其中博通的 5 年期 CDS 在六个⽉内飙升 258% ，
-AMD 上涨 177% ，英伟达上涨 172% 。相⽐之下，评级为 AAA 的微软仅上涨了 20% 。
-巴克莱在报告中指出，随着芯⽚供应商开始向客⼾提供贷款以购买其芯⽚（即供应商融资），信
-贷市场已开始将这些公司视为拥有⾼度集中贷款账本的贷款机构。
-例如，在银⾏对 Anthropic 的 630 亿美元芯⽚交易产⽣疑虑后，博通出⾯提供了担保。基于此，巴
-克莱建议买⼊博通的 5 年期 CDS 保护，作为对冲更⼴泛 AI 融资压⼒的宏观策略。
-
-基差转正与对冲需求驱动交易量激增
-CDS 与现⾦债券的基差转正，是当前 AI 信贷市场最显著的技术特征。
-过去⼀年， CDX 投资级指数中⾮ AI 企业的基差基本保持负值，即 CDS 利差低于债券利差，但 AI
-群体的基差已上升约 50 个基点并转为正值。在芯⽚制造商和甲⻣⽂中，这⼀正基差尤为明显。
-
-### Page 3
-
-（ AI 群体的 CDS- 现⾦债券基差现已转为正值，⽽⾮  AI 群体的基差仍为负值）
-这种结构性变化伴随着交易量的爆炸性增⻓。截⾄ 10 ⽉ 23 ⽇，超⼤规模云服务商的 4 周平均周交
-易量达到约 60 亿美元，同⽐猛增约 740% ；芯⽚制造商的周交易量达到 30 亿美元，同⽐激增
-1900% 。
-（超⼤规模云服务商与半导体企业的  CDS 交易量已显著增加）
-未平仓合约（ Open interest ）数据同样印证了资⾦的持续流⼊。超⼤规模云服务商的净未平仓
-合约名义价值已从⼀年前的约 50 亿美元翻倍⾄ 200 亿美元，芯⽚制造商则从约 19 亿美元增⾄ 86
-
-### Page 4
-
-亿美元。
-（ AI 群体的未平仓合约已从⼀年前的约 70 亿美元增⾄⽬前的 280 亿美元以上）
-这 10 家 AI 企业⽬前占美洲企业单⼀名称 CDS 所有未平仓合约的近 14% ，远⾼于⼀年前的 4% 。
-曲线形态分化，交易策略凸显个股差异
-通过对 CDS 曲线3 年期与 5 年期利差对⽐的分析，巴克莱指出了个别企业的定价异常。
-例如，亚⻢逊与⾕歌的 5 年期 CDS ⽔平相当（ 80-81 基点），但亚⻢逊的 3s5s 曲线（ 3 年与 5 年利
-差）仅为 18 基点，显得过于平坦。
-
-### Page 5
-
-（当前  3s5s CDS 曲线的绝对值，以及占  5 年期  CDS 的百分⽐）
-巴克莱认为这可能与亚⻢逊  6 ⽉份的⼀笔定期贷款造成的买盘压⼒有关，并建议买⼊亚⻢逊 5 年
-期保护或构建陡峭化交易组合。
-财报数据随后印证了对冲的必要性，亚⻢逊公布第三季度⾃由现⾦流消耗达 335 亿美元，资本⽀
-出⾼达 773 亿美元。
-作为市场上最具流动性的 CDS 标的，甲⻣⽂的基差在样本中处于⾼位。
-（当前 CDS- 现⾦债券基差在⼀年区间内所处位置对⽐图）
-巴克莱建议卖出甲⻣⽂的 5 年期基差，即卖出 2032 年到期债券同时卖出 CDS 保护，以博弈基差的
-收敛。此前，甲⻣⽂宣布将未来⼏年的额外融资上限设定为 200 亿美元。
-此外，英特尔是样本中唯⼀基差仍为负值（ -14 基点）且曲线相对陡峭的企业，这主要由于其并
-未深度参与同⾏的供应商融资模式。但在疲软的业绩指引公布后，其股价创下了⾃ 1982 年以来
-
-### Page 6
-
-的最⼤单⽇跌幅。
-⾼收益市场缩影： CoreWeave 违约保护成本⾼企
-在投资级之外， CoreWeave 作为 CDX ⾼收益指数中唯⼀直接相关的 AI 企业 CDS ，成为了观察数
-据中⼼和新型云服务商信贷⻛险的独特窗⼝。
-⽬前， CoreWeave 的 5 年期 CDS 已采⽤ “ 预付点数 ” （ points upfront ）的定价⽅式，达到 15.5 点，
-这⼀通常⽤于受困债务的定价模式凸显了市场对其⻛险的⾼度警惕。
-（ CoreWeave 5 年期 CDS ，以预付点数报价）
-数据显⽰， CoreWeave 的 CDS 周交易量已从⼀年前的 3200 万美元升⾄ 3.02 亿美元，未平仓合约
-增⾄ 8.5 亿美元。
-（ CoreWeave 周交易量已从⼀年前的 3200 万美元升⾄  3.02 亿美元，未平仓合约增⾄ 8.5 亿美
-元）
-
-### Page 7
-
-⻛险提⽰及免责条款
-市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂
-中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
-249 收藏 分享到 :
-写评论
-图⽚
-1 条评论
-尽管有分析师维持对 CoreWeave 债券的 “ 超配 ” 评级，但其⾼达 15.5 点的违约保护前期成本表明，
-CDS 市场正在对其业务模式的潜在违约⻛险进⾏更为严苛的定价。
-限免
-请发表您的评论
-表情 发布评论
-⻅闻⽤⼾
-2 ⼩时前 中国浙江省
-1  回复
-2008 年可没有这么多聪明⼈。如果简单做空就能赚钱，太天真了
-
----
-## Document 034: 20261019_投資週報_通膨升溫增添波動，台積財報展現韌性
-
-Source PDF: all report pdf/20261019_投資週報_通膨升溫增添波動，台積財報展現韌性.pdf
-Report source: Yuanta (投資週報)
-Date: 2026-10-19
-Pages: 1
-Extraction status: ok
-
-### Page 1
-
-任何擔保，如有錯漏或疏忽，本行及本行之任何董事或受僱人，毋須負任何法律責任。任何人因信賴此等資料而做出或改變投資決策，應審慎衡量本
-身之需求及投資風險，自行承擔一切投資風險並自負盈虧，本行不負任何法律責任。本報告受中華民國著作權法保護為元大銀行所有，非經本行同
-意，不得將本報告內容之一部或全部加以複製、轉載或散布。本報告所載述的意見本行可隨時予以更改或撤回，恕不另行通知。
-金融市場投資週報                 2026 年 10 月 19 日
-上週重點訊息
-◼ 美國 9 月通膨升溫，Fed 年底前再升息機率仍高： 美國 9 月 CPI 年增 3.7%，高於 8 月的
-3.4%；核心 CPI 年增率亦由 2.4%升至 2.6%，顯示通膨壓力不只來自能源，核心價格亦有回
-升。隔日的 PPI 年增率則由 5.6%升至 6.3%，反映上游成本壓力仍強。通膨重新升溫，使Fed
-即使面對就業降溫，也難以快速轉向寬鬆，市場對年底前再度升息的預期仍高。
-◼ 台積電財報創新高，AI 需求強勁但市場轉向檢視融資風險：台積電 10/15 公布其第三季淨利
-
-達 7,631 億元、年增 69%，連續第六季刷新紀錄，第三季美元營收 467.2 億美元，並預估第
-四季營收將升至 523～543 億美元 ； 公司同時將2026 全年營收成長預估提高至約 44%， 反映
-AI 晶片與先進製程需求仍極為強勁。然而，高利率環境使市場開始檢視 AI 資料中心業者的槓
-桿與融資能力，CoreWeave 約 500 億美元債務引發信用疑慮，引發市場波動。
-◼ 中東衝突再度推高能源風險 ， 油價高檔加劇全球通膨壓力 ：胡塞武裝上週攻擊沙烏地阿美設施 ，
-伊朗亦表示採取新的海上攻擊策略，使荷莫茲海峽與波斯灣航運風險再度升高。10/16 布蘭特
-原油與西德洲原油期貨雙雙收在近三週高點。
-市場展望
-◼ 科技股中期趨勢料將不變 ， 但短線波動勢將加劇 ：近期市場同時面臨通膨升溫 、AI 資本支出疑
-慮與重要科技財報公佈在即等不確定因素，短線風險偏好可能受到壓抑。在利率維持高檔及市
-場評價偏高的環境下，市場短線料將隨財報結果與市場預期而出現較大波動。然而，上週台積
-電與 ASML 財報結果整體優於預期 ， 可見AI 相關企業營運與資本支出尚未出現全面轉弱跡象 ，
-
-科技產業基本面仍具一定支撐，惟後續宜更加重視企業獲利、現金流及資本支出變動及科技子
-產業的表現分化現象。
-◼ 中天期美債與投資級債債券兼顧息收與利率風險：美國經濟仍具韌性 ， 加上政府與企業發債供
-給維持高檔，可能使市場利率持續處於較高水準。雖然投資級債信用利差位於相對低檔，但企
-業獲利、現金流及償債能力仍具支撐，加上較高的美國公債基準利率，使投資級債的利息收益
-仍具吸引力。相較之下，短天期債券面臨未來利率下降後的再投資風險，長天期債券則較容易
-受到公債供給增加 、 期限溢酬及利率波動影響 ， 因此中天期美國公債與投資債券較能兼顧息收
-與利率風險。
-
----
-## Document 058: 2026年7-9月期GDP予測（1次速報） ～前期比年率＋0.4％と予想。成長率は鈍化も、景気回復の流れは崩れず～
-
-Source PDF: all report pdf/2026年7-9月期GDP予測（1次速報） ～前期比年率＋0.4％と予想。成長率は鈍化も、景気回復の流れは崩れず～.pdf
-Report source: DLRI
-Date: 2026-10-30
-Pages: 3
-Extraction status: ok
-
-### Page 1
-
-Economic Indicators
-
-2026 年 10 月30 日
-
-1/3 
-2026 年 7-9 月期 GDP 予測（1 次速報） 
-～前期比年率＋0.4％と予想。成長率は鈍化も、景気回復の流れは崩れず～ 
-経済調査部 シニアエグゼクティブエコノミスト 新家義貴 
-（℡：050-5474-7490）
-
-小幅ながら４四半期連続のプラス成長を予想、景気回復基調は維持 
-11 月16 日に公表される2026 年７-９月期の実質ＧＤＰ成長率を前期比年率＋0.4％（前期比＋
-0.1％）と予測する。４四半期連続のプラス成長になるだろう1。 
-物価高による下押しや耐久財需要の反動に加え、天候不順の影響もあって個人消費が減少する
-一方、設備投資が高い伸びになることが下支えになる見込みである。設備投資の伸びには特殊要
-因も一部含まれているが、それを除いても堅調だったと考えられる。個人消費が弱含むなかでも
-プラス成長を維持するとみられることは、企業部門の底堅さが景気を下支えしていることを示し
-ている。過去３四半期に比較的高い成長が続いた後であることも踏まえれば、今回の減速をもっ
-て景気の基調が弱まったと判断する必要はないだろう。家計部門の弱さは懸念材料だが、企業部
-門の底堅さは維持されており、景気は引き続き緩やかな回復基調にあると評価できる。
-
-輸入増による成長率押し下げと公的在庫のプラス寄与は表裏一体 
-７-９月期のＧＤＰを評価する際には、原油輸入と公的在庫の動きをセットで捉える必要があ
-る。４-６月期は、中東情勢の悪化によって原油輸入が激減したことが、ＧＤＰ統計上は輸入減を
-通じて成長率を押し上げた。一方、輸入の減少による国内供給の不足を補うために国家備蓄原油
-が放出され、公的在庫の取り崩しが進んだ。この結果、公的在庫変動は前期比寄与度▲0.5％Pt
-（前期比年率寄与度▲2.1％Pt）と、成長率を大きく押し下げた。輸入減による成長率の押し上げ
-は、公的在庫の減少と表裏一体の関係にあった。 
-７-９月期は、これと逆の動きが生じるとみられる。政府・民間による代替調達の進展によって
-原油輸入が回復するため、統計上は輸入増が成長率の押し下げ要因になる。一方、輸入の回復に
-伴って国家備蓄原油の取り崩しは一服しており、公的在庫の減少幅は前期に比べて大きく縮小す
-るとみられる。この結果、公的在庫変動は前期比寄与度＋0.4％Pt（前期比年率寄与度＋1.5％
-Pt）と、成長率を大きく押し上げることが予想される。
-
-1 10 月 30 日時点で入手可能な経済指標を元に作成している。国際収支や家計調査等、今後公表される経済指標の結果
-を踏まえて予測値を修正する可能性がある。
-
-### Page 2
-
-2/3 
-輸入増による成長率の押し下げと公的在庫変動による押し上げは、ともに原油の供給環境が改
-善したことに伴う動きである。両者を個別に景気の強弱として評価することは適切ではなく、一
-体として見るべきだろう。 
-むしろ重要なのは、代替調達の進展によって国家備蓄への依存を減らしながら必要な原油を確
-保できる状況になり、資源不足が生産活動を大きく制約するリスクが低下していることである。
-ＧＤＰ統計上、輸入の増加は成長率の押し下げ要因となるものの、経済実態としては国内で利用
-可能な資源の供給回復を意味している。この点は、７-９月期の日本経済を評価するうえで、むし
-ろ前向きに捉えるべきだろう。
-
-需要項目別の動向 
-個人消費は前期比▲0.2％と小幅減少を予想する。８～９月に各地で相次いだ大雨や台風などの
-天候不順が外出機会やサービス消費を抑制した可能性がある。また、４-６月期には自動車やエア
-コンなどの耐久財販売が増加したが、７-９月期にはこうした一時的な押し上げ効果が剥落した。
-加えて、物価高による節約志向が根強いなか、食料品や日用品などの非耐久財消費にも弱さがみ
-られる。高い賃上げや底堅い雇用環境は下支え要因となっているものの、天候不順という一時的
-な要因もあって個人消費は総じて力強さを欠く結果になったとみられる。 
-設備投資は前期比＋2.0％と、高い伸びを予想する。４-６月期には特許権の海外譲渡に伴う研
-究開発投資の減少という特殊要因があったが、７-９月期はその影響が剥落することが押し上げ要
-因になった面はある。もっとも、こうした特殊要因を除いても設備投資は明確に増加したと考え
-られ、底堅い動きとなっている。企業収益が高水準を維持するなか、人手不足に対応した省力化
-投資やデジタル・ＡＩ関連投資への需要は根強く、企業の設備投資意欲は引き続き強い。設備投
-資計画も高い伸びとなっており、設備投資は均してみれば緩やかな増加基調にあると判断してよ
-いだろう。 
-なお、特許権の海外への譲渡により、テクニカルに４-６月期はサービス輸出が上振れ、設備投
-資が下振れたが、７-９月期はその剥落によりサービス輸出が下振れ、設備投資が上振れとなる見
-込みである。両者は相殺し合うため、成長率全体でみれば概ねニュートラルとなる。 
-輸出は前期比＋1.2％と４四半期連続の増加を予想する。４-６月期に大口要因によって研究開
-発サービスの受取が急増した分が剥落することで、サービス輸出が減少する一方、財輸出が高い
-伸びとなり、財貨・サービス輸出全体では増加を維持したとみられる。半導体製造装置などの資
-本財輸出が好調だった。地域別では、ＥＵ向けが低調だった一方、ＡＳＥＡＮ、ＮＩＥｓ向けの
-資本財輸出が伸びている。また、４-６月期に急減した中東向け輸出が持ち直したことも押し上げ
-につながっている。 
-輸入は前期比＋3.3％と大幅な増加が予想される。４-６月期には資源輸入の激減により輸入が
-大幅に減少していたが、代替調達の進展により７-９月期は明確に持ち直した。この結果、外需寄
-与度は前期比▲0.3％Pt（前期比年率▲1.3％Pt）になったと予想される。 
-ただし、この外需寄与度のマイナスは、資源輸入の回復に伴う輸入の増加によって生じるもの
-
-### Page 3
-
-本資料は情報提供を目的として作成されたものであり、投資勧誘を目的としたものではありません。作成時点で、第一ライフ資産運用
-経済研究所が信ずるに足ると判断した情報に基づき作成していますが、その正確性、完全性に対する責任は負いません。見通しは予告
-なく変更されることがあります。また、記載された内容は、第一生命保険ないしはその関連会社の投資方針と常に整合的であるとは限
-りません。 
-3/3 
-である。その裏側では公的在庫変動が前期比＋0.4％ポイント、前期比年率では＋1.5％ポイント
-の大幅プラス寄与になると見込まれる。両者は併せて評価する必要がある。 
-民間在庫変動は前期比寄与度▲0.1％Ptと予想する。製品在庫はプラスが予想される一方、流通
-在庫の下押しが大きくなるとみられる。 
-住宅投資は前期比▲0.9％と、２四半期連続の減少を予想する。建設コストの上昇が下押し要因
-となっており、住宅投資を取り巻く環境は引き続き厳しい。また、公共投資も同▲1.5％と減少を
-予想するほか、政府消費についても、４-６月期の高い伸びの反動から前期比▲0.3％と減少を見
-込む。
-
-（％）
-実質ＧＤＰ 0.1
-（前期比年率） 0.4
-内需寄与度 0.4
-     　　   （うち民需） 0.2
-    　　    （うち公需） 0.2
-外需寄与度 ▲ 0.3
-民間最終消費支出 ▲ 0.2
-民間住宅 ▲ 0.9
-民間企業設備 2.0
-民間在庫変動（寄与度） ▲ 0.1
-政府最終消費支出 ▲ 0.3
-公的固定資本形成 ▲ 1.5
-公的在庫変動（寄与度） 0.4
-財貨・サービスの輸出 1.2
-財貨・サービスの輸入 3.3
-※断りの無い場合、前期比（％）
-(出所）内閣府「国民経済計算」、第一ライフ資産運用経済研究所
-2026年7-9月期ＧＤＰ予測
-
----
 ## Document 061: 2026年7月投資月報
 
 Source PDF: all report pdf/2026年7月投資月報.pdf
@@ -3025,316 +2730,209 @@ Stock Ratings are subject to change. Please see latest research for each company
 © 2026 Morgan Stanley
 
 ---
-## Document 155: 3693營邦 合庫
+## Document 169: 63亿美元！币安遭“史上最大”黑客洗劫，暂停全部存储和提取功能，承诺将承担所有损失
 
-Source PDF: all report pdf/3693營邦 合庫.pdf
-Report source: line報告備份
-Date: 2026-10-27
+Source PDF: all report pdf/63亿美元！币安遭“史上最大”黑客洗劫，暂停全部存储和提取功能，承诺将承担所有损失.pdf
+Report source: WallstreetCN (Global)
+Date: 2026-10-30
 Pages: 5
 Extraction status: ok
 
 ### Page 1
 
-TAIWAN COOPERATIVE SECURITIES 
-INVESTMENT CONSULTANT
+币安创始⼈赵⻓鹏已公开确认攻击属实，但强调⽤⼾资⾦安全。币安最新宣布，估计总影
+响⾦额约为 63 亿美元。 TRM 全球政策负责⼈ Ari Redbord 称其为 “ ⼈类历史上最⼤的银⾏抢
+劫案 ” 。值得注意的是，此次事件发⽣于 " ⿊⾊⼗⽉ " ⽹络攻击浪潮期间， AI 技术催⽣新型攻
+击⼿段被认为是重要背景因素。
+摘要：
+全球最⼤加密货币交易所币安周四遭遇史上规模最⼤的加密货币⿊客攻击，被迫暂停全平台存
+取款业务，事件震动整个加密市场。此次⿊客攻击造成的损失约达 63 亿美元，远超此前任何⼀
+起同类事件。币安称，估计总影响⾦额约为 63 亿美元。
+据彭博最先报道，此次⼤规模资⾦异动引发市场⾼度警觉。币安创始⼈赵⻓鹏 10 ⽉ 29 ⽇在社交
+平台 X 上发⽂确认， “ 看起来确实是针对币安的⿊客攻击 ”，但同时强调⽤⼾资⾦安全。稳定币发
+⾏商 Tether 和 Circle 随即采取紧急⾏动，合计冻结逾 15 亿美元与此次事件相关的资产，以限制潜
+在损失蔓延。币安最新宣布，经核实，冻结资⾦总额约 30 亿美元。
 
-1
-
-營邦(3693)     買進 報告日期：20261027 
-                                                  研究員：陳彥翰
-
-公司基本資料 
-前日收盤價(元) 647.00  
-目前股本(億元) 4.30  
-市值(億元) 278.20  
-每股淨值(元) 122.14  
-外資持股比例(%) 19.86  
-投信持股比例(%) 0.01  
-董監持股比例(%) 25.58  
-融資餘額(張) 5,049
-
-投資建議 
-三大事業部同步成長，以及歐洲、東南亞、
-印度與中國等非北美市場大幅貢獻的帶動
-下，預期 2027 年仍將延續五成的強勁成長
-動能，營運獲利可創新高。合庫預估 2026 / 
-2027 年獲利成長 156% / 72%，稅後每股盈
-餘 39.73 / 68.33 元，建議買進，目標價 820 
-元 (2027 PER 12x)。 
-業務營收比重
-
-公司簡介  
-營邦企業股份有限公司創立於 1996 年 ， 為全
-球伺服器與儲存系統製造商領導者之一。 產品
-發展方向由工業電腦延伸至系統散熱解決方
-案，再擴展至高密度系統解決方案。近年來，
-營邦深耕企業級伺服器與儲存解決方案領域，
-專注於高效能運算 、 資安應用及資料中心基礎
-架構之產品研發與製造，產品範疇涵蓋類別主
-要包含：伺服器機箱、存儲系統、系統平台、
-產業設備等產品。
-
-簡易損益表 
-單位：百萬 2025 2026(F) 2027(F) 3Q25 4Q25 1Q26 2Q26 3Q26(F) 4Q26(F) 1Q27(F) 2Q27(F)  
-營業收入 7,516  12,279  18,720  1,603  1,614  1,557  2,539  4,029  4,154  3,929  4,358   
-營業毛利 2,162  3,461  5,471  422  470  362  710  1,172  1,217  1,128  1,281   
-營業利益 878  1,868  3,306  133  8  48  373  709  739  675  780   
-稅後純益 666  1,708  2,938  197  94  66  306  657  679  611  679   
-EPS(NT$) 15.50  39.73  68.33  4.58  2.18  1.54  7.11  15.28  15.80  14.21  15.79   
-毛利率 28.8%  28.2%  29.2%  26.3%  29.1%  23.2%  28.0%  29.1%  29.3%  28.7%  29.4%   
-營業利益率 11.7%  15.2%  17.7%  8.3%  0.5%  3.1%  14.7%  17.6%  17.8%  17.2%  17.9%   
-稅後淨利率 8.9%  13.9%  15.7%  12.3%  5.8%  4.3%  12.0%  16.3%  16.4%  15.5%  15.6%   
-營收 YoY (12.0%) 63.4%  52.5%  (40.0%) (28.6%) (36.6%) 37.8%  151.4%  157.4%  152.3%  71.6%   
-EPS  YoY (42.1%) 156.3%  72.0%  (54.8%) (57.1%) (84.3%) 5,462.8%  233.6%  624.8%  822.4%  122.1%
+币安随后在 X 平台发⽂宣布，将承担所有损失，并已暂停全部存储和提取功能，同时与执法机关
+展开合作，承诺调查完成后将公布完整的事后调查报告。若最终确认，此次事件将打破 2025 年
+朝鲜⿊客从 Bybit 盗取 15 亿美元所创下的加密货币史上最⼤劫案纪录。
+⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⻅闻历 搜索
 
 ### Page 2
 
-TAIWAN COOPERATIVE SECURITIES 
-INVESTMENT CONSULTANT
+史上最⼤⽹络劫案
+此次针对币安的攻击规模史⽆前例。华尔街⽇报称， TRM 全球政策负责⼈ Ari Redbord 称其为 “ ⼈
+类历史上最⼤的银⾏抢劫案 ” 。
+据币安在 X 平台发表的声明，初步调查显⽰，此次攻击涉及 “ ⼀名 DevOps ⼯程师的笔记本电脑
+遭到⼊侵 ” ，攻击者借此得以 " 提交未经授权的提款交易 " 。
+据华尔街⽇报，这⼀攻击路径揭⽰了加密货币交易所⾯临的结构性脆弱性。与证券交易所不
+同，许多加密货币交易所直接代客⼾托管资产，将⼤量资⾦集中存放于加密钱包中，使其成为
+⿊客的⾼价值⽬标。
+在币安公布 63 亿美元的⾦额之前，华尔街⽇报报道指出，区块链安全机构 SEAL 911 的 Taylor
+Monahan 表⽰，攻击者实际获利“ 远超 20 亿美元 ” ，最⾼可能达 55 亿美元。 “ 信息变化很快，确认
+确切数字还需要时间， ”Monahan 说。华尔街⽇报联系的其他多位⽹络安全专家则将数字定在 55
+亿美元以上。
+据 Axios 报道，密切追踪加密市场的分析师和交易员估计，此次疑似⽹络攻击中被盗⾦额介于 17
 
-2
-
-營運展望 
-1. 2H26 營運動能來自 AMD Helios 伺服器專案開始放量：針對 Meta、Oracle 與 
-OpenAI 等客戶的 AMD Helios 專案，已由去年的研發與小量送樣階段，於今
-年正式啟動大量生產。儘管受限於保密協議無法透露單一客戶細節，但整體專
-案規模與出貨量將迎來顯著成長。2026 年上半年營收約 41.0 億元，第三季單
-季貢獻即達 40.3 億元 ， 推升前三季累計營收至 81.3 億元 。 受惠下半年強勁拉
-貨，全年營收預估將突破百億大關並創下歷史新高，年增率上看五成。 
-2. 與 NVIDIA 深化儲存專案合作，共同開發下次世代應用：跟 NVIDIA 除延續
-多年來在人工智慧資料處理器 (Data Processing Unit, DPU AI) 儲存市場合作，
-更於今年  GTC 大會深化與  NVIDIA 策略夥伴關係。雙方正緊密圍繞最新  
-Vera Rubin 平台，共同開發下一代鍵值快取 (Knowledge Base Cache, KB Cache)  
-在內容管理系統 (Content Management System , CMS ) 的應用。與 NVIDIA 次
-世代合作案正處聯合開發階段，將聚焦提供高階 AI 儲存完整解決方案，其市
-場份額與營收貢獻將隨 NVIDIA 的市場推廣逐步發酵。 
-3. 2027 年既有業務穩健成長 ， 新興 AI 業務加速拓展：在三大事業部同步成長 ，
-以及歐洲 、 東南亞 、 印度與中國等非北美市場大幅貢獻的帶動下 ， 預期 2027 年
-仍將延續五成的強勁營收成長幅度。預期標準品、AI 儲存與 CSP 三大事業群
-的營收年增率將呈現均衡且穩定成長。其中，標準品於各區域市場皆持續貢獻
-穩定營收，AI 儲存受惠於整體應用規模擴增趨勢而由專責團隊推動成長，CSP 
-專案則依既有進度維持穩健的營收佔比 。公司整體毛利率穩定維持在 25 ~ 30% 
-區間，未來各項產品銷售與營運規劃，也將持續以穩住此毛利率水準作為首要
-目標。 
-4. 三大事業部門業務能見度佳，明年營運獲利可創新高：三大事業部同步成長，
-Server & Storage 標準品業績規模持續擴大，出貨量顯著成長。AI Storage 出貨
-快速攀升，掌握重點客戶成長商機。CSP 專案持續拓展，AMD Helios 進入大
-規模量產階段 。合庫預估 2026 年營收 122.8 億元 、+63.4% YoY， 毛利率 28.2%。
-營業利益 18.7 億元、+112.8% YoY，營業利益率 15.2%，歸屬母公司稅後淨利 
-17.1 億元，每股盈餘 39.73 元。 
-5. ESG (營邦在 2026 年上櫃公司治理評鑑結果為 81 ~ 100%)：為實踐企業社會
-責任，並促進經濟、社會與環境生態之平衡及永續發展，營邦制定「永續發展
-實務守則」 與 「永續資訊管理作業程序」 ，將永續做為公司營運決策的一環。透
-過檢視治理、環境與社會的管理架構，營邦運用永續策略促進創新，以符合平
-衡環境、社會及公司治理發展之國際趨勢，並透過企業公民擔當，提升國家經
-濟貢獻 ， 改善員工 、 社區 、 社會之生活品質 ， 促進以永續發展為本的競爭優勢 。
+亿⾄ 57 亿美元之间。
 
 ### Page 3
 
-TAIWAN COOPERATIVE SECURITIES 
-INVESTMENT CONSULTANT
+Tether ⾸席执⾏官 Paolo Ardoino 在 X 上发⽂称，该公司已冻结逾 15.67 亿美元的数字货币，原因
+是 “ 与币安交易所潜在⿊客攻击相关 ” 。 Circle ⾸席执⾏官 Jeremy Allaire 则表⽰， Circle 已配合执
+法部⻔冻结逾 8 亿美元 USDC，并将持续⽀持调查。
+报道称， Tether 和 Circle 的快速介⼊，在⼀定程度上遏制了损失进⼀步蔓延。赵⻓鹏最初援引的
+被冻结资产规模为约 17 亿美元，币安随后将这⼀数字修正为跨多类资产共计约 30 亿美元。
+稳定币发⾏⽅冻结资产的机制是：将⿊客的加密钱包地址列⼊⿊名单，使被盗代币⽆法移动、
+转账或套现，从⽽在⿊客将其兑换为其他加密货币或通过混币器洗钱之前将资⾦锁定。
+币安回应：⽤⼾资⾦安全，将承担全部损失
+⾯对外界关切，币安⽅⾯给出了明确表态。
+币安发⾔⼈在声明中表⽰： “ 我们的团队已知悉有关潜在安全问题的报告，正在积极调查。请放
+⼼，⽤⼾资⾦完全安全。 “该发⾔⼈还表⽰，安全团队正在 “ 紧急审查所有相关信息 ” ，并提醒⽤
 
-3
-
-PE/PB Band
-
-損益表 
-單位：百萬 2025 2026(F) 2027(F) 3Q25 4Q25 1Q26 2Q26 3Q26(F) 4Q26(F) 1Q27(F) 2Q27(F) 
-營業收入 7,516  12,279  18,720  1,603  1,614  1,557  2,539  4,029  4,154  3,929  4,358  
-營業毛利 2,162  3,461  5,471  422  470  362  710  1,172  1,217  1,128  1,281  
-營業費用 1,284  1,593  2,165  289  462  314  338  464  478  452  502  
-營業利益 878  1,868  3,306  133  8  48  373  709  739  675  780  
-業外收支 (55) 140  132  99  87  39  16  44  40  31  31  
-稅前純益 823  2,008  3,438  232  95  87  389  753  778  706  810  
-所得稅 194  397  686  45  13  31  64  146  155  138  162  
-稅後純益 666  1,708  2,938  197  94  66  306  657  679  611  679  
-股本 430  430  430  430  430  430  430  430  430  430  430  
-EPS(NT$) 15.50  39.73  68.33  4.58  2.18  1.54  7.11  15.28  15.80  14.21  15.79  
-營收 QoQ - - - (13.0%) 0.7%  (3.5%) 63.1%  58.6%  3.1%  (5.4%) 10.9%  
-營收 YoY (12.0%) 63.4%  52.5%  (40.0%) (28.6%) (36.6%) 37.8%  151.4%  157.4%  152.3%  71.6%  
-EPS  YoY (42.1%) 156.3%  72.0%  (54.8%) (57.1%) (84.3%) 5,462.8%  233.6%  624.8%  822.4%  122.1%  
-毛利率 28.8%  28.2%  29.2%  26.3%  29.1%  23.2%  28.0%  29.1%  29.3%  28.7%  29.4%  
-營業費用率 17.1%  13.0%  11.6%  18.0%  28.6%  20.1%  13.3%  11.5%  11.5%  11.5%  11.5%  
-營業利益率 11.7%  15.2%  17.7%  8.3%  0.5%  3.1%  14.7%  17.6%  17.8%  17.2%  17.9%  
-稅前淨利率 11.0%  16.4%  18.4%  14.5%  5.9%  5.6%  15.3%  18.7%  18.7%  18.0%  18.6%  
-所得稅率 23.6%  19.8%  19.9%  19.4%  13.6%  36.0%  16.4%  19.5%  19.9%  19.6%  20.0%  
-稅後淨利率 8.9%  13.9%  15.7%  12.3%  5.8%  4.3%  12.0%  16.3%  16.4%  15.5%  15.6%
+⼾ “ 对诈骗保持警惕 “ 。
+币安随后在 X 平台进⼀步宣布，公司将承担所有损失，⽬前正不间断处理此事，⼒求解决问题，
+并在安全检查期间暂停了所有存储和提取功能，同时与执法机关保持合作。调查完成后，币安
+承诺将公布完整的事后调查报告。
+赵⻓鹏虽已于 2023 年卸任币安⾸席执⾏官，⽬前仍为公司最⼤股东。他在 X 上写道： “ 作为股
+东，我预期所有⽤⼾资⾦将得到全额覆盖。 ” 、
 
 ### Page 4
 
-TAIWAN COOPERATIVE SECURITIES 
-INVESTMENT CONSULTANT
+⻛险提⽰及免责条款
+市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂
+中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
+917 收藏 分享到 :
+写评论
+图⽚
+⽬前，币安尚未确认攻击者⾝份，失窃资产的最终规模也有待进⼀步核实。
+规模虽⼤，币安抗压能⼒相对较强
+尽管事件规模空前，市场分析⼈⼠认为币安凭借⾃⾝体量，具备相对较强的抗冲击能⼒。
+加密货币交易公司 JPEG Trading 联合创始⼈ Kevin March 表⽰，“ 以绝对美元⾦额⽽⾔，这是⼀
+次巨⼤的打击 ”，但考虑到币安拥有 12 亿美元的保险基⾦，加之 Tether 和 Circle 迅速冻结被盗资
+产，预计损失在可控范围之内。
+“ 如果这件事发⽣在加密⾏业任何其他公司⾝上，将是灾难性的， ”March 说。他指出，币安的规
+模使其具备更强的隔离能⼒，可通过保险和资产负债表覆盖潜在损失，但加密市场价格的⼴泛
+波动仍有可能发⽣。
+值得关注的是，与传统股票交易所不同，加密货币交易所通常直接为⽤⼾托管数字资产，这使
 
-4
-
-免責聲明：  
-資產負債表 損益表
-(百萬元 ) 2023 2024 2025 2Q26 (百萬元 ) 2024 2025 2026(F) 2027(F)
-資產總計 6,890 8,044 7,741 10,038 營業收入淨額 8,537 7,516 12,279 18,720
-流動資產 5,248 6,123 5,077 6,906 營業成本 5,837 5,354 8,818 13,249
-現金及約當現金 1,623 2,024 2,552 1,758 營業毛利淨額 2,701 2,162 3,461 5,471
-應收帳款與票據 1,454 1,514 993 1,811 營業費用 1,414 1,284 1,593 2,165
-存貨 2,103 2,519 1,376 3,004 營業利益 1,286 878 1,868 3,306
-採權益法之投資 0 0 0 0 業外收支 127 (55) 140 132
-不動產及廠房 1,349 1,516 1,977 2,418 稅前純益 1,413 823 2,008 3,438
-負債總計 4,072 2,999 2,466 4,713 所得稅 326 194 397 686
-流動負債 3,894 2,760 1,947 4,208 稅後純益 1,087 666 1,708 2,938
-應付帳款 1,169 1,096 640 2,456 稅後EPS(元) 27.30 15.50 39.73 68.33
-應付票據 172 98 27 41
-非流動負債 179 239 518 505 註1：稅後淨利係指本期淨利歸屬母公司業主。
-權益總計 2,818 5,045 5,275 5,325 註2：稅後 EPS以當期股本計算
-普通股股本 385 430 430 430
-保留盈餘 1,923 2,625 2,818 2,846
-母公司業主權益 2,818 5,045 5,211 5,251
-現金流量表 比率分析
-(百萬元 ) 2023 2024 2025 2Q26 (%) 2023 2024 2025 2Q26
-營業活動現金 1,769 758 1,557 186 成長力分析
-稅前純益 1,248 1,413 823 389 營收成長 59.7 (2.9) (12.0) 37.8
-折舊 104 97 152 52 營利成長 117.8 3.6 (31.8) 22.0
-攤銷 26 38 39 12 稅後純益成長 103.7 17.1 (42.1) 5,462.8
-其他營運現金 2,268 1,678 2,141 274 獲利能力分析
-投資活動現金 (773) (304) (562) (270) 毛利率 28.3 31.6 28.8 28.0
-其他投資現金 0 0 0 0 營利率 14.1 15.1 11.7 14.7
-籌資活動現金 28 (97) (435) (18) 稅後純益率 10.6 12.7 8.9 12.0
-現金增資 0 1,485 0 0 償債能力分析
-發放現金股利 (231) (385) (473) 0 負債比率 59.1 37.3 31.9 47.0
-其他籌資現金 0 0 0 0 流動比率 134.8 221.8 260.7 164.1
-淨現金流量 1,022 401 528 (105) 速動比率 80.8 130.6 190.1 92.7
-期初現金 601 1,623 2,024 1,863
-期末現金 1,623 2,024 2,552 1,758
-資料來源： CMoney、合庫投顧
+其天然成为⿊客的⾼价值攻击⽬标。此外，存放在币安等平台的资⾦并不受政府存款保险保
+障，任何赔付均取决于交易所⾃⾝的意愿和能⼒。
+此次事件并⾮孤⽴发⽣，⽽是近期⼀系列⾼级别⽹络攻击浪潮的组成部分。
+据 Axios 报道，此次疑似⿊客攻击发⽣于所谓“ ⿊⾊⼗⽉ ”期间 —— ⼀系列⿊客攻击和 AI 发现的漏
+洞接连触发，引发外界对全球性⽹络安全危机的担忧。此次币安事件发⽣的数⼩时前，去中⼼
+化预测市场平台 Polymarket 刚刚确认遭遇⽹络攻击，被迫暂停交易约⼀⼩时，攻击者⾄少卷⾛
+270 万美元⽤⼾资⾦。
+安全研究机构 Hudson Rock 将 Polymarket 事件与第三⽅⽹站监控⼯具 DebugBear 的数据泄露相
+关联，后者当天早些时候已宣布正在应对⾃⾝的安全事故。
+NBC 新闻指出，此次币安⼤规模资⾦异动发⽣之际，全球⽹络安全防线正处于⾼度戒备状态，
+原因正是近期⼈⼯智能技术的快速进步催⽣了新型攻击⼿段的出现。
+限免
+请发表您的评论
+表情 发布评论
 
 ### Page 5
 
-TAIWAN COOPERATIVE SECURITIES 
-INVESTMENT CONSULTANT
-
-5
-
-評等標準說明 
-評等 定義 
-買進 預期未來 6 個月潛在報酬率>15% 
-區間 預期未來 6 個月潛在報酬率 0%~15% 
-中立 預期未來 6 個月潛在報酬率<0% 
-未評等 訊息不足或有相關業務往來
+3 条评论
+⻅闻⽤⼾
+4 ⼩时前 中国江苏省
+1  回复
+币圈就是个笑话
+nevertheless
+5 ⼩时前 中国四川省
+1  回复
+啥都还没调查出来，就说是⽤ ai ，现在 ai 炒作已经成了媒体的条件反射和⾃发⾏为
+MobileUser0819
+6 ⼩时前 中国河北省
+2  回复
+AI 给了这个世界⽆限可能，只要你敢想它就能帮你做到
 
 ---
-## Document 296: ECONOMIC WEEK AHEAD_ November 2-6
+## Document 299: European resilience, American vigour (2026-10-30)
 
-Source PDF: all report pdf/ECONOMIC WEEK AHEAD_ November 2-6.pdf
-Report source: researchmail轉寄
-Date: 2026-10-31
-Pages: 8
+Source PDF: all report pdf/European resilience, American vigour (2026-10-30).pdf
+Report source: BNP Paribas
+Date: 2026-10-30
+Pages: 2
 Extraction status: ok
 
 ### Page 1
 
-From:    Yardeni QuickTakes <yardeni-research@ghost.io>
-Subject: ECONOMIC WEEK AHEAD: November 2-6
-Date:    3 hours ago
-ECONOMIC WEEK AHEAD: November 2-6
+Paris, 30 October 2026
 
-YARDENI QUICKTAKES
-ECONOMIC WEEK AHEAD:
-November 2-6
-By Ed Yardeni & Toby Hearst • 31 Oct 2026
-View in browser
+EcoFlash
+
+European resilience, American vigour
+
+Eurozone growth continues to prove resilient, notwithstanding the volatility of the Irish figures. The Q3 data reinforce 
+our forecast of 1.1% growth this year, which could even be slightly exceeded, as German and Spanish momentum shows 
+no sign of fading. In France, the negative surprise (-0.1% q/q against a consensus of +0.1% q/q) stems from a new one-
+off factor (the sharp fall in aerospace output caused by delays in input deliveries) and masks an encouraging rebound 
+in household consumption. In the United  States, growth reached its highest level since Q2 2025 (0.8% q/q), driven by 
+buoyant private domestic demand.
+
+Eurozone: The resilience of growth is confirmed 
+Eurozone GDP grew by 0.4% q/q in Q3  according to Eurostat's preliminary flash estimate, above both the consensus and our 
+Nowcast (0.3%). The ever -volatile Irish figures contributed 0.2 pp to this outcome. Excluding Ireland, growth (0.2% q/q) 
+nonetheless remains in line with the pace of recent quarters (0.2 -0.3% q/q on average). This illustrates the Eurozone's capacity 
+to withstand the current shocks, thanks in particular to the strength of Spain (+0.07 pp contribution to the q/q change in Eurozone’s 
+GDP) and the Netherlands (+0.04 pp), and to Germany's gradual recovery (+0.06 pp). France (-0.03 pp) and Italy (zero growth), 
+by contrast, posted disappointing results, although in France's case these partly reflect temporary factors (aerospace output). The 
+growth carry-over for 2026 now stands at 1.0%, which supports our forecast of 1.1% in annual average terms and even points to 
+upside risk. The European Commission's October surveys remain upbeat, with a further improvement in industrial activity 
+expectations. 
+The German recovery continues . As anticipated by our  Nowcast, real GDP grew by 0.2% q/q in Q3 (after 0.3% in Q2).  
+According to Destatis, consumption (private and public) increased slightly, while investment edged down. Export momentum 
+slowed markedly compared with Q2. This is Germany's fourth consecutive quarter of growth. 
+Italian GDP surprised on the downside, stagnating in Q3 (against a consensus of 0.1%).  According to Istat, this reflects a 
+decline in value added in industry, offset by increases in services and agriculture. The positive contribution from domestic demand 
+was reportedly cancelled out by a negative contribution from net trade. 
+Spanish growth remained robust in Q3, in line with expectations (0.6% q/q, after 0.7% in Q2),  driven mainly by domestic 
+demand (0.5 pp contribution) and, to a lesser extent, by net exports (0.1 pp). Consumption remains the main engine of growth 
+(+0.6% q/q for private consumption and +0.9% for public consumption). Investment rose by 0.7%. Export gr owth (1.3%) once 
+again outpaced import growth (1.1%) this quarter. All sectors except construction recorded positive changes in value added, with 
+industry and services both up 0.7%. 
+France: A sharp drop in aerospace output prevents a return to growth in Q3 
+GDP contracted by 0.1% q/q in Q3 (after stagnating in Q2), weighed down by a sharp fall in aerospace output (-4.5% q/q 
+in the production of other transport equipment, which includes aerospace). This steep decline dragged down goods production 
+(down 1.2% q/q) and explains the sharp contraction in exports ( -1.7% q/q) and business investment (-0.4% q/q). Net trade thus 
+subtracted 0.6 pp from GDP (imports were flat over the same period). Conversely, household consumption surprised on the 
+upside (+0.4% q/q), boosted by purchases of electric vehicles (registrations up 112% y/y in Q3). Public consumption 
+(+0.3% q/q) also supported growth, as did activity in market services (+0.3% q/q).  Despite the sharp drop in aerospace 
+output in Q3, Airbus has confirmed its delivery targets for the year (with engine supply problems expected to be resolved), pointing 
+to a strong rebound in growth in Q4 (0.3% q/q according to our forecasts). Overall, gr owth is expected to reach 0.3% in 2026 , 
+before picking up to 0.8% in 2027. 
+United States: Growth at a one-year high  
+GDP growth picked up in Q3 to 3.4% at a seasonally adjusted annualised rate ( AR; i.e. 0.8% q/q), from 2.2% in Q2 
+(0.6% q/q). This is the fastest pace since Q3 2025, confirming that activity is almost immune to the energy shock. Private domestic 
+demand remains particularly strong. Private non-residential investment accelerated to 12.7% AR, a performance unmatched since 
+the post-Covid reopening. AI-related components are driving this figure (18.5% AR), but other types of investment are also rising 
+for a second consecutive quarter (3.8% AR) after contracting uninterruptedly throughout 2025. Household consumption, steady 
+at 2.5% AR in real terms, is growing faster than it did before inflation picked up again, but at the cost of a significant drop in the 
+saving rate (3.8% at the end of the quarter, down from 4.4% at the end of the previous quarter). The United States nonetheles s 
+continues to "import its growth": net trade is weighing on GDP owing to a surge in imports (19.7% AR), driven by AI -related 
+components – IT, semiconductors and telecommunications (103.8% AR).
 
 ### Page 2
 
-Photo by Monica Sauro / Unsplash
+Stéphane Colliac 
+Head of Advanced Economies Team, France  
+stephane.colliac@bnpparibas.com
 
-### Page 3
+Guillaume Derrien 
+Economist, Europe 
+guillaume.a.derrien@bnpparibas.com
 
-The S&P 500 fell 0.6% last week, and the Nasdaq dropped 2.0%, both
-posting their third straight week of losses, as disappointing tech earnings
-revived concerns about AI-related spending.
-The FOMC held the federal funds rate (FFR) at 3.75%-4.00% on
-Wednesday in a 10-2 vote, with the dissenters favoring a 25bps hike. We
-believe the committee needs another 50bps of increases to get back to a
-neutral FFR that is neither accommodative nor restrictive.
+Lucie Barette 
+Economist, Germany, Italy and Spain 
+lucie.barette@bnpparibas.com
 
-October’s employment report (Fri) caps a jam-packed week of labor
-market data, including JOLTS (Tue), ADP (Wed), and Challenger and
-jobless claims (Thu). ISM’s M-PMI (Mon) and NM-PMI (Wed) are also
-due. Six Fed officials are scheduled to speak. Tuesday’s midterm
-elections should be interesting. Rate decisions from the Reserve Bank of
-Australia and the Bank of England and earnings reports from Apple,
-Palantir, AMD, and Qualcomm round out the week's calendar. Here’s
-
-more:
-(1) Employment. October’s employment report is the economic headliner.
-Payrolls rose 29,000 in September, lowering the three-month average to
-50,700 (chart). The unemployment rate rose to 4.2% from 4.1%, while
-average hourly earnings increased just 0.1% m/m. We expect a stronger
-payroll gain than the consensus, of approximately 55,000.
-Challenger’s October layoff announcements (Thu) follow September’s
-count of 43,300. Technology led September’s announced cuts, at 10,800.
-
-Initial unemployment claims (Thu) remain low, with a four-week average of
-
-### Page 4
-
-197,800 for the week ended October 24 (chart). We expect more of the
-same for both labor market indicators this week.
-The four-week moving average of ADP's employment measure peaked at
-26,000 in late September before easing to 16,750 in early October (chart).
-September’s monthly ADP report showed a 90,000 gain in private
-payrolls, nearly double the Bureau of Labor Statistics’ 46,000.
-September’s JOLTS report (Tue) follows August’s 7.1 million job openings,
-
-down from 7.3 million in July. The share of consumers saying jobs are
-“plentiful” was 26.7% in October, little changed from 27.0% in August
-(chart).
-
-### Page 5
-
-(2) PMIs. ISM’s M-PMI (Mon) follows September’s 54.5 reading, with the
-prices-paid index at 77.9. The NM-PMI (Wed) was 54.9 (chart). S&P
-Global’s flash M-PMI edged up to 56.0 in October from September’s 55.9,
-a 53-month high, while the flash NM-PMI eased to 57.9 from 58.8. Both
-still point to solid ISM readings.
-S&P 500 forward earnings rose 38.8% y/y as of October 26, up from
-37.2% in September, suggesting more upside for the M-PMI (chart).
-
-### Page 6
-
-(3) Earnings. The earnings reporting season continues this week, with
-31% of the S&P 500 companies set to report. Apple, Palantir, AMD, Arista
-Networks, Qualcomm, and Arm headline the list.
-Analysts’ consensus estimates imply Q3-2026 operating EPS growth for
-S&P 500 companies of 23.8% y/y, down slightly from 24.1% last week,
-after Alphabet, Amazon, and Intel missed estimates (chart). Q4 growth
-estimates held at 30.2%.
-(4) Global. The Reserve Bank of Australia (Tue) is expected to hike its
-
-cash rate target by 25bps for a second straight meeting, to 4.85% from
-4.60% (chart). The markets are pricing in 88% odds of that result, so it’s
-no sure thing. Last week, the Reserve Bank of New Zealand held its
-official cash rate at 2.75% despite 95% odds of a hike. Both central banks
-are often seen as bellwethers for the global rate cycle.
-
-### Page 7
-
-The Bank of England (Thu) looks set to raise its rate by 25bps to 4.00%,
-with 98% odds priced into the markets. The markets see a 35% chance of
-another hike in December.
-The Eurozone’s flash CPI (Wed) is expected to rise in October from
-September’s 3.8% y/y, with the core rate holding at 2.5%. Among the
-major economies, Spain’s headline rate was the highest at 5.0% in
-September and Germany’s the lowest at 3.3% (chart).
-💡
-Join the discussion with Ed below! To leave comments or questions,
-
-log in to the Yardeni QuickTakes website and post them at the end
-
-### Page 8
-
-clause.
-Yardeni QuickTakes © 2026 – Unsubscribe
+Anis Bensaidani 
+Economist, United States, Japan 
+anis.bensaidani@bnpparibas.com
 
 ---
-## Document 310: Following the oil shock, El Niño threatens to hurt macroeconomic resilience in Sub-Saharan Africa further (2026-10-21)
+## Document 307: Following the oil shock, El Niño threatens to hurt macroeconomic resilience in Sub-Saharan Africa further (2026-10-21)
 
 Source PDF: all report pdf/Following the oil shock, El Niño threatens to hurt macroeconomic resilience in Sub-Saharan Africa further (2026-10-21).pdf
 Report source: BNP Paribas
@@ -3503,7 +3101,159 @@ see the Economic Research Twitter page
 HOW TO RECEIVE OUR PUBLICATIONS
 
 ---
-## Document 345: Lipper - This Week in Earnings 26Q3
+## Document 328: Is AI Useless_
+
+Source PDF: all report pdf/Is AI Useless_.pdf
+Report source: researchmail轉寄
+Date: 2026-10-27
+Pages: 7
+Extraction status: ok
+
+### Page 1
+
+From:    Yardeni QuickTakes <yardeni-research@ghost.io>
+Subject: Is AI Useless?
+Date:    15 minutes ago
+Is AI Useless?
+
+YARDENI QUICKTAKES
+Is AI Useless?
+By Ed Yardeni & Elias Griepentrog • 26 Oct 2026
+View in browser
+
+I. AI's Toxic Financial Trifecta
+Recent AI jitters have been fueled by a potentially toxic trifecta of financial
+constraints: elevated borrowing costs, uncertain investment returns, and
+concerns about whether sufficient capital exists to finance everyone's
+ambitious AI spending plans. Consider the following:
+(1) Elevated borrowing costs. The 10-year Treasury yield is hovering
+near the upper end of its "old normal" range of 4.0%-5.0% (chart). That
+puts it at the highest level since 2007. Overall, credit spreads (the extra
+
+### Page 2
+
+yield paid over equivalent US Treasuries, such as the 10-year note) have
+not blown out uniformly across the board. Instead, the market has
+bifurcated sharply between the pristine balance sheets of mega-cap tech
+companies and the leveraged balance sheets of pure-play
+infrastructure/data center borrowers.
+Yields on AI debt have not broadly surged relative to Treasuries for the
+dominant Big Tech issuers, whose balance sheets continue to be treated
+virtually like "proxy sovereigns." However, the credit market is increasingly
+
+imposing credit discipline, demanding significantly higher risk premiums
+and spreads from the leveraged second- and third-tier infrastructure
+borrowers that are building out the physical plumbing of AI. Increased
+concerns about the credit quality of AI borrowers have been reflected in
+widening credit default spreads (chart).
+
+### Page 3
+
+(2) Uncertain returns. Gartner estimates that AI data center operators
+must generate $8.5 trillion in cumulative revenues through 2030 to cover
+their investments and associated financing costs and still achieve a 12%
+return on invested capital. Yet Gartner projects no more than $3.6 trillion in
+attributable AI revenues over that period. In our view, if the numbers don't
+add up, the pace of the AI buildout will slow. That wouldn’t be a calamity.
+(3) Increasingly constrained capital. Meta's Q3 earnings report
+
+intensified concerns about capital availability. Despite strong revenue
+growth, the company reported negative free cash flow for the first time
+since 2012 and announced new non-voting shares to facilitate fundraising,
+warning of an "increasingly difficult fundraising environment." Today, Meta
+unveiled plans to raise up to $95 billion through equity offerings.
+Meanwhile, Broadcom CEO Hock Tan identified capital as potentially the
+biggest constraint on AI development. BlackRock CEO Larry Fink
+
+described competition for capital as the fiercest of his career, while Nvidia
+CEO Jensen Huang observed that neocloud demand is "off the charts,"
+but capital is scarce.
+Today, Elon Musk warned that more than 200 specialized AI cloud
+providers (i.e., neoclouds) are headed for a wave of "guppy-level death
+and consolidation." Musk stated that debt markets have "almost entirely
+shut off access to money for any company that doesn't have substantial
+revenue independent of AI data centers." In recent weeks, the neocloud
+
+providers’ stock prices have tumbled (chart).
+
+### Page 4
+
+On balance, hyperscalers’ stock prices have held up relatively well (chart).
+II. Will AI Pay Off?
+Demand for compute nevertheless remains extraordinary. Global
+spending on cloud infrastructure services surged 43% y/y to $143 billion in
+Q2, its fastest growth in eight years. But how sustainable is that demand
+growth? Ultimately, the marginal economic benefits derived from AI must
+justify the marginal cost of supplying the necessary compute.
+We believe AI is already generating tangible economic benefits, even if
+
+they have yet to become clearly visible in aggregate macroeconomic
+statistics. Consider the following:
+(1) Anthropic's S-1. Anthropic’s IPO filing today offered five revealing
+takeaways: First, revenues soared from $1.2 billion in H1-2025 to $16.3
+billion in H1-2026. Second, operating losses narrowed from $2.1 billion to
+$693 million, with Q2 marking the company's first quarterly operating profit
+of $974 million. Third, revenue per dollar of compute expense surged 5.2-
+
+fold to $2.08 between Q1-2025 and Q2-2026. Fourth, Anthropic held
+$131.7 billion in cash and short-term investments as of June, alongside
+$3.9 billion in H1 operating cash flow. Fifth, its enterprise footprint
+expanded rapidly, with more than 11,900 customers spending at least
+$100,000 annually as of September, up from roughly 950 a year earlier.
+(2) Corporate America's emerging AI payoffs. An August Janus
+Henderson study of 109 companies found that 69% reported some margin
+
+### Page 5
+
+improvement associated with productivity gains and AI-related cost
+reductions. Among the examples cited, Shell reported $400 million in
+annual savings and a 45% reduction in unplanned downtime; Freeport-
+McMoRan increased mill throughput 10% while cutting unit costs by up to
+15%; inventories at one Hitachi facility fell 50% and lead times shortened
+by 77%; and IBM reported $4.5 billion in AI-related savings in 2025.
+Last Thursday, Barclays announced plans to eliminate approximately
+
+5,000 jobs, or 5% of its workforce, as AI and broader technological
+modernization improve efficiency. PayPal is targeting $1.5 billion in
+annualized savings, partly through AI adoption.
+(3) Corporate profit margins. Corporate America is becoming more
+profitable. The forward profit margin of the S&P 500 excluding its
+Information Technology sector has been climbing this year, reaching
+12.9% in October (chart). Excluding just the Semiconductors industry, the
+
+forward profit margin rose to a record 14.4%. The forward profit margin in
+Semiconductors rose to a record 51.8% in the week of October 23. But
+most of the industry’s margin expansion since 2024 is attributable to
+capacity constraints pushing prices higher.
+A closer look reveals encouraging trends in industries where AI
+applications could be particularly beneficial. Forward profit margins have
+expanded in numerous financial industries where AI offers significant
+
+opportunities for automation (chart).
+
+### Page 6
+
+Health Care stands to benefit from AI applications that can streamline
+clinical workflows and administrative processes (chart).
+(4) Bottom line. We aren't yet seeing significant AI-driven profit margin
+expansion across the economy, but anecdotal evidence of AI-related
+productivity gains is mounting. We expect AI adoption to become
+increasingly widespread across industries, eventually delivering
+substantial productivity growth and boosting corporate profit margins. AI's
+
+economic payoff may not yet be obvious in aggregate statistics, but that
+doesn't mean it isn't already materializing.
+💡
+Join the discussion with Dr. Ed below! Paid members can now
+leave comments or questions at the end of our QuickTakes, and it
+
+### Page 7
+
+clause.
+Yardeni QuickTakes © 2026 – Unsubscribe
+
+---
+## Document 341: Lipper - This Week in Earnings 26Q3
 
 Source PDF: all report pdf/Lipper - This Week in Earnings 26Q3.pdf
 Report source: Refinitiv Lipper
@@ -4441,7 +4191,18 @@ You may not assign these Terms and Conditions nor any rights granted hereunder b
 otherwise without LSEG’ prior written consent.
 
 ---
-## Document 374: Solvency II reforms offer limited support for bank bonds, but securitisation gains some ground
+## Document 345: Meta、谷歌、英特尔增发认购者集体浮亏，标普下调Meta评级展望
+
+Source PDF: all report pdf/Meta、谷歌、英特尔增发认购者集体浮亏，标普下调Meta评级展望.pdf
+Report source: WallstreetCN (Global)
+Date: 2026-10-31
+Pages: 1
+Extraction status: ok
+
+[No extractable text after boilerplate filtering.]
+
+---
+## Document 367: Solvency II reforms offer limited support for bank bonds, but securitisation gains some ground
 
 Source PDF: all report pdf/Solvency II reforms offer limited support for bank bonds, but securitisation gains some ground.pdf
 Report source: ING Think
@@ -4900,140 +4661,7 @@ Performance Cookies
 Targeting Cookies
 
 ---
-## Document 385: The Next 90_ Your Geopolitical Risk Radar _ Nov 2026–Jan 2027 (2026-10-28)
-
-Source PDF: all report pdf/The Next 90_ Your Geopolitical Risk Radar _ Nov 2026–Jan 2027 (2026-10-28).pdf
-Report source: DB Research
-Date: 2026-10-28
-Pages: 3
-Extraction status: ok
-
-### Page 1
-
-Deutsche Bank Research Institute
-
-### Page 2
-
-Miha Hribernik, Helen Belopolsky | The Next 90: Your Geopolitical Risk Radar | Nov 2026–Jan 2027 |  October 2026
-Note: The calendar contains selected key events and is not intended to provide an exhaustive list.
-The Next 90: Your Geopolitical Risk Radar | Nov 2026–Jan 2027
-A geopolitical calendar mapping the next 90 days
-NOVEMBER
-1
-G20, G7, EU,
-ASEAN,
-BRICS+
-New rotating presidencies of the
-EU (Lithuania), G7 (US), G20 (UK),
-ASEAN (Singapore) and BRICS+
-
-(China)
-1 US
-Stricter US defence-procurement
-rules take effect for covered
-critical materials sourced from
-China, Russia, Iran and North
-Korea, including tighter waiver
-requirements
-1 Canada/US
-50% US tariff on Canadian
-automotive imports is set to enter
-into force
-3 US Convening of the 120th United States Congress
-10 China/US Busan trade truce expiry
-16 Nigeria General election
-18-22 WEF World Economic Forum annual meeting in Davos
-27 Kyrgyzstan Presidential election
-
-30 Germany Presidential election
-Early (TBC) Ukraine/US/Russia Trilateral peace talks expected in Abu Dhabi
-3 US Midterm elections (House, Senate, gubernatorial and state legislatures)
-4 South Africa Municipal elections
-4-5 Spain Ibero-American Summit
-7 New Zealand General election
-9 EU
-Eurogroup and Economic and
-Financial Affairs Council (ECOFIN)
-meetings
-9-20 COP31 COP31 in Türkiye
-14 Malaysia Melaka state election
-16-18 ASEAN 49th ASEAN Summit in Manila
-
-16-18 (TBC) Quad Quad Leaders’ meeting in Manila
-18-19 APEC
-APEC Economic Leaders’ Meeting in
-Shenzhen; Trump and Xi to meet on
-sidelines
-20 EU/UK EU-UK Summit
-27 France S&P sovereign credit rating review
-28 Taiwan Local elections
-29 Spain General election
-29 OPEC+ Ministerial meeting
-30-1 Dec EU/Argentina EU-Argentina Investment and Business Forum in Buenos Aires
-TBC US/North Korea Possible meeting between Donald Trump and Kim Jong-un
-DECEMBER JANUARY
-
-First half
-of Dec China
-Politburo meeting followed by
-annual Central Economic Work
-Conference
-3-4 OSCE Ministerial Council in Switzerland
-4 US
-Section 232 tariffs (15% ad
-valorem) and minimum import
-prices on polysilicon, derivatives
-and solar products set to enter
-into force
-5 The Gambia Presidential election
-5-6 Doha Forum Qatar’s flagship dialogue themed “Redefining Global Trust”
-10-11 EU
-Eurogroup and Economic and
-Financial Affairs Council (ECOFIN)
-
-meetings
-11 US Stopgap funding expires; shutdown risk
-14 EU Foreign Affairs Council meeting
-14-15 G20 G20 Summit in Miami
-17-18 EU European Council Summit
-31 OPEC+ Expiry of the current group-wide production framework
-TBD US
-US Congress is set to adopt
-annual-must pass defence
-legislation
-1
-
-### Page 3
-
-and research from Deutsche Bank Research, economists, strategists, and research analysts.  Accordingly, you should assume that content in this document is based on or was
-previously published and provided to Deutsche Bank clients who may have already traded on the basis of it.
-Any views or estimates expressed in this material reflect the current views of the author(s) and may differ from the views and estimates of Deutsche Bank AG, its affiliates, other
-
-Deutsche Bank personnel, and other materials published by Deutsche Bank.  The content in this material is valid as of the date shown on the first page and may change without
-notice.  Deutsche Bank has no obligation to provide any updates or changes to the information herein.
-This material should not be used as a basis for trading securities or other financial products and should not be considered to be a recommendation or individual investment advice
-
-instrument. Nothing in this material constitutes investment, legal, accounting or tax advice.  Deutsche Bank engages in secur ities transactions, including on a proprietary basis,
-and may do so in a manner inconsistent with the views or information expressed in this material.
-While information in this material has been obtained from sources believed to be reliable, neither Deutsche Bank AG nor any o f its affiliates makes any representation or warranty,
-
-Deutsche Bank AG Frankfurt, licensed to carry on banking business and to provide financial services under the supervision of the European Central Bank (ECB) and the German
-Federal Financial Supervisory Authority (BaFin). In the United Kingdom this information is approved and/or communicated by Deutsche Bank AG, London Branch, a member of the
-London Stock Exchange, authorized by UK’s Prudential Regulation Authority (PRA) and subject to limited regulation by the UK’s Financial Conduct Authority (FCA) (under number
-
-150018) and by the PRA. This information is distributed in Hong Kong by Deutsche Bank AG, Hong Kong Branch, in Korea by Deutsche Securities Korea Co. and in Singapore by
-Deutsche Bank AG, Singapore Branch. In Japan this information is approved and/or distributed by Deutsche Securities Limited, Tokyo Branch. In Australia, retail clients should
-obtain a copy of a Product Disclosure Statement (PDS) relating to any financial product referred to in this report and consider the PDS before making any decision about whether
-
-prior written consent.  You also agree that you shall not scrape, extract, download, upload, sell or offer for sale any of the content in this material, and you agree not to use, or
-cause to be used, any computerized or other manual or automated program or mechanism, tool, or process, including any scraper or spider robot, to access, extract, download,
-scrape, data mine, display, transmit, or publish, any of the content in this material.
-Appendix 1
-
-2
-
----
-## Document 388: The Week Ahead_ Forecasts, data preview, central bank watch (2026-10-09)
+## Document 381: The Week Ahead_ Forecasts, data preview, central bank watch (2026-10-09)
 
 Source PDF: all report pdf/The Week Ahead_ Forecasts, data preview, central bank watch (2026-10-09).pdf
 Report source: DBS
@@ -5413,7 +5041,7 @@ DBS Bank (Hong Kong) Limited, a company incorporated in Hong Kong with limited l
 Center, 99 Queen’s Road Central, Central, Hong Kong SAR.
 
 ---
-## Document 418: Westpac Economic Calendar November 2026 (2026-11-01)
+## Document 410: Westpac Economic Calendar November 2026 (2026-11-01)
 
 Source PDF: all report pdf/Westpac Economic Calendar November 2026 (2026-11-01).pdf
 Report source: Westpac IQ
@@ -6068,7 +5696,20 @@ with, or be subject to the regulations of, the SEC in the United
 States. Information on such non-U.S. securities or related
 
 ---
-## Document 438: 【國泰證期研究部】PCB產業-TPCA Show 2026直擊
+## Document 423: “中选决战”在即，为避免被横扫，共和党要保“基本盘”
+
+Source PDF: all report pdf/“中选决战”在即，为避免被横扫，共和党要保“基本盘”.pdf
+Report source: WallstreetCN (Global)
+Date: 2026-10-31
+Pages: 1
+Extraction status: ok
+
+### Page 1
+
+⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⻅闻历 搜索
+
+---
+## Document 430: 【國泰證期研究部】PCB產業-TPCA Show 2026直擊
 
 Source PDF: all report pdf/【國泰證期研究部】PCB產業-TPCA Show 2026直擊.pdf
 Report source: line報告備份
@@ -6485,314 +6126,7 @@ above。插拔式光模組及目前的 CPO 交換機主要用於 scale out；CPO
 投資評等定義
 
 ---
-## Document 452: 【天然資源產業攻略】天然資源受地緣擾動的展望
-
-Source PDF: all report pdf/【天然資源產業攻略】天然資源受地緣擾動的展望.pdf
-Report source: CTBC
-Date: 2026-10-12
-Pages: 4
-Extraction status: ok
-
-### Page 1
-
-不做任何擔保，如有錯漏或疏忽，本行並不負任何法律責任。任何人因信賴此等資料而做出或改變投資決策，應審慎衡量本身之需求及投資之風險，並就投
-資結果自行負責。未經本公司許可，本資料及訊息不得逕行抄錄、翻印或另作派發。本行以上市場資訊與分析，不涉及特定投資標的之建議。
-天然資源受地緣擾動的展望
-分析師／林珍安
-研究範疇／能源/ 原物料
-天然資源產業投資攻略
-出 刊 日 : 2026/10/12
-熱門議題 / 投資關鍵
-《地緣風險變數使油價短期仍偏上》
-OPEC+決議11月產出配額維持 9月規模，預期目前
-配額將持續至今年年底 ，下一輪恢復最後一套 200
-萬桶/日的額外減產措施將在明年視市況調整。依市
-場推估，中東區域海運原油及成品油運輸出口量9月
-底曾回至接近九成 ，受荷姆茲海峽油輪襲擊事件增
-加，伊朗革命衛隊預告管理範圍擴大 ，使原油運輸
-開始下降 ，但曼德海峽因沙國駐葉門大使稱已清除
-胡塞武裝勢力 ，預期曼德海峽運輸量將不受影響 。
-但受轉運延長運輸時間 、避開受制裁的原油採購 ，
-加上搶補低庫存 ，市場追逐現貨使布油呈現大幅現
-
-貨溢價，七國集團(G7)雖計畫在未來四個月內釋放
-總計原油與柴油戰略儲備各 0.5億桶，總計1億桶，
-但預計佔每天原油用量低 ，僅短期壓抑油價 ，主要
-重點仍在美伊談判、美國向中東增兵、伊朗襲船，
-市場投資展望
-資產 4Q26看法 投資展望
-能源 中立 地緣風險使油價短期偏上行，但若降溫因庫存回補使回落有限。能源股較看好綜合油企。
-原物料 中立 受供應下降可能性增，較看好銅價，但留意銅關稅政策。
-• 能源：地緣風險使油價短期偏上
-行，但若降溫因庫存回補使回落
-有限。能源股較看好綜合油企。
-pg1
-• 原物料：受供應下降可能性增，
-較看好銅價，但留意銅關稅政策。 pg3
-重點摘要
-本月關鍵圖表
-資料來源：高盛，2026/10/8，中國信託商業銀行彙整，
-2026/10/12
-• 中東區域原油運輸受地緣風
-險上升 ，仍充滿不確定性 ，
-短期油價偏上行 ，局勢若緩
-解後續回補需求使油價回落
-也有限。
-1
-全球原油庫存處於2017年以來低點
-百
-萬
-桶
-美
-元
-/
-桶
-全球可見原油庫存(反向)
-布蘭特油價(右)
-
-### Page 2
-
-不做任何擔保，如有錯漏或疏忽，本行並不負任何法律責任。任何人因信賴此等資料而做出或改變投資決策，應審慎衡量本身之需求及投資之風險，並就投
-資結果自行負責。未經本公司許可，本資料及訊息不得逕行抄錄、翻印或另作派發。本行以上市場資訊與分析，不涉及特定投資標的之建議。
-荷姆茲海峽運輸仍充滿變數 ，布油價格將維持在 90
-美元之上較長時間 ，但若衝突緩解 ，油價雖可回落 ，
-但預期因庫存回補需求，回落程度也有限。
-《天然氣價格：美持平或略低於去年 ，歐洲偏上行 》
-美國鑽井活動緩升 ，增加較多在天然氣 ，隨美國新
-的液化天然氣出口工廠上線 ，逐漸改善管道瓶頸 ，
-天然氣 10月庫存僅高於五年均值 2%，注入期可持
-續增至11月中，預估今年冬天暖氣度日數將持平去
-年 ， 並 比 過 去 五 個 冬 季 的 均 值 低1% ， 預估美國
-4Q26天然氣價格將因季節性走升，但持平或略低於
-去年。卡達能源LNG船已出口 ，但非往歐洲 ，歐洲
-儲氣量雖拉升 ，但僅達 70%，遠低於過往 ，TTF價
-格須優於亞洲以吸引運往亞洲的 LNG轉往歐洲 ，加
-
-上中東地緣緊張，預期4Q26 TTF價格仍有上行風險。
-重點摘要
-• 天然氣：美國天然氣出口增
-加，庫存增速下降 ，使4Q26
-美國天然氣價格持平或略低
-於去年同期；歐洲因庫存偏
-低的回補需求將使天然氣價
-格偏上行。
-• 釋儲及美俄供應柴油協議雖
-對全球柴油供給影響有限 ，
-但超額柴油利潤恐見頂。
-• 預期綜合油企 、煉油廠雖因
-汽油淡季使 4Q26 獲 利 低 於
-3Q26，但獲利年比仍大幅成
-長，維持股東回報 ，較看好
-綜合油企。
-下圖/預期柴油價格仍暫時維持高檔後緩降
-資料來源：EIA，2026/10/6，中國信託商業銀行彙整，2026/10/8
-2
-《釋儲及放寬制裁增加柴油恐使煉油利潤見頂》
-受歐美老舊煉油廠關廠 ，煉油產能因俄烏 、中東戰
-事受損，估計全球煉油廠開工率年減近 800萬桶/日，
-加上中、俄禁止柴油出口 ，使柴油供應比原油更緊
-張。美國柴油庫存低於五年區間下緣 ，柴油價格創
-高，因美未禁止柴油出口 ，柴油利潤保持強勁 。但
-美協調G7國家釋出柴油儲備為期四個月 ，達成美俄
-
-柴油供應協議增加供給 ，雖粗略換算為短期每日供
-給增加不到全球 1%，預期對柴油價格壓力影響僅
-5%內，明年隨設備漸修復、地緣風險降低後，才緩
-降，但美國超額柴油利潤恐見頂。
-《4Q26能源類股較看好綜合油企》
-預估美綜合油企 4Q26受惠油價高於預期 、LNG出
-口增加，柴油高裂解價差 ，但進入汽油需求淡季 ，
-獲利季比下滑 ，但年比仍大幅成長 ，現金流仍強大 ，
-維持資本紀律及股東回報 。雖成品油供應仍較原油
-吃緊，但煉油商超額利潤恐見頂 ，較看好綜合油企 。
-美
-元
-/
-加
-侖
-柴油
-汽油
-布油
-預估
-
-### Page 3
-
-不做任何擔保，如有錯漏或疏忽，本行並不負任何法律責任。任何人因信賴此等資料而做出或改變投資決策，應審慎衡量本身之需求及投資之風險，並就投
-資結果自行負責。未經本公司許可，本資料及訊息不得逕行抄錄、翻印或另作派發。本行以上市場資訊與分析，不涉及特定投資標的之建議。
-《預期4Q26商品化學利潤承壓，特化獲利持穩》
-美國ISM 9月製造業PMI為54.5，連續第9個月位於
-擴張區間；新訂單升至55.3，較8月53.7改善，化學
-產品亦列入擴張產業 ，顯示美國化學品下游需求並
-沒有陷入衰退 ，但化學製造業產能利用率仍低於
-80%。受油價上漲推升進料價格 ，轉嫁化學產品價
-格上漲 ，但漲幅不及成本上揚 ，壓縮利潤 ，預期
-3Q26獲利低於2Q26，4Q26也低於3Q26，但基期
-因素仍較去年大幅成長 ，但且因進料來源不同 ，北
-美廠因較低成本優勢 。就塗料，其股價與利率呈負
-相關，利率升股價下跌 ，雖受惠定價力 、室內裝修
-與新成屋交屋塗裝及市占率增加 ，但因氣候影響戶
-外漆銷售及 DIY市場疲軟 ，Q4獲利較 Q3下滑 ，但
-
-YOY呈中個位數成長 。工業氣體受惠定價力及合約
-保護，4Q26獲利年增率呈現中高個位數成長。
-資料來源：JP Morgan，2026/10/9 ，中國信託商業銀行彙整，2026/10/12
-下圖/乙烷基乙烯利潤優於石腦油基
-重點摘要
-• 化學：受產品價格漲幅不如
-原料上漲 ，預期4Q26商品化
-學承壓，特化獲利持穩。
-• 鋼鐵：美因高關稅維持高鋼
-價，但鋼廠因個別因素及淡
-季，2H26獲利逐季降 ，但年
-比仍 大幅成長 。預期供給增
-加及需求不如預期 ，鐵礦砂
-價走弱。 《美鋼價因關稅維持高檔；鐵礦砂價走弱》
-今年美國粗鋼生產境內產能利用率約 79%，已在過
-去循環相對高點 ，受高關稅影響 ，美鋼價高於其他
-地區，進口鋼材量逐季增加 ，進口市占率預估九月
-提高1%至19%。預估3Q26美鋼廠獲利提高 ，但受
-原料部門售價較低及減少一次性收益影響，3Q26獲
-利將低於市場預期 ，4Q26雖因淡季 ，獲利將低於
-3Q26，但仍遠優於去年。中國重點城市推出一連串
-支持房市政策 ，但百大房企今年前九月銷售同比仍
-
-呈現下降 ，降幅持平前八月 ，今年前八月製造業 、
-基礎設施投資同比也下降 ，發改委督促地方政府加
-速重大計畫建設，預期4Q26基建領域為中國鋼鐵需
-求推動動能，受需求不如預期，中國港口鐵礦砂庫
-3
-美
-分
-/
-磅
-美
-元
-/
-桶
-乙烷基利潤 石腦油基利潤
-布蘭特油價(右軸)
-
-### Page 4
-
-不做任何擔保，如有錯漏或疏忽，本行並不負任何法律責任。任何人因信賴此等資料而做出或改變投資決策，應審慎衡量本身之需求及投資之風險，並就投
-資結果自行負責。未經本公司許可，本資料及訊息不得逕行抄錄、翻印或另作派發。本行以上市場資訊與分析，不涉及特定投資標的之建議。
-存微增，且受供給漸增 ，預期明年鐵礦砂價格走弱 。
-《非美吃緊及其他潛在供應風險支撐銅價在高檔》
-受美元走強 ，銅價略有回跌 ，但持續受美國 囤積庫
-存影響降低非美供給呈吃緊 ，且尚面臨智利產出下
-降，兩大礦區勞資談判恐罷工的風險 ，聖嬰現象使j
-未來南美降雨過多恐影響供應，預期4Q26銅價維持
-高檔，但若美未加徵關稅，則為銅價的上行壓力。
-資料來源：JP Morgan，2026/9/25，中國信託商業銀行彙整，2026/10/8
-下圖/智利銅礦供給低於均值
-重點摘要
-• 受美囤積庫存 、智利供應下
-降，及其他潛在供應風險 ，
-將使銅價維持高檔 ，但若美
-未增加關稅為上檔壓力。
-• 黃金：預期金價短期不利因
-素多 ，但預期受擔憂財政 、
-
-去交易對手風險及多元化資
-產配置支撐 ，維持中期金價
-緩升。
-4
-《預期金價短期不利因素多，但中期緩升》
-近月金價歷經 美國通膨及經濟成長 ，美國FED採取
-預防管理式升息一碼 ，認為年底前仍有升息一碼空
-間，但受就業降溫及通膨低於預期 ，市場降低10月
-升息預期 ，加上法國國債被拋售蔓延全球債市使美
-長期公債殖利率及美元走強 、黃金淨多頭部位下降 ，
-壓低本月金價下跌 ，也跌破季線 。預期短線金價受
-債券殖利率飆升 、實質利率走升 及美元走強 相對不
-利金價走勢 ，震盪放大。但若美債收益率回落 、擔
-憂債務可持續性 、分散交易對手風險及多元化資產
-配置，中國人行連續23個月購金，並加大購金步伐 ，
-3Q26黃金ETF呈現創紀錄淨買超 ，預期3800-4000
-美元有撐，維持金價中期緩步上行。
-資料來源：世界黃金協會，2026/10/7，中國信託商業銀行彙整，2026/10/12
-下圖/3Q26黃金ETF資金流入創紀錄
-千
-噸 千噸
-全球黃金ETF按地區劃分的資金流動
-智利銅礦月產量
-十
-
-億
-美
-元
-北美 歐洲 亞洲 其他
-
----
-## Document 487: サイバー攻撃による経済損失をどう考えるか ～一企業の被害から、マクロ的な経済損失となるリスク～
-
-Source PDF: all report pdf/サイバー攻撃による経済損失をどう考えるか ～一企業の被害から、マクロ的な経済損失となるリスク～.pdf
-Report source: DLRI
-Date: 2026-10-14
-Pages: 2
-Extraction status: ok
-
-### Page 1
-
-Economic Trends
-
-2026 年10 月 14 日
-
-1/2 
-サイバー攻撃による経済損失をどう考えるか 
-～一企業の被害から、マクロ的な経済損失となるリスク～ 
- 経済調査部 主席エコノミスト  前田 和馬 
-（℡：050-5473-3888）
-
-情報漏洩を中心にサイバー攻撃による被害が国内外で目立っている。相次ぐサイバー攻撃には
-AIが悪用された可能性が指摘されており、今後もこうした被害は拡大する懸念がある。サイバー
-攻撃による経済的な影響は主に3 つ考えられる。 
- まず、被害による直接的な金銭損失であり、仮想通貨等の資産の流出、身代金の支払い、被害
-者への補償金支払いなどが挙げられる。FBIが被害申告ベースでまとめた「Annual Internet 
-Crime Report 2025」によると、米国を中心としたサイバー犯罪の被害総額（個人被害も含む）は
-209 億ドルと近年飛躍的に拡大している。なお、こうした被害は基本的に所得移転であり、生産活
-動を捕捉する国内総生産（GDP）に直接的な影響を与えるわけではない。 
- 次に、サイバー攻撃を通じた企業活動への損害だ。例えばCSISとMcAfeeによる 2020 年の調査で
-は、サイバー攻撃を受けた場合に業務は平均18 時間中断したと指摘する。サイバー攻撃は既存顧
-客へのサービス提供や新たな顧客獲得活動などを抑制する懸念がある。これに加えて、企業のブ
-ランド価値を毀損し、顧客は該当サービスの利用を当面ためらうかもしれない。 
- サイバー攻撃による経済活動への被害が一企業に留まるのであれば、競合他社が代替的にサー
-ビスを提供する、或いはシステム復旧後に挽回生産などが生じることで、マクロ的な影響は限定
-される。しかし、こうした被害が「交通インフラなど代替が難しい企業」、或いは「産業内の広範
-な企業」に及ぶ場合、サイバー攻撃で損なわれた供給能力を補うことが難しく、マクロ経済全体
-の損失へと波及する。AIを通じたサイバー攻撃の頻発は、従来のミクロ的な「一企業の被害」か
-ら、マクロ的な「産業や経済全体の被害」に転じるリスクを高めている可能性がある。 
- 最後に、サイバーセキュリティ対策の強化によるIT関連支出の増加であり、これはGDPを押し上
-げる可能性が高い。例えば、2000 年問題（西暦が2000 年になるとコンピュータが誤作動を起こす
-との懸念）の際のIT対策費用は全世界で3,000～6,000 億ドルと、1999 年における世界GDPの 0.9
-～1.8%に達したとみられている。一方、攻撃をうける企業の防御対策よりも、AI脅威論による開
-発抑制の動きが強まる場合、データセンター投資や株式市場の調整を通じて景気減速へと繋がる
-懸念がある。なお、米国ではトランプ政権が対中競争力の観点からAI規制に消極的であるほか、
-連邦議会におけるFrontier ActなどのAI規制法案も成立に至るかは不透明だ。
-
-### Page 2
-
-本資料は情報提供を目的として作成されたものであり、投資勧誘を目的としたものではありません。作成時点で、第一ライフ資産運用
-経済研究所が信ずるに足ると判断した情報に基づき作成していますが、その正確性、完全性に対する責任は負いません。見通しは予告
-なく変更されることがあります。また、記載された内容は、第一生命保険ないしはその関連会社の投資方針と常に整合的であるとは限
-りません。 
-2/2 
-図表 1：全米におけるサイバー犯罪の被害総額
-
-出所: FBI より第一ライフ資産運用経済研究所が作成
-
-以 上 
-0
-50
-100
-150
-200
-250
-00 05 10 15 20 25
-(億ドル)
-
----
-## Document 500: ラガルド総裁下のＥＣＢを振り返る ～金融政策の専門家ではない総裁の実績～
+## Document 482: ラガルド総裁下のＥＣＢを振り返る ～金融政策の専門家ではない総裁の実績～
 
 Source PDF: all report pdf/ラガルド総裁下のＥＣＢを振り返る ～金融政策の専門家ではない総裁の実績～.pdf
 Report source: DLRI
@@ -7051,11 +6385,181 @@ PEPPを導入して市場の安定化に動いたが、この一件はラガル�
 以 上
 
 ---
-## Document 507: 中共５中全会閉幕、次期党大会を見据えて党・軍への統制強化を加速 ～経済政策の実効性と日中関係の行方にも注目～
+## Document 488: 下周重磅日程：聚焦美国中选与中国重磅金融会议，非农、AMD和苹果财报齐至
+
+Source PDF: all report pdf/下周重磅日程：聚焦美国中选与中国重磅金融会议，非农、AMD和苹果财报齐至.pdf
+Report source: WallstreetCN (Global)
+Date: 2026-11-01
+Pages: 8
+Extraction status: ok
+
+### Page 1
+
+全球科技股暴跌后，下周苹果、 AMD 财报将是 AI 叙事能否重建的关键检验。同时，美国中
+期选举改选众参两院，结果直接决定特朗普后两年施政空间；以⾊列议会选举结果公布、
+俄美乌三⽅谈判拟重启，地缘⻛险持续扰动市场。美⾮农数将出炉，中国外汇储备同步披
+露。中国⾦融管理部⻔周⼀将开会研究推动⽀持资本市场⼯具使⽤。此外，苹果 Apple 智能
+将接⼊千问。
+摘要：
+11 ⽉ 02 ⽇  - 11 ⽉ 08 ⽇当周重磅财经事件⼀览，以下均为北京时间：
+⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⻅闻历 搜索
+
+### Page 3
+
+⻅闻财经⽇历提醒下周重点关注：
+本周五，英特尔暴跌 29% 创历史最⼤单⽇跌幅，纳指录得⼀年多来最差⽉份。亚⻢逊资本⽀出
+创纪录、⾕歌⾃由现⾦流转负、英特尔⽑利率指引骤， AI 交易信⼼遭重创，科技股全线⾎洗。
+财报：下周苹果与 AMD 将是这轮 AI 抛售潮后接受检验的科技巨头—— 苹果共识营收约 1130 亿美
+元，系新任 CEO 特努斯⾸秀； AMD 指引约 130 亿美元， Helios 机柜与 MI450 爬坡决定其万亿市值
+能否守住。两份财报将直接定价市场情绪能否企稳。此外，下周光模块巨头 Coherent 、
+Lumentum ，⾼通、超微电脑、伯克希尔哈撒⻙等财报也将出炉。此外报道称，Marvell 正就收
+购 Lumentum 进⾏磋商，最快下周宣布。苹果 Apple 智能接⼊阿⾥千问， 11 ⽉ 4 ⽇开放测试。
+选举与地缘： 11 ⽉ 3 ⽇美国中期选举改选众议院 435 席与参议院 35 席，结果决定特朗普此后两年
+推进财政、关税与产业补贴的难度。博彩市场⽬前将⺠主党 “ 横扫 ” 两院的概率定价在 67% 。 11 ⽉
+
+4 ⽇以⾊列议会选举最终结果公布，俄美乌三⽅谈判同周拟在阿布扎⽐重启，若成⾏将是继伊斯
+坦布尔后最⾼级别接触，油⽓与避险资产随之波动。
+经济数据与宏观⽅⾯，美国 10 ⽉⾮农数据将出炉，9 ⽉前值仅增 2.9 万、预期 6.5 万， 10 年期美债
+已收在 4.9% ，读数偏强将巩固加息预期，美元、美债与⻩⾦同步联动，是下周全球最重的宏观
+数据。中国⽅⾯，⾦融管理部⻔周⼀将召开会议，研究推动⽀持资本市场⼯具使⽤。 10 ⽉外汇
+储备将公布。此外，第九届进博会、乌镇峰会同期开幕。
+
+### Page 4
+
+2027 ⻅闻历，把全年重要财经⽇程，提前铺在你⾯前
+别⼈事情来了才反应，你翻开⽇历就知道下⼀步
+⻓按图⽚扫码选购
+经济指标
+美国 10 ⽉⾮农就业⼈⼝变动、失业率
+11 ⽉ 6 ⽇，美国 10 ⽉⾮农就业数据出炉， 9 ⽉仅增 2.9 万⼈，市场预期 10 ⽉增 6.5 万⼈，失业率同
+⽇发布。这是本周全球最重的⼀份数据： 10 年期美债收益率本周收在 4.9% ，⽩宫哈塞特称通胀
+若⾼企则下次加息理由充分，读数偏强将巩固加息预期，美元、美债与⻩⾦同步波动，美股在
+两条叙事间来回切换。
+英国央⾏政策利率、澳洲联储政策利率
+11 ⽉ 3 ⽇澳洲联储公布政策利率，前值 4.60% ，市场预期升⾄ 4.85% ，即年内第五次加息。 11 ⽉ 5
+⽇英国央⾏公布政策利率，前值 3.75% ，市场预期加息 25 个基点⾄ 4.00% 。此次若加息，其顾虑
+集中在服务通胀与⼯资增速两项；英镑与英债对声明措辞的反应通常⼤于对利率数字本⾝。
+中国 10 ⽉外汇储备
+11 ⽉ 7 ⽇公布中国 10 ⽉外汇储备，此前 9 ⽉末为 34002.5 亿美元，央⾏连续 23 个⽉增持⻩⾦储
+
+备，⻩⾦储备持有量是近年焦点。
+财报
+苹果、 AMD 、 Lumentum 、 Coherent 、⾼通
+周⼀盘后苹果与 Palantir ，苹果是新任 CEO 特努斯上任后⾸份成绩单，共识营收约 1130 亿美元、
+EPS 1.98 美元，内存涨价与假⽇季指引是看点；周⼆盘后 AMD 指引营收约 130 亿美元、⽑利率
+56% ， Helios 与 MI450 爬坡定万亿市值；⾼通、 Lumentum 、 Coherent 、⾼通、伯克希尔哈撒⻙
+等财报也将出炉。
+
+### Page 5
+
+A 股三季报已收官、港股关注华虹半导体
+A 股三季报正式报告已于 10 ⽉ 31 ⽇披露收官，下周进⼊披露空档；下⼀次密集窗⼝要等到年报预
+告期，期间业绩线索主要来⾃三季报后的机构调研与⾏业数据。港股关注 11 ⽉ 5 ⽇华虹半导体财
+报。
+财经事件
+⾦融管理部⻔ 11 ⽉ 2 ⽇将召开会议，研究推动⽀持资本市场⼯具使⽤
+上证报记者从业内获悉，⾦融管理部⻔ 11 ⽉ 2 ⽇将召开会议。有证券公司、基⾦公司接到通知，
+11 ⽉ 2 ⽇中国⼈⺠银⾏、中国证监会召开会议，研究推动⽀持资本市场⼯具使⽤。同⼀天，中国
+⼈⺠银⾏、⾦融监管总局、中国证监会还将召集各⼤银⾏开会研究优化股票回购增持再贷款政
+策。
+股票回购增持再贷款是⽀持资本市场的两项货币政策⼯具之⼀。 2024 年 10 ⽉ 18 ⽇，中国⼈⺠银
+⾏联合⾦融监管总局、中国证监会发布《关于设⽴股票回购增持再贷款有关事宜的通知》，设⽴
+股票回购增持再贷款，激励引导⾦融机构向符合条件的上市公司和主要股东提供贷款，⽀持其
+回购和增持上市公司股票。
+
+美国  11 ⽉  3 ⽇中期选举
+11 ⽉ 3 ⽇美国举⾏中期选举，改选众议院全部 435 席与参议院 35 席（含佛州、俄亥俄 2 席特别补
+选）。共和党众议院 218 席对 214 席、参议院 53 席对 47 席，⺠主党须在众议院净增 3 席、参议院净
+增 4 席翻盘；若打成 50:50 由副总统万斯投关键⼀票。拨款、税法案与⼈事确认权的归属由此改
+写财政、关税与产业补贴的推进难度。博彩市场⽬前将⺠主党 “ 横扫 ” 两院的概率定价在 67% 。
+11 ⽉ 4 ⽇以⾊列议会选举最终结果
+据 CCTV 国际时讯，以⾊列第 26 届议会选举投票已于 10 ⽉ 27 ⽇晚结束，中央选举委员会数据显
+⽰投票率达 74.3% ，⾼于 2022 年同期的 66.3% ，为 1988 年以来该时段最⾼。政党须跨过 3.25%
+得票⻔槛进⼊议会并按⽐例分配 120 席；最终结果由委员会于 11 ⽉ 4 ⽇正式公布，此后由总统授
+权议员组阁。
+俄罗斯愿在 11 ⽉ 4 ⽇后恢复俄美乌三⽅谈判
+据新华社援引俄罗斯媒体报道 25 ⽇报道，俄总统助理乌沙科夫接受记者采访时说，俄⽅愿意在
+
+11 ⽉ 4 ⽇后恢复俄美乌三⽅谈判。乌克兰外交部⻓瑟⽐加 27 ⽇表⽰，乌⽅已准备好参加在阿拉伯
+联合酋⻓国举⾏的乌克兰、美国和俄罗斯三⽅会谈，将利⽤⼀切机会推动实现和平。
+
+### Page 6
+
+Marvell 洽谈收购 Lumentum （最快 11 ⽉ 2 ⽇当周宣布）
+迈威尔科技（ Marvell Technology ）正就收购数据中⼼光学器件制造商 Lumentum 进⾏深⼊谈
+判，有望达成 AI 硬件供应链领域的⼀笔⼤型并购交易。 10 ⽉ 28 ⽇，据彭博援引知情⼈⼠透露，
+交易最快可能于下周宣布。不过双⽅尚未达成最终协议，包括时间安排在内的细节仍有变数。
+苹果： Apple 智能接⼊阿⾥千问， 11 ⽉ 4 ⽇开放测试
+10 ⽉ 31 ⽇，苹果和阿⾥巴巴宣布达成合作，将千问集成⾄ Apple 智能，中国⽤⼾可以在 Siri 、写
+作⼯具及视觉智能中，直接调⽤千问的⽂本与图像理解、内容⽣成等能⼒。这些功能将于 11 ⽉ 4
+⽇起随最新的 iOS 开发者 Beta 版开放测试，并将于 12 ⽉ iOS 27.3 正式发布时⾯向中国⽤⼾推出。
+上海进博会  + 虹桥论坛（ 11 ⽉ 5 ⽇ -10 ⽇）
+11 ⽉ 5 ⽇⾄ 10 ⽇第九届中国国际进⼝博览会在上海举办，虹桥国际经济论坛同期开幕。作为国家
+
+级开放平台，进博会每年集中释放中国进⼝订单与准⼊信号；成交意向⾦额及消费品、⾼端装
+备、医疗展区签约情况是看点，牵动进⼝链与⼈⺠币资产情绪。
+2026 年世界互联⽹⼤会乌镇峰会将于 11 ⽉ 2 ⽇⾄ 5 ⽇举⾏
+11 ⽉ 2 ⽇⾄ 5 ⽇， 2026 年世界互联⽹⼤会乌镇峰会在浙江乌镇举⾏，主题为 " 开源开放  共建共享
+—— 携⼿构建⽹络空间命运共同体 " ，设 27 个分论坛含 AI 乌镇对话、机器⼈与具⾝智能。据中国
+政府⽹，⼤会邀请全球政府、国际组织、企业与专家学者代表，围绕⼈⼯智能开源开放发展的
+理念与实践展开交流。
+上交所科创芯⽚ ETF 出海，将在⾹港联交所上市
+上交所科创芯⽚ ETF （ 588200 ）将通过沪港 ETF 互挂实现出海。跟踪该 ETF 的港交所互挂基⾦
+已于 10 ⽉ 28 ⽇获批，预计 11 ⽉ 6 ⽇在⾹港联交所上市，境外投资者可在港股市场直接交易，便捷
+配置上证科创板芯⽚指数资产。
+AI ⼤模型追踪： Kimi K3.1 Pro 完整模型权重开放、 Claude Fable 5.5 或发布
+
+10 ⽉ 24 ⽇凌晨，⽉之暗⾯发布 Kimi K3.1 系列⾸个模型 Kimi K3.1 Pro 及⾼速版 Kimi K3.1 Pro
+Highspeed ，完整模型权重计划于 11 ⽉ 4 ⽇前开放。第三⽅倒计时站预估 Claude Fable 5.5 11 ⽉
+5 ⽇发布， Anthropic 官⽅未公布⽇期与模型 ID ；微软 Azure East US 2 ⽬录已出现 claude-fable-
+5-5 条⽬，标注 1M 上下⽂、最⼤输出 12.8 万 token 、输⼊每百万 10 美元，时点紧贴 Anthropic 11
+⽉ 9 ⽇当周启动的 IPO 路演。
+
+### Page 7
+
+AI 产业活动追踪
+AI 活动集中在两条线：国内是乌镇峰会与安博会，前者以开源为主题、设 27 个分论坛，后者⾸
+设具⾝智能与低空安全展区，安防⼤模型与公共安全智能体的实战落地是看点；海外是北美与
+欧洲两场⼈形机器⼈峰会，本体⼚商年度交付指引与供应链名单通常在此更新，国内⼚商的参
+展⼝径会被市场拿来对照。
+半导体封测年会将举⾏，多家上市公司参会
+记者了解到，第⼆⼗四届中国半导体封装测试技术与市场年会（简称 “ 封测年会 ” ）将于 11 ⽉ 4
+⽇ -6 ⽇在南京丰⼤国际⼤酒店举⾏。在为期两天的会议中，来⾃华天科技、⻓电科技、通富微
+电、南京台积电、壁仞科技、京东⽅、云天半导体等半导体封测、芯⽚设计、玻璃基板、先进
+封测设备等领域的⻰头企业，将通过主论坛、专题报告、供需对接等形式，交流先进封装的最
+新发展⽅向。（上证报）
+法国⼯会呼吁 11 ⽉ 5 ⽇举⾏全国性罢⼯
+法国⼯会呼吁 11 ⽉ 5 ⽇举⾏全国性罢⼯。
+下下周提前预警
+11 ⽉ 9 ⽇，中国 10 ⽉ CPI同⽐、 11 ⽉ 10 ⽇，中国 10 ⽉进出⼝。
+
+Anthropic 计划最快于 11 ⽉ 9 ⽇当周启动 IPO 路演。据媒体报道， Anthropic 计划最快于 11 ⽉ 9
+⽇当周  启动 IPO （⾸次公开募股）正式路演。
+美国两只挂钩 SK 海⼒⼠杠杆 ETF 清算退市。 Tradr ETFs 宣布旗下两只挂钩 SK 海⼒⼠ ADR 的
+杠杆产品将于 11 ⽉ 12 ⽇前后清算退市，⼀多⼀空，上市仅数⽉合计规模缩⾄约 130 万美元，
+较峰值降逾 60% 。
+11 ⽉ 10 ⽇⾄ 11 ⽇  美股 CoreWeave、应⽤材料与思科披露业绩。
+
+### Page 8
+
+⻛险提⽰及免责条款
+市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂
+中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
+205 收藏 分享到 :
+写评论
+图⽚
+更远期： 11 ⽉ 16 ⽇当周  Anthropic 在纳斯达克挂牌； 11 ⽉ 17 ⽇⾄ 18 ⽇  亚太经合组织会议在深
+圳举⾏。
+限免
+请发表您的评论
+表情 发布评论
+
+---
+## Document 489: 中共５中全会閉幕、次期党大会を見据えて党・軍への統制強化を加速 ～経済政策の実効性と日中関係の行方にも注目～
 
 Source PDF: all report pdf/中共５中全会閉幕、次期党大会を見据えて党・軍への統制強化を加速 ～経済政策の実効性と日中関係の行方にも注目～.pdf
-Report source: DLRI
-Date: 2026-10-30
+Report source: Unknown
+Date: 未知日期
 Pages: 6
 Extraction status: ok
 
@@ -7284,112 +6788,319 @@ Asia Trends
 以 上
 
 ---
-## Document 520: 为何10月PMI偏弱？
+## Document 502: 主要產業總評：美股待估值合理
 
-Source PDF: all report pdf/为何10月PMI偏弱？.pdf
-Report source: WallstreetCN (Global)
-Date: 2026-10-31
-Pages: 12
+Source PDF: all report pdf/主要產業總評：美股待估值合理.pdf
+Report source: Fubon
+Date: 2026-10-28
+Pages: 3
 Extraction status: ok
 
 ### Page 1
 
-10 ⽉ PMI 短暂承压，折射假期退坡、⾼油价冲击与 AI 调整的三重共振。
-摘要：
-事件：10 ⽉ 31 ⽇，国家统计局公布 10 ⽉ PMI 指数，制造业 PMI 为 49.3% 、前值 50.1% ；⾮制造业
-PMI 为 49.7% 、前值 50.2% 。
-1. 核⼼观点： 10 ⽉ PMI 偏弱，不仅与假期效应退坡有关，也反映⾼油价、 AI 产业调整影响
-制造业 PMI ：  10 ⽉ PMI 回落幅度持平 2022 年以来的偏弱季节性，主要源于假期效应退坡的影
-响，⼀是表现为 “ 抢⽣产 ” 结束。10 ⽉制造业 PMI 回落 0.8 个百分点⾄ 49.3% ，与 2022 年以来偏弱
-的季节性⼀致 ( 环⽐ -0.8%) 。主要分项看，前⽉在假期备货影响下，⽣产指数上⾏ 1.3 个百分点⾄
-51.7% ；本⽉ “ 抢⽣产 ” 结束，⽣产指数相应下滑 1.9 个百分点⾄ 49.8% ，企业采购量指数也回落
-2.1 个百分点⾄ 48.9% ，与往年 10 ⽉类似。⾏业层⾯看， 10 ⽉消费品⾏业 PMI 回落 1.9 个百分点⾄
+台北富邦銀行 
+Oct 28, 2026 | 16:00PM (GMT+8) 
+主要產業 總評： 美股待估值合理  
+投資研究部 
+ Research 
+Financial Market 
+▎AI 支出支撐美國經濟高檔不墜 
+AI 投資熱潮持續發酵 ， 成為美國經濟擴張的重要動能 。
+隨著美國大型科技企業加速佈局人工智慧 ， 帶動資料中
+心 、 伺服器及相關軟硬體設備投資顯著成長 ，AI 相關資
+本支出對美國實質 GDP 成長的貢獻持續提升，2025 年
+第 1 季以來 ， 相關投資對於經濟成長的拉抬效果持續顯
+著(圖 1)。 此外 ， 參考NY Fed 預估 ， 美國2026Q4 GDP
+季比年增率將由 Q3 的 2.67%、 進一步加速至2.82%，
+維持在疫情後相對高位。參考 BofA 預估，2027 年美
+國 5 大 CSP 廠 1 資本支出將增加至 1.113 兆美元，較
+2026 年的 7930 億增加約 40%，在美國大型 CSP 廠明
+年仍預計持續加大資本支出的狀況下 ， 預期美國經濟仍
+具韌性 ，有助降低美國景氣動能短期大幅放緩的風險 。
 
-48.8% 、降幅最⼤，也印证 “ 抢⽣产 ” 结束影响。
+因此，資料中心需求動能，將是美國經濟能否維持強勢
+擴張的關鍵因素之一。觀察北美資料中心在建規模，並
+對照空置率 ，代表資料中心供給量的在建規模持續增加 ，
+但空置率卻自 2023H2 以來持續下滑 ， 截至2026H1，
+北美資料中心空置率降至 1.4%(圖 2)，為北美 REITs 中
+少數基本面持續改善的次產業之一 ， 顯示資料中心仍處
+於極度供不應求的狀況。 
+註 1：美國 5 大 CSP 廠為 MSFT*、AMZN*、GOOGLE*、META*、
+ORCL* 
+圖 1 AI 對 GDP 貢獻自 2025Q1 以來維持高檔
+
+資料來源：Bloomberg, 2026/10/27
+
+圖 2 北美資料中心空置率持續下滑
+
+資料來源：方正證券, 2026/9/16 
+ ◼ AI 投資熱潮持續支撐美國經濟 ， 科技巨頭加速擴建資料中心 ， 帶動資本支出對GDP
+貢獻提升。參考 NY Fed 最新預估，美國第 4 季經濟成長率將由第 3 季的 2.67%
+升至 2.82%。五大雲端服務商 2027 年資本支出有望達 1.113 兆美元，年增約四
+成。北美資料中心空置率降至 1.4%，凸顯算力需求強勁，支撐美國景氣韌性。  
+◼ 美國通膨尚未全面擴散，核心 CPI 年增率有望於今年底見頂，但聯準會仍可能緩
+步升息。市場預期，2026 年 12 月及 2027 年 3 月、4 月可能各升息一碼。歷史
+經驗顯示，升息將推高實質利率、壓縮股市估值。經估算後，標普 500 指數預估
+本益比不排除持續下修。儘管企業獲利成長，美股短期仍須留意估值修正風險 。  
+◼ 展望 2027 年，美股企業獲利仍具成長動能，但在升息壓抑估值、獲利增速放緩
+下，市場可能先震盪整理，待本益比與籌碼沉澱後再尋求上攻 。資產配置建議仍
+以美股為核心，搭配台、韓股市作衛星配置，並關注高評級債券。
+
+### Page 2
+
+2 
+*：舉例說明，非單一標的推薦 
+誠信親切、專業創新 週報 
+▎美國通膨未擴散，Fed 維持緩升格局 
+聯準會主席 Warsh 傾向參考的通膨指標，PCE 細項年
+增率與 6 個月年化增速大於 3%的比例，雖然高於疫情
+前水準，但已較今年 4 月高點有顯著下滑(圖 3)。顯示
+美國通膨雖尚未明顯降溫 ，但通膨壓力尚未全面擴散，
+緩解二次通膨的疑慮，Fed 多位官員也早已明示將不急
+於 10 月再次升息。展望未來，若以近 3 個月核心 CPI
+月 增 率 均 值 0.24% 測 算 ， 核 心 CPI 年 增 率 可 望 在
+2026/12 見頂，隨後逐步下滑(圖 4)。除非月增率持續
+維持在 0.3%以上，否則時序進入 2027 年後，聯準會
+將可隨著通膨下滑，逐漸調整貨幣政策鷹派力道。截至
+10 月下旬， 期貨市場預期聯準會將在2026/12、2027/3、
+2027/4 各升息 1 碼後，結束此波升息循環。
+
+圖 3  美國物價壓力未全面擴散，尚無二次通膨擔憂
+
+資料來源：Bloomberg, 2026/10/27
+
+圖 4 核心 CPI 若維持近期趨勢，年增率年底可見頂
+
+資料來源：Bloomberg, 2026/10/27 
+不過，聯準會此波升息循環雖維持緩升步調，但對於金
+融市場仍會帶來實質性緊縮的效果，參考 2000 年以來
+的升息循環，升息期間與升息前，皆會帶動實質利率走
+高，此反映資金成本的提升 ， 而在股債的資金排擠效應 ，
+以及市場參與者在利率走升時 ，對於股票的估值將更為
+嚴格下 ， 美股的預估本益比通常會在升息前與升息循環
+期間遭到一定比例的壓縮，下行幅度則取決於升息的速
+度。按照期貨市場預估 ，若此波升息循環持續到 2027/4，
+即共升息４碼，平均每月升息幅度為 0.5 碼，與過去三
+次升息循環比較 ， 升息節奏介於2004-2006 年與 2015-
+2018 年升息循環。以升息前 3 個月到升息期間預估本
+益比低點計算 ， 預 估 本 益 比 收 縮 幅 度 或 介 於
+14.1%~20%。
+
+對照此次升息前三個月到預估本益比低點，僅收縮約
+13.4%，隨著升息效果逐漸傳導至實體經濟，金融環境
+估持續收緊，若以 2004 年與 2015 年的升息循環做為
+參考 ， 並以內插法計算 ， 此次升息循環標普 500 指數預
+估本益比理論上最低或降至 17 倍(即升息前 3 個月到
+最低點約收縮 17.6%)(圖 5)。 因此 ， 雖然美股2027 年、
+2028 年 EPS 分別預估成長 19.5%、16.5%（圖 6），但
+因預估本益比仍有下探空間 ， 加上明年企業獲利增速將
+較今年顯著放緩，市場對於估值本就會更加保守，因此
+需留意本益比的修正或使 2027 年美國股市，以及今年
+以來累積漲幅驚人的半導體類股股價承壓。
+
+圖 5 升息期間實質利率上升，將壓縮美股本益比
+
+資料來源：Bloomberg, 2026/10/22
+
+### Page 3
+
+3 
+*：舉例說明，非單一標的推薦 
+誠信親切、專業創新 週報
+
+圖 6 美股盈餘維持高成長，但明年增速顯著放緩
+
+資料來源：Bloomberg, 2026/10/22
+
+▎美股待估值落底，歐股則需保守以對 
+以全年角度而言，2027 年標普 500 指數企業獲利在主
+要市場中 ， 僅落後給有AI 供應鏈題材的台灣加權指數 、
+韓國 Kospi 指數 ，因此全年表現並不看淡， 只是短期美
+國股市或陷入震盪 ， 待估值與籌碼沉澱後才有繼續上攻
+空間。其他市場部分，歐洲股市展望仍偏向保守，因除
+了短期有財政赤字擔憂，及 2027 年預算案卡關的政治
+風險以外，因法國總統大選將於明年 4 月 18 日舉行第
+一輪投票，若未有單一候選人取得絕對多數，由得票前
+兩高的候選人於兩週後再進行第二輪投票 ， 因此最終結
+果最晚於 5 月初才會出爐 。 參考市場隱含的勝選機率 ，
+國民聯盟(RN)的黨魁 Le Pen 勝選機率最高(圖 7)， 其雖
+然支持降低企業稅負，但風險在於 Le Pen 擬削減支出
+以達成降低赤字目標 ， 其中削減對歐盟的相關支出為重
+中之重，或使與歐盟關係出現鬆動，預期歐系資產在不
+確定性消除前較難有所表現。
+
+資產配置上，仍是以美股為核心配置，並搭配台、韓等
+基本面佳的標的做為衛星配置 ， 此外 ， 考量Fed 可望於
+明年下半年前結束升息循環，利率市場或提前反應，因
+此也可關注高評級券種，做為穩定息收來源。 例如
+PIMCO 收益增長基金，其投資標的涵蓋美股、新興市
+場股票、美國固定收益等，且所持有的固定收益信用評
+級以 AAA、AA 為主，除掌握全球股市多頭趨勢以外，
+更可兼顧長期高評級券種的潛在資本利得空間。
+
+圖 7 市場預期 Le Pen 將贏得 2027 年法國總統大選
+
+資料來源：Bloomberg, 2026/10/22
+
+表 1 PIMCO 收益增長基金相關資訊
+
+資料來源：Money DJ、富邦銀行, 2026/10/28
+
+本文係由台北富邦銀行提供，係根據市場公開資訊依據專業判斷所為，報告結果僅供讀者參考，並不構成要約、招攬、邀請、宣
+傳、誘使或任何不論種類或形式之表示、建議或推薦，本文亦不為獲利之保證，讀者個人投資決策仍需自行判斷並承擔風險。本
+文內容台北富邦銀行不保證其正確性及完整性，並所載述之內容台北富邦銀行保有隨時予以更正或撤回之權利。任何人不得以因
+信賴該等資料做出投資決策為由，向台北富邦銀行主張任何權利或提出訴訟。另台北富邦銀行保留本文之一切著作權，禁止讀者
+以任何形式引用、抄襲、複製及轉寄第三人。
+
+---
+## Document 587: 奥特曼：PC上装内存太浪费，最好留给AI数据中心
+
+Source PDF: all report pdf/奥特曼：PC上装内存太浪费，最好留给AI数据中心.pdf
+Report source: WallstreetCN (Global)
+Date: 2026-10-31
+Pages: 4
+Extraction status: ok
+
+### Page 1
+
+OpenAI CEO 奥特曼语出惊⼈：本地运⾏ AI 极度浪费，全球内存应集中云端，他预警 AI 将
+引爆史⽆前例的 “ 漏洞潮 ” ，底层架构亟待重构；更透露 “AI ⾃我复制建⼚ ” 已在掌握。⽐起万
+亿 IQ 单脑，他更期待万亿 AI 智能体共建社会，全⾯颠覆未来。
+摘要：
+「从全球资源配置的⻆度来看，让每个⼈把紧缺的  DRAM 囤在⾃⼰电脑⾥⼤部分时间闲置，是
+『相当糟糕』（ quite terrible ）的安排，内存应该集中到云端数据中⼼去。」
+话都说到这份上了。
+本周四在接受  YouTube 频道  Cheeky Pint 的采访时， OpenAI CEO ⼭姆·奥特曼（ Sam
+Altman ）全程喝着啤酒，⽓氛轻松地聊了聊  AI ⼤模型的本地推理，以及由此延伸出的家⽤电脑
+内存不⾜的问题，不经意间爆典了。
+我们知道，⽬前全球  AI 浪潮引发的内存涨价，已经让  PC 和⼿机的价格暴涨了⼀圈，个⼈消费
+者早已难以承受。与此同时，各家内存⼤⼚的产能扩张还要等⼀阵⼦。就在前沿  AI 公司吃下内
+
+存⼤头的同时，他们却已经开始讨论起个⼈电脑中的内存是否得到充分利⽤。
+奥特曼提到⼀个假设，即⼈们能够在⾃⼰的电脑上运⾏本地⼈⼯智能，这些电脑可能是他们已
+经拥有的，也可能是因为  AI ⼤模型技术兴起，他们想要组装的。他认为这是⼀个糟糕的想法。
+「从全球资源分配的⻆度来看，让每个⼈都把全球有限的  DRAM 内存闲置在⾃⼰的电脑⾥，⽽
+使⽤率只有  5% ，这其实⾮常糟糕，」奥特曼说道。「如果你想在这种资源供应极其紧张的环境下
+⼯作，那么在云端就应该尽可能提⾼资源利⽤率。但不知为何，很多⼈的直觉却恰恰相反。」
+如今， OpenAI 的主要业务基于在⼤规模数据中⼼运⾏的闭源模型，他为⾃家商业模式的辩护引
+发了  AI 社区的⼀⽚争论。
 ⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⻅闻历 搜索
 
 ### Page 2
 
-⼆是假期前置令需求提前释放、对 10 ⽉形成透⽀，需求指标也有回落。10 ⽉，制造业新订单指
-数回落 1.1 个百分点⾄ 49.4% 。结构上，内需订单指数下滑 1.1 个百分点⾄ 49.5% ，或源于⻓假带
-来的消费前置后、在节后趋于平淡；⾏业层⾯看， 10 ⽉消费品制造业新订单指数较上⽉下降超
-过 3 个百分点⾄ 49% 以下。此外，新出⼝订单指数回落 1.3 个百分点⾄ 48.7% ，据中采称，背后是
-国外圣诞相关订单在上⽉集中释放后， 10 ⽉内也有回落。⾼频层⾯看， 10 ⽉港⼝外贸货运量也
-有回落。
+这也引发了不少⼈的担忧：未来我们可能更难拥有⾃⼰的硬件或软件，只能考虑去租⽤云端的
+智能体和计算机。
+虽然普通  PC 、⼿机和  AI 加速卡使⽤的内存并不相同，但它们的⽣产会竞争部分上游晶圆产
+能。奥特曼讨论的是全球  DRAM 的资源配置，要说到谁有资格决定内存产能⽤在哪⾥，⼤多数
+时候⾃然是下更⼤订单的那个⽤⼾。
+奥特曼的部分观点基于数据中⼼建设不会放缓的假设。此外他还假设，全天候⽤于  AI 数据中⼼
+的内存⽐⽤于电⼦表格、⽹⻚浏览、游戏，甚⾄偶尔⽤于本地  AI 的内存更有价值。
+其实这次的访谈很⻓，奥特曼聊的还包括这两周引爆全球恐慌的  PHP 漏洞、训练模型的沙箱化
+以及  AI 在数学领域的研究。
+看看他主要说了些什么：
+AI 正在引爆漏洞潮
+有关  PHP 超级巨⼤的漏洞，奥特曼的判断是：⼤模型发现漏洞的能⼒持续快速提升，⽽互联⽹
+上的代码⾯极其庞⼤，当⼈们开始系统性地⽤  AI 扫描所有代码，「我们会发现⾃⼰⾝处⼀个严
+重漏洞远超预期的世界」。他认为光打补丁不够，必须重构架构，路由器、操作系统、应⽤层都
+
+需要为「漏洞会越来越智能」的世界重新设计。两年前「重写整个技术栈」还像疯话，现在已
+出现要做全新  stack 的创业公司。
+他罕⻅地做了⾏业⾃我批评：「我不认为我们很好地向⼈们解释了，为什么这项技术所有潜在的
+下⾏⻛险是值得的。」他说  AI ⾏业的叙事是糟糕的销售话术，⼀边承诺治愈癌症、降低成本，
+⼀边⼜描绘失业、失控、需要强⼒监管的未来。他重申  OpenAI 坚持迭代部署（ iterative
+deployment ）、对抗能⼒悬置（ capability overhang ），理由是不能让「旧⾦⼭⼏平⽅英⾥的⼈
+做所有决定」。
+当被问及能否给模型建⼀个「最⾼安全级别的监狱」，奥特曼给出了悲观回答：沙箱只在⼀定程
+度内有效，监控（包括思维链审查和激活监控）能再进⼀步，但最终必须⾼度信任对⻬。他反
+问道，⾯对⼀个⽐最聪明的安全研究员还聪明百万倍、能发现⼈类尚不懂的新科学的模型，你
+真敢信任那个沙箱吗？
+他明确说⾃⼰讨厌「 agent swarms （蜂群）」这个词，因为  swarm 让⼈联想到蝗⾍，坚持叫
+
+agent teams （智能体团队），并认为团队之间互相制衡的属性，恰好对应靠多元主义实现鲁棒
+性的机制，是值得推进的安全⽅向。
+智⼒爆炸与科学发现的代价
+奥特曼勾勒了⼀条曲线： GPT-4 时代，往单个问题上有效投⼊  1 美元算⼒都难；思维链（ chain
+of thought ）让模型能「⽤⼒思考」，如今我们却可以把整⽀智能体团队并⾏上万次。普通⽤⼾
+和最先进⽤⼾之间的使⽤差距，正在不断拉⼤。
+关于  OpenAI 内部如何分配算⼒，他说员⼯享有很⼤⾃由度，但从不奖励⾼  token 消耗，
+「 token 排⾏榜⾼其实有点丢⼈，肯定不是晋升理由」。纳维  - 斯托克斯（ Navier-Stokes ）⽅程
+的证明被他拿来当案例：单个证明约耗资  1000 万美元，期间「失控了⼀周」，因为当时⼤家对
+智能体团队的扩展律⼀⽆所知。但他预计⼀年后⽤更聪明的模型和⽅法， 1/100 的成本就能重
+做。
 
 ### Page 3
 
-此外，⾼油价的供给冲击、 AI 产业调整，也对 10 ⽉制造业景⽓影响较⼤。从⾏业结构看，⾼耗
-能⾏业 PMI 再度回落 0.7 个百分点⾄ 47.3% ，纺织、⾮⾦属矿物制品等⾏业⽣产指数和新订单指
-数均低于临界点。或显⽰油价重新⾛⾼下供给冲击再显现。与此同时，⾼技术制造业景⽓继续
-回落，环⽐下⾏ 1.2 个百分点⾄ 51.3% ，装备制造业 PMI 也回落 0.4 个百分点⾄ 50.6% ，有⾊压延
-⾏业的产需指数均低于临界点，或继续体现 AI 景⽓阶段性调整的影响。
+他还罕⻅地流露了情绪：当时的情况真是绝了，某个新模型内部上线的周末，⼤家把各种最棘
+⼿的难题抛给这个模型，⽽它竟然都能⼀⼀解决。⼈们原本根本没指望模型能做到这些。⼤家
+共同⻅证了许多⼈学术⽣涯中最难攻克的科研难题被这个模型⼀个接⼀个地解决了，⽽且涵盖
+了多个不同的领域，那场⾯简直令⼈惊叹。
+「有两晚我⼏乎彻夜未眠，因为实在太兴奋了，根本睡不着。我们后来发表的很多成果，其实
+就是当时解决的那些难题。」
+奥特曼当时感到⽆⽐兴奋和快乐，同时也涌现出⼀种意想不到的忧伤、惆怅，以及⼀种「某个
+时代正在终结」的感觉。不⽌是怀旧，还有⼀种对于对⼈类科学家们「朝闻道，⼣死可矣」的
+共情。他坚持⼈类理应获得基础知识，但⾏业⽋这些领域的从业者⼀个解决⽅案。
+虽然现在谈论超级智能还为时尚早，不过奥特曼认为万亿个⼩超⼈类，胜过⼀个万亿  IQ ：
+他的论证是：社会的强⼤鲁棒性来⾃⼤量成员互相制衡、协作，「单脑」世界没有这种韧性。但
+他强调这不会⾃动发⽣，必须主动推动。
+市场调节，到  AI 时代玩不转了？
+有关全球内存紧缺的问题，奥特曼介绍了  OpenAI 的布局：⾃研芯⽚（提升每⽡智能性能）、⾃
+
+建数据中⼼、机器⼈项⽬，以及⼀个更⼤胆的概念「⾃我复制的数据中⼼」，要⽤  AI 控制机器
+⼈去运营晶圆⼚、造涡轮和太阳能板、建数据中⼼。他表⽰「这已在我们掌握之中」。
+谈到「市场⾃⼰调节」为何迟迟不兑现，他认为当前的进展很糟糕，并给出内存⼚商的⾏为逻
+辑：这个⾏业⻓期是投  200 亿美元  capex 赚  19 亿的苦⽣意，历史上多次有巨头因过度建⼚⽽
+差点破产。如今每家⼀年能赚约  1000 亿美元⾃由现⾦流，但惨痛记忆让他们扩产极度保守。他
+由此断⾔「看不⻅的⼿现在失灵了」。
+他区分了芯⽚产业的两类能⼒：光刻「地球上似乎只有⼀家公司知道怎么做」，但芯⽚设计（最
+终送给晶圆⼚的⽂件）已是  AI 的绝佳⽤武之地。
+谈到递归⾃我改进（ RSI ）的真实⽔平，奥特曼表⽰，现在模型能完成「找  5% 计算效率提升」
+这类任务，但还没有⼈知道如何让  AI 发现像  transformer 那样级别的新架构，缺的是更聪明的
+模型。他甚⾄预告，社会可能需要在⼀段时间内同意限制单模型的智商，「若未来的进展不⾜，
+
+那将源于这个决定，⽽⾮  AI 做研究的能⼒」。
+他亮出了⾃⼰的通缩信仰：当前每  GW 领先  AI 算⼒的  5 年总拥有成本约  700 亿美元，若能降
+到  200 亿会更理想，同时模型每年还要再提升  10 倍性能。实现的路径是让能源更便宜、压缩
+「从沙⼦到产出  token 」之间层层堆叠的⽑利。
+针对企业的  token 预算焦虑，他认为当前更普遍的问题是  AI ⽤得不够多，⽽不是⽤太多。
+个⼈智能体怎么定价？
+"I would much rather intuitively have a trillion AIs of slightly superhuman intelligence join
+society than one AI of one trillion IQ join society."
+「直觉上，我更愿意让⼀万亿个略具超⼈类智能的  AI 加⼊社会，⽽不是⼀个万亿  IQ 的  AI 加⼊
+社会。」
 
 ### Page 4
-
-⾮制造业 PMI ：景⽓虽有回落，但存量政策加速落地对基建领域仍有⽀撑，服务业 PMI 保持相对
-稳定。10 ⽉，建筑业 PMI 回落 2.3 个百分点⾄ 48% ；其中房屋建筑业景⽓⽔平回落⾄ 50% 以下，
-⽽⼟⽊⼯程建筑业较上⽉上⾏、更多体现存量政策落地对基建领域的⽀撑。服务业景⽓仅下滑
-0.2 个百分点⾄ 50% ；结构上，⼗⼀假期对消费相关服务业的带动效应明显，铁路运输业商务活
-动指数升⾄ 60% 以上，航空运输业商务活动指数升⾄ 54% 以上，景区服务业和⽂体娱乐业 PMI 均
-升⾄ 53% 以上。
-
-### Page 5
-
-展望后续：存量政策加速落地下，预计年内经济有望延续温和回升。10 ⽉节⽇效应退坡下，制
-造业、⾮制造业景⽓均有回落；但制造业、建筑业、服务业⽣产经营预期分别保持在 53.4% 、
-52.3% 、 55.2% 的较⾼⽔平。往后看，超强厄尔尼诺或将形成，虽然其带来的阶段性寒潮可能对
-内需形成短期扰动，但暖冬天⽓利好居⺠出⾏，或带动服务消费需求释放；同时存量政策加速
-落地，全球 AI 景⽓仍有上升空间，叠加前期盈利改善的滞后传导，预计四季度经济延续温和回升
-格局。
-
-### Page 6
-
-2. 常规跟踪：制造业、⾮制造业 PMI 均有回落
-制造业：制造业 PMI 有所回落，⽣产、新订单指数回落均较⼤。10 ⽉，制造业 PMI 回落 0.8 个百
-分点⾄ 49.3% 。其中，新订单指数环⽐下⾏ 1.1 个百分点⾄ 49.4% ，⽣产指数回落 1.9 个百分点⾄
-49.8% ，产成品库存⼩幅回落 0.1 个百分点⾄ 47.5% 。⽽从业⼈员指数持平于 48.4% ；供应商配
-货指数⼩幅上⾏ 0.1 个百分点⾄ 50.2% 。
-
-### Page 7
-
-需求⽅⾯，新出⼝、进⼝指数回落。10 ⽉，新出⼝订单环⽐⼩幅下⾏ 1.3 百分点⾄ 48.7% ；进⼝
-指数环⽐回落 2.2 个百分点⾄ 47% 。企业采购意愿也有下滑，采购量指数回落 2.1 个百分点⾄
-48.9% 。
-
-### Page 9
-
-⾮制造业：⾮制造业 PMI 有所回落，建筑业景⽓下滑幅度较⼤。10 ⽉，⾮制造业 PMI 环⽐回落
-0.5 个百分点⾄ 49.7% 。其中建筑业 PMI 回落 2.3 个百分点⾄ 48% ，服务业 PMI 回落 0.2 个百分点⾄
-50% 。
-
-### Page 10
-
-服务业中，新订单指数有所回落。10 ⽉，服务业主要分项中，新订单、从业⼈数指数环⽐分别
-回落 1.5 个百分点⾄ 45.2% 、回升 0.5 个百分点⾄ 46.7% 。价格指数有所回落，投⼊品、销售价格
-指数环⽐分别下⾏ 0.8 、 1 个百分点⾄ 51.4% 、 49.6% 。
-
-### Page 11
-
-建筑业中，新订单指数回落。10 ⽉，建筑业分项中，新订单指数较前⽉回落 5.7 个百分点⾄
-40% ，从业⼈员指数回落 2.3 个百分点⾄ 42% 。价格指数表现分化，投⼊品价格指数回落 1.6 个百
-分点⾄ 52.4% 、销售价格指数上⾏ 0.4 个百分点⾄ 48.9% 。
-
-### Page 12
 
 ⻛险提⽰及免责条款
 市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂
 中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
-6 收藏 分享到 :
+56 收藏 分享到 :
 写评论
 图⽚
-本⽂来源：申万宏源研究
+1 条评论
+关于最近⽕热的个⼈智能体产品（如  Muse ），奥特曼当前的判断是「 Macintosh 时刻还没有到
+来」。⼈们喜欢这些产品，但还没到「⽆法想象没有它的⽣活」，赢家的形态会像现在的产品，
+但「 it'll just work 」，可靠、能接住更复杂的任务。 computer use 的猫⿏游戏，他认为最终会收
+敛在「你有权让  AI 代表你操作⾃⼰的电脑」的程度。
+有关智能体的商业化⽅式，奥特曼认为，企业死守⾃⼰产品⾥的  AI 弹窗和  HTML ，担⼼失去客
+⼾关系，但消费者想在⾃⼰的主聊天应⽤⾥⾯让  AI 代办⼀切。他认为真正的护城河来⾃品牌、
+选品和履约⽹络，⽽⾮  HTML 。他主动⾃曝说：⾃⼰  10 次有  10 次选  Amazon Pay ，哪怕价格
+
+更⾼，并盛赞亚⻢逊的履约⽹络，同时承认  ChatGPT 内的合作平台做得还不够好。他还把所有
+⽹⻚表单称为「假⼯作」（ fake work ），并把当下类⽐为当年的  App Store 时代。
+也正是因为如此，在设计定价时， OpenAI 差点学  AWS 按任务报价、彻底抛弃  token 计费的⽅
+式，但遭到了客⼾们的强烈反对：「我需要知道⾃⼰在为什么付钱」，哪怕付更多也要  token 这
+种可理解的单位。
+本⽂来源：机器之⼼
 限免
 请发表您的评论
 表情 发布评论
+MobileUser052
+1 ⼩时前 中国北京
+1  回复
+把每个⼈的记忆能⼒留在⾃⼰⼤脑⾥很浪费，最好 ……
 
 ---
-## Document 629: 富邦-4966-譜瑞-KY-20261029
+## Document 605: 富邦-4966-譜瑞-KY-20261029
 
 Source PDF: all report pdf/富邦-4966-譜瑞-KY-20261029.pdf
 Report source: line報告備份
@@ -7799,51 +7510,50 @@ Underweight  Sector expected to underperform the broader market indexes within t
 劣於大盤 預估該產業在未來6個月內會比大盤指數表現較差
 
 ---
-## Document 639: 币安被盗的比特币恐已无法追回，Ballet创始人称“钱已经没了”
+## Document 630: 日本央行行长：通胀取得阶段性胜利，暗示年内仍可能加息
 
-Source PDF: all report pdf/币安被盗的比特币恐已无法追回，Ballet创始人称“钱已经没了”.pdf
+Source PDF: all report pdf/日本央行行长：通胀取得阶段性胜利，暗示年内仍可能加息.pdf
 Report source: WallstreetCN (Global)
 Date: 2026-10-30
-Pages: 3
+Pages: 2
 Extraction status: ok
 
 ### Page 1
 
-Bobby Lee 强调， “ 冻结与追回是两回事 ”—— 虽已有约 30 亿美元资产被链上冻结，但⽐特
-币等去中⼼化资产追回前景极为渺茫，仅稳定币因具备中⼼化冻结机制存在追回可能。
+⽇本央⾏鹰派信号明显升温：潜在通胀已基本达到 2% ⽬标，鹰派委员更提议直接加息⾄
+1.5% 。与此同时，央⾏明年将 ETF 年减持规模提⾼⾄ 8600 亿⽇元，进⼀步退出超宽松政
+策，市场对 12 ⽉加息的预期随之升温。
 摘要：
-史上最⼤加密货币⿊客攻击事件震动市场。
-据彭博 10 ⽉ 30 ⽇报道，数字资产硬件钱包公司 Ballet Global Inc. 创始⼈ Bobby Lee 直⾔，此次币
-安遭⿊客窃取的⽐特币⼏乎不可能追回。“ 那些钱已经没了，被盗的⽐特币，全都落⼊了⿊客⼿
-中。 ”
-华尔街⻅闻此前⽂章写道，此次事件涉及资产规模⾼达 63 亿美元，被业界称为加密货币史上最
-⼤规模⿊客攻击。币安已暂停全部充提业务，并承诺覆盖所有⽤⼾损失。截⾄⽬前，约 30 亿美
-元的涉事资产已被链上冻结，但 Bobby Lee 强调，“ 冻结与追回是两回事 ”，稳定币是唯⼀具备现
-实追回可能性的资产类别，⽐特币等加密货币的追回前景则极为渺茫。
-市场反应相对克制。⽐特币在消息传出后⼀度跌破 77000 美元，触及 9 ⽉以来最低⽔平，⽬前跌
+⽇本央⾏维持利率不变，但明确宣告近 14 年来的抗通缩之战取得阶段性胜利，并就通胀上⾏⻛
+险发出警告，市场普遍预期下次加息最快将于 12 ⽉落地。
+周五，⽇本央⾏在货币政策会议结束后宣布，维持政策利率于 1.25% 不变。⾏⻓植⽥和男在随后
+的新闻发布会上表⽰，潜在 CPI 通胀率已基本符合 2% 的物价稳定⽬标，并预计将维持在这⼀⽔
+平附近，但央⾏将继续根据经济活动、物价及⾦融状况的变化，适时上调政策利率。植⽥和男
+表⽰：
+此 次 会 议 同 时 释 出 ⼀ 项 意 外 举 措 ： ⽇ 本 央 ⾏ 宣 布 将 ⾃ 明 年 1 ⽉ 起 加 速 出 售 交 易 所 交 易 基 ⾦
+（ ETF ），年度规模从⽬前的 3300 亿⽇元⼤幅提升⾄ 8600 亿⽇元（约合 54.5 亿美元），标志着央
 
-幅不⾜ 1% 。 Bobby Lee 认为， “ 从⼤局来看，加密市场总规模以万亿美元计，损失⼗⼏⼆⼗亿乃
-⾄五⼗亿美元，并⾮世界末⽇。 ”
-史上最⼤加密⿊客攻击： 63 亿美元资产受波及
-华尔街⻅闻⽂章写道，币安在 X 平台发⽂确认，此次事件涉及资产总额约 63 亿美元，⽬前已有约
-30 亿美元在链上被冻结。币安联合创始⼈ Yi He 表⽰，提款暂停预计将在 48 ⼩时内恢复，公司将
-承担全部损失， " ⽤⼾资⾦安全 " 。
-据 TRM Labs 分析，⿊客似乎利⽤了币安的交易授权机制漏洞，在获取交易所内部系统访问权限
-后，借助内部软件在包括⽐特币和以太坊在内的 10 条不同区块链上授权转账，⼿法⾼度专业
-化。
-币安⽅⾯表⽰，此次事件可能涉及⼀名软件⼯程师的笔记本电脑遭到⼊侵，但强调 " 未发现任何
-钱包私钥泄露的证据 " 。
-在应急响应层⾯，两⼤主要稳定币发⾏商迅速采取⾏动。 Tether ⾸席执⾏官 Paolo Ardoino 在 X 平
-台发⽂称，已冻结逾 15 亿美元与 “ 潜在币安⿊客攻击相关 ” 的稳定币； Circle Internet Group Inc.
+⾏进⼀步退出超宽松政策框架。上述动向推动市场重新评估⽇本利率路径，年内再度加息的预
+期升温。
+维持利率不变，但鹰派⽴场愈发清晰
+⽇本央⾏在会议声明中表⽰，潜在通胀已⼤体触及 2% ⽬标，央⾏的政策重⼼正转向将通胀锚定
+于这⼀⽔平。植⽥和男在发布会上强调：
+在此次按兵不动的决定中，出现了罕⻅的内部异议。鹰派委员 Hajime Takata 对维持利率的决定
+投了反对票，主张将政策利率上调⾄ 1.5% ，但未获多数通过。植⽥和男解释称，委员会需要更
+多时间审视此前加息对贷款条件的传导效果，以及经济与物价⽅⾯的潜在⻛险。
+植⽥和男同时表⽰，央⾏不打算在某⼀特定时间点正式宣布已实现物价⽬标，原因在于 " 通胀稳
+定、可持续地维持在 2% 左右 " ⾄关重要。宣布通缩正式结束的决定权，在于⽇本政府。
+通胀机制改变，⼯资增⻓成关键变量
+⽇本央⾏季度展望报告指出，潜在通胀已升⾄ " 与价格⽬标基本⼀致 " 的⽔平，央⾏所有委员对此
+达成⼀致判断。植⽥和男表⽰，推动通胀的⼯资增⻓机制已经恢复，中⻓期通胀预期稳定在 2%
 
-负责⼈ Jeremy Allaire 则表⽰，在 “ 有关币安潜在漏洞的报告 ” 背景下，已冻结 8 亿美元的 USDC 。
-Bobby Lee 指出，正是由于稳定币具备中⼼化冻结机制，其追回可能性远⾼于⽐特币等去中⼼化
-资产。然⽽，他同时强调，即便资产被冻结，币安仍需经历与执法机构合作调查、正式申索冻
-结资产的漫⻓流程。
-币安设⽴于 2018 年的应急保险储备基⾦ SAFU （⽤⼾安全资产基⾦）通常维持在约 10 亿美元规
-模，被视为极端情况下的客⼾保障机制。然⽽，⾯对 63 亿美元的潜在损失，该基⾦的覆盖能⼒
-显然⾯临严峻考验。
-市场短期承压
+附近。
+不过，他亦指出，⼯资上涨能否在未来形成常态，仍是央⾏需要持续评估的核⼼问题。他表
+⽰，央⾏将密切监测中⻓期通胀预期是否稳定在 2% 左右，并通过跟踪各项数据来判断趋势通胀
+是否真正趋稳。 " 不能容忍潜在通胀进⼀步上升，⽐以往任何时候都更需确保潜在通胀不超出 2%
+⽬标。 " 植⽥和男说。
+“ 希望适当地将利率调整到中性⽔平。 ”
+" ⾦融状况依然宽松，存在各种上⾏⻛险，我们必须对通胀超出⽬标的⻛险保持警惕。 "
 ⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⻅闻历 搜索
 
 ### Page 2
@@ -7851,47 +7561,26 @@ Bobby Lee 指出，正是由于稳定币具备中⼼化冻结机制，其追回�
 ⻛险提⽰及免责条款
 市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂
 中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
-268 收藏 分享到 :
+87 收藏 分享到 :
 写评论
 图⽚
-4 条评论
-加密数据平台 Velo Data ⾸席执⾏官兼联合创始⼈ Fredrick Collins 表⽰，“ 传闻中的币安⿊客攻击
-⽆疑正在压低币价。币安在加密领域体量庞⼤，任何对其信⼼的打击，都是对整个⾏业信⼼的
-打击，尤其是在市场已因 AI ⽹络攻击能⼒不断增强⽽⼈⼼惶惶的背景下。 ”
-值得注意的是，此次事件发⽣之际，市场本已⾯临多重压⼒：价值 110 亿美元的加密期权将于周
-五到期，⽽美国中期选举将于下周举⾏，⺠主党若重夺国会⼀院或两院，可能为加密⾏业带来
-更严格的监管审查。
-此次事件并⾮孤⽴个案，⽽是近期加密安全事故频发背景下的最新⼀起。近⼏个⽉来， Bitget 遭
-遇数亿美元资产流失，与 Ledger 设备相关的篡改事件亦造成数百万美元损失。
+植⽥和男还表⽰，政府多项经济刺激措施，以及持续宽松的货币环境，有望有⼒⽀撑经济实现
+2% 的物价⽬标。
+与欧美央⾏⽴场趋同，加息周期持续推进
+⽇本央⾏此次政策⽴场的整体转变，与美联储及欧洲央⾏的取向逐渐趋于⼀致 —— 上述央⾏均
+⾯临 AI 热潮与伊朗战事引发能源冲击所带来的通胀上⾏压⼒，正考虑在近期进⼀步加息。
+植⽥和男表⽰，央⾏将根据经济展望基准情景的实现可能性及相关⻛险，审慎考量货币政策调
+整的时机与步伐，并在每次政策会议上深⼊分析经济与物价形势。他强调，央⾏的⽬标是主动
+引导通胀率稳定在 2% 附近， " ⽽⾮被动等待 " 。
+在 ETF 减持安排上，⽇本央⾏宣布加速出售步伐的举措被市场解读为超预期，进⼀步确认了其退
+出宽松政策的⽅向性意图。结合鹰派委员的异议票及通胀已达⽬标的明确表态，市场对 12 ⽉加
 
-加密对冲基⾦ Third Eye ⾸席执⾏官 Tian Zeng 表⽰，“ 这对加密⾏业是巨⼤的伤害，因为该领域
-持续遭受成功的⿊客攻击。在最新 AI 模型每两周就迭代⼀次的时代，漏洞不断被利⽤，使这个
-⾏业愈发危险。 ”
-限免
+息的定价预期有所上升。
 请发表您的评论
 表情 发布评论
-Lucian360
-4 分钟前 中国辽宁省
-0  回复
-加密货币恐将崩盘
-银河铁路 999
-20 分钟前 中国湖南省
-0  回复
-加密货币是当下的郁⾦⾹泡沫。价值很⼩，泡沫极⼤。
-
-### Page 3
-
-MobileUser3881
-36 分钟前 中国⼴东省
-3  回复
-⽐特币其实是美国政府的提款机。
-⼿机⽤⼾
-49 分钟前 中国⼭东省
-3  回复
-⿊客是加密货币朋友，⼀个骗钱，⼀个收割，还有⼀个关闭服务器等着关⻔。
 
 ---
-## Document 657: 日本経済展望2026年10月号：【金利上昇が住宅市場に及ぼす影響は変容】【長雨・日照不足で懸念される生鮮食品価格の高騰】（PDF：1406KB）
+## Document 631: 日本経済展望2026年10月号：【金利上昇が住宅市場に及ぼす影響は変容】【長雨・日照不足で懸念される生鮮食品価格の高騰】（PDF：1406KB）
 
 Source PDF: all report pdf/日本経済展望2026年10月号：【金利上昇が住宅市場に及ぼす影響は変容】【長雨・日照不足で懸念される生鮮食品価格の高騰】（PDF：1406KB）.pdf
 Report source: JRI
@@ -8829,198 +8518,207 @@ OECD（経済協力開発機構）
 14:30－17:00（開場14:00）
 
 ---
-## Document 685: 消費者物価指数（全国・2026年9月） ～財を中心に物価上昇圧力強まる。＋３％台も視野～
+## Document 640: 月烧 1.5 万亿 token，年烧 1.32 亿美元？Cursor 工程师的账单，凡人只能仰望
 
-Source PDF: all report pdf/消費者物価指数（全国・2026年9月） ～財を中心に物価上昇圧力強まる。＋３％台も視野～.pdf
-Report source: DLRI
-Date: 2026-10-23
-Pages: 4
+Source PDF: all report pdf/月烧 1.5 万亿 token，年烧 1.32 亿美元？Cursor 工程师的账单，凡人只能仰望.pdf
+Report source: WallstreetCN (Global)
+Date: 2026-10-30
+Pages: 8
 Extraction status: ok
 
 ### Page 1
 
-Economic Indicators
+每⽉烧掉千万美⾦的 “ 算⼒特权 ” ，是软件⼯程的未来，还是制造  AI 垃圾代码的公关秀？
+摘要：
+10 ⽉  21 ⽇， OpenClaw 创始⼈  Peter Steinberger 在  Cloudflare Connect 的台上估算，⾃⼰上
+个⽉⽤于  AI ⼯作的  token 成本约为  1000 万美元。听众发出惊呼，他补了⼀句： “ 并⾮所有消耗
+都有⽤。 ”
+⼏周前，另⼀位  Peter——Peter Piekarczyk—— 也算出了⼀笔让⼈咋⾆的账。他看到  Lauren
+Tan 的  Cursor 个⼈主⻚显⽰，过去  30 天⽤了  1.5 万亿  token ，于是在  X 上写道： “ 按每百万
+token 8 美元估算， Lauren 每天消耗约  38.4 万美元，年化  1.32 亿美元。 ” 即使假设  Cursor 能拿
+到⼤客⼾⼀折优惠，年成本仍有约  1300 万美元。
+这组数字很快引发了⼤量关注，因为它把看不⻅的  token 换成了⼈⼈都能理解的⼯资单。在算
 
-2026 年 10 月23 日
+账之前，先得知道  1.5 万亿有多夸张。⼯程管理平台  Jellyfish 对  1.2 万名开发者的统计显⽰，
+典型⽤⼾（第  50 百分位）每⽉约使⽤  5100 万  token ，第  90 百分位⽤⼾约为  3.8 亿。粗略对
+照， Lauren 的⽤量约为典型⽤⼾的  2.9 万倍； Peter Steinberger 5 ⽉公开的  6030 亿  token ，
+则约为  1.2 万倍。
+这笔 “ 账单 ” 是怎么算出来的？
+Lauren Tan ⽬前在  SpaceXAI Grok 团队担任⼯程师。她的职业跨度不⼩：⼤学学的是⾦融，最
+初在  Excel ⾥写  VBA 宏时接触编程，职业⽣涯从  UI 设计起步，后来转向前端和  React ，参与
+React Compiler 项⽬； AI 浪潮起来后，她⼜把重⼼转向  Agent ⼯作流，做出了  pstack ，⼀套智
+能体  skills 。
+她也很懂得经营⾃⼰的技术形象。 9 ⽉中旬，她在⼀次视频演讲中说⾃⼰ “ 每⽉向⽣产环境合⼊
 
-1/4 
-消費者物価指数（全国・2026 年 9 月） 
-～財を中心に物価上昇圧力強まる。＋３％台も視野～ 
-経済調査部 シニアエグゼクティブエコノミスト 新家義貴 
-（℡：050-5474-7490）
-
-25 年12 月以来の＋２％台。コアコアの上昇率も明確に拡大 
-本日総務省から発表された26年９月の全国消費者物価指数では、生鮮食品を除く総合（ＣＰＩ
-コア）が前年比＋2.1％と、8 月の＋1.7％から上昇率が0.4％Pt拡大した。市場予想通りの結果で
-ありサプライズはない。＋２％台は 25年 12月以来のこと。また、季節調整済み前月比でも＋
-0.5％と、８月の＋0.1％から伸びを大きく高めており、足元では物価上昇ペースの強まりがみら
-れる。 
-エネルギー以外でも強い動きがみられた。日銀版コア（生鮮食品及びエネルギーを除く総合）
-(単位：％）
-総合 生鮮除く総合
-食料（酒類除
-く）及びエネ
-ルギー除く総
-合
-生鮮食品及
-びエネルギー
-を除く総合
-石油製品 総合 生鮮除く総合
-食料（酒類除
-く）及びエネ
-ルギー除く総
-合
-生鮮食品及
-びエネルギー
-を除く総合
-石油製品
-前年比 前年比 前年比 前年比 前年比 前年比 前年比 前年比 前年比 前年比
-25 1月 4.0 3.2 1.5 2.5 4.0 3.4 2.5 1.0 1.9 4.3
-2月 3.7 3.0 1.5 2.6 5.9 2.8 2.2 0.8 1.9 6.4
-3月 3.6 3.2 1.6 2.9 5.8 2.9 2.4 1.1 2.2 6.1
-4月 3.6 3.5 1.6 3.0 6.6 3.4 3.4 2.0 3.1 6.6
-5月 3.5 3.7 1.6 3.3 5.2 3.4 3.6 2.1 3.3 5.4
-6月 3.3 3.3 1.6 3.4 0.0 3.1 3.1 1.8 3.1 ▲ 0.9
-7月 3.1 3.1 1.6 3.4 0.3 2.9 2.9 1.7 3.1 ▲ 0.1
-8月 2.7 2.7 1.6 3.3 1.6 2.5 2.5 1.5 3.0 1.8
-9月 2.9 2.9 1.3 3.0 1.3 2.5 2.5 1.0 2.5 1.8
-10月 3.0 3.0 1.6 3.1 0.9 2.7 2.8 1.6 2.8 0.9
-11月 2.9 3.0 1.6 3.0 0.3 2.7 2.8 1.6 2.8 ▲ 0.1
-12月 2.1 2.4 1.5 2.9 ▲ 3.8 2.0 2.3 1.5 2.6 ▲ 4.5
-26 1月 1.5 1.9 1.5 2.5 ▲ 10.1 1.6 2.0 1.4 2.3 ▲ 12.2
-2月 1.3 1.5 1.5 2.4 ▲ 10.9 1.6 1.9 1.5 2.4 ▲ 12.6
-3月 1.5 1.7 1.6 2.4 ▲ 3.0 1.5 1.8 1.4 2.2 ▲ 0.2
-4月 1.4 1.4 1.2 1.9 ▲ 5.4 1.4 1.4 0.9 1.7 ▲ 7.6
-5月 1.5 1.4 1.2 1.8 ▲ 2.7 1.3 1.2 0.6 1.5 ▲ 5.7
-6月 1.6 1.6 1.2 1.7 2.4 1.6 1.5 1.0 1.7 0.3
-7月 1.9 1.8 1.4 1.9 2.1 1.8 1.7 1.2 1.8 ▲ 0.3
-8月 1.9 1.7 1.6 1.9 1.6 1.9 1.8 1.4 2.0 ▲ 1.0
-9月 2.1 2.1 2.2 2.4 1.4 2.7 2.7 2.7 3.0 ▲ 1.0
-(出所）総務省統計局「消費者物価指数」
-全国 東京都区部
+2000 个  PR”—— 这意味着平均每个⼯作⽇就能提交近  100 个  PR 。这个数字令⼈难以置信，⽆
+疑是个异常值。
+9 ⽉  21 ⽇，她⾃⼰在  X 上置顶发布了这个 “2000 个  PR” 的视频，但配⽂却变成 “ 上个⽉我向⽣
+产环境合⼊了  2500 个  PR” ，引发了新⼀轮的讨论。
+10 ⽉  26 ⽇，她再次发帖说 “ 好像破纪录了 ” ，配图是  4000 个  PR 。数字⼀次⽐⼀次⾼，每⼀次
+都配上公开发布。
+⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⻅闻历 搜索
 
 ### Page 2
 
-2/4 
-は前年比＋2.4％と、8月の＋1.9％から上昇率が0.5％Pt拡大し、季節調整済み前月比も＋0.5％
-と高い伸びとなった。米国型コア（食料及びエネルギーを除く総合）も前年比＋2.2％と、8月の
-＋1.6％から大きく上昇している。ＣＰＩコアだけでなく、食料やエネルギーの影響を除いた指数
-でも上昇率が高まっており、物価上昇圧力が強まっていることを示す結果といえる。 
-東京都区部での水道料金上昇（前年の基本料無償化の裏）や第一子保育料無償化要因の剥落、
-宿泊料の上昇（前年の下落の裏＋シルバーウィーク５連休）といった一時的な要因も含まれてい
-ることには注意が必要だが、こうした一時的な要因を割り引いたとしても、全体的に強い動きと
-なっている。米類の下落幅が大きく拡大するなかでも生鮮食品を除く食料は上昇率を高めたほ
-か、日用品では二桁の上昇が続き、家庭用耐久財や教養娯楽用耐久財でも上昇率が加速した。先
-に公表されていた９月の東京都区部でみられた財価格の強さが、全国でも確認された形である。 
-26 年前半には食料品価格の鈍化を主因として物価上昇率に落ち着きがみられたが、７月以降は
-日用品を中心に値上げの動きが再び広がっている。９月は食料品や耐久財にも強さが広がったほ
-か、サービスにも一部で上昇の広がりがみられた。一時的な押し上げ要因を含む点には注意が必
-要だが、物価上昇圧力の裾野が徐々に広がりつつあることを示す結果と評価できる。
+此前，她的  Cursor 个⼈主⻚显⽰，在  9 ⽉份的  30 天⾥使⽤了约  1.5 万亿个  token 。
+营销这件事本⾝不是罪，但当你把⼀个极端值放到公共橱窗⾥，就得准备好它被别⼈拿去乘⼀
+个单价。
+Peter Piekarczyk 就把这个公开数字换算成了美元：平均每百万  token 8 美元估算，得出每天约
+38.4 万美元、 30 天约  1100 万美元、年化  1.32 亿美元的结果。按他的算法，这就是 “ ⼀个⼯程
+师⼀年烧掉  1.32 亿美元 ” 。
+他接着假设  Cursor 能从  Anthropic 拿到九成折扣，也就是按原价⼀折结算，费⽤便降到每天约
+3.8 万美元、 30 天约  110 万美元，年化约  1300 万美元。再按资深⼯程师年薪  50 万美元计算，
+这笔钱相当于雇  26 名资深⼯程师。
+考虑到她使⽤的模型可能有区别，如果全部使⽤  Grok ， 30 天约花  480 万美元；全部使⽤  Opus
+或  Sonnet ，约  1320 万美元；按  40% 输⼊、 40% 输出、 20% 缓存读取的混合⽤量估算，则约
 
-食料品、日用品、耐久財で値上げの動きが広がる 
-電気・ガス代は、前月からほぼ変化がなかった（電気・都市ガス代の前年比寄与度：８月▲
-0.10％Pt → ９月▲0.09％Pt）。政府は７～９月にかけて電気・ガス代補助を復活させたが、これ
-がＣＰＩに反映されるのは８～10月分であり、この期間のエネルギー価格は抑制される。昨年同
-時期にも支援は実施されているが、今年は昨年よりも規模が大きいため、前年比でも下押し要因
-になっている。一方、補助が切れる11月以降については、既往のエネルギー価格上昇の影響が反
-映されることも相まって、電気・ガス代の大幅な上昇が予想されることに注意が必要だ。 
-生鮮食品を除く食料は前年比＋2.9％と、８月の＋2.7％から上昇率を高めた。米類は前年比
-▲20.6％と、8月の▲15.7％から下落幅をさらに拡大させており、食料品価格を大きく押し下げて
-いるが、それ以外の品目では上昇が目立った。品目別では、パンが前年比＋4.1％から＋5.0％、
-食用油が＋14.6％から＋19.0％、調理食品が＋3.3％から＋4.2％へ伸びを高めた。飲料も＋6.0％
-と高い伸びが続いている。米以外の食料品で値上げの動きが進んでいる。 
-先行きについても、米価格の下落は当面の下押し要因となる一方、包装資材費や物流費、人件
-費などを理由とした値上げの動きは続くとみられる。米価格の下落による押し下げを勘案して
-も、生鮮食品を除く食料にはなお上昇圧力が残る可能性が高い。 
-日用品でも値上げの動きが一段と強まった。家事用消耗品は前年比＋12.4％と、８月の＋
-10.1％からさらに伸びを高め、家具・家事用品全体でも＋4.9％から＋6.5％へ上昇率が拡大し
-た。品目別では、ティシュペーパーが＋18.3％、トイレットペーパーが＋17.8％、漂白剤が＋
-21.0％と高い伸びとなっている。原材料費や包装資材費、物流費など既往のコスト増が小売価格
-へ転嫁される動きは一段と鮮明になっている。 
-耐久財の価格上昇も目立った。家庭用耐久財は前年比＋3.9％から＋6.2％、教養娯楽用耐久財
+1150 万美元。再套⽤不同折扣，混合⽤量的⽉成本还可能降到  580 万或  990 万美元。
+Agent 编程还存在缓存命中的情况，假设缓存读取的价格约为普通输⼊价格的⼗分之⼀，每⽉仍
+然是  100 万美元。
 
 ### Page 3
 
-3/4 
-も＋4.5％から＋7.4％へ伸びを高めた。品目別ではタブレット端末が＋21.3％から＋28.7％へ上
-昇したほか、テレビや電子レンジなどでも伸びが高まっている。こうした動きには、ＡＩ関連需
-要の拡大を背景とした半導体・メモリー価格の上昇に加え、円安による輸入コスト上昇が川下価
-格へ波及している可能性がある。日用品に加えて耐久財にも値上げの動きが広がっている点は注
-目される。 
-サービス価格は前年比＋1.5％と、8 月の＋1.2％から伸びを高めた。一般サービスも＋1.3％か
-ら＋1.7％へ上昇している。自動車保険料（任意）が前年比＋5.9％、外壁塗装費が＋7.5％となる
-など、一部には価格上昇の広がりを示す動きもみられる。 
-ただし、９月の上昇率拡大には一時的・制度的な要因も影響している。宿泊料は前年比▲1.4％
-から＋4.6％へ大きく上昇しているが、これはシルバーウィークによる押し上げが大きかったとみ
-られる。また、保育所保育料も▲21.6％から▲13.3％へ下落幅が縮小したが、これは、昨年９月
-に東京都で始まった第一子保育料無償化による前年比の下押し効果が一巡した影響が大きい。 
-このように、サービス価格には一部で上昇の広がりを示す動きがみられる一方、一時的・制度
-的な押し上げ要因も含まれている。基調として伸びが高まっているかどうかについてはまだ何と
-も言えず、今後の動きをしっかり確認する必要があるだろう。 
-こうしたなか、コアコアも明確に上向いた。前述の通り、日銀版コアは前年比＋2.4％、米国型
-コアも＋2.2％と、前月の＋1.9％、＋1.6％からそれぞれ加速した。米類の下落幅が拡大するなか
-でも米以外の食料品では値上げの動きが進み、生鮮食品を除く食料は伸びを高めた。また、日用
-品で高い伸びが続いたほか、家庭用耐久財や教養娯楽用耐久財でも上昇率が大きく高まるなど、
-財価格では値上げの動きがより明確になっている。サービス価格の基調が加速しているかどうか
-についてはなお見極めが必要だが、足元の物価上昇圧力は財を中心に強まっていると評価でき
-る。
+不过， Piekarczyk 的算法依然还有争议。
+Cursor 主⻚统计的  token ⾄少分四类：普通输⼊、模型输出、缓存写⼊、缓存读取，价格差异
+很⼤。以  Opus 5.5 为例，每百万普通输⼊约  4 美元，输出约  20 美元，缓存读取约  0.20 美
+元。
+⼀张  Opus 5.5 的⽤量截图显⽰， 733 亿  token 对应约  3 万美元，折合每百万  token 约  0.41 美
+元；其中缓存读取和写⼊合计占了⼤部分费⽤。如果把这个均价套到  Lauren 的  1.5 万亿  token
+上，结果约为每⽉  61.5 万美元。
+还有⼀层可以纳⼊考虑： Lauren 做的是深⼊、⻓时运⾏的智能体任务，⽐普通⽤⼾更常命中缓
+存。⻓时任务反复复⽤同⼀份上下⽂，这⼀项在总花费⾥的占⽐会被进⼀步推⾼。 Anthropic 公
+布的  Opus 5.5 价格中，缓存读取为每百万  token 0.20 美元，普通输⼊为  4 美元。如果按  1.5
+万亿  token 全部以缓存读取价计费，⽉费⽤约  30 万美元；这当然只是极端下限。
 
-先行きは一段と上昇率が高まる可能性大 
-先行き、ＣＰＩコアの上昇率はさらに高まる可能性が高いと予想している。これまでの資源価
-格上昇によるコスト増は企業物価段階ですでに顕在化しており、今後も食料品や日用品、耐久財
-など幅広い財で川下への価格転嫁が続く可能性が高い。 
-食料品については、包装資材高や物流費、人件費などを理由とした値上げの動きは今後も続く
-とみられる。米価格の下落による押し下げを勘案しても、米以外の食料品では高い上昇圧力が残
-る可能性が高く、食料品全体としても上方向をみておく必要がある。 
-また、政府による電気・ガス料金支援は10 月までＣＰＩを押し下げる一方、11 月以降はその効
-果が剥落する。加えて、既往の燃料価格上昇は燃料費調整を通じて一定の時間差を伴って電気・
-ガス料金に反映される。今後、エネルギー価格による押し上げが大きくなる可能性が高い。な
-お、政府は2027年 1～3月使用分を中心に今冬も電気・ガス料金支援を行う方向で調整してい
-る。支援規模は現時点で未定だが、前年にも支援が実施されていたことから、前年比でみた押し
-下げ効果は限定的となる可能性がある。
+Piekarczyk ⾃⼰后来也退了⼀步：就算⾃⼰的算法⾼估了  10 倍，或者  Cursor 使⽤⾃有  GPU ，
+那么按每百万  token 约  0.80 美元估算，⽉成本约为  10 万美元。
+10 ⽉  9 ⽇， Piekarczyk 发起投票询问⼤家⼯作中每⽉的  AI 预算上限，⼤部分⼈每⽉低于  500
+美元。和  Lauren 被估算出的⽉账单放在⼀起，反差鲜明。
 
 ### Page 4
 
-本資料は情報提供を目的として作成されたものであり、投資勧誘を目的としたものではありません。作成時点で、第一ライフ資産運用
-経済研究所が信ずるに足ると判断した情報に基づき作成していますが、その正確性、完全性に対する責任は負いません。見通しは予告
-なく変更されることがあります。また、記載された内容は、第一生命保険ないしはその関連会社の投資方針と常に整合的であるとは限
-りません。 
-4/4 
-さらに、中東情勢を巡る不透明感が残るなか、原油・燃料価格はなお高水準で推移している。
-今後も高止まりが続けば、輸送費や包装資材、化学製品などを通じて企業のコスト負担が高ま
-り、食料品や日用品など川下価格への波及が強まる可能性がある。また、これまでの原油高も今
-後、燃料費調整を通じて電気・ガス料金へ波及するとみられ、物価上昇を長引かせる要因となる
-点にも注意が必要だ。 
-このように、既往のコスト上昇の川下への波及、企業の価格転嫁姿勢の強まり、電気・ガス代
-補助の終了、燃料価格上昇が電気・ガス代へ遅れて反映されること、資源価格の高止まりリスク
-などを踏まえると、先行きの物価はなお上振れの可能性を意識しておく必要がある。ＣＰＩコア
-はこの先上昇率を高め、26 年末から27年初にかけて前年比＋３％を上回る展開になると予想して
-いる。
+另外作为对⽐，今年  5 ⽉， Peter Steinberger 在  X 上也曾晒出  CodexBar 截图：过去  30 天
+OpenAI API ⽤量约  130.5 万美元，涉及  6030 亿个  token 、 760 万次请求。后来他解释，截图
+按  Codex 的  Fast Mode 价格计算，关闭  Fast Mode 后估算的  API 成本约为  30 万美元。
+10 ⽉这次  1000 万美元是活动现场的⼝头估算，但有⼀点是⼀致的：它们的数量级，和普通开
+发者每⽉⼏百美元的预算完全是两个世界。
+普通⼈不能尝试的⼯作⽅式
+Steinberger 把这类投⼊描述为探索 “ 如果  Token 成本不再构成限制，软件开发会变成什么样 ” 。
+他的三⼈团队当时运⾏着约  100 个  Codex 实例。
+这些  Agent 集群能够⾃主审查  Pull Request 、扫描提交记录以查找安全漏洞、合并重复的
+GitHub Issue ，并编写修复代码。有些  Agent 会根据项⽬的整体路线图主动提交  PR ；另⼀些则
 
-(出所）総務省統計局「消費者物価指数」
--1.5
--1.0
--0.5
-0.0
-0.5
-1.0
-1.5
-2.0
-2.5
-3.0
-3.5
-4.0
-4.5
-1 3 5 7 9 11 1 3 5 7 9 11 1 3 5 7 9 11 1 3 5 7 9
-23 24 25 26
-全国・消費者物価コア(前年比、％）
-食料・エネルギー除く
-エネルギー
-生鮮除く食料
-CPIコア
+持续监控性能基准测试，并将性能回退情况报告到团队的  Discord 服务器。据  The Decoder 报
+道，有些  Agent 甚⾄会参加会议，并根据讨论中提到的功能⽣成  PR 。
+
+### Page 5
+
+Lauren 每⽉  1.5 万亿  token ，⽆论按什么⼝径计算，同样都是普通⼈不能承受的⾦额。那么这
+笔钱推动了什么？按她⾃⼰公开的说法是，她如今每⽉可以⾼置信度地把  4000 个  PR 合⼊⽣产
+环境。这个数字的关键不在⽣成，在验证。
+“ 使⽤  Agent 时最重要的技能是验证。所谓验证，是指让  Agent 真正运⾏代码、采集  CPU 跟踪
+或堆快照、打开  iOS 模拟器，或者⽤⽤⼾接触应⽤的⽅式去操作应⽤，实际测试并确认功能是
+否正常。验证能把⼯作闭环。它不能保证  Agent 写出优秀代码，⾄少能帮助它写出正确的代
+码；这已经是建⽴信任的⼀⼤步。 ”
+她的验证技能让  Agent 检查⾃⼰的⼯作并持续迭代，直到任务完成。逻辑是：能检查⾃⾝输出
+的  Agent 会⼀直⼯作到任务完成；不能的  Agent 只能把  diff 交给你然后停下 —— 你就成了整个
+循环⾥最慢的环节。
+按每⽉  4000 个  PR ，若每个都由⼈花  5 分钟检查，累计约  333 ⼩时，⼀个⼈的整⽉⼯时都不够
+
+⽤。⼈⼯审查不可能成为验证层，检查系统必须⽆⼈介⼊运⾏，并与⽣成代码的  Agent 并⾏。
+在这个循环⾥，⼯程师的⻆⾊更像是⼀个 “Agent 的⼯程经理 ” 。 Lauren 说，如果连⼀个  Agent
+的输出都不信，就没法扩展到⼀百个  Agent 。
+她认为，绝⼤多数⼈根本没有把  Agent ⽤起来： “99% 的⼈只发挥了  GrokBot 1% 的真正实⼒。
+他们只运⾏⼀个  Agent ，既没有 ‘ 循环（ loop ） ’ ，也没有 ‘ 图（ graph ） ’ 。我运⾏着⼀⽀由  20 多个
+GrokBot Agent 组成的团队，全程⾃主运作。我有⼀个幕僚⻓  Agent 、⼀个项⽬经理  Agent ，还
+有  20 多个执⾏任务的  Agent—— 这就是⼯程师的新技术栈。 ”
+她公开的  pstack ⼯作流，本质上就是这套多  Agent 编排的具体实现。通过分步的剧本引导
+（ Playbook ），将研发任务标准化为理解、设计、编码、评审到验证的顺序阶段。它通过在本地
+
+并发调度⼦智能体（如分析⾏为的  /how 、审计⻛险的  /interrogate ）来各司职守。
+事实上， pstack 记录和提炼的，正是她从刚⼊职  Cursor 、对⽼代码库⼀⽆所知开始，在本地通
+过观察  Agent 反复出现的失败模式⽽逐个堆叠出的垂直验证技能（如  Control Glass ）。这种多
+Agent 协作流虽然在云端消耗巨⼤，但由于模型在本地运⾏时缺乏⽆限的上下⽂，要让它真正⾼
+置信度地跑通，代码库本⾝也得适合  Agent 接⼿。
+
+### Page 6
+
+GrokBot 最初是⼀个快速  Vibe Coding 出来的新应⽤，⼈类⼏乎没有读过代码，架构约束也不
+充分。这种模式下， Agent 在执⾏任务时会优先选择眼前最省事的写法，导致代码越堆越多，功
+能边界和性能⻛险彻底失控。要想让  Agent ⻓期安全地接⼿开发，代码库就必须改造得容易被
+模型理解，修改路径必须清晰、且⽆可逃避地被验证。
+为此， Lauren ⽤  600 多个  PR ，把  GrokBot 重构到⼀套内部代号为  Dune 的架构中，⼀些  PR
+⽐较微型，从⼏⼗⾏、⼏百⾏到⼀千⾏不等。在这种重构思路下， Dune 架构的  CI 检查极其严
+苛：全⾯禁⽤  useEffect 以消除隐式副作⽤；绝对禁⽌写注释，防⽌模型被包含过时历史信息的
+⽆⽤上下⽂误导⽽产⽣过度推断；同时严密校验依赖图，确保  Electron 的  main 和  renderer ⽬
+录绝不交叉导⼊。
+当这套⾼密度的重构护栏架设完成时，由于智能体爱⾛捷径的本能被  CI 红线强⾏扭转，整个系
+
+统的⽣命周期管理彻底⾛向⾃动化。
+在  Cursor 特定场景中，这套个⼈经验被打包成了  pstack ，内部包含  23 个  Playbook （⼯作流剧
+本）和  20 多条⼯程原则。它是  Lauren 试图把特定项⽬的纪律塑造成  Agent 跑通测试的 “ 唯⼀
+捷径 ” ，在⼀些⼈⼝中被捧上了天，但这套⾼度定制化的教条在通⽤开发场景下对普通开发者究
+竟有多少落地价值，在其复杂的配置成本⾯前，显然得打上⼀个问号。
+算⼒特权下的 “AI Slop” ⼯⼚
+这种依赖极致资源堆砌出来的交付模式，本质上是极少数⼈才能享有的资本特权。正如  Peter
+Steinberger 所直⾔的， “ 并⾮所有消耗都有⽤ ” ，这种流派的盲⽬消耗往往只是在试错。当这种
+脱离了商业  ROI （投资回报率）的极端案例被推向公共橱窗时， Reddit 等技术社区的⼯程师们
+⽴刻发起了猛烈的声讨。
+在  reddit 的热⻔讨论中，⼀线开发者们直⾔不讳地指出，这种每个⽉靠⽆限资⾦合⼊数千个  PR
+的狂热表现，根本不是什么软件⼯程的底层⾰命，⽽是在⽤完全不计成本的暴⼒算⼒，不知吞
+
+吐地向代码库⾥灌⼊⼤规模的 “AI Slop” （ AI 垃圾内容）。
+同⾏们的嘲讽直击这种暴⼒流派的软肋：软件开发真正的瓶颈从来不在于代码⽣成的 “ 绝对数
+量 ” ，⽽在于系统⻓期的可维护性。在普通⼯程师普遍低于  500 美元的⽉度  AI 预算⾯前，⼀旦
+剥去 “Token 消耗不限量 ” 的外⾐，缺乏深思熟虑的微型  PR 就会彻底失控。
+这种靠天价  Token 进⾏盲⽬试错和应激性防呆重构的流⽔线，看似缩短了交付路径，实则是将
+系统设计的主导权，从⼈类架构师的优雅全局思考，让渡给了机器在沙盒⾥的机械堆砌。这种
+
+### Page 7
+
+⻛险提⽰及免责条款
+市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂
+中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
+93 收藏 分享到 :
+写评论
+脱离群众的算⼒特权，最终留给⽣产环境的往往不是什么⾼效资产，⽽是让普通⼈在现实中根
+本⽆⼒维护的庞⼤技术债。
+但在商业营销的逻辑⾥，这笔巨⼤的算⼒消耗在宣传上确实值了。 T3 创始⼈  Theo 算过⼀笔
+账，他估算  Lauren 实际的 “ 内部价 ” 其实在每⽉  2.5 万到  5 万美元之间，并直⾔： “ 这类曝光的价
+值远不⽌每⽉  2.5 万美元；有些公司办活动花费超过  100 万美元，获得的关注还不如  Lauren 随
+⼿发的⼀条推⽂。 ” 从  Cursor 的⻆度来看，这更像是⼀场⽆解的公关神话，即使按传闻中每⽉花
+掉⼏百万美元，其产⽣的产品宣传和流量回报也完全超值。
+Lauren 本⼈也曾在访谈中回应了成本问题，承认了实验室特权对她⽅法论的绝对依赖： “ 我在
+
+AI 实验室⼯作， token 不限量，所以我不能说每个⼈都应该完全照着我的⽅法做。 ” 但她同时将这
+套逻辑定性为⼀种前期的投⼊产出⽐博弈：前期花  Token 重构、加约束，是为了让最基础的
+Agent 也能写好代码，从⽽让产品经理和设计师直接交付功能。 “Agent 的价值在于让你做以前
+做不到的事，不是把  Token 丢到每⼀个⼩问题上。 ”
+尽管她坚信 “ 不必花到倾家荡产，也有机会达到类似的状态 ” ，但这依然⽆法掩盖⼀个残酷的技术
+现实：没有实验室⽆限  Token 的底座⽀持，⾼频的⾃动化验证闭环根本⽆从谈起，这套⽅法论
+对成本极其敏感的普通客⼾和⽤⼾⽽⾔，⾼昂的验证开销意味着难以跨越的⻔槛。
+本⽂来源：InfoQ
+限免
+请发表您的评论
+
+### Page 8
+
+图⽚
+表情 发布评论
 
 ---
-## Document 708: 米国コアCPIが2カ月連続で予想上振れ(2026年9月) ～10月据え置きも12月追加利上げの確度高まる～
+## Document 649: 欧洲股市化身“反AI交易”避风港，防御性板块领涨十月行情
+
+Source PDF: all report pdf/欧洲股市化身“反AI交易”避风港，防御性板块领涨十月行情.pdf
+Report source: WallstreetCN (Global)
+Date: 2026-10-31
+Pages: 1
+Extraction status: ok
+
+[No extractable text after boilerplate filtering.]
+
+---
+## Document 677: 米国コアCPIが2カ月連続で予想上振れ(2026年9月) ～10月据え置きも12月追加利上げの確度高まる～
 
 Source PDF: all report pdf/米国コアCPIが2カ月連続で予想上振れ(2026年9月)  ～10月据え置きも12月追加利上げの確度高まる～.pdf
 Report source: DLRI
@@ -9874,223 +9572,174 @@ WTI期近物（左）
 (㌦/ﾊﾞﾚﾙ）
 
 ---
-## Document 743: 聯準會官員發言整理｜2026_10_27 15_13（台灣時間）
+## Document 698: 統計通報－115年前9月手機、筆電及平板電腦進口值年增23%、6%，平均單價上漲為要因 (2026-10-29)
 
-Source PDF: all report pdf/聯準會官員發言整理｜2026_10_27 15_13（台灣時間）.pdf
-Report source: researchmail轉寄
-Date: 2026-10-27
-Pages: 6
+Source PDF: all report pdf/統計通報－115年前9月手機、筆電及平板電腦進口值年增23%、6%，平均單價上漲為要因 (2026-10-29).pdf
+Report source: MOF
+Date: 2026-10-29
+Pages: 1
 Extraction status: ok
 
 ### Page 1
 
-From:    MacroMicro Research <research@macromicro.me>
-Subject: 聯準會官員發⾔整理｜ 2026/10/27 15:13 （台灣時間）
-Date:    2 hours ago
-MACROMICRO RESEARCH | FED WATCH
-聯準會官員發⾔整理｜ 2026/10/27 （台灣時間）
-涵蓋期間：近  14 天，美東時間  10/13 ⾄  10/26 。共整理  9 位官員，其中  5 位為  2026 年票委、 4 位為⾮
-票委，並標注發⾔⽇期與鷹鴿⽴場。 10/17 起進⼊  10 ⽉  FOMC 會前靜默期，實際發⾔集中在  10/13 ⾄
-10/15 。最後提出對政策路徑與資產配置的結論。
-鷹鴿光譜⼀覽
-粗體為  2026 年票委。
-最鷹 本期無
-鷹派 Beth Hammack、 Susan Collins
-偏鷹 Christopher Waller、 Austan Goolsbee 、 Thomas Barkin
+財政統計通報
 
-中性 Kevin Warsh、 Mary Daly
-偏鴿 John Williams、Michelle Bowman
-未表態 本期無
-• 票委陣營：近  14 天發⾔的  5 位票委中， Beth Hammack 最鷹，警告「通膨⼼態」⼀旦成形可能需要更強⼒
-升息，並認為⾦融條件沒有形成約束； Christopher Waller 認為  AI 需求帶來的通膨壓⼒可能延續兩到三年，
-但也指出⻑端殖利率⾛⾼已分擔部分緊縮。 Kevin Warsh 拒絕預告  10 ⽉決策， John Williams 與  Michelle
-Bowman 都強調不急，觀望派在票委中佔多數。
-• 鷹派集中在⾮票委：Susan Collins 明⾔年底前應再升息， Austan Goolsbee 稱  9 ⽉  CPI 「令⼈沮喪」並警告
-需求過熱， Thomas Barkin 也認為  CPI ⾼於預期；但他們今年沒有投票權，對  10 ⽉決策的直接影響有限，
-主要是替  12 ⽉升息鋪路。 Mary Daly 認同仍需升息，但明⾔  10 ⽉沒有急迫性。
+財政部統計處 
+115 年 10 月 29 日 
+（第 18 號） 撰稿人：蔡宗顯專員 
+聯絡人：殷英洳科長 
+聯絡電話：(02)23228341 
+115 年前 9 月手機、筆電及平板電腦進口值年增 23%、6%，平均單價上漲為要因 
+1. 隨科技快速發展，消費性電子產品在功能、規格及應用上持續演進，國內市場 需求亦隨各類產品
+更迭與消費者偏好而變化。手機兼具通訊、影音娛樂及數位服務等功能，為我國 頗具規模之進口
+消費品，其金額由 109 年 28.7 億美元增加至 114 年 34.4 億美元，近 4 年數量大約 6 百萬支左右；
+今(115)年 1-9 月進口值 25.4 億美元、年增 2 成 3，數量(385 萬支)大致持平，顯示進口值成長幾乎
+來自平均單價上漲，除與新機上市、高階機種占比提高等因素有關，亦反映 AI 需求排擠效應推升
+之記憶體等零組件成本壓力。筆電及平板電腦受新冠疫情帶動遠距商機，進口值於 110 年明顯成
+長，111 年達 21.1 億美元高點，今年前 9 月進口值年增 5.9%，平均單價隨成本而調升應是主因。 
+手機、筆電及平板電腦進口概況 
+單位：百萬美元；% 
+ 手機(851713、851714) 筆電及平板電腦(847130) 
+ 金額 數量(萬支) 平均單價(美元/支) 金額 數量(萬台) 平均單價(美元/台) 
+  年增率  年增率  年增率  年增率  年增率  年增率 
+109 年 2,874 -1.2 651 -16.6 441 18.5 1,306 12.5 240 10.4 545 1.9 
+110 年 3,403 18.4 671 3.0 507 15.0 1,980 51.6 333 39.1 594 8.9 
+111 年 3,191 -6.2 608 -9.3 524 3.3 2,107 6.4 380 13.9 555 -6.6 
+112 年 3,277 2.7 587 -3.5 558 6.4 1,241 -41.1 241 -36.6 515 -7.1 
+113 年 3,244 -1.0 596 1.6 544 -2.5 1,370 10.3 251 4.0 547 6.1 
+114 年 3,444 6.2 578 -3.1 596 9.6 1,558 13.8 276 10.1 565 3.3 
+115 年 1-9 月 2,540 23.0 385 0.03 659 23.0 1,267 5.9 210 0.4 604 5.5
 
-• 結論：市場已跟著觀望派票委調整。 9 ⽉  CPI 公布後， 10 ⽉升息機率⼀度升⾄約四成； Kevin Warsh 10/15
-發⾔期間由約  30% 降⾄約  17% 。 10/27 CME 顯⽰  10 ⽉按兵不動機率  89.5% ， 12 ⽉累計升息機率則達
-82.3% ，下⼀碼只是延到  12 ⽉，升息循環尚未結束。
-⼀、 2026 年票委（ 5 位，依鷹⾄鴿排列）
-票委 鷹派
-Beth Hammack   克⾥夫蘭  Fed 總裁
-發⾔重點
-10/15   在紐約⾼盛（ Goldman Sachs ）活動發⾔，這是會前靜默期前最後幾場官員發⾔之⼀；她最
-擔⼼的是家庭與企業形成「通膨⼼態」（ inflationary mindset ），讓物價壓⼒變得持久、更難控制。
+2. 電視機及顯示器進口於 110 年上升至 7.6 億美元，之後呈下降趨勢，或與疫情紅利消退、家庭娛樂
+型態轉變等有關，115 年 1-9 月則年增 12.2%。耳機進口金額自 109 年起落在 2.6~3.1 億美元，明顯
+高於 106 年以前未達 1 億美元之水準，主 因真無線藍牙耳機逐漸普及，加 上國際品牌陸續推出新品，
+今年 1-9 月年增 26.3%。揚聲器(喇叭)進口除 112 年衰退外，近年大致穩定成長，今年 1-9 月年增
+7.9%。 影像遊戲機輸入易受新品上市 、 通路備貨等影響而波動較大 ，今年前 9 月進口值年減 48.4%，
+除比較基期偏高外，遊戲主機廠商因應零組件成本上升調漲售價，不無影響消費者購買意願。 
+其他消費性電子產品進口值及其變動 1 
+單位：百萬美元；% 
+ 電視機及顯示器 2 耳機 3(851830) 揚聲器(85182) 影像遊戲機(950450) 
+  年增率  年增率  年增率  年增率 
+109 年 529 13.0 305 40.0 81 14.8 308 98.9 
+110 年 760 43.6 304 -0.5 104 28.5 243 -21.3 
+111 年 664 -12.6 298 -2.1 117 12.8 223 -7.9 
+112 年 559 -15.8 259 -12.9 107 -8.3 188 -16.0 
+113 年 587 5.0 292 12.9 116 7.6 99 -47.5 
+114 年 564 -4.0 309 5.9 125 8.1 258 162.4 
+115 年 1-9 月 441 12.2 258 26.3 97 7.9 113 -48.4
+
+資料來源：財政部關務署。 
+附註：1.本表選取手機、筆電及平板電腦以外之部分具代表性消費性電子產品 。 
+   2.稅則號別採 852859、852872 及 852873。3.耳機包含頭戴式及入耳式。
+
+---
+## Document 710: 美银Hartnett：AI与ABB的矛盾正在引爆，科技股真正的解压窗口要等到明年
+
+Source PDF: all report pdf/美银Hartnett：AI与ABB的矛盾正在引爆，科技股真正的解压窗口要等到明年.pdf
+Report source: WallstreetCN (Global)
+Date: 2026-10-30
+Pages: 5
+Extraction status: ok
+
+### Page 1
+
+美银警告，超⼤规模云⼚商发债激增， ABB （ Anything but Bonds ，远离债券）与 AI 的结
+构性⽭盾持续加剧，但美国投资级科技债相对整体债市回报已跌⾄ 30 年低点，反⽽成为 “ 被
+忽视的洼地 ” 。科技股真正迎来解压，或要等到 2027 年上半年，届时地缘政治缓和、油价下
+跌与加息周期终结有望推动⾦融条件宽松。
+摘要：
+AI 超⼤规模资本开⽀激增正与债券市场的结构性压⼒形成正⾯碰撞，令科技股⽜市承压。美银美
+林最新资⾦流向报告指出，这⼀⽭盾短期内难以化解，真正的⻛险资产解压窗⼝或需等到 2027
+年上半年。
+据美银美林全球投资策略团队 10 ⽉ 29 ⽇发布的《 Flow Show 》周报，AI 超⼤规模云计算企业
+（ hyperscaler ）的债务发⾏规模在 2026 年已达 1820 亿美元，较 2024 年的 170 亿美元急剧膨
+胀，由此引发的债券供给冲击正在压制科技债表现 —— 美国投资级科技债相对于整体投资级债
+券指数的总回报已跌⾄ 30 年低点。
+
+与此同时，过去六个⽉全球央⾏累计加息 42 次，美元⾛强、美债收益率上⾏、科技股领涨势头
+明显受阻，纳斯达克 100 指数触及 30000 点上限，费城半导体指数较⾼点下跌 20% 。
+美银策略师 Michael Hartnett 在报告中指出，政策制定者不会允许债券收益率⽆序上升威胁股市
+财富及银⾏体系抵押品，收益率曲线控制（ YCC ）或量化宽松（ QE ）的威胁将有效压制债券收
+益率。
+但⻛险资产和 AI 股票的真正解压，仍有赖于债券收益率下⾏与⾦融条件宽松，⽽这⼀ " 释压阀 " 最
+可能在 2027 年上半年通过地缘政治和平进展、油价⼤幅下跌以及加息周期终结来实现。本周全
+球股票资⾦流⼊ 566 亿美元，中国股市单周流⼊ 257 亿美元，创 2025 年 4 ⽉以来最⼤规模。
+AI 资本开⽀激增，科技债沦为 " 被忽视的洼地 "
+AI 超⼤规模企业的资本⽀出扩张正在重塑债券市场格局。
+据美银数据，相关企业⾃由现⾦流预计将从 2024 年的 2400 亿美元骤降⾄ 2027 年的负 1800 亿美
+
+元，⽽资本开⽀则从 2024 年的 2400 亿美元飙升⾄ 2027 年预估的 1.2 万亿美元。
+⾸⻚ 资讯 快讯 ⾏情 ⽇历 APP VIP 会员 ⼤师课 ⻅闻历 搜索
 
 ### Page 2
 
-10/15   若⼤眾的通膨預期明顯惡化， Fed 可能需要更積極地升息；但她沒有對  10 ⽉會議給出明確
-指引。
-10/15   認為⾦融條件⼤致中性，「我感受不到來⾃⾦融條件的約束」；借貸成本上升後科技投資仍
-在持續，暗⽰⽬前政策可能還不夠緊縮。
-10/15   企業普遍反映投⼊成本壓⼒沉重，低收⼊族群也難以負擔物價；她認為中性利率難以精確
-估計。
-票委 偏鷹
-Christopher Waller  Fed 理事
-發⾔重點
-10/13   在新德⾥  Bloomberg New Economy Forum 表⽰， AI 基建擴張已在推升需求，相關通膨壓⼒
-「可能持續兩到三年」，因為業者已承諾未來的⼤額⽀出。
-10/13   雲端巨頭（ hyperscalers ）仍計劃在未來三年投⼊數兆美元， AI ⽣產⼒效益「還要幾年」才
-會出現；這股需求壓⼒可能持續存在， Fed 必須決定如何回應。
-10/13   ⻑端美債殖利率上升正在壓抑房市、汽⾞等利率敏感部⾨，「做了⼀部分⼯作」，雖然這不
-
-是  Fed 刻意追求的結果。
-10/13   通膨預期仍穩定錨定，殖利率上升並⾮來⾃通膨溢酬；但他直⾔美債的安全與流動性溢價
-「已經消失」。
-票委 中性
-Kevin Warsh  Fed 主席
-發⾔重點
-10/15   在曼⾕  IMF ∕世界銀⾏年會與  IMF 總裁  Kristalina Georgieva 對談，拒絕預告  10 ⽉與  12 ⽉
-決策：「我不預判會議結果」，延續不提供前瞻指引的⽴場。
-10/15  強調  Fed 已明確承諾實現物價穩定；全球多數央⾏正「同步緊縮」，「沒有搭便⾞的⼈」。
-10/15   把  AI 熱潮視為通膨衝擊：晶⽚、資料中⼼與電⼒投資「先打到需求⾯，再打到供給⾯」；
-⻑期將帶來巨⼤效益，但過程「很可能⾮常顛簸」，尤其對就業。
-10/15   點名戰爭與軍事衝突、 AI 投資潮是推⾼通膨的兩⼤來源；全球經濟韌性超出他五、六個⽉
-前的預期。
-市場   發⾔期間期貨隱含的  10 ⽉升息機率由約  30% 降⾄約  17% ，美元⾛弱、美股期貨上漲。
-
-票委 偏鴿
-John Williams   紐約  Fed 總裁
-發⾔重點
-10/13   接受  Bloomberg 專訪：「我沒有改變看法，今年可能適合再升息⼀次」，但⽬前沒有理由認
-為  2027 年需要再升息。
+为填补这⼀资⾦缺⼝，超⼤规模企业⼤举发债。 2026 年债务发⾏规模已达 1820 亿美元，同期股
+票发⾏规模为 890 亿美元，⽽ 2024 年债务发⾏仅为 170 亿美元。⼤规模股票融资意味着⼤规模股
+票回购时代宣告终结 —— 超⼤规模企业回购规模已从 2024 年的 1050 亿美元骤降⾄ 2026 年年化约
+140 亿美元。
+美银认为，上述背景使科技债成为 " 被忽视的洼地 " （ diamonds in the rough ）。美国投资级科
+技债相对于整体投资级债券指数的总回报已处于 30 年低点。从具体收益率来看， META 、亚⻢
+逊、⾕歌、英伟达等科技巨头的⻓期投资级债券收益率普遍在 6% ⾄ 8% 区间，部分⾼收益级别债
+券收益率更⾼达 9% ⾄ 14% （⻅表 1 ）。美银建议投资者关注这⼀相对价值机会。
+"ABB" 与 AI 的结构性⽭盾
+美银将 2020 年代的资产配置格局概括为四⼤超级趋势，其中包括 ABB （ Anything but Bonds ，
+远离债券）、 ABD （ Anything but Dollar ，远离美元）以及 AI （⼈⼯智能）。
 
 ### Page 3
 
-10/13   預期關稅與能源效應消退後，通膨明年將明顯放緩、接近  2% ；「這不是⼀個整體過熱的經
-濟」，也看不到勞動市場推升通膨。
-10/13   估計實質中性利率約  1% 或略⾼；若經濟如他預期發展，「我們離中性並不遠」。
-10/13  AI 相關需求跑在供給前⾯，需要時間化解，他會密切觀察這部分通膨。
-市場   市場普遍把這番話解讀為升息循環接近尾聲， 10 ⽉升息預期隨之降溫。
-票委 偏鴿
-Michelle Bowman  Fed 監理副主席
-發⾔重點
-10/14   在曼⾕  IIF 年會對談（美東清晨，早於當天公布的  9 ⽉  CPI ）表⽰：「我⽬前不覺得有任何
-急迫性要採取進⼀步⾏動」。
-10/14   「在採取更多⾏動前，我們有時間等待並觀察⾦融條件如何演變」，希望先評估  9 ⽉升息的
-效果。
-10/14   談到資料中⼼建設的資⾦需求，「我們必須考慮資⾦從何⽽來」；主張銀⾏要有能⼒⽀持新
-興產業投資，並希望把  2008 年後被推出正式體系的部分⾦融活動拉回來。
+如今， ABB 与 AI 之间的内在张⼒正⽇益凸显。
+报告指出，从巴西、法国社会动荡到英国预算争议，全球选⺠普遍要求政府加⼤⽀出以应对不
+平等，政府深知紧缩政策⾯临社会⻛险，政治⺠粹主义与极化趋势难以逆转。这意味着资产配
+置者将维持结构性低配债券、持有收益率曲线陡峭化头⼨的⽴场。
+然⽽，正是这种 "ABB" 逻辑推⾼的债券收益率，正在对 AI 股票⽜市形成制约 —— 债券市场正在
+充当 AI 超⼤规模资本开⽀激增的 " 纪律执⾏者 " 。美银指出，尽管政策层⾯的 YCC/QE 威胁将有效
+压制债券收益率的⽆序上⾏，但⻛险资产和 AI 股票的真正反弹，需要债券收益率实质性下⾏和⾦
+融条件宽松，⽽这⼀条件的成熟最可能依赖于：地缘政治和平进展带来的油价⼤幅下跌，以及
+全球加息周期的终结 —— 美银将这⼀窗⼝指向 2027 年上半年。
+本周资⾦流向：中国创逾年新⾼，⻩⾦⾸现净流出
+本周全球资⾦流向呈现明显分化。股票资⾦净流⼊ 566 亿美元（其中 ETF 流⼊ 759 亿美元，主动
+型基⾦流出 196 亿美元），债券净流⼊ 154 亿美元，现⾦净流⼊ 34 亿美元，加密货币净流出 5 亿美
 
-10/14   當晚在曼⾕演講談矽⾕銀⾏（ SVB ）後的監理改⾰：監理單位⾄少在接管前九個⽉就已掌
-握其利率與流動性⾵險，主張監理應聚焦核⼼財務⾵險；此場未對貨幣政策發表評論。
-⼆、 2026 年⾮票委（ 4 位，依鷹⾄鴿排列）
-⾮票委 鷹派
-Susan Collins   波⼠頓  Fed 總裁（ 2028 年票委）
-發⾔重點
-10/13   在波⼠頓  Fed 區域與社區銀⾏家會議演講：「年底前再⼩幅升息將是適當的」，時點與幅度
-取決於整體數據。
-10/13   ⽀持  9 ⽉升息  1 碼；通膨居⾼不下的⾵險⼤於實體經濟轉弱， FOMC 應把重⼼放在雙重使
-命的通膨端。
-10/13  8 ⽉  PCE 年增  3.4% 、核⼼約  3% ，通膨「已明顯⾼於  2% ⻑達五年半」；航空燃油、柴油與
-取暖油等精煉油品價格近期跳升，未來幾個⽉通膨仍將⾼於⽬標。
-10/13  AI 資料中⼼投資是需求強勁的來源，可能讓降通膨更困難；但  AI 帶來的效率提升也可能擴
-⼤產能，讓經濟在不過熱下成⻑更快。
+元，⻩⾦净流出 17 亿美元。
+值得关注的具体流向包括：中国股市单周流⼊ 257 亿美元，为 2025 年 4 ⽉以来最⼤规模；⽇本股
+市流⼊ 68 亿美元，为 2013 年 5 ⽉以来最⼤单周流⼊；欧洲股市流出 23 亿美元，为 2026 年 7 ⽉以来
+最⼤单周流出；⻩⾦出现 2026 年 7 ⽉以来⾸次净流出； TIPS 流⼊ 11 亿美元，为 2026 年 6 ⽉以来最
+⼤规模，显⽰通胀预期升温。
+按板块看，科技板块连续第五周录得净流⼊（ 53 亿美元），材料板块流出 12 亿美元，为 2026 年 7
+⽉以来最⼤。美银私⼈客⼾资产管理规模达 4.6 万亿美元，股票配置⽐例为 66% ，债券 17.5% ，
+现⾦ 9.4% ；过去四周，私⼈客⼾持续买⼊市政债、⼯业及医疗保健 ETF ，卖出必需消费品、新
+兴市场债务及可选消费品 ETF 。
+⽜熊指标回落，选举⻛险浮现
+美银⽜熊指标（ Bull & Bear Indicator ）本周从 7.2 ⼩幅回落⾄ 7.1 ，当前信号为 " 中性 " 。指标回落
 
-10/13   勞動市場⼤致平衡；另外兩種情境「幾乎和基準情境⼀樣可能」，且都意味通膨更久⾼於⽬
-標。
-⾮票委 偏鷹
-Austan Goolsbee   芝加哥  Fed 總裁（ 2027 年票委）
+主要受全球股票指数⼴度⾛弱、⾼收益债及次级银⾏债利差⾛阔拖累，部分被强劲的股票资⾦
+流⼊所抵消。
 
 ### Page 4
 
-發⾔重點
-10/14   在  NPR 與  Yahoo Finance 評論  9 ⽉  CPI ：數據「令⼈沮喪」， 9 ⽉核⼼通膨年化約  4% ，與⽬
-標不相容，再多幾個這樣的⽉份將「完全無法接受」。
-10/14   服務業通膨⾼於  5% ，「⾼得令⼈不安」，且無法⽤關稅或油價解釋；核⼼商品通膨也沒有如
-預期回落。
-10/14   擔⼼通膨正從可能⾃然消退的衝擊，轉向「⽼派的需求過熱」； AI 資料中⼼投資推升營建成
-本、電⼦零組件、電⼯薪資、⼟地與軟體價格。
-10/14   對於⽬前利率是否⾜以讓通膨回到  2% ，「我們還不知道答案」，需要更多數據確認核⼼通膨
-趨勢； Fed 必須防⽌過熱累積。
-10/14   勞動市場「⾮常穩定」，中⻄部企業談成本多、談衰退少。
-⾮票委 偏鷹
-Thomas Barkin   ⾥奇蒙  Fed 總裁（ 2027 年票委）
-發⾔重點
-10/13   在  Howard University 發⾔： 2% 通膨「不是獨⾓獸，是可以達成的⽬標」，但通膨具持久
+⻛险提⽰及免责条款
+市场有⻛险，投资需谨慎。本⽂不构成个⼈投资建议，也未考虑到个别⽤⼾特殊的投资⽬标、财务状况或需要。⽤⼾应考虑本⽂
+中的任何意⻅、观点或结论是否符合其特定状况。据此投资，责任⾃负。
+300 收藏 分享到 :
+写评论
+在政治⻛险⽅⾯，美银指出，⺠主党横扫（ DEM sweep ）的⻛险正在被市场定价，但⺠主党⼤
+幅赢得参议院 53 席及债券收益率跳升的情景尚未被充分定价。⽆论选举结果如何，选⺠对 " 可负
+担性 " 的诉求对科技、银⾏及能源垄断企业构成负⾯影响，对可选消费品板块则相对有利。
+在中国⽅⾯，美银指出，中国债券收益率创新低、⼈⺠币兑台币过去⼀年升值逾 20% 、中国科
+技股（ CQQQ ）⾃ 6 ⽉以来下跌 32% ，中国通缩已成为全球性问题。美银建议在 2027 年上半年做
+空油价，理由是和平进展将推升供给；但若油价下跌未能带动欧元和⽇元反弹，则将是中国通
+缩成为全球新负⾯因素的重要信号。
+2026 年资产回报：⼤宗商品领跑，债券垫底
+从年初⾄今的跨资产表现来看，⼤宗商品以 91.6% 的涨幅⾼居榜⾸，原油（ WTI ）年内涨幅达
 
-性、衝擊仍在持續，「對通膨採取⾏動是合理的」。
-10/13  表⽰可以看到  AI 投資正在影響美國通膨。
-10/14   在  ChamberRVA 活動表⽰， 9 ⽉  CPI 「⾼於我的期望」，但「不想預判  10 ⽉  FOMC 的結
-果」，要先看隔天公布的  PPI 。
-10/14   「毫無疑問，經濟的投資⾯主要來⾃  AI 」，但「不能指望  AI 投資永遠成⻑」；⽬前「沒有
-看到⼤規模的  AI 失業」。
-⾮票委 中性
-Mary Daly   舊⾦⼭  Fed 總裁（ 2027 年票委）
-發⾔重點
-10/14   接受  Reuters 專訪：「⽐較可能需要進⼀步調整」，但時點仍在討論。
-10/14   「我不覺得必須在資訊有限的情況下急著決定」，「我們有需要的時間」；認為  10 ⽉會議沒
-有⾏動的理由。
-10/14  9 ⽉數據「確實顯⽰通膨⾵險仍然偏⾼」，核⼼通膨黏著，⼤致符合  Fed 預期。
-10/14   「⾵險不是現實」，在還有時間時就對⾵險採取⾏動「顯得不夠審慎」；「何必在不需要時製
-
-造急迫感？」後⾯還有會議。
-結論
-數據更新⾄  2026-10-27 。
-四⼤結論
+79% 。美国股票上涨 14% ，全球股票上涨 9.6% ，美元上涨 3.9% ，现⾦回报 3.1% 。⾼收益债⼩幅
+下跌 0.5% ，投资级债券下跌 2.5% ，政府债券下跌 3.3% ，⻩⾦下跌 7.1% ，⽐特币下跌 8.4% 。
+从 2020 年代整体来看，美银数据显⽰， 10 年期美国国债年化回报为负 4% ，⻩⾦年化回报为
+15% ，纳斯达克指数年化回报为 17% ，印证了 ABB 、 ABD 及 AI 等四⼤超级趋势的持续有效性。
+限免
+请发表您的评论
 
 ### Page 5
 
-1  10 ⽉按兵不動、 12 ⽉升息⼀碼是基準情境，暫停不代表轉鴿。主張不急的票委是  Michelle
-Bowman 與  John Williams ， Kevin Warsh 不給指引， Mary Daly 也明⾔  10 ⽉不必⾏動； 10/2 公布
-的  9 ⽉⾮農僅增  2.9 萬、失業率升⾄  4.2% ，讓觀望派有理由等待。但通膨沒有降溫： 9 ⽉  CPI 年
-增  3.7% 、核⼼  CPI ⽉增  0.33% ， 9 ⽉  ISM 服務業物價指數  74.0 、創  2022 年  7 ⽉以來新⾼。 10/27
-CME 顯⽰  10 ⽉按兵不動機率  89.5% 、 12 ⽉累計升息機率  82.3% ，短端利率難有下⾏空間。
-2   預期能否逆轉，關鍵在油價與核⼼服務通膨。 10/27 布蘭特油價盤中約每桶  110.7 美元，仍遠⾼
-於  100 美元關⼝。若  10/29 公布的  9 ⽉核⼼  PCE 與  11/10 公布的  10 ⽉  CPI 顯⽰租⾦與服務價格
-
-續升， 12 ⽉升息將近乎確定， 2027 年也可能不只再升⼀碼，這正是  Beth Hammack 擔⼼的通膨⼼
-態與  Austan Goolsbee 警告的需求過熱。反之，若  11/6 公布的  10 ⽉⾮農接近零、零售連續負成
-⻑，需求破壞取代通膨成為主要⾵險，暫停才會延⻑。
-3   存續期間維持偏短，短天期國庫券是等待資⾦的⾸選。 10 年期美債殖利率  10/26 報價約
-4.99% ，較  10 ⽉中約  5.3% 的⾼點回落； 10/26 兩年期標售得標殖利率  4.708% ，較前次低約  8 個
-基點。 Christopher Waller 認為⻑端⾛⾼已分擔部分緊縮，但也直⾔美債安全溢價「已經消失」，期
-限溢價難以快速收斂。要等核⼼通膨連續降溫、期限溢價收斂、多次標售需求穩定三者同時出
-現，才分段拉⻑存續期間。
-4   股票維持⾼品質核⼼，⿈⾦與美元各司其職。官員普遍把  AI 投資視為短期通膨來源，資⾦成
-本居⾼不下時，美股與台股的  AI 部位要⽤⾃由現⾦流、在⼿訂單轉營收與資本報酬率驗證，避
-
-開⾼槓桿新雲端業者與  CCC 級信⽤。⿈⾦  10/27 約每盎司  4,010 美元， 10/23 ⼀度跌⾄  3,975 美元
-的三個⽉低點；實質利率上升期間維持  10%–15% 的分批避險部位，暫緩加碼。美元指數約
-102.1 ，保留美元短券作為流動性即可，不宜因官員偏鷹就單邊押注美元⾛強。
-近期觀察⽇曆
-10/27–28 10 ⽉  FOMC （決議美東  10/28 14:00 、台灣  10/29 02:00 ）， Kevin Warsh 會後記者會
-10/29 美國第三季  GDP 初值、 9 ⽉  PCE ；會前靜默期結束
-11/2 美國  10 ⽉  ISM 製造業指數
-11/3 美國期中選舉
-11/4 美國  10 ⽉  ISM 服務業指數（預計）、財政部季度再融資聲明（ QRA ，預計）
-11/6 美國  10 ⽉⾮農就業
-11/10 美國  10 ⽉  CPI
-11/18 10 ⽉  FOMC 會議紀要
-12/8–9 12 ⽉  FOMC （含點陣圖與經濟預測）
-
-資料說明與待確認
-1. 發⾔⽇期為美東時間。 Kevin Warsh 與  IMF 總裁的對談在美東  10/15 23:30 ，即曼⾕當地  10/16 ，多數媒體標為
-10/16 ； Michelle Bowman 的  IIF 對談在美東  10/14 05:40 ，早於當天  08:30 公布的  9 ⽉  CPI 。 10 ⽉  FOMC 決議⽇美東為
-10/28 ，台灣時間為  10/29 。
-2. 2026 年  FOMC 票委： 7 位理事（ Kevin Warsh 、 Philip Jefferson 、 Michelle Bowman 、 Christopher Waller 、 Michael
-Barr 、 Lisa Cook 、 Jerome Powell ）、紐約  Fed 總裁，以及輪值的克⾥夫蘭、費城、達拉斯、明尼亞波利斯  4 位分⾏總
-裁。⾮票委括號內為下次輪值年份。
-3. 鷹鴿標記為本輪升息循環內的相對⽴場，僅依  10/13 以後的發⾔判斷。 Beth Hammack 列鷹派⽽⾮最鷹，因她未明
-
-確主張  10 ⽉升息； Mary Daly 認同仍需升息但否定急迫性，列中性。
-
-### Page 6
-
-4. 各媒體說法不⼀之處： Beth Hammack 10/15 的⾼盛活動未公布講稿，報導多為轉述； Thomas Barkin 10/13 場合有報
-導為  Howard University ，⾥奇蒙  Fed 未公布講稿；有報導把  Kevin Warsh 的  IMF 發⾔誤植為  Neel Kashkari ，本表以
-Fed 官網⾏事曆為準。
-5. 近  14 天未查到貨幣政策公開發⾔⽽未列⼊： Philip Jefferson 、 Michael Barr 、 Lisa Cook 、 Jerome Powell 、 Lorie
-Logan 、 Neel Kashkari 、 Anna Paulson 、 Alberto Musalem 、 Jeff Schmid ，以及亞特蘭⼤  Fed （總裁出缺，由第⼀副總裁
-Cheryl Venable 代理）。 Beth Hammack 10/12 、 Alberto Musalem 10/8 ⾄  10/9 的發⾔早於涵蓋期間，已排除； Lisa Cook
-
-10/13 的新聞只涉及⽩宮聽證程序，與政策無關。
-6. 即將發⾔： 10/28 Kevin Warsh 會後記者會； 10/29 靜默期結束後官員將陸續發⾔，具體場次尚待確認。
-7. 結論引⽤的  CME 機率更新⾄  10/27 台灣時間；殖利率、油價、⾦價與美元指數取⾃  10/26 ⾄  10/27 報價；⾮農、
-CPI 、 PCE 與  ISM 均為最新公布值。
-資料同步時間
-財經快訊同步：台灣時間  10/27 14:58 ；⾏情報價  10/27 14:59 。官員發⾔取⾃  Fed 官網、各地區  Fed 官
-網、 Reuters 、 Bloomberg 、 CNBC 、 NPR 、 Yahoo Finance 等公開報導。
-本內容不構成個⼈投資建議。
+图⽚
+表情 发布评论
